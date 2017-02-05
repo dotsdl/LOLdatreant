@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Spornts,Braum,False,Side.blue,1,5,6,1.4,28,Flash,Exhaust,11,False,6887,6685,Locket of the Iron Solari,Sightstone,Boots of Mobility,,Refillable Potion,Face of the Mountain,5514,3087,Lane.bot_lane,Role.support
+1,SünWuKong,Wukong,False,Side.blue,2,2,3,2.5,183,Flash,Teleport,13,False,9404,9025,Tiamat,Youmuu's Ghostblade,Corrupting Potion,Ninja Tabi,The Black Cleaver,,1658,100819,Lane.top_lane,Role.solo
+2,Kvar,Varus,False,Side.blue,2,7,2,0.5714285714285714,210,Flash,Heal,13,False,9519,9300,Doran's Blade,Manamune,Youmuu's Ghostblade,Caulfield's Warhammer,Phage,Boots of Swiftness,4036,103109,Lane.bot_lane,Role.carry
+3,jacksparrow111,Graves,False,Side.blue,7,8,4,1.375,165,Smite,Flash,14,False,11239,11200,Enchantment: Warrior,Statikk Shiv,Control Ward,The Bloodthirster,,Berserker's Greaves,22384,135230,Lane.jungle,Role.none
+4,Unknown Emp,Syndra,False,Side.blue,3,6,2,0.8333333333333334,163,Ignite,Flash,13,False,9090,8785,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,94720,8486,Lane.mid_lane,Role.solo
+5,xVip3R,Shyvana,True,Side.red,3,3,6,3.0,178,Smite,Exhaust,15,False,11954,11025,Enchantment: Bloodrazor,Refillable Potion,Spectre's Cowl,Mercury's Treads,Sunfire Cape,Dead Man's Plate,87160,73989,Lane.jungle,Role.none
+6,NikuNikuNii,Twitch,True,Side.red,12,4,3,3.75,209,Heal,Flash,15,True,14127,11925,Quicksilver Sash,Infinity Edge,Statikk Shiv,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,10047,141359,Lane.bot_lane,Role.carry
+7,ToxicGreenie QwQ,Karma,True,Side.red,1,2,20,10.5,18,Exhaust,Flash,13,False,10456,8710,Redemption,Eye of the Watchers,Locket of the Iron Solari,Amplifying Tome,Ionian Boots of Lucidity,,17459,6193,Lane.bot_lane,Role.support
+8,PIay Naizi,Jayce,True,Side.red,4,2,7,5.5,189,Teleport,Flash,15,False,12240,10350,Doran's Blade,Last Whisper,Maw of Malmortius,The Black Cleaver,,Ninja Tabi,12537,107849,Lane.top_lane,Role.solo
+9,adc feng lft,Ekko,True,Side.red,8,4,10,4.5,217,Teleport,Flash,16,False,14070,12610,Rabadon's Deathcap,Lich Bane,Sorcerer's Shoes,The Dark Seal,Abyssal Scepter,Amplifying Tome,150869,23948,Lane.mid_lane,Role.solo

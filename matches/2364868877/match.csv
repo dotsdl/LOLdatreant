@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GowaSan,Jax,True,Side.blue,14,1,8,22.0,250,Ignite,Flash,16,True,15343,13383,Hextech Gunblade,Randuin's Omen,Trinity Force,Chain Vest,Doran's Blade,Mercury's Treads,39467,136637,Lane.top_lane,Role.solo
+1,l u,Blitzcrank,True,Side.blue,0,8,7,0.875,63,Exhaust,Flash,13,False,8099,6775,Face of the Mountain,Sightstone,Boots of Mobility,Righteous Glory,,,20604,12564,Lane.bot_lane,Role.support
+2,Armotonkovis,Kennen,True,Side.blue,7,3,11,6.0,178,Flash,Heal,15,False,12201,9700,Refillable Potion,Zeal,Berserker's Greaves,Doran's Blade,Infinity Edge,Runaan's Hurricane,38571,90263,Lane.bot_lane,Role.carry
+3,Zeus,Morgana,True,Side.blue,4,2,16,10.0,142,Flash,Ignite,15,False,10662,9050,Zhonya's Hourglass,Refillable Potion,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,66403,16233,Lane.jungle,Role.none
+4,Ðøsage,Graves,True,Side.blue,8,5,5,2.6,98,Smite,Flash,13,False,10105,8725,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,Long Sword,Hexdrinker,Long Sword,1634,79191,Lane.jungle,Role.none
+5,rslCPm3Tgc,Ezreal,False,Side.red,7,5,5,2.4,162,Flash,Heal,12,False,10312,10458,Quicksilver Sash,Manamune,Trinity Force,Ionian Boots of Lucidity,Vampiric Scepter,,21888,70250,Lane.bot_lane,Role.duo
+6,IchigoCarriesYou,Master Yi,False,Side.red,6,6,3,1.5,180,Smite,Flash,15,False,11579,10375,Chain Vest,Blade of the Ruined King,Quicksilver Sash,Recurve Bow,Enchantment: Bloodrazor,Berserker's Greaves,2745,169288,Lane.jungle,Role.none
+7,King SickMotion,Fiora,False,Side.red,1,10,2,0.3,177,Teleport,Flash,13,False,8855,8750,The Black Cleaver,Ravenous Hydra,Doran's Blade,Mercury's Treads,Ruby Crystal,,692,91199,Lane.top_lane,Role.solo
+8,MiIey Dyrus,Viktor,False,Side.red,4,4,3,1.75,157,Cleanse,Flash,13,False,8854,9000,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Perfect Hex Core,Blasting Wand,,,80728,10726,Lane.mid_lane,Role.solo
+9,Added,Sion,False,Side.red,1,8,14,1.875,75,Flash,Exhaust,12,False,8245,8100,Face of the Mountain,Knight's Vow,Sightstone,Ninja Tabi,Glacial Shroud,Cloth Armor,29136,28083,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Perrito,Zac,False,Side.blue,4,4,4,2.0,86,Smite,Flash,10,False,6812,6825,Enchantment: Cinderhulk,Spirit Visage,Mercury's Treads,,,,51135,15019,Lane.jungle,Role.none
+1,JoDa Fucking Pen,Nasus,False,Side.blue,0,4,2,0.5,121,Teleport,Flash,11,False,6186,5450,Corrupting Potion,Doran's Ring,Doran's Ring,Zz'Rot Portal,Ninja Tabi,Sapphire Crystal,41671,13232,Lane.top_lane,Role.solo
+2,cùrz,Thresh,False,Side.blue,2,7,4,0.8571428571428571,19,Flash,Ignite,9,False,5101,4050,Ruby Sightstone,Control Ward,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Relic Shield,Kindlegem,5142,3752,Lane.bot_lane,Role.support
+3,Stephane Ouellet,Gangplank,False,Side.blue,2,4,0,0.5,142,Flash,Teleport,12,False,7371,7108,Trinity Force,Refillable Potion,Hexdrinker,Ionian Boots of Lucidity,Pickaxe,,2081,81501,Lane.mid_lane,Role.solo
+4,Goxtry,Ezreal,False,Side.blue,2,8,5,0.875,130,Heal,Flash,11,False,6771,6000,Doran's Blade,Manamune,Iceborn Gauntlet,,Boots of Speed,,6637,54786,Lane.bot_lane,Role.carry
+5,1ncomparabIe,Lee Sin,True,Side.red,3,2,10,6.5,120,Smite,Flash,12,False,8478,7110,Tiamat,Sightstone,Giant's Belt,Boots of Mobility,Enchantment: Warrior,Cloth Armor,13297,92216,Lane.jungle,Role.none
+6,LÌn,Jhin,True,Side.red,5,2,5,5.0,184,Heal,Flash,12,False,9817,8750,,,Pickaxe,Rapid Firecannon,Essence Reaver,Boots of Swiftness,4705,99901,Lane.bot_lane,Role.carry
+7,adc feng lft,Jayce,True,Side.red,4,1,4,8.0,170,Ignite,Flash,13,False,8657,7225,Long Sword,The Black Cleaver,Boots of Speed,Lord Dominik's Regards,,Doran's Blade,9351,80055,Lane.top_lane,Role.solo
+8,nackksi,Leona,True,Side.red,1,3,13,4.666666666666667,20,Exhaust,Flash,10,False,6122,5875,Face of the Mountain,Control Ward,Ruby Sightstone,,Boots of Mobility,Crystalline Bracer,8132,5167,Lane.bot_lane,Role.support
+9,t d,Ryze,True,Side.red,14,2,2,8.0,150,Ghost,Flash,13,True,10499,8100,Archangel's Staff,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,The Dark Seal,Fiendish Codex,85971,7395,Lane.mid_lane,Role.solo

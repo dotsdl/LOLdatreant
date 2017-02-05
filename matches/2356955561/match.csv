@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Catch the Spirit,Ekko,False,Side.blue,4,11,5,0.8181818181818182,255,Cleanse,Flash,18,False,14681,15004,Mercury's Treads,Hextech Protobelt-01,Wooglet's Witchcap,Lich Bane,Morellonomicon,,174067,24650,Lane.mid_lane,Role.none
+1,Unstopebble,Cassiopeia,False,Side.blue,11,8,8,2.375,338,Flash,Cleanse,18,True,19411,19520,Seraph's Embrace,Rylai's Crystal Scepter,Liandry's Torment,Abyssal Scepter,Morellonomicon,Void Staff,258975,12606,Lane.mid_lane,Role.none
+2,JaMaarkques,Sion,False,Side.blue,6,13,10,1.2307692307692308,159,Smite,Flash,18,False,14729,14275,Mercury's Treads,Enchantment: Cinderhulk,Frozen Mallet,Titanic Hydra,Spirit Visage,Giant's Belt,68143,129046,Lane.mid_lane,Role.none
+3,Functional,Brand,True,Side.red,9,11,12,1.9090909090909092,237,Flash,Ignite,18,False,16462,15600,Wooglet's Witchcap,Blasting Wand,Rylai's Crystal Scepter,Sorcerer's Shoes,Liandry's Torment,Morellonomicon,190128,13000,Lane.bot_lane,Role.carry
+4,anticipate,Gnar,True,Side.red,15,2,9,12.0,330,Ignite,Flash,18,False,20808,17350,Blade of the Ruined King,Spirit Visage,Mercury's Treads,Maw of Malmortius,The Black Cleaver,Frozen Mallet,33500,269221,Lane.jungle,Role.none
+5,Factional,Maokai,True,Side.red,8,8,17,3.125,146,Flash,Smite,18,False,15646,15325,Redemption,Boots of Swiftness,Knight's Vow,Spirit Visage,Abyssal Scepter,Enchantment: Cinderhulk,133421,41929,Lane.bot_lane,Role.support

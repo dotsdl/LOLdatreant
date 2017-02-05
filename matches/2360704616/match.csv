@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ryan Ni,Fiora,True,Side.blue,5,0,1,6.0,90,Flash,Ignite,9,True,6960,5200,Tiamat,Doran's Blade,The Black Cleaver,Boots of Speed,,,611,49623,Lane.top_lane,Role.solo
+1,ZTG SolidSnake,Rumble,True,Side.blue,1,1,5,6.0,76,Flash,Smite,8,False,6066,3875,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,,,,39005,12275,Lane.jungle,Role.none
+2,TheBolvar,Gangplank,True,Side.blue,2,1,1,3.0,77,Flash,Teleport,8,False,5623,4200,Corrupting Potion,Sheen,Boots of Speed,Phage,Stinger,,1236,41097,Lane.mid_lane,Role.solo
+3,gtaremins,Thresh,True,Side.blue,1,0,5,6.0,16,Exhaust,Flash,7,False,4590,3300,Relic Shield,Refillable Potion,Ruby Sightstone,Boots of Mobility,,,5051,4892,Lane.bot_lane,Role.duo
+4,Axxxxxxxxxxxxxxx,Ezreal,True,Side.blue,4,0,1,5.0,96,Flash,Heal,8,False,6444,4700,Doran's Blade,Manamune,Boots of Speed,Sheen,Dagger,,7022,31920,Lane.bot_lane,Role.duo
+5,Hanjaro,Lulu,False,Side.red,0,4,2,0.5,12,Flash,Exhaust,7,False,2618,1925,Sightstone,Frostfang,,,,,4816,2724,Lane.bot_lane,Role.duo
+6,LegitADC,Corki,False,Side.red,1,2,0,0.5,44,Exhaust,Flash,6,False,3023,2650,Ruby Crystal,Doran's Blade,Sheen,Boots of Speed,Long Sword,,13037,4275,Lane.mid_lane,Role.solo
+7,Baeflone,Riven,False,Side.red,1,4,0,0.25,47,Teleport,Flash,7,False,3087,2500,Caulfield's Warhammer,Refillable Potion,Phage,,,,0,18756,Lane.jungle,Role.none
+8,SaintKilianv2,Ekko,False,Side.red,0,0,1,1.0,50,Smite,Flash,7,False,3394,2800,Refillable Potion,Skirmisher's Sabre,The Dark Seal,Boots of Speed,Control Ward,Aether Wisp,20296,14799,Lane.jungle,Role.none
+9,Vermillion2,Jinx,False,Side.red,0,3,2,0.6666666666666666,60,Heal,Flash,6,False,3181,2650,B. F. Sword,Doran's Blade,Boots of Speed,Cull,,,413,18961,Lane.bot_lane,Role.duo

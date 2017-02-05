@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,VoidIncarnated,Malphite,True,Side.blue,1,0,5,6.0,108,Flash,Teleport,11,False,6056,5100,Corrupting Potion,Doran's Shield,Rejuvenation Bead,Ninja Tabi,Sunfire Cape,,20101,22561,Lane.top_lane,Role.solo
+1,Nano Seconds,Jhin,True,Side.blue,2,1,2,4.0,104,Flash,Heal,9,True,6559,5550,Doran's Blade,Essence Reaver,Cull,Boots of Swiftness,,,2431,45919,Lane.bot_lane,Role.carry
+2,Bobjenkins,Kennen,True,Side.blue,2,0,6,8.0,11,Flash,Ignite,9,False,5189,3600,Eye of the Watchers,Boots of Mobility,,,,,7156,6932,Lane.bot_lane,Role.support
+3,MyTimeIsNow,Viktor,True,Side.blue,5,0,1,6.0,138,Ghost,Flash,11,False,7400,5175,Perfect Hex Core,Doran's Ring,Control Ward,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Doran's Ring,55534,15542,Lane.mid_lane,Role.solo
+4,Silas Kroeger,Zac,True,Side.blue,7,2,2,4.5,96,Smite,Flash,11,False,7447,5550,Enchantment: Cinderhulk,Refillable Potion,Sorcerer's Shoes,Haunting Guise,,,53830,14593,Lane.jungle,Role.none
+5,Rokí,Ezreal,False,Side.red,0,4,1,0.25,76,Flash,Heal,7,False,3924,3350,Doran's Blade,Manamune,Boots of Speed,,,,1256,20249,Lane.bot_lane,Role.carry
+6,Winter is back,Taric,False,Side.red,0,2,1,0.5,16,Flash,Exhaust,7,False,2954,2225,Relic Shield,Boots of Speed,Null-Magic Mantle,Sightstone,,,1361,3122,Lane.bot_lane,Role.support
+7,Cris,Jayce,False,Side.red,1,5,0,0.2,87,Flash,Teleport,8,False,4214,3900,Refillable Potion,The Black Cleaver,,Boots of Speed,,,4993,28899,Lane.top_lane,Role.solo
+8,amumumu,Amumu,False,Side.red,1,1,1,2.0,60,Flash,Smite,9,False,4867,4200,Enchantment: Runic Echoes,Hunter's Potion,Mercury's Treads,,,,40955,15325,Lane.jungle,Role.none
+9,godrjsdnd,Orianna,False,Side.red,0,5,0,0.0,104,Ghost,Flash,9,False,4375,2825,Doran's Ring,Refillable Potion,Lost Chapter,Fiendish Codex,Boots of Speed,,29856,7690,Lane.mid_lane,Role.solo

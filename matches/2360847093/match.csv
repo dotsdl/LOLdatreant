@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,THE Benb,Jayce,True,Side.blue,10,3,9,6.333333333333333,207,Teleport,Flash,17,False,13194,11795,Youmuu's Ghostblade,Mortal Reminder,The Black Cleaver,Ninja Tabi,Negatron Cloak,Doran's Blade,17846,112539,Lane.top_lane,Role.solo
+1,Bo0sted Monkeys,Jhin,True,Side.blue,6,5,13,3.8,169,Flash,Heal,15,False,11504,10425,Doran's Blade,Last Whisper,Essence Reaver,Boots of Swiftness,B. F. Sword,Rapid Firecannon,8277,106406,Lane.bot_lane,Role.carry
+2,Im The Puppeteer,Vi,True,Side.blue,7,5,11,3.6,70,Flash,Smite,13,False,10443,9500,Enchantment: Warrior,Locket of the Iron Solari,Ninja Tabi,,,Randuin's Omen,1083,82406,Lane.jungle,Role.none
+3,Wazabiee,Viktor,True,Side.blue,10,5,9,3.8,177,Exhaust,Flash,15,False,12754,11920,Zhonya's Hourglass,Perfect Hex Core,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,112940,10286,Lane.mid_lane,Role.solo
+4,Rockming,Xerath,True,Side.blue,7,7,14,3.0,39,Flash,Exhaust,13,False,10864,10525,Blasting Wand,Refillable Potion,Eye of the Watchers,Void Staff,Sorcerer's Shoes,Rylai's Crystal Scepter,42810,7693,Lane.bot_lane,Role.support
+5,Iley,Twitch,False,Side.red,6,9,4,1.1111111111111112,187,Heal,Flash,13,True,11223,10950,Doran's Blade,Infinity Edge,Runaan's Hurricane,Cull,Berserker's Greaves,Phantom Dancer,1705,95274,Lane.bot_lane,Role.carry
+6,zT ace,Zed,False,Side.red,7,7,2,1.2857142857142858,179,Ignite,Flash,14,False,10269,9800,Youmuu's Ghostblade,Ninja Tabi,Phage,Edge of Night,Caulfield's Warhammer,,7392,105733,Lane.mid_lane,Role.solo
+7,tkDarkSide,Nidalee,False,Side.red,8,6,8,2.6666666666666665,130,Smite,Flash,15,False,11270,11075,Enchantment: Runic Echoes,Abyssal Scepter,Sorcerer's Shoes,Rylai's Crystal Scepter,Fiendish Codex,The Dark Seal,108373,14328,Lane.jungle,Role.none
+8,Dont Keng Wo,Leona,False,Side.red,0,9,7,0.7777777777777778,44,Ignite,Flash,11,False,7108,6275,Sightstone,Face of the Mountain,Giant's Belt,Warden's Mail,Ionian Boots of Lucidity,,8447,10559,Lane.bot_lane,Role.support
+9,o Cero o,Darius,False,Side.red,4,9,1,0.5555555555555556,160,Flash,Ghost,13,False,9047,9005,Doran's Blade,The Black Cleaver,Ruby Crystal,Dead Man's Plate,Ninja Tabi,Null-Magic Mantle,217,73038,Lane.top_lane,Role.solo

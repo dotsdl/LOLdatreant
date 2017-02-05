@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Walljumper,Vayne,True,Side.blue,9,1,6,15.0,129,Heal,Flash,12,False,9680,9550,Infinity Edge,Zeal,Statikk Shiv,Doran's Blade,Berserker's Greaves,Dagger,15515,57243,Lane.bot_lane,Role.carry
+1,AvriI Lavigne,Syndra,True,Side.blue,6,1,3,9.0,145,Flash,Ghost,12,False,8922,8610,Archangel's Staff,Doran's Ring,Sorcerer's Shoes,The Dark Seal,Morellonomicon,Amplifying Tome,80833,9385,Lane.mid_lane,Role.solo
+2,IA55A55INI,Yasuo,True,Side.blue,3,5,2,1.0,132,Flash,Teleport,12,False,7926,5850,Doran's Blade,Refillable Potion,Phantom Dancer,Vampiric Scepter,B. F. Sword,Boots of Speed,21518,66843,Lane.top_lane,Role.solo
+3,procberry,Jarvan IV,True,Side.blue,4,1,9,13.0,103,Smite,Flash,12,False,8722,7000,The Black Cleaver,Refillable Potion,Tiamat,Ninja Tabi,Skirmisher's Sabre,Cloth Armor,7216,87513,Lane.jungle,Role.none
+4,OreBil,Karma,True,Side.blue,1,1,15,16.0,8,Exhaust,Flash,11,False,7168,5300,Refillable Potion,Eye of the Watchers,,Forbidden Idol,Crystalline Bracer,Ionian Boots of Lucidity,9172,6670,Lane.bot_lane,Role.support
+5,nilhaG,Rek'Sai,False,Side.red,2,6,2,0.6666666666666666,79,Flash,Smite,10,False,6374,5625,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Ruby Crystal,Control Ward,11643,52529,Lane.jungle,Role.none
+6,lost in thoughts,Maokai,False,Side.red,3,4,4,1.75,132,Flash,Teleport,12,True,7314,5450,Corrupting Potion,Doran's Ring,Sunfire Cape,Control Ward,Ninja Tabi,Ruby Crystal,53001,14077,Lane.top_lane,Role.solo
+7,Fire Editorial,Twitch,False,Side.red,0,5,0,0.0,100,Flash,Heal,10,False,5636,5575,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,,,,0,44753,Lane.bot_lane,Role.carry
+8,Thecrimsonrage,Bard,False,Side.red,1,3,3,1.3333333333333333,6,Flash,Exhaust,8,False,4811,2825,Eye of the Watchers,Total Biscuit of Rejuvenation,Faerie Charm,,,,5046,1931,Lane.bot_lane,Role.support
+9,creamwithice,Lux,False,Side.red,3,5,1,0.8,128,Flash,Teleport,11,False,6795,6735,Needlessly Large Rod,Morellonomicon,Amplifying Tome,Total Biscuit of Rejuvenation,Doran's Ring,Sorcerer's Shoes,56511,8104,Lane.mid_lane,Role.solo

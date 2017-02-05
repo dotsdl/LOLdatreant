@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PieCakeLord,Rumble,True,Side.blue,9,1,5,14.0,187,Teleport,Flash,14,False,10907,10325,Hextech Protobelt-01,Refillable Potion,Void Staff,Sorcerer's Shoes,Liandry's Torment,,95008,12435,Lane.top_lane,Role.solo
+1,Cris,Talon,True,Side.blue,10,6,8,3.0,138,Flash,Ghost,13,False,10954,8805,Youmuu's Ghostblade,Corrupting Potion,Control Ward,B. F. Sword,Ionian Boots of Lucidity,The Black Cleaver,394,90378,Lane.mid_lane,Role.solo
+2,Vincente Vu,Ezreal,True,Side.blue,2,4,7,2.25,152,Flash,Heal,11,False,9101,9058,Ionian Boots of Lucidity,Manamune,Trinity Force,Vampiric Scepter,Cull,Doran's Blade,7182,59868,Lane.bot_lane,Role.carry
+3,cute pupper irl,Bard,True,Side.blue,3,4,13,4.0,14,Flash,Ignite,11,False,7426,6975,Boots of Mobility,Eye of the Watchers,Aegis of the Legion,,Redemption,,10737,4715,Lane.bot_lane,Role.support
+4,Vladfire1 BG ,Ivern,True,Side.blue,5,2,10,7.5,78,Smite,Flash,13,False,8867,7525,Athene's Unholy Grail,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,Hunter's Talisman,13227,5538,Lane.jungle,Role.none
+5,mulgokizary,Lee Sin,False,Side.red,5,7,5,1.4285714285714286,103,Smite,Flash,13,False,8318,7525,Refillable Potion,Enchantment: Warrior,,Maw of Malmortius,Cloth Armor,Boots of Mobility,17457,78324,Lane.jungle,Role.none
+6,Doublelift,Vayne,False,Side.red,3,5,5,1.6,160,Flash,Heal,12,False,7991,6975,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,Dagger,Control Ward,0,58322,Lane.bot_lane,Role.carry
+7,Årcee,Blitzcrank,False,Side.red,4,4,5,2.25,44,Ignite,Flash,10,True,6745,6125,Catalyst of Aeons,Locket of the Iron Solari,Sightstone,Boots of Swiftness,Targon's Brace,,7677,7600,Lane.bot_lane,Role.support
+8,IKingVex,Corki,False,Side.red,3,7,0,0.42857142857142855,162,Teleport,Flash,13,False,8377,7883,Doran's Blade,Vampiric Scepter,Cull,Trinity Force,Sorcerer's Shoes,Hextech Revolver,65860,19705,Lane.top_lane,Role.solo
+9,11037,Ziggs,False,Side.red,2,6,3,0.8333333333333334,132,Cleanse,Flash,11,False,7276,7050,Doran's Ring,Refillable Potion,Giant's Belt,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,73049,8073,Lane.mid_lane,Role.solo

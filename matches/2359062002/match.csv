@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tennispro,Caitlyn,False,Side.blue,0,3,1,0.3333333333333333,147,Flash,Heal,11,False,6826,6500,Doran's Blade,Berserker's Greaves,Zeal,Infinity Edge,,,2323,69702,Lane.bot_lane,Role.carry
+1,Cheesey The Spy,Lulu,False,Side.blue,0,5,2,0.4,19,Flash,Exhaust,10,False,4826,4425,Ruby Sightstone,Total Biscuit of Rejuvenation,Spellthief's Edge,Boots of Mobility,Forbidden Idol,Ruby Crystal,7333,3379,Lane.bot_lane,Role.support
+2,RealTeemo,Teemo,False,Side.blue,3,8,2,0.625,106,Ignite,Flash,12,False,6965,6835,Zz'Rot Portal,Doran's Ring,Amplifying Tome,Blasting Wand,Haunting Guise,Boots of Speed,38169,14342,Lane.top_lane,Role.solo
+3,TeachM3How,Amumu,False,Side.blue,0,8,2,0.25,51,Smite,Flash,9,False,5385,5150,Boots of Mobility,Hunter's Potion,Enchantment: Runic Echoes,Giant's Belt,Control Ward,,26187,11238,Lane.jungle,Role.none
+4,I MuniE I,Orianna,False,Side.blue,5,7,0,0.7142857142857143,138,Exhaust,Flash,12,False,7830,7000,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Blasting Wand,71839,8855,Lane.mid_lane,Role.solo
+5,Sillody,Irelia,True,Side.red,7,3,3,3.3333333333333335,183,Flash,Teleport,14,False,10799,9283,Corrupting Potion,Doran's Blade,Trinity Force,Wit's End,Mercury's Treads,Glacial Shroud,6044,79205,Lane.top_lane,Role.solo
+6,peonnnnn,Brand,True,Side.red,5,2,8,6.5,150,Flash,Ignite,14,True,10586,8825,Doran's Ring,Sorcerer's Shoes,Void Staff,Doran's Ring,Rylai's Crystal Scepter,Blasting Wand,62596,15365,Lane.mid_lane,Role.solo
+7,FantasticCathy,Janna,True,Side.red,4,1,14,18.0,7,Ignite,Flash,12,False,8515,6475,Frost Queen's Claim,Sightstone,Redemption,Total Biscuit of Rejuvenation,Boots of Mobility,,4486,5734,Lane.bot_lane,Role.support
+8,cuaseimsmartttt,Ezreal,True,Side.red,8,1,10,18.0,175,Heal,Flash,13,False,11414,10683,Bilgewater Cutlass,Quicksilver Sash,Trinity Force,Ionian Boots of Lucidity,Muramana,Total Biscuit of Rejuvenation,14382,90562,Lane.bot_lane,Role.carry
+9,causeimyoung,Graves,True,Side.red,7,1,5,12.0,142,Smite,Flash,14,False,11259,9775,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Death's Dance,Hexdrinker,Caulfield's Warhammer,3718,124465,Lane.jungle,Role.none

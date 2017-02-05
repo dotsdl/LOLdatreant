@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Lee Sin,False,Side.blue,3,6,2,0.8333333333333334,84,Flash,Smite,11,False,6717,4250,,Refillable Potion,,Cloth Armor,Enchantment: Warrior,Ninja Tabi,13414,58049,Lane.jungle,Role.none
+1,Xilixir,Riven,False,Side.blue,3,5,1,0.8,120,Teleport,Flash,12,False,6593,5950,Maw of Malmortius,Refillable Potion,Berserker's Greaves,Caulfield's Warhammer,Long Sword,,0,54427,Lane.top_lane,Role.solo
+2,CarrilIo,Zilean,False,Side.blue,4,4,2,1.5,115,Flash,Exhaust,12,False,6954,6125,Doran's Ring,Rod of Ages,Sorcerer's Shoes,Seeker's Armguard,,,48976,7297,Lane.mid_lane,Role.solo
+3,DZG Cobra,Miss Fortune,False,Side.blue,1,7,5,0.8571428571428571,33,Flash,Exhaust,9,False,6259,5575,Boots of Speed,Caulfield's Warhammer,Eye of the Watchers,Phage,,Long Sword,16642,14798,Lane.bot_lane,Role.support
+4,B00STED DRAVEN,Vayne,False,Side.blue,3,8,2,0.625,116,Flash,Heal,10,False,6743,6325,Statikk Shiv,Cull,Health Potion,Doran's Blade,Berserker's Greaves,B. F. Sword,13640,41706,Lane.bot_lane,Role.carry
+5,CsCs Scientist,Blitzcrank,True,Side.red,2,4,14,4.0,35,Flash,Exhaust,11,False,7288,6125,Eye of the Equinox,Tear of the Goddess,Aegis of the Legion,Boots of Swiftness,Cloth Armor,Sapphire Crystal,5805,9393,Lane.bot_lane,Role.support
+6,DoToT Returned,Graves,True,Side.red,6,3,7,4.333333333333333,168,Heal,Flash,12,False,10538,8200,Berserker's Greaves,Refillable Potion,Phantom Dancer,Essence Reaver,Cull,Long Sword,873,98057,Lane.bot_lane,Role.carry
+7,Gayzuo,Rengar,True,Side.red,13,3,7,6.666666666666667,127,Smite,Flash,14,True,11928,12175,Youmuu's Ghostblade,Infinity Edge,Ionian Boots of Lucidity,Enchantment: Warrior,B. F. Sword,Long Sword,7209,108212,Lane.jungle,Role.none
+8,Cotopaco Parce,Varus,True,Side.red,3,2,6,4.5,152,Ghost,Flash,13,False,8496,7695,Tear of the Goddess,Maw of Malmortius,Corrupting Potion,Ionian Boots of Lucidity,Last Whisper,Control Ward,5080,92068,Lane.mid_lane,Role.solo
+9,HideInurShadow,Katarina,True,Side.red,6,2,4,5.0,107,Flash,Ignite,12,False,8523,8300,Health Potion,The Dark Seal,Hextech Gunblade,Sunfire Cape,Sorcerer's Shoes,,55282,10507,Lane.top_lane,Role.solo

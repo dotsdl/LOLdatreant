@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Joelisboss,Karma,True,Side.blue,2,2,19,10.5,11,Exhaust,Flash,11,False,7454,5550,Locket of the Iron Solari,Sightstone,Boots of Mobility,,,Frostfang,12254,9319,Lane.bot_lane,Role.support
+1,lc0nic,Zac,True,Side.blue,7,0,13,20.0,127,Flash,Smite,13,True,10024,7825,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Ionian Boots of Lucidity,Kindlegem,Cloth Armor,84775,17438,Lane.jungle,Role.none
+2,CLG Darshawn,Jayce,True,Side.blue,9,5,5,2.8,97,Teleport,Flash,12,False,8977,8550,The Black Cleaver,Ionian Boots of Lucidity,Death's Dance,,Doran's Blade,,12536,47613,Lane.top_lane,Role.solo
+3,Entranced,Swain,True,Side.blue,7,2,11,9.0,167,Teleport,Flash,13,False,9633,7775,Zhonya's Hourglass,Refillable Potion,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Rod of Ages,73134,12432,Lane.mid_lane,Role.solo
+4,ApoIlo Price,Caitlyn,True,Side.blue,13,0,7,20.0,164,Flash,Heal,13,False,11694,8675,Doran's Blade,Infinity Edge,Berserker's Greaves,Dagger,Runaan's Hurricane,Brawler's Gloves,429,125998,Lane.bot_lane,Role.carry
+5,Sheiden,Kennen,False,Side.red,5,2,0,2.5,171,Ghost,Flash,12,False,8167,7335,Doran's Blade,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,,62295,19612,Lane.mid_lane,Role.solo
+6,One Called Saint,Twitch,False,Side.red,0,10,3,0.3,131,Flash,Heal,11,False,6781,6125,Doran's Blade,Runaan's Hurricane,Cull,Boots of Speed,Pickaxe,B. F. Sword,0,60349,Lane.bot_lane,Role.carry
+7,Abou222,Graves,False,Side.red,0,10,1,0.1,59,Smite,Flash,8,False,5012,4475,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Dagger,Dagger,,2040,43387,Lane.jungle,Role.none
+8,fallenbandit,Yasuo,False,Side.red,4,10,2,0.6,129,Flash,Teleport,12,False,7399,7200,Infinity Edge,Phantom Dancer,Doran's Blade,,Boots of Speed,,16278,50276,Lane.top_lane,Role.solo
+9,TwitchTV LOLFILL,Alistar,False,Side.red,0,6,4,0.6666666666666666,17,Exhaust,Flash,9,False,4559,4250,Face of the Mountain,,,Boots of Mobility,,Sightstone,6761,1685,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Hai,Braum,False,Side.blue,0,8,15,1.875,39,Exhaust,Flash,12,False,7390,7125,Boots of Speed,Relic Shield,Sightstone,Knight's Vow,Frozen Heart,Control Ward,8447,6300,Lane.bot_lane,Role.support
+1,retarded virgin,Elise,False,Side.blue,0,6,7,1.1666666666666667,125,Flash,Smite,13,False,8259,7675,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Cloth Armor,Cloth Armor,65653,27236,Lane.jungle,Role.none
+2,cokes,Ezreal,False,Side.blue,6,4,10,4.0,164,Heal,Flash,12,True,10184,10075,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Doran's Blade,Ionian Boots of Lucidity,,16546,73486,Lane.bot_lane,Role.carry
+3,SSBM Hax,Twisted Fate,False,Side.blue,4,4,6,2.5,198,Flash,Ghost,14,False,10709,10650,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Zhonya's Hourglass,Control Ward,Rod of Ages,105016,11980,Lane.mid_lane,Role.solo
+4,KiNG Nidhogg,Jarvan IV,False,Side.blue,7,6,4,1.8333333333333333,169,Teleport,Flash,14,False,10204,9400,Spectre's Cowl,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,Corrupting Potion,Giant's Belt,25967,49082,Lane.top_lane,Role.solo
+5,Doublelift,Vi,True,Side.red,8,3,6,4.666666666666667,194,Flash,Smite,16,False,13458,12643,Enchantment: Warrior,Kindlegem,Trinity Force,Mercury's Treads,Dead Man's Plate,Spectre's Cowl,2119,188961,Lane.jungle,Role.none
+6,dog2,Caitlyn,True,Side.red,5,5,13,3.6,174,Flash,Heal,14,False,11470,10500,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,1136,107972,Lane.bot_lane,Role.carry
+7,Winter is back,Malphite,True,Side.red,4,3,9,4.333333333333333,195,Flash,Teleport,16,False,11593,11045,Sunfire Cape,Doran's Shield,Iceborn Gauntlet,Mercury's Treads,Banshee's Veil,Negatron Cloak,60255,49382,Lane.top_lane,Role.solo
+8,Témpest,Yasuo,True,Side.red,11,2,11,11.0,265,Flash,Ignite,16,False,15222,12450,B. F. Sword,Infinity Edge,Phantom Dancer,Doran's Blade,Mercury's Treads,Frozen Mallet,23654,161986,Lane.mid_lane,Role.solo
+9,TwitchTV LOLFILL,Trundle,True,Side.red,0,4,22,5.5,49,Exhaust,Flash,13,False,9349,8275,Face of the Mountain,Knight's Vow,Ruby Crystal,,Mercury's Treads,Ruby Sightstone,1217,12379,Lane.bot_lane,Role.support

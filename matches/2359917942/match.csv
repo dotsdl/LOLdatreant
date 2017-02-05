@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Necroside,Maokai,True,Side.blue,0,3,3,1.0,116,Teleport,Flash,11,False,6071,5800,Doran's Ring,Corrupting Potion,Doran's Ring,Sunfire Cape,Ninja Tabi,Sapphire Crystal,49223,12338,Lane.top_lane,Role.solo
+1,Part The Sea,Gangplank,True,Side.blue,4,2,4,4.0,141,Flash,Teleport,12,False,8450,8383,Trinity Force,Refillable Potion,Statikk Shiv,Frostfang,Ionian Boots of Lucidity,,7026,86427,Lane.mid_lane,Role.solo
+2,TeddyRO,Shyvana,True,Side.blue,6,1,4,10.0,102,Flash,Smite,11,True,8323,8050,Enchantment: Bloodrazor,Refillable Potion,Ninja Tabi,Frozen Mallet,Warden's Mail,,47279,50604,Lane.jungle,Role.none
+3,GalileoGalilley,Jhin,True,Side.blue,4,2,5,4.5,134,Flash,Heal,10,False,7999,7950,Doran's Blade,Youmuu's Ghostblade,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Brawler's Gloves,491,72637,Lane.bot_lane,Role.carry
+4,jiayibingding,Thresh,True,Side.blue,1,0,11,12.0,25,Exhaust,Flash,10,False,5939,5125,Face of the Mountain,Sightstone,,Glacial Shroud,Boots of Mobility,,9488,5239,Lane.bot_lane,Role.support
+5,neZorean,Talon,False,Side.red,1,5,1,0.4,134,Flash,Ignite,11,False,5871,5475,Youmuu's Ghostblade,Tiamat,Boots of Speed,Long Sword,Long Sword,,0,59174,Lane.mid_lane,Role.solo
+6,CedR1CK GOD,Twitch,False,Side.red,2,5,0,0.4,114,Heal,Flash,9,False,5639,4975,Doran's Blade,Control Ward,Blade of the Ruined King,Dagger,Boots of Speed,Dagger,73,30792,Lane.bot_lane,Role.carry
+7,PhD Bunny Riven,Alistar,False,Side.red,0,4,0,0.0,20,Flash,Exhaust,9,False,3656,2975,Sightstone,,Boots of Speed,Kindlegem,Targon's Brace,,5498,3630,Lane.bot_lane,Role.support
+8,TQS Zuardian,Evelynn,False,Side.red,1,0,0,1.0,35,Smite,Flash,6,False,4264,1935,Refillable Potion,Skirmisher's Sabre,Amplifying Tome,The Dark Seal,,,22783,11579,Lane.jungle,Role.none
+9,foggedftw1,Tryndamere,False,Side.red,4,1,0,4.0,155,Ignite,Flash,12,False,6951,6200,Vampiric Scepter,Refillable Potion,Statikk Shiv,Mercury's Treads,Caulfield's Warhammer,Long Sword,9587,62351,Lane.top_lane,Role.solo

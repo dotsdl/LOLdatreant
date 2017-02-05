@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Im Novel,Bard,False,Side.blue,1,7,3,0.5714285714285714,6,Ignite,Flash,11,False,5924,5275,Eye of the Watchers,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,,,6650,2698,Lane.bot_lane,Role.support
+1,sSwishy,Viktor,False,Side.blue,3,8,0,0.375,179,Ghost,Flash,13,False,7934,7825,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,,,93073,7880,Lane.mid_lane,Role.solo
+2,pauI morphy,Heimerdinger,False,Side.blue,0,4,0,0.0,173,Exhaust,Flash,12,False,7052,6725,Refillable Potion,Banner of Command,Zz'Rot Portal,Sorcerer's Shoes,Doran's Ring,,49337,12381,Lane.top_lane,Role.solo
+3,Hyun,Vi,False,Side.blue,4,9,2,0.6666666666666666,129,Smite,Flash,13,False,8295,8108,Enchantment: Warrior,Refillable Potion,Trinity Force,Boots of Speed,Hexdrinker,,1565,100134,Lane.jungle,Role.none
+4,FFF Heresy Trial,Caitlyn,False,Side.blue,0,6,2,0.3333333333333333,170,Flash,Heal,13,False,7508,7100,Total Biscuit of Rejuvenation,Doran's Blade,Doran's Blade,Berserker's Greaves,Infinity Edge,Zeal,273,55152,Lane.bot_lane,Role.carry
+5,YummySandwich,Twitch,True,Side.red,17,1,5,22.0,200,Flash,Heal,15,True,15978,13925,B. F. Sword,Vampiric Scepter,Runaan's Hurricane,Phantom Dancer,Berserker's Greaves,Infinity Edge,0,139260,Lane.bot_lane,Role.carry
+6,TomWardTheSpook,Ryze,True,Side.red,3,2,1,2.0,250,Flash,Teleport,14,False,10873,8775,Zz'Rot Portal,Banner of Command,Catalyst of Aeons,Ionian Boots of Lucidity,Tear of the Goddess,Fiendish Codex,112798,12813,Lane.top_lane,Role.solo
+7,Artishy,Orianna,True,Side.red,5,1,13,18.0,182,Flash,Ghost,15,False,11263,9845,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Negatron Cloak,81369,18208,Lane.mid_lane,Role.solo
+8,iplaylol,Hecarim,True,Side.red,5,4,9,3.5,111,Smite,Ghost,14,False,10362,8858,Hunter's Potion,Enchantment: Cinderhulk,Ninja Tabi,Cloth Armor,Ruby Crystal,Trinity Force,14436,98878,Lane.jungle,Role.none
+9,Cotopaco Parce,Vel'Koz,True,Side.red,4,2,15,9.5,58,Exhaust,Flash,14,False,9849,6910,Spellthief's Edge,Morellonomicon,Ionian Boots of Lucidity,Needlessly Large Rod,Amplifying Tome,Sightstone,59361,9696,Lane.bot_lane,Role.support

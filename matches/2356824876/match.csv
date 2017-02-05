@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xDD,Zac,False,Side.blue,2,4,2,1.0,162,Flash,Teleport,12,False,7360,6650,Sunfire Cape,Refillable Potion,Boots of Speed,Spirit Visage,,Cloth Armor,80503,9379,Lane.top_lane,Role.solo
+1,Larri,Lee Sin,False,Side.blue,3,7,0,0.42857142857142855,87,Smite,Flash,11,True,6671,6525,Giant's Belt,Enchantment: Warrior,Mercury's Treads,Cloth Armor,,Tiamat,12117,64301,Lane.jungle,Role.none
+2,NA Mechanics,Jinx,False,Side.blue,0,4,3,0.75,157,Heal,Flash,10,False,6951,6825,Doran's Blade,B. F. Sword,Cull,Runaan's Hurricane,Berserker's Greaves,Pickaxe,859,66903,Lane.bot_lane,Role.carry
+3,only grab grills,Thresh,False,Side.blue,1,3,2,1.0,4,Ignite,Flash,9,False,4911,4650,Nomad's Medallion,Sightstone,Ionian Boots of Lucidity,Forbidden Idol,Glacial Shroud,,6528,1798,Lane.bot_lane,Role.support
+4,never meme,Annie,False,Side.blue,1,5,0,0.2,155,Ignite,Flash,11,False,6558,6300,Doran's Ring,Rylai's Crystal Scepter,Haunting Guise,,Ionian Boots of Lucidity,,53580,10733,Lane.mid_lane,Role.solo
+5,Yisus,Wukong,True,Side.red,7,1,9,16.0,90,Smite,Flash,12,False,9351,7700,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Mercury's Treads,Long Sword,Long Sword,6484,78933,Lane.jungle,Role.none
+6,Jesus Chris LFT,Ziggs,True,Side.red,8,0,10,18.0,165,Barrier,Flash,13,False,10677,8575,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,,93150,11941,Lane.mid_lane,Role.solo
+7,Wazabiee,Jhin,True,Side.red,6,3,9,5.0,131,Heal,Flash,11,False,9415,7400,Pickaxe,Kircheis Shard,Boots of Swiftness,Essence Reaver,Dagger,Doran's Blade,5340,75263,Lane.bot_lane,Role.carry
+8,Faerie Sovereign,Sona,True,Side.red,0,2,19,9.5,11,Flash,Exhaust,11,False,7234,5700,Athene's Unholy Grail,Tear of the Goddess,Eye of the Watchers,,Boots of Speed,The Dark Seal,11368,6691,Lane.bot_lane,Role.support
+9,1982657489,Singed,True,Side.red,2,2,12,7.0,178,Teleport,Ghost,13,False,8995,6775,Corrupting Potion,The Dark Seal,Righteous Glory,Giant's Belt,Needlessly Large Rod,Mercury's Treads,103847,8195,Lane.top_lane,Role.solo

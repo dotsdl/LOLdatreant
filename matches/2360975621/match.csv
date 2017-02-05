@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IAmArray,Alistar,True,Side.blue,2,6,18,3.3333333333333335,41,Flash,Exhaust,13,False,9505,8625,Face of the Mountain,Knight's Vow,Refillable Potion,Ruby Sightstone,Glacial Shroud,Boots of Mobility,10300,10607,Lane.bot_lane,Role.support
+1,Dardòch,Hecarim,True,Side.blue,15,5,12,5.4,105,Ghost,Smite,15,True,14453,12103,Enchantment: Cinderhulk,Chain Vest,Negatron Cloak,Ninja Tabi,Trinity Force,Dead Man's Plate,18265,104498,Lane.jungle,Role.none
+2,Shimatora,Vayne,True,Side.blue,8,8,10,2.25,176,Heal,Flash,15,False,12458,10775,Quicksilver Sash,Infinity Edge,Statikk Shiv,Zeal,Berserker's Greaves,Doran's Blade,29333,87089,Lane.bot_lane,Role.carry
+3,Autumn Clouds,Maokai,True,Side.blue,9,2,15,12.0,155,Teleport,Flash,15,False,12456,11850,Doran's Ring,Spirit Visage,Sunfire Cape,Frozen Heart,Chain Vest,Ninja Tabi,80059,13099,Lane.top_lane,Role.solo
+4,Is That Hymn,Cassiopeia,True,Side.blue,5,4,13,4.5,219,Exhaust,Flash,16,False,12760,11610,Doran's Ring,Seraph's Embrace,Rylai's Crystal Scepter,Morellonomicon,Needlessly Large Rod,Amplifying Tome,127637,15620,Lane.mid_lane,Role.solo
+5,Jadsbutt,Syndra,False,Side.red,5,10,3,0.8,172,Flash,Ghost,13,False,10296,10085,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Doran's Ring,Needlessly Large Rod,Amplifying Tome,97571,10877,Lane.mid_lane,Role.solo
+6,Nero Valentine,Lee Sin,False,Side.red,9,8,6,1.875,129,Smite,Flash,14,False,12260,13545,Enchantment: Warrior,Tiamat,Dead Man's Plate,Banshee's Veil,Boots of Swiftness,Negatron Cloak,19516,113730,Lane.jungle,Role.none
+7,4911,Tristana,False,Side.red,8,5,11,3.8,202,Heal,Flash,14,False,12862,12550,Blade of the Ruined King,Statikk Shiv,Berserker's Greaves,Infinity Edge,Doran's Blade,Last Whisper,42280,109888,Lane.bot_lane,Role.carry
+8,ape boy,Riven,False,Side.red,3,7,3,0.8571428571428571,223,Flash,Teleport,15,False,10969,10825,Death's Dance,Mortal Reminder,The Black Cleaver,,,Ionian Boots of Lucidity,0,130833,Lane.top_lane,Role.solo
+9,AchiIIes Heal,Thresh,False,Side.red,0,9,18,2.0,25,Flash,Ignite,11,False,8223,7725,Redemption,Locket of the Iron Solari,Sightstone,Targon's Brace,Boots of Mobility,Ruby Crystal,10054,4826,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lecheris,Jayce,True,Side.blue,5,4,8,3.25,169,Teleport,Flash,14,False,11357,9600,Ionian Boots of Lucidity,B. F. Sword,Doran's Blade,The Black Cleaver,Long Sword,Youmuu's Ghostblade,14531,89818,Lane.top_lane,Role.solo
+1,lost in thoughts,LeBlanc,True,Side.blue,8,5,8,3.2,170,Flash,Teleport,15,False,12162,10760,Morellonomicon,Mejai's Soulstealer,Rabadon's Deathcap,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,96567,14579,Lane.jungle,Role.none
+2,CookiesOP,Nocturne,True,Side.blue,14,1,9,23.0,157,Flash,Smite,15,True,14613,13125,Youmuu's Ghostblade,Randuin's Omen,Phantom Dancer,Ninja Tabi,Vampiric Scepter,Enchantment: Warrior,6710,164556,Lane.jungle,Role.none
+3,JuIy,Janna,True,Side.blue,1,0,21,22.0,12,Flash,Exhaust,13,False,9269,9000,Locket of the Iron Solari,Redemption,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,Raptor Cloak,4378,6570,Lane.bot_lane,Role.support
+4,Quirk,Vayne,True,Side.blue,7,4,7,3.5,167,Flash,Heal,14,False,11616,9550,Infinity Edge,Statikk Shiv,Berserker's Greaves,Zeal,Dagger,Doran's Blade,22983,88551,Lane.bot_lane,Role.carry
+5,Kshuna,Twitch,False,Side.red,4,9,2,0.6666666666666666,146,Flash,Heal,12,False,8254,7900,Runaan's Hurricane,Infinity Edge,,Berserker's Greaves,,,806,56323,Lane.bot_lane,Role.carry
+6,ACuteKoreanGirI,Yasuo,False,Side.red,2,10,1,0.3,132,Ignite,Flash,12,False,8071,7650,Doran's Blade,Hexdrinker,Phantom Dancer,Mercury's Treads,B. F. Sword,Cloak of Agility,16231,66298,Lane.mid_lane,Role.solo
+7,Juanfucius,Amumu,False,Side.red,2,6,4,1.0,133,Smite,Flash,13,False,8251,7850,Randuin's Omen,Glacial Shroud,,,Enchantment: Cinderhulk,Ninja Tabi,88005,20412,Lane.jungle,Role.none
+8,vìper,Riven,False,Side.red,5,4,3,2.0,239,Flash,Teleport,14,False,10517,9850,Refillable Potion,Tiamat,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Serrated Dirk,498,129700,Lane.top_lane,Role.solo
+9,Pocket Size,Nami,False,Side.red,1,6,4,0.8333333333333334,10,Flash,Exhaust,11,False,6409,5525,Frostfang,Sightstone,The Dark Seal,Redemption,Ionian Boots of Lucidity,,9594,4383,Lane.bot_lane,Role.support

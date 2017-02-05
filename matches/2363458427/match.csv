@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MaNDashwell,Gangplank,False,Side.blue,0,5,1,0.2,20,Flash,Exhaust,8,False,3880,3200,Doran's Ring,Phage,,Sheen,,Boots of Speed,5440,13534,Lane.top_lane,Role.solo
+1,Provocative,Vel'Koz,False,Side.blue,4,3,2,2.0,133,Flash,Ghost,11,False,7116,5725,Health Potion,Doran's Ring,Lost Chapter,Rylai's Crystal Scepter,Ionian Boots of Lucidity,,51475,7964,Lane.mid_lane,Role.solo
+2,Me Amas,Twitch,False,Side.blue,3,9,2,0.5555555555555556,94,Flash,Heal,9,False,6034,4750,Doran's Blade,Runaan's Hurricane,Cull,Berserker's Greaves,,,0,38635,Lane.bot_lane,Role.carry
+3,K for Kimchi,Bard,False,Side.blue,1,2,4,2.5,17,Ignite,Flash,9,False,4834,4275,Boots of Speed,Total Biscuit of Rejuvenation,Eye of the Watchers,Needlessly Large Rod,,Control Ward,7692,3414,Lane.bot_lane,Role.support
+4,Cardiac Kid,Jarvan IV,False,Side.blue,3,7,8,1.5714285714285714,66,Flash,Smite,10,False,6311,6250,Enchantment: Warrior,The Black Cleaver,Refillable Potion,Boots of Speed,,,3963,41661,Lane.jungle,Role.none
+5,Smartcloud,Karma,True,Side.red,4,4,7,2.75,8,Flash,Exhaust,9,False,7252,6075,Control Ward,Redemption,Eye of the Watchers,Faerie Charm,Ionian Boots of Lucidity,Faerie Charm,11166,5147,Lane.bot_lane,Role.support
+6,Garani,Shyvana,True,Side.red,6,1,3,9.0,133,Smite,Flash,13,False,9571,6575,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Boots of Speed,,,59612,52233,Lane.jungle,Role.none
+7,GodMeru,Pantheon,True,Side.red,5,3,3,2.6666666666666665,138,Flash,Ignite,12,False,9004,7600,Caulfield's Warhammer,Youmuu's Ghostblade,Corrupting Potion,Boots of Mobility,Phage,Pickaxe,1431,66730,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,6,3,4,3.3333333333333335,121,Flash,Heal,11,True,9011,8425,Infinity Edge,Brawler's Gloves,Runaan's Hurricane,Berserker's Greaves,Control Ward,Doran's Blade,305,75767,Lane.bot_lane,Role.carry
+9,Program,Viktor,True,Side.red,5,0,3,8.0,163,Ghost,Flash,13,False,9386,5450,The Hex Core mk-1,Refillable Potion,Boots of Speed,Rylai's Crystal Scepter,Doran's Ring,,90673,16155,Lane.mid_lane,Role.solo

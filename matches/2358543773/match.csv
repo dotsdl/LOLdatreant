@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,oSee,Ekko,False,Side.blue,3,8,1,0.5,91,Flash,Teleport,10,False,5577,7925,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,40417,6592,Lane.mid_lane,Role.solo
+1,Turc,Tahm Kench,False,Side.blue,0,4,3,0.75,24,Exhaust,Flash,8,False,3950,3150,Targon's Brace,Refillable Potion,Sightstone,Boots of Swiftness,,,5386,3164,Lane.bot_lane,Role.support
+2,CloudNguyén,Lee Sin,False,Side.blue,0,6,4,0.6666666666666666,67,Smite,Flash,9,False,5095,4325,Enchantment: Warrior,Refillable Potion,Control Ward,Long Sword,Boots of Speed,Poacher's Dirk,8154,38244,Lane.jungle,Role.none
+3,MyTimeIsNow,Yasuo,False,Side.blue,2,7,0,0.2857142857142857,128,Teleport,Flash,10,False,5849,5700,Doran's Blade,Berserker's Greaves,Bilgewater Cutlass,Phantom Dancer,,,16427,41953,Lane.top_lane,Role.solo
+4,yltfed,Jhin,False,Side.blue,2,6,2,0.6666666666666666,98,Flash,Heal,9,False,5467,7925,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Sapphire Crystal,,1632,35003,Lane.bot_lane,Role.carry
+5,Dhokla,Jayce,True,Side.red,9,2,4,6.5,151,Flash,Exhaust,13,False,10014,8550,,Refillable Potion,Boots of Swiftness,,,,14659,95913,Lane.mid_lane,Role.solo
+6,moon o,Rek'Sai,True,Side.red,10,1,9,19.0,96,Smite,Flash,12,False,10136,8950,Tiamat,Refillable Potion,Locket of the Iron Solari,Boots of Speed,Enchantment: Cinderhulk,Guardian Angel,19127,74665,Lane.jungle,Role.none
+7,fantastic ad,Vayne,True,Side.red,3,0,2,5.0,134,Heal,Flash,10,False,7670,5225,Doran's Blade,Zeal,Berserker's Greaves,Pickaxe,,B. F. Sword,0,56616,Lane.bot_lane,Role.carry
+8,Delerium,Janna,True,Side.red,2,1,13,15.0,9,Exhaust,Flash,10,False,5995,3225,Sightstone,,,Forbidden Idol,Boots of Speed,Nomad's Medallion,3269,4236,Lane.bot_lane,Role.support
+9,Sunbob,Rammus,True,Side.red,7,3,8,5.0,91,Teleport,Flash,11,True,8062,6875,Ninja Tabi,Zz'Rot Portal,Refillable Potion,Doran's Shield,Thornmail,,15755,23623,Lane.top_lane,Role.solo

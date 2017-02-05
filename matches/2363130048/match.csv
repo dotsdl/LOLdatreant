@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,singed420,Singed,False,Side.blue,2,7,3,0.7142857142857143,173,Ghost,Teleport,14,False,8581,6650,The Dark Seal,Corrupting Potion,Mercury's Treads,Rod of Ages,Chain Vest,Spectre's Cowl,90220,6264,Lane.top_lane,Role.solo
+1,CsCs Scientist,Lux,False,Side.blue,4,5,6,2.0,31,Flash,Exhaust,12,False,7894,7010,Eye of the Watchers,Morellonomicon,Ionian Boots of Lucidity,Amplifying Tome,The Dark Seal,,38230,2741,Lane.bot_lane,Role.support
+2,GKyrios,Viktor,False,Side.blue,3,12,3,0.5,102,Flash,Exhaust,11,False,7484,7085,Perfect Hex Core,Amplifying Tome,Needlessly Large Rod,Doran's Ring,Boots of Speed,Giant's Belt,46980,7386,Lane.mid_lane,Role.solo
+3,Grapermelon,Hecarim,False,Side.blue,3,9,4,0.7777777777777778,118,Smite,Ghost,13,False,8257,7808,Boots of Swiftness,Refillable Potion,Enchantment: Cinderhulk,Trinity Force,Ruby Crystal,,12199,76263,Lane.jungle,Role.none
+4,q1w2e3r4t5y6u7i8,Ezreal,False,Side.blue,0,2,5,2.5,197,Flash,Heal,13,False,8564,7908,Muramana,Trinity Force,Doran's Blade,Ionian Boots of Lucidity,,,16017,88699,Lane.bot_lane,Role.carry
+5,iDontCareX,Jhin,True,Side.red,3,2,8,5.5,179,Heal,Flash,13,False,10935,10450,Rapid Firecannon,Boots of Swiftness,Essence Reaver,Vampiric Scepter,B. F. Sword,,3275,123457,Lane.bot_lane,Role.carry
+6,Anthøny,Kha'Zix,True,Side.red,13,2,5,9.0,119,Smite,Flash,15,True,13236,9050,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,Hexdrinker,Caulfield's Warhammer,4229,137019,Lane.jungle,Role.none
+7,Thalies,Karma,True,Side.red,0,3,19,6.333333333333333,20,Exhaust,Flash,12,False,8743,8600,Frost Queen's Claim,Sightstone,Boots of Mobility,Locket of the Iron Solari,Control Ward,Redemption,24338,6810,Lane.bot_lane,Role.support
+8,Daddygoesdeep,Nautilus,True,Side.red,4,1,9,13.0,156,Flash,Teleport,14,False,10297,9275,Corrupting Potion,Zz'Rot Portal,Spectre's Cowl,Sunfire Cape,Boots of Swiftness,Glacial Shroud,50952,30739,Lane.top_lane,Role.solo
+9,Shockader,Cassiopeia,True,Side.red,14,4,10,6.0,191,Flash,Ghost,15,False,14235,14275,Rabadon's Deathcap,Seraph's Embrace,Rylai's Crystal Scepter,Morellonomicon,Doran's Ring,,122714,5837,Lane.mid_lane,Role.solo

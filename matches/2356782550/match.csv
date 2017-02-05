@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,P town Kid,Vayne,False,Side.blue,0,3,1,0.3333333333333333,143,Heal,Flash,11,False,6356,5875,Refillable Potion,Doran's Blade,Cull,Pickaxe,Statikk Shiv,B. F. Sword,8173,44270,Lane.bot_lane,Role.carry
+1,JewBrownie,Nautilus,False,Side.blue,3,6,3,1.0,53,Smite,Flash,10,False,5957,5670,Enchantment: Cinderhulk,Ninja Tabi,Giant's Belt,Refillable Potion,Negatron Cloak,,34645,19766,Lane.jungle,Role.none
+2,KoSChuckNorris,Xerath,False,Side.blue,6,5,1,1.4,135,Flash,Barrier,12,False,7631,6700,Aether Wisp,Morellonomicon,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,,72053,7064,Lane.mid_lane,Role.solo
+3,How2Riven,Riven,False,Side.blue,1,3,2,1.0,107,Flash,Teleport,11,False,5918,5800,Hexdrinker,Refillable Potion,Caulfield's Warhammer,Vampiric Scepter,Ninja Tabi,Phage,0,43934,Lane.top_lane,Role.solo
+4,i XiYe,Thresh,False,Side.blue,1,9,5,0.6666666666666666,16,Flash,Exhaust,9,False,4683,4200,Aegis of the Legion,Control Ward,Sightstone,Targon's Brace,Mercury's Treads,,3979,3499,Lane.bot_lane,Role.support
+5,Anatech,Braum,True,Side.red,2,2,11,6.5,18,Flash,Exhaust,10,True,7145,6925,Face of the Mountain,Knight's Vow,Sightstone,Control Ward,,Boots of Mobility,4838,5634,Lane.bot_lane,Role.support
+6,Bunny Protector,Jinx,True,Side.red,9,3,6,5.0,184,Flash,Heal,12,False,11625,8530,,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,400,99574,Lane.bot_lane,Role.carry
+7,TRUMPSSMALLHANDS,Jarvan IV,True,Side.red,4,1,12,16.0,66,Flash,Smite,12,False,8669,7675,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Long Sword,Long Sword,4271,86746,Lane.jungle,Role.none
+8,NZA,Teemo,True,Side.red,2,4,2,1.0,136,Flash,Exhaust,12,False,7658,6700,Health Potion,Bilgewater Cutlass,Recurve Bow,Frozen Mallet,Boots of Speed,Doran's Blade,23161,30883,Lane.top_lane,Role.solo
+9,RainDear,Viktor,True,Side.red,9,1,8,17.0,165,Flash,Ghost,13,False,10737,8310,Amplifying Tome,Rylai's Crystal Scepter,Perfect Hex Core,,Ionian Boots of Lucidity,Doran's Ring,83513,12638,Lane.mid_lane,Role.solo

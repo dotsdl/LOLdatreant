@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Williams,Karma,True,Side.blue,4,5,33,7.4,20,Flash,Heal,15,False,11635,9100,Mikael's Crucible,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Frostfang,Control Ward,19824,7312,Lane.bot_lane,Role.support
+1,Nash,Orianna,True,Side.blue,10,6,17,4.5,199,Ignite,Flash,16,False,14002,12450,Doran's Ring,Needlessly Large Rod,Morellonomicon,Rabadon's Deathcap,Ardent Censer,Sorcerer's Shoes,129074,10730,Lane.mid_lane,Role.solo
+2,Falco Mechanic,Twitch,True,Side.blue,18,8,15,4.125,173,Exhaust,Flash,15,False,15583,14700,Mercurial Scimitar,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Mortal Reminder,74,144760,Lane.bot_lane,Role.carry
+3,xRequiem,Nautilus,True,Side.blue,3,6,14,2.8333333333333335,175,Teleport,Flash,15,False,11801,9650,Zz'Rot Portal,Corrupting Potion,Sunfire Cape,Mercury's Treads,Banshee's Veil,,69893,29094,Lane.top_lane,Role.solo
+4,Distasteful,Hecarim,True,Side.blue,6,8,12,2.25,162,Ghost,Smite,16,False,12694,11208,Enchantment: Cinderhulk,Trinity Force,Mercury's Treads,Chain Vest,Spirit Visage,,33639,129777,Lane.jungle,Role.none
+5,WINNER Jinwoo,Twisted Fate,False,Side.red,7,10,12,1.9,188,Ignite,Flash,15,False,13553,13425,Rod of Ages,Ionian Boots of Lucidity,Zhonya's Hourglass,Lich Bane,Doran's Ring,Void Staff,127506,17632,Lane.mid_lane,Role.solo
+6,one trick hehexd,Jinx,False,Side.red,4,11,11,1.3636363636363635,160,Flash,Heal,13,True,11598,10800,,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Statikk Shiv,Long Sword,6622,110453,Lane.bot_lane,Role.carry
+7,BaIance,Nami,False,Side.red,0,6,18,3.0,5,Exhaust,Flash,12,False,9506,9125,Locket of the Iron Solari,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Forbidden Idol,,9802,4260,Lane.bot_lane,Role.support
+8,High IQ and APM,Nidalee,False,Side.red,15,8,8,2.875,219,Flash,Smite,16,False,15844,14550,Enchantment: Runic Echoes,Rabadon's Deathcap,Rod of Ages,Mercury's Treads,Mejai's Soulstealer,Iceborn Gauntlet,189739,27872,Lane.jungle,Role.none
+9,lc0nic,Maokai,False,Side.red,7,6,7,2.3333333333333335,130,Flash,Teleport,14,False,11601,11000,Spirit Visage,Corrupting Potion,Randuin's Omen,Mercury's Treads,Sunfire Cape,Chain Vest,83133,15592,Lane.jungle,Role.none

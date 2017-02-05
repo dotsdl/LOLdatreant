@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,1234569,Elise,True,Side.blue,12,4,1,3.25,133,Flash,Smite,14,False,12762,12250,Enchantment: Runic Echoes,Hextech Protobelt-01,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Void Staff,,112915,30593,Lane.jungle,Role.none
+1,Weeaboo Riven,Riven,True,Side.blue,3,4,2,1.25,232,Flash,Teleport,15,False,11262,9775,Doran's Shield,The Black Cleaver,,Ninja Tabi,Death's Dance,Tiamat,0,138064,Lane.top_lane,Role.solo
+2,Egregious King,Renekton,True,Side.blue,2,4,6,2.0,203,Ignite,Flash,14,False,10777,10050,Hexdrinker,Titanic Hydra,The Black Cleaver,Mercury's Treads,Null-Magic Mantle,Cloth Armor,5129,115992,Lane.mid_lane,Role.solo
+3,OUT DO YA,Vayne,True,Side.blue,5,8,11,2.0,195,Flash,Heal,14,True,11617,11450,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,23322,98023,Lane.bot_lane,Role.carry
+4,Pekin Woof,Blitzcrank,True,Side.blue,5,1,18,23.0,29,Flash,Ignite,13,False,9961,9625,Righteous Glory,Face of the Mountain,Sightstone,Knight's Vow,Boots of Mobility,Elixir of Iron,14881,9593,Lane.bot_lane,Role.support
+5,Do U Copy,Yasuo,False,Side.red,1,4,6,1.75,215,Flash,Teleport,15,False,10071,9625,Doran's Blade,Frozen Mallet,Ninja Tabi,Phantom Dancer,B. F. Sword,Cloak of Agility,23271,97912,Lane.top_lane,Role.solo
+6,xFSN Rin,Ezreal,False,Side.red,11,8,3,1.75,182,Heal,Flash,14,False,12088,10525,Doran's Blade,Blade of the Ruined King,Iceborn Gauntlet,Cull,Muramana,Ionian Boots of Lucidity,23304,95800,Lane.bot_lane,Role.carry
+7,GordanRamsey,Evelynn,False,Side.red,5,4,4,2.25,113,Smite,Flash,13,False,9392,8775,Enchantment: Runic Echoes,Mejai's Soulstealer,Sorcerer's Shoes,Giant's Belt,Hextech Protobelt-01,Refillable Potion,78330,29457,Lane.jungle,Role.none
+8,Pocket Rhino,Alistar,False,Side.red,0,8,11,1.375,43,Flash,Exhaust,12,False,7683,7325,Refillable Potion,Face of the Mountain,Ruby Sightstone,Redemption,Ionian Boots of Lucidity,,14199,5948,Lane.bot_lane,Role.support
+9,Szeto 1997,Viktor,False,Side.red,4,3,2,2.0,201,Ghost,Flash,15,False,10008,8750,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Blasting Wand,Control Ward,111347,12620,Lane.mid_lane,Role.solo

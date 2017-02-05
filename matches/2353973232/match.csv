@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,poop loops,Orianna,True,Side.blue,8,2,4,6.0,157,Flash,Ghost,14,False,10701,9200,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Blasting Wand,,83116,14197,Lane.mid_lane,Role.solo
+1,2night,Ivern,True,Side.blue,0,3,12,4.0,83,Flash,Smite,14,False,9222,7975,Enchantment: Cinderhulk,Locket of the Iron Solari,Athene's Unholy Grail,Ionian Boots of Lucidity,Refillable Potion,,11062,6104,Lane.jungle,Role.none
+2,Keegun,Pantheon,True,Side.blue,7,3,9,5.333333333333333,49,Flash,Ignite,12,True,9762,8625,Sightstone,Edge of Night,Youmuu's Ghostblade,Control Ward,Ninja Tabi,Relic Shield,2848,38601,Lane.bot_lane,Role.duo
+3,HungBrickMan,Ezreal,True,Side.blue,8,2,10,9.0,158,Heal,Flash,13,False,11713,8133,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,Long Sword,,11921,82827,Lane.bot_lane,Role.duo
+4,Okay Mordekaiser,Mordekaiser,True,Side.blue,1,4,1,0.5,178,Ignite,Flash,14,False,9355,7200,Mercury's Treads,Rylai's Crystal Scepter,Spectre's Cowl,,The Dark Seal,Kindlegem,96865,15517,Lane.top_lane,Role.solo
+5,DueyDaddy,Twitch,False,Side.red,4,6,2,1.0,147,Heal,Flash,11,False,8703,8500,Total Biscuit of Rejuvenation,Cull,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Infinity Edge,1350,79108,Lane.bot_lane,Role.carry
+6,NA Top Lane Xio,Akali,False,Side.red,1,3,3,1.3333333333333333,157,Teleport,Flash,14,False,7911,7425,Sorcerer's Shoes,Abyssal Scepter,Bilgewater Cutlass,Cloth Armor,Hextech Revolver,,35053,54855,Lane.top_lane,Role.solo
+7,godtd,Graves,False,Side.red,6,5,3,1.8,112,Smite,Flash,13,False,8544,8000,Berserker's Greaves,Hunter's Potion,Enchantment: Warrior,Phantom Dancer,Vampiric Scepter,Long Sword,5161,104554,Lane.jungle,Role.none
+8,DoJeon,Lulu,False,Side.red,0,5,5,1.0,16,Ignite,Flash,10,False,5637,5150,Boots of Mobility,Eye of the Watchers,Total Biscuit of Rejuvenation,Chalice of Harmony,Cloth Armor,Sapphire Crystal,6840,2681,Lane.bot_lane,Role.support
+9,Ryea,Ahri,False,Side.red,3,5,5,1.6,148,Ignite,Flash,12,False,7884,7155,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Negatron Cloak,Fiendish Codex,Amplifying Tome,41352,13654,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,S Diana 2,Diana,False,Side.blue,6,7,4,1.4285714285714286,156,Ignite,Flash,14,False,10107,8875,Doran's Ring,Zhonya's Hourglass,Abyssal Scepter,Ionian Boots of Lucidity,Doran's Ring,Blasting Wand,103129,11187,Lane.mid_lane,Role.solo
+1,Xinthus,Leona,False,Side.blue,0,5,7,1.4,54,Ignite,Flash,11,False,7038,6625,Ruby Sightstone,Ninja Tabi,Face of the Mountain,Control Ward,Aegis of the Legion,,6593,7651,Lane.bot_lane,Role.support
+2,FIoopie,Jayce,False,Side.blue,4,10,7,1.1,183,Flash,Teleport,14,False,10915,10050,Boots of Swiftness,Youmuu's Ghostblade,Doran's Blade,Phage,Maw of Malmortius,Caulfield's Warhammer,16025,96128,Lane.top_lane,Role.solo
+3,TQS Zuardian,Evelynn,False,Side.blue,11,6,4,2.5,201,Smite,Flash,16,True,13420,12275,Hextech Protobelt-01,Enchantment: Runic Echoes,Lich Bane,Mejai's Soulstealer,Ionian Boots of Lucidity,Giant's Belt,133593,41906,Lane.jungle,Role.none
+4,Distasteful,Ezreal,False,Side.blue,2,8,9,1.375,163,Flash,Heal,12,False,10182,9630,Doran's Blade,Muramana,Bilgewater Cutlass,Iceborn Gauntlet,Ionian Boots of Lucidity,Recurve Bow,13668,72167,Lane.bot_lane,Role.carry
+5,Teh Xiae,Ahri,True,Side.red,4,3,12,5.333333333333333,164,Flash,Ignite,15,False,11468,10050,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Luden's Echo,Needlessly Large Rod,Blasting Wand,73026,15222,Lane.mid_lane,Role.solo
+6,Extreme Person,Xin Zhao,True,Side.red,14,5,10,4.8,130,Flash,Smite,15,False,13643,10350,Enchantment: Cinderhulk,Mercury's Treads,Dead Man's Plate,Titanic Hydra,,,35659,105026,Lane.jungle,Role.none
+7,McCashDollar,Shaco,True,Side.red,6,6,8,2.3333333333333335,126,Teleport,Ignite,14,False,10713,10850,Youmuu's Ghostblade,Hextech Protobelt-01,Doran's Ring,Lich Bane,Ninja Tabi,,58332,24422,Lane.top_lane,Role.solo
+8,Clarizio,Janna,True,Side.red,0,2,23,11.5,7,Flash,Exhaust,14,False,9504,7375,Control Ward,Ruby Sightstone,Redemption,Nomad's Medallion,Boots of Mobility,Aegis of the Legion,3500,4141,Lane.bot_lane,Role.support
+9,feud999,Caitlyn,True,Side.red,12,7,8,2.857142857142857,211,Flash,Heal,14,False,14476,10625,Infinity Edge,Runaan's Hurricane,Phantom Dancer,Berserker's Greaves,Doran's Blade,,584,177270,Lane.bot_lane,Role.carry

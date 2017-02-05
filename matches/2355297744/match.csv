@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Graee,Ryze,True,Side.blue,7,2,6,6.5,155,Ghost,Flash,13,False,10206,9675,Abyssal Scepter,Blasting Wand,Needlessly Large Rod,Rod of Ages,Tear of the Goddess,Ionian Boots of Lucidity,91452,11770,Lane.mid_lane,Role.solo
+1,l MiMo l,Hecarim,True,Side.blue,3,4,5,2.0,90,Smite,Ghost,12,False,8029,7983,Mercury's Treads,Enchantment: Cinderhulk,Control Ward,,Trinity Force,,10248,79636,Lane.jungle,Role.none
+2,Cat Person,Janna,True,Side.blue,0,2,11,5.5,5,Flash,Heal,12,False,6577,6400,Redemption,Sightstone,Control Ward,Aegis of the Legion,Frostfang,Boots of Mobility,3854,3282,Lane.bot_lane,Role.support
+3,Falco Mechanic,Caitlyn,True,Side.blue,9,4,4,3.25,184,Exhaust,Flash,13,False,10825,10250,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,B. F. Sword,283,130872,Lane.bot_lane,Role.carry
+4,TaeYeonT,Ekko,True,Side.blue,1,3,3,1.3333333333333333,129,Teleport,Flash,12,False,7529,6375,The Dark Seal,Corrupting Potion,Zz'Rot Portal,Phage,Mercury's Treads,Ruby Crystal,55971,21299,Lane.top_lane,Role.solo
+5,Lesu,Evelynn,False,Side.red,4,5,3,1.4,129,Smite,Flash,13,False,8595,8225,Enchantment: Runic Echoes,Refillable Potion,Lich Bane,Ruby Crystal,Boots of Speed,Needlessly Large Rod,82019,34778,Lane.jungle,Role.none
+6,bvcx222,Bard,False,Side.red,1,3,11,4.0,14,Flash,Ignite,10,False,6264,6050,Ruby Sightstone,Locket of the Iron Solari,Control Ward,Ruby Crystal,Spellthief's Edge,Boots of Mobility,8255,2759,Lane.bot_lane,Role.support
+7,Paxton,Draven,False,Side.red,5,4,5,2.5,186,Flash,Heal,13,True,9788,8375,Youmuu's Ghostblade,Mercurial Scimitar,Boots of Speed,Pickaxe,Doran's Blade,,0,93998,Lane.bot_lane,Role.carry
+8,always4u,Twisted Fate,False,Side.red,1,5,5,1.2,133,Flash,Ignite,11,False,7368,6370,Refillable Potion,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Fiendish Codex,Negatron Cloak,67372,9271,Lane.mid_lane,Role.solo
+9,ZambonGG,Zac,False,Side.red,4,3,3,2.3333333333333335,191,Flash,Teleport,14,False,8591,8485,Doran's Shield,Zz'Rot Portal,Refillable Potion,Spirit Visage,Sorcerer's Shoes,Bami's Cinder,86059,13121,Lane.top_lane,Role.solo

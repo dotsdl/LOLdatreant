@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid Lima,Vayne,True,Side.blue,1,0,1,2.0,112,Flash,Heal,9,False,5391,4000,Refillable Potion,Doran's Blade,Statikk Shiv,Boots of Speed,Cull,,4273,29393,Lane.bot_lane,Role.duo
+1,Utatane Piko,Katarina,True,Side.blue,3,0,7,10.0,95,Ignite,Flash,11,False,6354,3560,Seeker's Armguard,Sorcerer's Shoes,Total Biscuit of Rejuvenation,Amplifying Tome,The Dark Seal,,43510,9265,Lane.mid_lane,Role.solo
+2,RandomPrestige,Darius,True,Side.blue,7,0,2,9.0,90,Ghost,Teleport,10,True,6904,5475,Corrupting Potion,Mercury's Treads,The Black Cleaver,Ruby Crystal,Cloth Armor,,284,54303,Lane.top_lane,Role.solo
+3,JeremySucks,Lee Sin,True,Side.blue,6,1,6,12.0,71,Smite,Flash,10,False,6761,4575,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Long Sword,Long Sword,,10178,56050,Lane.jungle,Role.none
+4,Pumpfake,Malphite,True,Side.blue,0,1,3,3.0,28,Exhaust,Flash,7,False,4081,2400,Sightstone,Refillable Potion,Control Ward,Targon's Brace,Boots of Speed,,5107,6990,Lane.bot_lane,Role.duo
+5,Virus,Twitch,False,Side.red,0,1,2,2.0,88,Heal,Flash,8,False,4812,2875,Doran's Blade,Brawler's Gloves,Dagger,B. F. Sword,Boots of Speed,Control Ward,109,27262,Lane.bot_lane,Role.duo
+6,BreaK NA,Graves,False,Side.red,1,5,0,0.2,59,Smite,Flash,8,False,4448,3875,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,,,,2996,47541,Lane.jungle,Role.none
+7,Miles Storm,Maokai,False,Side.red,0,3,0,0.0,73,Flash,Teleport,9,False,3851,3000,Bami's Cinder,Corrupting Potion,Chain Vest,Boots of Speed,Cloth Armor,,25741,7087,Lane.top_lane,Role.solo
+8,Detat,Varus,False,Side.red,0,4,0,0.0,79,Flash,Ghost,8,False,4030,2325,Doran's Blade,Refillable Potion,Caulfield's Warhammer,Cull,,,1528,26713,Lane.mid_lane,Role.solo
+9,bvcx222,Bard,False,Side.red,1,4,1,0.5,0,Flash,Ignite,6,False,3566,3000,Sightstone,Boots of Mobility,Frostfang,,,,4318,2943,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Adrian Riven,Jax,True,Side.blue,7,6,3,1.6666666666666667,143,Teleport,Flash,13,False,10087,9833,Trinity Force,Hextech Gunblade,Corrupting Potion,Mercury's Treads,,,19759,73404,Lane.top_lane,Role.solo
+1,Swìft,Rengar,True,Side.blue,4,5,7,2.2,126,Smite,Flash,13,False,10067,7000,Maw of Malmortius,Enchantment: Warrior,Boots of Mobility,,,,8308,109898,Lane.jungle,Role.none
+2,Hanjaro,Lux,True,Side.blue,7,3,16,7.666666666666667,25,Flash,Exhaust,12,False,9938,8500,Frostfang,Luden's Echo,Sorcerer's Shoes,Morellonomicon,,,31699,5252,Lane.bot_lane,Role.support
+3,M ckg,Katarina,True,Side.blue,17,1,1,18.0,158,Ignite,Flash,15,False,12834,10225,Needlessly Large Rod,Zhonya's Hourglass,Hextech Gunblade,Sorcerer's Shoes,The Dark Seal,Blasting Wand,99375,11962,Lane.mid_lane,Role.solo
+4,Saeca,Lucian,True,Side.blue,7,5,8,3.0,141,Flash,Heal,12,True,10017,8250,Doran's Blade,Essence Reaver,Infinity Edge,Boots of Speed,,,3296,75972,Lane.bot_lane,Role.carry
+5,SKT Beng,Aurelion Sol,False,Side.red,3,8,4,0.875,100,Flash,Exhaust,11,False,6737,7750,Boots of Swiftness,The Dark Seal,Corrupting Potion,The Dark Seal,Hextech GLP-800,The Dark Seal,41576,5858,Lane.mid_lane,Role.solo
+6,Celend,Zyra,False,Side.red,4,7,6,1.4285714285714286,15,Flash,Exhaust,9,False,6562,4830,Negatron Cloak,Boots of Speed,Sightstone,Needlessly Large Rod,Amplifying Tome,Frostfang,18068,2309,Lane.bot_lane,Role.support
+7,Virus,Twitch,False,Side.red,5,9,4,1.0,122,Heal,Flash,11,False,8309,8150,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,,33,57682,Lane.bot_lane,Role.carry
+8,7788 ADC,Nidalee,False,Side.red,3,10,6,0.9,68,Smite,Flash,10,False,6879,6775,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Control Ward,Boots of Speed,The Dark Seal,,45727,7916,Lane.jungle,Role.none
+9,The Coldshroom,Teemo,False,Side.red,5,8,1,0.75,134,Ignite,Flash,12,False,7889,7625,Doran's Ring,Hextech Protobelt-01,Seeker's Armguard,Sorcerer's Shoes,Fiendish Codex,Stinger,50472,14481,Lane.top_lane,Role.solo

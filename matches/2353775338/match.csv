@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Psychotlc,Vel'Koz,True,Side.blue,7,4,15,5.5,239,Flash,Ghost,17,False,15373,14125,Sorcerer's Shoes,Rylai's Crystal Scepter,Luden's Echo,Morellonomicon,Needlessly Large Rod,Blasting Wand,159291,8807,Lane.mid_lane,Role.solo
+1,WatchThePower,Riven,True,Side.blue,9,4,10,4.75,293,Flash,Teleport,18,False,17352,16175,Maw of Malmortius,Ravenous Hydra,Quicksilver Sash,The Black Cleaver,Mercury's Treads,Guardian Angel,1621,216667,Lane.top_lane,Role.solo
+2,Cryphas,Twitch,True,Side.blue,12,8,8,2.5,257,Heal,Flash,17,False,17844,17350,Guardian Angel,Infinity Edge,Berserker's Greaves,Blade of the Ruined King,Runaan's Hurricane,Phantom Dancer,431,184223,Lane.bot_lane,Role.carry
+3,Reversed Sejuani,Nautilus,True,Side.blue,2,10,15,1.7,88,Flash,Exhaust,15,True,12924,12075,Face of the Mountain,Ruby Sightstone,Randuin's Omen,Mercury's Treads,,Sunfire Cape,52119,14152,Lane.bot_lane,Role.support
+4,Riot Ranger XIV,Shyvana,True,Side.blue,5,5,12,3.4,192,Smite,Flash,17,False,15282,13383,Titanic Hydra,Control Ward,Spectre's Cowl,Mercury's Treads,Enchantment: Bloodrazor,Trinity Force,77592,126253,Lane.jungle,Role.none
+5,ClemClementine,Maokai,False,Side.red,9,7,12,3.0,119,Flash,Smite,15,False,12945,12325,Enchantment: Cinderhulk,Locket of the Iron Solari,Randuin's Omen,Spirit Visage,Control Ward,Mercury's Treads,88347,27022,Lane.jungle,Role.none
+6,U LoZe,Teemo,False,Side.red,5,8,7,1.5,195,Flash,Exhaust,17,False,13434,13100,Void Staff,Zeal,Hextech Gunblade,Liandry's Torment,Sorcerer's Shoes,Dagger,92458,48968,Lane.top_lane,Role.solo
+7,OddUncle,Ryze,False,Side.red,10,5,9,3.8,220,Ghost,Flash,17,False,14686,14000,Hextech GLP-800,Seraph's Embrace,Zhonya's Hourglass,Rabadon's Deathcap,Ionian Boots of Lucidity,,172118,12884,Lane.mid_lane,Role.solo
+8,xHypoxia,Vayne,False,Side.red,6,10,6,1.2,194,Heal,Flash,14,False,12838,12425,Doran's Blade,Infinity Edge,Blade of the Ruined King,Berserker's Greaves,Pickaxe,Statikk Shiv,17349,116697,Lane.bot_lane,Role.duo
+9,Kingslook,Thresh,False,Side.red,1,5,20,4.2,88,Ignite,Flash,14,False,11120,10225,Face of the Mountain,Sightstone,Zz'Rot Portal,Knight's Vow,Ninja Tabi,,36779,13022,Lane.bot_lane,Role.duo

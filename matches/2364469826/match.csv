@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,Kennen,False,Side.blue,7,4,6,3.25,98,Flash,Teleport,11,False,8654,7175,Hextech Gunblade,Doran's Blade,Doran's Blade,Needlessly Large Rod,Boots of Speed,Seeker's Armguard,23605,29216,Lane.top_lane,Role.solo
+1,Cat Ears,Thresh,False,Side.blue,3,5,6,1.8,8,Flash,Exhaust,8,False,5587,5075,Ancient Coin,Aegis of the Legion,Ruby Sightstone,Boots of Swiftness,Faerie Charm,Null-Magic Mantle,3412,800,Lane.bot_lane,Role.support
+2,Štarboy,Jhin,False,Side.blue,2,4,4,1.5,135,Heal,Flash,10,False,6902,6670,Doran's Blade,Boots of Swiftness,Essence Reaver,Zeal,,Dagger,794,66729,Lane.bot_lane,Role.carry
+3,Twisted Fate Boy,Twisted Fate,False,Side.blue,4,5,4,1.6,114,Ghost,Flash,11,True,7946,7275,Doran's Ring,Lich Bane,Doran's Ring,Ionian Boots of Lucidity,Aether Wisp,Needlessly Large Rod,54866,6370,Lane.mid_lane,Role.solo
+4,moon o,Lee Sin,False,Side.blue,2,7,6,1.1428571428571428,81,Smite,Flash,10,False,6855,5350,Tiamat,Refillable Potion,,Enchantment: Warrior,Boots of Speed,Giant's Belt,9422,61886,Lane.jungle,Role.none
+5,Alex Ich 1,Varus,True,Side.red,9,2,5,7.0,144,Flash,Cleanse,11,False,9683,8075,Doran's Blade,Pickaxe,Youmuu's Ghostblade,Manamune,Mercury's Treads,,3685,81709,Lane.mid_lane,Role.solo
+6,Dyrus,Jayce,True,Side.red,4,4,9,3.25,89,Smite,Flash,12,False,8713,6675,Enchantment: Warrior,Refillable Potion,,The Black Cleaver,Long Sword,Boots of Speed,14383,83790,Lane.jungle,Role.none
+7,Adrian Riven,Riven,True,Side.red,3,5,5,1.6,102,Teleport,Flash,10,False,7018,5900,Maw of Malmortius,Mercury's Treads,Caulfield's Warhammer,,,,0,56445,Lane.top_lane,Role.solo
+8,Cuckvele,Karma,True,Side.red,0,5,11,2.2,6,Flash,Exhaust,9,False,6049,5925,Locket of the Iron Solari,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Control Ward,,Eye of the Watchers,5133,4328,Lane.bot_lane,Role.support
+9,Shiphtur,Ziggs,True,Side.red,9,2,6,7.5,140,Heal,Flash,11,False,10040,8000,Control Ward,Doran's Ring,Luden's Echo,Morellonomicon,Sorcerer's Shoes,,93465,9533,Lane.bot_lane,Role.carry

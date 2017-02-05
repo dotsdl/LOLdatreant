@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Salaj,Sivir,False,Side.blue,2,7,9,1.5714285714285714,187,Flash,Heal,13,False,9749,8700,Doran's Blade,Long Sword,Cull,Essence Reaver,Berserker's Greaves,Phantom Dancer,62,100334,Lane.bot_lane,Role.carry
+1,DeaIer29,Twisted Fate,False,Side.blue,9,4,9,4.5,176,Ghost,Flash,14,False,12260,11925,Doran's Ring,Zhonya's Hourglass,Mercury's Treads,Lich Bane,Abyssal Scepter,Blasting Wand,107314,14060,Lane.mid_lane,Role.solo
+2,l Spawn l,Lee Sin,False,Side.blue,7,6,9,2.6666666666666665,104,Flash,Smite,13,False,9613,8575,Enchantment: Warrior,Randuin's Omen,Refillable Potion,Mercury's Treads,Hexdrinker,Long Sword,17854,83153,Lane.jungle,Role.none
+3,BMGreenleaf,Bard,False,Side.blue,0,6,12,2.0,17,Flash,Exhaust,11,False,7137,7000,Frostfang,Ruby Sightstone,Boots of Mobility,Redemption,Refillable Potion,Fiendish Codex,12760,5155,Lane.bot_lane,Role.support
+4,Révenge,Jayce,False,Side.blue,4,8,5,1.125,142,Teleport,Flash,13,False,9161,8775,The Black Cleaver,Mercury's Treads,Youmuu's Ghostblade,Refillable Potion,Hexdrinker,,12260,88170,Lane.top_lane,Role.solo
+5,Falco Mechanic,Caitlyn,True,Side.red,8,6,9,2.8333333333333335,239,Exhaust,Flash,15,False,14393,12000,Doran's Blade,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,The Bloodthirster,2523,195746,Lane.bot_lane,Role.carry
+6,never meme,Lulu,True,Side.red,4,6,15,3.1666666666666665,16,Heal,Flash,12,False,9524,7950,Locket of the Iron Solari,Redemption,Ruby Sightstone,Spellthief's Edge,Null-Magic Mantle,Boots of Mobility,17002,3493,Lane.bot_lane,Role.support
+7,Hyorimaru,Anivia,True,Side.red,2,5,7,1.8,185,Flash,Ghost,14,False,10974,10650,Doran's Ring,Rod of Ages,Zhonya's Hourglass,Archangel's Staff,Boots of Mobility,,90218,7924,Lane.mid_lane,Role.solo
+8,Grigne,Elise,True,Side.red,7,2,14,10.5,127,Flash,Smite,15,True,12822,10775,Enchantment: Runic Echoes,Boots of Mobility,Guardian Angel,Rylai's Crystal Scepter,The Dark Seal,Giant's Belt,109427,31986,Lane.jungle,Role.none
+9,Riesig,Riven,True,Side.red,10,3,5,5.0,221,Flash,Teleport,16,False,13599,11850,The Black Cleaver,Ninja Tabi,The Bloodthirster,Maw of Malmortius,,,93,136150,Lane.top_lane,Role.solo

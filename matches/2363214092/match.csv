@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lil Cody,Kassadin,True,Side.blue,7,1,8,15.0,161,Teleport,Flash,14,False,10134,8575,Corrupting Potion,Rod of Ages,Lich Bane,Ionian Boots of Lucidity,Seeker's Armguard,,64432,22389,Lane.mid_lane,Role.solo
+1,Arce,Nautilus,True,Side.blue,2,2,4,3.0,161,Teleport,Flash,14,False,8266,7475,Doran's Shield,Iceborn Gauntlet,The Dark Seal,Mercury's Treads,Bami's Cinder,Aegis of the Legion,61604,26757,Lane.top_lane,Role.solo
+2,Erry,Caitlyn,True,Side.blue,9,2,7,8.0,203,Heal,Flash,13,True,11830,9725,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Doran's Blade,Cull,Zeal,347,125320,Lane.bot_lane,Role.carry
+3,daduu,Thresh,True,Side.blue,2,3,14,5.333333333333333,21,Flash,Exhaust,12,False,6726,5500,Boots of Mobility,,Ruby Sightstone,Control Ward,Face of the Mountain,,7385,4766,Lane.bot_lane,Role.support
+4,moon o,Lee Sin,True,Side.blue,2,7,5,1.0,123,Smite,Flash,13,False,8106,7500,Tiamat,Refillable Potion,Giant's Belt,Enchantment: Warrior,Ninja Tabi,Jaurim's Fist,16776,91530,Lane.jungle,Role.none
+5,Feitan,Bard,False,Side.red,2,5,9,2.2,12,Ignite,Flash,10,False,6250,6035,Ionian Boots of Lucidity,Redemption,Frostfang,Ruby Sightstone,Amplifying Tome,,8943,3032,Lane.bot_lane,Role.support
+6,mandatorycloud,Jhin,False,Side.red,5,6,4,1.5,131,Flash,Heal,11,False,7863,6800,Doran's Blade,Essence Reaver,Zeal,,Boots of Swiftness,,3558,61112,Lane.bot_lane,Role.carry
+7,bulgarian jg  ,Zac,False,Side.red,2,3,5,2.3333333333333335,118,Smite,Flash,12,False,7755,7475,Enchantment: Cinderhulk,Randuin's Omen,Refillable Potion,Spectre's Cowl,Control Ward,Boots of Speed,80619,19274,Lane.jungle,Role.none
+8,C9 Meteos,Viktor,False,Side.red,2,4,8,2.5,158,Ghost,Flash,13,False,8072,6570,Perfect Hex Core,Doran's Ring,Fiendish Codex,Negatron Cloak,Ionian Boots of Lucidity,Doran's Ring,88757,5995,Lane.mid_lane,Role.solo
+9,Naeun,Graves,False,Side.red,4,4,1,1.25,201,Teleport,Flash,13,False,9382,9275,The Bloodthirster,Doran's Blade,Dagger,The Black Cleaver,Cull,Mercury's Treads,1994,101035,Lane.top_lane,Role.solo

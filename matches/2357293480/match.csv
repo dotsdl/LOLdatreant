@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Knarc,Blitzcrank,False,Side.blue,1,6,3,0.6666666666666666,21,Flash,Exhaust,8,False,4068,2675,Relic Shield,Boots of Mobility,Raptor Cloak,,,Control Ward,5666,3437,Lane.bot_lane,Role.support
+1,Fake Carry,Graves,False,Side.blue,0,5,5,1.0,139,Heal,Flash,10,False,5575,5100,Youmuu's Ghostblade,Zeal,,,Boots of Speed,Doran's Blade,1626,61969,Lane.bot_lane,Role.carry
+2,Kenichi C,Skarner,False,Side.blue,2,0,3,5.0,43,Ghost,Smite,7,True,4801,3775,Enchantment: Warrior,Boots of Mobility,Total Biscuit of Rejuvenation,,,,5201,23311,Lane.jungle,Role.none
+3,phøng,Riven,False,Side.blue,1,3,0,0.3333333333333333,66,Flash,Teleport,8,False,4266,4125,The Black Cleaver,,Refillable Potion,Long Sword,Boots of Speed,,895,23423,Lane.top_lane,Role.solo
+4,The Cream Beam,Ahri,False,Side.blue,2,4,2,1.0,74,Flash,Ignite,9,False,4727,3200,Total Biscuit of Rejuvenation,Doran's Ring,Lost Chapter,Doran's Ring,Boots of Speed,Fiendish Codex,21160,7533,Lane.mid_lane,Role.solo
+5,Flavio Skip,Jinx,True,Side.red,1,1,8,9.0,74,Flash,Heal,8,False,6570,5725,Doran's Blade,Runaan's Hurricane,Pickaxe,B. F. Sword,Boots of Speed,,636,51839,Lane.bot_lane,Role.carry
+6,xJewFish,Lee Sin,True,Side.red,5,2,2,3.5,63,Flash,Smite,10,False,7173,6725,Enchantment: Warrior,Tiamat,Pickaxe,Control Ward,Vampiric Scepter,Boots of Mobility,5717,56334,Lane.jungle,Role.none
+7,Fàkèr  ,Ryze,True,Side.red,6,1,6,12.0,100,Ghost,Flash,10,False,8159,7750,Tear of the Goddess,Corrupting Potion,Rod of Ages,Boots of Swiftness,,Zhonya's Hourglass,49087,7248,Lane.mid_lane,Role.solo
+8,Tuba,Gnar,True,Side.red,3,0,3,6.0,116,Teleport,Flash,11,False,7221,5275,Doran's Blade,Ninja Tabi,Refillable Potion,Frozen Mallet,Long Sword,Control Ward,2323,58639,Lane.top_lane,Role.solo
+9,CJ Frost Sadlife,Thresh,True,Side.red,3,2,7,5.0,7,Flash,Exhaust,8,False,5628,5225,Targon's Brace,Kindlegem,Forbidden Idol,Ionian Boots of Lucidity,Glacial Shroud,Crystalline Bracer,3633,5647,Lane.bot_lane,Role.support

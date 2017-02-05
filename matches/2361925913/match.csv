@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pool Party Janna,Janna,False,Side.blue,0,5,7,1.4,3,Exhaust,Flash,10,False,4972,4425,Ancient Coin,Sightstone,Redemption,,Boots of Mobility,Total Biscuit of Rejuvenation,2366,1883,Lane.bot_lane,Role.support
+1,ChaosBurned,Riven,False,Side.blue,3,4,3,1.5,145,Flash,Teleport,13,False,7719,6850,The Black Cleaver,Tiamat,Ionian Boots of Lucidity,Serrated Dirk,,,0,85650,Lane.top_lane,Role.solo
+2,Laeonix,Lux,False,Side.blue,3,4,7,2.5,130,Ghost,Flash,12,True,7510,7025,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Morellonomicon,,90146,10257,Lane.mid_lane,Role.solo
+3,Tavares,Twitch,False,Side.blue,5,5,2,1.4,135,Flash,Heal,11,False,7824,7025,,,,,,,0,61601,Lane.bot_lane,Role.carry
+4,ToTwizted,Jax,False,Side.blue,2,4,7,2.25,97,Flash,Smite,12,False,7178,7133,Enchantment: Bloodrazor,Hunter's Potion,Trinity Force,Boots of Speed,,,21205,57771,Lane.jungle,Role.none
+5,Smartcloud,Karma,True,Side.red,1,4,10,2.75,10,Flash,Exhaust,10,False,7736,6500,Elixir of Sorcery,Redemption,Eye of the Watchers,Faerie Charm,Faerie Charm,Ionian Boots of Lucidity,15198,6798,Lane.bot_lane,Role.support
+6,Garani,Nidalee,True,Side.red,9,2,5,7.0,101,Smite,Flash,13,False,10837,8710,Enchantment: Runic Echoes,Blasting Wand,Seraph's Embrace,Boots of Speed,Needlessly Large Rod,Amplifying Tome,83408,16953,Lane.jungle,Role.none
+7,GodMeru,Jayce,True,Side.red,5,3,6,3.6666666666666665,156,Flash,Teleport,13,False,10112,8100,Doran's Blade,Doran's Blade,Caulfield's Warhammer,Manamune,Ionian Boots of Lucidity,Sterak's Gage,12344,76299,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,5,2,8,6.5,171,Flash,Heal,13,False,11015,10600,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,Control Ward,Doran's Blade,246,103862,Lane.bot_lane,Role.carry
+9,Program,Viktor,True,Side.red,2,2,7,4.5,148,Ghost,Flash,12,False,9234,6560,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,Needlessly Large Rod,78046,15699,Lane.mid_lane,Role.solo

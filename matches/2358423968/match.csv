@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DiabolicalFries,Annie,False,Side.blue,0,2,0,0.0,2,Ignite,Flash,1,False,684,500,Doran's Ring,Health Potion,,,,,837,745,Lane.mid_lane,Role.duo
+1,Dhokla,Jayce,False,Side.blue,0,0,0,0.0,9,Flash,Teleport,3,False,821,500,Doran's Blade,Health Potion,,,,,27,2901,Lane.top_lane,Role.solo
+2,Kalyanji,Twitch,False,Side.blue,0,0,0,0.0,0,Heal,Flash,1,False,650,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+3,Leos sadness,Zac,False,Side.blue,0,0,0,0.0,16,Smite,Flash,3,False,1018,500,Hunter's Talisman,Refillable Potion,,,,,5069,2734,Lane.jungle,Role.none
+4,Xyd ,Leona,False,Side.blue,0,0,0,0.0,3,Flash,Exhaust,2,False,705,500,Relic Shield,,,,Total Biscuit of Rejuvenation,,591,189,Lane.bot_lane,Role.solo
+5,SNSD Sunnny,Ashe,True,Side.red,0,0,0,0.0,17,Heal,Flash,2,False,994,500,,Doran's Blade,,,Total Biscuit of Rejuvenation,,0,3686,Lane.bot_lane,Role.duo
+6,Loopsers,Gangplank,True,Side.red,2,0,0,2.0,13,Teleport,Flash,3,True,1662,500,Doran's Blade,,,,,,92,3589,Lane.mid_lane,Role.solo
+7,MAKEBELIEVEWITHU,Brand,True,Side.red,0,0,0,0.0,0,Flash,Ignite,2,False,713,500,Total Biscuit of Rejuvenation,Spellthief's Edge,,,,,134,1146,Lane.bot_lane,Role.duo
+8,Tetsion,Warwick,True,Side.red,0,0,0,0.0,7,Ignite,Flash,2,False,787,500,Doran's Ring,,,,,,538,1289,Lane.top_lane,Role.solo
+9,Dicey,Shaco,True,Side.red,0,0,0,0.0,6,Smite,Ignite,3,False,1036,500,Hunter's Machete,Refillable Potion,,,,,2467,4805,Lane.jungle,Role.none

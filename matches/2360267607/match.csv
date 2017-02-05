@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yansel,Elise,False,Side.blue,9,7,2,1.5714285714285714,103,Smite,Flash,13,False,9534,8725,Enchantment: Runic Echoes,Warden's Mail,Boots of Mobility,Dead Man's Plate,Giant's Belt,,47569,26013,Lane.jungle,Role.none
+1,Melanon,Twitch,False,Side.blue,4,11,7,1.0,114,Heal,Flash,12,False,8379,8250,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Long Sword,,,0,58925,Lane.bot_lane,Role.carry
+2,Riopkers,Karma,False,Side.blue,2,7,10,1.7142857142857142,38,Flash,Exhaust,12,False,8584,8050,Ardent Censer,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,,,35892,6954,Lane.bot_lane,Role.support
+3,ReliabIe,Kled,False,Side.blue,2,9,5,0.7777777777777778,144,Flash,Exhaust,13,False,8686,8400,Titanic Hydra,The Black Cleaver,Mercury's Treads,,Doran's Blade,,25,84372,Lane.top_lane,Role.solo
+4,Dank Cyndaquil,Ahri,False,Side.blue,3,8,6,1.125,133,Ignite,Flash,13,False,8581,7850,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Aether Wisp,Boots of Speed,,44935,14036,Lane.mid_lane,Role.solo
+5,IronTissue,Darius,True,Side.red,6,4,9,3.75,177,Flash,Teleport,15,False,12250,11375,Corrupting Potion,Titanic Hydra,Boots of Swiftness,Ruby Crystal,The Black Cleaver,Dead Man's Plate,285,117979,Lane.top_lane,Role.solo
+6,Anthøny,Lee Sin,True,Side.red,10,3,8,6.0,104,Smite,Flash,15,True,12488,10425,Enchantment: Warrior,Ravenous Hydra,Refillable Potion,Maw of Malmortius,Boots of Mobility,,20174,115078,Lane.jungle,Role.none
+7,péggy,Nami,True,Side.red,2,2,18,10.0,18,Flash,Exhaust,12,False,9695,8350,Frost Queen's Claim,Sightstone,Redemption,Forbidden Idol,Boots of Mobility,Aether Wisp,11009,8434,Lane.bot_lane,Role.support
+8,Noobidoob,Lucian,True,Side.red,8,5,10,3.6,150,Flash,Heal,13,False,11998,9850,Total Biscuit of Rejuvenation,Doran's Blade,Statikk Shiv,B. F. Sword,Essence Reaver,Berserker's Greaves,11498,93047,Lane.bot_lane,Role.carry
+9,mhcsjacky,Yasuo,True,Side.red,16,6,8,4.0,194,Flash,Ignite,15,False,14733,12900,Quicksilver Sash,Berserker's Greaves,Phantom Dancer,Doran's Blade,Infinity Edge,The Bloodthirster,29335,118644,Lane.mid_lane,Role.solo

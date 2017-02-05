@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FaR007,Morgana,False,Side.blue,1,4,7,2.0,15,Exhaust,Flash,8,False,5154,4575,Boots of Mobility,Ruby Sightstone,Crystalline Bracer,Spellthief's Edge,Forbidden Idol,,6308,3014,Lane.bot_lane,Role.support
+1,Twisted Fate Boy,Twisted Fate,False,Side.blue,1,6,5,1.0,141,Ghost,Flash,11,False,7209,6100,Zhonya's Hourglass,Boots of Speed,Doran's Ring,Doran's Ring,Sheen,Aether Wisp,55413,7479,Lane.mid_lane,Role.solo
+2,Hits the Blunt,Singed,False,Side.blue,2,6,0,0.3333333333333333,112,Ghost,Teleport,11,False,6048,5750,The Dark Seal,Corrupting Potion,Spirit Visage,Boots of Swiftness,Raptor Cloak,,55735,4397,Lane.top_lane,Role.solo
+3,luckyfist,Lee Sin,False,Side.blue,4,6,4,1.3333333333333333,74,Smite,Flash,10,False,6335,5500,Refillable Potion,Enchantment: Warrior,Boots of Speed,Caulfield's Warhammer,Control Ward,Phage,11129,45679,Lane.jungle,Role.none
+4,Report If Toxic,Caitlyn,False,Side.blue,3,7,4,1.0,119,Flash,Heal,10,False,6504,5300,Doran's Blade,B. F. Sword,Runaan's Hurricane,Boots of Swiftness,,,104,53821,Lane.bot_lane,Role.carry
+5,definitely high,Jhin,True,Side.red,6,4,7,3.25,108,Flash,Heal,11,False,8788,5350,Essence Reaver,Doran's Blade,Refillable Potion,,Boots of Swiftness,,2396,59684,Lane.bot_lane,Role.carry
+6,IFIWINYOUSUCKBAD,Vi,True,Side.red,7,2,3,5.0,118,Flash,Smite,12,True,9402,7500,Enchantment: Warrior,Refillable Potion,Serrated Dirk,Duskblade of Draktharr,Long Sword,Boots of Speed,1772,96045,Lane.jungle,Role.none
+7,Sìyou,Thresh,True,Side.red,2,3,14,5.333333333333333,17,Flash,Ignite,10,False,6751,6025,Redemption,Eye of the Equinox,Control Ward,Cloth Armor,Boots of Mobility,,7647,4607,Lane.bot_lane,Role.support
+8,Beuca,Yasuo,True,Side.red,8,1,5,13.0,170,Exhaust,Flash,13,False,10918,7900,Doran's Blade,Refillable Potion,Berserker's Greaves,Phantom Dancer,Infinity Edge,,18703,106547,Lane.mid_lane,Role.solo
+9,dirtydob,Ryze,True,Side.red,6,1,2,8.0,144,Flash,Teleport,12,False,8918,8950,Archangel's Staff,Ionian Boots of Lucidity,Rod of Ages,Seeker's Armguard,Fiendish Codex,,97397,6270,Lane.top_lane,Role.solo

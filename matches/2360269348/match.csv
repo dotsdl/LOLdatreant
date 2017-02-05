@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,THE RING BEARER,Draven,False,Side.blue,4,6,0,0.6666666666666666,168,Heal,Flash,12,False,9707,9450,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,B. F. Sword,Long Sword,0,90025,Lane.bot_lane,Role.carry
+1,DankyIsToxic,Karma,False,Side.blue,0,5,6,1.2,18,Exhaust,Flash,10,False,6525,5650,Eye of the Watchers,Redemption,Boots of Swiftness,,Refillable Potion,,15635,4668,Lane.bot_lane,Role.support
+2,RNG Mlxgod,Rengar,False,Side.blue,7,8,4,1.375,116,Smite,Flash,13,False,9485,9150,Enchantment: Warrior,Tiamat,Youmuu's Ghostblade,Serrated Dirk,Ninja Tabi,,3386,96444,Lane.jungle,Role.none
+3,Ouchxiao,Annie,False,Side.blue,4,10,4,0.8,98,Flash,Ignite,12,False,7508,7100,Hextech Protobelt-01,Corrupting Potion,Boots of Mobility,Luden's Echo,,,50142,6000,Lane.mid_lane,Role.solo
+4,Evangelion,Vladimir,False,Side.blue,1,7,4,0.7142857142857143,153,Flash,Teleport,13,False,7475,6050,Hextech Protobelt-01,Ionian Boots of Lucidity,Spectre's Cowl,Kindlegem,Doran's Shield,Health Potion,59705,12942,Lane.top_lane,Role.solo
+5,Topopotamus,Kayle,True,Side.red,6,5,2,1.6,168,Teleport,Flash,14,False,11051,8300,Doran's Ring,Nashor's Tooth,Ionian Boots of Lucidity,Lich Bane,Dagger,Dagger,84611,34752,Lane.top_lane,Role.solo
+6,HARUHI S3 PLS,Lee Sin,True,Side.red,5,1,14,19.0,128,Smite,Flash,15,False,11307,9250,Caulfield's Warhammer,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Hexdrinker,,27510,96198,Lane.jungle,Role.none
+7,Autumn Clouds,Jhin,True,Side.red,10,2,5,7.5,156,Heal,Flash,13,False,11765,11250,Doran's Blade,Rapid Firecannon,Boots of Swiftness,Essence Reaver,Infinity Edge,,6876,84927,Lane.bot_lane,Role.carry
+8,Nwok,Braum,True,Side.red,1,0,17,18.0,26,Flash,Exhaust,13,False,8244,6850,Relic Shield,Redemption,Ruby Sightstone,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,5740,6081,Lane.bot_lane,Role.support
+9,ACuteKoreanGirI,Yasuo,True,Side.red,14,8,4,2.25,154,Teleport,Flash,15,True,12818,12825,The Bloodthirster,Phantom Dancer,Mercury's Treads,Infinity Edge,Hexdrinker,,17431,113601,Lane.mid_lane,Role.solo

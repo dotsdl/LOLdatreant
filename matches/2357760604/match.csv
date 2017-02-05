@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Iizard ,Twitch,True,Side.blue,2,0,5,7.0,238,Flash,Heal,14,False,12055,9850,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Zeal,Kircheis Shard,373,128816,Lane.bot_lane,Role.carry
+1,peterlelol,Graves,True,Side.blue,8,3,11,6.333333333333333,194,Flash,Smite,17,False,14086,11550,Enchantment: Warrior,Long Sword,Berserker's Greaves,Death's Dance,Phantom Dancer,Jaurim's Fist,5390,188131,Lane.jungle,Role.none
+2,o Cero o,Darius,True,Side.blue,6,5,4,2.0,168,Flash,Ghost,15,False,11826,11075,Doran's Blade,Ninja Tabi,Spirit Visage,The Black Cleaver,Dead Man's Plate,Ruby Crystal,0,101301,Lane.top_lane,Role.solo
+3,RadBoy,Viktor,True,Side.blue,10,1,6,16.0,286,Flash,Ghost,17,False,16422,13950,Perfect Hex Core,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Lich Bane,Void Staff,Doran's Ring,212815,14683,Lane.mid_lane,Role.solo
+4,jacksparrow111,Karma,True,Side.blue,0,2,13,6.5,11,Flash,Exhaust,13,False,8941,8300,Ionian Boots of Lucidity,Redemption,Control Ward,Eye of the Watchers,Ardent Censer,,19258,4825,Lane.bot_lane,Role.support
+5,Tobias Fate,Gangplank,False,Side.red,4,2,4,4.0,214,Flash,Exhaust,15,False,11630,11783,Trinity Force,Youmuu's Ghostblade,Infinity Edge,Boots of Swiftness,,,7217,187111,Lane.mid_lane,Role.solo
+6,Filly,Soraka,False,Side.red,0,3,5,1.6666666666666667,7,Flash,Exhaust,11,False,6464,6325,Refillable Potion,Null-Magic Mantle,Eye of the Oasis,Redemption,Cloth Armor,Ionian Boots of Lucidity,6110,896,Lane.bot_lane,Role.support
+7,Myloo,Corki,False,Side.red,1,2,3,2.0,244,Flash,Heal,13,False,9868,9633,Sorcerer's Shoes,Hextech Gunblade,Kircheis Shard,Trinity Force,,Doran's Blade,88554,32326,Lane.bot_lane,Role.carry
+8,Neoseanster,Nocturne,False,Side.red,3,12,3,0.5,107,Smite,Flash,13,True,8827,8525,Titanic Hydra,Ruby Crystal,Enchantment: Cinderhulk,Mercury's Treads,Null-Magic Mantle,Cloth Armor,6617,96543,Lane.jungle,Role.none
+9,jamican banana,Yorick,False,Side.red,3,7,2,0.7142857142857143,205,Teleport,Flash,14,False,9903,9483,Ninja Tabi,Corrupting Potion,Zz'Rot Portal,Trinity Force,Giant's Belt,Cloth Armor,18272,98134,Lane.top_lane,Role.solo

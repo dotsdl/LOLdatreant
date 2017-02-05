@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Noobs are uss,Gnar,True,Side.blue,6,1,1,7.0,167,Flash,Teleport,14,True,9580,8100,Frozen Mallet,Sunfire Cape,Mercury's Treads,Long Sword,,Doran's Blade,13695,85111,Lane.top_lane,Role.solo
+1,Zackattack,Soraka,True,Side.blue,0,0,10,10.0,4,Flash,Exhaust,9,False,6401,5400,Ionian Boots of Lucidity,Forbidden Idol,Talisman of Ascension,Sightstone,,,3072,4644,Lane.bot_lane,Role.support
+2,Dodge Scripting,Caitlyn,True,Side.blue,4,0,4,8.0,176,Heal,Flash,12,False,9449,8225,Infinity Edge,Total Biscuit of Rejuvenation,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,Dagger,114,105858,Lane.bot_lane,Role.carry
+3,Wizikz,Lee Sin,True,Side.blue,10,0,5,15.0,119,Smite,Flash,12,False,10191,9050,Titanic Hydra,Enchantment: Warrior,Phage,Long Sword,Mercury's Treads,,12978,88480,Lane.jungle,Role.none
+4,loveyen,Orianna,True,Side.blue,2,1,10,12.0,140,Flash,Ghost,12,False,8616,7250,Doran's Ring,Control Ward,Hextech Protobelt-01,Sorcerer's Shoes,Morellonomicon,,59094,12068,Lane.mid_lane,Role.solo
+5,EndarV2,Zac,False,Side.red,0,2,2,1.0,61,Flash,Smite,9,False,5012,4625,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Kindlegem,,,33611,11424,Lane.jungle,Role.none
+6,Naiyar,Yasuo,False,Side.red,0,7,0,0.0,149,Flash,Teleport,11,False,5882,5750,Statikk Shiv,Ninja Tabi,B. F. Sword,,Doran's Blade,,35062,34390,Lane.top_lane,Role.solo
+7,Goddess,Lux,False,Side.red,0,3,1,0.3333333333333333,28,Exhaust,Flash,9,False,4604,3850,Eye of the Watchers,,Total Biscuit of Rejuvenation,,The Dark Seal,Boots of Mobility,21303,2021,Lane.bot_lane,Role.support
+8,G String Only,Twisted Fate,False,Side.red,2,5,0,0.4,110,Flash,Ignite,11,False,6110,5685,Doran's Ring,Sheen,Amplifying Tome,Boots of Speed,Rod of Ages,Doran's Ring,53135,6369,Lane.mid_lane,Role.solo
+9,BOBOMAN4,Jinx,False,Side.red,0,5,1,0.2,105,Flash,Heal,10,False,5228,3825,Doran's Blade,Cull,Boots of Speed,Dagger,Pickaxe,B. F. Sword,36,44406,Lane.bot_lane,Role.carry

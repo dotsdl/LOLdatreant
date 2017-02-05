@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cat Person,Lulu,False,Side.blue,0,7,16,2.2857142857142856,14,Flash,Heal,12,False,7254,6925,Forbidden Idol,Sightstone,Crystalline Bracer,Frostfang,Ardent Censer,Boots of Mobility,8637,3055,Lane.bot_lane,Role.support
+1,Falco Mechanic,Vayne,False,Side.blue,6,7,8,2.0,164,Exhaust,Flash,12,False,10101,9650,Doran's Blade,Berserker's Greaves,Infinity Edge,Doran's Blade,Phantom Dancer,Zeal,1886,96140,Lane.bot_lane,Role.carry
+2,DdC ThanatoZ,Nasus,False,Side.blue,0,8,3,0.375,204,Teleport,Flash,14,False,9378,9258,Randuin's Omen,Trinity Force,Kindlegem,,Ninja Tabi,Corrupting Potion,29733,111435,Lane.top_lane,Role.solo
+3,Jadsbutt,Syndra,False,Side.blue,5,5,5,2.0,175,Flash,Exhaust,13,False,9526,8975,Zhonya's Hourglass,Morellonomicon,Blasting Wand,Sorcerer's Shoes,Doran's Ring,Doran's Ring,86051,8016,Lane.mid_lane,Role.solo
+4,Nero Valentine,Lee Sin,False,Side.blue,7,9,2,1.0,112,Smite,Flash,12,True,9371,8700,Enchantment: Warrior,Tiamat,Null-Magic Mantle,Boots of Swiftness,Dead Man's Plate,Ruby Crystal,12046,73659,Lane.jungle,Role.none
+5,umperor,Sion,True,Side.red,6,3,11,5.666666666666667,193,Teleport,Flash,15,False,11661,11200,Corrupting Potion,Redemption,Locket of the Iron Solari,Ninja Tabi,Sterak's Gage,Frozen Heart,29095,92428,Lane.top_lane,Role.solo
+6,Szeto 1997,Jhin,True,Side.red,5,2,12,8.5,153,Heal,Flash,13,False,11547,9900,Doran's Blade,Essence Reaver,Rapid Firecannon,Cloak of Agility,Ionian Boots of Lucidity,Pickaxe,7231,107461,Lane.bot_lane,Role.carry
+7,skyWtr,Elise,True,Side.red,9,2,8,8.5,176,Smite,Flash,16,False,13556,12575,The Dark Seal,Hextech Protobelt-01,Rylai's Crystal Scepter,Haunting Guise,Sorcerer's Shoes,Enchantment: Runic Echoes,153265,34623,Lane.jungle,Role.none
+8,AP Sona,Sona,True,Side.red,2,7,20,3.142857142857143,14,Flash,Exhaust,12,False,9091,8150,Ruby Sightstone,Redemption,Control Ward,Frostfang,Athene's Unholy Grail,Ionian Boots of Lucidity,12518,4657,Lane.bot_lane,Role.support
+9,Haillo Kitty,Zed,True,Side.red,14,4,5,4.75,199,Ignite,Flash,16,False,14212,13175,Boots of Mobility,Duskblade of Draktharr,The Black Cleaver,Youmuu's Ghostblade,Refillable Potion,Guardian Angel,7365,119156,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,o Cero o,Darius,False,Side.blue,7,12,2,0.75,162,Flash,Ghost,14,False,10596,10650,The Black Cleaver,Ninja Tabi,Ruby Crystal,Spectre's Cowl,Dead Man's Plate,Warden's Mail,143,94179,Lane.top_lane,Role.solo
+1,Dank Matter,Hecarim,False,Side.blue,8,4,11,4.75,143,Ghost,Smite,15,False,12755,12143,Spirit Visage,Trinity Force,Boots of Swiftness,Chain Vest,Giant's Belt,Enchantment: Cinderhulk,36763,117442,Lane.jungle,Role.none
+2,Orbt,Caitlyn,False,Side.blue,5,7,5,1.4285714285714286,193,Flash,Heal,13,False,11503,11225,Doran's Blade,,Rapid Firecannon,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,1564,137608,Lane.bot_lane,Role.carry
+3,Yarkbeezy,Malzahar,False,Side.blue,7,6,10,2.8333333333333335,153,Ghost,Flash,15,False,11702,11135,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,Liandry's Torment,Morellonomicon,,96599,23015,Lane.mid_lane,Role.solo
+4,Sinickle,Soraka,False,Side.blue,0,7,15,2.142857142857143,6,Flash,Heal,12,False,8013,7100,Mikael's Crucible,Refillable Potion,Sightstone,Boots of Mobility,Nomad's Medallion,Ardent Censer,4940,1898,Lane.bot_lane,Role.support
+5,Unstopebble,Karma,True,Side.red,1,3,19,6.666666666666667,35,Flash,Exhaust,14,False,11205,8975,Eye of the Watchers,Redemption,,Ardent Censer,Ionian Boots of Lucidity,Aegis of the Legion,28630,5090,Lane.bot_lane,Role.support
+6,GingerSpacer,Fiora,True,Side.red,5,10,12,1.7,199,Teleport,Flash,16,False,13835,12375,Ravenous Hydra,Quicksilver Sash,Ninja Tabi,Mortal Reminder,The Black Cleaver,,1918,147312,Lane.top_lane,Role.solo
+7,DeeJayJay,Lee Sin,True,Side.red,11,7,10,3.0,129,Flash,Smite,16,True,13629,11950,Enchantment: Warrior,Locket of the Iron Solari,,Dead Man's Plate,The Black Cleaver,Boots of Mobility,25625,87625,Lane.jungle,Role.none
+8,TheNuocMam,Lux,True,Side.red,9,2,9,9.0,275,Heal,Flash,17,False,17429,13100,Frost Queen's Claim,Rabadon's Deathcap,Mejai's Soulstealer,Blasting Wand,Sorcerer's Shoes,Luden's Echo,189789,22609,Lane.mid_lane,Role.solo
+9,OmegaB,Vayne,True,Side.red,10,5,7,3.4,212,Flash,Heal,15,False,14980,10380,Pickaxe,Phantom Dancer,Blade of the Ruined King,Vampiric Scepter,Berserker's Greaves,,531,123751,Lane.bot_lane,Role.carry

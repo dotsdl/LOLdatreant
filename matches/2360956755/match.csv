@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pond,Vayne,False,Side.blue,0,5,3,0.6,98,Heal,Flash,10,False,5790,5700,B. F. Sword,Doran's Blade,Berserker's Greaves,Statikk Shiv,,,507,32931,Lane.bot_lane,Role.carry
+1,ZatsMod,Viktor,False,Side.blue,2,9,2,0.4444444444444444,105,Flash,Ghost,10,False,5932,6783,The Hex Core mk-1,Abyssal Scepter,Ionian Boots of Lucidity,,Doran's Ring,,45129,6828,Lane.mid_lane,Role.solo
+2,Leagué,Poppy,False,Side.blue,2,5,2,0.8,131,Flash,Teleport,11,False,6841,6310,Bami's Cinder,Corrupting Potion,Ninja Tabi,Spirit Visage,Cloth Armor,Cloth Armor,12937,43514,Lane.top_lane,Role.solo
+3,Stiches,Twisted Fate,False,Side.blue,0,7,5,0.7142857142857143,12,Exhaust,Flash,8,False,5006,4350,Eye of the Watchers,Sheen,Boots of Mobility,,,,12742,3490,Lane.bot_lane,Role.support
+4,Link,Riven,False,Side.blue,7,6,2,1.5,103,Flash,Smite,11,False,8151,7600,Pickaxe,Tiamat,Caulfield's Warhammer,Ionian Boots of Lucidity,Null-Magic Mantle,Enchantment: Warrior,119,82204,Lane.jungle,Role.none
+5,Liquid Painless,Karma,True,Side.red,3,2,9,6.0,100,Flash,Teleport,12,False,7778,6175,Doran's Ring,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Fiendish Codex,Null-Magic Mantle,42541,8611,Lane.top_lane,Role.solo
+6,camtheham,Twitch,True,Side.red,3,5,7,2.0,123,Heal,Flash,10,False,8350,6525,Cloak of Agility,B. F. Sword,Runaan's Hurricane,Doran's Blade,Boots of Speed,Pickaxe,495,52255,Lane.bot_lane,Role.carry
+7,WildTurtle,Lee Sin,True,Side.red,10,2,5,7.5,142,Flash,Smite,14,True,10942,9500,Dead Man's Plate,Refillable Potion,The Black Cleaver,Boots of Speed,Enchantment: Warrior,Long Sword,22290,103215,Lane.jungle,Role.none
+8,qldurtms,Syndra,True,Side.red,12,0,5,17.0,189,Flash,Ghost,14,False,12083,11875,Quicksilver Sash,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,106615,8858,Lane.mid_lane,Role.solo
+9,C9 Lemon,Lulu,True,Side.red,4,2,9,6.5,9,Exhaust,Flash,10,False,7409,5725,Ionian Boots of Lucidity,Refillable Potion,Redemption,Eye of the Watchers,Control Ward,,13458,6129,Lane.bot_lane,Role.support

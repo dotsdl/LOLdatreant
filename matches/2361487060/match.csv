@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nykolas,Hecarim,True,Side.blue,6,2,11,8.5,154,Smite,Ghost,15,False,10996,9883,,Enchantment: Cinderhulk,Boots of Swiftness,Spectre's Cowl,Trinity Force,Kindlegem,22437,120597,Lane.jungle,Role.none
+1,Conomos,Draven,True,Side.blue,9,5,8,3.4,173,Flash,Heal,13,False,12507,10675,Doran's Blade,Infinity Edge,Zeal,The Bloodthirster,Berserker's Greaves,Dagger,4460,122009,Lane.bot_lane,Role.carry
+2,Tobias Fate,Gangplank,True,Side.blue,4,2,13,8.5,191,Flash,Exhaust,14,False,12077,10858,Doran's Ring,Youmuu's Ghostblade,Pickaxe,Boots of Swiftness,B. F. Sword,Trinity Force,10796,144510,Lane.mid_lane,Role.solo
+3,Annie Bot,Annie,True,Side.blue,4,3,1,1.6666666666666667,179,Teleport,Flash,13,False,9524,8910,Blasting Wand,Zhonya's Hourglass,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Amplifying Tome,71559,12957,Lane.top_lane,Role.solo
+4,Pãwz,Nami,True,Side.blue,4,1,19,23.0,4,Exhaust,Flash,13,False,8515,7600,Control Ward,Forbidden Idol,Chalice of Harmony,Eye of the Watchers,Ardent Censer,Ionian Boots of Lucidity,9956,6293,Lane.bot_lane,Role.support
+5,DogFewd,Vayne,False,Side.red,6,8,1,0.875,192,Flash,Heal,13,True,10823,10700,Berserker's Greaves,Infinity Edge,Statikk Shiv,Doran's Blade,B. F. Sword,Vampiric Scepter,34215,83252,Lane.bot_lane,Role.carry
+6,The Rory Mercury,Elise,False,Side.red,1,5,7,1.6,122,Flash,Smite,13,False,9093,8425,Hextech Protobelt-01,Refillable Potion,Boots of Mobility,Enchantment: Runic Echoes,Giant's Belt,Needlessly Large Rod,87650,28575,Lane.jungle,Role.none
+7,alexdeth,Braum,False,Side.red,0,7,6,0.8571428571428571,40,Flash,Smite,11,False,6670,6375,Face of the Mountain,Locket of the Iron Solari,Sightstone,Control Ward,Boots of Speed,Ruby Crystal,6976,5006,Lane.bot_lane,Role.support
+8,kt Sofm,Katarina,False,Side.red,1,7,3,0.5714285714285714,174,Ignite,Flash,13,False,8769,8100,Sorcerer's Shoes,Hextech Protobelt-01,Hextech Gunblade,Blasting Wand,,,75834,12224,Lane.mid_lane,Role.solo
+9,foggedftw2,Tryndamere,False,Side.red,5,0,1,6.0,274,Ignite,Flash,16,False,13077,12950,B. F. Sword,Blade of the Ruined King,Mercury's Treads,The Black Cleaver,Statikk Shiv,Cloak of Agility,42967,136596,Lane.top_lane,Role.solo

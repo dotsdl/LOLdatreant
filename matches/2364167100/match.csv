@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TDK Tr4nce,Caitlyn,False,Side.blue,1,4,1,0.5,106,Flash,Heal,9,False,5619,5425,Doran's Blade,Cull,Control Ward,Dagger,Infinity Edge,Boots of Speed,459,40672,Lane.bot_lane,Role.carry
+1,TheOddOrange,Vi,False,Side.blue,2,3,1,1.0,74,Flash,Smite,9,False,5659,5333,Stalker's Blade,Refillable Potion,Boots of Speed,Trinity Force,,,1479,61291,Lane.jungle,Role.none
+2,Linsanityy,Poppy,False,Side.blue,1,4,1,0.5,121,Flash,Teleport,12,False,5596,4625,Corrupting Potion,Doran's Shield,Control Ward,Boots of Speed,Ruby Crystal,Sunfire Cape,8457,36798,Lane.top_lane,Role.solo
+3,Winter is back,Thresh,False,Side.blue,0,4,2,0.5,14,Flash,Ignite,6,False,3681,3325,Targon's Brace,Boots of Mobility,,Sightstone,,Total Biscuit of Rejuvenation,2428,1743,Lane.bot_lane,Role.support
+4,The Tank Man,Veigar,False,Side.blue,0,7,0,0.0,108,Flash,Teleport,10,False,5120,5060,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,,,37444,4945,Lane.mid_lane,Role.solo
+5,Jurassiq,Ezreal,True,Side.red,4,0,6,10.0,142,Flash,Heal,11,False,8966,6050,Sheen,Ionian Boots of Lucidity,Manamune,Glacial Shroud,Doran's Blade,,12606,64684,Lane.bot_lane,Role.carry
+6,zlsna,Jayce,True,Side.red,1,2,3,2.0,120,Flash,Teleport,11,False,7243,5800,Doran's Blade,Refillable Potion,The Black Cleaver,Mercury's Treads,Doran's Blade,Long Sword,9411,52803,Lane.top_lane,Role.solo
+7,Štarboy,Ivern,True,Side.red,6,0,4,10.0,62,Smite,Flash,12,True,8436,7410,Chalice of Harmony,Control Ward,Redemption,Enchantment: Runic Echoes,Amplifying Tome,Ionian Boots of Lucidity,13583,7516,Lane.jungle,Role.none
+8,Pekin Woof,Orianna,True,Side.red,6,0,4,10.0,174,Flash,Ghost,14,False,9360,6750,Doran's Ring,,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Aether Wisp,76423,13148,Lane.mid_lane,Role.solo
+9,C9 Meteos,Brand,True,Side.red,4,2,6,5.0,18,Ignite,Flash,10,False,7775,5275,Haunting Guise,Sorcerer's Shoes,Refillable Potion,Eye of the Watchers,,,20394,5209,Lane.bot_lane,Role.support

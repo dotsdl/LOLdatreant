@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Baby Biek,Nami,False,Side.blue,1,6,18,3.1666666666666665,10,Exhaust,Flash,12,False,7947,7450,Redemption,Mikael's Crucible,Control Ward,Frostfang,Boots of Mobility,Sightstone,6132,4560,Lane.bot_lane,Role.support
+1,Deenie,Viktor,False,Side.blue,8,8,11,2.375,156,Flash,Ignite,13,False,10591,9835,Needlessly Large Rod,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,Perfect Hex Core,78018,13692,Lane.mid_lane,Role.solo
+2,Jackster,Twitch,False,Side.blue,14,8,8,2.75,159,Flash,Heal,13,False,13128,13330,Quicksilver Sash,Runaan's Hurricane,Statikk Shiv,Berserker's Greaves,Vampiric Scepter,Infinity Edge,4923,90603,Lane.bot_lane,Role.carry
+3,Barclay snoopy,Kennen,False,Side.blue,1,8,8,1.125,135,Teleport,Flash,13,False,8188,7600,Doran's Blade,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Ruby Crystal,,47749,21970,Lane.top_lane,Role.solo
+4,Thinkful,Evelynn,False,Side.blue,3,11,9,1.0909090909090908,98,Smite,Flash,13,False,8439,8300,Giant's Belt,Hextech Protobelt-01,Needlessly Large Rod,Boots of Speed,,Enchantment: Runic Echoes,54366,30242,Lane.jungle,Role.none
+5,J Y C,Corki,True,Side.red,9,6,11,3.3333333333333335,158,Flash,Exhaust,15,False,12140,11208,Hexdrinker,B. F. Sword,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,Refillable Potion,78108,21920,Lane.mid_lane,Role.solo
+6,weeman100,Olaf,True,Side.red,16,5,7,4.6,150,Ghost,Smite,17,False,14474,13250,Enchantment: Cinderhulk,Randuin's Omen,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Ruby Crystal,27971,119653,Lane.jungle,Role.none
+7,SaintKilianv2,Ekko,True,Side.red,8,2,1,4.5,204,Teleport,Flash,16,False,11948,10025,Corrupting Potion,Hextech Gunblade,Lich Bane,Doran's Ring,Sorcerer's Shoes,Blasting Wand,118736,23252,Lane.top_lane,Role.solo
+8,RealTeemo,Ashe,True,Side.red,5,7,14,2.7142857142857144,154,Heal,Flash,14,True,12343,10825,Doran's Blade,Infinity Edge,,Essence Reaver,Runaan's Hurricane,Boots of Speed,3661,105800,Lane.bot_lane,Role.carry
+9,Morrisito,Leona,True,Side.red,3,7,13,2.2857142857142856,39,Flash,Exhaust,12,False,9008,8800,Boots of Mobility,Eye of the Equinox,Knight's Vow,Redemption,Null-Magic Mantle,,7632,7872,Lane.bot_lane,Role.support

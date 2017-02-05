@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,11037,Ziggs,True,Side.blue,3,6,5,1.3333333333333333,246,Teleport,Flash,15,False,13547,12550,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Doran's Ring,Lich Bane,Blasting Wand,166898,11872,Lane.mid_lane,Role.solo
+1,Grigne,Elise,True,Side.blue,8,6,6,2.3333333333333335,149,Flash,Smite,16,False,13665,12420,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Negatron Cloak,Void Staff,Rylai's Crystal Scepter,Giant's Belt,136678,35912,Lane.jungle,Role.none
+2,Riesig,Riven,True,Side.blue,4,2,4,4.0,331,Flash,Teleport,18,False,15092,12500,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Last Whisper,,Ravenous Hydra,0,219331,Lane.top_lane,Role.solo
+3,greenléaf,Caitlyn,True,Side.blue,5,5,10,3.0,259,Heal,Flash,17,False,14558,12925,Vampiric Scepter,Rapid Firecannon,Quicksilver Sash,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,2964,164684,Lane.bot_lane,Role.carry
+4,Keegun,Pantheon,True,Side.blue,1,9,12,1.4444444444444444,55,Flash,Ignite,14,False,10015,9400,Locket of the Iron Solari,Sightstone,Edge of Night,,Ionian Boots of Lucidity,Targon's Brace,5164,36204,Lane.bot_lane,Role.support
+5,creamwithice,Lulu,False,Side.red,1,2,15,8.0,168,Flash,Exhaust,17,False,11079,11000,Morellonomicon,Redemption,Ardent Censer,Needlessly Large Rod,Blasting Wand,Sorcerer's Shoes,79706,13918,Lane.mid_lane,Role.solo
+6,windking66,Lucian,False,Side.red,10,5,6,3.2,384,Heal,Flash,17,False,17563,16535,Essence Reaver,Hexdrinker,Infinity Edge,Rapid Firecannon,Statikk Shiv,Berserker's Greaves,67948,230477,Lane.bot_lane,Role.carry
+7,Hi Im A Sheep,Shen,False,Side.red,5,4,14,4.75,213,Flash,Teleport,17,False,12403,10900,Randuin's Omen,Ruby Crystal,Sunfire Cape,Spirit Visage,Doran's Shield,Mercury's Treads,95285,36146,Lane.top_lane,Role.solo
+8,Biofrost ,Thresh,False,Side.red,1,2,20,10.5,50,Flash,Ignite,14,False,9723,8575,Ruby Sightstone,Crystalline Bracer,Boots of Mobility,Locket of the Iron Solari,Face of the Mountain,Crystalline Bracer,18066,9875,Lane.bot_lane,Role.support
+9,Doublelift,Lee Sin,False,Side.red,11,8,6,2.125,165,Flash,Smite,16,True,13230,11375,Tiamat,Randuin's Omen,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,,24520,141922,Lane.jungle,Role.none

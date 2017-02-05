@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Honi,Graves,False,Side.blue,3,5,2,1.0,147,Flash,Smite,13,True,8409,7800,Refillable Potion,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,Hexdrinker,,3228,113798,Lane.jungle,Role.none
+1,K for Kimchi,Swain,False,Side.blue,3,9,4,0.7777777777777778,122,Teleport,Flash,13,False,7526,6925,Hextech GLP-800,,Boots of Speed,Spirit Visage,Doran's Ring,,47348,8823,Lane.top_lane,Role.solo
+2,chakhae,Gangplank,False,Side.blue,6,4,1,1.75,132,Flash,Exhaust,13,False,9549,9313,Corrupting Potion,Hexdrinker,Pickaxe,Trinity Force,Ionian Boots of Lucidity,B. F. Sword,4059,78433,Lane.mid_lane,Role.solo
+3,9213dog,Ezreal,False,Side.blue,2,9,2,0.4444444444444444,136,Flash,Heal,11,False,7529,6950,Doran's Blade,Manamune,Ionian Boots of Lucidity,Long Sword,Iceborn Gauntlet,,10201,58680,Lane.bot_lane,Role.carry
+4,Bummii,Zyra,False,Side.blue,1,6,4,0.8333333333333334,11,Flash,Exhaust,10,False,6230,5550,Frostfang,Rylai's Crystal Scepter,Sightstone,Control Ward,,Boots of Speed,13553,2405,Lane.bot_lane,Role.support
+5,Please Fade,Irelia,True,Side.red,5,3,4,3.0,167,Teleport,Flash,14,False,9995,8708,Bilgewater Cutlass,Corrupting Potion,Recurve Bow,,Trinity Force,Mercury's Treads,5091,80882,Lane.top_lane,Role.solo
+6,Salcuz,Leona,True,Side.red,2,4,18,5.0,27,Exhaust,Flash,11,False,8260,7875,Catalyst of Aeons,Eye of the Equinox,Boots of Mobility,Redemption,Control Ward,Crystalline Bracer,9573,7668,Lane.bot_lane,Role.support
+7,platinum piggy,Caitlyn,True,Side.red,8,2,10,9.0,193,Heal,Flash,14,False,12429,10575,Doran's Blade,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,,2675,148391,Lane.bot_lane,Role.carry
+8,MoneyOrLife,Ahri,True,Side.red,10,3,3,4.333333333333333,174,Flash,Ignite,14,False,10939,9510,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Needlessly Large Rod,Amplifying Tome,47745,14057,Lane.mid_lane,Role.solo
+9,WE Mafia,Evelynn,True,Side.red,8,3,9,5.666666666666667,77,Flash,Smite,13,False,9842,9925,Hextech Gunblade,Needlessly Large Rod,Boots of Mobility,The Dark Seal,Giant's Belt,Enchantment: Runic Echoes,56509,32236,Lane.jungle,Role.none

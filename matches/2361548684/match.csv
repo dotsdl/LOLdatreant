@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Szeto 1997,Viktor,False,Side.blue,8,3,7,5.0,254,Ghost,Flash,16,False,13583,12810,Perfect Hex Core,Ionian Boots of Lucidity,Sheen,Aether Wisp,Void Staff,Rylai's Crystal Scepter,150459,12285,Lane.mid_lane,Role.solo
+1,ShadowofSelf,Dr. Mundo,False,Side.blue,3,6,13,2.6666666666666665,81,Flash,Exhaust,14,False,9939,9200,Face of the Mountain,Ruby Sightstone,Locket of the Iron Solari,Giant's Belt,Kindlegem,Ninja Tabi,23613,11152,Lane.bot_lane,Role.duo
+2,Liquid fabbbyyy,Ashe,False,Side.blue,3,10,11,1.4,217,Flash,Heal,15,False,12052,11800,Berserker's Greaves,Infinity Edge,Phantom Dancer,Runaan's Hurricane,Last Whisper,,1292,131247,Lane.bot_lane,Role.duo
+3,Based Envy,Nasus,False,Side.blue,7,7,5,1.7142857142857142,245,Teleport,Flash,17,False,12739,12550,Frozen Heart,Banner of Command,Dead Man's Plate,Kindlegem,Ninja Tabi,Spectre's Cowl,96524,55579,Lane.top_lane,Role.solo
+4,NiceTwig,Vi,False,Side.blue,6,7,6,1.7142857142857142,145,Flash,Smite,16,False,11464,10583,Enchantment: Cinderhulk,Trinity Force,Dead Man's Plate,Mercury's Treads,,,8889,113154,Lane.jungle,Role.none
+5,Clarizio,Janna,True,Side.red,1,4,22,5.75,16,Flash,Exhaust,15,False,11066,7450,Redemption,Ruby Sightstone,,Ionian Boots of Lucidity,Aegis of the Legion,Nomad's Medallion,8323,6078,Lane.bot_lane,Role.support
+6,ADC Prospect,Orianna,True,Side.red,5,2,7,6.0,250,Ghost,Flash,16,False,13910,12025,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Void Staff,Blasting Wand,158530,19471,Lane.mid_lane,Role.solo
+7,Imaokai,Illaoi,True,Side.red,7,12,6,1.0833333333333333,225,Teleport,Flash,16,True,13655,12675,Corrupting Potion,The Black Cleaver,Death's Dance,Mercury's Treads,Sterak's Gage,Last Whisper,1850,196282,Lane.top_lane,Role.solo
+8,Erry,Ezreal,True,Side.red,11,4,8,4.75,186,Heal,Flash,15,False,15059,11375,Lord Dominik's Regards,Vampiric Scepter,Recurve Bow,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,18270,149229,Lane.bot_lane,Role.carry
+9,YummiBananas,Jax,True,Side.red,9,5,8,3.4,261,Smite,Ghost,18,False,16722,14408,Enchantment: Bloodrazor,Blade of the Ruined King,Cloth Armor,Frozen Mallet,Trinity Force,Mercury's Treads,59275,199207,Lane.jungle,Role.none

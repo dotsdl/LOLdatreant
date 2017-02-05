@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Final Hour Vayne,Varus,False,Side.blue,5,7,10,2.142857142857143,157,Heal,Flash,13,False,11030,10700,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Lord Dominik's Regards,,15496,106733,Lane.bot_lane,Role.carry
+1,plotz,Jayce,False,Side.blue,9,5,6,3.0,172,Teleport,Flash,16,False,12879,11625,Youmuu's Ghostblade,Lord Dominik's Regards,Doran's Blade,Ionian Boots of Lucidity,The Black Cleaver,Chain Vest,24627,128299,Lane.top_lane,Role.solo
+2,Horny Pix,Lulu,False,Side.blue,5,3,10,5.0,28,Flash,Ignite,13,True,10341,9600,Redemption,Locket of the Iron Solari,Eye of the Watchers,Aether Wisp,Boots of Mobility,Forbidden Idol,15719,8177,Lane.bot_lane,Role.support
+3,Xaexel,Shyvana,False,Side.blue,3,9,6,1.0,172,Exhaust,Smite,14,False,11034,10700,Enchantment: Bloodrazor,Ninja Tabi,Frozen Mallet,Cloth Armor,Guardian Angel,Chain Vest,75749,77198,Lane.jungle,Role.none
+4,Sorye Ge T0n,Renekton,False,Side.blue,3,8,7,1.25,237,Flash,Ignite,15,False,11611,11600,Doran's Blade,The Black Cleaver,Titanic Hydra,Ninja Tabi,Maw of Malmortius,,4203,140580,Lane.mid_lane,Role.solo
+5,Moon Diana,Diana,True,Side.red,6,4,11,4.25,178,Flash,Teleport,16,False,12140,11000,Nashor's Tooth,Zhonya's Hourglass,Rod of Ages,,Sorcerer's Shoes,Doran's Ring,117702,13523,Lane.mid_lane,Role.solo
+6,Sourpatchkids,Rengar,True,Side.red,9,4,13,5.5,178,Flash,Smite,17,False,14176,13975,Enchantment: Cinderhulk,Death's Dance,Ninja Tabi,The Black Cleaver,,Titanic Hydra,28021,160356,Lane.jungle,Role.none
+7,bvcx222,Bard,True,Side.red,1,6,16,2.8333333333333335,23,Flash,Ignite,14,False,9767,9485,Ruby Sightstone,Redemption,Locket of the Iron Solari,Control Ward,Spellthief's Edge,Boots of Mobility,11932,5373,Lane.bot_lane,Role.support
+8,Leshaunda,Jinx,True,Side.red,11,6,9,3.3333333333333335,289,Heal,Flash,17,False,16191,14125,Lord Dominik's Regards,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,3706,221949,Lane.bot_lane,Role.carry
+9,iHDK,Poppy,True,Side.red,5,5,4,1.8,184,Teleport,Flash,16,False,12118,11500,Corrupting Potion,Ninja Tabi,Sunfire Cape,Giant's Belt,Iceborn Gauntlet,Thornmail,36393,90830,Lane.top_lane,Role.solo

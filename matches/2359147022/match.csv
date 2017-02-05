@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,EternalShock,Vayne,True,Side.blue,7,5,7,2.8,196,Flash,Heal,15,False,12112,11550,Berserker's Greaves,Mercurial Scimitar,Infinity Edge,Doran's Blade,Statikk Shiv,,22286,103870,Lane.bot_lane,Role.carry
+1,lron Pyrite,Brand,True,Side.blue,9,2,12,10.5,21,Flash,Ignite,12,False,10842,10150,Frost Queen's Claim,Sightstone,Haunting Guise,The Dark Seal,Sorcerer's Shoes,Rylai's Crystal Scepter,33479,3430,Lane.bot_lane,Role.support
+2,ape boy,Yasuo,True,Side.blue,7,4,6,3.25,230,Flash,Teleport,16,True,12793,12250,Doran's Blade,Blade of the Ruined King,Phantom Dancer,Quicksilver Sash,Frozen Mallet,Mercury's Treads,25234,125725,Lane.top_lane,Role.solo
+3,Pornstar Skarner,Sejuani,True,Side.blue,2,3,17,6.333333333333333,120,Smite,Flash,14,False,10165,9300,Enchantment: Cinderhulk,Crystalline Bracer,Spectre's Cowl,Frozen Heart,Mercury's Treads,Crystalline Bracer,74857,22538,Lane.jungle,Role.none
+4,OUT DO YA,Viktor,True,Side.blue,6,3,6,4.0,172,Flash,Exhaust,14,False,10798,10700,Perfect Hex Core,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Rylai's Crystal Scepter,,83396,10025,Lane.mid_lane,Role.solo
+5,iDontCareX,Ashe,False,Side.red,0,7,10,1.4285714285714286,169,Heal,Flash,12,False,8886,8450,Essence Reaver,Runaan's Hurricane,,Berserker's Greaves,,,1235,87445,Lane.bot_lane,Role.carry
+6,FIoopie,Rek'Sai,False,Side.red,8,6,3,1.8333333333333333,157,Flash,Smite,13,False,10744,10175,Bilgewater Cutlass,Titanic Hydra,Recurve Bow,Mercury's Treads,Enchantment: Cinderhulk,,36474,100330,Lane.jungle,Role.none
+7,Yusui,Katarina,False,Side.red,8,5,2,2.0,146,Ignite,Flash,13,False,9389,8460,Hextech Gunblade,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,Hexdrinker,Needlessly Large Rod,69625,11413,Lane.mid_lane,Role.solo
+8,BukZacH,Maokai,False,Side.red,1,7,2,0.42857142857142855,162,Flash,Teleport,13,False,8174,7550,Doran's Ring,Randuin's Omen,Sunfire Cape,Ninja Tabi,,,71352,16830,Lane.top_lane,Role.solo
+9,Zib Nibbler,Braum,False,Side.red,0,6,10,1.6666666666666667,35,Flash,Exhaust,10,False,6333,6125,Boots of Mobility,Locket of the Iron Solari,,Eye of the Equinox,,,3448,2871,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HooManDu,Thresh,False,Side.blue,2,12,6,0.6666666666666666,26,Ignite,Flash,10,False,7241,6075,Face of the Mountain,Sightstone,Control Ward,Crystalline Bracer,Boots of Mobility,Crystalline Bracer,8176,3935,Lane.bot_lane,Role.support
+1,renektonsextown,Darius,False,Side.blue,6,8,4,1.25,168,Teleport,Flash,14,False,10022,9700,The Black Cleaver,Mercury's Treads,Dead Man's Plate,Spectre's Cowl,Control Ward,Kindlegem,0,85883,Lane.top_lane,Role.solo
+2,Vermillion2,Caitlyn,False,Side.blue,3,7,4,1.0,173,Heal,Flash,13,False,10048,9550,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Infinity Edge,Last Whisper,Long Sword,894,111050,Lane.bot_lane,Role.carry
+3,emV,Jarvan IV,False,Side.blue,5,4,3,2.0,185,Flash,Smite,14,True,11405,10425,Control Ward,Hunter's Potion,Randuin's Omen,Enchantment: Cinderhulk,Maw of Malmortius,Ninja Tabi,38012,112234,Lane.jungle,Role.none
+4,Malya EUW ,Yasuo,False,Side.blue,3,8,6,1.125,201,Flash,Teleport,14,False,10600,10375,Doran's Blade,Phantom Dancer,Frozen Mallet,Mercury's Treads,Guardian Angel,,9932,127132,Lane.mid_lane,Role.solo
+5,Wallmastersex,Karma,True,Side.red,3,8,13,2.0,148,Teleport,Flash,14,False,10269,9250,Luden's Echo,Blasting Wand,Control Ward,Morellonomicon,Doran's Ring,Sorcerer's Shoes,83137,12977,Lane.top_lane,Role.solo
+6,SaReNu,Viktor,True,Side.red,12,2,15,13.5,209,Exhaust,Flash,16,False,13965,11825,Rylai's Crystal Scepter,Lich Bane,Blasting Wand,Doran's Ring,Ionian Boots of Lucidity,Perfect Hex Core,145935,16436,Lane.mid_lane,Role.solo
+7,improve yourseIf,Hecarim,True,Side.red,16,3,19,11.666666666666666,91,Ghost,Smite,14,False,13244,11908,Enchantment: Cinderhulk,Ruby Crystal,Trinity Force,Mercury's Treads,Dead Man's Plate,Warden's Mail,20526,95010,Lane.jungle,Role.none
+8,Hanjaro,Jhin,True,Side.red,7,4,21,7.0,140,Flash,Heal,13,False,11820,11700,Mortal Reminder,Cloak of Agility,,Essence Reaver,Boots of Swiftness,Rapid Firecannon,7749,112618,Lane.bot_lane,Role.carry
+9,ZuteGach,Janna,True,Side.red,1,2,30,15.5,10,Exhaust,Flash,13,False,9673,9050,Forbidden Idol,Eye of the Watchers,Redemption,Locket of the Iron Solari,Control Ward,Boots of Mobility,5116,5772,Lane.bot_lane,Role.support

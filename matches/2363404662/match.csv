@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kohree,Poppy,False,Side.blue,5,5,3,1.6,215,Teleport,Flash,16,False,10917,10525,Sunfire Cape,Corrupting Potion,Ninja Tabi,Frozen Heart,Banshee's Veil,Chain Vest,54798,81258,Lane.top_lane,Role.solo
+1,pokimane,Morgana,False,Side.blue,3,8,7,1.25,27,Exhaust,Flash,12,True,8514,7500,Frost Queen's Claim,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Control Ward,Total Biscuit of Rejuvenation,15162,3446,Lane.bot_lane,Role.support
+2,HungryKot Panda,Gangplank,False,Side.blue,0,5,3,0.6,189,Flash,Exhaust,14,False,9588,8883,Corrupting Potion,Trinity Force,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Lord Dominik's Regards,12778,109295,Lane.mid_lane,Role.solo
+3,Nick Diaz,Rammus,False,Side.blue,7,5,10,3.4,138,Flash,Smite,15,False,11052,10520,Enchantment: Cinderhulk,Negatron Cloak,Zz'Rot Portal,Thornmail,Boots of Swiftness,Giant's Belt,68495,38185,Lane.jungle,Role.none
+4,9213dog,Ezreal,False,Side.blue,10,6,4,2.3333333333333335,203,Flash,Heal,14,False,11796,10925,Doran's Blade,Muramana,Iceborn Gauntlet,Blade of the Ruined King,Pickaxe,Ionian Boots of Lucidity,16609,111520,Lane.bot_lane,Role.carry
+5,BubbleBum ,Zyra,True,Side.red,3,5,12,3.0,25,Flash,Ignite,13,False,9828,8335,,Sightstone,Frost Queen's Claim,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,34096,6882,Lane.bot_lane,Role.support
+6,Munchiezz,Cassiopeia,True,Side.red,12,4,4,4.0,143,Ghost,Flash,15,False,12893,12075,Seraph's Embrace,Quicksilver Sash,Morellonomicon,Blasting Wand,Rylai's Crystal Scepter,,92362,9394,Lane.mid_lane,Role.solo
+7,poof the sheep,Graves,True,Side.red,7,6,5,2.0,305,Flash,Teleport,17,False,15276,12575,Doran's Blade,Berserker's Greaves,The Bloodthirster,The Black Cleaver,Lord Dominik's Regards,Zeal,1205,215579,Lane.top_lane,Role.solo
+8,Rainy Snow,Caitlyn,True,Side.red,3,6,9,2.0,209,Heal,Flash,14,False,12007,10225,Last Whisper,Kircheis Shard,Dagger,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,1135,143854,Lane.bot_lane,Role.carry
+9,Jurassiq,Lee Sin,True,Side.red,4,4,9,3.25,93,Flash,Smite,14,False,11202,10175,Enchantment: Warrior,Refillable Potion,,Mercury's Treads,Dead Man's Plate,Maw of Malmortius,14314,98230,Lane.jungle,Role.none

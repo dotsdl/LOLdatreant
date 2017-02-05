@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rip To My Cigar,Kindred,True,Side.blue,10,5,6,3.2,144,Flash,Smite,14,True,12295,11850,Enchantment: Bloodrazor,Giant's Belt,Berserker's Greaves,Runaan's Hurricane,The Black Cleaver,Jaurim's Fist,2464,139876,Lane.jungle,Role.none
+1,Wazabiee,LeBlanc,True,Side.blue,15,3,6,7.0,169,Ignite,Flash,15,False,13792,12960,Amplifying Tome,Morellonomicon,Void Staff,Rylai's Crystal Scepter,Mejai's Soulstealer,Sorcerer's Shoes,107568,10742,Lane.mid_lane,Role.solo
+2,NA Mechanics,Ashe,True,Side.blue,9,5,16,5.0,174,Heal,Flash,14,False,13376,10050,Doran's Blade,Infinity Edge,Long Sword,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,3245,113830,Lane.bot_lane,Role.carry
+3,only grab grills,Thresh,True,Side.blue,1,3,20,7.0,10,Ignite,Flash,13,False,9106,7075,Redemption,Ruby Sightstone,Glacial Shroud,Ionian Boots of Lucidity,Nomad's Medallion,Ruby Crystal,8794,4741,Lane.bot_lane,Role.support
+4,Fiku,Nautilus,True,Side.blue,5,4,14,4.75,162,Flash,Teleport,15,False,11570,11408,Sunfire Cape,Corrupting Potion,Mercury's Treads,Spirit Visage,Trinity Force,Cloth Armor,83538,29502,Lane.top_lane,Role.solo
+5,Dank Matter,Brand,False,Side.red,6,10,9,1.5,37,Flash,Ignite,12,False,8878,8385,Eye of the Watchers,Needlessly Large Rod,Amplifying Tome,Morellonomicon,Ionian Boots of Lucidity,Ruby Crystal,37730,5413,Lane.bot_lane,Role.support
+6,NA HEASEDRIFT,Jhin,False,Side.red,3,10,8,1.1,143,Heal,Flash,12,False,8494,8400,Doran's Blade,Boots of Swiftness,Youmuu's Ghostblade,Infinity Edge,Dagger,,5486,69610,Lane.bot_lane,Role.carry
+7,SweetPete7,Maokai,False,Side.red,2,5,5,1.4,145,Flash,Teleport,13,False,8598,7000,Refillable Potion,,Doran's Ring,Zz'Rot Portal,Mercury's Treads,Righteous Glory,59342,16283,Lane.top_lane,Role.solo
+8,equalix,Graves,False,Side.red,8,7,3,1.5714285714285714,129,Flash,Smite,13,False,10394,9825,Enchantment: Warrior,Phantom Dancer,Control Ward,Mercury's Treads,,Maw of Malmortius,2938,119357,Lane.jungle,Role.none
+9,gabzpiano,Kayle,False,Side.red,1,8,3,0.5,129,Flash,Ghost,12,False,7649,6650,Fiendish Codex,Doran's Ring,Doran's Ring,Mercury's Treads,Wit's End,Stinger,29945,18583,Lane.mid_lane,Role.solo

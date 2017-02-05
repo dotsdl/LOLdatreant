@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lord Kuma,Darius,True,Side.blue,13,0,5,18.0,161,Teleport,Flash,14,False,11647,10625,Doran's Shield,Refillable Potion,The Black Cleaver,Spirit Visage,Dead Man's Plate,Ninja Tabi,0,100969,Lane.top_lane,Role.solo
+1,Opaque,Ezreal,True,Side.blue,5,3,10,5.0,168,Flash,Heal,12,False,9538,9350,Doran's Blade,Manamune,Iceborn Gauntlet,Berserker's Greaves,Recurve Bow,Bilgewater Cutlass,6805,79952,Lane.bot_lane,Role.carry
+2,Vanísh,Viktor,True,Side.blue,3,2,2,2.5,169,Ghost,Flash,13,False,9181,7000,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,,Boots of Speed,The Hex Core mk-2,80233,14845,Lane.mid_lane,Role.solo
+3,Swirl,Braum,True,Side.blue,1,0,14,15.0,41,Exhaust,Flash,11,False,7171,5550,Targon's Brace,Sightstone,Refillable Potion,Boots of Swiftness,Control Ward,Knight's Vow,4659,10801,Lane.bot_lane,Role.support
+4,Anthøny,Kha'Zix,True,Side.blue,14,2,4,9.0,67,Smite,Flash,12,True,10314,9425,Control Ward,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Lord Dominik's Regards,Ionian Boots of Lucidity,3406,84000,Lane.jungle,Role.none
+5,vancouver cC,Shyvana,False,Side.red,0,5,2,0.4,97,Smite,Flash,10,False,6039,5475,Refillable Potion,Enchantment: Bloodrazor,Giant's Belt,Boots of Swiftness,Chain Vest,,39244,30459,Lane.jungle,Role.none
+6,Xeoshire,Blitzcrank,False,Side.red,1,5,1,0.4,23,Flash,Ignite,9,False,4744,3650,Sightstone,Targon's Brace,Kindlegem,Boots of Mobility,,,6274,3740,Lane.bot_lane,Role.support
+7,Dyr0nejk2,Diana,False,Side.red,5,7,0,0.7142857142857143,108,Teleport,Flash,11,False,7038,6200,Doran's Ring,Rod of Ages,Stinger,Ionian Boots of Lucidity,Fiendish Codex,,51326,9408,Lane.mid_lane,Role.solo
+8,Barranco Coma,Jhin,False,Side.red,1,9,3,0.4444444444444444,122,Flash,Heal,10,False,6287,5975,Youmuu's Ghostblade,Refillable Potion,Zeal,Boots of Speed,Doran's Blade,Kircheis Shard,807,47195,Lane.bot_lane,Role.carry
+9,Bentonhell,Jax,False,Side.red,0,10,1,0.1,120,Teleport,Flash,10,False,6162,5450,Ninja Tabi,Hextech Gunblade,Corrupting Potion,Doran's Blade,,,17241,52484,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,jamican banana,Karma,False,Side.blue,1,7,11,1.7142857142857142,41,Ignite,Flash,12,False,8903,8200,Ionian Boots of Lucidity,Eye of the Watchers,Redemption,Mikael's Crucible,Null-Magic Mantle,Control Ward,31385,3917,Lane.bot_lane,Role.support
+1,Qkuzi,Yorick,False,Side.blue,8,9,5,1.4444444444444444,155,Flash,Teleport,14,False,10771,10458,Trinity Force,Corrupting Potion,Kindlegem,Spectre's Cowl,Mercury's Treads,Dead Man's Plate,10655,90332,Lane.top_lane,Role.solo
+2,Firé,Yasuo,False,Side.blue,3,8,3,0.75,184,Ignite,Flash,14,False,9900,9725,Hexdrinker,Refillable Potion,Infinity Edge,Mercury's Treads,Phantom Dancer,,29920,79158,Lane.mid_lane,Role.solo
+3,ShörterACE,Sejuani,False,Side.blue,2,4,13,3.75,122,Flash,Smite,14,False,9531,8725,Enchantment: Cinderhulk,Hunter's Potion,Frozen Heart,Ninja Tabi,Spectre's Cowl,Ruby Crystal,69185,26071,Lane.jungle,Role.none
+4,yltfed,Twitch,False,Side.blue,9,5,9,3.6,244,Flash,Heal,15,False,14061,13225,Infinity Edge,Statikk Shiv,Runaan's Hurricane,B. F. Sword,Vampiric Scepter,Berserker's Greaves,19676,129769,Lane.bot_lane,Role.carry
+5,Shamwwow,Irelia,True,Side.red,7,8,8,1.875,145,Flash,Teleport,14,False,11893,11958,Ninja Tabi,Trinity Force,Guardian Angel,Blade of the Ruined King,Long Sword,Ruby Crystal,2461,89431,Lane.top_lane,Role.solo
+6,Jos,Graves,True,Side.red,7,1,9,16.0,141,Flash,Smite,16,False,12584,11175,Phantom Dancer,Death's Dance,Chain Vest,Enchantment: Warrior,,Mercury's Treads,6084,152921,Lane.jungle,Role.none
+7,Lukwer,Viktor,True,Side.red,12,3,8,6.666666666666667,252,Flash,Ghost,17,True,15776,14625,Perfect Hex Core,Void Staff,Ionian Boots of Lucidity,The Dark Seal,Lich Bane,Rylai's Crystal Scepter,186358,13124,Lane.mid_lane,Role.solo
+8,AKA SIeepingDAWG,Alistar,True,Side.red,2,5,19,4.2,33,Flash,Heal,14,False,10184,8525,Ruby Sightstone,Redemption,Ruby Crystal,,Boots of Mobility,Talisman of Ascension,14298,7242,Lane.bot_lane,Role.support
+9,Falco Mechanic,Lucian,True,Side.red,5,6,9,2.3333333333333335,255,Exhaust,Flash,16,False,13120,10200,Essence Reaver,Doran's Blade,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,B. F. Sword,6023,167537,Lane.bot_lane,Role.carry

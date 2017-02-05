@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SmoKeMoNKeY93,Jayce,True,Side.blue,7,5,3,2.0,178,Teleport,Flash,14,False,11354,8925,Doran's Blade,Control Ward,Last Whisper,The Black Cleaver,Death's Dance,Boots of Speed,14319,93721,Lane.top_lane,Role.solo
+1,WUWUWUWUWUWUWUWU,Xerath,True,Side.blue,10,7,16,3.7142857142857144,118,Flash,Ghost,13,False,11405,11250,Void Staff,Sorcerer's Shoes,Luden's Echo,Blasting Wand,,Morellonomicon,72586,9019,Lane.mid_lane,Role.solo
+2,Perrito,Bard,True,Side.blue,5,5,27,6.4,11,Ignite,Flash,13,False,10095,8000,Locket of the Iron Solari,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Total Biscuit of Rejuvenation,12169,4904,Lane.bot_lane,Role.support
+3,KitingYeezus,Twitch,True,Side.blue,17,5,14,6.2,109,Flash,Smite,13,False,13826,13550,Enchantment: Bloodrazor,Statikk Shiv,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Pickaxe,4304,102113,Lane.jungle,Role.none
+4,Str1fe,Vayne,True,Side.blue,9,6,12,3.5,152,Flash,Heal,13,False,11451,9450,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Zeal,Dagger,24655,84886,Lane.bot_lane,Role.carry
+5,Twitch FateFalls,Ryze,False,Side.red,5,10,4,0.9,115,Flash,Ghost,12,False,8351,7945,Archangel's Staff,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Cloth Armor,Negatron Cloak,62315,5768,Lane.mid_lane,Role.solo
+6,Jummychu,Jhin,False,Side.red,6,8,9,1.875,115,Flash,Heal,12,True,9126,8525,Youmuu's Ghostblade,Rapid Firecannon,Control Ward,Doran's Blade,Boots of Swiftness,B. F. Sword,4486,52824,Lane.bot_lane,Role.carry
+7,Aecinira,Pantheon,False,Side.red,6,16,7,0.8125,21,Flash,Ignite,9,False,7600,7000,The Black Cleaver,Serrated Dirk,,Relic Shield,Caulfield's Warhammer,Ionian Boots of Lucidity,5691,17398,Lane.bot_lane,Role.support
+8,Be Like Neo,Jax,False,Side.red,6,8,5,1.375,120,Flash,Smite,13,False,9360,9075,Enchantment: Bloodrazor,Stinger,Ninja Tabi,Randuin's Omen,Control Ward,Sheen,23569,73892,Lane.jungle,Role.none
+9,I Shadow I,Poppy,False,Side.red,4,6,6,1.6666666666666667,138,Flash,Teleport,13,False,8562,8150,Corrupting Potion,Sunfire Cape,Control Ward,Ninja Tabi,Iceborn Gauntlet,Chain Vest,23130,59800,Lane.top_lane,Role.solo

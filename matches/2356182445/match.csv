@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lilliae,Evelynn,True,Side.blue,9,4,5,3.5,154,Ignite,Flash,13,True,10005,9660,Corrupting Potion,Mejai's Soulstealer,Sorcerer's Shoes,Hextech Protobelt-01,Doran's Ring,Lich Bane,67563,14067,Lane.mid_lane,Role.solo
+1,stormjunior,Hecarim,True,Side.blue,9,1,7,16.0,88,Smite,Ghost,12,False,9591,8058,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Trinity Force,Null-Magic Mantle,,11184,76537,Lane.jungle,Role.none
+2,Gui Gui,Jhin,True,Side.blue,2,2,9,5.5,178,Heal,Flash,11,False,8895,7500,Essence Reaver,Boots of Swiftness,B. F. Sword,Doran's Blade,Serrated Dirk,,3826,74514,Lane.bot_lane,Role.carry
+3,Panth Tier God,Dr. Mundo,True,Side.blue,7,3,4,3.6666666666666665,201,Teleport,Ghost,13,False,10148,9025,Zz'Rot Portal,Kindlegem,Crystalline Bracer,Ninja Tabi,Doran's Shield,Sunfire Cape,67836,34940,Lane.top_lane,Role.solo
+4,LGN cMurder,Poppy,True,Side.blue,1,0,5,6.0,48,Ghost,Exhaust,11,False,6321,5550,Eye of the Equinox,Redemption,Mercury's Treads,,,,1035,14251,Lane.bot_lane,Role.support
+5,Nub,Jayce,False,Side.red,2,4,2,1.0,150,Exhaust,Flash,12,False,7310,6125,Doran's Blade,Youmuu's Ghostblade,Refillable Potion,Ionian Boots of Lucidity,Phage,Long Sword,9594,70431,Lane.mid_lane,Role.solo
+6,All Blues,Twitch,False,Side.red,0,4,1,0.25,138,Heal,Flash,10,False,6336,5250,Doran's Blade,Runaan's Hurricane,,Control Ward,Berserker's Greaves,Pickaxe,0,46128,Lane.bot_lane,Role.carry
+7,zRobo,Vel'Koz,False,Side.red,3,6,1,0.6666666666666666,18,Flash,Ignite,9,False,5883,5050,Sightstone,Aether Wisp,Ionian Boots of Lucidity,Needlessly Large Rod,Frostfang,,13549,2944,Lane.bot_lane,Role.support
+8,TSM StormZy,Nasus,False,Side.red,1,7,2,0.42857142857142855,144,Ghost,Teleport,11,False,6712,5500,Doran's Ring,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Spectre's Cowl,Boots of Speed,59385,10595,Lane.top_lane,Role.solo
+9,Godrîc,Kha'Zix,False,Side.red,4,7,5,1.2857142857142858,73,Smite,Flash,11,False,7402,6850,Enchantment: Warrior,The Black Cleaver,Boots of Mobility,,,,3912,67578,Lane.jungle,Role.none

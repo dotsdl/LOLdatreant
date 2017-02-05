@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Breakbot,Hecarim,False,Side.blue,9,11,4,1.1818181818181819,102,Smite,Ghost,14,False,10530,10158,Enchantment: Bloodrazor,Trinity Force,Boots of Swiftness,Recurve Bow,Hunter's Potion,Bilgewater Cutlass,11360,96093,Lane.jungle,Role.none
+1,Ayukura,Ezreal,False,Side.blue,2,3,3,1.6666666666666667,204,Flash,Heal,14,False,9458,8525,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Bilgewater Cutlass,Dagger,9236,103752,Lane.bot_lane,Role.carry
+2,foggedftw2,Tryndamere,False,Side.blue,5,7,1,0.8571428571428571,248,Ignite,Flash,15,True,11902,11525,Refillable Potion,Blade of the Ruined King,Statikk Shiv,The Black Cleaver,Ionian Boots of Lucidity,Pickaxe,37167,144091,Lane.top_lane,Role.solo
+3,Suntail,Diana,False,Side.blue,1,10,4,0.5,160,Flash,Ignite,12,False,8943,7000,Doran's Ring,Doran's Ring,Doran's Ring,Needlessly Large Rod,Luden's Echo,Sorcerer's Shoes,94187,12747,Lane.mid_lane,Role.solo
+4,CsCs Scientist,Lulu,False,Side.blue,0,5,5,1.0,22,Flash,Exhaust,12,False,8089,7825,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Ardent Censer,,,8569,3408,Lane.bot_lane,Role.support
+5,Slush,Jhin,True,Side.red,9,4,9,4.5,189,Flash,Heal,15,False,12952,12675,Doran's Blade,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Infinity Edge,B. F. Sword,4184,112731,Lane.bot_lane,Role.carry
+6,TszHin OvO,Viktor,True,Side.red,10,4,9,4.75,236,Heal,Flash,16,False,14083,12400,Perfect Hex Core,Rylai's Crystal Scepter,Needlessly Large Rod,Ionian Boots of Lucidity,The Dark Seal,Morellonomicon,158657,14119,Lane.mid_lane,Role.solo
+7,K0REAN MECHANICS,Yasuo,True,Side.red,6,6,5,1.8333333333333333,209,Flash,Teleport,16,False,12511,10150,Doran's Blade,Berserker's Greaves,Phantom Dancer,B. F. Sword,Infinity Edge,Vampiric Scepter,9975,147822,Lane.top_lane,Role.solo
+8,Crackadon,Zac,True,Side.red,9,0,14,23.0,112,Smite,Flash,15,False,12400,11125,Enchantment: Cinderhulk,Spirit Visage,Randuin's Omen,Ninja Tabi,,Needlessly Large Rod,88122,22302,Lane.jungle,Role.none
+9,King Kayys,Alistar,True,Side.red,2,3,16,6.0,15,Flash,Exhaust,13,False,8410,7350,Relic Shield,Ruby Sightstone,Locket of the Iron Solari,,Raptor Cloak,Boots of Mobility,8975,4656,Lane.bot_lane,Role.support

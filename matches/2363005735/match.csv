@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arselan,LeBlanc,True,Side.blue,14,0,1,15.0,147,Flash,Exhaust,12,True,11357,9275,Doran's Ring,Zhonya's Hourglass,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,The Dark Seal,75000,12617,Lane.mid_lane,Role.solo
+1,boom u dead,Thresh,True,Side.blue,0,3,12,4.0,21,Flash,Exhaust,9,False,5407,4725,Forbidden Idol,Ruby Crystal,Refillable Potion,Eye of the Equinox,,Boots of Mobility,9084,4946,Lane.bot_lane,Role.support
+2,KR Hopu ,Kha'Zix,True,Side.blue,7,0,3,10.0,81,Smite,Flash,11,False,8138,6475,Enchantment: Warrior,Refillable Potion,Tiamat,Boots of Speed,Caulfield's Warhammer,Serrated Dirk,2907,83304,Lane.jungle,Role.none
+3,Dexima,Jhin,True,Side.blue,3,2,6,4.5,103,Flash,Heal,10,False,7261,5150,Doran's Blade,Refillable Potion,Essence Reaver,Ionian Boots of Lucidity,,,1967,54996,Lane.bot_lane,Role.carry
+4,gabzpiano,Nasus,True,Side.blue,0,0,3,3.0,153,Flash,Teleport,12,False,7469,5600,Mercury's Treads,Iceborn Gauntlet,Kindlegem,Chain Vest,,,2672,76511,Lane.top_lane,Role.solo
+5,Champion Mage,Bard,False,Side.red,0,6,4,0.6666666666666666,16,Exhaust,Flash,8,False,4106,3675,Frostfang,Boots of Mobility,Sightstone,Fiendish Codex,,,7112,4044,Lane.bot_lane,Role.support
+6,Anthøny,Caitlyn,False,Side.red,2,4,1,0.75,67,Heal,Flash,8,False,4496,3500,Doran's Blade,,Boots of Speed,Zeal,B. F. Sword,,320,32888,Lane.bot_lane,Role.carry
+7,Hi im Thalies,Katarina,False,Side.red,1,5,0,0.2,60,Ignite,Flash,8,False,4022,2605,The Dark Seal,,Long Sword,Long Sword,Amplifying Tome,Negatron Cloak,22628,2686,Lane.mid_lane,Role.solo
+8,UnbearableBear,Volibear,False,Side.red,1,5,0,0.2,49,Smite,Ghost,7,False,4106,3150,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,,Control Ward,,7587,26448,Lane.jungle,Role.none
+9,Bros0verHoes,Jayce,False,Side.red,1,4,1,0.5,100,Flash,Teleport,10,False,4834,4050,Doran's Blade,The Black Cleaver,,Boots of Speed,,,6056,39792,Lane.top_lane,Role.solo

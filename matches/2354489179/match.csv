@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Vi,True,Side.blue,5,8,17,2.75,163,Smite,Flash,16,False,12763,11408,Randuin's Omen,Trinity Force,Control Ward,Chain Vest,Enchantment: Warrior,Boots of Swiftness,7258,170330,Lane.jungle,Role.none
+1,Témpest,Maokai,True,Side.blue,5,4,21,6.5,172,Flash,Teleport,16,True,12519,10425,Corrupting Potion,Spirit Visage,Sunfire Cape,Mercury's Treads,Frozen Heart,The Dark Seal,96121,14812,Lane.top_lane,Role.solo
+2,YaThatWasABanana,Lulu,True,Side.blue,1,7,27,4.0,14,Flash,Exhaust,14,False,10346,8675,,Redemption,Locket of the Iron Solari,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,10084,6365,Lane.bot_lane,Role.support
+3,C9 Sneaky,Vayne,True,Side.blue,9,7,7,2.2857142857142856,210,Flash,Heal,14,False,13470,10025,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,Last Whisper,Null-Magic Mantle,30368,100894,Lane.bot_lane,Role.carry
+4,Rapidx,Cassiopeia,True,Side.blue,17,10,7,2.4,193,Flash,Exhaust,16,False,15448,14235,Seraph's Embrace,Void Staff,Abyssal Scepter,Rylai's Crystal Scepter,Needlessly Large Rod,Amplifying Tome,135955,9037,Lane.mid_lane,Role.solo
+5,Daarr,Lee Sin,False,Side.red,15,5,8,4.6,187,Flash,Smite,17,False,14905,14125,Enchantment: Warrior,Ruby Sightstone,Locket of the Iron Solari,Mercury's Treads,Dead Man's Plate,Maw of Malmortius,34724,154429,Lane.jungle,Role.none
+6,C9 Smoothie,Twitch,False,Side.red,3,6,14,2.8333333333333335,196,Flash,Heal,15,False,11380,11200,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,Doran's Blade,Berserker's Greaves,,77,98911,Lane.bot_lane,Role.carry
+7,Sawyerr,Bard,False,Side.red,4,5,18,4.4,23,Exhaust,Flash,13,False,9401,8450,Spellthief's Edge,Boots of Mobility,Aegis of the Legion,Athene's Unholy Grail,Redemption,Ruby Sightstone,19905,6734,Lane.bot_lane,Role.support
+8,Thalies,Katarina,False,Side.red,11,13,10,1.6153846153846154,149,Ignite,Flash,14,False,12068,12000,Abyssal Scepter,Health Potion,Blasting Wand,Hextech Gunblade,Sorcerer's Shoes,Zhonya's Hourglass,89709,9488,Lane.mid_lane,Role.solo
+9,Ninjacrab,Shen,False,Side.red,3,8,17,2.5,156,Flash,Teleport,14,False,10911,10100,Zz'Rot Portal,Randuin's Omen,Sunfire Cape,Mercury's Treads,,,52192,26825,Lane.top_lane,Role.solo

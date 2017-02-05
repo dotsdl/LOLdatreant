@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arcminute,Vayne,False,Side.blue,1,4,0,0.25,163,Heal,Flash,11,False,6628,6400,Berserker's Greaves,Infinity Edge,Brawler's Gloves,Dagger,Dagger,Doran's Blade,374,53082,Lane.bot_lane,Role.carry
+1,Ikzencriel,Jax,False,Side.blue,3,7,1,0.5714285714285714,143,Teleport,Flash,12,False,6938,6808,Doran's Shield,Trinity Force,Refillable Potion,Ninja Tabi,Vampiric Scepter,Long Sword,14232,43247,Lane.top_lane,Role.solo
+2,Futureway,Ivern,False,Side.blue,0,6,2,0.3333333333333333,26,Exhaust,Flash,9,False,4480,3925,Boots of Speed,Eye of the Equinox,Forbidden Idol,,Rejuvenation Bead,Rejuvenation Bead,6771,4184,Lane.bot_lane,Role.support
+3,cesuna,Maokai,False,Side.blue,2,5,2,0.8,101,Flash,Smite,11,False,6395,5750,Refillable Potion,Giant's Belt,Warden's Mail,,Boots of Mobility,Enchantment: Cinderhulk,55853,22348,Lane.jungle,Role.none
+4,Link,Ahri,False,Side.blue,0,2,3,1.5,171,Flash,Ignite,12,False,6879,6500,Fiendish Codex,Hextech Gunblade,,Sorcerer's Shoes,The Dark Seal,Doran's Ring,41742,19461,Lane.mid_lane,Role.solo
+5,Dhokla,Jayce,True,Side.red,8,2,3,5.5,164,Flash,Teleport,13,False,10974,9275,Last Whisper,Refillable Potion,The Black Cleaver,The Bloodthirster,,Boots of Speed,18001,98219,Lane.top_lane,Role.solo
+6,rat fink boy,Caitlyn,True,Side.red,6,0,7,13.0,160,Heal,Flash,12,False,10227,8575,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Dagger,Dagger,355,100273,Lane.bot_lane,Role.carry
+7,Cuckvele,Twisted Fate,True,Side.red,1,3,11,4.0,139,Flash,Cleanse,13,False,9208,6675,Ionian Boots of Lucidity,Abyssal Scepter,The Dark Seal,Sheen,Seeker's Armguard,Refillable Potion,56069,15193,Lane.mid_lane,Role.solo
+8,SandPaperX,Trundle,True,Side.red,1,0,13,14.0,25,Flash,Exhaust,10,False,7699,6375,Locket of the Iron Solari,Ruby Sightstone,Control Ward,Forbidden Idol,Relic Shield,Ionian Boots of Lucidity,1029,15801,Lane.bot_lane,Role.support
+9,MattyMooo,Graves,True,Side.red,8,1,5,13.0,165,Smite,Flash,14,True,12105,10425,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Berserker's Greaves,Phantom Dancer,Serrated Dirk,4358,163769,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,1936 1948,Shaco,False,Side.blue,9,7,3,1.7142857142857142,119,Smite,Ignite,14,False,10683,9725,Tiamat,Boots of Mobility,Hextech Gunblade,Enchantment: Warrior,Stinger,Long Sword,26909,70196,Lane.jungle,Role.none
+1,Necroside,Veigar,False,Side.blue,3,8,5,1.0,161,Teleport,Flash,14,False,9021,8875,Morellonomicon,Banshee's Veil,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,83752,8616,Lane.mid_lane,Role.solo
+2,Riesig,Lissandra,False,Side.blue,1,9,4,0.5555555555555556,201,Flash,Teleport,15,False,9587,8750,Morellonomicon,Doran's Ring,Doran's Ring,Void Staff,Sorcerer's Shoes,Fiendish Codex,125454,6995,Lane.top_lane,Role.solo
+3,godrjsdnd,Vayne,False,Side.blue,3,7,3,0.8571428571428571,221,Heal,Flash,14,False,10499,10200,Doran's Blade,Vampiric Scepter,Berserker's Greaves,Statikk Shiv,Infinity Edge,B. F. Sword,30327,91791,Lane.bot_lane,Role.carry
+4,C9 Smoothie,Zyra,False,Side.blue,4,7,6,1.4285714285714286,22,Flash,Exhaust,12,False,8173,7225,Control Ward,Ruby Sightstone,Frost Queen's Claim,Boots of Mobility,Haunting Guise,,25675,6831,Lane.bot_lane,Role.support
+5,ZatsMod,Syndra,True,Side.red,8,7,4,1.7142857142857142,189,Flash,Cleanse,15,False,12052,11685,Luden's Echo,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,,,129239,12367,Lane.mid_lane,Role.solo
+6,RATIRLonNA,Twitch,True,Side.red,19,4,4,5.75,187,Flash,Smite,16,True,15303,15285,Zeal,The Bloodthirster,Infinity Edge,Runaan's Hurricane,Enchantment: Bloodrazor,Berserker's Greaves,2274,180541,Lane.jungle,Role.none
+7,Espir III,Karma,True,Side.red,1,3,12,4.333333333333333,27,Flash,Exhaust,13,False,8357,7940,Control Ward,Frost Queen's Claim,Ruby Sightstone,,Ionian Boots of Lucidity,Ardent Censer,12203,8354,Lane.bot_lane,Role.support
+8,Ablazeolive,Ezreal,True,Side.red,3,4,12,3.75,188,Flash,Heal,14,False,12188,11800,Ionian Boots of Lucidity,Doran's Blade,Muramana,Iceborn Gauntlet,Quicksilver Sash,Blade of the Ruined King,14799,85172,Lane.bot_lane,Role.carry
+9,Entranced,Jax,True,Side.red,7,2,11,9.0,244,Teleport,Flash,17,False,14821,12983,Randuin's Omen,Corrupting Potion,Bilgewater Cutlass,Trinity Force,Maw of Malmortius,Mercury's Treads,31776,132566,Lane.top_lane,Role.solo

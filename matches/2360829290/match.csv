@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KayBee,LeBlanc,True,Side.blue,3,2,1,2.0,181,Ignite,Flash,13,False,8800,5770,Refillable Potion,Doran's Ring,,Morellonomicon,Sorcerer's Shoes,Negatron Cloak,69454,14346,Lane.mid_lane,Role.solo
+1,Asyc xD ,Twitch,True,Side.blue,11,4,7,4.5,156,Heal,Flash,13,False,10961,10700,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Statikk Shiv,,0,82189,Lane.bot_lane,Role.carry
+2,KarasMai,Kha'Zix,True,Side.blue,13,2,6,9.5,138,Flash,Smite,14,True,12070,8950,Refillable Potion,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Serrated Dirk,4459,119313,Lane.jungle,Role.none
+3,Montoon,Thresh,True,Side.blue,3,2,14,8.5,16,Exhaust,Flash,12,False,7283,4850,Eye of the Equinox,Refillable Potion,Crystalline Bracer,Boots of Mobility,Control Ward,Forbidden Idol,6729,4045,Lane.bot_lane,Role.support
+4,UmbraMortis,Poppy,True,Side.blue,3,2,4,3.5,116,Teleport,Flash,13,False,7889,5925,Sunfire Cape,Corrupting Potion,Mercury's Treads,Glacial Shroud,Sapphire Crystal,,18543,32911,Lane.top_lane,Role.solo
+5,one trick hehexd,Cassiopeia,False,Side.red,1,5,1,0.4,119,Flash,Ghost,11,False,6369,8560,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,55823,7857,Lane.mid_lane,Role.solo
+6,King of Memes,Riven,False,Side.red,4,7,4,1.1428571428571428,138,Smite,Flash,13,False,8300,7650,Tiamat,Enchantment: Warrior,Ruby Crystal,Ionian Boots of Lucidity,Caulfield's Warhammer,Vampiric Scepter,1710,100563,Lane.jungle,Role.none
+7,Besaid,Morgana,False,Side.red,1,7,4,0.7142857142857143,19,Flash,Exhaust,10,False,5870,5775,Frostfang,Sightstone,Zhonya's Hourglass,Boots of Mobility,,,14458,2118,Lane.bot_lane,Role.support
+8,Uzumaki,Caitlyn,False,Side.red,3,7,1,0.5714285714285714,117,Heal,Flash,10,False,6674,5500,Doran's Blade,Dagger,B. F. Sword,Berserker's Greaves,Pickaxe,Recurve Bow,428,51145,Lane.bot_lane,Role.carry
+9,ACuteKoreanGirI,Yasuo,False,Side.red,2,7,1,0.42857142857142855,139,Teleport,Flash,11,False,6842,5800,Doran's Blade,Phantom Dancer,Refillable Potion,Jaurim's Fist,Boots of Speed,Giant's Belt,12353,57668,Lane.top_lane,Role.solo

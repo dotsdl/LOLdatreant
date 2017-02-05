@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Budded,Vel'Koz,False,Side.blue,3,9,2,0.5555555555555556,28,Exhaust,Flash,10,False,7542,6725,Refillable Potion,Eye of the Watchers,Liandry's Torment,Sorcerer's Shoes,,,23704,3615,Lane.bot_lane,Role.support
+1,GangstahSwerve,Shyvana,False,Side.blue,0,6,2,0.3333333333333333,120,Smite,Flash,12,False,7945,7350,Blade of the Ruined King,Refillable Potion,Ninja Tabi,Enchantment: Bloodrazor,,,54305,48521,Lane.jungle,Role.none
+2,ZambonGG,Zac,False,Side.blue,1,9,1,0.2222222222222222,143,Flash,Teleport,11,False,7705,7675,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Boots of Mobility,60900,10019,Lane.top_lane,Role.solo
+3,Hello I am Dust,Vayne,False,Side.blue,4,7,1,0.7142857142857143,188,Heal,Flash,13,False,9405,9300,Infinity Edge,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Zeal,,3313,95943,Lane.bot_lane,Role.carry
+4,Nedo,Ryze,False,Side.blue,2,6,1,0.5,196,Ghost,Flash,13,False,8865,8285,Amplifying Tome,Refillable Potion,Seraph's Embrace,Ionian Boots of Lucidity,Blasting Wand,Rod of Ages,101050,10752,Lane.mid_lane,Role.solo
+5,megapasta,Ahri,True,Side.red,9,1,7,16.0,185,Flash,Ignite,15,False,11733,10675,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Abyssal Scepter,,67069,16160,Lane.mid_lane,Role.solo
+6,1936 1948,Shaco,True,Side.red,11,1,14,25.0,131,Smite,Ignite,15,False,13020,11025,Ravenous Hydra,Enchantment: Runic Echoes,Bilgewater Cutlass,Boots of Mobility,Hextech Revolver,B. F. Sword,37937,95659,Lane.jungle,Role.none
+7,urwong,Bard,True,Side.red,3,3,16,6.333333333333333,19,Exhaust,Flash,13,False,8720,6625,,Locket of the Iron Solari,Eye of the Watchers,Null-Magic Mantle,Boots of Swiftness,,9745,5462,Lane.bot_lane,Role.support
+8,NiMura,Jhin,True,Side.red,8,3,9,5.666666666666667,162,Flash,Heal,14,False,11888,10300,Doran's Blade,B. F. Sword,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Vampiric Scepter,8718,118742,Lane.bot_lane,Role.carry
+9,d3ps,Maokai,True,Side.red,6,2,14,10.0,137,Flash,Teleport,14,True,10445,9095,Chain Vest,Doran's Ring,Mercury's Treads,Spirit Visage,Frozen Heart,Negatron Cloak,73556,17722,Lane.top_lane,Role.solo

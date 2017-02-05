@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iDontCareX,Viktor,False,Side.blue,2,4,2,1.0,200,Heal,Flash,14,False,9094,9600,Perfect Hex Core,Abyssal Scepter,Needlessly Large Rod,Sorcerer's Shoes,,,104982,11028,Lane.mid_lane,Role.solo
+1,Zoolouie,Jhin,False,Side.blue,5,6,4,1.5,158,Heal,Flash,12,False,8722,6425,Doran's Blade,Essence Reaver,Boots of Swiftness,Control Ward,B. F. Sword,,2189,79170,Lane.bot_lane,Role.carry
+2,Veerski,Hecarim,False,Side.blue,2,5,6,1.6,66,Ghost,Smite,12,False,7399,7083,Skirmisher's Sabre,Refillable Potion,Ninja Tabi,Trinity Force,Bami's Cinder,,8091,69203,Lane.jungle,Role.none
+3,Mashiro l Shiina,Gangplank,False,Side.blue,5,5,2,1.4,175,Teleport,Flash,14,False,10647,9758,Ninja Tabi,Trinity Force,Infinity Edge,Doran's Ring,,,7002,105984,Lane.top_lane,Role.solo
+4,Doctor Krieger,Thresh,False,Side.blue,2,5,5,1.4,15,Ignite,Flash,10,False,6513,5650,Talisman of Ascension,Ruby Sightstone,Refillable Potion,Boots of Mobility,Control Ward,Cloth Armor,5330,1681,Lane.bot_lane,Role.support
+5,zeramion,Janna,True,Side.red,1,3,7,2.6666666666666665,7,Flash,Exhaust,11,False,7548,6175,Ionian Boots of Lucidity,Redemption,Cloth Armor,Eye of the Oasis,Null-Magic Mantle,Refillable Potion,1534,4568,Lane.bot_lane,Role.support
+6,iTranscend,Kha'Zix,True,Side.red,5,3,5,3.3333333333333335,150,Flash,Smite,15,False,11237,10525,Youmuu's Ghostblade,The Black Cleaver,Enchantment: Warrior,Ionian Boots of Lucidity,Long Sword,,6828,140134,Lane.jungle,Role.none
+7,The Eradicator,Quinn,True,Side.red,1,5,5,1.2,178,Flash,Teleport,14,True,10531,9210,Cull,Refillable Potion,Duskblade of Draktharr,The Bloodthirster,Berserker's Greaves,Dagger,2357,104791,Lane.top_lane,Role.solo
+8,Wazabiee,LeBlanc,True,Side.red,13,5,3,3.2,170,Ignite,Flash,15,False,12753,10365,Rylai's Crystal Scepter,Morellonomicon,The Dark Seal,Needlessly Large Rod,Sorcerer's Shoes,Amplifying Tome,93864,11042,Lane.jungle,Role.none
+9,Darmous,Caitlyn,True,Side.red,5,0,6,11.0,238,Flash,Heal,15,False,13072,11550,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Pickaxe,1730,174920,Lane.bot_lane,Role.carry

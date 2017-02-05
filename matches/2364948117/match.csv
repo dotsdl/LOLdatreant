@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The13adGuy,Nautilus,True,Side.blue,1,3,5,2.0,236,Teleport,Flash,15,False,11241,10075,Mercury's Treads,Corrupting Potion,Zz'Rot Portal,Sunfire Cape,Spirit Visage,,82580,25101,Lane.top_lane,Role.solo
+1,AvadaKedavra BAM,Sona,True,Side.blue,1,1,13,14.0,9,Flash,Exhaust,13,False,8227,6875,Ruby Crystal,Locket of the Iron Solari,Eye of the Watchers,Boots of Speed,Tear of the Goddess,Forbidden Idol,12371,3346,Lane.bot_lane,Role.support
+2,Firé,Kha'Zix,True,Side.blue,15,4,5,5.0,154,Smite,Flash,16,True,14854,12650,Enchantment: Warrior,Tiamat,The Black Cleaver,Death's Dance,Serrated Dirk,Ionian Boots of Lucidity,7198,185357,Lane.jungle,Role.none
+3,Kappa desu,Ezreal,True,Side.blue,2,2,10,6.0,198,Flash,Heal,14,False,11357,10500,Blade of the Ruined King,Muramana,,Iceborn Gauntlet,Cull,Ionian Boots of Lucidity,18862,89810,Lane.bot_lane,Role.carry
+4,Mr Rotation,Jayce,True,Side.blue,7,4,7,3.5,176,Flash,Ignite,15,False,11617,9695,Caulfield's Warhammer,Manamune,Ionian Boots of Lucidity,Youmuu's Ghostblade,Doran's Blade,Hexdrinker,17890,111914,Lane.mid_lane,Role.solo
+5,CHEEZY DIAPER,Malphite,False,Side.red,5,2,4,4.5,266,Teleport,Flash,16,False,10838,9400,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Sunfire Cape,Glacial Shroud,Spectre's Cowl,90663,39861,Lane.top_lane,Role.solo
+6,T L F ,Vi,False,Side.red,4,7,7,1.5714285714285714,155,Smite,Flash,14,False,10390,9158,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,Jaurim's Fist,Long Sword,1978,142714,Lane.mid_lane,Role.support
+7,SorakaLulu,Karma,False,Side.red,2,5,5,1.4,21,Flash,Exhaust,11,False,7245,6450,Eye of the Watchers,,Redemption,Cloth Armor,Control Ward,Ionian Boots of Lucidity,14738,4125,Lane.bot_lane,Role.support
+8,Raveydemon,Caitlyn,False,Side.red,2,6,1,0.5,221,Heal,Flash,13,False,9971,9200,Doran's Blade,Runaan's Hurricane,Brawler's Gloves,Infinity Edge,Kircheis Shard,Berserker's Greaves,726,120713,Lane.bot_lane,Role.carry
+9,LegitKorea,Ahri,False,Side.red,1,6,2,0.5,197,Flash,Ignite,13,False,9319,8125,Sorcerer's Shoes,Doran's Ring,Zhonya's Hourglass,Doran's Ring,Morellonomicon,,54262,12401,Lane.mid_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aengy,Vi,False,Side.blue,4,7,4,1.1428571428571428,121,Smite,Flash,13,False,9079,8758,Enchantment: Warrior,Ninja Tabi,Trinity Force,Ruby Crystal,Cloth Armor,,2095,112406,Lane.jungle,Role.none
+1,Liquid 1921119,Janna,False,Side.blue,0,5,10,2.0,30,Exhaust,Flash,13,False,7879,7625,Forbidden Idol,Ardent Censer,Sightstone,Spellthief's Edge,Ionian Boots of Lucidity,Zeke's Harbinger,15875,4743,Lane.bot_lane,Role.support
+2,Grande Donger,Malzahar,False,Side.blue,3,8,7,1.25,132,Flash,Teleport,14,False,8967,8375,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,,Doran's Ring,74830,17304,Lane.mid_lane,Role.solo
+3,Flash Foward,Fiora,False,Side.blue,2,10,2,0.4,206,Flash,Exhaust,15,False,9703,9300,Doran's Blade,Ravenous Hydra,Ionian Boots of Lucidity,The Black Cleaver,Doran's Blade,Long Sword,1940,116162,Lane.top_lane,Role.solo
+4,Slapo,Twitch,False,Side.blue,9,10,3,1.2,221,Heal,Flash,15,False,12440,12050,Doran's Blade,Berserker's Greaves,Statikk Shiv,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,8301,129218,Lane.bot_lane,Role.carry
+5,MrZhong,Jhin,True,Side.red,6,5,12,3.6,156,Heal,Flash,14,False,12577,10200,Doran's Blade,Pickaxe,Rapid Firecannon,Ionian Boots of Lucidity,Essence Reaver,B. F. Sword,5983,117407,Lane.bot_lane,Role.carry
+6,Quixezelk,Brand,True,Side.red,7,7,16,3.2857142857142856,14,Ignite,Flash,14,False,12300,11125,Eye of the Watchers,Blasting Wand,Sorcerer's Shoes,The Dark Seal,Rylai's Crystal Scepter,Liandry's Torment,33802,4404,Lane.bot_lane,Role.support
+7,PIays With Balls,Orianna,True,Side.red,11,3,12,7.666666666666667,185,Flash,Ghost,16,False,13935,12200,Doran's Ring,Zhonya's Hourglass,Blasting Wand,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,121885,15337,Lane.mid_lane,Role.solo
+8,Mest,Rek'Sai,True,Side.red,6,0,9,15.0,230,Smite,Flash,17,True,14546,13025,Kindlegem,Titanic Hydra,Boots of Swiftness,Enchantment: Cinderhulk,Guardian Angel,Thornmail,46920,169605,Lane.jungle,Role.none
+9,WJNA,Jayce,True,Side.red,10,4,9,4.75,278,Flash,Teleport,17,False,16510,15600,Youmuu's Ghostblade,The Bloodthirster,The Black Cleaver,Mercury's Treads,Lord Dominik's Regards,Pickaxe,38680,172548,Lane.top_lane,Role.solo

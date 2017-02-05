@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,funkee monkey,Caitlyn,True,Side.blue,4,6,4,1.3333333333333333,160,Heal,Flash,12,False,10469,10400,Rapid Firecannon,,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,585,99348,Lane.bot_lane,Role.carry
+1,SolemnEnigma,Viktor,True,Side.blue,11,4,11,5.5,192,Ghost,Flash,15,False,12602,11450,Perfect Hex Core,Refillable Potion,Control Ward,Rylai's Crystal Scepter,Lich Bane,Sorcerer's Shoes,106231,14736,Lane.mid_lane,Role.solo
+2,Rashed9000,Lee Sin,True,Side.blue,11,2,2,6.5,170,Smite,Flash,15,False,12636,11750,The Black Cleaver,Giant's Belt,Boots of Mobility,Dead Man's Plate,Warden's Mail,Enchantment: Warrior,34192,128915,Lane.jungle,Role.none
+3,always plan ahea,Jhin,True,Side.blue,6,3,10,5.333333333333333,209,Flash,Exhaust,15,True,12837,11250,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,Infinity Edge,,,9809,151804,Lane.top_lane,Role.solo
+4,TheCanadianHope,Lulu,True,Side.blue,3,2,14,8.5,23,Flash,Exhaust,13,False,9018,7575,Redemption,Ruby Sightstone,Mikael's Crucible,Control Ward,Ionian Boots of Lucidity,,19494,6458,Lane.bot_lane,Role.support
+5,typicallolplayer,Olaf,False,Side.red,4,8,8,1.5,92,Smite,Flash,13,False,9160,8575,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Dead Man's Plate,Spectre's Cowl,Kindlegem,12759,71646,Lane.jungle,Role.none
+6,LncH,Riven,False,Side.red,5,6,4,1.5,186,Teleport,Flash,14,False,10551,10550,Ravenous Hydra,,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,,1332,106927,Lane.top_lane,Role.solo
+7,HuckleeBerry,Thresh,False,Side.red,1,13,5,0.46153846153846156,22,Ignite,Flash,12,False,6729,4950,Redemption,,Targon's Brace,Null-Magic Mantle,Cloth Armor,Boots of Mobility,14002,7593,Lane.bot_lane,Role.support
+8,Caldero,Vayne,False,Side.red,3,3,6,3.0,182,Heal,Flash,14,False,10185,8700,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,Vampiric Scepter,,20973,71623,Lane.bot_lane,Role.carry
+9,Strathagos,Lux,False,Side.red,4,5,5,1.8,169,Ghost,Flash,14,False,9778,8850,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Control Ward,Doran's Ring,96167,12635,Lane.mid_lane,Role.solo

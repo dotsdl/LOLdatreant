@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,colourkevin,Twitch,True,Side.blue,2,0,3,5.0,160,Heal,Flash,12,False,8524,7175,Doran's Blade,Total Biscuit of Rejuvenation,Runaan's Hurricane,Boots of Speed,Infinity Edge,Control Ward,0,65437,Lane.bot_lane,Role.carry
+1,iOddOrange,Lee Sin,True,Side.blue,8,3,9,5.666666666666667,89,Flash,Smite,13,False,9890,9500,Tiamat,Enchantment: Warrior,Cloth Armor,Maw of Malmortius,Boots of Mobility,Giant's Belt,15757,95318,Lane.jungle,Role.none
+2,BOT MING,Karma,True,Side.blue,1,2,12,6.5,10,Flash,Exhaust,10,True,6980,5500,Redemption,Sightstone,,The Dark Seal,Ionian Boots of Lucidity,Frostfang,10989,3929,Lane.bot_lane,Role.support
+3,foggedftw1,Tryndamere,True,Side.blue,5,0,2,7.0,191,Ignite,Flash,14,False,10449,10225,Refillable Potion,Blade of the Ruined King,The Black Cleaver,Ionian Boots of Lucidity,Statikk Shiv,,20922,104725,Lane.top_lane,Role.solo
+4,WINNER Jinwoo,Twisted Fate,True,Side.blue,8,2,7,7.5,131,Exhaust,Flash,13,False,10366,10250,Doran's Ring,Rod of Ages,Lich Bane,Abyssal Scepter,Ionian Boots of Lucidity,,70508,13577,Lane.mid_lane,Role.solo
+5,Pat the Bunny,Yasuo,False,Side.red,0,4,0,0.0,169,Teleport,Flash,12,False,6625,5800,Doran's Blade,Health Potion,Ninja Tabi,B. F. Sword,Phantom Dancer,,21130,49850,Lane.top_lane,Role.solo
+6,Feht,Vi,False,Side.red,0,7,2,0.2857142857142857,89,Smite,Flash,11,False,5862,5650,Enchantment: Warrior,Refillable Potion,Phage,Caulfield's Warhammer,Boots of Speed,,585,67701,Lane.jungle,Role.none
+7,SanaSana,Syndra,False,Side.red,5,7,1,0.8571428571428571,137,Ghost,Flash,11,False,7410,5660,Refillable Potion,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Morellonomicon,Amplifying Tome,55466,8666,Lane.mid_lane,Role.solo
+8,Soulquest1,Sona,False,Side.red,0,3,4,1.3333333333333333,6,Exhaust,Flash,10,False,4672,3475,Eye of the Watchers,Tear of the Goddess,Boots of Speed,,,,5858,3959,Lane.bot_lane,Role.support
+9,Vermillion2,Jinx,False,Side.red,2,3,2,1.3333333333333333,153,Heal,Flash,10,False,7025,6475,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,,B. F. Sword,Pickaxe,288,61015,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DarkWingsForSale,Maokai,False,Side.blue,2,9,8,1.1111111111111112,156,Flash,Teleport,14,False,10253,10050,Zz'Rot Portal,Randuin's Omen,,Ninja Tabi,,Iceborn Gauntlet,75611,16687,Lane.top_lane,Role.solo
+1,AchiIIes Heal,Ahri,False,Side.blue,6,8,2,1.0,231,Flash,Ignite,15,False,12325,12025,Morellonomicon,Rylai's Crystal Scepter,Seeker's Armguard,Abyssal Scepter,Fiendish Codex,Doran's Ring,83915,15143,Lane.mid_lane,Role.solo
+2,4911,Ezreal,False,Side.blue,10,6,6,2.6666666666666665,278,Heal,Flash,17,False,15371,15158,Blade of the Ruined King,Muramana,Guardian Angel,Trinity Force,Last Whisper,Ionian Boots of Lucidity,30017,171284,Lane.bot_lane,Role.carry
+3,Firé,Lee Sin,False,Side.blue,3,11,6,0.8181818181818182,150,Smite,Flash,15,False,10726,10635,Randuin's Omen,Enchantment: Warrior,Tiamat,Hexdrinker,Mercury's Treads,Chain Vest,33346,107530,Lane.jungle,Role.none
+4,YlKES,Bard,False,Side.blue,1,6,14,2.5,26,Ignite,Flash,14,False,9910,9550,Eye of the Watchers,Redemption,Control Ward,Null-Magic Mantle,Boots of Mobility,Frozen Heart,19825,5200,Lane.bot_lane,Role.support
+5,Slapo,Janna,True,Side.red,1,5,26,5.4,24,Exhaust,Flash,16,False,11786,10250,Redemption,Ruby Sightstone,Talisman of Ascension,Cloth Armor,Boots of Mobility,Ardent Censer,7657,5163,Lane.bot_lane,Role.support
+6,Feitan,Gnar,True,Side.red,5,3,14,6.333333333333333,279,Teleport,Flash,18,False,14944,13600,Mercury's Treads,Frozen Mallet,Guardian Angel,Randuin's Omen,The Black Cleaver,Cloth Armor,13739,162375,Lane.top_lane,Role.solo
+7,NiceTwig,Vi,True,Side.red,7,4,16,5.75,171,Flash,Smite,17,False,15021,14083,Enchantment: Cinderhulk,Randuin's Omen,Null-Magic Mantle,Mercury's Treads,Dead Man's Plate,Trinity Force,13952,168820,Lane.jungle,Role.none
+8,Based Envy,Twitch,True,Side.red,8,6,15,3.8333333333333335,230,Heal,Flash,17,False,15504,14025,Berserker's Greaves,Blade of the Ruined King,Doran's Blade,Runaan's Hurricane,Infinity Edge,Mortal Reminder,286,168454,Lane.bot_lane,Role.carry
+9,Kyree,Ekko,True,Side.red,19,4,6,6.25,221,Flash,Ignite,18,True,17946,16150,Zhonya's Hourglass,Needlessly Large Rod,Hextech Gunblade,Ionian Boots of Lucidity,Void Staff,Lich Bane,168973,27878,Lane.mid_lane,Role.solo

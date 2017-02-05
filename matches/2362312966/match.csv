@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,i was car,Caitlyn,True,Side.blue,4,5,2,1.2,136,Flash,Heal,10,True,8271,8150,Control Ward,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,,Doran's Blade,374,75281,Lane.bot_lane,Role.carry
+1,AzeroC,Lee Sin,True,Side.blue,4,1,8,12.0,72,Flash,Smite,11,False,7413,6175,Long Sword,Enchantment: Warrior,Ionian Boots of Lucidity,Control Ward,Giant's Belt,Warden's Mail,9511,50887,Lane.jungle,Role.none
+2,ImpImpImp,Poppy,True,Side.blue,5,1,1,6.0,151,Teleport,Flash,12,False,8229,7875,Corrupting Potion,,Sapphire Crystal,Ninja Tabi,Spirit Visage,Sunfire Cape,20153,61998,Lane.top_lane,Role.solo
+3,Hanjaro,Nautilus,True,Side.blue,1,1,9,10.0,33,Flash,Exhaust,10,False,5908,4850,Sightstone,Face of the Mountain,Mercury's Treads,Cloth Armor,,,13409,8992,Lane.bot_lane,Role.support
+4,am tham ben em,LeBlanc,True,Side.blue,9,0,4,13.0,136,Flash,Ignite,12,False,9674,6750,Boots of Speed,Morellonomicon,Abyssal Scepter,Doran's Ring,,,65876,8591,Lane.mid_lane,Role.solo
+5,Hyz,Nocturne,False,Side.red,3,4,1,1.0,92,Smite,Flash,11,False,6878,6550,Enchantment: Bloodrazor,Refillable Potion,Jaurim's Fist,Tiamat,Ionian Boots of Lucidity,Ruby Crystal,2467,76468,Lane.jungle,Role.none
+6,G y,Maokai,False,Side.red,1,3,1,0.6666666666666666,123,Flash,Teleport,11,False,5962,5500,Doran's Ring,Bami's Cinder,Boots of Speed,Chain Vest,,Rod of Ages,55562,9676,Lane.top_lane,Role.solo
+7,Hayzey,Brand,False,Side.red,1,5,1,0.4,14,Flash,Ignite,8,False,4687,3360,Spellthief's Edge,Total Biscuit of Rejuvenation,Sightstone,Boots of Speed,Amplifying Tome,Giant's Belt,13418,4238,Lane.bot_lane,Role.support
+8,CLG iTrackpad,Ezreal,False,Side.red,1,5,3,0.8,131,Heal,Flash,10,False,6401,5700,Manamune,Sheen,Ionian Boots of Lucidity,Doran's Blade,Ruby Crystal,Long Sword,3879,49161,Lane.bot_lane,Role.carry
+9,9point5mechanics,Anivia,False,Side.red,2,6,1,0.5,145,Ghost,Flash,12,False,6638,5825,Refillable Potion,Rod of Ages,Lost Chapter,Doran's Ring,Sorcerer's Shoes,Ruby Crystal,61885,6724,Lane.mid_lane,Role.solo

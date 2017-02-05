@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Goldjet,Kayle,False,Side.blue,4,6,3,1.1666666666666667,213,Flash,Teleport,14,False,10157,9675,Doran's Ring,Nashor's Tooth,Guinsoo's Rageblade,Needlessly Large Rod,,Berserker's Greaves,89572,34661,Lane.mid_lane,Role.solo
+1,Sophist Sage,Ivern,False,Side.blue,1,5,6,1.4,72,Smite,Flash,13,False,8199,7775,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Crystalline Bracer,Faerie Charm,Faerie Charm,6616,2093,Lane.jungle,Role.none
+2,Budded,Vel'Koz,False,Side.blue,1,11,9,0.9090909090909091,23,Exhaust,Flash,12,False,8209,6875,Liandry's Torment,Eye of the Watchers,Control Ward,Sorcerer's Shoes,,,26942,4283,Lane.bot_lane,Role.support
+3,Westrice,Pantheon,False,Side.blue,8,6,1,1.5,176,Ignite,Flash,14,True,10817,9225,Youmuu's Ghostblade,Corrupting Potion,Ninja Tabi,Jaurim's Fist,The Black Cleaver,Long Sword,14358,86062,Lane.top_lane,Role.solo
+4,IKingVex,Vayne,False,Side.blue,5,7,4,1.2857142857142858,199,Heal,Flash,13,False,10540,10250,Doran's Blade,Berserker's Greaves,B. F. Sword,Infinity Edge,Statikk Shiv,Vampiric Scepter,25070,73007,Lane.bot_lane,Role.carry
+5,cute pupper irl,Twitch,True,Side.red,13,4,10,5.75,168,Flash,Heal,15,False,13182,9250,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,Pickaxe,0,122912,Lane.bot_lane,Role.carry
+6,Kazaa,Hecarim,True,Side.red,5,5,5,2.0,172,Ghost,Smite,15,False,11250,10833,Enchantment: Cinderhulk,Giant's Belt,Spectre's Cowl,Ninja Tabi,Trinity Force,Chain Vest,30097,127412,Lane.jungle,Role.none
+7,Dream8,Jayce,True,Side.red,3,3,8,3.6666666666666665,121,Teleport,Flash,13,False,9393,9200,The Black Cleaver,Refillable Potion,Duskblade of Draktharr,Ionian Boots of Lucidity,Long Sword,Pickaxe,14195,71306,Lane.top_lane,Role.solo
+8,Liquid Matt,Bard,True,Side.red,2,4,20,5.5,17,Ignite,Flash,13,False,9346,7100,,Refillable Potion,Eye of the Watchers,Redemption,Boots of Mobility,Aegis of the Legion,18735,6443,Lane.bot_lane,Role.support
+9,Happy Birfdizzay,Zed,True,Side.red,12,3,6,6.0,214,Flash,Ignite,16,False,13748,11600,Serrated Dirk,Youmuu's Ghostblade,The Black Cleaver,Refillable Potion,Duskblade of Draktharr,Mercury's Treads,9319,130810,Lane.mid_lane,Role.solo

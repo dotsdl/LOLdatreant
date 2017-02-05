@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Chimp,Yasuo,False,Side.blue,2,11,8,0.9090909090909091,141,Flash,Teleport,13,False,9050,7775,Randuin's Omen,Phantom Dancer,Ninja Tabi,Doran's Blade,Dagger,,27374,60903,Lane.top_lane,Role.solo
+1,MINVEN,Ezreal,False,Side.blue,4,8,8,1.5,193,Heal,Flash,14,False,10109,9500,Blade of the Ruined King,Control Ward,Boots of Speed,Doran's Blade,Iceborn Gauntlet,Muramana,18232,96901,Lane.bot_lane,Role.carry
+2,CPWzzz,Soraka,False,Side.blue,0,10,16,1.6,8,Exhaust,Flash,12,False,7441,6800,Redemption,Refillable Potion,Eye of the Oasis,Boots of Swiftness,Aegis of the Legion,The Dark Seal,5764,3251,Lane.bot_lane,Role.support
+3,TBones,Gragas,False,Side.blue,12,6,3,2.5,154,Flash,Ignite,14,False,11258,9800,Hextech Protobelt-01,Doran's Ring,Fiendish Codex,Lich Bane,Seeker's Armguard,Sorcerer's Shoes,95753,11277,Lane.mid_lane,Role.solo
+4,MidzFTW,Graves,False,Side.blue,11,7,6,2.4285714285714284,176,Smite,Flash,15,False,12946,12325,Caulfield's Warhammer,Vampiric Scepter,Blade of the Ruined King,The Black Cleaver,Enchantment: Warrior,Boots of Mobility,6030,162286,Lane.jungle,Role.none
+5,TheAdjutant,Ashe,True,Side.red,2,10,12,1.4,56,Exhaust,Flash,13,False,10024,8125,Berserker's Greaves,Eye of the Oasis,Pickaxe,Long Sword,Blade of the Ruined King,Long Sword,1865,40255,Lane.bot_lane,Role.support
+6,DoctaProcta95,Trundle,True,Side.red,7,3,6,4.333333333333333,228,Teleport,Flash,16,True,13389,11808,Sunfire Cape,Titanic Hydra,Corrupting Potion,Ninja Tabi,Trinity Force,,40687,101153,Lane.top_lane,Role.solo
+7, keine Hosen,Caitlyn,True,Side.red,7,4,10,4.25,219,Flash,Heal,15,False,14198,12050,Runaan's Hurricane,Rapid Firecannon,Last Whisper,Berserker's Greaves,Infinity Edge,Doran's Blade,3072,186818,Lane.bot_lane,Role.carry
+8,MultiRainbow,Vi,True,Side.red,13,4,6,4.75,152,Smite,Flash,16,False,14141,13133,Trinity Force,Mercury's Treads,Death's Dance,Giant's Belt,,Enchantment: Warrior,1276,148162,Lane.jungle,Role.none
+9,iHDK,Ryze,True,Side.red,13,8,3,2.0,126,Ghost,Flash,14,False,13043,10300,Seraph's Embrace,Rod of Ages,Morellonomicon,Ruby Crystal,,Ionian Boots of Lucidity,96132,7183,Lane.mid_lane,Role.solo

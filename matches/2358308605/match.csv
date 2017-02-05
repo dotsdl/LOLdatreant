@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tetarus1,Janna,False,Side.blue,0,4,8,2.0,9,Exhaust,Flash,12,False,7709,6825,Talisman of Ascension,Sightstone,Redemption,Boots of Mobility,Control Ward,Total Biscuit of Rejuvenation,5099,1425,Lane.bot_lane,Role.support
+1,Jungle Frankie,Poppy,False,Side.blue,4,2,4,4.0,293,Teleport,Flash,16,False,11949,11550,Warden's Mail,Zz'Rot Portal,Spirit Visage,Ninja Tabi,Sunfire Cape,Ruby Crystal,53382,93163,Lane.top_lane,Role.solo
+2,goompa,Vayne,False,Side.blue,3,5,3,1.2,279,Heal,Flash,15,False,12068,11525,Berserker's Greaves,Doran's Blade,Vampiric Scepter,Infinity Edge,Statikk Shiv,Phantom Dancer,39605,126191,Lane.bot_lane,Role.carry
+3,Infinite Mugen,Yasuo,False,Side.blue,1,6,7,1.3333333333333333,202,Ignite,Flash,15,False,10136,8950,Doran's Blade,Doran's Blade,Infinity Edge,Phantom Dancer,Null-Magic Mantle,Mercury's Treads,17718,103996,Lane.mid_lane,Role.solo
+4,arbokfister,Diana,False,Side.blue,5,7,5,1.4285714285714286,133,Flash,Smite,15,False,10754,10560,Refillable Potion,Zhonya's Hourglass,Lich Bane,Sorcerer's Shoes,Enchantment: Runic Echoes,Amplifying Tome,112613,33157,Lane.jungle,Role.none
+5,GROMMI,Yorick,True,Side.red,5,5,1,1.2,281,Flash,Teleport,16,True,13618,11483,Zz'Rot Portal,Trinity Force,Corrupting Potion,Ninja Tabi,Dead Man's Plate,Ruby Crystal,25757,100082,Lane.top_lane,Role.solo
+6,Zojuu,Kha'Zix,True,Side.red,6,6,7,2.1666666666666665,165,Flash,Smite,16,False,13648,13400,Enchantment: Warrior,Edge of Night,Ninja Tabi,The Black Cleaver,Duskblade of Draktharr,,8482,187823,Lane.jungle,Role.none
+7,oPalamo,Annie,True,Side.red,4,1,6,10.0,173,Ignite,Flash,16,False,11795,10375,Doran's Ring,Rabadon's Deathcap,Rod of Ages,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,87129,13619,Lane.mid_lane,Role.solo
+8,Hasleyx,Nami,True,Side.red,0,0,17,17.0,8,Flash,Exhaust,14,False,10177,8150,Boots of Mobility,Ruby Sightstone,Glacial Shroud,Frost Queen's Claim,Redemption,,8113,7554,Lane.bot_lane,Role.support
+9,Jesus 2017,Twitch,True,Side.red,8,1,6,14.0,262,Flash,Heal,16,False,15145,13175,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,Vampiric Scepter,B. F. Sword,5164,190892,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Damage Divers1on,Sivir,False,Side.blue,8,5,1,1.8,153,Heal,Flash,13,False,9770,9880,B. F. Sword,Cull,Berserker's Greaves,Doran's Blade,Essence Reaver,Phantom Dancer,0,88695,Lane.bot_lane,Role.carry
+1,1997 05 01,Morgana,False,Side.blue,0,9,7,0.7777777777777778,8,Exhaust,Flash,10,False,5893,5650,Ruby Sightstone,Redemption,Control Ward,Spellthief's Edge,,Ionian Boots of Lucidity,8925,2158,Lane.bot_lane,Role.support
+2,Bentonhell,Jax,False,Side.blue,2,7,1,0.42857142857142855,140,Teleport,Flash,12,False,7614,7050,Ninja Tabi,Hextech Gunblade,Corrupting Potion,Doran's Blade,Sapphire Crystal,Phage,19677,48581,Lane.top_lane,Role.solo
+3,WatchThePower,Rengar,False,Side.blue,1,8,0,0.125,128,Flash,Smite,12,False,7041,6675,Enchantment: Cinderhulk,Refillable Potion,Phage,Spectre's Cowl,Ninja Tabi,Long Sword,25824,64550,Lane.jungle,Role.none
+4,theNippers,Fizz,False,Side.blue,1,8,3,0.5,105,Ignite,Flash,12,False,6569,5675,Abyssal Scepter,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,Fiendish Codex,32433,16697,Lane.mid_lane,Role.solo
+5,Mest,Vi,True,Side.red,6,1,9,15.0,144,Smite,Flash,15,False,11526,11233,Infinity Edge,Refillable Potion,Boots of Swiftness,Enchantment: Warrior,Trinity Force,,1555,152955,Lane.jungle,Role.none
+6,One Punch Kitty,Janna,True,Side.red,2,3,17,6.333333333333333,4,Flash,Exhaust,12,False,8611,7475,Ionian Boots of Lucidity,,,Eye of the Oasis,Redemption,Mikael's Crucible,2877,3079,Lane.bot_lane,Role.support
+7,Sudzzi,LeBlanc,True,Side.red,18,2,7,12.5,173,Flash,Ignite,15,True,14124,12425,Doran's Ring,Rabadon's Deathcap,Blasting Wand,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,98228,15962,Lane.mid_lane,Role.solo
+8,Bros0verHoes,Jayce,True,Side.red,6,4,6,3.0,188,Flash,Teleport,15,False,11055,9750,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,Last Whisper,,19149,96489,Lane.top_lane,Role.solo
+9,Liquid Lima,Vayne,True,Side.red,5,3,7,4.0,153,Flash,Heal,12,False,9995,8775,Infinity Edge,Long Sword,Berserker's Greaves,Doran's Blade,Statikk Shiv,Long Sword,13714,80944,Lane.bot_lane,Role.carry

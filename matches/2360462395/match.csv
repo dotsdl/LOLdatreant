@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Bard,True,Side.blue,6,2,13,9.5,17,Flash,Ignite,15,True,11627,10850,Ruby Sightstone,Locket of the Iron Solari,Redemption,Randuin's Omen,,Boots of Mobility,16033,9978,Lane.bot_lane,Role.support
+1,eRx,Lee Sin,True,Side.blue,6,2,7,6.5,141,Smite,Flash,16,False,12446,11225,Maw of Malmortius,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Spectre's Cowl,Mercury's Treads,25421,110522,Lane.jungle,Role.none
+2,Ályssa,Lucian,True,Side.blue,6,4,10,4.0,277,Flash,Heal,16,False,16051,14345,B. F. Sword,Infinity Edge,Last Whisper,Essence Reaver,Rapid Firecannon,Berserker's Greaves,9457,219436,Lane.bot_lane,Role.carry
+3,Nillers,Ryze,True,Side.blue,5,6,5,1.6666666666666667,229,Ghost,Flash,17,False,13548,11975,Seraph's Embrace,Zhonya's Hourglass,Quicksilver Sash,Blasting Wand,Ionian Boots of Lucidity,Rod of Ages,178041,12270,Lane.mid_lane,Role.solo
+4,CAPTAlN,Nasus,True,Side.blue,3,6,7,1.6666666666666667,129,Teleport,Ghost,15,False,11231,9758,Ruby Crystal,,Trinity Force,Spirit Visage,Warden's Mail,Mercury's Treads,20527,77302,Lane.top_lane,Role.solo
+5,Japanese Import,Zac,False,Side.red,5,5,10,3.0,175,Smite,Flash,15,False,11853,10900,Mercury's Treads,Enchantment: Cinderhulk,Randuin's Omen,Abyssal Scepter,Cloth Armor,Giant's Belt,115047,26652,Lane.jungle,Role.none
+6,ZuteGach,Janna,False,Side.red,0,2,7,3.5,20,Exhaust,Flash,13,False,8217,8200,Nomad's Medallion,Ruby Sightstone,Locket of the Iron Solari,Redemption,,Boots of Mobility,5765,4503,Lane.bot_lane,Role.support
+7,MongolWarrior,Twitch,False,Side.red,3,8,4,0.875,205,Heal,Flash,15,False,11718,11375,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,0,114920,Lane.bot_lane,Role.carry
+8,HappyEasterXbox,Riven,False,Side.red,7,5,4,2.2,239,Flash,Teleport,16,False,12245,12025,Ionian Boots of Lucidity,Ravenous Hydra,Quicksilver Sash,The Black Cleaver,Lord Dominik's Regards,,0,131761,Lane.top_lane,Role.solo
+9,BestDumptruckBR,Cassiopeia,False,Side.red,4,6,3,1.1666666666666667,284,Flash,Exhaust,17,False,13103,12875,Morellonomicon,Seraph's Embrace,Rylai's Crystal Scepter,Doran's Ring,Ruby Crystal,Void Staff,198075,15235,Lane.mid_lane,Role.solo

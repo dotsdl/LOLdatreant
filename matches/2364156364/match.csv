@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vanilla Chan,Tryndamere,False,Side.blue,4,7,3,1.0,191,Flash,Ignite,14,False,10034,9900,Blade of the Ruined King,Statikk Shiv,,,Phantom Dancer,Ionian Boots of Lucidity,128,128090,Lane.top_lane,Role.solo
+1,God of Men,LeBlanc,False,Side.blue,6,6,5,1.8333333333333333,142,Flash,Ignite,14,False,9930,9550,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,Giant's Belt,Blasting Wand,66164,17367,Lane.mid_lane,Role.solo
+2,CK Apple Jacks,Pantheon,False,Side.blue,5,1,6,11.0,150,Smite,Flash,14,False,10373,10225,Enchantment: Warrior,Mercury's Treads,Sunfire Cape,The Black Cleaver,,,20032,105115,Lane.jungle,Role.none
+3,ColomboMaker,Thresh,False,Side.blue,0,7,9,1.2857142857142858,34,Ignite,Flash,12,False,7146,6450,Face of the Mountain,Sightstone,Redemption,,Boots of Mobility,,9572,5696,Lane.bot_lane,Role.support
+4,Yovine2,Jinx,False,Side.blue,8,7,1,1.2857142857142858,247,Flash,Heal,13,False,12545,12100,Doran's Blade,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Phantom Dancer,394,136709,Lane.bot_lane,Role.carry
+5,BraveLimitao,Braum,True,Side.red,4,3,11,5.0,75,Exhaust,Flash,13,False,9845,8125,Face of the Mountain,Refillable Potion,Locket of the Iron Solari,Mercury's Treads,Ruby Crystal,Ruby Sightstone,11634,11691,Lane.bot_lane,Role.duo
+6,AD LFT,Lux,True,Side.red,6,6,8,2.3333333333333335,157,Flash,Ghost,14,False,10990,9460,Amplifying Tome,Morellonomicon,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Mejai's Soulstealer,96711,17064,Lane.mid_lane,Role.solo
+7,TRUMPSSMALLHANDS,Ezreal,True,Side.red,2,5,16,3.6,139,Flash,Heal,13,False,10648,7900,Doran's Blade,Cull,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Vampiric Scepter,15950,71565,Lane.bot_lane,Role.duo
+8,Xega,Yorick,True,Side.red,6,4,8,3.5,189,Flash,Teleport,15,False,11901,9658,Doran's Shield,Trinity Force,Zz'Rot Portal,Warden's Mail,Ruby Crystal,Ninja Tabi,19260,90584,Lane.top_lane,Role.solo
+9,Bajenga,Lee Sin,True,Side.red,10,5,5,3.0,141,Smite,Flash,15,True,12834,12300,Boots of Mobility,Enchantment: Warrior,Dead Man's Plate,Youmuu's Ghostblade,Edge of Night,,29924,100826,Lane.jungle,Role.none

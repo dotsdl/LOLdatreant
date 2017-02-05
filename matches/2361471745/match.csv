@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hyosung,Sivir,False,Side.blue,6,5,9,3.0,248,Flash,Heal,15,False,12760,11975,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Essence Reaver,Long Sword,30143,165585,Lane.bot_lane,Role.carry
+1,Hailtothechi,Karma,False,Side.blue,4,7,10,2.0,18,Exhaust,Flash,12,False,8721,7975,Redemption,Ionian Boots of Lucidity,Eye of the Watchers,Ardent Censer,,,23135,4941,Lane.bot_lane,Role.support
+2,Phooka,Vi,False,Side.blue,5,4,3,2.0,158,Smite,Flash,14,False,10105,9683,Refillable Potion,Warden's Mail,Giant's Belt,Trinity Force,Enchantment: Warrior,Ninja Tabi,1808,146110,Lane.jungle,Role.none
+3,IA55A55INI,Kled,False,Side.blue,1,10,3,0.4,126,Flash,Teleport,13,False,7883,7550,Doran's Shield,Titanic Hydra,Ninja Tabi,Phage,Caulfield's Warhammer,,98,73034,Lane.top_lane,Role.solo
+4,Abou222,Katarina,False,Side.blue,4,11,3,0.6363636363636364,151,Teleport,Flash,13,False,9016,7925,Hextech Gunblade,Refillable Potion,Rylai's Crystal Scepter,Cloth Armor,The Dark Seal,Boots of Speed,75877,9477,Lane.mid_lane,Role.solo
+5,Niles,Gangplank,True,Side.red,2,7,8,1.4285714285714286,92,Flash,Exhaust,13,False,10827,10733,Ionian Boots of Lucidity,Eye of the Watchers,Trinity Force,Infinity Edge,,,3416,94891,Lane.bot_lane,Role.support
+6,cackgod,Elise,True,Side.red,8,1,8,16.0,127,Teleport,Flash,15,False,12339,10800,Haunting Guise,Locket of the Iron Solari,Warden's Mail,Sorcerer's Shoes,Giant's Belt,Rylai's Crystal Scepter,83539,35189,Lane.jungle,Role.none
+7,Part The Sea,Yasuo,True,Side.red,9,7,6,2.142857142857143,183,Flash,Exhaust,15,False,13133,11925,Blade of the Ruined King,Phantom Dancer,Mercury's Treads,Doran's Blade,Infinity Edge,,19454,123529,Lane.mid_lane,Role.solo
+8,West Coast Carry,Fiora,True,Side.red,13,3,9,7.333333333333333,195,Flash,Teleport,16,True,14602,13425,Doran's Blade,Ravenous Hydra,Mercury's Treads,The Black Cleaver,Maw of Malmortius,Spectre's Cowl,2898,146139,Lane.top_lane,Role.solo
+9,amgod1,Caitlyn,True,Side.red,5,2,9,7.0,174,Heal,Flash,14,False,12059,10825,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,1546,125439,Lane.bot_lane,Role.carry

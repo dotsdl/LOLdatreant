@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tsùki,Sivir,False,Side.blue,1,5,2,0.6,136,Flash,Heal,11,False,6814,6400,Doran's Blade,Essence Reaver,Cull,Brawler's Gloves,Berserker's Greaves,Dagger,465,67730,Lane.bot_lane,Role.carry
+1,NayvadiusWilburn,Fiora,False,Side.blue,5,5,1,1.2,160,Flash,Teleport,12,False,8046,7600,Ravenous Hydra,Caulfield's Warhammer,Boots of Swiftness,Doran's Blade,Dagger,Phage,1025,77933,Lane.top_lane,Role.solo
+2,HvK LiquidDiego,Ivern,False,Side.blue,2,5,5,1.4,43,Flash,Smite,10,False,5835,5000,Hunter's Talisman,Refillable Potion,Redemption,Ionian Boots of Lucidity,Ruby Crystal,Aegis of the Legion,6247,3357,Lane.jungle,Role.none
+3,Ginormous Noob,Nami,False,Side.blue,0,3,1,0.3333333333333333,22,Flash,Exhaust,9,False,4691,4275,Forbidden Idol,,Eye of the Watchers,Ionian Boots of Lucidity,,,5662,5539,Lane.bot_lane,Role.support
+4,mid VallFire,Ahri,False,Side.blue,5,5,3,1.6,82,Flash,Ignite,11,False,6468,4425,Doran's Ring,Doran's Ring,Morellonomicon,Boots of Speed,,Control Ward,25431,5914,Lane.mid_lane,Role.solo
+5,Ballsagna,Anivia,True,Side.red,4,3,10,4.666666666666667,118,Flash,Ignite,12,True,8991,7940,Doran's Ring,Archangel's Staff,Rod of Ages,Control Ward,Sorcerer's Shoes,,55483,11658,Lane.mid_lane,Role.solo
+6,Perrito,Bard,True,Side.red,0,2,14,7.0,13,Ignite,Flash,10,False,7188,6800,Eye of the Watchers,Redemption,,Control Ward,Ionian Boots of Lucidity,Kindlegem,12457,7529,Lane.bot_lane,Role.support
+7,Str1fe,Kalista,True,Side.red,12,1,4,16.0,150,Flash,Heal,12,False,12058,10800,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Phantom Dancer,Long Sword,1720,103809,Lane.bot_lane,Role.carry
+8,ddwaeji,Renekton,True,Side.red,3,4,2,1.25,142,Flash,Teleport,12,False,8434,7450,Null-Magic Mantle,The Black Cleaver,Giant's Belt,Doran's Blade,Ninja Tabi,Warden's Mail,3095,76746,Lane.top_lane,Role.solo
+9,Regular Mid,Ekko,True,Side.red,4,5,1,1.0,65,Flash,Smite,12,False,7885,6125,Refillable Potion,,Enchantment: Runic Echoes,Boots of Speed,Morellonomicon,,48824,22232,Lane.jungle,Role.none

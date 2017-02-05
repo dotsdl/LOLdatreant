@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Quincy Adams,Fiora,True,Side.blue,9,4,2,2.75,217,Flash,Ignite,15,True,13463,12575,Mercury's Treads,Hexdrinker,Titanic Hydra,Wit's End,,The Black Cleaver,12798,122298,Lane.top_lane,Role.solo
+1,Chad Reformed ,Jax,True,Side.blue,10,9,8,2.0,163,Smite,Ghost,16,False,14285,13908,Enchantment: Bloodrazor,Trinity Force,Titanic Hydra,Mercury's Treads,Spirit Visage,,28504,145773,Lane.jungle,Role.none
+2,Joelzzz,Ryze,True,Side.blue,3,7,8,1.5714285714285714,178,Ghost,Flash,15,False,11563,10175,Tear of the Goddess,Refillable Potion,Rod of Ages,Mercury's Treads,Abyssal Scepter,Void Staff,115221,8072,Lane.mid_lane,Role.solo
+3,Janna 1 trick,Thresh,True,Side.blue,3,7,16,2.7142857142857144,14,Ignite,Flash,12,False,9139,7850,Redemption,Face of the Mountain,Boots of Mobility,Control Ward,Null-Magic Mantle,Ruby Sightstone,7394,5039,Lane.bot_lane,Role.support
+4,TRUMPSSMALLHANDS,Ezreal,True,Side.blue,8,6,10,3.0,183,Flash,Heal,15,False,13593,11683,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,Maw of Malmortius,Long Sword,29579,121366,Lane.bot_lane,Role.carry
+5,2342563463634,Kassadin,False,Side.red,21,5,4,5.0,124,Ignite,Flash,14,False,13252,12550,Corrupting Potion,Zhonya's Hourglass,Ionian Boots of Lucidity,Rod of Ages,Abyssal Scepter,Void Staff,77371,17972,Lane.mid_lane,Role.solo
+6,Poosickle,Lulu,False,Side.red,1,7,15,2.2857142857142856,21,Exhaust,Flash,13,False,8326,7225,Sightstone,Frost Queen's Claim,Boots of Mobility,Aether Wisp,Needlessly Large Rod,Forbidden Idol,20856,3937,Lane.bot_lane,Role.support
+7,ADC Goduck,Jhin,False,Side.red,3,7,13,2.2857142857142856,172,Heal,Flash,14,False,10382,9550,Doran's Blade,Infinity Edge,Berserker's Greaves,Essence Reaver,Dagger,,2201,117253,Lane.bot_lane,Role.carry
+8,Horrible Player,Zac,False,Side.red,5,5,12,3.4,153,Smite,Flash,14,False,10225,9900,Enchantment: Cinderhulk,Randuin's Omen,Spirit Visage,Ionian Boots of Lucidity,Refillable Potion,Cloth Armor,83442,21908,Lane.jungle,Role.none
+9,Turb,Rumble,False,Side.red,3,9,9,1.3333333333333333,186,Flash,Teleport,15,False,10402,9610,Zhonya's Hourglass,Hextech Protobelt-01,Doran's Shield,Mercury's Treads,Haunting Guise,Control Ward,107430,11763,Lane.top_lane,Role.solo

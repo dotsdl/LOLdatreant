@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hi Im A Sheep,Soraka,False,Side.blue,0,2,0,0.0,5,Flash,Exhaust,9,False,4166,3400,Eye of the Oasis,,,Faerie Charm,Faerie Charm,Ionian Boots of Lucidity,8548,2521,Lane.bot_lane,Role.support
+1,Vladfire1 BG ,Skarner,False,Side.blue,2,5,0,0.4,73,Smite,Flash,10,False,5897,5450,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Spectre's Cowl,Control Ward,,23524,41616,Lane.jungle,Role.none
+2,Useless Rat,Twitch,False,Side.blue,0,3,0,0.0,160,Flash,Heal,10,False,6023,4675,,Doran's Blade,Runaan's Hurricane,B. F. Sword,,,0,49929,Lane.bot_lane,Role.carry
+3,Liquid Matt,Viktor,False,Side.blue,0,4,1,0.25,122,Ghost,Flash,11,False,5614,5225,The Hex Core mk-1,Abyssal Scepter,Doran's Ring,,,Boots of Speed,47515,11091,Lane.mid_lane,Role.solo
+4,Cris,Kennen,False,Side.blue,0,5,1,0.2,134,Flash,Teleport,11,False,5832,5210,Hextech Protobelt-01,Refillable Potion,Amplifying Tome,Doran's Blade,Sorcerer's Shoes,Doran's Blade,42891,24095,Lane.top_lane,Role.solo
+5,Old Man Lohpally,Karma,True,Side.red,0,0,6,6.0,7,Exhaust,Flash,10,False,5953,3725,Ionian Boots of Lucidity,Eye of the Watchers,Ruby Crystal,Control Ward,,,16399,5960,Lane.bot_lane,Role.support
+6,Licorice,Nasus,True,Side.red,4,0,7,11.0,165,Flash,Teleport,13,False,9325,9438,Corrupting Potion,Zz'Rot Portal,Doran's Shield,Mercury's Treads,Trinity Force,Cloth Armor,49868,41027,Lane.top_lane,Role.solo
+7,Nhock,Lee Sin,True,Side.red,9,2,3,6.0,70,Smite,Flash,11,True,8862,8150,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Hexdrinker,Dead Man's Plate,,13111,72332,Lane.jungle,Role.none
+8,Twitchtv Flaresz,Ezreal,True,Side.red,2,0,1,3.0,172,Flash,Heal,11,False,8008,7658,Doran's Blade,Trinity Force,Manamune,Ionian Boots of Lucidity,,,9605,67651,Lane.bot_lane,Role.carry
+9,Linsanityy,LeBlanc,True,Side.red,4,0,7,11.0,179,Flash,Teleport,14,False,9160,8930,Blasting Wand,Sorcerer's Shoes,Morellonomicon,Doran's Ring,The Dark Seal,Abyssal Scepter,91324,9135,Lane.mid_lane,Role.solo

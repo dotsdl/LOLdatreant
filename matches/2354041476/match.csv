@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,sizzackz,Jhin,True,Side.blue,12,5,15,5.4,122,Heal,Flash,14,False,12167,11900,Pickaxe,Essence Reaver,Maw of Malmortius,Rapid Firecannon,Boots of Swiftness,,9368,97570,Lane.bot_lane,Role.carry
+1,LongTao Hou,Rek'Sai,True,Side.blue,6,4,13,4.75,123,Smite,Flash,14,False,10965,12050,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Jaurim's Fist,Mercury's Treads,Tiamat,21508,73374,Lane.jungle,Role.none
+2,MyTeamSoGOD,Bard,True,Side.blue,2,3,22,8.0,26,Flash,Ignite,13,False,9715,8975,Knight's Vow,Eye of the Watchers,Redemption,Boots of Mobility,Null-Magic Mantle,Null-Magic Mantle,19760,8156,Lane.bot_lane,Role.support
+3,Dhokla,Viktor,True,Side.blue,7,7,7,2.0,170,Flash,Ghost,14,False,11344,10150,Perfect Hex Core,Rylai's Crystal Scepter,Aether Wisp,Ionian Boots of Lucidity,Doran's Ring,Sheen,104110,12022,Lane.mid_lane,Role.solo
+4,T L F ,Darius,True,Side.blue,6,5,8,2.8,187,Teleport,Ghost,15,False,12020,10450,Doran's Blade,Corrupting Potion,Zz'Rot Portal,Boots of Swiftness,Spirit Visage,The Black Cleaver,509,111932,Lane.top_lane,Role.solo
+5,Kuiiiiiiiiiiiii,Janna,False,Side.red,1,8,12,1.625,8,Exhaust,Flash,10,False,7342,6725,Redemption,Sightstone,Frost Queen's Claim,Control Ward,Boots of Mobility,,5870,3449,Lane.bot_lane,Role.support
+6,Lose,Ezreal,False,Side.red,2,6,6,1.3333333333333333,156,Flash,Heal,12,False,9171,8200,Iceborn Gauntlet,Manamune,Cull,Doran's Blade,,Ionian Boots of Lucidity,16535,71831,Lane.bot_lane,Role.carry
+7,Koby,Nasus,False,Side.red,6,7,5,1.5714285714285714,158,Flash,Teleport,13,False,10367,9233,Ruby Crystal,Doran's Ring,Doran's Ring,Ninja Tabi,Trinity Force,Zz'Rot Portal,59886,37399,Lane.top_lane,Role.solo
+8,RealDarkness,Udyr,False,Side.red,9,7,8,2.4285714285714284,80,Smite,Flash,12,False,9962,9083,Mercury's Treads,Refillable Potion,Trinity Force,Enchantment: Cinderhulk,Giant's Belt,Ruby Crystal,53017,42948,Lane.jungle,Role.none
+9,Nedo,Ryze,False,Side.red,6,5,6,2.4,151,Ghost,Flash,14,True,10134,8685,Rod of Ages,Needlessly Large Rod,Seraph's Embrace,Ionian Boots of Lucidity,Amplifying Tome,,105840,9995,Lane.mid_lane,Role.solo

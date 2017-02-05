@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rich Homie Lucky,Zyra,True,Side.blue,2,4,9,2.75,12,Flash,Exhaust,10,False,7037,6475,Control Ward,Sightstone,Total Biscuit of Rejuvenation,Liandry's Torment,Frostfang,Sorcerer's Shoes,17619,6470,Lane.bot_lane,Role.support
+1,Wazabiee,LeBlanc,True,Side.blue,6,1,6,12.0,124,Ignite,Flash,13,False,9741,6960,Morellonomicon,Mejai's Soulstealer,Doran's Ring,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,79341,11578,Lane.mid_lane,Role.solo
+2,Darmous,Graves,True,Side.blue,5,2,5,5.0,149,Flash,Heal,12,False,9418,9250,Berserker's Greaves,Doran's Blade,Infinity Edge,Zeal,,Phantom Dancer,860,87081,Lane.bot_lane,Role.carry
+3,TheBolvar,Rumble,True,Side.blue,6,2,5,5.5,185,Flash,Teleport,13,False,9906,8950,Liandry's Torment,Hextech Protobelt-01,Needlessly Large Rod,,,Sorcerer's Shoes,89961,9310,Lane.top_lane,Role.solo
+4,iPav999,Xin Zhao,True,Side.blue,5,2,5,5.0,58,Smite,Flash,11,False,7986,7425,Enchantment: Bloodrazor,Refillable Potion,Ninja Tabi,Phage,Stinger,Sheen,7632,55749,Lane.jungle,Role.none
+5,THE Benb,Riven,False,Side.red,2,3,2,1.3333333333333333,140,Teleport,Flash,12,False,6710,5850,The Black Cleaver,Long Sword,Boots of Speed,Hexdrinker,Null-Magic Mantle,,0,70438,Lane.top_lane,Role.solo
+6,C9 Meteos,Leona,False,Side.red,0,5,6,1.2,33,Ignite,Flash,9,False,5253,5150,Boots of Swiftness,Face of the Mountain,Refillable Potion,Ruby Sightstone,Control Ward,,5551,5717,Lane.bot_lane,Role.support
+7,Grapermelon,Hecarim,False,Side.red,3,4,3,1.5,82,Smite,Ghost,11,False,6663,6183,Boots of Swiftness,Refillable Potion,Stalker's Blade,Trinity Force,Ruby Crystal,,8433,60425,Lane.jungle,Role.none
+8,I Blame Rito,Twitch,False,Side.red,5,5,3,1.6,132,Flash,Heal,10,True,7543,6750,Doran's Blade,Recurve Bow,Berserker's Greaves,Infinity Edge,Dagger,,1557,43958,Lane.bot_lane,Role.carry
+9,Carpe Dio,Orianna,False,Side.red,1,7,4,0.7142857142857143,111,Flash,Heal,11,False,6197,6100,Doran's Ring,Sorcerer's Shoes,Total Biscuit of Rejuvenation,Morellonomicon,Doran's Ring,Blasting Wand,55546,8415,Lane.mid_lane,Role.solo

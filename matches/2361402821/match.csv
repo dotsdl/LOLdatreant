@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Makavéli,Olaf,True,Side.blue,3,0,5,8.0,73,Smite,Ghost,10,True,6738,6025,Enchantment: Cinderhulk,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Spectre's Cowl,Giant's Belt,7404,59741,Lane.jungle,Role.none
+1,Stiches,Twisted Fate,True,Side.blue,0,1,8,8.0,11,Exhaust,Flash,9,False,5499,4450,Eye of the Oasis,,Glacial Shroud,Control Ward,Sapphire Crystal,Boots of Mobility,15229,6337,Lane.bot_lane,Role.support
+2,Link,Viktor,True,Side.blue,2,0,4,6.0,100,Flash,Ghost,10,False,6244,5350,,Perfect Hex Core,Refillable Potion,Boots of Speed,Doran's Ring,Needlessly Large Rod,38902,9509,Lane.mid_lane,Role.solo
+3,C9 Sneaky,Ezreal,True,Side.blue,3,0,5,8.0,120,Flash,Heal,9,False,7241,6175,Doran's Blade,Manamune,Iceborn Gauntlet,Control Ward,Total Biscuit of Rejuvenation,Boots of Speed,9224,43359,Lane.bot_lane,Role.carry
+4,NayvadiusWilburn,Fiora,True,Side.blue,3,1,1,4.0,113,Flash,Teleport,11,False,6372,4025,Tiamat,Doran's Blade,Vampiric Scepter,,Doran's Blade,Pickaxe,410,55343,Lane.top_lane,Role.solo
+5,BoxerPete,Tryndamere,False,Side.red,1,1,0,1.0,109,Ignite,Flash,10,False,4737,3850,,Blade of the Ruined King,Refillable Potion,Boots of Speed,,,143,49643,Lane.top_lane,Role.solo
+6,Allorim,Zac,False,Side.red,0,2,1,0.5,70,Flash,Smite,8,False,3909,3550,Enchantment: Cinderhulk,Boots of Speed,Ruby Crystal,Refillable Potion,,,26161,10381,Lane.jungle,Role.none
+7,konkwon,Caitlyn,False,Side.red,0,1,0,0.0,70,Flash,Heal,7,False,3699,3400,Doran's Blade,Cull,Berserker's Greaves,Recurve Bow,Dagger,,317,20381,Lane.bot_lane,Role.carry
+8,Renger cat,Cassiopeia,False,Side.red,1,4,0,0.25,79,Ghost,Flash,9,False,4147,3650,Tear of the Goddess,Lost Chapter,Fiendish Codex,Doran's Ring,Doran's Ring,,25970,6281,Lane.mid_lane,Role.solo
+9,Lose is improved,Morgana,False,Side.red,0,3,0,0.0,6,Exhaust,Flash,6,False,2764,1725,Total Biscuit of Rejuvenation,Sightstone,,Spellthief's Edge,,Boots of Speed,2081,1567,Lane.bot_lane,Role.support

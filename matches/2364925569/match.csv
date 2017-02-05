@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,T L F ,Zac,True,Side.blue,3,2,13,8.0,147,Smite,Flash,14,False,11433,10150,Enchantment: Cinderhulk,Chain Vest,Locket of the Iron Solari,Ninja Tabi,Spirit Visage,Ruby Crystal,100890,26618,Lane.jungle,Role.none
+1,TheLittleWookie,Blitzcrank,True,Side.blue,4,7,11,2.142857142857143,31,Flash,Ignite,13,False,9871,8075,Locket of the Iron Solari,Sightstone,Face of the Mountain,Cloth Armor,Glacial Shroud,Boots of Mobility,8525,10814,Lane.bot_lane,Role.support
+2,Mr Rotation,Jayce,True,Side.blue,6,6,8,2.3333333333333335,179,Flash,Ignite,15,False,11927,10225,Doran's Blade,Muramana,Mercury's Treads,Youmuu's Ghostblade,Maw of Malmortius,,15314,106279,Lane.mid_lane,Role.solo
+3,Shiphtur,Ziggs,True,Side.blue,10,2,11,10.5,241,Heal,Flash,16,False,15329,14950,Lich Bane,Morellonomicon,Rabadon's Deathcap,Doran's Ring,Sorcerer's Shoes,Luden's Echo,177049,16222,Lane.bot_lane,Role.carry
+4,West Coast Carry,Fiora,True,Side.blue,8,9,9,1.8888888888888888,185,Flash,Teleport,15,False,12697,11125,Doran's Blade,Ravenous Hydra,Mercury's Treads,The Black Cleaver,Guardian Angel,,1143,118314,Lane.top_lane,Role.solo
+5,moon o,Lee Sin,False,Side.red,6,3,10,5.333333333333333,165,Smite,Flash,15,True,11630,11170,Tiamat,Dead Man's Plate,Negatron Cloak,Ruby Sightstone,Ninja Tabi,Enchantment: Warrior,25494,124798,Lane.jungle,Role.none
+6,Raveydemon,Leona,False,Side.red,0,9,14,1.5555555555555556,36,Exhaust,Flash,12,False,7791,7250,Face of the Mountain,Sightstone,Locket of the Iron Solari,Ruby Crystal,,Boots of Mobility,7827,5051,Lane.bot_lane,Role.support
+7,Enrique4pe,Sivir,False,Side.red,8,6,11,3.1666666666666665,224,Flash,Heal,15,False,13118,12800,Doran's Blade,Essence Reaver,Berserker's Greaves,Phantom Dancer,Infinity Edge,B. F. Sword,567,159114,Lane.bot_lane,Role.carry
+8,YoIocaust,Singed,False,Side.red,2,8,8,1.25,201,Teleport,Ghost,15,False,10319,10400,Abyssal Scepter,Ninja Tabi,Rylai's Crystal Scepter,Rod of Ages,,,124706,4424,Lane.top_lane,Role.solo
+9,Annie Bot,Annie,False,Side.red,10,5,6,3.2,175,Exhaust,Flash,14,False,11812,10925,Hextech Protobelt-01,Rabadon's Deathcap,The Dark Seal,Void Staff,Ionian Boots of Lucidity,Doran's Ring,88953,8356,Lane.mid_lane,Role.solo

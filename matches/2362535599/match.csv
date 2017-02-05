@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AsianGoneWild,Bard,True,Side.blue,2,4,25,6.75,28,Ignite,Flash,15,True,11651,9500,Redemption,Hextech Protobelt-01,Eye of the Watchers,Glacial Shroud,Boots of Mobility,Sapphire Crystal,26871,8216,Lane.bot_lane,Role.support
+1,Cay,Corki,True,Side.blue,19,5,8,5.4,229,Flash,Cleanse,17,False,17701,15208,Doran's Blade,Trinity Force,Hextech Gunblade,Sorcerer's Shoes,Maw of Malmortius,Void Staff,144994,48154,Lane.mid_lane,Role.solo
+2,Dragonette,Rek'Sai,True,Side.blue,2,4,9,2.75,180,Flash,Smite,15,False,11755,9975,Tiamat,Randuin's Omen,Enchantment: Cinderhulk,Mercury's Treads,Kindlegem,Spectre's Cowl,30303,103533,Lane.jungle,Role.none
+3,Łast Hit,Darius,True,Side.blue,5,4,8,3.25,203,Flash,Teleport,16,False,12090,10775,Corrupting Potion,The Black Cleaver,Mercury's Treads,Dead Man's Plate,Spirit Visage,Cloth Armor,783,131090,Lane.top_lane,Role.solo
+4,Final Hour Vayne,Ezreal,True,Side.blue,8,6,11,3.1666666666666665,166,Heal,Flash,16,False,12822,11025,Doran's Blade,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Pickaxe,18733,102926,Lane.bot_lane,Role.carry
+5,Nerf Vayne,Vayne,False,Side.red,9,6,7,2.6666666666666665,218,Heal,Flash,15,False,13833,12800,Doran's Blade,Infinity Edge,Blade of the Ruined King,Berserker's Greaves,Statikk Shiv,Zeal,39347,104678,Lane.bot_lane,Role.carry
+6,trustissues,Lee Sin,False,Side.red,3,10,1,0.4,154,Smite,Flash,15,False,11461,11250,Guardian Angel,,Titanic Hydra,Boots of Swiftness,Enchantment: Warrior,Hexdrinker,23062,127133,Lane.jungle,Role.none
+7,Slightly Sexual,Lux,False,Side.red,6,7,7,1.8571428571428572,187,Ghost,Flash,15,False,12065,12925,Doran's Ring,Morellonomicon,Void Staff,Sorcerer's Shoes,Luden's Echo,Blasting Wand,122425,12482,Lane.mid_lane,Role.solo
+8,FirstTimeCaitlyn,Malphite,False,Side.red,4,8,5,1.125,194,Teleport,Flash,15,False,11397,11850,Abyssal Scepter,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Giant's Belt,Ruby Crystal,70021,45875,Lane.top_lane,Role.solo
+9,AcexOfxSpades,Thresh,False,Side.red,1,5,14,3.0,9,Exhaust,Flash,12,False,9350,8550,Boots of Swiftness,Redemption,Eye of the Oasis,Knight's Vow,Null-Magic Mantle,,10577,5258,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,icyqt,Graves,False,Side.blue,4,3,9,4.333333333333333,290,Heal,Flash,17,False,13581,11750,Essence Reaver,Ninja Tabi,Phantom Dancer,Doran's Blade,Sterak's Gage,B. F. Sword,2247,185784,Lane.bot_lane,Role.carry
+1,bac,Twitch,False,Side.blue,6,11,6,1.0909090909090908,121,Flash,Smite,14,False,11208,10075,Enchantment: Warrior,Berserker's Greaves,Infinity Edge,Statikk Shiv,,,16452,101071,Lane.jungle,Role.none
+2,3in1warrior,Renekton,False,Side.blue,10,8,7,2.125,173,Flash,Exhaust,15,False,12951,12325,Titanic Hydra,Chain Vest,Blade of the Ruined King,Ninja Tabi,The Black Cleaver,,10813,114785,Lane.top_lane,Role.solo
+3,WatchThePower,Rengar,False,Side.blue,3,11,7,0.9090909090909091,98,Flash,Exhaust,13,True,10231,9425,Relic Shield,The Black Cleaver,Spirit Visage,Ninja Tabi,Long Sword,Aegis of the Legion,10956,65044,Lane.bot_lane,Role.support
+4,Dyr0nejk2,Diana,False,Side.blue,5,11,6,1.0,205,Teleport,Flash,15,False,11748,12060,Control Ward,Sorcerer's Shoes,Nashor's Tooth,Rod of Ages,Zhonya's Hourglass,Blasting Wand,136032,16675,Lane.mid_lane,Role.solo
+5,2222,Karma,True,Side.red,2,5,20,4.4,37,Exhaust,Flash,14,False,10911,10380,Frost Queen's Claim,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,,Zz'Rot Portal,20047,3500,Lane.bot_lane,Role.support
+6,Huhkevi4,Kha'Zix,True,Side.red,22,7,9,4.428571428571429,176,Flash,Smite,18,False,18367,16325,Enchantment: Warrior,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Duskblade of Draktharr,Mortal Reminder,10020,238546,Lane.jungle,Role.none
+7,Yong Gim,Kled,True,Side.red,7,6,16,3.8333333333333335,172,Flash,Teleport,17,False,13084,11475,Dead Man's Plate,Ninja Tabi,The Black Cleaver,Guardian Angel,Jaurim's Fist,Long Sword,0,95836,Lane.top_lane,Role.solo
+8,Hero of Wabash,Jhin,True,Side.red,9,4,8,4.25,202,Heal,Flash,16,False,14108,12300,Infinity Edge,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Doran's Blade,Total Biscuit of Rejuvenation,8647,158292,Lane.bot_lane,Role.carry
+9,GentleFalcon,Ahri,True,Side.red,4,7,19,3.2857142857142856,197,Flash,Ignite,16,False,13072,11985,Amplifying Tome,Zhonya's Hourglass,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,Blasting Wand,91644,19570,Lane.mid_lane,Role.solo

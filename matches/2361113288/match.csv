@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Japanese is SB,Ashe,True,Side.blue,6,2,4,5.0,175,Flash,Heal,11,False,9440,8025,Doran's Blade,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,1019,83125,Lane.bot_lane,Role.carry
+1,Duan Xiao Hui,Zed,True,Side.blue,2,4,3,1.25,131,Ignite,Flash,12,False,6870,5025,Youmuu's Ghostblade,Refillable Potion,Serrated Dirk,Cloth Armor,Boots of Speed,,4193,50041,Lane.top_lane,Role.solo
+2,JeezyTheSnowMan,Janna,True,Side.blue,0,3,9,3.0,3,Exhaust,Flash,9,False,5218,5125,Redemption,Eye of the Watchers,Control Ward,,Boots of Speed,,5302,2498,Lane.bot_lane,Role.support
+3,Griffin1795,Malzahar,True,Side.blue,10,0,4,14.0,149,Flash,Ghost,14,True,10570,7775,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,Doran's Ring,,,67813,15782,Lane.mid_lane,Role.solo
+4,pridester,Sejuani,True,Side.blue,1,1,8,9.0,65,Flash,Smite,10,False,6356,5675,Enchantment: Cinderhulk,Refillable Potion,Boots of Mobility,Giant's Belt,Warden's Mail,,41745,17128,Lane.jungle,Role.none
+5,TechSheep,Riven,False,Side.red,4,3,1,1.6666666666666667,166,Flash,Teleport,12,False,7571,7550,Ionian Boots of Lucidity,The Black Cleaver,Quicksilver Sash,Chain Vest,Vampiric Scepter,Control Ward,0,73400,Lane.top_lane,Role.solo
+6,1IOrz,Jhin,False,Side.red,3,4,3,1.5,130,Heal,Flash,10,False,6628,5875,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Brawler's Gloves,Dagger,,503,60626,Lane.bot_lane,Role.carry
+7,Fizz Stay Night,Twisted Fate,False,Side.red,1,6,3,0.6666666666666666,113,Flash,Exhaust,11,False,6400,5725,Refillable Potion,Hextech GLP-800,Ionian Boots of Lucidity,Doran's Ring,Sheen,,49054,12019,Lane.mid_lane,Role.solo
+8,BlackFishes,Morgana,False,Side.red,1,2,5,3.0,11,Ignite,Flash,9,False,4803,3750,Ionian Boots of Lucidity,,Eye of the Watchers,Control Ward,,,5978,2265,Lane.bot_lane,Role.support
+9,snap,Gragas,False,Side.red,1,4,1,0.5,75,Flash,Smite,10,False,5687,5500,Refillable Potion,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Spectre's Cowl,Ruby Crystal,,44503,15020,Lane.jungle,Role.none

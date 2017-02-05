@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,eckoeckos,Nami,False,Side.blue,0,10,10,1.0,10,Exhaust,Flash,12,False,7463,7325,Ionian Boots of Lucidity,Crystalline Bracer,Locket of the Iron Solari,Eye of the Watchers,Forbidden Idol,,6531,3837,Lane.bot_lane,Role.support
+1,AaronDLy,Zac,False,Side.blue,4,10,7,1.1,99,Smite,Flash,13,False,9379,8700,Enchantment: Cinderhulk,Spirit Visage,Ionian Boots of Lucidity,Warden's Mail,Giant's Belt,Control Ward,70312,18708,Lane.jungle,Role.none
+2,Oatmeat,Garen,False,Side.blue,3,3,4,2.3333333333333335,228,Teleport,Flash,16,False,10680,9550,Sunfire Cape,The Black Cleaver,Ninja Tabi,Giant's Belt,Chain Vest,Cloth Armor,35888,96732,Lane.top_lane,Role.solo
+3,swordstoo,Jinx,False,Side.blue,10,9,3,1.4444444444444444,189,Heal,Flash,13,False,12067,11600,Infinity Edge,Doran's Blade,Runaan's Hurricane,Lord Dominik's Regards,Null-Magic Mantle,Berserker's Greaves,3312,137655,Lane.bot_lane,Role.carry
+4,Love Chi,Lissandra,False,Side.blue,1,8,5,0.75,124,Exhaust,Flash,13,False,8670,7835,Doran's Ring,Zhonya's Hourglass,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,,77427,6946,Lane.mid_lane,Role.solo
+5,Sapin,Poppy,True,Side.red,3,3,11,4.666666666666667,183,Teleport,Flash,16,False,11573,9120,Corrupting Potion,Sunfire Cape,Mercury's Treads,Iceborn Gauntlet,Raptor Cloak,Negatron Cloak,42835,79602,Lane.top_lane,Role.solo
+6,Slinkris,Cassiopeia,True,Side.red,5,4,17,5.5,202,Cleanse,Flash,16,False,12877,10910,Seraph's Embrace,Abyssal Scepter,Giant's Belt,Doran's Ring,Morellonomicon,Amplifying Tome,121116,9497,Lane.mid_lane,Role.solo
+7,KitingYeezus,Kha'Zix,True,Side.red,17,8,5,2.75,132,Flash,Smite,15,True,14452,14275,Youmuu's Ghostblade,Ravenous Hydra,Duskblade of Draktharr,Enchantment: Warrior,Boots of Swiftness,,5176,140198,Lane.jungle,Role.none
+8,Headquarters,Jhin,True,Side.red,11,2,11,11.0,227,Flash,Heal,15,False,15089,12950,Infinity Edge,Essence Reaver,Last Whisper,Boots of Swiftness,Rapid Firecannon,Long Sword,11343,155121,Lane.bot_lane,Role.carry
+9,iTeleportal,Leona,True,Side.red,3,2,19,11.0,46,Flash,Exhaust,14,False,10538,9050,Face of the Mountain,Redemption,Sightstone,Mercury's Treads,Cloth Armor,Knight's Vow,13220,11092,Lane.bot_lane,Role.support

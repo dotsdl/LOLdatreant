@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hanjaro,Morgana,True,Side.blue,3,4,9,3.0,21,Flash,Exhaust,10,False,7863,5925,Sightstone,Refillable Potion,Ionian Boots of Lucidity,Frost Queen's Claim,Forbidden Idol,Crystalline Bracer,12033,3470,Lane.bot_lane,Role.support
+1,Asc Intercourse,Twitch,True,Side.blue,1,3,2,1.0,117,Flash,Heal,10,False,7335,6725,Pickaxe,Control Ward,B. F. Sword,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,0,52193,Lane.bot_lane,Role.carry
+2,emV,Elise,True,Side.blue,10,0,7,17.0,98,Flash,Smite,14,False,11133,9650,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Liandry's Torment,Hextech Protobelt-01,,85461,29258,Lane.jungle,Role.none
+3,RumbleMidGGnoRE,Rumble,True,Side.blue,8,1,5,13.0,150,Teleport,Flash,13,False,10555,8350,Hextech Protobelt-01,Doran's Shield,Liandry's Torment,Sorcerer's Shoes,,Blasting Wand,82900,8348,Lane.top_lane,Role.solo
+4,SoI absoIute,Yasuo,True,Side.blue,11,7,3,2.0,158,Exhaust,Flash,14,True,11420,9700,Doran's Blade,Bilgewater Cutlass,Ninja Tabi,Infinity Edge,Phantom Dancer,Dagger,22293,95847,Lane.mid_lane,Role.solo
+5,3eon,Janna,False,Side.red,2,5,6,1.6,10,Flash,Exhaust,10,False,5814,5600,Eye of the Oasis,Redemption,Null-Magic Mantle,Boots of Speed,Control Ward,Cloth Armor,2865,1792,Lane.bot_lane,Role.support
+6,Farefars World,Draven,False,Side.red,5,7,2,1.0,115,Flash,Heal,10,False,7680,6800,Doran's Blade,Death's Dance,Ninja Tabi,Zeal,,Dagger,0,68282,Lane.bot_lane,Role.carry
+7,a fed child,Twisted Fate,False,Side.red,5,10,2,0.7,110,Ignite,Flash,11,False,7431,6600,Doran's Ring,Zhonya's Hourglass,Doran's Ring,Sheen,Ionian Boots of Lucidity,Aether Wisp,55252,9589,Lane.mid_lane,Role.solo
+8,The Rain Mang,Malphite,False,Side.red,0,5,1,0.2,110,Flash,Teleport,11,False,5559,4725,Doran's Shield,Sunfire Cape,Total Biscuit of Rejuvenation,Mercury's Treads,Control Ward,,31811,20689,Lane.top_lane,Role.solo
+9,Daddygoesdeep,Lee Sin,False,Side.red,3,6,2,0.8333333333333334,94,Flash,Smite,11,False,6657,6425,Refillable Potion,Enchantment: Warrior,Tiamat,Mercury's Treads,Spectre's Cowl,Control Ward,10458,67408,Lane.jungle,Role.none

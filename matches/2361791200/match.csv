@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KT Score,Elise,False,Side.blue,4,6,5,1.5,137,Smite,Flash,14,False,10482,9950,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Void Staff,,,Sorcerer's Shoes,103890,26223,Lane.jungle,Role.none
+1,Ayukura,Caitlyn,False,Side.blue,2,9,5,0.7777777777777778,203,Flash,Heal,13,False,10320,10075,Doran's Blade,Infinity Edge,Runaan's Hurricane,Kircheis Shard,Berserker's Greaves,Zeal,1146,143279,Lane.bot_lane,Role.carry
+2,MrDING,Katarina,False,Side.blue,5,6,4,1.5,201,Teleport,Flash,14,True,11387,11050,The Dark Seal,Zhonya's Hourglass,Rylai's Crystal Scepter,Sorcerer's Shoes,Luden's Echo,,122172,12381,Lane.top_lane,Role.solo
+3,Dexima,LeBlanc,False,Side.blue,12,3,3,5.0,162,Flash,Ignite,15,False,11857,11350,Doran's Ring,Void Staff,The Dark Seal,Morellonomicon,Luden's Echo,Sorcerer's Shoes,98810,9433,Lane.mid_lane,Role.solo
+4,Fire Editorial,Janna,False,Side.blue,0,4,8,2.0,7,Flash,Exhaust,12,False,7235,5850,Redemption,Eye of the Oasis,Boots of Mobility,,Null-Magic Mantle,,9638,6984,Lane.bot_lane,Role.support
+5,Tyflos,Singed,True,Side.red,3,6,12,2.5,234,Teleport,Ghost,16,False,12258,12100,Spirit Visage,Needlessly Large Rod,Zz'Rot Portal,Banshee's Veil,Giant's Belt,Boots of Swiftness,134091,9082,Lane.top_lane,Role.solo
+6,InfectedNutz,Nami,True,Side.red,2,5,14,3.2,7,Exhaust,Flash,12,False,10001,8750,Redemption,Frostfang,Ionian Boots of Lucidity,Ruby Sightstone,Tear of the Goddess,Zeke's Harbinger,11358,9769,Lane.bot_lane,Role.support
+7,Im The Puppeteer,Varus,True,Side.red,10,6,4,2.3333333333333335,188,Flash,Ghost,14,False,13101,12450,Manamune,Youmuu's Ghostblade,B. F. Sword,Maw of Malmortius,Ionian Boots of Lucidity,Vampiric Scepter,9627,135957,Lane.mid_lane,Role.solo
+8,3A3Y 3OY,Ezreal,True,Side.red,9,3,7,5.333333333333333,207,Heal,Flash,14,False,14040,13958,Muramana,Ionian Boots of Lucidity,Blade of the Ruined King,Hexdrinker,Trinity Force,Caulfield's Warhammer,19555,133617,Lane.bot_lane,Role.carry
+9,Empyreal Peace,Rek'Sai,True,Side.red,4,4,4,2.0,172,Flash,Smite,15,False,11631,11375,Enchantment: Cinderhulk,Guardian Angel,Spectre's Cowl,Mercury's Treads,Ruby Crystal,Titanic Hydra,28044,119776,Lane.jungle,Role.none

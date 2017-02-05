@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,mandatorycloud,Ryze,False,Side.blue,3,7,4,1.0,147,Flash,Ghost,12,False,7514,7110,Tear of the Goddess,Rod of Ages,Fiendish Codex,Ionian Boots of Lucidity,Lost Chapter,Amplifying Tome,81970,6902,Lane.mid_lane,Role.solo
+1,PieCakeLord,Ekko,False,Side.blue,5,8,1,0.75,119,Teleport,Flash,12,False,7628,6375,Hextech Protobelt-01,Corrupting Potion,Doran's Ring,Sheen,Ionian Boots of Lucidity,Blasting Wand,60484,11657,Lane.top_lane,Role.solo
+2,Santa Quas,Morgana,False,Side.blue,2,9,4,0.6666666666666666,16,Ignite,Flash,8,False,6147,5475,Redemption,Refillable Potion,Sightstone,Ionian Boots of Lucidity,Frostfang,Ruby Crystal,9620,3911,Lane.bot_lane,Role.support
+3,Gaow Gaiy,Jhin,False,Side.blue,3,12,5,0.6666666666666666,90,Flash,Heal,10,False,6567,5850,Essence Reaver,Refillable Potion,Doran's Blade,Boots of Swiftness,Brawler's Gloves,Dagger,826,45770,Lane.bot_lane,Role.carry
+4,YummiBananas,Ivern,False,Side.blue,2,11,5,0.6363636363636364,33,Smite,Flash,9,False,5885,5700,Hunter's Talisman,Refillable Potion,Redemption,Locket of the Iron Solari,,Ionian Boots of Lucidity,7488,2749,Lane.jungle,Role.none
+5,Godrneru,Lee Sin,True,Side.red,11,4,24,8.75,29,Flash,Ignite,11,False,9958,7300,Eye of the Equinox,Kindlegem,Edge of Night,Boots of Mobility,Control Ward,Refillable Potion,3523,17546,Lane.bot_lane,Role.support
+6,retarded virgin,Hecarim,True,Side.red,13,1,9,22.0,103,Ghost,Smite,13,True,11422,10583,Refillable Potion,Youmuu's Ghostblade,Mercury's Treads,Trinity Force,,Enchantment: Cinderhulk,12353,100324,Lane.jungle,Role.none
+7,cokes,LeBlanc,True,Side.red,6,3,11,5.666666666666667,87,Ignite,Flash,12,False,8390,6805,Negatron Cloak,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Fiendish Codex,Amplifying Tome,40683,10411,Lane.mid_lane,Role.solo
+8,Zaganox,Twitch,True,Side.red,12,3,9,7.0,129,Heal,Flash,12,False,11302,10550,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Statikk Shiv,,639,88968,Lane.bot_lane,Role.carry
+9,Révenge,Yasuo,True,Side.red,5,4,9,3.5,129,Teleport,Flash,13,False,9505,9283,Doran's Blade,Doran's Blade,Phantom Dancer,Cloak of Agility,Mercury's Treads,Trinity Force,23173,66046,Lane.top_lane,Role.solo

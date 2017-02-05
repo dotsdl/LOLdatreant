@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ezreal from KR,Graves,False,Side.blue,1,8,1,0.25,136,Flash,Heal,10,False,6111,5700,Berserker's Greaves,Doran's Blade,Death's Dance,,,Doran's Blade,814,60583,Lane.bot_lane,Role.carry
+1,you newbe,Zyra,False,Side.blue,3,7,1,0.5714285714285714,19,Flash,Ignite,9,False,5346,5250,Sorcerer's Shoes,Ruby Sightstone,,,Frost Queen's Claim,,18418,3152,Lane.bot_lane,Role.support
+2,marvosorcer,Vi,False,Side.blue,1,5,2,0.6,111,Flash,Smite,11,False,6112,5258,Refillable Potion,Stalker's Blade,Boots of Speed,Trinity Force,,,719,71972,Lane.jungle,Role.none
+3,zxhazardxz,Orianna,False,Side.blue,1,7,3,0.5714285714285714,96,Ignite,Flash,10,False,5571,5000,Total Biscuit of Rejuvenation,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,,33340,8254,Lane.mid_lane,Role.solo
+4,OG Swells,Gnar,False,Side.blue,0,3,0,0.0,130,Flash,Teleport,11,False,5508,5125,,Boots of Speed,Chain Vest,Long Sword,Frozen Mallet,Long Sword,2490,57326,Lane.top_lane,Role.solo
+5,Ixodez,Ashe,True,Side.red,8,1,5,13.0,130,Heal,Flash,11,True,9166,8800,Doran's Blade,Berserker's Greaves,Essence Reaver,Dagger,Runaan's Hurricane,Brawler's Gloves,684,64600,Lane.bot_lane,Role.carry
+6,Anthøny,Kha'Zix,True,Side.red,11,1,6,17.0,77,Smite,Flash,13,False,9578,8325,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Phage,Long Sword,Boots of Swiftness,3623,105026,Lane.jungle,Role.none
+7,BambiSam,Blitzcrank,True,Side.red,1,1,15,16.0,15,Ignite,Flash,11,False,7072,6500,Refillable Potion,Talisman of Ascension,Ruby Sightstone,Boots of Mobility,Glacial Shroud,Cloth Armor,9520,4913,Lane.bot_lane,Role.support
+8,JustCallMeMitt,Yasuo,True,Side.red,9,3,6,5.0,126,Flash,Ignite,13,False,8896,8225,Doran's Blade,Phantom Dancer,Mercury's Treads,Blade of the Ruined King,Null-Magic Mantle,,13131,62590,Lane.mid_lane,Role.solo
+9,Jungle God,Shen,True,Side.red,1,0,5,6.0,129,Flash,Teleport,12,False,7087,6150,Zz'Rot Portal,Sunfire Cape,,Boots of Speed,,,30265,23220,Lane.top_lane,Role.solo

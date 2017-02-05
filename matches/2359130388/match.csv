@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Silent Pace,Nami,True,Side.blue,4,7,13,2.4285714285714284,12,Exhaust,Flash,14,False,10604,9200,Frost Queen's Claim,Ruby Sightstone,Redemption,Boots of Swiftness,Athene's Unholy Grail,,9716,2817,Lane.bot_lane,Role.support
+1,Suntail,Twitch,True,Side.blue,23,7,9,4.571428571428571,224,Flash,Smite,18,False,19210,17450,Essence Reaver,The Bloodthirster,Infinity Edge,Runaan's Hurricane,Enchantment: Bloodrazor,Berserker's Greaves,2692,210308,Lane.jungle,Role.none
+2,Fajisel,Jinx,True,Side.blue,4,6,7,1.8333333333333333,222,Flash,Heal,15,False,12603,10400,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,,3012,133234,Lane.bot_lane,Role.carry
+3,Klawbro,Ziggs,True,Side.blue,2,5,13,3.0,251,Flash,Ignite,17,False,13799,12375,Morellonomicon,Zhonya's Hourglass,Rabadon's Deathcap,Sorcerer's Shoes,Blasting Wand,Doran's Ring,185851,15031,Lane.mid_lane,Role.solo
+4,zT ace,Yasuo,True,Side.blue,8,8,4,1.5,247,Exhaust,Flash,17,False,14252,12070,Infinity Edge,Phantom Dancer,Ninja Tabi,Frozen Mallet,Negatron Cloak,Doran's Blade,26834,158633,Lane.top_lane,Role.solo
+5,hashinshin,Jax,False,Side.red,5,10,3,0.8,226,Ghost,Teleport,17,False,12606,12650,Guinsoo's Rageblade,Hextech Gunblade,Stinger,Ninja Tabi,Sheen,Phage,51448,104158,Lane.top_lane,Role.solo
+6,Barmithian,Orianna,False,Side.red,9,10,9,1.8,207,Ghost,Flash,16,True,12983,12425,Sorcerer's Shoes,Zhonya's Hourglass,Blasting Wand,Rylai's Crystal Scepter,Morellonomicon,,118990,15730,Lane.mid_lane,Role.solo
+7,TwìtchTVSysnickl,Miss Fortune,False,Side.red,9,8,6,1.875,179,Heal,Flash,15,False,12649,12470,Edge of Night,Youmuu's Ghostblade,Berserker's Greaves,Doran's Blade,The Black Cleaver,Negatron Cloak,7115,96274,Lane.bot_lane,Role.carry
+8,Brunette Life,Vi,False,Side.red,9,5,6,3.0,126,Smite,Flash,15,False,11971,11650,Chain Vest,Randuin's Omen,The Black Cleaver,Ninja Tabi,Enchantment: Warrior,Ruby Crystal,1416,118533,Lane.jungle,Role.none
+9,EmarD,Bard,False,Side.red,0,8,18,2.25,13,Flash,Exhaust,13,False,9275,9050,Redemption,Eye of the Watchers,Ninja Tabi,Frozen Heart,Cloth Armor,Control Ward,9731,5153,Lane.bot_lane,Role.support

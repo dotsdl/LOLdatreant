@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Minhy,Lee Sin,False,Side.blue,12,9,7,2.111111111111111,221,Ignite,Flash,17,False,14138,12900,Ravenous Hydra,Doran's Blade,Mercury's Treads,Maw of Malmortius,Giant's Belt,The Black Cleaver,39055,101285,Lane.top_lane,Role.solo
+1,l MiMo l,Olaf,False,Side.blue,6,8,10,2.0,148,Smite,Ghost,15,True,12168,11855,Ionian Boots of Lucidity,Randuin's Omen,Enchantment: Cinderhulk,Negatron Cloak,Dead Man's Plate,Hexdrinker,29741,118697,Lane.jungle,Role.none
+2,Clumsie,Nami,False,Side.blue,5,5,11,3.2,19,Exhaust,Flash,13,False,10158,9300,Redemption,Mikael's Crucible,Glacial Shroud,Eye of the Oasis,Warden's Mail,Boots of Mobility,13064,5918,Lane.bot_lane,Role.support
+3,Yeezy For Prez,Lucian,False,Side.blue,3,7,9,1.7142857142857142,249,Flash,Heal,14,False,12932,11800,Essence Reaver,Phantom Dancer,Infinity Edge,,,Berserker's Greaves,3085,170961,Lane.bot_lane,Role.carry
+4,no dad please,Karma,False,Side.blue,2,4,10,3.0,200,Ignite,Flash,15,False,11554,11225,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Void Staff,,114383,19843,Lane.mid_lane,Role.solo
+5,bombzilla,Vi,True,Side.red,5,7,14,2.7142857142857144,163,Flash,Smite,16,False,12584,12250,Randuin's Omen,Guardian Angel,Enchantment: Warrior,Warmog's Armor,Ionian Boots of Lucidity,,4446,152858,Lane.jungle,Role.none
+6,xplazzma,Vayne,True,Side.red,10,7,12,3.142857142857143,215,Flash,Heal,16,False,14558,13000,Doran's Blade,Mercurial Scimitar,Infinity Edge,Berserker's Greaves,Statikk Shiv,Zeal,39506,123311,Lane.bot_lane,Role.carry
+7,drewmonster1,Jayce,True,Side.red,10,9,7,1.8888888888888888,178,Flash,Teleport,16,False,13632,12375,Youmuu's Ghostblade,The Bloodthirster,Ionian Boots of Lucidity,The Black Cleaver,Chain Vest,,17943,113397,Lane.top_lane,Role.solo
+8,soaptasty,Cassiopeia,True,Side.red,6,3,15,7.0,244,Ghost,Flash,18,False,13893,12950,Morellonomicon,Refillable Potion,Void Staff,Doran's Ring,Rylai's Crystal Scepter,Seraph's Embrace,144273,8848,Lane.mid_lane,Role.solo
+9,Mataka,Lulu,True,Side.red,2,2,19,10.5,29,Exhaust,Flash,14,False,10840,10275,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Knight's Vow,Ardent Censer,,21683,5782,Lane.bot_lane,Role.support

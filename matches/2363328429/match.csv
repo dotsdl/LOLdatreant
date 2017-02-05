@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mang3 moi Lcap,Caitlyn,True,Side.blue,8,5,9,3.4,178,Flash,Heal,14,False,13001,10550,Runaan's Hurricane,Zeal,Berserker's Greaves,Doran's Blade,Infinity Edge,Vampiric Scepter,1010,141523,Lane.bot_lane,Role.carry
+1,Paulguin,Renekton,True,Side.blue,8,4,8,4.0,202,Exhaust,Ghost,15,False,13446,12025,The Black Cleaver,Tiamat,Youmuu's Ghostblade,,Maw of Malmortius,Ninja Tabi,2525,163928,Lane.top_lane,Role.solo
+2,rtz 1,LeBlanc,True,Side.blue,6,2,13,9.5,158,Flash,Teleport,15,False,12308,12435,Amplifying Tome,Rabadon's Deathcap,The Dark Seal,Sorcerer's Shoes,Rylai's Crystal Scepter,Abyssal Scepter,102077,12696,Lane.mid_lane,Role.solo
+3,Asukira,Taliyah,True,Side.blue,3,4,19,5.5,24,Exhaust,Flash,13,False,10830,10550,Eye of the Watchers,Control Ward,Morellonomicon,,Rylai's Crystal Scepter,Sorcerer's Shoes,31303,6508,Lane.bot_lane,Role.support
+4,Bwas,Nidalee,True,Side.blue,7,6,13,3.3333333333333335,151,Flash,Smite,16,False,13281,11175,Seeker's Armguard,Hunter's Potion,Enchantment: Runic Echoes,Rod of Ages,Lich Bane,Ionian Boots of Lucidity,137309,27489,Lane.jungle,Role.none
+5,Lucyfer,Ryze,False,Side.red,2,5,4,1.2,172,Ghost,Flash,14,False,8996,8650,Needlessly Large Rod,Tear of the Goddess,Abyssal Scepter,,Rod of Ages,Ionian Boots of Lucidity,104992,11109,Lane.mid_lane,Role.solo
+6,camtheham,Ashe,False,Side.red,9,7,3,1.7142857142857142,243,Heal,Flash,14,False,12511,12225,Infinity Edge,Rapid Firecannon,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Long Sword,3337,147892,Lane.bot_lane,Role.carry
+7,WatchThePower,Rengar,False,Side.red,4,8,6,1.25,152,Flash,Smite,14,False,9911,9475,Enchantment: Cinderhulk,Refillable Potion,The Black Cleaver,Mercury's Treads,Spectre's Cowl,Kindlegem,33136,95119,Lane.jungle,Role.none
+8,Tyrokan,Gnar,False,Side.red,5,9,7,1.3333333333333333,174,Flash,Teleport,14,True,9900,9800,Doran's Blade,Ninja Tabi,The Black Cleaver,Guardian Angel,Spectre's Cowl,Giant's Belt,9990,91868,Lane.top_lane,Role.solo
+9,Ninja Shen,Janna,False,Side.red,1,3,14,5.0,4,Flash,Exhaust,13,False,7862,7225,Nomad's Medallion,Redemption,Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,,3059,2882,Lane.bot_lane,Role.support

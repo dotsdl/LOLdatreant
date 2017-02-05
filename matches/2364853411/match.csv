@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RealTeemo,Maokai,False,Side.blue,0,9,7,0.7777777777777778,181,Teleport,Flash,15,False,10291,10250,Sunfire Cape,Randuin's Omen,,Rod of Ages,,Ninja Tabi,91803,16644,Lane.top_lane,Role.solo
+1,Dregonaut,Twitch,False,Side.blue,10,6,7,2.8333333333333335,200,Heal,Flash,15,False,14153,13600,Runaan's Hurricane,Doran's Blade,Lord Dominik's Regards,Berserker's Greaves,Infinity Edge,Statikk Shiv,17165,120536,Lane.bot_lane,Role.carry
+2,DiamondDave,Ahri,False,Side.blue,6,5,8,2.8,195,Flash,Ignite,16,False,11924,11585,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Amplifying Tome,Giant's Belt,Needlessly Large Rod,87049,20633,Lane.mid_lane,Role.solo
+3,an orange tabby,Nami,False,Side.blue,1,5,18,3.8,5,Exhaust,Flash,13,False,9432,8925,Redemption,Eye of the Watchers,Frozen Heart,Boots of Mobility,Null-Magic Mantle,,4046,5158,Lane.bot_lane,Role.support
+4,BoBsMiTh,Vi,False,Side.blue,9,8,7,2.0,185,Smite,Flash,16,False,13581,13358,Control Ward,Randuin's Omen,Zz'Rot Portal,Trinity Force,Ninja Tabi,Enchantment: Cinderhulk,28341,161337,Lane.jungle,Role.none
+5,Pi Pi Xia Solo,Ekko,True,Side.red,6,7,11,2.4285714285714284,140,Flash,Smite,16,False,12866,11550,Zhonya's Hourglass,Hextech Protobelt-01,Sheen,Enchantment: Runic Echoes,Aether Wisp,Mercury's Treads,113409,38481,Lane.jungle,Role.none
+6,xVip3R,Trundle,True,Side.red,2,6,16,3.0,51,Exhaust,Flash,14,False,10446,9750,The Black Cleaver,Redemption,Eye of the Equinox,Aegis of the Legion,Boots of Mobility,,2873,21898,Lane.bot_lane,Role.support
+7,Pohq,Riven,True,Side.red,12,1,14,26.0,267,Flash,Teleport,18,False,16568,15175,Mercury's Treads,Guardian Angel,Youmuu's Ghostblade,Titanic Hydra,The Black Cleaver,Last Whisper,0,195658,Lane.top_lane,Role.solo
+8,Mang3 moi Lcap,Lucian,True,Side.red,6,5,3,1.8,266,Flash,Heal,15,True,13675,11775,Doran's Blade,Essence Reaver,Rapid Firecannon,Lord Dominik's Regards,Caulfield's Warhammer,Berserker's Greaves,5356,143961,Lane.bot_lane,Role.carry
+9,Yagosu,Yasuo,True,Side.red,7,7,5,1.7142857142857142,270,Flash,Exhaust,17,False,14267,12300,Vampiric Scepter,Infinity Edge,Mercury's Treads,Doran's Blade,Phantom Dancer,Banshee's Veil,30787,160092,Lane.mid_lane,Role.solo

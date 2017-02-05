@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Haru Tenshi,Jinx,True,Side.blue,7,5,9,3.2,152,Flash,Heal,11,False,10546,9325,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,Control Ward,915,92015,Lane.bot_lane,Role.carry
+1,Saucy Sells,Gangplank,True,Side.blue,8,3,8,5.333333333333333,151,Teleport,Flash,13,False,11272,8308,Boots of Swiftness,Youmuu's Ghostblade,Refillable Potion,Trinity Force,,Doran's Ring,3443,114267,Lane.top_lane,Role.solo
+2,Yo im Kyle,Taric,True,Side.blue,2,2,15,8.5,35,Flash,Exhaust,10,False,7862,7175,Knight's Vow,Refillable Potion,Eye of the Equinox,Boots of Mobility,Glacial Shroud,Cloth Armor,6191,8423,Lane.bot_lane,Role.support
+3,IQ is 201 ,Katarina,True,Side.blue,12,5,5,3.4,124,Flash,Ignite,13,False,10606,8175,Refillable Potion,Sorcerer's Shoes,Luden's Echo,The Dark Seal,Abyssal Scepter,,61993,5060,Lane.mid_lane,Role.solo
+4,The Family Beast,Kha'Zix,True,Side.blue,6,2,9,7.5,77,Flash,Smite,13,True,9508,6225,Enchantment: Warrior,,Ionian Boots of Lucidity,Serrated Dirk,,Hexdrinker,4502,78169,Lane.jungle,Role.none
+5,Region,Elise,False,Side.red,3,6,3,1.0,81,Smite,Flash,10,False,6646,6125,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Giant's Belt,Needlessly Large Rod,,39349,19992,Lane.jungle,Role.none
+6,exhaIe,Ezreal,False,Side.red,0,5,7,1.4,117,Heal,Flash,10,False,6437,5383,Doran's Blade,Tear of the Goddess,Boots of Speed,Trinity Force,,,5408,36662,Lane.bot_lane,Role.carry
+7,Kaiceytron,Zyra,False,Side.red,9,6,5,2.3333333333333335,125,Ignite,Flash,12,False,9018,8650,,Doran's Ring,Doran's Ring,Liandry's Torment,Luden's Echo,Sorcerer's Shoes,65296,11251,Lane.mid_lane,Role.solo
+8,Avzor,Fiora,False,Side.red,5,10,2,0.7,88,Teleport,Flash,11,False,6860,6475,Tiamat,Health Potion,Vampiric Scepter,The Black Cleaver,Boots of Speed,,1358,45136,Lane.top_lane,Role.solo
+9,GNL Totembarbu,Alistar,False,Side.red,0,8,6,0.75,28,Exhaust,Flash,9,False,5068,4375,Targon's Brace,Boots of Mobility,,Knight's Vow,,,6309,4222,Lane.bot_lane,Role.support

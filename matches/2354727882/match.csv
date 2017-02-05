@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GordanRamsey,Evelynn,False,Side.blue,6,4,4,2.5,108,Smite,Flash,13,False,8825,8175,Enchantment: Runic Echoes,Sorcerer's Shoes,Mejai's Soulstealer,Ruby Crystal,Hextech Protobelt-01,Refillable Potion,69744,30237,Lane.jungle,Role.none
+1,0 K A Y B O Y S,Ezreal,False,Side.blue,2,4,6,2.0,174,Flash,Heal,12,False,8599,7858,Doran's Blade,Total Biscuit of Rejuvenation,Control Ward,Ionian Boots of Lucidity,Trinity Force,Manamune,10608,77644,Lane.bot_lane,Role.carry
+2,Get Good Le Bad,Syndra,False,Side.blue,2,5,2,0.8,185,Ghost,Flash,12,True,8547,7770,Morellonomicon,Blasting Wand,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,93603,7596,Lane.mid_lane,Role.solo
+3,bvcx222,Bard,False,Side.blue,0,7,8,1.1428571428571428,10,Flash,Ignite,10,False,5801,4975,Ruby Sightstone,Total Biscuit of Rejuvenation,Control Ward,Frostfang,Aegis of the Legion,Boots of Mobility,10406,5842,Lane.bot_lane,Role.support
+4,Egregious King,Tryndamere,False,Side.blue,5,6,1,1.0,180,Ignite,Flash,14,False,8899,7900,Doran's Blade,Ravenous Hydra,Statikk Shiv,Berserker's Greaves,,,25900,74633,Lane.top_lane,Role.solo
+5,NI9HT,Morgana,True,Side.red,3,4,12,3.75,27,Exhaust,Flash,12,False,7890,6650,Zhonya's Hourglass,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,,,24565,5140,Lane.bot_lane,Role.support
+6,Frostalicious,Ashe,True,Side.red,5,3,8,4.333333333333333,173,Flash,Heal,13,False,10904,9950,Doran's Blade,Dagger,Infinity Edge,Berserker's Greaves,Hexdrinker,Runaan's Hurricane,1260,83077,Lane.bot_lane,Role.carry
+7,FIoopie,Vi,True,Side.red,7,3,5,4.0,176,Flash,Smite,15,False,11497,10183,Refillable Potion,Bilgewater Cutlass,Trinity Force,Enchantment: Warrior,Recurve Bow,Berserker's Greaves,3225,166304,Lane.jungle,Role.none
+8,General Gatsby,Gragas,True,Side.red,5,5,4,1.8,174,Flash,Teleport,14,False,10003,9000,Doran's Ring,Hextech Protobelt-01,Zhonya's Hourglass,Ionian Boots of Lucidity,Sheen,Blasting Wand,90382,14843,Lane.top_lane,Role.solo
+9,Zorlas,Viktor,True,Side.red,6,0,5,11.0,234,Ghost,Flash,15,False,11707,10725,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Void Staff,135740,14646,Lane.mid_lane,Role.solo

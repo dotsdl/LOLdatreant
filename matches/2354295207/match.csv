@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pekin Woof,Talon,False,Side.blue,5,11,2,0.6363636363636364,144,Flash,Ignite,13,False,8042,7675,Refillable Potion,Youmuu's Ghostblade,The Black Cleaver,Boots of Speed,Long Sword,Long Sword,733,78733,Lane.mid_lane,Role.solo
+1,Feitan,Nidalee,False,Side.blue,2,6,4,1.0,111,Smite,Flash,12,False,7576,7060,Sorcerer's Shoes,Refillable Potion,Enchantment: Runic Echoes,Abyssal Scepter,Amplifying Tome,,91108,12790,Lane.jungle,Role.none
+2,HazardFP,Bard,False,Side.blue,1,2,3,2.0,23,Ignite,Flash,11,False,5633,5365,Total Biscuit of Rejuvenation,Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Spellthief's Edge,,8723,3440,Lane.bot_lane,Role.support
+3,daduu,Nautilus,False,Side.blue,2,4,3,1.25,163,Teleport,Flash,13,False,7719,7200,Doran's Ring,Doran's Ring,Glacial Shroud,Sunfire Cape,Mercury's Treads,Warden's Mail,78360,20674,Lane.top_lane,Role.solo
+4,aphromoo,Vayne,False,Side.blue,2,4,1,0.75,152,Heal,Flash,12,False,8211,7200,Doran's Blade,B. F. Sword,Berserker's Greaves,Control Ward,Statikk Shiv,Pickaxe,9784,53576,Lane.bot_lane,Role.carry
+5,Grigne,Elise,True,Side.red,6,0,3,9.0,155,Flash,Smite,15,False,11739,9750,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Locket of the Iron Solari,Hunter's Potion,Boots of Mobility,The Dark Seal,123852,35734,Lane.jungle,Role.none
+6,Lyze,Twitch,True,Side.red,5,0,4,9.0,218,Heal,Flash,15,False,12319,10575,Statikk Shiv,Infinity Edge,Doran's Blade,Berserker's Greaves,,Runaan's Hurricane,8617,132328,Lane.bot_lane,Role.carry
+7,TS6,Katarina,True,Side.red,12,7,3,2.142857142857143,120,Flash,Ignite,15,True,11599,9460,Hextech Gunblade,Zhonya's Hourglass,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,,63038,11964,Lane.mid_lane,Role.solo
+8,TSM MeNoHaxor,Karma,True,Side.red,1,2,7,4.0,5,Exhaust,Flash,11,False,8163,6925,Eye of the Watchers,Control Ward,,Forbidden Idol,Boots of Mobility,Redemption,7652,6126,Lane.bot_lane,Role.support
+9,Jeehun,Irelia,True,Side.red,3,3,5,2.6666666666666665,155,Flash,Teleport,13,False,10073,8508,Tiamat,Corrupting Potion,Trinity Force,Ninja Tabi,Jaurim's Fist,Ruby Crystal,4128,72277,Lane.top_lane,Role.solo

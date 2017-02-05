@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wei Jing QAQ,Diana,False,Side.blue,3,6,1,0.6666666666666666,169,Teleport,Flash,12,False,8712,8185,Doran's Ring,Abyssal Scepter,Doran's Ring,Nashor's Tooth,Mercury's Treads,Amplifying Tome,84563,15805,Lane.mid_lane,Role.solo
+1,LongTao Hou,Janna,False,Side.blue,0,5,3,0.6,7,Exhaust,Flash,10,False,5500,5095,Nomad's Medallion,Raptor Cloak,Negatron Cloak,Ionian Boots of Lucidity,Ruby Crystal,Sightstone,5603,1638,Lane.bot_lane,Role.support
+2,Korosu,Caitlyn,False,Side.blue,2,6,1,0.5,156,Flash,Heal,11,False,8225,7100,Doran's Blade,Berserker's Greaves,Cull,Infinity Edge,Zeal,,446,85655,Lane.bot_lane,Role.carry
+3,Tyrokan,Renekton,False,Side.blue,4,7,1,0.7142857142857143,163,Flash,Teleport,13,False,8716,8625,Kindlegem,Tiamat,The Black Cleaver,Ninja Tabi,Spectre's Cowl,Doran's Shield,3217,88138,Lane.top_lane,Role.solo
+4,boom u dead,Graves,False,Side.blue,0,5,3,0.6,155,Flash,Smite,13,False,7991,7675,Enchantment: Warrior,Phantom Dancer,Long Sword,Boots of Swiftness,Caulfield's Warhammer,,5688,116835,Lane.jungle,Role.none
+5,Boosted Sniper,Ezreal,True,Side.red,8,2,11,9.5,149,Flash,Heal,12,True,10842,10158,Doran's Blade,Bilgewater Cutlass,Muramana,Ionian Boots of Lucidity,Trinity Force,Recurve Bow,7569,73242,Lane.bot_lane,Role.carry
+6,Papa Smurfing,Twisted Fate,True,Side.red,5,0,10,15.0,159,Flash,Ghost,13,False,10487,9960,Lich Bane,Aether Wisp,Ionian Boots of Lucidity,Mejai's Soulstealer,Amplifying Tome,Rod of Ages,98074,13599,Lane.mid_lane,Role.solo
+7,Rule Bage,Jayce,True,Side.red,5,2,7,6.0,131,Teleport,Flash,13,False,9501,8975,Corrupting Potion,The Black Cleaver,Youmuu's Ghostblade,,Doran's Blade,Ninja Tabi,9535,70026,Lane.top_lane,Role.solo
+8,ttv MelynMeron,Zyra,True,Side.red,4,1,10,14.0,41,Flash,Exhaust,11,False,8712,8085,Sorcerer's Shoes,Refillable Potion,Frost Queen's Claim,Liandry's Torment,Blasting Wand,Amplifying Tome,40260,8285,Lane.bot_lane,Role.support
+9,PRoHAppyCAmper,Olaf,True,Side.red,7,4,7,3.5,108,Smite,Ghost,14,False,10255,8550,Refillable Potion,Dead Man's Plate,Ruby Crystal,Enchantment: Cinderhulk,Hexdrinker,Ninja Tabi,17422,85171,Lane.jungle,Role.none

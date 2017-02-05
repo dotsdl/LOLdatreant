@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Undisclosed,Akali,False,Side.blue,1,12,6,0.5833333333333334,94,Ignite,Flash,10,False,5975,5930,Ionian Boots of Lucidity,Hextech Gunblade,,Negatron Cloak,Control Ward,Amplifying Tome,15916,36638,Lane.mid_lane,Role.solo
+1,imbobthebuilder,Evelynn,False,Side.blue,4,6,3,1.1666666666666667,69,Smite,Flash,10,False,6818,6125,Enchantment: Runic Echoes,Boots of Mobility,Sheen,Hextech Revolver,Refillable Potion,Long Sword,39286,24410,Lane.jungle,Role.none
+2,WhereAreMyBuffs,Ezreal,False,Side.blue,0,5,0,0.0,122,Heal,Flash,10,False,5845,4550,Doran's Blade,Tear of the Goddess,Sheen,Ionian Boots of Lucidity,Hexdrinker,,5538,37964,Lane.bot_lane,Role.carry
+3,IWuvArielle4Ever,Rengar,False,Side.blue,7,4,3,2.5,183,Flash,Teleport,13,True,9026,9000,Youmuu's Ghostblade,Death's Dance,Ionian Boots of Lucidity,Hexdrinker,Total Biscuit of Rejuvenation,,8672,89480,Lane.top_lane,Role.solo
+4,Nelibear,Brand,False,Side.blue,1,5,3,0.8,55,Flash,Ignite,10,False,6101,5075,Control Ward,Sightstone,Morellonomicon,Boots of Speed,Frostfang,,35269,4460,Lane.bot_lane,Role.support
+5,Alkantos,LeBlanc,True,Side.red,11,2,5,8.0,139,Flash,Ignite,14,False,11615,8925,Sorcerer's Shoes,Refillable Potion,Morellonomicon,Doran's Ring,Abyssal Scepter,Fiendish Codex,82637,9387,Lane.mid_lane,Role.solo
+6,TRUMPSSMALLHANDS,Hecarim,True,Side.red,9,3,9,6.0,109,Ghost,Smite,14,False,10921,9183,Skirmisher's Sabre,Refillable Potion,Trinity Force,Mercury's Treads,Spirit Visage,Ruby Crystal,10518,94485,Lane.jungle,Role.none
+7,African Jungler,Illaoi,True,Side.red,6,6,1,1.1666666666666667,174,Flash,Teleport,14,False,10356,9050,Corrupting Potion,Doran's Blade,Sterak's Gage,The Black Cleaver,Sheen,Boots of Swiftness,948,125466,Lane.top_lane,Role.solo
+8,PanzerMier,Soraka,True,Side.red,1,1,9,10.0,3,Exhaust,Flash,10,False,7216,5950,Eye of the Oasis,Redemption,,Control Ward,Ionian Boots of Lucidity,,4783,3698,Lane.bot_lane,Role.support
+9,Spadex,Vayne,True,Side.red,5,1,6,11.0,161,Heal,Flash,12,False,10394,7950,Statikk Shiv,Doran's Blade,Berserker's Greaves,Infinity Edge,,,18102,91113,Lane.bot_lane,Role.carry

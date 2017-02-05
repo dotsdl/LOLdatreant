@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Crey Joswick,Rengar,True,Side.blue,7,3,8,5.0,134,Flash,Smite,13,False,10946,10475,Enchantment: Warrior,Titanic Hydra,Refillable Potion,Ninja Tabi,The Black Cleaver,,6567,128356,Lane.jungle,Role.none
+1,ad   0w0,Lux,True,Side.blue,7,1,6,13.0,154,Ghost,Flash,13,False,10483,7010,Morellonomicon,Mejai's Soulstealer,Doran's Ring,Amplifying Tome,Needlessly Large Rod,Boots of Speed,85434,13372,Lane.mid_lane,Role.solo
+2,ShiningNipple,Jax,True,Side.blue,6,4,3,2.25,177,Flash,Teleport,13,True,10525,9133,Blade of the Ruined King,Corrupting Potion,Trinity Force,Boots of Speed,Long Sword,Ruby Crystal,20267,79512,Lane.top_lane,Role.solo
+3,dog2,Caitlyn,True,Side.blue,8,4,11,4.75,143,Flash,Heal,12,False,10707,10150,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,B. F. Sword,600,93610,Lane.bot_lane,Role.carry
+4,Kingslook,Morgana,True,Side.blue,7,4,18,6.25,13,Ignite,Flash,11,False,9716,9400,Frost Queen's Claim,Sorcerer's Shoes,Rylai's Crystal Scepter,Mejai's Soulstealer,Aether Wisp,Cloth Armor,19326,4011,Lane.bot_lane,Role.support
+5,Dr Kepper,Thresh,False,Side.red,2,8,9,1.375,22,Exhaust,Flash,10,False,5882,5725,Face of the Mountain,Sightstone,Glacial Shroud,Ionian Boots of Lucidity,Faerie Charm,Faerie Charm,6378,2803,Lane.bot_lane,Role.support
+6,PopeyeSlim,Lee Sin,False,Side.red,3,8,8,1.375,65,Smite,Flash,11,False,6959,6075,Refillable Potion,Enchantment: Warrior,Chain Vest,Boots of Mobility,Giant's Belt,Null-Magic Mantle,8364,43640,Lane.jungle,Role.none
+7,am tham ben em,Orianna,False,Side.red,2,7,5,1.0,125,Flash,Ghost,11,False,6932,6750,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Aether Wisp,Needlessly Large Rod,,56099,7566,Lane.mid_lane,Role.solo
+8,Polar Star Dorm,Miss Fortune,False,Side.red,6,7,6,1.7142857142857142,123,Flash,Heal,11,False,8274,7750,Doran's Blade,Infinity Edge,Phage,Boots of Swiftness,Caulfield's Warhammer,,4085,59957,Lane.bot_lane,Role.carry
+9,IceJunSlowly,Sion,False,Side.red,3,5,3,1.2,153,Flash,Teleport,13,False,7861,7500,Sunfire Cape,Corrupting Potion,Ninja Tabi,Frozen Heart,Cloth Armor,,50776,36168,Lane.top_lane,Role.solo

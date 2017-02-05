@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Orbìt,Twitch,True,Side.blue,12,3,12,8.0,162,Flash,Heal,15,True,14382,12325,B. F. Sword,Phantom Dancer,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,667,129672,Lane.bot_lane,Role.carry
+1,0 K A Y B O Y S,Nidalee,True,Side.blue,3,5,10,2.6,102,Flash,Smite,14,False,10688,9200,Enchantment: Runic Echoes,Refillable Potion,Control Ward,Boots of Speed,Iceborn Gauntlet,Rylai's Crystal Scepter,96745,18951,Lane.jungle,Role.none
+2,scarraCANNON,Malzahar,True,Side.blue,8,1,4,12.0,189,Flash,Ghost,16,False,11747,10550,Liandry's Torment,Rylai's Crystal Scepter,Morellonomicon,Boots of Speed,Doran's Ring,Doran's Ring,82930,29304,Lane.mid_lane,Role.solo
+3,ONYX DlVlSION,Riven,True,Side.blue,4,10,5,0.9,185,Flash,Ignite,15,False,11285,10900,Ravenous Hydra,Doran's Blade,The Black Cleaver,Guardian Angel,Ionian Boots of Lucidity,Long Sword,0,112964,Lane.top_lane,Role.solo
+4,thecomedownx,Jayce,True,Side.blue,8,5,11,3.8,46,Exhaust,Flash,12,False,10690,8975,Ninja Tabi,The Black Cleaver,Hexdrinker,Doran's Blade,Serrated Dirk,Last Whisper,5756,52314,Lane.bot_lane,Role.support
+5,WE Mafia,Vayne,False,Side.red,2,10,4,0.6,130,Flash,Heal,12,False,8333,7450,B. F. Sword,Doran's Blade,Berserker's Greaves,Statikk Shiv,Zeal,Dagger,16874,51113,Lane.bot_lane,Role.carry
+6,gabzpiano,Xin Zhao,False,Side.red,3,8,4,0.875,120,Flash,Smite,13,False,8892,10905,Enchantment: Bloodrazor,Ninja Tabi,Warden's Mail,Spirit Visage,Giant's Belt,,11730,100609,Lane.jungle,Role.none
+7,Aecinira,Karma,False,Side.red,3,5,12,3.0,33,Flash,Exhaust,11,False,7798,7350,Forbidden Idol,Ruby Sightstone,Redemption,Ionian Boots of Lucidity,Spellthief's Edge,Aether Wisp,20884,4189,Lane.bot_lane,Role.support
+8,Firé,Jarvan IV,False,Side.red,10,6,6,2.6666666666666665,155,Ignite,Flash,13,False,10593,10175,Youmuu's Ghostblade,Quicksilver Sash,Tiamat,Ninja Tabi,Duskblade of Draktharr,Refillable Potion,4684,89573,Lane.top_lane,Role.solo
+9,ityyy,Katarina,False,Side.red,6,6,7,2.1666666666666665,165,Flash,Ignite,14,False,9788,9610,The Dark Seal,Abyssal Scepter,Quicksilver Sash,Hextech Gunblade,Amplifying Tome,Mercury's Treads,84648,10075,Lane.mid_lane,Role.solo

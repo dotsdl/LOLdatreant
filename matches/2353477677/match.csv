@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AllAero,Ezreal,True,Side.blue,5,4,8,3.25,146,Flash,Heal,12,False,9057,8300,Bilgewater Cutlass,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,Manamune,Dagger,7990,63421,Lane.bot_lane,Role.carry
+1,Locke Lamora,Ahri,True,Side.blue,9,1,6,15.0,190,Ignite,Flash,14,False,11513,8875,Luden's Echo,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Blasting Wand,,63093,14901,Lane.mid_lane,Role.solo
+2,Darvec,Hecarim,True,Side.blue,7,3,7,4.666666666666667,132,Smite,Ghost,13,False,10376,9658,Enchantment: Cinderhulk,Spectre's Cowl,Trinity Force,Ionian Boots of Lucidity,Chain Vest,,15929,99088,Lane.jungle,Role.none
+3,Stunningstyles,Karma,True,Side.blue,0,3,15,5.0,10,Flash,Exhaust,12,False,6744,5900,Frost Queen's Claim,Ionian Boots of Lucidity,Sightstone,Fiendish Codex,Chalice of Harmony,,23258,3710,Lane.bot_lane,Role.support
+4,ZambonGG,Zac,True,Side.blue,3,2,7,5.0,181,Flash,Teleport,14,True,9192,8450,Sorcerer's Shoes,Sunfire Cape,Refillable Potion,Doran's Shield,Spirit Visage,Blasting Wand,89896,12053,Lane.top_lane,Role.solo
+5,Cryphas,Caitlyn,False,Side.red,3,6,5,1.3333333333333333,166,Heal,Flash,12,False,8716,7850,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,556,110526,Lane.bot_lane,Role.carry
+6,TaeYeonT,Nautilus,False,Side.red,4,4,0,1.0,146,Teleport,Flash,14,False,8105,7050,Mercury's Treads,Corrupting Potion,Spirit Visage,Bami's Cinder,The Dark Seal,Raptor Cloak,53046,32429,Lane.top_lane,Role.solo
+7,Clarizio,Braum,False,Side.red,1,6,10,1.8333333333333333,26,Flash,Exhaust,10,False,6475,5875,Face of the Mountain,Ruby Sightstone,Control Ward,Refillable Potion,Mercury's Treads,,5226,4092,Lane.bot_lane,Role.support
+8,ADC Prospect,Orianna,False,Side.red,3,3,3,2.0,186,Ghost,Flash,13,False,8827,8400,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,,91217,13410,Lane.mid_lane,Role.solo
+9,Khang,Nidalee,False,Side.red,2,5,2,0.8,127,Smite,Flash,12,False,8214,7525,Refillable Potion,Enchantment: Runic Echoes,Boots of Swiftness,Rod of Ages,Glacial Shroud,,92069,18476,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jak The Legend,Shyvana,False,Side.blue,9,8,1,1.25,113,Flash,Smite,13,False,10948,10875,Mercury's Treads,Enchantment: Bloodrazor,Titanic Hydra,Dead Man's Plate,Cloth Armor,,49630,62325,Lane.jungle,Role.none
+1,Joker comics,Yasuo,False,Side.blue,2,9,7,1.0,181,Flash,Ignite,13,False,10092,9250,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,Health Potion,Last Whisper,14773,107394,Lane.top_lane,Role.solo
+2,The Fapple,Draven,False,Side.blue,4,5,3,1.4,173,Heal,Flash,12,False,11074,10650,B. F. Sword,Total Biscuit of Rejuvenation,Berserker's Greaves,Phantom Dancer,Infinity Edge,Last Whisper,0,123703,Lane.bot_lane,Role.carry
+3,Lilliae,Evelynn,False,Side.blue,8,7,4,1.7142857142857142,144,Ignite,Flash,15,True,10765,9800,Corrupting Potion,Needlessly Large Rod,Sorcerer's Shoes,Hextech Protobelt-01,Doran's Ring,Lich Bane,84886,19743,Lane.jungle,Role.none
+4,Zyko,Alistar,False,Side.blue,0,7,12,1.7142857142857142,36,Exhaust,Flash,12,False,7981,7175,Locket of the Iron Solari,Sightstone,,Boots of Mobility,Relic Shield,Frozen Heart,9832,9177,Lane.bot_lane,Role.support
+5,a fed child,Vayne,True,Side.red,0,1,0,0.0,9,Heal,Flash,3,False,5501,600,Doran's Blade,Total Biscuit of Rejuvenation,,,,,32,2353,Lane.jungle,Role.none
+6,Sugar Mami,Lulu,True,Side.red,0,2,20,10.0,32,Flash,Exhaust,14,False,9068,7800,Ardent Censer,Eye of the Watchers,,Ionian Boots of Lucidity,,Zeke's Harbinger,9580,6317,Lane.bot_lane,Role.solo
+7,Here yeee,Master Yi,True,Side.red,18,7,9,3.857142857142857,206,Smite,Flash,18,False,16989,14975,Blade of the Ruined King,Berserker's Greaves,Enchantment: Bloodrazor,Phantom Dancer,Guardian Angel,Banshee's Veil,4351,201983,Lane.jungle,Role.none
+8,Yin En Hui,Cho'Gath,True,Side.red,3,6,9,2.0,122,Flash,Teleport,15,False,9157,7900,Doran's Shield,Frozen Heart,Mercury's Treads,Spirit Visage,Chain Vest,,55059,19089,Lane.top_lane,Role.solo
+9,Salcuz,Vel'Koz,True,Side.red,15,7,7,3.142857142857143,180,Ignite,Flash,16,False,13506,12175,Rabadon's Deathcap,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,,,102689,10904,Lane.mid_lane,Role.solo

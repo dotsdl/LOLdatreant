@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,super nb kid,Thresh,True,Side.blue,1,5,8,1.8,22,Flash,Exhaust,10,False,6260,6175,Eye of the Equinox,Control Ward,Redemption,Cloth Armor,,Boots of Mobility,4495,2801,Lane.bot_lane,Role.support
+1,Anthøny,Kha'Zix,True,Side.blue,7,5,6,2.6,84,Smite,Flash,13,False,10022,7675,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Ionian Boots of Lucidity,Caulfield's Warhammer,,3356,100190,Lane.jungle,Role.none
+2,Hi im Thalies,Katarina,True,Side.blue,16,5,7,4.6,146,Ignite,Flash,14,True,12640,10485,The Dark Seal,Rabadon's Deathcap,Giant's Belt,Hextech Gunblade,Amplifying Tome,Sorcerer's Shoes,107574,11313,Lane.mid_lane,Role.solo
+3,The Big Saltine,Caitlyn,True,Side.blue,2,1,9,11.0,205,Flash,Heal,13,False,9791,8300,Doran's Blade,Refillable Potion,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Long Sword,47,122285,Lane.bot_lane,Role.carry
+4,TheNotoriousDFG,Ryze,True,Side.blue,9,3,4,4.333333333333333,197,Flash,Teleport,15,False,12489,12250,Hextech Protobelt-01,Zhonya's Hourglass,Seraph's Embrace,Ionian Boots of Lucidity,Refillable Potion,Rod of Ages,153974,8536,Lane.top_lane,Role.solo
+5,MAMA DO,Miss Fortune,False,Side.red,1,5,6,1.4,173,Heal,Flash,12,False,7783,7450,Edge of Night,Refillable Potion,Duskblade of Draktharr,,Doran's Blade,Boots of Speed,3658,63417,Lane.bot_lane,Role.carry
+6,Je suis Mak,Vi,False,Side.red,12,7,3,2.142857142857143,110,Flash,Smite,13,False,10505,10183,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,Enchantment: Warrior,Banshee's Veil,,894,105024,Lane.jungle,Role.none
+7,Navn,Karma,False,Side.red,2,4,8,2.5,14,Flash,Exhaust,11,False,6086,5150,Control Ward,Sightstone,Locket of the Iron Solari,Forbidden Idol,Boots of Speed,Spellthief's Edge,9509,2858,Lane.bot_lane,Role.support
+8,GalileoGalilley,Xerath,False,Side.red,2,9,4,0.6666666666666666,125,Flash,Exhaust,12,False,6918,6250,Corrupting Potion,The Dark Seal,The Dark Seal,Rod of Ages,Sorcerer's Shoes,Needlessly Large Rod,59357,7180,Lane.mid_lane,Role.solo
+9,Asian GirI,Riven,False,Side.red,1,10,4,0.5,63,Flash,Teleport,10,False,5494,5000,The Black Cleaver,Refillable Potion,Mercury's Treads,,Long Sword,,0,33532,Lane.top_lane,Role.solo

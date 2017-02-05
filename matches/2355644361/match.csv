@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KeIsi Monroe,Renekton,True,Side.blue,7,3,8,5.0,234,Teleport,Flash,16,False,13644,12500,Titanic Hydra,The Black Cleaver,Locket of the Iron Solari,Mercury's Treads,Warden's Mail,Giant's Belt,12760,163584,Lane.top_lane,Role.solo
+1,IIlIIlIIIlllIIlI,Zed,True,Side.blue,8,5,11,3.8,216,Ignite,Flash,16,False,13530,11675,Maw of Malmortius,Youmuu's Ghostblade,Quicksilver Sash,The Black Cleaver,Boots of Swiftness,,13253,137444,Lane.mid_lane,Role.solo
+2,Distasteful,Lucian,True,Side.blue,5,8,7,1.5,192,Flash,Heal,14,False,12910,11000,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Lord Dominik's Regards,,6354,129517,Lane.bot_lane,Role.carry
+3,1IOrz,Lee Sin,True,Side.blue,9,3,11,6.666666666666667,144,Smite,Flash,15,False,13430,11770,The Black Cleaver,Maw of Malmortius,Enchantment: Warrior,Boots of Mobility,Chain Vest,Negatron Cloak,28701,116960,Lane.jungle,Role.none
+4,tonkavan,Leona,True,Side.blue,1,6,14,2.5,48,Exhaust,Flash,13,False,9468,8020,Negatron Cloak,Knight's Vow,Sightstone,Control Ward,Boots of Mobility,Face of the Mountain,17862,11889,Lane.bot_lane,Role.support
+5,LynchBeaner,Ashe,False,Side.red,9,6,9,3.0,194,Flash,Heal,13,False,12680,11725,B. F. Sword,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,Pickaxe,Last Whisper,1676,118459,Lane.bot_lane,Role.carry
+6,Sinickle,Warwick,False,Side.red,5,6,9,2.3333333333333335,90,Flash,Smite,13,False,10035,9275,Randuin's Omen,Refillable Potion,Ninja Tabi,Enchantment: Bloodrazor,Recurve Bow,Bilgewater Cutlass,18529,68778,Lane.jungle,Role.none
+7,Loc Tran,Shen,False,Side.red,2,6,13,2.5,166,Teleport,Flash,15,False,10744,10125,Doran's Shield,Randuin's Omen,Thornmail,Ninja Tabi,,Sunfire Cape,69684,37482,Lane.top_lane,Role.solo
+8,support or troll,Thresh,False,Side.red,6,4,16,5.5,52,Ignite,Flash,12,True,10433,10325,Righteous Glory,Face of the Mountain,Sightstone,Zz'Rot Portal,Boots of Mobility,,18556,7086,Lane.bot_lane,Role.support
+9,ityyy,Syndra,False,Side.red,3,8,8,1.375,189,Flash,Ghost,13,False,10365,9300,Doran's Ring,Needlessly Large Rod,Zhonya's Hourglass,Doran's Ring,Morellonomicon,Sorcerer's Shoes,112631,11468,Lane.mid_lane,Role.solo

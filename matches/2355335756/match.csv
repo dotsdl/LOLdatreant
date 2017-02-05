@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,1ncomparabIe,Ezreal,False,Side.blue,3,6,9,2.0,206,Flash,Heal,15,False,11454,11575,Blade of the Ruined King,Control Ward,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Last Whisper,19615,113474,Lane.bot_lane,Role.carry
+1,LÌn,Syndra,False,Side.blue,5,7,6,1.5714285714285714,311,Ghost,Flash,17,False,13786,13200,Needlessly Large Rod,Blasting Wand,Void Staff,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,191257,15139,Lane.mid_lane,Role.solo
+2,Ken Shifu,Jayce,False,Side.blue,5,6,3,1.3333333333333333,210,Teleport,Flash,15,False,11666,11550,Doran's Blade,Youmuu's Ghostblade,Death's Dance,The Black Cleaver,Long Sword,Ionian Boots of Lucidity,19783,107793,Lane.top_lane,Role.solo
+3,thekilerone,Sona,False,Side.blue,2,6,8,1.6666666666666667,39,Ignite,Flash,14,False,9295,8825,Lich Bane,Lost Chapter,Eye of the Watchers,Fiendish Codex,Sorcerer's Shoes,,27387,5851,Lane.bot_lane,Role.support
+4,Br0main,Vi,False,Side.blue,4,11,6,0.9090909090909091,159,Flash,Smite,15,False,11145,10933,Enchantment: Warrior,Maw of Malmortius,Trinity Force,Ninja Tabi,,,1714,140361,Lane.jungle,Role.none
+5,GladeGleamBright,Graves,True,Side.red,9,5,9,3.6,223,Smite,Flash,17,True,15777,15600,Death's Dance,Enchantment: Warrior,Berserker's Greaves,The Black Cleaver,Maw of Malmortius,B. F. Sword,8546,221749,Lane.jungle,Role.none
+6,Yuán G,Lucian,True,Side.red,6,3,9,5.0,270,Heal,Flash,17,False,14769,13450,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Doran's Blade,Essence Reaver,Rapid Firecannon,10358,184342,Lane.bot_lane,Role.carry
+7,II Master II,Orianna,True,Side.red,9,5,9,3.6,185,Flash,Ghost,16,False,14113,14300,Rylai's Crystal Scepter,Luden's Echo,,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,118519,15225,Lane.mid_lane,Role.solo
+8,Voids,Braum,True,Side.red,5,2,14,9.5,40,Exhaust,Flash,15,False,11266,11075,Redemption,Sightstone,Face of the Mountain,Knight's Vow,Boots of Mobility,Aegis of the Legion,10172,13875,Lane.bot_lane,Role.support
+9,UberSorcerer,Irelia,True,Side.red,7,4,1,2.0,230,Flash,Teleport,16,False,13439,12333,Trinity Force,Ninja Tabi,Blade of the Ruined King,Corrupting Potion,Spirit Visage,Chain Vest,1887,116293,Lane.top_lane,Role.solo

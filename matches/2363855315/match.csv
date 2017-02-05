@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FeedleDlcks,Fiddlesticks,True,Side.blue,1,2,5,3.0,126,Ignite,Flash,13,False,7662,6475,,Sorcerer's Shoes,Fiendish Codex,Hextech Protobelt-01,Doran's Ring,Seeker's Armguard,65427,12110,Lane.mid_lane,Role.solo
+1,Expect no ganks,Skarner,True,Side.blue,7,0,7,14.0,186,Ghost,Smite,15,False,11780,10958,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Trinity Force,Dead Man's Plate,Null-Magic Mantle,39450,121802,Lane.jungle,Role.none
+2,The Eradicator,Quinn,True,Side.blue,8,1,7,15.0,141,Flash,Teleport,14,False,10907,9975,Serrated Dirk,Youmuu's Ghostblade,Doran's Blade,Berserker's Greaves,Duskblade of Draktharr,Null-Magic Mantle,705,83073,Lane.top_lane,Role.solo
+3,Edge Lord ADC,Ezreal,True,Side.blue,6,2,5,5.5,136,Flash,Heal,13,True,9192,7525,Iceborn Gauntlet,Muramana,,Ionian Boots of Lucidity,Vampiric Scepter,Doran's Blade,10306,64577,Lane.bot_lane,Role.carry
+4,TDK Tr4nce,Bard,True,Side.blue,3,2,14,8.5,11,Flash,Exhaust,12,False,7730,6925,Eye of the Watchers,Redemption,Control Ward,Kindlegem,Boots of Mobility,,7726,4644,Lane.bot_lane,Role.support
+5,Youuuuuuuuuuuuu,Draven,False,Side.red,2,7,2,0.5714285714285714,177,Heal,Flash,11,False,8516,7625,The Bloodthirster,Null-Magic Mantle,Pickaxe,Vampiric Scepter,Doran's Blade,Berserker's Greaves,1273,95427,Lane.bot_lane,Role.carry
+6,B00STED DRAVEN,Yasuo,False,Side.red,4,5,0,0.8,169,Flash,Teleport,13,False,8222,7950,Doran's Blade,Phantom Dancer,Berserker's Greaves,Infinity Edge,,,26359,62089,Lane.top_lane,Role.solo
+7,King Kayys,Nami,False,Side.red,1,4,4,1.25,6,Flash,Exhaust,9,False,5367,4450,Faerie Charm,Eye of the Watchers,Crystalline Bracer,,,Ionian Boots of Lucidity,4568,2079,Lane.bot_lane,Role.support
+8,FU Agares,Cassiopeia,False,Side.red,0,5,0,0.0,167,Flash,Ghost,12,False,7033,6900,Refillable Potion,Quicksilver Sash,Tear of the Goddess,Morellonomicon,Needlessly Large Rod,Doran's Ring,63175,10916,Lane.mid_lane,Role.solo
+9,outkast525,Kha'Zix,False,Side.red,0,5,3,0.6,103,Flash,Smite,12,False,6798,6425,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Hexdrinker,Caulfield's Warhammer,,3013,87424,Lane.jungle,Role.none

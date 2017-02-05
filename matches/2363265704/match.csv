@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ninja Turkey,Ezreal,True,Side.blue,7,9,8,1.6666666666666667,247,Heal,Flash,16,False,14139,13758,Blade of the Ruined King,Muramana,Trinity Force,Statikk Shiv,Doran's Blade,Ionian Boots of Lucidity,30492,143527,Lane.bot_lane,Role.carry
+1,ZealotTKO,Nami,True,Side.blue,4,4,18,5.5,36,Flash,Exhaust,14,False,12141,9025,Mejai's Soulstealer,Ruby Sightstone,Frost Queen's Claim,Redemption,Control Ward,Ionian Boots of Lucidity,16874,8199,Lane.bot_lane,Role.support
+2,will win,Varus,True,Side.blue,6,5,13,3.8,229,Flash,Ghost,16,False,14173,11100,Corrupting Potion,Caulfield's Warhammer,Muramana,Youmuu's Ghostblade,Lord Dominik's Regards,Ionian Boots of Lucidity,8950,174396,Lane.mid_lane,Role.solo
+3,Raayce,Rengar,True,Side.blue,8,5,6,2.8,236,Flash,Smite,17,False,14927,13560,The Black Cleaver,Refillable Potion,Mercury's Treads,Dead Man's Plate,Spirit Visage,Enchantment: Warrior,19098,188122,Lane.jungle,Role.none
+4,Pygwyn,Malphite,True,Side.blue,3,6,15,3.0,174,Teleport,Flash,15,False,12476,11975,Warden's Mail,Sunfire Cape,Mercury's Treads,Iceborn Gauntlet,Spirit Visage,,86450,22703,Lane.top_lane,Role.solo
+5,thecomedownx,Jayce,False,Side.red,12,8,6,2.25,116,Flash,Ignite,14,False,12183,11875,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Lord Dominik's Regards,B. F. Sword,Mercury's Treads,10658,88069,Lane.mid_lane,Role.solo
+6,date a Iive,Zac,False,Side.red,2,5,7,1.8,75,Smite,Flash,12,False,9451,8875,Enchantment: Cinderhulk,Warden's Mail,Sorcerer's Shoes,Rylai's Crystal Scepter,Chain Vest,,58460,10772,Lane.jungle,Role.none
+7,Hanjaro,Zyra,False,Side.red,4,5,12,3.2,59,Flash,Ignite,13,True,11447,10060,Frostfang,Liandry's Torment,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,79436,9783,Lane.bot_lane,Role.support
+8,LongTao Hou,Nasus,False,Side.red,5,3,10,5.0,247,Teleport,Flash,15,False,13748,12750,Chain Vest,Zz'Rot Portal,Sheen,Ninja Tabi,Spirit Visage,Randuin's Omen,81603,41861,Lane.top_lane,Role.solo
+9,zirix is seal,Caitlyn,False,Side.red,6,8,11,2.125,208,Flash,Heal,13,False,13636,13300,Berserker's Greaves,Infinity Edge,Vampiric Scepter,Runaan's Hurricane,Rapid Firecannon,B. F. Sword,2848,174812,Lane.bot_lane,Role.carry

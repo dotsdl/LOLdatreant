@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Im A Love Loser,Ezreal,False,Side.blue,0,1,0,0.0,25,Heal,Flash,3,False,1883,1350,Doran's Blade,Tear of the Goddess,Total Biscuit of Rejuvenation,,,,496,5991,Lane.bot_lane,Role.duo
+1,Ethiridis,Jayce,False,Side.blue,0,1,0,0.0,27,Flash,Ignite,4,False,1958,950,Doran's Blade,Total Biscuit of Rejuvenation,Long Sword,,,,118,6929,Lane.mid_lane,Role.solo
+2,Eistaelah,Lulu,False,Side.blue,0,1,0,0.0,1,Flash,Exhaust,4,False,1720,1075,Ruby Crystal,Spellthief's Edge,Total Biscuit of Rejuvenation,Control Ward,,,729,965,Lane.bot_lane,Role.duo
+3,Nep the Blanc up,Illaoi,False,Side.blue,0,2,0,0.0,29,Teleport,Flash,5,False,2022,1275,Long Sword,Corrupting Potion,Long Sword,Control Ward,,,100,10805,Lane.top_lane,Role.solo
+4,KnightSky01,Ivern,False,Side.blue,0,3,0,0.0,12,Flash,Smite,4,False,1889,1150,Stalker's Blade,Refillable Potion,,,,,1428,247,Lane.jungle,Role.none
+5,Smartcloud,Karma,True,Side.red,2,0,2,4.0,8,Flash,Exhaust,6,False,3646,2000,Frostfang,Recurve Bow,,,,,5717,7632,Lane.bot_lane,Role.duo
+6,Garani,Shyvana,True,Side.red,4,0,1,5.0,57,Smite,Flash,8,False,4912,3075,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,,,,21195,16125,Lane.jungle,Role.none
+7,GodMeru,Nautilus,True,Side.red,2,0,1,3.0,46,Flash,Teleport,7,True,3766,4600,Stinger,Dagger,Control Ward,,Stinger,,12432,11228,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,0,0,3,3.0,61,Flash,Heal,6,False,4314,2900,B. F. Sword,,Berserker's Greaves,,,Doran's Blade,131,30931,Lane.bot_lane,Role.duo
+9,Program,Viktor,True,Side.red,0,0,0,0.0,64,Ghost,Flash,7,False,3466,2050,The Hex Core mk-1,Doran's Ring,Boots of Speed,,,,15961,8499,Lane.mid_lane,Role.solo

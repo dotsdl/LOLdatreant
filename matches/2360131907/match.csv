@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Silas Kroeger,Zac,True,Side.blue,15,6,12,4.5,128,Smite,Flash,16,True,13880,10875,Enchantment: Cinderhulk,Ninja Tabi,Randuin's Omen,Spirit Visage,Giant's Belt,Cloth Armor,104884,19322,Lane.jungle,Role.none
+1,Koby,Poppy,True,Side.blue,5,1,14,19.0,211,Flash,Teleport,17,False,12434,11533,Corrupting Potion,Ninja Tabi,Sunfire Cape,Trinity Force,Ruby Crystal,Randuin's Omen,34844,88400,Lane.top_lane,Role.solo
+2,Témpest,Cassiopeia,True,Side.blue,7,5,12,3.8,171,Flash,Exhaust,16,False,12702,11850,Zhonya's Hourglass,Doran's Ring,Doran's Ring,Tear of the Goddess,Rabadon's Deathcap,Rylai's Crystal Scepter,111215,8870,Lane.mid_lane,Role.solo
+3,cute pupper irl,Lulu,True,Side.blue,4,6,23,4.5,16,Flash,Exhaust,14,False,10905,9325,Locket of the Iron Solari,Eye of the Watchers,Boots of Mobility,Redemption,,Forbidden Idol,16746,9872,Lane.bot_lane,Role.support
+4,Vincente Vu,Vayne,True,Side.blue,14,6,11,4.166666666666667,238,Flash,Heal,16,False,15568,12025,Berserker's Greaves,Infinity Edge,Statikk Shiv,Phantom Dancer,Vampiric Scepter,,45808,130223,Lane.bot_lane,Role.carry
+5,Romanium,Renekton,False,Side.red,3,9,1,0.4444444444444444,213,Flash,Ghost,14,False,11104,10775,The Black Cleaver,Blade of the Ruined King,Boots of Speed,Death's Dance,,,2622,123729,Lane.top_lane,Role.solo
+6,Godrneru,Rengar,False,Side.red,10,9,4,1.5555555555555556,187,Flash,Smite,16,False,13072,13075,Youmuu's Ghostblade,Enchantment: Warrior,Duskblade of Draktharr,Ionian Boots of Lucidity,,Edge of Night,11086,165995,Lane.jungle,Role.none
+7,Zaganox,Twitch,False,Side.red,4,9,8,1.3333333333333333,162,Heal,Flash,14,False,11411,11610,Doran's Blade,Infinity Edge,Mortal Reminder,Berserker's Greaves,Dagger,Runaan's Hurricane,0,90273,Lane.bot_lane,Role.duo
+8,Santa Quas,Karthus,False,Side.red,7,8,6,1.625,278,Teleport,Flash,17,False,13642,13225,Fiendish Codex,Zhonya's Hourglass,Liandry's Torment,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,184165,5440,Lane.mid_lane,Role.solo
+9,Révenge,Yasuo,False,Side.red,0,10,9,0.9,64,Exhaust,Flash,12,False,8127,7625,Eye of the Equinox,Knight's Vow,Aegis of the Legion,Ninja Tabi,Null-Magic Mantle,,13112,19396,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ProsteR,Ezreal,True,Side.blue,2,1,6,8.0,179,Heal,Flash,12,False,8826,8000,Bilgewater Cutlass,Doran's Blade,Iceborn Gauntlet,Ionian Boots of Lucidity,Manamune,,12328,61325,Lane.bot_lane,Role.carry
+1,DreadXaeon,Ahri,True,Side.blue,5,4,4,2.25,124,Flash,Teleport,13,False,8413,6625,Doran's Ring,Doran's Ring,Abyssal Scepter,Fiendish Codex,Lost Chapter,Sorcerer's Shoes,41860,6325,Lane.mid_lane,Role.solo
+2,Son of Urgot,Rumble,True,Side.blue,7,3,5,4.0,177,Smite,Ghost,15,False,10768,9325,Giant's Belt,Refillable Potion,Needlessly Large Rod,Liandry's Torment,Enchantment: Runic Echoes,Sorcerer's Shoes,119160,26510,Lane.jungle,Role.none
+3,S Jessica 2,Sion,True,Side.blue,3,3,10,4.333333333333333,55,Exhaust,Flash,12,False,8059,6950,Face of the Mountain,Frozen Heart,Sightstone,Boots of Mobility,Control Ward,,13516,25003,Lane.bot_lane,Role.support
+4,Aloa,Yasuo,True,Side.blue,8,3,4,4.0,161,Flash,Teleport,13,False,10358,9400,Mercury's Treads,Phantom Dancer,Jaurim's Fist,Infinity Edge,Control Ward,Doran's Blade,20271,87579,Lane.top_lane,Role.solo
+5,Junkyard TrundIe,Kog'Maw,False,Side.red,1,5,2,0.6,131,Heal,Flash,11,False,6978,6525,Berserker's Greaves,,B. F. Sword,Blade of the Ruined King,,,11664,48975,Lane.bot_lane,Role.carry
+6,African Jungler,Illaoi,False,Side.red,4,8,0,0.5,178,Flash,Teleport,13,False,8608,8100,Corrupting Potion,Doran's Blade,Sterak's Gage,The Black Cleaver,Sheen,Ruby Crystal,838,112927,Lane.top_lane,Role.solo
+7,WatchThePower,Rengar,False,Side.red,3,2,3,3.0,136,Flash,Smite,14,False,8422,7950,Enchantment: Warrior,Tiamat,Ninja Tabi,Vampiric Scepter,Pickaxe,Caulfield's Warhammer,15941,101983,Lane.jungle,Role.none
+8,Netherlands,Cassiopeia,False,Side.red,4,7,1,0.7142857142857143,147,Ghost,Flash,12,True,7961,7150,Tear of the Goddess,Total Biscuit of Rejuvenation,Doran's Ring,Abyssal Scepter,Morellonomicon,,57333,7414,Lane.mid_lane,Role.solo
+9,Londyn,Thresh,False,Side.red,1,3,1,0.6666666666666666,9,Exhaust,Flash,9,False,5141,4825,Talisman of Ascension,Ionian Boots of Lucidity,Sightstone,Cloth Armor,Control Ward,,5693,3433,Lane.bot_lane,Role.support

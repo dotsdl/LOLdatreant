@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iOddOrange,Lee Sin,True,Side.blue,9,2,2,5.5,116,Flash,Smite,13,False,10818,10125,Tiamat,Enchantment: Warrior,Giant's Belt,Mercury's Treads,Maw of Malmortius,Chain Vest,17765,110998,Lane.jungle,Role.none
+1,Based Envy,Shyvana,True,Side.blue,2,1,2,4.0,216,Teleport,Flash,14,False,9831,8910,Doran's Blade,Dead Man's Plate,Wit's End,Mercury's Treads,Spectre's Cowl,Cull,84256,41657,Lane.top_lane,Role.solo
+2,KarasMai,Janna,True,Side.blue,0,2,8,4.0,7,Flash,Exhaust,9,False,6096,5550,,Redemption,Control Ward,Eye of the Oasis,Ionian Boots of Lucidity,,3779,3072,Lane.bot_lane,Role.support
+3,Pekin Woof,Ryze,True,Side.blue,1,1,4,5.0,172,Flash,Ghost,13,False,8878,8250,Seraph's Embrace,Refillable Potion,Ionian Boots of Lucidity,Needlessly Large Rod,Rod of Ages,,98538,10005,Lane.mid_lane,Role.solo
+4,AsianSGpøtatø,Lucian,True,Side.blue,3,2,5,4.0,188,Flash,Heal,12,True,9954,9275,Doran's Blade,Statikk Shiv,Essence Reaver,Cull,Berserker's Greaves,Pickaxe,3699,109354,Lane.bot_lane,Role.carry
+5,GangstahSwerve,Rek'Sai,False,Side.red,2,4,3,1.25,94,Smite,Flash,11,False,6273,6150,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Giant's Belt,,14642,49408,Lane.jungle,Role.none
+6,Tsùki,Viktor,False,Side.red,1,2,1,1.0,183,Flash,Ghost,13,False,7049,6150,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Giant's Belt,Doran's Ring,,79092,10421,Lane.mid_lane,Role.solo
+7,magic hour,Bard,False,Side.red,0,2,6,3.0,12,Exhaust,Flash,9,False,4906,4550,Spellthief's Edge,Boots of Mobility,Ruby Sightstone,Refillable Potion,Aegis of the Legion,,7079,2942,Lane.bot_lane,Role.support
+8,Mr Gimix,Kennen,False,Side.red,1,4,1,0.5,155,Teleport,Flash,12,False,6493,6400,Seeker's Armguard,Sorcerer's Shoes,Fiendish Codex,,Hextech Protobelt-01,,50800,20250,Lane.top_lane,Role.solo
+9,BigNick is back,Jhin,False,Side.red,3,3,3,2.0,119,Heal,Flash,10,False,6620,5850,Cull,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Dagger,,7480,61467,Lane.bot_lane,Role.carry

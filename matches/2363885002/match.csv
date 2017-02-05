@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Paul the III,Swain,False,Side.blue,2,5,0,0.4,164,Flash,Teleport,12,False,8280,7800,Doran's Ring,Refillable Potion,,Sorcerer's Shoes,Liandry's Torment,Rod of Ages,79823,12219,Lane.mid_lane,Role.solo
+1,herolineage,Jax,False,Side.blue,2,5,3,1.0,141,Flash,Smite,13,False,8883,8775,Enchantment: Bloodrazor,Hextech Gunblade,Refillable Potion,Phage,Boots of Speed,Sheen,27591,90188,Lane.jungle,Role.none
+2,Sunae,Nami,False,Side.blue,0,5,3,0.6,12,Exhaust,Flash,10,False,6183,5650,Boots of Mobility,Eye of the Watchers,Redemption,Cloth Armor,,,5739,2099,Lane.bot_lane,Role.support
+3,lucker doggggggg,Vayne,False,Side.blue,0,6,0,0.0,204,Flash,Heal,12,False,8548,8300,Berserker's Greaves,Infinity Edge,Statikk Shiv,Doran's Blade,Long Sword,,15012,75439,Lane.bot_lane,Role.carry
+4,SinVS,Ekko,False,Side.blue,4,2,2,3.0,227,Teleport,Flash,16,False,10637,9850,Doran's Ring,Zhonya's Hourglass,Blasting Wand,Doran's Ring,Lich Bane,Sorcerer's Shoes,130255,21503,Lane.top_lane,Role.solo
+5,FG Tos8719,Sivir,True,Side.red,9,2,10,9.5,204,Heal,Flash,14,True,13334,12100,Essence Reaver,Total Biscuit of Rejuvenation,Berserker's Greaves,Phantom Dancer,Infinity Edge,Long Sword,0,151923,Lane.bot_lane,Role.carry
+6,Freezman,Soraka,True,Side.red,1,1,19,20.0,9,Exhaust,Flash,12,False,9007,7850,Refillable Potion,Locket of the Iron Solari,Redemption,Eye of the Watchers,,Ionian Boots of Lucidity,9394,7683,Lane.bot_lane,Role.support
+7,Sympothix,Galio,True,Side.red,6,0,10,16.0,184,Flash,Ignite,14,False,11105,9350,Doran's Ring,Rod of Ages,Mercury's Treads,Abyssal Scepter,Needlessly Large Rod,Blasting Wand,107652,15432,Lane.mid_lane,Role.solo
+8,Swuge,Vi,True,Side.red,4,2,12,8.0,140,Flash,Smite,14,False,11243,9908,Enchantment: Warrior,Kindlegem,Trinity Force,Control Ward,Spectre's Cowl,Mercury's Treads,689,149309,Lane.jungle,Role.none
+9,CaIIMeBrad,Jayce,True,Side.red,3,3,3,2.0,188,Teleport,Flash,14,False,10189,8975,Doran's Blade,The Black Cleaver,,Maw of Malmortius,Mercury's Treads,,17564,95712,Lane.top_lane,Role.solo

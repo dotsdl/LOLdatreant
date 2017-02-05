@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arcminute,Kayle,True,Side.blue,4,2,6,5.0,183,Teleport,Flash,13,False,9811,9275,Berserker's Greaves,Nashor's Tooth,Guinsoo's Rageblade,Ruby Crystal,,Doran's Ring,78440,30765,Lane.mid_lane,Role.solo
+1,Cat Ears,Blitzcrank,True,Side.blue,2,3,15,5.666666666666667,25,Flash,Ignite,11,False,7259,6525,Crystalline Bracer,Knight's Vow,Eye of the Equinox,Boots of Mobility,,Control Ward,7445,6720,Lane.bot_lane,Role.support
+2,Kituld,Sivir,True,Side.blue,11,3,8,6.333333333333333,165,Flash,Heal,12,False,12150,10200,Infinity Edge,B. F. Sword,Vampiric Scepter,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,0,111639,Lane.bot_lane,Role.carry
+3,One Called Saint,Nocturne,True,Side.blue,8,2,7,7.5,132,Flash,Smite,13,False,10706,9350,Youmuu's Ghostblade,Berserker's Greaves,Enchantment: Warrior,B. F. Sword,Ruby Crystal,Pickaxe,5155,120728,Lane.jungle,Role.none
+4,Necroside,Kled,True,Side.blue,6,4,12,4.5,105,Ignite,Flash,13,True,9806,8425,Titanic Hydra,Refillable Potion,Doran's Blade,Ninja Tabi,The Black Cleaver,,0,73525,Lane.top_lane,Role.solo
+5,Kurumz,Twisted Fate,False,Side.red,3,6,4,1.1666666666666667,127,Ghost,Flash,11,False,7692,6535,Doran's Ring,Sheen,Rod of Ages,Aether Wisp,Ionian Boots of Lucidity,Amplifying Tome,68967,8233,Lane.mid_lane,Role.solo
+6,rat fink boy,Lee Sin,False,Side.red,1,5,2,0.6,91,Smite,Flash,11,False,6498,6325,Enchantment: Warrior,Tiamat,Ninja Tabi,Jaurim's Fist,,,10429,63281,Lane.jungle,Role.none
+7,hashinshin,Yorick,False,Side.red,5,9,4,1.0,148,Flash,Teleport,12,False,8374,7208,Corrupting Potion,Ninja Tabi,Trinity Force,Chain Vest,Giant's Belt,,6442,68486,Lane.top_lane,Role.solo
+8,Boolt,Karma,False,Side.red,1,5,9,2.0,12,Flash,Exhaust,10,False,5705,4975,Spellthief's Edge,Boots of Mobility,Null-Magic Mantle,Ruby Sightstone,Control Ward,Aegis of the Legion,14192,3406,Lane.bot_lane,Role.support
+9,Koto Bloodwell,Kalista,False,Side.red,4,6,2,1.0,103,Flash,Heal,10,False,6718,6550,Blade of the Ruined King,Berserker's Greaves,Recurve Bow,Dagger,,Doran's Blade,1695,50963,Lane.bot_lane,Role.carry

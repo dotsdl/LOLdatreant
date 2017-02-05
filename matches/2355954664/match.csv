@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Khanji,Ekko,True,Side.blue,5,0,6,11.0,148,Flash,Teleport,13,False,9471,7925,Doran's Ring,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Ring,Lich Bane,68634,16167,Lane.top_lane,Role.solo
+1,Senses,Blitzcrank,True,Side.blue,1,4,9,2.5,25,Flash,Exhaust,10,False,6665,5575,Targon's Brace,Sightstone,Boots of Mobility,Zz'Rot Portal,,,6312,8195,Lane.bot_lane,Role.support
+2,FirstTimeCaitlyn,Caitlyn,True,Side.blue,6,5,5,2.2,176,Heal,Flash,12,False,10639,8250,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Doran's Blade,Dagger,,278,100844,Lane.bot_lane,Role.carry
+3,ShriveledBug,Vi,True,Side.blue,5,3,9,4.666666666666667,75,Flash,Smite,12,False,9459,8208,Mercury's Treads,Enchantment: Warrior,Null-Magic Mantle,Trinity Force,,Refillable Potion,980,81283,Lane.jungle,Role.none
+4,am sol,LeBlanc,True,Side.blue,20,0,9,29.0,180,Ignite,Flash,14,True,14975,12310,Doran's Ring,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,116803,15059,Lane.mid_lane,Role.solo
+5,Ty4LossRito,Soraka,False,Side.red,0,7,6,0.8571428571428571,7,Flash,Exhaust,9,False,4568,3800,Eye of the Oasis,Boots of Speed,Crystalline Bracer,Forbidden Idol,,,2728,1098,Lane.bot_lane,Role.support
+6,Oh Jeeze,Kassadin,False,Side.red,4,7,2,0.8571428571428571,92,Teleport,Flash,11,False,6261,5410,Corrupting Potion,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,,18297,10411,Lane.mid_lane,Role.solo
+7,DopeHo,Teemo,False,Side.red,1,12,5,0.5,51,Flash,Smite,10,False,5172,4825,Enchantment: Bloodrazor,Boots of Speed,Recurve Bow,Null-Magic Mantle,Dagger,Refillable Potion,26630,24928,Lane.jungle,Role.none
+8,IllAxeYouNicely,Jinx,False,Side.red,2,8,5,0.875,117,Flash,Heal,10,False,6260,5300,Doran's Blade,Cloak of Agility,Dagger,Zeal,B. F. Sword,Berserker's Greaves,744,46499,Lane.bot_lane,Role.carry
+9,Darude GateStorm,Nasus,False,Side.red,4,3,1,1.6666666666666667,131,Flash,Teleport,11,False,7101,6325,Doran's Ring,Spirit Visage,Sheen,Doran's Ring,Ninja Tabi,Ruby Crystal,59595,22239,Lane.top_lane,Role.solo

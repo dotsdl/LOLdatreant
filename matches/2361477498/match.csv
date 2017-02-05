@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,thavage,Nocturne,True,Side.blue,8,4,10,4.5,156,Smite,Flash,15,False,12432,10238,Enchantment: Bloodrazor,Refillable Potion,Ninja Tabi,Trinity Force,Caulfield's Warhammer,Serrated Dirk,3589,131646,Lane.jungle,Role.none
+1,rhubarbs,Ekko,True,Side.blue,9,8,7,2.0,139,Teleport,Flash,14,False,11200,10125,Lich Bane,Rod of Ages,Ionian Boots of Lucidity,Abyssal Scepter,,,81847,14150,Lane.top_lane,Role.solo
+2,Get Good Le Bad,Ezreal,True,Side.blue,3,5,7,2.0,224,Heal,Flash,14,False,11273,7500,Vampiric Scepter,Muramana,Iceborn Gauntlet,,Doran's Blade,Ionian Boots of Lucidity,16147,112801,Lane.bot_lane,Role.carry
+3,Mata dog,Thresh,True,Side.blue,0,3,15,5.0,24,Flash,Exhaust,13,False,7291,5150,Face of the Mountain,Ruby Sightstone,,,,Boots of Mobility,7737,6504,Lane.bot_lane,Role.support
+4,UNBAN SOJS,Vladimir,True,Side.blue,7,4,11,4.5,196,Flash,Ghost,15,False,12124,10175,Ionian Boots of Lucidity,Hextech Protobelt-01,Seeker's Armguard,Rylai's Crystal Scepter,Kindlegem,Spectre's Cowl,102270,13255,Lane.mid_lane,Role.solo
+5,0 K A Y B O Y S,Rumble,False,Side.red,9,6,2,1.8333333333333333,185,Flash,Teleport,14,False,11424,11150,Doran's Shield,Health Potion,Rylai's Crystal Scepter,Liandry's Torment,Void Staff,Sorcerer's Shoes,102739,14607,Lane.top_lane,Role.solo
+6,ADC Prospect,Jhin,False,Side.red,0,3,10,3.3333333333333335,186,Heal,Flash,12,False,8894,8550,Doran's Blade,Essence Reaver,Boots of Speed,Rapid Firecannon,Hexdrinker,,11566,92448,Lane.bot_lane,Role.carry
+7,Kuan,Morgana,False,Side.red,1,5,9,2.0,15,Exhaust,Flash,11,False,7137,6350,Eye of the Oasis,Redemption,Aegis of the Legion,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,,6198,2190,Lane.bot_lane,Role.support
+8,ChriShin,Lee Sin,False,Side.red,7,6,9,2.6666666666666665,73,Smite,Flash,13,True,9946,8925,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,Chain Vest,Giant's Belt,15410,79382,Lane.jungle,Role.none
+9,TUCANA DOGANA,Zed,False,Side.red,7,7,2,1.2857142857142858,133,Ignite,Flash,14,False,9371,8225,Refillable Potion,Bilgewater Cutlass,Youmuu's Ghostblade,Hexdrinker,Mercury's Treads,Recurve Bow,5012,63251,Lane.mid_lane,Role.solo

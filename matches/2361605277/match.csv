@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Lucian,False,Side.blue,0,7,1,0.14285714285714285,150,Flash,Heal,10,False,6093,5750,Doran's Blade,Refillable Potion,,Essence Reaver,Dagger,Berserker's Greaves,2141,60814,Lane.bot_lane,Role.carry
+1,Yusui,Yasuo,False,Side.blue,1,3,0,0.3333333333333333,166,Teleport,Flash,12,False,6528,5825,Doran's Blade,Frozen Mallet,Dagger,Zeal,,Boots of Speed,15593,60694,Lane.top_lane,Role.solo
+2,C9 Lemon,Lulu,False,Side.blue,0,4,1,0.25,20,Exhaust,Flash,8,False,4466,4325,Eye of the Watchers,Refillable Potion,Boots of Mobility,Crystalline Bracer,Control Ward,Faerie Charm,6454,3933,Lane.bot_lane,Role.support
+3,insaníty,LeBlanc,False,Side.blue,1,4,0,0.25,151,Flash,Ignite,12,False,6340,6060,Doran's Ring,Morellonomicon,Refillable Potion,Sorcerer's Shoes,Fiendish Codex,Amplifying Tome,58294,11278,Lane.mid_lane,Role.solo
+4,Hakuho,Vi,False,Side.blue,2,4,0,0.5,121,Smite,Flash,11,False,6723,6100,Enchantment: Warrior,Phage,Ionian Boots of Lucidity,Caulfield's Warhammer,,,1129,90603,Lane.jungle,Role.none
+5,Wizzy,Kayle,True,Side.red,3,1,5,8.0,143,Ghost,Flash,13,False,7553,7075,The Dark Seal,Fiendish Codex,Doran's Ring,Boots of Speed,Stinger,Guinsoo's Rageblade,45918,21079,Lane.mid_lane,Role.solo
+6,Riesig,Rammus,True,Side.red,3,0,7,10.0,159,Flash,Teleport,13,False,8171,8150,Spectre's Cowl,Sunfire Cape,Boots of Swiftness,Thornmail,Doran's Shield,,58866,21267,Lane.top_lane,Role.solo
+7,Second of Arc,Evelynn,True,Side.red,5,3,4,3.0,80,Smite,Flash,11,True,7140,6575,Ionian Boots of Lucidity,Refillable Potion,Hextech Protobelt-01,Enchantment: Runic Echoes,Ruby Crystal,,47401,22850,Lane.jungle,Role.none
+8,WildTurtle,Caitlyn,True,Side.red,9,0,3,12.0,209,Flash,Heal,13,False,11115,10875,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Doran's Blade,Phantom Dancer,Long Sword,450,119943,Lane.bot_lane,Role.carry
+9,LØki,Thresh,True,Side.red,2,0,11,13.0,20,Flash,Ignite,10,False,5992,5825,Ruby Sightstone,Relic Shield,Boots of Mobility,Redemption,Null-Magic Mantle,Control Ward,6993,3739,Lane.bot_lane,Role.support

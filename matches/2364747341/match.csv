@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Twitch JSeungWon,Gangplank,False,Side.blue,0,8,5,0.625,109,Flash,Teleport,10,False,6186,5383,Refillable Potion,,,Trinity Force,Cull,Ionian Boots of Lucidity,6120,52140,Lane.top_lane,Role.solo
+1,S2 Teem0,Ezreal,False,Side.blue,1,10,3,0.4,87,Heal,Flash,10,False,5430,4750,Doran's Blade,Cull,Manamune,Ionian Boots of Lucidity,Sapphire Crystal,,10700,31065,Lane.bot_lane,Role.carry
+2,babo way,Soraka,False,Side.blue,0,6,6,1.0,6,Flash,Exhaust,9,False,4755,4125,Crystalline Bracer,Faerie Charm,Eye of the Oasis,Faerie Charm,Ionian Boots of Lucidity,,5966,1056,Lane.bot_lane,Role.support
+3,GiveMEaKing,Shyvana,False,Side.blue,0,6,3,0.5,80,Flash,Smite,10,False,5404,5350,Enchantment: Bloodrazor,Mercury's Treads,Ruby Crystal,Control Ward,Warden's Mail,,32280,27351,Lane.jungle,Role.none
+4,G G P,Cassiopeia,False,Side.blue,10,7,0,1.4285714285714286,117,Flash,Ghost,12,False,8426,7525,Abyssal Scepter,Morellonomicon,Doran's Ring,Tear of the Goddess,Doran's Ring,,58709,6741,Lane.mid_lane,Role.solo
+5,Perrito,Ryze,True,Side.red,7,3,12,6.333333333333333,137,Ghost,Flash,13,False,9777,8675,Archangel's Staff,Refillable Potion,Mejai's Soulstealer,Rod of Ages,,Sorcerer's Shoes,72697,9253,Lane.mid_lane,Role.solo
+6,JoDa Fucking Pen,Poppy,True,Side.red,0,4,7,1.75,120,Teleport,Flash,12,False,7493,7075,Corrupting Potion,Sunfire Cape,Giant's Belt,Mercury's Treads,Cloth Armor,Spectre's Cowl,21488,45185,Lane.top_lane,Role.solo
+7,cùrz,Thresh,True,Side.red,4,0,19,23.0,19,Flash,Ignite,11,False,7654,6100,Ruby Sightstone,Face of the Mountain,,Glacial Shroud,Ionian Boots of Lucidity,,8154,6216,Lane.bot_lane,Role.support
+8,KitingYeezus,Twitch,True,Side.red,9,4,4,3.25,51,Flash,Smite,10,False,8328,7850,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,,1918,51064,Lane.jungle,Role.none
+9,Str1fe,Tristana,True,Side.red,16,1,7,23.0,173,Flash,Heal,13,True,14069,11525,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,Vampiric Scepter,23421,104950,Lane.bot_lane,Role.carry

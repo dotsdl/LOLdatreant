@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Faerie Sovereign,Lux,False,Side.blue,0,6,1,0.16666666666666666,107,Flash,Barrier,10,False,5491,4635,Morellonomicon,Doran's Ring,Amplifying Tome,Boots of Speed,Null-Magic Mantle,,45951,6633,Lane.mid_lane,Role.solo
+1,Šona,Maokai,False,Side.blue,6,5,1,1.4,133,Flash,Teleport,13,False,7710,6700,Corrupting Potion,,Glacial Shroud,Mercury's Treads,Sunfire Cape,Spectre's Cowl,58055,12905,Lane.top_lane,Role.solo
+2,Hodong,Ezreal,False,Side.blue,0,5,3,0.6,128,Heal,Flash,10,False,6241,5625,Control Ward,Ionian Boots of Lucidity,Doran's Blade,Cull,Sheen,Manamune,9989,38607,Lane.bot_lane,Role.carry
+3,Dali Van Picaso,Zyra,False,Side.blue,5,4,1,1.5,27,Ignite,Flash,9,False,6614,5725,Frostfang,Sorcerer's Shoes,Liandry's Torment,Refillable Potion,,,19003,3975,Lane.bot_lane,Role.support
+4,SKT T1 K,Lee Sin,False,Side.blue,1,4,4,1.25,113,Smite,Flash,12,True,7128,7145,Control Ward,Enchantment: Warrior,Tiamat,Negatron Cloak,Ninja Tabi,Raptor Cloak,10878,78449,Lane.jungle,Role.none
+5,Mest,Lucian,True,Side.red,4,1,7,11.0,126,Flash,Heal,11,False,7821,7100,Doran's Blade,Refillable Potion,Cull,Essence Reaver,Berserker's Greaves,Zeal,2140,47533,Lane.bot_lane,Role.carry
+6,RandomPrestige,Darius,True,Side.red,4,3,6,3.3333333333333335,116,Ghost,Teleport,12,False,7671,6700,Corrupting Potion,The Black Cleaver,Mercury's Treads,Spectre's Cowl,Kindlegem,,502,69551,Lane.top_lane,Role.solo
+7,WatchThePower,Thresh,True,Side.red,0,4,4,1.0,25,Flash,Exhaust,9,False,4669,4225,Targon's Brace,Boots of Mobility,Refillable Potion,,Sightstone,Aegis of the Legion,7358,5716,Lane.bot_lane,Role.support
+8,Damage Divers1on,Orianna,True,Side.red,8,1,8,16.0,156,Ghost,Flash,14,False,9369,7625,,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Morellonomicon,,74789,10698,Lane.mid_lane,Role.solo
+9,1997 05 01,Graves,True,Side.red,8,3,3,3.6666666666666665,105,Smite,Flash,12,False,8581,6675,,Hunter's Potion,Enchantment: Warrior,,Phantom Dancer,Berserker's Greaves,2911,84917,Lane.jungle,Role.none

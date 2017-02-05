@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dank Cub,Janna,True,Side.blue,0,1,3,3.0,2,Flash,Exhaust,10,False,6328,5975,Refillable Potion,Ruby Sightstone,Redemption,,Nomad's Medallion,Ionian Boots of Lucidity,5733,3595,Lane.bot_lane,Role.support
+1,colourkevin,Vayne,True,Side.blue,5,3,1,2.0,188,Heal,Flash,13,False,10397,7325,Doran's Blade,Infinity Edge,Boots of Speed,,Statikk Shiv,,21874,79475,Lane.bot_lane,Role.carry
+2,goompa,Lee Sin,True,Side.blue,1,1,5,6.0,113,Smite,Flash,13,False,9137,6500,Mercury's Treads,Refillable Potion,Control Ward,Serrated Dirk,Hexdrinker,Enchantment: Warrior,15926,94833,Lane.jungle,Role.none
+3,J D,Ahri,True,Side.blue,6,2,3,4.5,183,Ignite,Flash,14,False,10627,10025,Doran's Ring,Needlessly Large Rod,Giant's Belt,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,64078,16466,Lane.mid_lane,Role.solo
+4,NEACE  Eeeee,Gangplank,True,Side.blue,4,2,3,3.5,238,Flash,Teleport,15,False,11915,10508,Trinity Force,Kircheis Shard,Ionian Boots of Lucidity,Infinity Edge,Zeal,,12689,174262,Lane.top_lane,Role.solo
+5,Cloudy Skyz,Maokai,False,Side.red,0,1,1,1.0,140,Flash,Teleport,11,False,6922,6550,Doran's Ring,Sunfire Cape,Giant's Belt,Mercury's Treads,Warden's Mail,,62447,9302,Lane.top_lane,Role.solo
+6,BluedogSs,Caitlyn,False,Side.red,3,2,0,1.5,194,Heal,Flash,11,False,8883,7800,Doran's Blade,Infinity Edge,,Berserker's Greaves,Runaan's Hurricane,,377,108441,Lane.bot_lane,Role.carry
+7,BigPickle11,Twisted Fate,False,Side.red,2,4,6,2.0,125,Flash,Ignite,11,True,8022,8235,Lich Bane,,,Ionian Boots of Lucidity,Rod of Ages,Doran's Ring,64784,7678,Lane.jungle,Role.none
+8,TQS Zuardian,Evelynn,False,Side.red,4,9,2,0.6666666666666666,113,Smite,Flash,12,False,8200,7885,Hextech Protobelt-01,Enchantment: Runic Echoes,Amplifying Tome,The Dark Seal,Ionian Boots of Lucidity,Blasting Wand,80987,31845,Lane.jungle,Role.none
+9,Snaffs,Karma,False,Side.red,0,0,4,4.0,19,Exhaust,Flash,10,False,5609,5425,Redemption,Total Biscuit of Rejuvenation,Ruby Sightstone,Ionian Boots of Lucidity,Spellthief's Edge,Control Ward,14942,5662,Lane.bot_lane,Role.support

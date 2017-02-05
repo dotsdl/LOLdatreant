@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Peridot,Ekko,True,Side.blue,9,2,3,6.0,335,Teleport,Flash,18,False,17022,15575,Nashor's Tooth,Hextech Gunblade,Blasting Wand,Guardian Angel,Iceborn Gauntlet,Mercury's Treads,209518,58310,Lane.top_lane,Role.solo
+1,OUT DO YA,Vi,True,Side.blue,6,5,9,3.0,165,Flash,Smite,16,False,14515,12183,Enchantment: Warrior,Trinity Force,Serrated Dirk,Maw of Malmortius,Long Sword,Boots of Swiftness,3176,175479,Lane.jungle,Role.none
+2,Liquid fabbbyyy,Twitch,True,Side.blue,12,4,7,4.75,296,Flash,Heal,17,True,17640,15500,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Statikk Shiv,Lord Dominik's Regards,Hexdrinker,34361,192710,Lane.bot_lane,Role.carry
+3,Kled Gosu,Thresh,True,Side.blue,0,6,17,2.8333333333333335,36,Ignite,Flash,14,False,11059,9650,Boots of Mobility,Locket of the Iron Solari,Talisman of Ascension,,Forbidden Idol,Ruby Sightstone,13167,5997,Lane.bot_lane,Role.support
+4,Overlord Forte,Syndra,True,Side.blue,4,2,6,5.0,272,Flash,Ghost,17,False,14391,12550,Doran's Ring,Morellonomicon,Hextech GLP-800,Liandry's Torment,Sorcerer's Shoes,Doran's Ring,193894,9758,Lane.mid_lane,Role.solo
+5,3A3Y 3OY,Zac,False,Side.red,3,5,13,3.2,166,Smite,Flash,16,False,12737,12325,Randuin's Omen,Refillable Potion,Spirit Visage,Abyssal Scepter,Ninja Tabi,Enchantment: Cinderhulk,109138,24802,Lane.jungle,Role.none
+6,CraacK,Jhin,False,Side.red,5,8,7,1.5,227,Flash,Heal,15,False,12739,12700,Boots of Swiftness,Quicksilver Sash,Doran's Blade,Rapid Firecannon,Essence Reaver,Infinity Edge,4992,137194,Lane.bot_lane,Role.carry
+7,Professor Melyn,Zyra,False,Side.red,3,6,10,2.1666666666666665,35,Flash,Exhaust,13,False,10742,10575,Sorcerer's Shoes,Zz'Rot Portal,Liandry's Torment,Blasting Wand,Eye of the Watchers,,44165,5189,Lane.bot_lane,Role.support
+8,Sheiden,Kennen,False,Side.red,7,7,3,1.4285714285714286,302,Teleport,Flash,18,False,15082,13850,Zhonya's Hourglass,Hextech Protobelt-01,Abyssal Scepter,Void Staff,Sorcerer's Shoes,Needlessly Large Rod,145344,36942,Lane.mid_lane,Role.solo
+9,Koby,Maokai,False,Side.red,1,5,8,1.8,301,Flash,Teleport,17,False,13043,12125,Sunfire Cape,Doran's Ring,Spirit Visage,Mercury's Treads,Chain Vest,Randuin's Omen,168734,33620,Lane.top_lane,Role.solo

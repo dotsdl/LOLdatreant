@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Just what I am,Maokai,True,Side.blue,3,4,5,2.0,126,Flash,Teleport,13,False,8211,7850,Corrupting Potion,Righteous Glory,Chain Vest,Mercury's Treads,,Spirit Visage,63543,12006,Lane.top_lane,Role.solo
+1,rat fink boy,Caitlyn,True,Side.blue,0,4,6,1.5,156,Heal,Flash,11,False,8043,6675,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,,,255,85184,Lane.bot_lane,Role.carry
+2,FZ3R0,Lee Sin,True,Side.blue,9,2,8,8.5,100,Flash,Smite,13,False,10682,9875,Enchantment: Warrior,Refillable Potion,Edge of Night,The Black Cleaver,Boots of Mobility,,17711,92342,Lane.jungle,Role.none
+3,Pekin Woof,Ryze,True,Side.blue,8,1,1,9.0,202,Flash,Ghost,14,False,10594,9185,Seraph's Embrace,Refillable Potion,Amplifying Tome,Rod of Ages,Needlessly Large Rod,Ionian Boots of Lucidity,134072,8016,Lane.mid_lane,Role.solo
+4,blaberfish2,Bard,True,Side.blue,2,4,4,1.5,6,Flash,Ignite,8,False,5681,5275,Sightstone,Frostfang,Redemption,Boots of Mobility,Cloth Armor,,3615,2100,Lane.bot_lane,Role.support
+5,BoxerPete,Tryndamere,False,Side.red,4,5,2,1.2,169,Teleport,Flash,13,False,8253,7150,Mercury's Treads,Ravenous Hydra,Refillable Potion,Caulfield's Warhammer,Hexdrinker,,0,94026,Lane.mid_lane,Role.solo
+6,Makavéli,Olaf,False,Side.red,2,4,3,1.25,141,Smite,Ghost,12,False,7935,6175,Enchantment: Cinderhulk,Refillable Potion,,Spectre's Cowl,Giant's Belt,Ionian Boots of Lucidity,16578,87245,Lane.jungle,Role.none
+7,Professor Melyn,Zyra,False,Side.red,3,3,7,3.3333333333333335,10,Flash,Ignite,9,False,6876,6150,Haunting Guise,Sorcerer's Shoes,Blasting Wand,,Eye of the Watchers,,12492,2864,Lane.bot_lane,Role.support
+8,Rhux,Rumble,False,Side.red,3,6,5,1.3333333333333333,100,Flash,Teleport,11,True,7090,5875,Refillable Potion,Liandry's Torment,Mercury's Treads,Doran's Shield,Blasting Wand,,55772,5460,Lane.top_lane,Role.solo
+9,cute pupper irl,Tristana,False,Side.red,3,4,3,1.5,128,Flash,Heal,11,False,7179,6975,Doran's Blade,Long Sword,Infinity Edge,Berserker's Greaves,Recurve Bow,,15064,43834,Lane.bot_lane,Role.carry

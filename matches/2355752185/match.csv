@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vile Tyrant,Corki,False,Side.blue,4,8,3,0.875,125,Heal,Flash,11,False,9156,8958,Infinity Edge,Trinity Force,,Boots of Swiftness,,,57375,22509,Lane.bot_lane,Role.carry
+1,iLoveDota2,Shyvana,False,Side.blue,2,7,4,0.8571428571428571,213,Flash,Smite,14,False,11248,10450,Titanic Hydra,Refillable Potion,Enchantment: Bloodrazor,Randuin's Omen,Boots of Swiftness,Cloth Armor,71070,102052,Lane.jungle,Role.none
+2,Do Not Buy Wards,Karma,False,Side.blue,1,5,11,2.4,16,Flash,Exhaust,11,False,8257,7675,Control Ward,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,,Athene's Unholy Grail,16444,4681,Lane.bot_lane,Role.support
+3,Follow Mohamed,Trundle,False,Side.blue,5,5,7,2.4,168,Flash,Ghost,14,True,11416,10650,Warden's Mail,Boots of Swiftness,Blade of the Ruined King,Guinsoo's Rageblade,Giant's Belt,,9074,101984,Lane.top_lane,Role.solo
+4,Sykotiic,Veigar,False,Side.blue,8,6,3,1.8333333333333333,129,Ghost,Flash,13,False,10392,8425,Doran's Ring,Morellonomicon,Hextech Protobelt-01,Mercury's Treads,The Dark Seal,Fiendish Codex,79621,9718,Lane.mid_lane,Role.solo
+5,Menoetius,Janna,True,Side.red,0,4,19,4.75,17,Exhaust,Flash,12,False,8561,7200,Ardent Censer,Boots of Mobility,,Redemption,,Sightstone,13134,5460,Lane.bot_lane,Role.support
+6,Courage Code,Twisted Fate,True,Side.red,12,4,8,5.0,172,Cleanse,Flash,15,False,14113,12750,Rod of Ages,Abyssal Scepter,Lich Bane,Needlessly Large Rod,Blasting Wand,Ionian Boots of Lucidity,109453,15384,Lane.mid_lane,Role.solo
+7,1 Dare u,Vayne,True,Side.red,10,3,10,6.666666666666667,183,Heal,Flash,14,False,13802,10550,Berserker's Greaves,Vampiric Scepter,Long Sword,Infinity Edge,Statikk Shiv,Quicksilver Sash,38795,121815,Lane.bot_lane,Role.carry
+8,always plan ahea,Lulu,True,Side.red,6,5,9,3.0,152,Flash,Teleport,15,False,11419,11435,Rabadon's Deathcap,Ardent Censer,Athene's Unholy Grail,Ionian Boots of Lucidity,Needlessly Large Rod,Amplifying Tome,92535,18688,Lane.top_lane,Role.solo
+9,Ostry,Ivern,True,Side.red,3,4,14,4.25,68,Flash,Smite,14,False,10159,8325,Hunter's Potion,Hunter's Talisman,Mercury's Treads,Athene's Unholy Grail,Rylai's Crystal Scepter,Aegis of the Legion,13231,8360,Lane.jungle,Role.none

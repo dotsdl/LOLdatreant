@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,COSTA RlCA,Janna,True,Side.blue,0,3,20,6.666666666666667,12,Exhaust,Flash,14,False,8634,6625,Redemption,Null-Magic Mantle,Ionian Boots of Lucidity,Ruby Sightstone,Nomad's Medallion,The Dark Seal,8163,5095,Lane.jungle,Role.none
+1,Acerola LAN,Elise,True,Side.blue,9,5,9,3.6,104,Smite,Flash,14,False,11583,11325,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Liandry's Torment,Rylai's Crystal Scepter,Hextech Revolver,94347,32470,Lane.jungle,Role.none
+2,Imaokai,Tristana,True,Side.blue,20,1,3,23.0,304,Heal,Flash,17,True,18736,13950,Infinity Edge,Blade of the Ruined King,,Phantom Dancer,Statikk Shiv,Berserker's Greaves,80491,169264,Lane.bot_lane,Role.solo
+3,Kitzuø,Rek'Sai,True,Side.blue,2,6,8,1.6666666666666667,173,Flash,Teleport,15,False,10422,9900,Doran's Blade,Mercury's Treads,Doran's Blade,The Black Cleaver,Dead Man's Plate,Spectre's Cowl,18346,84886,Lane.top_lane,Role.solo
+4,AvriI Lavigne,Jhin,True,Side.blue,5,5,11,3.2,172,Flash,Exhaust,15,False,11477,10275,Hexdrinker,Doran's Blade,Boots of Swiftness,Infinity Edge,Phantom Dancer,Last Whisper,2904,121651,Lane.mid_lane,Role.solo
+5,SoV NSFW,Poppy,False,Side.red,6,6,2,1.3333333333333333,176,Flash,Teleport,14,False,9686,8875,Sunfire Cape,Spirit Visage,Corrupting Potion,Sheen,Mercury's Treads,Dagger,30689,79187,Lane.top_lane,Role.solo
+6,Crackadon,Zac,False,Side.red,5,6,8,2.1666666666666665,124,Smite,Flash,14,False,9603,9400,Enchantment: Cinderhulk,Kindlegem,Randuin's Omen,Ninja Tabi,Spectre's Cowl,Ruby Crystal,82592,18034,Lane.jungle,Role.none
+7,Donmat,Ezreal,False,Side.red,2,6,1,0.5,186,Heal,Flash,14,False,8946,7625,Iceborn Gauntlet,Muramana,Refillable Potion,Vampiric Scepter,Ionian Boots of Lucidity,,23535,76589,Lane.bot_lane,Role.carry
+8,Lukwer,Ryze,False,Side.red,6,7,3,1.2857142857142858,216,Flash,Ghost,14,False,10820,9950,Doran's Ring,Needlessly Large Rod,Morellonomicon,Tear of the Goddess,Ionian Boots of Lucidity,Rod of Ages,131402,9798,Lane.mid_lane,Role.solo
+9,Darvec,Blitzcrank,False,Side.red,1,11,6,0.6363636363636364,36,Ignite,Flash,11,False,6737,6000,Face of the Mountain,Sightstone,Boots of Mobility,Raptor Cloak,Null-Magic Mantle,,6538,9508,Lane.bot_lane,Role.support

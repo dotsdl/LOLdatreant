@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Senses,Blitzcrank,True,Side.blue,2,1,10,12.0,26,Flash,Exhaust,11,False,6017,5025,Boots of Mobility,Sightstone,Zz'Rot Portal,Relic Shield,,,5729,7803,Lane.bot_lane,Role.support
+1,3A3Y 3OY,Jhin,True,Side.blue,8,2,4,6.0,137,Heal,Flash,12,False,9022,8375,Rapid Firecannon,B. F. Sword,,Essence Reaver,Boots of Speed,Doran's Blade,1316,71481,Lane.bot_lane,Role.carry
+2,Nero Valentine,Jayce,True,Side.blue,5,4,3,2.0,146,Teleport,Flash,13,False,8848,7850,Doran's Blade,Refillable Potion,Youmuu's Ghostblade,,The Black Cleaver,Boots of Swiftness,10099,73325,Lane.top_lane,Role.solo
+3,King of Memes,Riven,True,Side.blue,7,1,3,10.0,158,Smite,Flash,13,True,10402,10475,Ravenous Hydra,Control Ward,Enchantment: Warrior,The Black Cleaver,,,1448,121945,Lane.jungle,Role.none
+4,rockonhi5,Ryze,True,Side.blue,4,3,5,3.0,139,Ghost,Flash,11,False,8408,8125,Archangel's Staff,Rod of Ages,Refillable Potion,Sorcerer's Shoes,Giant's Belt,,76151,8939,Lane.mid_lane,Role.solo
+5,Wingsofdeathx,LeBlanc,False,Side.red,2,5,2,0.8,126,Ignite,Flash,11,False,6411,6325,Morellonomicon,Doran's Ring,Sorcerer's Shoes,The Dark Seal,Doran's Ring,Blasting Wand,47069,8051,Lane.mid_lane,Role.solo
+6,ZTG SolidSnake,Lee Sin,False,Side.red,2,4,3,1.25,101,Flash,Smite,11,False,6525,6125,Refillable Potion,Enchantment: Warrior,Poacher's Dirk,B. F. Sword,Boots of Speed,Giant's Belt,14214,59258,Lane.jungle,Role.none
+7,TheBolvar,Alistar,False,Side.red,2,5,1,0.6,16,Flash,Exhaust,9,False,4520,4075,Crystalline Bracer,Face of the Mountain,Boots of Speed,Cloth Armor,Ruby Crystal,,6634,2196,Lane.bot_lane,Role.support
+8,Brian The is,Vayne,False,Side.red,0,6,2,0.3333333333333333,110,Heal,Flash,10,False,5684,5100,Refillable Potion,B. F. Sword,Doran's Blade,Berserker's Greaves,Kircheis Shard,Zeal,478,30691,Lane.bot_lane,Role.carry
+9,Sohelion,Gangplank,False,Side.red,5,6,0,0.8333333333333334,155,Flash,Teleport,12,False,8152,7733,Corrupting Potion,Trinity Force,Phantom Dancer,Long Sword,Boots of Speed,,5839,82088,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Walljumper,Renekton,True,Side.blue,7,4,14,5.25,295,Teleport,Flash,18,False,15978,12900,Tiamat,Spirit Visage,The Black Cleaver,Ninja Tabi,Vampiric Scepter,Sunfire Cape,33958,186273,Lane.top_lane,Role.solo
+1,Remmacs,Twitch,True,Side.blue,17,9,9,2.888888888888889,200,Heal,Flash,16,False,16095,15400,Runaan's Hurricane,Bilgewater Cutlass,Infinity Edge,Phantom Dancer,Berserker's Greaves,Lord Dominik's Regards,0,134167,Lane.bot_lane,Role.carry
+2,TwistyJuker,Lee Sin,True,Side.blue,10,5,21,6.2,148,Flash,Smite,17,False,13920,12075,Tiamat,Enchantment: Warrior,Dead Man's Plate,Hexdrinker,Mercury's Treads,Spirit Visage,26602,116672,Lane.jungle,Role.none
+3,AchiIIes Heal,Ahri,True,Side.blue,6,8,17,2.875,129,Flash,Ignite,15,False,12146,10675,Abyssal Scepter,Sorcerer's Shoes,Giant's Belt,Morellonomicon,Blasting Wand,Needlessly Large Rod,59501,11961,Lane.mid_lane,Role.solo
+4,YlKES,Bard,True,Side.blue,10,6,24,5.666666666666667,11,Ignite,Flash,16,False,13577,11000,Eye of the Watchers,Redemption,Locket of the Iron Solari,Ruby Crystal,Boots of Mobility,Frozen Heart,23101,7831,Lane.bot_lane,Role.support
+5,taro slushy,Nami,False,Side.red,1,11,15,1.4545454545454546,31,Exhaust,Flash,14,False,9255,8770,Redemption,Negatron Cloak,Eye of the Watchers,Raptor Cloak,Ionian Boots of Lucidity,Giant's Belt,15082,6907,Lane.bot_lane,Role.support
+6,nilhaG,Zac,False,Side.red,10,7,12,3.142857142857143,171,Flash,Smite,15,False,13553,13300,Randuin's Omen,Spirit Visage,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Dead Man's Plate,Chain Vest,126204,25624,Lane.jungle,Role.none
+7,lost in thoughts,Katarina,False,Side.red,14,10,7,2.1,183,Flash,Ignite,17,False,13893,12975,Sorcerer's Shoes,Hextech Gunblade,Sunfire Cape,Seeker's Armguard,Spirit Visage,The Dark Seal,130914,13537,Lane.mid_lane,Role.solo
+8,Whisper,Ezreal,False,Side.red,1,12,9,0.8333333333333334,146,Heal,Flash,13,False,9838,8383,Doran's Blade,Muramana,Cull,Trinity Force,Berserker's Greaves,,23043,53785,Lane.bot_lane,Role.carry
+9,IA55A55INI,Yasuo,False,Side.red,6,10,10,1.6,201,Flash,Exhaust,16,True,12298,11075,Phantom Dancer,Frozen Mallet,Infinity Edge,Ninja Tabi,Doran's Blade,,31548,105331,Lane.top_lane,Role.solo

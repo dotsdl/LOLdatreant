@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SIMBASIMBA,Darius,True,Side.blue,8,2,4,6.0,135,Flash,Teleport,11,True,9246,8950,Corrupting Potion,The Black Cleaver,Boots of Swiftness,Dead Man's Plate,Phage,Dagger,747,79657,Lane.top_lane,Role.solo
+1,isss,Janna,True,Side.blue,3,0,10,13.0,4,Flash,Exhaust,9,False,6906,6400,Redemption,Eye of the Watchers,Refillable Potion,Boots of Swiftness,Null-Magic Mantle,Cloth Armor,4717,5168,Lane.bot_lane,Role.support
+2,0 K A Y B O Y S,Vi,True,Side.blue,6,0,4,10.0,97,Flash,Smite,12,False,8573,8325,Enchantment: Warrior,Sheen,Mercury's Treads,Maw of Malmortius,,,501,85481,Lane.jungle,Role.none
+3,Captain Ziploc,Lux,True,Side.blue,5,4,6,2.75,92,Barrier,Flash,11,False,7437,6835,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,54124,8905,Lane.mid_lane,Role.solo
+4,Mishas Swamp,Vayne,True,Side.blue,1,5,3,0.8,84,Heal,Flash,9,False,6081,5550,Berserker's Greaves,Ruby Crystal,Doran's Blade,Blade of the Ruined King,Control Ward,,79,30694,Lane.bot_lane,Role.carry
+5,DoubleArts,Karma,False,Side.red,1,4,3,1.0,15,Ignite,Flash,9,False,4724,3600,Eye of the Watchers,,Sorcerer's Shoes,Total Biscuit of Rejuvenation,,,13739,5661,Lane.bot_lane,Role.support
+6,LaCrimDeLaCrim,Twitch,False,Side.red,1,6,3,0.6666666666666666,88,Flash,Heal,8,False,5504,4350,Zeal,B. F. Sword,Recurve Bow,Doran's Blade,,,0,28147,Lane.bot_lane,Role.carry
+7,Patented Jax ,Lee Sin,False,Side.red,5,3,2,2.3333333333333335,51,Smite,Flash,10,False,6162,5500,Refillable Potion,Enchantment: Warrior,Phage,Boots of Speed,Caulfield's Warhammer,,7448,41576,Lane.jungle,Role.none
+8,bobqinXD,LeBlanc,False,Side.red,3,4,0,0.75,126,Flash,Ignite,11,False,6930,5485,,Doran's Ring,Doran's Ring,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,58386,7314,Lane.mid_lane,Role.solo
+9,Nuk3,Jayce,False,Side.red,0,6,0,0.0,55,Flash,Teleport,8,False,4204,2700,Doran's Blade,Caulfield's Warhammer,Ruby Crystal,Boots of Speed,Long Sword,,1471,15006,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vicinus,Nocturne,True,Side.blue,11,5,12,4.6,189,Flash,Smite,17,False,15128,12375,Blade of the Ruined King,B. F. Sword,Randuin's Omen,Enchantment: Bloodrazor,Ninja Tabi,Ruby Crystal,5290,189679,Lane.jungle,Role.none
+1,The Woo Man,Teemo,True,Side.blue,5,1,13,18.0,218,Flash,Teleport,16,False,12765,10850,Warmog's Armor,Spirit Visage,Ninja Tabi,Zz'Rot Portal,Doran's Blade,Doran's Blade,68903,47890,Lane.mid_lane,Role.solo
+2,Hey I am God,Thresh,True,Side.blue,3,4,18,5.25,31,Flash,Exhaust,14,False,9926,8050,Sightstone,Knight's Vow,Face of the Mountain,,Glacial Shroud,Boots of Mobility,13447,6594,Lane.bot_lane,Role.support
+3,Little Mimo,Ezreal,True,Side.blue,5,8,15,2.5,186,Flash,Heal,15,False,13314,11700,Blade of the Ruined King,Muramana,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,Last Whisper,15050,101606,Lane.bot_lane,Role.carry
+4,Dr Saline PhD,Ryze,True,Side.blue,12,5,6,3.6,288,Ghost,Flash,17,False,15844,12825,Zz'Rot Portal,Void Staff,Rod of Ages,Ionian Boots of Lucidity,,Seraph's Embrace,221161,12222,Lane.top_lane,Role.solo
+5,gniK efiL oN,Alistar,False,Side.red,0,8,10,1.25,37,Flash,Exhaust,12,False,7938,6725,Crystalline Bracer,Sightstone,Banner of Command,Crystalline Bracer,Targon's Brace,Boots of Mobility,11301,5108,Lane.bot_lane,Role.support
+6,tonpole,Heimerdinger,False,Side.red,1,7,9,1.4285714285714286,212,Teleport,Flash,15,False,10216,8360,Doran's Ring,Zz'Rot Portal,Sorcerer's Shoes,The Dark Seal,Rylai's Crystal Scepter,Amplifying Tome,83789,14405,Lane.top_lane,Role.solo
+7,H4xDefender,Yasuo,False,Side.red,5,7,2,1.0,224,Heal,Flash,14,True,11321,11300,Pickaxe,Ninja Tabi,Phantom Dancer,B. F. Sword,Frozen Mallet,Null-Magic Mantle,19932,107166,Lane.mid_lane,Role.solo
+8,CLG iTrackpad,Caitlyn,False,Side.red,3,8,9,1.5,191,Heal,Flash,13,False,11023,10275,Vampiric Scepter,Recurve Bow,Berserker's Greaves,Cull,Runaan's Hurricane,Infinity Edge,1166,119334,Lane.bot_lane,Role.carry
+9,aShady,Vi,False,Side.red,14,6,3,2.8333333333333335,109,Smite,Flash,15,False,12974,12678,Enchantment: Warrior,Negatron Cloak,Trinity Force,Mercury's Treads,Chain Vest,Dead Man's Plate,1232,126360,Lane.jungle,Role.none

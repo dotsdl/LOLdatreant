@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0, keine Hosen,Twitch,True,Side.blue,9,2,6,7.5,148,Flash,Heal,12,False,10392,8550,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,Dagger,0,90463,Lane.bot_lane,Role.carry
+1,Lesu,Kha'Zix,True,Side.blue,7,1,4,11.0,168,Smite,Flash,14,False,10390,7925,Maw of Malmortius,Refillable Potion,,Enchantment: Warrior,Boots of Speed,B. F. Sword,3129,139691,Lane.jungle,Role.none
+2,Aecinira,Bard,True,Side.blue,3,0,18,21.0,3,Flash,Exhaust,11,False,7900,6725,Kindlegem,Redemption,Ruby Sightstone,Null-Magic Mantle,Spellthief's Edge,Ionian Boots of Lucidity,8296,5771,Lane.bot_lane,Role.support
+3,Ifkinluvpeaches,Kled,True,Side.blue,7,2,2,4.5,112,Ignite,Flash,12,False,8699,7725,The Black Cleaver,Ravenous Hydra,Control Ward,Ionian Boots of Lucidity,,,0,68007,Lane.top_lane,Role.solo
+4,plotz,Ryze,True,Side.blue,8,3,7,5.0,148,Ghost,Flash,13,True,9955,9100,Tear of the Goddess,Morellonomicon,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,,99425,8039,Lane.mid_lane,Role.solo
+5,RlVÈN,Ezreal,False,Side.red,1,9,2,0.3333333333333333,106,Heal,Flash,9,False,5896,4750,Doran's Blade,Manamune,,Cull,Sheen,Boots of Speed,9905,31384,Lane.bot_lane,Role.carry
+6,RumbleMidGGnoRE,Rumble,False,Side.red,3,7,1,0.5714285714285714,93,Teleport,Flash,10,False,5930,5375,Hextech Revolver,Boots of Speed,Kindlegem,Total Biscuit of Rejuvenation,,Zhonya's Hourglass,45685,4190,Lane.top_lane,Role.solo
+7,Peridot,Ziggs,False,Side.red,3,6,1,0.6666666666666666,148,Ghost,Flash,12,False,7035,5900,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Aether Wisp,71855,6906,Lane.mid_lane,Role.solo
+8,BaconSeeker,Brand,False,Side.red,1,8,3,0.5,19,Ignite,Flash,10,False,5250,4635,Eye of the Watchers,Amplifying Tome,Ruby Crystal,Sorcerer's Shoes,,,18522,5324,Lane.bot_lane,Role.support
+9,Àce,Sejuani,False,Side.red,0,4,3,0.75,100,Flash,Smite,11,False,6036,5175,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Cloth Armor,Giant's Belt,,42521,19381,Lane.jungle,Role.none

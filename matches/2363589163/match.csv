@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SKY Fear,Nautilus,True,Side.blue,3,1,10,13.0,134,Flash,Teleport,12,False,8029,6325,Sunfire Cape,Corrupting Potion,Ninja Tabi,Ruby Crystal,Sheen,Cloth Armor,47875,17556,Lane.top_lane,Role.solo
+1,TQS Zuardian,Evelynn,True,Side.blue,13,0,3,16.0,125,Smite,Flash,13,True,10351,8710,Refillable Potion,Enchantment: Runic Echoes,Mejai's Soulstealer,Boots of Speed,Rabadon's Deathcap,Amplifying Tome,81506,29012,Lane.jungle,Role.none
+2,Sheiden,Varus,True,Side.blue,1,4,4,1.25,127,Ghost,Flash,10,False,6570,5450,Doran's Blade,Manamune,Ionian Boots of Lucidity,Control Ward,Caulfield's Warhammer,Long Sword,2293,54797,Lane.mid_lane,Role.solo
+3,Liquid Painless,Morgana,True,Side.blue,0,1,11,11.0,8,Flash,Exhaust,9,False,5120,3775,,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Control Ward,,5673,3259,Lane.bot_lane,Role.support
+4,LimitedExtent,Jhin,True,Side.blue,5,0,6,11.0,140,Heal,Flash,11,False,8465,7350,Rapid Firecannon,Youmuu's Ghostblade,Total Biscuit of Rejuvenation,Boots of Speed,Doran's Blade,Pickaxe,1066,64854,Lane.bot_lane,Role.carry
+5,C9 Smoothie,Thresh,False,Side.red,1,2,4,2.5,12,Flash,Ignite,8,False,3860,3525,,Ruby Sightstone,Total Biscuit of Rejuvenation,Relic Shield,,Boots of Mobility,5763,2600,Lane.bot_lane,Role.support
+6,a line of code,Kha'Zix,False,Side.red,2,4,0,0.5,75,Smite,Flash,10,False,5427,4700,Tiamat,Refillable Potion,Enchantment: Warrior,Boots of Speed,Long Sword,,2567,61371,Lane.jungle,Role.none
+7,dog deft,Vayne,False,Side.red,0,7,0,0.0,98,Flash,Heal,9,False,4581,4250,Boots of Speed,B. F. Sword,Zeal,Kircheis Shard,,Doran's Blade,86,28559,Lane.bot_lane,Role.carry
+8,1onz,Karma,False,Side.red,2,4,2,1.0,122,Flash,Teleport,10,False,5811,5260,Doran's Ring,Morellonomicon,Control Ward,Amplifying Tome,Ionian Boots of Lucidity,Health Potion,44581,12153,Lane.mid_lane,Role.solo
+9,Betabet,Jayce,False,Side.red,1,5,3,0.8,113,Flash,Teleport,10,False,5669,4780,Mercury's Treads,Youmuu's Ghostblade,Doran's Blade,,,,7418,42610,Lane.top_lane,Role.solo

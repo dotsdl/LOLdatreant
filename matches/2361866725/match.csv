@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IAmArray,Shyvana,False,Side.blue,2,5,1,0.6,173,Flash,Smite,14,False,9954,9675,Titanic Hydra,Refillable Potion,Mercury's Treads,Enchantment: Bloodrazor,Sheen,Phage,72213,84084,Lane.jungle,Role.none
+1,xFSN Saber,Lucian,False,Side.blue,3,9,4,0.7777777777777778,209,Heal,Flash,13,False,10417,10150,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Cloak of Agility,Phantom Dancer,B. F. Sword,3474,113792,Lane.bot_lane,Role.carry
+2,Second of Arc,Riven,False,Side.blue,5,5,3,1.6,181,Teleport,Flash,14,False,10127,10025,Ionian Boots of Lucidity,Pickaxe,Ravenous Hydra,The Black Cleaver,Giant Slayer,Doran's Blade,18,99862,Lane.top_lane,Role.solo
+3,xTc4,Sona,False,Side.blue,1,4,8,2.25,32,Flash,Exhaust,12,False,8049,6375,Tear of the Goddess,Refillable Potion,Eye of the Watchers,Hextech Revolver,Sorcerer's Shoes,Fiendish Codex,20546,6859,Lane.bot_lane,Role.support
+4,BIind Goat,Syndra,False,Side.blue,4,6,4,1.3333333333333333,186,Ghost,Flash,13,False,9867,9235,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Blasting Wand,Amplifying Tome,Sorcerer's Shoes,83519,11243,Lane.mid_lane,Role.solo
+5,EnVy LOD,Caitlyn,True,Side.red,14,2,6,10.0,206,Flash,Heal,15,True,14712,11600,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Vampiric Scepter,Infinity Edge,Runaan's Hurricane,2604,168695,Lane.bot_lane,Role.carry
+6,Kled Gosu,Bard,True,Side.red,2,4,17,4.75,8,Exhaust,Flash,13,False,9338,7900,,Locket of the Iron Solari,Boots of Mobility,Control Ward,Redemption,Ruby Sightstone,10567,6932,Lane.bot_lane,Role.support
+7,Espir III,Twisted Fate,True,Side.red,5,3,8,4.333333333333333,183,Flash,Ghost,15,False,12396,12085,Ionian Boots of Lucidity,Lich Bane,Abyssal Scepter,Seeker's Armguard,Rod of Ages,Amplifying Tome,98843,14672,Lane.mid_lane,Role.solo
+8,Walljumper,Hecarim,True,Side.red,2,2,12,7.0,138,Smite,Ghost,15,False,11480,9783,,Dead Man's Plate,Trinity Force,Enchantment: Cinderhulk,Boots of Speed,,18581,122037,Lane.jungle,Role.none
+9,Stumpey,Jayce,True,Side.red,6,4,5,2.75,215,Flash,Teleport,16,False,12966,12400,Youmuu's Ghostblade,The Black Cleaver,Maw of Malmortius,Pickaxe,Ninja Tabi,Doran's Blade,20410,107336,Lane.top_lane,Role.solo

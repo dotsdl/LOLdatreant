@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ardnaxela,Soraka,False,Side.blue,0,3,11,3.6666666666666665,14,Flash,Exhaust,11,False,7208,6300,Boots of Mobility,Redemption,Eye of the Oasis,Total Biscuit of Rejuvenation,,Kindlegem,7951,2330,Lane.bot_lane,Role.support
+1,Kumdare,Caitlyn,False,Side.blue,3,4,4,1.75,193,Heal,Flash,13,False,9658,8625,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Brawler's Gloves,Dagger,353,112062,Lane.bot_lane,Role.carry
+2,Bleece123,Mordekaiser,False,Side.blue,3,6,7,1.6666666666666667,204,Teleport,Flash,15,True,10118,9750,Mercury's Treads,Refillable Potion,Rylai's Crystal Scepter,Abyssal Scepter,Hextech Revolver,Kindlegem,119469,14567,Lane.top_lane,Role.solo
+3,TOMTESLA,Olaf,False,Side.blue,9,6,6,2.5,136,Ghost,Smite,14,False,11058,10560,Enchantment: Cinderhulk,Locket of the Iron Solari,Crystalline Bracer,Ionian Boots of Lucidity,Spirit Visage,Catalyst of Aeons,19793,90134,Lane.jungle,Role.none
+4,xHypoxia,Veigar,False,Side.blue,3,4,3,1.5,184,Heal,Flash,13,False,9473,9350,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Blasting Wand,Doran's Ring,,107084,10955,Lane.mid_lane,Role.solo
+5,OoR4s3Ng4N4rUtOo,Jhin,True,Side.red,6,2,5,5.5,194,Flash,Heal,15,False,12852,11175,Doran's Blade,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Mortal Reminder,Cloak of Agility,16218,142437,Lane.bot_lane,Role.carry
+6,went,Swain,True,Side.red,1,5,10,2.2,188,Teleport,Flash,15,False,10867,10450,Sorcerer's Shoes,Zhonya's Hourglass,Rod of Ages,Abyssal Scepter,,,99065,13852,Lane.top_lane,Role.solo
+7,Burp The Worm,Zyra,True,Side.red,2,5,3,1.0,29,Ignite,Flash,10,False,8679,8335,Sorcerer's Shoes,Liandry's Torment,Fiendish Codex,Eye of the Watchers,Amplifying Tome,,28184,6109,Lane.bot_lane,Role.support
+8,NinjaHogg,Ekko,True,Side.red,9,2,2,5.5,182,Ignite,Flash,16,False,13130,11625,Rabadon's Deathcap,Sorcerer's Shoes,Lich Bane,Doran's Ring,Void Staff,,143026,29746,Lane.mid_lane,Role.solo
+9,LC is a dog,Evelynn,True,Side.red,5,4,5,2.5,90,Smite,Flash,13,False,10458,8950,Enchantment: Runic Echoes,Hextech Gunblade,The Dark Seal,Boots of Mobility,Hexdrinker,Control Ward,68596,33490,Lane.jungle,Role.none

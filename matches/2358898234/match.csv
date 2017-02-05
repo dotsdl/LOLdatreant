@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Bard,True,Side.blue,2,3,17,6.333333333333333,9,Flash,Ignite,12,False,8246,7075,Ruby Sightstone,Redemption,Spellthief's Edge,Aegis of the Legion,Control Ward,Boots of Mobility,9376,3721,Lane.bot_lane,Role.support
+1,WJNA,Jayce,True,Side.blue,13,4,7,5.0,183,Flash,Ignite,15,True,13075,11675,Youmuu's Ghostblade,The Black Cleaver,The Bloodthirster,Boots of Swiftness,Long Sword,Doran's Blade,15755,115838,Lane.mid_lane,Role.solo
+2,GrayHoves,Caitlyn,True,Side.blue,6,3,6,4.0,186,Flash,Heal,13,False,11286,8025,,Infinity Edge,,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,577,115028,Lane.bot_lane,Role.carry
+3,The Aviator,Elise,True,Side.blue,6,4,12,4.5,74,Flash,Smite,12,False,10157,9850,Ionian Boots of Lucidity,Refillable Potion,Hextech Protobelt-01,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Ruby Crystal,62301,21660,Lane.jungle,Role.none
+4,7120327,Wukong,True,Side.blue,8,4,4,3.0,177,Flash,Teleport,14,False,11322,9670,Youmuu's Ghostblade,Ravenous Hydra,Corrupting Potion,Mercury's Treads,Chain Vest,Negatron Cloak,2130,115610,Lane.top_lane,Role.solo
+5,d3ps,Graves,False,Side.red,2,8,4,0.75,139,Flash,Smite,14,False,8450,7600,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Phantom Dancer,Control Ward,Serrated Dirk,3232,116119,Lane.jungle,Role.none
+6,MongolWarrior,Twitch,False,Side.red,6,9,2,0.8888888888888888,117,Heal,Flash,12,False,7987,7900,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,,0,54898,Lane.bot_lane,Role.carry
+7,Dreadknight Poro,Kayle,False,Side.red,1,8,3,0.5,149,Ghost,Flash,12,False,7425,6375,Doran's Ring,Needlessly Large Rod,Doran's Ring,Berserker's Greaves,Runaan's Hurricane,Ruby Crystal,54219,23902,Lane.mid_lane,Role.solo
+8,BigNick is back,Janna,False,Side.red,0,4,11,2.75,19,Exhaust,Flash,12,False,6742,5550,Redemption,Eye of the Watchers,Boots of Mobility,,,,5529,3539,Lane.bot_lane,Role.support
+9,Pink Ward,Shaco,False,Side.red,9,6,2,1.8333333333333333,106,Teleport,Ignite,12,False,8851,8850,Corrupting Potion,Zhonya's Hourglass,Hextech Protobelt-01,Ionian Boots of Lucidity,The Dark Seal,Sheen,48039,15412,Lane.top_lane,Role.solo

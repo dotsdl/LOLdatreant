@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,QiuK,Trundle,True,Side.blue,5,0,6,11.0,238,Teleport,Flash,17,True,13787,12458,,Sunfire Cape,Tiamat,Trinity Force,Spirit Visage,Ninja Tabi,44589,102270,Lane.top_lane,Role.solo
+1,Ðémøn,Janna,True,Side.blue,2,4,8,2.5,20,Flash,Exhaust,12,False,10222,8975,Eye of the Oasis,Redemption,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,Chalice of Harmony,9051,6604,Lane.bot_lane,Role.support
+2,DusKRaptor,Caitlyn,True,Side.blue,9,2,3,6.0,233,Flash,Heal,15,False,14745,13075,Quicksilver Sash,Rapid Firecannon,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,Berserker's Greaves,3156,196105,Lane.bot_lane,Role.carry
+3,Treebro001,Ivern,True,Side.blue,0,2,8,4.0,100,Flash,Smite,15,False,11461,9125,Redemption,Locket of the Iron Solari,Bami's Cinder,Ionian Boots of Lucidity,Hunter's Talisman,Athene's Unholy Grail,7704,7551,Lane.jungle,Role.none
+4,db Break,Orianna,True,Side.blue,2,0,8,10.0,226,Flash,Ghost,16,False,12238,10100,Rylai's Crystal Scepter,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Blasting Wand,Needlessly Large Rod,135667,19655,Lane.mid_lane,Role.solo
+5,I Serenity I,Vayne,False,Side.red,4,6,3,1.1666666666666667,219,Flash,Heal,13,False,10949,12635,Recurve Bow,Bilgewater Cutlass,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,0,104236,Lane.bot_lane,Role.carry
+6,Swkeeee,Zyra,False,Side.red,0,3,6,2.0,35,Exhaust,Flash,12,False,8263,7860,Eye of the Watchers,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,Ruby Crystal,,39961,4397,Lane.bot_lane,Role.support
+7,Myloo,Poppy,False,Side.red,0,4,3,0.75,220,Flash,Teleport,15,False,9734,9400,Ninja Tabi,Randuin's Omen,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Kindlegem,42578,79014,Lane.top_lane,Role.solo
+8,AllAero,Ryze,False,Side.red,1,1,3,4.0,240,Flash,Ghost,14,False,10095,9750,Seraph's Embrace,Refillable Potion,Abyssal Scepter,Ionian Boots of Lucidity,Rod of Ages,,158555,8193,Lane.mid_lane,Role.solo
+9,Dexima,Lee Sin,False,Side.red,3,4,3,1.5,161,Flash,Smite,14,False,9955,9250,Hexdrinker,Enchantment: Warrior,The Black Cleaver,Boots of Mobility,Caulfield's Warhammer,,30560,108606,Lane.jungle,Role.none

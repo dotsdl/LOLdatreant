@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Muzy,Karma,True,Side.blue,3,2,7,5.0,140,Flash,Teleport,12,False,8598,7725,Doran's Ring,Morellonomicon,Rabadon's Deathcap,,Boots of Speed,,60383,15469,Lane.mid_lane,Role.solo
+1,Contractz,Bard,True,Side.blue,2,0,11,13.0,2,Ignite,Flash,11,False,6868,5720,Locket of the Iron Solari,Sightstone,Boots of Mobility,Spellthief's Edge,Cloth Armor,Negatron Cloak,9815,5307,Lane.bot_lane,Role.support
+2,5tunt,Darius,True,Side.blue,4,2,4,4.0,161,Teleport,Ghost,13,False,9015,8425,Doran's Blade,The Black Cleaver,Dead Man's Plate,Kindlegem,Boots of Swiftness,,401,94366,Lane.top_lane,Role.solo
+3,Jynthe,Sivir,True,Side.blue,5,2,5,5.0,141,Flash,Heal,11,False,9314,7350,Doran's Blade,Berserker's Greaves,Essence Reaver,Cull,Zeal,Dagger,0,80603,Lane.bot_lane,Role.carry
+4,OveroVerovEroveR,Graves,True,Side.blue,9,0,4,13.0,147,Flash,Smite,14,True,11862,7500,Maw of Malmortius,Refillable Potion,Berserker's Greaves,Dagger,,Enchantment: Warrior,3430,143678,Lane.jungle,Role.none
+5,FSU Dream,Miss Fortune,False,Side.red,1,3,2,1.0,111,Heal,Flash,10,False,5903,4550,Essence Reaver,,,,Boots of Speed,Doran's Blade,4462,39729,Lane.bot_lane,Role.carry
+6,FSU Cantine,Nami,False,Side.red,1,3,3,1.3333333333333333,1,Exhaust,Flash,9,False,5047,4600,Eye of the Watchers,Forbidden Idol,Boots of Speed,Control Ward,Crystalline Bracer,,4777,2709,Lane.bot_lane,Role.support
+7,DzAster,Diana,False,Side.red,2,7,1,0.42857142857142855,160,Flash,Teleport,12,False,7023,6585,Doran's Ring,Nashor's Tooth,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,Sheen,74058,15813,Lane.top_lane,Role.solo
+8,Dank Matter,Lee Sin,False,Side.red,2,7,2,0.5714285714285714,84,Flash,Smite,11,False,5894,5300,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Long Sword,Chain Vest,Ruby Crystal,10743,46758,Lane.jungle,Role.none
+9,Eddy tha God,Xerath,False,Side.red,0,3,4,1.3333333333333333,130,Ghost,Flash,11,False,6003,5100,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,Doran's Ring,,65372,7532,Lane.mid_lane,Role.solo

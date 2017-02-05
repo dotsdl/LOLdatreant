@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Washing Dishes,Riven,False,Side.blue,3,3,0,1.0,147,Teleport,Flash,11,False,6747,6475,Tiamat,The Black Cleaver,Doran's Blade,Ionian Boots of Lucidity,Doran's Blade,,0,72915,Lane.top_lane,Role.solo
+1,Quaal,Gangplank,False,Side.blue,1,4,1,0.5,132,Flash,Teleport,11,False,6926,6508,Trinity Force,Refillable Potion,Ionian Boots of Lucidity,Long Sword,B. F. Sword,,6549,82747,Lane.mid_lane,Role.solo
+2,ókay,Thresh,False,Side.blue,0,4,3,0.75,17,Ignite,Flash,8,False,4157,3475,Relic Shield,Refillable Potion,Sightstone,Boots of Mobility,Ruby Crystal,Control Ward,4856,2912,Lane.jungle,Role.none
+3,coolkiller88,Twitch,False,Side.blue,0,14,0,0.0,48,Heal,Flash,8,False,4032,3400,Doran's Blade,Bilgewater Cutlass,Recurve Bow,Total Biscuit of Rejuvenation,,Boots of Speed,75,14832,Lane.bot_lane,Role.solo
+4,Ninjacrab,Zac,False,Side.blue,2,3,1,1.0,75,Flash,Smite,10,False,5679,5275,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spectre's Cowl,Ruby Crystal,,44861,14583,Lane.jungle,Role.none
+5,C9 Smoothie,Bard,True,Side.red,2,0,15,17.0,4,Flash,Exhaust,10,False,6498,6125,,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,,,9848,5333,Lane.bot_lane,Role.support
+6,Cris,Poppy,True,Side.red,6,3,3,3.0,125,Flash,Teleport,12,False,7868,7575,Corrupting Potion,Cloth Armor,,Iceborn Gauntlet,Sunfire Cape,Ninja Tabi,21125,46725,Lane.top_lane,Role.solo
+7,Saradax,Elise,True,Side.red,5,1,4,9.0,91,Smite,Flash,11,False,7315,6560,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,Giant's Belt,57578,23583,Lane.jungle,Role.none
+8,C9 Sneaky,Ezreal,True,Side.red,12,1,7,19.0,175,Flash,Heal,12,True,10460,9475,Blade of the Ruined King,Manamune,Iceborn Gauntlet,Doran's Blade,Boots of Speed,Control Ward,14445,103499,Lane.bot_lane,Role.carry
+9,Projekt Yasuo,Kassadin,True,Side.red,3,1,6,9.0,104,Flash,Exhaust,11,False,7027,6575,Ionian Boots of Lucidity,Aether Wisp,The Dark Seal,Rod of Ages,Sheen,Corrupting Potion,36220,13385,Lane.mid_lane,Role.solo

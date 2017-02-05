@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SUPERJEREMYx07x,Zyra,False,Side.blue,1,3,8,3.0,21,Flash,Exhaust,11,False,7506,7025,Eye of the Watchers,Total Biscuit of Rejuvenation,Morellonomicon,Ionian Boots of Lucidity,,,19948,5240,Lane.bot_lane,Role.support
+1,Her BBQ,Kennen,False,Side.blue,3,6,4,1.1666666666666667,154,Heal,Flash,11,False,9194,8650,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Brawler's Gloves,Dagger,16454,63280,Lane.bot_lane,Role.carry
+2,Bukkake Tsunami,Ahri,False,Side.blue,5,4,1,1.5,213,Ignite,Flash,14,False,10637,10600,Rylai's Crystal Scepter,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,,,66589,16663,Lane.mid_lane,Role.solo
+3,Cloud Born,Fiora,False,Side.blue,9,5,5,2.8,206,Teleport,Flash,16,False,12765,12325,Ravenous Hydra,Doran's Blade,Mercury's Treads,Mercurial Scimitar,The Black Cleaver,,1826,131101,Lane.top_lane,Role.solo
+4,love my pup,Lee Sin,False,Side.blue,3,6,8,1.8333333333333333,112,Flash,Smite,13,True,9173,8675,Enchantment: Warrior,Hexdrinker,Cloth Armor,The Black Cleaver,,Boots of Mobility,20807,93516,Lane.jungle,Role.none
+5,KarasMai,Karma,True,Side.red,0,2,17,8.5,22,Flash,Ignite,13,False,8453,7200,Aegis of the Legion,Redemption,Total Biscuit of Rejuvenation,Eye of the Watchers,Ruby Crystal,Ionian Boots of Lucidity,16628,4384,Lane.bot_lane,Role.support
+6,3456,Katarina,True,Side.red,9,4,8,4.25,155,Teleport,Flash,15,False,11123,9800,The Dark Seal,Sorcerer's Shoes,Haunting Guise,Luden's Echo,Rylai's Crystal Scepter,,96913,3889,Lane.mid_lane,Role.solo
+7,Xii Yang Yang,Yasuo,True,Side.red,1,7,4,0.7142857142857143,186,Flash,Exhaust,14,False,9343,8275,Refillable Potion,Frozen Mallet,Phantom Dancer,Chain Vest,Berserker's Greaves,Doran's Blade,25695,75185,Lane.top_lane,Role.solo
+8,feed l0rd,Jinx,True,Side.red,11,5,8,3.8,260,Flash,Heal,15,False,14227,12400,B. F. Sword,Berserker's Greaves,Doran's Blade,Phantom Dancer,Runaan's Hurricane,Infinity Edge,715,166537,Lane.bot_lane,Role.carry
+9,Sick Tilted Duck,Rammus,True,Side.red,3,3,10,4.333333333333333,77,Flash,Smite,13,False,9015,8280,Enchantment: Cinderhulk,Ninja Tabi,Thornmail,Negatron Cloak,Fiendish Codex,Amplifying Tome,39904,25661,Lane.jungle,Role.none

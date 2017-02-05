@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cardiac Kid,Vayne,False,Side.blue,0,0,0,0.0,11,Flash,Heal,2,False,862,500,,,Health Potion,,,Doran's Blade,0,2589,Lane.bot_lane,Role.duo
+1,Honjou Nia,Janna,False,Side.blue,0,1,0,0.0,0,Exhaust,Flash,2,False,730,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,54,323,Lane.bot_lane,Role.duo
+2,Durian Lie,Lee Sin,False,Side.blue,0,0,0,0.0,18,Flash,Smite,3,False,1097,500,Hunter's Machete,Refillable Potion,,,,,877,7554,Lane.jungle,Role.none
+3,KrulciferEinfolk,Riven,False,Side.blue,0,1,0,0.0,6,Exhaust,Flash,2,False,774,500,Long Sword,Total Biscuit of Rejuvenation,,,,,46,1811,Lane.top_lane,Role.solo
+4,Dhokla,Orianna,False,Side.blue,0,0,0,0.0,0,Flash,Ghost,1,False,657,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+5,stmgod,Darius,True,Side.red,1,0,0,1.0,11,Ghost,Flash,3,False,1187,500,Doran's Shield,,Health Potion,,,,0,2682,Lane.top_lane,Role.solo
+6,A Fking God,Jinx,True,Side.red,1,0,0,1.0,16,Heal,Flash,2,True,1384,500,Doran's Blade,,,Health Potion,,,0,4122,Lane.bot_lane,Role.duo
+7,Vr1,Rek'Sai,True,Side.red,0,0,0,0.0,11,Flash,Smite,3,False,1055,500,Hunter's Machete,Refillable Potion,,,,,742,8160,Lane.jungle,Role.none
+8,xHarambe,Brand,True,Side.red,0,0,1,1.0,0,Ignite,Flash,2,False,910,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,834,413,Lane.bot_lane,Role.duo
+9,King Cobra,Cassiopeia,True,Side.red,0,0,0,0.0,19,Flash,Ghost,3,False,1035,500,Doran's Ring,Health Potion,,,,,2938,2009,Lane.mid_lane,Role.solo

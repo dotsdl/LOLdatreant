@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,goompa,Ezreal,False,Side.blue,0,0,1,1.0,12,Heal,Flash,2,False,1057,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,111,4257,Lane.bot_lane,Role.duo
+1,KINKY LORD,Graves,False,Side.blue,0,0,0,0.0,14,Smite,Flash,4,False,1013,500,Refillable Potion,Hunter's Machete,,,,,277,6064,Lane.mid_lane,Role.duo
+2,MeowKye,Annie,False,Side.blue,0,0,0,0.0,0,Ignite,Flash,1,False,648,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+3,JDaddyMelink,Fiora,False,Side.blue,0,0,0,0.0,6,Flash,Teleport,2,False,762,500,Doran's Blade,,,,,,0,1765,Lane.top_lane,Role.solo
+4,Requite,Thresh,False,Side.blue,1,0,0,1.0,2,Flash,Exhaust,2,True,1103,500,,,,,,Relic Shield,465,857,Lane.bot_lane,Role.duo
+5,thedanielpark,Yasuo,True,Side.red,0,0,0,0.0,16,Flash,Exhaust,3,False,969,500,Doran's Blade,Health Potion,,,,,966,4257,Lane.top_lane,Role.solo
+6,6îx,Vayne,True,Side.red,0,1,0,0.0,14,Heal,Flash,2,False,935,500,Total Biscuit of Rejuvenation,Doran's Blade,,,,,65,4077,Lane.bot_lane,Role.duo
+7,always4u,Ziggs,True,Side.red,0,0,0,0.0,13,Flash,Ghost,3,False,918,500,,Doran's Ring,,,,,3254,1731,Lane.mid_lane,Role.solo
+8,Rose TyIer,Nami,True,Side.red,0,0,0,0.0,0,Flash,Exhaust,2,False,750,500,Total Biscuit of Rejuvenation,Spellthief's Edge,,,,,353,650,Lane.bot_lane,Role.duo
+9,Legendary Brad,Shyvana,True,Side.red,0,0,0,0.0,17,Smite,Flash,3,False,1020,850,Hunter's Machete,Refillable Potion,Hunter's Talisman,,,,3124,3996,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Koby,Trundle,False,Side.blue,0,7,10,1.4285714285714286,134,Flash,Teleport,14,False,8358,7375,Corrupting Potion,Mercury's Treads,Spirit Visage,Dead Man's Plate,,,2838,55159,Lane.top_lane,Role.solo
+1,Drowning,Annie,False,Side.blue,5,5,1,1.2,202,Flash,Ignite,14,False,10381,10250,Control Ward,Rylai's Crystal Scepter,Rod of Ages,Abyssal Scepter,Ionian Boots of Lucidity,,99588,14422,Lane.mid_lane,Role.solo
+2,TQS Zuardian,Evelynn,False,Side.blue,12,5,4,3.2,217,Smite,Flash,16,True,14719,13325,Hextech Protobelt-01,Enchantment: Runic Echoes,Zhonya's Hourglass,Mercury's Treads,Lich Bane,The Dark Seal,171653,51754,Lane.jungle,Role.none
+3,QuackSquad,Ezreal,False,Side.blue,2,6,6,1.3333333333333333,180,Flash,Heal,14,False,9750,8700,Doran's Blade,Muramana,Last Whisper,Iceborn Gauntlet,Ionian Boots of Lucidity,Long Sword,21060,95101,Lane.bot_lane,Role.carry
+4,Lord luck,Janna,False,Side.blue,0,5,11,2.2,19,Flash,Exhaust,13,False,7420,6875,Ancient Coin,Control Ward,Redemption,Ruby Sightstone,Aegis of the Legion,Boots of Mobility,7808,4954,Lane.bot_lane,Role.support
+5,Brian The is,Kennen,True,Side.red,7,6,8,2.5,161,Teleport,Flash,15,False,12368,11925,Hextech Protobelt-01,Sorcerer's Shoes,Zhonya's Hourglass,Void Staff,Haunting Guise,Doran's Blade,93790,26123,Lane.top_lane,Role.solo
+6,TheFarooj,Caitlyn,True,Side.red,5,4,8,3.25,207,Flash,Heal,14,False,13198,12375,Doran's Blade,Berserker's Greaves,Infinity Edge,Rapid Firecannon,B. F. Sword,Runaan's Hurricane,1409,145214,Lane.bot_lane,Role.carry
+7,l For You l,Lee Sin,True,Side.red,11,1,5,16.0,171,Flash,Smite,16,False,14194,13925,Enchantment: Warrior,Guardian Angel,Boots of Mobility,Maw of Malmortius,Dead Man's Plate,Spectre's Cowl,42124,134883,Lane.jungle,Role.none
+8,Smartcloud,Maokai,True,Side.red,3,4,3,1.5,48,Flash,Exhaust,12,False,9215,8900,Control Ward,Knight's Vow,Eye of the Equinox,Locket of the Iron Solari,,Boots of Mobility,17688,9080,Lane.bot_lane,Role.support
+9,The Eggsalad,Vel'Koz,True,Side.red,2,4,7,2.25,179,Ghost,Flash,14,False,11273,10335,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Blasting Wand,Amplifying Tome,97385,10701,Lane.mid_lane,Role.solo

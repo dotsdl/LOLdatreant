@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GoSuPoTaTo,Janna,True,Side.blue,1,4,20,5.25,7,Flash,Exhaust,12,False,8651,8550,Talisman of Ascension,Sightstone,Ionian Boots of Lucidity,Redemption,Locket of the Iron Solari,,3007,4901,Lane.bot_lane,Role.support
+1,DHN Demons,Akali,True,Side.blue,6,5,3,1.8,125,Ignite,Flash,14,False,9322,8325,Sorcerer's Shoes,Hextech Gunblade,Zhonya's Hourglass,Ruby Crystal,,,25451,48328,Lane.mid_lane,Role.solo
+2,RockyTSaws,Kindred,True,Side.blue,9,4,9,4.5,117,Smite,Flash,13,True,11270,11260,Enchantment: Bloodrazor,Blade of the Ruined King,Phage,Runaan's Hurricane,Berserker's Greaves,,1921,126198,Lane.jungle,Role.none
+3,Pht,Jhin,True,Side.blue,13,5,4,3.4,144,Heal,Flash,14,False,12315,12425,Youmuu's Ghostblade,Duskblade of Draktharr,Rapid Firecannon,Mortal Reminder,,Boots of Speed,2097,109747,Lane.bot_lane,Role.carry
+4,i love eunha,Illaoi,True,Side.blue,6,1,5,11.0,190,Flash,Teleport,15,False,10949,11025,Death's Dance,,Sterak's Gage,The Black Cleaver,,Ninja Tabi,1316,132719,Lane.top_lane,Role.solo
+5,IWuvArielle4Ever,Kha'Zix,False,Side.red,8,6,2,1.6666666666666667,105,Flash,Smite,13,False,9460,8575,Youmuu's Ghostblade,Caulfield's Warhammer,Boots of Swiftness,Vampiric Scepter,,Enchantment: Warrior,1651,97268,Lane.jungle,Role.none
+6,Modx,Riven,False,Side.red,3,7,1,0.5714285714285714,217,Flash,Teleport,14,False,9548,9500,Refillable Potion,Ravenous Hydra,Jaurim's Fist,The Black Cleaver,Ionian Boots of Lucidity,Long Sword,0,112526,Lane.top_lane,Role.solo
+7,Leithal,Ekko,False,Side.red,5,8,3,1.0,122,Flash,Ignite,12,False,8216,7275,Corrupting Potion,Hextech Protobelt-01,Abyssal Scepter,The Dark Seal,Chain Vest,Boots of Speed,69674,12214,Lane.mid_lane,Role.solo
+8,Tzaphkiel,Lucian,False,Side.red,3,7,1,0.5714285714285714,141,Heal,Flash,11,False,7842,7600,Doran's Blade,Infinity Edge,Health Potion,Rapid Firecannon,Boots of Speed,Long Sword,3740,56808,Lane.bot_lane,Role.carry
+9,support or troll,Nami,False,Side.red,0,7,7,1.0,10,Ignite,Flash,10,False,6602,6000,Null-Magic Mantle,Frost Queen's Claim,Sightstone,Null-Magic Mantle,Ruby Crystal,Boots of Mobility,8632,4846,Lane.bot_lane,Role.support

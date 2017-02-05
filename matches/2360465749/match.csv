@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ablazeolive,Katarina,False,Side.blue,7,10,5,1.2,173,Flash,Ignite,14,False,10977,10260,Boots of Speed,Sunfire Cape,Void Staff,Amplifying Tome,,Hextech Gunblade,89953,13478,Lane.mid_lane,Role.solo
+1,EnVy LOD,Ezreal,False,Side.blue,4,7,7,1.5714285714285714,198,Flash,Heal,13,False,11065,10175,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,,13905,95691,Lane.bot_lane,Role.carry
+2,Kled Gosu,Kha'Zix,False,Side.blue,6,5,5,2.2,141,Smite,Flash,14,False,11215,10750,Enchantment: Warrior,Refillable Potion,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Chain Vest,4841,133935,Lane.jungle,Role.none
+3,Dystrex,Darius,False,Side.blue,12,7,4,2.2857142857142856,220,Teleport,Flash,15,False,13645,13450,The Black Cleaver,Randuin's Omen,Boots of Swiftness,Dead Man's Plate,Zz'Rot Portal,Kindlegem,450,121209,Lane.top_lane,Role.solo
+4,cute pupper irl,Leona,False,Side.blue,1,12,6,0.5833333333333334,39,Flash,Ignite,10,False,7806,7575,Targon's Brace,Ruby Sightstone,Ninja Tabi,Locket of the Iron Solari,Control Ward,Ruby Crystal,3107,6441,Lane.bot_lane,Role.support
+5,urwong,Malphite,True,Side.red,1,8,20,2.625,146,Teleport,Flash,15,False,10378,9250,Sunfire Cape,Zz'Rot Portal,Corrupting Potion,Ninja Tabi,Sheen,Glacial Shroud,48004,28482,Lane.top_lane,Role.solo
+6,Carrots2,Yasuo,True,Side.red,10,5,9,3.8,317,Flash,Exhaust,18,False,16768,13400,B. F. Sword,Phantom Dancer,Berserker's Greaves,Frozen Mallet,The Bloodthirster,Cloak of Agility,44349,206730,Lane.mid_lane,Role.solo
+7,C9 Lemon,Morgana,True,Side.red,3,4,27,7.5,23,Ignite,Flash,14,False,11741,9560,Ionian Boots of Lucidity,Locket of the Iron Solari,Redemption,Eye of the Watchers,Glacial Shroud,Amplifying Tome,24901,9000,Lane.bot_lane,Role.support
+8,CloudNguyén,Lee Sin,True,Side.red,11,7,19,4.285714285714286,142,Smite,Flash,16,False,13791,11895,Enchantment: Warrior,Tiamat,Maw of Malmortius,Boots of Swiftness,Dead Man's Plate,Negatron Cloak,24470,114164,Lane.jungle,Role.none
+9,Pond,Vayne,True,Side.red,16,6,11,4.5,227,Heal,Flash,15,True,15856,11950,Berserker's Greaves,Infinity Edge,Hexdrinker,Statikk Shiv,Doran's Blade,Phantom Dancer,32803,116363,Lane.bot_lane,Role.carry

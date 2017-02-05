@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Asyc xD ,Blitzcrank,False,Side.blue,2,9,6,0.8888888888888888,33,Ignite,Flash,11,False,7456,6225,Targon's Brace,Sightstone,Redemption,Boots of Mobility,Control Ward,Aegis of the Legion,7915,5017,Lane.bot_lane,Role.support
+1,Firé,Ezreal,False,Side.blue,3,10,10,1.3,161,Heal,Flash,13,False,10102,9800,Berserker's Greaves,Muramana,Iceborn Gauntlet,Doran's Blade,Phage,Vampiric Scepter,13682,72590,Lane.bot_lane,Role.carry
+2,Happy Birfdizzay,Singed,False,Side.blue,6,8,6,1.5,255,Ghost,Teleport,16,True,12302,12200,Seraph's Embrace,Rod of Ages,Rylai's Crystal Scepter,Ninja Tabi,Haunting Guise,,162949,1711,Lane.top_lane,Role.solo
+3,Xzevz,Lee Sin,False,Side.blue,11,5,9,4.0,146,Smite,Flash,14,False,12002,11475,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Cloth Armor,Enchantment: Warrior,Hexdrinker,25160,111087,Lane.jungle,Role.none
+4,Kic,Twisted Fate,False,Side.blue,7,5,8,3.0,137,Flash,Ghost,14,False,11095,10925,Lich Bane,Ionian Boots of Lucidity,Zhonya's Hourglass,The Dark Seal,Rod of Ages,,92169,12545,Lane.mid_lane,Role.solo
+5,RexRequired,Shaco,True,Side.red,14,5,10,4.8,133,Smite,Ignite,16,False,14983,13035,Titanic Hydra,Boots of Mobility,Hextech Gunblade,Enchantment: Warrior,B. F. Sword,Serrated Dirk,36378,119398,Lane.jungle,Role.none
+6,Cat Person,Karma,True,Side.red,2,4,24,6.5,27,Flash,Heal,14,False,11492,10025,Redemption,Locket of the Iron Solari,Frost Queen's Claim,Ruby Sightstone,Control Ward,Boots of Mobility,23952,4847,Lane.bot_lane,Role.support
+7,Falco Mechanic,Caitlyn,True,Side.red,9,6,8,2.8333333333333335,210,Exhaust,Flash,14,False,14165,12350,Mercurial Scimitar,Infinity Edge,Doran's Blade,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,512,172820,Lane.bot_lane,Role.carry
+8,Carrots2,Viktor,True,Side.red,7,6,5,2.0,218,Flash,Cleanse,16,False,13395,12560,Perfect Hex Core,Rylai's Crystal Scepter,Luden's Echo,Doran's Ring,Ionian Boots of Lucidity,Blasting Wand,146669,14271,Lane.mid_lane,Role.solo
+9,Tsui Wah ,Maokai,True,Side.red,4,8,10,1.75,185,Flash,Teleport,15,False,11965,10425,Spirit Visage,Corrupting Potion,Mercury's Treads,The Dark Seal,Rod of Ages,Sunfire Cape,107107,19036,Lane.top_lane,Role.solo

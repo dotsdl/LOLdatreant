@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,2017,Amumu,True,Side.blue,3,11,9,1.0909090909090908,89,Flash,Smite,14,False,10060,9620,Enchantment: Cinderhulk,Boots of Mobility,Refillable Potion,Frozen Heart,Banshee's Veil,Negatron Cloak,63169,18292,Lane.jungle,Role.none
+1,bvcx222,Nasus,True,Side.blue,9,6,6,2.5,218,Flash,Teleport,16,False,13961,11583,Sterak's Gage,Zz'Rot Portal,Doran's Ring,Doran's Ring,Trinity Force,Ninja Tabi,87005,57036,Lane.top_lane,Role.solo
+2,I Want My Cigar,Graves,True,Side.blue,7,5,11,3.6,237,Flash,Exhaust,15,False,13434,11750,Doran's Blade,Essence Reaver,Phantom Dancer,Berserker's Greaves,Infinity Edge,Control Ward,434,154495,Lane.bot_lane,Role.carry
+3,Biscuit Crusader,Twisted Fate,True,Side.blue,8,6,10,3.0,188,Flash,Ghost,16,False,13490,13000,Abyssal Scepter,Rod of Ages,Lich Bane,Ionian Boots of Lucidity,Void Staff,,109357,12720,Lane.mid_lane,Role.solo
+4,Lucidity,Thresh,True,Side.blue,8,4,17,6.25,38,Flash,Ignite,14,False,11390,9625,Face of the Mountain,Ruby Sightstone,Locket of the Iron Solari,Redemption,Control Ward,Boots of Mobility,14155,5792,Lane.bot_lane,Role.support
+5,MIXTAPE RELEASE,Nami,False,Side.red,3,6,8,1.8333333333333333,14,Flash,Exhaust,13,False,9384,8800,Ionian Boots of Lucidity,Eye of the Watchers,Zeke's Harbinger,Redemption,Spectre's Cowl,,12443,6202,Lane.bot_lane,Role.support
+6,Klawbro,Caitlyn,False,Side.red,3,7,4,1.0,247,Flash,Heal,15,False,13473,12475,Lord Dominik's Regards,B. F. Sword,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,3300,195045,Lane.bot_lane,Role.carry
+7,Adrian Riven,Riven,False,Side.red,7,10,2,0.9,141,Teleport,Flash,13,False,10712,8550,The Black Cleaver,Tiamat,Boots of Swiftness,Lord Dominik's Regards,Refillable Potion,Long Sword,272,80787,Lane.top_lane,Role.solo
+8,Sebi,Cassiopeia,False,Side.red,9,8,6,1.875,205,Flash,Cleanse,16,False,13349,12075,Doran's Ring,Morellonomicon,Seraph's Embrace,Abyssal Scepter,Void Staff,,123885,10757,Lane.mid_lane,Role.solo
+9,skyWtr,Elise,False,Side.red,9,4,10,4.75,189,Smite,Flash,16,True,14092,14470,Negatron Cloak,Hextech Protobelt-01,Liandry's Torment,Rylai's Crystal Scepter,Sorcerer's Shoes,Enchantment: Runic Echoes,150047,36051,Lane.jungle,Role.none

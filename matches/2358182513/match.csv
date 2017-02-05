@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,retarded virgin,Rengar,True,Side.blue,8,0,5,13.0,141,Flash,Smite,13,False,10427,8675,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Null-Magic Mantle,Caulfield's Warhammer,13654,103374,Lane.jungle,Role.none
+1,Drutagan,Ezreal,True,Side.blue,3,2,12,7.5,133,Flash,Heal,12,False,8891,7000,Doran's Blade,Refillable Potion,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,Long Sword,15219,63537,Lane.bot_lane,Role.carry
+2,HvK LiquidDiego,Kennen,True,Side.blue,5,1,6,11.0,127,Flash,Teleport,12,False,8558,8675,Needlessly Large Rod,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,,,33689,24264,Lane.top_lane,Role.solo
+3,Part The Sea,Yasuo,True,Side.blue,12,3,3,5.0,161,Flash,Exhaust,14,True,10731,8950,Refillable Potion,Infinity Edge,Mercury's Treads,Phantom Dancer,Doran's Blade,Vampiric Scepter,20215,97445,Lane.mid_lane,Role.solo
+4,Dirty Dps,Shaco,True,Side.blue,5,6,13,3.0,16,Exhaust,Ignite,10,False,7397,5735,Ionian Boots of Lucidity,Talisman of Ascension,Sightstone,Lost Chapter,Amplifying Tome,,15717,2395,Lane.bot_lane,Role.support
+5,Kurumz,Twisted Fate,False,Side.red,3,5,0,0.6,136,Ghost,Flash,11,False,7206,7175,Doran's Ring,Rod of Ages,Zhonya's Hourglass,,Ionian Boots of Lucidity,,55127,7676,Lane.mid_lane,Role.solo
+6,Pornstar Hecarim,Sejuani,False,Side.red,2,4,2,1.0,82,Smite,Flash,11,False,5831,5400,Enchantment: Cinderhulk,Refillable Potion,Control Ward,Ninja Tabi,Giant's Belt,Cloth Armor,47231,16354,Lane.jungle,Role.none
+7,HelanderJax,Brand,False,Side.red,3,7,4,1.0,17,Flash,Exhaust,9,False,5739,5850,Control Ward,Sightstone,,Rylai's Crystal Scepter,,Boots of Speed,19167,1653,Lane.bot_lane,Role.support
+8,DrunkCatalyst,Gangplank,False,Side.red,1,7,2,0.42857142857142855,75,Flash,Teleport,10,False,5345,4758,Corrupting Potion,Trinity Force,,,Boots of Speed,,7370,37076,Lane.top_lane,Role.solo
+9,AsianSGpøtatø,Vayne,False,Side.red,3,10,3,0.6,114,Flash,Heal,10,False,6528,5500,Doran's Blade,Blade of the Ruined King,Dagger,Berserker's Greaves,,,184,47297,Lane.bot_lane,Role.carry

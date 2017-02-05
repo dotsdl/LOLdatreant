@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Budded,Vel'Koz,True,Side.blue,4,4,18,5.5,47,Exhaust,Flash,14,False,11191,8975,Aether Wisp,Eye of the Watchers,,Sorcerer's Shoes,Liandry's Torment,Needlessly Large Rod,43916,8125,Lane.bot_lane,Role.support
+1,IKingVex,Caitlyn,True,Side.blue,14,5,8,4.4,154,Heal,Flash,15,False,13966,11950,Doran's Blade,Runaan's Hurricane,Rapid Firecannon,B. F. Sword,Berserker's Greaves,Infinity Edge,1205,125861,Lane.bot_lane,Role.carry
+2,Féarless,Rengar,True,Side.blue,8,4,8,4.0,172,Smite,Flash,16,True,13099,12400,Ionian Boots of Lucidity,Infinity Edge,Enchantment: Warrior,Duskblade of Draktharr,Long Sword,Sheen,16635,145283,Lane.jungle,Role.none
+3,EnVy Nien,Syndra,True,Side.blue,9,3,5,4.666666666666667,202,Flash,Barrier,15,False,12541,10500,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Void Staff,Abyssal Scepter,112356,11199,Lane.mid_lane,Role.solo
+4,Azed,Riven,True,Side.blue,2,7,5,1.0,145,Flash,Teleport,13,False,9476,7950,The Black Cleaver,Refillable Potion,Death's Dance,,Ionian Boots of Lucidity,,0,86050,Lane.top_lane,Role.solo
+5,Rapidx,Kalista,False,Side.red,5,9,2,0.7777777777777778,191,Flash,Heal,13,False,9414,8625,Blade of the Ruined King,Doran's Blade,Runaan's Hurricane,Pickaxe,,Berserker's Greaves,394,97996,Lane.bot_lane,Role.carry
+6,ExecutionerKen,Bard,False,Side.red,0,9,9,1.0,4,Flash,Ignite,10,False,6530,6150,Redemption,Refillable Potion,Eye of the Watchers,Control Ward,Boots of Mobility,,7468,2313,Lane.bot_lane,Role.support
+7,bobqinXD,LeBlanc,False,Side.red,9,6,2,1.8333333333333333,155,Flash,Ignite,14,False,10134,9075,Abyssal Scepter,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Doran's Ring,83728,7601,Lane.jungle,Role.none
+8,WT Spectator,Lee Sin,False,Side.red,3,6,3,1.0,150,Flash,Smite,14,False,9088,8175,Dead Man's Plate,Refillable Potion,Mercury's Treads,Enchantment: Warrior,Phage,,18766,89469,Lane.jungle,Role.none
+9,TuxedoDonut,Maokai,False,Side.red,5,7,5,1.4285714285714286,134,Teleport,Flash,14,False,8646,7650,Ninja Tabi,Refillable Potion,Rod of Ages,Doran's Ring,Spirit Visage,Ruby Crystal,65825,15290,Lane.top_lane,Role.solo

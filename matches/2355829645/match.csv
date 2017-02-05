@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GordanRamsey,Evelynn,True,Side.blue,10,1,14,24.0,144,Smite,Flash,14,False,11364,10025,Enchantment: Runic Echoes,Mejai's Soulstealer,Sorcerer's Shoes,Giant's Belt,Hextech Protobelt-01,Needlessly Large Rod,102146,32439,Lane.jungle,Role.none
+1,Cotopaco Parce,Varus,True,Side.blue,7,5,10,3.4,177,Ghost,Flash,14,False,10333,10100,Manamune,Maw of Malmortius,Corrupting Potion,Ionian Boots of Lucidity,Youmuu's Ghostblade,Control Ward,6152,95916,Lane.mid_lane,Role.solo
+2,huppe fking 1,Ezreal,True,Side.blue,7,3,10,5.666666666666667,182,Heal,Flash,13,False,11163,8383,Muramana,Trinity Force,Ionian Boots of Lucidity,Long Sword,Doran's Blade,Long Sword,12668,90829,Lane.bot_lane,Role.carry
+3,Betabet,Jayce,True,Side.blue,4,6,16,3.3333333333333335,151,Flash,Teleport,14,False,9447,7825,Ionian Boots of Lucidity,Youmuu's Ghostblade,Doran's Blade,The Black Cleaver,Long Sword,,11237,76196,Lane.top_lane,Role.solo
+4,Pumpfake,Veigar,True,Side.blue,5,1,13,18.0,43,Exhaust,Flash,13,False,8921,6325,Ruby Sightstone,Talisman of Ascension,Refillable Potion,Boots of Mobility,Control Ward,Fiendish Codex,22054,6239,Lane.bot_lane,Role.support
+5,BabièThug,Lee Sin,False,Side.red,5,10,4,0.9,112,Flash,Smite,12,True,8601,7550,Cloth Armor,Giant's Belt,Tiamat,Hexdrinker,Enchantment: Cinderhulk,Boots of Mobility,19421,74163,Lane.jungle,Role.none
+6,Henchey,Twitch,False,Side.red,4,8,4,1.0,132,Heal,Flash,11,False,8227,8025,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,0,53757,Lane.bot_lane,Role.carry
+7,KimxYura,Thresh,False,Side.red,0,7,5,0.7142857142857143,28,Ignite,Flash,11,False,5842,5000,Sightstone,Crystalline Bracer,Boots of Mobility,Cloth Armor,Targon's Brace,Crystalline Bracer,9271,6600,Lane.bot_lane,Role.support
+8,Irelia Carries U,Irelia,False,Side.red,5,4,2,1.75,200,Teleport,Flash,14,False,10059,9883,Corrupting Potion,Randuin's Omen,Trinity Force,Ninja Tabi,Doran's Blade,Spectre's Cowl,3592,78029,Lane.top_lane,Role.solo
+9,MindCalm,Cassiopeia,False,Side.red,2,4,3,1.25,198,Flash,Ghost,13,False,8982,7975,Seraph's Embrace,Refillable Potion,Control Ward,Rylai's Crystal Scepter,Blasting Wand,,87519,9711,Lane.mid_lane,Role.solo

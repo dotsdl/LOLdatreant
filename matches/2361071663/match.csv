@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheDankWithinUs,Cassiopeia,False,Side.blue,5,12,4,0.75,274,Flash,Ghost,16,False,13783,13285,Rylai's Crystal Scepter,Tear of the Goddess,Void Staff,Rod of Ages,Amplifying Tome,Morellonomicon,153506,10125,Lane.mid_lane,Role.solo
+1,4911,Shyvana,False,Side.blue,17,8,3,2.5,178,Smite,Flash,16,False,15016,14483,Enchantment: Bloodrazor,Randuin's Omen,Boots of Swiftness,,Trinity Force,Frozen Mallet,91095,77060,Lane.jungle,Role.none
+2,JayEaZy,Shen,False,Side.blue,4,3,16,6.666666666666667,256,Flash,Teleport,16,False,12854,11850,Kindlegem,Zz'Rot Portal,Sunfire Cape,Mercury's Treads,Spirit Visage,Giant's Belt,61952,29519,Lane.top_lane,Role.solo
+3,quante,Caitlyn,False,Side.blue,4,5,15,3.8,193,Heal,Flash,15,False,12012,11925,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Quicksilver Sash,1485,134471,Lane.bot_lane,Role.carry
+4,Nwok,Taric,False,Side.blue,4,5,19,4.6,37,Flash,Exhaust,15,False,10477,9475,Face of the Mountain,Redemption,Locket of the Iron Solari,Ruby Sightstone,Boots of Swiftness,,16607,8923,Lane.bot_lane,Role.support
+5,Dexima,Lee Sin,True,Side.red,11,7,11,3.142857142857143,121,Flash,Smite,16,False,14545,14450,The Black Cleaver,Enchantment: Warrior,Dead Man's Plate,Boots of Mobility,Maw of Malmortius,Chain Vest,24995,127809,Lane.jungle,Role.none
+6,AchiIIes Heal,Ahri,True,Side.red,3,4,17,5.0,260,Flash,Ignite,18,False,14856,14475,Sorcerer's Shoes,Rabadon's Deathcap,Rylai's Crystal Scepter,Void Staff,Doran's Ring,Morellonomicon,114307,18946,Lane.mid_lane,Role.solo
+7,S3 Elise,Nami,True,Side.red,3,7,16,2.7142857142857144,39,Flash,Ignite,14,False,11790,10600,Frost Queen's Claim,Redemption,Ruby Sightstone,Morellonomicon,Boots of Mobility,Cloth Armor,16829,9579,Lane.bot_lane,Role.support
+8,MongolWarrior,Twitch,True,Side.red,12,8,9,2.625,237,Heal,Flash,17,True,16314,12725,Berserker's Greaves,Blade of the Ruined King,Doran's Blade,Runaan's Hurricane,Infinity Edge,Last Whisper,708,174706,Lane.bot_lane,Role.carry
+9,Extreme Person,Nasus,True,Side.red,4,8,5,1.125,322,Flash,Teleport,17,False,15226,13508,Zz'Rot Portal,,Trinity Force,Ninja Tabi,Spirit Visage,Last Whisper,100558,100486,Lane.top_lane,Role.solo

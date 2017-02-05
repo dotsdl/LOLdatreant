@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,D L A N O D,Ezreal,False,Side.blue,2,7,3,0.7142857142857143,189,Heal,Flash,13,False,9507,8683,Doran's Blade,Muramana,Trinity Force,Vampiric Scepter,,Ionian Boots of Lucidity,16573,91828,Lane.bot_lane,Role.carry
+1,Frank The Dank,Rek'Sai,False,Side.blue,3,7,3,0.8571428571428571,84,Smite,Flash,12,False,8644,8375,Mercury's Treads,Enchantment: Cinderhulk,Titanic Hydra,Warden's Mail,,,12275,76539,Lane.jungle,Role.none
+2,Drawing The Line,Nami,False,Side.blue,0,7,5,0.7142857142857143,14,Flash,Exhaust,11,False,6671,6050,,Redemption,,Eye of the Watchers,,Boots of Mobility,7111,2836,Lane.bot_lane,Role.support
+3,flonk the donk,Sion,False,Side.blue,2,5,3,1.0,189,Flash,Teleport,13,False,9176,8650,Sunfire Cape,Corrupting Potion,Spirit Visage,Mercury's Treads,Raptor Cloak,,74452,46797,Lane.top_lane,Role.solo
+4,wakefully,Yasuo,False,Side.blue,1,6,3,0.6666666666666666,215,Flash,Ignite,13,False,9265,8850,Doran's Blade,Pickaxe,Mercury's Treads,Phantom Dancer,Infinity Edge,,29654,87394,Lane.mid_lane,Role.solo
+5,Smartcloud,Maokai,True,Side.red,0,2,18,9.0,64,Flash,Ignite,12,False,8995,10945,,Frozen Heart,Eye of the Equinox,Cloth Armor,Boots of Mobility,Crystalline Bracer,29322,9203,Lane.bot_lane,Role.duo
+6,Garani,Lee Sin,True,Side.red,15,2,10,12.5,122,Smite,Flash,14,True,13682,12450,Randuin's Omen,Tiamat,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Giant's Belt,22230,107936,Lane.jungle,Role.none
+7,GodMeru,Nautilus,True,Side.red,3,0,18,21.0,167,Flash,Teleport,15,False,11060,10125,The Dark Seal,Iceborn Gauntlet,Sunfire Cape,Warden's Mail,Ninja Tabi,Giant's Belt,75570,27973,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,4,2,14,9.0,130,Flash,Heal,13,False,11142,9800,Infinity Edge,Last Whisper,Runaan's Hurricane,Berserker's Greaves,Cull,Doran's Blade,252,90592,Lane.bot_lane,Role.duo
+9,Program,Viktor,True,Side.red,10,2,8,9.0,229,Ghost,Flash,16,False,13840,11625,Perfect Hex Core,Refillable Potion,Sorcerer's Shoes,Doran's Ring,Lich Bane,Rylai's Crystal Scepter,156878,16154,Lane.mid_lane,Role.solo

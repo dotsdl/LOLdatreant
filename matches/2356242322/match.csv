@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,F33dMeKills,Zyra,True,Side.blue,6,10,6,1.2,134,Flash,Ghost,14,False,10977,10400,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Void Staff,,88596,11483,Lane.mid_lane,Role.solo
+1,foggedftw2,Tryndamere,True,Side.blue,7,1,2,9.0,283,Ignite,Flash,17,False,14826,13975,Infinity Edge,Blade of the Ruined King,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,,38541,193059,Lane.top_lane,Role.solo
+2,Gayzuo,Nidalee,True,Side.blue,7,5,8,3.0,139,Smite,Flash,15,False,12777,11275,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Iceborn Gauntlet,Seeker's Armguard,133879,21010,Lane.jungle,Role.none
+3,iBeebo,Taric,True,Side.blue,0,6,14,2.3333333333333335,41,Exhaust,Flash,12,False,8808,8425,Frozen Heart,Boots of Swiftness,Chain Vest,Giant's Belt,Eye of the Equinox,,9132,7694,Lane.bot_lane,Role.support
+4,Sìyou,Twitch,True,Side.blue,10,4,3,3.25,217,Flash,Heal,15,True,13832,12750,B. F. Sword,Vampiric Scepter,Infinity Edge,Phantom Dancer,Runaan's Hurricane,Berserker's Greaves,0,131122,Lane.bot_lane,Role.carry
+5,Necrobucher,Gangplank,False,Side.red,1,7,6,1.0,149,Flash,Teleport,13,False,8965,8408,Corrupting Potion,Ionian Boots of Lucidity,Trinity Force,B. F. Sword,Caulfield's Warhammer,Pickaxe,8942,91025,Lane.top_lane,Role.solo
+6,Pygwyn,Leona,False,Side.red,3,5,14,3.4,43,Ignite,Flash,13,False,8602,7625,Locket of the Iron Solari,Face of the Mountain,Ruby Sightstone,Boots of Mobility,Cloth Armor,,12419,8366,Lane.bot_lane,Role.support
+7,FIoopie,Caitlyn,False,Side.red,1,8,2,0.375,173,Flash,Heal,11,False,8352,7975,Doran's Blade,,,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,1135,73113,Lane.bot_lane,Role.carry
+8,Plann,Anivia,False,Side.red,4,7,12,2.2857142857142856,236,Flash,Teleport,16,False,11257,11225,Rod of Ages,Seraph's Embrace,Zz'Rot Portal,Boots of Swiftness,,,143420,8446,Lane.mid_lane,Role.solo
+9,KarasMai,Kha'Zix,False,Side.red,17,3,2,6.333333333333333,188,Flash,Smite,16,False,14559,12650,Enchantment: Warrior,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Lord Dominik's Regards,Serrated Dirk,7048,170099,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,thekilerone,Caitlyn,True,Side.blue,7,0,5,12.0,157,Heal,Flash,12,False,10568,8425,Doran's Blade,Health Potion,Cull,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,2025,102493,Lane.bot_lane,Role.carry
+1,Kleenn,Rammus,True,Side.blue,2,1,5,7.0,75,Flash,Smite,10,False,7004,5175,Enchantment: Cinderhulk,Boots of Mobility,Refillable Potion,Chain Vest,Cloth Armor,Ruby Crystal,34391,33804,Lane.jungle,Role.none
+2,singed420,Nasus,True,Side.blue,2,2,1,1.5,158,Flash,Teleport,13,False,8182,6533,Vampiric Scepter,Refillable Potion,Mercury's Treads,Cloth Armor,Trinity Force,Long Sword,9111,82771,Lane.top_lane,Role.solo
+3,Wo Xihuan Hanguo,Lulu,True,Side.blue,1,1,6,7.0,7,Flash,Exhaust,9,True,6109,5625,Frost Queen's Claim,Total Biscuit of Rejuvenation,Ruby Sightstone,Boots of Mobility,Crystalline Bracer,,5106,5766,Lane.bot_lane,Role.support
+4,Jabtyde,Orianna,True,Side.blue,9,0,3,12.0,154,Flash,Ignite,13,False,10636,9685,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Blasting Wand,Amplifying Tome,75090,13616,Lane.mid_lane,Role.solo
+5,A A D I L,Zac,False,Side.red,0,3,2,0.6666666666666666,63,Smite,Flash,10,False,4561,3800,Enchantment: Cinderhulk,Ionian Boots of Lucidity,,,,,34679,10558,Lane.jungle,Role.none
+6,12 JW 10 ,Fiora,False,Side.red,1,3,1,0.6666666666666666,126,Flash,Teleport,11,False,6157,6050,The Black Cleaver,Tiamat,Doran's Blade,Long Sword,Boots of Speed,,957,52722,Lane.top_lane,Role.solo
+7,II Master II,Lux,False,Side.red,1,6,3,0.6666666666666666,97,Flash,Ghost,10,False,5059,4485,Doran's Ring,Morellonomicon,Total Biscuit of Rejuvenation,Boots of Speed,Amplifying Tome,,34965,6798,Lane.mid_lane,Role.solo
+8,Voids,Braum,False,Side.red,0,4,2,0.5,22,Exhaust,Flash,8,False,3807,3575,Targon's Brace,Boots of Mobility,Control Ward,Sightstone,Crystalline Bracer,,3114,3538,Lane.bot_lane,Role.support
+9,KaneKi521,Lucian,False,Side.red,2,5,0,0.4,140,Flash,Heal,9,False,6079,5975,Essence Reaver,Dagger,,Doran's Blade,,Berserker's Greaves,1218,47140,Lane.bot_lane,Role.carry

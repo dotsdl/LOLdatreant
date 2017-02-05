@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aisonu,Poppy,False,Side.blue,4,7,9,1.8571428571428572,135,Flash,Smite,16,False,11333,11358,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Dead Man's Plate,Trinity Force,Control Ward,30263,108064,Lane.jungle,Role.none
+1,Laughter Bobo,Fizz,False,Side.blue,6,11,5,1.0,208,Teleport,Flash,16,False,12145,10950,Zhonya's Hourglass,Abyssal Scepter,Corrupting Potion,Ninja Tabi,Lich Bane,Doran's Ring,84663,30374,Lane.top_lane,Role.solo
+2,Snowspire,Ezreal,False,Side.blue,5,5,9,2.8,179,Heal,Flash,15,False,11611,10800,Doran's Blade,Blade of the Ruined King,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,,21222,107220,Lane.bot_lane,Role.carry
+3,PositivePat,Riven,False,Side.blue,7,8,0,0.875,262,Teleport,Flash,16,False,13642,13225,Ravenous Hydra,The Black Cleaver,,Ionian Boots of Lucidity,Last Whisper,The Bloodthirster,0,186438,Lane.mid_lane,Role.solo
+4,Rìot Faker,Soraka,False,Side.blue,0,6,10,1.6666666666666667,12,Flash,Exhaust,13,False,7965,7100,Nomad's Medallion,Redemption,Ruby Sightstone,Kindlegem,Ionian Boots of Lucidity,Ruby Crystal,6670,2486,Lane.bot_lane,Role.support
+5,Marty726,Vladimir,True,Side.red,4,5,11,3.0,213,Ghost,Flash,16,False,13052,10200,Doran's Shield,Hextech Protobelt-01,Ionian Boots of Lucidity,Zhonya's Hourglass,Rylai's Crystal Scepter,,122166,11260,Lane.mid_lane,Role.solo
+6,WaterOcean,Blitzcrank,True,Side.red,3,5,19,4.4,36,Flash,Ignite,14,False,10384,10200,Face of the Mountain,Frozen Heart,Sightstone,Control Ward,Boots of Mobility,Knight's Vow,15231,8734,Lane.bot_lane,Role.support
+7,HaksaL,Caitlyn,True,Side.red,9,6,8,2.8333333333333335,219,Heal,Flash,15,True,13660,12950,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,The Bloodthirster,Zeal,408,150877,Lane.bot_lane,Role.carry
+8,WatchThePower,Rengar,True,Side.red,10,1,12,22.0,288,Flash,Smite,18,False,16878,15625,Enchantment: Warrior,Ravenous Hydra,Ninja Tabi,Spirit Visage,Death's Dance,B. F. Sword,33067,249392,Lane.jungle,Role.none
+9,Dyr0nejk2,Renekton,True,Side.red,10,5,12,4.4,263,Teleport,Flash,18,False,16217,13025,Titanic Hydra,Death's Dance,Hexdrinker,Mercury's Treads,The Black Cleaver,Cloth Armor,9762,180165,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwitchChunkylol,Soraka,True,Side.blue,1,2,24,12.5,11,Exhaust,Flash,12,False,8412,6875,Redemption,Talisman of Ascension,Sightstone,Boots of Mobility,Null-Magic Mantle,,5139,3998,Lane.bot_lane,Role.support
+1,MyTimeIsNow,Orianna,True,Side.blue,11,5,12,4.6,154,Cleanse,Flash,14,False,12110,8525,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,Control Ward,109955,13469,Lane.mid_lane,Role.solo
+2,yltfed,Ezreal,True,Side.blue,11,2,7,9.0,158,Flash,Heal,12,True,12639,12158,Mercurial Scimitar,Manamune,Trinity Force,Pickaxe,Doran's Blade,Ionian Boots of Lucidity,9971,82304,Lane.bot_lane,Role.carry
+3,Dhokla,Yasuo,True,Side.blue,4,6,1,0.8333333333333334,217,Flash,Teleport,14,False,10806,8825,,Ruby Crystal,Phantom Dancer,Doran's Blade,Ninja Tabi,Doran's Blade,23006,126056,Lane.top_lane,Role.solo
+4,Grigne,Rek'Sai,True,Side.blue,6,1,13,19.0,164,Flash,Smite,15,False,11251,8450,Enchantment: Cinderhulk,Giant's Belt,Titanic Hydra,Refillable Potion,Ninja Tabi,,35525,113544,Lane.jungle,Role.none
+5,TeddyRO,Twisted Fate,False,Side.red,3,10,2,0.5,124,Flash,Ghost,12,False,7537,7150,Lich Bane,Doran's Ring,Ionian Boots of Lucidity,Needlessly Large Rod,Doran's Ring,Aether Wisp,63989,7375,Lane.mid_lane,Role.solo
+6,Hi Im A Sheep,Blitzcrank,False,Side.red,4,6,6,1.6666666666666667,21,Flash,Ignite,10,False,6618,6275,Ruby Sightstone,Redemption,Ruby Crystal,Control Ward,Relic Shield,Boots of Mobility,7774,6215,Lane.bot_lane,Role.support
+7,Valkrin,Vi,False,Side.red,5,5,3,1.6,122,Smite,Flash,12,False,8292,7683,,Refillable Potion,Ninja Tabi,Enchantment: Warrior,Trinity Force,,115,83922,Lane.jungle,Role.none
+8,Cris,Jayce,False,Side.red,3,5,6,1.8,170,Flash,Teleport,13,False,8741,8400,Youmuu's Ghostblade,Refillable Potion,,The Black Cleaver,Long Sword,Ninja Tabi,18347,86117,Lane.top_lane,Role.solo
+9,IKingVex,Twitch,False,Side.red,1,7,3,0.5714285714285714,120,Heal,Flash,11,False,6922,5625,Doran's Blade,Berserker's Greaves,Cull,Runaan's Hurricane,,Pickaxe,0,41166,Lane.bot_lane,Role.carry

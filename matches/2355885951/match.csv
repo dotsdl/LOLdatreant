@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,matttheweird,Brand,True,Side.blue,10,7,12,3.142857142857143,38,Ignite,Flash,12,False,11464,11210,Eye of the Watchers,Rylai's Crystal Scepter,Control Ward,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,44583,3087,Lane.bot_lane,Role.support
+1,Pun1shment,Jhin,True,Side.blue,7,5,16,4.6,195,Flash,Heal,15,False,12737,11700,Infinity Edge,Long Sword,Essence Reaver,Rapid Firecannon,Boots of Swiftness,,14128,144648,Lane.bot_lane,Role.carry
+2,KiIlua,Anivia,True,Side.blue,3,5,3,1.2,222,Teleport,Flash,16,False,11278,9750,Doran's Ring,Zhonya's Hourglass,Hextech GLP-800,Needlessly Large Rod,Tear of the Goddess,Sorcerer's Shoes,123749,12975,Lane.mid_lane,Role.solo
+3,TRUMPSSMALLHANDS,Jarvan IV,True,Side.blue,14,1,11,25.0,180,Flash,Smite,16,False,15332,14350,Enchantment: Warrior,Ravenous Hydra,Guardian Angel,Mercury's Treads,Maw of Malmortius,Phage,7155,184951,Lane.jungle,Role.none
+4,So Sao,Nautilus,True,Side.blue,2,8,9,1.375,217,Teleport,Flash,15,False,10914,9225,Corrupting Potion,Bami's Cinder,Chain Vest,Rod of Ages,Banshee's Veil,Mercury's Treads,95257,36940,Lane.top_lane,Role.solo
+5,NEXHype,Ezreal,False,Side.red,11,12,3,1.1666666666666667,132,Heal,Flash,13,False,10752,10675,Long Sword,Blade of the Ruined King,,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,17345,78044,Lane.bot_lane,Role.carry
+6,EmperorOfBronze,Heimerdinger,False,Side.red,8,5,3,2.2,181,Flash,Exhaust,14,True,12550,12750,Rylai's Crystal Scepter,Eye of the Watchers,Zz'Rot Portal,Blasting Wand,Haunting Guise,Sorcerer's Shoes,91368,15036,Lane.top_lane,Role.solo
+7,DarkWingedAngel,Talon,False,Side.red,2,7,5,1.0,150,Flash,Ignite,14,False,9174,10460,Maw of Malmortius,Youmuu's Ghostblade,Mercury's Treads,Long Sword,Control Ward,,910,101350,Lane.mid_lane,Role.solo
+8,Lombz,Zac,False,Side.red,2,4,10,3.0,176,Flash,Smite,15,False,10594,9930,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Dead Man's Plate,Spirit Visage,,105772,24608,Lane.jungle,Role.none
+9,ShiroLycoris,Lulu,False,Side.red,2,8,9,1.375,23,Flash,Ignite,12,False,7652,7025,Locket of the Iron Solari,Ionian Boots of Lucidity,Eye of the Watchers,Forbidden Idol,,,11796,2718,Lane.bot_lane,Role.support

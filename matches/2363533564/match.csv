@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yellow Turd,Vayne,False,Side.blue,1,5,5,1.2,98,Heal,Flash,10,False,5973,6125,B. F. Sword,Cull,Berserker's Greaves,Rapid Firecannon,,,1488,34012,Lane.bot_lane,Role.carry
+1,Nero Valentine,Zed,False,Side.blue,5,5,2,1.4,126,Ignite,Flash,12,False,7556,7375,Refillable Potion,Blade of the Ruined King,Boots of Speed,Edge of Night,Long Sword,,5468,51406,Lane.mid_lane,Role.solo
+2,oMizu,Bard,False,Side.blue,1,8,5,0.75,16,Flash,Ignite,8,False,5383,3025,,Sightstone,Boots of Mobility,Frostfang,,,11076,4347,Lane.bot_lane,Role.support
+3,Im Vaeth,Lee Sin,False,Side.blue,2,4,5,1.75,96,Smite,Flash,10,False,6464,5975,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,Boots of Speed,,,12032,41693,Lane.jungle,Role.none
+4,D0NG0,LeBlanc,False,Side.blue,3,14,2,0.35714285714285715,40,Ignite,Flash,8,False,5468,5050,Doran's Ring,The Dark Seal,Zhonya's Hourglass,Sorcerer's Shoes,,,20988,4598,Lane.top_lane,Role.solo
+5,Philolol,Thresh,True,Side.red,5,1,17,22.0,5,Exhaust,Flash,10,True,8017,7400,Nomad's Medallion,Ionian Boots of Lucidity,Kindlegem,Redemption,Crystalline Bracer,Ruby Sightstone,7384,3834,Lane.bot_lane,Role.support
+6,sorrymybad1,Twisted Fate,True,Side.red,5,3,8,4.333333333333333,123,Flash,Ghost,12,False,9014,8475,Zhonya's Hourglass,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Doran's Ring,Needlessly Large Rod,61032,9152,Lane.mid_lane,Role.solo
+7,BukZacH,Jhin,True,Side.red,6,5,6,2.4,97,Flash,Heal,10,False,8296,7000,Doran's Blade,Essence Reaver,Boots of Swiftness,Zeal,Brawler's Gloves,Dagger,943,58738,Lane.bot_lane,Role.carry
+8,Wukongs Decoy,Wukong,True,Side.red,7,2,5,6.0,126,Teleport,Flash,12,False,9392,7550,Youmuu's Ghostblade,Corrupting Potion,,,Duskblade of Draktharr,Ionian Boots of Lucidity,1720,64780,Lane.top_lane,Role.solo
+9,Štarboy,Graves,True,Side.red,13,1,9,22.0,110,Smite,Flash,13,False,11602,10325,Enchantment: Warrior,Boots of Mobility,The Bloodthirster,Phantom Dancer,,,5543,121754,Lane.jungle,Role.none

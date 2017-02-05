@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Poppys Hammer,Trundle,True,Side.blue,2,3,4,2.0,235,Flash,Teleport,15,False,12006,11050,Ravenous Hydra,Corrupting Potion,Ninja Tabi,Iceborn Gauntlet,Spirit Visage,Null-Magic Mantle,3143,152943,Lane.top_lane,Role.solo
+1,Kakomu,Blitzcrank,True,Side.blue,0,6,15,2.5,34,Flash,Exhaust,13,False,8483,7800,Eye of the Equinox,Locket of the Iron Solari,Kindlegem,Ninja Tabi,Chain Vest,,9975,7476,Lane.bot_lane,Role.support
+2,Chairman Rock,Ahri,True,Side.blue,9,7,7,2.2857142857142856,176,Ignite,Flash,14,False,12272,11710,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,63166,11361,Lane.mid_lane,Role.solo
+3,Quantized,Elise,True,Side.blue,3,6,12,2.5,118,Smite,Flash,14,False,11168,11380,Enchantment: Runic Echoes,Hextech Protobelt-01,Rylai's Crystal Scepter,Negatron Cloak,Boots of Swiftness,Amplifying Tome,90117,26697,Lane.jungle,Role.none
+4,Encross,Twitch,True,Side.blue,20,7,4,3.4285714285714284,189,Heal,Flash,16,False,16045,15075,Zeal,Berserker's Greaves,Lord Dominik's Regards,Infinity Edge,Runaan's Hurricane,Statikk Shiv,23163,105921,Lane.bot_lane,Role.carry
+5, keine Hosen,Jhin,False,Side.red,5,8,7,1.5,181,Flash,Heal,14,True,11109,9500,Doran's Blade,Rapid Firecannon,Control Ward,B. F. Sword,Boots of Swiftness,Essence Reaver,13057,99880,Lane.bot_lane,Role.carry
+6,Ohgi,Poppy,False,Side.red,4,4,4,2.0,184,Flash,Teleport,15,False,10177,9350,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Spectre's Cowl,Kindlegem,37933,56294,Lane.top_lane,Role.solo
+7,Koma cahn,Miss Fortune,False,Side.red,7,6,12,3.1666666666666665,52,Flash,Ignite,15,False,11316,9425,Eye of the Watchers,The Black Cleaver,,Mortal Reminder,,Boots of Swiftness,28881,24004,Lane.bot_lane,Role.support
+8,BestDumptruckBR,Jarvan IV,False,Side.red,5,8,13,2.25,99,Flash,Smite,14,False,10109,8775,Refillable Potion,Titanic Hydra,Mercury's Treads,Caulfield's Warhammer,Enchantment: Cinderhulk,Cloth Armor,14688,83196,Lane.jungle,Role.none
+9,Griffin1795,Cassiopeia,False,Side.red,7,8,6,1.625,151,Flash,Ghost,15,False,10988,9750,Rylai's Crystal Scepter,Morellonomicon,Seraph's Embrace,Doran's Ring,,,81913,4796,Lane.mid_lane,Role.solo

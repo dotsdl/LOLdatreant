@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Moustached Lion,Shaco,True,Side.blue,9,4,3,3.0,65,Smite,Ignite,12,False,9433,9100,Enchantment: Warrior,Refillable Potion,Ravenous Hydra,Berserker's Greaves,B. F. Sword,Long Sword,15930,73096,Lane.jungle,Role.none
+1,Fizz Stay Night,Mordekaiser,True,Side.blue,4,4,3,1.75,153,Flash,Teleport,13,False,9434,9275,Doran's Shield,Hextech Gunblade,Refillable Potion,Ninja Tabi,Rylai's Crystal Scepter,Blasting Wand,71611,22468,Lane.top_lane,Role.solo
+2,HungoverMoose,Janna,True,Side.blue,0,1,25,25.0,5,Exhaust,Flash,12,False,8461,6550,Eye of the Oasis,Forbidden Idol,,Zeke's Harbinger,Ruby Crystal,Boots of Mobility,4171,4748,Lane.bot_lane,Role.support
+3,FreeStyl3,Viktor,True,Side.blue,7,3,0,2.3333333333333335,159,Flash,Ghost,13,False,9949,7075,Perfect Hex Core,Lost Chapter,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Fiendish Codex,78996,11335,Lane.mid_lane,Role.solo
+4,herolineage,Ezreal,True,Side.blue,18,4,5,5.75,145,Flash,Heal,12,False,13090,12233,Doran's Blade,Blade of the Ruined King,Ionian Boots of Lucidity,Trinity Force,Muramana,B. F. Sword,9768,81842,Lane.bot_lane,Role.carry
+5,Shwack,Brand,False,Side.red,2,6,3,0.8333333333333334,40,Flash,Ignite,10,False,5192,4560,Doran's Ring,Total Biscuit of Rejuvenation,Amplifying Tome,Giant's Belt,Sorcerer's Shoes,Needlessly Large Rod,22187,5113,Lane.bot_lane,Role.duo
+6,Beaverman445,Shyvana,False,Side.red,3,5,3,1.2,108,Smite,Exhaust,12,False,7174,6225,Enchantment: Bloodrazor,Refillable Potion,Phage,Mercury's Treads,Stinger,,45318,41674,Lane.jungle,Role.none
+7,SplendidSpider,Twitch,False,Side.red,2,13,2,0.3076923076923077,70,Flash,Heal,9,False,5650,4900,Doran's Blade,Cull,B. F. Sword,Runaan's Hurricane,,,0,22258,Lane.bot_lane,Role.duo
+8,sukblazemin,Riven,False,Side.red,7,8,2,1.125,145,Teleport,Flash,13,True,8683,8725,Pickaxe,Tiamat,Ionian Boots of Lucidity,Hexdrinker,The Black Cleaver,Vampiric Scepter,129,79882,Lane.top_lane,Role.solo
+9,billionaireck,Swain,False,Side.red,2,6,5,1.1666666666666667,149,Ignite,Flash,13,False,7416,6620,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Tear of the Goddess,Negatron Cloak,Fiendish Codex,65812,11574,Lane.mid_lane,Role.solo

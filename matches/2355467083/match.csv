@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ddwaeji,Nautilus,True,Side.blue,3,2,7,5.0,139,Flash,Teleport,12,False,7819,6850,Corrupting Potion,Doran's Ring,Spirit Visage,Bami's Cinder,Mercury's Treads,Chain Vest,53031,21097,Lane.top_lane,Role.solo
+1,d3ps,Lee Sin,True,Side.blue,5,3,8,4.333333333333333,128,Flash,Smite,12,True,8616,7450,Tiamat,Enchantment: Warrior,Refillable Potion,Hexdrinker,Mercury's Treads,Giant's Belt,15129,87903,Lane.jungle,Role.none
+2,NiMura,Aurelion Sol,True,Side.blue,7,3,7,4.666666666666667,170,Flash,Cleanse,12,False,9374,8375,Rylai's Crystal Scepter,Hextech GLP-800,Corrupting Potion,Mercury's Treads,The Dark Seal,,80486,12080,Lane.mid_lane,Role.solo
+3,Hello I am Dust,Thresh,True,Side.blue,6,1,9,15.0,30,Ignite,Flash,10,False,7136,6300,Face of the Mountain,Ruby Sightstone,Null-Magic Mantle,Cloth Armor,Boots of Mobility,,6328,5857,Lane.jungle,Role.none
+4,is that Rex,Vayne,True,Side.blue,2,4,6,2.0,136,Heal,Flash,12,False,8257,7000,Doran's Blade,Cull,Zeal,Infinity Edge,,Berserker's Greaves,0,61999,Lane.bot_lane,Role.solo
+5,ZambonGG,Zac,False,Side.red,3,4,2,1.25,136,Flash,Teleport,12,False,7557,6850,Doran's Shield,Control Ward,Refillable Potion,Spirit Visage,Sunfire Cape,Boots of Speed,55264,7969,Lane.top_lane,Role.solo
+6,N810HO,Caitlyn,False,Side.red,5,5,1,1.2,150,Flash,Heal,11,False,8716,8650,Dagger,Dagger,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Doran's Blade,1274,79688,Lane.bot_lane,Role.carry
+7,support or troll,Braum,False,Side.red,0,4,4,1.0,37,Ignite,Flash,9,False,5390,5025,Total Biscuit of Rejuvenation,Face of the Mountain,Sightstone,Boots of Mobility,Null-Magic Mantle,,4884,6741,Lane.bot_lane,Role.support
+8,megapasta,Ahri,False,Side.red,2,4,2,1.0,154,Flash,Ignite,12,False,7398,6025,Doran's Ring,Total Biscuit of Rejuvenation,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,40129,10854,Lane.mid_lane,Role.solo
+9,You all boosted,Elise,False,Side.red,3,6,2,0.8333333333333334,95,Flash,Smite,12,False,7860,7625,Enchantment: Runic Echoes,Sorcerer's Shoes,Refillable Potion,Rylai's Crystal Scepter,Ruby Crystal,,64253,23109,Lane.jungle,Role.none

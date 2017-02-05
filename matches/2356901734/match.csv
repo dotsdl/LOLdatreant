@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,laugh for me,Bard,True,Side.blue,2,3,12,4.666666666666667,24,Flash,Exhaust,11,False,6424,6225,Ruby Sightstone,Spellthief's Edge,Boots of Mobility,Locket of the Iron Solari,Refillable Potion,Crystalline Bracer,11403,5067,Lane.bot_lane,Role.support
+1,Nhock,Evelynn,True,Side.blue,7,3,7,4.666666666666667,102,Smite,Flash,12,False,8970,7375,Hextech Protobelt-01,Refillable Potion,Ninja Tabi,Enchantment: Runic Echoes,Giant's Belt,,59678,29987,Lane.jungle,Role.none
+2,cokes,Jhin,True,Side.blue,6,1,10,16.0,162,Heal,Flash,12,True,9374,9175,Essence Reaver,Doran's Blade,Boots of Swiftness,Rapid Firecannon,B. F. Sword,,881,90811,Lane.bot_lane,Role.carry
+3,Based Envy,Rengar,True,Side.blue,3,5,2,1.0,140,Teleport,Flash,12,False,7720,6300,The Black Cleaver,Refillable Potion,Ionian Boots of Lucidity,Giant's Belt,Warden's Mail,,11501,76531,Lane.top_lane,Role.solo
+4,insaníty,Ryze,True,Side.blue,9,6,1,1.6666666666666667,173,Flash,Ghost,13,False,10449,10185,Rod of Ages,Refillable Potion,Seraph's Embrace,Ionian Boots of Lucidity,Morellonomicon,Amplifying Tome,115953,11338,Lane.mid_lane,Role.solo
+5,Cuckvele,Shen,False,Side.red,0,4,5,1.25,117,Flash,Teleport,11,False,6475,6075,Doran's Shield,Ninja Tabi,Spectre's Cowl,Sunfire Cape,,Refillable Potion,23918,20276,Lane.top_lane,Role.solo
+6,Filly,Zyra,False,Side.red,0,10,3,0.3,13,Flash,Exhaust,9,False,5033,4950,Frostfang,Refillable Potion,Sightstone,Haunting Guise,,Sorcerer's Shoes,14220,1629,Lane.bot_lane,Role.support
+7,TeddyRO,Caitlyn,False,Side.red,1,6,2,0.5,149,Flash,Heal,10,False,7084,6450,Doran's Blade,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Pickaxe,,315,78534,Lane.bot_lane,Role.carry
+8,l For You l,Zed,False,Side.red,3,4,3,1.5,133,Flash,Ignite,12,False,7404,7250,Blade of the Ruined King,Maw of Malmortius,Boots of Speed,,,,4055,54115,Lane.mid_lane,Role.solo
+9,Riesig,Lee Sin,False,Side.red,13,3,2,5.0,109,Flash,Smite,12,False,10428,9075,Maw of Malmortius,Enchantment: Warrior,Mercury's Treads,Control Ward,Chain Vest,Giant's Belt,16261,73841,Lane.jungle,Role.none

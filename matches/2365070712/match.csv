@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizzy,Kayle,True,Side.blue,1,2,5,3.0,180,Ignite,Ghost,13,False,9968,7855,Doran's Ring,Guinsoo's Rageblade,Fiendish Codex,Stinger,The Dark Seal,Ionian Boots of Lucidity,71115,45679,Lane.mid_lane,Role.solo
+1,APEC AA,Jarvan IV,True,Side.blue,1,3,7,2.6666666666666665,94,Flash,Smite,12,False,8765,6775,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Aegis of the Legion,Giant's Belt,Chain Vest,7344,81961,Lane.jungle,Role.none
+2,MichaelScofied,Jayce,True,Side.blue,5,6,0,0.8333333333333334,176,Ignite,Flash,14,False,11173,8250,,,Duskblade of Draktharr,Boots of Swiftness,Doran's Blade,Duskblade of Draktharr,18881,110482,Lane.top_lane,Role.solo
+3,Cargair YANG,Janna,True,Side.blue,0,2,5,2.5,24,Flash,Exhaust,11,False,7498,6075,Refillable Potion,Eye of the Watchers,Redemption,,The Dark Seal,Boots of Mobility,4766,7732,Lane.bot_lane,Role.support
+4,oCade,Kog'Maw,True,Side.blue,3,1,3,6.0,129,Heal,Flash,12,False,9178,7200,Berserker's Greaves,Blade of the Ruined King,Doran's Blade,Cull,Zeal,Dagger,19523,45302,Lane.bot_lane,Role.carry
+5,quickgame321,Karma,False,Side.red,3,3,4,2.3333333333333335,38,Flash,Exhaust,11,False,7364,6625,Redemption,Refillable Potion,Chalice of Harmony,,Eye of the Watchers,Ionian Boots of Lucidity,27322,5446,Lane.bot_lane,Role.support
+6,Spicy ShanJi,Vel'Koz,False,Side.red,2,2,3,2.5,180,Heal,Flash,14,False,8168,7935,Ionian Boots of Lucidity,Zhonya's Hourglass,Luden's Echo,Doran's Ring,Amplifying Tome,,85118,10150,Lane.mid_lane,Role.solo
+7,Feitan,Ivern,False,Side.red,1,1,6,7.0,23,Smite,Flash,7,False,5816,3685,Skirmisher's Sabre,Refillable Potion,Ionian Boots of Lucidity,Ruby Crystal,Chalice of Harmony,Amplifying Tome,1115,2519,Lane.jungle,Role.none
+8,Dr Saline PhD,Caitlyn,False,Side.red,4,3,3,2.3333333333333335,153,Heal,Flash,12,False,8177,7925,Doran's Blade,Rapid Firecannon,Berserker's Greaves,Infinity Edge,,Control Ward,2888,91641,Lane.bot_lane,Role.carry
+9,Below Zero,Trundle,False,Side.red,4,1,1,5.0,58,Teleport,Flash,7,True,6655,6250,Ravenous Hydra,Giant's Belt,Boots of Speed,Chain Vest,Corrupting Potion,Control Ward,479,19419,Lane.top_lane,Role.solo

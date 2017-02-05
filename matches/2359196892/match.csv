@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Chubbzilla,Irelia,False,Side.blue,0,1,0,0.0,37,Flash,Teleport,6,False,2330,1150,Long Sword,Corrupting Potion,Boots of Speed,,,,783,6296,Lane.top_lane,Role.solo
+1,Nyada,Kindred,False,Side.blue,0,1,0,0.0,31,Smite,Flash,5,False,2415,1450,Skirmisher's Sabre,Boots of Speed,Refillable Potion,,,,274,16435,Lane.jungle,Role.none
+2,Codyth,Vayne,False,Side.blue,0,0,0,0.0,34,Heal,Flash,5,False,2310,500,Doran's Blade,,,,,,0,5878,Lane.bot_lane,Role.duo
+3,tLag,Katarina,False,Side.blue,1,3,0,0.3333333333333333,6,Ignite,Flash,3,False,2000,1010,The Dark Seal,Refillable Potion,Amplifying Tome,Control Ward,,,1637,497,Lane.mid_lane,Role.solo
+4,Hanjaro,Nautilus,False,Side.blue,1,0,0,1.0,8,Flash,Exhaust,5,False,2201,1350,Targon's Brace,Boots of Speed,,,,,2222,1425,Lane.bot_lane,Role.duo
+5,Keff Bang,Sion,True,Side.red,0,1,1,1.0,18,Exhaust,Flash,7,False,3042,1350,Relic Shield,Sightstone,,,,,8894,7589,Lane.bot_lane,Role.duo
+6,Cynestro,Jhin,True,Side.red,0,0,1,1.0,82,Flash,Heal,7,False,4258,1850,Doran's Blade,,B. F. Sword,,,,183,30406,Lane.bot_lane,Role.duo
+7,dopas doge ,Riven,True,Side.red,1,0,0,1.0,82,Flash,Teleport,8,False,4229,2300,,Doran's Blade,Doran's Blade,Doran's Blade,Long Sword,Long Sword,0,37441,Lane.top_lane,Role.solo
+8,Hate,Lee Sin,True,Side.red,1,0,1,2.0,70,Smite,Flash,9,False,5242,4275,Boots of Speed,Enchantment: Warrior,Tiamat,,,,7172,47769,Lane.jungle,Role.none
+9,F33dMeKills,Lux,True,Side.red,3,2,1,2.0,65,Flash,Heal,8,True,5116,4135,Doran's Ring,Morellonomicon,Amplifying Tome,Boots of Speed,,,31616,10954,Lane.mid_lane,Role.solo

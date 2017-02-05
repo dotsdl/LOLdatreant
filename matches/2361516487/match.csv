@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PutYourHeartsUp,Galio,False,Side.blue,4,5,7,2.2,157,Flash,Teleport,13,False,8911,8550,,Zhonya's Hourglass,Doran's Ring,Needlessly Large Rod,Morellonomicon,Ionian Boots of Lucidity,70900,11581,Lane.mid_lane,Role.solo
+1,Abou222,Gragas,False,Side.blue,6,7,8,2.0,109,Teleport,Flash,13,False,8400,7585,Hextech Protobelt-01,Corrupting Potion,Rod of Ages,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,52386,9386,Lane.top_lane,Role.solo
+2,7788 ADC,Ezreal,False,Side.blue,2,7,3,0.7142857142857143,110,Heal,Flash,11,False,6914,6700,Doran's Blade,Phage,Manamune,Ionian Boots of Lucidity,Sheen,,10050,52331,Lane.bot_lane,Role.carry
+3,Joyul,Lee Sin,False,Side.blue,6,10,1,0.7,75,Flash,Smite,10,False,7580,7375,Refillable Potion,Dead Man's Plate,Mercury's Treads,Null-Magic Mantle,,Enchantment: Warrior,11088,58593,Lane.jungle,Role.none
+4,cute pupper irl,Thresh,False,Side.blue,0,10,4,0.4,10,Flash,Ignite,8,False,4581,3275,Relic Shield,Sightstone,Boots of Mobility,Control Ward,Ruby Crystal,Total Biscuit of Rejuvenation,4192,4602,Lane.bot_lane,Role.support
+5,Zaganox,Jhin,True,Side.red,15,1,10,25.0,174,Heal,Flash,13,False,12890,10275,Doran's Blade,Essence Reaver,Boots of Swiftness,Phantom Dancer,Rapid Firecannon,,12928,122586,Lane.bot_lane,Role.carry
+6,moon o,Rengar,True,Side.red,4,3,18,7.333333333333333,91,Smite,Flash,13,False,9141,7550,Locket of the Iron Solari,Refillable Potion,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Spectre's Cowl,Ruby Crystal,28825,82591,Lane.jungle,Role.none
+7,eThug,Karthus,True,Side.red,11,5,16,5.4,132,Flash,Teleport,13,False,10705,10250,Rylai's Crystal Scepter,Rod of Ages,Sorcerer's Shoes,Blasting Wand,The Dark Seal,Needlessly Large Rod,78396,4021,Lane.mid_lane,Role.solo
+8,Winter is back,Nami,True,Side.red,2,1,27,29.0,6,Flash,Exhaust,11,False,8352,6400,Ruby Crystal,Forbidden Idol,,Eye of the Watchers,Boots of Speed,Mikael's Crucible,10217,7817,Lane.bot_lane,Role.support
+9,CLG Darshawn,Fiora,True,Side.red,7,8,3,1.25,106,Teleport,Flash,12,True,8756,8250,Ravenous Hydra,Stinger,Doran's Blade,Sheen,Doran's Blade,Ionian Boots of Lucidity,1572,54570,Lane.top_lane,Role.solo

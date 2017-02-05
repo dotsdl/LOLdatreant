@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Valkrin,Sion,True,Side.blue,0,3,15,5.0,30,Flash,Ignite,10,False,6001,4750,Refillable Potion,Face of the Mountain,Control Ward,Mercury's Treads,Sightstone,,7931,9982,Lane.bot_lane,Role.support
+1,oopa,Cassiopeia,True,Side.blue,6,2,9,7.5,175,Flash,Ghost,14,False,10005,7275,Doran's Ring,Refillable Potion,,Abyssal Scepter,Tear of the Goddess,Morellonomicon,82511,8421,Lane.mid_lane,Role.solo
+2,Pond,Jhin,True,Side.blue,3,2,11,7.0,165,Heal,Flash,12,False,9503,6425,Essence Reaver,Kircheis Shard,,Cull,Doran's Blade,Boots of Swiftness,1065,83045,Lane.bot_lane,Role.carry
+3,TheOddOrange,Lee Sin,True,Side.blue,15,1,9,24.0,114,Flash,Smite,14,False,12353,9570,Tiamat,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Chain Vest,Negatron Cloak,21818,102496,Lane.jungle,Role.none
+4,Sheiden,Kennen,True,Side.blue,6,4,6,3.0,148,Teleport,Flash,13,False,9345,8385,Cull,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,43451,21583,Lane.top_lane,Role.solo
+5,Peridot,Ezreal,False,Side.red,3,3,1,1.3333333333333333,147,Heal,Flash,11,False,7735,6700,Doran's Blade,Phage,Cull,Manamune,Ionian Boots of Lucidity,Sheen,7154,52199,Lane.bot_lane,Role.carry
+6,BaconSeeker,Brand,False,Side.red,3,6,3,1.0,32,Ignite,Flash,10,False,6161,5785,Sorcerer's Shoes,Eye of the Watchers,Ruby Crystal,Needlessly Large Rod,Amplifying Tome,,16672,2161,Lane.bot_lane,Role.support
+7,Hi Im A Sheep,Nautilus,False,Side.red,2,6,2,0.6666666666666666,162,Flash,Teleport,12,True,7970,7925,Control Ward,,Doran's Ring,Sunfire Cape,Spirit Visage,Mercury's Treads,65652,21357,Lane.top_lane,Role.carry
+8,Xmithie,Xerath,False,Side.red,1,9,3,0.4444444444444444,120,Ghost,Flash,11,False,6447,6085,Doran's Ring,Morellonomicon,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,,52528,6419,Lane.mid_lane,Role.solo
+9,TeddyRO,Shyvana,False,Side.red,3,6,5,1.3333333333333333,118,Flash,Smite,12,False,7788,7325,Titanic Hydra,Refillable Potion,Cloth Armor,Boots of Speed,Enchantment: Bloodrazor,Null-Magic Mantle,39145,50400,Lane.top_lane,Role.support

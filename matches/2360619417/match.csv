@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,always plan ahea,Jhin,False,Side.blue,3,4,2,1.25,159,Flash,Exhaust,12,False,7766,7050,Doran's Blade,Cull,Zeal,Essence Reaver,Berserker's Greaves,,10854,73210,Lane.mid_lane,Role.solo
+1,Alan Nguyen,Karma,False,Side.blue,1,3,5,2.0,21,Flash,Exhaust,9,False,5239,5125,Eye of the Watchers,Control Ward,Crystalline Bracer,Boots of Mobility,Forbidden Idol,,13832,1925,Lane.bot_lane,Role.support
+2,Genius,Caitlyn,False,Side.blue,1,1,3,4.0,118,Heal,Flash,10,False,6141,5225,Total Biscuit of Rejuvenation,Boots of Speed,Control Ward,Runaan's Hurricane,B. F. Sword,Doran's Blade,948,53769,Lane.bot_lane,Role.carry
+3,iHDK,Ivern,False,Side.blue,1,8,2,0.375,42,Smite,Flash,10,False,5583,4960,Redemption,Chalice of Harmony,Amplifying Tome,Boots of Mobility,Hunter's Talisman,,5816,1823,Lane.jungle,Role.none
+4,InGanksWeTrust,Trundle,False,Side.blue,5,6,3,1.3333333333333333,141,Teleport,Flash,12,False,7759,7150,Ninja Tabi,Ravenous Hydra,Corrupting Potion,Glacial Shroud,Sheen,,5000,69100,Lane.top_lane,Role.solo
+5,Siou,Lee Sin,True,Side.red,4,4,6,2.5,95,Flash,Smite,11,False,7906,5875,Boots of Speed,Tiamat,Enchantment: Warrior,Refillable Potion,Jaurim's Fist,Ruby Crystal,16496,81419,Lane.jungle,Role.none
+6,Queen Katie,Nami,True,Side.red,1,2,11,6.0,11,Flash,Exhaust,9,False,5715,5150,,Sightstone,Frostfang,Ionian Boots of Lucidity,,Redemption,5157,4169,Lane.bot_lane,Role.support
+7,Kernya,Orianna,True,Side.red,5,0,7,12.0,148,Ghost,Flash,12,True,9041,8525,Doran's Ring,Morellonomicon,Refillable Potion,Sorcerer's Shoes,Rabadon's Deathcap,,61805,12215,Lane.mid_lane,Role.solo
+8,LIG Forgiven,Poppy,True,Side.red,5,4,4,2.25,120,Flash,Teleport,13,False,7585,6350,Corrupting Potion,Sheen,Sunfire Cape,Ninja Tabi,,Chain Vest,18901,56838,Lane.top_lane,Role.solo
+9,ImXenos,Ezreal,True,Side.red,7,1,3,10.0,167,Flash,Heal,12,False,9222,8500,Cull,Doran's Blade,Bilgewater Cutlass,Ionian Boots of Lucidity,Iceborn Gauntlet,Manamune,12953,75259,Lane.bot_lane,Role.carry

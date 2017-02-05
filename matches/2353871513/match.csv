@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tangerinezz,Karma,True,Side.blue,1,4,17,4.5,21,Exhaust,Flash,15,False,9575,7725,Ruby Sightstone,Ionian Boots of Lucidity,Mikael's Crucible,Redemption,Spellthief's Edge,Control Ward,26071,5166,Lane.bot_lane,Role.support
+1,Twitch FateFalls,Ryze,True,Side.blue,8,4,7,3.75,296,Flash,Ghost,18,False,15949,12560,Seraph's Embrace,Fiendish Codex,Amplifying Tome,Ionian Boots of Lucidity,Rabadon's Deathcap,Rod of Ages,260901,12335,Lane.mid_lane,Role.solo
+2,Im TiItl0rd,Lee Sin,True,Side.blue,11,5,6,3.4,136,Smite,Flash,16,True,13418,11425,Enchantment: Warrior,Banshee's Veil,Tiamat,Mercury's Treads,Dead Man's Plate,Warden's Mail,20025,111220,Lane.jungle,Role.none
+3,new 1,Jhin,True,Side.blue,4,3,13,5.666666666666667,233,Flash,Heal,16,False,13063,11200,Infinity Edge,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,13921,149663,Lane.bot_lane,Role.carry
+4,Axs,Malphite,True,Side.blue,6,10,8,1.4,155,Teleport,Flash,15,False,12098,11500,Forbidden Idol,Iceborn Gauntlet,Sunfire Cape,Ninja Tabi,Abyssal Scepter,Crystalline Bracer,61919,29983,Lane.top_lane,Role.solo
+5,Eu sunt Dracul,Caitlyn,False,Side.red,2,7,10,1.7142857142857142,216,Heal,Flash,15,False,11573,10800,Doran's Blade,Berserker's Greaves,Control Ward,Lord Dominik's Regards,Infinity Edge,Runaan's Hurricane,976,151141,Lane.bot_lane,Role.carry
+6,TSM MiIey Dyrus,Jayce,False,Side.red,4,8,7,1.375,220,Flash,Teleport,15,False,11676,11600,Mercurial Scimitar,The Black Cleaver,Maw of Malmortius,Ionian Boots of Lucidity,Doran's Blade,,22114,116821,Lane.top_lane,Role.solo
+7,Painn,LeBlanc,False,Side.red,4,5,7,2.2,233,Flash,Teleport,16,False,11821,11800,Rabadon's Deathcap,Morellonomicon,Void Staff,Doran's Ring,,Sorcerer's Shoes,136097,11589,Lane.mid_lane,Role.solo
+8,Bobohippie,Nocturne,False,Side.red,11,5,7,3.6,147,Smite,Flash,15,False,12712,11850,Enchantment: Warrior,Serrated Dirk,Ninja Tabi,The Black Cleaver,Maw of Malmortius,Null-Magic Mantle,8657,144805,Lane.jungle,Role.none
+9,EvilMasterMind,Veigar,False,Side.red,5,5,5,2.0,36,Ignite,Flash,13,False,9964,8825,Morellonomicon,Redemption,Boots of Mobility,Eye of the Watchers,,,33356,3813,Lane.bot_lane,Role.support

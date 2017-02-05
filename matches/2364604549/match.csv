@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Štarboy,Kindred,True,Side.blue,6,1,5,11.0,118,Smite,Flash,12,False,9048,8350,Enchantment: Bloodrazor,Quicksilver Sash,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,Long Sword,3121,109074,Lane.jungle,Role.none
+1,Winter is back,Alistar,True,Side.blue,2,3,11,4.333333333333333,25,Flash,Exhaust,9,True,6254,6150,Relic Shield,Boots of Mobility,Kindlegem,Ruby Sightstone,Total Biscuit of Rejuvenation,Mikael's Crucible,6025,6265,Lane.bot_lane,Role.support
+2,Linsanityy,Corki,True,Side.blue,10,1,5,15.0,159,Flash,Cleanse,13,False,10493,9708,,Hextech Gunblade,Cloak of Agility,Trinity Force,Doran's Blade,Sorcerer's Shoes,69537,16894,Lane.mid_lane,Role.solo
+3,ApoIlo Price,Ezreal,True,Side.blue,1,1,8,9.0,169,Flash,Heal,12,False,8857,8100,Doran's Blade,Cull,Manamune,Iceborn Gauntlet,Ionian Boots of Lucidity,Vampiric Scepter,9477,67259,Lane.bot_lane,Role.carry
+4,Adrian Riven,Caitlyn,True,Side.blue,2,3,4,2.0,119,Teleport,Flash,12,False,7310,7000,Doran's Blade,The Bloodthirster,Recurve Bow,Doran's Blade,Ninja Tabi,,1012,59956,Lane.top_lane,Role.solo
+5,moon o,Thresh,False,Side.red,0,5,4,0.8,15,Ignite,Flash,8,False,4155,3450,Relic Shield,Refillable Potion,Boots of Speed,Sightstone,Aegis of the Legion,Null-Magic Mantle,3719,2623,Lane.bot_lane,Role.support
+6,Dyrus,Jinx,False,Side.red,1,3,1,0.6666666666666666,138,Teleport,Flash,11,False,6690,6600,Doran's Blade,Refillable Potion,Zeal,Doran's Blade,Frozen Mallet,Ninja Tabi,990,64063,Lane.top_lane,Role.solo
+7,Chody Walrus,Varus,False,Side.red,1,5,2,0.6,148,Flash,Smite,10,False,6773,6300,Doran's Blade,Essence Reaver,Kircheis Shard,Berserker's Greaves,Total Biscuit of Rejuvenation,,3648,61349,Lane.bot_lane,Role.carry
+8,Daarr,Elise,False,Side.red,6,6,2,1.3333333333333333,80,Flash,Smite,11,False,7119,5975,Enchantment: Runic Echoes,The Dark Seal,Refillable Potion,Giant's Belt,Boots of Mobility,Chain Vest,47145,21708,Lane.jungle,Role.none
+9,SSBM Hax,Twisted Fate,False,Side.red,1,3,3,1.3333333333333333,149,Flash,Ghost,12,False,7159,6225,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Refillable Potion,Aether Wisp,Sheen,64012,8480,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tall t,Cassiopeia,False,Side.blue,2,6,3,0.8333333333333334,112,Flash,Ghost,11,False,6206,5675,Rylai's Crystal Scepter,Fiendish Codex,Tear of the Goddess,,Refillable Potion,Doran's Ring,40010,9483,Lane.mid_lane,Role.solo
+1,Mosquito Porn,Singed,False,Side.blue,7,4,2,2.25,118,Teleport,Ghost,12,False,7818,6800,The Dark Seal,Zz'Rot Portal,Righteous Glory,Ninja Tabi,,Refillable Potion,66094,4371,Lane.top_lane,Role.solo
+2,Auberaun,Brand,False,Side.blue,6,12,1,0.5833333333333334,28,Flash,Ignite,10,False,6854,6125,Sorcerer's Shoes,Haunting Guise,Total Biscuit of Rejuvenation,Blasting Wand,Eye of the Watchers,,24739,3100,Lane.bot_lane,Role.support
+3,GodPinky,Vayne,False,Side.blue,1,7,2,0.42857142857142855,73,Flash,Heal,9,False,5240,4600,Doran's Blade,,,,Statikk Shiv,Berserker's Greaves,338,30077,Lane.bot_lane,Role.carry
+4,bac,Hecarim,False,Side.blue,1,4,6,1.75,63,Ghost,Smite,11,False,6064,5583,Skirmisher's Sabre,Boots of Speed,Refillable Potion,Trinity Force,Ruby Crystal,,6929,48172,Lane.jungle,Role.none
+5,ai loli,Pantheon,True,Side.red,5,7,1,0.8571428571428571,77,Flash,Ignite,10,False,7489,7400,Corrupting Potion,Hexdrinker,Youmuu's Ghostblade,Mercury's Treads,Phage,Long Sword,7658,39470,Lane.top_lane,Role.solo
+6,Cola176,Karma,True,Side.red,2,2,15,8.5,14,Exhaust,Flash,10,False,8019,6025,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Null-Magic Mantle,,,10966,7252,Lane.bot_lane,Role.support
+7,Yami,Caitlyn,True,Side.red,10,4,7,4.25,154,Flash,Heal,12,True,11669,11000,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Cull,Runaan's Hurricane,1227,112824,Lane.bot_lane,Role.carry
+8,k3sòju,Viktor,True,Side.red,10,1,5,15.0,210,Ghost,Flash,14,False,12173,9175,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Sheen,Doran's Ring,110101,13071,Lane.mid_lane,Role.solo
+9,poof the sheep,Graves,True,Side.red,6,3,2,2.6666666666666665,136,Flash,Smite,13,False,10215,8875,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Boots of Speed,Maw of Malmortius,,5483,112971,Lane.jungle,Role.none

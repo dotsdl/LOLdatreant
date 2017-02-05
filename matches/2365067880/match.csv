@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sìyou,Vayne,True,Side.blue,7,9,7,1.5555555555555556,176,Flash,Heal,14,False,12231,11875,Vampiric Scepter,Infinity Edge,Statikk Shiv,Phantom Dancer,Berserker's Greaves,Long Sword,21217,95146,Lane.bot_lane,Role.carry
+1,Rìot Søraka,Soraka,True,Side.blue,0,6,14,2.3333333333333335,9,Flash,Exhaust,11,False,8189,6400,Nomad's Medallion,Redemption,Ruby Sightstone,The Dark Seal,,Ionian Boots of Lucidity,5618,3719,Lane.bot_lane,Role.support
+2,Krypt,Ryze,True,Side.blue,8,4,7,3.75,201,Flash,Exhaust,15,False,12885,9975,Zhonya's Hourglass,Seraph's Embrace,Refillable Potion,Rod of Ages,Control Ward,Ionian Boots of Lucidity,141967,9490,Lane.mid_lane,Role.solo
+3,Dat Boiiiiiiiii,Yasuo,True,Side.blue,8,4,5,3.25,183,Flash,Teleport,15,False,12888,9950,Doran's Blade,Tiamat,Sunfire Cape,Ninja Tabi,Phantom Dancer,Jaurim's Fist,29980,108822,Lane.top_lane,Role.solo
+4,Poppys Hammer,Poppy,True,Side.blue,9,3,10,6.333333333333333,94,Flash,Smite,14,False,11590,9925,Refillable Potion,Enchantment: Cinderhulk,Boots of Swiftness,Dead Man's Plate,Thornmail,Glacial Shroud,29305,66611,Lane.jungle,Role.none
+5,S Diana 2,Irelia,False,Side.red,1,6,10,1.8333333333333333,103,Teleport,Flash,12,False,7422,6633,Corrupting Potion,Bilgewater Cutlass,Boots of Speed,Trinity Force,Dagger,Dagger,2510,42109,Lane.top_lane,Role.solo
+6,Johannes,Nami,False,Side.red,0,6,16,2.6666666666666665,9,Flash,Exhaust,10,False,7284,6850,Boots of Mobility,Redemption,Eye of the Watchers,Aegis of the Legion,Refillable Potion,,6529,5167,Lane.bot_lane,Role.support
+7,zeramion,Talon,False,Side.red,5,6,4,1.5,175,Flash,Ignite,14,False,9173,8200,Boots of Speed,Maw of Malmortius,The Black Cleaver,Serrated Dirk,Refillable Potion,,1300,82343,Lane.mid_lane,Role.solo
+8,huppe fking 1,Jhin,False,Side.red,4,8,12,2.0,148,Heal,Flash,12,True,9325,9050,Essence Reaver,Boots of Swiftness,Doran's Blade,Rapid Firecannon,B. F. Sword,,8749,89531,Lane.bot_lane,Role.carry
+9,Firé,Rengar,False,Side.red,16,6,4,3.3333333333333335,128,Smite,Flash,14,False,12479,11050,Ionian Boots of Lucidity,Enchantment: Warrior,The Black Cleaver,Dead Man's Plate,Hexdrinker,,8607,129772,Lane.jungle,Role.none

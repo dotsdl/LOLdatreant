@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RATIRLonNA,Twitch,False,Side.blue,9,7,2,1.5714285714285714,130,Flash,Smite,13,False,10082,9100,Dagger,Pickaxe,B. F. Sword,Runaan's Hurricane,Enchantment: Bloodrazor,Ninja Tabi,2775,85935,Lane.jungle,Role.none
+1,popgoestheglock,Akali,False,Side.blue,1,6,3,0.6666666666666666,97,Teleport,Flash,11,False,6681,5950,Doran's Shield,Mercury's Treads,Aether Wisp,Hextech Gunblade,,,15855,22566,Lane.mid_lane,Role.solo
+2,Winter is back,Lulu,False,Side.blue,1,7,9,1.4285714285714286,13,Flash,Exhaust,10,False,6455,5525,Frostfang,Control Ward,Total Biscuit of Rejuvenation,Sightstone,Ionian Boots of Lucidity,Mikael's Crucible,4345,2816,Lane.bot_lane,Role.support
+3,Riesig,Illaoi,False,Side.blue,5,4,4,2.25,211,Flash,Teleport,15,False,10933,9750,Corrupting Potion,The Black Cleaver,Mercury's Treads,Death's Dance,Ruby Crystal,Warden's Mail,489,147972,Lane.top_lane,Role.solo
+4,Youuuuuuuuuuuuu,Draven,False,Side.blue,1,7,4,0.7142857142857143,157,Heal,Flash,11,False,7682,6750,Vampiric Scepter,Mercurial Scimitar,Caulfield's Warhammer,Doran's Blade,Boots of Speed,Dagger,358,75452,Lane.bot_lane,Role.carry
+5,West Coast Carry,Maokai,True,Side.red,3,6,5,1.3333333333333333,152,Flash,Teleport,13,False,8340,7050,Sunfire Cape,Corrupting Potion,Ninja Tabi,Chain Vest,Giant's Belt,Ruby Crystal,74383,13005,Lane.top_lane,Role.solo
+6,Pyrites,Lux,True,Side.red,4,2,11,7.5,29,Flash,Exhaust,11,False,8368,6675,Frost Queen's Claim,Sightstone,Total Biscuit of Rejuvenation,,Athene's Unholy Grail,Ionian Boots of Lucidity,21318,5951,Lane.bot_lane,Role.support
+7,ApoIlo Price,Ashe,True,Side.red,4,3,7,3.6666666666666665,196,Flash,Heal,13,False,10209,8825,Doran's Blade,Infinity Edge,Berserker's Greaves,Vampiric Scepter,,Runaan's Hurricane,733,108281,Lane.bot_lane,Role.carry
+8,Annie Bot,Annie,True,Side.red,5,3,4,3.0,162,Exhaust,Flash,13,False,9454,8360,Hextech Protobelt-01,Refillable Potion,Rabadon's Deathcap,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,77733,9563,Lane.mid_lane,Role.solo
+9,Ablazeolive,Kha'Zix,True,Side.red,15,3,3,6.0,95,Flash,Smite,14,True,12349,7675,Boots of Speed,Enchantment: Warrior,,Refillable Potion,Duskblade of Draktharr,Tiamat,5373,133143,Lane.jungle,Role.none

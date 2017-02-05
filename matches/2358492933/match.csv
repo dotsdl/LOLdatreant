@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AllAero,Syndra,True,Side.blue,1,1,9,10.0,100,Flash,Ghost,11,False,7008,4850,,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Doran's Ring,,56390,9150,Lane.mid_lane,Role.solo
+1,Myloo,Jhin,True,Side.blue,2,0,5,7.0,141,Flash,Heal,11,False,7883,5900,Boots of Swiftness,Essence Reaver,Dagger,Dagger,Doran's Blade,,912,72642,Lane.bot_lane,Role.carry
+2,Keegun,Pantheon,True,Side.blue,5,1,4,9.0,23,Flash,Ignite,8,False,6766,4675,Relic Shield,Edge of Night,Boots of Speed,Long Sword,Long Sword,,877,24088,Lane.bot_lane,Role.support
+3,Cuckvele,Poppy,True,Side.blue,2,2,7,4.5,100,Flash,Teleport,11,False,6969,5075,Corrupting Potion,Spectre's Cowl,Ninja Tabi,,,Locket of the Iron Solari,1776,37467,Lane.top_lane,Role.solo
+4,Abou222,Lee Sin,True,Side.blue,5,1,5,10.0,101,Smite,Flash,11,False,8670,4425,Tiamat,Boots of Speed,Enchantment: Warrior,,,,10676,73387,Lane.jungle,Role.none
+5,Yassuo,Yasuo,False,Side.red,1,6,2,0.5,99,Flash,Ignite,10,False,5259,5600,Dagger,Doran's Blade,Boots of Speed,Phantom Dancer,Dagger,Dagger,17743,31582,Lane.mid_lane,Role.solo
+6,l Spawn l,Bard,False,Side.red,0,3,1,0.3333333333333333,7,Flash,Exhaust,8,False,3795,3000,Boots of Mobility,Sightstone,Control Ward,Frostfang,,,3561,1785,Lane.bot_lane,Role.support
+7,Rhux,Kennen,False,Side.red,1,1,2,3.0,69,Flash,Teleport,8,False,4580,4175,Sorcerer's Shoes,Doran's Blade,Hextech Protobelt-01,,Control Ward,,6956,12298,Lane.top_lane,Role.solo
+8,Be Like Neo,Vayne,False,Side.red,1,3,0,0.3333333333333333,100,Flash,Heal,9,False,4940,4000,Doran's Blade,B. F. Sword,Berserker's Greaves,Brawler's Gloves,Dagger,Dagger,0,31987,Lane.bot_lane,Role.carry
+9,Rokí,Riven,False,Side.red,2,2,0,1.0,77,Flash,Smite,9,True,5333,3775,Control Ward,Refillable Potion,Tiamat,Ionian Boots of Lucidity,Caulfield's Warhammer,Hunter's Machete,0,50768,Lane.jungle,Role.none

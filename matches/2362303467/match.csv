@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hopefool,Viktor,False,Side.blue,6,1,3,9.0,244,Flash,Ghost,15,False,12039,10525,Perfect Hex Core,Sheen,Doran's Ring,Rylai's Crystal Scepter,Aether Wisp,Ionian Boots of Lucidity,150587,9668,Lane.mid_lane,Role.solo
+1,TheInoOne,Ezreal,False,Side.blue,5,4,8,3.25,206,Flash,Heal,15,True,11522,11058,,,Blade of the Ruined King,Muramana,Trinity Force,Ionian Boots of Lucidity,14672,134089,Lane.bot_lane,Role.carry
+2,Fàkèr  ,Jayce,False,Side.blue,1,4,7,2.0,187,Exhaust,Flash,14,False,10037,9050,The Black Cleaver,Ninja Tabi,Warden's Mail,The Bloodthirster,,,15936,85051,Lane.top_lane,Role.solo
+3,Arane,Soraka,False,Side.blue,2,3,7,3.0,14,Exhaust,Flash,13,False,9202,7975,Redemption,Eye of the Oasis,Athene's Unholy Grail,Boots of Mobility,Cloth Armor,Null-Magic Mantle,17304,5610,Lane.bot_lane,Role.support
+4,Bigerthanyou,Vi,False,Side.blue,2,5,6,1.6,198,Smite,Flash,15,False,10381,9408,Enchantment: Cinderhulk,Trinity Force,Refillable Potion,Chain Vest,Giant's Belt,Ninja Tabi,24942,112583,Lane.jungle,Role.none
+5,King of Memes,Rengar,True,Side.red,3,3,8,3.6666666666666665,253,Ignite,Flash,17,False,14641,13325,Tiamat,The Black Cleaver,Guardian Angel,Maw of Malmortius,Ninja Tabi,Ruby Crystal,27157,158581,Lane.top_lane,Role.solo
+6,ADC Prospect,Vayne,True,Side.red,2,4,3,1.25,178,Heal,Flash,15,False,12261,11800,Doran's Blade,Phantom Dancer,Berserker's Greaves,Statikk Shiv,Infinity Edge,Vampiric Scepter,20224,106832,Lane.bot_lane,Role.carry
+7,bvcx222,Bard,True,Side.red,0,3,10,3.3333333333333335,22,Flash,Ignite,13,False,9530,8825,Ruby Sightstone,Redemption,Locket of the Iron Solari,Control Ward,Spellthief's Edge,Boots of Mobility,10950,7598,Lane.bot_lane,Role.support
+8,tkDarkSide,Shyvana,True,Side.red,7,4,6,3.25,212,Smite,Flash,17,False,14434,13158,Enchantment: Cinderhulk,Trinity Force,Thornmail,Ninja Tabi,Warmog's Armor,Ruby Crystal,131634,85184,Lane.jungle,Role.none
+9,A True Hunter,Gangplank,True,Side.red,5,2,6,5.5,279,Flash,Exhaust,17,False,15871,14108,Infinity Edge,Trinity Force,Youmuu's Ghostblade,,Boots of Mobility,Statikk Shiv,12721,281554,Lane.mid_lane,Role.solo

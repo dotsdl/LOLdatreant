@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Poosickle,Annie,False,Side.blue,1,5,1,0.4,108,Teleport,Flash,11,False,5581,4750,Sorcerer's Shoes,Rod of Ages,Doran's Ring,Control Ward,,,33475,9291,Lane.top_lane,Role.solo
+1,Nillers,Katarina,False,Side.blue,4,2,0,2.0,153,Ignite,Flash,12,False,7092,6375,Hextech Gunblade,The Dark Seal,Sorcerer's Shoes,Needlessly Large Rod,,,66549,7306,Lane.mid_lane,Role.solo
+2,CLG iTrackpad,Nautilus,False,Side.blue,0,1,1,1.0,84,Smite,Flash,11,False,5134,4250,Tracker's Knife,Giant's Belt,Mercury's Treads,Warden's Mail,,,29482,22906,Lane.jungle,Role.none
+3,OoR4s3Ng4N4rUtOo,Vayne,False,Side.blue,1,2,1,1.0,141,Flash,Heal,11,True,6244,5050,Pickaxe,Kircheis Shard,Doran's Blade,Berserker's Greaves,Dagger,B. F. Sword,795,52744,Lane.bot_lane,Role.carry
+4,abandoned by God,Karma,False,Side.blue,0,1,1,1.0,0,Flash,Exhaust,5,False,3833,1525,Frostfang,Total Biscuit of Rejuvenation,Boots of Speed,,,,1861,1012,Lane.bot_lane,Role.support
+5,Run From Skaarl,Gangplank,True,Side.red,4,1,3,7.0,165,Teleport,Flash,13,False,10017,8158,Refillable Potion,Trinity Force,Edge of Night,,Mercury's Treads,,5320,105564,Lane.top_lane,Role.solo
+6,PancakeKojo,Xerath,True,Side.red,2,2,3,2.5,130,Heal,Flash,12,False,7959,6275,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Doran's Ring,,74326,8992,Lane.mid_lane,Role.solo
+7,TRUMPSSMALLHANDS,Olaf,True,Side.red,4,0,4,8.0,94,Ghost,Smite,13,False,9060,7000,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Null-Magic Mantle,Ionian Boots of Lucidity,,13980,96149,Lane.jungle,Role.none
+8,sGerry,Janna,True,Side.red,0,1,6,6.0,11,Exhaust,Flash,10,False,6638,4600,,Aegis of the Legion,Sightstone,Frostfang,Boots of Mobility,Null-Magic Mantle,4104,10047,Lane.bot_lane,Role.support
+9,bu he ni duo BB,Jhin,True,Side.red,1,2,4,2.5,138,Heal,Flash,10,False,8249,8050,Doran's Blade,Cull,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,825,69230,Lane.bot_lane,Role.carry

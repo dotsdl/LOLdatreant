@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Meteos,Poppy,True,Side.blue,2,3,4,2.0,192,Teleport,Flash,15,False,10438,8550,Sunfire Cape,Ninja Tabi,Corrupting Potion,Control Ward,Iceborn Gauntlet,Spectre's Cowl,32927,72374,Lane.top_lane,Role.solo
+1,GangstahSwerve,Rengar,True,Side.blue,8,3,6,4.666666666666667,136,Smite,Flash,15,False,11731,9975,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Ionian Boots of Lucidity,Duskblade of Draktharr,,10422,143670,Lane.jungle,Role.none
+2,Liquid Painless,Karma,True,Side.blue,3,5,18,4.2,7,Flash,Ignite,13,False,9337,7325,Redemption,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,,Aegis of the Legion,15785,5667,Lane.bot_lane,Role.support
+3,Vincente Vu,Vayne,True,Side.blue,16,3,5,7.0,165,Flash,Heal,14,True,13975,11700,Berserker's Greaves,Infinity Edge,Statikk Shiv,Phantom Dancer,Serrated Dirk,Doran's Blade,20652,90650,Lane.bot_lane,Role.carry
+4,Pekin Woof,Viktor,True,Side.blue,9,4,10,4.75,203,Flash,Cleanse,15,False,12872,12075,Lich Bane,Perfect Hex Core,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,124301,12059,Lane.mid_lane,Role.solo
+5,C9 Lemon,Lulu,False,Side.red,2,7,11,1.8571428571428572,19,Ignite,Flash,11,False,7811,6775,Boots of Mobility,Aegis of the Legion,Redemption,Eye of the Watchers,,,20740,4074,Lane.bot_lane,Role.support
+6,IIIlIIIlIIIllI,Ezreal,False,Side.red,7,10,6,1.3,164,Flash,Heal,13,False,10070,9733,Doran's Blade,Ionian Boots of Lucidity,Trinity Force,Caulfield's Warhammer,Muramana,Vampiric Scepter,15334,72948,Lane.bot_lane,Role.carry
+7,C9 Sneaky,Trundle,False,Side.red,0,6,2,0.3333333333333333,190,Flash,Teleport,13,False,9169,8550,Ravenous Hydra,Corrupting Potion,Ninja Tabi,Control Ward,Iceborn Gauntlet,Null-Magic Mantle,2334,112239,Lane.top_lane,Role.solo
+8,Kitzuø,Olaf,False,Side.red,4,6,8,2.0,119,Smite,Ghost,13,False,9189,9025,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Dead Man's Plate,Spectre's Cowl,Cloth Armor,Kindlegem,12807,78049,Lane.jungle,Role.none
+9,DeaIer29,Twisted Fate,False,Side.red,5,9,4,1.0,150,Ghost,Flash,13,False,9677,9125,Doran's Ring,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Seeker's Armguard,93224,9438,Lane.mid_lane,Role.solo

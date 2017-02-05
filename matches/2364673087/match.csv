@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,QuickRev,Zilean,True,Side.blue,3,2,8,5.5,18,Flash,Exhaust,10,False,6480,5385,Spellthief's Edge,Rod of Ages,Sightstone,Ionian Boots of Lucidity,Amplifying Tome,,21764,5916,Lane.bot_lane,Role.support
+1,McCashDollar,Shaco,True,Side.blue,8,0,4,12.0,73,Ignite,Smite,12,False,8440,8000,Refillable Potion,Tiamat,Control Ward,Dead Man's Plate,Boots of Mobility,Enchantment: Runic Echoes,26011,44209,Lane.jungle,Role.none
+2,pilling91,Viktor,True,Side.blue,4,3,3,2.3333333333333335,135,Ghost,Flash,12,False,7816,6450,Perfect Hex Core,Doran's Ring,The Dark Seal,Needlessly Large Rod,Ionian Boots of Lucidity,Cloth Armor,56731,11693,Lane.mid_lane,Role.solo
+3,Allorim,Maokai,True,Side.blue,4,2,8,6.0,141,Flash,Teleport,13,False,8510,8025,The Dark Seal,Sunfire Cape,Iceborn Gauntlet,Corrupting Potion,Ninja Tabi,Ruby Crystal,69580,12632,Lane.top_lane,Role.solo
+4,Jurassiq,Ezreal,True,Side.blue,3,5,4,1.4,134,Flash,Heal,11,False,7866,7300,Iceborn Gauntlet,Doran's Blade,Ionian Boots of Lucidity,Cull,Manamune,Dagger,8773,51029,Lane.bot_lane,Role.carry
+5,toke dude,Trundle,False,Side.red,0,3,0,0.0,132,Teleport,Flash,11,False,5824,5500,Doran's Blade,Spirit Visage,Bilgewater Cutlass,Boots of Speed,Health Potion,,1872,47300,Lane.top_lane,Role.solo
+6,wiggily420,Olaf,False,Side.red,5,3,2,2.3333333333333335,155,Ghost,Smite,13,False,8756,6650,Enchantment: Cinderhulk,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Dead Man's Plate,,17109,90120,Lane.jungle,Role.none
+7,Rhux,Pantheon,False,Side.red,4,5,1,1.0,96,Flash,Ignite,11,False,6129,5750,Corrupting Potion,Boots of Mobility,Edge of Night,Serrated Dirk,,,6249,42934,Lane.mid_lane,Role.solo
+8,Pekin Woof,Thresh,False,Side.red,2,3,3,1.6666666666666667,36,Flash,Ignite,9,False,5111,4700,Control Ward,Redemption,Sightstone,Relic Shield,Boots of Mobility,,9788,5096,Lane.bot_lane,Role.duo
+9,Ninjacrab,Caitlyn,False,Side.red,1,8,4,0.625,119,Flash,Heal,10,True,6255,5950,Doran's Blade,Berserker's Greaves,B. F. Sword,Cull,Runaan's Hurricane,,518,50960,Lane.bot_lane,Role.duo

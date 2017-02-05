@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iBeebo,Taric,False,Side.blue,2,5,11,2.6,50,Exhaust,Flash,12,False,7247,7000,Frozen Heart,Mercury's Treads,Control Ward,Total Biscuit of Rejuvenation,Eye of the Equinox,Cloth Armor,17645,10022,Lane.bot_lane,Role.support
+1,Spirit of Summer,Yasuo,False,Side.blue,4,8,5,1.125,193,Flash,Teleport,14,False,9684,9750,Mercury's Treads,Blade of the Ruined King,Infinity Edge,Brawler's Gloves,Dagger,Dagger,17408,104483,Lane.top_lane,Role.solo
+2,TrungThienDo,Ivern,False,Side.blue,5,5,11,3.2,53,Smite,Flash,13,False,8981,8950,Stalker's Blade,Redemption,Ionian Boots of Lucidity,Athene's Unholy Grail,Zz'Rot Portal,,10116,7819,Lane.jungle,Role.none
+3,Nori,Ahri,False,Side.blue,5,3,5,3.3333333333333335,150,Ignite,Flash,13,False,9108,9025,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,Fiendish Codex,Morellonomicon,,41366,17340,Lane.mid_lane,Role.solo
+4,laiier,Kalista,False,Side.blue,4,8,5,1.125,178,Flash,Heal,12,False,9282,8900,Blade of the Ruined King,Runaan's Hurricane,Vampiric Scepter,Long Sword,Berserker's Greaves,Doran's Blade,2029,92287,Lane.bot_lane,Role.carry
+5,Plann,Anivia,True,Side.red,5,5,8,2.6,185,Flash,Teleport,14,False,11223,10425,Doran's Ring,Seraph's Embrace,Zz'Rot Portal,Rod of Ages,Boots of Swiftness,,98935,9946,Lane.mid_lane,Role.solo
+6,TheNotoriousDFG,Poppy,True,Side.red,5,3,13,6.0,34,Flash,Ignite,12,False,9554,8225,Frozen Heart,Raptor Cloak,Eye of the Equinox,Ionian Boots of Lucidity,Giant's Belt,,2145,25688,Lane.bot_lane,Role.support
+7,DoToT Returned,Corki,True,Side.red,4,6,14,3.0,171,Heal,Flash,14,False,11628,10608,Sorcerer's Shoes,Trinity Force,Hextech Gunblade,B. F. Sword,Cull,Doran's Blade,81344,30132,Lane.bot_lane,Role.carry
+8,MythoIogy,Nasus,True,Side.red,3,4,11,3.5,178,Teleport,Flash,15,True,11290,10283,Doran's Ring,Zz'Rot Portal,Ninja Tabi,Trinity Force,Chain Vest,Giant's Belt,65822,38598,Lane.top_lane,Role.solo
+9,KT Score,Hecarim,True,Side.red,12,4,9,5.25,144,Smite,Ghost,15,False,13381,11408,Enchantment: Cinderhulk,Trinity Force,Guardian Angel,Giant's Belt,Cloth Armor,Boots of Swiftness,19827,120028,Lane.jungle,Role.none

@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KPH T1 King Can,Lucian,True,Side.blue,10,10,13,2.3,262,Heal,Flash,18,False,17505,16650,Death's Dance,Blade of the Ruined King,Ninja Tabi,The Black Cleaver,Chain Vest,Phantom Dancer,7865,209563,Lane.mid_lane,Role.none
+1,ADamnMonkey,Ekko,True,Side.blue,5,16,10,0.9375,117,Smite,Flash,17,False,12031,11025,Enchantment: Runic Echoes,Ninja Tabi,Iceborn Gauntlet,Dead Man's Plate,Jaurim's Fist,Long Sword,91222,35192,Lane.mid_lane,Role.none
+2,AmbroseBaal,Illaoi,True,Side.blue,12,5,9,4.2,213,Flash,Exhaust,18,False,16305,16300,Hexdrinker,Randuin's Omen,The Black Cleaver,Iceborn Gauntlet,Ninja Tabi,Death's Dance,1136,220055,Lane.mid_lane,Role.none
+3,Sarcasm Orgasm,Jayce,False,Side.red,16,9,8,2.6666666666666665,292,Flash,Ignite,18,False,18056,17150,Youmuu's Ghostblade,The Black Cleaver,Dead Man's Plate,The Bloodthirster,Lord Dominik's Regards,Ninja Tabi,31853,214875,Lane.mid_lane,Role.duo
+4,Optical Illusion,Shaco,False,Side.red,3,10,11,1.4,187,Smite,Ignite,18,False,12879,11750,Youmuu's Ghostblade,Ravenous Hydra,Edge of Night,Ninja Tabi,Stalker's Blade,,36926,134983,Lane.jungle,Role.none
+5,Alexiterio,Dr. Mundo,False,Side.red,12,8,3,1.875,241,Exhaust,Ghost,18,True,14387,13700,Sunfire Cape,Spirit Visage,Ninja Tabi,Frozen Mallet,Thornmail,Kindlegem,134969,45068,Lane.mid_lane,Role.duo

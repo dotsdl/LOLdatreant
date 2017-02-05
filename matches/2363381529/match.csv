@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LoIler,Elise,True,Side.blue,8,5,11,3.8,75,Flash,Smite,14,False,12020,10700,Enchantment: Runic Echoes,Abyssal Scepter,Sorcerer's Shoes,Rylai's Crystal Scepter,Chain Vest,,71857,23118,Lane.jungle,Role.none
+1,Pawsu,Morgana,True,Side.blue,3,5,14,3.4,16,Exhaust,Flash,13,False,9921,8700,Sightstone,Locket of the Iron Solari,Redemption,Frost Queen's Claim,Boots of Mobility,Total Biscuit of Rejuvenation,19297,7427,Lane.bot_lane,Role.support
+2, keine Hosen,Twitch,True,Side.blue,6,3,8,4.666666666666667,241,Flash,Heal,15,False,13939,12400,Doran's Blade,Blade of the Ruined King,,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,0,151072,Lane.bot_lane,Role.carry
+3,TEAMLUKEE,Corki,True,Side.blue,14,6,9,3.8333333333333335,181,Exhaust,Flash,15,False,13877,12858,Refillable Potion,Hextech Gunblade,B. F. Sword,Trinity Force,Sorcerer's Shoes,Rapid Firecannon,98085,35031,Lane.mid_lane,Role.solo
+4,ZosHa,Poppy,True,Side.blue,2,3,16,6.0,206,Flash,Teleport,16,False,12219,11033,Corrupting Potion,Trinity Force,Sunfire Cape,Mercury's Treads,Spirit Visage,,21621,107246,Lane.top_lane,Role.solo
+5,SirRosicky,Zac,False,Side.red,6,7,10,2.2857142857142856,146,Smite,Flash,14,False,11056,10750,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Dead Man's Plate,Chain Vest,Ionian Boots of Lucidity,104381,23150,Lane.jungle,Role.none
+6,Cat Person,Ekko,False,Side.red,8,5,3,2.2,187,Flash,Ignite,14,True,11092,10760,,Zhonya's Hourglass,Doran's Ring,Rod of Ages,Abyssal Scepter,Ionian Boots of Lucidity,97647,15052,Lane.mid_lane,Role.solo
+7,starfui,Janna,False,Side.red,2,6,9,1.8333333333333333,13,Exhaust,Flash,12,False,7953,7700,Redemption,Refillable Potion,Frost Queen's Claim,Sightstone,Ionian Boots of Lucidity,Mejai's Soulstealer,10966,6158,Lane.bot_lane,Role.support
+8,DarkWingsForSale,Ezreal,False,Side.red,6,5,7,2.6,166,Flash,Heal,12,False,10417,10075,Doran's Blade,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,,Iceborn Gauntlet,17455,84630,Lane.bot_lane,Role.carry
+9,Hi on bush,Yasuo,False,Side.red,0,10,2,0.2,174,Flash,Teleport,13,False,8923,8550,Phantom Dancer,Infinity Edge,Giant's Belt,Doran's Blade,Boots of Speed,Ruby Crystal,19570,86234,Lane.top_lane,Role.solo

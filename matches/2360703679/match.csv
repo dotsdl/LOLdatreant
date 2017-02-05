@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pocket Rhino,Brand,True,Side.blue,5,4,7,3.0,11,Flash,Ignite,10,False,8283,7250,,Refillable Potion,Eye of the Watchers,Liandry's Torment,Sorcerer's Shoes,,22231,3311,Lane.bot_lane,Role.support
+1,ApoIlo Price,Ashe,True,Side.blue,5,2,5,5.0,199,Flash,Heal,13,False,10728,9425,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,,B. F. Sword,1584,101148,Lane.bot_lane,Role.carry
+2,NI9HT,Yasuo,True,Side.blue,8,4,5,3.25,180,Exhaust,Flash,15,False,11404,9450,Refillable Potion,B. F. Sword,Phantom Dancer,Berserker's Greaves,Doran's Blade,The Bloodthirster,25155,111569,Lane.mid_lane,Role.solo
+3,moon o,Rengar,True,Side.blue,10,2,8,9.0,100,Smite,Flash,14,False,10968,10475,Locket of the Iron Solari,Enchantment: Cinderhulk,Warmog's Armor,Warden's Mail,Ninja Tabi,Ruby Crystal,23683,66882,Lane.jungle,Role.none
+4,Bobjenkins,Kennen,True,Side.blue,5,4,1,1.5,158,Flash,Teleport,14,False,9493,8735,Doran's Shield,Hextech Protobelt-01,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,Amplifying Tome,52889,19824,Lane.top_lane,Role.solo
+5,07scaping,Lee Sin,False,Side.red,4,6,5,1.5,138,Smite,Flash,12,True,8625,8050,Randuin's Omen,Tiamat,,Enchantment: Warrior,Refillable Potion,Ninja Tabi,20242,86806,Lane.jungle,Role.none
+6,Renger cat,Aurelion Sol,False,Side.red,4,9,4,0.8888888888888888,170,Ghost,Flash,13,False,8863,9135,Rylai's Crystal Scepter,Rod of Ages,The Dark Seal,Boots of Swiftness,Cloth Armor,Amplifying Tome,94241,9762,Lane.mid_lane,Role.solo
+7,impala tamer,Caitlyn,False,Side.red,1,5,5,1.2,170,Heal,Flash,11,False,8399,7725,Doran's Blade,Infinity Edge,Zeal,Recurve Bow,Berserker's Greaves,,705,83440,Lane.bot_lane,Role.solo
+8,Leagué,Riven,False,Side.red,7,5,2,1.8,166,Flash,Teleport,14,False,9330,10405,Maw of Malmortius,,The Black Cleaver,Mercury's Treads,Vampiric Scepter,,0,81414,Lane.top_lane,Role.solo
+9,Flamboozle,Janna,False,Side.red,0,8,10,1.25,18,Flash,Exhaust,10,False,6106,5625,Redemption,Boots of Mobility,Eye of the Watchers,,,,6737,3842,Lane.jungle,Role.none

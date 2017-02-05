@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Smoothie,Thresh,True,Side.blue,1,3,17,6.0,17,Flash,Ignite,11,False,6683,5700,,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Relic Shield,,6245,3754,Lane.bot_lane,Role.support
+1,Black Technology,Cassiopeia,True,Side.blue,6,3,7,4.333333333333333,160,Ghost,Flash,13,False,9833,9050,Rylai's Crystal Scepter,Doran's Ring,Tear of the Goddess,Morellonomicon,The Dark Seal,Needlessly Large Rod,65878,6016,Lane.mid_lane,Role.solo
+2,0 K A Y B O Y S,Vi,True,Side.blue,13,2,6,9.5,106,Flash,Smite,13,False,11630,11008,Enchantment: Warrior,Trinity Force,Control Ward,Maw of Malmortius,Ninja Tabi,,2321,117978,Lane.jungle,Role.none
+3,Vsionz,Jayce,True,Side.blue,7,2,11,9.0,191,Flash,Teleport,14,False,11405,9525,Doran's Blade,The Black Cleaver,Mercury's Treads,Youmuu's Ghostblade,Hexdrinker,Long Sword,16351,100269,Lane.top_lane,Role.solo
+4,Aengy,Twitch,True,Side.blue,6,3,9,5.0,156,Heal,Flash,12,False,10050,8875,Doran's Blade,Infinity Edge,Zeal,Runaan's Hurricane,Boots of Speed,Dagger,0,76182,Lane.bot_lane,Role.carry
+5,Command Attack,Vayne,False,Side.red,5,7,3,1.1428571428571428,133,Heal,Flash,11,False,7844,6525,Doran's Blade,Pickaxe,Berserker's Greaves,Statikk Shiv,B. F. Sword,,10417,49874,Lane.bot_lane,Role.carry
+6,YaThatWasABanana,Lulu,False,Side.red,1,5,6,1.4,12,Flash,Exhaust,10,False,5705,5075,Control Ward,Forbidden Idol,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Crystalline Bracer,9505,4195,Lane.bot_lane,Role.support
+7,Vote No,Riven,False,Side.red,3,8,0,0.375,138,Teleport,Flash,12,False,7033,7125,Doran's Blade,Vampiric Scepter,Health Potion,Ninja Tabi,Pickaxe,The Black Cleaver,0,67988,Lane.top_lane,Role.solo
+8,Drowning,Annie,False,Side.red,3,6,1,0.6666666666666666,129,Flash,Ignite,11,False,6894,5660,Rod of Ages,Ionian Boots of Lucidity,Amplifying Tome,Giant's Belt,,Doran's Ring,37219,9491,Lane.mid_lane,Role.solo
+9,zinxao,Pantheon,False,Side.red,1,9,4,0.5555555555555556,48,Smite,Flash,10,True,5791,5675,Long Sword,Long Sword,,Boots of Mobility,Enchantment: Warrior,Caulfield's Warhammer,3290,39192,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hello I am Dust,Thresh,False,Side.blue,1,6,9,1.6666666666666667,20,Ignite,Flash,10,True,6226,5625,Redemption,Ruby Sightstone,Control Ward,Boots of Mobility,Relic Shield,,7599,4161,Lane.bot_lane,Role.support
+1,dog maple,Graves,False,Side.blue,5,5,5,2.0,136,Smite,Flash,12,False,9532,8425,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,Caulfield's Warhammer,4606,101748,Lane.jungle,Role.none
+2,NoahMost,Kayle,False,Side.blue,5,3,2,2.3333333333333335,161,Ghost,Flash,13,False,8773,8000,The Dark Seal,Refillable Potion,Nashor's Tooth,Ionian Boots of Lucidity,Guinsoo's Rageblade,,63575,23949,Lane.mid_lane,Role.solo
+3,Erry,Jhin,False,Side.blue,5,4,7,3.0,167,Heal,Flash,13,False,9422,9325,Youmuu's Ghostblade,Zeal,Boots of Swiftness,Essence Reaver,Doran's Blade,,3386,89501,Lane.bot_lane,Role.carry
+4,Natalia Dyer,Yasuo,False,Side.blue,1,6,5,1.0,183,Flash,Teleport,13,False,8773,8925,Doran's Blade,Doran's Blade,Infinity Edge,Control Ward,Phantom Dancer,Ninja Tabi,25183,72814,Lane.top_lane,Role.solo
+5,Hyorimaru,Anivia,True,Side.red,2,2,9,5.5,179,Flash,Exhaust,14,False,9526,8525,Doran's Ring,Boots of Mobility,Archangel's Staff,Doran's Ring,Rod of Ages,Blasting Wand,88325,9335,Lane.mid_lane,Role.solo
+6,TwistyJuker,Lee Sin,True,Side.red,3,6,9,2.0,102,Flash,Smite,12,False,9167,8500,Tiamat,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Cloth Armor,Ninja Tabi,13900,83188,Lane.jungle,Role.none
+7,dog deft,Twitch,True,Side.red,10,3,1,3.6666666666666665,173,Flash,Heal,13,False,11372,9700,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,Doran's Blade,1398,101156,Lane.bot_lane,Role.carry
+8,1onz,Lulu,True,Side.red,1,3,14,5.0,8,Flash,Ignite,11,False,7068,6425,Redemption,Boots of Mobility,Sightstone,Spellthief's Edge,Aegis of the Legion,Null-Magic Mantle,8826,5740,Lane.bot_lane,Role.support
+9,Link,Jayce,True,Side.red,8,3,4,4.0,207,Flash,Teleport,15,False,12465,11300,Youmuu's Ghostblade,Manamune,B. F. Sword,Doran's Blade,Phantom Dancer,Ionian Boots of Lucidity,25397,130427,Lane.top_lane,Role.solo

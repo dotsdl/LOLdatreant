@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zaganox,Ezreal,True,Side.blue,8,5,8,3.2,210,Heal,Flash,14,True,13042,11683,Doran's Blade,The Bloodthirster,,Muramana,Trinity Force,Ionian Boots of Lucidity,13206,130522,Lane.bot_lane,Role.carry
+1,Wintrader Vulcan,Braum,True,Side.blue,0,3,16,5.333333333333333,30,Flash,Exhaust,12,False,8349,7925,Locket of the Iron Solari,Ruby Sightstone,,Redemption,Boots of Mobility,Relic Shield,8031,9880,Lane.bot_lane,Role.support
+2,blaberfish2,Kha'Zix,True,Side.blue,24,2,3,13.5,152,Flash,Smite,16,False,16552,14310,Guardian Angel,Enchantment: Warrior,Tiamat,Ninja Tabi,The Black Cleaver,Maw of Malmortius,7534,170456,Lane.jungle,Role.none
+3,Titan Dweevil,Brand,True,Side.blue,4,3,11,5.0,139,Ignite,Flash,14,False,10379,8800,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Liandry's Torment,,67373,13474,Lane.mid_lane,Role.solo
+4,The Tank Man,Maokai,True,Side.blue,5,4,12,4.25,133,Flash,Teleport,14,False,10443,9800,Giant's Belt,Ninja Tabi,Doran's Shield,Sunfire Cape,Spirit Visage,Warden's Mail,75470,10284,Lane.top_lane,Role.solo
+5,Maxtrobo,Syndra,False,Side.red,6,7,3,1.2857142857142858,195,Flash,Ghost,14,False,10009,9250,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,108081,9437,Lane.jungle,Role.none
+6,Révenge,Yasuo,False,Side.red,6,10,5,1.1,140,Teleport,Flash,13,False,9074,8150,Blade of the Ruined King,Doran's Blade,Phantom Dancer,Doran's Blade,Mercury's Treads,,23286,68999,Lane.top_lane,Role.solo
+7,cesuna,Shyvana,False,Side.red,4,7,4,1.1428571428571428,133,Flash,Smite,13,False,9129,8750,Refillable Potion,Rylai's Crystal Scepter,Haunting Guise,,Enchantment: Cinderhulk,Mercury's Treads,76443,34829,Lane.jungle,Role.none
+8,1936 1948,Bard,False,Side.red,0,11,3,0.2727272727272727,5,Ignite,Flash,10,False,5642,5150,Frostfang,Boots of Mobility,Sightstone,,Redemption,,5209,2363,Lane.bot_lane,Role.support
+9,Aerodactyl,Tristana,False,Side.red,1,6,7,1.3333333333333333,172,Flash,Heal,14,False,9290,8875,,,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,25375,77297,Lane.bot_lane,Role.carry

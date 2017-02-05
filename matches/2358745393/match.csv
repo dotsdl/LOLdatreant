@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WatchThePower,Riven,False,Side.blue,13,6,2,2.5,273,Flash,Teleport,18,False,15937,15450,The Black Cleaver,Ravenous Hydra,Mercurial Scimitar,Ionian Boots of Lucidity,Guardian Angel,Giant Slayer,0,198756,Lane.top_lane,Role.solo
+1,Seel,Evelynn,False,Side.blue,3,8,8,1.375,133,Flash,Smite,15,True,11289,10475,Enchantment: Runic Echoes,Abyssal Scepter,Hextech Protobelt-01,Sorcerer's Shoes,Chain Vest,Ruby Crystal,81102,45030,Lane.jungle,Role.none
+2,Anhtastic,Caitlyn,False,Side.blue,2,6,7,1.5,271,Heal,Flash,15,False,12306,10825,Doran's Blade,,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,2273,178521,Lane.bot_lane,Role.carry
+3,Anatech,Braum,False,Side.blue,1,5,10,2.2,33,Flash,Exhaust,13,False,9121,8125,Relic Shield,Redemption,Ruby Sightstone,Giant's Belt,Warden's Mail,Boots of Mobility,9728,5355,Lane.bot_lane,Role.support
+4,WacWiller,Ryze,False,Side.blue,5,9,6,1.2222222222222223,236,Flash,Ghost,16,False,12679,10935,Ionian Boots of Lucidity,Rod of Ages,Seraph's Embrace,Abyssal Scepter,Amplifying Tome,Ruby Crystal,152707,16091,Lane.mid_lane,Role.solo
+5,Snow Day Singed,Poppy,True,Side.red,6,2,10,8.0,181,Teleport,Flash,17,False,13596,12975,Dead Man's Plate,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Spirit Visage,,42131,92381,Lane.top_lane,Role.solo
+6,Ahri on Shaco,Syndra,True,Side.red,10,6,12,3.6666666666666665,216,Flash,Ghost,17,False,15609,15225,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Rabadon's Deathcap,Void Staff,Fiendish Codex,152793,13781,Lane.mid_lane,Role.solo
+7,Ench,Kha'Zix,True,Side.red,10,6,6,2.6666666666666665,139,Smite,Flash,16,False,14578,13875,Mortal Reminder,Long Sword,Mercury's Treads,Enchantment: Warrior,Maw of Malmortius,Death's Dance,4822,177460,Lane.jungle,Role.none
+8,asianaffliter,Twitch,True,Side.red,7,7,7,2.0,260,Flash,Heal,16,False,14994,14250,Mercurial Scimitar,,Infinity Edge,Phantom Dancer,Runaan's Hurricane,Berserker's Greaves,0,143687,Lane.bot_lane,Role.carry
+9,WhiteOwange,Alistar,True,Side.red,0,3,18,6.0,60,Exhaust,Flash,14,False,10767,9075,Locket of the Iron Solari,Eye of the Equinox,Knight's Vow,,Forbidden Idol,Boots of Mobility,10289,9616,Lane.bot_lane,Role.support

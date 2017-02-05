@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,theuberone,Sion,True,Side.blue,1,0,6,7.0,75,Flash,Smite,10,False,6543,5475,Enchantment: Cinderhulk,Glacial Shroud,Boots of Swiftness,Kindlegem,,,20329,40965,Lane.jungle,Role.none
+1,Sphinx,Fiddlesticks,True,Side.blue,3,3,1,1.3333333333333333,97,Teleport,Flash,11,False,6694,5800,Zhonya's Hourglass,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Fiendish Codex,,41486,7003,Lane.top_lane,Role.solo
+2, keine Hosen,Ezreal,True,Side.blue,7,1,7,14.0,125,Flash,Heal,10,False,8855,6650,Iceborn Gauntlet,,Manamune,Doran's Blade,Ionian Boots of Lucidity,,8233,72945,Lane.bot_lane,Role.carry
+3,Besaid,Syndra,True,Side.blue,11,2,2,6.5,137,Flash,Ghost,12,False,9741,7100,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Aether Wisp,81273,10120,Lane.jungle,Role.none
+4,I Lee Ji eun U,Soraka,True,Side.blue,2,2,9,5.5,7,Exhaust,Flash,10,False,6457,4750,Control Ward,Eye of the Oasis,,Ionian Boots of Lucidity,,Mejai's Soulstealer,12391,5323,Lane.bot_lane,Role.support
+5,Rex Sum,Vayne,False,Side.red,2,3,1,1.0,121,Teleport,Flash,11,False,5878,5625,Doran's Blade,Blade of the Ruined King,Quicksilver Sash,,Boots of Speed,,240,42427,Lane.top_lane,Role.solo
+6,Aisonu,Ahri,False,Side.red,0,9,1,0.1111111111111111,63,Flash,Ignite,8,False,4255,3480,Doran's Ring,Doran's Ring,Negatron Cloak,Fiendish Codex,Boots of Speed,Amplifying Tome,16473,6341,Lane.mid_lane,Role.solo
+7,Shuvi,Poppy,False,Side.red,2,2,4,3.0,76,Smite,Flash,11,False,5549,4975,Aegis of the Legion,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,,,9193,46271,Lane.jungle,Role.none
+8,Alexandriea,Jhin,False,Side.red,3,3,1,1.3333333333333333,94,Flash,Heal,8,True,5590,6745,Essence Reaver,,,Boots of Speed,Doran's Blade,,959,38545,Lane.bot_lane,Role.carry
+9,DarkX,Thresh,False,Side.red,1,7,3,0.5714285714285714,21,Flash,Exhaust,8,False,4119,3425,Ruby Sightstone,Boots of Speed,,Targon's Brace,Ruby Crystal,,5084,2934,Lane.bot_lane,Role.support

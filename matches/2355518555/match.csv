@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Battousai Himura,Leona,False,Side.blue,1,10,8,0.9,42,Flash,Ignite,11,False,7352,6725,Face of the Mountain,Kindlegem,Mercury's Treads,Spectre's Cowl,,Sightstone,10249,9602,Lane.bot_lane,Role.support
+1,Peaceman,Malzahar,False,Side.blue,11,3,4,5.0,151,Smite,Flash,15,False,11039,10710,Control Ward,Enchantment: Runic Echoes,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,Amplifying Tome,86474,21083,Lane.jungle,Role.none
+2,Fiftygbl,Caitlyn,False,Side.blue,5,11,5,0.9090909090909091,187,Heal,Flash,13,False,10519,10175,Runaan's Hurricane,Infinity Edge,Zeal,Berserker's Greaves,Doran's Blade,Dagger,1276,103247,Lane.bot_lane,Role.carry
+3,itsDaki,Rammus,False,Side.blue,0,8,6,0.75,127,Flash,Teleport,13,False,7781,7450,Spirit Visage,Sunfire Cape,Corrupting Potion,Ninja Tabi,,,46448,25968,Lane.top_lane,Role.solo
+4,PulseCore Cube,Anivia,False,Side.blue,6,3,5,3.6666666666666665,183,Ignite,Flash,14,False,9969,8885,Seraph's Embrace,Rod of Ages,Amplifying Tome,Doran's Ring,Blasting Wand,Ionian Boots of Lucidity,95303,11114,Lane.mid_lane,Role.solo
+5,Feeding Waffles,Cassiopeia,True,Side.red,6,4,7,3.25,199,Ghost,Flash,15,False,12515,10750,Doran's Ring,Rylai's Crystal Scepter,Rod of Ages,Fiendish Codex,Seraph's Embrace,,124533,13989,Lane.mid_lane,Role.solo
+6,FourofDiamonds,Shaco,True,Side.red,14,6,5,3.1666666666666665,103,Smite,Ignite,15,True,13595,12775,Tiamat,Blade of the Ruined King,Mercurial Scimitar,Boots of Mobility,Vampiric Scepter,Enchantment: Warrior,28785,98297,Lane.jungle,Role.none
+7,Strength1232,Vayne,True,Side.red,11,5,8,3.8,190,Flash,Heal,15,False,13826,9825,Doran's Blade,Bilgewater Cutlass,Dagger,Infinity Edge,Berserker's Greaves,Statikk Shiv,24305,108981,Lane.bot_lane,Role.duo
+8,B00STED TURTLE,Gangplank,True,Side.red,2,2,8,5.0,194,Flash,Teleport,16,False,12532,10458,Corrupting Potion,Trinity Force,Ionian Boots of Lucidity,Infinity Edge,Last Whisper,Long Sword,4840,147773,Lane.top_lane,Role.solo
+9,xvae,Blitzcrank,True,Side.red,2,6,14,2.6666666666666665,52,Flash,Exhaust,13,False,9281,7150,Mercury's Treads,Sightstone,Righteous Glory,Crystalline Bracer,Targon's Brace,Crystalline Bracer,11918,10031,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ðan the Man,Blitzcrank,False,Side.blue,0,6,4,0.6666666666666666,40,Exhaust,Flash,10,False,5703,4900,Face of the Mountain,Boots of Mobility,Sightstone,Crystalline Bracer,,,5786,6193,Lane.bot_lane,Role.support
+1,sorrymybad1,Jhin,False,Side.blue,5,2,2,3.5,143,Flash,Heal,11,False,8261,7875,Boots of Swiftness,Rapid Firecannon,Total Biscuit of Rejuvenation,Doran's Blade,,Essence Reaver,9647,69787,Lane.bot_lane,Role.carry
+2,S Diana 2,Diana,False,Side.blue,5,7,2,1.0,136,Ignite,Flash,12,False,7929,7575,Doran's Ring,Luden's Echo,Seeker's Armguard,Sorcerer's Shoes,Fiendish Codex,Doran's Ring,73649,11364,Lane.mid_lane,Role.solo
+3,Notice Me AOA,Yasuo,False,Side.blue,0,4,0,0.0,193,Flash,Exhaust,13,False,7640,6475,Doran's Shield,Refillable Potion,Phantom Dancer,Ninja Tabi,Cloak of Agility,B. F. Sword,22765,74153,Lane.top_lane,Role.solo
+4,123aaa789,Vi,False,Side.blue,2,6,3,0.8333333333333334,109,Flash,Smite,11,False,7398,6425,Enchantment: Warrior,Dagger,Control Ward,Ionian Boots of Lucidity,Phage,Sheen,1527,87227,Lane.jungle,Role.none
+5,jiayibingding,Lee Sin,True,Side.red,3,2,8,5.5,118,Smite,Flash,13,True,9560,8425,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Hexdrinker,Long Sword,Mercury's Treads,16256,91049,Lane.jungle,Role.none
+6,ChriShin,Kalista,True,Side.red,12,3,4,5.333333333333333,170,Heal,Flash,13,False,12081,9925,Blade of the Ruined King,Runaan's Hurricane,Vampiric Scepter,Doran's Blade,Berserker's Greaves,B. F. Sword,1881,100567,Lane.bot_lane,Role.carry
+7,foggedftw1,Tryndamere,True,Side.red,5,1,4,9.0,270,Ignite,Flash,17,False,12883,11100,Refillable Potion,Blade of the Ruined King,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,Pickaxe,44910,151854,Lane.top_lane,Role.solo
+8,Ayukura,Braum,True,Side.red,0,2,13,6.5,44,Flash,Exhaust,11,False,7637,6425,Sightstone,Face of the Mountain,Knight's Vow,,Boots of Speed,Total Biscuit of Rejuvenation,7042,6738,Lane.bot_lane,Role.support
+9,dellaint,Corki,True,Side.red,5,4,7,3.0,125,Exhaust,Flash,13,False,10138,8883,Hextech Gunblade,Trinity Force,Corrupting Potion,,,Sorcerer's Shoes,62153,18980,Lane.jungle,Role.none

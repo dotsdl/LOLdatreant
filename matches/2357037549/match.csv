@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,35173856,Kindred,True,Side.blue,4,3,4,2.6666666666666665,71,Smite,Flash,11,True,8282,7135,Bilgewater Cutlass,Refillable Potion,Berserker's Greaves,Recurve Bow,Enchantment: Bloodrazor,Dagger,2021,80284,Lane.jungle,Role.none
+1,RexRequired,Nasus,True,Side.blue,0,4,8,2.0,125,Teleport,Flash,12,False,8002,6933,Raptor Cloak,Ninja Tabi,Doran's Ring,Trinity Force,,,44142,26107,Lane.top_lane,Role.solo
+2,C9 Lemon,Karma,True,Side.blue,3,3,10,4.333333333333333,126,Ignite,Flash,13,False,8682,6875,Doran's Ring,Luden's Echo,Ionian Boots of Lucidity,Athene's Unholy Grail,,,62381,14041,Lane.mid_lane,Role.solo
+3,Cat Person,Lulu,True,Side.blue,0,3,10,3.3333333333333335,13,Flash,Heal,10,False,6691,6450,Redemption,Sightstone,Frost Queen's Claim,,,Boots of Mobility,8206,3810,Lane.bot_lane,Role.support
+4,Falco Mechanic,Tristana,True,Side.blue,8,2,4,6.0,188,Exhaust,Flash,13,False,11790,9150,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,Null-Magic Mantle,22505,105375,Lane.bot_lane,Role.carry
+5,Suna Shogun Sama,Orianna,False,Side.red,1,3,6,2.3333333333333335,96,Flash,Ghost,11,False,6685,5950,Refillable Potion,Needlessly Large Rod,Sorcerer's Shoes,Blasting Wand,Athene's Unholy Grail,Doran's Ring,44269,10775,Lane.mid_lane,Role.solo
+6,Aint Random,Renekton,False,Side.red,4,4,2,1.5,133,Flash,Teleport,12,False,7892,7725,Jaurim's Fist,Tiamat,Ninja Tabi,Doran's Blade,The Black Cleaver,Ruby Crystal,4065,76719,Lane.top_lane,Role.solo
+7,LÌn,Blitzcrank,False,Side.red,2,3,5,2.3333333333333335,39,Ignite,Flash,10,False,6105,5225,Control Ward,Eye of the Equinox,Cloth Armor,Crystalline Bracer,Crystalline Bracer,Boots of Mobility,11111,6181,Lane.bot_lane,Role.support
+8,Emilia Is Love,Vayne,False,Side.red,5,2,3,4.0,143,Flash,Heal,11,False,8699,7550,Berserker's Greaves,Pickaxe,Total Biscuit of Rejuvenation,Statikk Shiv,Vampiric Scepter,B. F. Sword,13133,57281,Lane.bot_lane,Role.carry
+9,Pants are Dragon,Ivern,False,Side.red,3,3,7,3.3333333333333335,82,Smite,Flash,12,False,7892,7300,Hunter's Talisman,Refillable Potion,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,Aegis of the Legion,17112,7266,Lane.jungle,Role.none

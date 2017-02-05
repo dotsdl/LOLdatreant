@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Onat,Bard,False,Side.blue,0,7,2,0.2857142857142857,18,Exhaust,Flash,10,False,5768,5175,Sightstone,Frost Queen's Claim,Boots of Speed,Crystalline Bracer,Forbidden Idol,,10931,3678,Lane.bot_lane,Role.support
+1,Reclaimer1,Orianna,False,Side.blue,3,7,2,0.7142857142857143,178,Flash,Ignite,13,False,8462,7285,Doran's Ring,Blasting Wand,Amplifying Tome,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,86045,15466,Lane.mid_lane,Role.solo
+2,Sheathix,Ezreal,False,Side.blue,1,10,1,0.2,131,Flash,Heal,10,False,7152,6675,Muramana,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,,Control Ward,12709,54342,Lane.bot_lane,Role.carry
+3,WatchThePower,Rek'Sai,False,Side.blue,4,6,1,0.8333333333333334,151,Flash,Smite,13,False,8757,8575,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Mercury's Treads,Chain Vest,Ruby Crystal,31724,89851,Lane.jungle,Role.none
+4,Dyr0nejk2,Renekton,False,Side.blue,4,9,0,0.4444444444444444,198,Ignite,Flash,13,False,9413,9275,Ravenous Hydra,Mercury's Treads,The Black Cleaver,Hexdrinker,,,2867,115727,Lane.top_lane,Role.solo
+5,Kaluhaluthepen15,Morgana,True,Side.red,2,2,31,16.5,10,Exhaust,Flash,14,False,9961,8500,Frost Queen's Claim,Mikael's Crucible,Sightstone,Redemption,Boots of Mobility,,16247,8136,Lane.bot_lane,Role.support
+6,Packs Of C4,Lee Sin,True,Side.red,3,3,17,6.666666666666667,110,Flash,Smite,14,False,9812,8525,Refillable Potion,Tiamat,Enchantment: Cinderhulk,Mercury's Treads,Dead Man's Plate,Ruby Crystal,28869,82790,Lane.jungle,Role.none
+7,Mi Amor Teemo,Trundle,True,Side.red,5,3,3,2.6666666666666665,226,Flash,Teleport,15,False,11337,10375,Corrupting Potion,Ravenous Hydra,Dead Man's Plate,Ninja Tabi,Phage,Sheen,5804,134963,Lane.top_lane,Role.solo
+8,Dazhao Shangmiss,Annie,True,Side.red,3,4,17,5.0,153,Ghost,Flash,14,False,9834,8125,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Abyssal Scepter,The Dark Seal,,67673,9884,Lane.mid_lane,Role.solo
+9,OmegaB,Jhin,True,Side.red,26,0,4,30.0,191,Flash,Heal,14,True,15657,13150,The Bloodthirster,Essence Reaver,Boots of Swiftness,Last Whisper,Rapid Firecannon,Long Sword,7154,141076,Lane.bot_lane,Role.carry

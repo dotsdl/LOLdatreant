@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cute pupper irl,Zyra,True,Side.blue,0,0,9,9.0,8,Flash,Exhaust,10,False,5578,4610,Control Ward,Eye of the Watchers,Refillable Potion,Boots of Mobility,Ruby Crystal,Amplifying Tome,13973,7523,Lane.bot_lane,Role.support
+1,21 Sheepage,Nautilus,True,Side.blue,3,2,2,2.5,132,Flash,Teleport,12,True,7441,6900,Corrupting Potion,Zz'Rot Portal,Spectre's Cowl,Cloth Armor,Bami's Cinder,Mercury's Treads,54134,18848,Lane.top_lane,Role.solo
+2,swoloHey,Evelynn,True,Side.blue,2,0,4,6.0,103,Flash,Smite,11,False,7228,6425,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Boots of Speed,Refillable Potion,Control Ward,,53810,29212,Lane.jungle,Role.none
+3,WildTurtle,Caitlyn,True,Side.blue,7,0,2,9.0,186,Flash,Heal,12,False,10243,8675,Doran's Blade,Infinity Edge,Brawler's Gloves,Berserker's Greaves,Dagger,Statikk Shiv,20126,95542,Lane.bot_lane,Role.carry
+4,qldurtms,Cassiopeia,True,Side.blue,3,0,6,9.0,156,Flash,Ghost,12,False,8247,7675,Refillable Potion,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,Tear of the Goddess,,56489,9340,Lane.mid_lane,Role.solo
+5,Carrots2,Lulu,False,Side.red,0,3,0,0.0,18,Flash,Exhaust,8,False,3939,3860,Eye of the Oasis,Control Ward,Amplifying Tome,Forbidden Idol,Faerie Charm,Boots of Speed,4696,1974,Lane.bot_lane,Role.support
+6,Pekin Woof,Ryze,False,Side.red,0,2,0,0.0,169,Flash,Ghost,12,False,6148,5975,Tear of the Goddess,Refillable Potion,Needlessly Large Rod,Rod of Ages,Ionian Boots of Lucidity,,76746,6377,Lane.mid_lane,Role.solo
+7,Stiches,Jinx,False,Side.red,0,1,0,0.0,129,Heal,Flash,9,False,5161,4750,B. F. Sword,Zeal,Berserker's Greaves,Doran's Blade,Doran's Blade,,2198,47841,Lane.bot_lane,Role.carry
+8,Link,Lee Sin,False,Side.red,2,4,0,0.5,78,Flash,Smite,10,False,5342,4900,Tracker's Knife,Tiamat,Refillable Potion,,Hexdrinker,Mercury's Treads,6668,53987,Lane.jungle,Role.none
+9,Rohammers,Ekko,False,Side.red,0,5,1,0.2,92,Teleport,Flash,10,False,4764,4125,Hextech Protobelt-01,Corrupting Potion,Control Ward,The Dark Seal,Doran's Ring,Boots of Speed,52341,9832,Lane.top_lane,Role.solo

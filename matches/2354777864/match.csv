@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mr Gimix,Ziggs,False,Side.blue,5,8,3,1.0,62,Exhaust,Flash,12,False,9585,9225,Frostfang,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Sightstone,,60771,6605,Lane.bot_lane,Role.support
+1,Adrian Riven,Riven,False,Side.blue,8,10,4,1.2,153,Teleport,Flash,16,False,11183,10825,Youmuu's Ghostblade,The Black Cleaver,Quicksilver Sash,Pickaxe,Ninja Tabi,Vampiric Scepter,3907,107282,Lane.top_lane,Role.solo
+2,blaberfish2,Olaf,False,Side.blue,5,5,7,2.4,157,Ghost,Smite,15,False,11467,11325,Enchantment: Cinderhulk,The Black Cleaver,Randuin's Omen,Ionian Boots of Lucidity,Spectre's Cowl,,22240,121398,Lane.jungle,Role.none
+3,SKY Fear,Varus,False,Side.blue,1,7,6,1.0,193,Flash,Heal,13,False,9872,9175,Doran's Blade,Runaan's Hurricane,Pickaxe,Control Ward,Berserker's Greaves,Essence Reaver,3965,89974,Lane.bot_lane,Role.carry
+4,Pobelter,Talon,False,Side.blue,6,6,3,1.5,212,Flash,Ignite,15,False,11976,11325,Youmuu's Ghostblade,Pickaxe,Duskblade of Draktharr,Mercury's Treads,Serrated Dirk,Hexdrinker,1377,107389,Lane.mid_lane,Role.solo
+5,Pekin Woof,Alistar,True,Side.red,0,4,18,4.5,40,Flash,Exhaust,13,False,9219,8100,Redemption,Knight's Vow,Ruby Sightstone,Ruby Crystal,Relic Shield,Boots of Mobility,9970,6564,Lane.bot_lane,Role.support
+6,Shiphtur,Ahri,True,Side.red,10,3,9,6.333333333333333,225,Ignite,Flash,17,False,14084,9675,Doran's Ring,Hextech Gunblade,Seeker's Armguard,Morellonomicon,The Dark Seal,Sorcerer's Shoes,89344,20860,Lane.mid_lane,Role.solo
+7,impala tamer,Ashe,True,Side.red,3,3,10,4.333333333333333,220,Heal,Flash,15,False,12439,9375,Doran's Blade,Infinity Edge,,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,1749,145643,Lane.bot_lane,Role.carry
+8,Révenge,Jayce,True,Side.red,20,8,10,3.75,151,Teleport,Flash,17,True,16308,14455,Guardian Angel,Youmuu's Ghostblade,Mercurial Scimitar,,The Black Cleaver,Ninja Tabi,20692,121984,Lane.top_lane,Role.solo
+9,SsumdaySmebMarin,Rengar,True,Side.red,3,7,6,1.2857142857142858,179,Smite,Flash,16,False,12087,10475,Tiamat,Ruby Crystal,The Black Cleaver,Enchantment: Warrior,Ninja Tabi,,19249,151948,Lane.jungle,Role.none

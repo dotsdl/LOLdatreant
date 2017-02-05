@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IQ is 201 ,Talon,True,Side.blue,10,10,13,2.3,89,Flash,Ghost,14,True,10976,9450,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,Ionian Boots of Lucidity,B. F. Sword,Serrated Dirk,2054,64427,Lane.mid_lane,Role.duo
+1,GalileoGalilley,Jhin,True,Side.blue,15,2,9,12.0,215,Flash,Heal,16,False,15064,13450,Youmuu's Ghostblade,Quicksilver Sash,Rapid Firecannon,Berserker's Greaves,Infinity Edge,B. F. Sword,4460,170478,Lane.bot_lane,Role.carry
+2,Sn4cky,Nautilus,True,Side.blue,4,5,16,4.0,170,Flash,Teleport,15,False,11430,9800,Corrupting Potion,Zz'Rot Portal,Sunfire Cape,Ninja Tabi,Glacial Shroud,Spectre's Cowl,85709,18224,Lane.top_lane,Role.solo
+3,LightDatz,Vi,True,Side.blue,6,4,7,3.25,135,Flash,Smite,14,False,11521,10885,Enchantment: Warrior,Guardian Angel,Mercury's Treads,The Black Cleaver,Hexdrinker,Control Ward,1366,127246,Lane.mid_lane,Role.duo
+4,colourkevin,Janna,True,Side.blue,1,4,24,6.25,17,Exhaust,Flash,13,False,9356,7675,Talisman of Ascension,Redemption,Refillable Potion,Ionian Boots of Lucidity,Sightstone,Chalice of Harmony,6818,6449,Lane.bot_lane,Role.support
+5,JaySo,Ahri,False,Side.red,4,7,9,1.8571428571428572,153,Ignite,Flash,14,False,10306,9775,Doran's Ring,Rabadon's Deathcap,,Morellonomicon,Sorcerer's Shoes,Seeker's Armguard,60687,13895,Lane.mid_lane,Role.solo
+6,OmegaB,Kha'Zix,False,Side.red,11,8,2,1.625,132,Flash,Smite,14,False,11936,11125,Enchantment: Warrior,Duskblade of Draktharr,Phage,Guardian Angel,Ionian Boots of Lucidity,Long Sword,5988,136510,Lane.jungle,Role.none
+7,Huw,Irelia,False,Side.red,5,7,3,1.1428571428571428,162,Teleport,Flash,13,False,9875,9033,Trinity Force,Blade of the Ruined King,Corrupting Potion,Berserker's Greaves,,Cloth Armor,5750,70422,Lane.top_lane,Role.solo
+8,Asc Intercourse,Ashe,False,Side.red,5,10,3,0.8,169,Flash,Heal,13,False,10096,9350,Lord Dominik's Regards,Cloak of Agility,B. F. Sword,,Runaan's Hurricane,Berserker's Greaves,2770,100592,Lane.bot_lane,Role.carry
+9,Leon4242,Karma,False,Side.red,0,4,14,3.5,38,Flash,Exhaust,13,False,8517,7450,Spellthief's Edge,Ruby Sightstone,Redemption,Boots of Mobility,,Locket of the Iron Solari,26910,9093,Lane.bot_lane,Role.support

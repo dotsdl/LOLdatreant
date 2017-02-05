@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sight,Nautilus,False,Side.blue,1,6,1,0.3333333333333333,22,Flash,Exhaust,9,False,4893,3700,Targon's Brace,Sightstone,Boots of Mobility,Total Biscuit of Rejuvenation,Kindlegem,,4666,6084,Lane.bot_lane,Role.support
+1,titanicfiddle,Katarina,False,Side.blue,0,7,4,0.5714285714285714,104,Flash,Teleport,11,False,5841,5075,Sorcerer's Shoes,Refillable Potion,Hextech Gunblade,,,,42296,5846,Lane.mid_lane,Role.solo
+2,BiggestFeedLord,Sivir,False,Side.blue,2,5,4,1.2,102,Flash,Heal,10,False,6541,5200,Doran's Blade,Essence Reaver,Berserker's Greaves,,,,0,55178,Lane.bot_lane,Role.carry
+3,Beaverman445,Shyvana,False,Side.blue,4,5,1,1.0,121,Smite,Flash,12,False,8007,6600,Tiamat,Boots of Speed,Phage,Stinger,,Enchantment: Bloodrazor,44373,63127,Lane.jungle,Role.none
+4,Kud0s,Swain,False,Side.blue,3,9,1,0.4444444444444444,85,Teleport,Flash,11,False,6312,5300,Doran's Ring,Tear of the Goddess,Rod of Ages,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,,39489,9546,Lane.top_lane,Role.solo
+5,C10 Topdie,Fiora,True,Side.red,8,4,2,2.5,161,Flash,Teleport,14,True,10282,9675,The Black Cleaver,Mercury's Treads,The Bloodthirster,,Tiamat,Corrupting Potion,1781,89113,Lane.top_lane,Role.solo
+6,Perrito,Lux,True,Side.red,6,2,8,7.0,129,Barrier,Flash,13,False,9111,8750,Doran's Ring,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Blasting Wand,66002,18028,Lane.mid_lane,Role.solo
+7,KitingYeezus,Tahm Kench,True,Side.red,5,2,15,10.0,39,Flash,Exhaust,11,False,8890,8575,Sightstone,Face of the Mountain,Ionian Boots of Lucidity,Dead Man's Plate,Crystalline Bracer,Forbidden Idol,16167,8465,Lane.bot_lane,Role.support
+8,unknownhere,Caitlyn,True,Side.red,6,2,7,6.5,124,Heal,Flash,12,False,9105,7950,Pickaxe,Total Biscuit of Rejuvenation,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,Mejai's Soulstealer,749,79278,Lane.bot_lane,Role.carry
+9,Shaco Fellacio,Shaco,True,Side.red,7,0,3,10.0,79,Smite,Ignite,12,False,8957,7175,Enchantment: Warrior,Titanic Hydra,Refillable Potion,Boots of Mobility,,,15662,71631,Lane.jungle,Role.none

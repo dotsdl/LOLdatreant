@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arcade AHRl,Ahri,True,Side.blue,8,3,16,8.0,206,Flash,Ignite,16,False,14338,11200,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,Luden's Echo,,115540,18717,Lane.mid_lane,Role.solo
+1,Is That Sony,Ashe,True,Side.blue,7,5,11,3.6,213,Heal,Flash,16,False,13572,11950,Infinity Edge,Runaan's Hurricane,Essence Reaver,Long Sword,Doran's Blade,Berserker's Greaves,3724,139243,Lane.bot_lane,Role.carry
+2,Give me hate pls,Blitzcrank,True,Side.blue,5,1,23,28.0,36,Ignite,Flash,15,False,11316,9650,Face of the Mountain,Redemption,Sightstone,Boots of Mobility,Knight's Vow,Control Ward,14797,8162,Lane.bot_lane,Role.support
+3,Darvec,Vi,True,Side.blue,13,6,11,4.0,152,Smite,Flash,16,True,14543,11908,Enchantment: Warrior,Spectre's Cowl,Trinity Force,Dead Man's Plate,Boots of Swiftness,,859,154589,Lane.jungle,Role.none
+4,C10 Sneakerz,Olaf,True,Side.blue,10,7,11,3.0,159,Teleport,Ghost,15,False,12919,12800,The Black Cleaver,Corrupting Potion,Randuin's Omen,Spirit Visage,Boots of Swiftness,Guardian Angel,664,96306,Lane.top_lane,Role.solo
+5,The Young Falco,Trundle,False,Side.red,4,8,9,1.625,140,Flash,Teleport,14,False,10350,9875,Randuin's Omen,Ravenous Hydra,Corrupting Potion,Mercury's Treads,Giant's Belt,Chain Vest,7493,97056,Lane.top_lane,Role.solo
+6,moose breeder,Shaco,False,Side.red,8,9,6,1.5555555555555556,182,Flash,Smite,16,False,13283,12950,Boots of Swiftness,Titanic Hydra,,Enchantment: Bloodrazor,Phantom Dancer,The Black Cleaver,27049,122292,Lane.jungle,Role.none
+7,Alexandriea,Vayne,False,Side.red,3,10,6,0.9,208,Flash,Heal,14,False,11462,11400,Blade of the Ruined King,Statikk Shiv,Infinity Edge,Doran's Blade,Berserker's Greaves,,30153,85771,Lane.bot_lane,Role.carry
+8,Zoido,Karma,False,Side.red,1,8,10,1.375,11,Exhaust,Flash,11,False,8466,7675,Boots of Mobility,Mikael's Crucible,Crystalline Bracer,Forbidden Idol,Control Ward,Eye of the Watchers,23292,3809,Lane.bot_lane,Role.support
+9,FourofDiamonds,Orianna,False,Side.red,6,8,5,1.375,182,Flash,Ghost,14,False,11033,9975,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,100761,12430,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SBU Dralistreal ,Caitlyn,False,Side.blue,0,6,4,0.6666666666666666,150,Flash,Heal,11,False,6527,6350,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Last Whisper,Cull,Dagger,664,74595,Lane.bot_lane,Role.carry
+1,YoIocaust,Ahri,False,Side.blue,0,1,5,5.0,196,Teleport,Flash,13,False,7610,6585,Doran's Ring,Morellonomicon,Ninja Tabi,Doran's Ring,Amplifying Tome,Needlessly Large Rod,57518,18018,Lane.top_lane,Role.solo
+2,Mr Vincere,Rengar,False,Side.blue,4,3,2,2.0,130,Smite,Flash,12,False,7994,7775,Enchantment: Cinderhulk,Mercury's Treads,The Black Cleaver,Refillable Potion,Chain Vest,,11732,74830,Lane.jungle,Role.none
+3,ONYX DlVlSION,Riven,False,Side.blue,3,7,1,0.5714285714285714,127,Flash,Ignite,11,True,6948,5900,Refillable Potion,The Black Cleaver,Doran's Blade,Ionian Boots of Lucidity,Vampiric Scepter,Long Sword,0,67427,Lane.mid_lane,Role.solo
+4,IGottaBigSmurf,Janna,False,Side.blue,1,2,2,1.5,18,Flash,Exhaust,10,False,5791,5175,Sightstone,Redemption,Boots of Swiftness,Nomad's Medallion,Cloth Armor,,4167,3005,Lane.bot_lane,Role.support
+5,BlackAndBluePain,Braum,True,Side.red,1,0,13,14.0,44,Flash,Exhaust,12,False,8395,7025,Refillable Potion,Zz'Rot Portal,Eye of the Equinox,Crystalline Bracer,Boots of Mobility,Sapphire Crystal,8962,11868,Lane.bot_lane,Role.support
+6,LoveLive Banzaai,Nautilus,True,Side.red,3,1,10,13.0,167,Flash,Teleport,14,False,10143,8725,Randuin's Omen,Corrupting Potion,Zz'Rot Portal,Bami's Cinder,Ninja Tabi,The Dark Seal,63798,28731,Lane.mid_lane,Role.solo
+7,Kasumi Will 1v9,Vi,True,Side.red,8,4,4,3.0,104,Smite,Flash,13,False,10412,9883,Refillable Potion,Serrated Dirk,Caulfield's Warhammer,Trinity Force,Enchantment: Warrior,Mercury's Treads,1815,112582,Lane.jungle,Role.none
+8,Lystuya,Vayne,True,Side.red,5,0,6,11.0,135,Flash,Heal,11,False,9905,9375,Statikk Shiv,Infinity Edge,Zeal,Berserker's Greaves,Doran's Blade,Control Ward,7850,59848,Lane.bot_lane,Role.carry
+9,Semoponume,Garen,True,Side.red,2,3,1,1.0,179,Teleport,Flash,14,False,9875,9100,Doran's Shield,Sunfire Cape,Spirit Visage,Mercury's Treads,Phage,Long Sword,8536,89222,Lane.top_lane,Role.solo

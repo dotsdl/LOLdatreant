@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Elise,False,Side.blue,7,7,9,2.2857142857142856,81,Smite,Flash,13,True,9162,8350,,Hextech Protobelt-01,Boots of Mobility,Enchantment: Runic Echoes,Fiendish Codex,Seeker's Armguard,62870,18738,Lane.jungle,Role.none
+1,Pap,Orianna,False,Side.blue,3,9,8,1.2222222222222223,122,Cleanse,Flash,12,False,8497,8050,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,,,Sorcerer's Shoes,52498,8728,Lane.mid_lane,Role.solo
+2,Phillip Ho,Vayne,False,Side.blue,4,7,5,1.2857142857142858,143,Heal,Flash,12,False,8549,8475,Quicksilver Sash,Statikk Shiv,Pickaxe,Doran's Blade,B. F. Sword,Berserker's Greaves,11386,46873,Lane.bot_lane,Role.carry
+3,BubbleTeaLife,Yasuo,False,Side.blue,4,6,7,1.8333333333333333,147,Teleport,Flash,13,False,8851,8725,Doran's Blade,Blade of the Ruined King,Phantom Dancer,Mercury's Treads,Cloak of Agility,,26212,64033,Lane.top_lane,Role.solo
+4,15ive,Tahm Kench,False,Side.blue,5,11,5,0.9090909090909091,29,Ghost,Exhaust,11,False,7423,7350,Eye of the Equinox,Boots of Swiftness,Dead Man's Plate,Spectre's Cowl,,,9649,4971,Lane.bot_lane,Role.support
+5,Epicalo,Rammus,True,Side.red,1,4,9,2.5,125,Flash,Teleport,13,False,9005,7850,Doran's Shield,Thornmail,Ninja Tabi,Banshee's Veil,Bami's Cinder,Cloth Armor,37094,22776,Lane.top_lane,Role.solo
+6,Bad Luck Brian,Miss Fortune,True,Side.red,18,4,11,7.25,171,Heal,Flash,14,False,15737,14375,Vampiric Scepter,Youmuu's Ghostblade,Duskblade of Draktharr,The Black Cleaver,Boots of Swiftness,Last Whisper,4118,108942,Lane.bot_lane,Role.carry
+7,TheThrillOfDeath,Thresh,True,Side.red,0,5,25,5.0,5,Flash,Exhaust,13,False,9536,7925,Eye of the Oasis,Frozen Heart,Mercury's Treads,Spectre's Cowl,Kindlegem,,12266,3953,Lane.bot_lane,Role.support
+8,Kamsahapneeda,Annie,True,Side.red,17,6,11,4.666666666666667,158,Ignite,Flash,15,False,14342,12950,Doran's Ring,Void Staff,Rabadon's Deathcap,Luden's Echo,Needlessly Large Rod,Ionian Boots of Lucidity,120893,11606,Lane.mid_lane,Role.solo
+9,SonOfNoOne,Skarner,True,Side.red,4,5,10,2.8,117,Smite,Flash,13,False,10385,10225,Zz'Rot Portal,Ionian Boots of Lucidity,Spirit Visage,Phage,Cloth Armor,Sheen,21763,67458,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Guevin,Braum,True,Side.blue,0,0,2,2.0,20,Flash,Exhaust,7,False,3653,2750,Targon's Brace,Sightstone,Boots of Mobility,,,,3027,5640,Lane.bot_lane,Role.duo
+1,Jooki,Nasus,True,Side.blue,0,2,0,0.0,87,Teleport,Flash,9,False,4841,3550,Corrupting Potion,Sheen,Kindlegem,Raptor Cloak,,,14465,27481,Lane.top_lane,Role.solo
+2,ArcadeRenegade,Vayne,True,Side.blue,1,0,0,1.0,78,Heal,Flash,7,False,4640,4150,B. F. Sword,Zeal,Kircheis Shard,Boots of Speed,,Doran's Blade,122,29521,Lane.bot_lane,Role.duo
+3,Qabado,Ziggs,True,Side.blue,0,0,2,2.0,110,Flash,Ghost,9,False,5197,3700,,Morellonomicon,Doran's Ring,Boots of Speed,,,36323,10762,Lane.mid_lane,Role.solo
+4,Slappers,Graves,True,Side.blue,3,1,1,4.0,62,Smite,Flash,9,True,6075,4650,Control Ward,Refillable Potion,Enchantment: Warrior,Berserker's Greaves,Dagger,Brawler's Gloves,2530,56209,Lane.jungle,Role.none
+5,the sleepiest,Tristana,False,Side.red,1,0,0,1.0,74,Heal,Flash,8,False,3757,3400,Doran's Blade,Zeal,B. F. Sword,Boots of Speed,,,7539,21042,Lane.bot_lane,Role.duo
+6,Crit God,Thresh,False,Side.red,0,2,2,1.0,9,Exhaust,Flash,8,False,2932,2350,Pickaxe,,Boots of Speed,Nomad's Medallion,,,5429,2755,Lane.bot_lane,Role.duo
+7,Anthøny,Kha'Zix,False,Side.red,1,1,0,1.0,59,Smite,Flash,8,False,3642,2550,Stalker's Blade,Refillable Potion,Caulfield's Warhammer,Boots of Speed,,,1906,31645,Lane.jungle,Role.none
+8,Bobby De Niro,Cassiopeia,False,Side.red,1,1,0,1.0,77,Ghost,Flash,8,False,3706,4235,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,,,9476,4303,Lane.mid_lane,Role.duo
+9,PandaTV HaoNan,Gangplank,False,Side.red,0,0,0,0.0,0,Flash,Teleport,2,False,1930,500,Sapphire Crystal,Refillable Potion,,,,,0,538,Lane.mid_lane,Role.duo

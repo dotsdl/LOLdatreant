@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rekd1 v2,Elise,True,Side.blue,5,5,14,3.8,117,Smite,Flash,15,True,11473,10620,Enchantment: Runic Echoes,Warden's Mail,Giant's Belt,Rylai's Crystal Scepter,Sorcerer's Shoes,Spectre's Cowl,85100,24731,Lane.jungle,Role.none
+1,RegisZZ,Yasuo,True,Side.blue,8,1,2,10.0,295,Flash,Teleport,17,False,15285,13900,Doran's Blade,Sterak's Gage,Berserker's Greaves,Phantom Dancer,Infinity Edge,Frozen Mallet,20666,190490,Lane.top_lane,Role.solo
+2,Outline,Karma,True,Side.blue,0,7,4,0.5714285714285714,143,Flash,Ignite,13,False,9499,8760,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Liandry's Torment,Amplifying Tome,76532,10580,Lane.mid_lane,Role.solo
+3,Swirl,Lulu,True,Side.blue,4,5,22,5.2,28,Exhaust,Flash,14,False,10698,9800,Redemption,Ruby Sightstone,Mikael's Crucible,Ionian Boots of Lucidity,Locket of the Iron Solari,Spellthief's Edge,17569,5768,Lane.bot_lane,Role.support
+4,Sangydog,Jhin,True,Side.blue,18,3,9,9.0,217,Flash,Heal,15,False,16269,12650,Essence Reaver,Doran's Blade,Infinity Edge,Boots of Swiftness,Rapid Firecannon,B. F. Sword,9047,166504,Lane.bot_lane,Role.carry
+5,Red Team,Twitch,False,Side.red,6,11,5,1.0,156,Flash,Heal,13,False,9685,9450,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,,0,79213,Lane.bot_lane,Role.carry
+6,ToxicGreenie QwQ,Orianna,False,Side.red,7,5,3,2.0,227,Ghost,Flash,15,False,11308,11250,Doran's Ring,Rabadon's Deathcap,Void Staff,,Morellonomicon,Sorcerer's Shoes,103330,16752,Lane.mid_lane,Role.solo
+7,adc feng lft,Riven,False,Side.red,2,5,4,1.2,227,Teleport,Flash,15,False,9798,9200,Refillable Potion,The Black Cleaver,Ionian Boots of Lucidity,Sterak's Gage,Vampiric Scepter,B. F. Sword,0,117945,Lane.top_lane,Role.solo
+8,Adisak,Zac,False,Side.red,1,6,9,1.6666666666666667,133,Smite,Flash,13,False,8912,8700,Spirit Visage,Refillable Potion,Giant's Belt,Warden's Mail,Enchantment: Cinderhulk,Ionian Boots of Lucidity,84942,14999,Lane.jungle,Role.none
+9,TSM SophieDewy,Vel'Koz,False,Side.red,5,8,7,1.5,28,Exhaust,Flash,12,False,8921,8185,Eye of the Watchers,Ionian Boots of Lucidity,Luden's Echo,Amplifying Tome,Blasting Wand,Control Ward,20650,4207,Lane.bot_lane,Role.support

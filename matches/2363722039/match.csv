@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lucidity,Thresh,True,Side.blue,2,2,16,9.0,25,Flash,Ignite,11,False,6945,5675,Face of the Mountain,Boots of Mobility,Ruby Sightstone,Ruby Crystal,,,7469,4590,Lane.bot_lane,Role.support
+1,rat fink boy,Ashe,True,Side.blue,8,1,10,18.0,169,Heal,Flash,12,False,10578,8825,Essence Reaver,Runaan's Hurricane,Berserker's Greaves,Pickaxe,Doran's Blade,,1302,82663,Lane.bot_lane,Role.carry
+2,nilhaG,Sejuani,True,Side.blue,5,4,6,2.75,114,Flash,Smite,11,False,8425,7400,Banner of Command,Refillable Potion,Mercury's Treads,Enchantment: Cinderhulk,Control Ward,Aegis of the Legion,59445,31555,Lane.jungle,Role.none
+3,rovex,Ryze,True,Side.blue,6,4,2,2.0,150,Flash,Ghost,12,True,8826,7900,Tear of the Goddess,Morellonomicon,Rod of Ages,Control Ward,The Dark Seal,Ionian Boots of Lucidity,83723,9732,Lane.mid_lane,Role.solo
+4,Espir III,Twisted Fate,True,Side.blue,4,2,1,2.5,151,Flash,Ghost,13,False,8720,8400,Doran's Ring,Control Ward,Ionian Boots of Lucidity,Zhonya's Hourglass,Rod of Ages,Sheen,63254,9036,Lane.top_lane,Role.solo
+5,Fas the Magi,Talon,False,Side.red,2,6,3,0.8333333333333334,153,Flash,Teleport,12,False,7445,7225,Youmuu's Ghostblade,The Black Cleaver,Long Sword,,Long Sword,Boots of Speed,953,83735,Lane.top_lane,Role.solo
+6,Feitan,Zyra,False,Side.red,2,9,3,0.5555555555555556,8,Ignite,Flash,9,False,5238,4670,Boots of Speed,Refillable Potion,Amplifying Tome,Eye of the Watchers,Amplifying Tome,Giant's Belt,10822,1122,Lane.bot_lane,Role.support
+7,dónt,Lee Sin,False,Side.red,6,3,2,2.6666666666666665,157,Smite,Flash,14,False,9437,8400,Mercury's Treads,Control Ward,Enchantment: Warrior,Maw of Malmortius,,Tiamat,20181,101700,Lane.jungle,Role.none
+8,Kakeru,Caitlyn,False,Side.red,2,6,1,0.5,169,Flash,Heal,11,False,7379,7300,Cloak of Agility,Doran's Blade,Pickaxe,Rapid Firecannon,B. F. Sword,Berserker's Greaves,978,66571,Lane.bot_lane,Role.carry
+9,VeeIox,Ahri,False,Side.red,1,1,1,2.0,46,Ghost,Flash,8,False,4784,3525,Health Potion,,Sorcerer's Shoes,Lost Chapter,Doran's Ring,Fiendish Codex,8264,5208,Lane.mid_lane,Role.solo

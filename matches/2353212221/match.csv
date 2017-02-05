@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iaMsaraK,Graves,False,Side.blue,1,3,1,0.6666666666666666,153,Flash,Smite,12,False,7157,6500,Enchantment: Warrior,Phantom Dancer,,,Mercury's Treads,,3035,102185,Lane.jungle,Role.none
+1,S7 Shang Da Shi,Cassiopeia,False,Side.blue,0,2,0,0.0,145,Flash,Ghost,11,False,6363,5555,Doran's Ring,Morellonomicon,Negatron Cloak,Tear of the Goddess,Amplifying Tome,,50315,6465,Lane.mid_lane,Role.solo
+2,Deweyyy,Braum,False,Side.blue,2,8,3,0.625,33,Flash,Exhaust,9,False,5416,5200,Face of the Mountain,Warden's Mail,Control Ward,Sightstone,,Ionian Boots of Lucidity,5337,6392,Lane.bot_lane,Role.support
+3,DamB0o0o0o0o0o0,Jinx,False,Side.blue,3,7,2,0.7142857142857143,151,Flash,Heal,10,False,7284,6925,Doran's Blade,Brawler's Gloves,Berserker's Greaves,Pickaxe,Runaan's Hurricane,B. F. Sword,938,75665,Lane.bot_lane,Role.carry
+4,Oombadu,Renekton,False,Side.blue,2,4,1,0.75,158,Flash,Teleport,12,False,7324,7200,Boots of Speed,The Black Cleaver,,,Titanic Hydra,,980,74984,Lane.top_lane,Role.solo
+5,MattDeitz,Leona,True,Side.red,4,0,11,15.0,39,Flash,Exhaust,10,False,7013,6975,Zz'Rot Portal,Sightstone,Control Ward,Targon's Brace,Ninja Tabi,Aegis of the Legion,10828,7927,Lane.bot_lane,Role.duo
+6,Pht,Vayne,True,Side.red,5,5,9,2.8,119,Heal,Flash,11,False,8448,8250,Doran's Blade,Guinsoo's Rageblade,Berserker's Greaves,Phantom Dancer,Dagger,,1195,54728,Lane.bot_lane,Role.duo
+7,Sprite Planet,Riven,True,Side.red,4,2,4,4.0,136,Teleport,Flash,11,False,7809,7525,Ninja Tabi,Refillable Potion,Youmuu's Ghostblade,,The Black Cleaver,,2815,69539,Lane.top_lane,Role.solo
+8,II Master II,Ivern,True,Side.red,2,0,13,15.0,49,Flash,Smite,12,False,7388,6700,Hunter's Talisman,Refillable Potion,Ionian Boots of Lucidity,Athene's Unholy Grail,Rylai's Crystal Scepter,,10132,7303,Lane.jungle,Role.none
+9,Titan Dweevil,Twisted Fate,True,Side.red,9,1,2,11.0,172,Ignite,Flash,13,True,11291,11175,Lich Bane,Doran's Ring,Luden's Echo,Sorcerer's Shoes,The Dark Seal,Void Staff,93974,13148,Lane.mid_lane,Role.solo

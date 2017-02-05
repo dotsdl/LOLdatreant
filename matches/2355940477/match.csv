@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Braums Mustache,Braum,False,Side.blue,0,4,12,3.0,40,Flash,Exhaust,12,False,8741,8575,Ninja Tabi,Ruby Sightstone,Face of the Mountain,Frozen Heart,Cloth Armor,,9778,6003,Lane.bot_lane,Role.support
+1,Watarimono,Katarina,False,Side.blue,5,13,8,1.0,129,Flash,Ignite,14,False,10796,9760,Blasting Wand,Hextech Gunblade,Zhonya's Hourglass,Ninja Tabi,Amplifying Tome,,79664,12969,Lane.mid_lane,Role.solo
+2,Shinon,Jax,False,Side.blue,5,7,8,1.8571428571428572,193,Flash,Teleport,16,False,12700,12183,Corrupting Potion,Randuin's Omen,Blade of the Ruined King,Trinity Force,Ruby Crystal,Ninja Tabi,27952,98767,Lane.top_lane,Role.solo
+3,Vultix,Hecarim,False,Side.blue,10,3,7,5.666666666666667,153,Flash,Smite,15,False,13091,12508,Enchantment: Cinderhulk,Warden's Mail,Trinity Force,Ninja Tabi,Dead Man's Plate,Giant's Belt,29974,115882,Lane.jungle,Role.none
+4,BruiseLeet,Jhin,False,Side.blue,3,5,9,2.4,224,Heal,Flash,14,False,11771,11350,Doran's Blade,Essence Reaver,Infinity Edge,Rapid Firecannon,,Boots of Swiftness,7154,126596,Lane.bot_lane,Role.carry
+5,847,Lee Sin,True,Side.red,4,5,10,2.8,112,Heal,Flash,13,False,10793,10275,Spectre's Cowl,Ravenous Hydra,Sightstone,Dead Man's Plate,Ruby Crystal,Mercury's Treads,15111,89312,Lane.jungle,Role.none
+6,Ostry,Ezreal,True,Side.red,6,3,11,5.666666666666667,189,Flash,Heal,14,False,12110,10275,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Vampiric Scepter,Lord Dominik's Regards,20654,115315,Lane.bot_lane,Role.carry
+7,FearInsidious,Zed,True,Side.red,16,6,9,4.166666666666667,175,Ignite,Flash,16,False,14902,13925,Caulfield's Warhammer,Blade of the Ruined King,Serrated Dirk,Maw of Malmortius,Mercury's Treads,The Black Cleaver,11479,128858,Lane.mid_lane,Role.solo
+8,MiIes,Yasuo,True,Side.red,4,6,8,2.0,293,Flash,Exhaust,17,True,13548,12525,Ninja Tabi,Phantom Dancer,The Bloodthirster,Frozen Mallet,Chain Vest,Doran's Blade,39041,163842,Lane.top_lane,Role.solo
+9,fishyfoodguy,Bard,True,Side.red,2,4,15,4.25,16,Flash,Exhaust,14,False,9817,8075,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,Cloth Armor,,20537,5736,Lane.bot_lane,Role.support

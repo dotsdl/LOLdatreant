@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ADC Prospect,Ezreal,False,Side.blue,2,4,2,1.0,187,Heal,Flash,14,False,9727,9125,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Bilgewater Cutlass,Recurve Bow,19374,97743,Lane.bot_lane,Role.carry
+1,lc0nic,Graves,False,Side.blue,11,4,1,3.0,207,Flash,Smite,16,False,13747,13650,Enchantment: Warrior,The Bloodthirster,The Black Cleaver,Berserker's Greaves,Phantom Dancer,Long Sword,5080,196027,Lane.jungle,Role.none
+2,MEMEME670,Janna,False,Side.blue,0,6,5,0.8333333333333334,10,Flash,Exhaust,12,False,6945,6350,Sightstone,Redemption,Ionian Boots of Lucidity,Nomad's Medallion,Aegis of the Legion,Control Ward,5008,3001,Lane.bot_lane,Role.support
+3,oopa,Ryze,False,Side.blue,2,7,4,0.8571428571428571,187,Flash,Ghost,14,False,9999,9025,Refillable Potion,Seraph's Embrace,Lost Chapter,Ionian Boots of Lucidity,Rod of Ages,Fiendish Codex,119712,7308,Lane.mid_lane,Role.solo
+4,Kazahana,Darius,False,Side.blue,3,9,7,1.1111111111111112,202,Flash,Teleport,15,False,10385,9825,The Black Cleaver,Dead Man's Plate,Corrupting Potion,Ninja Tabi,Spectre's Cowl,Kindlegem,474,121759,Lane.top_lane,Role.solo
+5,Fiku,Blitzcrank,True,Side.red,2,5,12,2.8,34,Flash,Ignite,12,False,9707,9075,Redemption,Eye of the Equinox,Kindlegem,Boots of Mobility,Cloth Armor,Knight's Vow,11727,9913,Lane.jungle,Role.none
+6,Rhux,Cassiopeia,True,Side.red,8,1,12,20.0,236,Flash,Ghost,17,False,14733,13700,Rylai's Crystal Scepter,Morellonomicon,Seraph's Embrace,Control Ward,Doran's Ring,Abyssal Scepter,155467,12292,Lane.mid_lane,Role.solo
+7,Cris,Trundle,True,Side.red,4,6,10,2.3333333333333335,313,Flash,Teleport,18,True,15504,13708,Ravenous Hydra,Blade of the Ruined King,Corrupting Potion,Chain Vest,Trinity Force,Ninja Tabi,9020,220858,Lane.top_lane,Role.solo
+8,NaVi Squirty,Twitch,True,Side.red,10,4,5,3.75,199,Flash,Heal,15,False,13747,12800,Mortal Reminder,Berserker's Greaves,Quicksilver Sash,Runaan's Hurricane,Infinity Edge,Vampiric Scepter,0,117777,Lane.bot_lane,Role.solo
+9,NaVi Juan,Nocturne,True,Side.red,6,2,3,4.5,193,Smite,Flash,16,False,13179,11678,Dead Man's Plate,Cloth Armor,Negatron Cloak,Trinity Force,Enchantment: Bloodrazor,Ninja Tabi,7586,192923,Lane.jungle,Role.none

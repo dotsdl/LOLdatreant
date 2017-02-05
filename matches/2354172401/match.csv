@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,vìper,Riven,True,Side.blue,10,4,7,4.25,296,Flash,Teleport,17,False,14757,13500,Lord Dominik's Regards,Tiamat,Youmuu's Ghostblade,Mercury's Treads,Serrated Dirk,The Black Cleaver,1408,207680,Lane.top_lane,Role.solo
+1,Pocket Size,Karma,True,Side.blue,1,3,15,5.333333333333333,58,Flash,Exhaust,13,False,9789,8125,,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Ardent Censer,,40514,4117,Lane.bot_lane,Role.support
+2,11037,Ivern,True,Side.blue,6,4,13,4.75,107,Smite,Flash,15,False,11674,9450,Redemption,Ardent Censer,,Mejai's Soulstealer,Ionian Boots of Lucidity,Athene's Unholy Grail,17892,11951,Lane.jungle,Role.none
+3,oSee,Jayce,True,Side.blue,4,5,8,2.4,205,Flash,Exhaust,14,False,11560,10600,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,Hexdrinker,Last Whisper,16914,117216,Lane.mid_lane,Role.solo
+4,TeddyRO,Tristana,True,Side.blue,6,3,13,6.333333333333333,181,Flash,Heal,15,False,11890,10850,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Lord Dominik's Regards,Long Sword,22012,110718,Lane.bot_lane,Role.carry
+5,Trieuly,Lee Sin,False,Side.red,7,3,9,5.333333333333333,104,Smite,Flash,14,True,10792,9050,Refillable Potion,Tiamat,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Giant's Belt,16222,91381,Lane.jungle,Role.none
+6,Kurumz,Fizz,False,Side.red,6,4,2,2.0,206,Ignite,Flash,14,False,10799,9325,Blasting Wand,Ionian Boots of Lucidity,Zhonya's Hourglass,Aether Wisp,Doran's Ring,Rod of Ages,100080,19298,Lane.mid_lane,Role.solo
+7,rat fink boy,Caitlyn,False,Side.red,3,4,5,2.0,244,Heal,Flash,13,False,11114,10575,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,Rapid Firecannon,,1126,150195,Lane.bot_lane,Role.carry
+8,SoV NSFW,Nautilus,False,Side.red,3,5,8,2.2,195,Flash,Teleport,15,False,10840,10075,Sunfire Cape,Ninja Tabi,Corrupting Potion,Frozen Heart,Thornmail,Cloth Armor,79243,35520,Lane.top_lane,Role.solo
+9,RealDarkness,Sion,False,Side.red,0,11,7,0.6363636363636364,35,Ignite,Flash,11,False,7174,6775,Locket of the Iron Solari,Redemption,Sightstone,Refillable Potion,Relic Shield,Ninja Tabi,9383,19336,Lane.bot_lane,Role.support

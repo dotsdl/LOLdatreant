@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pekin Woof,Orianna,True,Side.blue,2,2,9,5.5,148,Flash,Ghost,12,False,8615,6950,Doran's Ring,Needlessly Large Rod,,Sorcerer's Shoes,Morellonomicon,Aether Wisp,71994,13002,Lane.mid_lane,Role.solo
+1,amoureux de toi,Vayne,True,Side.blue,5,0,5,10.0,183,Heal,Flash,13,False,10499,9100,Infinity Edge,Zeal,Berserker's Greaves,Statikk Shiv,,,20851,79317,Lane.bot_lane,Role.carry
+2,Leza,Hecarim,True,Side.blue,11,1,8,19.0,121,Ghost,Smite,13,True,11113,8983,Giant's Belt,Control Ward,Long Sword,Boots of Swiftness,Enchantment: Cinderhulk,Trinity Force,13894,98463,Lane.jungle,Role.none
+3,Rapping Hipster,Soraka,True,Side.blue,1,1,11,12.0,11,Exhaust,Flash,9,False,6855,5635,Talisman of Ascension,Refillable Potion,Sightstone,Forbidden Idol,Ionian Boots of Lucidity,Amplifying Tome,4522,2821,Lane.bot_lane,Role.support
+4,Ablazeolive,Fiora,True,Side.blue,3,2,8,5.5,156,Flash,Teleport,13,False,9014,8075,Boots of Speed,Doran's Blade,The Black Cleaver,Corrupting Potion,,Ravenous Hydra,1472,71741,Lane.top_lane,Role.solo
+5,C9 Smoothie,Thresh,False,Side.red,0,2,3,1.5,12,Flash,Ignite,9,False,4395,3700,Total Biscuit of Rejuvenation,Ruby Sightstone,Control Ward,Boots of Mobility,Relic Shield,Cloth Armor,4452,3191,Lane.bot_lane,Role.support
+6,Gahlin,Ekko,False,Side.red,0,5,0,0.0,106,Flash,Teleport,10,False,5558,4900,Corrupting Potion,Doran's Ring,Ninja Tabi,Kindlegem,Spectre's Cowl,Chain Vest,60347,11314,Lane.jungle,Role.none
+7,Makavéli,Olaf,False,Side.red,4,2,1,2.5,123,Smite,Ghost,12,False,7993,7375,Enchantment: Cinderhulk,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,Spectre's Cowl,Refillable Potion,16339,83152,Lane.jungle,Role.none
+8,Projekt Yasuo,Yasuo,False,Side.red,2,7,3,0.7142857142857143,132,Flash,Teleport,12,False,7247,6700,Ninja Tabi,Control Ward,Doran's Blade,Jaurim's Fist,Ruby Crystal,Phantom Dancer,19174,44347,Lane.jungle,Role.none
+9,Rapidx,Caitlyn,False,Side.red,0,6,1,0.16666666666666666,185,Flash,Heal,12,False,7448,7400,Doran's Blade,Infinity Edge,Brawler's Gloves,Berserker's Greaves,Recurve Bow,Dagger,444,85730,Lane.bot_lane,Role.carry

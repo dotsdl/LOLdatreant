@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,D0NG0,Fizz,False,Side.blue,6,6,6,2.0,148,Ignite,Flash,13,False,9162,8810,Abyssal Scepter,The Dark Seal,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,Lich Bane,50655,21264,Lane.mid_lane,Role.solo
+1,bredwinr,Alistar,False,Side.blue,1,6,5,1.0,34,Flash,Exhaust,11,False,6288,5425,Sightstone,Refillable Potion,Ionian Boots of Lucidity,Relic Shield,Frozen Heart,Cloth Armor,12984,5252,Lane.bot_lane,Role.support
+2,Zella,Cassiopeia,False,Side.blue,4,6,3,1.1666666666666667,167,Flash,Ghost,14,False,8951,7255,Doran's Ring,Tear of the Goddess,Fiendish Codex,Negatron Cloak,Rabadon's Deathcap,Amplifying Tome,83730,8095,Lane.top_lane,Role.solo
+3,King Snivle,Olaf,False,Side.blue,6,7,3,1.2857142857142858,138,Flash,Smite,13,False,9316,9275,Refillable Potion,Enchantment: Cinderhulk,Ionian Boots of Lucidity,The Black Cleaver,Thornmail,,16540,83422,Lane.jungle,Role.none
+4,AkiyoWind,Sivir,False,Side.blue,2,3,4,2.0,206,Heal,Flash,13,False,9416,8425,Refillable Potion,Berserker's Greaves,Phantom Dancer,Cull,Essence Reaver,Doran's Blade,0,111171,Lane.bot_lane,Role.carry
+5,x Legend Dairy x,Xin Zhao,True,Side.red,9,6,9,3.0,96,Flash,Smite,15,False,11950,9408,Enchantment: Bloodrazor,Trinity Force,Berserker's Greaves,Giant's Belt,Chain Vest,,8549,126793,Lane.jungle,Role.none
+6,Calvingod,Janna,True,Side.red,1,4,10,2.75,14,Exhaust,Flash,12,False,8308,7925,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,,,9185,7271,Lane.bot_lane,Role.support
+7,ImXenos,Akali,True,Side.red,4,2,7,5.5,213,Flash,Teleport,16,False,11610,9035,Amplifying Tome,Abyssal Scepter,Hextech Gunblade,Sorcerer's Shoes,Sheen,,33853,82935,Lane.mid_lane,Role.solo
+8,RealTeemo,Teemo,True,Side.red,8,4,6,3.5,183,Ignite,Flash,15,True,12770,9900,Doran's Ring,Stinger,Zz'Rot Portal,Fiendish Codex,Luden's Echo,Sorcerer's Shoes,77143,31364,Lane.top_lane,Role.solo
+9,dirtydob,Lucian,True,Side.red,6,3,7,4.333333333333333,174,Flash,Heal,13,False,12037,10600,Doran's Blade,Caulfield's Warhammer,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Hexdrinker,3085,113578,Lane.bot_lane,Role.carry

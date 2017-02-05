@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jurassiq,Ezreal,True,Side.blue,4,3,4,2.6666666666666665,170,Flash,Heal,13,False,10578,8600,Bilgewater Cutlass,Doran's Blade,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Cloth Armor,10109,95102,Lane.bot_lane,Role.carry
+1,Cat Ears,Karma,True,Side.blue,2,3,11,4.333333333333333,14,Flash,Exhaust,11,False,8493,7225,Control Ward,Sightstone,Redemption,Ionian Boots of Lucidity,Frostfang,Mikael's Crucible,12263,2972,Lane.bot_lane,Role.support
+2,Haillo Kitty,Maokai,True,Side.blue,3,2,7,5.0,195,Teleport,Flash,14,False,11127,8750,Doran's Ring,Doran's Ring,Sunfire Cape,Mercury's Treads,Spirit Visage,Kindlegem,95936,15364,Lane.top_lane,Role.solo
+3,Daarr,Rek'Sai,True,Side.blue,9,0,7,16.0,187,Flash,Smite,16,True,13843,11550,Enchantment: Cinderhulk,Ninja Tabi,Titanic Hydra,Refillable Potion,Dead Man's Plate,Spectre's Cowl,31735,154423,Lane.jungle,Role.none
+4,Wizzy,Kayle,True,Side.blue,5,1,5,10.0,167,Ghost,Flash,14,False,10785,8800,The Dark Seal,Guinsoo's Rageblade,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Nashor's Tooth,75411,35195,Lane.mid_lane,Role.solo
+5,dog maple,Ashe,False,Side.red,3,4,2,1.25,159,Heal,Flash,12,False,8318,7050,Doran's Blade,Essence Reaver,Zeal,Berserker's Greaves,Cull,,842,74623,Lane.bot_lane,Role.carry
+6,Biofrost ,Poppy,False,Side.red,3,6,1,0.6666666666666666,167,Flash,Teleport,13,False,8118,7700,Corrupting Potion,Spirit Visage,Sunfire Cape,Mercury's Treads,Ruby Crystal,,25121,65117,Lane.top_lane,Role.solo
+7,Peng Yiliang,Vi,False,Side.red,2,3,4,2.0,122,Flash,Smite,12,False,7696,7658,Enchantment: Warrior,Trinity Force,Ruby Crystal,Boots of Speed,Cloth Armor,,1670,101988,Lane.jungle,Role.none
+8,Celend,Viktor,False,Side.red,1,4,3,1.0,190,Flash,Ghost,13,False,8333,8410,Refillable Potion,Rylai's Crystal Scepter,Amplifying Tome,Ionian Boots of Lucidity,Perfect Hex Core,Control Ward,107484,11508,Lane.mid_lane,Role.solo
+9,C9 Lemon,Lulu,False,Side.red,0,6,5,0.8333333333333334,14,Ignite,Flash,9,False,5840,4600,Crystalline Bracer,Refillable Potion,Boots of Mobility,Eye of the Watchers,,Faerie Charm,11297,2962,Lane.bot_lane,Role.support

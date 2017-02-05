@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rositajonez,Brand,True,Side.blue,2,9,10,1.3333333333333333,35,Ignite,Flash,12,False,9209,8125,The Dark Seal,Eye of the Watchers,Boots of Mobility,Rylai's Crystal Scepter,,Blasting Wand,31420,6696,Lane.bot_lane,Role.support
+1,Jurassiq,Graves,True,Side.blue,10,1,8,18.0,170,Flash,Smite,16,True,13659,11925,Youmuu's Ghostblade,Last Whisper,Berserker's Greaves,Hexdrinker,Enchantment: Warrior,Phantom Dancer,4090,172052,Lane.jungle,Role.none
+2,EDG SLICER,Urgot,True,Side.blue,3,2,8,5.5,159,Flash,Teleport,14,False,9902,9033,The Black Cleaver,Corrupting Potion,Mercury's Treads,Trinity Force,Null-Magic Mantle,,1991,76041,Lane.top_lane,Role.solo
+3,k7o2slqdoc7pvgym,Xerath,True,Side.blue,15,1,9,24.0,243,Ghost,Flash,16,False,15256,13335,Rabadon's Deathcap,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Mejai's Soulstealer,165198,13352,Lane.mid_lane,Role.solo
+4,I Starboy l,Ezreal,True,Side.blue,0,7,16,2.2857142857142856,110,Heal,Flash,13,False,9227,8133,Doran's Blade,Refillable Potion,Manamune,Ionian Boots of Lucidity,Trinity Force,Cull,12277,60248,Lane.bot_lane,Role.carry
+5,fre3zingCold,Jax,False,Side.red,4,4,2,1.5,109,Flash,Smite,12,False,8146,7608,Enchantment: Bloodrazor,Trinity Force,,Mercury's Treads,,,11545,74845,Lane.jungle,Role.none
+6,Darvec,Nasus,False,Side.red,2,6,4,1.0,175,Teleport,Flash,14,False,8995,7775,Corrupting Potion,Kindlegem,Zz'Rot Portal,Ninja Tabi,Spectre's Cowl,Warden's Mail,49967,36963,Lane.top_lane,Role.solo
+7,Falco Mechanic,Caitlyn,False,Side.red,3,9,2,0.5555555555555556,169,Exhaust,Flash,12,False,8652,7600,Doran's Blade,Doran's Blade,Infinity Edge,Berserker's Greaves,Null-Magic Mantle,Zeal,853,105885,Lane.bot_lane,Role.carry
+8,xTc4,Sona,False,Side.red,0,6,14,2.3333333333333335,15,Flash,Exhaust,11,False,7384,6675,Fiendish Codex,Refillable Potion,Eye of the Watchers,Seeker's Armguard,Sorcerer's Shoes,Hextech Revolver,12390,4422,Lane.bot_lane,Role.support
+9,eRx,Kassadin,False,Side.red,11,5,2,2.6,122,Ignite,Flash,13,False,10119,9600,Rod of Ages,Corrupting Potion,Lich Bane,Seeker's Armguard,Fiendish Codex,Ionian Boots of Lucidity,44342,14653,Lane.mid_lane,Role.solo

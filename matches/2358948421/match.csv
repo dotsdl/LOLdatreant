@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iKryptix,Ekko,False,Side.blue,5,7,2,1.0,203,Flash,Cleanse,15,False,11508,10925,Doran's Ring,Doran's Ring,Morellonomicon,Lich Bane,Sorcerer's Shoes,Void Staff,122145,17820,Lane.mid_lane,Role.solo
+1,Liquid Painless,Karma,False,Side.blue,2,5,10,2.4,17,Flash,Ignite,12,False,8496,8300,Redemption,Eye of the Watchers,,Ionian Boots of Lucidity,Control Ward,Locket of the Iron Solari,18370,3373,Lane.bot_lane,Role.support
+2,Xmithie,Ivern,False,Side.blue,1,11,8,0.8181818181818182,75,Smite,Flash,13,False,9112,8750,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Crystalline Bracer,12817,3406,Lane.jungle,Role.none
+3,d3ps,Vayne,False,Side.blue,4,11,2,0.5454545454545454,190,Flash,Heal,13,False,10152,10100,Doran's Blade,Infinity Edge,Berserker's Greaves,Vampiric Scepter,Statikk Shiv,Zeal,24966,83065,Lane.bot_lane,Role.carry
+4,Flaresz,Jayce,False,Side.blue,8,10,2,1.0,221,Flash,Teleport,15,True,12202,10950,Doran's Blade,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Last Whisper,Serrated Dirk,22215,123343,Lane.top_lane,Role.solo
+5,Pekin Woof,Caitlyn,True,Side.red,16,5,10,5.2,217,Flash,Heal,16,False,14868,9750,Doran's Blade,Runaan's Hurricane,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,665,167415,Lane.bot_lane,Role.carry
+6,McCashDollar,Shaco,True,Side.red,6,7,5,1.5714285714285714,164,Teleport,Ignite,15,False,11840,11075,Youmuu's Ghostblade,Hextech Protobelt-01,Lich Bane,Doran's Ring,Ruby Crystal,Ninja Tabi,70849,35974,Lane.top_lane,Role.solo
+7,Vladfire1 BG ,Skarner,True,Side.red,6,3,17,7.666666666666667,141,Smite,Flash,16,False,12827,11200,Enchantment: Warrior,Cloth Armor,The Black Cleaver,Mercury's Treads,Iceborn Gauntlet,Giant's Belt,37606,123973,Lane.jungle,Role.none
+8,Sheiden,Kennen,True,Side.red,13,1,11,24.0,261,Ghost,Flash,17,False,15767,14950,Rabadon's Deathcap,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Void Staff,Haunting Guise,135100,34250,Lane.mid_lane,Role.solo
+9,urwong,Bard,True,Side.red,3,4,23,6.5,18,Exhaust,Flash,15,False,10358,9325,Eye of the Watchers,Frozen Heart,Locket of the Iron Solari,Boots of Swiftness,Crystalline Bracer,,11577,5803,Lane.bot_lane,Role.support

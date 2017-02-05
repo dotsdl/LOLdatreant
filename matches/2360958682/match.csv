@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Drutagan,Syndra,False,Side.blue,2,6,3,0.8333333333333334,180,Flash,Cleanse,12,False,8681,7850,Doran's Ring,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,81495,9522,Lane.mid_lane,Role.solo
+1,TszHin OvO,Jhin,False,Side.blue,5,2,4,4.5,197,Heal,Flash,14,False,10363,9670,Doran's Blade,Cull,Infinity Edge,Boots of Swiftness,Essence Reaver,Brawler's Gloves,4226,110409,Lane.bot_lane,Role.carry
+2,Dontkillmek,Maokai,False,Side.blue,1,3,5,2.0,215,Flash,Teleport,14,False,9375,8400,Banner of Command,The Dark Seal,Crystalline Bracer,Corrupting Potion,Spirit Visage,Mercury's Treads,88575,16252,Lane.top_lane,Role.solo
+3,cùrz,Taric,False,Side.blue,0,5,8,1.6,29,Flash,Exhaust,10,False,6112,5425,Sightstone,Face of the Mountain,Control Ward,Ruby Crystal,Ionian Boots of Lucidity,Forbidden Idol,5869,4614,Lane.bot_lane,Role.support
+4,KarasMai,Vi,False,Side.blue,5,3,3,2.6666666666666665,160,Flash,Smite,13,False,10128,9375,Enchantment: Warrior,,Mercury's Treads,Maw of Malmortius,Giant's Belt,Warden's Mail,3274,134375,Lane.jungle,Role.none
+5,Espir III,Twisted Fate,True,Side.red,7,0,8,15.0,184,Flash,Ghost,15,True,12765,10475,Doran's Ring,Rod of Ages,Doran's Ring,Zhonya's Hourglass,Boots of Swiftness,Abyssal Scepter,102302,18427,Lane.mid_lane,Role.solo
+6,aphromoo,Lux,True,Side.red,1,5,9,2.0,7,Ignite,Flash,11,False,7713,6635,Eye of the Watchers,Athene's Unholy Grail,Total Biscuit of Rejuvenation,Control Ward,Ionian Boots of Lucidity,Amplifying Tome,15590,4430,Lane.bot_lane,Role.support
+7,Gweiss,Graves,True,Side.red,3,2,6,4.5,219,Heal,Flash,15,False,11827,10025,Doran's Blade,Mercury's Treads,Essence Reaver,Phantom Dancer,Pickaxe,B. F. Sword,570,157948,Lane.bot_lane,Role.carry
+8,COME BACK STRONG,Elise,True,Side.red,5,4,7,3.0,123,Smite,Flash,13,False,10627,9600,Ruby Crystal,Hextech Protobelt-01,Control Ward,Void Staff,Boots of Mobility,Enchantment: Runic Echoes,92445,29782,Lane.jungle,Role.none
+9,Wonderful Willy,Katarina,True,Side.red,3,2,6,4.5,220,Teleport,Flash,15,False,11444,11629,The Dark Seal,Refillable Potion,Hextech Gunblade,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,109306,14123,Lane.top_lane,Role.solo

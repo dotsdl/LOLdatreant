@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,King Karp,Janna,True,Side.blue,1,2,12,6.5,5,Exhaust,Flash,12,False,7991,6300,Frost Queen's Claim,Rabadon's Deathcap,Boots of Speed,,,,7925,6152,Lane.bot_lane,Role.support
+1,Kaizen,Draven,True,Side.blue,6,3,7,4.333333333333333,180,Heal,Flash,12,False,12354,10000,Doran's Blade,Rapid Firecannon,Infinity Edge,Berserker's Greaves,B. F. Sword,Vampiric Scepter,1994,119514,Lane.bot_lane,Role.carry
+2,NoxianGuiIIotine,Darius,True,Side.blue,8,2,4,6.0,199,Flash,Teleport,16,False,11857,10550,Maw of Malmortius,Refillable Potion,Zz'Rot Portal,Mercury's Treads,Spirit Visage,Ruby Crystal,0,110270,Lane.top_lane,Role.solo
+3,Wizikz,Vi,True,Side.blue,5,3,12,5.666666666666667,131,Smite,Flash,14,False,11345,8533,Enchantment: Warrior,Long Sword,Mercury's Treads,,Trinity Force,Long Sword,1838,131030,Lane.jungle,Role.none
+4,Umbral Ruin,Fizz,True,Side.blue,13,4,4,4.25,131,Ignite,Flash,14,False,11874,9125,Abyssal Scepter,Lich Bane,Fiendish Codex,Sorcerer's Shoes,Doran's Ring,Doran's Ring,70847,21739,Lane.mid_lane,Role.solo
+5,SomeGuyyy,Rumble,False,Side.red,4,8,3,0.875,136,Flash,Teleport,12,False,7618,6775,Hextech Protobelt-01,Refillable Potion,Doran's Shield,Haunting Guise,Sorcerer's Shoes,Blasting Wand,66032,6036,Lane.top_lane,Role.solo
+6,ARelentlessYeti,Nunu,False,Side.red,0,7,7,1.0,86,Smite,Flash,12,False,6995,6000,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Giant's Belt,Chain Vest,,31099,26664,Lane.jungle,Role.none
+7,Go Warilla,Karma,False,Side.red,1,5,7,1.6,25,Exhaust,Flash,11,False,6018,5325,Ardent Censer,Sightstone,Fiendish Codex,Boots of Speed,Faerie Charm,Spellthief's Edge,28749,2115,Lane.bot_lane,Role.support
+8,OriginaI Pancake,Vayne,False,Side.red,6,2,1,3.5,155,Flash,Heal,12,False,8485,8225,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,Dagger,,12,58656,Lane.bot_lane,Role.carry
+9,imbobthebuilder,Malzahar,False,Side.red,3,11,5,0.7272727272727273,111,Ignite,Flash,12,True,6981,5985,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Amplifying Tome,Giant's Belt,,43453,21829,Lane.mid_lane,Role.solo

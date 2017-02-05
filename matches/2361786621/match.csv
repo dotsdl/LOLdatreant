@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,King Snivle,Ivern,True,Side.blue,4,3,6,3.3333333333333335,64,Flash,Smite,12,False,8131,7075,Redemption,Refillable Potion,Ionian Boots of Lucidity,Hunter's Talisman,Athene's Unholy Grail,Mejai's Soulstealer,11830,5271,Lane.jungle,Role.none
+1,Castiel05,Poppy,True,Side.blue,2,2,1,1.5,139,Flash,Teleport,12,False,8014,7750,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Ruby Crystal,,25454,50125,Lane.top_lane,Role.solo
+2,Lamar Moodie,Zyra,True,Side.blue,6,6,8,2.3333333333333335,12,Ignite,Flash,10,False,8053,6625,Rylai's Crystal Scepter,Sightstone,Frostfang,,Sorcerer's Shoes,,21660,5135,Lane.bot_lane,Role.support
+3,Jayden Park,Jhin,True,Side.blue,8,2,5,6.5,152,Flash,Heal,12,True,10159,8775,,Vampiric Scepter,Doran's Blade,Rapid Firecannon,Essence Reaver,Ionian Boots of Lucidity,2262,91392,Lane.bot_lane,Role.carry
+4,Swuge,Viktor,True,Side.blue,8,1,3,11.0,160,Flash,Ghost,13,False,10052,8385,Perfect Hex Core,,Doran's Ring,Lich Bane,Amplifying Tome,Ionian Boots of Lucidity,81949,12047,Lane.mid_lane,Role.solo
+5,stupid supp0rt,Caitlyn,False,Side.red,4,5,4,1.6,136,Flash,Heal,11,False,7476,7200,Infinity Edge,,Doran's Blade,Boots of Speed,Runaan's Hurricane,,323,63668,Lane.bot_lane,Role.carry
+6,Braums Mustache,Taric,False,Side.red,1,7,5,0.8571428571428571,22,Flash,Exhaust,9,False,5102,4850,Boots of Mobility,Sightstone,Face of the Mountain,Cloth Armor,Cloth Armor,Control Ward,3636,3204,Lane.bot_lane,Role.support
+7,Lukillz,Riven,False,Side.red,1,3,1,0.6666666666666666,90,Flash,Teleport,10,False,5621,5200,The Black Cleaver,Refillable Potion,Ionian Boots of Lucidity,Vampiric Scepter,,,0,37904,Lane.top_lane,Role.solo
+8,Måyhem,Vi,False,Side.red,4,7,3,1.0,72,Smite,Flash,10,False,6625,7845,Spectre's Cowl,Enchantment: Warrior,Control Ward,Ruby Crystal,,Mercury's Treads,769,55100,Lane.jungle,Role.none
+9,Ralara,Orianna,False,Side.red,2,6,3,0.8333333333333334,121,Flash,Ghost,11,False,6450,6150,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Refillable Potion,,41334,9464,Lane.mid_lane,Role.solo

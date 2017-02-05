@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l For You l,Lucian,True,Side.blue,2,0,5,7.0,108,Flash,Heal,8,False,6544,3825,,Doran's Blade,Pickaxe,B. F. Sword,Berserker's Greaves,,267,52870,Lane.bot_lane,Role.duo
+1,godrjsdnd,Jayce,True,Side.blue,2,4,5,1.75,98,Ignite,Flash,10,False,5649,5000,Youmuu's Ghostblade,Refillable Potion,Doran's Blade,Boots of Speed,Serrated Dirk,,5173,36102,Lane.mid_lane,Role.solo
+2,Rhux,Kennen,True,Side.blue,3,0,0,3.0,91,Flash,Teleport,10,False,5297,3325,Doran's Blade,Doran's Blade,Refillable Potion,Hextech Revolver,Sorcerer's Shoes,,17961,18076,Lane.top_lane,Role.solo
+3,Entranced,Poppy,True,Side.blue,4,0,4,8.0,32,Ignite,Flash,7,True,5570,3525,Face of the Mountain,Refillable Potion,,Boots of Speed,Crystalline Bracer,,702,14197,Lane.bot_lane,Role.duo
+4,swoloHey,Lee Sin,True,Side.blue,6,0,3,9.0,69,Flash,Smite,10,False,6333,4825,Enchantment: Warrior,Phage,Long Sword,Boots of Speed,Refillable Potion,Control Ward,8932,48295,Lane.jungle,Role.none
+5,goldenglue,Jarvan IV,False,Side.red,0,2,3,1.5,55,Smite,Flash,8,False,3900,2500,Refillable Potion,Hunter's Talisman,Caulfield's Warhammer,Boots of Mobility,,,2923,32608,Lane.jungle,Role.none
+6,Révenge,Yasuo,False,Side.red,2,3,0,0.6666666666666666,79,Teleport,Flash,9,False,4104,3500,Doran's Blade,Doran's Blade,Zeal,Boots of Speed,Long Sword,Null-Magic Mantle,11814,19732,Lane.top_lane,Role.solo
+7,SSBM Hax,Twisted Fate,False,Side.red,2,3,0,0.6666666666666666,65,Flash,Ghost,8,False,4098,3725,Doran's Ring,Rod of Ages,Boots of Speed,Refillable Potion,,Control Ward,22448,3486,Lane.mid_lane,Role.solo
+8,ZatsMod,Ezreal,False,Side.red,0,5,0,0.0,86,Flash,Heal,7,False,3681,3000,Doran's Blade,Refillable Potion,Pickaxe,Tear of the Goddess,Boots of Speed,Sapphire Crystal,2499,24074,Lane.bot_lane,Role.duo
+9,InfernalRebirth,Thresh,False,Side.red,0,4,2,0.5,11,Exhaust,Flash,7,False,2602,1925,Sightstone,Control Ward,,Relic Shield,,Boots of Speed,1352,1674,Lane.bot_lane,Role.duo

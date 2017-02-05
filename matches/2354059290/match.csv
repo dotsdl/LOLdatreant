@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,windking66,Graves,False,Side.blue,0,6,1,0.16666666666666666,50,Smite,Flash,8,False,3946,3075,Refillable Potion,Enchantment: Warrior,Boots of Speed,,,,2000,42689,Lane.jungle,Role.none
+1,Hi Im A Sheep,Soraka,False,Side.blue,0,4,1,0.25,2,Flash,Exhaust,6,False,2901,2250,Sightstone,Total Biscuit of Rejuvenation,,,Nomad's Medallion,Boots of Speed,4705,2044,Lane.bot_lane,Role.duo
+2,ADC Prospect,Jhin,False,Side.blue,1,3,0,0.3333333333333333,75,Heal,Flash,7,False,3990,2925,Doran's Blade,Boots of Speed,B. F. Sword,Long Sword,Total Biscuit of Rejuvenation,Long Sword,1028,25032,Lane.bot_lane,Role.duo
+3,PieCakeLord,Irelia,False,Side.blue,0,3,0,0.0,69,Teleport,Flash,8,False,3594,3125,Corrupting Potion,Sheen,Cloth Armor,Doran's Blade,Long Sword,Ruby Crystal,1167,17504,Lane.top_lane,Role.solo
+4,IKingVex,Corki,False,Side.blue,2,5,0,0.4,81,Teleport,Flash,8,False,4382,3750,Doran's Blade,Dagger,Phage,Boots of Speed,Dagger,Sheen,19924,6996,Lane.mid_lane,Role.solo
+5,Bobjenkins,Kennen,True,Side.red,4,1,11,15.0,4,Flash,Ignite,8,False,6021,4485,Eye of the Watchers,Sorcerer's Shoes,Amplifying Tome,Ruby Crystal,,,6133,5001,Lane.bot_lane,Role.duo
+6,Shiphtur,Taliyah,True,Side.red,1,1,4,5.0,115,Ghost,Flash,10,False,6220,3925,Refillable Potion,Morellonomicon,Boots of Speed,Doran's Ring,,,47317,9336,Lane.mid_lane,Role.solo
+7,Dhokla,Jayce,True,Side.red,5,0,3,8.0,116,Flash,Teleport,10,True,7014,5950,Doran's Blade,The Black Cleaver,Long Sword,Boots of Speed,B. F. Sword,Long Sword,6620,53688,Lane.top_lane,Role.solo
+8,Årcee,Twitch,True,Side.red,6,1,3,9.0,92,Heal,Flash,9,False,7406,6925,Doran's Blade,Infinity Edge,Total Biscuit of Rejuvenation,Runaan's Hurricane,,,0,44647,Lane.bot_lane,Role.duo
+9,HotGuy6Pack,Hecarim,True,Side.red,5,0,5,10.0,52,Ghost,Smite,8,False,6302,5733,Trinity Force,Ruby Crystal,Skirmisher's Sabre,Boots of Speed,Refillable Potion,,5176,38037,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Harajuku Barbie,Bard,True,Side.blue,3,4,14,4.25,12,Flash,Ignite,13,False,8678,7745,Negatron Cloak,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Ruby Crystal,Raptor Cloak,14631,7189,Lane.bot_lane,Role.support
+1,Bes,Vayne,True,Side.blue,8,2,4,6.0,234,Heal,Flash,14,True,12123,11025,Berserker's Greaves,Statikk Shiv,Infinity Edge,Quicksilver Sash,Pickaxe,Vampiric Scepter,32571,109718,Lane.bot_lane,Role.carry
+2,The Coldshroom,Teemo,True,Side.blue,3,4,7,2.5,160,Ignite,Flash,14,False,10043,8585,Doran's Ring,Hextech Protobelt-01,Nashor's Tooth,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,77116,21524,Lane.mid_lane,Role.solo
+3,8el skeleto8,Lee Sin,True,Side.blue,8,6,12,3.3333333333333335,97,Flash,Smite,14,False,10929,10825,Refillable Potion,Enchantment: Warrior,Boots of Mobility,The Black Cleaver,Dead Man's Plate,Giant's Belt,21459,81882,Lane.jungle,Role.none
+4,WatchThePower,Rengar,True,Side.blue,15,1,10,25.0,193,Flash,Teleport,16,False,14514,13175,The Black Cleaver,Ninja Tabi,Death's Dance,Spirit Visage,Pickaxe,B. F. Sword,25181,137757,Lane.top_lane,Role.solo
+5,C9 Saiph,Twitch,False,Side.red,6,5,3,1.8,187,Flash,Heal,13,False,10712,11000,Health Potion,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,,467,98742,Lane.bot_lane,Role.carry
+6,Ayukura,Karma,False,Side.red,3,6,6,1.5,17,Flash,Exhaust,12,False,7728,6300,Redemption,Sightstone,Frostfang,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Aegis of the Legion,13077,3731,Lane.bot_lane,Role.support
+7,Kevin Loves You,Nasus,False,Side.red,0,8,1,0.125,184,Teleport,Flash,13,False,8733,7575,Doran's Ring,Phage,Corrupting Potion,Zz'Rot Portal,Mercury's Treads,Sheen,65227,32703,Lane.top_lane,Role.solo
+8,LostMyWings,Ivern,False,Side.red,3,8,5,1.0,63,Smite,Flash,13,False,8601,8150,The Dark Seal,Redemption,Locket of the Iron Solari,Athene's Unholy Grail,Ionian Boots of Lucidity,Hunter's Talisman,7144,3417,Lane.jungle,Role.none
+9,1IOrz,Ekko,False,Side.red,5,10,1,0.6,141,Teleport,Flash,13,False,8722,8525,Doran's Ring,Doran's Ring,Hextech Protobelt-01,Ionian Boots of Lucidity,Abyssal Scepter,Sheen,85772,13093,Lane.mid_lane,Role.solo

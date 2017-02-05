@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mrs Bjerg,Jhin,True,Side.blue,5,1,11,16.0,159,Heal,Flash,14,False,11441,8000,,Youmuu's Ghostblade,Boots of Swiftness,Rapid Firecannon,Doran's Blade,Pickaxe,7952,99874,Lane.bot_lane,Role.carry
+1,Panth Tier God,Darius,True,Side.blue,10,5,9,3.8,194,Teleport,Flash,15,False,14157,12200,Spirit Visage,Hexdrinker,Mercury's Treads,Dead Man's Plate,The Black Cleaver,Cloth Armor,0,132805,Lane.top_lane,Role.solo
+2,LGN cMurder,Zac,True,Side.blue,4,5,15,3.8,97,Flash,Smite,13,False,10493,8475,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Warden's Mail,Giant's Belt,86909,18300,Lane.jungle,Role.none
+3,Folklord,Thresh,True,Side.blue,4,4,20,6.0,58,Ignite,Flash,13,False,10497,7825,,Face of the Mountain,Ruby Sightstone,Banner of Command,Boots of Mobility,Null-Magic Mantle,19490,5610,Lane.bot_lane,Role.support
+4,Melowkid,Yasuo,True,Side.blue,8,2,11,9.5,248,Exhaust,Flash,16,False,15207,11675,Doran's Blade,Infinity Edge,Phantom Dancer,Maw of Malmortius,,Berserker's Greaves,26076,158904,Lane.mid_lane,Role.solo
+5,Bot with Feeder,Skarner,False,Side.red,0,7,14,2.0,119,Flash,Smite,13,False,8936,8725,Enchantment: Cinderhulk,Ninja Tabi,Ruby Crystal,Long Sword,Dead Man's Plate,Sheen,33635,54417,Lane.jungle,Role.none
+6,SicaChu,Ezreal,False,Side.red,7,6,5,2.0,155,Heal,Flash,12,False,10542,10233,Ionian Boots of Lucidity,Bilgewater Cutlass,Dagger,Trinity Force,Doran's Blade,Muramana,12552,80099,Lane.bot_lane,Role.carry
+7,annie199,Annie,False,Side.red,4,5,7,2.2,162,Flash,Exhaust,12,False,9211,9335,Doran's Ring,Rylai's Crystal Scepter,Void Staff,Blasting Wand,Ruby Crystal,Ionian Boots of Lucidity,69943,10482,Lane.mid_lane,Role.solo
+8,Zerkstep,Leona,False,Side.red,1,7,10,1.5714285714285714,59,Ignite,Flash,11,True,7503,6925,Redemption,Face of the Mountain,Sightstone,Ruby Crystal,,Boots of Swiftness,16650,12274,Lane.bot_lane,Role.support
+9,S II IN G IE ID,Singed,False,Side.red,5,8,8,1.625,182,Ghost,Ignite,14,False,10416,9950,Needlessly Large Rod,Ruby Crystal,Boots of Swiftness,Rod of Ages,Liandry's Torment,Warden's Mail,118321,4581,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dr Schrodinger,Ryze,True,Side.blue,6,4,7,3.25,142,Flash,Ghost,14,False,10308,7600,Tear of the Goddess,Rod of Ages,Refillable Potion,Sorcerer's Shoes,Morellonomicon,,80028,12396,Lane.mid_lane,Role.solo
+1,TP1 RipPenny ,Quinn,True,Side.blue,11,4,6,4.25,160,Flash,Ignite,15,False,11874,11425,Youmuu's Ghostblade,Doran's Blade,Duskblade of Draktharr,Berserker's Greaves,Infinity Edge,,2079,102271,Lane.top_lane,Role.solo
+2,RatLaNguyHiem,Graves,True,Side.blue,8,2,13,10.5,148,Smite,Flash,14,False,11922,9150,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Berserker's Greaves,B. F. Sword,Pickaxe,4529,129144,Lane.jungle,Role.none
+3,NillaDooms,Braum,True,Side.blue,2,2,20,11.0,43,Flash,Ignite,13,False,9337,7425,Ruby Sightstone,Boots of Speed,Face of the Mountain,Knight's Vow,Cloth Armor,,8688,8876,Lane.bot_lane,Role.support
+4,PotOfPens,Twitch,True,Side.blue,16,2,11,13.5,208,Heal,Flash,14,True,14788,11050,Infinity Edge,Runaan's Hurricane,Statikk Shiv,Doran's Blade,Berserker's Greaves,Long Sword,11865,127576,Lane.bot_lane,Role.carry
+5,Hot Bard,Thresh,False,Side.red,0,8,3,0.375,23,Exhaust,Flash,10,False,6028,5150,Face of the Mountain,Sightstone,Crystalline Bracer,Control Ward,Forbidden Idol,Boots of Speed,5886,2556,Lane.bot_lane,Role.support
+6,Dj Sensei,Lucian,False,Side.red,2,10,2,0.4,163,Heal,Flash,11,False,8832,8650,Essence Reaver,Rapid Firecannon,B. F. Sword,Doran's Blade,Total Biscuit of Rejuvenation,Boots of Speed,2155,83027,Lane.bot_lane,Role.carry
+7,DonaldTrump Play,Rumble,False,Side.red,3,10,0,0.3,205,Teleport,Flash,14,False,9605,9550,Hextech Protobelt-01,Seeker's Armguard,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Shield,Fiendish Codex,99919,14257,Lane.top_lane,Role.solo
+8,Jay301,Zed,False,Side.red,8,9,1,1.0,171,Ignite,Flash,14,False,10110,9700,Youmuu's Ghostblade,Bilgewater Cutlass,Edge of Night,Dagger,Dagger,Ionian Boots of Lucidity,6813,98186,Lane.mid_lane,Role.solo
+9,Jayy301,Zac,False,Side.red,1,6,7,1.3333333333333333,69,Smite,Flash,12,False,8089,6775,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Dead Man's Plate,,,46881,13957,Lane.jungle,Role.none

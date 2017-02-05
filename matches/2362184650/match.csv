@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Slugsheep,Morgana,True,Side.blue,1,3,9,3.3333333333333335,29,Flash,Exhaust,12,False,9669,7575,Redemption,Boots of Mobility,Eye of the Watchers,The Dark Seal,Needlessly Large Rod,Ruby Crystal,30828,8346,Lane.bot_lane,Role.support
+1,Phantóm,Ezreal,True,Side.blue,6,0,8,14.0,263,Flash,Heal,15,False,13552,12333,Trinity Force,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Last Whisper,Doran's Blade,33126,141643,Lane.bot_lane,Role.carry
+2,am sol,Elise,True,Side.blue,12,2,5,8.5,107,Smite,Flash,16,False,14524,14200,Enchantment: Runic Echoes,Dead Man's Plate,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,Spectre's Cowl,118645,34656,Lane.jungle,Role.none
+3,Rhoeth,Poppy,True,Side.blue,4,2,9,6.5,168,Teleport,Flash,14,False,11425,10300,Ninja Tabi,Sunfire Cape,Spirit Visage,Iceborn Gauntlet,Corrupting Potion,,31028,62116,Lane.top_lane,Role.solo
+4,IIIllIIllllIllII,Annie,True,Side.blue,7,8,5,1.5,165,Flash,Ignite,13,False,11428,10685,Amplifying Tome,Blasting Wand,Needlessly Large Rod,Boots of Mobility,Luden's Echo,Morellonomicon,92341,10655,Lane.mid_lane,Role.solo
+5,NEACE  Eeeee,Jayce,False,Side.red,2,8,3,0.625,235,Flash,Ignite,15,False,10046,9800,The Black Cleaver,Youmuu's Ghostblade,Pickaxe,Ionian Boots of Lucidity,Giant Slayer,,23418,136548,Lane.top_lane,Role.solo
+6,Jordanian Sniper,Jhin,False,Side.red,3,2,7,5.0,226,Flash,Heal,14,False,10299,9525,Last Whisper,Rapid Firecannon,Doran's Blade,Long Sword,Boots of Swiftness,Essence Reaver,11546,128699,Lane.bot_lane,Role.carry
+7,Hanjaro,Janna,False,Side.red,0,3,9,3.0,15,Flash,Exhaust,12,False,7053,6625,Sightstone,Mikael's Crucible,Ionian Boots of Lucidity,Aegis of the Legion,Nomad's Medallion,Null-Magic Mantle,9886,2016,Lane.bot_lane,Role.support
+8,Mishas Swamp,Lee Sin,False,Side.red,6,6,4,1.6666666666666667,89,Smite,Flash,12,True,9147,8475,Boots of Mobility,Giant's Belt,Warden's Mail,Enchantment: Warrior,Spirit Visage,,11964,55649,Lane.jungle,Role.none
+9,NiceTwig,Cassiopeia,False,Side.red,4,12,3,0.5833333333333334,122,Flash,Ghost,13,False,8773,7750,Doran's Ring,Abyssal Scepter,Tear of the Goddess,Rylai's Crystal Scepter,Doran's Ring,,74321,6284,Lane.mid_lane,Role.solo

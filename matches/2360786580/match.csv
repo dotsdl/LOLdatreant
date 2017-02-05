@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LL Stylish,Zed,False,Side.blue,12,10,4,1.6,141,Ignite,Flash,13,False,10578,9950,Ninja Tabi,Refillable Potion,Youmuu's Ghostblade,Duskblade of Draktharr,Caulfield's Warhammer,Phage,4799,75186,Lane.mid_lane,Role.solo
+1,CloudNguyén,Elise,False,Side.blue,6,8,4,1.25,122,Smite,Flash,13,True,9527,8300,Control Ward,Refillable Potion,Rylai's Crystal Scepter,Sorcerer's Shoes,Enchantment: Runic Echoes,Blasting Wand,86528,22246,Lane.jungle,Role.none
+2,Pocket Rhino,Thresh,False,Side.blue,0,8,15,1.875,17,Flash,Ignite,11,False,6511,6425,Redemption,Refillable Potion,Ruby Sightstone,Kindlegem,Relic Shield,Boots of Mobility,8197,2588,Lane.bot_lane,Role.support
+3,konkwon,Lucian,False,Side.blue,4,4,7,2.75,178,Flash,Heal,12,False,9547,9500,Doran's Blade,Essence Reaver,Berserker's Greaves,Phantom Dancer,Last Whisper,Control Ward,2997,89321,Lane.bot_lane,Role.carry
+4,Renger cat,Ekko,False,Side.blue,4,7,5,1.2857142857142858,209,Teleport,Flash,14,False,9921,9630,Hextech Protobelt-01,Zhonya's Hourglass,Aether Wisp,Ninja Tabi,Sheen,Doran's Ring,108478,19898,Lane.top_lane,Role.solo
+5,Happy Birfdizzay,Singed,True,Side.red,4,4,8,3.0,272,Ghost,Teleport,15,False,12095,11950,Zz'Rot Portal,Spectre's Cowl,Mercury's Treads,Dead Man's Plate,Liandry's Torment,The Dark Seal,139049,6215,Lane.jungle,Role.none
+6,FZ3R0,Lee Sin,True,Side.red,14,4,18,8.0,175,Flash,Smite,16,False,14559,12025,Tiamat,Spirit Visage,Mercury's Treads,Enchantment: Warrior,Dead Man's Plate,Phage,27043,139110,Lane.jungle,Role.none
+7,PutYourHeartsUp,Lulu,True,Side.red,3,6,24,4.5,22,Exhaust,Flash,13,False,9833,7975,,Crystalline Bracer,Eye of the Watchers,Forbidden Idol,Ardent Censer,Ionian Boots of Lucidity,11969,5652,Lane.bot_lane,Role.support
+8,Smartcloud,Ezreal,True,Side.red,6,6,9,2.5,163,Flash,Heal,13,False,11214,11025,Doran's Blade,Iceborn Gauntlet,Blade of the Ruined King,Muramana,Long Sword,Ionian Boots of Lucidity,24837,73710,Lane.bot_lane,Role.carry
+9,zlsna,Jayce,True,Side.red,10,6,13,3.8333333333333335,175,Flash,Exhaust,15,False,12738,9125,Doran's Blade,Last Whisper,Youmuu's Ghostblade,The Black Cleaver,,Boots of Speed,22833,109964,Lane.mid_lane,Role.solo

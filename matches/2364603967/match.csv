@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,S Diana 2,Diana,True,Side.blue,16,3,9,8.333333333333334,203,Ignite,Flash,17,False,15089,12475,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Luden's Echo,Rabadon's Deathcap,Lich Bane,160697,20074,Lane.mid_lane,Role.solo
+1,Andybendy,Yasuo,True,Side.blue,4,4,10,3.5,216,Flash,Teleport,16,False,11478,9025,Doran's Blade,Doran's Blade,Phantom Dancer,Hexdrinker,Infinity Edge,Boots of Speed,22832,108837,Lane.top_lane,Role.solo
+2,Shockader,Ezreal,True,Side.blue,2,3,12,4.666666666666667,179,Flash,Heal,14,False,10921,7133,Muramana,,Boots of Speed,Doran's Blade,Trinity Force,,15631,84358,Lane.bot_lane,Role.carry
+3,TwistyJuker,Lee Sin,True,Side.blue,8,2,12,10.0,150,Flash,Smite,16,True,12269,9425,Tiamat,Enchantment: Warrior,Randuin's Omen,Hexdrinker,Mercury's Treads,,22416,123054,Lane.jungle,Role.none
+4,gneV,Brand,True,Side.blue,3,2,12,7.5,29,Exhaust,Flash,13,False,9291,8985,Haunting Guise,Rylai's Crystal Scepter,Sorcerer's Shoes,Eye of the Watchers,Amplifying Tome,,29616,4183,Lane.bot_lane,Role.support
+5,out skizzled,Vi,False,Side.red,0,5,5,1.0,138,Flash,Smite,14,False,9389,8895,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Ninja Tabi,Raptor Cloak,Negatron Cloak,2505,117213,Lane.jungle,Role.none
+6,refwaewafewfquyk,Bard,False,Side.red,0,8,2,0.25,12,Flash,Exhaust,11,False,6615,6125,Ruby Sightstone,,Knight's Vow,Spellthief's Edge,Boots of Mobility,Null-Magic Mantle,11341,3838,Lane.bot_lane,Role.support
+7,Shamwwow,Mordekaiser,False,Side.red,10,7,3,1.8571428571428572,165,Flash,Teleport,15,False,11157,10835,Doran's Shield,Amplifying Tome,Sorcerer's Shoes,Hextech Protobelt-01,Zhonya's Hourglass,Rylai's Crystal Scepter,97648,13890,Lane.top_lane,Role.solo
+8,andtheknee,Orianna,False,Side.red,2,6,2,0.6666666666666666,251,Ghost,Flash,15,False,10516,9535,Rabadon's Deathcap,Amplifying Tome,,Morellonomicon,Ionian Boots of Lucidity,Doran's Ring,144905,14098,Lane.mid_lane,Role.solo
+9, keine Hosen,Draven,False,Side.red,2,7,2,0.5714285714285714,187,Flash,Heal,12,False,10406,9850,Zeal,Mercurial Scimitar,Youmuu's Ghostblade,Berserker's Greaves,Doran's Blade,Dagger,0,96792,Lane.bot_lane,Role.carry

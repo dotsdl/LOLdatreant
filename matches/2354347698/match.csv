@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jeehun,Caitlyn,True,Side.blue,1,3,5,2.0,150,Flash,Heal,10,False,8450,7725,Doran's Blade,Berserker's Greaves,Pickaxe,B. F. Sword,Runaan's Hurricane,Zeal,433,75091,Lane.bot_lane,Role.carry
+1,Leza,Orianna,True,Side.blue,7,0,6,13.0,217,Flash,Ghost,14,False,11117,9650,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Doran's Ring,105702,17509,Lane.mid_lane,Role.solo
+2,MaNDashwell,Yasuo,True,Side.blue,6,2,2,4.0,143,Flash,Teleport,12,True,9495,9000,Doran's Blade,Maw of Malmortius,Control Ward,Vampiric Scepter,Phantom Dancer,Berserker's Greaves,12745,72185,Lane.top_lane,Role.solo
+3,Paxton,Alistar,True,Side.blue,0,1,10,10.0,30,Flash,Exhaust,9,False,6635,6300,Targon's Brace,Mercury's Treads,Knight's Vow,Ruby Sightstone,,,7054,5148,Lane.bot_lane,Role.support
+4,Kachu,Vi,True,Side.blue,4,4,3,1.75,79,Smite,Flash,10,False,8368,7458,Enchantment: Warrior,Trinity Force,Boots of Mobility,,,,1618,77617,Lane.jungle,Role.none
+5,Kurumz,Jhin,False,Side.red,3,2,4,3.5,158,Heal,Flash,11,False,7507,5750,Doran's Blade,,Boots of Swiftness,Essence Reaver,Long Sword,Dagger,4503,80240,Lane.bot_lane,Role.carry
+6,The Coldshroom,Teemo,False,Side.red,3,8,2,0.625,94,Ignite,Flash,11,False,6295,4985,Total Biscuit of Rejuvenation,Doran's Ring,Ninja Tabi,Seeker's Armguard,Haunting Guise,Amplifying Tome,29799,10714,Lane.top_lane,Role.solo
+7,BIind Goat,Kassadin,False,Side.red,0,1,1,1.0,97,Teleport,Flash,9,False,5386,3500,Corrupting Potion,Rod of Ages,Boots of Speed,,,,19056,9516,Lane.mid_lane,Role.solo
+8,MooseHater,Zac,False,Side.red,4,4,2,1.5,120,Flash,Smite,12,False,7746,7250,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ionian Boots of Lucidity,Cloth Armor,Ruby Crystal,76355,16594,Lane.jungle,Role.none
+9,ChickenNugget,Janna,False,Side.red,0,3,8,2.6666666666666665,12,Flash,Exhaust,10,False,5507,4675,Talisman of Ascension,Sightstone,Control Ward,Refillable Potion,Ionian Boots of Lucidity,,8481,3444,Lane.bot_lane,Role.support

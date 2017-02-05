@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zz cicero,Nidalee,True,Side.blue,3,1,6,9.0,103,Smite,Flash,12,False,8559,6425,Enchantment: Runic Echoes,Rod of Ages,Ionian Boots of Lucidity,,,,84068,15560,Lane.jungle,Role.none
+1,Allorim,Maokai,True,Side.blue,4,0,11,15.0,60,Flash,Exhaust,11,False,8179,6300,Sightstone,Control Ward,Redemption,Face of the Mountain,Boots of Swiftness,,29334,9418,Lane.bot_lane,Role.duo
+2,Flaresz,Jayce,True,Side.blue,8,3,4,4.0,125,Flash,Teleport,12,False,9325,5550,Doran's Blade,The Black Cleaver,Refillable Potion,B. F. Sword,Boots of Speed,,11322,62064,Lane.top_lane,Role.solo
+3,Liquid Lourlo,Caitlyn,True,Side.blue,4,3,7,3.6666666666666665,151,Heal,Flash,11,False,9102,6725,Infinity Edge,Zeal,Doran's Blade,Berserker's Greaves,Refillable Potion,,249,88291,Lane.bot_lane,Role.duo
+4,Shrew,LeBlanc,True,Side.blue,4,1,9,13.0,134,Flash,Teleport,12,True,8675,5110,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,,,57173,13020,Lane.mid_lane,Role.solo
+5,Carrots2,Twitch,False,Side.red,0,7,3,0.42857142857142855,119,Flash,Heal,10,False,5394,5385,Doran's Blade,Runaan's Hurricane,Pickaxe,,Berserker's Greaves,,0,43264,Lane.bot_lane,Role.carry
+6,dog2,Evelynn,False,Side.red,1,6,3,0.6666666666666666,63,Flash,Smite,9,False,5053,4875,Control Ward,Refillable Potion,Enchantment: Runic Echoes,Hextech Revolver,Boots of Mobility,,26392,16472,Lane.jungle,Role.none
+7,konkwon,Karma,False,Side.red,0,2,5,2.5,11,Flash,Exhaust,9,False,4364,4025,Frostfang,Forbidden Idol,Ionian Boots of Lucidity,Sightstone,,Control Ward,6988,2181,Lane.bot_lane,Role.support
+8,Deft Pawn,Riven,False,Side.red,3,4,1,1.0,123,Teleport,Flash,11,False,6156,5900,The Black Cleaver,Caulfield's Warhammer,Doran's Blade,Ionian Boots of Lucidity,,,0,57338,Lane.top_lane,Role.solo
+9,stuntopia,Katarina,False,Side.red,4,4,2,1.5,87,Ignite,Flash,10,False,5829,5100,Hexdrinker,Bilgewater Cutlass,Refillable Potion,Hextech Revolver,Sorcerer's Shoes,,44666,7725,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,er ber ter,Twisted Fate,True,Side.blue,1,2,4,2.5,140,Ghost,Flash,12,False,9695,9210,Luden's Echo,Fiendish Codex,Lich Bane,Ionian Boots of Lucidity,Amplifying Tome,,84005,16916,Lane.mid_lane,Role.solo
+1,foggedftw1,Kled,True,Side.blue,6,5,5,2.2,111,Ignite,Flash,12,True,9063,8650,Titanic Hydra,,Ninja Tabi,Doran's Blade,The Black Cleaver,Cloth Armor,0,63704,Lane.top_lane,Role.solo
+2,Stirling Archer,Janna,True,Side.blue,1,0,10,11.0,14,Exhaust,Flash,11,False,7255,6350,Talisman of Ascension,Redemption,Sightstone,Control Ward,Boots of Speed,Cloth Armor,2433,5407,Lane.bot_lane,Role.support
+3,dirtydob,Rek'Sai,True,Side.blue,9,1,4,13.0,113,Flash,Smite,12,False,10215,9325,Enchantment: Cinderhulk,Titanic Hydra,Ninja Tabi,Ruby Crystal,Needlessly Large Rod,Cloth Armor,21983,76613,Lane.jungle,Role.none
+4,SONOROUS X,Jinx,True,Side.blue,4,2,6,5.0,167,Flash,Heal,12,False,10173,8600,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Long Sword,Brawler's Gloves,372,105557,Lane.bot_lane,Role.carry
+5,MaNDashwell,Gangplank,False,Side.red,4,8,1,0.625,128,Flash,Teleport,13,False,7818,7533,Trinity Force,Pickaxe,Control Ward,Long Sword,B. F. Sword,Boots of Swiftness,9131,71840,Lane.top_lane,Role.solo
+6,KT Score,Viktor,False,Side.red,3,4,1,1.0,165,Cleanse,Flash,12,False,7269,6550,The Hex Core mk-2,Sheen,Doran's Ring,Blasting Wand,Aether Wisp,Ionian Boots of Lucidity,74342,10334,Lane.mid_lane,Role.carry
+7,Ayukura,Caitlyn,False,Side.red,0,6,4,0.6666666666666666,115,Flash,Heal,10,False,5895,5500,Doran's Blade,B. F. Sword,Runaan's Hurricane,Total Biscuit of Rejuvenation,Pickaxe,,842,53433,Lane.bot_lane,Role.carry
+8,King Shoaa,Cho'Gath,False,Side.red,3,3,2,1.6666666666666667,50,Flash,Exhaust,11,False,6130,5900,Frostfang,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Sightstone,,,35050,9024,Lane.bot_lane,Role.support
+9,King Brew,Hecarim,False,Side.red,0,1,0,0.0,7,Ghost,Smite,3,False,3542,500,Hunter's Talisman,Refillable Potion,,,,,1050,4164,Lane.mid_lane,Role.support

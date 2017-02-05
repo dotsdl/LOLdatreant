@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Carrots2,Ezreal,False,Side.blue,4,3,1,1.6666666666666667,200,Flash,Heal,12,False,9223,8925,Ionian Boots of Lucidity,Iceborn Gauntlet,Manamune,Cull,Recurve Bow,Vampiric Scepter,21035,76613,Lane.bot_lane,Role.carry
+1,Lovechemist,Hecarim,False,Side.blue,5,3,2,2.3333333333333335,92,Smite,Ghost,11,False,7565,7233,Skirmisher's Sabre,Ninja Tabi,Bami's Cinder,Refillable Potion,Trinity Force,,4375,70090,Lane.jungle,Role.none
+2,KING TRICK,Shyvana,False,Side.blue,0,10,3,0.3,98,Teleport,Ghost,10,False,5698,5200,Sunfire Cape,Ruby Crystal,Doran's Shield,Refillable Potion,Ninja Tabi,,31084,15082,Lane.top_lane,Role.solo
+3,AvriI Lavigne,Orianna,False,Side.blue,0,6,3,0.5,131,Flash,Ghost,11,False,6029,5560,Refillable Potion,Doran's Ring,Morellonomicon,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,48478,9122,Lane.mid_lane,Role.solo
+4,Kimchi Kimchi,Nami,False,Side.blue,1,3,4,1.6666666666666667,4,Exhaust,Flash,9,False,5442,4275,Eye of the Watchers,Forbidden Idol,Boots of Mobility,,Total Biscuit of Rejuvenation,,6265,5334,Lane.bot_lane,Role.support
+5,retarded virgin,Graves,True,Side.red,6,2,7,6.5,133,Flash,Smite,13,False,9972,9950,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,The Black Cleaver,Long Sword,,2632,125400,Lane.jungle,Role.none
+6,Vsionz,Jayce,True,Side.red,11,4,4,3.75,150,Flash,Teleport,13,True,10831,8050,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,The Black Cleaver,Refillable Potion,Long Sword,13305,81730,Lane.top_lane,Role.solo
+7,NQKEAIDJF,Anivia,True,Side.red,5,0,8,13.0,176,Ghost,Flash,13,False,10063,7475,Doran's Ring,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Archangel's Staff,Rod of Ages,,92472,11701,Lane.mid_lane,Role.solo
+8,bvcx222,Blitzcrank,True,Side.red,2,1,11,13.0,30,Flash,Exhaust,10,False,6814,5250,Ruby Sightstone,Face of the Mountain,,,,Boots of Mobility,6316,6717,Lane.bot_lane,Role.support
+9,Never Vote Yes,Lucian,True,Side.red,1,3,6,2.3333333333333335,148,Flash,Heal,11,False,8122,5800,Doran's Blade,Berserker's Greaves,Youmuu's Ghostblade,Caulfield's Warhammer,,,499,86655,Lane.bot_lane,Role.carry

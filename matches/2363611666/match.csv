@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,amumumu,Amumu,True,Side.blue,4,3,3,2.3333333333333335,122,Flash,Smite,12,False,8958,8200,Enchantment: Runic Echoes,Hunter's Potion,Ninja Tabi,Rylai's Crystal Scepter,Chain Vest,,91381,24347,Lane.jungle,Role.none
+1,Sìyou,Vayne,True,Side.blue,19,2,3,11.0,181,Flash,Heal,13,False,14125,12400,Doran's Blade,Infinity Edge,Statikk Shiv,Essence Reaver,Vampiric Scepter,Berserker's Greaves,30218,104129,Lane.bot_lane,Role.carry
+2,AchiIIes Heal,Ahri,True,Side.blue,5,3,7,4.0,121,Flash,Ignite,12,False,8771,8485,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,Morellonomicon,Doran's Ring,,37391,12525,Lane.mid_lane,Role.solo
+3,Philolol,Thresh,True,Side.blue,3,0,19,22.0,8,Exhaust,Flash,12,False,8854,8650,Nomad's Medallion,Ionian Boots of Lucidity,Locket of the Iron Solari,Redemption,Ruby Crystal,Ruby Sightstone,10069,5366,Lane.bot_lane,Role.support
+4,Nero Valentine,Jayce,True,Side.blue,3,5,4,1.4,118,Teleport,Flash,11,False,7739,7075,Doran's Blade,Boots of Swiftness,Serrated Dirk,The Black Cleaver,Caulfield's Warhammer,,5607,43800,Lane.top_lane,Role.solo
+5,Hyorimaru,Anivia,False,Side.red,3,7,3,0.8571428571428571,128,Flash,Ignite,11,False,7064,6310,Doran's Ring,Doran's Ring,Boots of Mobility,Rod of Ages,Tear of the Goddess,Amplifying Tome,45664,7371,Lane.mid_lane,Role.solo
+6,am tham ben em,Jarvan IV,False,Side.red,3,7,4,1.0,71,Flash,Smite,11,False,6908,6300,Ninja Tabi,Refillable Potion,Tiamat,Enchantment: Cinderhulk,Giant's Belt,,10099,46606,Lane.jungle,Role.none
+7,Command Attack,Caitlyn,False,Side.red,0,7,2,0.2857142857142857,130,Heal,Flash,10,False,6476,5300,Doran's Blade,Runaan's Hurricane,Dagger,B. F. Sword,Boots of Speed,Control Ward,451,50834,Lane.bot_lane,Role.carry
+8,Grnlefboy2,Poppy,False,Side.red,5,4,5,2.5,116,Teleport,Flash,12,True,7760,7275,Iceborn Gauntlet,,Corrupting Potion,Ninja Tabi,Sunfire Cape,,18362,52449,Lane.top_lane,Role.solo
+9,aShady,Brand,False,Side.red,2,9,2,0.4444444444444444,6,Ignite,Flash,9,False,5360,5285,Amplifying Tome,Needlessly Large Rod,Eye of the Watchers,Sorcerer's Shoes,,,15177,3686,Lane.bot_lane,Role.support

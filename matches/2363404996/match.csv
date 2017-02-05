@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fiku,Blitzcrank,True,Side.blue,2,3,13,5.0,47,Flash,Exhaust,12,False,9244,7900,Face of the Mountain,Sightstone,Righteous Glory,Boots of Mobility,Cloth Armor,Sheen,8916,10339,Lane.bot_lane,Role.support
+1,Wazabiee,Orianna,True,Side.blue,9,4,9,4.5,163,Ghost,Flash,14,False,12333,10500,Rylai's Crystal Scepter,Blasting Wand,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,102463,10250,Lane.mid_lane,Role.solo
+2,Darmous,Jinx,True,Side.blue,5,5,4,1.8,187,Flash,Heal,13,False,11391,10700,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Infinity Edge,Rapid Firecannon,,1334,123192,Lane.bot_lane,Role.carry
+3,Fockus,Swain,True,Side.blue,3,2,12,7.5,194,Flash,Teleport,15,False,11701,11025,Doran's Ring,Ninja Tabi,Zhonya's Hourglass,Doran's Ring,Rylai's Crystal Scepter,Rod of Ages,97902,17677,Lane.top_lane,Role.solo
+4,Zeu God,Rek'Sai,True,Side.blue,5,1,10,15.0,104,Flash,Smite,14,False,10621,9800,Enchantment: Cinderhulk,Dead Man's Plate,Mercury's Treads,Spirit Visage,Refillable Potion,,26938,60131,Lane.jungle,Role.none
+5,US Economy,Gnar,False,Side.red,0,5,5,1.0,196,Teleport,Flash,13,False,8292,7550,Frozen Mallet,Hexdrinker,Mercury's Treads,Refillable Potion,Doran's Blade,Phage,4670,93187,Lane.top_lane,Role.solo
+6,Mateusz,Lee Sin,False,Side.red,5,6,2,1.1666666666666667,83,Smite,Flash,11,False,7966,6925,Dead Man's Plate,Refillable Potion,Enchantment: Warrior,Mercury's Treads,,,15457,54737,Lane.jungle,Role.none
+7,Snaffs,Braum,False,Side.red,0,3,7,2.3333333333333335,35,Exhaust,Flash,11,False,6360,6225,Locket of the Iron Solari,Ruby Sightstone,Boots of Mobility,Refillable Potion,Control Ward,Targon's Brace,7077,6409,Lane.bot_lane,Role.support
+8,Dont Keng Wo,Viktor,False,Side.red,9,5,2,2.2,185,Ghost,Flash,14,True,10797,9285,Luden's Echo,Doran's Ring,Ionian Boots of Lucidity,Perfect Hex Core,Sheen,Amplifying Tome,106054,12396,Lane.mid_lane,Role.solo
+9,The Brophy,Twitch,False,Side.red,1,5,4,1.0,171,Heal,Flash,13,False,8261,8075,Berserker's Greaves,Doran's Blade,Infinity Edge,Runaan's Hurricane,,,218,75705,Lane.bot_lane,Role.carry

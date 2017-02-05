@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Barranco Coma,Jhin,True,Side.blue,9,1,4,13.0,151,Flash,Heal,11,True,9674,9300,Youmuu's Ghostblade,Cloak of Agility,Rapid Firecannon,Doran's Blade,Boots of Swiftness,B. F. Sword,3889,76130,Lane.jungle,Role.none
+1,Airsoftslayer,Karma,True,Side.blue,0,2,8,4.0,145,Ignite,Flash,12,False,6871,6035,Doran's Ring,Morellonomicon,Ruby Crystal,Amplifying Tome,Blasting Wand,Ionian Boots of Lucidity,64896,9747,Lane.mid_lane,Role.solo
+2,Albahtross,Yorick,True,Side.blue,1,2,6,3.5,142,Flash,Teleport,12,False,7157,5333,Corrupting Potion,Ninja Tabi,Trinity Force,,,,18126,70499,Lane.jungle,Role.none
+3,Anthøny,Kha'Zix,True,Side.blue,8,2,2,5.0,97,Smite,Flash,12,False,8427,6575,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Boots of Mobility,,,3273,85594,Lane.jungle,Role.none
+4,Sue,Nami,True,Side.blue,3,0,13,16.0,11,Exhaust,Flash,10,False,7071,6675,Eye of the Watchers,Chalice of Harmony,Ionian Boots of Lucidity,Redemption,Control Ward,Faerie Charm,4986,7891,Lane.jungle,Role.none
+5,123410,Yasuo,False,Side.red,0,2,2,1.0,128,Teleport,Flash,12,False,6048,5975,Doran's Blade,Phantom Dancer,Refillable Potion,Ninja Tabi,Pickaxe,Cloak of Agility,18195,50262,Lane.top_lane,Role.solo
+6,Subtact,Zyra,False,Side.red,2,7,3,0.7142857142857143,19,Flash,Ignite,9,False,5379,4575,Frostfang,Ionian Boots of Lucidity,Haunting Guise,,,Sightstone,17278,1606,Lane.jungle,Role.none
+7,okiu,Lee Sin,False,Side.red,4,5,1,1.0,69,Flash,Smite,11,False,6575,6575,Dead Man's Plate,Enchantment: Warrior,Boots of Swiftness,,,,10377,57104,Lane.jungle,Role.none
+8,Šona,Karthus,False,Side.red,1,4,1,0.5,150,Flash,Exhaust,11,False,6366,6135,Amplifying Tome,Sorcerer's Shoes,Fiendish Codex,Rod of Ages,The Dark Seal,Doran's Ring,75996,4070,Lane.mid_lane,Role.solo
+9,Vanísh,Ashe,False,Side.red,0,3,2,0.6666666666666666,116,Heal,Flash,10,False,5719,5400,Essence Reaver,Doran's Blade,Berserker's Greaves,,,,644,52584,Lane.bot_lane,Role.solo

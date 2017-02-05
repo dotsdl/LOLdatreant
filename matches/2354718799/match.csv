@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Green Awakening,Elise,True,Side.blue,2,1,8,10.0,85,Flash,Smite,12,False,8292,7225,Refillable Potion,Control Ward,,Sorcerer's Shoes,Enchantment: Runic Echoes,Rylai's Crystal Scepter,59184,22914,Lane.jungle,Role.none
+1,MongolWarrior,Caitlyn,True,Side.blue,2,3,6,2.6666666666666665,144,Heal,Flash,12,False,8701,8200,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,,402,83015,Lane.bot_lane,Role.carry
+2,zz cicero,Poppy,True,Side.blue,6,4,4,2.5,35,Ignite,Flash,11,False,7452,6225,Chain Vest,Face of the Mountain,Ruby Sightstone,Ruby Crystal,Boots of Mobility,,1375,23904,Lane.bot_lane,Role.support
+3,NoOb NeVeR trolL,Ryze,True,Side.blue,10,1,1,11.0,229,Flash,Teleport,15,True,12679,8300,Seraph's Embrace,Refillable Potion,Morellonomicon,Needlessly Large Rod,Ionian Boots of Lucidity,,172530,14352,Lane.top_lane,Role.solo
+4,TaeYeonT,Zed,True,Side.blue,4,3,8,4.0,104,Ignite,Flash,12,False,8417,6800,Hexdrinker,Youmuu's Ghostblade,Long Sword,Long Sword,B. F. Sword,Boots of Speed,4054,54455,Lane.mid_lane,Role.solo
+5,C L,Lulu,False,Side.red,1,3,6,2.3333333333333335,5,Flash,Exhaust,9,False,5357,5100,Control Ward,Sightstone,Redemption,Spellthief's Edge,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,5431,3550,Lane.bot_lane,Role.support
+6,rikarawr,Vayne,False,Side.red,4,4,5,2.25,159,Flash,Heal,11,False,8383,7975,Doran's Blade,Infinity Edge,,Berserker's Greaves,Statikk Shiv,,14813,56909,Lane.bot_lane,Role.carry
+7,KarasMai,Lee Sin,False,Side.red,1,8,1,0.25,98,Flash,Smite,11,False,6237,5875,Serrated Dirk,Refillable Potion,Caulfield's Warhammer,Enchantment: Warrior,Boots of Mobility,,11570,60828,Lane.jungle,Role.none
+8,Whisper,Ahri,False,Side.red,4,5,1,1.0,119,Ignite,Flash,11,False,7026,6520,Sorcerer's Shoes,Zhonya's Hourglass,Amplifying Tome,Amplifying Tome,Lost Chapter,Doran's Ring,28575,9983,Lane.mid_lane,Role.solo
+9,Paxton,Darius,False,Side.red,2,5,3,1.0,74,Flash,Teleport,10,False,6094,5150,Mercury's Treads,Corrupting Potion,Doran's Blade,Hexdrinker,Giant's Belt,Chain Vest,481,38724,Lane.top_lane,Role.solo

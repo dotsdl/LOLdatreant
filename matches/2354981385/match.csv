@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hard On Donger,Yasuo,True,Side.blue,4,4,3,1.75,169,Flash,Teleport,14,False,9501,7350,Doran's Blade,Refillable Potion,Frozen Mallet,,Phantom Dancer,Boots of Swiftness,25853,78315,Lane.top_lane,Role.solo
+1,Tomelette,Zyra,True,Side.blue,2,4,7,2.25,12,Flash,Exhaust,9,False,6843,6000,Eye of the Watchers,Redemption,Refillable Potion,Sorcerer's Shoes,Control Ward,,17764,5320,Lane.bot_lane,Role.support
+2,dfist,Ezreal,True,Side.blue,2,1,8,10.0,133,Flash,Heal,11,False,8282,6200,Doran's Blade,Manamune,,,Iceborn Gauntlet,Boots of Speed,4557,60633,Lane.bot_lane,Role.carry
+3,EDG SLICER,Olaf,True,Side.blue,5,2,5,5.0,38,Ghost,Smite,10,False,7714,7525,Enchantment: Cinderhulk,Refillable Potion,Kindlegem,Dead Man's Plate,,Ionian Boots of Lucidity,8076,41684,Lane.jungle,Role.none
+4,k7o2slqdoc7pvgym,Xerath,True,Side.blue,8,1,3,11.0,161,Ghost,Flash,12,False,9935,9625,Doran's Ring,Morellonomicon,Mejai's Soulstealer,Rylai's Crystal Scepter,Needlessly Large Rod,Boots of Speed,96530,11201,Lane.mid_lane,Role.solo
+5,CookiesOP,Lucian,False,Side.red,1,7,2,0.42857142857142855,148,Flash,Heal,10,False,7313,6900,Essence Reaver,Zeal,Refillable Potion,Ionian Boots of Lucidity,,Doran's Blade,2971,69040,Lane.bot_lane,Role.carry
+6,Látte,Karma,False,Side.red,0,2,3,1.5,18,Flash,Exhaust,9,False,4892,4000,Frostfang,Sightstone,Ionian Boots of Lucidity,,Forbidden Idol,,17023,2081,Lane.bot_lane,Role.support
+7,Lovechemist,Viktor,False,Side.red,0,3,0,0.0,109,Ghost,Flash,10,False,5764,4555,The Hex Core mk-2,Control Ward,Amplifying Tome,Negatron Cloak,Doran's Ring,Boots of Speed,36018,7821,Lane.mid_lane,Role.solo
+8,Betabet,Lee Sin,False,Side.red,6,5,3,1.8,70,Flash,Smite,11,False,7226,6225,Mercury's Treads,Refillable Potion,Enchantment: Warrior,Phage,Caulfield's Warhammer,,12392,44067,Lane.jungle,Role.none
+9,Semoponume,Darius,False,Side.red,5,4,2,1.75,146,Ghost,Flash,12,True,8055,7400,The Black Cleaver,Dead Man's Plate,Ninja Tabi,,,,0,61619,Lane.top_lane,Role.solo

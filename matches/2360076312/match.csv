@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizikz,Elise,True,Side.blue,13,3,10,7.666666666666667,191,Smite,Flash,17,False,15832,15150,Hextech Protobelt-01,Zhonya's Hourglass,Ionian Boots of Lucidity,Void Staff,Enchantment: Runic Echoes,Rylai's Crystal Scepter,152404,41598,Lane.jungle,Role.none
+1,loveyen,LeBlanc,True,Side.blue,5,2,9,7.0,216,Flash,Ghost,17,False,13186,12650,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Mejai's Soulstealer,Rod of Ages,130460,19677,Lane.mid_lane,Role.solo
+2,RootLaw,Bard,True,Side.blue,4,2,17,10.5,41,Exhaust,Flash,15,False,11930,10650,Frostfang,Redemption,Ruby Sightstone,Boots of Mobility,Banner of Command,Iceborn Gauntlet,13579,5087,Lane.bot_lane,Role.support
+3,JustKeepSmiling,Vayne,True,Side.blue,8,3,5,4.333333333333333,284,Heal,Flash,15,True,15371,13175,Doran's Blade,Berserker's Greaves,Statikk Shiv,Infinity Edge,Phantom Dancer,Sterak's Gage,53187,120679,Lane.bot_lane,Role.carry
+4,heedqt,Riven,True,Side.blue,1,4,9,2.5,214,Teleport,Flash,16,False,12162,11500,The Bloodthirster,Ravenous Hydra,The Black Cleaver,Ionian Boots of Lucidity,,,0,138940,Lane.top_lane,Role.solo
+5,Wukong IRL,Wukong,False,Side.red,7,9,4,1.2222222222222223,133,Flash,Smite,15,False,11030,10425,Hunter's Potion,Youmuu's Ghostblade,Enchantment: Warrior,Boots of Swiftness,Maw of Malmortius,Long Sword,11043,129618,Lane.jungle,Role.none
+6,Ralara,Caitlyn,False,Side.red,4,8,3,0.875,225,Flash,Heal,14,False,11283,10800,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Rapid Firecannon,,1306,149661,Lane.bot_lane,Role.carry
+7,Saiaf,Janna,False,Side.red,1,5,7,1.6,7,Flash,Exhaust,13,False,8420,7725,Ruby Sightstone,Ionian Boots of Lucidity,Control Ward,Locket of the Iron Solari,Nomad's Medallion,Forbidden Idol,4738,1763,Lane.bot_lane,Role.support
+8,Reaper Rory,Lux,False,Side.red,0,5,5,1.0,234,Teleport,Flash,16,False,10578,9575,Zhonya's Hourglass,Morellonomicon,Abyssal Scepter,,Doran's Ring,Boots of Speed,123838,18553,Lane.mid_lane,Role.solo
+9,ALTT1,Poppy,False,Side.red,2,4,5,1.75,224,Flash,Teleport,16,False,10613,10000,Corrupting Potion,Ninja Tabi,Sunfire Cape,Spirit Visage,Iceborn Gauntlet,,42383,71337,Lane.top_lane,Role.solo

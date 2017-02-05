@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Creatìve Self ,Vayne,False,Side.blue,0,0,0,0.0,0,Flash,Heal,1,False,658,0,,,,,,,0,0,Lane.mid_lane,Role.none
+1,Skymark,Brand,False,Side.blue,0,0,0,0.0,6,Flash,Exhaust,3,False,829,500,Spellthief's Edge,Refillable Potion,,,,,1387,460,Lane.bot_lane,Role.solo
+2,Winged100,Vel'Koz,False,Side.blue,0,0,0,0.0,13,Heal,Flash,3,False,900,500,Doran's Ring,,Total Biscuit of Rejuvenation,,,,2854,801,Lane.mid_lane,Role.none
+3,LOS MECHANICOS,Gangplank,False,Side.blue,0,0,0,0.0,12,Teleport,Flash,3,False,962,575,Sapphire Crystal,Refillable Potion,Control Ward,,,,39,2109,Lane.top_lane,Role.solo
+4,Chocomancer,Lee Sin,False,Side.blue,0,1,0,0.0,6,Flash,Smite,3,False,1028,500,Refillable Potion,Hunter's Machete,,,,,307,6129,Lane.mid_lane,Role.none
+5,II Master II,Caitlyn,True,Side.red,0,0,0,0.0,18,Flash,Heal,2,False,1019,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,3634,Lane.bot_lane,Role.duo
+6,TF Demon King,Nautilus,True,Side.red,0,0,0,0.0,3,Exhaust,Flash,2,False,769,500,Relic Shield,,Total Biscuit of Rejuvenation,,,,263,691,Lane.bot_lane,Role.duo
+7,KaneKi521,Yasuo,True,Side.red,0,0,0,0.0,10,Flash,Teleport,2,False,846,725,Refillable Potion,Control Ward,Doran's Blade,,,,1071,1563,Lane.top_lane,Role.solo
+8,Jhinathan ,Vi,True,Side.red,0,0,0,0.0,12,Smite,Flash,4,False,1156,500,Hunter's Machete,Refillable Potion,,,,,0,9858,Lane.jungle,Role.none
+9,Mini Frapp,Ahri,True,Side.red,1,0,0,1.0,11,Ignite,Flash,3,True,1297,500,Doran's Ring,,,,,,1462,1435,Lane.mid_lane,Role.solo

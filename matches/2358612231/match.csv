@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ApoIlo Price,Ashe,True,Side.blue,2,3,3,1.6666666666666667,193,Flash,Heal,12,False,9038,8950,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,Pickaxe,Control Ward,344,86614,Lane.bot_lane,Role.carry
+1,PutYourHeartsUp,Taliyah,True,Side.blue,6,0,11,17.0,26,Exhaust,Flash,11,False,9046,8725,Lost Chapter,Control Ward,Eye of the Watchers,Fiendish Codex,Rylai's Crystal Scepter,Ionian Boots of Lucidity,22073,4010,Lane.bot_lane,Role.support
+2,Abou222,Ekko,True,Side.blue,2,2,6,4.0,163,Teleport,Flash,13,False,8930,8100,Hextech Protobelt-01,Corrupting Potion,Sorcerer's Shoes,Abyssal Scepter,Fiendish Codex,,84679,16258,Lane.mid_lane,Role.solo
+3,Dardøch,Rek'Sai,True,Side.blue,9,0,4,13.0,157,Smite,Flash,14,True,11414,11200,Enchantment: Cinderhulk,Randuin's Omen,Ninja Tabi,Null-Magic Mantle,Ruby Crystal,Titanic Hydra,36392,114323,Lane.jungle,Role.none
+4,Adrian Riven,Riven,True,Side.blue,5,5,10,3.0,123,Teleport,Flash,14,False,9408,9250,The Black Cleaver,Death's Dance,Doran's Shield,,Ninja Tabi,Chain Vest,1997,74958,Lane.top_lane,Role.solo
+5,Pekin Woof,Fizz,False,Side.red,1,1,2,3.0,197,Flash,Teleport,14,False,8196,8010,Lich Bane,Corrupting Potion,Ionian Boots of Lucidity,Abyssal Scepter,Amplifying Tome,,57121,31702,Lane.mid_lane,Role.solo
+6,Rïkara,Vayne,False,Side.red,3,3,0,1.0,180,Flash,Heal,12,False,8083,7925,Doran's Blade,Infinity Edge,Berserker's Greaves,,Statikk Shiv,,19455,53034,Lane.bot_lane,Role.carry
+7,Daarr,Graves,False,Side.red,2,5,5,1.4,151,Flash,Smite,13,False,8537,8500,Enchantment: Warrior,Ninja Tabi,Refillable Potion,Maw of Malmortius,Zeal,,4033,121282,Lane.jungle,Role.none
+8,Dhokla,Jayce,False,Side.red,3,8,4,0.875,137,Flash,Teleport,12,False,7813,6900,The Black Cleaver,Refillable Potion,Ninja Tabi,Serrated Dirk,Doran's Blade,Pickaxe,12454,66874,Lane.top_lane,Role.solo
+9,TwTv Kinoscorpia,Bard,False,Side.red,1,7,4,0.7142857142857143,12,Ignite,Flash,10,False,5690,5575,,Knight's Vow,,Boots of Speed,Control Ward,Eye of the Watchers,4972,2463,Lane.bot_lane,Role.support

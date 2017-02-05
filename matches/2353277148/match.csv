@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Krypt,Ashe,False,Side.blue,1,2,4,2.5,155,Flash,Heal,11,False,6836,6675,,Pickaxe,Runaan's Hurricane,B. F. Sword,Doran's Blade,Berserker's Greaves,711,58183,Lane.bot_lane,Role.carry
+1,AD Nannies Pref,Sona,False,Side.blue,2,5,3,1.0,75,Teleport,Flash,10,False,5705,5550,Zz'Rot Portal,Doran's Ring,The Dark Seal,Forbidden Idol,Aether Wisp,Sapphire Crystal,15527,9292,Lane.top_lane,Role.solo
+2,Yaphets pis,Graves,False,Side.blue,4,2,1,2.5,155,Flash,Smite,13,False,8005,7350,Enchantment: Warrior,Refillable Potion,Dagger,The Black Cleaver,,Berserker's Greaves,3310,108793,Lane.jungle,Role.none
+3,Silent Pace,Nami,False,Side.blue,1,4,4,1.25,6,Exhaust,Flash,10,False,4753,4400,Frost Queen's Claim,Sightstone,Faerie Charm,Boots of Swiftness,Faerie Charm,,4999,1641,Lane.bot_lane,Role.support
+4,Miajima,Talon,False,Side.blue,2,4,0,0.5,100,Flash,Ghost,10,False,5576,4950,Serrated Dirk,Tiamat,Boots of Swiftness,Caulfield's Warhammer,,,614,55554,Lane.jungle,Role.none
+5,zT ace,Yasuo,True,Side.red,6,4,2,2.0,199,Teleport,Flash,13,True,10492,10175,Doran's Blade,Phantom Dancer,Ninja Tabi,Infinity Edge,Vampiric Scepter,B. F. Sword,25322,94659,Lane.top_lane,Role.solo
+6,LOS MECHANICOS,Zac,True,Side.red,7,0,1,8.0,106,Smite,Flash,12,False,8536,5775,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Warden's Mail,Kindlegem,Control Ward,73521,21994,Lane.jungle,Role.none
+7,05 07 2009,Ryze,True,Side.red,1,2,6,3.5,150,Ghost,Flash,12,False,7773,6125,Rod of Ages,Refillable Potion,Boots of Speed,Morellonomicon,,,72250,10311,Lane.mid_lane,Role.solo
+8,Useless Rat,Vayne,True,Side.red,3,2,2,2.5,163,Flash,Heal,12,False,8164,6550,Statikk Shiv,Doran's Blade,B. F. Sword,Berserker's Greaves,Pickaxe,,11946,64501,Lane.bot_lane,Role.carry
+9,Killlua,Janna,True,Side.red,0,2,7,3.5,3,Exhaust,Flash,9,False,5381,4725,Redemption,Boots of Speed,Eye of the Oasis,Control Ward,,,1469,3175,Lane.bot_lane,Role.support

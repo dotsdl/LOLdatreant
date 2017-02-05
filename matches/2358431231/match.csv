@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Squirtle Cola,Vayne,False,Side.blue,11,10,7,1.8,92,Heal,Flash,11,False,8917,8400,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Dagger,,9352,42456,Lane.bot_lane,Role.carry
+1,Tom Brady101,Nautilus,False,Side.blue,2,6,12,2.3333333333333335,117,Flash,Teleport,12,False,7117,5700,Bami's Cinder,Mercury's Treads,Corrupting Potion,Spectre's Cowl,Glacial Shroud,Chain Vest,46122,19597,Lane.top_lane,Role.solo
+2,iownal9000,Sejuani,False,Side.blue,1,5,16,3.4,59,Smite,Flash,11,False,6506,5825,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Giant's Belt,Chain Vest,,36152,17761,Lane.jungle,Role.none
+3,a fukin feg,Brand,False,Side.blue,9,5,14,4.6,34,Ignite,Flash,11,False,9146,8625,Total Biscuit of Rejuvenation,Eye of the Watchers,Control Ward,Rylai's Crystal Scepter,Sorcerer's Shoes,Haunting Guise,31945,4631,Lane.bot_lane,Role.support
+4,BoatsnHoesss,Zed,False,Side.blue,7,7,6,1.8571428571428572,82,Flash,Ghost,11,False,7540,6925,The Black Cleaver,Mercury's Treads,Hexdrinker,Control Ward,Caulfield's Warhammer,,3512,43521,Lane.mid_lane,Role.solo
+5,xSojin,Twisted Fate,True,Side.red,3,5,3,1.2,107,Smite,Flash,13,False,10011,9675,Ionian Boots of Lucidity,Hunter's Potion,Enchantment: Runic Echoes,Nashor's Tooth,Abyssal Scepter,,77898,24775,Lane.jungle,Role.none
+6,BonQuish,Karma,True,Side.red,4,8,16,2.5,6,Exhaust,Flash,12,True,9743,8475,Redemption,Mikael's Crucible,Frost Queen's Claim,Aether Wisp,Ionian Boots of Lucidity,Faerie Charm,10970,4149,Lane.jungle,Role.none
+7,goompa,Jinx,True,Side.red,17,5,8,5.0,183,Heal,Flash,14,False,14921,12775,Berserker's Greaves,Vampiric Scepter,B. F. Sword,Infinity Edge,Runaan's Hurricane,Statikk Shiv,13165,136396,Lane.bot_lane,Role.solo
+8,cant believe,Gnar,True,Side.red,5,5,6,2.2,113,Flash,Exhaust,11,False,9357,8085,The Black Cleaver,Refillable Potion,Frozen Mallet,Doran's Blade,Mercury's Treads,,5053,58549,Lane.mid_lane,Role.solo
+9,J D,Singed,True,Side.red,4,9,6,1.1111111111111112,161,Teleport,Ghost,13,False,9634,9175,,,Tear of the Goddess,Rylai's Crystal Scepter,Rod of Ages,Mercury's Treads,95035,4137,Lane.top_lane,Role.solo

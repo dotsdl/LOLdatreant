@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,jacksparrow111,Karma,True,Side.blue,2,1,11,13.0,4,Flash,Exhaust,9,True,6095,5025,Ionian Boots of Lucidity,Forbidden Idol,Control Ward,Eye of the Watchers,Ruby Crystal,,11557,6281,Lane.bot_lane,Role.support
+1,ChuYung,Poppy,True,Side.blue,3,0,2,5.0,109,Teleport,Flash,11,False,6706,6000,Sunfire Cape,Corrupting Potion,Ninja Tabi,Cloth Armor,Spectre's Cowl,,13875,34703,Lane.top_lane,Role.solo
+2,Sheathix,Jhin,True,Side.blue,5,2,8,6.5,102,Flash,Heal,9,False,7476,6625,Essence Reaver,Doran's Blade,B. F. Sword,Boots of Swiftness,,,519,54675,Lane.bot_lane,Role.carry
+3,OmarGod,Vi,True,Side.blue,7,4,6,3.25,55,Flash,Smite,10,False,8040,5975,Enchantment: Warrior,Boots of Swiftness,Phage,Sheen,,Refillable Potion,1174,64982,Lane.jungle,Role.none
+4,Tuesdayy,Orianna,True,Side.blue,3,3,2,1.6666666666666667,113,Ghost,Flash,10,False,6525,4225,Morellonomicon,Doran's Ring,Boots of Speed,Doran's Ring,Total Biscuit of Rejuvenation,Control Ward,47608,9342,Lane.mid_lane,Role.solo
+5,Révenge,Riven,False,Side.red,1,4,1,0.5,73,Teleport,Flash,9,False,4283,3475,The Black Cleaver,Refillable Potion,Control Ward,,,,0,31109,Lane.top_lane,Role.solo
+6,Zaganox,Ezreal,False,Side.red,3,8,0,0.375,89,Heal,Flash,8,False,5060,4950,Doran's Blade,Ionian Boots of Lucidity,Manamune,Sheen,,,5924,27088,Lane.bot_lane,Role.carry
+7,urwong,Bard,False,Side.red,1,4,2,0.75,11,Exhaust,Flash,8,False,3900,3575,Frostfang,Boots of Speed,Sightstone,Aegis of the Legion,Cloth Armor,Control Ward,3895,2173,Lane.bot_lane,Role.support
+8,DeaIer29,Ahri,False,Side.red,2,0,1,3.0,57,Ignite,Flash,8,False,4281,3235,Doran's Ring,Lost Chapter,The Dark Seal,Fiendish Codex,Amplifying Tome,Health Potion,9091,5093,Lane.mid_lane,Role.solo
+9,Hyorimaru,Lee Sin,False,Side.red,3,4,2,1.25,61,Flash,Smite,9,False,4980,4375,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Long Sword,Long Sword,,5828,28452,Lane.jungle,Role.none

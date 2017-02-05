@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shiphtur,Ekko,False,Side.blue,3,7,1,0.5714285714285714,143,Teleport,Flash,12,False,7494,7175,Seeker's Armguard,Fiendish Codex,Doran's Ring,Ionian Boots of Lucidity,The Dark Seal,Rod of Ages,71772,12237,Lane.top_lane,Role.solo
+1,Link,Shyvana,False,Side.blue,1,5,4,1.0,162,Ghost,Smite,13,False,7741,7450,Refillable Potion,Ruby Crystal,Ruby Crystal,Sunfire Cape,Ionian Boots of Lucidity,Enchantment: Bloodrazor,69651,46867,Lane.jungle,Role.none
+2,Second of Arc,LeBlanc,False,Side.blue,2,4,2,1.0,189,Ignite,Flash,13,False,7987,6810,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Amplifying Tome,The Dark Seal,Doran's Ring,65659,13327,Lane.mid_lane,Role.solo
+3,How to Say No,Alistar,False,Side.blue,0,10,1,0.1,20,Flash,Exhaust,7,False,4372,4050,Relic Shield,Sightstone,Redemption,Total Biscuit of Rejuvenation,Boots of Speed,Control Ward,6662,5699,Lane.bot_lane,Role.support
+4,godrjsdnd,Vayne,False,Side.blue,5,7,0,0.7142857142857143,164,Heal,Flash,13,True,8906,8200,Refillable Potion,Blade of the Ruined King,Berserker's Greaves,Cull,Phantom Dancer,Doran's Blade,70,69119,Lane.bot_lane,Role.carry
+5,Linsanityy,Twisted Fate,True,Side.red,4,2,12,8.0,172,Flash,Ghost,15,False,10529,10455,Lich Bane,Abyssal Scepter,,Rod of Ages,Ionian Boots of Lucidity,,94395,12162,Lane.mid_lane,Role.solo
+6,Flamboozle,Lee Sin,True,Side.red,11,3,4,5.0,97,Flash,Smite,13,False,9949,9050,Tiamat,Refillable Potion,Boots of Mobility,The Black Cleaver,Enchantment: Warrior,Giant's Belt,15741,77891,Lane.jungle,Role.none
+7,Zaganox,Twitch,True,Side.red,14,0,5,19.0,197,Heal,Flash,14,False,12740,11400,Doran's Blade,Vampiric Scepter,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Phantom Dancer,0,124841,Lane.bot_lane,Role.carry
+8,Wintrader Vulcan,Karma,True,Side.red,3,1,19,22.0,5,Flash,Exhaust,12,False,7950,6975,Redemption,Ruby Sightstone,Control Ward,Spellthief's Edge,Aegis of the Legion,Ionian Boots of Lucidity,10769,5931,Lane.bot_lane,Role.support
+9,Cris,Yasuo,True,Side.red,1,5,11,2.4,183,Flash,Teleport,14,False,9645,8350,Refillable Potion,Frozen Mallet,Pickaxe,Mercury's Treads,Phantom Dancer,Doran's Blade,34020,85561,Lane.top_lane,Role.solo

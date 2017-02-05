@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hachimitsu,Poppy,True,Side.blue,7,4,9,4.0,142,Teleport,Flash,15,False,11310,10475,Iceborn Gauntlet,Warden's Mail,Sunfire Cape,Giant's Belt,Spectre's Cowl,Mercury's Treads,23187,66180,Lane.top_lane,Role.solo
+1,xPresident,Jarvan IV,True,Side.blue,14,4,17,7.75,78,Smite,Flash,15,False,13151,10075,Enchantment: Warrior,Refillable Potion,Thornmail,Chain Vest,Ninja Tabi,Dead Man's Plate,5963,70495,Lane.jungle,Role.none
+2,tryhardchewy,Thresh,True,Side.blue,4,2,23,13.5,50,Flash,Exhaust,14,False,10669,9075,Frozen Heart,Redemption,Null-Magic Mantle,Ionian Boots of Lucidity,Cloth Armor,Eye of the Equinox,18086,8638,Lane.bot_lane,Role.duo
+3,Koalifier,Lucian,True,Side.blue,11,5,11,4.4,168,Flash,Heal,14,True,12997,10375,Doran's Blade,Essence Reaver,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,B. F. Sword,4294,126814,Lane.bot_lane,Role.duo
+4,Ganked By Mom,Annie,True,Side.blue,13,5,4,3.4,123,Flash,Ignite,14,False,12010,9550,Doran's Ring,Rod of Ages,Doran's Ring,Fiendish Codex,Sorcerer's Shoes,Rabadon's Deathcap,86809,9768,Lane.mid_lane,Role.solo
+5,Stickler,Yasuo,False,Side.red,11,11,2,1.1818181818181819,152,Smite,Flash,14,False,11614,11000,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,Phantom Dancer,Infinity Edge,Vampiric Scepter,15849,122924,Lane.jungle,Role.none
+6,Happy Birfdizzay,Talon,False,Side.red,1,11,7,0.7272727272727273,135,Flash,Ignite,12,False,8377,7975,Duskblade of Draktharr,Youmuu's Ghostblade,Boots of Mobility,Corrupting Potion,Long Sword,,2261,84593,Lane.mid_lane,Role.solo
+7,Hoplite,Bard,False,Side.red,1,8,10,1.375,19,Flash,Exhaust,12,False,8089,7550,Redemption,Frost Queen's Claim,Sightstone,Boots of Mobility,Crystalline Bracer,Cloth Armor,15566,4545,Lane.bot_lane,Role.support
+8,EGYPTIAN DEFT,Twitch,False,Side.red,4,12,2,0.5,136,Heal,Flash,12,False,8402,7600,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,,,116,62192,Lane.bot_lane,Role.carry
+9,MoreBaked,Lissandra,False,Side.red,3,7,5,1.1428571428571428,127,Flash,Teleport,13,False,8359,8250,Doran's Ring,Rod of Ages,Sorcerer's Shoes,Morellonomicon,,Blasting Wand,69109,9085,Lane.top_lane,Role.solo

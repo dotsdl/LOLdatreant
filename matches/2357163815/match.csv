@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Krypt,Vayne,True,Side.blue,8,4,5,3.25,262,Flash,Heal,15,False,14243,11000,Long Sword,Infinity Edge,Statikk Shiv,Phantom Dancer,Doran's Blade,Berserker's Greaves,47636,125112,Lane.bot_lane,Role.carry
+1,Ez Jonn,Annie,True,Side.blue,12,4,9,5.25,133,Flash,Ignite,15,False,12335,11475,Hextech Protobelt-01,Sorcerer's Shoes,Rabadon's Deathcap,Luden's Echo,,,76180,10658,Lane.mid_lane,Role.solo
+2,ddwaeji,Poppy,True,Side.blue,6,2,11,8.5,184,Flash,Teleport,15,True,12018,11525,Corrupting Potion,Frozen Heart,Ninja Tabi,Raptor Cloak,Sunfire Cape,Dead Man's Plate,34563,73674,Lane.top_lane,Role.solo
+3,d3ps,Lee Sin,True,Side.blue,10,8,13,2.875,123,Flash,Smite,16,False,13730,13500,Tiamat,Enchantment: Warrior,Locket of the Iron Solari,The Black Cleaver,Dead Man's Plate,Ninja Tabi,24340,125197,Lane.jungle,Role.none
+4,Snik,Nautilus,True,Side.blue,0,4,15,3.75,26,Exhaust,Flash,12,False,8277,6700,Eye of the Equinox,,Locket of the Iron Solari,Boots of Mobility,Crystalline Bracer,,9529,9239,Lane.bot_lane,Role.support
+5,emV,Gangplank,False,Side.red,4,3,13,5.666666666666667,116,Flash,Exhaust,14,False,11748,10983,Eye of the Watchers,Youmuu's Ghostblade,Trinity Force,Ionian Boots of Lucidity,Control Ward,Cloak of Agility,5941,131754,Lane.bot_lane,Role.support
+6,Ozakii,Yasuo,False,Side.red,0,8,6,0.75,154,Exhaust,Flash,13,False,8907,8500,Doran's Blade,Phantom Dancer,Frozen Mallet,Pickaxe,Berserker's Greaves,,14104,78753,Lane.top_lane,Role.solo
+7,fre3zingCold,Twitch,False,Side.red,6,8,4,1.25,118,Flash,Heal,13,False,9679,10110,Infinity Edge,Runaan's Hurricane,Bilgewater Cutlass,Berserker's Greaves,Dagger,,0,69321,Lane.bot_lane,Role.carry
+8,iOddOrange,Kha'Zix,False,Side.red,8,10,5,1.3,126,Flash,Smite,13,False,10807,10025,Tiamat,Youmuu's Ghostblade,Enchantment: Warrior,Boots of Speed,Refillable Potion,Lord Dominik's Regards,4020,122237,Lane.jungle,Role.none
+9,Nedo,Viktor,False,Side.red,3,8,6,1.125,176,Cleanse,Flash,14,False,9752,9550,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Needlessly Large Rod,,94613,10453,Lane.mid_lane,Role.solo

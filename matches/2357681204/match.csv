@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dank Memes,Master Yi,True,Side.blue,5,9,9,1.5555555555555556,157,Flash,Smite,16,False,12429,11020,Mercury's Treads,Maw of Malmortius,Edge of Night,Enchantment: Bloodrazor,Negatron Cloak,,1797,132975,Lane.jungle,Role.none
+1,soFLy,Riven,True,Side.blue,4,4,9,3.25,208,Flash,Teleport,16,True,12728,11000,Pickaxe,Tiamat,Ninja Tabi,Maw of Malmortius,The Black Cleaver,Vampiric Scepter,0,134983,Lane.top_lane,Role.solo
+2,Haru Tenshi,Jinx,True,Side.blue,14,6,13,4.5,239,Flash,Heal,16,False,16933,16400,Guardian Angel,Infinity Edge,Mercurial Scimitar,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,4172,194995,Lane.bot_lane,Role.carry
+3,Zhico,Fizz,True,Side.blue,6,8,7,1.625,98,Flash,Ignite,14,False,10759,8910,Abyssal Scepter,Corrupting Potion,Ionian Boots of Lucidity,Lich Bane,Fiendish Codex,Amplifying Tome,36863,20133,Lane.mid_lane,Role.solo
+4,bvcx222,Blitzcrank,True,Side.blue,8,4,17,6.25,30,Flash,Ignite,14,False,11718,10675,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Control Ward,Knight's Vow,Boots of Mobility,15480,11601,Lane.bot_lane,Role.support
+5,CalmDownxD,Ezreal,False,Side.red,2,9,8,1.1111111111111112,192,Flash,Heal,14,False,11138,8625,Bilgewater Cutlass,Muramana,Cull,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,16690,118273,Lane.bot_lane,Role.carry
+6,MongolWarrior,Kennen,False,Side.red,7,8,9,2.0,137,Teleport,Flash,14,False,10885,10200,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Void Staff,,Doran's Blade,54775,21039,Lane.top_lane,Role.solo
+7,Omarut,Lee Sin,False,Side.red,8,6,9,2.8333333333333335,79,Smite,Flash,13,False,10394,9675,Enchantment: Warrior,Randuin's Omen,Ninja Tabi,Dead Man's Plate,Refillable Potion,,12965,82910,Lane.jungle,Role.none
+8,TheNuocMam,Nami,False,Side.red,5,8,13,2.25,13,Ignite,Flash,13,False,9350,9125,Refillable Potion,Redemption,Eye of the Watchers,Ninja Tabi,Athene's Unholy Grail,Needlessly Large Rod,9837,4275,Lane.bot_lane,Role.support
+9,AloneTurtle,LeBlanc,False,Side.red,9,6,8,2.8333333333333335,131,Flash,Ignite,14,False,10759,9900,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Rabadon's Deathcap,Luden's Echo,Blasting Wand,67601,17594,Lane.mid_lane,Role.solo

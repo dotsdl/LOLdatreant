@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kebin M,Riven,True,Side.blue,7,5,6,2.6,150,Flash,Teleport,15,False,11291,10325,Ravenous Hydra,Refillable Potion,,Banshee's Veil,Ionian Boots of Lucidity,The Black Cleaver,0,113903,Lane.top_lane,Role.solo
+1,Jurassiq,Lucian,True,Side.blue,7,3,5,4.0,192,Flash,Heal,13,False,11674,11350,Boots of Swiftness,Doran's Blade,Essence Reaver,Phantom Dancer,Maw of Malmortius,Ruby Crystal,4319,111888,Lane.bot_lane,Role.carry
+2,Nuxe,Karma,True,Side.blue,1,3,14,5.0,9,Flash,Exhaust,12,False,8497,7450,Ruby Sightstone,Redemption,Frost Queen's Claim,Control Ward,Ionian Boots of Lucidity,,10615,5701,Lane.bot_lane,Role.support
+3,Nëbu,Swain,True,Side.blue,6,2,7,6.5,165,Flash,Teleport,15,False,10746,10475,Doran's Ring,Rod of Ages,Refillable Potion,Abyssal Scepter,Sorcerer's Shoes,Liandry's Torment,72218,16552,Lane.mid_lane,Role.solo
+4,Feitan,Rek'Sai,True,Side.blue,7,4,10,4.25,146,Smite,Flash,15,True,12206,9250,Mercury's Treads,Enchantment: Cinderhulk,Titanic Hydra,Control Ward,Giant's Belt,Chain Vest,29731,119509,Lane.jungle,Role.none
+5,Maxtrobo,Kayle,False,Side.red,6,8,2,1.0,202,Flash,Teleport,14,False,10372,9585,Guinsoo's Rageblade,Nashor's Tooth,Ruby Crystal,Sorcerer's Shoes,Amplifying Tome,,85415,33592,Lane.top_lane,Role.solo
+6,AetemuSs,Ekko,False,Side.red,6,5,4,2.0,112,Flash,Smite,13,False,9186,9100,Hextech Protobelt-01,Enchantment: Runic Echoes,Fiendish Codex,Seeker's Armguard,Ionian Boots of Lucidity,,77278,24124,Lane.jungle,Role.none
+7,data88,Dr. Mundo,False,Side.red,1,3,5,2.0,91,Exhaust,Flash,12,False,7480,7050,Mercury's Treads,Sightstone,Face of the Mountain,Bami's Cinder,Chain Vest,Null-Magic Mantle,35170,25232,Lane.bot_lane,Role.duo
+8,Niles,Viktor,False,Side.red,4,5,2,1.2,169,Flash,Ghost,13,False,8938,9050,Ionian Boots of Lucidity,Blasting Wand,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,,80294,8100,Lane.mid_lane,Role.solo
+9,tommy1,Ezreal,False,Side.red,0,7,8,1.1428571428571428,141,Heal,Flash,12,False,7984,7050,Doran's Blade,Iceborn Gauntlet,Ionian Boots of Lucidity,Long Sword,,Manamune,14541,59351,Lane.bot_lane,Role.duo

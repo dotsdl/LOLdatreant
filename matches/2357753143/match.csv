@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TRUMPSSMALLHANDS,Rengar,True,Side.blue,14,1,6,20.0,158,Flash,Smite,16,False,13532,12175,Spectre's Cowl,Refillable Potion,Titanic Hydra,The Black Cleaver,Ninja Tabi,Enchantment: Warrior,13508,147234,Lane.jungle,Role.none
+1,SherIocked,Cassiopeia,True,Side.blue,2,5,13,3.0,157,Ghost,Flash,14,False,10006,8950,Doran's Ring,Tear of the Goddess,Needlessly Large Rod,Rylai's Crystal Scepter,Morellonomicon,,79214,12254,Lane.mid_lane,Role.solo
+2,Hakuto,Fiora,True,Side.blue,6,6,11,2.8333333333333335,122,Teleport,Flash,14,False,10908,10150,The Black Cleaver,Tiamat,Doran's Blade,Randuin's Omen,Mercury's Treads,Spectre's Cowl,945,91941,Lane.top_lane,Role.solo
+3,ThaJoka,Varus,True,Side.blue,11,4,4,3.75,187,Heal,Flash,13,False,12952,12800,Rapid Firecannon,Runaan's Hurricane,B. F. Sword,Essence Reaver,Berserker's Greaves,Pickaxe,8772,122244,Lane.bot_lane,Role.carry
+4,Goddess,Zyra,True,Side.blue,5,1,14,19.0,37,Exhaust,Flash,13,False,10523,9500,Eye of the Watchers,Blasting Wand,,Haunting Guise,Rylai's Crystal Scepter,Boots of Mobility,47946,9624,Lane.bot_lane,Role.support
+5,Undisclosed,Volibear,False,Side.red,8,9,1,1.0,109,Smite,Ghost,13,False,9773,8950,Enchantment: Cinderhulk,Giant's Belt,Control Ward,Mercury's Treads,Warmog's Armor,Warden's Mail,44551,61939,Lane.top_lane,Role.support
+6,Xega,Yorick,False,Side.red,4,11,5,0.8181818181818182,176,Flash,Teleport,13,True,9977,9408,Corrupting Potion,Trinity Force,Zz'Rot Portal,Ninja Tabi,Cloth Armor,Giant's Belt,18800,88360,Lane.top_lane,Role.carry
+7,Sunae,Janna,False,Side.red,1,4,10,2.75,20,Exhaust,Flash,13,False,7521,7095,Boots of Mobility,Eye of the Oasis,Redemption,Negatron Cloak,Raptor Cloak,,16593,3132,Lane.bot_lane,Role.support
+8,Big Sal,Orianna,False,Side.red,2,6,6,1.3333333333333333,201,Cleanse,Flash,14,False,9216,8985,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Blasting Wand,Amplifying Tome,96716,14432,Lane.mid_lane,Role.solo
+9,134gu3 0f 13g3nd,Caitlyn,False,Side.red,2,8,3,0.625,153,Flash,Heal,12,False,8453,8575,Infinity Edge,Runaan's Hurricane,Zeal,Total Biscuit of Rejuvenation,,Boots of Speed,843,82643,Lane.bot_lane,Role.carry

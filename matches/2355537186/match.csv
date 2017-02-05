@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,sxillers,Jhin,True,Side.blue,5,0,4,9.0,136,Heal,Flash,11,False,8478,6025,,Doran's Blade,Brawler's Gloves,Dagger,Boots of Swiftness,Essence Reaver,988,66649,Lane.bot_lane,Role.carry
+1,4m Hyuna,Blitzcrank,True,Side.blue,3,1,1,4.0,25,Flash,Exhaust,8,False,5641,4400,Giant's Belt,Boots of Mobility,Eye of the Equinox,,,,3172,8063,Lane.bot_lane,Role.support
+2,Abcixi,LeBlanc,True,Side.blue,7,1,1,8.0,124,Ignite,Flash,12,False,7891,6375,Doran's Ring,Doran's Ring,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,55075,10977,Lane.mid_lane,Role.solo
+3,LyingOntheFloor,Lee Sin,True,Side.blue,2,1,1,3.0,54,Flash,Smite,10,False,5990,4950,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Swiftness,,,6422,62683,Lane.jungle,Role.none
+4,SaySomethinOrDie,Riven,True,Side.blue,4,2,2,3.0,130,Teleport,Flash,12,False,7425,5950,Tiamat,Doran's Shield,Mercury's Treads,,The Black Cleaver,,1377,78111,Lane.top_lane,Role.solo
+5,TheGingerBen,Xin Zhao,False,Side.red,0,4,1,0.25,53,Flash,Smite,9,False,4429,3075,Enchantment: Bloodrazor,Boots of Speed,,,Refillable Potion,,1097,39266,Lane.jungle,Role.none
+6,Brush Limbaugh,Lulu,False,Side.red,0,3,3,1.0,3,Exhaust,Flash,7,False,3603,2925,Boots of Mobility,Sightstone,Frostfang,Control Ward,Total Biscuit of Rejuvenation,,2104,1319,Lane.bot_lane,Role.support
+7,Touph,Ezreal,False,Side.red,1,5,2,0.6,89,Flash,Heal,8,False,4846,3650,,,Manamune,Doran's Blade,Doran's Blade,Boots of Speed,5140,27026,Lane.bot_lane,Role.carry
+8,Anthøny,Pantheon,False,Side.red,4,4,0,1.0,58,Ignite,Flash,8,True,5042,3000,Serrated Dirk,Corrupting Potion,Caulfield's Warhammer,Boots of Speed,,,7450,19765,Lane.top_lane,Role.solo
+9,Bobby De Niro,Viktor,False,Side.red,0,5,0,0.0,109,Ghost,Flash,10,False,4712,4350,The Hex Core mk-2,Tear of the Goddess,,,,,39357,9883,Lane.mid_lane,Role.solo

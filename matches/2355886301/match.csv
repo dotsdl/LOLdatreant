@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HvK LiquidDiego,Lee Sin,False,Side.blue,14,6,10,4.0,97,Flash,Smite,13,False,11563,11030,The Black Cleaver,Control Ward,Enchantment: Warrior,Serrated Dirk,Ninja Tabi,Dead Man's Plate,17237,78503,Lane.jungle,Role.none
+1,MongolWarrior,Blitzcrank,False,Side.blue,2,6,9,1.8333333333333333,25,Ignite,Flash,11,False,6548,6225,Eye of the Equinox,Locket of the Iron Solari,Ruby Crystal,Boots of Mobility,Control Ward,,7265,6892,Lane.bot_lane,Role.support
+2,greenléaf,Jayce,False,Side.blue,0,7,8,1.1428571428571428,186,Teleport,Flash,13,False,9332,8075,Doran's Blade,The Black Cleaver,Pickaxe,Caulfield's Warhammer,Boots of Swiftness,Last Whisper,10460,101233,Lane.top_lane,Role.solo
+3,N810HO,Jhin,False,Side.blue,6,6,12,3.0,186,Flash,Heal,14,False,11002,10375,Giant Slayer,Last Whisper,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Rapid Firecannon,10656,98965,Lane.bot_lane,Role.carry
+4,1234569,Fizz,False,Side.blue,6,6,9,2.5,161,Flash,Ignite,13,False,10227,9475,Lich Bane,Hextech Protobelt-01,Corrupting Potion,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,90383,20892,Lane.mid_lane,Role.solo
+5,TeddyRO,Caitlyn,True,Side.red,3,6,8,1.8333333333333333,154,Flash,Heal,12,False,9082,8200,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,,988,91626,Lane.bot_lane,Role.carry
+6,TEAMLUKEE,Aurelion Sol,True,Side.red,9,9,8,1.8888888888888888,116,Ghost,Flash,13,False,10164,8860,Corrupting Potion,Hextech GLP-800,Boots of Swiftness,Rylai's Crystal Scepter,Amplifying Tome,Ruby Crystal,62244,6707,Lane.mid_lane,Role.solo
+7,SoV NSFW,Poppy,True,Side.red,6,4,9,3.75,158,Flash,Teleport,15,False,10057,8300,Doran's Shield,Sunfire Cape,Corrupting Potion,Mercury's Treads,Spirit Visage,Sapphire Crystal,29641,55690,Lane.top_lane,Role.solo
+8,Crackadon,Hecarim,True,Side.red,11,5,10,4.2,109,Smite,Ghost,14,True,11669,10258,Enchantment: Cinderhulk,Cloth Armor,Trinity Force,Mercury's Treads,Spectre's Cowl,Giant's Belt,16905,86569,Lane.jungle,Role.none
+9,NoCookies4You,Nami,True,Side.red,2,5,20,4.4,10,Flash,Exhaust,12,False,8539,7950,Boots of Mobility,Locket of the Iron Solari,Redemption,Ruby Sightstone,Frostfang,,6181,5828,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C0nVict,Nautilus,False,Side.blue,0,0,1,1.0,12,Flash,Teleport,3,False,1054,500,Corrupting Potion,,,,,,1956,2069,Lane.top_lane,Role.solo
+1,II Master II,Cassiopeia,False,Side.blue,0,0,0,0.0,17,Flash,Cleanse,3,False,962,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1933,1398,Lane.mid_lane,Role.duo
+2,Voids,Braum,False,Side.blue,0,0,0,0.0,0,Exhaust,Flash,1,False,673,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,227,388,Lane.bot_lane,Role.solo
+3,KaneKi521,Kha'Zix,False,Side.blue,1,0,0,1.0,8,Flash,Smite,3,True,1358,500,Refillable Potion,Hunter's Talisman,,,,,561,5429,Lane.jungle,Role.none
+4,Chennnn,Sivir,False,Side.blue,0,0,0,0.0,0,Flash,Heal,1,False,646,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+5,ERE56R,Twisted Fate,True,Side.red,0,0,0,0.0,12,Flash,Ghost,3,False,953,500,Total Biscuit of Rejuvenation,Doran's Ring,,,,,1482,1049,Lane.mid_lane,Role.solo
+6,RNG Mlxgod,Zac,True,Side.red,0,0,0,0.0,11,Smite,Flash,3,False,1044,500,Hunter's Talisman,Refillable Potion,,,,,5559,2461,Lane.jungle,Role.none
+7,Ouchxiao,Fiora,True,Side.red,0,1,0,0.0,8,Flash,Teleport,2,False,800,500,Corrupting Potion,,,,,,128,2076,Lane.top_lane,Role.solo
+8,Sìyou,Nami,True,Side.red,0,0,0,0.0,0,Flash,Exhaust,2,False,698,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,54,534,Lane.bot_lane,Role.duo
+9,adc feng lft,Vayne,True,Side.red,0,0,0,0.0,18,Heal,Flash,2,False,1007,500,Total Biscuit of Rejuvenation,Doran's Blade,,,,,0,2399,Lane.bot_lane,Role.duo

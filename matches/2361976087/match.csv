@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MrDoide,Rumble,True,Side.blue,12,2,11,11.5,122,Teleport,Flash,12,False,10780,9850,Hextech Protobelt-01,Liandry's Torment,Sorcerer's Shoes,Doran's Shield,Needlessly Large Rod,Blasting Wand,81802,8439,Lane.top_lane,Role.solo
+1,Takeshi Moto,Ezreal,True,Side.blue,8,1,10,18.0,110,Flash,Heal,11,False,9275,8100,Bilgewater Cutlass,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,,Doran's Blade,9681,53555,Lane.bot_lane,Role.carry
+2,Ciki,Thresh,True,Side.blue,0,2,22,11.0,4,Exhaust,Flash,11,False,6869,5550,Talisman of Ascension,Ninja Tabi,Sightstone,Crystalline Bracer,,,6559,3636,Lane.bot_lane,Role.support
+3,TAGurPREGNANT69,Ahri,True,Side.blue,4,1,7,11.0,174,Ignite,Flash,13,False,9466,8300,Aether Wisp,Needlessly Large Rod,Doran's Ring,Seeker's Armguard,Sorcerer's Shoes,Morellonomicon,55661,16036,Lane.mid_lane,Role.solo
+4,Jax Blaked,Vi,True,Side.blue,7,2,7,7.0,88,Smite,Flash,12,False,8953,8100,Ninja Tabi,Refillable Potion,Long Sword,Vampiric Scepter,Dead Man's Plate,Enchantment: Warrior,1379,83073,Lane.jungle,Role.none
+5,PMG asdf,Karma,False,Side.red,0,7,4,0.5714285714285714,13,Exhaust,Flash,9,False,4846,4450,Frostfang,Sightstone,Ionian Boots of Lucidity,Crystalline Bracer,Forbidden Idol,,8272,3243,Lane.bot_lane,Role.support
+6,PMG SangDDal,Lee Sin,False,Side.red,3,9,1,0.4444444444444444,47,Smite,Flash,8,False,5605,5250,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Ruby Crystal,Cloth Armor,Null-Magic Mantle,7617,35934,Lane.jungle,Role.none
+7,PMG hoctic,Caitlyn,False,Side.red,1,6,2,0.5,138,Heal,Flash,10,False,6161,5675,Doran's Blade,Runaan's Hurricane,B. F. Sword,Pickaxe,Boots of Speed,,386,66854,Lane.bot_lane,Role.carry
+8,Panth Tier God,Pantheon,False,Side.red,3,5,3,1.2,75,Ignite,Flash,9,True,5803,4675,Corrupting Potion,The Black Cleaver,Long Sword,Boots of Speed,Long Sword,,4028,30441,Lane.mid_lane,Role.solo
+9,LGN cMurder,Poppy,False,Side.red,0,4,2,0.5,125,Flash,Teleport,11,False,5890,5500,Corrupting Potion,Spirit Visage,Mercury's Treads,Bami's Cinder,,,2142,55099,Lane.top_lane,Role.solo

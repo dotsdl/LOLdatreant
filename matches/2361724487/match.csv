@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hezipeazy,Cassiopeia,False,Side.blue,6,5,3,1.8,169,Flash,Ghost,14,False,9496,9100,Rylai's Crystal Scepter,Doran's Ring,Needlessly Large Rod,Tear of the Goddess,,Morellonomicon,80803,10663,Lane.mid_lane,Role.solo
+1,Ioku,Caitlyn,False,Side.blue,6,7,3,1.2857142857142858,169,Flash,Heal,12,False,9772,9225,Dagger,Infinity Edge,Berserker's Greaves,Statikk Shiv,Doran's Blade,Recurve Bow,17544,83664,Lane.bot_lane,Role.carry
+2,Braums Mustache,Poppy,False,Side.blue,4,7,9,1.8571428571428572,71,Flash,Smite,12,False,7892,7675,Ninja Tabi,Randuin's Omen,Enchantment: Cinderhulk,Ruby Crystal,Cloth Armor,,15561,42944,Lane.jungle,Role.none
+3,Whirlpool,Nautilus,False,Side.blue,3,9,2,0.5555555555555556,126,Flash,Teleport,13,False,8053,7550,Zz'Rot Portal,Doran's Ring,Ninja Tabi,Sunfire Cape,Cloth Armor,,45574,20407,Lane.top_lane,Role.solo
+4,Asherannea,Janna,False,Side.blue,0,7,8,1.1428571428571428,5,Exhaust,Flash,10,False,6519,6425,Redemption,Ionian Boots of Lucidity,,Eye of the Oasis,Control Ward,,3645,3437,Lane.bot_lane,Role.support
+5,am sol,Riven,True,Side.red,17,4,4,5.25,206,Teleport,Flash,16,True,15479,14675,Maw of Malmortius,Cloth Armor,Ionian Boots of Lucidity,The Black Cleaver,Ravenous Hydra,Lord Dominik's Regards,0,165007,Lane.top_lane,Role.solo
+6,Japanese is SB,Jhin,True,Side.red,4,4,13,4.25,155,Flash,Heal,13,False,10853,9200,Doran's Blade,Essence Reaver,Refillable Potion,Boots of Swiftness,Hexdrinker,Rapid Firecannon,7993,96216,Lane.bot_lane,Role.carry
+7,DJWaffleStomp,Lux,True,Side.red,6,4,15,5.25,183,Ignite,Flash,15,False,11705,9310,Lich Bane,Blasting Wand,Morellonomicon,Amplifying Tome,,Sorcerer's Shoes,114904,15864,Lane.mid_lane,Role.solo
+8,Haynay,Vi,True,Side.red,7,4,5,3.0,122,Smite,Flash,14,False,10826,9558,Giant's Belt,Trinity Force,Enchantment: Warrior,Mercury's Treads,Refillable Potion,Chain Vest,3371,131482,Lane.jungle,Role.none
+9,DogeWizard,Soraka,True,Side.red,1,4,11,3.0,8,Flash,Exhaust,12,False,7969,7525,Nomad's Medallion,Redemption,Locket of the Iron Solari,Sightstone,Ionian Boots of Lucidity,Cloth Armor,9609,3736,Lane.bot_lane,Role.support

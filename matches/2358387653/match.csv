@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BobATron,Veigar,False,Side.blue,6,9,4,1.1111111111111112,88,Ghost,Flash,11,False,7000,6625,Zhonya's Hourglass,Sorcerer's Shoes,Lost Chapter,Doran's Ring,Fiendish Codex,,41006,4938,Lane.mid_lane,Role.solo
+1,BrainCancer,Vayne,False,Side.blue,1,2,3,2.0,141,Flash,Heal,11,False,6438,5625,Doran's Blade,B. F. Sword,Health Potion,,Berserker's Greaves,Rapid Firecannon,2549,45623,Lane.bot_lane,Role.carry
+2,Salam,Nami,False,Side.blue,0,2,4,2.0,4,Flash,Exhaust,9,False,4241,3675,Sightstone,Boots of Mobility,Frostfang,Fiendish Codex,,,2618,4389,Lane.bot_lane,Role.support
+3,I Heart Kimchi,Olaf,False,Side.blue,3,11,3,0.5454545454545454,97,Ghost,Teleport,10,False,6154,5675,Mercury's Treads,Corrupting Potion,Spirit Visage,,,Tiamat,1141,53090,Lane.top_lane,Role.solo
+4,Anaxus,Kindred,False,Side.blue,3,7,6,1.2857142857142858,69,Smite,Flash,10,False,6234,5675,Enchantment: Bloodrazor,Runaan's Hurricane,Boots of Speed,Refillable Potion,,,530,49412,Lane.jungle,Role.none
+5,Anthøny,Kha'Zix,True,Side.red,11,2,5,8.0,78,Smite,Flash,13,False,10415,7275,Refillable Potion,Youmuu's Ghostblade,Boots of Mobility,Enchantment: Warrior,Long Sword,Long Sword,4109,88562,Lane.jungle,Role.none
+6,Bobby De Niro,Ezreal,True,Side.red,2,0,10,12.0,136,Heal,Flash,11,False,8895,7958,Doran's Blade,Trinity Force,Manamune,Control Ward,Ionian Boots of Lucidity,Long Sword,7179,59822,Lane.bot_lane,Role.carry
+7,BladeCube,Mordekaiser,True,Side.red,7,1,2,9.0,161,Flash,Teleport,13,False,10189,9000,Hextech Protobelt-01,The Dark Seal,Refillable Potion,Ninja Tabi,Rylai's Crystal Scepter,Seeker's Armguard,79511,23679,Lane.top_lane,Role.solo
+8,Fanta,Janna,True,Side.red,1,2,10,5.5,6,Flash,Exhaust,10,False,6419,4825,Sightstone,Total Biscuit of Rejuvenation,Ancient Coin,Boots of Mobility,Redemption,Null-Magic Mantle,1273,3269,Lane.bot_lane,Role.support
+9,Toasters,Yasuo,True,Side.red,10,8,8,2.25,138,Flash,Exhaust,12,True,11332,10150,Doran's Blade,B. F. Sword,Infinity Edge,Berserker's Greaves,Vampiric Scepter,Phantom Dancer,20383,77250,Lane.mid_lane,Role.solo

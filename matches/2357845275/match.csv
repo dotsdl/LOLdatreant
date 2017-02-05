@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ChuYung,Poppy,True,Side.blue,8,4,9,4.25,166,Teleport,Flash,15,False,11148,9550,Kindlegem,Corrupting Potion,Sunfire Cape,Dead Man's Plate,Ninja Tabi,Spectre's Cowl,41086,62119,Lane.top_lane,Role.solo
+1,Delerium,Nami,True,Side.blue,2,4,16,4.5,8,Exhaust,Flash,12,False,8539,6775,Redemption,Eye of the Watchers,,,Ionian Boots of Lucidity,Aegis of the Legion,6087,6740,Lane.bot_lane,Role.support
+2,owowowowowowowo,Ezreal,True,Side.blue,6,2,10,8.0,176,Heal,Flash,13,False,11477,11283,Doran's Blade,Blade of the Ruined King,Muramana,Trinity Force,Berserker's Greaves,,9593,101065,Lane.bot_lane,Role.carry
+3,Prodïgy,Vi,True,Side.blue,7,3,7,4.666666666666667,100,Flash,Smite,13,False,10387,9633,Enchantment: Warrior,Chain Vest,Ninja Tabi,Trinity Force,Control Ward,Giant's Belt,776,97450,Lane.jungle,Role.none
+4,EnVy Nien,Syndra,True,Side.blue,11,6,4,2.5,170,Flash,Ghost,14,False,12033,9250,Doran's Ring,Luden's Echo,Blasting Wand,Sorcerer's Shoes,Doran's Ring,Morellonomicon,117368,13050,Lane.mid_lane,Role.solo
+5,Kebin M,Riven,False,Side.red,3,7,4,1.0,148,Flash,Teleport,13,False,8110,7750,The Black Cleaver,Mercury's Treads,Youmuu's Ghostblade,,,Doran's Shield,0,75757,Lane.top_lane,Role.solo
+6,InfernalRebirth,Lucian,False,Side.red,0,8,6,0.75,119,Heal,Flash,11,False,7146,7050,Essence Reaver,Zeal,Dagger,Doran's Blade,Cull,Ionian Boots of Lucidity,2725,44754,Lane.bot_lane,Role.carry
+7,FanatiiLt,LeBlanc,False,Side.red,5,8,10,1.875,112,Teleport,Flash,13,False,8646,8135,Doran's Ring,Abyssal Scepter,The Dark Seal,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,65532,5220,Lane.mid_lane,Role.solo
+8,Pocket Rhino,Thresh,False,Side.red,2,7,4,0.8571428571428571,30,Flash,Ignite,10,False,6063,5950,Refillable Potion,Mikael's Crucible,Ruby Sightstone,Relic Shield,Ruby Crystal,Boots of Mobility,7959,2973,Lane.bot_lane,Role.support
+9,retarded virgin,Hecarim,False,Side.red,9,4,4,3.25,109,Ghost,Smite,13,True,10071,9058,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Ninja Tabi,Giant's Belt,Cloth Armor,15026,85060,Lane.jungle,Role.none

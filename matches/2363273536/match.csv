@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Longzhu Crash,Lee Sin,False,Side.blue,6,8,5,1.375,107,Smite,Flash,13,False,8886,8625,Ninja Tabi,Dead Man's Plate,Enchantment: Warrior,Serrated Dirk,Caulfield's Warhammer,,16250,81723,Lane.jungle,Role.none
+1,Horny Pix,Lulu,False,Side.blue,3,9,6,1.0,25,Flash,Ignite,11,False,6738,6175,Sightstone,Locket of the Iron Solari,Control Ward,Boots of Speed,Spectre's Cowl,Frostfang,9853,3779,Lane.bot_lane,Role.support
+2,PIays With Balls,Orianna,False,Side.blue,2,7,2,0.5714285714285714,130,Flash,Barrier,12,False,7049,6280,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Negatron Cloak,Amplifying Tome,57877,8771,Lane.mid_lane,Role.solo
+3,Mest,Gangplank,False,Side.blue,2,4,4,1.5,179,Flash,Teleport,13,False,8786,7733,Trinity Force,Refillable Potion,Ninja Tabi,Doran's Shield,Pickaxe,B. F. Sword,4331,86905,Lane.top_lane,Role.solo
+4,Rape Train,Draven,False,Side.blue,3,7,2,0.7142857142857143,175,Heal,Flash,11,False,9011,8550,Doran's Blade,Infinity Edge,Cull,Berserker's Greaves,Phantom Dancer,Long Sword,716,89280,Lane.bot_lane,Role.carry
+5,Navn,Zyra,True,Side.red,3,4,15,4.5,22,Flash,Exhaust,11,False,8417,7210,Haunting Guise,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Giant's Belt,Amplifying Tome,25257,5256,Lane.bot_lane,Role.support
+6,SirRosicky,Fizz,True,Side.red,10,1,4,14.0,144,Ignite,Flash,14,False,10606,10300,Needlessly Large Rod,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Lich Bane,Giant's Belt,51381,27304,Lane.mid_lane,Role.solo
+7,Rich Homie Lucky,Yasuo,True,Side.red,8,2,4,6.0,194,Flash,Teleport,14,False,11693,11550,Doran's Blade,Infinity Edge,,Frozen Mallet,Phantom Dancer,Berserker's Greaves,26867,93686,Lane.top_lane,Role.solo
+8,nidage,Jhin,True,Side.red,12,5,9,4.2,135,Flash,Heal,12,True,11246,10150,Essence Reaver,B. F. Sword,Rapid Firecannon,Pickaxe,Ionian Boots of Lucidity,Doran's Blade,4121,83732,Lane.bot_lane,Role.carry
+9,OoR4s3Ng4N4rUtOo,Xin Zhao,True,Side.red,1,4,13,3.5,50,Smite,Flash,11,False,7691,5825,Refillable Potion,Chain Vest,Mercury's Treads,,Giant's Belt,Enchantment: Cinderhulk,15820,39227,Lane.jungle,Role.none

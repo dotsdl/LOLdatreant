@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hashinshin,Jax,False,Side.blue,0,5,2,0.4,101,Ghost,Teleport,10,False,5536,4983,Corrupting Potion,Cull,Boots of Speed,Trinity Force,,,9083,23403,Lane.top_lane,Role.solo
+1,my bad team,Nautilus,False,Side.blue,0,7,2,0.2857142857142857,31,Flash,Exhaust,9,False,4708,4250,Control Ward,Face of the Mountain,Sightstone,,,Boots of Mobility,12755,6540,Lane.bot_lane,Role.support
+2,lc0nic,Caitlyn,False,Side.blue,0,4,1,0.25,109,Flash,Heal,9,False,5606,5275,Doran's Blade,Zeal,Cull,Berserker's Greaves,Pickaxe,Recurve Bow,204,45445,Lane.bot_lane,Role.carry
+3,Gahlin,Evelynn,False,Side.blue,3,8,1,0.5,61,Flash,Smite,10,False,5948,5275,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Hextech Revolver,Control Ward,Ruby Crystal,30569,18500,Lane.jungle,Role.none
+4,retarded virgin,Viktor,False,Side.blue,3,6,2,0.8333333333333334,147,Flash,Cleanse,11,False,7149,6635,Perfect Hex Core,Needlessly Large Rod,Ionian Boots of Lucidity,Amplifying Tome,Doran's Ring,Doran's Ring,62852,9597,Lane.mid_lane,Role.solo
+5,Abou222,Ekko,True,Side.red,6,0,6,12.0,154,Teleport,Flash,14,False,9689,8050,Hextech Gunblade,Corrupting Potion,Control Ward,Abyssal Scepter,Ionian Boots of Lucidity,The Dark Seal,83581,14840,Lane.mid_lane,Role.solo
+6,CC Artemis,Twitch,True,Side.red,7,2,10,8.5,125,Flash,Heal,12,False,9935,7400,Infinity Edge,Doran's Blade,,Boots of Speed,Runaan's Hurricane,Dagger,0,64881,Lane.bot_lane,Role.carry
+7,TheOddOrange,Lee Sin,True,Side.red,7,3,7,4.666666666666667,93,Flash,Smite,11,False,8926,7525,Tiamat,Enchantment: Warrior,Ionian Boots of Lucidity,Jaurim's Fist,Health Potion,Spectre's Cowl,15605,81724,Lane.jungle,Role.none
+8,Wintrader Vulcan,Karma,True,Side.red,1,0,19,20.0,7,Flash,Exhaust,11,False,7006,5925,Ionian Boots of Lucidity,Ruby Sightstone,,Redemption,Spellthief's Edge,Null-Magic Mantle,8624,5837,Lane.bot_lane,Role.support
+9,Riesig,Lissandra,True,Side.red,9,2,5,7.0,162,Flash,Teleport,13,True,10386,8550,Morellonomicon,Hextech GLP-800,Sorcerer's Shoes,Blasting Wand,,Doran's Ring,89677,9296,Lane.top_lane,Role.solo

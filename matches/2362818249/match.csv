@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vladfire1 BG ,Hecarim,True,Side.blue,4,3,8,4.0,110,Smite,Ghost,13,False,8863,8633,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Trinity Force,Long Sword,Long Sword,16075,95975,Lane.jungle,Role.none
+1,Leagué,Poppy,True,Side.blue,4,2,7,5.5,138,Flash,Teleport,12,False,8225,7950,Sunfire Cape,Dead Man's Plate,Ruby Crystal,,Ninja Tabi,,18465,47730,Lane.top_lane,Role.solo
+2,GangstahSwerve,Thresh,True,Side.blue,5,0,7,12.0,20,Exhaust,Flash,10,True,6887,6000,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Boots of Mobility,Faerie Charm,Control Ward,9495,5521,Lane.bot_lane,Role.support
+3,Erry,Caitlyn,True,Side.blue,6,1,5,11.0,168,Heal,Flash,12,False,10188,8500,Total Biscuit of Rejuvenation,Runaan's Hurricane,Cull,Doran's Blade,Infinity Edge,Berserker's Greaves,233,111784,Lane.bot_lane,Role.carry
+4,SSBM Hax,Twisted Fate,True,Side.blue,5,1,6,11.0,166,Flash,Ghost,13,False,10162,8425,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Fiendish Codex,Refillable Potion,80127,11591,Lane.mid_lane,Role.solo
+5,bvcx222,Bard,False,Side.red,0,4,1,0.25,8,Flash,Ignite,8,False,4078,3475,Ruby Sightstone,Total Biscuit of Rejuvenation,Control Ward,Spellthief's Edge,,Boots of Mobility,4719,1971,Lane.bot_lane,Role.support
+6,Quaal,Aurelion Sol,False,Side.red,2,5,3,1.0,162,Flash,Cleanse,12,False,7006,6335,Corrupting Potion,Hextech GLP-800,Giant's Belt,Boots of Swiftness,The Dark Seal,Amplifying Tome,70904,6418,Lane.mid_lane,Role.solo
+7,ókay,Rek'Sai,False,Side.red,5,6,1,1.0,109,Smite,Flash,11,False,7040,6750,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Jaurim's Fist,Ruby Crystal,Tiamat,21551,64780,Lane.jungle,Role.none
+8,Pekin Woof,Kalista,False,Side.red,0,3,0,0.0,148,Flash,Heal,11,False,5860,5250,Doran's Blade,Control Ward,Runaan's Hurricane,Berserker's Greaves,Pickaxe,,617,59379,Lane.bot_lane,Role.carry
+9,Rokí,Riven,False,Side.red,0,6,3,0.5,113,Flash,Teleport,11,False,5551,4725,Caulfield's Warhammer,Doran's Blade,Phage,Doran's Blade,Ninja Tabi,,0,54047,Lane.top_lane,Role.solo

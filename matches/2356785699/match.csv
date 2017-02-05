@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,One Called Saint,Orianna,False,Side.blue,0,5,1,0.2,143,Flash,Barrier,11,False,6605,6025,Morellonomicon,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Giant's Belt,,61921,10690,Lane.mid_lane,Role.solo
+1,HoNSol0,Maokai,False,Side.blue,0,7,2,0.2857142857142857,169,Flash,Teleport,12,False,7254,6725,Doran's Ring,Refillable Potion,Sunfire Cape,Mercury's Treads,Glacial Shroud,Warden's Mail,73816,15019,Lane.top_lane,Role.solo
+2,Fiku,Graves,False,Side.blue,4,3,0,1.3333333333333333,151,Flash,Smite,12,False,9241,9050,Enchantment: Warrior,Vampiric Scepter,Phantom Dancer,Mercury's Treads,B. F. Sword,Long Sword,3671,124196,Lane.jungle,Role.none
+3,Hello I am Dust,Lulu,False,Side.blue,0,4,2,0.5,13,Exhaust,Flash,9,False,5192,4800,Boots of Mobility,Eye of the Watchers,Forbidden Idol,Ruby Crystal,,,6209,2419,Lane.bot_lane,Role.support
+4,rat fink boy,Vayne,False,Side.blue,1,6,0,0.16666666666666666,124,Heal,Flash,9,False,6822,6625,Infinity Edge,Brawler's Gloves,Berserker's Greaves,Cull,Doran's Blade,Dagger,458,35035,Lane.bot_lane,Role.carry
+5,Just what I am,Rek'Sai,True,Side.red,7,1,9,16.0,106,Flash,Smite,13,False,9512,8725,The Black Cleaver,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Jaurim's Fist,Ruby Crystal,15092,88820,Lane.jungle,Role.none
+6,BigPickle11,Twisted Fate,True,Side.red,3,0,12,15.0,162,Flash,Ghost,13,False,10034,8975,Zhonya's Hourglass,,Needlessly Large Rod,Ionian Boots of Lucidity,Lich Bane,Doran's Ring,86420,8894,Lane.mid_lane,Role.solo
+7,IKingVex,Twitch,True,Side.red,8,1,7,15.0,161,Heal,Flash,13,False,9985,7175,Doran's Blade,,,Infinity Edge,Runaan's Hurricane,Boots of Speed,0,78166,Lane.bot_lane,Role.carry
+8,Stevens 1v9,Jax,True,Side.red,4,3,2,2.0,216,Teleport,Flash,14,False,9998,9083,Hextech Gunblade,Trinity Force,Long Sword,Mercury's Treads,Corrupting Potion,,30366,95019,Lane.top_lane,Role.solo
+9,Liquid Matt,Bard,True,Side.red,3,0,15,18.0,14,Exhaust,Flash,11,True,7429,6500,Spellthief's Edge,Boots of Mobility,Ruby Sightstone,Redemption,Aegis of the Legion,Control Ward,12377,4456,Lane.bot_lane,Role.support

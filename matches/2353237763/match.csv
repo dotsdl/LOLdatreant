@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Al Palladini,Jhin,False,Side.blue,1,8,7,1.0,182,Heal,Flash,13,False,9569,9325,Refillable Potion,Rapid Firecannon,Berserker's Greaves,Essence Reaver,Pickaxe,,4569,105091,Lane.bot_lane,Role.carry
+1,aiglatson,Graves,False,Side.blue,10,5,3,2.6,134,Flash,Smite,15,False,11499,10550,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Maw of Malmortius,Berserker's Greaves,Dagger,4202,130626,Lane.jungle,Role.none
+2,Jtessmer,Darius,False,Side.blue,2,7,3,0.7142857142857143,191,Teleport,Flash,14,False,9459,8125,Corrupting Potion,Doran's Blade,The Black Cleaver,Ninja Tabi,Dead Man's Plate,,985,98765,Lane.top_lane,Role.solo
+3,Crypticsense,Orianna,False,Side.blue,2,5,2,0.8,218,Flash,Ghost,14,False,9770,8085,,Doran's Ring,Morellonomicon,Abyssal Scepter,Amplifying Tome,Sorcerer's Shoes,88993,16770,Lane.mid_lane,Role.solo
+4,bvcx222,Blitzcrank,False,Side.blue,0,6,7,1.1666666666666667,42,Flash,Exhaust,12,False,7132,6525,Ruby Sightstone,Face of the Mountain,Cloth Armor,Null-Magic Mantle,Ruby Crystal,Boots of Mobility,7041,6346,Lane.bot_lane,Role.support
+5,MyLollipop,Viktor,True,Side.red,4,1,6,10.0,243,Ghost,Flash,16,False,12313,11775,Perfect Hex Core,Abyssal Scepter,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Sheen,Doran's Ring,130599,14185,Lane.mid_lane,Role.solo
+6,Yanni Tsunami,Zed,True,Side.red,12,7,5,2.4285714285714284,194,Ignite,Flash,16,True,13452,11925,Duskblade of Draktharr,Boots of Mobility,Youmuu's Ghostblade,The Black Cleaver,Long Sword,Tiamat,6707,113234,Lane.top_lane,Role.solo
+7,kayly07,Karma,True,Side.red,1,3,11,4.0,8,Flash,Exhaust,13,False,8484,7325,Ionian Boots of Lucidity,,Redemption,Eye of the Watchers,Aegis of the Legion,Null-Magic Mantle,23436,5357,Lane.bot_lane,Role.support
+8,Macko,Lee Sin,True,Side.red,8,1,6,14.0,124,Flash,Smite,16,False,11996,10175,Refillable Potion,Ninja Tabi,Enchantment: Warrior,Dead Man's Plate,Maw of Malmortius,,18918,117846,Lane.jungle,Role.none
+9,RichiethePanda,Caitlyn,True,Side.red,6,3,3,3.0,212,Flash,Heal,14,False,12263,11570,Doran's Blade,Cull,Zeal,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,1331,137554,Lane.bot_lane,Role.carry

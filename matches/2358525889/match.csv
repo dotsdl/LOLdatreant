@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keegun,Pantheon,False,Side.blue,1,5,6,1.4,138,Flash,Ignite,12,False,6896,6100,Corrupting Potion,Edge of Night,Boots of Speed,Serrated Dirk,Caulfield's Warhammer,,7346,62076,Lane.mid_lane,Role.solo
+1,McCashDollar,Blitzcrank,False,Side.blue,0,11,6,0.5454545454545454,11,Flash,Ignite,9,False,4677,4375,Sightstone,Relic Shield,,Ruby Crystal,Ninja Tabi,Aegis of the Legion,3879,3600,Lane.bot_lane,Role.none
+2,Rhux,Ezreal,False,Side.blue,8,3,3,3.6666666666666665,132,Flash,Heal,12,False,8598,7533,Refillable Potion,Doran's Blade,Trinity Force,Vampiric Scepter,B. F. Sword,Ionian Boots of Lucidity,8092,60169,Lane.bot_lane,Role.none
+3,Féarless,Rengar,False,Side.blue,5,8,2,0.875,104,Smite,Flash,11,False,7115,6600,Ionian Boots of Lucidity,Enchantment: Warrior,Refillable Potion,Last Whisper,Tiamat,Long Sword,9800,65386,Lane.bot_lane,Role.none
+4,oopa,Gangplank,False,Side.blue,2,3,0,0.6666666666666666,67,Flash,Teleport,8,False,5641,4225,Corrupting Potion,Doran's Shield,Control Ward,Phage,Ionian Boots of Lucidity,Sheen,657,23983,Lane.top_lane,Role.solo
+5,toke dude,Poppy,True,Side.red,1,0,9,10.0,88,Smite,Flash,12,False,7819,7375,Enchantment: Cinderhulk,Refillable Potion,Dead Man's Plate,Ninja Tabi,Null-Magic Mantle,,20464,66165,Lane.jungle,Role.none
+6,Malya EUW ,Ekko,True,Side.red,4,3,4,2.6666666666666665,128,Flash,Ghost,13,False,8612,7835,Doran's Ring,Sorcerer's Shoes,Hextech Protobelt-01,Rylai's Crystal Scepter,Amplifying Tome,,66383,14390,Lane.mid_lane,Role.solo
+7,Adrian Riven,Riven,True,Side.red,8,4,2,2.5,150,Teleport,Flash,13,True,9778,8225,Youmuu's Ghostblade,Duskblade of Draktharr,Ionian Boots of Lucidity,Doran's Blade,,,0,93724,Lane.top_lane,Role.solo
+8,Rokí,Soraka,True,Side.red,1,6,11,2.0,16,Flash,Exhaust,9,False,6720,5760,Ionian Boots of Lucidity,Redemption,Sightstone,Frostfang,Amplifying Tome,Cloth Armor,8511,3674,Lane.bot_lane,Role.support
+9,FZ3R0,Lucian,True,Side.red,16,3,3,6.333333333333333,194,Flash,Heal,14,False,13622,12575,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Doran's Blade,Cull,Infinity Edge,5257,139932,Lane.bot_lane,Role.carry

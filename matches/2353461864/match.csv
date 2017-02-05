@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Feitan,Lee Sin,True,Side.blue,8,4,8,4.0,117,Smite,Flash,16,True,12891,11400,Mercury's Treads,Warden's Mail,Youmuu's Ghostblade,Enchantment: Warrior,Guardian Angel,Giant's Belt,22092,128126,Lane.jungle,Role.none
+1,BigNick is back,Vayne,True,Side.blue,5,2,6,5.5,247,Heal,Flash,15,False,13668,12750,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Berserker's Greaves,Doran's Blade,B. F. Sword,21267,147929,Lane.bot_lane,Role.carry
+2,rejoovenation,Viktor,True,Side.blue,7,4,8,3.75,250,Flash,Cleanse,17,False,14341,13260,Perfect Hex Core,,Mercury's Treads,Sheen,Rabadon's Deathcap,Rylai's Crystal Scepter,156613,21381,Lane.mid_lane,Role.solo
+3,Chrome Sparks,Soraka,True,Side.blue,0,5,13,2.6,3,Exhaust,Flash,13,False,8799,8025,Mikael's Crucible,Eye of the Oasis,Redemption,Forbidden Idol,,Ionian Boots of Lucidity,3213,3619,Lane.bot_lane,Role.support
+4,Yoken,Kennen,True,Side.blue,4,0,7,11.0,258,Teleport,Flash,17,False,12916,12875,Abyssal Scepter,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Giant's Belt,Needlessly Large Rod,99735,33221,Lane.top_lane,Role.solo
+5,Malya EUW ,Hecarim,False,Side.red,5,7,6,1.5714285714285714,185,Ghost,Smite,16,False,11903,11658,Enchantment: Cinderhulk,Trinity Force,Mercury's Treads,Spirit Visage,Chain Vest,Ruby Crystal,31776,157063,Lane.jungle,Role.none
+6,Wisp,Janna,False,Side.red,0,2,11,5.5,8,Flash,Exhaust,13,False,8379,8465,Nomad's Medallion,Locket of the Iron Solari,Ruby Sightstone,Redemption,,Ionian Boots of Lucidity,3053,2003,Lane.bot_lane,Role.support
+7,bolo,Gnar,False,Side.red,4,7,3,1.0,220,Teleport,Flash,15,False,10977,10275,Spirit Visage,Caulfield's Warhammer,Doran's Blade,Mercury's Treads,Frozen Mallet,Hexdrinker,12610,102741,Lane.top_lane,Role.solo
+8,Certified Noob,Veigar,False,Side.red,2,6,6,1.3333333333333333,230,Flash,Ghost,16,False,10676,10725,Doran's Ring,Void Staff,Morellonomicon,Luden's Echo,Ionian Boots of Lucidity,,122513,10491,Lane.mid_lane,Role.solo
+9,HotDream,Draven,False,Side.red,4,3,5,3.0,296,Flash,Heal,14,False,14863,13750,Cloak of Agility,The Bloodthirster,Statikk Shiv,B. F. Sword,Berserker's Greaves,Mortal Reminder,31540,172277,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Naeun,Lee Sin,False,Side.blue,3,10,10,1.3,124,Smite,Flash,14,False,10051,9725,Maw of Malmortius,Enchantment: Warrior,Control Ward,Caulfield's Warhammer,Phage,Boots of Mobility,19048,92664,Lane.jungle,Role.none
+1,cesuna,Katarina,False,Side.blue,11,6,1,2.0,202,Flash,Ignite,15,False,12549,12395,Hextech Gunblade,Rabadon's Deathcap,Sorcerer's Shoes,Negatron Cloak,Void Staff,The Dark Seal,103081,15799,Lane.mid_lane,Role.solo
+2,cheisu,Bard,False,Side.blue,3,12,8,0.9166666666666666,18,Flash,Ignite,13,False,8559,7825,Eye of the Watchers,Redemption,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,,9722,3049,Lane.bot_lane,Role.support
+3,DogFewd,Rengar,False,Side.blue,2,10,8,1.0,193,Flash,Teleport,14,False,10371,9550,The Black Cleaver,Mercury's Treads,Ravenous Hydra,Last Whisper,,,17426,107250,Lane.top_lane,Role.solo
+4,Doublelift,Corki,False,Side.blue,3,9,12,1.6666666666666667,224,Flash,Heal,15,False,11816,11558,Doran's Blade,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,B. F. Sword,Pickaxe,86717,24713,Lane.bot_lane,Role.carry
+5,Huhi,Ahri,True,Side.red,9,5,13,4.4,196,Flash,Ignite,16,False,14129,13025,Needlessly Large Rod,The Dark Seal,Void Staff,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,79262,13603,Lane.mid_lane,Role.solo
+6,SKY Fear,Twitch,True,Side.red,15,4,15,7.5,180,Flash,Heal,16,False,15636,14230,Doran's Blade,Runaan's Hurricane,Infinity Edge,Phantom Dancer,Maw of Malmortius,Berserker's Greaves,0,112342,Lane.bot_lane,Role.carry
+7,LimitedExtent,Nautilus,True,Side.red,6,3,17,7.666666666666667,29,Exhaust,Flash,14,False,11165,9700,Redemption,Ruby Sightstone,Face of the Mountain,Boots of Mobility,Guardian Angel,,13725,10599,Lane.bot_lane,Role.support
+8,An Obese Panda,Elise,True,Side.red,10,7,10,2.857142857142857,93,Smite,Flash,14,True,12622,12150,,Hextech Protobelt-01,Boots of Mobility,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Guardian Angel,92454,29186,Lane.jungle,Role.none
+9,Rhux,Poppy,True,Side.red,7,3,14,7.0,204,Flash,Teleport,17,False,13850,13050,Corrupting Potion,Sunfire Cape,Spirit Visage,Ninja Tabi,Iceborn Gauntlet,Dead Man's Plate,50673,93988,Lane.top_lane,Role.solo

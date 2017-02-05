@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Oyt,Brand,True,Side.blue,6,4,10,4.0,48,Ignite,Flash,15,False,12309,10725,Control Ward,Rylai's Crystal Scepter,Frost Queen's Claim,Sightstone,Liandry's Torment,Ionian Boots of Lucidity,44664,5879,Lane.bot_lane,Role.support
+1,rekaf nesgrejb,Morgana,True,Side.blue,8,7,6,2.0,219,Flash,Ignite,16,False,15356,13100,Frost Queen's Claim,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Luden's Echo,117490,20508,Lane.mid_lane,Role.solo
+2,dlwod,Vayne,True,Side.blue,14,9,8,2.4444444444444446,243,Heal,Flash,17,False,17017,14950,B. F. Sword,Sterak's Gage,Phantom Dancer,Infinity Edge,Ninja Tabi,Rapid Firecannon,3646,173674,Lane.bot_lane,Role.carry
+3,Bros0verHoes,Nasus,True,Side.blue,4,4,6,2.5,229,Ghost,Teleport,17,False,13936,12533,Spirit Visage,Randuin's Omen,,Giant's Belt,Trinity Force,Mercury's Treads,30565,148504,Lane.top_lane,Role.solo
+4,MrCharIes,Lee Sin,True,Side.blue,7,5,7,2.8,173,Smite,Flash,17,False,13762,10600,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Tiamat,Warmog's Armor,Chain Vest,22918,142041,Lane.jungle,Role.none
+5,richy5555,Nocturne,False,Side.red,4,10,10,1.4,125,Flash,Smite,15,False,11056,10875,Enchantment: Warrior,Mercury's Treads,Refillable Potion,Dead Man's Plate,Spectre's Cowl,Youmuu's Ghostblade,4186,110101,Lane.jungle,Role.none
+6,Heretickinkajou,Lux,False,Side.red,8,3,8,5.333333333333333,252,Flash,Ghost,17,False,13676,12650,Luden's Echo,Blasting Wand,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Doran's Ring,151713,14701,Lane.mid_lane,Role.solo
+7,always ham,Sivir,False,Side.red,8,10,7,1.5,193,Heal,Flash,16,False,12318,12100,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,The Bloodthirster,Dagger,0,132632,Lane.bot_lane,Role.carry
+8,OoR4s3Ng4N4rUtOo,Bard,False,Side.red,2,8,18,2.5,11,Flash,Exhaust,14,False,9762,9125,Redemption,Ruby Sightstone,Locket of the Iron Solari,Frostfang,Fiendish Codex,Boots of Mobility,15768,4710,Lane.bot_lane,Role.support
+9,Abezethibod,Gangplank,False,Side.red,7,8,7,1.75,208,Flash,Teleport,16,True,13381,13883,Trinity Force,Infinity Edge,Last Whisper,Ionian Boots of Lucidity,Statikk Shiv,,13103,158554,Lane.top_lane,Role.solo

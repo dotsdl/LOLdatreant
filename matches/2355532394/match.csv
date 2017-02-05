@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Beef Tacos,Viktor,False,Side.blue,0,4,2,0.5,133,Ghost,Flash,11,False,5601,5385,Perfect Hex Core,Total Biscuit of Rejuvenation,Amplifying Tome,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,55239,6772,Lane.mid_lane,Role.solo
+1,Asc Intercourse,Jhin,False,Side.blue,2,6,0,0.3333333333333333,145,Flash,Heal,10,False,6201,5200,Essence Reaver,Dagger,Dagger,,Doran's Blade,Boots of Speed,9662,57810,Lane.bot_lane,Role.carry
+2,gneV,Hecarim,False,Side.blue,2,4,2,1.0,49,Smite,Ghost,8,False,4961,4533,Hunter's Talisman,Refillable Potion,Trinity Force,,Boots of Speed,,3992,28429,Lane.jungle,Role.none
+3,amgod1,Singed,False,Side.blue,2,5,1,0.6,110,Teleport,Ghost,10,False,5306,4375,Ninja Tabi,Refillable Potion,Zz'Rot Portal,,,,34474,6181,Lane.top_lane,Role.solo
+4,Danman96,Alistar,False,Side.blue,0,6,1,0.16666666666666666,16,Flash,Exhaust,8,False,3720,3275,Relic Shield,Boots of Mobility,Total Biscuit of Rejuvenation,Control Ward,Ruby Sightstone,,2907,2262,Lane.bot_lane,Role.support
+5,bonehead117,Xin Zhao,True,Side.red,16,0,3,19.0,117,Flash,Smite,13,False,12484,11275,Enchantment: Bloodrazor,Ravenous Hydra,Refillable Potion,Boots of Swiftness,Frozen Mallet,Recurve Bow,4031,129800,Lane.jungle,Role.none
+6,MindCalm,Cassiopeia,True,Side.red,2,2,5,3.5,139,Flash,Ghost,12,False,7745,6000,Refillable Potion,Doran's Ring,Rylai's Crystal Scepter,Needlessly Large Rod,Tear of the Goddess,Control Ward,48896,11253,Lane.mid_lane,Role.solo
+7,SuperButtBlast,Trundle,True,Side.red,1,2,7,4.0,141,Flash,Teleport,11,True,7708,7075,Corrupting Potion,Titanic Hydra,Zz'Rot Portal,Boots of Speed,,,1139,55165,Lane.top_lane,Role.solo
+8,N810HO,Vayne,True,Side.red,3,2,8,5.5,154,Flash,Heal,10,False,8709,8350,Infinity Edge,Statikk Shiv,,Berserker's Greaves,Doran's Blade,Dagger,18971,52298,Lane.bot_lane,Role.carry
+9,KarasMai,Karma,True,Side.red,3,0,13,16.0,4,Flash,Ignite,10,False,6924,5335,Mejai's Soulstealer,Ionian Boots of Lucidity,Control Ward,Eye of the Watchers,Amplifying Tome,,11930,7518,Lane.bot_lane,Role.support

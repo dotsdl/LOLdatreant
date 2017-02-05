@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,playyeeerrrrrrr,Jarvan IV,True,Side.blue,5,4,14,4.75,116,Flash,Ignite,13,False,9303,8900,Ravenous Hydra,,The Black Cleaver,Mercury's Treads,Ruby Crystal,Cloth Armor,3368,63188,Lane.top_lane,Role.solo
+1,Michael Steel,LeBlanc,True,Side.blue,6,2,13,9.5,63,Flash,Ignite,12,False,9860,8775,Boots of Mobility,Blasting Wand,Refillable Potion,Mejai's Soulstealer,Rylai's Crystal Scepter,Eye of the Watchers,39308,5898,Lane.bot_lane,Role.duo
+2,Grave Warning,Twitch,True,Side.blue,9,4,16,6.25,134,Flash,Heal,13,False,11554,10575,Doran's Blade,Infinity Edge,Refillable Potion,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,203,81678,Lane.bot_lane,Role.duo
+3,Wizikz,Riven,True,Side.blue,9,6,6,2.5,125,Smite,Flash,13,False,10437,9250,Tiamat,The Black Cleaver,Enchantment: Warrior,Jaurim's Fist,Boots of Mobility,,1847,113002,Lane.jungle,Role.none
+4,loveyen,Aurelion Sol,True,Side.blue,11,4,15,6.5,130,Flash,Ghost,14,False,11445,10810,The Dark Seal,Morellonomicon,Amplifying Tome,Rylai's Crystal Scepter,Boots of Swiftness,Banshee's Veil,95354,5931,Lane.mid_lane,Role.solo
+5,Fatdude711,Tristana,False,Side.red,3,6,1,0.6666666666666666,148,Flash,Heal,12,False,8365,7850,Berserker's Greaves,Infinity Edge,Statikk Shiv,,Doran's Blade,,31183,52861,Lane.bot_lane,Role.carry
+6,BillionMinds,Lee Sin,False,Side.red,6,8,9,1.875,73,Smite,Flash,12,False,8932,8200,Mercury's Treads,Refillable Potion,Control Ward,Enchantment: Warrior,Jaurim's Fist,Dead Man's Plate,12470,65582,Lane.jungle,Role.none
+7,PerpetualAscent,Irelia,False,Side.red,6,6,2,1.3333333333333333,137,Flash,Teleport,13,True,8936,6933,Corrupting Potion,Trinity Force,Ninja Tabi,Cloth Armor,Hexdrinker,,2428,59713,Lane.top_lane,Role.solo
+8,zivarik,Braum,False,Side.red,2,10,9,1.1,38,Flash,Exhaust,10,False,7305,6250,Targon's Brace,Knight's Vow,Boots of Speed,Sightstone,Aegis of the Legion,Null-Magic Mantle,6144,8986,Lane.bot_lane,Role.support
+9,Brult IANvv3,Swain,False,Side.red,3,10,2,0.5,122,Flash,Ignite,11,False,7948,7600,Doran's Ring,Hextech GLP-800,Sorcerer's Shoes,Spirit Visage,,,64177,7905,Lane.mid_lane,Role.solo

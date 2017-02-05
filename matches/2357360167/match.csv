@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Normal Stranger,Malphite,True,Side.blue,1,0,3,4.0,154,Flash,Teleport,13,False,7779,6550,Iceborn Gauntlet,Corrupting Potion,The Dark Seal,Bami's Cinder,Ninja Tabi,Chain Vest,40646,29561,Lane.top_lane,Role.solo
+1,MrDING,Katarina,True,Side.blue,8,1,1,9.0,141,Ignite,Flash,12,True,9406,8150,Mejai's Soulstealer,Refillable Potion,Luden's Echo,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,71112,9937,Lane.mid_lane,Role.solo
+2,Krisintina,Zyra,True,Side.blue,0,1,9,9.0,13,Flash,Exhaust,10,False,6994,5800,Frost Queen's Claim,Sightstone,Refillable Potion,Control Ward,Sorcerer's Shoes,Needlessly Large Rod,18686,5377,Lane.bot_lane,Role.support
+3,CaptainnKrunch,Hecarim,True,Side.blue,1,3,4,1.6666666666666667,77,Smite,Flash,10,False,6978,6175,Enchantment: Cinderhulk,Phage,Boots of Swiftness,Sheen,,,16387,51590,Lane.jungle,Role.none
+4,Tai Draven,Draven,True,Side.blue,8,3,2,3.3333333333333335,202,Flash,Heal,12,False,12893,11750,Doran's Blade,Phantom Dancer,Infinity Edge,Berserker's Greaves,Statikk Shiv,B. F. Sword,8137,147124,Lane.bot_lane,Role.carry
+5,Missed Callls,Darius,False,Side.red,3,5,1,0.8,100,Flash,Teleport,10,False,6031,5700,Doran's Shield,Health Potion,Mercury's Treads,The Black Cleaver,Null-Magic Mantle,Ruby Crystal,0,51196,Lane.top_lane,Role.solo
+6,TEAMLUKEE,Nami,False,Side.red,0,4,3,0.75,10,Heal,Flash,9,False,4476,3300,Eye of the Watchers,Total Biscuit of Rejuvenation,Boots of Speed,Faerie Charm,Faerie Charm,Ruby Crystal,6209,3393,Lane.bot_lane,Role.support
+7,Hatsunemiku233,Orianna,False,Side.red,1,2,3,2.0,115,Flash,Ghost,10,False,6035,5685,Doran's Ring,Abyssal Scepter,Doran's Ring,Needlessly Large Rod,Amplifying Tome,Boots of Speed,46134,6552,Lane.mid_lane,Role.solo
+8,Marty726,Jhin,False,Side.red,1,3,4,1.6666666666666667,112,Heal,Flash,10,False,5860,5725,Doran's Blade,Essence Reaver,Cull,,Boots of Swiftness,,379,41326,Lane.bot_lane,Role.carry
+9,onlynoobsaynoobs,Master Yi,False,Side.red,3,4,1,1.0,105,Flash,Smite,11,False,6829,6375,Enchantment: Bloodrazor,Refillable Potion,Bilgewater Cutlass,Mercury's Treads,Recurve Bow,,737,69299,Lane.jungle,Role.none

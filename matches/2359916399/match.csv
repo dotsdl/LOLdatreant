@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NayvadiusWilburn,Rumble,True,Side.blue,5,3,3,2.6666666666666665,251,Flash,Teleport,16,False,11711,10660,Hextech Protobelt-01,Doran's Shield,Sorcerer's Shoes,Void Staff,Liandry's Torment,,140755,23085,Lane.top_lane,Role.solo
+1,Renger cat,Aurelion Sol,True,Side.blue,8,3,6,4.666666666666667,211,Ghost,Flash,16,False,11840,11150,Hextech GLP-800,Null-Magic Mantle,Banshee's Veil,Boots of Swiftness,Rylai's Crystal Scepter,The Dark Seal,141300,10152,Lane.mid_lane,Role.solo
+2,Raveydemon,Sejuani,True,Side.blue,5,2,8,6.5,129,Smite,Flash,14,False,9953,7275,Enchantment: Cinderhulk,Refillable Potion,,Ninja Tabi,Cloth Armor,Spirit Visage,66198,31987,Lane.jungle,Role.none
+3,stuntopia,Thresh,True,Side.blue,3,0,14,17.0,33,Ignite,Flash,13,False,8231,7425,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Boots of Mobility,,,14561,8626,Lane.bot_lane,Role.support
+4,Liquid fabbbyyy,Ashe,True,Side.blue,9,4,6,3.75,226,Flash,Heal,14,False,12338,10550,Infinity Edge,Guardian Angel,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Dagger,2111,141762,Lane.bot_lane,Role.carry
+5,Słave,Caitlyn,False,Side.red,1,5,1,0.4,184,Heal,Flash,12,False,9235,9150,Doran's Blade,Kircheis Shard,Total Biscuit of Rejuvenation,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,1084,113004,Lane.bot_lane,Role.carry
+6,sensei cat,Singed,False,Side.red,1,10,0,0.1,222,Teleport,Ghost,14,False,9438,9050,Corrupting Potion,The Dark Seal,Mercury's Treads,Rod of Ages,Rylai's Crystal Scepter,Spectre's Cowl,132235,4454,Lane.top_lane,Role.solo
+7,EDG SLICER,Teemo,False,Side.red,1,6,2,0.5,202,Flash,Ghost,13,False,9120,8850,Doran's Ring,Mercury's Treads,Recurve Bow,Wit's End,Frozen Mallet,Dagger,66686,49198,Lane.mid_lane,Role.solo
+8,C9 Lemon,Karma,False,Side.red,0,5,2,0.4,18,Exhaust,Flash,11,False,6465,6125,Spellthief's Edge,Mikael's Crucible,Null-Magic Mantle,Ruby Sightstone,Ionian Boots of Lucidity,The Dark Seal,13197,3349,Lane.bot_lane,Role.support
+9,1936 1948,Shaco,False,Side.red,9,4,2,2.75,156,Smite,Ignite,15,True,11899,11750,Titanic Hydra,Enchantment: Warrior,Hextech Gunblade,Boots of Mobility,,Serrated Dirk,33563,118332,Lane.jungle,Role.none

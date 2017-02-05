@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Natalia Dyer,Riven,True,Side.blue,8,3,4,4.0,134,Flash,Teleport,13,True,9813,10300,Tiamat,Refillable Potion,Youmuu's Ghostblade,Control Ward,The Black Cleaver,Ninja Tabi,2096,74020,Lane.top_lane,Role.solo
+1,IKingVex,Ezreal,True,Side.blue,6,2,4,5.0,158,Heal,Flash,13,False,9602,8250,Ionian Boots of Lucidity,Iceborn Gauntlet,Manamune,Long Sword,Doran's Blade,B. F. Sword,8300,76564,Lane.bot_lane,Role.carry
+2,MattyMooo,Nami,True,Side.blue,0,2,12,6.0,6,Exhaust,Flash,10,False,6966,6935,Frost Queen's Claim,Boots of Mobility,Sightstone,Redemption,Control Ward,Amplifying Tome,5011,6988,Lane.bot_lane,Role.support
+3,Annie Bot,Annie,True,Side.blue,2,4,5,1.75,172,Ignite,Flash,13,False,8758,8275,Hextech Protobelt-01,Refillable Potion,The Dark Seal,Rabadon's Deathcap,Ionian Boots of Lucidity,Doran's Ring,65881,10202,Lane.mid_lane,Role.solo
+4,Liquid Yusan,Graves,True,Side.blue,13,2,5,9.0,148,Flash,Smite,15,False,12860,12225,Duskblade of Draktharr,Youmuu's Ghostblade,Pickaxe,Enchantment: Warrior,Berserker's Greaves,Serrated Dirk,6312,150952,Lane.jungle,Role.none
+5,lost in thoughts,Katarina,False,Side.red,4,6,2,1.0,137,Flash,Ignite,12,False,7411,7410,The Dark Seal,Hextech Gunblade,Mercury's Treads,Ruby Crystal,Amplifying Tome,Needlessly Large Rod,64071,8698,Lane.mid_lane,Role.solo
+6,Riot Meekal,Nautilus,False,Side.red,0,6,4,0.6666666666666666,21,Flash,Exhaust,9,False,4732,4150,Relic Shield,Boots of Speed,Aegis of the Legion,Cloth Armor,Ruby Sightstone,,10129,3590,Lane.bot_lane,Role.support
+7,HotGuy6Pack,Hecarim,False,Side.red,5,5,4,1.8,149,Ghost,Smite,12,False,8744,8333,Trinity Force,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Ruby Crystal,Cloth Armor,Control Ward,13324,93017,Lane.jungle,Role.none
+8,Noobkiller291,Jayce,False,Side.red,2,5,1,0.6,123,Teleport,Flash,12,False,6831,6600,Doran's Blade,Ionian Boots of Lucidity,Youmuu's Ghostblade,Caulfield's Warhammer,Long Sword,Ruby Crystal,5086,46830,Lane.top_lane,Role.solo
+9,Shrew,Jinx,False,Side.red,2,7,3,0.7142857142857143,129,Flash,Heal,10,False,6832,5900,Doran's Blade,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Dagger,,761,52446,Lane.bot_lane,Role.carry

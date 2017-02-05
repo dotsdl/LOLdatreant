@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,McCashDollar,Shaco,False,Side.blue,0,2,0,0.0,18,Ignite,Smite,6,False,2606,2275,Hunter's Talisman,Refillable Potion,Sightstone,Boots of Mobility,Control Ward,,2788,3913,Lane.jungle,Role.none
+1,SanaSana,LeBlanc,False,Side.blue,1,2,0,0.5,101,Ignite,Flash,9,False,4312,3850,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Lost Chapter,Fiendish Codex,,39093,6146,Lane.mid_lane,Role.solo
+2,Adrian Riven,Riven,False,Side.blue,0,2,2,1.0,45,Teleport,Flash,7,False,3243,3050,Caulfield's Warhammer,Refillable Potion,Ionian Boots of Lucidity,Long Sword,Long Sword,,38,19973,Lane.top_lane,Role.solo
+3,Valkrin,Nocturne,False,Side.blue,2,1,0,2.0,74,Smite,Flash,9,False,4902,3150,Enchantment: Bloodrazor,Refillable Potion,Boots of Speed,Control Ward,,,996,50966,Lane.jungle,Role.none
+4,PSYCHOPATH909,Veigar,False,Side.blue,0,5,0,0.0,2,Flash,Exhaust,5,False,2252,1400,Total Biscuit of Rejuvenation,Doran's Ring,Boots of Swiftness,,,,353,1982,Lane.jungle,Role.none
+5,ZatsMod,Viktor,True,Side.red,2,0,2,4.0,82,Flash,Ghost,9,False,5197,3175,The Hex Core mk-2,,Doran's Ring,Boots of Speed,,,32329,8312,Lane.mid_lane,Role.solo
+6,VoidIncarnated,Maokai,True,Side.red,0,2,2,1.0,100,Flash,Teleport,9,False,5249,4900,Doran's Ring,Sunfire Cape,Catalyst of Aeons,,,Boots of Speed,32662,8418,Lane.top_lane,Role.solo
+7,Nano Seconds,Graves,True,Side.red,4,1,1,5.0,92,Flash,Smite,10,False,6117,4475,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Dagger,Dagger,,2821,67707,Lane.jungle,Role.none
+8,SKY Fear,Ezreal,True,Side.red,2,0,7,9.0,113,Flash,Heal,8,True,6744,4150,Tear of the Goddess,Dagger,Doran's Blade,Phage,Boots of Speed,Sheen,6490,46283,Lane.bot_lane,Role.duo
+9,Veautiful,Nami,True,Side.red,4,0,6,10.0,3,Ignite,Flash,7,False,5434,3525,,Frost Queen's Claim,,Sightstone,Boots of Speed,,5942,8623,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kënnen,Kennen,False,Side.blue,2,5,3,1.0,182,Teleport,Flash,14,False,9526,9205,Void Staff,Hextech Protobelt-01,Giant's Belt,Amplifying Tome,Sorcerer's Shoes,Negatron Cloak,74198,28450,Lane.top_lane,Role.solo
+1,Unforgettable64,Karma,False,Side.blue,2,7,7,1.2857142857142858,37,Flash,Heal,11,False,8602,7960,Amplifying Tome,Redemption,,Frost Queen's Claim,Ruby Sightstone,Ninja Tabi,28529,3578,Lane.bot_lane,Role.support
+2,Treabeard,Olaf,False,Side.blue,6,7,6,1.7142857142857142,138,Smite,Ghost,14,True,10947,10650,Enchantment: Cinderhulk,Dead Man's Plate,Tiamat,Spirit Visage,Ionian Boots of Lucidity,,20881,92698,Lane.jungle,Role.none
+3,Lupin the lllrd,LeBlanc,False,Side.blue,5,6,1,1.0,195,Flash,Ignite,15,False,10515,10075,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,Void Staff,,100237,12661,Lane.mid_lane,Role.solo
+4,Kshuna,Twitch,False,Side.blue,8,8,5,1.625,184,Flash,Heal,14,False,11858,11900,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Vampiric Scepter,,348,98787,Lane.bot_lane,Role.carry
+5,herolineage,Vayne,True,Side.red,13,7,7,2.857142857142857,229,Flash,Heal,16,False,15458,11650,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Phantom Dancer,B. F. Sword,58460,120429,Lane.bot_lane,Role.carry
+6,Solo Your Dad,Viktor,True,Side.red,9,5,2,2.2,218,Ghost,Flash,16,False,13930,12800,Perfect Hex Core,Blasting Wand,Sorcerer's Shoes,Luden's Echo,Void Staff,Needlessly Large Rod,156359,16305,Lane.mid_lane,Role.solo
+7,excuter,Graves,True,Side.red,7,4,2,2.25,196,Flash,Smite,16,False,13026,11925,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Berserker's Greaves,Phantom Dancer,Sterak's Gage,4306,183400,Lane.jungle,Role.none
+8,KekGod7,Sona,True,Side.red,2,5,20,4.4,22,Flash,Ignite,15,False,10598,8185,Lich Bane,Sightstone,Frost Queen's Claim,Amplifying Tome,Boots of Mobility,Control Ward,25839,9880,Lane.bot_lane,Role.support
+9,stupidiotic99,Maokai,True,Side.red,2,2,10,6.0,223,Flash,Teleport,17,False,12183,11000,Doran's Ring,Spirit Visage,Righteous Glory,Mercury's Treads,Frozen Heart,Giant's Belt,103734,22505,Lane.top_lane,Role.solo

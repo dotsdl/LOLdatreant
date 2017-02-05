@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MRTONERBONER,Poppy,True,Side.blue,1,4,3,1.0,123,Teleport,Flash,12,False,7780,5350,Corrupting Potion,Bami's Cinder,Iceborn Gauntlet,Boots of Swiftness,,,12889,58838,Lane.top_lane,Role.solo
+1,Maxtrobo,Ezreal,True,Side.blue,5,2,7,6.0,153,Flash,Heal,12,False,10269,7583,Doran's Blade,Manamune,Trinity Force,Cull,Total Biscuit of Rejuvenation,Boots of Speed,11039,87846,Lane.bot_lane,Role.carry
+2,Ayukura,Karma,True,Side.blue,2,2,11,6.5,10,Flash,Exhaust,10,False,7910,6275,Redemption,Sightstone,Ionian Boots of Lucidity,Frostfang,Aegis of the Legion,,9386,7245,Lane.bot_lane,Role.support
+3,D0NG0,Fizz,True,Side.blue,13,3,3,5.333333333333333,117,Ignite,Flash,12,False,11065,9300,Corrupting Potion,The Dark Seal,Lich Bane,Sorcerer's Shoes,Zhonya's Hourglass,Needlessly Large Rod,49841,18250,Lane.mid_lane,Role.solo
+4,McCashDollar,Shaco,True,Side.blue,8,3,7,5.0,116,Ignite,Smite,13,True,11009,9800,Null-Magic Mantle,Tiamat,Ninja Tabi,Enchantment: Runic Echoes,Giant's Belt,Lich Bane,30178,67353,Lane.jungle,Role.none
+5,oMizu,Trundle,False,Side.red,3,4,5,2.0,138,Flash,Teleport,13,False,8042,7350,Ravenous Hydra,Corrupting Potion,Dead Man's Plate,Boots of Speed,,,1839,77794,Lane.top_lane,Role.solo
+6,andtheknee,Brand,False,Side.red,4,5,1,1.0,30,Exhaust,Flash,10,False,6457,5950,Sightstone,Liandry's Torment,Control Ward,Frostfang,Boots of Speed,Ruby Crystal,30111,4393,Lane.bot_lane,Role.support
+7,iIIusionist,Gangplank,False,Side.red,1,5,4,1.0,93,Flash,Teleport,10,False,6470,5608,Corrupting Potion,Control Ward,Trinity Force,Hexdrinker,,,5540,39384,Lane.mid_lane,Role.solo
+8,am tham ben em,Lee Sin,False,Side.red,2,6,1,0.5,45,Flash,Smite,8,False,5606,4125,Enchantment: Warrior,Refillable Potion,Tiamat,,,,5339,32224,Lane.jungle,Role.none
+9,Daarr,Caitlyn,False,Side.red,3,9,1,0.4444444444444444,80,Flash,Heal,9,False,6189,5875,Doran's Blade,Pickaxe,Runaan's Hurricane,Dagger,Boots of Speed,B. F. Sword,360,41565,Lane.bot_lane,Role.carry

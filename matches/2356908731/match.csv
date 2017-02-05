@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Makavéli,Fiora,True,Side.blue,6,6,6,2.0,237,Teleport,Flash,16,False,13590,12150,Doran's Blade,Death's Dance,Control Ward,The Black Cleaver,Boots of Swiftness,Ravenous Hydra,1473,156910,Lane.top_lane,Role.solo
+1,ZatsMod,Ezreal,True,Side.blue,2,7,12,2.0,205,Flash,Heal,14,False,11621,10125,Doran's Blade,Blade of the Ruined King,Refillable Potion,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,20733,101347,Lane.bot_lane,Role.carry
+2,Abou222,Syndra,True,Side.blue,8,5,7,3.0,206,Exhaust,Flash,16,False,12906,11350,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,Rylai's Crystal Scepter,,119059,11083,Lane.mid_lane,Role.solo
+3,Hi Im A Sheep,Bard,True,Side.blue,2,5,14,3.2,13,Flash,Exhaust,14,False,9118,7775,Ruby Sightstone,,Locket of the Iron Solari,Raptor Cloak,Nomad's Medallion,Boots of Mobility,11160,6397,Lane.bot_lane,Role.support
+4,GangstahSwerve,Rek'Sai,True,Side.blue,12,3,14,8.666666666666666,167,Smite,Flash,17,True,15064,14025,Titanic Hydra,Randuin's Omen,Spirit Visage,Mercury's Treads,Enchantment: Cinderhulk,Chain Vest,31736,130449,Lane.jungle,Role.none
+5,Viperrr,Riven,False,Side.red,7,7,3,1.4285714285714286,297,Flash,Teleport,16,False,13530,13275,The Black Cleaver,Ravenous Hydra,Youmuu's Ghostblade,,Mercury's Treads,Doran's Blade,0,186876,Lane.top_lane,Role.solo
+6,1936 1948,Shaco,False,Side.red,6,6,7,2.1666666666666665,138,Smite,Ignite,15,False,12049,11675,Titanic Hydra,Serrated Dirk,Hextech Gunblade,Boots of Mobility,Enchantment: Warrior,,32725,110788,Lane.jungle,Role.none
+7,Liquid Matt,Zyra,False,Side.red,3,5,10,2.6,15,Exhaust,Flash,12,False,9153,7975,Liandry's Torment,Refillable Potion,Eye of the Watchers,Control Ward,Boots of Mobility,Blasting Wand,32279,6241,Lane.bot_lane,Role.support
+8,Jurassiq,Ashe,False,Side.red,4,6,9,2.1666666666666665,244,Flash,Heal,14,False,12437,11550,Runaan's Hurricane,Doran's Blade,Infinity Edge,Berserker's Greaves,The Bloodthirster,,1091,136811,Lane.bot_lane,Role.carry
+9,Révenge,LeBlanc,False,Side.red,6,6,4,1.6666666666666667,219,Ignite,Flash,16,False,12223,11800,Rylai's Crystal Scepter,Blasting Wand,,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,109295,17822,Lane.mid_lane,Role.solo

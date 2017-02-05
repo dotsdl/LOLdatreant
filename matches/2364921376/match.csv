@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Rumble,False,Side.blue,0,5,3,0.6,129,Teleport,Flash,11,False,6045,5100,Liandry's Torment,Refillable Potion,Control Ward,Doran's Shield,Sorcerer's Shoes,,57483,8987,Lane.top_lane,Role.solo
+1,Mateusz,Elise,False,Side.blue,5,5,3,1.6,71,Smite,Flash,10,True,7046,5650,Enchantment: Runic Echoes,Hextech Protobelt-01,Refillable Potion,,Boots of Speed,,48562,21005,Lane.jungle,Role.none
+2,Fockus,Karma,False,Side.blue,1,6,6,1.1666666666666667,28,Flash,Exhaust,8,False,5603,5100,Crystalline Bracer,Boots of Mobility,Eye of the Watchers,Forbidden Idol,,,14386,3269,Lane.bot_lane,Role.support
+3,Ayo Its Jango,Ezreal,False,Side.blue,3,5,2,1.0,144,Heal,Flash,10,False,6880,6333,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Long Sword,Tear of the Goddess,,8600,56118,Lane.bot_lane,Role.carry
+4,D0NG0,Graves,False,Side.blue,3,6,3,1.0,137,Exhaust,Flash,11,False,7074,6825,Doran's Blade,Death's Dance,Ninja Tabi,Zeal,Dagger,,465,73495,Lane.mid_lane,Role.solo
+5,feed l0rd,Ivern,True,Side.red,3,4,10,3.25,64,Flash,Smite,12,False,8074,6850,Redemption,Aegis of the Legion,Hunter's Talisman,Athene's Unholy Grail,Ionian Boots of Lucidity,Refillable Potion,9328,3559,Lane.jungle,Role.none
+6,KarasMai,Zyra,True,Side.red,4,2,8,6.0,32,Flash,Ignite,11,False,8071,6675,Frostfang,,Control Ward,Sightstone,Sorcerer's Shoes,Liandry's Torment,25847,7170,Lane.bot_lane,Role.support
+7,IA55A55INI,Kled,True,Side.red,11,0,3,14.0,133,Flash,Teleport,13,False,10352,9475,Doran's Shield,Titanic Hydra,Maw of Malmortius,Cull,Phage,Boots of Speed,4987,68563,Lane.top_lane,Role.solo
+8,never negative,Zed,True,Side.red,4,5,7,2.2,121,Flash,Ignite,12,False,7836,5575,Ionian Boots of Lucidity,Caulfield's Warhammer,Youmuu's Ghostblade,,Long Sword,,3587,69823,Lane.mid_lane,Role.solo
+9,TheSwingingSalt,Jhin,True,Side.red,5,1,4,9.0,153,Flash,Heal,12,False,8530,6450,Doran's Blade,Essence Reaver,Zeal,Boots of Swiftness,,,3228,88705,Lane.bot_lane,Role.carry

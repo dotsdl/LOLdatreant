@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xSojin,Jayce,True,Side.blue,5,8,8,1.625,181,Teleport,Flash,16,False,12438,11900,Mercury's Treads,Vampiric Scepter,Youmuu's Ghostblade,The Black Cleaver,Maw of Malmortius,,15263,112980,Lane.top_lane,Role.solo
+1,goompa,Caitlyn,True,Side.blue,10,4,10,5.0,235,Heal,Flash,16,False,15334,12900,Berserker's Greaves,B. F. Sword,Vampiric Scepter,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,3295,197350,Lane.bot_lane,Role.carry
+2,J D,Ahri,True,Side.blue,15,5,5,4.0,192,Ignite,Flash,16,False,14922,14495,Void Staff,Doran's Ring,Rylai's Crystal Scepter,Luden's Echo,Morellonomicon,Sorcerer's Shoes,74161,13326,Lane.mid_lane,Role.solo
+3,MCscofield,Gragas,True,Side.blue,4,3,11,5.0,120,Smite,Flash,15,False,11550,10725,Enchantment: Runic Echoes,Refillable Potion,Mercury's Treads,Sunfire Cape,Spirit Visage,Glacial Shroud,72640,21480,Lane.jungle,Role.none
+4,UchihaScar,Braum,True,Side.blue,4,6,17,3.5,51,Flash,Ignite,14,False,11490,9200,Targon's Brace,Redemption,Sightstone,Ninja Tabi,Sunfire Cape,Aegis of the Legion,13773,10755,Lane.bot_lane,Role.support
+5,InvertedComposer,Corki,False,Side.red,9,10,2,1.1,176,Flash,Exhaust,14,True,11429,10058,Trinity Force,Corrupting Potion,Hextech Gunblade,Control Ward,Sorcerer's Shoes,Serrated Dirk,88363,24567,Lane.top_lane,Role.solo
+6,Fluorescently,Jinx,False,Side.red,5,6,5,1.6666666666666667,191,Heal,Flash,13,False,10804,10700,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Lord Dominik's Regards,,1977,120668,Lane.bot_lane,Role.carry
+7,SJC Cali,Thresh,False,Side.red,1,8,12,1.625,20,Flash,Exhaust,12,False,7691,7000,Boots of Mobility,Ruby Sightstone,Redemption,Relic Shield,Aegis of the Legion,Null-Magic Mantle,7412,2561,Lane.bot_lane,Role.support
+8,my bad team,Graves,False,Side.red,6,7,3,1.2857142857142858,177,Flash,Smite,15,False,11783,10975,B. F. Sword,Refillable Potion,Edge of Night,Enchantment: Warrior,Phantom Dancer,Mercury's Treads,5514,162328,Lane.jungle,Role.none
+9,Jiblex,Viktor,False,Side.red,5,7,9,2.0,175,Flash,Exhaust,15,False,11189,11025,Perfect Hex Core,Lich Bane,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,,106318,9322,Lane.mid_lane,Role.solo

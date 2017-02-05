@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Creamade,Orianna,True,Side.blue,7,8,13,2.5,180,Flash,Ghost,16,False,12662,11350,Doran's Ring,Ionian Boots of Lucidity,Abyssal Scepter,Morellonomicon,Rylai's Crystal Scepter,,109909,15196,Lane.mid_lane,Role.solo
+1,Venyx,Nami,True,Side.blue,2,1,33,35.0,16,Exhaust,Flash,15,False,11364,10125,Redemption,Locket of the Iron Solari,Mikael's Crucible,Eye of the Watchers,,Ionian Boots of Lucidity,11373,9939,Lane.bot_lane,Role.support
+2,Spectt,Kindred,True,Side.blue,16,7,16,4.571428571428571,189,Smite,Flash,17,False,17310,15633,Enchantment: Bloodrazor,Trinity Force,Runaan's Hurricane,Rapid Firecannon,Sterak's Gage,Berserker's Greaves,6492,213873,Lane.jungle,Role.none
+3,Furinkai,Jayce,True,Side.blue,10,6,9,3.1666666666666665,208,Flash,Teleport,17,True,14288,12680,Doran's Blade,Maw of Malmortius,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,B. F. Sword,23370,128621,Lane.top_lane,Role.solo
+4,Hypnova,Vayne,True,Side.blue,8,6,8,2.6666666666666665,152,Flash,Heal,14,False,12239,12105,The Bloodthirster,Statikk Shiv,Infinity Edge,Berserker's Greaves,Long Sword,,18191,82308,Lane.bot_lane,Role.carry
+5,CallMehANub,Janna,False,Side.red,1,7,6,1.0,5,Exhaust,Flash,12,False,7597,6425,Mikael's Crucible,Talisman of Ascension,Sightstone,Ionian Boots of Lucidity,Refillable Potion,,5262,2092,Lane.bot_lane,Role.support
+6,SuperrCereal,Fizz,False,Side.red,7,12,8,1.25,136,Flash,Ignite,14,False,10869,10150,Lich Bane,Blasting Wand,Morellonomicon,Fiendish Codex,Sorcerer's Shoes,Doran's Ring,66750,15912,Lane.mid_lane,Role.solo
+7,Majoseic,Jhin,False,Side.red,5,7,7,1.7142857142857142,174,Flash,Heal,14,False,10915,10625,Pickaxe,Essence Reaver,Ionian Boots of Lucidity,Rapid Firecannon,B. F. Sword,Cloak of Agility,3645,104327,Lane.bot_lane,Role.carry
+8,Thomcats,Ekko,False,Side.red,3,7,7,1.4285714285714286,172,Flash,Teleport,15,False,10866,10000,Zhonya's Hourglass,Sorcerer's Shoes,Hextech Protobelt-01,Rod of Ages,,,88703,16384,Lane.top_lane,Role.solo
+9,Brush,Graves,False,Side.red,11,10,7,1.8,149,Flash,Smite,15,False,12694,11650,Berserker's Greaves,B. F. Sword,Youmuu's Ghostblade,Enchantment: Warrior,Phantom Dancer,Pickaxe,4734,140421,Lane.jungle,Role.none

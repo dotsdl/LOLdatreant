@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cotopaco Parce,Gangplank,True,Side.blue,10,6,9,3.1666666666666665,143,Teleport,Flash,15,True,12563,11933,Trinity Force,Corrupting Potion,Youmuu's Ghostblade,Boots of Swiftness,Infinity Edge,,9695,141754,Lane.top_lane,Role.solo
+1,Gourish,Fizz,True,Side.blue,24,4,2,6.5,175,Ignite,Flash,16,False,16988,15750,Void Staff,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Lich Bane,Rabadon's Deathcap,112029,25538,Lane.mid_lane,Role.solo
+2,Pht,Graves,True,Side.blue,4,6,9,2.1666666666666665,198,Smite,Flash,16,False,13287,10875,Enchantment: Warrior,The Bloodthirster,Berserker's Greaves,Phantom Dancer,Long Sword,Ruby Crystal,4912,182978,Lane.jungle,Role.none
+3,hi im cho ah,Caitlyn,True,Side.blue,7,6,9,2.6666666666666665,185,Flash,Heal,14,False,12350,10050,Doran's Blade,Infinity Edge,Runaan's Hurricane,Kircheis Shard,Zeal,Berserker's Greaves,2379,111201,Lane.bot_lane,Role.carry
+4,Miee,Nami,True,Side.blue,1,2,20,10.5,15,Exhaust,Flash,14,False,9931,8225,Nomad's Medallion,Ionian Boots of Lucidity,Redemption,Sightstone,Locket of the Iron Solari,Glacial Shroud,4357,5533,Lane.bot_lane,Role.support
+5,O02D0O,Zyra,False,Side.red,2,8,6,1.0,37,Flash,Ignite,12,False,7859,7335,Sorcerer's Shoes,Eye of the Watchers,Liandry's Torment,Amplifying Tome,Control Ward,,31509,4023,Lane.bot_lane,Role.support
+6,Aominee,Rengar,False,Side.red,6,8,3,1.125,148,Flash,Smite,14,False,10241,9525,Enchantment: Warrior,The Black Cleaver,Ionian Boots of Lucidity,Serrated Dirk,Hexdrinker,Long Sword,7904,112125,Lane.jungle,Role.none
+7,zz cicero,Ezreal,False,Side.red,0,8,5,0.625,114,Heal,Flash,12,False,7579,7008,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Tear of the Goddess,Pickaxe,,7696,53713,Lane.bot_lane,Role.carry
+8,Pwnerness,Darius,False,Side.red,6,11,3,0.8181818181818182,146,Teleport,Flash,14,False,9779,9545,Raptor Cloak,Boots of Swiftness,Negatron Cloak,The Black Cleaver,Dead Man's Plate,,197,86501,Lane.top_lane,Role.solo
+9,fre3zingCold,Ahri,False,Side.red,10,11,4,1.2727272727272727,157,Flash,Ignite,14,False,11005,10800,Abyssal Scepter,Morellonomicon,Zhonya's Hourglass,Ruby Crystal,Sorcerer's Shoes,,62395,8869,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iDontCareX,Viktor,True,Side.blue,5,0,4,9.0,200,Ghost,Flash,13,False,9113,8100,Mejai's Soulstealer,Perfect Hex Core,Needlessly Large Rod,Ionian Boots of Lucidity,Doran's Ring,Ruby Crystal,99165,13504,Lane.mid_lane,Role.solo
+1,ApeXsnipe,Thresh,True,Side.blue,3,2,8,5.5,24,Flash,Exhaust,10,True,5965,5150,Eye of the Equinox,Refillable Potion,Locket of the Iron Solari,Boots of Speed,,,9782,4758,Lane.bot_lane,Role.support
+2,TrungThienDo,Ivern,True,Side.blue,3,2,9,6.0,57,Smite,Flash,11,False,7550,7520,Negatron Cloak,Redemption,Ionian Boots of Lucidity,Hunter's Talisman,Athene's Unholy Grail,Raptor Cloak,6397,6061,Lane.jungle,Role.none
+3,KaNKl,Lucian,True,Side.blue,6,3,4,3.3333333333333335,158,Heal,Flash,11,False,9666,9800,Total Biscuit of Rejuvenation,Doran's Blade,B. F. Sword,Statikk Shiv,Berserker's Greaves,Essence Reaver,4544,68449,Lane.bot_lane,Role.carry
+4,Stoned Galio,Galio,True,Side.blue,6,2,6,6.0,138,Teleport,Ghost,12,False,8308,8000,Archangel's Staff,Rod of Ages,Refillable Potion,Cull,Mercury's Treads,The Dark Seal,63174,13538,Lane.top_lane,Role.solo
+5,Aazzlano,Evelynn,False,Side.red,1,6,2,0.5,85,Smite,Flash,11,False,6676,5950,Enchantment: Warrior,Hunter's Potion,,Boots of Speed,B. F. Sword,Serrated Dirk,42848,35151,Lane.jungle,Role.none
+6,Hi lm Jacky,Varus,False,Side.red,1,7,5,0.8571428571428571,132,Flash,Heal,10,False,6793,6125,Doran's Blade,Serrated Dirk,Control Ward,Ionian Boots of Lucidity,Caulfield's Warhammer,Manamune,3160,55173,Lane.bot_lane,Role.carry
+7,singed420,Singed,False,Side.red,1,3,3,1.3333333333333333,199,Ghost,Teleport,13,False,8369,7950,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,The Dark Seal,Dead Man's Plate,Ruby Crystal,104606,4791,Lane.jungle,Role.none
+8,Scammerz,LeBlanc,False,Side.red,5,4,0,1.25,108,Flash,Ignite,10,False,7111,4450,Doran's Ring,The Dark Seal,Morellonomicon,,Boots of Speed,,42624,7863,Lane.mid_lane,Role.solo
+9,Sandcastle rN,Alistar,False,Side.red,1,3,4,1.6666666666666667,21,Flash,Exhaust,9,False,5109,4725,Targon's Brace,Ruby Sightstone,Kindlegem,Boots of Swiftness,Total Biscuit of Rejuvenation,,4840,4487,Lane.bot_lane,Role.support

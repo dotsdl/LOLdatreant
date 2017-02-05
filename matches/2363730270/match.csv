@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Bard,False,Side.blue,1,7,4,0.7142857142857143,11,Flash,Exhaust,10,False,5472,5050,Sightstone,Total Biscuit of Rejuvenation,Redemption,Spellthief's Edge,,Boots of Mobility,10417,3775,Lane.bot_lane,Role.support
+1,Ablazeolive,Katarina,False,Side.blue,5,7,1,0.8571428571428571,139,Flash,Ignite,12,False,7672,6710,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,Refillable Potion,Seeker's Armguard,Hextech Gunblade,74908,5829,Lane.mid_lane,Role.solo
+2,SKY Fear,Ashe,False,Side.blue,1,6,7,1.3333333333333333,109,Flash,Heal,11,False,6578,6050,Doran's Blade,Health Potion,Dagger,Essence Reaver,Berserker's Greaves,,665,47060,Lane.bot_lane,Role.carry
+3,PrismaI,Yasuo,False,Side.blue,0,11,3,0.2727272727272727,112,Flash,Teleport,11,False,6432,5525,Doran's Shield,Phantom Dancer,Ninja Tabi,Jaurim's Fist,,,21253,45549,Lane.top_lane,Role.solo
+4,wiggily420,Rek'Sai,False,Side.blue,7,7,3,1.4285714285714286,93,Flash,Smite,12,False,8424,8075,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Ruby Crystal,Ninja Tabi,Cloth Armor,16503,66549,Lane.jungle,Role.none
+5,insaníty,Kha'Zix,True,Side.red,12,1,4,16.0,144,Flash,Smite,14,False,10958,9500,B. F. Sword,Tiamat,Youmuu's Ghostblade,Boots of Mobility,Enchantment: Warrior,Long Sword,2352,124178,Lane.jungle,Role.none
+6,Regular Mid,Orianna,True,Side.red,6,3,11,5.666666666666667,144,Flash,Ghost,12,False,9803,9175,Refillable Potion,Luden's Echo,Doran's Ring,Ionian Boots of Lucidity,Needlessly Large Rod,Morellonomicon,78234,14676,Lane.mid_lane,Role.solo
+7,Riesig,Kled,True,Side.red,7,2,12,9.5,161,Flash,Teleport,14,True,10285,9525,Caulfield's Warhammer,Ninja Tabi,The Black Cleaver,,Doran's Blade,Ravenous Hydra,146,81492,Lane.top_lane,Role.solo
+8,dog deft,Jhin,True,Side.red,8,5,6,2.8,127,Flash,Heal,12,False,9679,9100,Boots of Swiftness,Essence Reaver,Rapid Firecannon,B. F. Sword,Control Ward,Doran's Blade,3005,72972,Lane.bot_lane,Role.carry
+9,1onz,Lulu,True,Side.red,5,4,17,5.5,13,Flash,Exhaust,11,False,8309,7600,Redemption,Locket of the Iron Solari,Ruby Sightstone,,Spellthief's Edge,Boots of Mobility,13581,6428,Lane.bot_lane,Role.support

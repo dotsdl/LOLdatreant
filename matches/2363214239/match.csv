@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hashinshin,Jax,True,Side.blue,4,2,5,4.5,139,Ghost,Teleport,14,False,9397,7908,Corrupting Potion,Trinity Force,Bilgewater Cutlass,Mercury's Treads,Recurve Bow,,18975,55043,Lane.top_lane,Role.solo
+1,WhiteYoshi,Vi,True,Side.blue,9,4,4,3.25,146,Smite,Flash,14,False,11596,9783,Refillable Potion,Randuin's Omen,Trinity Force,Boots of Speed,Enchantment: Warrior,,2111,136769,Lane.jungle,Role.none
+2,Shiphtur,Ziggs,True,Side.blue,4,2,7,5.5,171,Heal,Flash,13,False,10317,8700,Morellonomicon,Sorcerer's Shoes,Void Staff,Doran's Ring,Doran's Ring,Blasting Wand,98941,12873,Lane.bot_lane,Role.carry
+3,S Diana 2,Ahri,True,Side.blue,3,2,7,5.0,152,Ignite,Flash,13,False,8944,7785,Doran's Ring,Morellonomicon,Doran's Ring,Boots of Speed,Luden's Echo,Amplifying Tome,51965,18127,Lane.mid_lane,Role.solo
+4,never meme,Karma,True,Side.blue,1,3,10,3.6666666666666665,21,Exhaust,Flash,11,False,7359,5725,Redemption,Ruby Sightstone,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Spellthief's Edge,Null-Magic Mantle,13328,6631,Lane.bot_lane,Role.support
+5,Clarizio,Braum,False,Side.red,1,6,7,1.3333333333333333,18,Flash,Exhaust,9,False,5429,4825,Mercury's Treads,Sightstone,Null-Magic Mantle,Relic Shield,Aegis of the Legion,,4450,2115,Lane.bot_lane,Role.support
+6,Winter is back,Lulu,False,Side.red,3,5,5,1.6,156,Flash,Teleport,13,False,8305,7635,Athene's Unholy Grail,Sorcerer's Shoes,Control Ward,Rylai's Crystal Scepter,Amplifying Tome,Corrupting Potion,70220,13923,Lane.top_lane,Role.solo
+7,Sheiden,Kennen,False,Side.red,3,4,4,1.75,168,Teleport,Flash,12,False,8060,7110,Sorcerer's Shoes,Hextech Protobelt-01,Abyssal Scepter,Amplifying Tome,,,53412,20059,Lane.mid_lane,Role.solo
+8,ApoIlo Price,Twitch,False,Side.red,3,3,2,1.6666666666666667,163,Flash,Heal,12,False,8061,7950,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,98,65079,Lane.bot_lane,Role.carry
+9,Nhock,Nocturne,False,Side.red,3,3,5,2.6666666666666665,124,Smite,Flash,12,True,8066,7450,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Hexdrinker,Serrated Dirk,Caulfield's Warhammer,3884,98930,Lane.jungle,Role.none

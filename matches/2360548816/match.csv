@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Desirised,Aurelion Sol,False,Side.blue,4,7,7,1.5714285714285714,151,Flash,Ghost,14,False,10431,10200,Hextech GLP-800,Corrupting Potion,Fiendish Codex,Boots of Swiftness,Rylai's Crystal Scepter,Seeker's Armguard,92832,11178,Lane.mid_lane,Role.solo
+1,1Tracked,Elise,False,Side.blue,5,9,12,1.8888888888888888,72,Smite,Flash,13,False,10078,9800,Zhonya's Hourglass,Hunter's Potion,Randuin's Omen,Ionian Boots of Lucidity,Enchantment: Runic Echoes,,70687,24353,Lane.jungle,Role.none
+2,Muzy,Caitlyn,False,Side.blue,7,5,8,3.0,257,Flash,Heal,13,True,13189,13175,Lord Dominik's Regards,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,,2766,203133,Lane.bot_lane,Role.carry
+3,0wnedbychris,Janna,False,Side.blue,2,4,13,3.75,4,Exhaust,Flash,12,False,8944,8675,Mercury's Treads,Eye of the Oasis,Null-Magic Mantle,Frozen Heart,Ardent Censer,,6437,2341,Lane.bot_lane,Role.support
+4,Kayonas,Darius,False,Side.blue,6,10,3,0.9,167,Teleport,Flash,13,False,10916,10925,Corrupting Potion,The Black Cleaver,Spirit Visage,Mercury's Treads,,Dead Man's Plate,1358,106077,Lane.top_lane,Role.solo
+5,UCSD wildhorse,Brand,True,Side.red,0,5,17,3.4,35,Flash,Ignite,13,False,9433,7575,Spellthief's Edge,Redemption,Sightstone,Rylai's Crystal Scepter,Boots of Mobility,,37740,7208,Lane.bot_lane,Role.support
+6,SAO I Kirito,Yasuo,True,Side.red,16,3,8,8.0,272,Flash,Ignite,16,False,17015,14050,Ravenous Hydra,Berserker's Greaves,Infinity Edge,Guardian Angel,Phantom Dancer,Long Sword,33843,181243,Lane.mid_lane,Role.solo
+7,II Master II,Vayne,True,Side.red,6,5,6,2.4,234,Flash,Heal,16,False,13555,12300,Doran's Blade,B. F. Sword,Infinity Edge,Statikk Shiv,Berserker's Greaves,Rapid Firecannon,40423,105892,Lane.bot_lane,Role.carry
+8,KaneKi521,Jax,True,Side.red,9,6,10,3.1666666666666665,160,Flash,Teleport,15,False,12244,11458,Randuin's Omen,Corrupting Potion,Spirit Visage,Trinity Force,Long Sword,Mercury's Treads,17568,73056,Lane.top_lane,Role.solo
+9,Papa Nick,Rumble,True,Side.red,3,5,11,2.8,107,Flash,Smite,14,False,10625,9075,Rylai's Crystal Scepter,Hunter's Potion,Sorcerer's Shoes,Haunting Guise,,Enchantment: Runic Echoes,91569,19592,Lane.jungle,Role.none

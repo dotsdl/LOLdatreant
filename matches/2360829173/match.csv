@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Koby,Poppy,False,Side.blue,1,8,6,0.875,162,Flash,Teleport,14,False,9073,7750,Corrupting Potion,Sunfire Cape,Spirit Visage,Ninja Tabi,Cloth Armor,,30482,65977,Lane.top_lane,Role.solo
+1,Hi Im A Sheep,Morgana,False,Side.blue,0,9,15,1.6666666666666667,18,Flash,Exhaust,12,False,7611,7050,Ruby Sightstone,Control Ward,Frost Queen's Claim,Forbidden Idol,Crystalline Bracer,Boots of Mobility,18028,6810,Lane.bot_lane,Role.support
+2,Rokí,Riven,False,Side.blue,6,7,8,2.0,184,Flash,Smite,14,False,11016,10900,Enchantment: Warrior,Ravenous Hydra,,Death's Dance,Ionian Boots of Lucidity,,411,134132,Lane.jungle,Role.none
+3,Repfix,Jhin,False,Side.blue,7,8,10,2.125,183,Heal,Flash,14,False,11128,10050,Doran's Blade,B. F. Sword,Rapid Firecannon,Pickaxe,Boots of Swiftness,Essence Reaver,8542,128069,Lane.bot_lane,Role.carry
+4,Hyorimaru,Anivia,False,Side.blue,7,7,4,1.5714285714285714,193,Flash,Teleport,15,False,11114,11100,Doran's Ring,Rod of Ages,Tear of the Goddess,Void Staff,Boots of Mobility,Liandry's Torment,107094,8453,Lane.mid_lane,Role.solo
+5,Stiches,Sivir,True,Side.red,13,5,15,5.6,235,Heal,Flash,17,False,16339,15300,Infinity Edge,Phantom Dancer,Rapid Firecannon,Lord Dominik's Regards,B. F. Sword,Berserker's Greaves,752,207597,Lane.bot_lane,Role.carry
+6,FIoopie,Lee Sin,True,Side.red,9,6,8,2.8333333333333335,153,Flash,Smite,15,True,13512,11675,Ravenous Hydra,Sightstone,Mercury's Treads,The Black Cleaver,Enchantment: Warrior,Ruby Crystal,26299,148913,Lane.jungle,Role.none
+7,CloudNguyén,Jax,True,Side.red,7,3,3,3.3333333333333335,203,Teleport,Flash,16,False,13707,12458,Blade of the Ruined King,Control Ward,Trinity Force,Ninja Tabi,Dead Man's Plate,,38567,123584,Lane.top_lane,Role.solo
+8,Jeehun,Ahri,True,Side.red,8,4,11,4.75,175,Flash,Ignite,15,False,13587,12150,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Void Staff,Sorcerer's Shoes,Haunting Guise,70784,17181,Lane.mid_lane,Role.solo
+9,Xpecial,Bard,True,Side.red,2,3,21,7.666666666666667,14,Exhaust,Flash,15,False,10950,10250,Mikael's Crucible,Locket of the Iron Solari,Boots of Mobility,Control Ward,Redemption,Eye of the Watchers,12062,6760,Lane.bot_lane,Role.support

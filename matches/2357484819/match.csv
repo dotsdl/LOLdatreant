@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid Lima,Twisted Fate,False,Side.blue,7,8,9,2.0,198,Flash,Ghost,15,False,12647,12060,Zhonya's Hourglass,Lich Bane,Blasting Wand,Ionian Boots of Lucidity,Rod of Ages,Amplifying Tome,125953,14765,Lane.mid_lane,Role.solo
+1,Derpsalot,Hecarim,False,Side.blue,7,5,4,2.2,137,Ghost,Smite,15,True,11206,10383,Enchantment: Cinderhulk,Dead Man's Plate,,Trinity Force,,Boots of Swiftness,20520,114885,Lane.jungle,Role.none
+2,Hakuto,Fiora,False,Side.blue,7,9,7,1.5555555555555556,181,Teleport,Flash,15,False,12549,12210,Long Sword,Tiamat,The Black Cleaver,Randuin's Omen,Mercury's Treads,Spirit Visage,1620,103982,Lane.top_lane,Role.solo
+3,Jordanian Sniper,Jhin,False,Side.blue,3,6,13,2.6666666666666665,167,Flash,Heal,13,False,10926,9700,Youmuu's Ghostblade,Last Whisper,Doran's Blade,,Boots of Swiftness,Essence Reaver,8069,83532,Lane.bot_lane,Role.carry
+4,Zeliais,Braum,False,Side.blue,2,5,12,2.8,42,Exhaust,Flash,12,False,8175,7650,Locket of the Iron Solari,Eye of the Equinox,Crystalline Bracer,Cloth Armor,Mercury's Treads,Crystalline Bracer,8578,4229,Lane.bot_lane,Role.support
+5,3rd Breese Bro,Yasuo,True,Side.red,6,8,7,1.625,257,Teleport,Flash,17,False,13326,11325,Infinity Edge,,Phantom Dancer,Berserker's Greaves,Doran's Blade,Frozen Mallet,29087,151736,Lane.top_lane,Role.solo
+6,Cotopaco Parce,Ezreal,True,Side.red,13,4,8,5.25,220,Heal,Flash,16,False,15445,13725,Muramana,The Bloodthirster,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,Control Ward,37015,150058,Lane.bot_lane,Role.carry
+7,Dualcast,Vel'Koz,True,Side.red,10,2,14,12.0,206,Ghost,Flash,15,False,14346,13950,Rylai's Crystal Scepter,Morellonomicon,Zhonya's Hourglass,Sorcerer's Shoes,,Void Staff,112599,12909,Lane.mid_lane,Role.solo
+8,Lirne,Lee Sin,True,Side.red,4,7,12,2.2857142857142856,115,Smite,Flash,15,False,11284,10650,Aegis of the Legion,Enchantment: Warrior,Control Ward,Guardian Angel,Mercury's Treads,Dead Man's Plate,14769,95521,Lane.jungle,Role.none
+9,Yarkbeezy,Blitzcrank,True,Side.red,0,5,17,3.4,17,Exhaust,Flash,13,False,8815,7750,Knight's Vow,Sightstone,Boots of Mobility,,Ancient Coin,Frozen Heart,12675,5229,Lane.bot_lane,Role.support

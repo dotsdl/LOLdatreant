@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SlunkoZ,Graves,True,Side.blue,12,8,8,2.5,161,Flash,Smite,14,False,14131,13675,Enchantment: Warrior,Runaan's Hurricane,The Bloodthirster,Maw of Malmortius,Berserker's Greaves,,4687,146626,Lane.bot_lane,Role.none
+1,DJ x,Kog'Maw,True,Side.blue,7,8,12,2.375,114,Heal,Flash,14,False,11990,9400,Recurve Bow,Blade of the Ruined King,Berserker's Greaves,Phantom Dancer,Cull,Dagger,21912,58707,Lane.bot_lane,Role.none
+2,always plan ahea,Sona,True,Side.blue,6,2,15,10.5,142,Flash,Exhaust,15,False,12353,8625,The Dark Seal,Morellonomicon,Lich Bane,Aether Wisp,Sorcerer's Shoes,,86867,21995,Lane.mid_lane,Role.solo
+3,FruitFromSpace,Blitzcrank,True,Side.blue,2,7,11,1.8571428571428572,47,Flash,Exhaust,12,False,9085,7675,Sightstone,Face of the Mountain,Control Ward,Boots of Mobility,Knight's Vow,Warden's Mail,13165,15087,Lane.bot_lane,Role.none
+4,Original Kid,Kayle,True,Side.blue,9,1,7,16.0,249,Teleport,Flash,17,False,14625,8425,Doran's Ring,Nashor's Tooth,Refillable Potion,Berserker's Greaves,Guinsoo's Rageblade,,110805,51260,Lane.top_lane,Role.solo
+5,Causing,Vladimir,False,Side.red,2,6,11,2.1666666666666665,145,Flash,Ghost,14,False,8888,8375,Abyssal Scepter,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Spectre's Cowl,,,69170,12130,Lane.mid_lane,Role.solo
+6,Blueberry Bingsu,Vi,False,Side.red,3,9,10,1.4444444444444444,86,Flash,Smite,12,False,8515,8050,Spectre's Cowl,Refillable Potion,Ninja Tabi,Randuin's Omen,,Enchantment: Warrior,1464,81263,Lane.jungle,Role.none
+7,king darkwraith,Brand,False,Side.red,10,9,12,2.4444444444444446,13,Ignite,Flash,12,True,10397,10050,Eye of the Watchers,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Control Ward,Liandry's Torment,,40301,3745,Lane.bot_lane,Role.support
+8,I am Jaqen Hghar,Lucian,False,Side.red,9,7,12,3.0,193,Flash,Heal,14,False,12617,12300,Essence Reaver,Phantom Dancer,Ionian Boots of Lucidity,Infinity Edge,Doran's Blade,Vampiric Scepter,897,115346,Lane.bot_lane,Role.carry
+9,Excelios,Renekton,False,Side.red,2,5,3,1.0,142,Flash,Teleport,12,False,8163,7600,Refillable Potion,The Black Cleaver,Spirit Visage,Mercury's Treads,Cloth Armor,,2576,69425,Lane.top_lane,Role.solo

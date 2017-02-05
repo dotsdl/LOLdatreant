@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Corben,Vayne,False,Side.blue,6,9,5,1.2222222222222223,184,Heal,Flash,13,False,11005,10425,Berserker's Greaves,Infinity Edge,Statikk Shiv,Hexdrinker,Doran's Blade,Caulfield's Warhammer,23660,97122,Lane.bot_lane,Role.carry
+1,no tp gp,Yasuo,False,Side.blue,3,3,1,1.3333333333333333,226,Exhaust,Flash,14,False,10070,9025,Mercury's Treads,Phantom Dancer,Infinity Edge,Vampiric Scepter,,Doran's Blade,20524,103126,Lane.mid_lane,Role.solo
+2,AtlasOri,Janna,False,Side.blue,0,6,11,1.8333333333333333,12,Flash,Exhaust,11,False,7343,7100,Redemption,Sightstone,Talisman of Ascension,Total Biscuit of Rejuvenation,Boots of Mobility,Cloth Armor,3245,5093,Lane.bot_lane,Role.support
+3,HappyEasterXbox,Maokai,False,Side.blue,1,5,3,0.8,169,Flash,Teleport,14,False,9039,9775,Mercury's Treads,Zz'Rot Portal,Doran's Ring,Spirit Visage,Doran's Ring,Null-Magic Mantle,70506,11120,Lane.top_lane,Role.solo
+4,Ðan the Man,Zac,False,Side.blue,6,4,8,3.5,122,Smite,Flash,12,False,9609,9575,Enchantment: Cinderhulk,Boots of Mobility,Randuin's Omen,Spirit Visage,,,76426,22141,Lane.jungle,Role.none
+5,WatchThePower,Rengar,True,Side.red,4,4,10,3.5,212,Flash,Smite,16,False,12040,10125,Enchantment: Warrior,Tiamat,Ninja Tabi,Death's Dance,Ruby Crystal,Warden's Mail,19857,155148,Lane.jungle,Role.none
+6,TrungThienDo,Anivia,True,Side.red,12,0,6,18.0,168,Flash,Ghost,15,False,12902,9400,Mejai's Soulstealer,Refillable Potion,Rod of Ages,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,113457,15865,Lane.mid_lane,Role.solo
+7,Typos,Twitch,True,Side.red,4,4,9,3.25,176,Flash,Heal,14,False,11638,10000,Doran's Blade,B. F. Sword,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Long Sword,0,94031,Lane.bot_lane,Role.carry
+8,savard,Karma,True,Side.red,1,6,18,3.1666666666666665,32,Exhaust,Flash,12,False,9187,7750,Mercury's Treads,Eye of the Watchers,Redemption,,Locket of the Iron Solari,,28046,6469,Lane.bot_lane,Role.support
+9,Doombringer LFT,Kennen,True,Side.red,6,2,6,6.0,186,Flash,Ignite,15,True,11566,10030,Abyssal Scepter,Haunting Guise,Hextech Protobelt-01,,Sorcerer's Shoes,Blasting Wand,95706,30297,Lane.top_lane,Role.solo

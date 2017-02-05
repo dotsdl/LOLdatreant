@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sir Zedsuo,Yasuo,False,Side.blue,4,9,4,0.8888888888888888,207,Flash,Exhaust,15,False,10762,9725,Statikk Shiv,Berserker's Greaves,Infinity Edge,Ruby Crystal,Warden's Mail,Control Ward,82394,68392,Lane.mid_lane,Role.solo
+1,FosterTheSoul,Wukong,False,Side.blue,11,2,4,7.5,152,Smite,Flash,15,True,12627,10975,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Boots of Swiftness,Hexdrinker,5678,141844,Lane.jungle,Role.none
+2,NA Is Toxic,Ezreal,False,Side.blue,0,7,5,0.7142857142857143,257,Flash,Heal,14,False,10842,10933,Blade of the Ruined King,Muramana,Trinity Force,Ionian Boots of Lucidity,,,32479,119098,Lane.bot_lane,Role.carry
+3,GravySlayer,Brand,False,Side.blue,2,6,3,0.8333333333333334,32,Flash,Ignite,12,False,8109,7550,Rylai's Crystal Scepter,,Eye of the Watchers,,Sorcerer's Shoes,,31804,2338,Lane.bot_lane,Role.support
+4,ReliabIe,Poppy,False,Side.blue,2,9,2,0.4444444444444444,183,Flash,Teleport,14,False,9735,8475,Corrupting Potion,Sunfire Cape,Mercury's Treads,Spectre's Cowl,Iceborn Gauntlet,,41140,60661,Lane.top_lane,Role.solo
+5,fkuz,Malphite,True,Side.red,10,2,9,9.5,246,Teleport,Flash,17,False,14800,13500,Blasting Wand,Morellonomicon,Zhonya's Hourglass,Ninja Tabi,Sunfire Cape,Thornmail,129358,48823,Lane.top_lane,Role.solo
+6,batyman4u,Thresh,True,Side.red,1,3,17,6.0,43,Flash,Exhaust,14,False,9303,8100,Redemption,Face of the Mountain,Sightstone,Mercury's Treads,Warden's Mail,Cloth Armor,13183,8934,Lane.bot_lane,Role.support
+7,ItsLenx,Caitlyn,True,Side.red,8,4,10,4.5,206,Heal,Flash,15,False,12996,11750,Infinity Edge,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Last Whisper,2757,169741,Lane.bot_lane,Role.carry
+8,always plan ahea,Varus,True,Side.red,8,8,13,2.625,226,Flash,Exhaust,16,False,13602,11800,Doran's Blade,Muramana,Ionian Boots of Lucidity,Essence Reaver,Death's Dance,Vampiric Scepter,9290,169925,Lane.mid_lane,Role.solo
+9,Kuro Yami Hanshu,Ivern,True,Side.red,6,2,18,12.0,87,Flash,Smite,16,False,12886,10950,Enchantment: Cinderhulk,Redemption,Locket of the Iron Solari,Chain Vest,Athene's Unholy Grail,Ionian Boots of Lucidity,20556,12923,Lane.jungle,Role.none

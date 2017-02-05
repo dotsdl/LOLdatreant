@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Raccoon,Braum,True,Side.blue,2,2,15,8.5,28,Exhaust,Flash,11,False,7980,6825,Face of the Mountain,Crystalline Bracer,Control Ward,Ruby Sightstone,Crystalline Bracer,Boots of Swiftness,8841,7330,Lane.bot_lane,Role.support
+1,Fockus,LeBlanc,True,Side.blue,7,1,7,14.0,151,Flash,Ignite,13,False,10455,7325,Doran's Ring,Boots of Speed,,Rylai's Crystal Scepter,Morellonomicon,,75530,12073,Lane.mid_lane,Role.solo
+2,jacksparrow111,Shyvana,True,Side.blue,5,3,13,6.0,127,Smite,Flash,13,False,10126,8325,Enchantment: Cinderhulk,Bilgewater Cutlass,Dagger,Mercury's Treads,Spectre's Cowl,Warden's Mail,72765,49021,Lane.jungle,Role.none
+3,CoreTienZ,Jhin,True,Side.blue,3,6,4,1.1666666666666667,103,Heal,Flash,10,False,8662,7125,Zeal,Essence Reaver,,Dagger,Doran's Blade,Boots of Swiftness,3505,53691,Lane.bot_lane,Role.carry
+4,Eddnog,Poppy,True,Side.blue,8,1,4,12.0,147,Teleport,Flash,13,True,10209,8525,Sunfire Cape,Spirit Visage,Control Ward,Corrupting Potion,Mercury's Treads,Glacial Shroud,21463,62751,Lane.top_lane,Role.solo
+5,ioan,Vladimir,False,Side.red,3,4,1,1.0,150,Flash,Ghost,11,False,7354,5925,Hextech Protobelt-01,,Boots of Speed,Spirit Visage,,,58558,13605,Lane.mid_lane,Role.solo
+6,Enrique2pe,Jinx,False,Side.red,1,4,3,1.0,139,Flash,Heal,10,False,6922,6650,Doran's Blade,Pickaxe,Boots of Speed,Runaan's Hurricane,B. F. Sword,Cloak of Agility,2254,68070,Lane.bot_lane,Role.carry
+7,Silviu,Lulu,False,Side.red,2,5,4,1.2,12,Flash,Exhaust,9,False,5684,5175,Spellthief's Edge,Ardent Censer,Boots of Mobility,Sightstone,,,6759,4431,Lane.bot_lane,Role.support
+8,FlREFLY,Zac,False,Side.red,2,6,6,1.3333333333333333,78,Smite,Flash,11,False,6845,6050,Refillable Potion,Enchantment: Cinderhulk,Kindlegem,Ionian Boots of Lucidity,Spectre's Cowl,Cloth Armor,52503,13151,Lane.jungle,Role.none
+9,Autumn Clouds,Ekko,False,Side.red,5,6,1,1.0,116,Teleport,Flash,12,False,7230,6775,Doran's Ring,Ruby Crystal,The Dark Seal,Sunfire Cape,Mercury's Treads,Sheen,63208,11268,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,EnVy Nien,Ryze,False,Side.blue,3,2,2,2.5,156,Flash,Ghost,13,False,7419,7325,Tear of the Goddess,Abyssal Scepter,Rod of Ages,Ionian Boots of Lucidity,,,71015,10286,Lane.mid_lane,Role.solo
+1,electronic boy,Graves,False,Side.blue,1,5,2,0.6,73,Smite,Flash,10,False,6411,5175,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Hexdrinker,,,2447,59361,Lane.jungle,Role.none
+2,godtd,Gangplank,False,Side.blue,1,6,2,0.5,131,Teleport,Flash,12,False,6906,5833,Ionian Boots of Lucidity,Refillable Potion,,Trinity Force,Long Sword,Doran's Ring,6622,69403,Lane.top_lane,Role.solo
+3,DoJeon,Lulu,False,Side.blue,1,3,5,2.0,3,Ignite,Flash,10,False,5430,4150,Chalice of Harmony,Eye of the Oasis,Total Biscuit of Rejuvenation,Boots of Mobility,Faerie Charm,,3327,1007,Lane.bot_lane,Role.support
+4,Holy Troll,Ezreal,False,Side.blue,5,3,0,1.6666666666666667,169,Heal,Flash,11,False,8176,6883,Bilgewater Cutlass,Trinity Force,Berserker's Greaves,,Doran's Blade,Health Potion,8216,61212,Lane.bot_lane,Role.carry
+5,Cay,Kalista,True,Side.red,4,2,3,3.5,173,Flash,Heal,11,False,8600,6675,Doran's Blade,The Bloodthirster,Berserker's Greaves,Zeal,,,436,72931,Lane.bot_lane,Role.carry
+6,Korean Pig,Orianna,True,Side.red,4,2,5,4.5,171,Ghost,Flash,13,False,8998,6150,Doran's Ring,,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,,78682,12284,Lane.mid_lane,Role.solo
+7,Ehdy,Zac,True,Side.red,5,3,8,4.333333333333333,78,Smite,Flash,11,True,8017,6825,Enchantment: Runic Echoes,Refillable Potion,Spirit Visage,,Ninja Tabi,,56321,18029,Lane.jungle,Role.none
+8,Hey its Pham,Thresh,True,Side.red,0,2,5,2.5,25,Exhaust,Flash,10,False,5178,3850,Knight's Vow,Sightstone,,Relic Shield,,,6407,2392,Lane.bot_lane,Role.support
+9,Nikkajojo,Yasuo,True,Side.red,6,2,5,5.5,157,Ignite,Flash,13,False,9256,7350,Doran's Blade,Infinity Edge,Phantom Dancer,Cloth Armor,Boots of Speed,,18738,73366,Lane.top_lane,Role.solo

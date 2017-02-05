@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rohammers,Ekko,True,Side.blue,4,1,5,9.0,132,Teleport,Flash,12,True,9015,8625,Hextech Protobelt-01,Giant's Belt,Doran's Ring,Iceborn Gauntlet,The Dark Seal,Mercury's Treads,69109,17932,Lane.top_lane,Role.solo
+1,Vladfire1 BG ,Skarner,True,Side.blue,7,2,6,6.5,72,Smite,Flash,12,False,9222,12425,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,15909,71783,Lane.jungle,Role.none
+2,SKY Fear,Jhin,True,Side.blue,2,1,7,9.0,170,Flash,Heal,12,False,9108,6350,Essence Reaver,Boots of Swiftness,Doran's Blade,Dagger,Cull,Dagger,1133,86055,Lane.bot_lane,Role.carry
+3,Témpest,Yasuo,True,Side.blue,14,2,3,8.5,134,Flash,Ignite,13,False,10607,8675,Infinity Edge,Phantom Dancer,Mercury's Treads,Doran's Blade,Doran's Blade,Long Sword,20119,69994,Lane.mid_lane,Role.solo
+4,KElTHMCBRlEF,Zyra,True,Side.blue,3,4,10,3.25,23,Ignite,Flash,10,False,7185,5425,Eye of the Watchers,Haunting Guise,Control Ward,Sorcerer's Shoes,Refillable Potion,,19821,4870,Lane.bot_lane,Role.support
+5,KiNG Nidhogg,Jarvan IV,False,Side.red,1,5,3,0.8,97,Teleport,Flash,10,False,5638,5450,Hexdrinker,Ninja Tabi,Phage,Giant's Belt,Corrupting Potion,Cloth Armor,4369,39367,Lane.top_lane,Role.solo
+6,mandatorycloud,Zac,False,Side.red,2,7,0,0.2857142857142857,84,Flash,Smite,9,False,5388,5025,Enchantment: Cinderhulk,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Chain Vest,Ruby Crystal,42828,11354,Lane.jungle,Role.none
+7,Fox BIG,Lulu,False,Side.red,2,6,2,0.6666666666666666,12,Exhaust,Flash,8,False,5125,4525,Frostfang,Boots of Mobility,Sightstone,Refillable Potion,Aegis of the Legion,,7330,2966,Lane.bot_lane,Role.support
+8,ZatsMod,Cassiopeia,False,Side.red,5,6,1,1.0,122,Flash,Ghost,11,False,7077,6685,Doran's Ring,Refillable Potion,Morellonomicon,Tear of the Goddess,Doran's Ring,Needlessly Large Rod,55794,6783,Lane.mid_lane,Role.solo
+9,cute pupper irl,Ashe,False,Side.red,0,6,2,0.3333333333333333,123,Flash,Heal,9,False,5661,5300,Doran's Blade,Essence Reaver,Berserker's Greaves,,,,1152,52256,Lane.bot_lane,Role.carry

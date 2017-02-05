@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Waygzh,Nunu,True,Side.blue,1,4,4,1.25,96,Flash,Smite,11,False,7174,5550,Mercury's Treads,Refillable Potion,Enchantment: Cinderhulk,Crystalline Bracer,Crystalline Bracer,Cloth Armor,19823,28903,Lane.jungle,Role.none
+1,Dexima,Poppy,True,Side.blue,1,2,3,2.0,142,Flash,Teleport,12,False,7128,6375,Spirit Visage,Corrupting Potion,Control Ward,Bami's Cinder,Mercury's Treads,Chain Vest,3206,55190,Lane.top_lane,Role.solo
+2,Cat Person,Janna,True,Side.blue,1,3,11,4.0,8,Flash,Heal,10,False,6781,5675,Control Ward,Sightstone,Locket of the Iron Solari,Spellthief's Edge,Crystalline Bracer,Mercury's Treads,1489,3691,Lane.bot_lane,Role.support
+3,Falco Mechanic,Vayne,True,Side.blue,13,5,1,2.8,167,Exhaust,Flash,13,False,11502,7850,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,,,0,106491,Lane.bot_lane,Role.carry
+4,MindCalm,Cassiopeia,True,Side.blue,2,2,1,1.5,178,Flash,Cleanse,13,False,7963,7375,Refillable Potion,Archangel's Staff,Rylai's Crystal Scepter,,Doran's Ring,,63034,12017,Lane.mid_lane,Role.solo
+5,TaeYeonT,Ezreal,False,Side.red,1,4,5,1.5,133,Heal,Flash,11,False,6872,6300,Doran's Blade,Boots of Speed,Manamune,Iceborn Gauntlet,,Dagger,9289,56555,Lane.bot_lane,Role.carry
+6,HanzoSanada,Maokai,False,Side.red,2,1,2,4.0,145,Teleport,Flash,12,False,6962,6125,Doran's Ring,Doran's Ring,Sunfire Cape,Mercury's Treads,Rejuvenation Bead,Giant's Belt,63955,11029,Lane.top_lane,Role.solo
+7,IIlIllIIlllIII,Morgana,False,Side.red,1,3,6,2.3333333333333335,20,Flash,Exhaust,9,False,5631,5100,Frost Queen's Claim,Sightstone,Control Ward,Boots of Mobility,Crystalline Bracer,Faerie Charm,5013,5044,Lane.bot_lane,Role.support
+8,always4u,Ahri,False,Side.red,7,4,4,2.75,160,Flash,Ignite,13,False,9766,9635,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,50741,16247,Lane.mid_lane,Role.solo
+9,HvK LiquidDiego,Lee Sin,False,Side.red,5,6,6,1.8333333333333333,67,Flash,Smite,11,True,7657,6975,Control Ward,Youmuu's Ghostblade,Enchantment: Warrior,Ruby Crystal,Ninja Tabi,Refillable Potion,11068,64680,Lane.jungle,Role.none

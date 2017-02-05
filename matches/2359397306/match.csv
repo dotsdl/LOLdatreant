@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TSM John Cena,Blitzcrank,False,Side.blue,3,6,8,1.8333333333333333,56,Flash,Exhaust,13,False,8287,7675,Kindlegem,Eye of the Equinox,Locket of the Iron Solari,Boots of Mobility,Spectre's Cowl,,17951,9062,Lane.bot_lane,Role.support
+1,Xenoncas,Nidalee,False,Side.blue,7,7,7,2.0,176,Smite,Flash,15,False,11230,12275,Athene's Unholy Grail,Null-Magic Mantle,Aegis of the Legion,Rod of Ages,Ionian Boots of Lucidity,Enchantment: Runic Echoes,131820,17725,Lane.jungle,Role.none
+2,petithomme,Draven,False,Side.blue,6,8,5,1.375,177,Heal,Flash,13,False,11051,11050,Berserker's Greaves,Infinity Edge,Phantom Dancer,B. F. Sword,Vampiric Scepter,Long Sword,0,91626,Lane.bot_lane,Role.carry
+3,VeeIox,Cassiopeia,False,Side.blue,2,10,5,0.7,156,Ghost,Flash,13,False,8902,7835,Rylai's Crystal Scepter,Tear of the Goddess,Doran's Ring,Abyssal Scepter,Amplifying Tome,,75995,10043,Lane.mid_lane,Role.solo
+4,C0nVict,Jayce,False,Side.blue,4,9,5,1.0,187,Flash,Teleport,14,False,9581,8675,Doran's Blade,B. F. Sword,Control Ward,Boots of Speed,Maw of Malmortius,The Black Cleaver,11850,92201,Lane.top_lane,Role.solo
+5,ToxicGreenie QwQ,Ezreal,True,Side.red,9,6,9,3.0,159,Heal,Flash,14,False,12113,11883,The Bloodthirster,Trinity Force,Ionian Boots of Lucidity,Long Sword,Muramana,,19673,84972,Lane.bot_lane,Role.carry
+6,adc feng lft,Darius,True,Side.red,10,5,3,2.6,256,Teleport,Flash,17,True,14592,13000,Corrupting Potion,The Black Cleaver,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,Maw of Malmortius,1236,167446,Lane.top_lane,Role.solo
+7,Goooshlrific,Volibear,True,Side.red,2,6,15,2.8333333333333335,105,Smite,Flash,15,False,11105,10100,Enchantment: Cinderhulk,Spirit Visage,Hunter's Potion,Dead Man's Plate,Boots of Swiftness,Ruby Crystal,43627,90764,Lane.jungle,Role.none
+8,FSU Dream,Katarina,True,Side.red,19,2,6,12.5,174,Ignite,Flash,16,False,15790,13775,Void Staff,Hextech Gunblade,Rylai's Crystal Scepter,,Abyssal Scepter,Sorcerer's Shoes,119635,15632,Lane.mid_lane,Role.solo
+9,FSU Cantine,Nami,True,Side.red,0,3,24,8.0,9,Exhaust,Flash,14,False,9529,8475,Locket of the Iron Solari,Eye of the Watchers,Redemption,Mercury's Treads,Total Biscuit of Rejuvenation,,6989,8440,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WhiteYoshi,Maokai,True,Side.blue,8,4,19,6.75,199,Teleport,Flash,17,False,14300,12300,Guardian Angel,Corrupting Potion,Spirit Visage,Mercury's Treads,Banshee's Veil,Sunfire Cape,99368,20069,Lane.top_lane,Role.solo
+1,schepper,Sion,True,Side.blue,2,8,19,2.625,46,Exhaust,Flash,14,False,10464,9125,Face of the Mountain,Knight's Vow,Sightstone,Mercury's Treads,Spectre's Cowl,Kindlegem,10642,26231,Lane.bot_lane,Role.support
+2,TQS Zuardian,Kassadin,True,Side.blue,22,6,4,4.333333333333333,223,Teleport,Flash,18,False,18320,15600,Rabadon's Deathcap,Fiendish Codex,Rod of Ages,Ionian Boots of Lucidity,Abyssal Scepter,Lich Bane,144456,29285,Lane.mid_lane,Role.solo
+3,TQS AllOutATK,Vayne,True,Side.blue,5,5,15,4.0,230,Flash,Heal,16,False,14260,11500,Vampiric Scepter,Infinity Edge,Quicksilver Sash,Statikk Shiv,Zeal,Berserker's Greaves,38537,110711,Lane.bot_lane,Role.carry
+4,AlphaWolffy,Vi,True,Side.blue,5,9,13,2.0,145,Flash,Smite,16,False,12674,10983,Enchantment: Warrior,Refillable Potion,Randuin's Omen,Mercury's Treads,Trinity Force,Ruby Crystal,2976,144465,Lane.jungle,Role.none
+5,Sen Jay,Caitlyn,False,Side.red,3,10,9,1.2,226,Heal,Flash,15,False,12109,10950,Runaan's Hurricane,Infinity Edge,Zeal,Last Whisper,Berserker's Greaves,Doran's Blade,1797,171531,Lane.bot_lane,Role.carry
+6,MoneyOrLife,Cassiopeia,False,Side.red,15,9,9,2.6666666666666665,183,Flash,Ghost,15,True,14505,13925,Needlessly Large Rod,Void Staff,Rylai's Crystal Scepter,Tear of the Goddess,Morellonomicon,Banshee's Veil,121133,9763,Lane.mid_lane,Role.solo
+7,WE Mafia,Shyvana,False,Side.red,9,10,4,1.3,145,Flash,Smite,14,False,12420,12200,Titanic Hydra,Frozen Mallet,Chain Vest,Ionian Boots of Lucidity,Enchantment: Bloodrazor,Giant's Belt,68391,76379,Lane.jungle,Role.none
+8,ThumbInHisButt,Diana,False,Side.red,3,5,9,2.4,222,Teleport,Flash,15,False,11973,11145,Rod of Ages,Negatron Cloak,Nashor's Tooth,Doran's Ring,Sorcerer's Shoes,Void Staff,125997,17362,Lane.top_lane,Role.solo
+9,namedropper,Nami,False,Side.red,2,8,14,2.0,13,Exhaust,Flash,13,False,10784,9900,Frost Queen's Claim,Redemption,Sightstone,Aegis of the Legion,Sorcerer's Shoes,Ardent Censer,8146,5513,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Feitan,Jayce,True,Side.blue,7,5,4,2.2,185,Teleport,Flash,14,False,11498,9275,Mercury's Treads,B. F. Sword,Control Ward,Youmuu's Ghostblade,Doran's Blade,The Black Cleaver,13034,92902,Lane.top_lane,Role.solo
+1,ZatsMod,Cassiopeia,True,Side.blue,7,5,9,3.2,153,Flash,Ghost,15,False,10970,9835,Abyssal Scepter,Refillable Potion,Blasting Wand,Amplifying Tome,Tear of the Goddess,Rylai's Crystal Scepter,105238,11359,Lane.mid_lane,Role.solo
+2,Joyul,Janna,True,Side.blue,2,1,22,24.0,6,Flash,Exhaust,14,False,9941,8550,Control Ward,Redemption,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Frostfang,5118,6752,Lane.bot_lane,Role.support
+3,SKY Fear,Caitlyn,True,Side.blue,14,5,6,4.0,215,Flash,Heal,15,False,14688,12325,Doran's Blade,Runaan's Hurricane,Infinity Edge,Hexdrinker,Berserker's Greaves,Phantom Dancer,733,179733,Lane.bot_lane,Role.carry
+4,amumumu,Amumu,True,Side.blue,1,4,14,3.75,198,Flash,Smite,17,False,12278,8785,Enchantment: Runic Echoes,Hunter's Potion,Needlessly Large Rod,Abyssal Scepter,Amplifying Tome,Mercury's Treads,150887,37304,Lane.jungle,Role.none
+5,Emilia Is Love,Draven,False,Side.red,1,11,0,0.09090909090909091,181,Flash,Heal,12,False,10130,9000,Boots of Swiftness,Control Ward,Mercurial Scimitar,Youmuu's Ghostblade,Dagger,Cull,0,106124,Lane.bot_lane,Role.carry
+6,tardzaned,Elise,False,Side.red,8,6,4,2.0,201,Smite,Flash,15,True,13085,11625,Enchantment: Runic Echoes,Chain Vest,Sorcerer's Shoes,Abyssal Scepter,Rylai's Crystal Scepter,Giant's Belt,150882,42234,Lane.jungle,Role.none
+7,insaníty,LeBlanc,False,Side.red,6,4,6,3.0,183,Flash,Ignite,14,False,11542,10875,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Rylai's Crystal Scepter,111569,10474,Lane.mid_lane,Role.solo
+8,Malya EUW ,Alistar,False,Side.red,3,5,6,1.8,45,Flash,Exhaust,11,False,8783,7375,Face of the Mountain,Boots of Mobility,Redemption,Sightstone,Aegis of the Legion,,7970,6965,Lane.bot_lane,Role.support
+9,IIlIIlIIIlllIIlI,Fiora,False,Side.red,2,5,3,1.0,215,Teleport,Flash,15,False,10617,10408,Ravenous Hydra,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Vampiric Scepter,Long Sword,4348,125392,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kaiceytron,Zyra,True,Side.blue,8,6,11,3.1666666666666665,32,Ignite,Flash,13,True,10613,7750,Frost Queen's Claim,,,Aether Wisp,Liandry's Torment,Sorcerer's Shoes,62917,11396,Lane.bot_lane,Role.support
+1,Necrobucher,Rengar,True,Side.blue,7,3,8,5.0,173,Flash,Smite,15,False,12275,9575,Tiamat,Duskblade of Draktharr,Ionian Boots of Lucidity,Enchantment: Warrior,B. F. Sword,,16440,135310,Lane.jungle,Role.none
+2,In Bi We Trust,Jhin,True,Side.blue,10,6,7,2.8333333333333335,179,Flash,Heal,14,False,12585,11925,Infinity Edge,Null-Magic Mantle,Rapid Firecannon,Doran's Blade,Essence Reaver,Boots of Swiftness,3429,108029,Lane.bot_lane,Role.carry
+3,Fake Carry,Poppy,True,Side.blue,5,5,8,2.6,115,Teleport,Flash,14,False,10085,9575,Sunfire Cape,Corrupting Potion,Dead Man's Plate,Phage,Long Sword,Ninja Tabi,15111,55958,Lane.top_lane,Role.solo
+4,Fàkèr  ,Ryze,True,Side.blue,1,5,11,2.4,124,Ghost,Flash,13,False,9325,8335,Ionian Boots of Lucidity,Lost Chapter,Rod of Ages,Archangel's Staff,Amplifying Tome,,71860,10058,Lane.mid_lane,Role.solo
+5,3A3Y 3OY,Vayne,False,Side.red,6,5,4,2.0,171,Heal,Flash,13,False,9480,8850,Berserker's Greaves,Infinity Edge,Refillable Potion,Statikk Shiv,Vampiric Scepter,Doran's Blade,3215,77102,Lane.bot_lane,Role.carry
+6,Grande Donger,Taric,False,Side.red,1,6,12,2.1666666666666665,38,Flash,Exhaust,10,False,6977,6700,Eye of the Equinox,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,Forbidden Idol,,6864,5072,Lane.bot_lane,Role.support
+7,o Cero o,Lux,False,Side.red,3,7,7,1.4285714285714286,157,Flash,Ghost,13,False,8736,7475,Doran's Ring,Blasting Wand,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Needlessly Large Rod,89451,11124,Lane.mid_lane,Role.solo
+8,Megalomaniacal,Kled,False,Side.red,6,8,3,1.125,100,Flash,Ignite,12,False,8534,8225,The Black Cleaver,Ionian Boots of Lucidity,Ruby Crystal,,,Titanic Hydra,0,59599,Lane.top_lane,Role.solo
+9,Vathyrn,Kha'Zix,False,Side.red,9,5,3,2.4,142,Flash,Smite,14,False,10499,9875,Enchantment: Warrior,Duskblade of Draktharr,Tiamat,Null-Magic Mantle,Ninja Tabi,Serrated Dirk,5008,122127,Lane.jungle,Role.none

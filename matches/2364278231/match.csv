@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Klawbro,Ezreal,False,Side.blue,2,6,4,1.0,263,Flash,Heal,15,False,12179,11825,Ionian Boots of Lucidity,Muramana,Blade of the Ruined King,Last Whisper,Doran's Blade,Iceborn Gauntlet,26497,142739,Lane.bot_lane,Role.carry
+1,Peridot,Talon,False,Side.blue,8,5,3,2.2,199,Ghost,Flash,16,True,11520,11375,Youmuu's Ghostblade,,Duskblade of Draktharr,Ionian Boots of Lucidity,The Black Cleaver,,484,129003,Lane.mid_lane,Role.solo
+2,BaconSeeker,Karma,False,Side.blue,0,8,6,0.75,24,Exhaust,Flash,13,False,7716,7225,Ardent Censer,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,Ruby Crystal,,20631,3802,Lane.bot_lane,Role.support
+3,Finna Lit,Elise,False,Side.blue,3,8,3,0.75,167,Smite,Flash,15,False,10621,10410,Enchantment: Runic Echoes,Abyssal Scepter,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,,121234,37029,Lane.jungle,Role.none
+4,airyimbin,Jax,False,Side.blue,2,6,0,0.3333333333333333,215,Teleport,Ghost,15,False,10266,9583,Trinity Force,Bilgewater Cutlass,Corrupting Potion,Frozen Mallet,Doran's Blade,Boots of Speed,28023,82078,Lane.top_lane,Role.solo
+5,Kamajii,Orianna,True,Side.red,3,9,14,1.8888888888888888,179,Flash,Exhaust,15,False,11816,11000,Zhonya's Hourglass,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,,89333,14429,Lane.mid_lane,Role.solo
+6,QuickRev,Lulu,True,Side.red,5,2,15,10.0,139,Flash,Heal,15,False,12187,10950,Needlessly Large Rod,Zhonya's Hourglass,Ionian Boots of Lucidity,Morellonomicon,Blasting Wand,Needlessly Large Rod,83142,16655,Lane.bot_lane,Role.carry
+7,Pyrrfect,Morgana,True,Side.red,2,2,19,10.5,37,Flash,Exhaust,14,False,11598,10450,Eye of the Watchers,Zhonya's Hourglass,Redemption,Needlessly Large Rod,Ionian Boots of Lucidity,,32194,8217,Lane.bot_lane,Role.support
+8,2017,Shyvana,True,Side.red,11,2,5,8.0,293,Ghost,Smite,18,False,17848,17383,Titanic Hydra,Mercury's Treads,Enchantment: Bloodrazor,Randuin's Omen,Spirit Visage,Trinity Force,109029,169299,Lane.jungle,Role.none
+9,T L F ,Darius,True,Side.red,12,0,8,20.0,277,Teleport,Ghost,17,False,16344,15325,Zz'Rot Portal,Jaurim's Fist,Randuin's Omen,The Black Cleaver,Spirit Visage,Mercury's Treads,2624,157397,Lane.top_lane,Role.solo

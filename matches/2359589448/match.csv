@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kshuna,Ekko,False,Side.blue,0,4,2,0.5,125,Flash,Exhaust,11,False,6192,5700,Doran's Ring,Abyssal Scepter,Total Biscuit of Rejuvenation,Boots of Speed,Sheen,Aether Wisp,62024,9330,Lane.mid_lane,Role.solo
+1,TheNotoriousDFG,Ryze,False,Side.blue,1,3,0,0.3333333333333333,183,Flash,Teleport,13,False,8134,6850,Archangel's Staff,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,,,112550,8783,Lane.top_lane,Role.solo
+2,Based Stevens,Draven,False,Side.blue,2,4,0,0.5,134,Heal,Flash,9,False,6817,6200,Youmuu's Ghostblade,Serrated Dirk,Doran's Blade,B. F. Sword,Boots of Speed,Total Biscuit of Rejuvenation,0,68792,Lane.bot_lane,Role.carry
+3,DeportChingChong,Soraka,False,Side.blue,0,3,2,0.6666666666666666,1,Flash,Exhaust,8,False,4569,3900,Talisman of Ascension,Boots of Speed,Sightstone,,,,2011,1162,Lane.bot_lane,Role.support
+4,Deport MingLee,Zac,False,Side.blue,2,3,1,1.0,95,Smite,Flash,10,False,6189,5975,Enchantment: Cinderhulk,Hextech Protobelt-01,Boots of Speed,Refillable Potion,Ruby Crystal,,48750,13028,Lane.jungle,Role.none
+5,Diamond l Khazix,Diana,True,Side.red,4,0,5,9.0,96,Flash,Smite,12,False,7885,7510,Enchantment: Runic Echoes,Abyssal Scepter,Cloth Armor,Amplifying Tome,Sorcerer's Shoes,,64766,25509,Lane.jungle,Role.none
+6,JOEMAMAMAD,Ezreal,True,Side.red,9,2,4,6.5,144,Flash,Ignite,13,True,9497,7575,Doran's Blade,The Dark Seal,Hextech Gunblade,Sheen,Ionian Boots of Lucidity,Lost Chapter,24868,61173,Lane.mid_lane,Role.solo
+7, keine Hosen,Twitch,True,Side.red,4,1,3,7.0,148,Flash,Heal,11,False,7921,7125,Doran's Blade,Berserker's Greaves,B. F. Sword,Cull,Runaan's Hurricane,Pickaxe,0,61768,Lane.bot_lane,Role.carry
+8,Naxius,Morgana,True,Side.red,0,1,5,5.0,9,Flash,Exhaust,9,False,4938,3800,Frostfang,Fiendish Codex,Boots of Mobility,,,Sightstone,7620,4104,Lane.bot_lane,Role.support
+9,KoreanBackAlley,Jayce,True,Side.red,0,1,1,1.0,131,Teleport,Flash,11,False,6427,5550,Maw of Malmortius,Phage,,Boots of Speed,Doran's Blade,,6544,50474,Lane.top_lane,Role.solo

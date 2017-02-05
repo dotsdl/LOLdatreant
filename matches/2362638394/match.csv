@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid fabbbyyy,Twitch,False,Side.blue,0,0,0,0.0,59,Flash,Heal,6,False,2796,1850,Doran's Blade,B. F. Sword,,,,,0,11229,Lane.bot_lane,Role.duo
+1,Winter is back,Lulu,False,Side.blue,0,2,0,0.0,0,Flash,Exhaust,4,False,2061,1725,Spellthief's Edge,Boots of Speed,,Sightstone,,Total Biscuit of Rejuvenation,1832,1353,Lane.bot_lane,Role.duo
+2,godrjsdnd,Ahri,False,Side.blue,0,5,0,0.0,30,Ignite,Flash,5,False,2256,2000,Doran's Ring,Refillable Potion,Doran's Ring,Lost Chapter,,,3096,4117,Lane.mid_lane,Role.solo
+3,CloudNguyén,Kennen,False,Side.blue,1,1,0,1.0,42,Teleport,Flash,6,False,2812,2260,Doran's Blade,Refillable Potion,Sorcerer's Shoes,,Amplifying Tome,,5156,9592,Lane.top_lane,Role.solo
+4,Abou222,Zac,False,Side.blue,0,0,0,0.0,40,Smite,Flash,6,False,2772,2475,Hunter's Talisman,Refillable Potion,Sightstone,Boots of Speed,Kindlegem,Control Ward,15676,5368,Lane.jungle,Role.none
+5,Lil Cody,Vayne,True,Side.red,2,0,0,2.0,77,Heal,Flash,7,False,4627,4200,Blade of the Ruined King,Doran's Blade,,Boots of Speed,,,0,21061,Lane.bot_lane,Role.duo
+6,GangstahSwerve,Ivern,True,Side.red,0,0,5,5.0,30,Smite,Flash,8,False,4142,1910,Hunter's Talisman,Refillable Potion,Ionian Boots of Lucidity,Amplifying Tome,,,5956,4904,Lane.jungle,Role.none
+7,Zaganox,Gragas,True,Side.red,1,1,1,2.0,73,Teleport,Flash,8,False,4397,2150,Doran's Ring,,Hextech Revolver,Doran's Ring,,,30990,7873,Lane.top_lane,Role.solo
+8,Huhi Lite,Cassiopeia,True,Side.red,5,0,0,5.0,82,Ghost,Flash,8,True,5237,5863,Doran's Ring,Negatron Cloak,Doran's Ring,Tear of the Goddess,Control Ward,B. F. Sword,26629,10764,Lane.mid_lane,Role.solo
+9,ZatsMod,Janna,True,Side.red,0,0,3,3.0,7,Flash,Exhaust,6,False,3507,1375,,Sightstone,Refillable Potion,Ancient Coin,,,2075,6555,Lane.bot_lane,Role.duo

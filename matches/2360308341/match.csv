@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Grapermelon,Morgana,True,Side.blue,4,3,11,5.0,62,Ignite,Flash,13,False,10465,7050,Ionian Boots of Lucidity,Frost Queen's Claim,Sightstone,Morellonomicon,,,37979,8776,Lane.bot_lane,Role.support
+1,Freeze,Anivia,True,Side.blue,8,2,9,8.5,166,Flash,Ignite,14,False,11280,10625,Doran's Ring,Void Staff,Seraph's Embrace,Rod of Ages,Sorcerer's Shoes,,97675,11327,Lane.mid_lane,Role.solo
+2,NamfailI59A578,Ryze,True,Side.blue,8,4,6,3.5,169,Flash,Teleport,15,False,11784,9700,Seraph's Embrace,Void Staff,Rod of Ages,,Sorcerer's Shoes,,125142,10683,Lane.top_lane,Role.solo
+3,NOWIVEGOTYOU,Rek'Sai,True,Side.blue,6,5,7,2.6,125,Flash,Smite,14,False,10433,14777,Ravenous Hydra,Null-Magic Mantle,Caulfield's Warhammer,Phage,Enchantment: Warrior,Mercury's Treads,15865,101756,Lane.jungle,Role.none
+4,Jeehun,Caitlyn,True,Side.blue,7,3,9,5.333333333333333,219,Flash,Heal,14,True,12560,11700,Doran's Blade,Infinity Edge,Quicksilver Sash,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,1443,158137,Lane.bot_lane,Role.carry
+5,TechSheep,Hecarim,False,Side.red,4,10,3,0.7,126,Flash,Smite,13,False,9172,9008,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Mercury's Treads,Giant's Belt,Control Ward,13931,97503,Lane.jungle,Role.none
+6,Asc Intercourse,Kalista,False,Side.red,4,6,5,1.5,167,Flash,Heal,13,False,9385,9200,Runaan's Hurricane,Blade of the Ruined King,Quicksilver Sash,,Doran's Blade,Berserker's Greaves,1738,82236,Lane.bot_lane,Role.carry
+7,SamppA,Bard,False,Side.red,1,7,10,1.5714285714285714,16,Flash,Exhaust,12,False,7507,7200,Redemption,Control Ward,Eye of the Watchers,Boots of Mobility,Aegis of the Legion,,11288,5603,Lane.bot_lane,Role.support
+8,ZTG SolidSnake,Ahri,False,Side.red,3,5,3,1.2,139,Flash,Ignite,13,False,8366,8250,Doran's Ring,Abyssal Scepter,Morellonomicon,Blasting Wand,Sorcerer's Shoes,,52313,12650,Lane.mid_lane,Role.solo
+9,TheBolvar,Maokai,False,Side.red,5,5,2,1.4,197,Flash,Teleport,14,False,10072,9625,Giant's Belt,Spirit Visage,Mercury's Treads,Doran's Ring,Sunfire Cape,Chain Vest,97576,14866,Lane.top_lane,Role.solo

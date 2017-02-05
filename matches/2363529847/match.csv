@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dustycat,Ezreal,False,Side.blue,2,6,5,1.1666666666666667,155,Flash,Heal,12,False,8703,8133,Doran's Blade,Muramana,Cull,Ionian Boots of Lucidity,Trinity Force,,14398,61726,Lane.bot_lane,Role.carry
+1,Stessy Poirier,Rengar,False,Side.blue,5,12,7,1.0,85,Flash,Smite,12,False,8300,8025,Refillable Potion,Enchantment: Warrior,Duskblade of Draktharr,Boots of Swiftness,Serrated Dirk,,6432,70063,Lane.jungle,Role.none
+2,TSM PantherOfSex,Gnar,False,Side.blue,1,5,2,0.6,152,Teleport,Flash,12,False,7693,7250,Doran's Blade,Frozen Mallet,Mercury's Treads,Phage,Caulfield's Warhammer,,8976,84104,Lane.top_lane,Role.solo
+3,Litoman,Alistar,False,Side.blue,0,8,7,0.875,23,Exhaust,Flash,10,False,5618,5350,Face of the Mountain,Ruby Sightstone,Boots of Mobility,Ruby Crystal,,,11724,3891,Lane.bot_lane,Role.support
+4,NoahMost,Ziggs,False,Side.blue,8,6,3,1.8333333333333333,196,Teleport,Flash,13,False,11033,9450,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Needlessly Large Rod,113253,12420,Lane.mid_lane,Role.solo
+5,cùrz,Taric,True,Side.red,2,1,16,18.0,26,Flash,Exhaust,12,False,8053,6650,Ruby Sightstone,Face of the Mountain,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,,9712,8718,Lane.bot_lane,Role.support
+6,KitingYeezus,Graves,True,Side.red,12,4,11,5.75,135,Flash,Smite,14,True,12619,11235,Enchantment: Warrior,Phantom Dancer,The Black Cleaver,Berserker's Greaves,B. F. Sword,Long Sword,6407,132355,Lane.jungle,Role.none
+7,Goxtry,Vayne,True,Side.red,7,6,8,2.5,171,Heal,Flash,13,False,11244,8800,Doran's Blade,The Bloodthirster,Null-Magic Mantle,Berserker's Greaves,Phantom Dancer,,0,79466,Lane.bot_lane,Role.carry
+8,Skarrom,Trundle,True,Side.red,8,4,3,2.75,225,Teleport,Flash,15,False,12210,10250,Corrupting Potion,Ravenous Hydra,Bilgewater Cutlass,Kindlegem,Iceborn Gauntlet,Ninja Tabi,3121,145626,Lane.top_lane,Role.solo
+9,Cpt Poundmaker,Anivia,True,Side.red,8,1,11,19.0,181,Ghost,Flash,15,False,11740,10275,Doran's Ring,Seraph's Embrace,,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,112134,8785,Lane.mid_lane,Role.solo

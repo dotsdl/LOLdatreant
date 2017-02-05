@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Omgimapencil,Ezreal,True,Side.blue,3,2,2,2.5,263,Heal,Flash,15,False,11542,9050,Doran's Blade,Bilgewater Cutlass,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Recurve Bow,14082,128104,Lane.bot_lane,Role.carry
+1,Shamoo,Amumu,True,Side.blue,2,2,6,4.0,133,Flash,Smite,14,False,10706,7930,Mercury's Treads,Enchantment: Runic Echoes,Sunfire Cape,Negatron Cloak,Amplifying Tome,Refillable Potion,106092,24766,Lane.jungle,Role.none
+2,rtz 1,Cassiopeia,True,Side.blue,15,4,1,4.0,253,Flash,Ghost,17,True,15262,13040,Seraph's Embrace,,Rylai's Crystal Scepter,The Dark Seal,Void Staff,Morellonomicon,166984,7729,Lane.mid_lane,Role.solo
+3,Duchess of York,Janna,True,Side.blue,0,3,8,2.6666666666666665,19,Exhaust,Flash,13,False,8685,5750,,Eye of the Oasis,Mikael's Crucible,,The Dark Seal,Ionian Boots of Lucidity,3058,5238,Lane.bot_lane,Role.support
+4,VivaKlaidas,Sion,True,Side.blue,1,2,6,3.5,273,Teleport,Flash,16,False,11414,9300,Corrupting Potion,Redemption,Zz'Rot Portal,Sunfire Cape,Mercury's Treads,,57176,84564,Lane.top_lane,Role.solo
+5,xVip3R,Viktor,False,Side.red,4,6,2,1.0,219,Ghost,Flash,14,False,10372,8395,Perfect Hex Core,Morellonomicon,Negatron Cloak,Doran's Ring,Sorcerer's Shoes,,130655,10807,Lane.mid_lane,Role.solo
+6,Equinox Fox,Skarner,False,Side.red,1,4,5,1.5,180,Smite,Ghost,15,False,10455,9400,Dead Man's Plate,Tiamat,Iceborn Gauntlet,Mercury's Treads,Pickaxe,Hunter's Talisman,29822,124243,Lane.jungle,Role.none
+7,MultiRainbow,Nautilus,False,Side.red,3,4,0,0.75,273,Teleport,Flash,15,False,10196,9275,Corrupting Potion,Zz'Rot Portal,Sunfire Cape,Mercury's Treads,Spectre's Cowl,Kindlegem,111078,32416,Lane.top_lane,Role.solo
+8,Hanjaro,Zyra,False,Side.red,2,4,4,1.5,28,Flash,Ignite,12,False,8127,7535,Eye of the Watchers,Liandry's Torment,Amplifying Tome,,Sorcerer's Shoes,,39196,4463,Lane.bot_lane,Role.support
+9,Pat the Bunny,Draven,False,Side.red,3,3,1,1.3333333333333333,256,Heal,Flash,13,False,11708,11750,Infinity Edge,Phantom Dancer,Essence Reaver,,Berserker's Greaves,,0,124463,Lane.bot_lane,Role.carry

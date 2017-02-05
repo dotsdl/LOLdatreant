@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dravens Rift,Talon,False,Side.blue,5,11,6,1.0,157,Flash,Ignite,14,True,10458,10400,Youmuu's Ghostblade,Boots of Swiftness,The Black Cleaver,Frozen Heart,,,1263,103882,Lane.top_lane,Role.solo
+1,RainfalI,Vayne,False,Side.blue,5,10,9,1.4,198,Heal,Flash,16,False,11170,10775,Doran's Blade,Infinity Edge,Berserker's Greaves,Bilgewater Cutlass,Statikk Shiv,Dagger,12202,102509,Lane.bot_lane,Role.carry
+2,Scourge III,Karma,False,Side.blue,2,9,13,1.6666666666666667,37,Exhaust,Flash,13,False,9239,8775,Redemption,Ruby Sightstone,Frostfang,Ionian Boots of Lucidity,Locket of the Iron Solari,Forbidden Idol,29411,5944,Lane.bot_lane,Role.support
+3,Saiaf,Zilean,False,Side.blue,9,5,9,3.6,143,Flash,Teleport,16,False,11442,11150,Zhonya's Hourglass,Void Staff,,Morellonomicon,Doran's Ring,Sorcerer's Shoes,97493,11560,Lane.mid_lane,Role.solo
+4,Xifor,Lee Sin,False,Side.blue,7,12,5,1.0,80,Flash,Smite,13,False,9730,8725,The Black Cleaver,Control Ward,Enchantment: Warrior,Giant's Belt,Chain Vest,Ionian Boots of Lucidity,12134,61768,Lane.jungle,Role.none
+5,Akayyyy,Jarvan IV,True,Side.red,3,6,11,2.3333333333333335,83,Smite,Flash,13,False,10550,9975,Enchantment: Warrior,B. F. Sword,Ninja Tabi,Maw of Malmortius,Aegis of the Legion,Null-Magic Mantle,7156,93227,Lane.jungle,Role.none
+6,Oofon,Viktor,True,Side.red,12,6,4,2.6666666666666665,183,Flash,Ghost,15,False,13137,11600,Perfect Hex Core,Rylai's Crystal Scepter,Rabadon's Deathcap,Ionian Boots of Lucidity,,,113652,13206,Lane.mid_lane,Role.solo
+7,LucidK,Darius,True,Side.red,11,4,4,3.75,243,Ghost,Ignite,16,False,14002,12850,Cloth Armor,Spirit Visage,Guardian Angel,Thornmail,The Black Cleaver,Ionian Boots of Lucidity,8979,138084,Lane.top_lane,Role.solo
+8,Wizikz,Draven,True,Side.red,11,5,9,4.0,162,Heal,Flash,14,False,14723,13850,B. F. Sword,Mercurial Scimitar,Berserker's Greaves,Phantom Dancer,Cloak of Agility,Death's Dance,0,132935,Lane.bot_lane,Role.carry
+9,loveyen,Kennen,True,Side.red,10,8,15,3.125,24,Flash,Exhaust,14,False,12226,10675,Haunting Guise,Frost Queen's Claim,Hextech Protobelt-01,,Sorcerer's Shoes,Zhonya's Hourglass,47728,9142,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cat Ears,Sivir,True,Side.blue,9,1,9,18.0,288,Flash,Heal,17,False,16397,14425,Doran's Blade,Phantom Dancer,Essence Reaver,Berserker's Greaves,Maw of Malmortius,Lord Dominik's Regards,0,229600,Lane.bot_lane,Role.carry
+1,Projekt Yasuo,Kassadin,True,Side.blue,3,7,11,2.0,156,Flash,Heal,15,False,11894,11245,Ionian Boots of Lucidity,Lich Bane,Rod of Ages,Corrupting Potion,,Zhonya's Hourglass,84890,24808,Lane.mid_lane,Role.solo
+2,Ranksexual,Jayce,True,Side.blue,11,5,8,3.8,290,Flash,Teleport,18,False,16955,16125,Lord Dominik's Regards,B. F. Sword,Edge of Night,The Bloodthirster,Ionian Boots of Lucidity,The Black Cleaver,30155,178767,Lane.top_lane,Role.solo
+3,CedR1CK GOD,Lee Sin,True,Side.blue,11,6,10,3.5,146,Smite,Flash,16,False,13816,13075,Enchantment: Warrior,Randuin's Omen,Dead Man's Plate,Mercury's Treads,Hexdrinker,Spectre's Cowl,31108,106607,Lane.jungle,Role.none
+4,Calvingod,Janna,True,Side.blue,0,2,18,9.0,26,Exhaust,Flash,14,False,10189,8975,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,Glacial Shroud,,15569,6607,Lane.bot_lane,Role.support
+5,Pyrrfect,Nautilus,False,Side.red,3,6,5,1.3333333333333333,204,Flash,Teleport,15,False,11008,10550,Corrupting Potion,Randuin's Omen,Zz'Rot Portal,Ninja Tabi,Sunfire Cape,Cloth Armor,89493,30588,Lane.top_lane,Role.solo
+6,Rich Homie Lucky,Bard,False,Side.red,1,6,11,2.0,11,Flash,Ignite,13,False,8899,8600,Ruby Crystal,Eye of the Watchers,Redemption,Frozen Heart,,Ionian Boots of Lucidity,10528,2921,Lane.bot_lane,Role.support
+7,Gweiss,Graves,False,Side.red,9,6,5,2.3333333333333335,226,Smite,Flash,16,False,13837,12985,Lord Dominik's Regards,Youmuu's Ghostblade,Berserker's Greaves,Enchantment: Warrior,Phantom Dancer,Vampiric Scepter,2841,190836,Lane.jungle,Role.none
+8,D0NG0,Fizz,False,Side.red,6,8,4,1.25,158,Ignite,Flash,14,True,10914,10875,Lich Bane,The Dark Seal,Abyssal Scepter,Sorcerer's Shoes,Zhonya's Hourglass,,80964,23475,Lane.mid_lane,Role.solo
+9,Lose,Caitlyn,False,Side.red,2,8,6,1.0,232,Flash,Heal,15,False,11189,10725,Runaan's Hurricane,Rapid Firecannon,Infinity Edge,,,Berserker's Greaves,2370,157598,Lane.bot_lane,Role.carry

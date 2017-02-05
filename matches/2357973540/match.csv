@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,2342563463634,Lee Sin,True,Side.blue,4,8,10,1.75,96,Smite,Flash,14,True,10787,8775,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Mercury's Treads,Giant's Belt,Chain Vest,17674,72071,Lane.jungle,Role.none
+1,Rudeclaw,Nami,True,Side.blue,1,2,15,8.0,12,Flash,Exhaust,13,False,9776,8200,Redemption,Locket of the Iron Solari,,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,10127,6325,Lane.bot_lane,Role.support
+2,Cynestro,Tristana,True,Side.blue,7,4,8,3.75,305,Flash,Heal,16,False,16138,14200,Statikk Shiv,Mercurial Scimitar,Infinity Edge,Lord Dominik's Regards,Berserker's Greaves,,72746,166710,Lane.bot_lane,Role.carry
+3,rehzyy,Yasuo,True,Side.blue,11,2,5,8.0,263,Flash,Ignite,16,False,15857,13950,Edge of Night,Infinity Edge,Quicksilver Sash,Phantom Dancer,Last Whisper,Mercury's Treads,36000,145972,Lane.mid_lane,Role.solo
+4,i goZed or Yasuo,Ekko,True,Side.blue,1,4,13,3.5,177,Flash,Teleport,16,False,11416,8875,Corrupting Potion,Sunfire Cape,Dead Man's Plate,Doran's Ring,Boots of Swiftness,Kindlegem,109255,28781,Lane.top_lane,Role.solo
+5,GoodBeef,Karma,False,Side.red,1,7,13,2.0,10,Exhaust,Flash,12,False,8507,8175,Locket of the Iron Solari,Redemption,Eye of the Watchers,Boots of Swiftness,,,10017,4415,Lane.bot_lane,Role.support
+6,am sol,Graves,False,Side.red,5,4,4,2.25,171,Smite,Flash,15,False,11880,11600,Last Whisper,Long Sword,Boots of Swiftness,Enchantment: Warrior,Death's Dance,Phantom Dancer,3023,185040,Lane.jungle,Role.none
+7,rawrmiffed,Sivir,False,Side.red,0,4,10,2.5,165,Heal,Flash,14,False,9967,9150,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Statikk Shiv,B. F. Sword,,9678,100008,Lane.bot_lane,Role.carry
+8,rank 2,Malzahar,False,Side.red,8,5,5,2.6,191,Flash,Ghost,14,False,11764,10850,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Void Staff,,95203,28258,Lane.mid_lane,Role.solo
+9,Harajuku Barbie,Poppy,False,Side.red,6,4,10,4.0,214,Flash,Teleport,16,False,11991,10700,Sunfire Cape,Corrupting Potion,Zz'Rot Portal,Iceborn Gauntlet,Ninja Tabi,Chain Vest,44942,96141,Lane.top_lane,Role.solo

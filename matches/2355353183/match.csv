@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,support or troll,Karma,True,Side.blue,10,5,24,6.8,50,Ignite,Flash,16,False,14018,13925,Redemption,Frost Queen's Claim,Ruby Sightstone,Void Staff,Sorcerer's Shoes,Archangel's Staff,57850,11539,Lane.bot_lane,Role.support
+1,always4u,Ahri,True,Side.blue,13,6,7,3.3333333333333335,194,Flash,Ignite,16,False,14847,12000,Zhonya's Hourglass,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Blasting Wand,83081,15424,Lane.top_lane,Role.solo
+2,SF Niffou,Caitlyn,True,Side.blue,6,5,14,4.0,177,Heal,Flash,15,False,12875,11100,Doran's Blade,Rapid Firecannon,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,1557,129612,Lane.bot_lane,Role.carry
+3,Shamoo,Amumu,True,Side.blue,6,6,18,4.0,82,Flash,Smite,15,True,11955,10150,Mercury's Treads,Enchantment: Runic Echoes,Abyssal Scepter,Ruby Crystal,Sunfire Cape,,84157,16997,Lane.jungle,Role.none
+4,Yellow Turd,Orianna,True,Side.blue,6,7,12,2.5714285714285716,150,Ghost,Flash,15,False,12225,11650,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Zhonya's Hourglass,Sorcerer's Shoes,,85938,15672,Lane.mid_lane,Role.solo
+5,ChrisOaty,Yasuo,False,Side.red,10,7,2,1.7142857142857142,246,Flash,Teleport,16,False,13554,13595,Infinity Edge,Phantom Dancer,Mercurial Scimitar,Negatron Cloak,Chain Vest,Mercury's Treads,33680,139911,Lane.top_lane,Role.solo
+6,R L,Kalista,False,Side.red,3,11,7,0.9090909090909091,225,Heal,Flash,14,False,11585,12260,Mercurial Scimitar,Blade of the Ruined King,Berserker's Greaves,,Runaan's Hurricane,,1073,146396,Lane.bot_lane,Role.carry
+7,FORG1VENRE,Lee Sin,False,Side.red,6,8,8,1.75,99,Smite,Flash,14,False,10323,8650,Spectre's Cowl,Enchantment: Cinderhulk,Titanic Hydra,Mercury's Treads,,,19892,70452,Lane.jungle,Role.none
+8,is that Rex,Viktor,False,Side.red,9,7,8,2.4285714285714284,190,Heal,Flash,15,False,12767,11645,Perfect Hex Core,Rylai's Crystal Scepter,Lich Bane,Control Ward,Negatron Cloak,Ionian Boots of Lucidity,120998,13323,Lane.mid_lane,Role.solo
+9,CurII,Nautilus,False,Side.red,0,8,19,2.375,45,Flash,Exhaust,13,False,9237,8305,Boots of Mobility,Redemption,Locket of the Iron Solari,Refillable Potion,Ruby Crystal,Eye of the Equinox,20413,10144,Lane.bot_lane,Role.support

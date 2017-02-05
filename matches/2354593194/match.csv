@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NamfailI59A578,Soraka,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,655,0,,,,,,,0,0,Lane.top_lane,Role.duo
+1,PLAYING4HARAMBE,Lucian,False,Side.blue,0,0,0,0.0,5,Flash,Heal,2,False,749,500,Doran's Blade,,,,,,0,1669,Lane.bot_lane,Role.solo
+2,Y2tpme,Lee Sin,False,Side.blue,1,0,0,1.0,6,Smite,Flash,4,True,1441,500,Hunter's Machete,Refillable Potion,,,,,250,7252,Lane.jungle,Role.none
+3,ejzk,Gangplank,False,Side.blue,0,0,0,0.0,5,Teleport,Flash,2,False,773,500,Sapphire Crystal,Refillable Potion,,,,,0,901,Lane.top_lane,Role.duo
+4,Tobias Fate,Karthus,False,Side.blue,0,0,0,0.0,15,Flash,Exhaust,3,False,956,500,Doran's Ring,Health Potion,,,,,3222,500,Lane.mid_lane,Role.solo
+5,1v9 me irl,Elise,True,Side.red,0,1,0,0.0,12,Smite,Flash,3,False,985,800,Boots of Speed,,,,,,2519,2703,Lane.top_lane,Role.duo
+6,Henchey,Orianna,True,Side.red,0,0,0,0.0,14,Ghost,Flash,3,False,917,500,Doran's Ring,,,,Total Biscuit of Rejuvenation,,3307,1585,Lane.mid_lane,Role.solo
+7,Pëng,Zyra,True,Side.red,0,0,0,0.0,0,Ignite,Flash,2,False,742,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,1412,637,Lane.bot_lane,Role.duo
+8,Gweiss,Graves,True,Side.red,0,0,0,0.0,15,Heal,Flash,2,False,962,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,4529,Lane.bot_lane,Role.duo
+9,Feitan,Jayce,True,Side.red,0,0,0,0.0,13,Teleport,Flash,3,False,907,500,Doran's Blade,Health Potion,,,,,60,1957,Lane.top_lane,Role.duo

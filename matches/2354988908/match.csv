@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheDankWithinUs,Caitlyn,True,Side.blue,4,1,3,7.0,111,Flash,Heal,9,False,7047,4375,Pickaxe,Refillable Potion,Berserker's Greaves,B. F. Sword,Cull,Doran's Blade,315,56380,Lane.bot_lane,Role.carry
+1,Falco Mechanic,Jarvan IV,True,Side.blue,1,3,3,1.3333333333333333,77,Smite,Flash,9,False,5916,4350,Enchantment: Cinderhulk,,Ninja Tabi,,Long Sword,,8410,57004,Lane.jungle,Role.none
+2,CsCs Scientist,Shen,True,Side.blue,2,4,4,1.5,86,Flash,Teleport,10,False,5525,5125,Raptor Cloak,Control Ward,Doran's Shield,Sunfire Cape,Boots of Speed,,19554,16450,Lane.top_lane,Role.solo
+3,DrunkCatalyst,LeBlanc,True,Side.blue,3,0,0,3.0,139,Flash,Ignite,11,False,6689,3620,Refillable Potion,Fiendish Codex,Doran's Ring,Lost Chapter,Negatron Cloak,Boots of Speed,45848,12663,Lane.mid_lane,Role.solo
+4,Autumn Clouds,Thresh,True,Side.blue,2,0,6,8.0,23,Flash,Exhaust,9,True,5278,3350,Targon's Brace,Total Biscuit of Rejuvenation,Sightstone,Boots of Mobility,Ruby Crystal,,7369,6458,Lane.bot_lane,Role.support
+5,Grande Donger,Taric,False,Side.red,0,2,2,1.0,18,Flash,Exhaust,6,False,3184,2300,Sightstone,Boots of Speed,Targon's Brace,,,,3086,2663,Lane.bot_lane,Role.support
+6,TaeYeonT,Vayne,False,Side.red,1,3,1,0.6666666666666666,82,Heal,Flash,9,False,4724,2950,Doran's Blade,,Cull,Dagger,B. F. Sword,Boots of Speed,0,22673,Lane.bot_lane,Role.carry
+7,gneV,Zac,False,Side.red,1,2,5,3.0,54,Smite,Flash,9,False,4707,4925,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,31350,9808,Lane.jungle,Role.none
+8,Merryem,Ahri,False,Side.red,1,1,0,1.0,78,Flash,Ignite,8,False,4173,3085,Doran's Ring,Fiendish Codex,Amplifying Tome,Lost Chapter,Boots of Speed,,11640,6841,Lane.mid_lane,Role.solo
+9,trashgame123,Wukong,False,Side.red,4,4,1,1.25,71,Teleport,Flash,9,False,4961,3700,Youmuu's Ghostblade,Corrupting Potion,,Boots of Speed,,,2494,27733,Lane.top_lane,Role.solo

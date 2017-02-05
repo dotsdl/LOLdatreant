@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,pLatina Asis,Varus,True,Side.blue,4,4,7,2.75,107,Heal,Flash,10,False,8431,6675,Boots of Swiftness,Youmuu's Ghostblade,Caulfield's Warhammer,Tear of the Goddess,Doran's Blade,Long Sword,3998,62648,Lane.bot_lane,Role.carry
+1,Clasiik,Twisted Fate,True,Side.blue,7,0,6,13.0,168,Ghost,Flash,13,False,10575,8875,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Abyssal Scepter,Lich Bane,Fiendish Codex,89972,17412,Lane.mid_lane,Role.solo
+2,Lanternman,Thresh,True,Side.blue,2,2,13,7.5,29,Ignite,Flash,10,True,7514,6525,Redemption,Face of the Mountain,Sightstone,Control Ward,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,7487,7872,Lane.bot_lane,Role.support
+3,Horrible Player,Hecarim,True,Side.blue,5,3,5,3.3333333333333335,113,Smite,Ghost,12,False,9183,7883,Enchantment: Cinderhulk,Hunter's Potion,,Trinity Force,Boots of Swiftness,,11317,92777,Lane.jungle,Role.none
+4,OoR4s3Ng4N4rUtOo,Shen,True,Side.blue,4,1,5,9.0,137,Flash,Teleport,13,False,8663,7675,Mercury's Treads,Banshee's Veil,Ruby Crystal,Sunfire Cape,Doran's Shield,,43979,27556,Lane.top_lane,Role.solo
+5,I Was Boosted,Lee Sin,False,Side.red,0,2,1,0.5,39,Smite,Flash,7,False,4313,2300,Boots of Speed,Refillable Potion,Long Sword,Tracker's Knife,Long Sword,Control Ward,3249,25508,Lane.jungle,Role.none
+6,Poosickle,Rumble,False,Side.red,3,5,0,0.6,124,Teleport,Flash,12,False,6308,5125,Doran's Shield,Sorcerer's Shoes,Liandry's Torment,Health Potion,,,61227,6874,Lane.mid_lane,Role.solo
+7,SuperInSpired,Nami,False,Side.red,1,4,5,1.5,6,Flash,Exhaust,8,False,4808,4200,Spellthief's Edge,Crystalline Bracer,Ruby Sightstone,Faerie Charm,Ionian Boots of Lucidity,Faerie Charm,5720,2977,Lane.bot_lane,Role.support
+8,rebornchampion99,Ezreal,False,Side.red,4,6,4,1.3333333333333333,91,Flash,Heal,10,False,6531,5475,Manamune,Cull,Doran's Blade,Sheen,Ionian Boots of Lucidity,,7994,35235,Lane.bot_lane,Role.carry
+9,Pygwyn,Malphite,False,Side.red,2,5,4,1.2,111,Teleport,Flash,11,False,6403,6100,Doran's Shield,Sunfire Cape,Mercury's Treads,Glacial Shroud,Cloth Armor,Cloth Armor,48288,11938,Lane.top_lane,Role.solo

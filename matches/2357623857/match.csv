@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MokSa Nlm,Bard,False,Side.blue,0,2,0,0.0,1,Exhaust,Flash,6,False,2086,1950,Spellthief's Edge,Boots of Mobility,Total Biscuit of Rejuvenation,Ruby Crystal,,,1385,1309,Lane.bot_lane,Role.duo
+1,LeagueOfRito ,Master Yi,False,Side.blue,1,2,0,0.5,42,Flash,Smite,6,False,3144,1400,Hunter's Machete,,Dagger,Dagger,Boots of Speed,,0,29129,Lane.jungle,Role.none
+2,Demacian44,Viktor,False,Side.blue,0,3,0,0.0,50,Cleanse,Flash,7,False,2605,2200,The Hex Core mk-1,Boots of Speed,,Refillable Potion,Doran's Ring,,11239,4770,Lane.mid_lane,Role.solo
+3,RedkooIaid,Tryndamere,False,Side.blue,0,2,1,0.5,41,Ignite,Flash,7,False,2795,2375,Doran's Blade,Refillable Potion,Vampiric Scepter,Kircheis Shard,,,147,17474,Lane.top_lane,Role.solo
+4,Nasuki Subaru,Miss Fortune,False,Side.blue,0,4,0,0.0,34,Flash,Heal,5,False,2384,1800,Doran's Blade,Serrated Dirk,Total Biscuit of Rejuvenation,,,,680,9769,Lane.bot_lane,Role.duo
+5,Bobarion,Cassiopeia,True,Side.red,3,0,1,4.0,90,Ghost,Flash,8,True,5573,2660,Doran's Ring,Health Potion,Tear of the Goddess,Control Ward,Lost Chapter,Amplifying Tome,31032,10359,Lane.mid_lane,Role.solo
+6,Sexykoreanmonkey,Quinn,True,Side.red,2,1,0,2.0,68,Ignite,Flash,7,False,4265,3175,Caulfield's Warhammer,Health Potion,Boots of Speed,Serrated Dirk,Doran's Blade,,435,23474,Lane.top_lane,Role.solo
+7,ADKarthus,Nocturne,True,Side.red,3,0,1,4.0,56,Flash,Smite,8,False,4888,3425,Enchantment: Bloodrazor,Refillable Potion,Long Sword,Boots of Speed,,,1967,44245,Lane.jungle,Role.none
+8,l SectumSempra l,Nami,True,Side.red,0,0,6,6.0,0,Flash,Exhaust,6,False,4012,2750,,,Forbidden Idol,Crystalline Bracer,Frostfang,,1635,4308,Lane.bot_lane,Role.duo
+9,herolineage,Ashe,True,Side.red,4,0,1,5.0,63,Flash,Heal,7,False,5464,4150,Doran's Blade,Essence Reaver,,,,,723,35671,Lane.bot_lane,Role.duo

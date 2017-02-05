@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Avi,Olaf,True,Side.blue,5,3,11,5.333333333333333,121,Smite,Ghost,14,False,10359,8325,,Hunter's Potion,Ionian Boots of Lucidity,Giant's Belt,The Black Cleaver,Enchantment: Cinderhulk,12467,97221,Lane.jungle,Role.none
+1,Yusui,Cassiopeia,True,Side.blue,13,2,3,8.0,166,Ghost,Flash,14,False,11894,10335,Seraph's Embrace,Amplifying Tome,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,,85495,8395,Lane.mid_lane,Role.solo
+2,KiNG Nidhogg,Jarvan IV,True,Side.blue,6,4,6,3.0,156,Teleport,Flash,14,False,9988,8633,Trinity Force,Ionian Boots of Lucidity,Dagger,Dagger,Corrupting Potion,Randuin's Omen,9310,61127,Lane.top_lane,Role.solo
+3,fantastic ad,Jhin,True,Side.blue,0,2,7,3.5,159,Heal,Flash,12,False,8569,7750,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Rapid Firecannon,,,3700,93644,Lane.bot_lane,Role.carry
+4,4911,Morgana,True,Side.blue,2,4,7,2.25,14,Exhaust,Flash,12,False,7187,5900,Frost Queen's Claim,Ionian Boots of Lucidity,Ruby Sightstone,Forbidden Idol,,,17175,4054,Lane.bot_lane,Role.support
+5,SSBM Hax,Twisted Fate,False,Side.red,6,6,3,1.5,145,Flash,Ghost,12,False,9795,9125,Doran's Ring,Doran's Ring,Rod of Ages,Seeker's Armguard,Ionian Boots of Lucidity,Lich Bane,80488,8587,Lane.mid_lane,Role.solo
+6,Cuckvele,Janna,False,Side.red,1,3,5,2.0,19,Flash,Exhaust,10,False,6130,5825,Eye of the Watchers,Boots of Swiftness,,,Locket of the Iron Solari,Refillable Potion,3551,4598,Lane.bot_lane,Role.support
+7,godrjsdnd,Lee Sin,False,Side.red,6,6,3,1.5,142,Smite,Flash,13,False,9629,9000,Ravenous Hydra,Enchantment: Warrior,Poacher's Dirk,Mercury's Treads,Refillable Potion,Pickaxe,18980,92231,Lane.jungle,Role.none
+8,OUT DO YA,Caitlyn,False,Side.red,1,5,5,1.2,149,Flash,Heal,12,True,8425,8075,Berserker's Greaves,Infinity Edge,,Doran's Blade,,Runaan's Hurricane,412,82420,Lane.bot_lane,Role.carry
+9,hashinshin,Yorick,False,Side.red,1,6,5,1.0,162,Flash,Teleport,13,False,8504,8233,Corrupting Potion,Trinity Force,Ninja Tabi,Dead Man's Plate,,,11818,87770,Lane.top_lane,Role.solo

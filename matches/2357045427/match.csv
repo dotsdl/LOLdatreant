@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,imbobthebuilder,Evelynn,True,Side.blue,13,2,4,8.5,103,Smite,Flash,13,False,11120,10350,Enchantment: Runic Echoes,Boots of Mobility,Lich Bane,,Hextech Gunblade,,72586,32022,Lane.jungle,Role.none
+1,Zaga,Jayce,True,Side.blue,11,3,3,4.666666666666667,137,Flash,Teleport,13,False,10864,9700,Youmuu's Ghostblade,Doran's Blade,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,Vampiric Scepter,18220,83132,Lane.top_lane,Role.solo
+2,Anadus,Brand,True,Side.blue,5,1,10,15.0,152,Ghost,Flash,13,True,9751,7035,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Rylai's Crystal Scepter,Amplifying Tome,Doran's Ring,61343,12595,Lane.mid_lane,Role.solo
+3,Braums Mustache,Tahm Kench,True,Side.blue,2,2,23,12.5,30,Flash,Exhaust,11,False,8078,7375,Boots of Swiftness,Sightstone,Face of the Mountain,Knight's Vow,Null-Magic Mantle,Cloth Armor,10888,7371,Lane.bot_lane,Role.support
+4,Watarimono,Ashe,True,Side.blue,6,1,19,25.0,134,Flash,Heal,12,False,9860,8700,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Long Sword,Essence Reaver,Long Sword,953,86505,Lane.bot_lane,Role.carry
+5,Jared King1,Maokai,False,Side.red,3,7,2,0.7142857142857143,99,Flash,Smite,11,False,7134,6450,Enchantment: Cinderhulk,Hunter's Potion,Boots of Mobility,Giant's Belt,Null-Magic Mantle,Warden's Mail,63117,20092,Lane.jungle,Role.none
+6,AloneTalpa,Blitzcrank,False,Side.red,2,8,1,0.375,15,Flash,Ignite,9,False,5104,4525,Ruby Crystal,Boots of Mobility,Sightstone,Ruby Crystal,Ruby Crystal,Ruby Crystal,9935,2698,Lane.bot_lane,Role.support
+7,OwOOuOOwO,Darius,False,Side.red,2,7,2,0.5714285714285714,152,Ghost,Flash,13,False,7264,6900,Doran's Shield,Ninja Tabi,Raptor Cloak,The Black Cleaver,Kindlegem,,0,64448,Lane.top_lane,Role.solo
+8,Yutaka Hoshino,Jhin,False,Side.red,2,10,4,0.6,119,Heal,Flash,10,False,6757,6100,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Dagger,Brawler's Gloves,Dagger,2678,52252,Lane.bot_lane,Role.carry
+9,Behsehkeh,Orianna,False,Side.red,0,5,1,0.2,133,Ghost,Flash,11,False,6101,6050,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,,,47051,11815,Lane.mid_lane,Role.solo

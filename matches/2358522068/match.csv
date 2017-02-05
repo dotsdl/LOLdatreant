@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DaDieYan,Hecarim,False,Side.blue,9,5,2,2.2,162,Ghost,Smite,15,False,11980,11908,Enchantment: Cinderhulk,Boots of Swiftness,Trinity Force,Spectre's Cowl,Thornmail,Kindlegem,25099,117209,Lane.jungle,Role.none
+1,LynchBeaner,Cassiopeia,False,Side.blue,7,6,2,1.5,241,Ghost,Flash,16,False,12811,12075,Doran's Ring,Morellonomicon,Abyssal Scepter,Tear of the Goddess,Rylai's Crystal Scepter,Needlessly Large Rod,141875,10189,Lane.mid_lane,Role.solo
+2,AtoQAto,Teemo,False,Side.blue,7,6,3,1.6666666666666667,242,Teleport,Flash,17,False,12741,11000,Hextech Gunblade,Ruby Crystal,Boots of Swiftness,Doran's Ring,Wit's End,Nashor's Tooth,104788,55456,Lane.top_lane,Role.solo
+3,Sn4cky,Ashe,False,Side.blue,1,7,5,0.8571428571428571,189,Flash,Heal,14,True,10992,10555,Runaan's Hurricane,Essence Reaver,Boots of Swiftness,Pickaxe,Doran's Blade,B. F. Sword,3136,110569,Lane.bot_lane,Role.carry
+4,Fàkèr  ,Bard,False,Side.blue,0,6,12,2.0,37,Exhaust,Flash,13,False,9164,8050,Mikael's Crucible,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,,24910,5637,Lane.bot_lane,Role.support
+5,Triggered Shaco,Singed,True,Side.red,4,4,10,3.5,227,Ghost,Teleport,17,False,12734,11550,Zz'Rot Portal,Corrupting Potion,Spectre's Cowl,Rod of Ages,Rylai's Crystal Scepter,Boots of Swiftness,139593,7827,Lane.top_lane,Role.solo
+6,Poochmonkey,Ezreal,True,Side.red,11,5,7,3.6,204,Heal,Flash,16,False,14403,13055,,Muramana,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,Mortal Reminder,16098,129211,Lane.bot_lane,Role.carry
+7,Pewster,Varus,True,Side.red,5,5,9,2.8,230,Ghost,Flash,16,False,12900,12925,Muramana,Duskblade of Draktharr,Youmuu's Ghostblade,Ionian Boots of Lucidity,Hexdrinker,Last Whisper,7363,162309,Lane.mid_lane,Role.solo
+8,Krypt,Elise,True,Side.red,7,7,7,2.0,156,Flash,Smite,16,False,13118,10750,Dead Man's Plate,Abyssal Scepter,Kindlegem,The Dark Seal,Enchantment: Runic Echoes,Sorcerer's Shoes,125641,37058,Lane.jungle,Role.none
+9,bvcx222,Lux,True,Side.red,3,3,16,6.333333333333333,35,Flash,Ignite,13,False,10560,8970,Eye of the Watchers,,Negatron Cloak,Void Staff,Mejai's Soulstealer,Sorcerer's Shoes,25754,4244,Lane.bot_lane,Role.support

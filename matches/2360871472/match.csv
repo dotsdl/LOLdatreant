@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tonpole,Heimerdinger,False,Side.blue,4,2,5,4.5,156,Exhaust,Flash,14,False,8689,8000,Doran's Ring,Zz'Rot Portal,Sorcerer's Shoes,,The Dark Seal,Rylai's Crystal Scepter,63692,10074,Lane.mid_lane,Role.solo
+1,Quest and K0,Pantheon,False,Side.blue,9,8,3,1.5,91,Flash,Ignite,11,False,8735,8120,The Black Cleaver,Youmuu's Ghostblade,Chain Vest,Refillable Potion,Boots of Speed,Negatron Cloak,4102,54441,Lane.top_lane,Role.solo
+2,Soulo Q,Alistar,False,Side.blue,0,8,6,0.75,35,Exhaust,Flash,10,False,6029,5550,Redemption,Eye of the Equinox,,Boots of Mobility,,,10986,3209,Lane.bot_lane,Role.support
+3,Hyosung,Rek'Sai,False,Side.blue,3,11,5,0.7272727272727273,123,Flash,Smite,12,False,8289,7850,Enchantment: Cinderhulk,Titanic Hydra,Ruby Crystal,Chain Vest,Boots of Speed,Control Ward,10538,85121,Lane.jungle,Role.none
+4,NOWIVEGOTYOU,Jinx,False,Side.blue,1,9,3,0.4444444444444444,161,Flash,Heal,11,False,8052,7800,Doran's Blade,Infinity Edge,,Runaan's Hurricane,,Berserker's Greaves,591,66386,Lane.bot_lane,Role.carry
+5,CelticsPwn,Twitch,True,Side.red,8,4,7,3.75,157,Flash,Heal,14,False,11743,9450,Doran's Blade,Infinity Edge,Bilgewater Cutlass,Runaan's Hurricane,Berserker's Greaves,,53,103934,Lane.bot_lane,Role.carry
+6,Fàkèr  ,Jayce,True,Side.red,9,8,9,2.25,168,Teleport,Flash,14,True,12011,11275,Lord Dominik's Regards,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Vampiric Scepter,Long Sword,16193,108685,Lane.top_lane,Role.solo
+7,Shimatora,Graves,True,Side.red,8,1,10,18.0,211,Smite,Flash,15,False,13546,11350,Infinity Edge,Refillable Potion,Phantom Dancer,Phage,Berserker's Greaves,Enchantment: Warrior,4929,195768,Lane.jungle,Role.none
+8,Autumn Clouds,Karma,True,Side.red,1,1,17,18.0,12,Flash,Exhaust,12,False,8752,7225,Control Ward,Redemption,Eye of the Watchers,Aether Wisp,Forbidden Idol,Boots of Mobility,16741,5946,Lane.bot_lane,Role.support
+9,SoJay,Twisted Fate,True,Side.red,12,4,16,7.0,146,Ghost,Flash,14,False,12971,11360,Aether Wisp,Sheen,Zhonya's Hourglass,Morellonomicon,Boots of Swiftness,Mejai's Soulstealer,96987,13847,Lane.mid_lane,Role.solo

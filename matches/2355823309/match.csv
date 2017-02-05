@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Myloo,Poppy,True,Side.blue,3,4,4,1.75,181,Flash,Teleport,14,False,10550,9350,Ninja Tabi,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Spectre's Cowl,Kindlegem,35725,80513,Lane.top_lane,Role.solo
+1,MrStingYoGirl,Skarner,True,Side.blue,4,2,11,7.5,143,Smite,Flash,14,False,11054,9558,Enchantment: Cinderhulk,Hunter's Potion,Jaurim's Fist,Trinity Force,Long Sword,Mercury's Treads,40161,70454,Lane.jungle,Role.none
+2,Ntz dOdObee,Thresh,True,Side.blue,1,7,22,3.2857142857142856,25,Ignite,Flash,13,False,8799,6525,Locket of the Iron Solari,Crystalline Bracer,Ruby Sightstone,Boots of Mobility,Control Ward,Relic Shield,7881,5309,Lane.bot_lane,Role.support
+3,SKY Fear,Varus,True,Side.blue,18,3,8,8.666666666666666,207,Flash,Heal,15,True,16307,14000,Infinity Edge,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Essence Reaver,Vampiric Scepter,9233,166390,Lane.bot_lane,Role.carry
+4,friendly eu guy,Nasus,True,Side.blue,6,3,13,6.333333333333333,188,Ghost,Flash,15,False,13078,13355,Luden's Echo,Frost Queen's Claim,Void Staff,Doran's Ring,Sorcerer's Shoes,Blasting Wand,106286,26786,Lane.mid_lane,Role.solo
+5,LOD,Vayne,False,Side.red,3,7,4,1.0,159,Flash,Heal,12,False,9462,9250,Doran's Blade,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Statikk Shiv,,18470,61490,Lane.bot_lane,Role.carry
+6,Akaadian,Graves,False,Side.red,7,5,8,3.0,183,Flash,Smite,15,False,11976,11675,Enchantment: Warrior,Death's Dance,Phantom Dancer,Mercury's Treads,Phage,Long Sword,5743,169283,Lane.jungle,Role.none
+7,Prestivent,Bard,False,Side.red,3,8,12,1.875,14,Flash,Ignite,12,False,8158,7750,Locket of the Iron Solari,Redemption,Spellthief's Edge,Control Ward,Ionian Boots of Lucidity,Ruby Sightstone,11586,4047,Lane.bot_lane,Role.support
+8,Pekin Woof,Yorick,False,Side.red,4,5,1,1.0,178,Flash,Teleport,13,False,9366,8658,Trinity Force,Corrupting Potion,Dead Man's Plate,Mercury's Treads,Long Sword,,13152,89135,Lane.top_lane,Role.solo
+9,BabièThug,Orianna,False,Side.red,2,7,6,1.1428571428571428,215,Flash,Ghost,14,False,9575,9720,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,112425,12754,Lane.mid_lane,Role.solo

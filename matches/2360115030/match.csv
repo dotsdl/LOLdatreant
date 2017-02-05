@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NEACE  Eeeee,Poppy,False,Side.blue,0,8,2,0.25,85,Flash,Teleport,10,False,4969,3950,Corrupting Potion,Boots of Speed,Bami's Cinder,Glacial Shroud,Sheen,,8694,31882,Lane.top_lane,Role.solo
+1,Jordanian Sniper,Jhin,False,Side.blue,3,3,2,1.6666666666666667,118,Flash,Ghost,11,False,6453,5750,Maw of Malmortius,Health Potion,B. F. Sword,,Boots of Speed,Doran's Blade,4327,49865,Lane.mid_lane,Role.solo
+2,HARUHI S3 PLS,Hecarim,False,Side.blue,2,7,1,0.42857142857142855,107,Smite,Ghost,11,False,6263,5433,Skirmisher's Sabre,Trinity Force,,Boots of Speed,,,9072,69093,Lane.jungle,Role.none
+3,Hècarim,Janna,False,Side.blue,0,2,2,1.0,2,Exhaust,Flash,8,False,4035,3525,Nomad's Medallion,Sightstone,Forbidden Idol,Boots of Speed,Ruby Crystal,Rejuvenation Bead,1432,603,Lane.bot_lane,Role.support
+4,Vermillion2,Jinx,False,Side.blue,2,6,1,0.5,115,Heal,Flash,10,False,5865,5650,Total Biscuit of Rejuvenation,Doran's Blade,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,,442,46283,Lane.bot_lane,Role.carry
+5,Ken Kire Koth,Riven,True,Side.red,10,1,1,11.0,158,Flash,Teleport,13,False,9886,9150,Tiamat,The Black Cleaver,Youmuu's Ghostblade,Ninja Tabi,Long Sword,Control Ward,0,97403,Lane.top_lane,Role.solo
+6,FirstTimeCaitlyn,Caitlyn,True,Side.red,4,0,1,5.0,168,Heal,Flash,12,False,9766,8300,Doran's Blade,Infinity Edge,Cull,Berserker's Greaves,Runaan's Hurricane,,58,101923,Lane.bot_lane,Role.carry
+7,Cotopaco Parce,Katarina,True,Side.red,7,3,2,3.0,119,Ignite,Flash,12,False,8625,5600,Doran's Shield,Refillable Potion,Hextech Gunblade,Needlessly Large Rod,,,61054,10810,Lane.jungle,Role.none
+8,Quikk,Bard,True,Side.red,1,1,8,9.0,14,Flash,Ignite,10,True,7388,4850,,Ruby Sightstone,Frost Queen's Claim,,,Boots of Mobility,11566,6956,Lane.bot_lane,Role.support
+9,Henchey,Vi,True,Side.red,4,2,4,4.0,96,Smite,Flash,13,False,8731,5300,Enchantment: Warrior,Boots of Speed,Sheen,Stinger,Refillable Potion,,738,97267,Lane.jungle,Role.none

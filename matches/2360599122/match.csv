@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Chicky Nuggy,Tahm Kench,False,Side.blue,1,4,1,0.5,125,Teleport,Flash,11,True,6369,5700,Doran's Shield,Sunfire Cape,Jaurim's Fist,Ninja Tabi,,,42281,15279,Lane.top_lane,Role.solo
+1,dog2,Caitlyn,False,Side.blue,3,4,1,1.0,196,Flash,Heal,11,False,8598,8150,Runaan's Hurricane,Total Biscuit of Rejuvenation,Infinity Edge,Berserker's Greaves,Doran's Blade,Dagger,1053,94692,Lane.bot_lane,Role.carry
+2,Maaka,Lulu,False,Side.blue,0,4,4,1.0,9,Exhaust,Flash,10,False,4590,4050,Crystalline Bracer,Sightstone,Control Ward,Spellthief's Edge,Forbidden Idol,Boots of Mobility,6505,2843,Lane.bot_lane,Role.support
+3,Palmgoat,Twisted Fate,False,Side.blue,2,4,2,1.0,95,Ghost,Flash,10,False,6258,5475,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Needlessly Large Rod,,,42384,6563,Lane.mid_lane,Role.solo
+4,whymydu1youshiSB,Kha'Zix,False,Side.blue,1,3,2,1.0,103,Smite,Flash,11,False,6368,5950,Caulfield's Warhammer,Tiamat,Refillable Potion,Enchantment: Warrior,Long Sword,Boots of Speed,2163,76857,Lane.jungle,Role.none
+5,CC Hollywood,Lux,True,Side.red,9,0,4,13.0,206,Ghost,Flash,14,False,11640,11125,Blasting Wand,Morellonomicon,Luden's Echo,Mejai's Soulstealer,Needlessly Large Rod,Ionian Boots of Lucidity,104542,16463,Lane.mid_lane,Role.solo
+6,Stumpey,Jayce,True,Side.red,3,3,4,2.3333333333333335,159,Flash,Teleport,13,False,9028,8275,Youmuu's Ghostblade,Refillable Potion,Doran's Blade,The Black Cleaver,Mercury's Treads,Cull,15343,73966,Lane.top_lane,Role.solo
+7,UptownSM,Alistar,True,Side.red,0,2,3,1.5,37,Flash,Exhaust,10,False,5664,4950,Boots of Mobility,Crystalline Bracer,Forbidden Idol,Eye of the Equinox,,,5469,5121,Lane.bot_lane,Role.support
+8,Laserhard,Rek'Sai,True,Side.red,7,0,3,10.0,118,Smite,Flash,13,False,9794,9725,Ninja Tabi,Titanic Hydra,Caulfield's Warhammer,Enchantment: Cinderhulk,Phage,,15918,95794,Lane.jungle,Role.none
+9,TSC Wings,Vayne,True,Side.red,0,2,3,1.5,123,Flash,Heal,12,False,6901,6375,Infinity Edge,Berserker's Greaves,Brawler's Gloves,Dagger,Doran's Blade,Dagger,0,44224,Lane.bot_lane,Role.carry

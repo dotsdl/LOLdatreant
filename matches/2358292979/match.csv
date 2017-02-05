@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,owowowowowowowo,Malphite,False,Side.blue,0,4,6,1.5,127,Teleport,Flash,12,False,6941,6175,Sunfire Cape,Corrupting Potion,Control Ward,Mercury's Treads,Ruby Crystal,Spectre's Cowl,34004,18303,Lane.top_lane,Role.solo
+1,TheKushGuy,Lee Sin,False,Side.blue,9,8,5,1.75,98,Smite,Flash,13,True,9457,8950,Enchantment: Warrior,Giant's Belt,Boots of Swiftness,Hexdrinker,Dead Man's Plate,,20083,66456,Lane.jungle,Role.none
+2,Pekin Woof,Ryze,False,Side.blue,3,5,4,1.4,155,Flash,Ghost,12,False,7726,7075,Archangel's Staff,Refillable Potion,,,Ionian Boots of Lucidity,Rod of Ages,81693,5816,Lane.mid_lane,Role.solo
+3,C9 Lemon,Karma,False,Side.blue,1,8,10,1.375,17,Ignite,Flash,10,False,6132,5300,Forbidden Idol,Refillable Potion,The Dark Seal,Eye of the Watchers,Ruby Crystal,Ionian Boots of Lucidity,14976,3243,Lane.bot_lane,Role.support
+4,Féarless,Lucian,False,Side.blue,4,5,5,1.8,154,Heal,Flash,11,False,8643,7850,Cull,The Black Cleaver,Phantom Dancer,Doran's Blade,Berserker's Greaves,,1792,70108,Lane.bot_lane,Role.carry
+5,Entranced,Nasus,True,Side.red,3,3,8,3.6666666666666665,174,Teleport,Flash,13,False,9906,8400,Zz'Rot Portal,Corrupting Potion,Spirit Visage,Mercury's Treads,Hexdrinker,,50043,29987,Lane.top_lane,Role.solo
+6,goldenglue,Syndra,True,Side.red,11,2,9,10.0,168,Ghost,Flash,14,False,12403,10375,Rabadon's Deathcap,Mejai's Soulstealer,,Doran's Ring,Morellonomicon,Sorcerer's Shoes,105956,10023,Lane.mid_lane,Role.solo
+7,SquirreI,Twitch,True,Side.red,8,2,6,7.0,139,Flash,Heal,13,False,10800,9250,Doran's Blade,Infinity Edge,Last Whisper,Berserker's Greaves,Runaan's Hurricane,,0,77269,Lane.bot_lane,Role.carry
+8,Juanfucius,Graves,True,Side.red,4,4,6,2.5,113,Smite,Flash,13,False,9619,8050,Phage,Zeal,Long Sword,Vampiric Scepter,Enchantment: Warrior,Mercury's Treads,3860,105223,Lane.jungle,Role.none
+9,Tsùki,Bard,True,Side.red,4,6,17,3.5,10,Flash,Ignite,12,False,8691,7500,Eye of the Watchers,Forbidden Idol,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,,11718,5327,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MoneyOrLife,Cassiopeia,True,Side.blue,1,0,0,1.0,12,Flash,Cleanse,3,True,1312,500,Doran's Ring,,,,,,2350,1567,Lane.mid_lane,Role.solo
+1,Pherix,Kled,True,Side.blue,0,0,0,0.0,12,Flash,Teleport,3,False,909,500,Doran's Blade,,,,,,0,3089,Lane.top_lane,Role.solo
+2,iubanana,Lee Sin,True,Side.blue,0,0,0,0.0,11,Flash,Smite,3,False,1074,500,Hunter's Machete,Refillable Potion,,,,,147,7343,Lane.jungle,Role.none
+3,Asgea,Vayne,True,Side.blue,0,0,0,0.0,9,Heal,Flash,2,False,830,500,Doran's Blade,,,,,,0,3281,Lane.bot_lane,Role.duo
+4,Lovelights,Janna,True,Side.blue,0,0,0,0.0,0,Flash,Exhaust,2,False,793,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,54,1019,Lane.bot_lane,Role.duo
+5,Jurassiq,Varus,False,Side.red,0,0,0,0.0,11,Flash,Heal,2,False,864,500,Health Potion,Doran's Blade,,,,,0,3180,Lane.bot_lane,Role.duo
+6,Lycheeeeeeee,Karma,False,Side.red,0,0,0,0.0,1,Exhaust,Flash,2,False,789,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,1476,260,Lane.bot_lane,Role.duo
+7,GangstaEnigma,Skarner,False,Side.red,0,0,0,0.0,0,Flash,Teleport,1,False,662,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+8,Please Fade,LeBlanc,False,Side.red,0,1,0,0.0,11,Teleport,Flash,3,False,870,500,,Doran's Ring,,,,,1914,1793,Lane.mid_lane,Role.duo
+9,SolarEnergy,Malphite,False,Side.red,0,0,0,0.0,6,Flash,Teleport,2,False,776,500,Corrupting Potion,,,,,,814,752,Lane.top_lane,Role.solo

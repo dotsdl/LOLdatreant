@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Banshee Rush,Thresh,True,Side.blue,2,3,18,6.666666666666667,13,Ignite,Flash,12,False,7786,6600,Relic Shield,Ruby Sightstone,Knight's Vow,Null-Magic Mantle,Boots of Mobility,Control Ward,8371,6462,Lane.bot_lane,Role.support
+1,gLucy,Ezreal,True,Side.blue,9,2,13,11.0,129,Flash,Heal,13,True,10780,9150,Muramana,Bilgewater Cutlass,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,Recurve Bow,13219,74476,Lane.bot_lane,Role.carry
+2,Nëbu,Ekko,True,Side.blue,8,8,11,2.375,123,Flash,Teleport,13,False,10066,8560,Sorcerer's Shoes,Corrupting Potion,Hextech Protobelt-01,The Dark Seal,Lich Bane,Amplifying Tome,72061,10555,Lane.mid_lane,Role.solo
+3,Ranksexual,Jayce,True,Side.blue,2,5,14,3.2,143,Flash,Teleport,13,False,9407,9125,Pickaxe,The Black Cleaver,Edge of Night,Ionian Boots of Lucidity,Doran's Blade,Long Sword,10470,70010,Lane.top_lane,Role.solo
+4,Feitan,Rengar,True,Side.blue,17,5,7,4.8,142,Smite,Flash,14,False,14103,12475,Mercury's Treads,Cloak of Agility,Enchantment: Warrior,Youmuu's Ghostblade,The Black Cleaver,B. F. Sword,9006,149555,Lane.jungle,Role.none
+5,IAmArray,Lee Sin,False,Side.red,4,8,11,1.875,101,Flash,Smite,12,False,8065,7475,Ninja Tabi,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,Ruby Crystal,Cloth Armor,16020,69957,Lane.jungle,Role.none
+6,Happy Birfdizzay,Fizz,False,Side.red,8,7,7,2.142857142857143,133,Flash,Ignite,12,False,9212,9250,Fiendish Codex,Corrupting Potion,Sorcerer's Shoes,The Dark Seal,Lich Bane,Morellonomicon,48261,16888,Lane.mid_lane,Role.solo
+7,cat and bird,Pantheon,False,Side.red,2,7,7,1.2857142857142858,137,Ignite,Flash,13,False,7637,7475,Youmuu's Ghostblade,Corrupting Potion,Control Ward,The Black Cleaver,,Boots of Mobility,4347,62119,Lane.top_lane,Role.solo
+8,Lerky,Alistar,False,Side.red,0,7,14,2.0,30,Exhaust,Flash,11,False,6005,5375,Relic Shield,Boots of Mobility,Ruby Sightstone,Redemption,,,7979,5911,Lane.bot_lane,Role.support
+9,Expression,Twitch,False,Side.red,8,9,7,1.6666666666666667,108,Heal,Flash,12,False,8704,8700,Infinity Edge,Runaan's Hurricane,Brawler's Gloves,Dagger,Doran's Blade,Berserker's Greaves,0,61535,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tobias Fate,Gangplank,True,Side.blue,8,0,5,13.0,226,Flash,Exhaust,16,False,13784,12933,The Dark Seal,Youmuu's Ghostblade,Zeal,Trinity Force,Corrupting Potion,Infinity Edge,9724,189510,Lane.mid_lane,Role.solo
+1,Imaqtpie,Vayne,True,Side.blue,6,5,11,3.4,233,Flash,Heal,15,False,13152,12700,Blade of the Ruined King,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Zeal,22358,110695,Lane.bot_lane,Role.carry
+2,Imaokai,Twitch,True,Side.blue,7,5,7,2.8,112,Ignite,Smite,14,True,11262,10275,Statikk Shiv,Infinity Edge,Boots of Mobility,Runaan's Hurricane,,,2076,112325,Lane.jungle,Role.none
+3,PutYourHeartsUp,Akali,True,Side.blue,11,5,6,3.4,193,Flash,Teleport,16,False,12769,11220,Hextech Gunblade,Zhonya's Hourglass,,Negatron Cloak,Void Staff,Sorcerer's Shoes,41347,81965,Lane.top_lane,Role.solo
+4,Gerrard,Karma,True,Side.blue,1,6,18,3.1666666666666665,8,Flash,Exhaust,13,False,8595,7800,Eye of the Watchers,Mikael's Crucible,Redemption,Ionian Boots of Lucidity,,,9658,4222,Lane.bot_lane,Role.support
+5,Rapidx,Tristana,False,Side.red,1,6,1,0.3333333333333333,155,Flash,Heal,12,False,8085,7900,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,19412,57088,Lane.bot_lane,Role.carry
+6,onetricking1,Riven,False,Side.red,3,5,0,0.6,231,Flash,Ignite,14,False,9924,8825,Ionian Boots of Lucidity,Tiamat,,,Maw of Malmortius,The Black Cleaver,0,122936,Lane.top_lane,Role.solo
+7,Kitzuø,Olaf,False,Side.red,8,4,7,3.75,124,Smite,Ghost,15,False,10583,10400,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Dead Man's Plate,Spirit Visage,Chain Vest,,17961,98259,Lane.jungle,Role.none
+8,Témpest,LeBlanc,False,Side.red,9,7,3,1.7142857142857142,157,Flash,Ignite,15,False,10281,9400,Zhonya's Hourglass,Morellonomicon,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,69670,11936,Lane.mid_lane,Role.solo
+9,OpenBackpack,Brand,False,Side.red,0,11,6,0.5454545454545454,15,Flash,Ignite,11,False,6704,6285,Eye of the Watchers,Needlessly Large Rod,Control Ward,Sorcerer's Shoes,Ruby Crystal,Amplifying Tome,22557,3477,Lane.bot_lane,Role.support

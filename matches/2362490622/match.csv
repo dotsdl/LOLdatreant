@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,coolifornia,Ryze,True,Side.blue,2,0,3,5.0,161,Ghost,Flash,13,False,7913,7635,Archangel's Staff,Rod of Ages,Refillable Potion,Amplifying Tome,Needlessly Large Rod,,83171,8810,Lane.top_lane,Role.solo
+1,a very brad time,Soraka,True,Side.blue,0,0,8,8.0,3,Flash,Exhaust,9,False,5027,4700,Redemption,Eye of the Oasis,Control Ward,,,Boots of Speed,2135,1418,Lane.bot_lane,Role.support
+2,Chris DoImeth,Zed,True,Side.blue,12,1,4,16.0,123,Ignite,Flash,13,False,9529,8150,Youmuu's Ghostblade,Ninja Tabi,Maw of Malmortius,Long Sword,Long Sword,,6104,70888,Lane.mid_lane,Role.solo
+3,Solarae,Lee Sin,True,Side.blue,7,0,9,16.0,80,Smite,Flash,12,True,8820,6250,Refillable Potion,Enchantment: Warrior,Hexdrinker,Boots of Speed,Giant's Belt,Chain Vest,16779,71891,Lane.jungle,Role.none
+4,Duchess of York,Jhin,True,Side.blue,1,0,2,3.0,194,Heal,Flash,11,False,8001,6375,Doran's Blade,Control Ward,Boots of Swiftness,B. F. Sword,Essence Reaver,,3223,86390,Lane.bot_lane,Role.carry
+5,Wizikz,Hecarim,False,Side.red,1,4,0,0.25,99,Smite,Ghost,10,False,5669,5275,Skirmisher's Sabre,Hunter's Potion,Ninja Tabi,Stinger,Phage,Sapphire Crystal,7416,68996,Lane.jungle,Role.none
+6,loveyen,Janna,False,Side.red,0,4,0,0.0,0,Flash,Exhaust,8,False,3718,2825,Nomad's Medallion,Boots of Speed,Crystalline Bracer,Forbidden Idol,,,1612,1403,Lane.bot_lane,Role.support
+7,Diepset2g,Nasus,False,Side.red,0,4,0,0.0,132,Teleport,Flash,11,False,5676,5445,Corrupting Potion,Raptor Cloak,Mercury's Treads,Negatron Cloak,Doran's Ring,Sheen,47075,21881,Lane.top_lane,Role.solo
+8,Astray Lamb,Cassiopeia,False,Side.red,0,7,1,0.14285714285714285,121,Exhaust,Flash,10,False,5640,5975,Zhonya's Hourglass,Refillable Potion,Tear of the Goddess,Doran's Ring,Doran's Ring,,44104,6305,Lane.mid_lane,Role.solo
+9,Griffinmeister,Ezreal,False,Side.red,0,3,0,0.0,154,Flash,Heal,10,False,5901,5475,Manamune,Refillable Potion,Sheen,Boots of Speed,Doran's Blade,Glacial Shroud,8647,54886,Lane.bot_lane,Role.carry

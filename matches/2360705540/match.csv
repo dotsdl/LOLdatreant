@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am tham ben em,Olaf,False,Side.blue,7,2,9,8.0,177,Ghost,Smite,16,True,12865,12625,Ionian Boots of Lucidity,Thornmail,Randuin's Omen,Dead Man's Plate,Enchantment: Cinderhulk,,32554,106450,Lane.bot_lane,Role.none
+1,KevFun,Jhin,False,Side.blue,3,11,8,1.0,182,Heal,Flash,14,False,11413,10025,Doran's Blade,Essence Reaver,B. F. Sword,Pickaxe,Boots of Swiftness,Rapid Firecannon,10121,126526,Lane.bot_lane,Role.none
+2,Rhoeth,Maokai,False,Side.blue,7,3,7,4.666666666666667,210,Teleport,Flash,16,False,12395,13675,Doran's Ring,Sunfire Cape,Thornmail,Ninja Tabi,Spirit Visage,Giant's Belt,113270,21158,Lane.top_lane,Role.solo
+3,Ay LiL Mayo,Orianna,False,Side.blue,14,6,8,3.6666666666666665,204,Heal,Flash,15,False,14539,12635,Needlessly Large Rod,Morellonomicon,Rabadon's Deathcap,Ionian Boots of Lucidity,Void Staff,Amplifying Tome,129939,14392,Lane.mid_lane,Role.solo
+4,ubernewbz,Bard,False,Side.blue,0,10,20,2.0,12,Flash,Exhaust,14,False,9031,7700,Frost Queen's Claim,Ruby Sightstone,Boots of Mobility,Redemption,Cloth Armor,,13167,4978,Lane.bot_lane,Role.none
+5,Mishas Swamp,Lee Sin,True,Side.red,4,8,6,1.25,202,Teleport,Flash,16,False,12149,11225,Mercury's Treads,Spirit Visage,The Black Cleaver,Ravenous Hydra,Refillable Potion,,32195,112190,Lane.top_lane,Role.solo
+6,Baby Biek,Nami,True,Side.red,2,4,20,5.5,17,Exhaust,Flash,15,False,10984,10175,Redemption,Mikael's Crucible,Locket of the Iron Solari,Control Ward,Boots of Mobility,Eye of the Watchers,11632,6172,Lane.bot_lane,Role.support
+7,Deenie,Caitlyn,True,Side.red,14,3,8,7.333333333333333,273,Flash,Heal,16,False,17579,15075,B. F. Sword,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Lord Dominik's Regards,12121,254794,Lane.bot_lane,Role.carry
+8,rehzyy,Hecarim,True,Side.red,6,8,8,1.75,181,Ghost,Smite,15,False,12840,12500,Youmuu's Ghostblade,Enchantment: Warrior,Rapid Firecannon,Ionian Boots of Lucidity,Duskblade of Draktharr,,17118,129024,Lane.jungle,Role.none
+9,Jynsin,Corki,True,Side.red,6,8,6,1.5,150,Flash,Ignite,14,False,11516,11058,Doran's Blade,Trinity Force,Hextech Gunblade,Sorcerer's Shoes,Pickaxe,B. F. Sword,82874,26470,Lane.mid_lane,Role.solo

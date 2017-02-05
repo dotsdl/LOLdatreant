@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vincente Vu,Twitch,True,Side.blue,7,1,6,13.0,182,Flash,Heal,12,False,10500,8500,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Brawler's Gloves,,Doran's Blade,0,83576,Lane.bot_lane,Role.carry
+1,moon o,Kha'Zix,True,Side.blue,9,1,8,17.0,100,Smite,Flash,13,True,9224,7275,Enchantment: Warrior,Refillable Potion,Edge of Night,,Ionian Boots of Lucidity,Long Sword,5470,109292,Lane.jungle,Role.none
+2,Pekin Woof,Ryze,True,Side.blue,6,2,8,7.0,175,Flash,Ghost,14,False,9327,7075,Archangel's Staff,Control Ward,Rod of Ages,Ionian Boots of Lucidity,Refillable Potion,,92611,5778,Lane.mid_lane,Role.solo
+3,Hi Im A Sheep,Karma,True,Side.blue,2,2,15,8.5,9,Flash,Ignite,11,False,6533,5325,Eye of the Watchers,,The Dark Seal,Forbidden Idol,Crystalline Bracer,Ionian Boots of Lucidity,9073,7024,Lane.bot_lane,Role.support
+4,Lose is improved,Nautilus,True,Side.blue,3,2,2,2.5,142,Teleport,Flash,13,False,7495,6325,Doran's Shield,Corrupting Potion,Glacial Shroud,Sunfire Cape,Cloth Armor,Ninja Tabi,52554,15263,Lane.top_lane,Role.solo
+5,Deft Pawn,Jayce,False,Side.red,1,5,1,0.4,168,Teleport,Flash,12,False,6886,6775,Refillable Potion,The Black Cleaver,Control Ward,Boots of Speed,Manamune,Long Sword,12314,77566,Lane.top_lane,Role.solo
+6,CloudNguyén,Bard,False,Side.red,2,6,2,0.6666666666666666,16,Ignite,Flash,10,False,5034,4225,Eye of the Watchers,Cloth Armor,Null-Magic Mantle,Boots of Mobility,,,9581,3849,Lane.bot_lane,Role.support
+7,WildTurtle,Vayne,False,Side.red,2,7,2,0.5714285714285714,145,Flash,Heal,10,False,6798,6675,Berserker's Greaves,Statikk Shiv,Pickaxe,Doran's Blade,B. F. Sword,,0,55189,Lane.bot_lane,Role.carry
+8,qldurtms,Lee Sin,False,Side.red,0,6,2,0.3333333333333333,92,Flash,Smite,11,False,6008,5200,Boots of Speed,Long Sword,Control Ward,Enchantment: Warrior,Tiamat,Long Sword,9449,68198,Lane.jungle,Role.none
+9,ZatsMod,Syndra,False,Side.red,3,3,0,1.0,160,Flash,Ghost,12,False,7305,6810,Doran's Ring,Needlessly Large Rod,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,77735,9261,Lane.mid_lane,Role.solo

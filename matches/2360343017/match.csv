@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Instinct 4 Life,Vayne,True,Side.blue,5,5,5,2.0,110,Heal,Flash,13,False,9916,9500,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Rapid Firecannon,Zeal,Dagger,171,60125,Lane.bot_lane,Role.carry
+1,Semoponume,Darius,True,Side.blue,6,1,4,10.0,166,Ghost,Flash,15,False,11115,9625,The Black Cleaver,Kindlegem,Spectre's Cowl,Dead Man's Plate,Mercury's Treads,,259,97749,Lane.top_lane,Role.solo
+2,WatchThePower,Rengar,True,Side.blue,11,3,8,6.333333333333333,148,Flash,Smite,15,False,13174,11525,Enchantment: Warrior,Tiamat,Ninja Tabi,Death's Dance,Spirit Visage,,14505,146037,Lane.jungle,Role.none
+3,Hugh jj,Fiddlesticks,True,Side.blue,2,5,5,1.4,46,Exhaust,Flash,11,False,8577,7775,Sightstone,Redemption,Zz'Rot Portal,Frostfang,,Boots of Mobility,39196,5916,Lane.bot_lane,Role.support
+4,Terrorist Ziggs,Ziggs,True,Side.blue,8,6,7,2.5,184,Flash,Teleport,15,False,12169,8660,Doran's Ring,The Dark Seal,Seraph's Embrace,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,126468,8250,Lane.mid_lane,Role.solo
+5,ZosHa,Rek'Sai,False,Side.red,1,5,5,1.2,127,Flash,Smite,13,False,8443,8050,Tiamat,Dead Man's Plate,Refillable Potion,Mercury's Treads,,Enchantment: Cinderhulk,16797,78269,Lane.jungle,Role.none
+6,Im bad k,Morgana,False,Side.red,4,4,5,2.25,33,Flash,Exhaust,11,False,8223,7725,Frost Queen's Claim,Sightstone,Morellonomicon,Boots of Swiftness,,,29366,5953,Lane.bot_lane,Role.support
+7,Saucy Sells,Yorick,False,Side.red,0,5,0,0.0,192,Teleport,Ghost,13,False,8422,8125,Mercury's Treads,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Ruby Crystal,Null-Magic Mantle,29374,65416,Lane.top_lane,Role.solo
+8,Rekyn,LeBlanc,False,Side.red,8,10,4,1.2,117,Flash,Ignite,13,True,9169,8935,Morellonomicon,Amplifying Tome,Boots of Speed,Luden's Echo,Doran's Ring,Needlessly Large Rod,67727,6305,Lane.mid_lane,Role.solo
+9,Ályssa,Ezreal,False,Side.red,7,8,5,1.5,163,Flash,Heal,12,False,10432,9983,Manamune,Doran's Blade,Bilgewater Cutlass,Cull,Trinity Force,Berserker's Greaves,7699,64333,Lane.bot_lane,Role.carry

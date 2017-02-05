@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Daarr,Graves,True,Side.blue,3,2,4,3.5,151,Flash,Smite,13,False,8873,8125,Enchantment: Warrior,Mercury's Treads,Refillable Potion,Hexdrinker,Phantom Dancer,Ruby Crystal,3870,118656,Lane.jungle,Role.none
+1,Riesig,Lissandra,True,Side.blue,1,2,1,1.0,185,Flash,Teleport,13,False,7689,6485,Amplifying Tome,Hextech GLP-800,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Fiendish Codex,86898,10002,Lane.top_lane,Role.solo
+2,Youuuuuuuuuuuuu,Morgana,True,Side.blue,2,0,15,17.0,15,Exhaust,Flash,12,False,7260,6100,Sightstone,Total Biscuit of Rejuvenation,Frost Queen's Claim,Forbidden Idol,Crystalline Bracer,Boots of Mobility,16552,8656,Lane.bot_lane,Role.support
+3,C9 Sneaky,Twitch,True,Side.blue,13,0,2,15.0,204,Flash,Heal,13,False,12136,10775,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Phantom Dancer,,0,112380,Lane.bot_lane,Role.carry
+4,Mr Gimix,Ziggs,True,Side.blue,8,3,2,3.3333333333333335,139,Ignite,Flash,13,True,9241,9100,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Refillable Potion,Sheen,,72712,9515,Lane.mid_lane,Role.solo
+5,C9 Lemon,Lulu,False,Side.red,0,6,1,0.16666666666666666,16,Ignite,Flash,8,False,4583,4025,Ruby Crystal,Refillable Potion,Boots of Mobility,Eye of the Watchers,,,8680,2583,Lane.bot_lane,Role.support
+6,Entranced,Shaco,False,Side.red,0,2,3,1.5,145,Teleport,Ignite,13,False,6302,5350,Hextech Protobelt-01,Corrupting Potion,The Dark Seal,Boots of Speed,Doran's Ring,Seeker's Armguard,34937,21146,Lane.top_lane,Role.solo
+7,Carrots2,Vayne,False,Side.red,1,5,0,0.2,150,Flash,Heal,11,False,7155,7000,Doran's Blade,Infinity Edge,Berserker's Greaves,Cull,Zeal,,138,61361,Lane.bot_lane,Role.carry
+8,TheKushGuy,Lee Sin,False,Side.red,6,7,1,1.0,65,Smite,Flash,11,False,6859,6425,Enchantment: Warrior,Hexdrinker,Cloth Armor,Boots of Swiftness,Giant's Belt,,10593,45123,Lane.jungle,Role.none
+9,Anivia Kid,Ryze,False,Side.red,0,7,2,0.2857142857142857,128,Flash,Ghost,11,False,5990,4850,Mercury's Treads,Rod of Ages,Refillable Potion,Tear of the Goddess,,,59909,6754,Lane.mid_lane,Role.solo

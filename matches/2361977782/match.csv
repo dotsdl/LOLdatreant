@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Braums Mustache,Braum,True,Side.blue,1,2,20,10.5,45,Flash,Exhaust,13,False,10010,8750,Boots of Mobility,Ruby Sightstone,Face of the Mountain,Redemption,Aegis of the Legion,Null-Magic Mantle,10380,12863,Lane.bot_lane,Role.support
+1,Lukillz,Lee Sin,True,Side.blue,11,6,9,3.3333333333333335,172,Flash,Smite,15,True,13708,12350,Enchantment: Warrior,Titanic Hydra,Chain Vest,Ninja Tabi,The Black Cleaver,Giant's Belt,21738,132231,Lane.jungle,Role.none
+2,MAMA DO,Miss Fortune,True,Side.blue,5,6,11,2.6666666666666665,176,Heal,Flash,14,False,11236,10925,Youmuu's Ghostblade,Refillable Potion,Boots of Swiftness,The Black Cleaver,Duskblade of Draktharr,,8658,78777,Lane.bot_lane,Role.carry
+3,Big Nasty Weeb,Irelia,True,Side.blue,5,2,12,8.5,161,Flash,Teleport,15,False,11795,10833,Spirit Visage,Trinity Force,Boots of Swiftness,Randuin's Omen,,,3657,79605,Lane.top_lane,Role.solo
+4,Faerie Sovereign,Lux,True,Side.blue,8,5,11,3.8,186,Flash,Barrier,14,False,12785,11050,Morellonomicon,Doran's Ring,The Dark Seal,Rabadon's Deathcap,Void Staff,Aether Wisp,118308,14965,Lane.mid_lane,Role.solo
+5,Miles Storm,Yasuo,False,Side.red,9,6,2,1.8333333333333333,207,Flash,Teleport,14,False,11608,11200,Mercury's Treads,Giant's Belt,Doran's Shield,Phantom Dancer,Infinity Edge,Jaurim's Fist,21090,91715,Lane.top_lane,Role.solo
+6,BonjourLim,Twitch,False,Side.red,0,6,7,1.1666666666666667,177,Heal,Flash,12,False,8953,8725,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Pickaxe,,720,83721,Lane.bot_lane,Role.carry
+7,Sintri,Poppy,False,Side.red,4,6,11,2.5,97,Smite,Flash,13,False,9901,9775,Iceborn Gauntlet,Randuin's Omen,Refillable Potion,Mercury's Treads,,Enchantment: Cinderhulk,21859,63325,Lane.jungle,Role.none
+8,HotCosplayGirl,Leona,False,Side.red,2,7,13,2.142857142857143,45,Flash,Exhaust,12,False,8326,7900,Sightstone,Face of the Mountain,Locket of the Iron Solari,Warden's Mail,Boots of Mobility,,13512,8743,Lane.bot_lane,Role.support
+9,Kristianu,Cassiopeia,False,Side.red,6,5,4,2.0,161,Flash,Ghost,14,False,9785,10030,Rylai's Crystal Scepter,Zhonya's Hourglass,Needlessly Large Rod,Tear of the Goddess,Doran's Ring,Amplifying Tome,78315,8777,Lane.mid_lane,Role.solo

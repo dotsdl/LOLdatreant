@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,eihtooms,Nautilus,True,Side.blue,3,1,11,14.0,106,Flash,Teleport,12,False,7455,6800,Sunfire Cape,Corrupting Potion,Control Ward,Warden's Mail,Giant's Belt,Mercury's Treads,46342,13214,Lane.top_lane,Role.solo
+1,urwong,Bard,True,Side.blue,1,2,16,8.5,17,Exhaust,Flash,10,False,7137,6700,Forbidden Idol,Sightstone,Locket of the Iron Solari,Boots of Swiftness,Frostfang,Crystalline Bracer,7263,4557,Lane.bot_lane,Role.support
+2,FeeIsBoostedMan,Rek'Sai,True,Side.blue,9,1,5,14.0,116,Smite,Flash,13,True,9950,8275,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Ruby Crystal,Long Sword,26577,82209,Lane.jungle,Role.none
+3,feud999,Caitlyn,True,Side.blue,2,2,6,4.0,156,Flash,Heal,11,False,8376,5050,Runaan's Hurricane,B. F. Sword,Doran's Blade,Boots of Speed,Dagger,,298,88483,Lane.bot_lane,Role.carry
+4,Unstopebble,Cassiopeia,True,Side.blue,7,0,8,15.0,157,Flash,Cleanse,13,False,9198,6985,Morellonomicon,Giant's Belt,Tear of the Goddess,Doran's Ring,Needlessly Large Rod,Amplifying Tome,70721,9224,Lane.mid_lane,Role.solo
+5,ChuYung,Jayce,False,Side.red,0,6,1,0.16666666666666666,132,Teleport,Flash,11,False,6282,5675,Doran's Blade,Refillable Potion,The Black Cleaver,Doran's Blade,Serrated Dirk,Boots of Speed,9351,55797,Lane.top_lane,Role.solo
+6,jacksparrow111,Shyvana,False,Side.red,3,5,0,0.6,89,Smite,Flash,10,False,6369,6225,Refillable Potion,Tiamat,Ruby Crystal,Mercury's Treads,Control Ward,Enchantment: Cinderhulk,40199,37629,Lane.jungle,Role.none
+7,The13adGuy,Karma,False,Side.red,0,3,0,0.0,13,Exhaust,Flash,8,False,4221,3775,Boots of Speed,Redemption,Sightstone,Spellthief's Edge,,,14190,1717,Lane.bot_lane,Role.support
+8,Megalomaniacal,Ashe,False,Side.red,1,4,3,1.0,115,Flash,Heal,10,False,6230,5900,Essence Reaver,Doran's Blade,Berserker's Greaves,Dagger,Brawler's Gloves,,416,41865,Lane.bot_lane,Role.carry
+9,Carrots2,Ryze,False,Side.red,1,4,0,0.25,163,Flash,Ghost,12,False,6876,6385,Blasting Wand,Null-Magic Mantle,Rod of Ages,Ionian Boots of Lucidity,Tear of the Goddess,Amplifying Tome,71944,8415,Lane.mid_lane,Role.solo

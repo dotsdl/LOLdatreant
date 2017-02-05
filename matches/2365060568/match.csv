@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,pokimane,Lux,True,Side.blue,11,2,8,9.5,228,Ghost,Flash,16,False,14875,13850,Luden's Echo,Zhonya's Hourglass,Morellonomicon,Doran's Ring,Void Staff,Sorcerer's Shoes,125350,18824,Lane.mid_lane,Role.solo
+1,The Mighty Mead,Graves,True,Side.blue,8,3,11,6.333333333333333,184,Flash,Smite,16,False,14011,13550,Enchantment: Warrior,Death's Dance,Boots of Swiftness,Maw of Malmortius,,Phantom Dancer,7313,193263,Lane.jungle,Role.none
+2,TwittyParker,Veigar,True,Side.blue,2,7,10,1.7142857142857142,51,Exhaust,Flash,14,False,10328,9525,Fiendish Codex,Frost Queen's Claim,Void Staff,Ruby Sightstone,Ionian Boots of Lucidity,Forbidden Idol,58368,3069,Lane.bot_lane,Role.support
+3,HootyBootyBeans,Kled,True,Side.blue,7,3,10,5.666666666666667,230,Teleport,Flash,17,False,13708,11900,Blade of the Ruined King,Titanic Hydra,,Doran's Blade,The Black Cleaver,Mercury's Treads,248,154806,Lane.top_lane,Role.solo
+4,BTTE Akaibara,Ezreal,True,Side.blue,4,3,13,5.666666666666667,171,Flash,Heal,15,False,11927,9625,Doran's Blade,Bilgewater Cutlass,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,Recurve Bow,13555,86342,Lane.bot_lane,Role.carry
+5,JuIius,Twitch,False,Side.red,4,2,9,6.5,303,Heal,Flash,16,False,13394,12325,Vampiric Scepter,Statikk Shiv,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Pickaxe,11558,159657,Lane.bot_lane,Role.carry
+6,rhubarbs,Gragas,False,Side.red,3,6,9,2.0,125,Smite,Flash,14,False,10509,9450,Enchantment: Runic Echoes,Refillable Potion,Ninja Tabi,Iceborn Gauntlet,Spirit Visage,,91034,33520,Lane.jungle,Role.none
+7,moneymike2g,Nasus,False,Side.red,2,9,0,0.2222222222222222,237,Flash,Teleport,15,False,11718,11258,Ninja Tabi,Trinity Force,Thornmail,Zz'Rot Portal,Corrupting Potion,,75330,65466,Lane.top_lane,Role.solo
+8,p3rseus,Braum,False,Side.red,1,5,11,2.4,44,Exhaust,Flash,13,False,8356,8200,Eye of the Equinox,Boots of Swiftness,Knight's Vow,Locket of the Iron Solari,Refillable Potion,,9161,6403,Lane.bot_lane,Role.support
+9,YaMaDiePlz,Ryze,False,Side.red,8,10,4,1.2,227,Flash,Teleport,15,True,13169,11375,Morellonomicon,Seraph's Embrace,Mercury's Treads,Abyssal Scepter,Chain Vest,The Dark Seal,161612,10063,Lane.mid_lane,Role.solo

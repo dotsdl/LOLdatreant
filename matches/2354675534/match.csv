@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dubehavior,Janna,False,Side.blue,1,4,0,0.25,5,Flash,Exhaust,6,False,2727,2775,Crystalline Bracer,Faerie Charm,Faerie Charm,,,,1735,2530,Lane.bot_lane,Role.duo
+1,N810HO,Lucian,False,Side.blue,0,4,0,0.0,53,Flash,Heal,6,False,3034,1800,,Doran's Blade,Caulfield's Warhammer,,,,580,16653,Lane.bot_lane,Role.duo
+2,NG ShadowFrost ,Lee Sin,False,Side.blue,0,4,0,0.0,48,Flash,Smite,7,False,3278,3150,Refillable Potion,Enchantment: Warrior,Boots of Speed,,,,4423,30746,Lane.jungle,Role.none
+3,Hi Im Wolfwood,Nasus,False,Side.blue,1,3,0,0.3333333333333333,85,Flash,Teleport,8,False,3979,3670,Boots of Speed,Negatron Cloak,Doran's Ring,Doran's Ring,Doran's Ring,Raptor Cloak,23064,10483,Lane.mid_lane,Role.solo
+4,Jetricxz,Poppy,False,Side.blue,1,4,0,0.25,50,Teleport,Flash,8,False,3443,2875,Spectre's Cowl,Corrupting Potion,Kindlegem,Boots of Speed,,,768,15608,Lane.top_lane,Role.solo
+5,0 K A Y B O Y S,Rumble,True,Side.red,4,0,8,12.0,101,Flash,Teleport,9,False,6898,5050,Doran's Shield,,,Liandry's Torment,,Sorcerer's Shoes,44593,8443,Lane.top_lane,Role.solo
+6,Get Good Le Bad,Bard,True,Side.red,1,1,11,12.0,3,Ignite,Flash,7,False,4704,3000,Sightstone,Frostfang,,,Boots of Mobility,,3497,4464,Lane.bot_lane,Role.duo
+7,FanatiiLt,Olaf,True,Side.red,7,0,5,12.0,65,Smite,Ghost,9,True,7082,4775,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Catalyst of Aeons,,,5136,52269,Lane.jungle,Role.none
+8,yeniaR,Vayne,True,Side.red,6,0,3,9.0,85,Flash,Heal,9,False,6169,3750,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,B. F. Sword,Dagger,Brawler's Gloves,128,37199,Lane.bot_lane,Role.duo
+9,Anbert,Karma,True,Side.red,1,2,9,5.0,76,Teleport,Flash,9,False,4981,2785,,Amplifying Tome,Lost Chapter,,Fiendish Codex,Doran's Ring,26862,10897,Lane.mid_lane,Role.solo

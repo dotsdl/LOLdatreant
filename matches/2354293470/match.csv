@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,niS eeL ylnO,Lee Sin,False,Side.blue,2,3,1,1.0,51,Flash,Smite,8,False,4270,3900,Enchantment: Warrior,Refillable Potion,Control Ward,Ionian Boots of Lucidity,,,5564,30056,Lane.jungle,Role.none
+1,Vampiredynas,Draven,False,Side.blue,0,5,1,0.2,91,Heal,Flash,8,False,4333,3875,Pickaxe,Doran's Blade,,B. F. Sword,Vampiric Scepter,Boots of Speed,0,33710,Lane.bot_lane,Role.carry
+2,couronne,Riven,False,Side.blue,1,1,1,2.0,98,Flash,Teleport,11,False,4654,4375,Doran's Blade,The Black Cleaver,Long Sword,Boots of Speed,Control Ward,,523,36816,Lane.top_lane,Role.solo
+3,is that Rex,Ahri,False,Side.blue,1,1,0,1.0,76,Ignite,Flash,9,False,4189,3100,Doran's Ring,Needlessly Large Rod,Health Potion,Fiendish Codex,,Boots of Speed,10054,7055,Lane.mid_lane,Role.solo
+4,bvcx222,Blitzcrank,False,Side.blue,1,3,2,1.0,15,Flash,Exhaust,6,False,3532,4085,Needlessly Large Rod,Amplifying Tome,,,,,1150,2680,Lane.bot_lane,Role.support
+5,Vermillion2,Lucian,True,Side.red,7,0,2,9.0,154,Heal,Flash,12,False,9126,7050,Essence Reaver,Doran's Blade,Rapid Firecannon,Boots of Speed,,,2968,75520,Lane.bot_lane,Role.solo
+6,Chairman Rock,Viktor,True,Side.red,4,0,1,5.0,137,Ghost,Flash,11,False,7485,5475,The Hex Core mk-1,Rylai's Crystal Scepter,Refillable Potion,Boots of Speed,Doran's Ring,,52740,13953,Lane.mid_lane,Role.solo
+7,GEN SoonDoBoo,Sejuani,True,Side.red,1,0,1,2.0,80,Smite,Flash,10,False,5918,5175,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Giant's Belt,Cloth Armor,,35180,24260,Lane.jungle,Role.none
+8,JOGViking,Brand,True,Side.red,1,4,6,1.75,11,Flash,Ignite,7,True,5801,5385,Eye of the Watchers,Refillable Potion,The Dark Seal,Amplifying Tome,Ionian Boots of Lucidity,Jaurim's Fist,12231,3274,Lane.jungle,Role.none
+9,Mimii Desuu,Yasuo,True,Side.red,0,2,0,0.0,99,Ignite,Flash,10,False,5485,4375,Doran's Blade,Refillable Potion,Phantom Dancer,,Berserker's Greaves,,16609,38046,Lane.top_lane,Role.solo

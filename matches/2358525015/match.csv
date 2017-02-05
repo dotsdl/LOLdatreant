@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Flashnuk3,Poppy,False,Side.blue,6,5,3,1.8,208,Teleport,Flash,16,False,11171,9350,Sunfire Cape,Corrupting Potion,Iceborn Gauntlet,Spectre's Cowl,Kindlegem,Ninja Tabi,38492,86481,Lane.top_lane,Role.solo
+1,Jhinathan ,Rek'Sai,False,Side.blue,2,3,4,2.0,158,Smite,Flash,12,False,9144,8495,Randuin's Omen,Enchantment: Cinderhulk,Tiamat,Negatron Cloak,,Boots of Swiftness,22504,83871,Lane.jungle,Role.none
+2,Rape Train,Jhin,False,Side.blue,7,5,3,2.0,216,Heal,Flash,13,True,12072,11050,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Maw of Malmortius,,6184,151111,Lane.bot_lane,Role.carry
+3,Oh Justino,Janna,False,Side.blue,1,3,9,3.3333333333333335,13,Flash,Exhaust,12,False,7820,7300,Boots of Mobility,Eye of the Watchers,Forbidden Idol,Crystalline Bracer,,Locket of the Iron Solari,4259,4234,Lane.bot_lane,Role.support
+4,Zv Pickle,Orianna,False,Side.blue,3,7,3,0.8571428571428571,201,Flash,Ghost,13,False,10201,9785,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Luden's Echo,Needlessly Large Rod,Amplifying Tome,104507,12909,Lane.mid_lane,Role.solo
+5,Moon Diana,Diana,True,Side.red,7,2,7,7.0,210,Flash,Teleport,16,False,12742,12300,Rod of Ages,Zhonya's Hourglass,Control Ward,Needlessly Large Rod,Nashor's Tooth,Sorcerer's Shoes,121167,15627,Lane.mid_lane,Role.solo
+6,TSM MiIey Dyrus,Tryndamere,True,Side.red,8,6,3,1.8333333333333333,167,Flash,Ignite,15,False,12181,10000,Doran's Blade,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,Giant Slayer,,66,127033,Lane.top_lane,Role.solo
+7,FlameShotzZ,Lee Sin,True,Side.red,2,3,7,3.0,101,Smite,Flash,14,False,10769,8175,Boots of Mobility,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Spectre's Cowl,Ruby Crystal,17733,102902,Lane.jungle,Role.none
+8,AIways in promos,Vayne,True,Side.red,5,5,1,1.2,241,Heal,Flash,15,False,12716,9475,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Phantom Dancer,Pickaxe,Recurve Bow,67,126275,Lane.bot_lane,Role.carry
+9,s7efen,Blitzcrank,True,Side.red,1,3,10,3.6666666666666665,45,Ignite,Flash,13,False,9293,7275,Control Ward,Eye of the Equinox,Locket of the Iron Solari,Boots of Mobility,,Glacial Shroud,11820,12655,Lane.bot_lane,Role.support

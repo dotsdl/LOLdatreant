@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Noobkiller291,Riven,True,Side.blue,7,3,5,4.0,171,Teleport,Flash,14,False,10784,9175,The Black Cleaver,Tiamat,Refillable Potion,Boots of Swiftness,Maw of Malmortius,Long Sword,0,98633,Lane.top_lane,Role.solo
+1,Unstopebble,Cassiopeia,True,Side.blue,3,1,4,7.0,200,Flash,Ghost,14,False,9891,8000,Seraph's Embrace,Refillable Potion,Doran's Ring,Rylai's Crystal Scepter,Fiendish Codex,,92344,10271,Lane.mid_lane,Role.solo
+2,SquirreI,Twitch,True,Side.blue,1,1,6,7.0,190,Flash,Heal,13,False,9575,8025,Doran's Blade,Runaan's Hurricane,Refillable Potion,Infinity Edge,Berserker's Greaves,,789,91772,Lane.bot_lane,Role.carry
+3,Juanfucius,Hecarim,True,Side.blue,5,2,8,6.5,116,Smite,Ghost,13,False,10259,8533,Enchantment: Cinderhulk,Refillable Potion,Ruby Crystal,Trinity Force,Cloth Armor,Mercury's Treads,14677,97590,Lane.jungle,Role.none
+4,never meme,Lulu,True,Side.blue,1,1,8,9.0,17,Exhaust,Flash,11,False,6863,5375,Redemption,Ruby Sightstone,,Spellthief's Edge,Boots of Mobility,,19755,5786,Lane.bot_lane,Role.support
+5,Szeto 1997,Ezreal,False,Side.red,1,1,2,3.0,182,Heal,Flash,12,False,7608,6250,Doran's Blade,Sheen,Phage,Boots of Speed,Manamune,Cull,11415,64232,Lane.bot_lane,Role.carry
+6,FreeXpHere,Vi,False,Side.red,2,4,2,1.0,102,Flash,Smite,11,False,6957,6725,Enchantment: Warrior,Refillable Potion,The Black Cleaver,,Boots of Speed,Ruby Crystal,1728,86294,Lane.jungle,Role.none
+7,Carrots2,Viktor,False,Side.red,3,5,2,1.0,244,Flash,Exhaust,14,True,9684,8875,Blasting Wand,Refillable Potion,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Perfect Hex Core,125787,15560,Lane.mid_lane,Role.solo
+8,oVo Quangholic,Braum,False,Side.red,0,3,4,1.3333333333333333,33,Flash,Exhaust,10,False,5195,4375,Knight's Vow,Relic Shield,Sightstone,Control Ward,,Boots of Speed,7366,4128,Lane.bot_lane,Role.support
+9,DarkWingsForSale,Katarina,False,Side.red,2,4,1,0.75,125,Flash,Teleport,11,False,6789,6260,Sorcerer's Shoes,,Amplifying Tome,Sunfire Cape,The Dark Seal,Giant's Belt,61307,7293,Lane.top_lane,Role.solo

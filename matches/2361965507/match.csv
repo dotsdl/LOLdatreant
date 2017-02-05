@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LegitADC,Caitlyn,False,Side.blue,2,4,7,2.25,190,Heal,Flash,13,False,10207,9375,Infinity Edge,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Cull,Vampiric Scepter,649,104375,Lane.bot_lane,Role.carry
+1,Master Yi Jungle,Master Yi,False,Side.blue,7,5,3,2.0,149,Smite,Ghost,14,False,10430,9475,Blade of the Ruined King,Caulfield's Warhammer,Berserker's Greaves,Enchantment: Bloodrazor,Serrated Dirk,,1379,115694,Lane.jungle,Role.none
+2,Yuán G,Maokai,False,Side.blue,1,8,9,1.25,55,Teleport,Flash,11,True,7147,6375,Redemption,Sightstone,Boots of Mobility,Targon's Brace,Glacial Shroud,Cloth Armor,27079,5857,Lane.bot_lane,Role.support
+3,AZNDEVIL,Nautilus,False,Side.blue,1,5,3,0.8,170,Teleport,Flash,14,False,8447,8150,Dead Man's Plate,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Chain Vest,,61058,22810,Lane.top_lane,Role.solo
+4,Happo,Kog'Maw,False,Side.blue,5,3,3,2.6666666666666665,198,Flash,Ghost,14,False,10030,9375,Doran's Ring,Archangel's Staff,Morellonomicon,Haunting Guise,,Sorcerer's Shoes,114574,15336,Lane.mid_lane,Role.solo
+5,AsianSGpøtatø,Yasuo,True,Side.red,11,5,2,2.6,248,Flash,Exhaust,16,False,13984,11950,Doran's Blade,Phantom Dancer,Mercury's Treads,Doran's Blade,The Bloodthirster,Infinity Edge,33858,141941,Lane.mid_lane,Role.solo
+6,Calvingod,Janna,True,Side.red,0,3,16,5.333333333333333,9,Exhaust,Flash,12,False,8769,7975,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,,,6678,6944,Lane.bot_lane,Role.support
+7,0 K A Y B O Y S,Vi,True,Side.red,4,4,12,4.0,112,Flash,Smite,15,False,10969,9833,Enchantment: Warrior,Refillable Potion,Giant's Belt,Trinity Force,Ninja Tabi,Warden's Mail,723,124382,Lane.jungle,Role.none
+8,Frederick II,Ashe,True,Side.red,6,3,7,4.333333333333333,202,Flash,Heal,14,False,12952,12330,Doran's Blade,Berserker's Greaves,Essence Reaver,Infinity Edge,Phantom Dancer,Dagger,1934,151904,Lane.bot_lane,Role.carry
+9,Simon Hawkes,Nasus,True,Side.red,4,2,7,5.5,220,Teleport,Flash,15,False,11529,10450,Mejai's Soulstealer,Liandry's Torment,Doran's Ring,Sorcerer's Shoes,Luden's Echo,Blasting Wand,100352,29479,Lane.top_lane,Role.solo

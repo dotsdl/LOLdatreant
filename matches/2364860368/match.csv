@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,skyWtr,Janna,True,Side.blue,1,1,9,10.0,1,Exhaust,Flash,9,False,6198,5125,,Sightstone,Redemption,,Ionian Boots of Lucidity,Frostfang,3811,5113,Lane.bot_lane,Role.support
+1,Frederick II,Ashe,True,Side.blue,5,3,1,2.0,127,Flash,Heal,10,False,8110,7150,Doran's Blade,Essence Reaver,Berserker's Greaves,Zeal,Dagger,Dagger,848,66275,Lane.bot_lane,Role.carry
+2,Riesig,Riven,True,Side.blue,2,2,5,3.5,133,Flash,Teleport,12,False,7411,7300,The Black Cleaver,Caulfield's Warhammer,Mercury's Treads,Vampiric Scepter,Pickaxe,,0,63151,Lane.top_lane,Role.solo
+3,Vladfire1 BG ,Lee Sin,True,Side.blue,6,3,3,3.0,83,Smite,Flash,10,True,8124,6575,Caulfield's Warhammer,Enchantment: Warrior,Refillable Potion,Control Ward,Hexdrinker,Mercury's Treads,14738,68373,Lane.jungle,Role.none
+4,foggedftw1,Tryndamere,True,Side.blue,1,0,3,4.0,166,Ignite,Flash,11,False,7928,5250,Doran's Shield,Refillable Potion,Vampiric Scepter,Mercury's Treads,Statikk Shiv,,11864,84635,Lane.mid_lane,Role.solo
+5,wiggily420,Elise,False,Side.red,3,2,3,3.0,88,Flash,Smite,12,False,6371,5900,Enchantment: Runic Echoes,Refillable Potion,Ninja Tabi,Ruby Crystal,Seeker's Armguard,The Dark Seal,54735,20955,Lane.jungle,Role.none
+6,Gamer Girl,Caitlyn,False,Side.red,0,3,4,1.3333333333333333,116,Flash,Heal,9,False,5327,4625,Berserker's Greaves,Doran's Blade,Dagger,Cull,Zeal,Pickaxe,308,47772,Lane.bot_lane,Role.carry
+7,GangstahSwerve,Darius,False,Side.red,1,5,2,0.6,110,Teleport,Flash,10,False,5400,5175,Corrupting Potion,The Black Cleaver,Ninja Tabi,Ruby Crystal,,,100,42489,Lane.top_lane,Role.solo
+8,HvK LiquidDiego,Kennen,False,Side.red,1,2,3,2.0,15,Flash,Ignite,7,False,4389,3350,,Total Biscuit of Rejuvenation,Frost Queen's Claim,Ruby Crystal,,Boots of Speed,6873,3460,Lane.bot_lane,Role.support
+9,Kawaki,Viktor,False,Side.red,3,3,4,2.3333333333333335,77,Ghost,Flash,9,False,5391,4200,The Hex Core mk-2,Refillable Potion,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,,34687,6147,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,3in1warrior,Renekton,False,Side.blue,2,3,1,1.0,93,Flash,Teleport,10,False,5181,4475,The Black Cleaver,Boots of Speed,Refillable Potion,Long Sword,Long Sword,,1873,44430,Lane.top_lane,Role.solo
+1,don dont want me,Bard,False,Side.blue,1,6,0,0.16666666666666666,8,Teleport,Flash,7,False,3679,3000,Frostfang,Control Ward,Fiendish Codex,Boots of Mobility,,,4114,2836,Lane.bot_lane,Role.support
+2,McCashDollar,Ekko,False,Side.blue,1,4,0,0.25,87,Flash,Teleport,9,False,4501,3575,Doran's Ring,Refillable Potion,The Dark Seal,Catalyst of Aeons,Boots of Speed,Hextech Revolver,35921,8369,Lane.mid_lane,Role.solo
+3,TemptingCash,Vayne,False,Side.blue,0,4,0,0.0,116,Flash,Heal,10,False,4752,4300,Doran's Blade,Boots of Speed,B. F. Sword,Zeal,Kircheis Shard,,111,33110,Lane.bot_lane,Role.carry
+4,Maxcorsa,Hecarim,False,Side.blue,0,3,0,0.0,63,Ghost,Smite,8,False,4089,3450,Skirmisher's Sabre,Phage,Sheen,,,,4809,33284,Lane.jungle,Role.none
+5,TSM MeNoHaxor,Karma,True,Side.red,3,0,4,7.0,4,Exhaust,Flash,10,False,6640,5800,Eye of the Watchers,Boots of Mobility,Redemption,Faerie Charm,Control Ward,Faerie Charm,8431,8469,Lane.bot_lane,Role.support
+6,Jeehun,Caitlyn,True,Side.red,3,0,5,8.0,145,Flash,Heal,10,True,8693,7175,Doran's Blade,Runaan's Hurricane,Pickaxe,B. F. Sword,Berserker's Greaves,Cloak of Agility,380,89750,Lane.bot_lane,Role.carry
+7,i KeNNy u,Shyvana,True,Side.red,6,0,1,7.0,138,Smite,Ghost,13,False,9590,6050,Ninja Tabi,Dagger,Titanic Hydra,,Refillable Potion,Skirmisher's Sabre,58987,73329,Lane.jungle,Role.none
+8,ZambonGG,LeBlanc,True,Side.red,7,0,5,12.0,122,Flash,Ignite,12,False,8755,6375,Doran's Ring,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Ruby Crystal,58909,11702,Lane.mid_lane,Role.solo
+9,GamerXz,Fiora,True,Side.red,1,4,2,0.75,131,Flash,Teleport,11,False,7275,5600,Doran's Blade,Ravenous Hydra,Doran's Blade,Long Sword,Long Sword,Boots of Speed,415,58759,Lane.top_lane,Role.solo

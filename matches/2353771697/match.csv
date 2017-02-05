@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MisterSocrate,Caitlyn,False,Side.blue,3,7,3,0.8571428571428571,215,Heal,Flash,13,True,9568,9325,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,Long Sword,767,114641,Lane.bot_lane,Role.carry
+1,DankestSwagMEME,Ryze,False,Side.blue,5,5,2,1.4,215,Ghost,Flash,14,False,10361,9300,Seraph's Embrace,Quicksilver Sash,Ionian Boots of Lucidity,Blasting Wand,,Rod of Ages,120003,11415,Lane.mid_lane,Role.solo
+2,SNiKerDoDIe,Shyvana,False,Side.blue,3,7,2,0.7142857142857143,107,Smite,Flash,12,False,8272,7500,Enchantment: Cinderhulk,Phage,Mercury's Treads,Tiamat,Stinger,,52387,34760,Lane.jungle,Role.none
+3,Ajbsox,Janna,False,Side.blue,0,8,10,1.25,16,Exhaust,Flash,12,False,7558,7400,Redemption,Locket of the Iron Solari,Eye of the Oasis,,,Boots of Mobility,7063,5370,Lane.bot_lane,Role.support
+4,AVL Prince,Poppy,False,Side.blue,8,6,2,1.6666666666666667,156,Flash,Teleport,14,False,9862,9350,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Spectre's Cowl,Kindlegem,27206,65829,Lane.top_lane,Role.solo
+5,Rose Nylund,Zyra,True,Side.red,1,6,15,2.6666666666666665,40,Exhaust,Flash,12,False,9291,9150,Frostfang,Refillable Potion,Sightstone,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,40015,7016,Lane.bot_lane,Role.support
+6,Peaceman,Malzahar,True,Side.red,6,2,10,8.0,227,Ghost,Flash,15,False,12209,10995,Rylai's Crystal Scepter,Aether Wisp,Negatron Cloak,Morellonomicon,Hextech Revolver,Sorcerer's Shoes,102961,30879,Lane.mid_lane,Role.solo
+7,MoYing,Ezreal,True,Side.red,8,3,14,7.333333333333333,184,Heal,Flash,15,False,12297,10025,Blade of the Ruined King,Muramana,Iceborn Gauntlet,Boots of Speed,Doran's Blade,Long Sword,17920,105582,Lane.bot_lane,Role.carry
+8,II Master II,Hecarim,True,Side.red,10,3,9,6.333333333333333,79,Ghost,Smite,14,False,11770,10408,Enchantment: Cinderhulk,Trinity Force,Spirit Visage,Mercury's Treads,,,16079,93754,Lane.jungle,Role.none
+9,KaneKi521,Yasuo,True,Side.red,8,5,8,3.2,214,Flash,Teleport,15,False,12766,11358,Trinity Force,Phantom Dancer,Doran's Blade,Sunfire Cape,Long Sword,Ninja Tabi,46556,90017,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,sun2,Lee Sin,False,Side.blue,3,5,4,1.4,91,Smite,Flash,12,False,7284,6850,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Mercury's Treads,,,13383,65041,Lane.jungle,Role.none
+1,Sozisub,Varus,False,Side.blue,2,4,5,1.75,156,Flash,Heal,11,False,8223,8125,Manamune,Youmuu's Ghostblade,Doran's Blade,,,Ionian Boots of Lucidity,3928,87317,Lane.bot_lane,Role.carry
+2,m2ho,Zyra,False,Side.blue,4,5,2,1.2,17,Ignite,Flash,9,False,6562,6400,Haunting Guise,Control Ward,Eye of the Watchers,Sorcerer's Shoes,Blasting Wand,,20619,3873,Lane.bot_lane,Role.support
+3,phsTrump,Ahri,False,Side.blue,3,1,2,5.0,173,Flash,Ignite,14,False,8284,7275,Refillable Potion,Luden's Echo,,Doran's Ring,Boots of Speed,Morellonomicon,50528,15782,Lane.mid_lane,Role.solo
+4,Mid Nexus,Gangplank,False,Side.blue,0,0,3,3.0,181,Flash,Exhaust,13,False,8166,7558,Refillable Potion,Trinity Force,Caulfield's Warhammer,Serrated Dirk,Ionian Boots of Lucidity,Doran's Ring,4664,95760,Lane.top_lane,Role.solo
+5,Descraton,Vladimir,True,Side.red,4,0,4,8.0,176,Ghost,Flash,13,False,9820,9150,Control Ward,Hextech Protobelt-01,Spirit Visage,Giant's Belt,Ionian Boots of Lucidity,Needlessly Large Rod,81825,15029,Lane.mid_lane,Role.solo
+6,Captain Kyru,Thresh,True,Side.red,3,3,4,2.3333333333333335,35,Flash,Ignite,10,True,6959,6750,Redemption,Ruby Sightstone,Aegis of the Legion,Relic Shield,Boots of Mobility,Control Ward,10135,4883,Lane.bot_lane,Role.support
+7,Tower of God,Shyvana,True,Side.red,2,1,6,8.0,126,Flash,Smite,13,False,9442,9325,Titanic Hydra,Refillable Potion,Enchantment: Bloodrazor,Boots of Swiftness,Giant's Belt,Warden's Mail,59687,63203,Lane.jungle,Role.none
+8,Captain Nuke,Nasus,True,Side.red,0,2,2,1.0,262,Teleport,Flash,14,False,10381,10208,Ninja Tabi,Trinity Force,Glacial Shroud,Zz'Rot Portal,Doran's Ring,Cloth Armor,83826,50756,Lane.top_lane,Role.solo
+9,Saranghamnida,Jhin,True,Side.red,6,6,6,2.0,180,Flash,Heal,13,False,10676,8675,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Rapid Firecannon,Pickaxe,Cloak of Agility,2362,101686,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Linsanityy,Janna,True,Side.blue,7,0,18,25.0,7,Flash,Exhaust,12,False,9693,7900,Locket of the Iron Solari,Redemption,Eye of the Oasis,Refillable Potion,Ionian Boots of Lucidity,Sapphire Crystal,3262,6381,Lane.bot_lane,Role.support
+1,Str1fe,Jhin,True,Side.blue,9,1,11,20.0,160,Flash,Heal,13,True,11539,9200,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Hexdrinker,,2526,110503,Lane.bot_lane,Role.carry
+2,Pobelter,Viktor,True,Side.blue,5,2,5,5.0,193,Flash,Cleanse,13,False,10449,7000,Perfect Hex Core,Sheen,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Aether Wisp,103699,14107,Lane.mid_lane,Role.solo
+3,Contractz,Hecarim,True,Side.blue,5,2,12,8.5,109,Smite,Ghost,13,False,10208,8008,Hunter's Potion,Enchantment: Cinderhulk,Mercury's Treads,Trinity Force,,,15489,97217,Lane.jungle,Role.none
+4,Maxtrobo,Ekko,True,Side.blue,3,1,4,7.0,168,Flash,Teleport,13,False,9288,9433,Spirit Visage,Trinity Force,Mercury's Treads,Doran's Ring,Ruby Crystal,,77095,28296,Lane.top_lane,Role.solo
+5,Allorim,Twitch,False,Side.red,3,5,1,0.8,152,Flash,Heal,11,False,7320,6625,Doran's Blade,Runaan's Hurricane,Boots of Speed,Pickaxe,B. F. Sword,Cloak of Agility,0,63805,Lane.bot_lane,Role.carry
+6,Yusui,Evelynn,False,Side.red,3,10,1,0.4,65,Smite,Flash,10,False,6168,5800,Hextech Protobelt-01,Refillable Potion,Enchantment: Runic Echoes,,Boots of Speed,,35771,21652,Lane.jungle,Role.none
+7,Rohammers,Rumble,False,Side.red,0,4,4,1.0,158,Teleport,Flash,12,False,6716,5820,Doran's Shield,Liandry's Torment,Mercury's Treads,Refillable Potion,Control Ward,Negatron Cloak,81335,7603,Lane.top_lane,Role.solo
+8,cute pupper irl,Poppy,False,Side.red,0,7,4,0.5714285714285714,25,Flash,Exhaust,9,False,4777,4600,Ruby Crystal,Sightstone,Boots of Speed,Face of the Mountain,Control Ward,Total Biscuit of Rejuvenation,481,8181,Lane.bot_lane,Role.support
+9,Abou222,Ryze,False,Side.red,0,3,1,0.3333333333333333,152,Ghost,Flash,12,False,6683,5975,Tear of the Goddess,Total Biscuit of Rejuvenation,The Dark Seal,Rod of Ages,Sorcerer's Shoes,Null-Magic Mantle,86007,6461,Lane.mid_lane,Role.solo

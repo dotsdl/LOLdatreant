@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,S Diana 2,Diana,True,Side.blue,6,5,3,1.8,237,Teleport,Flash,15,False,12684,11150,Doran's Ring,Doran's Ring,Rabadon's Deathcap,Luden's Echo,Seeker's Armguard,Sorcerer's Shoes,154122,19462,Lane.mid_lane,Role.solo
+1,TeddyRO,Shyvana,True,Side.blue,5,3,7,4.0,178,Flash,Smite,16,True,13476,11775,Titanic Hydra,Blade of the Ruined King,Ninja Tabi,Enchantment: Bloodrazor,Warden's Mail,,70329,117520,Lane.jungle,Role.none
+2,Rohammers,Poppy,True,Side.blue,1,6,7,1.3333333333333333,163,Teleport,Flash,15,False,10500,9650,Corrupting Potion,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,Kindlegem,Spectre's Cowl,23530,59408,Lane.top_lane,Role.solo
+3,dog deft,Caitlyn,True,Side.blue,10,2,6,8.0,243,Flash,Heal,15,False,15183,12975,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,B. F. Sword,Vampiric Scepter,3361,205874,Lane.bot_lane,Role.carry
+4,1onz,Karma,True,Side.blue,2,3,14,5.333333333333333,23,Flash,Exhaust,14,False,9825,8175,Redemption,Locket of the Iron Solari,Eye of the Watchers,Boots of Mobility,,Control Ward,12820,9546,Lane.bot_lane,Role.support
+5,The Tank Man,Lulu,False,Side.red,1,5,7,1.6,8,Flash,Exhaust,11,False,7157,6775,Eye of the Watchers,Ionian Boots of Lucidity,Ardent Censer,Aegis of the Legion,,,7180,2119,Lane.bot_lane,Role.support
+6,TheDankWithinUs,Anivia,False,Side.red,5,3,4,3.0,248,Flash,Ghost,16,False,11299,10585,Abyssal Scepter,Archangel's Staff,Ionian Boots of Lucidity,Rod of Ages,Doran's Ring,Amplifying Tome,123943,11374,Lane.mid_lane,Role.solo
+7,Cris,Jayce,False,Side.red,4,5,8,2.4,253,Flash,Teleport,16,False,11926,10250,Refillable Potion,Ninja Tabi,Serrated Dirk,Lord Dominik's Regards,The Black Cleaver,Hexdrinker,33799,137277,Lane.top_lane,Role.solo
+8,Wizzy,Ezreal,False,Side.red,2,3,10,4.0,172,Heal,Flash,14,False,10125,9800,Doran's Blade,Mortal Reminder,Cull,Boots of Speed,Muramana,Iceborn Gauntlet,18958,75202,Lane.bot_lane,Role.carry
+9,Peridot,Quinn,False,Side.red,7,8,5,1.5,102,Smite,Flash,13,False,9371,8500,Enchantment: Warrior,Youmuu's Ghostblade,Berserker's Greaves,Refillable Potion,Hexdrinker,Long Sword,4518,84486,Lane.jungle,Role.none

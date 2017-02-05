@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jadsbutt,Ezreal,True,Side.blue,2,1,1,3.0,90,Flash,Heal,8,True,6408,5500,Manamune,Doran's Blade,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Sheen,Long Sword,3592,46239,Lane.bot_lane,Role.carry
+1,Vicinus,Kha'Zix,True,Side.blue,3,0,4,7.0,103,Flash,Smite,11,False,7010,6075,Enchantment: Warrior,Refillable Potion,Boots of Swiftness,Serrated Dirk,B. F. Sword,,2701,80281,Lane.jungle,Role.none
+2,Frank Oppa,Rumble,True,Side.blue,1,0,3,4.0,141,Teleport,Flash,11,False,6842,4950,Doran's Shield,Liandry's Torment,Refillable Potion,Sorcerer's Shoes,,,63063,8718,Lane.top_lane,Role.solo
+3,Wazabiee,LeBlanc,True,Side.blue,8,0,1,9.0,110,Ignite,Flash,11,False,8000,6600,Refillable Potion,Morellonomicon,Doran's Ring,Mejai's Soulstealer,Doran's Ring,Sorcerer's Shoes,57527,10464,Lane.mid_lane,Role.solo
+4,Wynaan,Alistar,True,Side.blue,1,1,2,3.0,18,Exhaust,Flash,7,False,4998,4075,Eye of the Equinox,Boots of Swiftness,Crystalline Bracer,Control Ward,Total Biscuit of Rejuvenation,,1185,5657,Lane.bot_lane,Role.support
+5,VegetableVelkoz,Vel'Koz,False,Side.red,1,1,1,2.0,10,Exhaust,Flash,6,False,2951,2200,Doran's Ring,Sightstone,Boots of Speed,Total Biscuit of Rejuvenation,Ruby Crystal,,6345,2843,Lane.bot_lane,Role.support
+6,jiayibingding,Vayne,False,Side.red,1,5,1,0.4,75,Heal,Flash,7,False,4049,3550,Total Biscuit of Rejuvenation,Zeal,Boots of Speed,,B. F. Sword,Doran's Blade,0,19785,Lane.bot_lane,Role.carry
+7,UnbearableBear,Volibear,False,Side.red,0,3,0,0.0,49,Smite,Ghost,8,False,3549,3025,Stalker's Blade,Bami's Cinder,Ruby Crystal,Boots of Speed,,,6865,26105,Lane.jungle,Role.none
+8,Dreamin,Ryze,False,Side.red,0,4,0,0.0,73,Ghost,Flash,8,False,3594,3455,Tear of the Goddess,Refillable Potion,Catalyst of Aeons,Negatron Cloak,Boots of Speed,Amplifying Tome,30024,3584,Lane.mid_lane,Role.solo
+9,ShadowofSelf,Gnar,False,Side.red,0,2,0,0.0,95,Flash,Teleport,9,False,4046,3700,Doran's Blade,Hexdrinker,Mercury's Treads,Long Sword,Ruby Crystal,,1793,36460,Lane.top_lane,Role.solo

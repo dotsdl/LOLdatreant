@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Søren Bjerg,Syndra,False,Side.blue,0,4,3,0.75,90,Flash,Ghost,9,False,4095,3785,Amplifying Tome,Doran's Ring,Fiendish Codex,Doran's Ring,Boots of Speed,Lost Chapter,30013,5984,Lane.mid_lane,Role.solo
+1,Kindergarten,Alistar,False,Side.blue,1,3,3,1.3333333333333333,14,Flash,Exhaust,7,False,3373,2525,Sightstone,Boots of Mobility,,Relic Shield,,,2951,2975,Lane.bot_lane,Role.duo
+2,SKY Fear,Nautilus,False,Side.blue,3,4,0,0.75,75,Flash,Teleport,9,False,4441,3575,Doran's Ring,Corrupting Potion,Doran's Ring,Bami's Cinder,Chain Vest,Boots of Speed,18607,11401,Lane.top_lane,Role.solo
+3,ApoIlo Price,Caitlyn,False,Side.blue,1,2,1,1.0,96,Flash,Heal,7,False,4394,3600,Doran's Blade,Berserker's Greaves,Pickaxe,Recurve Bow,,,333,27995,Lane.bot_lane,Role.duo
+4,moon o,Rek'Sai,False,Side.blue,1,3,4,1.6666666666666667,53,Smite,Flash,8,False,4123,2800,Tiamat,Refillable Potion,Stalker's Blade,,Boots of Speed,,4067,25815,Lane.jungle,Role.none
+5,ZatsMod,Ziggs,True,Side.red,6,0,1,7.0,98,Flash,Ghost,10,True,6910,3925,Doran's Ring,,,Morellonomicon,,Boots of Speed,52098,12337,Lane.mid_lane,Role.solo
+6,Riesig,Jarvan IV,True,Side.red,3,2,6,4.5,82,Flash,Teleport,9,False,6138,5100,Corrupting Potion,Mercury's Treads,,,,Titanic Hydra,715,41271,Lane.top_lane,Role.solo
+7,You all boosted,Ezreal,True,Side.red,4,1,1,5.0,107,Flash,Heal,10,False,6648,4350,Doran's Blade,Sheen,Boots of Speed,Manamune,,,4549,40429,Lane.bot_lane,Role.duo
+8,blaberfish2,Lee Sin,True,Side.red,3,2,5,4.0,64,Flash,Smite,9,False,6392,3825,Refillable Potion,Ruby Crystal,Enchantment: Warrior,Boots of Speed,Long Sword,,9085,50615,Lane.jungle,Role.none
+9,Biofrost ,Thresh,True,Side.red,0,1,5,5.0,23,Flash,Ignite,7,False,4365,2750,Sightstone,Relic Shield,Boots of Mobility,Ruby Crystal,,,4603,5677,Lane.bot_lane,Role.duo

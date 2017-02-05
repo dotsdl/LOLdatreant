@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lauren1,Jinx,True,Side.blue,9,3,8,5.666666666666667,334,Flash,Heal,17,False,18096,16550,Guardian Angel,The Bloodthirster,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Last Whisper,2728,301867,Lane.bot_lane,Role.carry
+1,so hung,Zed,True,Side.blue,12,3,5,5.666666666666667,188,Flash,Ignite,16,False,14749,13100,Youmuu's Ghostblade,Sterak's Gage,Maw of Malmortius,Mercury's Treads,The Black Cleaver,,8357,124708,Lane.mid_lane,Role.solo
+2,equalix,Nautilus,True,Side.blue,1,5,14,3.0,209,Flash,Teleport,16,False,13333,12650,Zz'Rot Portal,,Randuin's Omen,Ninja Tabi,Sunfire Cape,Guardian Angel,101845,32401,Lane.top_lane,Role.solo
+3,toontown,Janna,True,Side.blue,0,3,19,6.333333333333333,5,Exhaust,Flash,15,False,11367,10650,Eye of the Oasis,Redemption,Mikael's Crucible,Locket of the Iron Solari,Needlessly Large Rod,Boots of Speed,9495,6460,Lane.bot_lane,Role.support
+4,VV1nston,Diana,True,Side.blue,4,9,13,1.8888888888888888,168,Flash,Smite,16,False,13562,12725,Enchantment: Runic Echoes,Sorcerer's Shoes,Rod of Ages,Nashor's Tooth,,Void Staff,160097,37339,Lane.jungle,Role.none
+5,CleanedNWashedUp,Viktor,False,Side.red,5,4,9,3.5,295,Flash,Heal,16,True,13861,13375,Rylai's Crystal Scepter,Zhonya's Hourglass,Doran's Ring,Ionian Boots of Lucidity,Perfect Hex Core,Void Staff,199687,13826,Lane.mid_lane,Role.solo
+6,Yuán G,Ezreal,False,Side.red,9,6,8,2.8333333333333335,209,Heal,Flash,15,False,14056,14233,Blade of the Ruined King,Muramana,Trinity Force,Lord Dominik's Regards,,Ionian Boots of Lucidity,24470,131705,Lane.bot_lane,Role.carry
+7,II Master II,Ivern,False,Side.red,3,5,13,3.2,131,Flash,Smite,15,False,12350,12150,Zz'Rot Portal,Rylai's Crystal Scepter,Ionian Boots of Lucidity,The Dark Seal,Athene's Unholy Grail,Guardian Angel,36807,9456,Lane.jungle,Role.none
+8,Voids,Braum,False,Side.red,0,3,18,6.0,44,Exhaust,Flash,14,False,9742,9700,Redemption,Sightstone,Boots of Mobility,Zeke's Harbinger,Knight's Vow,,16237,9552,Lane.bot_lane,Role.support
+9,InvertedComposer,Yorick,False,Side.red,6,8,7,1.625,283,Flash,Teleport,17,False,14229,14250,Banner of Command,Zeal,Spirit Visage,Ravenous Hydra,Boots of Speed,Death's Dance,26409,154392,Lane.top_lane,Role.solo

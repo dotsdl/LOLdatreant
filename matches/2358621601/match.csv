@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anivia Kid,Xerath,False,Side.blue,0,4,3,0.75,230,Flash,Ghost,15,False,9389,9350,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Blasting Wand,The Dark Seal,,123522,13705,Lane.mid_lane,Role.solo
+1,Thalies,Karma,False,Side.blue,2,6,5,1.1666666666666667,43,Exhaust,Flash,12,False,7939,7250,Aegis of the Legion,Eye of the Watchers,Boots of Mobility,Null-Magic Mantle,,Redemption,26404,3260,Lane.bot_lane,Role.support
+2,Carrots2,Vayne,False,Side.blue,6,6,1,1.1666666666666667,234,Flash,Heal,14,False,11067,10050,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Hexdrinker,Vampiric Scepter,12760,114705,Lane.bot_lane,Role.carry
+3,Gweiss,Graves,False,Side.blue,0,8,4,0.5,131,Smite,Flash,14,False,9017,8725,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,Zeal,Dagger,4295,126475,Lane.jungle,Role.none
+4,Rhux,Jax,False,Side.blue,3,8,1,0.5,172,Flash,Teleport,14,False,9485,9333,Corrupting Potion,Cull,Trinity Force,Mercury's Treads,Guardian Angel,Giant's Belt,22669,69208,Lane.top_lane,Role.solo
+5,GordanRamsey,Evelynn,True,Side.red,8,0,4,12.0,165,Smite,Flash,16,False,12842,12025,Enchantment: Runic Echoes,Mejai's Soulstealer,Sorcerer's Shoes,Rylai's Crystal Scepter,Hextech Protobelt-01,Sheen,108905,45400,Lane.jungle,Role.none
+6,PSYCHOPATH909,Veigar,True,Side.red,9,3,6,5.0,209,Flash,Exhaust,14,False,13108,12075,Rabadon's Deathcap,Void Staff,Morellonomicon,Doran's Ring,Fiendish Codex,Sorcerer's Shoes,126894,15141,Lane.bot_lane,Role.carry
+7,The Tank Man,Zyra,True,Side.red,2,5,13,3.0,16,Flash,Ignite,13,False,9463,8235,Eye of the Watchers,Liandry's Torment,Sorcerer's Shoes,Giant's Belt,Amplifying Tome,,32919,6558,Lane.bot_lane,Role.support
+8,7120327,Wukong,True,Side.red,6,1,7,13.0,270,Flash,Teleport,17,True,13792,11375,Youmuu's Ghostblade,Ravenous Hydra,Mercury's Treads,Doran's Blade,Doran's Blade,Guardian Angel,4574,172138,Lane.top_lane,Role.solo
+9,Short Dog,Viktor,True,Side.red,7,2,8,7.5,213,Ghost,Flash,16,False,12815,11825,Perfect Hex Core,Rylai's Crystal Scepter,Abyssal Scepter,Blasting Wand,Doran's Ring,Ionian Boots of Lucidity,132062,13463,Lane.mid_lane,Role.solo

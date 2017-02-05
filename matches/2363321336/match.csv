@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cat Person,Karma,True,Side.blue,0,3,12,4.0,21,Flash,Heal,11,False,7048,6075,Redemption,Sightstone,,Frostfang,Fiendish Codex,Boots of Mobility,7320,2851,Lane.bot_lane,Role.support
+1,Falco Mechanic,Ashe,True,Side.blue,5,5,7,2.4,175,Exhaust,Flash,13,False,10922,9600,Doran's Blade,Infinity Edge,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,754,110410,Lane.bot_lane,Role.carry
+2,Nuxe,Orianna,True,Side.blue,2,3,11,4.333333333333333,153,Flash,Ghost,14,False,9275,8350,,Luden's Echo,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Morellonomicon,69310,12634,Lane.mid_lane,Role.solo
+3,nilhaG,Evelynn,True,Side.blue,13,3,3,5.333333333333333,140,Flash,Smite,15,True,12699,10825,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Control Ward,Iceborn Gauntlet,Ionian Boots of Lucidity,Aegis of the Legion,80212,47979,Lane.jungle,Role.none
+4,lost in thoughts,Nasus,True,Side.blue,2,6,2,0.6666666666666666,274,Flash,Teleport,14,False,10128,9225,Corrupting Potion,Sheen,Cloth Armor,Zz'Rot Portal,Ninja Tabi,Frozen Heart,77905,43196,Lane.top_lane,Role.solo
+5,RealDarkness,Yasuo,False,Side.red,2,9,4,0.6666666666666666,122,Ignite,Flash,12,False,7135,6400,Doran's Blade,Cloak of Agility,Phantom Dancer,Berserker's Greaves,B. F. Sword,,9708,56531,Lane.mid_lane,Role.solo
+6,RyuShoryu,Caitlyn,False,Side.red,2,7,6,1.1428571428571428,171,Heal,Flash,12,False,8130,8000,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,238,84397,Lane.bot_lane,Role.carry
+7,DrSizzle,Zyra,False,Side.red,3,2,4,3.5,37,Ignite,Flash,11,False,6806,6585,Sightstone,Sorcerer's Shoes,,Amplifying Tome,Spellthief's Edge,Liandry's Torment,25897,2189,Lane.bot_lane,Role.support
+8,Finna Lit,Lee Sin,False,Side.red,12,3,1,4.333333333333333,154,Smite,Flash,14,False,11009,10375,Boots of Swiftness,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Banshee's Veil,Giant's Belt,23590,105727,Lane.jungle,Role.none
+9,Cuckvele,Shen,False,Side.red,1,1,11,12.0,217,Flash,Teleport,14,False,8983,9300,Zz'Rot Portal,Spirit Visage,Ionian Boots of Lucidity,Chain Vest,Bami's Cinder,Refillable Potion,30135,33037,Lane.top_lane,Role.solo

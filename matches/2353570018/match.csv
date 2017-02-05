@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Captain Ziploc,Kennen,True,Side.blue,5,1,1,6.0,114,Teleport,Flash,12,False,7795,5385,Hextech Protobelt-01,Doran's Blade,Ionian Boots of Lucidity,Fiendish Codex,Amplifying Tome,,43934,23066,Lane.mid_lane,Role.solo
+1,Pick me jhin ty,Soraka,True,Side.blue,3,1,8,11.0,9,Exhaust,Flash,9,False,6892,5375,Eye of the Watchers,Boots of Speed,,Redemption,The Dark Seal,,13791,4521,Lane.bot_lane,Role.support
+2,Shui Sha Wo,Wukong,True,Side.blue,7,2,0,3.5,120,Flash,Teleport,12,False,8072,7425,Youmuu's Ghostblade,Sapphire Crystal,Hexdrinker,Phage,Doran's Blade,Boots of Swiftness,2814,63130,Lane.top_lane,Role.solo
+3,Hyosung,Ivern,True,Side.blue,2,1,4,6.0,107,Flash,Smite,13,False,8171,7825,Hunter's Talisman,Ionian Boots of Lucidity,The Dark Seal,Rylai's Crystal Scepter,Athene's Unholy Grail,Forbidden Idol,30582,10989,Lane.jungle,Role.none
+4,goompa,Vayne,True,Side.blue,6,2,2,4.0,135,Heal,Flash,10,True,8710,6575,Berserker's Greaves,Doran's Blade,Total Biscuit of Rejuvenation,B. F. Sword,Statikk Shiv,Cloak of Agility,15804,62273,Lane.bot_lane,Role.carry
+5,Kureo,Jhin,False,Side.red,2,2,0,1.0,54,Flash,Heal,8,False,4636,3450,Doran's Blade,Caulfield's Warhammer,Boots of Speed,B. F. Sword,,,2543,21223,Lane.bot_lane,Role.carry
+6,Laughter Bobo,Fizz,False,Side.red,1,6,1,0.3333333333333333,80,Teleport,Flash,9,False,4719,4475,Corrupting Potion,Control Ward,Seeker's Armguard,Sorcerer's Shoes,Needlessly Large Rod,The Dark Seal,19216,13437,Lane.top_lane,Role.solo
+7,Liquid1320,Shaco,False,Side.red,3,4,1,1.0,94,Smite,Ignite,11,False,6229,5700,Enchantment: Warrior,Refillable Potion,Serrated Dirk,Boots of Speed,Caulfield's Warhammer,Long Sword,24854,45077,Lane.jungle,Role.none
+8,Happo,Kog'Maw,False,Side.red,1,4,0,0.25,141,Flash,Ghost,11,False,5868,5275,Tear of the Goddess,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,,Refillable Potion,63127,11331,Lane.mid_lane,Role.solo
+9,Atif,Thresh,False,Side.red,0,7,2,0.2857142857142857,12,Flash,Ignite,8,False,3581,2725,Targon's Brace,Boots of Mobility,Sightstone,,,,3342,1390,Lane.bot_lane,Role.support

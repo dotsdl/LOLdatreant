@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Snaffs,Trundle,False,Side.blue,0,8,5,0.625,33,Exhaust,Flash,10,False,5955,4975,Targon's Brace,Refillable Potion,Ruby Sightstone,Ionian Boots of Lucidity,Aegis of the Legion,Control Ward,820,8913,Lane.bot_lane,Role.support
+1,Sheathix,Lucian,False,Side.blue,5,4,2,1.75,162,Flash,Heal,12,False,8905,8500,Doran's Blade,Doran's Blade,Essence Reaver,Berserker's Greaves,Statikk Shiv,,2858,73536,Lane.bot_lane,Role.carry
+2,Griffin1795,Lux,False,Side.blue,3,4,4,1.75,149,Flash,Ghost,12,False,8118,6945,The Dark Seal,Sorcerer's Shoes,Luden's Echo,Doran's Ring,Negatron Cloak,Fiendish Codex,64389,12918,Lane.mid_lane,Role.solo
+3,Firé,Riven,False,Side.blue,0,8,4,0.5,106,Smite,Flash,11,False,7140,7060,Sapphire Crystal,Refillable Potion,The Black Cleaver,Skirmisher's Sabre,Ionian Boots of Lucidity,Bami's Cinder,1563,73575,Lane.jungle,Role.none
+4,Wingsofdeathx,Fiora,False,Side.blue,1,5,2,0.6,185,Ignite,Flash,13,False,8841,8275,Corrupting Potion,Ravenous Hydra,Phage,Caulfield's Warhammer,Boots of Swiftness,Doran's Blade,1130,85624,Lane.top_lane,Role.solo
+5,TQS Zuardian,Blitzcrank,True,Side.red,0,2,19,9.5,44,Exhaust,Flash,11,False,8340,8225,Redemption,Refillable Potion,Eye of the Equinox,Knight's Vow,Boots of Swiftness,Ruby Crystal,12955,10184,Lane.bot_lane,Role.support
+6,Henchey,Jhin,True,Side.red,11,2,7,9.0,175,Heal,Flash,13,False,13132,10900,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Speed,Infinity Edge,,6727,132564,Lane.bot_lane,Role.carry
+7,TinGar,Malphite,True,Side.red,3,0,10,13.0,205,Flash,Teleport,15,False,11064,8750,Sunfire Cape,Randuin's Omen,Corrupting Potion,Mercury's Treads,Glacial Shroud,Sapphire Crystal,69892,34559,Lane.top_lane,Role.solo
+8,CoreTienZ,Lee Sin,True,Side.red,5,3,15,6.666666666666667,70,Smite,Flash,12,True,9954,9750,Edge of Night,Control Ward,Ruby Sightstone,Boots of Mobility,Enchantment: Warrior,Giant's Belt,14247,77018,Lane.jungle,Role.none
+9,Herson000,Katarina,True,Side.red,10,2,2,6.0,178,Flash,Ignite,15,False,11641,7910,Hextech Gunblade,Amplifying Tome,The Dark Seal,Sorcerer's Shoes,Needlessly Large Rod,Giant's Belt,110262,10465,Lane.mid_lane,Role.solo

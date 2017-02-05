@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dyce,Draven,False,Side.blue,8,11,6,1.2727272727272727,250,Flash,Heal,17,False,15599,14850,Berserker's Greaves,Youmuu's Ghostblade,Mercurial Scimitar,Lord Dominik's Regards,Phantom Dancer,Vampiric Scepter,0,207866,Lane.jungle,Role.none
+1,Abou222,Rengar,False,Side.blue,18,10,4,2.2,180,Ignite,Flash,17,True,15796,15960,The Black Cleaver,Youmuu's Ghostblade,Ionian Boots of Lucidity,Duskblade of Draktharr,Lord Dominik's Regards,B. F. Sword,7244,139096,Lane.jungle,Role.none
+2,savary,Xin Zhao,False,Side.blue,1,10,14,1.5,131,Smite,Flash,17,False,11910,11775,Enchantment: Warrior,Serrated Dirk,Guinsoo's Rageblade,Lich Bane,Mercury's Treads,Long Sword,10891,129837,Lane.mid_lane,Role.solo
+3,captain kek,Caitlyn,True,Side.red,14,11,12,2.3636363636363638,221,Flash,Heal,18,False,17204,15950,Berserker's Greaves,Randuin's Omen,B. F. Sword,Infinity Edge,Phantom Dancer,Runaan's Hurricane,2166,222727,Lane.mid_lane,Role.solo
+4,Saikatora,Nasus,True,Side.red,8,6,17,4.166666666666667,252,Exhaust,Flash,18,False,15938,15300,Rod of Ages,Wooglet's Witchcap,Ninja Tabi,Iceborn Gauntlet,Liandry's Torment,Seeker's Armguard,140611,42148,Lane.jungle,Role.none
+5,Doglightning,Jarvan IV,True,Side.red,9,10,17,2.6,79,Exhaust,Smite,17,False,13007,11525,Enchantment: Cinderhulk,Ninja Tabi,Thornmail,Tiamat,Randuin's Omen,Jaurim's Fist,38890,72158,Lane.jungle,Role.none

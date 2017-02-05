@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mango the Magus,Karma,False,Side.blue,3,4,1,1.0,113,Exhaust,Flash,11,False,6328,5150,Doran's Ring,Aether Wisp,Refillable Potion,Athene's Unholy Grail,Sorcerer's Shoes,,42175,12720,Lane.mid_lane,Role.solo
+1,Honi,Janna,False,Side.blue,2,2,2,2.0,12,Flash,Exhaust,9,False,4794,4575,Sightstone,Redemption,,Spellthief's Edge,Control Ward,Boots of Mobility,2005,4350,Lane.bot_lane,Role.support
+2,Aragoto,Hecarim,False,Side.blue,0,5,4,0.8,94,Smite,Ghost,11,False,6295,5450,Refillable Potion,Enchantment: Cinderhulk,Boots of Swiftness,Control Ward,Phage,Dagger,17180,53040,Lane.jungle,Role.none
+3,No Speak Inglish,Zed,False,Side.blue,2,3,0,0.6666666666666666,174,Teleport,Flash,12,False,7124,7000,Serrated Dirk,Long Sword,Long Sword,Boots of Speed,The Black Cleaver,Hexdrinker,3951,77945,Lane.top_lane,Role.solo
+4,Shiro Okami,Caitlyn,False,Side.blue,1,4,3,1.0,187,Flash,Heal,12,False,7425,6425,Pickaxe,Doran's Blade,B. F. Sword,Runaan's Hurricane,Boots of Speed,Cloak of Agility,500,96413,Lane.bot_lane,Role.carry
+5,PeachSamaTuT,Jhin,True,Side.red,3,1,4,7.0,165,Flash,Heal,12,True,8628,8125,B. F. Sword,Zeal,Dagger,Boots of Swiftness,Essence Reaver,Doran's Blade,4518,81601,Lane.bot_lane,Role.carry
+6,Companion Prism,Yorick,True,Side.red,3,0,6,9.0,136,Flash,Smite,13,False,8523,7275,Hunter's Machete,The Black Cleaver,Iceborn Gauntlet,Boots of Swiftness,,,27599,100255,Lane.jungle,Role.none
+7,SSj Samurai,Singed,True,Side.red,3,2,1,2.0,162,Ignite,Ghost,14,False,8310,6675,Zz'Rot Portal,Refillable Potion,Righteous Glory,Boots of Swiftness,The Dark Seal,,84501,6692,Lane.top_lane,Role.solo
+8,Shiphtur,LeBlanc,True,Side.red,7,2,0,3.5,145,Exhaust,Flash,13,False,9280,8775,Rylai's Crystal Scepter,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Doran's Ring,74125,11323,Lane.mid_lane,Role.solo
+9,Link,Tahm Kench,True,Side.red,2,3,8,3.3333333333333335,32,Flash,Exhaust,10,False,6371,5525,Sightstone,Redemption,Refillable Potion,Kindlegem,Boots of Swiftness,Relic Shield,7104,5734,Lane.bot_lane,Role.support

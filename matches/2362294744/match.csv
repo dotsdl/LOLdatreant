@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mrs Bjerg,Karma,True,Side.blue,0,2,12,6.0,13,Exhaust,Flash,12,False,7656,5985,Eye of the Watchers,Redemption,Control Ward,Ionian Boots of Lucidity,,Amplifying Tome,20416,5887,Lane.bot_lane,Role.support
+1,Panth Tier God,Darius,True,Side.blue,2,0,3,5.0,254,Teleport,Flash,15,False,10244,8100,Spirit Visage,Ruby Crystal,,Mercury's Treads,Doran's Blade,The Black Cleaver,0,130109,Lane.top_lane,Role.solo
+2,Lux Skins,Kalista,True,Side.blue,5,4,5,2.5,196,Flash,Heal,13,False,10606,8225,Blade of the Ruined King,Doran's Blade,Runaan's Hurricane,Long Sword,,Berserker's Greaves,1405,104308,Lane.bot_lane,Role.carry
+3,Nash,Lux,True,Side.blue,14,2,7,10.5,219,Cleanse,Flash,16,False,13789,11600,Void Staff,The Dark Seal,Morellonomicon,Rabadon's Deathcap,Doran's Ring,Ionian Boots of Lucidity,151586,17299,Lane.mid_lane,Role.solo
+4,Godrîc,Lee Sin,True,Side.blue,9,6,7,2.6666666666666665,82,Smite,Flash,14,False,10465,8625,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Hexdrinker,Long Sword,15442,95773,Lane.jungle,Role.none
+5,Tesserzact,Singed,False,Side.red,1,3,0,0.3333333333333333,203,Ghost,Teleport,14,False,8028,7300,Righteous Glory,Corrupting Potion,Ninja Tabi,Zz'Rot Portal,,,87865,7082,Lane.top_lane,Role.solo
+6,FLACKO,Thresh,False,Side.red,1,8,6,0.875,31,Flash,Exhaust,10,False,5824,5525,Total Biscuit of Rejuvenation,Eye of the Equinox,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,,6328,4286,Lane.bot_lane,Role.support
+7,Xucxfer,Ryze,False,Side.red,3,7,4,1.0,154,Ghost,Flash,13,True,8237,7975,Seraph's Embrace,Refillable Potion,Control Ward,Morellonomicon,Ionian Boots of Lucidity,Blasting Wand,89435,8477,Lane.mid_lane,Role.solo
+8,BobThePenguin,Shyvana,False,Side.red,6,7,3,1.2857142857142858,104,Smite,Flash,12,False,8818,8725,Enchantment: Bloodrazor,Refillable Potion,Frozen Mallet,Mercury's Treads,Spectre's Cowl,Ruby Crystal,50795,50809,Lane.jungle,Role.none
+9,bc0621,Ashe,False,Side.red,2,6,3,0.8333333333333334,169,Flash,Heal,11,False,7636,7250,Recurve Bow,Doran's Blade,Essence Reaver,Berserker's Greaves,Recurve Bow,,897,74728,Lane.bot_lane,Role.carry

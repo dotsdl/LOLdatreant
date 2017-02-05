@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,123hi456,Rammus,False,Side.blue,4,11,4,0.7272727272727273,122,Smite,Flash,14,False,10233,9825,Enchantment: Cinderhulk,Ninja Tabi,Cloth Armor,Banshee's Veil,Thornmail,Cloth Armor,66259,47663,Lane.jungle,Role.none
+1,Like25njas,Cassiopeia,False,Side.blue,3,8,2,0.625,213,Ghost,Flash,14,False,10385,9875,Seraph's Embrace,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,,,96389,14922,Lane.mid_lane,Role.solo
+2,TamilTiger,Gangplank,False,Side.blue,5,3,4,3.0,251,Teleport,Flash,16,False,12360,11983,Trinity Force,Youmuu's Ghostblade,Dagger,Ionian Boots of Lucidity,Infinity Edge,Brawler's Gloves,13099,207947,Lane.top_lane,Role.solo
+3,53XY,Leona,False,Side.blue,3,9,13,1.7777777777777777,42,Flash,Ignite,13,False,9076,8750,Face of the Mountain,Knight's Vow,Ruby Sightstone,Warden's Mail,,Mercury's Treads,10239,8728,Lane.bot_lane,Role.support
+4,always plan ahea,Jhin,False,Side.blue,8,9,8,1.7777777777777777,211,Flash,Heal,14,False,12652,12250,Rapid Firecannon,Infinity Edge,Boots of Swiftness,Essence Reaver,Brawler's Gloves,Dagger,13294,132358,Lane.bot_lane,Role.carry
+5,Moses Taylor,Heimerdinger,True,Side.red,1,0,11,12.0,252,Teleport,Flash,17,False,13149,10800,Doran's Ring,Zz'Rot Portal,Doran's Ring,Rylai's Crystal Scepter,Void Staff,Sorcerer's Shoes,120754,19782,Lane.top_lane,Role.solo
+6,Pretend Lawyer,Nami,True,Side.red,1,4,23,6.0,6,Exhaust,Flash,12,False,9603,9300,Frostfang,Sightstone,Redemption,Ardent Censer,Banner of Command,Boots of Mobility,8689,4088,Lane.bot_lane,Role.support
+7,Justin20,Kindred,True,Side.red,12,8,8,2.5,111,Flash,Smite,15,False,13199,12075,Enchantment: Bloodrazor,Blade of the Ruined King,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Vampiric Scepter,3569,147321,Lane.jungle,Role.none
+8,Little Trunks,Ahri,True,Side.red,11,5,17,5.6,195,Flash,Ignite,16,False,14138,13100,Giant's Belt,Void Staff,Needlessly Large Rod,Sorcerer's Shoes,Luden's Echo,Morellonomicon,91173,16337,Lane.mid_lane,Role.solo
+9,MeZedOnly,Vayne,True,Side.red,15,6,10,4.166666666666667,245,Heal,Flash,16,True,16451,13375,B. F. Sword,Infinity Edge,Quicksilver Sash,Berserker's Greaves,Phantom Dancer,Statikk Shiv,57613,126315,Lane.bot_lane,Role.carry

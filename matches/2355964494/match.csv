@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sunbob,Fiora,False,Side.blue,2,4,4,1.5,153,Teleport,Flash,13,False,7693,7650,Mercury's Treads,Ravenous Hydra,Chain Vest,Long Sword,Phage,,421,59559,Lane.top_lane,Role.solo
+1,Screamer,Katarina,False,Side.blue,7,10,2,0.9,94,Ignite,Flash,11,False,7584,7150,Health Potion,Sorcerer's Shoes,Needlessly Large Rod,Hextech Gunblade,Blasting Wand,,47076,8486,Lane.mid_lane,Role.solo
+2,Ninjacrab,Vi,False,Side.blue,0,5,4,0.8,106,Flash,Smite,11,False,6825,5675,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Giant's Belt,Chain Vest,,952,89505,Lane.jungle,Role.none
+3,Cat Person,Janna,False,Side.blue,0,6,7,1.1666666666666667,6,Flash,Heal,9,False,5367,4750,Forbidden Idol,Sightstone,,Crystalline Bracer,Frostfang,Mercury's Treads,3208,1536,Lane.bot_lane,Role.support
+4,Falco Mechanic,Caitlyn,False,Side.blue,3,6,1,0.6666666666666666,150,Exhaust,Flash,11,False,7653,6525,Doran's Blade,Berserker's Greaves,Pickaxe,B. F. Sword,Runaan's Hurricane,,658,89463,Lane.bot_lane,Role.carry
+5,Hello I am Dust,Lulu,True,Side.red,2,1,8,10.0,8,Exhaust,Flash,10,False,7204,7000,Redemption,Eye of the Watchers,Total Biscuit of Rejuvenation,Aegis of the Legion,Boots of Swiftness,Control Ward,8476,3923,Lane.bot_lane,Role.support
+6,dog maple,Ezreal,True,Side.red,2,0,12,14.0,149,Heal,Flash,12,False,8912,7250,Doran's Blade,Manamune,Boots of Speed,Iceborn Gauntlet,Vampiric Scepter,Long Sword,11345,66815,Lane.bot_lane,Role.carry
+7,I Want My Cigar,Graves,True,Side.red,10,5,0,2.0,148,Flash,Exhaust,13,False,10056,10200,Edge of Night,Youmuu's Ghostblade,Duskblade of Draktharr,Boots of Speed,,,1700,93218,Lane.top_lane,Role.solo
+8,Biscuit Crusader,Twisted Fate,True,Side.red,12,2,11,11.5,127,Flash,Ghost,13,False,11717,10150,Lich Bane,Zhonya's Hourglass,Ionian Boots of Lucidity,Doran's Ring,Blasting Wand,Needlessly Large Rod,69444,10974,Lane.mid_lane,Role.solo
+9,MASTER ROSHl,Lee Sin,True,Side.red,5,4,9,3.5,132,Flash,Smite,13,True,9908,9050,Tiamat,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Long Sword,Null-Magic Mantle,22852,78637,Lane.jungle,Role.none

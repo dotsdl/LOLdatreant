@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Symbo,Tahm Kench,False,Side.blue,8,8,9,2.125,143,Teleport,Flash,15,False,10639,10450,Randuin's Omen,Kindlegem,Bami's Cinder,Ninja Tabi,Warmog's Armor,Spectre's Cowl,73612,16569,Lane.top_lane,Role.solo
+1,JerryChuTW,Vayne,False,Side.blue,8,9,5,1.4444444444444444,219,Heal,Flash,15,False,12392,12300,Quicksilver Sash,Statikk Shiv,Infinity Edge,Phantom Dancer,Berserker's Greaves,Doran's Blade,38253,98242,Lane.bot_lane,Role.carry
+2,Gorebox,Nami,False,Side.blue,1,6,21,3.6666666666666665,20,Flash,Exhaust,13,False,8917,8200,Ruby Sightstone,Redemption,Frost Queen's Claim,Cloth Armor,Boots of Mobility,Null-Magic Mantle,9662,4542,Lane.bot_lane,Role.support
+3,TheMightyRoq,Hecarim,False,Side.blue,5,7,10,2.142857142857143,123,Ghost,Smite,15,False,10701,9858,Enchantment: Cinderhulk,Mercury's Treads,Trinity Force,Guardian Angel,,,19128,111562,Lane.jungle,Role.none
+4,BlackAndBluePain,LeBlanc,False,Side.blue,5,10,11,1.6,198,Flash,Ignite,14,False,10946,10335,Doran's Ring,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,Void Staff,Amplifying Tome,91967,10654,Lane.mid_lane,Role.solo
+5,xKiWi,Tristana,True,Side.red,8,6,5,2.1666666666666665,187,Flash,Heal,15,False,13154,11000,Blade of the Ruined King,Phantom Dancer,Infinity Edge,Doran's Blade,Long Sword,Boots of Speed,26295,112165,Lane.bot_lane,Role.carry
+6,EzPzCarryz,Ahri,True,Side.red,5,3,12,5.666666666666667,193,Ignite,Flash,16,False,12530,11300,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,Giant's Belt,Doran's Ring,Needlessly Large Rod,88722,22376,Lane.mid_lane,Role.solo
+7,Sud83,Vi,True,Side.red,4,8,12,2.0,178,Smite,Flash,15,False,12857,11308,Enchantment: Warrior,Trinity Force,Randuin's Omen,Ninja Tabi,Chain Vest,,1593,165535,Lane.jungle,Role.none
+8,Asian GirI,Irelia,True,Side.red,17,4,11,7.0,222,Flash,Teleport,17,False,16324,15108,Spirit Visage,Trinity Force,Titanic Hydra,Mercury's Treads,Sterak's Gage,Chain Vest,5329,142853,Lane.top_lane,Role.solo
+9,IM IgNar,Zyra,True,Side.red,5,6,15,3.3333333333333335,52,Ignite,Flash,14,True,11814,9850,Spellthief's Edge,Rylai's Crystal Scepter,Sightstone,Liandry's Torment,Boots of Mobility,Blasting Wand,50387,8379,Lane.bot_lane,Role.support

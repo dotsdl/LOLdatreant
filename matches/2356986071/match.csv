@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mexicano Guy,Fiora,True,Side.blue,4,3,1,1.6666666666666667,110,Teleport,Flash,12,False,7373,5650,Ninja Tabi,Refillable Potion,Ravenous Hydra,,Ruby Crystal,Long Sword,945,61506,Lane.top_lane,Role.solo
+1,Zhiqing,Skarner,True,Side.blue,4,1,6,10.0,120,Smite,Flash,11,False,8243,7758,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Trinity Force,,Control Ward,37943,56608,Lane.jungle,Role.none
+2,Slidgraph569,Braum,True,Side.blue,3,0,7,10.0,24,Flash,Exhaust,10,False,6143,4675,Relic Shield,Sightstone,Control Ward,Knight's Vow,Boots of Mobility,,4397,6774,Lane.bot_lane,Role.support
+3,Nillers,Vayne,True,Side.blue,10,3,3,4.333333333333333,180,Heal,Flash,13,True,11104,10000,Doran's Blade,Quicksilver Sash,Infinity Edge,Berserker's Greaves,Statikk Shiv,Vampiric Scepter,7855,58479,Lane.bot_lane,Role.carry
+4,Puppy owo,Kayle,True,Side.blue,1,4,4,1.25,158,Ghost,Flash,12,False,7729,6175,Doran's Ring,Ionian Boots of Lucidity,Nashor's Tooth,Dagger,Dagger,Pickaxe,56381,26920,Lane.mid_lane,Role.solo
+5,xXtbh same famXx,Kled,False,Side.red,1,4,1,0.5,110,Flash,Teleport,11,False,5774,3875,Tiamat,Ninja Tabi,Ruby Crystal,Doran's Shield,Control Ward,Ruby Crystal,40,40409,Lane.top_lane,Role.solo
+6,Quiggems X,Twisted Fate,False,Side.red,5,4,2,1.75,135,Flash,Teleport,11,False,7964,6810,Total Biscuit of Rejuvenation,Rod of Ages,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,63235,13234,Lane.mid_lane,Role.solo
+7,TRUMPSSMALLHANDS,Jarvan IV,False,Side.red,2,5,6,1.6,81,Flash,Smite,11,False,6540,6225,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Phage,Caulfield's Warhammer,,3635,63531,Lane.jungle,Role.none
+8,DC Tasder,Sivir,False,Side.red,3,2,1,2.0,80,Flash,Heal,10,False,5654,5450,Doran's Blade,Youmuu's Ghostblade,Berserker's Greaves,Dagger,Dagger,Dagger,700,48742,Lane.bot_lane,Role.carry
+9,Unrealseal,Sona,False,Side.red,0,7,6,0.8571428571428571,22,Exhaust,Flash,9,False,4808,3900,Frostfang,,Sightstone,Aether Wisp,Sheen,,9480,5614,Lane.bot_lane,Role.support

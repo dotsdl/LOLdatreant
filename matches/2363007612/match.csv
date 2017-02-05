@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,sensei cat,Graves,False,Side.blue,5,8,3,1.0,228,Heal,Flash,14,False,11254,10525,Doran's Blade,Pickaxe,Essence Reaver,Berserker's Greaves,Phantom Dancer,B. F. Sword,579,132057,Lane.bot_lane,Role.carry
+1,Ninjacrab,Vi,False,Side.blue,4,8,4,1.0,118,Flash,Smite,13,False,9026,8783,Enchantment: Warrior,Serrated Dirk,Ninja Tabi,Trinity Force,,,1553,104334,Lane.jungle,Role.none
+2,Flaresz,Kennen,False,Side.blue,6,8,6,1.5,157,Flash,Teleport,14,False,9722,9030,Amplifying Tome,Hextech Protobelt-01,Void Staff,Sorcerer's Shoes,Fiendish Codex,Negatron Cloak,60232,23360,Lane.top_lane,Role.solo
+3,Sînner,Blitzcrank,False,Side.blue,3,4,7,2.5,36,Flash,Exhaust,12,False,7371,6900,Face of the Mountain,Redemption,Sightstone,Ninja Tabi,Ruby Crystal,,6602,7075,Lane.bot_lane,Role.support
+4,Wizzy,Kayle,False,Side.blue,1,5,6,1.4,208,Ghost,Flash,14,False,9288,8950,The Dark Seal,Guinsoo's Rageblade,Stinger,Ionian Boots of Lucidity,Doran's Ring,Fiendish Codex,87470,31454,Lane.mid_lane,Role.solo
+5,NaVi Juan,Nocturne,True,Side.red,4,4,9,3.25,123,Smite,Flash,14,False,10734,10408,Tiamat,B. F. Sword,Boots of Speed,Trinity Force,Enchantment: Warrior,Serrated Dirk,5132,119741,Lane.jungle,Role.none
+6,Cat Ears,Sona,True,Side.red,2,3,11,4.333333333333333,6,Flash,Exhaust,13,False,9034,7900,Ardent Censer,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,,Control Ward,8100,7726,Lane.bot_lane,Role.support
+7,Wolfelol,Xerath,True,Side.red,14,2,10,12.0,180,Heal,Flash,16,False,14485,11950,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Rylai's Crystal Scepter,Control Ward,142701,13712,Lane.mid_lane,Role.solo
+8,C9 Sneaky,Vayne,True,Side.red,9,3,6,5.0,210,Flash,Heal,15,True,13033,9850,Doran's Blade,Quicksilver Sash,Statikk Shiv,Berserker's Greaves,Long Sword,Infinity Edge,31897,107374,Lane.bot_lane,Role.carry
+9,Gweiss,Maokai,True,Side.red,4,7,7,1.5714285714285714,147,Teleport,Flash,14,False,10327,10075,Doran's Shield,Spirit Visage,Mercury's Treads,Sunfire Cape,Frozen Heart,,76628,12318,Lane.top_lane,Role.solo

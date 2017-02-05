@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Poptart17,Jax,False,Side.blue,2,1,3,5.0,185,Flash,Teleport,14,False,8736,7975,Ninja Tabi,Stinger,Titanic Hydra,Ruby Crystal,Long Sword,Sheen,18189,83375,Lane.top_lane,Role.solo
+1,NaiNai,Caitlyn,False,Side.blue,3,4,7,2.5,131,Flash,Heal,12,False,8164,7000,Recurve Bow,Doran's Blade,Berserker's Greaves,Dagger,Infinity Edge,,827,79308,Lane.bot_lane,Role.carry
+2,II Master II,Ivern,False,Side.blue,4,7,6,1.4285714285714286,65,Flash,Smite,12,False,8336,7770,Hunter's Talisman,Rylai's Crystal Scepter,Ionian Boots of Lucidity,The Dark Seal,Athene's Unholy Grail,Negatron Cloak,18597,4706,Lane.jungle,Role.none
+3,Voids,Karma,False,Side.blue,3,4,9,3.0,28,Exhaust,Flash,11,False,7836,7825,Redemption,Sightstone,Ionian Boots of Lucidity,Control Ward,Frostfang,Ardent Censer,19403,6034,Lane.bot_lane,Role.support
+4,KaneKi521,Yasuo,False,Side.blue,5,7,5,1.4285714285714286,219,Flash,Ignite,14,False,10133,9550,Infinity Edge,Doran's Blade,Long Sword,Phantom Dancer,Hexdrinker,Ninja Tabi,34657,89379,Lane.mid_lane,Role.solo
+5,1deag,Nami,True,Side.red,2,4,16,4.5,12,Exhaust,Flash,11,False,9259,6325,Eye of the Watchers,Redemption,Refillable Potion,,Ionian Boots of Lucidity,Cloth Armor,8772,5043,Lane.bot_lane,Role.support
+6,value,Varus,True,Side.red,5,4,10,3.75,157,Flash,Heal,13,False,11943,9900,Doran's Blade,Essence Reaver,B. F. Sword,Rapid Firecannon,Ionian Boots of Lucidity,Pickaxe,8861,100940,Lane.bot_lane,Role.carry
+7,Kat In the Hat,Lee Sin,True,Side.red,5,3,6,3.6666666666666665,147,Smite,Flash,14,True,11324,8200,Tiamat,,The Black Cleaver,Boots of Swiftness,Enchantment: Warrior,Refillable Potion,20968,136081,Lane.jungle,Role.none
+8,KushaIa Daora,Veigar,True,Side.red,8,4,5,3.25,154,Flash,Exhaust,14,False,11689,10400,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Void Staff,Control Ward,110795,12500,Lane.mid_lane,Role.solo
+9,Lucky of Legends,Darius,True,Side.red,3,2,3,3.0,202,Flash,Ghost,13,False,10770,10550,Mercury's Treads,The Black Cleaver,Zz'Rot Portal,Doran's Blade,Frozen Mallet,,1788,78196,Lane.top_lane,Role.solo

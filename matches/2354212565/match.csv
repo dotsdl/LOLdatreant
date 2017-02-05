@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shalesh,Akali,False,Side.blue,1,3,2,1.0,147,Ghost,Flash,13,False,7165,6870,Sorcerer's Shoes,Hextech Gunblade,Fiendish Codex,Negatron Cloak,,,23668,43620,Lane.mid_lane,Role.solo
+1,Maloy,Riven,False,Side.blue,4,9,1,0.5555555555555556,138,Flash,Teleport,12,False,7882,7550,Tiamat,Pickaxe,Caulfield's Warhammer,The Black Cleaver,Ionian Boots of Lucidity,,3278,70099,Lane.top_lane,Role.solo
+2,Excodar,Jhin,False,Side.blue,4,9,5,1.0,136,Flash,Heal,11,False,7732,7050,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Speed,,,8399,67498,Lane.bot_lane,Role.carry
+3,Braums Mustache,Tahm Kench,False,Side.blue,2,6,7,1.5,32,Flash,Exhaust,9,False,6327,5550,Boots of Swiftness,Sightstone,Face of the Mountain,Aegis of the Legion,,,14777,4326,Lane.bot_lane,Role.support
+4,Watarimono,Ivern,False,Side.blue,3,4,6,2.25,74,Flash,Smite,12,False,7213,6425,Skirmisher's Sabre,Refillable Potion,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Bami's Cinder,,13684,8162,Lane.jungle,Role.none
+5,Zefyrin,Karma,True,Side.red,4,3,20,8.0,15,Exhaust,Flash,12,False,10123,9000,Eye of the Watchers,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Forbidden Idol,Faerie Charm,18492,8365,Lane.bot_lane,Role.support
+6,Sisyphus,Lee Sin,True,Side.red,6,4,8,3.5,117,Flash,Smite,13,False,10218,9600,Refillable Potion,Control Ward,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Sterak's Gage,21895,81857,Lane.jungle,Role.none
+7,Viking Karots,Ezreal,True,Side.red,9,3,14,7.666666666666667,107,Heal,Flash,12,False,10891,10100,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,Manamune,Doran's Blade,,19300,66067,Lane.bot_lane,Role.carry
+8,TuxedoDonut,Zac,True,Side.red,6,2,10,8.0,171,Teleport,Flash,14,True,10271,9300,Ionian Boots of Lucidity,Sunfire Cape,Spirit Visage,Doran's Shield,Warden's Mail,Giant's Belt,79936,17327,Lane.top_lane,Role.solo
+9,v Shuffles,Orianna,True,Side.red,6,2,9,7.5,178,Ghost,Flash,14,False,10915,9950,Morellonomicon,Luden's Echo,,Giant's Belt,Doran's Ring,Sorcerer's Shoes,92320,16603,Lane.mid_lane,Role.solo

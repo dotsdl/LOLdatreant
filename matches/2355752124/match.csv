@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,herolineage,Jax,True,Side.blue,8,10,10,1.8,314,Flash,Teleport,18,False,16343,13983,Hexdrinker,Blade of the Ruined King,Mercury's Treads,Trinity Force,Jaurim's Fist,Mortal Reminder,37598,186559,Lane.top_lane,Role.solo
+1,OneTrickRat,Shaco,True,Side.blue,7,6,14,3.5,125,Ignite,Smite,17,False,12871,11910,Enchantment: Runic Echoes,Hextech Gunblade,Amplifying Tome,Mercury's Treads,Lich Bane,Giant's Belt,84522,62300,Lane.jungle,Role.none
+2,Unlucky FapZz,Yasuo,True,Side.blue,4,8,14,2.25,184,Exhaust,Flash,16,False,12849,14427,Maw of Malmortius,Frozen Mallet,Statikk Shiv,Berserker's Greaves,B. F. Sword,,47697,93339,Lane.mid_lane,Role.solo
+3,SebThePleb,Jinx,True,Side.blue,9,5,14,4.6,317,Heal,Flash,17,False,16839,14170,Mercurial Scimitar,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,4890,213223,Lane.bot_lane,Role.carry
+4,False 001,Taric,True,Side.blue,4,2,23,13.5,60,Flash,Exhaust,16,False,12467,9650,Face of the Mountain,Sightstone,Locket of the Iron Solari,Knight's Vow,Boots of Swiftness,Warden's Mail,15248,10155,Lane.bot_lane,Role.support
+5,Newb4Life666,Tristana,False,Side.red,2,10,10,1.2,259,Flash,Heal,15,False,14275,13500,B. F. Sword,Infinity Edge,Statikk Shiv,Berserker's Greaves,Lord Dominik's Regards,Vampiric Scepter,43931,125112,Lane.bot_lane,Role.carry
+6,TaintedDestiny,Lee Sin,False,Side.red,5,4,11,4.0,138,Smite,Flash,16,True,13798,13375,Edge of Night,Enchantment: Warrior,Randuin's Omen,Ninja Tabi,Dead Man's Plate,Cloth Armor,32122,134911,Lane.jungle,Role.none
+7,Kholek Suneater,Nasus,False,Side.red,7,5,6,2.6,342,Flash,Teleport,18,False,17916,17558,Zz'Rot Portal,Dead Man's Plate,Randuin's Omen,Thornmail,Ninja Tabi,Trinity Force,137947,91673,Lane.top_lane,Role.solo
+8,Fix Your Couch,Brand,False,Side.red,14,7,12,3.7142857142857144,235,Flash,Ignite,18,False,17071,15500,Blasting Wand,Rod of Ages,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Liandry's Torment,Rabadon's Deathcap,170699,25657,Lane.mid_lane,Role.solo
+9,WPNsuper,Thresh,False,Side.red,3,6,13,2.6666666666666665,37,Flash,Exhaust,15,False,10517,10250,Ruby Sightstone,Frozen Heart,Mercury's Treads,Face of the Mountain,,Redemption,25113,12321,Lane.bot_lane,Role.support

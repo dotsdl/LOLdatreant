@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sasuni,Ivern,True,Side.blue,5,1,12,17.0,76,Smite,Flash,12,False,9622,7050,Hunter's Talisman,Refillable Potion,Ionian Boots of Lucidity,The Dark Seal,Athene's Unholy Grail,Rylai's Crystal Scepter,24775,9309,Lane.jungle,Role.none
+1,whywhywhywhywhy,LeBlanc,True,Side.blue,10,1,1,11.0,165,Flash,Ignite,13,False,10905,9225,Doran's Ring,Morellonomicon,Abyssal Scepter,Refillable Potion,Sorcerer's Shoes,Needlessly Large Rod,66328,11980,Lane.mid_lane,Role.solo
+2,YellowHazee,Sivir,True,Side.blue,9,1,9,18.0,183,Flash,Heal,13,False,11986,8850,Berserker's Greaves,Essence Reaver,Statikk Shiv,Pickaxe,,Doran's Blade,8612,116467,Lane.bot_lane,Role.carry
+3,Challenger 4 Xzq,Kayle,True,Side.blue,1,1,4,5.0,237,Ghost,Flash,14,False,10355,8000,Boots of Speed,Nashor's Tooth,Guinsoo's Rageblade,Dagger,Dagger,Doran's Ring,93747,48093,Lane.top_lane,Role.solo
+4,  Ran God Sy,Alistar,True,Side.blue,2,3,14,5.333333333333333,39,Exhaust,Flash,11,True,7766,6050,Redemption,Boots of Mobility,Face of the Mountain,Ruby Crystal,,,11106,8536,Lane.bot_lane,Role.support
+5,kevinswa,Ahri,False,Side.red,1,4,1,0.5,153,Flash,Ignite,12,False,6747,6200,Doran's Ring,Abyssal Scepter,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Fiendish Codex,Lost Chapter,34313,10345,Lane.mid_lane,Role.solo
+6,Grillsy,Garen,False,Side.red,1,3,2,1.0,133,Teleport,Flash,12,False,6439,6050,Doran's Shield,Spirit Visage,Bami's Cinder,Boots of Speed,Chain Vest,Null-Magic Mantle,12524,50805,Lane.top_lane,Role.solo
+7,Morning of Owl,Vayne,False,Side.red,2,9,0,0.2222222222222222,130,Heal,Flash,10,False,6759,6425,Doran's Blade,Statikk Shiv,Pickaxe,Berserker's Greaves,,B. F. Sword,19405,45580,Lane.bot_lane,Role.carry
+8,Neko the Support,Thresh,False,Side.red,1,6,4,0.8333333333333334,22,Flash,Exhaust,9,False,5172,5050,Control Ward,Aegis of the Legion,Boots of Swiftness,Total Biscuit of Rejuvenation,,Eye of the Equinox,4296,3279,Lane.bot_lane,Role.support
+9,FHKQ Pigraiser,Graves,False,Side.red,2,5,2,0.8,131,Smite,Flash,12,False,7038,6325,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Long Sword,Boots of Speed,,3053,88054,Lane.jungle,Role.none

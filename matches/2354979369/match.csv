@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid Painless,Karma,False,Side.blue,0,1,3,3.0,175,Flash,Ghost,13,False,7110,6150,Doran's Ring,Athene's Unholy Grail,Ardent Censer,Ionian Boots of Lucidity,,,71313,13000,Lane.mid_lane,Role.solo
+1,Biofrost ,Braum,False,Side.blue,0,6,6,1.0,37,Flash,Exhaust,10,False,5397,4625,Ruby Sightstone,Targon's Brace,Control Ward,Boots of Mobility,Kindlegem,,8509,6120,Lane.bot_lane,Role.support
+2,Doublelift,Vayne,False,Side.blue,4,8,0,0.5,189,Flash,Heal,11,False,8382,7875,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,,Control Ward,11246,72701,Lane.bot_lane,Role.carry
+3,windking66,Graves,False,Side.blue,5,5,0,1.0,147,Smite,Flash,12,False,8658,8150,Refillable Potion,Last Whisper,Long Sword,Phantom Dancer,Enchantment: Warrior,Berserker's Greaves,4950,111252,Lane.jungle,Role.none
+4,Hi Im A Sheep,Shen,False,Side.blue,0,7,7,1.0,150,Flash,Teleport,13,False,7277,6625,Control Ward,Kindlegem,Spectre's Cowl,Sunfire Cape,Doran's Shield,Mercury's Treads,63937,24789,Lane.jungle,Role.none
+5,NayvadiusWilburn,Corki,True,Side.red,7,0,10,17.0,141,Flash,Heal,12,False,11770,9333,Doran's Blade,Hextech Gunblade,Trinity Force,Refillable Potion,Sorcerer's Shoes,Cull,54668,26045,Lane.bot_lane,Role.carry
+6,Keegun,Pantheon,True,Side.red,3,5,15,3.6,37,Flash,Ignite,11,True,8810,7825,Redemption,Sightstone,Edge of Night,Ionian Boots of Lucidity,Relic Shield,,2986,24972,Lane.bot_lane,Role.support
+7,Grigne,Lee Sin,True,Side.red,7,1,13,20.0,113,Flash,Smite,14,False,11267,8720,Enchantment: Warrior,Sightstone,Randuin's Omen,Negatron Cloak,Long Sword,Ninja Tabi,16269,107671,Lane.jungle,Role.none
+8,Riesig,Yorick,True,Side.red,5,2,5,5.0,193,Flash,Teleport,15,False,11861,10183,Corrupting Potion,Trinity Force,Kindlegem,Ninja Tabi,Zz'Rot Portal,Spectre's Cowl,17380,105538,Lane.top_lane,Role.solo
+9,SSBM Hax,Twisted Fate,True,Side.red,5,1,12,17.0,213,Flash,Ghost,15,False,12966,10500,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Zhonya's Hourglass,Refillable Potion,Lich Bane,119893,12065,Lane.mid_lane,Role.solo

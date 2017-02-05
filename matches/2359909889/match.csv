@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MindCalm,Nami,True,Side.blue,1,1,23,24.0,7,Flash,Exhaust,12,False,8305,6575,Sightstone,Refillable Potion,Frost Queen's Claim,Redemption,Boots of Mobility,,9269,10200,Lane.bot_lane,Role.support
+1,lost in thoughts,LeBlanc,True,Side.blue,20,4,3,5.75,154,Flash,Teleport,14,True,13588,13500,Doran's Ring,Morellonomicon,Mejai's Soulstealer,Sorcerer's Shoes,Rylai's Crystal Scepter,Rabadon's Deathcap,98138,13226,Lane.mid_lane,Role.solo
+2,never lucky help,Vayne,True,Side.blue,13,3,10,7.666666666666667,172,Heal,Flash,13,False,12216,9575,Doran's Blade,Phantom Dancer,Dagger,Berserker's Greaves,Infinity Edge,Zeal,1452,91931,Lane.bot_lane,Role.carry
+3,Irelia Carries U,Irelia,True,Side.blue,3,5,11,2.8,142,Teleport,Flash,12,False,9233,7583,Corrupting Potion,Trinity Force,Ninja Tabi,Vampiric Scepter,Recurve Bow,Long Sword,3905,66575,Lane.top_lane,Role.solo
+4,effortlessly,Hecarim,True,Side.blue,6,2,9,7.5,103,Smite,Ghost,12,False,9398,6958,,,Refillable Potion,Trinity Force,Enchantment: Cinderhulk,Boots of Speed,11902,88698,Lane.jungle,Role.none
+5,Ifkinluvpeaches,Udyr,False,Side.red,4,5,5,1.8,99,Smite,Flash,12,False,7951,7325,Enchantment: Cinderhulk,Blade of the Ruined King,Hunter's Potion,,Boots of Swiftness,,55488,28914,Lane.jungle,Role.none
+6,Alicopter,Alistar,False,Side.red,3,7,5,1.1428571428571428,21,Ignite,Flash,10,False,6093,5150,Crystalline Bracer,Total Biscuit of Rejuvenation,,Boots of Mobility,Face of the Mountain,Sightstone,13053,2676,Lane.bot_lane,Role.support
+7,Based Stevens,Ezreal,False,Side.red,5,11,1,0.5454545454545454,120,Heal,Flash,12,False,7826,7200,Hextech Gunblade,Manamune,Cull,Doran's Blade,Boots of Speed,,13165,47257,Lane.mid_lane,Role.solo
+8,Liquid fabbbyyy,Lucian,False,Side.red,0,12,4,0.3333333333333333,78,Flash,Heal,10,False,5857,5300,Infinity Edge,Cull,Boots of Speed,Dagger,Doran's Blade,,1909,35742,Lane.bot_lane,Role.carry
+9,Gube,Poppy,False,Side.red,3,8,7,1.25,94,Flash,Teleport,11,False,7194,6375,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Boots of Swiftness,Kindlegem,,14344,31335,Lane.top_lane,Role.solo

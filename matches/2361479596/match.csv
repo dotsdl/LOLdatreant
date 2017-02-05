@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TdollasAKATmoney,Brand,True,Side.blue,3,1,6,9.0,3,Flash,Exhaust,9,False,6761,6185,Frostfang,Sorcerer's Shoes,Haunting Guise,Sightstone,Amplifying Tome,Giant's Belt,17046,6173,Lane.bot_lane,Role.support
+1,kt Sofm,Caitlyn,True,Side.blue,3,0,7,10.0,148,Heal,Flash,12,False,9649,8350,Berserker's Greaves,Health Potion,Cull,Doran's Blade,Runaan's Hurricane,Infinity Edge,428,99042,Lane.bot_lane,Role.carry
+2,ponies r kute,Riven,True,Side.blue,2,3,2,1.3333333333333333,156,Flash,Teleport,12,False,8305,7475,The Black Cleaver,Ionian Boots of Lucidity,B. F. Sword,Null-Magic Mantle,Serrated Dirk,,0,89679,Lane.top_lane,Role.solo
+3,am tham ben em,Syndra,True,Side.blue,6,0,4,10.0,178,Flash,Ghost,12,True,9996,8800,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Doran's Ring,Needlessly Large Rod,,98071,8496,Lane.mid_lane,Role.solo
+4,IFapToYourSister,Vi,True,Side.blue,3,0,5,8.0,104,Smite,Flash,11,False,8348,6775,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Sterak's Gage,Dagger,,1517,108652,Lane.jungle,Role.none
+5,Bao Bao,Rengar,False,Side.red,2,5,0,0.4,87,Smite,Flash,10,False,5685,5350,Skirmisher's Sabre,Boots of Speed,The Black Cleaver,Kindlegem,,,9785,54150,Lane.jungle,Role.none
+6,ejzk,Janna,False,Side.red,0,2,1,0.5,5,Exhaust,Flash,9,False,4001,3400,Ancient Coin,Sightstone,Forbidden Idol,Crystalline Bracer,Boots of Speed,,2418,2667,Lane.bot_lane,Role.support
+7,NEACE  Eeeee,Shaco,False,Side.red,1,2,3,2.0,112,Teleport,Ignite,12,False,5769,4825,Hextech Protobelt-01,Corrupting Potion,Doran's Ring,The Dark Seal,Ionian Boots of Lucidity,,33840,15380,Lane.top_lane,Role.solo
+8,BigPickle11,Ahri,False,Side.red,0,5,0,0.0,112,Flash,Ignite,10,False,5207,4795,,,Negatron Cloak,Morellonomicon,Doran's Ring,Doran's Ring,25426,7106,Lane.mid_lane,Role.solo
+9,Nillers,Vayne,False,Side.red,1,3,0,0.3333333333333333,121,Heal,Flash,10,False,5729,3750,Doran's Blade,Boots of Speed,B. F. Sword,Zeal,Dagger,,0,41714,Lane.bot_lane,Role.carry

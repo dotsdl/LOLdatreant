@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Newbert,Shyvana,False,Side.blue,3,5,4,1.4,200,Smite,Ghost,16,False,11596,10425,Titanic Hydra,Control Ward,Mercury's Treads,Dead Man's Plate,Enchantment: Bloodrazor,,66015,104565,Lane.jungle,Role.none
+1,DarkL3g3nd,Vel'Koz,False,Side.blue,4,5,3,1.4,203,Flash,Ghost,14,False,11250,10725,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Void Staff,,100070,15924,Lane.mid_lane,Role.solo
+2,RÛRÛRÛRÛRÛ,Kennen,False,Side.blue,6,1,6,12.0,283,Flash,Teleport,17,True,12846,12200,Hextech Protobelt-01,Seeker's Armguard,Sorcerer's Shoes,Abyssal Scepter,Void Staff,Fiendish Codex,119059,29862,Lane.top_lane,Role.solo
+3,WLP Brownie,Zyra,False,Side.blue,0,6,10,1.6666666666666667,38,Exhaust,Flash,13,False,9340,8950,Frost Queen's Claim,Ruby Sightstone,Control Ward,Sorcerer's Shoes,Rylai's Crystal Scepter,,39395,4999,Lane.bot_lane,Role.support
+4,The Riven,Ezreal,False,Side.blue,6,6,2,1.3333333333333333,255,Heal,Flash,16,False,12854,11663,Muramana,Blade of the Ruined King,Berserker's Greaves,Trinity Force,,Doran's Blade,21767,150899,Lane.bot_lane,Role.carry
+5,Nub4lyf,Sona,True,Side.red,5,1,11,16.0,48,Flash,Exhaust,15,False,12602,9900,Frost Queen's Claim,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Athene's Unholy Grail,Sapphire Crystal,34260,11974,Lane.bot_lane,Role.support
+6,v Davidovski,Caitlyn,True,Side.red,6,5,10,3.2,256,Heal,Flash,16,False,14906,11450,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Vampiric Scepter,5381,211486,Lane.bot_lane,Role.carry
+7,LunarDelRey,Ivern,True,Side.red,3,4,9,3.0,106,Smite,Flash,15,False,12798,12250,Redemption,Hextech GLP-800,Locket of the Iron Solari,Enchantment: Runic Echoes,Boots of Swiftness,Fiendish Codex,22482,8248,Lane.jungle,Role.none
+8,The Clark,Illaoi,True,Side.red,4,6,3,1.1666666666666667,298,Flash,Teleport,18,False,14858,13525,The Black Cleaver,Giant's Belt,Mercury's Treads,Sterak's Gage,Spirit Visage,Thornmail,4097,211617,Lane.top_lane,Role.solo
+9,JezteRzT,Anivia,True,Side.red,4,3,8,4.0,270,Flash,Ghost,17,False,14598,10735,Void Staff,Seraph's Embrace,Rod of Ages,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,187785,16779,Lane.mid_lane,Role.solo

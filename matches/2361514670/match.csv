@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MadelnChina,Renekton,True,Side.blue,8,3,4,4.0,175,Flash,Teleport,15,False,12086,10650,The Black Cleaver,Tiamat,Maw of Malmortius,Vampiric Scepter,Doran's Blade,Ninja Tabi,2641,107909,Lane.top_lane,Role.solo
+1,AshtonKing,Lux,True,Side.blue,6,2,8,7.0,186,Ghost,Flash,14,False,11331,10385,Luden's Echo,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Needlessly Large Rod,Blasting Wand,101021,17348,Lane.mid_lane,Role.solo
+2,Get Good Le Bad,Ezreal,True,Side.blue,7,4,10,4.25,149,Heal,Flash,13,False,11096,10600,Bilgewater Cutlass,Hexdrinker,Ionian Boots of Lucidity,Recurve Bow,Iceborn Gauntlet,Muramana,15856,89826,Lane.bot_lane,Role.carry
+3,Mata dog,Thresh,True,Side.blue,1,5,14,3.0,13,Flash,Exhaust,12,False,8016,7450,Face of the Mountain,Redemption,Ruby Sightstone,Boots of Mobility,,,8503,6306,Lane.bot_lane,Role.support
+4,TheWhiteShofu ,Kha'Zix,True,Side.blue,11,2,7,9.0,111,Smite,Flash,15,True,12302,11775,Enchantment: Warrior,Duskblade of Draktharr,Mercury's Treads,Tiamat,The Black Cleaver,Long Sword,4734,125003,Lane.jungle,Role.none
+5,Aisonu,Graves,False,Side.red,7,7,2,1.2857142857142858,138,Flash,Smite,14,False,9518,9100,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Boots of Speed,The Black Cleaver,Cloth Armor,2486,105670,Lane.jungle,Role.none
+6,Autist Retard,Caitlyn,False,Side.red,2,6,3,0.8333333333333334,116,Heal,Flash,11,False,7200,6975,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Dagger,,653,52242,Lane.bot_lane,Role.carry
+7,BoBsMiTh,Kennen,False,Side.red,1,6,2,0.5,140,Teleport,Flash,12,False,7176,6850,Doran's Blade,Hextech Protobelt-01,Refillable Potion,Haunting Guise,Sorcerer's Shoes,Blasting Wand,45386,21853,Lane.mid_lane,Role.solo
+8,0 K A Y B O Y S,Blitzcrank,False,Side.red,6,4,5,2.75,35,Flash,Ignite,12,False,7563,6975,Forbidden Idol,Knight's Vow,Sightstone,Boots of Mobility,Targon's Brace,Crystalline Bracer,8792,10009,Lane.bot_lane,Role.support
+9,l Death Knight l,Mordekaiser,False,Side.red,0,10,6,0.6,175,Flash,Ignite,12,False,7562,7300,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Hextech Protobelt-01,,,88444,13263,Lane.top_lane,Role.solo

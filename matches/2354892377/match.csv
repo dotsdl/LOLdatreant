@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,impala tamer,Alistar,False,Side.blue,0,5,9,1.8,43,Ignite,Flash,13,False,8802,8500,Eye of the Equinox,Knight's Vow,Control Ward,Boots of Mobility,Zeke's Harbinger,,9984,5371,Lane.bot_lane,Role.support
+1,Abou222,Ryze,False,Side.blue,3,0,7,10.0,275,Teleport,Flash,16,False,12322,11260,Seraph's Embrace,Guardian Angel,Blasting Wand,Rod of Ages,Amplifying Tome,Sorcerer's Shoes,166967,7003,Lane.top_lane,Role.solo
+2,SSBM Hax,Twisted Fate,False,Side.blue,3,2,6,4.5,248,Flash,Ghost,16,False,13467,13075,Doran's Ring,Lich Bane,Rod of Ages,Zhonya's Hourglass,Void Staff,Ionian Boots of Lucidity,159958,14041,Lane.mid_lane,Role.solo
+3,Zaganox,Caitlyn,False,Side.blue,7,4,3,2.5,323,Heal,Flash,15,False,14472,13930,Vampiric Scepter,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,3141,216989,Lane.bot_lane,Role.carry
+4,Contractz,Lee Sin,False,Side.blue,3,5,5,1.6,148,Smite,Flash,15,False,11224,11050,Null-Magic Mantle,Enchantment: Warrior,Spirit Visage,Mercury's Treads,Chain Vest,Dead Man's Plate,20902,108567,Lane.jungle,Role.none
+5,Rohammers,Gangplank,True,Side.red,5,0,6,11.0,345,Teleport,Flash,17,True,16622,15558,Trinity Force,Hexdrinker,Infinity Edge,Statikk Shiv,Caulfield's Warhammer,Phantom Dancer,27259,316192,Lane.mid_lane,Role.solo
+6,Str1fe,Ashe,True,Side.red,1,5,5,1.2,205,Flash,Heal,13,False,11485,10900,Cloak of Agility,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Pickaxe,2879,122071,Lane.bot_lane,Role.carry
+7,Grigne,Elise,True,Side.red,8,2,6,7.0,174,Flash,Smite,16,False,13696,11850,Enchantment: Runic Echoes,Mercury's Treads,Spectre's Cowl,Rylai's Crystal Scepter,The Dark Seal,Dead Man's Plate,159151,42501,Lane.jungle,Role.none
+8,FrozenNight,Janna,True,Side.red,0,3,12,4.0,26,Flash,Exhaust,13,False,9197,8300,Nomad's Medallion,Mikael's Crucible,Ruby Sightstone,Redemption,Boots of Mobility,Control Ward,5078,3155,Lane.bot_lane,Role.support
+9,Maxtrobo,Illaoi,True,Side.red,2,6,7,1.5,297,Flash,Teleport,16,False,13058,11325,The Black Cleaver,Randuin's Omen,Corrupting Potion,Death's Dance,Mercury's Treads,,378,218889,Lane.top_lane,Role.solo

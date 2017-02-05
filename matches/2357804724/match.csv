@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Tank Man,Karma,True,Side.blue,4,2,20,12.0,110,Flash,Exhaust,14,False,10096,7975,Doran's Ring,Ionian Boots of Lucidity,Athene's Unholy Grail,Needlessly Large Rod,Ardent Censer,Blasting Wand,52672,11463,Lane.mid_lane,Role.solo
+1,IIIlIIIlIIIllI,Pantheon,True,Side.blue,9,5,7,3.2,151,Flash,Teleport,14,False,11215,10725,Ionian Boots of Lucidity,Duskblade of Draktharr,Corrupting Potion,Edge of Night,Youmuu's Ghostblade,,6744,91004,Lane.top_lane,Role.solo
+2,Liquid Painless,Morgana,True,Side.blue,3,2,18,10.5,13,Flash,Exhaust,13,False,9207,6225,Faerie Charm,Eye of the Watchers,Faerie Charm,Ionian Boots of Lucidity,Control Ward,Locket of the Iron Solari,14263,7434,Lane.bot_lane,Role.support
+3,LimitedExtent,Twitch,True,Side.blue,15,0,4,19.0,246,Heal,Flash,14,True,15855,11750,Doran's Blade,Control Ward,Runaan's Hurricane,The Bloodthirster,Berserker's Greaves,Infinity Edge,1800,166293,Lane.bot_lane,Role.carry
+4,An Obese Panda,Gragas,True,Side.blue,2,2,17,9.5,98,Smite,Flash,13,False,9736,7520,Negatron Cloak,Refillable Potion,Dead Man's Plate,Ionian Boots of Lucidity,,Enchantment: Runic Echoes,72347,24520,Lane.jungle,Role.none
+5,Makavéli,Ryze,False,Side.red,3,7,4,1.0,155,Ghost,Flash,12,False,8264,8200,Tear of the Goddess,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,Elixir of Iron,75875,8582,Lane.jungle,Role.none
+6,McCashDollar,Shaco,False,Side.red,2,8,3,0.625,141,Teleport,Ignite,13,False,7592,6950,Corrupting Potion,Hextech Protobelt-01,Fiendish Codex,Sheen,Doran's Ring,Ninja Tabi,39306,23499,Lane.top_lane,Role.solo
+7,Wiggily,Jhin,False,Side.red,2,8,1,0.375,147,Flash,Heal,11,False,7786,7100,Doran's Blade,Essence Reaver,Rapid Firecannon,,Boots of Speed,,5595,78291,Lane.bot_lane,Role.carry
+8,Winter is back,Alistar,False,Side.red,0,5,8,1.6,25,Flash,Exhaust,10,False,5591,5275,Targon's Brace,Boots of Mobility,,Sightstone,,Redemption,5802,3626,Lane.bot_lane,Role.support
+9,Silas Kroeger,Olaf,False,Side.red,4,5,2,1.2,149,Smite,Ghost,13,False,8977,8575,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Refillable Potion,Dead Man's Plate,Giant's Belt,Warden's Mail,17851,95701,Lane.jungle,Role.none

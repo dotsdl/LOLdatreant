@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SantaEternal,Tryndamere,False,Side.blue,0,6,1,0.16666666666666666,76,Flash,Smite,11,False,5636,5325,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Kircheis Shard,Brawler's Gloves,Dagger,1001,44812,Lane.jungle,Role.none
+1,Sun Your Mom,Nautilus,False,Side.blue,0,6,3,0.5,112,Teleport,Flash,11,False,5853,5700,Refillable Potion,Doran's Ring,Zz'Rot Portal,Doran's Ring,Ninja Tabi,Chain Vest,23882,14220,Lane.top_lane,Role.solo
+2,Hi I am Fizz,Vayne,False,Side.blue,3,5,2,1.0,184,Flash,Heal,13,False,8196,7975,Infinity Edge,,,Berserker's Greaves,Doran's Shield,Statikk Shiv,21327,56583,Lane.bot_lane,Role.carry
+3,SeasonSun,Janna,False,Side.blue,1,2,3,2.0,5,Flash,Exhaust,10,False,4977,4225,Sightstone,Aegis of the Legion,Boots of Mobility,Frostfang,,Control Ward,4528,1687,Lane.bot_lane,Role.support
+4,CandyEternal,Veigar,False,Side.blue,4,7,2,0.8571428571428571,144,Heal,Flash,12,False,7702,6800,Doran's Ring,Morellonomicon,Seeker's Armguard,Fiendish Codex,Sorcerer's Shoes,,76107,6855,Lane.mid_lane,Role.solo
+5,Green CN,Riven,True,Side.red,4,1,5,9.0,184,Flash,Teleport,14,False,10652,10025,Youmuu's Ghostblade,Tiamat,Null-Magic Mantle,Mercury's Treads,The Black Cleaver,Vampiric Scepter,0,115921,Lane.top_lane,Role.solo
+6,Lito Rocket,Caitlyn,True,Side.red,4,2,6,5.0,158,Heal,Flash,12,False,9726,8675,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Doran's Blade,Pickaxe,,324,111764,Lane.bot_lane,Role.carry
+7,YouOnLun9,Orianna,True,Side.red,5,1,6,11.0,138,Ghost,Flash,13,False,9584,8525,Doran's Ring,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,63532,14583,Lane.mid_lane,Role.solo
+8,Lito Key,Karma,True,Side.red,2,2,11,6.5,32,Exhaust,Flash,12,False,8700,8575,Eye of the Watchers,Blasting Wand,Needlessly Large Rod,Ardent Censer,The Dark Seal,Sorcerer's Shoes,24206,9247,Lane.bot_lane,Role.support
+9,bu xu xiao,Lee Sin,True,Side.red,11,2,4,7.5,139,Smite,Flash,15,True,12009,10500,,Ravenous Hydra,Enchantment: Warrior,Serrated Dirk,Boots of Speed,The Black Cleaver,20580,124928,Lane.jungle,Role.none

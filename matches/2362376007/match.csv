@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizikz,Riven,True,Side.blue,9,1,2,11.0,145,Smite,Flash,13,False,10856,10425,Titanic Hydra,The Black Cleaver,Enchantment: Warrior,Control Ward,,Ionian Boots of Lucidity,722,121050,Lane.jungle,Role.none
+1,loveyen,Varus,True,Side.blue,4,1,4,8.0,163,Flash,Ghost,13,False,9082,8550,Doran's Blade,Manamune,Control Ward,Ionian Boots of Lucidity,The Black Cleaver,Hexdrinker,6392,82934,Lane.mid_lane,Role.solo
+2,Bladimir,Caitlyn,True,Side.blue,5,3,1,2.0,164,Flash,Heal,12,False,8854,7250,Runaan's Hurricane,B. F. Sword,Pickaxe,Cloak of Agility,Berserker's Greaves,Doran's Blade,238,83384,Lane.bot_lane,Role.carry
+3,FrostForest,Zyra,True,Side.blue,0,4,4,1.0,29,Flash,Exhaust,11,False,6498,6325,Eye of the Watchers,Refillable Potion,Boots of Speed,Rylai's Crystal Scepter,Control Ward,Ruby Crystal,24660,3696,Lane.bot_lane,Role.support
+4,EzPzCarryz,Maokai,True,Side.blue,0,1,5,5.0,157,Teleport,Flash,12,False,7659,6850,Sunfire Cape,Mercury's Treads,Control Ward,Corrupting Potion,Spectre's Cowl,Glacial Shroud,65823,18959,Lane.top_lane,Role.solo
+5,Beautician,Elise,False,Side.red,6,5,0,1.2,79,Smite,Flash,11,True,6847,6450,Hextech Protobelt-01,Refillable Potion,Sorcerer's Shoes,Enchantment: Runic Echoes,,,44919,20265,Lane.jungle,Role.none
+6,CN ARESgogogo,Twitch,False,Side.red,2,5,4,1.2,95,Flash,Heal,10,False,5980,5250,Doran's Blade,Zeal,Berserker's Greaves,B. F. Sword,Recurve Bow,,234,36603,Lane.bot_lane,Role.carry
+7,a very brad time,Sona,False,Side.red,1,2,5,3.0,13,Flash,Exhaust,9,False,5099,4650,Total Biscuit of Rejuvenation,Eye of the Watchers,Fiendish Codex,,Boots of Speed,Chalice of Harmony,6537,4325,Lane.bot_lane,Role.support
+8,McCABINATOR,Orianna,False,Side.red,0,3,1,0.3333333333333333,149,Flash,Cleanse,11,False,6074,5650,Refillable Potion,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Blasting Wand,,50544,10283,Lane.mid_lane,Role.solo
+9,HeiFaiC,Malphite,False,Side.red,1,3,2,1.0,143,Flash,Teleport,12,False,6404,5600,Doran's Shield,Sunfire Cape,Mercury's Treads,Glacial Shroud,,,48946,18242,Lane.top_lane,Role.solo

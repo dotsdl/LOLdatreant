@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WJNA,Lulu,False,Side.blue,2,6,9,1.8333333333333333,178,Flash,Ignite,15,False,11061,11125,Athene's Unholy Grail,Luden's Echo,Ionian Boots of Lucidity,Rabadon's Deathcap,,,95193,18775,Lane.mid_lane,Role.solo
+1,Im Vaeth,Lee Sin,False,Side.blue,7,9,6,1.4444444444444444,142,Smite,Flash,15,False,11428,10025,Mercury's Treads,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Dead Man's Plate,Control Ward,23856,80236,Lane.jungle,Role.none
+2,Tallwhitebro,Twitch,False,Side.blue,7,6,8,2.5,224,Flash,Heal,15,False,13455,12475,Doran's Blade,Runaan's Hurricane,Infinity Edge,Hexdrinker,Berserker's Greaves,Lord Dominik's Regards,3241,133541,Lane.bot_lane,Role.carry
+3,Aint Random,Renekton,False,Side.blue,4,9,4,0.8888888888888888,210,Flash,Teleport,15,False,11361,10725,Ninja Tabi,Tiamat,Spirit Visage,Vampiric Scepter,The Black Cleaver,Pickaxe,4069,123726,Lane.top_lane,Role.solo
+4,Swkeeee,Zyra,False,Side.blue,3,4,9,3.0,26,Exhaust,Flash,13,False,10701,10050,Eye of the Watchers,Sorcerer's Shoes,Rylai's Crystal Scepter,Liandry's Torment,,,41012,5049,Lane.bot_lane,Role.support
+5,Destinedwithin,Kha'Zix,True,Side.red,7,7,8,2.142857142857143,227,Flash,Smite,17,True,15428,14025,Edge of Night,Enchantment: Warrior,Youmuu's Ghostblade,Mercury's Treads,Duskblade of Draktharr,Vampiric Scepter,5916,206024,Lane.jungle,Role.none
+6,Roewland,Caitlyn,True,Side.red,1,8,10,1.375,222,Heal,Flash,15,False,13032,12850,Infinity Edge,Last Whisper,Boots of Mobility,Runaan's Hurricane,Phantom Dancer,,1089,151870,Lane.bot_lane,Role.carry
+7,Day after Day,Poppy,True,Side.red,11,4,5,4.0,226,Teleport,Flash,17,False,15339,14200,Giant's Belt,Spirit Visage,Ninja Tabi,Thornmail,Sunfire Cape,Iceborn Gauntlet,58423,109928,Lane.top_lane,Role.solo
+8,Myloo,Alistar,True,Side.red,4,3,12,5.333333333333333,61,Flash,Exhaust,14,False,11628,10550,Ruby Sightstone,Face of the Mountain,Redemption,Knight's Vow,Boots of Mobility,Chain Vest,13059,12140,Lane.bot_lane,Role.support
+9,AllAero,LeBlanc,True,Side.red,11,1,5,16.0,172,Flash,Teleport,16,False,13943,12350,,Rylai's Crystal Scepter,Refillable Potion,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,97841,16158,Lane.mid_lane,Role.solo

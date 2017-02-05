@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cotopaco Parce,Cassiopeia,False,Side.blue,1,7,3,0.5714285714285714,169,Ghost,Flash,13,False,8628,8260,Doran's Ring,Tear of the Goddess,Rylai's Crystal Scepter,Morellonomicon,Amplifying Tome,,97279,9933,Lane.mid_lane,Role.solo
+1,Soulquest1,Nasus,False,Side.blue,3,4,5,2.0,218,Teleport,Flash,15,False,10374,10400,Mercury's Treads,Spirit Visage,Iceborn Gauntlet,Sterak's Gage,Cloth Armor,Ruby Crystal,54552,97051,Lane.top_lane,Role.solo
+2,Vermillion2,Jinx,False,Side.blue,3,3,5,2.6666666666666665,221,Heal,Flash,13,False,10461,9500,Runaan's Hurricane,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,Dagger,1058,125821,Lane.bot_lane,Role.carry
+3,RedCoupa,Thresh,False,Side.blue,3,4,3,1.5,24,Flash,Ignite,11,False,6875,6575,Redemption,Face of the Mountain,Sightstone,Control Ward,Boots of Mobility,,7819,4281,Lane.bot_lane,Role.support
+4,Neoseanster,Nocturne,False,Side.blue,3,9,0,0.3333333333333333,121,Smite,Flash,12,False,8301,8150,Titanic Hydra,Skirmisher's Sabre,Mercury's Treads,Cloth Armor,Giant's Belt,Bami's Cinder,3140,97416,Lane.jungle,Role.none
+5,Victim Of Talent,Lulu,True,Side.red,7,1,11,18.0,26,Exhaust,Flash,13,False,10780,8700,Eye of the Watchers,Locket of the Iron Solari,Ionian Boots of Lucidity,Crystalline Bracer,Ardent Censer,,12358,10126,Lane.bot_lane,Role.support
+6,TheDankWithinUs,Anivia,True,Side.red,6,1,9,15.0,221,Flash,Ghost,15,False,12894,10275,,Seraph's Embrace,Sorcerer's Shoes,Rod of Ages,Doran's Ring,Void Staff,149372,13241,Lane.mid_lane,Role.solo
+7,equalix,Zac,True,Side.red,4,0,17,21.0,150,Flash,Smite,15,False,11125,10025,Enchantment: Cinderhulk,Randuin's Omen,Cloth Armor,Spirit Visage,Ninja Tabi,,105148,23586,Lane.jungle,Role.none
+8,Rekyn,Pantheon,True,Side.red,3,9,5,0.8888888888888888,136,Flash,Ignite,13,False,9480,8995,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,Negatron Cloak,Chain Vest,,13369,68583,Lane.top_lane,Role.solo
+9,Darmous,Caitlyn,True,Side.red,7,2,11,9.0,207,Flash,Heal,15,True,13158,11550,Rapid Firecannon,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Pickaxe,4723,172056,Lane.bot_lane,Role.carry

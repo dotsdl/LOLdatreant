@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Draw me an 6egg9,Jhin,True,Side.blue,1,4,9,2.5,172,Heal,Flash,13,False,10810,10125,Doran's Blade,B. F. Sword,Pickaxe,Essence Reaver,Rapid Firecannon,Boots of Swiftness,3326,108417,Lane.bot_lane,Role.carry
+1,1ncomparabIe,Lee Sin,True,Side.blue,13,1,8,21.0,127,Smite,Flash,15,False,12619,10750,Redemption,Sightstone,Hexdrinker,Mercury's Treads,Enchantment: Warrior,Sterak's Gage,22223,102037,Lane.jungle,Role.none
+2,LÌn,Orianna,True,Side.blue,13,2,11,12.0,250,Ghost,Flash,16,False,15317,13160,Amplifying Tome,Blasting Wand,Rabadon's Deathcap,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,156080,18291,Lane.mid_lane,Role.solo
+3,adc feng lft,Kayle,True,Side.blue,8,6,6,2.3333333333333335,264,Teleport,Flash,17,False,13993,13175,Nashor's Tooth,Guinsoo's Rageblade,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Zeal,Doran's Ring,131713,67032,Lane.top_lane,Role.solo
+4,Beenzinos,Vel'Koz,True,Side.blue,1,6,6,1.1666666666666667,22,Flash,Exhaust,11,False,8839,8150,Refillable Potion,The Dark Seal,Eye of the Watchers,Sorcerer's Shoes,Blasting Wand,Liandry's Torment,29767,4666,Lane.bot_lane,Role.support
+5,mackenzee,Riven,False,Side.red,3,6,2,0.8333333333333334,225,Teleport,Flash,15,False,10159,9875,Ravenous Hydra,Maw of Malmortius,Ionian Boots of Lucidity,Null-Magic Mantle,,Caulfield's Warhammer,1909,117355,Lane.top_lane,Role.solo
+6,CKE,Elise,False,Side.red,8,10,2,1.0,63,Flash,Smite,13,True,9018,8875,Enchantment: Runic Echoes,Refillable Potion,Mercury's Treads,Rylai's Crystal Scepter,Giant's Belt,Chain Vest,59785,16567,Lane.jungle,Role.none
+7,Bolomana,Sion,False,Side.red,0,8,8,1.0,65,Flash,Exhaust,12,False,7744,7150,Face of the Mountain,Sightstone,Ninja Tabi,Knight's Vow,,,23472,21979,Lane.bot_lane,Role.duo
+8,SmoKeMoNKeY93,Cassiopeia,False,Side.red,6,5,3,1.8,208,Ghost,Flash,15,False,10694,10260,Doran's Ring,Abyssal Scepter,Seraph's Embrace,Rylai's Crystal Scepter,Control Ward,Amplifying Tome,110695,12713,Lane.mid_lane,Role.solo
+9,Albus NoX,Caitlyn,False,Side.red,2,7,2,0.5714285714285714,140,Flash,Heal,13,False,8283,8000,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Infinity Edge,,,750,75891,Lane.bot_lane,Role.duo

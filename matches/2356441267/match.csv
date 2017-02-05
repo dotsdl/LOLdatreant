@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Snik,Thresh,True,Side.blue,0,3,18,6.0,18,Exhaust,Flash,10,False,6795,5550,Targon's Brace,Boots of Mobility,Sightstone,Aegis of the Legion,Crystalline Bracer,Crystalline Bracer,8223,5473,Lane.bot_lane,Role.support
+1,lc0nic,Kha'Zix,True,Side.blue,11,2,6,8.5,83,Flash,Smite,12,False,10727,8575,Enchantment: Warrior,Mercury's Treads,Youmuu's Ghostblade,Hunter's Potion,Jaurim's Fist,Long Sword,4913,96294,Lane.jungle,Role.none
+2,Useless Champ,Mordekaiser,True,Side.blue,7,2,10,8.5,138,Ignite,Flash,13,False,9927,7250,Liandry's Torment,Rylai's Crystal Scepter,Boots of Speed,,,,95347,14150,Lane.mid_lane,Role.solo
+3,Dhokla,Jayce,True,Side.blue,7,3,10,5.666666666666667,148,Flash,Teleport,13,True,10500,8850,The Bloodthirster,Refillable Potion,The Black Cleaver,Doran's Blade,Long Sword,Boots of Swiftness,11806,91446,Lane.top_lane,Role.solo
+4,Erry,Ezreal,True,Side.blue,7,2,9,8.0,162,Heal,Flash,12,False,10676,8775,Manamune,Iceborn Gauntlet,Berserker's Greaves,Doran's Blade,Recurve Bow,Vampiric Scepter,12741,85193,Lane.bot_lane,Role.carry
+5,aphromoo,Alistar,False,Side.red,1,5,4,1.0,23,Exhaust,Flash,9,False,5188,4650,Ruby Sightstone,Total Biscuit of Rejuvenation,Boots of Mobility,Control Ward,Aegis of the Legion,Relic Shield,4553,3546,Lane.bot_lane,Role.support
+6,dog2,Master Yi,False,Side.red,2,5,2,0.8,123,Flash,Smite,12,False,7212,6500,Enchantment: Bloodrazor,Frozen Mallet,Dagger,Boots of Speed,,,1104,81096,Lane.jungle,Role.none
+7,cokes,Jhin,False,Side.red,3,7,3,0.8571428571428571,100,Heal,Flash,10,False,6636,6125,Doran's Blade,Essence Reaver,Dagger,Boots of Swiftness,Total Biscuit of Rejuvenation,Brawler's Gloves,1064,42869,Lane.bot_lane,Role.carry
+8,Based Envy,Lissandra,False,Side.red,3,5,7,2.0,150,Ghost,Flash,13,False,7926,7550,Rod of Ages,Zhonya's Hourglass,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,,83873,9716,Lane.mid_lane,Role.solo
+9,foggedftw2,Tryndamere,False,Side.red,3,10,4,0.7,120,Ignite,Flash,11,False,7757,7725,Vampiric Scepter,The Black Cleaver,,Statikk Shiv,,Ionian Boots of Lucidity,5352,65185,Lane.top_lane,Role.solo

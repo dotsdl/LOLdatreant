@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,No HandleBards ,LeBlanc,True,Side.blue,9,0,7,16.0,142,Ignite,Flash,13,False,10033,9975,Doran's Ring,Needlessly Large Rod,Abyssal Scepter,Mejai's Soulstealer,Sorcerer's Shoes,Void Staff,67296,14360,Lane.mid_lane,Role.solo
+1,Edit,Vayne,True,Side.blue,3,4,6,2.25,113,Heal,Flash,10,False,7814,6575,Doran's Blade,Pickaxe,Statikk Shiv,Berserker's Greaves,B. F. Sword,,11308,46537,Lane.bot_lane,Role.carry
+2,kyŠ,Gangplank,True,Side.blue,3,0,4,7.0,179,Flash,Teleport,13,False,8890,7833,Trinity Force,B. F. Sword,Ionian Boots of Lucidity,Cloak of Agility,Pickaxe,,4689,96597,Lane.top_lane,Role.solo
+3,Jurassiq,Lee Sin,True,Side.blue,10,0,4,14.0,106,Flash,Smite,12,False,9678,7625,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Ruby Crystal,Boots of Swiftness,Cloth Armor,16613,79506,Lane.jungle,Role.none
+4,Stessy Poirier,Taric,True,Side.blue,2,1,14,16.0,30,Flash,Exhaust,9,False,7245,6025,Redemption,Sightstone,Crystalline Bracer,Targon's Brace,Ionian Boots of Lucidity,Cloth Armor,5776,10663,Lane.bot_lane,Role.support
+5,Please Fade,Jhin,False,Side.red,3,4,1,1.0,69,Heal,Flash,8,True,5079,4750,Total Biscuit of Rejuvenation,Doran's Blade,Cloak of Agility,Caulfield's Warhammer,B. F. Sword,Boots of Swiftness,1415,32556,Lane.bot_lane,Role.carry
+6,vvallabeebeatles,Sona,False,Side.red,0,8,4,0.5,16,Exhaust,Flash,8,False,4281,3700,Frostfang,Sightstone,Total Biscuit of Rejuvenation,Boots of Mobility,Fiendish Codex,,5795,3555,Lane.bot_lane,Role.support
+7,Oombadu,Illaoi,False,Side.red,0,6,0,0.0,159,Flash,Teleport,11,False,5889,5550,Boots of Speed,Death's Dance,Phage,,Corrupting Potion,,1144,86328,Lane.top_lane,Role.solo
+8,Royal Predator,Evelynn,False,Side.red,2,5,2,0.8,96,Smite,Flash,10,False,5980,5725,Hextech Revolver,Hunter's Potion,Ruby Crystal,Boots of Mobility,Enchantment: Runic Echoes,The Dark Seal,51160,27777,Lane.jungle,Role.none
+9,Give MiD,Viktor,False,Side.red,0,4,1,0.25,112,Ghost,Flash,10,False,5064,4875,,Doran's Ring,The Hex Core mk-2,Doran's Ring,Sorcerer's Shoes,Ruby Crystal,31730,6401,Lane.mid_lane,Role.solo

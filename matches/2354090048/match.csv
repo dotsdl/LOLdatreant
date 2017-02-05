@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TemptingCash,Ashe,False,Side.blue,0,6,4,0.6666666666666666,120,Flash,Heal,10,False,6319,6025,Doran's Blade,Essence Reaver,Berserker's Greaves,Dagger,Cull,,1030,43347,Lane.bot_lane,Role.carry
+1,TRUMP2016LUL XD,Yasuo,False,Side.blue,5,8,1,0.75,68,Smite,Flash,10,False,6583,6325,Enchantment: Bloodrazor,Refillable Potion,Boots of Speed,Frozen Mallet,,,5271,47896,Lane.jungle,Role.none
+2, Casely,Xerath,False,Side.blue,1,8,0,0.125,107,Flash,Ghost,10,False,5685,5410,Morellonomicon,Amplifying Tome,Doran's Ring,Sorcerer's Shoes,The Dark Seal,,44908,7791,Lane.mid_lane,Role.solo
+3,DZG Doomtrobo,Brand,False,Side.blue,2,6,2,0.6666666666666666,23,Exhaust,Flash,8,False,5501,4850,Sorcerer's Shoes,Giant's Belt,,Eye of the Watchers,,,15206,4109,Lane.bot_lane,Role.support
+4,Natalia Dyer,Riven,False,Side.blue,1,6,4,0.8333333333333334,90,Flash,Teleport,10,False,5862,5375,Doran's Shield,The Black Cleaver,Refillable Potion,Caulfield's Warhammer,,Boots of Speed,0,53548,Lane.top_lane,Role.solo
+5,McCashDollar,Shaco,True,Side.red,3,4,7,2.5,79,Teleport,Ignite,11,False,6459,5250,Refillable Potion,Hextech Protobelt-01,Doran's Ring,The Dark Seal,Aether Wisp,Ionian Boots of Lucidity,25568,12881,Lane.top_lane,Role.solo
+6,TSM MeNoHaxor,Karma,True,Side.red,4,0,17,21.0,9,Exhaust,Flash,11,False,7533,6075,Eye of the Watchers,Faerie Charm,Redemption,Boots of Mobility,Control Ward,Refillable Potion,8119,5881,Lane.bot_lane,Role.support
+7,Jeehun,Jhin,True,Side.red,5,3,8,4.333333333333333,116,Flash,Heal,11,False,7994,6600,Doran's Blade,Refillable Potion,Essence Reaver,Boots of Swiftness,Zeal,Control Ward,3712,64404,Lane.bot_lane,Role.carry
+8,l For You l,Lee Sin,True,Side.red,18,1,9,27.0,129,Flash,Smite,14,True,12481,9675,Enchantment: Warrior,Refillable Potion,Boots of Mobility,The Black Cleaver,Dead Man's Plate,,26847,92397,Lane.jungle,Role.none
+9,Prideful King,Orianna,True,Side.red,4,1,12,16.0,130,Flash,Ghost,12,False,7807,6560,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Amplifying Tome,58928,7923,Lane.mid_lane,Role.solo

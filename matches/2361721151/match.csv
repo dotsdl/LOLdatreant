@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xsaber159,Orianna,False,Side.blue,0,3,1,0.3333333333333333,70,Teleport,Flash,8,False,5040,3020,Boots of Speed,Doran's Ring,Doran's Ring,Fiendish Codex,Negatron Cloak,Refillable Potion,18289,6774,Lane.mid_lane,Role.solo
+1,Misaya Caomei,Shaco,False,Side.blue,5,3,2,2.3333333333333335,117,Flash,Smite,13,False,8013,7775,Enchantment: Runic Echoes,Refillable Potion,Hextech Gunblade,The Dark Seal,Ionian Boots of Lucidity,Long Sword,37366,49935,Lane.jungle,Role.none
+2,Abe no Seimei,Jhin,False,Side.blue,4,3,3,2.3333333333333335,187,Heal,Flash,12,False,8567,8500,Boots of Swiftness,Long Sword,Essence Reaver,,Doran's Blade,Rapid Firecannon,3034,87329,Lane.bot_lane,Role.carry
+3,King Nan,Renekton,False,Side.blue,2,8,1,0.375,97,Teleport,Flash,12,False,6310,6250,Ninja Tabi,Tiamat,The Black Cleaver,Ruby Crystal,,,4185,58609,Lane.top_lane,Role.solo
+4,im dao mei Ge,Janna,False,Side.blue,0,4,6,1.5,2,Flash,Exhaust,11,False,5341,4800,Redemption,Sightstone,Ruby Crystal,Nomad's Medallion,,Boots of Speed,2487,665,Lane.bot_lane,Role.support
+5,CC Hollywood,LeBlanc,True,Side.red,7,2,3,5.0,184,Ignite,Flash,14,False,10620,9700,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,Needlessly Large Rod,Blasting Wand,86861,13121,Lane.mid_lane,Role.solo
+6,JuIius,Twitch,True,Side.red,5,3,4,3.0,204,Heal,Flash,12,False,10293,9900,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Zeal,Kircheis Shard,0,84375,Lane.bot_lane,Role.carry
+7,rhubarbs,Karma,True,Side.red,1,1,9,10.0,14,Exhaust,Flash,11,False,6955,6625,Frostfang,Liandry's Torment,Sightstone,Mejai's Soulstealer,Refillable Potion,,23106,7508,Lane.bot_lane,Role.support
+8,diagoras,Poppy,True,Side.red,5,2,5,5.0,172,Flash,Teleport,13,False,10024,8475,Sunfire Cape,Mercury's Treads,Corrupting Potion,Iceborn Gauntlet,Spectre's Cowl,,33150,65169,Lane.top_lane,Role.solo
+9,CC J Ricosta,Lee Sin,True,Side.red,3,3,5,2.6666666666666665,120,Flash,Smite,12,True,8746,8700,Refillable Potion,Enchantment: Warrior,Ravenous Hydra,Boots of Mobility,Hexdrinker,Control Ward,17317,86393,Lane.jungle,Role.none

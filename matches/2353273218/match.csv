@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bhar,Karma,False,Side.blue,1,5,10,2.2,15,Exhaust,Flash,11,False,7721,7425,Frostfang,Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Redemption,Control Ward,12543,5825,Lane.bot_lane,Role.support
+1,J P,Ezreal,False,Side.blue,4,7,9,1.8571428571428572,155,Flash,Heal,13,False,9376,9083,Doran's Blade,Trinity Force,Last Whisper,Muramana,Ionian Boots of Lucidity,,15886,80421,Lane.bot_lane,Role.carry
+2,Spruce,Jayce,False,Side.blue,10,10,2,1.2,200,Teleport,Flash,14,False,11614,11600,Death's Dance,The Black Cleaver,Mercury's Treads,Maw of Malmortius,,,20481,104422,Lane.top_lane,Role.solo
+3,CoxcombicalJIN,Lissandra,False,Side.blue,4,6,5,1.5,249,Flash,Teleport,15,False,10956,10350,Corrupting Potion,Hextech Protobelt-01,Blasting Wand,Abyssal Scepter,Void Staff,Sorcerer's Shoes,138776,11479,Lane.mid_lane,Role.solo
+4,MrCharIes,Zac,False,Side.blue,3,5,7,2.0,101,Smite,Flash,14,False,9275,8475,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ionian Boots of Lucidity,Warden's Mail,Giant's Belt,77891,17294,Lane.jungle,Role.none
+5,Scóre,Graves,True,Side.red,6,4,9,3.75,185,Smite,Flash,16,False,13569,11450,Maw of Malmortius,Enchantment: Warrior,Phantom Dancer,Vampiric Scepter,Pickaxe,Berserker's Greaves,4636,188956,Lane.jungle,Role.none
+6,AnnieTopOnly,Annie,True,Side.red,14,3,6,6.666666666666667,197,Flash,Ignite,15,True,14585,14300,The Dark Seal,Liandry's Torment,Sorcerer's Shoes,Void Staff,Abyssal Scepter,Rylai's Crystal Scepter,120733,13291,Lane.mid_lane,Role.solo
+7,Saiyans,Draven,True,Side.red,4,7,11,2.142857142857143,150,Heal,Flash,14,False,11757,9800,Doran's Blade,Youmuu's Ghostblade,Mercurial Scimitar,Berserker's Greaves,Zeal,Dagger,0,106157,Lane.bot_lane,Role.carry
+8,Bleeds,Janna,True,Side.red,0,3,13,4.333333333333333,14,Exhaust,Flash,12,False,8738,7900,Redemption,Control Ward,Talisman of Ascension,Sightstone,Ionian Boots of Lucidity,Forbidden Idol,9449,8929,Lane.bot_lane,Role.support
+9,Juvenile,Riven,True,Side.red,9,5,9,3.6,146,Teleport,Flash,14,False,12361,11400,Mortal Reminder,Chain Vest,Null-Magic Mantle,Ionian Boots of Lucidity,Sterak's Gage,The Black Cleaver,0,100236,Lane.top_lane,Role.solo

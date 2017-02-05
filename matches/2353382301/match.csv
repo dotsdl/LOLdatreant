@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,I Want My Cigar,Kindred,True,Side.blue,7,3,7,4.666666666666667,83,Flash,Smite,13,False,9908,9575,Enchantment: Bloodrazor,Frozen Mallet,Berserker's Greaves,Runaan's Hurricane,,,2337,103882,Lane.jungle,Role.none
+1,Ðad,Katarina,True,Side.blue,5,5,7,2.4,188,Ignite,Flash,13,False,10531,9370,Sorcerer's Shoes,Hextech Gunblade,Needlessly Large Rod,Abyssal Scepter,The Dark Seal,,98752,16317,Lane.mid_lane,Role.solo
+2,Naeun,Lulu,True,Side.blue,4,2,18,11.0,13,Exhaust,Flash,12,False,8695,6800,Forbidden Idol,Eye of the Watchers,,Ionian Boots of Lucidity,Ardent Censer,,16921,7588,Lane.bot_lane,Role.support
+3,Doublelift,Twisted Fate,True,Side.blue,4,3,7,3.6666666666666665,124,Flash,Heal,11,False,9592,8600,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Speed,Hexdrinker,Control Ward,25910,44284,Lane.bot_lane,Role.carry
+4,Adrian Riven,Riven,True,Side.blue,16,3,7,7.666666666666667,166,Teleport,Flash,14,False,13027,12725,The Black Cleaver,Ravenous Hydra,Ninja Tabi,Death's Dance,Vampiric Scepter,,928,123195,Lane.top_lane,Role.solo
+5,Féarless,Vayne,False,Side.red,3,8,1,0.5,119,Heal,Flash,10,True,6762,6475,Berserker's Greaves,B. F. Sword,Statikk Shiv,Doran's Blade,Pickaxe,,2592,38717,Lane.bot_lane,Role.carry
+6,Liquid Painless,Karma,False,Side.red,2,5,7,1.8,8,Flash,Exhaust,10,False,6335,5950,Redemption,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Control Ward,,13634,3612,Lane.bot_lane,Role.support
+7,Dyrus,Olaf,False,Side.red,2,7,4,0.8571428571428571,103,Smite,Ghost,11,False,6949,5725,Enchantment: Cinderhulk,Hunter's Potion,Ionian Boots of Lucidity,Chain Vest,Giant's Belt,,6562,70883,Lane.jungle,Role.none
+8,Riesig,Fiora,False,Side.red,2,11,3,0.45454545454545453,92,Flash,Teleport,11,False,6459,5900,Corrupting Potion,Doran's Blade,The Black Cleaver,Boots of Speed,Long Sword,Tiamat,1543,32723,Lane.top_lane,Role.solo
+9,Abou222,Syndra,False,Side.red,7,6,3,1.6666666666666667,136,Exhaust,Flash,12,False,8474,7625,Doran's Ring,Refillable Potion,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,,65310,5348,Lane.mid_lane,Role.solo

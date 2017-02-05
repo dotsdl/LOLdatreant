@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fox BIG,Leona,True,Side.blue,2,2,13,7.5,24,Exhaust,Flash,10,False,7810,6525,Face of the Mountain,Ruby Sightstone,,Boots of Mobility,Crystalline Bracer,Crystalline Bracer,7567,6149,Lane.bot_lane,Role.support
+1,Entranced,Jax,True,Side.blue,5,3,4,3.0,131,Teleport,Flash,13,False,9311,6783,Doran's Blade,Corrupting Potion,Trinity Force,Giant's Belt,Mercury's Treads,,17756,57498,Lane.top_lane,Role.solo
+2,Walljumper,Shyvana,True,Side.blue,5,2,5,5.0,170,Smite,Ghost,15,False,11334,7608,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,Trinity Force,,,78831,89358,Lane.jungle,Role.none
+3,Ginormous Noob,Karma,True,Side.blue,2,2,9,5.5,129,Flash,Teleport,13,False,8566,6795,Doran's Ring,Doran's Ring,Morellonomicon,Negatron Cloak,Ionian Boots of Lucidity,Needlessly Large Rod,64840,9956,Lane.mid_lane,Role.solo
+4,Liquid fabbbyyy,Twitch,True,Side.blue,13,5,3,3.2,173,Flash,Heal,13,False,12287,11150,Quicksilver Sash,Infinity Edge,Zeal,Runaan's Hurricane,Berserker's Greaves,Dagger,1334,90409,Lane.bot_lane,Role.carry
+5,Nash,Ashe,False,Side.red,0,8,5,0.625,113,Heal,Flash,11,False,6450,6450,Essence Reaver,Cull,Dagger,Dagger,,Berserker's Greaves,1345,49741,Lane.bot_lane,Role.carry
+6,Xmithie,Lee Sin,False,Side.red,6,6,4,1.6666666666666667,77,Smite,Flash,11,True,8236,8175,Enchantment: Warrior,Refillable Potion,Caulfield's Warhammer,Control Ward,Ionian Boots of Lucidity,Edge of Night,10585,60388,Lane.jungle,Role.none
+7,Deft Pawn,Syndra,False,Side.red,5,4,4,2.25,206,Ghost,Flash,13,False,9631,9085,Morellonomicon,Rabadon's Deathcap,Amplifying Tome,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,105516,10558,Lane.mid_lane,Role.solo
+8,Cuckvele,Irelia,False,Side.red,3,6,2,0.8333333333333334,148,Flash,Teleport,11,False,7814,7763,Doran's Blade,Trinity Force,Ninja Tabi,Long Sword,Long Sword,Tiamat,1139,63029,Lane.top_lane,Role.solo
+9,Filly,Morgana,False,Side.red,0,3,7,2.3333333333333335,10,Flash,Exhaust,10,False,5242,5025,Spellthief's Edge,Chalice of Harmony,Ruby Sightstone,,Forbidden Idol,Boots of Mobility,7432,2494,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Stumpey,Lee Sin,False,Side.blue,13,8,3,2.0,118,Flash,Smite,15,True,12763,12175,Youmuu's Ghostblade,Enchantment: Warrior,Caulfield's Warhammer,Boots of Mobility,Duskblade of Draktharr,Phage,30717,98888,Lane.jungle,Role.none
+1,Me Amas,Riven,False,Side.blue,4,5,4,1.6,257,Flash,Teleport,16,False,12101,11250,Refillable Potion,Ravenous Hydra,Mercury's Treads,Doran's Blade,The Black Cleaver,Mortal Reminder,0,152172,Lane.top_lane,Role.solo
+2,CC inipro,Zyra,False,Side.blue,1,10,7,0.8,25,Ignite,Flash,12,False,8352,7775,Fiendish Codex,Liandry's Torment,Eye of the Watchers,,Sorcerer's Shoes,,40572,4190,Lane.bot_lane,Role.support
+3,Eckenroth,Graves,False,Side.blue,1,7,6,1.0,203,Heal,Flash,13,False,9938,9275,Berserker's Greaves,Infinity Edge,Phantom Dancer,Vampiric Scepter,Doran's Blade,Long Sword,1695,121629,Lane.bot_lane,Role.carry
+4,CC MercyLM,LeBlanc,False,Side.blue,3,7,4,1.0,182,Flash,Teleport,14,False,10196,9010,Morellonomicon,Amplifying Tome,The Dark Seal,Blasting Wand,Abyssal Scepter,Ionian Boots of Lucidity,93755,12238,Lane.mid_lane,Role.solo
+5,ZeroBlaze,Lissandra,True,Side.red,10,5,7,3.4,183,Flash,Teleport,15,False,13228,12150,Hextech Protobelt-01,Zhonya's Hourglass,Abyssal Scepter,Blasting Wand,Sorcerer's Shoes,Needlessly Large Rod,119031,12565,Lane.jungle,Role.none
+6,Rycah,Poppy,True,Side.red,3,2,9,6.0,246,Flash,Teleport,17,False,12999,12145,Mercury's Treads,Sunfire Cape,Negatron Cloak,Iceborn Gauntlet,Spirit Visage,Chain Vest,53396,101617,Lane.top_lane,Role.solo
+7,Suna Shogun Sama,Karma,True,Side.red,1,4,27,7.0,19,Flash,Exhaust,14,False,10555,10150,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,Ardent Censer,,10987,7635,Lane.bot_lane,Role.support
+8,RockyTSaws,Twitch,True,Side.red,15,5,14,5.8,198,Heal,Flash,15,False,15456,14275,The Bloodthirster,,Statikk Shiv,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,15765,133762,Lane.bot_lane,Role.carry
+9,Eric1,Rek'Sai,True,Side.red,8,6,16,4.0,144,Smite,Flash,15,False,13270,12050,Titanic Hydra,Enchantment: Cinderhulk,Ninja Tabi,Warden's Mail,Dead Man's Plate,Ruby Crystal,38133,123393,Lane.jungle,Role.none

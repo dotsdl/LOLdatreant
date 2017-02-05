@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Raveydemon,Lucian,True,Side.blue,5,0,8,13.0,148,Heal,Flash,12,True,9773,8150,Doran's Blade,Rapid Firecannon,,Berserker's Greaves,Essence Reaver,,1984,81096,Lane.bot_lane,Role.carry
+1,daduu,Alistar,True,Side.blue,2,2,6,4.0,10,Flash,Exhaust,9,False,5518,4775,Boots of Mobility,Ruby Sightstone,Relic Shield,Crystalline Bracer,,Ruby Crystal,7460,2913,Lane.bot_lane,Role.support
+2,never lucky help,Kennen,True,Side.blue,8,3,1,3.0,175,Teleport,Flash,14,False,9898,9575,Doran's Blade,Hextech Protobelt-01,Seeker's Armguard,Abyssal Scepter,Sorcerer's Shoes,Fiendish Codex,54495,21871,Lane.top_lane,Role.solo
+3,TheOddOrange,Kha'Zix,True,Side.blue,8,4,6,3.5,82,Flash,Smite,13,False,9505,9475,Enchantment: Warrior,Youmuu's Ghostblade,Control Ward,Mercury's Treads,Hexdrinker,Caulfield's Warhammer,4218,91616,Lane.jungle,Role.none
+4,Part The Sea,Yasuo,True,Side.blue,3,2,5,4.0,151,Flash,Exhaust,12,False,8346,7560,Quicksilver Sash,B. F. Sword,Refillable Potion,Mercury's Treads,Doran's Blade,Phantom Dancer,19553,63837,Lane.mid_lane,Role.solo
+5,sensei cat,Ivern,False,Side.red,2,4,2,1.0,47,Smite,Flash,10,False,6003,4200,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Ruby Crystal,Faerie Charm,,12931,3247,Lane.jungle,Role.none
+6,DZG Cobra,Miss Fortune,False,Side.red,2,6,4,1.0,114,Flash,Heal,11,False,7164,6150,Doran's Blade,Duskblade of Draktharr,Boots of Speed,Caulfield's Warhammer,Cull,Spellthief's Edge,18338,31354,Lane.bot_lane,Role.solo
+7,Vsionz,Graves,False,Side.red,3,3,3,2.0,139,Flash,Smite,13,False,7843,7725,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Mercury's Treads,B. F. Sword,,2059,100102,Lane.jungle,Role.none
+8,Panunu,Gragas,False,Side.red,3,7,2,0.7142857142857143,95,Ignite,Flash,10,False,6290,5450,Doran's Ring,Morellonomicon,Sorcerer's Shoes,The Dark Seal,,Doran's Ring,44671,6972,Lane.top_lane,Role.solo
+9,WINNER Jinwoo,Twisted Fate,False,Side.red,1,6,4,0.8333333333333334,137,Ignite,Flash,12,False,7195,6785,Rod of Ages,Boots of Swiftness,Sheen,Aether Wisp,Doran's Ring,Doran's Ring,58050,10612,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Chief Bandit,Twisted Fate,False,Side.blue,1,9,13,1.5555555555555556,143,Ghost,Flash,13,False,9434,7985,,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Amplifying Tome,Lich Bane,72607,12150,Lane.mid_lane,Role.solo
+1,Marty726,Renekton,False,Side.blue,11,8,3,1.75,177,Teleport,Flash,13,False,11686,11600,Doran's Blade,Ninja Tabi,Doran's Blade,The Black Cleaver,Sterak's Gage,Titanic Hydra,3592,90049,Lane.top_lane,Role.solo
+2,Prec0cious,Draven,False,Side.blue,8,9,6,1.5555555555555556,175,Heal,Flash,12,False,11878,11950,Doran's Blade,The Bloodthirster,Infinity Edge,Rapid Firecannon,Berserker's Greaves,,1983,95950,Lane.bot_lane,Role.carry
+3,Asikisa,Alistar,False,Side.blue,0,6,12,2.0,29,Flash,Exhaust,11,False,6635,6225,Crystalline Bracer,Locket of the Iron Solari,Sightstone,Targon's Brace,Mercury's Treads,Ruby Crystal,9270,3316,Lane.bot_lane,Role.support
+4,Sofm  Aquarius,Lee Sin,False,Side.blue,7,9,10,1.8888888888888888,132,Flash,Smite,14,False,10394,9700,Enchantment: Warrior,Dead Man's Plate,Tiamat,Ninja Tabi,Hexdrinker,Long Sword,16866,101264,Lane.jungle,Role.none
+5,hserhT ratS kraD,Thresh,True,Side.red,3,2,17,10.0,21,Exhaust,Flash,12,False,9290,7875,Ionian Boots of Lucidity,Zz'Rot Portal,Eye of the Oasis,Kindlegem,Spectre's Cowl,,10835,5964,Lane.bot_lane,Role.support
+6,The Dunk Show,Darius,True,Side.red,14,6,11,4.166666666666667,247,Flash,Ignite,16,True,16107,12705,Ninja Tabi,Giant's Belt,The Black Cleaver,Zz'Rot Portal,Maw of Malmortius,Doran's Blade,944,157231,Lane.top_lane,Role.solo
+7,herolineage,Amumu,True,Side.red,11,6,11,3.6666666666666665,83,Flash,Smite,14,False,11680,10210,Enchantment: Runic Echoes,Hextech GLP-800,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,,76286,19542,Lane.jungle,Role.none
+8,Klarion,Vayne,True,Side.red,3,7,8,1.5714285714285714,96,Heal,Flash,11,False,8972,8850,Pickaxe,Quicksilver Sash,Statikk Shiv,Cull,Berserker's Greaves,B. F. Sword,7409,47998,Lane.bot_lane,Role.carry
+9,Doooooris,Karthus,True,Side.red,10,6,16,4.333333333333333,114,Ghost,Flash,14,False,11683,10125,Rod of Ages,Refillable Potion,Archangel's Staff,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,112620,8910,Lane.mid_lane,Role.solo

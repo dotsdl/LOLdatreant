@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cris,Poppy,True,Side.blue,5,7,8,1.8571428571428572,169,Flash,Teleport,15,False,11545,10450,Corrupting Potion,Spirit Visage,Cloth Armor,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,27985,74283,Lane.top_lane,Role.solo
+1,Liquid fabbbyyy,Twitch,True,Side.blue,9,5,9,3.6,166,Flash,Heal,14,False,12551,10630,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,Statikk Shiv,,5803,99825,Lane.bot_lane,Role.carry
+2,Dardøch,Olaf,True,Side.blue,14,0,7,21.0,126,Smite,Ghost,15,False,13661,12425,Enchantment: Cinderhulk,Randuin's Omen,Ruby Crystal,Ionian Boots of Lucidity,Spirit Visage,Thornmail,20603,112027,Lane.jungle,Role.none
+3,stuntopia,Karma,True,Side.blue,1,1,22,23.0,21,Exhaust,Flash,13,False,9787,8725,Eye of the Watchers,Locket of the Iron Solari,Redemption,Ionian Boots of Lucidity,Refillable Potion,Fiendish Codex,17986,8655,Lane.bot_lane,Role.support
+4,Renger cat,Morgana,True,Side.blue,7,1,17,24.0,185,Teleport,Flash,16,False,13068,12075,Zhonya's Hourglass,Rod of Ages,Rabadon's Deathcap,Ionian Boots of Lucidity,Doran's Ring,Blasting Wand,104757,20875,Lane.mid_lane,Role.solo
+5,insaníty,Vayne,False,Side.red,5,7,0,0.7142857142857143,200,Flash,Heal,14,False,10531,10250,Doran's Blade,Infinity Edge,Bilgewater Cutlass,Phantom Dancer,Berserker's Greaves,Recurve Bow,1550,111318,Lane.bot_lane,Role.carry
+6,Pobelter,Kog'Maw,False,Side.red,3,8,1,0.5,202,Flash,Ghost,13,False,9598,9175,Archangel's Staff,Fiendish Codex,Sorcerer's Shoes,Luden's Echo,,Doran's Ring,99201,14379,Lane.mid_lane,Role.solo
+7,YaThatWasABanana,Lulu,False,Side.red,0,7,4,0.5714285714285714,16,Flash,Exhaust,11,False,7138,7035,Ionian Boots of Lucidity,Redemption,Refillable Potion,Eye of the Watchers,Forbidden Idol,Amplifying Tome,10108,4885,Lane.bot_lane,Role.support
+8,C9 Lemon,Nasus,False,Side.red,1,9,7,0.8888888888888888,165,Teleport,Flash,14,False,9419,9008,Doran's Ring,Corrupting Potion,Banner of Command,Mercury's Treads,Trinity Force,Giant's Belt,59676,44330,Lane.top_lane,Role.solo
+9,Hakuho,Vi,False,Side.red,5,5,4,1.8,120,Smite,Flash,13,True,9283,8925,Enchantment: Warrior,The Black Cleaver,Long Sword,Ninja Tabi,Giant's Belt,Cloth Armor,1952,102897,Lane.jungle,Role.none

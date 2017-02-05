@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,N810HO,Twitch,False,Side.blue,9,11,4,1.1818181818181819,241,Flash,Heal,16,False,13258,13350,Lord Dominik's Regards,,Berserker's Greaves,Infinity Edge,Statikk Shiv,Runaan's Hurricane,17565,147985,Lane.bot_lane,Role.carry
+1,Filly,Morgana,False,Side.blue,3,9,8,1.2222222222222223,15,Flash,Exhaust,13,False,9126,8950,Ruby Crystal,,Eye of the Watchers,Locket of the Iron Solari,Mikael's Crucible,Boots of Mobility,14908,3888,Lane.bot_lane,Role.support
+2,cat and bird,Lee Sin,False,Side.blue,9,10,6,1.5,177,Smite,Flash,16,False,12705,12050,Enchantment: Warrior,Ravenous Hydra,Boots of Mobility,Spirit Visage,Warden's Mail,Giant's Belt,35807,123239,Lane.jungle,Role.none
+3,Clyde Bot,Zilean,False,Side.blue,5,8,12,2.125,178,Ghost,Flash,16,False,11944,11810,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,Amplifying Tome,Rabadon's Deathcap,Doran's Ring,119864,11491,Lane.mid_lane,Role.solo
+4, keine Hosen,Dr. Mundo,False,Side.blue,6,6,12,3.0,252,Flash,Teleport,17,False,13890,12850,Spirit Visage,Sunfire Cape,Randuin's Omen,Doran's Shield,Ninja Tabi,Thornmail,141200,49817,Lane.top_lane,Role.solo
+5,D0NG0,Fizz,True,Side.red,11,10,13,2.4,123,Ignite,Flash,16,True,13487,12175,Needlessly Large Rod,Zhonya's Hourglass,The Dark Seal,Lich Bane,Sorcerer's Shoes,Void Staff,70788,18542,Lane.jungle,Role.none
+6,SamppA,Alistar,True,Side.red,3,8,20,2.875,41,Flash,Exhaust,14,False,11052,9100,Face of the Mountain,,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Forbidden Idol,16180,8712,Lane.bot_lane,Role.support
+7,jacksparrow111,Hecarim,True,Side.red,15,2,14,14.5,149,Smite,Ghost,17,False,16705,15658,Enchantment: Cinderhulk,Randuin's Omen,Chain Vest,Trinity Force,Mercury's Treads,Spirit Visage,34817,149761,Lane.jungle,Role.none
+8,iiGeakle,Caitlyn,True,Side.red,7,5,14,4.2,233,Flash,Heal,16,False,14574,12900,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,Vampiric Scepter,Berserker's Greaves,Last Whisper,3498,186448,Lane.bot_lane,Role.carry
+9,Fiku,Graves,True,Side.red,8,7,8,2.2857142857142856,287,Flash,Teleport,17,False,16252,15150,,The Bloodthirster,Lord Dominik's Regards,Phantom Dancer,Infinity Edge,Berserker's Greaves,752,224933,Lane.top_lane,Role.solo

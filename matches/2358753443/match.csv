@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Falco Mechanic,Caitlyn,True,Side.blue,4,5,7,2.2,199,Exhaust,Flash,13,False,10484,8700,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Null-Magic Mantle,Long Sword,621,120611,Lane.bot_lane,Role.carry
+1,ShörterACE,Karma,True,Side.blue,4,4,7,2.75,138,Flash,Ignite,13,False,9706,9100,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Ionian Boots of Lucidity,Forbidden Idol,Control Ward,55943,17064,Lane.mid_lane,Role.solo
+2,CLG Darshawn,Fiora,True,Side.blue,14,4,2,4.0,215,Teleport,Flash,15,False,13975,13533,Ravenous Hydra,The Bloodthirster,Trinity Force,Null-Magic Mantle,Ionian Boots of Lucidity,Control Ward,1848,149740,Lane.top_lane,Role.solo
+3,aphromoo,Lulu,True,Side.blue,4,1,16,20.0,23,Heal,Flash,13,False,9430,8075,Eye of the Watchers,Banner of Command,Redemption,Control Ward,Boots of Mobility,Refillable Potion,17713,3512,Lane.bot_lane,Role.support
+4,One Called Saint,Skarner,True,Side.blue,3,1,10,13.0,179,Flash,Smite,15,False,11423,9428,Enchantment: Cinderhulk,Trinity Force,Kindlegem,Negatron Cloak,,Ninja Tabi,55016,87832,Lane.jungle,Role.none
+5,Short Dog,Vi,False,Side.red,5,6,3,1.3333333333333333,149,Smite,Flash,14,True,10792,10358,Enchantment: Warrior,Ionian Boots of Lucidity,Refillable Potion,Trinity Force,Guardian Angel,Ruby Crystal,1377,152626,Lane.jungle,Role.none
+6,IKingVex,Jhin,False,Side.red,2,6,5,1.1666666666666667,170,Heal,Flash,12,False,8987,7700,Doran's Blade,Essence Reaver,Rapid Firecannon,,,Boots of Swiftness,2820,79645,Lane.bot_lane,Role.carry
+7,Sebi,Orianna,False,Side.red,5,5,2,1.4,177,Flash,Ghost,13,False,9574,8850,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,,,76564,11905,Lane.mid_lane,Role.solo
+8,jacksparrow111,Zyra,False,Side.red,3,5,4,1.4,34,Flash,Exhaust,11,False,8240,7450,Rylai's Crystal Scepter,Sorcerer's Shoes,,Eye of the Watchers,,,36022,4310,Lane.bot_lane,Role.support
+9,dog2,Shyvana,False,Side.red,0,7,6,0.8571428571428571,195,Ghost,Teleport,14,False,9796,9400,Ninja Tabi,Sunfire Cape,Titanic Hydra,Spectre's Cowl,Ruby Crystal,,45590,71044,Lane.top_lane,Role.solo

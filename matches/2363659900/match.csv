@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZatsMod,Morgana,True,Side.blue,3,7,21,3.4285714285714284,13,Flash,Exhaust,13,False,10488,9875,Banner of Command,Frost Queen's Claim,Zhonya's Hourglass,Ionian Boots of Lucidity,Giant's Belt,,23583,5598,Lane.bot_lane,Role.support
+1,PrismaI,Yasuo,True,Side.blue,10,9,3,1.4444444444444444,194,Flash,Teleport,15,False,12987,11500,Phantom Dancer,Frozen Mallet,Doran's Shield,Ninja Tabi,Infinity Edge,,28234,110138,Lane.top_lane,Role.solo
+2,wiggily420,Rek'Sai,True,Side.blue,8,3,11,6.333333333333333,198,Flash,Smite,16,False,14648,14025,Titanic Hydra,Randuin's Omen,Spirit Visage,Ninja Tabi,Enchantment: Cinderhulk,Chain Vest,34931,150247,Lane.jungle,Role.none
+3,Wazabiee,LeBlanc,True,Side.blue,11,5,9,4.0,148,Ignite,Flash,15,False,12484,11350,Morellonomicon,Void Staff,Needlessly Large Rod,Mejai's Soulstealer,Blasting Wand,Sorcerer's Shoes,88033,9483,Lane.mid_lane,Role.solo
+4,Darmous,Ashe,True,Side.blue,5,6,16,3.5,198,Flash,Heal,15,False,13387,12250,Infinity Edge,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Doran's Blade,Rapid Firecannon,2970,156106,Lane.bot_lane,Role.carry
+5,Via Ad Infernum,Mordekaiser,False,Side.red,6,9,5,1.2222222222222223,139,Exhaust,Flash,14,False,10249,8675,Abyssal Scepter,The Dark Seal,Rylai's Crystal Scepter,Blasting Wand,Sorcerer's Shoes,,85975,9993,Lane.mid_lane,Role.solo
+6,Walljumper,Twitch,False,Side.red,4,5,8,2.4,163,Heal,Flash,14,False,10045,9500,Infinity Edge,Doran's Blade,Zeal,Berserker's Greaves,Runaan's Hurricane,Dagger,0,97531,Lane.bot_lane,Role.duo
+7,Makavéli,Thresh,False,Side.red,4,8,10,1.75,35,Ignite,Flash,11,False,8332,7725,Boots of Mobility,Redemption,Eye of the Equinox,Control Ward,Kindlegem,Raptor Cloak,11339,4002,Lane.bot_lane,Role.duo
+8,swoloHey,Graves,False,Side.red,5,7,7,1.7142857142857142,149,Flash,Smite,15,False,10177,9975,Maw of Malmortius,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,Control Ward,,4302,127243,Lane.jungle,Role.none
+9,Yarnello,Shaco,False,Side.red,11,8,5,2.0,182,Ignite,Teleport,16,True,12428,12610,Zhonya's Hourglass,Lich Bane,Hextech Protobelt-01,The Dark Seal,Ionian Boots of Lucidity,Needlessly Large Rod,84109,31412,Lane.top_lane,Role.solo

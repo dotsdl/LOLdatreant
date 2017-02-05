@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fiesta Asesh,Zac,True,Side.blue,4,1,11,15.0,115,Smite,Flash,13,False,10021,7750,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Warden's Mail,Spirit Visage,,89358,31641,Lane.jungle,Role.none
+1,Rohammers,Poppy,True,Side.blue,2,2,11,6.5,158,Teleport,Flash,14,False,9549,7350,Corrupting Potion,Sunfire Cape,Mercury's Treads,Iceborn Gauntlet,Control Ward,,26845,58243,Lane.top_lane,Role.solo
+2,Rich Homie Jayms,Morgana,True,Side.blue,1,2,10,5.5,7,Flash,Exhaust,10,False,7076,6450,Redemption,Eye of the Watchers,Total Biscuit of Rejuvenation,Boots of Mobility,Glacial Shroud,,7376,9593,Lane.bot_lane,Role.support
+3,NamfailI59A578,Ryze,True,Side.blue,8,2,5,6.5,119,Flash,Teleport,12,False,10656,8950,Seraph's Embrace,Refillable Potion,Needlessly Large Rod,Rod of Ages,Sorcerer's Shoes,Control Ward,65467,10563,Lane.mid_lane,Role.solo
+4,Imaqtpie,Sivir,True,Side.blue,6,3,7,4.333333333333333,188,Flash,Heal,13,True,12148,9725,Essence Reaver,Berserker's Greaves,Phantom Dancer,Doran's Blade,B. F. Sword,,0,122233,Lane.bot_lane,Role.carry
+5,Rhux,Jhin,False,Side.red,0,5,3,0.6,144,Flash,Heal,11,False,7111,6500,Boots of Speed,Doran's Blade,Last Whisper,Long Sword,Infinity Edge,,2893,79668,Lane.bot_lane,Role.carry
+6,Sawyerr,Bard,False,Side.red,1,4,4,1.25,21,Ignite,Flash,10,False,5638,5450,Spellthief's Edge,Refillable Potion,Hextech Revolver,Boots of Mobility,Kindlegem,Ruby Sightstone,15384,4537,Lane.bot_lane,Role.support
+7,Griffin1795,Warwick,False,Side.red,3,4,4,1.75,112,Flash,Smite,12,False,7378,6675,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,Wit's End,Cloth Armor,,21055,63029,Lane.jungle,Role.none
+8,Adrian Riven,Riven,False,Side.red,2,5,5,1.4,103,Teleport,Flash,11,False,6777,6700,The Black Cleaver,Refillable Potion,Mercury's Treads,Caulfield's Warhammer,Long Sword,Long Sword,0,58164,Lane.top_lane,Role.solo
+9,Annie Bot,Annie,False,Side.red,4,3,4,2.6666666666666665,138,Teleport,Flash,12,False,7656,6275,Hextech Protobelt-01,Refillable Potion,Doran's Ring,Ionian Boots of Lucidity,Blasting Wand,Needlessly Large Rod,55250,9616,Lane.mid_lane,Role.solo

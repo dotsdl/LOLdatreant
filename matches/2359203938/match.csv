@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lomaw,Ezreal,True,Side.blue,4,0,13,17.0,179,Heal,Flash,14,False,10989,8840,Doran's Blade,,Bilgewater Cutlass,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,18618,81496,Lane.bot_lane,Role.carry
+1,MultiRainbow,Vi,True,Side.blue,4,6,8,2.0,108,Smite,Flash,13,False,9706,8433,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Ruby Crystal,Long Sword,828,102500,Lane.jungle,Role.none
+2,OUT DO YA,Viktor,True,Side.blue,18,1,9,27.0,184,Flash,Ghost,15,False,15060,11750,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,Abyssal Scepter,Sorcerer's Shoes,Perfect Hex Core,128315,13093,Lane.mid_lane,Role.solo
+3,iaMsaraK,Pantheon,True,Side.blue,8,4,8,4.0,158,Flash,Ignite,14,True,11564,8900,Mercury's Treads,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Hexdrinker,,8661,97542,Lane.top_lane,Role.solo
+4,Nwok,Trundle,True,Side.blue,1,4,14,3.75,26,Flash,Exhaust,12,False,7796,5625,Redemption,Refillable Potion,Ruby Sightstone,Ionian Boots of Lucidity,Relic Shield,Control Ward,796,8180,Lane.bot_lane,Role.support
+5,milala,Rek'Sai,False,Side.red,2,9,7,1.0,122,Flash,Smite,12,False,7953,7925,Tiamat,Aegis of the Legion,Enchantment: Cinderhulk,Mercury's Treads,Phage,Long Sword,22567,76818,Lane.jungle,Role.none
+6,Yoreon,Malphite,False,Side.red,2,3,6,2.6666666666666665,148,Flash,Teleport,13,False,7975,7550,Ninja Tabi,Dead Man's Plate,Corrupting Potion,Sunfire Cape,,,47975,26147,Lane.top_lane,Role.solo
+7,Jordanian Sniper,Jhin,False,Side.red,5,4,5,2.5,156,Flash,Heal,12,False,8467,7950,,,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,6571,73110,Lane.bot_lane,Role.carry
+8,Wazabiee,Cassiopeia,False,Side.red,5,11,8,1.1818181818181819,152,Ghost,Flash,12,False,8770,8275,,Rylai's Crystal Scepter,,Doran's Ring,Tear of the Goddess,Morellonomicon,77680,4762,Lane.mid_lane,Role.solo
+9,Wynaan,Nami,False,Side.red,1,8,8,1.125,16,Exhaust,Flash,10,False,6405,6275,Eye of the Watchers,Ardent Censer,Boots of Swiftness,,,,5103,2589,Lane.bot_lane,Role.support

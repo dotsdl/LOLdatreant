@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Stumpey,Jayce,False,Side.blue,8,10,6,1.4,191,Flash,Teleport,15,False,11444,11075,Youmuu's Ghostblade,Maw of Malmortius,Doran's Blade,The Black Cleaver,Mercury's Treads,,15153,107566,Lane.top_lane,Role.solo
+1,Doublelift,Caitlyn,False,Side.blue,7,4,6,3.25,259,Flash,Heal,15,False,13360,12025,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Last Whisper,3029,199424,Lane.bot_lane,Role.carry
+2,C9 Meteos,Zac,False,Side.blue,1,8,10,1.375,128,Smite,Flash,14,False,9490,9225,Enchantment: Cinderhulk,Ninja Tabi,Refillable Potion,Spirit Visage,Guardian Angel,,80983,19734,Lane.jungle,Role.none
+3,Professor Melyn,Zyra,False,Side.blue,2,9,12,1.5555555555555556,26,Flash,Exhaust,12,False,8881,8385,Liandry's Torment,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,Eye of the Watchers,,39537,3878,Lane.bot_lane,Role.support
+4,ApoIlo Price,Syndra,False,Side.blue,2,8,6,1.0,197,Flash,Ghost,14,False,10143,9360,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,Amplifying Tome,107385,10382,Lane.mid_lane,Role.solo
+5,Allorim,Lulu,True,Side.red,2,2,25,13.5,32,Flash,Exhaust,14,False,11175,9560,Sightstone,Knight's Vow,Redemption,Frost Queen's Claim,Amplifying Tome,Ionian Boots of Lucidity,24213,10014,Lane.bot_lane,Role.support
+6,xFSN Saber,Ashe,True,Side.red,3,5,17,4.0,232,Heal,Flash,16,False,13961,12030,Doran's Blade,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,Lord Dominik's Regards,Kircheis Shard,5322,152622,Lane.bot_lane,Role.carry
+7,Jurassiq,Lee Sin,True,Side.red,11,7,13,3.4285714285714284,89,Flash,Smite,14,False,13078,11425,Enchantment: Warrior,Randuin's Omen,Banshee's Veil,Boots of Swiftness,Hexdrinker,Aegis of the Legion,15262,102435,Lane.jungle,Role.none
+8,Pekin Woof,Orianna,True,Side.red,18,2,6,12.0,254,Flash,Ghost,17,False,17354,14975,Needlessly Large Rod,Luden's Echo,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Void Staff,164065,18766,Lane.mid_lane,Role.solo
+9,Cris,Yasuo,True,Side.red,5,5,12,3.4,254,Flash,Teleport,16,True,14204,13595,Negatron Cloak,Chain Vest,Infinity Edge,Frozen Mallet,Phantom Dancer,Mercury's Treads,31647,154624,Lane.top_lane,Role.solo

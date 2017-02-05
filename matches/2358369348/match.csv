@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C0nVict,Swain,False,Side.blue,2,9,4,0.6666666666666666,151,Flash,Teleport,13,False,8341,7350,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Rod of Ages,Refillable Potion,,67170,12642,Lane.top_lane,Role.solo
+1,Timeless Void,Ezreal,False,Side.blue,5,6,4,1.5,106,Heal,Flash,12,False,8436,7850,Vampiric Scepter,Ionian Boots of Lucidity,Iceborn Gauntlet,Dagger,Doran's Blade,Muramana,8993,51474,Lane.bot_lane,Role.carry
+2,Booots,Sona,False,Side.blue,3,9,5,0.8888888888888888,5,Flash,Ignite,10,False,7102,6185,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,Amplifying Tome,,,7909,2643,Lane.bot_lane,Role.support
+3,Ahrí,Ahri,False,Side.blue,4,4,3,1.75,167,Exhaust,Flash,14,False,9118,8985,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Amplifying Tome,Ionian Boots of Lucidity,Blasting Wand,53081,15947,Lane.mid_lane,Role.solo
+4,Fxck Silencee,Master Yi,False,Side.blue,2,9,4,0.6666666666666666,179,Smite,Flash,14,False,9771,9250,Stalker's Blade,Infinity Edge,Boots of Speed,Phantom Dancer,Long Sword,B. F. Sword,1028,142586,Lane.jungle,Role.none
+5,SamppA,Trundle,True,Side.red,3,2,12,7.5,142,Flash,Exhaust,15,False,10146,8175,Corrupting Potion,Spectre's Cowl,Warden's Mail,Ninja Tabi,Ravenous Hydra,Kindlegem,2366,86385,Lane.top_lane,Role.solo
+6,II Master II,Rengar,True,Side.red,14,6,5,3.1666666666666665,120,Flash,Smite,15,False,12871,12000,Enchantment: Warrior,Serrated Dirk,Youmuu's Ghostblade,Mercury's Treads,Duskblade of Draktharr,Pickaxe,10126,123738,Lane.jungle,Role.none
+7,Voids,Braum,True,Side.red,1,1,24,25.0,28,Exhaust,Flash,13,False,9063,7675,Redemption,Boots of Mobility,Sightstone,Knight's Vow,Targon's Brace,Ruby Crystal,8345,9841,Lane.bot_lane,Role.support
+8,KaneKi521,Yasuo,True,Side.red,3,4,7,2.5,220,Flash,Ignite,15,False,10908,9250,Infinity Edge,Doran's Blade,Phantom Dancer,,Hexdrinker,Mercury's Treads,37254,113624,Lane.mid_lane,Role.solo
+9,sehyun,Miss Fortune,True,Side.red,16,3,5,7.0,215,Flash,Heal,14,True,14917,13350,Doran's Blade,Youmuu's Ghostblade,Boots of Speed,The Black Cleaver,Duskblade of Draktharr,Maw of Malmortius,15165,134830,Lane.bot_lane,Role.carry

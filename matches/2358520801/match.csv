@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,W Yuè,Malphite,False,Side.blue,0,5,0,0.0,80,Flash,Teleport,9,False,4007,3200,Refillable Potion,Boots of Speed,Chain Vest,Cloth Armor,Bami's Cinder,Doran's Shield,18302,14862,Lane.top_lane,Role.solo
+1,SwordArtX,Skarner,False,Side.blue,1,1,1,2.0,70,Flash,Smite,8,False,4502,3825,Boots of Speed,Enchantment: Cinderhulk,Ruby Crystal,Refillable Potion,Long Sword,,14736,25181,Lane.jungle,Role.none
+2,PrepareUrRammus,Ziggs,False,Side.blue,1,3,0,0.3333333333333333,96,Ghost,Flash,9,False,4444,4200,Morellonomicon,Doran's Ring,Boots of Speed,,Doran's Ring,,35257,5909,Lane.mid_lane,Role.solo
+3,Tnowak,Leona,False,Side.blue,0,5,1,0.2,18,Flash,Exhaust,7,False,3246,2000,Total Biscuit of Rejuvenation,Sightstone,Control Ward,Relic Shield,Boots of Speed,,2254,2805,Lane.bot_lane,Role.support
+4,jay195,Ezreal,False,Side.blue,0,2,1,0.5,83,Flash,Heal,8,False,4023,3875,Boots of Speed,Manamune,Cull,Doran's Blade,,Control Ward,1717,21681,Lane.bot_lane,Role.carry
+5,CHRIS WANGo0,Corki,True,Side.red,7,0,0,7.0,164,Flash,Ignite,12,False,9151,6358,Health Potion,Trinity Force,Sorcerer's Shoes,Vampiric Scepter,,Doran's Blade,55102,25055,Lane.mid_lane,Role.solo
+6,I Shadow I,Fiora,True,Side.red,6,1,3,9.0,127,Flash,Teleport,11,True,8939,7475,Refillable Potion,Ravenous Hydra,Mercury's Treads,Doran's Blade,Sheen,Stinger,958,86555,Lane.top_lane,Role.solo
+7,Heritage58,Tristana,True,Side.red,1,0,1,2.0,126,Flash,Heal,10,False,7177,5775,Doran's Blade,Infinity Edge,Berserker's Greaves,Long Sword,,,10727,49751,Lane.bot_lane,Role.carry
+8,Fargo,Braum,True,Side.red,0,0,8,8.0,20,Flash,Exhaust,8,False,5214,4000,Crystalline Bracer,Forbidden Idol,Total Biscuit of Rejuvenation,Boots of Swiftness,Sightstone,Relic Shield,4486,5104,Lane.bot_lane,Role.support
+9,nothinghere,Lee Sin,True,Side.red,2,1,9,11.0,62,Smite,Flash,10,False,7236,6125,Tiamat,Enchantment: Warrior,Boots of Mobility,Phage,,,11326,55316,Lane.jungle,Role.none

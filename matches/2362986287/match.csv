@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Smoothie,Vayne,True,Side.blue,7,5,7,2.8,199,Flash,Heal,15,False,12264,10600,Infinity Edge,Statikk Shiv,Berserker's Greaves,Phantom Dancer,,,30262,95349,Lane.bot_lane,Role.carry
+1,cute pupper irl,Karma,True,Side.blue,3,4,14,4.25,28,Flash,Exhaust,13,False,10157,8225,Ionian Boots of Lucidity,Eye of the Watchers,Banner of Command,Redemption,,,18734,9972,Lane.bot_lane,Role.support
+2,ZatsMod,Cassiopeia,True,Side.blue,11,5,4,3.0,210,Flash,Cleanse,16,False,13275,10845,Doran's Ring,Seraph's Embrace,Amplifying Tome,Rylai's Crystal Scepter,Morellonomicon,Amplifying Tome,114676,13163,Lane.mid_lane,Role.solo
+3,Flaresz,Nasus,True,Side.blue,1,5,5,1.2,239,Flash,Teleport,15,False,11705,11708,Corrupting Potion,Zz'Rot Portal,Spirit Visage,Trinity Force,Mercury's Treads,,89974,57424,Lane.top_lane,Role.solo
+4,TwitchTV LOLFILL,Vi,True,Side.blue,3,3,13,5.333333333333333,131,Smite,Flash,15,False,10974,9425,Enchantment: Warrior,Refillable Potion,Sterak's Gage,Mercury's Treads,Guardian Angel,Ruby Crystal,1892,133052,Lane.jungle,Role.none
+5,Leagué,Lee Sin,False,Side.red,10,5,4,2.8,152,Flash,Smite,14,False,11635,11200,Mercury's Treads,Enchantment: Warrior,Spirit Visage,Dead Man's Plate,Long Sword,Tiamat,17536,112003,Lane.jungle,Role.none
+6,Riesig,Lissandra,False,Side.red,6,4,7,3.25,245,Flash,Teleport,16,True,12157,11800,Liandry's Torment,Fiendish Codex,Morellonomicon,Doran's Ring,Void Staff,Sorcerer's Shoes,152277,10032,Lane.top_lane,Role.solo
+7,C9 Sneaky,Caitlyn,False,Side.red,3,6,5,1.3333333333333333,226,Flash,Heal,13,False,10591,9725,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,Dagger,273,114523,Lane.bot_lane,Role.carry
+8,Nedo,Alistar,False,Side.red,0,7,7,1.0,34,Exhaust,Flash,11,False,6795,6600,Eye of the Equinox,Boots of Mobility,Knight's Vow,Null-Magic Mantle,Refillable Potion,,4498,3597,Lane.bot_lane,Role.support
+9,Wizzy,Kayle,False,Side.red,3,3,7,3.3333333333333335,255,Ghost,Flash,15,False,11149,10200,The Dark Seal,Nashor's Tooth,Quicksilver Sash,Ionian Boots of Lucidity,Doran's Ring,Guinsoo's Rageblade,96581,36789,Lane.mid_lane,Role.solo

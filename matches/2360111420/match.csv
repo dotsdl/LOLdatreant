@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tai Draven,Draven,True,Side.blue,4,2,9,6.5,287,Flash,Heal,15,False,15396,13575,B. F. Sword,Blade of the Ruined King,Mercurial Scimitar,Lord Dominik's Regards,Berserker's Greaves,Pickaxe,1164,191722,Lane.bot_lane,Role.carry
+1,Valkrin,Zac,True,Side.blue,9,0,10,19.0,179,Smite,Flash,17,False,13483,10625,,Knight's Vow,Haunting Guise,Spirit Visage,Ionian Boots of Lucidity,Enchantment: Cinderhulk,141210,20150,Lane.jungle,Role.none
+2,Yassuo,Yasuo,True,Side.blue,5,6,8,2.1666666666666665,224,Flash,Ignite,15,False,12180,10775,Infinity Edge,B. F. Sword,Doran's Blade,Hexdrinker,Mercury's Treads,Phantom Dancer,30966,120632,Lane.mid_lane,Role.solo
+3,ioan,Rumble,True,Side.blue,7,6,4,1.8333333333333333,189,Flash,Teleport,15,False,12244,10425,Zhonya's Hourglass,,Sorcerer's Shoes,Liandry's Torment,Void Staff,,110121,12049,Lane.top_lane,Role.solo
+4,PutYourHeartsUp,Nami,True,Side.blue,2,1,16,18.0,14,Exhaust,Flash,13,False,10004,8325,,,Eye of the Watchers,Ardent Censer,Athene's Unholy Grail,Boots of Swiftness,14480,4776,Lane.bot_lane,Role.support
+5,umperor,Maokai,False,Side.red,3,8,3,0.75,170,Teleport,Flash,14,False,9977,9650,Frozen Heart,Locket of the Iron Solari,The Dark Seal,Ninja Tabi,Spirit Visage,,88212,16840,Lane.top_lane,Role.solo
+6,cesuna,Veigar,False,Side.red,5,4,3,2.0,220,Flash,Teleport,15,True,10751,10450,Zhonya's Hourglass,Refillable Potion,Void Staff,Sorcerer's Shoes,Doran's Ring,Morellonomicon,133328,6314,Lane.mid_lane,Role.solo
+7,CC Hollywood,Leona,False,Side.red,1,5,5,1.2,44,Ignite,Flash,12,False,7504,7025,Face of the Mountain,Boots of Speed,Aegis of the Legion,,Sightstone,Knight's Vow,4705,6705,Lane.bot_lane,Role.support
+8,Stumpey,Caitlyn,False,Side.red,2,7,3,0.7142857142857143,203,Flash,Heal,13,False,10661,9500,Control Ward,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,Giant Slayer,673,116413,Lane.bot_lane,Role.carry
+9,moon o,Lee Sin,False,Side.red,4,3,5,3.0,149,Ignite,Flash,13,False,10136,10050,Ravenous Hydra,Boots of Mobility,Randuin's Omen,Ruby Sightstone,,,20846,102582,Lane.jungle,Role.none

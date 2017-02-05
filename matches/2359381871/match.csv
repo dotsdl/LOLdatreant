@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Micester,Poppy,True,Side.blue,5,3,15,6.666666666666667,162,Teleport,Flash,16,False,11632,10125,Corrupting Potion,Sunfire Cape,Thornmail,Dead Man's Plate,Cloth Armor,Mercury's Treads,47057,56159,Lane.top_lane,Role.solo
+1,C9 Saiph,Twitch,True,Side.blue,16,2,9,12.5,169,Flash,Smite,16,True,15601,13875,Blade of the Ruined King,Mercurial Scimitar,,Berserker's Greaves,Enchantment: Warrior,Runaan's Hurricane,2440,186562,Lane.jungle,Role.none
+2,iIIusionist,Taric,True,Side.blue,3,1,16,19.0,49,Flash,Exhaust,13,False,9503,8150,Face of the Mountain,Sightstone,Control Ward,Boots of Swiftness,Warden's Mail,Iceborn Gauntlet,7017,13150,Lane.bot_lane,Role.support
+3,TheNuocMam,Lux,True,Side.blue,9,2,9,9.0,212,Heal,Flash,15,False,14655,13100,Frost Queen's Claim,Rabadon's Deathcap,Blasting Wand,Mejai's Soulstealer,Sorcerer's Shoes,Luden's Echo,97442,15213,Lane.mid_lane,Role.solo
+4,Hate,Tristana,True,Side.blue,8,5,5,2.6,226,Heal,Flash,16,False,13266,11550,Berserker's Greaves,Runaan's Hurricane,Mercurial Scimitar,Infinity Edge,,Doran's Blade,27050,125005,Lane.bot_lane,Role.carry
+5,Krypt,Jhin,False,Side.red,7,7,4,1.5714285714285714,184,Flash,Heal,14,False,10559,10175,Giant Slayer,Essence Reaver,Last Whisper,Rapid Firecannon,Doran's Blade,Ionian Boots of Lucidity,4056,103601,Lane.bot_lane,Role.carry
+6,Sourpatchkids,Warwick,False,Side.red,1,10,3,0.4,108,Flash,Smite,13,False,7915,7675,Enchantment: Bloodrazor,Ninja Tabi,Ruby Crystal,,,Blade of the Ruined King,21391,56678,Lane.jungle,Role.none
+7,bvcx222,Bard,False,Side.red,3,7,5,1.1428571428571428,15,Flash,Ignite,11,False,7692,6725,Ruby Sightstone,Redemption,Total Biscuit of Rejuvenation,Aegis of the Legion,Spellthief's Edge,Boots of Mobility,14409,4335,Lane.bot_lane,Role.support
+8,Donmat,Riven,False,Side.red,1,12,1,0.16666666666666666,155,Teleport,Flash,12,False,8141,6825,The Black Cleaver,Refillable Potion,Vampiric Scepter,Ionian Boots of Lucidity,Tiamat,Long Sword,1600,70434,Lane.top_lane,Role.solo
+9,Azed,Orianna,False,Side.red,1,5,7,1.6,201,Flash,Ghost,14,False,9100,8510,Doran's Ring,Luden's Echo,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,,84854,11163,Lane.mid_lane,Role.solo

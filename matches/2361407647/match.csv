@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kenny Thai Le,Evelynn,True,Side.blue,13,3,14,9.0,158,Smite,Flash,16,False,14504,13085,Hextech Protobelt-01,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Lich Bane,Amplifying Tome,Ionian Boots of Lucidity,124001,52608,Lane.jungle,Role.none
+1,Allorim,Maokai,True,Side.blue,6,2,11,8.5,183,Flash,Teleport,15,False,11374,11000,The Dark Seal,Sunfire Cape,Iceborn Gauntlet,Corrupting Potion,Ninja Tabi,Spirit Visage,98720,17365,Lane.jungle,Role.none
+2,goompa,Jinx,True,Side.blue,5,6,15,3.3333333333333335,146,Heal,Flash,13,False,11300,11555,Berserker's Greaves,Doran's Blade,Dagger,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,1984,95802,Lane.bot_lane,Role.carry
+3,Miajima,Zed,True,Side.blue,10,3,13,7.666666666666667,164,Flash,Ignite,15,False,12684,10600,Maw of Malmortius,Mercury's Treads,Youmuu's Ghostblade,The Black Cleaver,,,6197,110784,Lane.mid_lane,Role.solo
+4,KayBee,LeBlanc,True,Side.blue,11,2,11,11.0,15,Exhaust,Flash,13,True,11565,11100,Frost Queen's Claim,Sightstone,Sorcerer's Shoes,Mejai's Soulstealer,Rabadon's Deathcap,Needlessly Large Rod,22164,6196,Lane.bot_lane,Role.support
+5,TheOddOrange,Shyvana,False,Side.red,2,7,4,0.8571428571428571,179,Flash,Smite,15,False,10131,9825,Tiamat,Blade of the Ruined King,Mercury's Treads,Enchantment: Bloodrazor,Refillable Potion,Jaurim's Fist,91617,74491,Lane.jungle,Role.none
+6,II Master II,Vayne,False,Side.red,4,7,2,0.8571428571428571,127,Flash,Heal,13,False,8664,8050,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,,,27616,41979,Lane.bot_lane,Role.carry
+7,KaneKi521,Yasuo,False,Side.red,3,11,7,0.9090909090909091,176,Flash,Teleport,14,False,9360,8850,Refillable Potion,Doran's Blade,Phantom Dancer,Frozen Mallet,B. F. Sword,Mercury's Treads,25483,65879,Lane.top_lane,Role.solo
+8,Top Schlong,Akali,False,Side.red,7,10,3,1.0,190,Teleport,Flash,14,False,10552,9525,Hextech Gunblade,Sorcerer's Shoes,Zhonya's Hourglass,Spectre's Cowl,Ruby Crystal,,26592,74025,Lane.mid_lane,Role.solo
+9,IAmArray,Alistar,False,Side.red,0,10,5,0.5,42,Flash,Exhaust,12,False,6225,5525,Face of the Mountain,Refillable Potion,Boots of Mobility,Ruby Sightstone,Control Ward,Cloth Armor,12652,5694,Lane.bot_lane,Role.support

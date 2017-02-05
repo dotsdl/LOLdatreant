@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,i miss you haru,Aatrox,False,Side.blue,0,0,0,0.0,0,Flash,Ignite,1,False,662,0,,,,,,,0,0,Lane.top_lane,Role.duo
+1,PlFF,Vayne,False,Side.blue,0,0,0,0.0,2,Heal,Flash,2,False,702,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,586,Lane.bot_lane,Role.solo
+2,Junjuan,Katarina,False,Side.blue,0,1,0,0.0,8,Flash,Teleport,2,False,816,500,The Dark Seal,Refillable Potion,,,,,1531,949,Lane.top_lane,Role.duo
+3,SeductiveKoala,Lee Sin,False,Side.blue,0,0,0,0.0,0,Flash,Smite,1,False,662,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+4,My Kat Evolved,Yasuo,False,Side.blue,0,1,0,0.0,10,Exhaust,Flash,3,False,872,500,Doran's Blade,,,,,,1783,2758,Lane.mid_lane,Role.duo
+5,KiteAzure,Riven,True,Side.red,1,0,0,1.0,11,Flash,Teleport,3,True,1298,500,Long Sword,,,,,,0,3201,Lane.top_lane,Role.solo
+6,Varsix,Thresh,True,Side.red,1,0,0,1.0,2,Flash,Ignite,2,False,1018,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,375,514,Lane.jungle,Role.none
+7,FOX Jew,Twitch,True,Side.red,0,0,0,0.0,16,Heal,Flash,3,False,986,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,1783,Lane.bot_lane,Role.solo
+8,GreatestEver86,Hecarim,True,Side.red,0,0,0,0.0,11,Smite,Ghost,3,False,1074,500,Hunter's Talisman,Refillable Potion,,,,,1364,6370,Lane.jungle,Role.none
+9,Unstopebble,Cassiopeia,True,Side.red,0,0,0,0.0,10,Flash,Exhaust,3,False,850,500,,Doran's Ring,,,,,1143,1147,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FaR007,Bard,True,Side.blue,3,4,23,6.5,11,Exhaust,Flash,14,False,10513,8500,Frost Queen's Claim,Ruby Sightstone,Redemption,Boots of Mobility,Spectre's Cowl,,14394,6442,Lane.bot_lane,Role.support
+1,DJ Holiday,Irelia,True,Side.blue,5,3,8,4.333333333333333,146,Teleport,Flash,14,False,10872,9383,Doran's Blade,Trinity Force,Mercury's Treads,Maw of Malmortius,Control Ward,Null-Magic Mantle,2369,67671,Lane.top_lane,Role.solo
+2,xpng,Fizz,True,Side.blue,4,5,9,2.6,164,Ignite,Flash,15,False,10816,8750,The Dark Seal,Corrupting Potion,Ionian Boots of Lucidity,Lich Bane,Abyssal Scepter,Fiendish Codex,56743,26452,Lane.mid_lane,Role.solo
+3,Extreme Person,Lee Sin,True,Side.blue,8,6,6,2.3333333333333335,105,Flash,Smite,14,False,10857,9375,The Black Cleaver,Hexdrinker,Mercury's Treads,Refillable Potion,Enchantment: Warrior,Caulfield's Warhammer,21460,82917,Lane.jungle,Role.none
+4,colourkevin,Caitlyn,True,Side.blue,16,5,10,5.2,223,Heal,Flash,15,False,15542,13575,Infinity Edge,Quicksilver Sash,Statikk Shiv,Runaan's Hurricane,Berserker's Greaves,Vampiric Scepter,18420,160443,Lane.bot_lane,Role.carry
+5,OGMudboned69,Vayne,False,Side.red,1,9,6,0.7777777777777778,159,Flash,Heal,12,True,9275,8600,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Dagger,Dagger,18359,71774,Lane.bot_lane,Role.carry
+6,Luyoj,Elise,False,Side.red,4,7,10,2.0,125,Flash,Smite,14,False,10442,10320,Hunter's Potion,Enchantment: Runic Echoes,Hextech Protobelt-01,Sorcerer's Shoes,Dead Man's Plate,Negatron Cloak,94747,30577,Lane.jungle,Role.none
+7,Blaze SandHaven,Brand,False,Side.red,3,7,11,2.0,33,Exhaust,Flash,12,False,8504,7735,Liandry's Torment,Frost Queen's Claim,Ionian Boots of Lucidity,Amplifying Tome,,Sightstone,35060,6094,Lane.bot_lane,Role.support
+8,IIKairosII,Akali,False,Side.red,10,3,2,4.0,207,Flash,Teleport,15,False,12278,11653,Chain Vest,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,Seeker's Armguard,Negatron Cloak,36049,101653,Lane.top_lane,Role.solo
+9,Ezweal,Kassadin,False,Side.red,5,10,5,1.0,146,Flash,Teleport,13,False,9554,9100,Abyssal Scepter,Rod of Ages,Fiendish Codex,Seeker's Armguard,Ionian Boots of Lucidity,,46951,21532,Lane.mid_lane,Role.solo

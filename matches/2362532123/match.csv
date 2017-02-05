@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Unstopebble,Karma,False,Side.blue,0,2,0,0.0,15,Flash,Exhaust,9,False,5184,4575,Eye of the Watchers,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rejuvenation Bead,Forbidden Idol,14110,1735,Lane.bot_lane,Role.support
+1,Deported Nipple,Vayne,False,Side.blue,0,2,0,0.0,166,Flash,Heal,11,False,7040,6650,B. F. Sword,Pickaxe,Doran's Blade,Berserker's Greaves,Statikk Shiv,,7655,52520,Lane.bot_lane,Role.carry
+2,Catch the Spirit,Jayce,False,Side.blue,0,3,0,0.0,168,Teleport,Flash,12,False,7153,6825,Doran's Blade,Ionian Boots of Lucidity,Serrated Dirk,Long Sword,Doran's Blade,The Black Cleaver,11040,78851,Lane.top_lane,Role.solo
+3,Serilium,Lee Sin,False,Side.blue,2,6,1,0.5,80,Smite,Flash,12,False,6914,5900,,Refillable Potion,Enchantment: Warrior,Giant's Belt,Chain Vest,Mercury's Treads,12946,67204,Lane.jungle,Role.none
+4,bl0o,Cassiopeia,False,Side.blue,2,3,2,1.3333333333333333,194,Ghost,Flash,13,False,8454,8000,Doran's Ring,Refillable Potion,Morellonomicon,Tear of the Goddess,Abyssal Scepter,Ruby Crystal,78910,10136,Lane.mid_lane,Role.solo
+5,ZeroBlaze,Syndra,True,Side.red,6,2,4,5.0,193,Flash,Ghost,13,False,10547,8685,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,110584,10698,Lane.mid_lane,Role.solo
+6,Rycah,Poppy,True,Side.red,4,0,6,10.0,157,Flash,Teleport,14,False,9659,8325,Ninja Tabi,Control Ward,Corrupting Potion,Chain Vest,Spirit Visage,Sunfire Cape,30912,67077,Lane.top_lane,Role.solo
+7,Suna Shogun Sama,Nami,True,Side.red,0,0,9,9.0,10,Flash,Exhaust,11,False,6741,5500,Eye of the Watchers,Redemption,Boots of Mobility,,,,3881,7377,Lane.bot_lane,Role.support
+8,RockyTSaws,Ashe,True,Side.red,1,1,3,4.0,191,Heal,Flash,12,False,9656,9400,Doran's Blade,Runaan's Hurricane,,Berserker's Greaves,Infinity Edge,Zeal,3530,97615,Lane.bot_lane,Role.carry
+9,Eric1,Ivern,True,Side.red,5,1,5,10.0,65,Smite,Flash,12,True,9241,7000,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,The Dark Seal,Athene's Unholy Grail,Forbidden Idol,15993,11399,Lane.jungle,Role.none

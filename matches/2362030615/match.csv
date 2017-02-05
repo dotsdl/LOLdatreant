@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Darude GateStorm,Singed,True,Side.blue,2,2,10,6.0,182,Ghost,Ignite,14,False,10080,8375,Banner of Command,Corrupting Potion,Righteous Glory,Mercury's Treads,Needlessly Large Rod,Ruby Crystal,102311,6641,Lane.top_lane,Role.solo
+1,TQS Zuardian,Graves,True,Side.blue,6,6,4,1.6666666666666667,145,Smite,Flash,15,False,11193,9675,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,Phantom Dancer,,3669,137881,Lane.jungle,Role.none
+2,yungELEF,Zilean,True,Side.blue,1,6,7,1.3333333333333333,80,Exhaust,Flash,12,False,7669,6325,Doran's Ring,The Dark Seal,Rod of Ages,Ionian Boots of Lucidity,Fiendish Codex,Lost Chapter,42802,8570,Lane.mid_lane,Role.solo
+3,rtz 1,Vayne,True,Side.blue,12,5,6,3.6,181,Flash,Heal,14,False,13568,10650,Phantom Dancer,,Berserker's Greaves,Statikk Shiv,Infinity Edge,Doran's Blade,26413,110856,Lane.bot_lane,Role.carry
+4,1k2o1ko12ko12ko2,Thresh,True,Side.blue,2,8,12,1.75,22,Ignite,Flash,12,False,8056,7900,Ruby Sightstone,Locket of the Iron Solari,Relic Shield,,Boots of Mobility,Redemption,12755,7182,Lane.bot_lane,Role.support
+5,KayBee,LeBlanc,False,Side.red,7,4,4,2.75,155,Ignite,Flash,13,False,9733,9485,Morellonomicon,Sorcerer's Shoes,The Dark Seal,Blasting Wand,Rylai's Crystal Scepter,Amplifying Tome,70312,13768,Lane.mid_lane,Role.solo
+6,Spectt,Nidalee,False,Side.red,6,2,4,5.0,139,Smite,Flash,13,True,9831,9995,Hunter's Potion,Rylai's Crystal Scepter,Negatron Cloak,Enchantment: Runic Echoes,Fiendish Codex,Ionian Boots of Lucidity,108414,17887,Lane.jungle,Role.none
+7,Catlife,Alistar,False,Side.red,2,8,15,2.125,30,Flash,Exhaust,11,False,7660,7425,Face of the Mountain,Knight's Vow,Sightstone,Control Ward,Boots of Mobility,Ruby Crystal,13161,5579,Lane.bot_lane,Role.support
+8,cat and bird,Nasus,False,Side.red,0,3,3,1.0,197,Teleport,Flash,14,False,9018,8933,Corrupting Potion,Trinity Force,Spirit Visage,Boots of Swiftness,Giant's Belt,,55638,59325,Lane.top_lane,Role.solo
+9,Danman96,Twitch,False,Side.red,12,6,4,2.6666666666666665,138,Flash,Heal,12,False,11158,10525,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,Infinity Edge,,0,81130,Lane.bot_lane,Role.carry

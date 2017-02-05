@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aznkilla,Lee Sin,True,Side.blue,6,5,16,4.4,97,Smite,Flash,15,True,11572,11250,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Dead Man's Plate,Hexdrinker,22586,80911,Lane.jungle,Role.none
+1,Meeebo,Rammus,True,Side.blue,7,4,6,3.25,193,Flash,Teleport,15,False,12978,10650,Doran's Shield,Randuin's Omen,Ninja Tabi,Sunfire Cape,Thornmail,Null-Magic Mantle,83017,51660,Lane.top_lane,Role.solo
+2,Horizonz,Soraka,True,Side.blue,1,4,17,4.5,13,Flash,Exhaust,13,False,9544,7525,Talisman of Ascension,Redemption,Cloth Armor,Ruby Sightstone,,Boots of Mobility,17401,4276,Lane.bot_lane,Role.support
+3,PerfectPi,Ezreal,True,Side.blue,6,5,5,2.2,195,Flash,Heal,13,False,11944,10683,Bilgewater Cutlass,Trinity Force,Recurve Bow,Muramana,Ionian Boots of Lucidity,Doran's Blade,9891,95521,Lane.bot_lane,Role.carry
+4,The Lord Mayor,Lux,True,Side.blue,14,2,7,10.5,164,Flash,Ghost,14,False,13229,10600,Doran's Ring,Sorcerer's Shoes,Mejai's Soulstealer,Morellonomicon,Rabadon's Deathcap,Blasting Wand,105421,12066,Lane.mid_lane,Role.solo
+5,The Clark,Caitlyn,False,Side.red,2,5,6,1.6,158,Flash,Heal,13,False,8562,8250,Last Whisper,Doran's Blade,Berserker's Greaves,Infinity Edge,Zeal,,915,97700,Lane.bot_lane,Role.carry
+6,laitcl,Sona,False,Side.red,2,4,12,3.5,9,Exhaust,Flash,11,False,7703,7100,Frost Queen's Claim,Mikael's Crucible,Ruby Sightstone,,Ionian Boots of Lucidity,,7177,3137,Lane.bot_lane,Role.support
+7,Bakatar,Rek'Sai,False,Side.red,1,11,7,0.7272727272727273,81,Smite,Flash,11,False,7265,7000,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,,,7772,62747,Lane.jungle,Role.none
+8,elyjah,Pantheon,False,Side.red,6,7,7,1.8571428571428572,140,Teleport,Flash,13,False,9258,9070,Corrupting Potion,Youmuu's Ghostblade,Edge of Night,Ionian Boots of Lucidity,Negatron Cloak,Chain Vest,8602,72986,Lane.top_lane,Role.solo
+9,Oncovirus,Fizz,False,Side.red,9,7,4,1.8571428571428572,146,Flash,Teleport,14,False,9871,9725,Seeker's Armguard,Corrupting Potion,Doran's Ring,Lich Bane,Sorcerer's Shoes,Morellonomicon,61086,20936,Lane.mid_lane,Role.solo

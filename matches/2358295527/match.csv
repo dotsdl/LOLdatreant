@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid fabbbyyy,Alistar,True,Side.blue,2,9,18,2.2222222222222223,32,Flash,Ignite,13,False,10362,9100,Face of the Mountain,Redemption,Sightstone,Boots of Mobility,Warmog's Armor,,16322,9808,Lane.bot_lane,Role.support
+1,Deft Pawn,Jayce,True,Side.blue,3,4,16,4.75,212,Teleport,Flash,16,False,13369,11925,Muramana,The Black Cleaver,Lord Dominik's Regards,Ionian Boots of Lucidity,Pickaxe,Vampiric Scepter,25147,157007,Lane.top_lane,Role.solo
+2,Nedo,Syndra,True,Side.blue,7,8,8,1.875,142,Ghost,Flash,15,False,12327,11375,Rylai's Crystal Scepter,,Morellonomicon,Sorcerer's Shoes,Zhonya's Hourglass,,97832,9792,Lane.mid_lane,Role.solo
+3,C9 Sneaky,Jhin,True,Side.blue,9,3,14,7.666666666666667,184,Flash,Heal,15,True,14095,12100,Doran's Blade,Youmuu's Ghostblade,Infinity Edge,Rapid Firecannon,Boots of Swiftness,Last Whisper,6993,132648,Lane.bot_lane,Role.carry
+4,Riesig,Lee Sin,True,Side.blue,11,4,8,4.75,157,Flash,Smite,15,False,14003,12375,Dead Man's Plate,Enchantment: Warrior,Boots of Swiftness,,Guardian Angel,Maw of Malmortius,30688,125590,Lane.jungle,Role.none
+5,Uzumaki,Caitlyn,False,Side.red,3,10,6,0.9,158,Heal,Flash,14,False,10718,10175,Doran's Blade,Infinity Edge,Runaan's Hurricane,Dagger,Berserker's Greaves,Zeal,469,106321,Lane.bot_lane,Role.carry
+6,Daarr,Olaf,False,Side.red,5,7,10,2.142857142857143,152,Ghost,Smite,16,False,11024,11025,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Spirit Visage,Giant's Belt,Guardian Angel,Giant's Belt,27116,102129,Lane.jungle,Role.none
+7,Entranced,Jax,False,Side.red,9,4,9,4.5,184,Teleport,Flash,16,False,12063,11983,Randuin's Omen,Corrupting Potion,Maw of Malmortius,Trinity Force,Doran's Shield,Ninja Tabi,42348,95062,Lane.top_lane,Role.solo
+8,Anivia Kid,Fizz,False,Side.red,10,7,8,2.5714285714285716,208,Flash,Ignite,15,False,12599,12275,Sorcerer's Shoes,Abyssal Scepter,Zhonya's Hourglass,Lich Bane,Corrupting Potion,Blasting Wand,103145,22023,Lane.mid_lane,Role.solo
+9,Sawyerr,Bard,False,Side.red,1,4,17,4.5,20,Exhaust,Flash,13,False,8794,7500,Spellthief's Edge,Boots of Mobility,Glacial Shroud,Sheen,Redemption,Ruby Sightstone,20912,8417,Lane.bot_lane,Role.support

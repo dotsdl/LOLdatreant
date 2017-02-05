@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sourpatchkids,Rengar,True,Side.blue,11,4,11,5.5,154,Flash,Smite,16,False,13442,10975,Enchantment: Cinderhulk,Refillable Potion,The Black Cleaver,Ninja Tabi,Spirit Visage,Tiamat,23962,137409,Lane.jungle,Role.none
+1,ily and ily,Riven,True,Side.blue,16,6,1,2.8333333333333335,259,Flash,Teleport,17,True,16041,15750,Duskblade of Draktharr,Quicksilver Sash,Youmuu's Ghostblade,Ravenous Hydra,Maw of Malmortius,Ionian Boots of Lucidity,2371,190701,Lane.top_lane,Role.solo
+2,NukeT0wN,Twitch,True,Side.blue,6,6,4,1.6666666666666667,176,Flash,Heal,13,False,11815,8700,Infinity Edge,Cull,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Long Sword,157,93807,Lane.bot_lane,Role.carry
+3,Xinthus,Morgana,True,Side.blue,1,2,18,9.5,15,Exhaust,Flash,13,False,9079,6025,Redemption,Control Ward,Eye of the Watchers,Ionian Boots of Lucidity,,,15913,7265,Lane.bot_lane,Role.support
+4,Rènekton,Karma,True,Side.blue,2,4,12,3.5,170,Flash,Teleport,15,False,10192,8150,Ardent Censer,Sorcerer's Shoes,Catalyst of Aeons,Athene's Unholy Grail,Hextech Revolver,Doran's Ring,87697,15118,Lane.mid_lane,Role.solo
+5,UO Daniel Wu,Leona,False,Side.red,4,7,10,2.0,34,Flash,Ignite,13,False,8817,8400,Knight's Vow,Sightstone,Face of the Mountain,Boots of Mobility,Forbidden Idol,Giant's Belt,6912,9270,Lane.bot_lane,Role.support
+6,z11  ,Lucian,False,Side.red,3,5,9,2.4,189,Flash,Heal,13,False,10361,10000,Doran's Blade,Phantom Dancer,Berserker's Greaves,Essence Reaver,B. F. Sword,Cloak of Agility,4152,97933,Lane.bot_lane,Role.carry
+7,WatchThePower,Lee Sin,False,Side.red,8,7,5,1.8571428571428572,141,Flash,Smite,14,False,11227,10225,Enchantment: Warrior,Refillable Potion,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Long Sword,22095,105126,Lane.jungle,Role.none
+8,Seigs,Orianna,False,Side.red,6,8,9,1.875,167,Ghost,Flash,14,False,10800,10410,Rabadon's Deathcap,Morellonomicon,Blasting Wand,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,75513,13290,Lane.mid_lane,Role.solo
+9,Lifeless Eyes,Teemo,False,Side.red,1,10,1,0.2,194,Ignite,Flash,14,False,10262,9325,Doran's Ring,Blasting Wand,Liandry's Torment,Doran's Ring,Ninja Tabi,Nashor's Tooth,80285,33016,Lane.top_lane,Role.solo

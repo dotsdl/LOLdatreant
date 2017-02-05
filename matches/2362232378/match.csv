@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Clasiik,Fizz,False,Side.blue,9,7,6,2.142857142857143,125,Ignite,Flash,14,False,10009,9500,Zhonya's Hourglass,Corrupting Potion,Abyssal Scepter,Ionian Boots of Lucidity,Sheen,Aether Wisp,49449,22529,Lane.mid_lane,Role.solo
+1,bluepancake69,Darius,False,Side.blue,3,9,8,1.2222222222222223,164,Teleport,Flash,14,False,8951,8300,Spirit Visage,Corrupting Potion,Mercury's Treads,The Black Cleaver,Chain Vest,,477,91884,Lane.top_lane,Role.solo
+2,minermines,Caitlyn,False,Side.blue,4,12,8,1.0,120,Heal,Flash,12,False,8620,8400,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,939,66862,Lane.bot_lane,Role.carry
+3,Aurath,Zilean,False,Side.blue,3,7,10,1.8571428571428572,42,Exhaust,Flash,12,False,7658,7100,Sightstone,Spellthief's Edge,Ionian Boots of Lucidity,Tear of the Goddess,Morellonomicon,Needlessly Large Rod,32718,2477,Lane.bot_lane,Role.support
+4,Based Yoona,Lee Sin,False,Side.blue,7,8,8,1.875,148,Smite,Flash,14,False,10592,10550,Tiamat,Enchantment: Warrior,Spectre's Cowl,Hexdrinker,Mercury's Treads,Dead Man's Plate,18239,104462,Lane.jungle,Role.none
+5,jacksparrow111,Kennen,True,Side.red,9,5,12,4.2,150,Flash,Teleport,15,False,12238,10985,Amplifying Tome,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Void Staff,Control Ward,60333,22278,Lane.top_lane,Role.solo
+6,Zepshun,Shyvana,True,Side.red,7,3,9,5.333333333333333,220,Smite,Flash,16,False,13940,11625,Mercury's Treads,Tiamat,Frozen Mallet,Dead Man's Plate,Enchantment: Bloodrazor,Ruby Crystal,81580,124301,Lane.jungle,Role.none
+7,Cpt Squirtle,Ashe,True,Side.red,10,5,12,4.4,169,Heal,Flash,14,False,12693,11550,Infinity Edge,Essence Reaver,,Runaan's Hurricane,,Berserker's Greaves,2407,107435,Lane.bot_lane,Role.carry
+8,Candymang,Katarina,True,Side.red,13,5,12,5.0,39,Flash,Ignite,13,False,12095,11000,Hextech Gunblade,Luden's Echo,Blasting Wand,Sorcerer's Shoes,Frostfang,Needlessly Large Rod,50015,4315,Lane.bot_lane,Role.support
+9,Lucito,Twisted Fate,True,Side.red,4,9,13,1.8888888888888888,120,Flash,Ghost,14,True,10806,9625,Rod of Ages,Fiendish Codex,Ionian Boots of Lucidity,Lich Bane,Seeker's Armguard,Doran's Ring,84183,8722,Lane.mid_lane,Role.solo

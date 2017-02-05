@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Silidos,Twitch,False,Side.blue,1,5,0,0.2,172,Heal,Flash,11,False,7804,7350,Doran's Blade,Infinity Edge,Dagger,Runaan's Hurricane,,Boots of Speed,0,67235,Lane.bot_lane,Role.carry
+1,Stafford,Thresh,False,Side.blue,0,6,0,0.0,45,Flash,Exhaust,11,False,5598,4825,Eye of the Equinox,Boots of Speed,Control Ward,Redemption,Refillable Potion,,7375,3504,Lane.bot_lane,Role.support
+2,Basilikos,Renekton,False,Side.blue,6,5,1,1.4,190,Ignite,Flash,14,True,9830,8600,Mercury's Treads,Titanic Hydra,Ruby Crystal,The Black Cleaver,,,2584,97780,Lane.top_lane,Role.solo
+3,Sheiden,Kennen,False,Side.blue,3,8,1,0.5,193,Ignite,Flash,14,False,8582,7510,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,,69670,20664,Lane.mid_lane,Role.solo
+4,MotherMango,Fiddlesticks,False,Side.blue,1,7,4,0.7142857142857143,98,Flash,Smite,12,False,7517,7335,Enchantment: Runic Echoes,Control Ward,Zhonya's Hourglass,Sorcerer's Shoes,Amplifying Tome,,73972,10833,Lane.jungle,Role.none
+5,IceCreamQAQ,Vayne,True,Side.red,7,2,6,6.5,197,Flash,Heal,14,False,11711,8475,Berserker's Greaves,Null-Magic Mantle,,Infinity Edge,Statikk Shiv,Doran's Blade,20903,116246,Lane.bot_lane,Role.carry
+6,ItsGregFFs,Vi,True,Side.red,8,2,8,8.0,165,Smite,Flash,15,False,12352,9275,Refillable Potion,Maw of Malmortius,Giant's Belt,Mercury's Treads,Warden's Mail,Enchantment: Warrior,1593,168333,Lane.jungle,Role.none
+7,dills,Nautilus,True,Side.red,4,3,11,5.0,154,Flash,Teleport,15,False,10535,8200,Sunfire Cape,Corrupting Potion,Zz'Rot Portal,Mercury's Treads,Giant's Belt,,63952,19400,Lane.top_lane,Role.solo
+8,Arane,Janna,True,Side.red,0,1,21,21.0,11,Exhaust,Flash,13,False,8591,5850,Redemption,Sightstone,,Aether Wisp,Frostfang,Boots of Mobility,11801,10109,Lane.bot_lane,Role.support
+9,am tham ben em,Orianna,True,Side.red,12,3,11,7.666666666666667,178,Flash,Ghost,15,False,12987,12385,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Needlessly Large Rod,Luden's Echo,Amplifying Tome,102240,12569,Lane.mid_lane,Role.solo

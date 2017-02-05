@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Spooke,Miss Fortune,False,Side.blue,0,1,4,4.0,14,Flash,Ignite,10,False,6210,5625,Boots of Swiftness,,Long Sword,Eye of the Watchers,Ruby Crystal,Caulfield's Warhammer,17579,4421,Lane.bot_lane,Role.support
+1,Henrÿ,Graves,False,Side.blue,3,8,0,0.375,131,Flash,Smite,12,False,8076,6625,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,Long Sword,,,2615,102467,Lane.jungle,Role.none
+2,MyTimeIsNow,Ryze,False,Side.blue,1,11,2,0.2727272727272727,139,Ghost,Flash,11,False,7044,6925,Archangel's Staff,Refillable Potion,Rod of Ages,,Ionian Boots of Lucidity,,80864,8832,Lane.mid_lane,Role.solo
+3,Jungle Frankie,Ezreal,False,Side.blue,1,5,3,0.8,113,Heal,Flash,11,False,6892,6400,Doran's Blade,Iceborn Gauntlet,Ionian Boots of Lucidity,Pickaxe,Cull,Tear of the Goddess,6653,43901,Lane.bot_lane,Role.carry
+4,Vsionz,Jayce,False,Side.blue,4,6,1,0.8333333333333334,157,Flash,Teleport,12,False,8361,8275,Doran's Blade,Phage,Caulfield's Warhammer,Youmuu's Ghostblade,Ionian Boots of Lucidity,Pickaxe,11909,76654,Lane.top_lane,Role.solo
+5,DrunkCatalyst,Kog'Maw,True,Side.red,9,2,11,10.0,106,Flash,Ghost,13,False,8958,7125,,Tear of the Goddess,Liandry's Torment,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,63740,8876,Lane.mid_lane,Role.solo
+6,aphromoo,Morgana,True,Side.red,1,2,15,8.0,7,Exhaust,Flash,10,False,6894,5850,Ruby Sightstone,Redemption,Spellthief's Edge,,Boots of Mobility,Cloth Armor,9958,4427,Lane.bot_lane,Role.support
+7,Link,Jhin,True,Side.red,13,1,7,20.0,168,Flash,Heal,13,True,12173,11200,Doran's Blade,Vampiric Scepter,Zeal,Infinity Edge,Boots of Swiftness,Essence Reaver,3294,109134,Lane.bot_lane,Role.carry
+8,jamican banana,Ivern,True,Side.red,3,1,17,20.0,116,Smite,Flash,14,False,9898,8475,Ionian Boots of Lucidity,Hextech Protobelt-01,Enchantment: Runic Echoes,Fiendish Codex,Mejai's Soulstealer,Refillable Potion,47132,12439,Lane.jungle,Role.none
+9,Yumika,Irelia,True,Side.red,5,3,5,3.3333333333333335,128,Flash,Teleport,12,False,8682,6583,Corrupting Potion,Doran's Shield,Doran's Blade,Trinity Force,Ninja Tabi,Long Sword,2114,51195,Lane.top_lane,Role.solo

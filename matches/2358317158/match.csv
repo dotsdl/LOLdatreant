@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pooper Josh,Syndra,True,Side.blue,11,4,11,5.5,154,Ghost,Flash,15,False,11952,10785,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Void Staff,Amplifying Tome,103920,8294,Lane.jungle,Role.none
+1,iOddOrange,Vi,True,Side.blue,10,6,11,3.5,123,Flash,Smite,15,False,12725,12083,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,Trinity Force,Spectre's Cowl,Control Ward,1127,143144,Lane.jungle,Role.none
+2,Im a real grill,Caitlyn,True,Side.blue,10,3,15,8.333333333333334,243,Flash,Heal,16,True,14847,13625,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,The Bloodthirster,Zeal,981,195987,Lane.bot_lane,Role.carry
+3,VivaKlaidas,Brand,True,Side.blue,4,3,20,8.0,25,Ignite,Flash,14,False,10584,9725,Frostfang,Control Ward,Sorcerer's Shoes,Liandry's Torment,Sightstone,Rylai's Crystal Scepter,33136,4592,Lane.bot_lane,Role.support
+4,Apàthy,Jayce,True,Side.blue,8,7,9,2.4285714285714284,147,Flash,Teleport,15,False,11621,11150,Doran's Blade,Maw of Malmortius,Youmuu's Ghostblade,Lord Dominik's Regards,Mercury's Treads,Cloth Armor,13432,78836,Lane.top_lane,Role.solo
+5,Pat the Bunny,Olaf,False,Side.red,5,5,7,2.4,172,Smite,Ghost,14,False,10519,10125,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Frozen Heart,Spirit Visage,Chain Vest,20369,108864,Lane.jungle,Role.none
+6,EnVy Nien,Blitzcrank,False,Side.red,5,10,8,1.3,40,Flash,Exhaust,11,False,7895,7995,Relic Shield,Frozen Heart,Sightstone,Negatron Cloak,Boots of Mobility,Raptor Cloak,10282,8874,Lane.bot_lane,Role.support
+7,Kimchi Kimchi,Ryze,False,Side.red,8,9,5,1.4444444444444444,162,Exhaust,Flash,13,False,10501,10025,Seraph's Embrace,Zhonya's Hourglass,Mercury's Treads,Rod of Ages,,,106516,7994,Lane.jungle,Role.none
+8,The Coldshroom,Teemo,False,Side.red,2,12,3,0.4166666666666667,178,Ignite,Flash,13,False,9490,8885,Blasting Wand,Hextech Protobelt-01,Zhonya's Hourglass,Doran's Ring,Ninja Tabi,Amplifying Tome,82509,21519,Lane.top_lane,Role.solo
+9,Hyperiun,Ezreal,False,Side.red,3,8,4,0.875,187,Heal,Flash,14,False,9629,8625,Iceborn Gauntlet,Muramana,Bilgewater Cutlass,Ionian Boots of Lucidity,Cull,Doran's Blade,30370,77699,Lane.bot_lane,Role.carry

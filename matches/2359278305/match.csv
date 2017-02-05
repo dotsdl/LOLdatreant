@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DatFriedChicken,Ezreal,False,Side.blue,6,6,7,2.1666666666666665,144,Flash,Barrier,13,False,10049,9483,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Cull,Muramana,Last Whisper,16102,76020,Lane.mid_lane,Role.solo
+1,Xcution,Taric,False,Side.blue,1,7,14,2.142857142857143,29,Exhaust,Flash,11,False,7445,6800,Redemption,Kindlegem,Boots of Mobility,Ruby Sightstone,,Targon's Brace,6749,6995,Lane.bot_lane,Role.support
+2,Kolthro,Graves,False,Side.blue,6,10,6,1.2,167,Smite,Flash,14,False,10786,10675,Enchantment: Warrior,Glacial Shroud,Phantom Dancer,Mercury's Treads,Maw of Malmortius,,6266,139146,Lane.jungle,Role.none
+3,TroIl King,Sion,False,Side.blue,3,5,7,2.0,164,Flash,Teleport,14,False,9254,9100,Spirit Visage,Warden's Mail,Sunfire Cape,Cloth Armor,Sapphire Crystal,Mercury's Treads,40890,61084,Lane.top_lane,Role.solo
+4,I Blame Rito,Jinx,False,Side.blue,9,8,5,1.75,129,Flash,Heal,12,False,9906,9500,Doran's Blade,Infinity Edge,Runaan's Hurricane,Last Whisper,Berserker's Greaves,Long Sword,746,81635,Lane.bot_lane,Role.carry
+5,Singles,Jhin,True,Side.red,5,5,12,3.4,162,Heal,Flash,15,False,11951,10175,Boots of Swiftness,Pickaxe,Doran's Blade,Essence Reaver,Rapid Firecannon,B. F. Sword,4379,117201,Lane.bot_lane,Role.carry
+6,Kazacan,Irelia,True,Side.red,19,2,3,11.0,230,Flash,Teleport,17,False,16864,15233,Randuin's Omen,Trinity Force,Mercury's Treads,Guardian Angel,Blade of the Ruined King,Jaurim's Fist,4621,135790,Lane.top_lane,Role.solo
+7,MizulD,LeBlanc,True,Side.red,8,7,5,1.8571428571428572,132,Flash,Teleport,14,True,11210,10825,Zhonya's Hourglass,Sorcerer's Shoes,Void Staff,Doran's Ring,,Morellonomicon,71959,10733,Lane.mid_lane,Role.solo
+8,popgoestheglock,Rammus,True,Side.red,3,4,9,3.0,136,Smite,Flash,14,False,11068,10200,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Randuin's Omen,Thornmail,Warden's Mail,70930,39684,Lane.jungle,Role.none
+9,Hanjaro,Brand,True,Side.red,1,7,13,2.0,36,Flash,Exhaust,12,False,9422,8725,Eye of the Watchers,Haunting Guise,Sorcerer's Shoes,Control Ward,,Rylai's Crystal Scepter,49355,6861,Lane.bot_lane,Role.support

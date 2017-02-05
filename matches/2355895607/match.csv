@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid fabbbyyy,Caitlyn,False,Side.blue,3,10,3,0.6,181,Flash,Heal,12,False,9528,8550,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Doran's Blade,Dagger,Dagger,894,96075,Lane.bot_lane,Role.duo
+1,Wiggily,Olaf,False,Side.blue,8,7,6,2.0,155,Ghost,Smite,15,False,11804,11500,Randuin's Omen,,Enchantment: Cinderhulk,Spirit Visage,Ionian Boots of Lucidity,Giant's Belt,19643,112215,Lane.jungle,Role.none
+2,LimitedExtent,Nautilus,False,Side.blue,1,6,11,2.0,50,Exhaust,Flash,12,False,8015,7675,Control Ward,Ruby Sightstone,Face of the Mountain,Knight's Vow,,Boots of Mobility,14029,9218,Lane.bot_lane,Role.duo
+3,An Obese Panda,Ahri,False,Side.blue,5,6,10,2.5,195,Flash,Ignite,14,False,10999,11125,Doran's Ring,Void Staff,,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,71761,13383,Lane.mid_lane,Role.solo
+4,Brian Griffin,Kennen,False,Side.blue,6,10,7,1.3,143,Teleport,Flash,13,False,9667,8775,Hextech Protobelt-01,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Blade,Seeker's Armguard,,58619,22134,Lane.top_lane,Role.solo
+5,Dna shockwave,Syndra,True,Side.red,11,10,6,1.7,158,Ghost,Flash,14,False,11962,9450,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,Blasting Wand,120344,8159,Lane.mid_lane,Role.solo
+6,Str1fe,Vayne,True,Side.red,14,4,10,6.0,200,Flash,Heal,15,False,14083,12055,Doran's Blade,B. F. Sword,Berserker's Greaves,Statikk Shiv,Infinity Edge,Phantom Dancer,33650,101258,Lane.bot_lane,Role.carry
+7,SandPaperX,Tahm Kench,True,Side.red,2,3,18,6.666666666666667,170,Teleport,Flash,15,False,10926,9425,Corrupting Potion,Zz'Rot Portal,Sunfire Cape,Mercury's Treads,Kindlegem,Spectre's Cowl,45381,16048,Lane.top_lane,Role.solo
+8,Winter is back,Morgana,True,Side.red,3,4,19,5.5,22,Flash,Exhaust,13,True,10497,9050,Boots of Mobility,Control Ward,Locket of the Iron Solari,Eye of the Watchers,Fiendish Codex,Redemption,15325,5707,Lane.bot_lane,Role.support
+9,Makavéli,Ivern,True,Side.red,9,2,19,14.0,94,Smite,Flash,15,False,12561,10850,Enchantment: Runic Echoes,Redemption,Giant's Belt,Mejai's Soulstealer,Athene's Unholy Grail,Boots of Mobility,22770,9946,Lane.jungle,Role.none

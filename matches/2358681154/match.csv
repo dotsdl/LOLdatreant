@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,EDG SLICER,Ashe,False,Side.blue,2,9,3,0.5555555555555556,145,Flash,Heal,10,False,7401,6650,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Cloak of Agility,1021,50354,Lane.bot_lane,Role.none
+1,k7o2slqdoc7pvgym,Xerath,False,Side.blue,4,3,7,3.6666666666666665,130,Ghost,Flash,12,False,7801,7810,Doran's Ring,Needlessly Large Rod,Morellonomicon,Mejai's Soulstealer,Amplifying Tome,Sorcerer's Shoes,64658,7584,Lane.jungle,Role.none
+2,a line of code,Lee Sin,False,Side.blue,4,7,6,1.4285714285714286,108,Smite,Flash,12,False,7530,7025,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Mobility,Giant's Belt,Warden's Mail,15474,69273,Lane.bot_lane,Role.none
+3,Scherb,Janna,False,Side.blue,0,5,7,1.4,7,Flash,Exhaust,11,False,5214,4700,Redemption,Sightstone,Nomad's Medallion,Boots of Speed,Cloth Armor,,3071,5006,Lane.bot_lane,Role.none
+4,oopa,Gangplank,False,Side.blue,6,8,3,1.125,147,Flash,Teleport,12,True,9641,9358,Corrupting Potion,Trinity Force,Control Ward,Ionian Boots of Lucidity,Infinity Edge,Brawler's Gloves,5254,82463,Lane.top_lane,Role.solo
+5,Dhokla,Jayce,True,Side.red,12,4,4,4.0,217,Flash,Teleport,15,False,14251,13950,Youmuu's Ghostblade,The Black Cleaver,Doran's Blade,The Bloodthirster,Boots of Swiftness,Mortal Reminder,18809,144748,Lane.top_lane,Role.solo
+6,xTc4,Sona,True,Side.red,3,2,16,9.5,17,Flash,Heal,12,False,8855,6225,Tear of the Goddess,Refillable Potion,Eye of the Watchers,Fiendish Codex,Sorcerer's Shoes,Hextech Revolver,15326,6360,Lane.bot_lane,Role.support
+7,Falco Mechanic,Vayne,True,Side.red,6,5,9,3.0,139,Exhaust,Flash,12,False,10550,8850,Doran's Blade,Berserker's Greaves,Infinity Edge,Phantom Dancer,Vampiric Scepter,,558,88781,Lane.bot_lane,Role.carry
+8,ShörterACE,Olaf,True,Side.red,8,3,8,5.333333333333333,97,Ghost,Smite,13,False,10715,8950,Enchantment: Cinderhulk,Cloth Armor,Ionian Boots of Lucidity,Randuin's Omen,Spectre's Cowl,Chain Vest,15518,83236,Lane.jungle,Role.none
+9,Gamer Girl,Katarina,True,Side.red,3,3,4,2.3333333333333335,160,Flash,Ignite,14,False,9469,7600,Sorcerer's Shoes,Refillable Potion,Hextech Gunblade,,,Abyssal Scepter,72022,12050,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BIind Goat,Katarina,False,Side.blue,1,6,0,0.16666666666666666,120,Ignite,Flash,10,False,5921,5100,The Dark Seal,Sorcerer's Shoes,,,Hextech Gunblade,,53990,5130,Lane.mid_lane,Role.solo
+1,IllAxeYouNicely,Shyvana,False,Side.blue,1,4,2,0.75,81,Flash,Smite,11,False,6201,5925,Jaurim's Fist,Ruby Crystal,Chain Vest,Null-Magic Mantle,Enchantment: Bloodrazor,Boots of Speed,38788,35339,Lane.jungle,Role.none
+2,Bigerthanyou,Caitlyn,False,Side.blue,1,7,2,0.42857142857142855,133,Heal,Flash,10,False,6564,5875,B. F. Sword,Dagger,Zeal,Pickaxe,Doran's Blade,Berserker's Greaves,420,65866,Lane.bot_lane,Role.carry
+3,dopas doge ,Singed,False,Side.blue,1,3,0,0.3333333333333333,163,Ghost,Teleport,12,False,6830,6175,Corrupting Potion,Zz'Rot Portal,Aegis of the Legion,The Dark Seal,Mercury's Treads,Sapphire Crystal,82610,4621,Lane.top_lane,Role.solo
+4,LostMyWings,Brand,False,Side.blue,1,2,3,2.0,17,Ignite,Flash,9,False,5279,5185,Frostfang,Amplifying Tome,Ionian Boots of Lucidity,Haunting Guise,The Dark Seal,Ruby Crystal,13426,2564,Lane.bot_lane,Role.support
+5,Joelzzz,Ryze,True,Side.red,10,1,3,13.0,136,Ghost,Flash,13,True,9834,8050,Archangel's Staff,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Lost Chapter,Control Ward,86935,9133,Lane.top_lane,Role.solo
+6,Grande Donger,Taric,True,Side.red,1,1,10,11.0,29,Flash,Exhaust,10,False,6472,5025,Eye of the Equinox,,Aegis of the Legion,Null-Magic Mantle,Ionian Boots of Lucidity,,9189,10182,Lane.bot_lane,Role.support
+7,C9 Waygzh,Kayle,True,Side.red,4,0,2,6.0,167,Flash,Ghost,12,False,8928,7500,Doran's Ring,Nashor's Tooth,Berserker's Greaves,Wit's End,Dagger,,60651,28551,Lane.mid_lane,Role.solo
+8,LOS MECHANICOS,Ezreal,True,Side.red,7,1,3,10.0,175,Heal,Flash,12,False,10084,8883,Doran's Blade,Manamune,Cull,Ionian Boots of Lucidity,Trinity Force,,14926,79159,Lane.bot_lane,Role.carry
+9,zT ace,Lee Sin,True,Side.red,0,2,6,3.0,99,Smite,Flash,11,False,7336,6275,Refillable Potion,Enchantment: Warrior,Tiamat,Mercury's Treads,Chain Vest,Ruby Crystal,11330,71864,Lane.jungle,Role.none

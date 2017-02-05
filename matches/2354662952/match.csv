@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Penar,Zac,True,Side.blue,3,3,9,4.0,66,Flash,Smite,11,False,7264,6550,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,,,35075,10878,Lane.jungle,Role.none
+1,LFT Blur,Ryze,True,Side.blue,16,2,7,11.5,114,Flash,Ghost,13,True,11248,9670,Seraph's Embrace,Blasting Wand,Ionian Boots of Lucidity,Negatron Cloak,Rod of Ages,Needlessly Large Rod,74789,7493,Lane.mid_lane,Role.solo
+2,Chemicals,Brand,True,Side.blue,6,3,13,6.333333333333333,12,Flash,Ignite,10,False,8417,7350,Sorcerer's Shoes,Haunting Guise,,Redemption,Faerie Charm,Eye of the Watchers,28517,7483,Lane.bot_lane,Role.support
+3,Dilraba Dilmurat,Jhin,True,Side.blue,10,2,13,11.5,113,Heal,Flash,12,False,10744,9050,,Refillable Potion,Berserker's Greaves,Essence Reaver,Doran's Blade,Infinity Edge,2825,81361,Lane.bot_lane,Role.carry
+4,Dizley,Riven,True,Side.blue,3,1,5,8.0,100,Flash,Teleport,12,False,7384,7025,Tiamat,The Black Cleaver,Refillable Potion,Doran's Blade,Bami's Cinder,Ionian Boots of Lucidity,534,59665,Lane.top_lane,Role.solo
+5,KitingYeezus,Darius,False,Side.red,1,6,1,0.3333333333333333,121,Flash,Teleport,11,False,6572,6150,Doran's Blade,Corrupting Potion,Ninja Tabi,The Black Cleaver,Warden's Mail,,265,62378,Lane.top_lane,Role.solo
+6,SnackTime91,Lee Sin,False,Side.red,7,8,0,0.875,84,Smite,Flash,11,False,7586,7200,Refillable Potion,Hexdrinker,Mercury's Treads,Enchantment: Warrior,Chain Vest,Giant's Belt,10200,54146,Lane.jungle,Role.none
+7,TheMoonIsMySun,Janna,False,Side.red,1,7,4,0.7142857142857143,3,Flash,Exhaust,9,False,5255,4575,Boots of Speed,Redemption,Eye of the Oasis,,,,1598,2281,Lane.bot_lane,Role.support
+8,KinXMSG,Ezreal,False,Side.red,0,7,2,0.2857142857142857,90,Flash,Heal,10,False,5753,5325,Cull,Tear of the Goddess,Pickaxe,Iceborn Gauntlet,Boots of Speed,,5246,28976,Lane.bot_lane,Role.carry
+9,HAXZOR2322,Syndra,False,Side.red,2,10,3,0.5,135,Flash,Ignite,11,False,7337,6235,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,Blasting Wand,63511,9813,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TamilTiger,Gangplank,True,Side.blue,0,0,0,0.0,12,Teleport,Flash,3,False,950,500,Sapphire Crystal,Refillable Potion,,,,,27,2162,Lane.top_lane,Role.solo
+1,53XY,Leona,True,Side.blue,0,0,0,0.0,4,Flash,Ignite,2,False,751,500,Relic Shield,Refillable Potion,,,,,290,654,Lane.bot_lane,Role.duo
+2,always plan ahea,Jhin,True,Side.blue,0,1,0,0.0,12,Flash,Heal,2,False,912,500,Doran's Blade,,,,,,67,4103,Lane.bot_lane,Role.duo
+3,Kudzo27,Rammus,True,Side.blue,0,0,0,0.0,2,Smite,Flash,2,False,859,500,Hunter's Talisman,Refillable Potion,,,,,1012,2906,Lane.jungle,Role.none
+4,NinjinCognito,Orianna,True,Side.blue,0,0,0,0.0,15,Exhaust,Flash,3,False,963,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1490,1344,Lane.mid_lane,Role.solo
+5,AishaMeryl,Nami,False,Side.red,0,0,1,1.0,0,Flash,Exhaust,2,False,920,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,303,87,Lane.bot_lane,Role.duo
+6,comeongirl0901,Nautilus,False,Side.red,0,0,0,0.0,10,Teleport,Flash,2,False,860,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,499,1154,Lane.top_lane,Role.solo
+7,Hylios,Yasuo,False,Side.red,0,0,0,0.0,17,Flash,Teleport,3,False,1000,500,Doran's Blade,,,,,,910,2747,Lane.mid_lane,Role.duo
+8,clickandgo,Jinx,False,Side.red,1,0,0,1.0,13,Heal,Flash,2,True,1304,500,Doran's Blade,Health Potion,,,,,0,2575,Lane.bot_lane,Role.duo
+9,Ktownyy,Elise,False,Side.red,0,0,0,0.0,0,Flash,Teleport,1,False,659,0,,,,,,,0,0,Lane.mid_lane,Role.duo

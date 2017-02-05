@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Edge Lord ADC,Vayne,True,Side.blue,8,2,7,7.5,145,Flash,Heal,11,False,9276,8375,Statikk Shiv,Doran's Blade,Infinity Edge,Berserker's Greaves,Dagger,,12378,51806,Lane.bot_lane,Role.carry
+1,support or troll,Thresh,True,Side.blue,2,3,19,7.0,33,Ignite,Flash,12,False,7170,6500,Catalyst of Aeons,Face of the Mountain,Sightstone,Crystalline Bracer,Boots of Mobility,,12154,6408,Lane.bot_lane,Role.support
+2,ityyy,Poppy,True,Side.blue,3,2,8,5.5,123,Flash,Teleport,12,False,7892,7350,Sunfire Cape,Corrupting Potion,,Iceborn Gauntlet,Ninja Tabi,,18624,48652,Lane.top_lane,Role.solo
+3,PonderousSeaLion,Hecarim,True,Side.blue,9,3,8,5.666666666666667,111,Ghost,Smite,13,False,9963,7858,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Mercury's Treads,,,9200,90871,Lane.jungle,Role.none
+4,FSU Dream,Katarina,True,Side.blue,6,3,7,4.333333333333333,143,Ignite,Flash,12,False,8721,8025,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,Haunting Guise,Aether Wisp,The Dark Seal,63020,9257,Lane.mid_lane,Role.solo
+5,Drowning,Lee Sin,False,Side.red,0,7,4,0.5714285714285714,67,Flash,Smite,11,False,6387,5475,Refillable Potion,Giant's Belt,Ninja Tabi,Enchantment: Warrior,Cloth Armor,Cloth Armor,8598,57215,Lane.jungle,Role.none
+6,Get Good Le Bad,Caitlyn,False,Side.red,4,6,3,1.1666666666666667,150,Heal,Flash,11,True,8348,8680,Runaan's Hurricane,Doran's Blade,Infinity Edge,,Berserker's Greaves,,881,79759,Lane.bot_lane,Role.carry
+7,Mata dog,Bard,False,Side.red,1,6,6,1.1666666666666667,9,Flash,Exhaust,10,False,5303,3825,Ruby Sightstone,Total Biscuit of Rejuvenation,,Boots of Mobility,Ruby Crystal,Spellthief's Edge,8883,4215,Lane.bot_lane,Role.support
+8,Megalomaniacal,Olaf,False,Side.red,6,6,2,1.3333333333333333,155,Flash,Ignite,13,False,8940,8270,Corrupting Potion,The Black Cleaver,Control Ward,Ionian Boots of Lucidity,Negatron Cloak,Randuin's Omen,388,83073,Lane.top_lane,Role.solo
+9,Killlua,Orianna,False,Side.red,2,3,3,1.6666666666666667,141,Ghost,Flash,12,False,7211,6445,Doran's Ring,Morellonomicon,Negatron Cloak,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Fiendish Codex,46779,9823,Lane.mid_lane,Role.solo

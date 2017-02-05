@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Doctor E Trill,Janna,True,Side.blue,0,6,14,2.3333333333333335,14,Exhaust,Flash,12,False,7908,6650,Talisman of Ascension,Redemption,Ruby Sightstone,Control Ward,,,4421,7555,Lane.bot_lane,Role.support
+1,Fr0otz,Jinx,True,Side.blue,10,4,7,4.25,185,Heal,Flash,14,False,12639,10850,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Long Sword,1156,150040,Lane.bot_lane,Role.carry
+2,Koggle,Katarina,True,Side.blue,7,9,8,1.6666666666666667,116,Flash,Ignite,13,False,10379,8335,,Rylai's Crystal Scepter,Luden's Echo,Sorcerer's Shoes,Amplifying Tome,,69588,8639,Lane.mid_lane,Role.solo
+3,dogling,Kha'Zix,True,Side.blue,7,3,7,4.666666666666667,131,Flash,Smite,15,False,11207,9850,Enchantment: Warrior,Duskblade of Draktharr,Ninja Tabi,Phage,Caulfield's Warhammer,Health Potion,3198,120189,Lane.jungle,Role.none
+4,SH0CK,Poppy,True,Side.blue,6,4,12,4.5,156,Teleport,Flash,15,False,11575,10300,Sunfire Cape,Corrupting Potion,Control Ward,Iceborn Gauntlet,Spirit Visage,Ninja Tabi,30507,71455,Lane.top_lane,Role.solo
+5,4lone,Twisted Fate,False,Side.red,5,5,8,2.6,124,Ghost,Flash,12,False,9160,8850,Fiendish Codex,Lich Bane,,,Abyssal Scepter,Ionian Boots of Lucidity,66571,13571,Lane.mid_lane,Role.solo
+6,Hard On Donger,Yasuo,False,Side.red,3,8,5,1.0,175,Flash,Teleport,13,True,9349,9025,Doran's Blade,Infinity Edge,Phantom Dancer,Vampiric Scepter,Ninja Tabi,,20159,80761,Lane.top_lane,Role.solo
+7,support or troll,Miss Fortune,False,Side.red,3,6,13,2.6666666666666665,31,Ignite,Flash,11,False,8473,8100,Redemption,Frost Queen's Claim,Sightstone,Phage,Boots of Mobility,Long Sword,13507,18184,Lane.bot_lane,Role.support
+8,where ez my life,Lee Sin,False,Side.red,9,7,6,2.142857142857143,98,Smite,Flash,13,False,10367,10025,Boots of Mobility,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,The Black Cleaver,,19141,89518,Lane.jungle,Role.none
+9,Giygas Reborn,Lucian,False,Side.red,6,5,6,2.4,164,Flash,Heal,12,False,10898,9950,Doran's Blade,Essence Reaver,B. F. Sword,Berserker's Greaves,Cull,Rapid Firecannon,3846,103009,Lane.bot_lane,Role.carry

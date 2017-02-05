@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,clearyt,Kassadin,False,Side.blue,2,2,3,2.5,126,Teleport,Flash,12,False,6896,6250,Corrupting Potion,Rod of Ages,Boots of Speed,Abyssal Scepter,,,35391,14874,Lane.mid_lane,Role.solo
+1,Wo Shi Keng b,Caitlyn,False,Side.blue,2,6,2,0.6666666666666666,150,Heal,Flash,11,False,7448,7000,Runaan's Hurricane,B. F. Sword,Cull,Doran's Blade,Pickaxe,Berserker's Greaves,518,71271,Lane.bot_lane,Role.carry
+2,Braums Mustache,Braum,False,Side.blue,1,4,5,1.5,45,Flash,Exhaust,10,False,5740,5150,Boots of Mobility,Sightstone,Face of the Mountain,Null-Magic Mantle,Cloth Armor,,8229,4464,Lane.bot_lane,Role.support
+3,Lukillz,Ivern,False,Side.blue,1,2,5,3.0,115,Flash,Smite,12,False,7256,6850,Hunter's Talisman,Refillable Potion,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Athene's Unholy Grail,,10296,6176,Lane.jungle,Role.none
+4,EmperorOng,Irelia,False,Side.blue,1,8,1,0.25,144,Teleport,Flash,11,False,6644,6183,Bilgewater Cutlass,Control Ward,Corrupting Potion,Trinity Force,Boots of Speed,,1693,47224,Lane.top_lane,Role.solo
+5,nidage,Jhin,True,Side.red,3,3,6,3.0,137,Flash,Heal,11,False,8252,7375,Essence Reaver,Refillable Potion,Zeal,Kircheis Shard,Ionian Boots of Lucidity,Doran's Blade,2252,70762,Lane.bot_lane,Role.carry
+6,zz lol,Bard,True,Side.red,3,1,9,12.0,14,Exhaust,Flash,12,False,6804,6300,Eye of the Watchers,Faerie Charm,Redemption,Null-Magic Mantle,Faerie Charm,Boots of Mobility,13078,4442,Lane.bot_lane,Role.support
+7,Shinon,Teemo,True,Side.red,5,1,5,10.0,198,Flash,Teleport,15,False,10538,9935,Doran's Ring,Liandry's Torment,Hextech Gunblade,Stinger,Amplifying Tome,Mercury's Treads,55411,47047,Lane.top_lane,Role.solo
+8,Vultix,Hecarim,True,Side.red,7,1,7,14.0,134,Ghost,Smite,14,False,10485,9408,Enchantment: Cinderhulk,Mercury's Treads,Trinity Force,Refillable Potion,Giant's Belt,Chain Vest,24474,114922,Lane.jungle,Role.none
+9,Zhangerang,Cassiopeia,True,Side.red,4,1,1,5.0,189,Flash,Ghost,13,True,9263,8375,Doran's Ring,Refillable Potion,Tear of the Goddess,Morellonomicon,Abyssal Scepter,Needlessly Large Rod,70946,12471,Lane.mid_lane,Role.solo

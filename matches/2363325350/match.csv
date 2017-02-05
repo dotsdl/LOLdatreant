@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aurath,Ziggs,False,Side.blue,3,5,2,1.0,197,Teleport,Flash,14,False,9576,8660,Liandry's Torment,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,,126633,8614,Lane.mid_lane,Role.solo
+1,moon o,Lee Sin,False,Side.blue,8,8,5,1.625,148,Smite,Flash,13,True,10857,10160,Tiamat,Enchantment: Warrior,Edge of Night,Sightstone,Boots of Swiftness,Serrated Dirk,23416,101946,Lane.jungle,Role.none
+2,S Lyn,Twitch,False,Side.blue,5,8,5,1.25,150,Heal,Flash,12,False,9664,8900,Infinity Edge,Doran's Blade,Runaan's Hurricane,Dagger,Berserker's Greaves,Dagger,1646,83758,Lane.bot_lane,Role.carry
+3,TOP Pagoda,Lulu,False,Side.blue,2,10,7,0.9,130,Flash,Teleport,12,False,8495,7910,Zhonya's Hourglass,Refillable Potion,Amplifying Tome,Morellonomicon,The Dark Seal,Ninja Tabi,56688,10124,Lane.top_lane,Role.solo
+4,porkberry,Janna,False,Side.blue,0,6,12,2.0,14,Exhaust,Flash,10,False,6625,5725,Redemption,Sightstone,Aegis of the Legion,Ancient Coin,Ionian Boots of Lucidity,,2187,3274,Lane.bot_lane,Role.support
+5,Smartcloud,Sion,True,Side.red,2,4,11,3.25,43,Flash,Ignite,13,False,8418,6975,,Aegis of the Legion,Eye of the Equinox,Redemption,Ninja Tabi,,13169,18090,Lane.bot_lane,Role.support
+6,Garani,Shyvana,True,Side.red,11,3,14,8.333333333333334,155,Smite,Ghost,15,False,13954,12350,Dead Man's Plate,Titanic Hydra,Spectre's Cowl,Mercury's Treads,Chain Vest,Enchantment: Cinderhulk,79714,74189,Lane.jungle,Role.none
+7,GodMeru,Pantheon,True,Side.red,4,5,15,3.8,169,Flash,Ignite,14,False,11800,10900,Dead Man's Plate,Youmuu's Ghostblade,Corrupting Potion,Boots of Swiftness,The Black Cleaver,Null-Magic Mantle,7666,103197,Lane.top_lane,Role.solo
+8,Toll,Jhin,True,Side.red,8,5,9,3.4,170,Flash,Heal,14,False,12322,11950,Infinity Edge,Essence Reaver,Rapid Firecannon,Boots of Swiftness,,Doran's Blade,8354,94932,Lane.bot_lane,Role.carry
+9,Program,Anivia,True,Side.red,12,1,7,19.0,185,Ghost,Flash,16,False,13587,10920,Negatron Cloak,Seraph's Embrace,Ionian Boots of Lucidity,Doran's Ring,Rod of Ages,Void Staff,122585,11560,Lane.mid_lane,Role.solo

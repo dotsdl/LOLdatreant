@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TEAMLUKEE,Jhin,False,Side.blue,5,7,10,2.142857142857143,126,Heal,Flash,12,True,8886,8700,Doran's Blade,Infinity Edge,Essence Reaver,Ionian Boots of Lucidity,,,2078,80983,Lane.bot_lane,Role.carry
+1,Shiruku Tenshi,Lux,False,Side.blue,5,7,11,2.2857142857142856,24,Flash,Exhaust,12,False,8454,7700,Eye of the Watchers,Boots of Speed,Morellonomicon,Athene's Unholy Grail,,,25068,3958,Lane.bot_lane,Role.support
+2,LongLeg Male God,Fizz,False,Side.blue,8,8,2,1.25,129,Ignite,Flash,12,False,9095,8450,Corrupting Potion,Zhonya's Hourglass,Doran's Ring,Lich Bane,Sorcerer's Shoes,The Dark Seal,41689,13966,Lane.mid_lane,Role.solo
+3,Riot Kobe,Hecarim,False,Side.blue,3,9,5,0.8888888888888888,108,Ghost,Smite,12,False,8202,7133,Skirmisher's Sabre,Boots of Swiftness,Hunter's Potion,Trinity Force,Bami's Cinder,,9401,71659,Lane.jungle,Role.none
+4,Azed,Yasuo,False,Side.blue,2,4,6,2.0,177,Flash,Teleport,13,False,8718,8275,Doran's Blade,Phantom Dancer,Mercury's Treads,Doran's Blade,Infinity Edge,,18771,81395,Lane.top_lane,Role.solo
+5,PLAYING4HARAMBE,Lee Sin,True,Side.red,10,3,9,6.333333333333333,111,Flash,Smite,14,False,11806,10225,Boots of Swiftness,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Dead Man's Plate,Ruby Crystal,18019,98540,Lane.jungle,Role.none
+6,Virus,Twitch,True,Side.red,9,8,7,2.0,172,Heal,Flash,13,False,11628,9275,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Runaan's Hurricane,,0,113921,Lane.bot_lane,Role.carry
+7,PRoHAppyCAmper,Katarina,True,Side.red,12,7,4,2.2857142857142856,104,Ignite,Flash,12,False,10573,9510,Hextech Gunblade,Refillable Potion,Giant's Belt,Luden's Echo,Amplifying Tome,Sorcerer's Shoes,66395,10820,Lane.mid_lane,Role.solo
+8,support or troll,Thresh,True,Side.red,1,4,18,4.75,39,Ignite,Flash,12,False,8479,7970,Righteous Glory,Face of the Mountain,Sightstone,Negatron Cloak,Boots of Mobility,Cloth Armor,13758,6297,Lane.bot_lane,Role.support
+9,dansdaman,Poppy,True,Side.red,3,1,11,14.0,171,Flash,Teleport,14,False,10310,8600,Sunfire Cape,Corrupting Potion,Randuin's Omen,Ninja Tabi,Spectre's Cowl,,28055,56146,Lane.top_lane,Role.solo

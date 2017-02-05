@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KarasMai,Vi,False,Side.blue,7,7,6,1.8571428571428572,175,Flash,Smite,16,False,12459,12183,Enchantment: Warrior,Trinity Force,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,Ruby Crystal,4248,160528,Lane.jungle,Role.none
+1,Topopotamus,Poppy,False,Side.blue,5,7,6,1.5714285714285714,210,Teleport,Flash,16,False,11980,11800,Sunfire Cape,Chain Vest,Zz'Rot Portal,Spirit Visage,Ninja Tabi,Giant's Belt,42675,78195,Lane.top_lane,Role.solo
+2,HARUHI S3 PLS,Taliyah,False,Side.blue,4,7,9,1.8571428571428572,219,Exhaust,Flash,15,False,11522,10650,Rylai's Crystal Scepter,Morellonomicon,Abyssal Scepter,,Sorcerer's Shoes,,136591,10447,Lane.mid_lane,Role.solo
+3,colourkevin,Vayne,False,Side.blue,8,8,7,1.875,227,Heal,Flash,14,False,12651,11600,Vampiric Scepter,Quicksilver Sash,Berserker's Greaves,Statikk Shiv,B. F. Sword,Infinity Edge,27496,94839,Lane.bot_lane,Role.carry
+4,TEAMLUKEE,Tahm Kench,False,Side.blue,4,6,11,2.5,83,Exhaust,Flash,14,False,10158,9600,Eye of the Equinox,Boots of Swiftness,Spirit Visage,,,Titanic Hydra,18402,28119,Lane.bot_lane,Role.support
+5,tonpole,Heimerdinger,True,Side.red,6,3,15,7.0,59,Exhaust,Flash,15,False,11999,9925,Ruby Sightstone,Talisman of Ascension,Redemption,The Dark Seal,Ionian Boots of Lucidity,Locket of the Iron Solari,47796,8442,Lane.bot_lane,Role.support
+6,Carpe Dio,Syndra,True,Side.red,8,4,11,4.75,282,Flash,Ignite,17,False,14677,12425,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Blasting Wand,192905,10382,Lane.mid_lane,Role.solo
+7,ad QAQ,Caitlyn,True,Side.red,3,9,9,1.3333333333333333,229,Flash,Heal,15,False,13059,10600,Runaan's Hurricane,Control Ward,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Doran's Blade,1940,164854,Lane.bot_lane,Role.carry
+8,Ikzencriel,Jax,True,Side.red,9,5,6,3.0,196,Teleport,Flash,16,True,13209,12683,Ruby Crystal,Trinity Force,Hextech Gunblade,Mercury's Treads,Maw of Malmortius,Cloth Armor,33691,101343,Lane.top_lane,Role.solo
+9,hashinshin,Hecarim,True,Side.red,9,7,15,3.4285714285714284,126,Ghost,Smite,16,False,13495,12058,Enchantment: Cinderhulk,Trinity Force,Ninja Tabi,Dead Man's Plate,Jaurim's Fist,Long Sword,14743,152380,Lane.jungle,Role.none

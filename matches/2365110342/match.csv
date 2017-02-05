@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fàkèr  ,Vi,True,Side.blue,7,7,6,1.8571428571428572,98,Smite,Flash,13,False,10767,17525,Redemption,Redemption,Redemption,Long Sword,Long Sword,Long Sword,2985,103853,Lane.jungle,Role.none
+1,improve yourseIf,Nautilus,True,Side.blue,3,4,15,4.5,186,Flash,Teleport,16,False,12064,10000,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Spirit Visage,,81735,29647,Lane.top_lane,Role.solo
+2,Hochelaga,Sona,True,Side.blue,4,4,21,6.25,21,Flash,Exhaust,14,False,11228,11075,Boots of Swiftness,Eye of the Watchers,Mikael's Crucible,Redemption,Zeke's Harbinger,Raptor Cloak,16563,5574,Lane.bot_lane,Role.support
+3,Im Vaeth,Ezreal,True,Side.blue,18,6,7,4.166666666666667,173,Heal,Flash,15,False,15221,11100,Blade of the Ruined King,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Blade,Pickaxe,21042,115723,Lane.bot_lane,Role.carry
+4,Suntail,Diana,True,Side.blue,8,2,10,9.0,176,Flash,Teleport,16,False,12574,9660,Doran's Ring,Doran's Ring,Amplifying Tome,Rabadon's Deathcap,Luden's Echo,Sorcerer's Shoes,120030,16921,Lane.mid_lane,Role.solo
+5,Aazzlano,Ziggs,False,Side.red,5,7,7,1.7142857142857142,131,Heal,Flash,13,False,9656,9185,Doran's Ring,Morellonomicon,Amplifying Tome,Doran's Ring,Luden's Echo,Sorcerer's Shoes,89524,6708,Lane.mid_lane,Role.solo
+6,CHEEZY DIAPER,Morgana,False,Side.red,3,9,10,1.4444444444444444,24,Exhaust,Flash,12,False,8875,8535,Redemption,Locket of the Iron Solari,Eye of the Watchers,Refillable Potion,Mercury's Treads,Amplifying Tome,20933,4153,Lane.bot_lane,Role.support
+7,ACuteKoreanGirI,Riven,False,Side.red,2,8,6,1.0,180,Teleport,Flash,14,True,9869,9800,Maw of Malmortius,Tiamat,Mercury's Treads,The Black Cleaver,Pickaxe,,0,103287,Lane.top_lane,Role.solo
+8,Hanjaro,Jhin,False,Side.red,8,9,8,1.7777777777777777,152,Flash,Heal,14,False,11405,11350,Doran's Blade,Youmuu's Ghostblade,Rapid Firecannon,Boots of Swiftness,Sterak's Gage,Last Whisper,8760,106163,Lane.bot_lane,Role.carry
+9,Fiku,Shyvana,False,Side.red,5,7,4,1.2857142857142858,145,Ghost,Smite,14,False,10611,10335,Titanic Hydra,Enchantment: Bloodrazor,Boots of Swiftness,Frozen Mallet,,,65665,57984,Lane.jungle,Role.none

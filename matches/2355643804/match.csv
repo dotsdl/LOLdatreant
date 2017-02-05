@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,COSTA RlCA,Janna,True,Side.blue,0,2,24,12.0,12,Exhaust,Flash,14,False,10614,9525,Redemption,Ardent Censer,Mejai's Soulstealer,Ruby Sightstone,Ionian Boots of Lucidity,Nomad's Medallion,8125,6280,Lane.bot_lane,Role.support
+1,Acerola LAN,Rek'Sai,True,Side.blue,9,2,13,11.0,210,Smite,Flash,18,False,16383,15975,Spirit Visage,Titanic Hydra,Randuin's Omen,Ninja Tabi,Enchantment: Cinderhulk,Guardian Angel,37978,179843,Lane.jungle,Role.none
+2,Conomos,Draven,True,Side.blue,9,8,8,2.125,212,Flash,Heal,15,True,15693,13700,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,The Bloodthirster,Last Whisper,334,163889,Lane.bot_lane,Role.carry
+3,oSee,Lee Sin,True,Side.blue,7,5,15,4.4,190,Flash,Teleport,16,False,14254,12625,Randuin's Omen,Maw of Malmortius,Ravenous Hydra,Ninja Tabi,Serrated Dirk,Null-Magic Mantle,29445,118196,Lane.top_lane,Role.solo
+4,Nash,Ahri,True,Side.blue,14,7,13,3.857142857142857,190,Ignite,Flash,17,False,15648,13950,Hextech Protobelt-01,Morellonomicon,,Rylai's Crystal Scepter,Luden's Echo,Sorcerer's Shoes,99783,12919,Lane.mid_lane,Role.solo
+5,Fàkèr  ,Vayne,False,Side.red,7,9,2,1.0,151,Heal,Flash,13,False,10865,10850,Infinity Edge,Berserker's Greaves,Statikk Shiv,Phantom Dancer,Long Sword,,33290,69775,Lane.bot_lane,Role.duo
+6,Necrobucher,Jarvan IV,False,Side.red,4,7,8,1.7142857142857142,129,Flash,Smite,15,False,11098,10450,Titanic Hydra,Locket of the Iron Solari,Enchantment: Cinderhulk,Chain Vest,Mercury's Treads,,25576,101580,Lane.jungle,Role.none
+7,Firé,Yasuo,False,Side.red,4,6,3,1.1666666666666667,174,Exhaust,Flash,15,False,11017,10100,Sightstone,Refillable Potion,Infinity Edge,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,22941,112986,Lane.bot_lane,Role.duo
+8,DarkWingsForSale,Orianna,False,Side.red,2,9,8,1.1111111111111112,166,Flash,Ghost,15,False,10464,9285,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,Blasting Wand,93546,11463,Lane.mid_lane,Role.solo
+9,Hyorimaru,Anivia,False,Side.red,7,8,5,1.5,169,Flash,Teleport,15,False,11750,11535,Liandry's Torment,Morellonomicon,Zhonya's Hourglass,Elixir of Sorcery,Amplifying Tome,Sorcerer's Shoes,105128,8208,Lane.top_lane,Role.solo

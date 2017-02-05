@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anx,Thresh,False,Side.blue,1,4,4,1.25,29,Flash,Exhaust,9,False,5116,4875,Total Biscuit of Rejuvenation,Boots of Mobility,Face of the Mountain,,Ruby Crystal,Sightstone,8326,4693,Lane.bot_lane,Role.support
+1,Fizzanomics,Annie,False,Side.blue,6,3,2,2.6666666666666665,108,Flash,Ignite,12,False,7080,6735,Doran's Ring,Rod of Ages,Needlessly Large Rod,Ionian Boots of Lucidity,Blasting Wand,Amplifying Tome,43204,4282,Lane.mid_lane,Role.solo
+2,Thats ah Tilter,Aatrox,False,Side.blue,3,6,1,0.6666666666666666,88,Smite,Flash,10,False,6413,6200,Skirmisher's Sabre,Refillable Potion,Boots of Speed,Guinsoo's Rageblade,Recurve Bow,,18044,44140,Lane.jungle,Role.none
+3,Murica Wins,Fiora,False,Side.blue,3,6,2,0.8333333333333334,125,Exhaust,Teleport,12,True,7347,7000,Ravenous Hydra,The Black Cleaver,,,,,1376,85563,Lane.top_lane,Role.solo
+4,Poetic Wood,Jinx,False,Side.blue,2,4,1,0.75,131,Flash,Heal,9,False,6422,5275,Refillable Potion,Doran's Blade,Pickaxe,Runaan's Hurricane,Berserker's Greaves,,1246,58534,Lane.bot_lane,Role.carry
+5,Alice Park,Renekton,True,Side.red,5,3,2,2.3333333333333335,158,Teleport,Flash,13,False,8743,7625,The Black Cleaver,Tiamat,Jaurim's Fist,Ninja Tabi,,Ruby Crystal,4033,86418,Lane.top_lane,Role.solo
+6,Hisomu,Lux,True,Side.red,3,2,4,3.5,149,Ghost,Flash,13,False,7956,7900,Doran's Ring,Sorcerer's Shoes,Blasting Wand,Morellonomicon,Aether Wisp,Needlessly Large Rod,68110,13768,Lane.mid_lane,Role.solo
+7,Braums Mustache,Braum,True,Side.red,0,2,12,6.0,31,Flash,Exhaust,10,False,5918,5775,Boots of Swiftness,Sightstone,Face of the Mountain,Crystalline Bracer,Crystalline Bracer,Cloth Armor,5372,5316,Lane.bot_lane,Role.support
+8,Lukillz,Vayne,True,Side.red,7,5,4,2.2,124,Flash,Heal,10,False,8722,8250,Doran's Blade,Infinity Edge,Cull,Berserker's Greaves,Phantom Dancer,,505,58154,Lane.bot_lane,Role.carry
+9,Alvin,Lee Sin,True,Side.red,8,3,3,3.6666666666666665,69,Flash,Smite,12,False,8037,7050,Refillable Potion,Enchantment: Warrior,Control Ward,Dead Man's Plate,Ruby Crystal,Boots of Mobility,9585,61671,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,James Feeds Mid,Lucian,False,Side.blue,0,5,1,0.2,133,Heal,Flash,10,False,5547,5000,Doran's Blade,Essence Reaver,Dagger,Dagger,Boots of Speed,,1513,55460,Lane.bot_lane,Role.carry
+1,Kimichi101,Alistar,False,Side.blue,0,3,3,1.0,16,Exhaust,Flash,9,False,3982,1725,Relic Shield,Sightstone,Boots of Speed,,,,3266,2595,Lane.bot_lane,Role.support
+2,ChickenWang128,Swain,False,Side.blue,1,10,1,0.2,68,Teleport,Flash,10,False,4785,4235,Corrupting Potion,Hextech Revolver,Blasting Wand,Boots of Speed,Amplifying Tome,Catalyst of Aeons,22619,7764,Lane.top_lane,Role.solo
+3,invincible xu,Yasuo,False,Side.blue,0,8,3,0.375,100,Flash,Ignite,10,False,5244,4925,Doran's Blade,Phantom Dancer,Cloak of Agility,Pickaxe,,,13974,45223,Lane.mid_lane,Role.solo
+4,happykid1616,Lee Sin,False,Side.blue,4,5,0,0.8,79,Flash,Smite,10,False,5993,5675,Enchantment: Warrior,Refillable Potion,Giant's Belt,Boots of Speed,Phage,Long Sword,7246,37038,Lane.jungle,Role.none
+5,saicos,Soraka,True,Side.red,2,0,8,10.0,5,Flash,Exhaust,10,False,6596,5575,Talisman of Ascension,Sightstone,Ionian Boots of Lucidity,Aether Wisp,Faerie Charm,Faerie Charm,7908,5641,Lane.bot_lane,Role.support
+6,Killua,Darius,True,Side.red,1,0,4,5.0,75,Teleport,Flash,11,False,6153,5575,Spirit Visage,Mercury's Treads,Doran's Shield,Long Sword,Ruby Crystal,Health Potion,0,44240,Lane.top_lane,Role.solo
+7,Vailheria,Jinx,True,Side.red,0,2,3,1.5,137,Heal,Flash,10,False,7389,6425,Doran's Blade,Cloak of Agility,B. F. Sword,Runaan's Hurricane,Boots of Speed,Pickaxe,646,73812,Lane.bot_lane,Role.carry
+8,uupa,Ryze,True,Side.red,8,0,3,11.0,142,Flash,Ghost,13,True,10037,7925,Archangel's Staff,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rod of Ages,Blasting Wand,100538,8905,Lane.mid_lane,Role.solo
+9,Rank 1 Season 7,Kha'Zix,True,Side.red,20,3,3,7.666666666666667,160,Smite,Flash,14,False,13463,11375,Tiamat,Enchantment: Warrior,Youmuu's Ghostblade,Ionian Boots of Lucidity,Duskblade of Draktharr,Long Sword,3587,161201,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PhreshFredo,Aatrox,True,Side.blue,14,1,9,23.0,123,Flash,Teleport,14,False,11851,9450,Health Potion,Berserker's Greaves,Blade of the Ruined King,Tiamat,Spirit Visage,,28227,71698,Lane.top_lane,Role.solo
+1,vancouver cC,Shyvana,True,Side.blue,10,4,6,4.0,158,Smite,Exhaust,15,False,11932,8575,Refillable Potion,Enchantment: Bloodrazor,The Black Cleaver,Giant's Belt,Boots of Swiftness,Chain Vest,67373,81940,Lane.jungle,Role.none
+2,herolineage,Ryze,True,Side.blue,8,5,13,4.2,110,Flash,Ghost,13,False,10315,10200,Doran's Ring,Rod of Ages,Archangel's Staff,Ionian Boots of Lucidity,Morellonomicon,,73566,8595,Lane.mid_lane,Role.solo
+3,super nb kid,Thresh,True,Side.blue,2,3,20,7.333333333333333,23,Flash,Exhaust,12,False,8156,6450,Redemption,Eye of the Equinox,,Null-Magic Mantle,Cloth Armor,Boots of Mobility,9864,6917,Lane.bot_lane,Role.support
+4,BasementCasanova,Tristana,True,Side.blue,10,7,7,2.4285714285714284,147,Flash,Heal,13,True,11764,11200,Berserker's Greaves,Infinity Edge,Statikk Shiv,Rapid Firecannon,,Doran's Blade,24896,69099,Lane.bot_lane,Role.carry
+5,Ench,Graves,False,Side.red,0,9,3,0.3333333333333333,121,Smite,Flash,12,False,7575,10947,Hextech Revolver,Vampiric Scepter,Long Sword,Enchantment: Runic Echoes,,Boots of Mobility,12188,79434,Lane.jungle,Role.none
+6,Spittage,LeBlanc,False,Side.red,12,6,3,2.5,154,Ignite,Flash,14,False,10881,9135,Doran's Ring,Blasting Wand,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,89091,12193,Lane.mid_lane,Role.solo
+7,LelaniUerthe,Sivir,False,Side.red,4,9,10,1.5555555555555556,125,Flash,Heal,12,False,9397,9250,Doran's Blade,Essence Reaver,Berserker's Greaves,Statikk Shiv,B. F. Sword,,2932,71109,Lane.bot_lane,Role.carry
+8,Subtact,Alistar,False,Side.red,2,10,5,0.7,23,Flash,Exhaust,10,False,6325,6300,Relic Shield,Kindlegem,Boots of Mobility,Locket of the Iron Solari,Control Ward,Ruby Sightstone,9205,3836,Lane.bot_lane,Role.support
+9,okiu,Yasuo,False,Side.red,2,10,3,0.5,112,Flash,Teleport,12,False,7178,6725,Doran's Blade,Phantom Dancer,Ninja Tabi,Jaurim's Fist,Giant's Belt,,15815,39575,Lane.top_lane,Role.solo

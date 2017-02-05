@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lukulos,Jarvan IV,False,Side.blue,1,4,5,1.5,99,Flash,Smite,12,False,7065,5925,Tiamat,Enchantment: Cinderhulk,Ninja Tabi,Ruby Crystal,Ruby Crystal,,12671,66321,Lane.jungle,Role.none
+1,Yuanbaby,Karma,False,Side.blue,0,6,3,0.5,16,Flash,Exhaust,10,False,5119,4775,Frost Queen's Claim,Sightstone,Sorcerer's Shoes,,Total Biscuit of Rejuvenation,Control Ward,10928,2817,Lane.bot_lane,Role.support
+2,AnnieTopOnly,Caitlyn,False,Side.blue,4,7,0,0.5714285714285714,170,Flash,Heal,12,False,8382,8400,Doran's Blade,Infinity Edge,,,Runaan's Hurricane,Berserker's Greaves,883,88909,Lane.bot_lane,Role.carry
+3,never lucky help,Ryze,False,Side.blue,1,3,5,2.0,165,Ghost,Flash,13,False,7325,6460,Tear of the Goddess,Control Ward,Needlessly Large Rod,Ionian Boots of Lucidity,The Dark Seal,Rod of Ages,64727,6922,Lane.mid_lane,Role.solo
+4,SoloMeatballOnly,Renekton,False,Side.blue,4,5,1,1.0,155,Ignite,Flash,12,False,8002,7250,Doran's Blade,Refillable Potion,Tiamat,Ninja Tabi,Jaurim's Fist,The Black Cleaver,2406,75865,Lane.top_lane,Role.solo
+5,Shamoo,Annie,True,Side.red,3,2,6,4.5,122,Flash,Ignite,13,False,8724,6700,Sorcerer's Shoes,Abyssal Scepter,Doran's Ring,Giant's Belt,Needlessly Large Rod,Total Biscuit of Rejuvenation,44216,10420,Lane.mid_lane,Role.solo
+6,Aqlow,Riven,True,Side.red,3,2,3,3.0,179,Ignite,Flash,14,False,9740,7400,The Black Cleaver,Youmuu's Ghostblade,Health Potion,Ninja Tabi,,,121,98918,Lane.top_lane,Role.solo
+7,Utatane Piko,Janna,True,Side.red,0,0,17,17.0,9,Exhaust,Flash,12,False,8122,6325,Sightstone,Ardent Censer,Ancient Coin,Ionian Boots of Lucidity,Forbidden Idol,Chalice of Harmony,4599,5378,Lane.bot_lane,Role.support
+8,Jeehun,Ezreal,True,Side.red,15,3,1,5.333333333333333,193,Flash,Heal,14,True,14144,11425,Blade of the Ruined King,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Last Whisper,14800,123369,Lane.bot_lane,Role.carry
+9,gabzpiano,Xin Zhao,True,Side.red,4,4,4,2.0,141,Flash,Smite,14,False,10434,8675,Enchantment: Bloodrazor,Mercury's Treads,Sheen,Dead Man's Plate,Warden's Mail,,13691,123733,Lane.jungle,Role.none

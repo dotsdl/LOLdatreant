@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pyrrfect,Syndra,False,Side.blue,1,7,5,0.8571428571428571,177,Flash,Ghost,13,False,9298,8660,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Amplifying Tome,,105187,7678,Lane.jungle,Role.none
+1,NaVi Juan,Yasuo,False,Side.blue,3,8,3,0.75,209,Teleport,Flash,14,False,10317,10300,Infinity Edge,Phantom Dancer,Giant's Belt,Jaurim's Fist,,Ninja Tabi,30646,91383,Lane.top_lane,Role.solo
+2,Slugsheep,Braum,False,Side.blue,2,7,10,1.7142857142857142,27,Flash,Exhaust,12,False,7581,7275,Face of the Mountain,,Ruby Sightstone,Warden's Mail,Ionian Boots of Lucidity,Glacial Shroud,6511,4638,Lane.bot_lane,Role.support
+3,Phantóm,Vayne,False,Side.blue,5,6,1,1.0,184,Flash,Heal,12,False,9957,9500,Berserker's Greaves,Dagger,Infinity Edge,Zeal,Statikk Shiv,Doran's Blade,14368,75369,Lane.bot_lane,Role.carry
+4,Evoque,Kha'Zix,False,Side.blue,6,7,4,1.4285714285714286,166,Flash,Smite,15,True,11479,10300,Enchantment: Warrior,Ninja Tabi,Caulfield's Warhammer,Tiamat,The Black Cleaver,Pickaxe,5827,156144,Lane.jungle,Role.none
+5,Nexevis,Vi,True,Side.red,10,2,8,9.0,170,Smite,Flash,16,False,13449,12550,Enchantment: Warrior,Locket of the Iron Solari,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Ruby Crystal,1392,178077,Lane.jungle,Role.none
+6,FatFlyingBastard,Miss Fortune,True,Side.red,3,6,10,2.1666666666666665,171,Heal,Flash,14,False,11243,9400,Doran's Blade,Doran's Blade,Youmuu's Ghostblade,Duskblade of Draktharr,Caulfield's Warhammer,Berserker's Greaves,6783,101840,Lane.bot_lane,Role.carry
+7,Playdark,Taliyah,True,Side.red,8,4,16,6.0,183,Ghost,Flash,15,False,13149,12100,Seeker's Armguard,Void Staff,Rylai's Crystal Scepter,Abyssal Scepter,Sorcerer's Shoes,The Dark Seal,105612,11219,Lane.mid_lane,Role.solo
+8,WJNA,Jayce,True,Side.red,11,3,17,9.333333333333334,225,Flash,Teleport,16,False,15116,13725,Corrupting Potion,Titanic Hydra,Randuin's Omen,Ionian Boots of Lucidity,The Black Cleaver,Sterak's Gage,26106,127609,Lane.top_lane,Role.solo
+9,BIind Goat,Bard,True,Side.red,3,2,18,10.5,10,Ignite,Flash,13,False,9511,7925,Eye of the Watchers,Redemption,Boots of Mobility,,Locket of the Iron Solari,,10319,3433,Lane.bot_lane,Role.support

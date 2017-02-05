@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cokes,Ezreal,True,Side.blue,2,2,9,5.5,118,Heal,Flash,10,False,8028,7825,Iceborn Gauntlet,Doran's Blade,Manamune,Ionian Boots of Lucidity,Vampiric Scepter,Dagger,4275,51869,Lane.bot_lane,Role.carry
+1,Based Envy,Poppy,True,Side.blue,4,3,5,3.0,116,Teleport,Flash,12,False,7762,7600,Spectre's Cowl,Corrupting Potion,Eye of the Oasis,Sunfire Cape,Mercury's Treads,,13181,40246,Lane.top_lane,Role.solo
+2,Professor Melyn,Zyra,True,Side.blue,4,3,6,3.3333333333333335,20,Flash,Exhaust,10,False,6942,6125,Haunting Guise,Blasting Wand,Sorcerer's Shoes,Control Ward,Eye of the Watchers,,22895,5397,Lane.bot_lane,Role.support
+3,retarded virgin,Olaf,True,Side.blue,2,2,6,4.0,117,Ghost,Smite,12,False,7657,7500,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Dead Man's Plate,Null-Magic Mantle,Ruby Crystal,9209,74748,Lane.jungle,Role.none
+4,AllAero,LeBlanc,True,Side.blue,14,0,1,15.0,153,Flash,Teleport,13,False,10896,10575,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Void Staff,76887,9659,Lane.mid_lane,Role.solo
+5,Rhux,Kennen,False,Side.red,0,5,4,0.8,121,Flash,Teleport,11,False,6045,4975,Doran's Blade,Doran's Blade,Hextech Protobelt-01,Boots of Speed,Blasting Wand,Cloth Armor,30489,21818,Lane.top_lane,Role.solo
+6,BoxerPete,Tryndamere,False,Side.red,2,5,2,0.8,84,Exhaust,Flash,10,False,5878,5300,Relic Shield,Refillable Potion,Statikk Shiv,Boots of Swiftness,B. F. Sword,,9733,37630,Lane.bot_lane,Role.duo
+7,Rabun,Ashe,False,Side.red,2,5,4,1.2,100,Heal,Flash,10,False,6029,5800,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,,Doran's Blade,,588,40035,Lane.bot_lane,Role.duo
+8,IA55A55INI,Talon,False,Side.red,2,8,1,0.375,93,Flash,Ignite,9,False,5582,5275,Ionian Boots of Lucidity,Refillable Potion,Youmuu's Ghostblade,Serrated Dirk,,,275,46384,Lane.mid_lane,Role.solo
+9,blaberfish2,Elise,False,Side.red,4,3,1,1.6666666666666667,101,Flash,Smite,11,True,7180,6635,Enchantment: Runic Echoes,Sorcerer's Shoes,Refillable Potion,Giant's Belt,Needlessly Large Rod,Amplifying Tome,62429,21562,Lane.jungle,Role.none

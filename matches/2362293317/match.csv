@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Asukira,Taliyah,False,Side.blue,2,8,8,1.25,39,Exhaust,Flash,10,False,7361,7000,Eye of the Watchers,,Sorcerer's Shoes,,,Rylai's Crystal Scepter,29740,3816,Lane.bot_lane,Role.duo
+1,Rectal Revenge,Vayne,False,Side.blue,3,10,6,0.9,85,Flash,Heal,11,False,7262,6575,Berserker's Greaves,Statikk Shiv,B. F. Sword,Pickaxe,,,6943,27134,Lane.bot_lane,Role.duo
+2,XiayuLuvTiffany,Kennen,False,Side.blue,1,6,3,0.6666666666666666,172,Flash,Teleport,14,False,8397,6925,Frozen Mallet,Dagger,Recurve Bow,Mercury's Treads,Brawler's Gloves,Dagger,42235,51540,Lane.top_lane,Role.solo
+3,Konbai,Jayce,False,Side.blue,4,7,2,0.8571428571428571,174,Flash,Ignite,14,False,8875,7600,Doran's Blade,Refillable Potion,Ionian Boots of Lucidity,Muramana,The Black Cleaver,Long Sword,9402,90481,Lane.mid_lane,Role.solo
+4,Jako5000,Hecarim,False,Side.blue,13,9,2,1.6666666666666667,102,Smite,Ghost,14,False,10724,9558,Refillable Potion,Giant's Belt,Trinity Force,Enchantment: Warrior,Ninja Tabi,Chain Vest,10987,95731,Lane.jungle,Role.none
+5,diablodelteemo,Zac,True,Side.red,11,7,6,2.4285714285714284,99,Smite,Flash,14,True,11150,10875,Hextech Protobelt-01,Enchantment: Cinderhulk,Rylai's Crystal Scepter,Ninja Tabi,Giant's Belt,Cloth Armor,78685,15976,Lane.jungle,Role.none
+6,Jhené Aiko,Zed,True,Side.red,6,6,8,2.3333333333333335,134,Flash,Ignite,14,False,10539,8050,Duskblade of Draktharr,,,,,,5185,73841,Lane.mid_lane,Role.solo
+7,Im Sora,Teemo,True,Side.red,7,1,3,10.0,148,Ignite,Flash,15,False,10615,9025,Doran's Ring,Zhonya's Hourglass,Abyssal Scepter,Sorcerer's Shoes,Haunting Guise,,64607,29127,Lane.top_lane,Role.solo
+8,alexdeth,Leona,True,Side.red,2,5,17,3.8,34,Flash,Exhaust,13,False,8594,7725,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,Control Ward,Ruby Crystal,Boots of Mobility,8186,8505,Lane.bot_lane,Role.support
+9,rekaf nesgrejb,Jhin,True,Side.red,13,6,13,4.333333333333333,173,Flash,Heal,14,False,13780,11325,Doran's Blade,Rapid Firecannon,Infinity Edge,Ionian Boots of Lucidity,,Essence Reaver,6710,117165,Lane.bot_lane,Role.carry

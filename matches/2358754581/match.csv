@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Turtle the Cat,Fiddlesticks,True,Side.blue,2,4,14,4.0,31,Flash,Ignite,12,False,8458,6900,Zhonya's Hourglass,Boots of Mobility,Ruby Sightstone,Frostfang,Control Ward,,21715,3923,Lane.bot_lane,Role.support
+1,Pølsemanden,Katarina,True,Side.blue,7,8,10,2.125,142,Flash,Teleport,14,False,10656,9750,Needlessly Large Rod,Sorcerer's Shoes,,The Dark Seal,Hextech Gunblade,Rylai's Crystal Scepter,82317,11480,Lane.mid_lane,Role.solo
+2,Distasteful,Varus,True,Side.blue,2,5,6,1.6,129,Flash,Heal,12,False,9015,7800,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,,,5788,75679,Lane.bot_lane,Role.carry
+3,Drowning,Graves,True,Side.blue,10,0,4,14.0,163,Flash,Smite,15,False,13031,11000,Refillable Potion,Maw of Malmortius,Berserker's Greaves,Enchantment: Warrior,Phantom Dancer,Caulfield's Warhammer,2351,150240,Lane.jungle,Role.none
+4,DumPooPoo,Malphite,True,Side.blue,4,1,7,11.0,208,Teleport,Flash,15,False,11013,8970,Corrupting Potion,Randuin's Omen,Sunfire Cape,Negatron Cloak,Fiendish Codex,Boots of Swiftness,67515,33398,Lane.top_lane,Role.solo
+5,InfernalRebirth,Evelynn,False,Side.red,3,5,5,1.6,99,Smite,Exhaust,13,True,8077,7900,Hextech Gunblade,Sheen,Aether Wisp,Skirmisher's Sabre,,Sorcerer's Shoes,49435,31211,Lane.jungle,Role.none
+6,bvcx222,Lulu,False,Side.red,3,4,4,1.75,129,Flash,Ignite,13,False,8141,7150,Hextech Protobelt-01,Refillable Potion,Doran's Shield,,Abyssal Scepter,Sorcerer's Shoes,50228,11613,Lane.mid_lane,Role.solo
+7,LegitADC,Caitlyn,False,Side.red,10,7,2,1.7142857142857142,155,Heal,Flash,12,False,10954,10625,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Vampiric Scepter,B. F. Sword,Doran's Blade,521,96093,Lane.bot_lane,Role.carry
+8,Katlife,Blitzcrank,False,Side.red,1,5,11,2.4,35,Flash,Ignite,10,False,6886,5850,Total Biscuit of Rejuvenation,Eye of the Equinox,Locket of the Iron Solari,,Boots of Swiftness,,9303,6149,Lane.bot_lane,Role.support
+9,Firé,Yasuo,False,Side.red,1,4,2,0.75,200,Teleport,Flash,14,False,8545,8150,Doran's Blade,Refillable Potion,Null-Magic Mantle,Mercury's Treads,Phantom Dancer,Frozen Mallet,24938,83792,Lane.top_lane,Role.solo

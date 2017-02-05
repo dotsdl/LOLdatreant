@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MarineRevenge,Garen,True,Side.blue,11,3,4,5.0,151,Flash,Ignite,16,False,13100,10900,Youmuu's Ghostblade,Maw of Malmortius,Dead Man's Plate,Ninja Tabi,,,5676,99043,Lane.top_lane,Role.solo
+1,PeonsGoZugZug,Lux,True,Side.blue,5,7,16,3.0,47,Ignite,Flash,14,False,11660,9700,Zz'Rot Portal,Boots of Swiftness,Eye of the Watchers,Mejai's Soulstealer,Seeker's Armguard,Fiendish Codex,34572,4203,Lane.bot_lane,Role.support
+2,Kevin Loves You,Shyvana,True,Side.blue,5,4,10,3.75,217,Smite,Flash,17,False,14112,11775,Enchantment: Bloodrazor,Titanic Hydra,Mercury's Treads,Guardian Angel,Spectre's Cowl,Kindlegem,79186,123111,Lane.jungle,Role.none
+3,Orbìt,Twitch,True,Side.blue,16,7,7,3.2857142857142856,182,Flash,Heal,16,False,15121,14455,Mercurial Scimitar,Doran's Blade,Phantom Dancer,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,0,124356,Lane.bot_lane,Role.carry
+4,Thinkful,Kennen,True,Side.blue,6,7,14,2.857142857142857,237,Teleport,Flash,17,False,14366,11810,Blasting Wand,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Amplifying Tome,Rylai's Crystal Scepter,132929,33843,Lane.mid_lane,Role.solo
+5,Soulquest1,Veigar,False,Side.red,6,7,9,2.142857142857143,180,Ignite,Flash,15,False,10722,10600,Doran's Ring,Spirit Visage,Zz'Rot Portal,Ninja Tabi,Morellonomicon,,94233,10609,Lane.mid_lane,Role.solo
+6,Vermillion2,Kog'Maw,False,Side.red,4,8,6,1.25,177,Heal,Flash,13,False,10239,9333,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Trinity Force,Dagger,Dagger,26151,53530,Lane.bot_lane,Role.carry
+7,am sol,Lee Sin,False,Side.red,11,9,7,2.0,115,Smite,Flash,14,False,12129,11960,Enchantment: Warrior,Chain Vest,Ionian Boots of Lucidity,The Black Cleaver,Maw of Malmortius,Giant's Belt,25831,97709,Lane.jungle,Role.none
+8,BlackAndBluePain,Zyra,False,Side.red,6,10,10,1.6,26,Flash,Ignite,12,True,9953,9200,Sightstone,Sorcerer's Shoes,Frost Queen's Claim,Rylai's Crystal Scepter,Haunting Guise,,24771,2485,Lane.bot_lane,Role.support
+9,OpenBackpack,Fiora,False,Side.red,1,9,3,0.4444444444444444,203,Flash,Teleport,14,False,10096,9000,Doran's Shield,,Ravenous Hydra,Doran's Blade,The Black Cleaver,Ninja Tabi,600,96572,Lane.top_lane,Role.solo

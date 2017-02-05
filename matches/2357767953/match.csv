@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tobias Fate,Karthus,True,Side.blue,0,0,0,0.0,14,Flash,Exhaust,3,False,913,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,2824,53,Lane.mid_lane,Role.solo
+1,Asyc xD ,Bard,True,Side.blue,0,0,0,0.0,0,Ignite,Flash,2,False,739,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,461,726,Lane.bot_lane,Role.duo
+2,Firé,Jayce,True,Side.blue,0,0,1,1.0,7,Teleport,Flash,2,False,965,500,Doran's Blade,,,,,,165,1743,Lane.top_lane,Role.solo
+3,BooBiird,Caitlyn,True,Side.blue,0,0,0,0.0,16,Heal,Flash,2,False,978,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,5048,Lane.bot_lane,Role.duo
+4,Gweiss,Graves,True,Side.blue,1,0,0,1.0,12,Smite,Flash,4,True,1483,500,Hunter's Machete,Refillable Potion,,,,,158,7775,Lane.jungle,Role.none
+5,Huw,Janna,False,Side.red,0,0,0,0.0,4,Exhaust,Flash,2,False,777,500,Ancient Coin,,,,,,346,748,Lane.bot_lane,Role.solo
+6,Neoseanster,Nocturne,False,Side.red,0,0,0,0.0,11,Smite,Flash,3,False,914,500,Hunter's Machete,Refillable Potion,,,,,224,5514,Lane.top_lane,Role.duo
+7,iIIusionist,Viktor,False,Side.red,0,0,0,0.0,17,Flash,Ghost,3,False,967,500,Prototype Hex Core,Total Biscuit of Rejuvenation,Doran's Ring,,,,1239,1243,Lane.mid_lane,Role.duo
+8,Cotopaco Parce,Ezreal,False,Side.red,0,0,0,0.0,0,Heal,Flash,1,False,654,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+9,Prodïgy,Riven,False,Side.red,0,1,0,0.0,9,Flash,Teleport,3,False,822,500,Doran's Shield,Health Potion,,,,,0,2192,Lane.top_lane,Role.duo

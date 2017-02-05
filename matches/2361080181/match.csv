@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Boatsanhoes,Vayne,True,Side.blue,14,2,7,10.5,274,Heal,Flash,16,True,15718,13800,Quicksilver Sash,Statikk Shiv,Infinity Edge,Berserker's Greaves,Pickaxe,The Bloodthirster,40590,145346,Lane.bot_lane,Role.carry
+1,MyDlckCanFloat,Brand,True,Side.blue,13,7,8,3.0,153,Ignite,Flash,15,False,12738,9225,Rylai's Crystal Scepter,Doran's Ring,Haunting Guise,Rod of Ages,Sorcerer's Shoes,,87730,15812,Lane.mid_lane,Role.solo
+2,Iknore,Soraka,True,Side.blue,1,1,26,27.0,13,Exhaust,Flash,14,False,9265,6150,,Ruby Sightstone,Redemption,Nomad's Medallion,Boots of Mobility,Cloth Armor,6186,3039,Lane.bot_lane,Role.support
+3,I Shadow I,Kindred,True,Side.blue,9,3,10,6.333333333333333,126,Flash,Smite,15,False,12212,9950,Enchantment: Bloodrazor,Blade of the Ruined King,Mercury's Treads,Runaan's Hurricane,,,1948,148558,Lane.jungle,Role.none
+4,sometinsometin,Maokai,True,Side.blue,4,5,12,3.2,152,Teleport,Flash,15,False,10667,8050,Corrupting Potion,Sunfire Cape,Mercury's Treads,Iceborn Gauntlet,Null-Magic Mantle,Ruby Crystal,80828,20469,Lane.top_lane,Role.solo
+5,me poodel,Ezreal,False,Side.red,2,11,3,0.45454545454545453,155,Flash,Heal,12,False,9064,8750,Doran's Blade,Bilgewater Cutlass,Manamune,Ionian Boots of Lucidity,Cull,Iceborn Gauntlet,7356,69529,Lane.bot_lane,Role.carry
+6,rins,Lux,False,Side.red,1,5,5,1.2,42,Exhaust,Flash,11,False,7718,7550,Frost Queen's Claim,Ionian Boots of Lucidity,Sightstone,Lich Bane,,,34007,5878,Lane.bot_lane,Role.support
+7,ZeroBlaze,Ryze,False,Side.red,6,7,4,1.4285714285714286,177,Flash,Ghost,14,False,10348,10025,Rod of Ages,Mercury's Treads,Seraph's Embrace,Morellonomicon,,Refillable Potion,124147,7511,Lane.mid_lane,Role.solo
+8,Rycah,Illaoi,False,Side.red,5,8,2,0.875,204,Flash,Teleport,15,False,10302,9675,Mercury's Treads,Randuin's Omen,Corrupting Potion,The Black Cleaver,Spectre's Cowl,Kindlegem,2219,141521,Lane.top_lane,Role.solo
+9,Eric1,Lee Sin,False,Side.red,4,10,4,0.8,109,Smite,Flash,13,False,9402,9175,Spectre's Cowl,Enchantment: Warrior,Tiamat,Dead Man's Plate,Ninja Tabi,,13492,92380,Lane.jungle,Role.none

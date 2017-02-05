@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SKTT1 Kaiz,Ivern,True,Side.blue,5,5,17,4.4,73,Flash,Smite,13,False,10382,9270,Ionian Boots of Lucidity,Refillable Potion,Banner of Command,Athene's Unholy Grail,Enchantment: Runic Echoes,Catalyst of Aeons,11824,8993,Lane.jungle,Role.none
+1,Noob Ad Carry,Riven,True,Side.blue,13,2,4,8.5,136,Teleport,Flash,15,True,11844,10675,Tiamat,Doran's Shield,Ionian Boots of Lucidity,The Black Cleaver,Maw of Malmortius,Serrated Dirk,4312,91340,Lane.top_lane,Role.solo
+2,Oxfoord,Braum,True,Side.blue,1,2,19,10.0,37,Ignite,Flash,13,False,8571,7275,Sightstone,Face of the Mountain,Knight's Vow,Ninja Tabi,Null-Magic Mantle,,8260,10831,Lane.bot_lane,Role.support
+3,koolaid n ramen,Twitch,True,Side.blue,11,4,9,5.0,174,Heal,Flash,13,False,13068,10500,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Statikk Shiv,,3433,116686,Lane.bot_lane,Role.carry
+4,Dropzz,Orianna,True,Side.blue,5,1,16,21.0,158,Flash,Ghost,14,False,10762,9685,Seeker's Armguard,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,82908,10520,Lane.mid_lane,Role.solo
+5,Gelati,Karthus,False,Side.red,3,6,4,1.1666666666666667,209,Exhaust,Flash,14,False,10371,10000,Sorcerer's Shoes,Doran's Ring,Seeker's Armguard,Fiendish Codex,Rylai's Crystal Scepter,Rod of Ages,114506,8631,Lane.mid_lane,Role.solo
+6,binny,Caitlyn,False,Side.red,2,8,4,0.75,182,Heal,Flash,12,False,9614,8900,Doran's Blade,Infinity Edge,Total Biscuit of Rejuvenation,Berserker's Greaves,Runaan's Hurricane,Kircheis Shard,509,104930,Lane.bot_lane,Role.carry
+7,biblee,Lee Sin,False,Side.red,6,6,1,1.1666666666666667,128,Flash,Smite,13,False,9978,9175,Hexdrinker,Mercury's Treads,Dead Man's Plate,Refillable Potion,Caulfield's Warhammer,Enchantment: Warrior,20972,94453,Lane.jungle,Role.none
+8,Soulz,Thresh,False,Side.red,0,6,5,0.8333333333333334,27,Flash,Ignite,11,False,6421,6325,Face of the Mountain,Sightstone,Redemption,,Boots of Mobility,,9995,4647,Lane.bot_lane,Role.support
+9,RealTeemo,Teemo,False,Side.red,3,9,3,0.6666666666666666,163,Ignite,Flash,13,False,9616,9550,Doran's Ring,Haunting Guise,Blasting Wand,Void Staff,Morellonomicon,Boots of Speed,69898,21291,Lane.top_lane,Role.solo

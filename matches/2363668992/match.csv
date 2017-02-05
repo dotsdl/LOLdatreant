@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ACuteKoreanGirI,Yasuo,False,Side.blue,3,11,1,0.36363636363636365,247,Exhaust,Flash,15,False,11108,10550,Doran's Blade,Infinity Edge,Phantom Dancer,Vampiric Scepter,B. F. Sword,Mercury's Treads,24570,136761,Lane.top_lane,Role.solo
+1,am tham ben em,Syndra,False,Side.blue,2,6,7,1.5,197,Flash,Ghost,14,False,10066,9775,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Doran's Ring,Aether Wisp,Abyssal Scepter,117607,10609,Lane.mid_lane,Role.solo
+2,Bilog,Jhin,False,Side.blue,10,8,7,2.125,145,Flash,Heal,12,False,11027,9200,Doran's Blade,Quicksilver Sash,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,4478,86614,Lane.bot_lane,Role.none
+3,Eludo,Lee Sin,False,Side.blue,7,7,7,2.0,111,Flash,Smite,14,False,9959,9125,Refillable Potion,Guardian Angel,Enchantment: Warrior,Dead Man's Plate,,Boots of Mobility,13344,75685,Lane.bot_lane,Role.none
+4,monsterbbg,Nami,False,Side.blue,0,4,18,4.5,12,Exhaust,Flash,12,False,8123,7575,Frostfang,Locket of the Iron Solari,Ionian Boots of Lucidity,Sightstone,Redemption,,5687,3695,Lane.bot_lane,Role.none
+5,all i want,Elise,True,Side.red,7,4,9,4.0,137,Flash,Smite,16,False,13446,11310,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Hextech Protobelt-01,Boots of Mobility,Blasting Wand,Amplifying Tome,121812,37225,Lane.jungle,Role.none
+6,Philolol,Thresh,True,Side.red,1,6,11,2.0,15,Exhaust,Flash,12,False,8543,8375,Nomad's Medallion,Ionian Boots of Lucidity,Locket of the Iron Solari,Redemption,,Ruby Sightstone,8369,3595,Lane.bot_lane,Role.support
+7,Honi,Twitch,True,Side.red,9,4,8,4.25,201,Flash,Heal,15,False,14062,12325,Statikk Shiv,Doran's Blade,B. F. Sword,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,6134,121501,Lane.bot_lane,Role.carry
+8,ejzk,Gangplank,True,Side.red,11,3,5,5.333333333333333,278,Teleport,Flash,18,True,17090,15183,Trinity Force,Pickaxe,Youmuu's Ghostblade,Boots of Swiftness,Infinity Edge,Statikk Shiv,16548,266789,Lane.top_lane,Role.solo
+9,Rubia,Nasus,True,Side.red,8,5,5,2.6,173,Flash,Ghost,15,False,13722,13225,Void Staff,Luden's Echo,Frost Queen's Claim,The Dark Seal,Ionian Boots of Lucidity,Liandry's Torment,102385,23384,Lane.mid_lane,Role.solo

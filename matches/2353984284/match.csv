@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gahlin,Hecarim,False,Side.blue,4,10,12,1.6,93,Ghost,Smite,14,False,10056,8983,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Glacial Shroud,Ninja Tabi,Cloth Armor,24204,77313,Lane.jungle,Role.none
+1,Fake Carry,Ashe,False,Side.blue,8,8,11,2.375,154,Heal,Flash,14,False,11409,10150,Essence Reaver,Last Whisper,Runaan's Hurricane,Cloak of Agility,Berserker's Greaves,Doran's Blade,1423,98290,Lane.bot_lane,Role.carry
+2,MyTeamSoGOD,Zyra,False,Side.blue,0,8,15,1.875,24,Flash,Ignite,12,False,8773,8350,Haunting Guise,Rylai's Crystal Scepter,Eye of the Watchers,Boots of Mobility,,,36810,4091,Lane.bot_lane,Role.support
+3,Is That Hymn,Veigar,False,Side.blue,12,9,6,2.0,193,Ghost,Flash,15,False,12837,11975,Zhonya's Hourglass,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,,149138,9279,Lane.mid_lane,Role.solo
+4,godrjsdnd,Riven,False,Side.blue,3,7,7,1.4285714285714286,199,Teleport,Flash,15,False,10557,10375,The Black Cleaver,Ravenous Hydra,Ionian Boots of Lucidity,Giant Slayer,Last Whisper,Long Sword,0,131856,Lane.top_lane,Role.solo
+5,Yusui,Yasuo,True,Side.red,10,3,8,6.0,256,Exhaust,Flash,16,False,15202,13875,Bilgewater Cutlass,Quicksilver Sash,Mercury's Treads,Frozen Mallet,Statikk Shiv,Infinity Edge,74656,116747,Lane.mid_lane,Role.solo
+6,Damonte,Lee Sin,True,Side.red,17,8,11,3.5,168,Smite,Flash,16,True,16278,15485,Mercurial Scimitar,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,The Black Cleaver,Last Whisper,31603,142087,Lane.jungle,Role.none
+7,Allorim,Maokai,True,Side.red,7,2,15,11.0,199,Flash,Teleport,15,False,12727,12150,Sunfire Cape,The Dark Seal,Spirit Visage,Iceborn Gauntlet,Giant's Belt,Mercury's Treads,105092,22287,Lane.top_lane,Role.solo
+8,TaeYeonT,Ezreal,True,Side.red,5,6,12,2.8333333333333335,141,Heal,Flash,13,False,11058,10600,Doran's Blade,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Null-Magic Mantle,Iceborn Gauntlet,14524,72254,Lane.bot_lane,Role.carry
+9,aShady,Nautilus,True,Side.red,3,8,20,2.875,45,Exhaust,Flash,12,False,9732,8925,Locket of the Iron Solari,Redemption,Eye of the Equinox,Boots of Swiftness,Control Ward,Glacial Shroud,14369,8202,Lane.bot_lane,Role.support

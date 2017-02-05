@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DougieJ,Nami,True,Side.blue,1,0,9,10.0,4,Flash,Exhaust,9,False,6487,6375,Ionian Boots of Lucidity,Frost Queen's Claim,Redemption,Sightstone,Control Ward,,8872,5845,Lane.bot_lane,Role.support
+1,ul7raz,Syndra,True,Side.blue,5,0,1,6.0,167,Ghost,Flash,13,True,8811,8800,Doran's Ring,Zhonya's Hourglass,Morellonomicon,Refillable Potion,Sorcerer's Shoes,Needlessly Large Rod,83690,12430,Lane.mid_lane,Role.solo
+2,RealTeemo,Teemo,True,Side.blue,5,3,2,2.3333333333333335,157,Heal,Flash,13,False,8887,7100,Doran's Ring,Refillable Potion,Liandry's Torment,,Morellonomicon,Boots of Speed,55116,25711,Lane.top_lane,Role.solo
+3,DeadInternal,Twitch,True,Side.blue,4,0,4,8.0,145,Flash,Heal,11,False,8769,8750,Doran's Blade,Infinity Edge,Vampiric Scepter,Berserker's Greaves,,Runaan's Hurricane,1066,67167,Lane.bot_lane,Role.carry
+4,Buddylov3,Zac,True,Side.blue,2,2,6,4.0,105,Smite,Flash,11,False,7789,7725,Control Ward,Refillable Potion,Mercury's Treads,Fiendish Codex,Enchantment: Cinderhulk,Spirit Visage,65838,21353,Lane.jungle,Role.none
+5,TUCANA DOGANA,Zed,False,Side.red,0,5,0,0.0,124,Ignite,Flash,11,False,5613,5275,Hexdrinker,Refillable Potion,Youmuu's Ghostblade,Long Sword,Long Sword,,4041,51758,Lane.mid_lane,Role.solo
+6,Cant Kilean ,Zilean,False,Side.red,0,3,1,0.3333333333333333,3,Exhaust,Flash,9,False,4286,3500,Nomad's Medallion,,Faerie Charm,Sightstone,Boots of Speed,Aegis of the Legion,2259,1483,Lane.bot_lane,Role.support
+7,GreasyDrMeat,Galio,False,Side.red,2,3,1,1.0,133,Flash,Teleport,12,False,6555,5720,Doran's Ring,The Dark Seal,Corrupting Potion,Righteous Glory,Mercury's Treads,Negatron Cloak,64987,8803,Lane.top_lane,Role.solo
+8,lvernie Sanders,Mordekaiser,False,Side.red,2,5,1,0.6,102,Smite,Ghost,12,False,6527,6360,Enchantment: Runic Echoes,Refillable Potion,Giant's Belt,Boots of Swiftness,Needlessly Large Rod,Amplifying Tome,62560,29227,Lane.jungle,Role.none
+9,PandaRift,Ezreal,False,Side.red,1,1,1,2.0,100,Heal,Flash,9,False,5475,5250,Doran's Blade,Tear of the Goddess,Iceborn Gauntlet,Boots of Speed,Pickaxe,,7988,33044,Lane.bot_lane,Role.carry

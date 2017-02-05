@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kaylip,Gangplank,False,Side.blue,4,5,9,2.6,215,Teleport,Flash,15,False,11262,10583,Trinity Force,Infinity Edge,Ionian Boots of Lucidity,Zeal,Kircheis Shard,,18501,127804,Lane.mid_lane,Role.solo
+1,BigQuestionMark,Bard,False,Side.blue,2,7,11,1.8571428571428572,18,Flash,Ignite,11,False,7836,7500,Locket of the Iron Solari,Forbidden Idol,Crystalline Bracer,Boots of Mobility,,Eye of the Watchers,8570,2783,Lane.bot_lane,Role.support
+2,Unrealseal,Twitch,False,Side.blue,4,7,6,1.4285714285714286,126,Heal,Flash,11,True,8718,8325,Runaan's Hurricane,Infinity Edge,Long Sword,Doran's Blade,Berserker's Greaves,,0,56577,Lane.bot_lane,Role.carry
+3,06 24 1998,Hecarim,False,Side.blue,4,8,5,1.125,116,Smite,Ghost,14,False,8989,8608,Hunter's Talisman,Hunter's Potion,,Trinity Force,Spirit Visage,Mercury's Treads,12437,90896,Lane.jungle,Role.none
+4,Abou222,Jayce,False,Side.blue,6,3,0,2.0,205,Teleport,Flash,14,False,10458,10000,The Black Cleaver,Maw of Malmortius,Vampiric Scepter,Ionian Boots of Lucidity,,Last Whisper,16332,91931,Lane.top_lane,Role.solo
+5,Fiku,Nautilus,True,Side.red,1,4,6,1.75,173,Flash,Teleport,14,False,9870,8975,Doran's Shield,Randuin's Omen,Corrupting Potion,Ninja Tabi,Sunfire Cape,Sheen,73856,25958,Lane.top_lane,Role.solo
+6,TEAMLUKEE,Corki,True,Side.red,5,6,6,1.8333333333333333,226,Exhaust,Flash,15,False,12261,10833,Zeal,Hextech Gunblade,Trinity Force,Kircheis Shard,Sorcerer's Shoes,,98564,38523,Lane.mid_lane,Role.solo
+7,Asikisa,Caitlyn,True,Side.red,4,6,7,1.8333333333333333,146,Flash,Heal,12,False,10384,8830,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,724,98099,Lane.bot_lane,Role.carry
+8,TQS Zuardian,Evelynn,True,Side.red,18,2,3,10.5,172,Smite,Flash,17,False,15913,12700,Hextech Protobelt-01,Enchantment: Runic Echoes,Sheen,Ionian Boots of Lucidity,Mejai's Soulstealer,Rylai's Crystal Scepter,152910,56649,Lane.jungle,Role.none
+9,Clarizio,Karma,True,Side.red,2,2,13,7.5,19,Flash,Exhaust,12,False,8978,7750,Redemption,Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Spellthief's Edge,Ruby Crystal,17777,6721,Lane.bot_lane,Role.support

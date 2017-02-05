@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MonkeyAmbush,Brand,True,Side.blue,10,5,11,4.2,217,Ignite,Flash,17,False,14520,11900,Rabadon's Deathcap,Rylai's Crystal Scepter,Abyssal Scepter,Doran's Ring,Doran's Ring,Sorcerer's Shoes,113455,19456,Lane.mid_lane,Role.solo
+1,Oroshi,Yasuo,True,Side.blue,12,3,4,5.333333333333333,243,Exhaust,Flash,17,False,15337,13425,Jaurim's Fist,Phantom Dancer,Ninja Tabi,Infinity Edge,The Bloodthirster,Ruby Crystal,30994,152007,Lane.top_lane,Role.solo
+2,Staples,Skarner,True,Side.blue,14,3,12,8.666666666666666,160,Flash,Smite,17,False,15931,12678,Enchantment: Warrior,Trinity Force,Chain Vest,Negatron Cloak,Ionian Boots of Lucidity,Dead Man's Plate,44509,136414,Lane.jungle,Role.none
+3,Organized Fridge,Thresh,True,Side.blue,2,3,19,7.0,26,Exhaust,Flash,14,True,9922,8150,Sightstone,Redemption,Mercury's Treads,Ruby Crystal,Frozen Heart,Targon's Brace,12701,5741,Lane.bot_lane,Role.support
+4,rythblademaster1,Lucian,True,Side.blue,4,7,11,2.142857142857143,198,Heal,Flash,15,False,12722,12700,Infinity Edge,Statikk Shiv,Essence Reaver,Berserker's Greaves,Vampiric Scepter,,15994,123544,Lane.bot_lane,Role.carry
+5,WatchThePower,Riven,False,Side.red,4,6,4,1.3333333333333333,235,Flash,Teleport,16,False,12441,12025,The Black Cleaver,Ravenous Hydra,Mercurial Scimitar,Ninja Tabi,Long Sword,,0,145785,Lane.top_lane,Role.solo
+6,KatnissEverdeen8,Zyra,False,Side.red,3,7,4,1.0,49,Exhaust,Flash,13,False,9615,9150,Frostfang,,Sightstone,Sorcerer's Shoes,Morellonomicon,Liandry's Torment,52577,6322,Lane.bot_lane,Role.support
+7,juliahewa,Kassadin,False,Side.red,6,7,5,1.5714285714285714,150,Teleport,Flash,14,False,10746,9370,Corrupting Potion,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Negatron Cloak,Seeker's Armguard,46616,21871,Lane.mid_lane,Role.solo
+8,Leooric,Hecarim,False,Side.red,3,11,8,1.0,140,Ghost,Smite,15,False,11436,11033,Enchantment: Cinderhulk,Hunter's Potion,Ionian Boots of Lucidity,Trinity Force,Dead Man's Plate,Ruby Crystal,21922,108635,Lane.jungle,Role.none
+9,S239,Draven,False,Side.red,4,11,2,0.5454545454545454,253,Heal,Flash,15,False,12660,12700,Infinity Edge,Long Sword,Mercurial Scimitar,Rapid Firecannon,Pickaxe,Berserker's Greaves,950,151063,Lane.bot_lane,Role.carry

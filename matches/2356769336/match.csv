@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizzy,Kayle,False,Side.blue,2,1,2,4.0,137,Ghost,Flash,12,False,7162,6450,The Dark Seal,Guinsoo's Rageblade,Doran's Ring,Doran's Ring,Boots of Speed,Stinger,51171,20884,Lane.mid_lane,Role.solo
+1,EternalShock,Soraka,False,Side.blue,0,5,4,0.8,17,Flash,Exhaust,10,False,5840,5550,Control Ward,Redemption,Eye of the Oasis,Cloth Armor,Ionian Boots of Lucidity,,11287,2701,Lane.bot_lane,Role.support
+2,TeddyRO,Caitlyn,False,Side.blue,1,7,1,0.2857142857142857,137,Flash,Heal,11,False,6748,6175,Doran's Blade,Pickaxe,B. F. Sword,Berserker's Greaves,Zeal,Recurve Bow,246,66839,Lane.bot_lane,Role.carry
+3,Lesu,Kha'Zix,False,Side.blue,3,4,2,1.25,140,Smite,Flash,13,False,8136,7575,Enchantment: Warrior,Refillable Potion,Youmuu's Ghostblade,Boots of Mobility,Long Sword,Long Sword,2629,108897,Lane.jungle,Role.none
+4,Tzaphkiel,Katarina,False,Side.blue,6,8,1,0.875,158,Teleport,Flash,13,True,8593,7310,Sorcerer's Shoes,Hextech Gunblade,Needlessly Large Rod,The Dark Seal,Ruby Crystal,Amplifying Tome,77224,12771,Lane.top_lane,Role.solo
+5,BabièThug,Orianna,True,Side.red,3,4,0,0.75,208,Flash,Ghost,15,False,10137,9575,Doran's Ring,Seeker's Armguard,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,102368,17366,Lane.mid_lane,Role.solo
+6,Sebi,Poppy,True,Side.red,6,4,7,3.25,141,Flash,Teleport,14,False,10583,10383,Corrupting Potion,Sunfire Cape,Spirit Visage,Boots of Speed,Trinity Force,,23557,62416,Lane.top_lane,Role.solo
+7,Trigger me Sebi,Lee Sin,True,Side.red,13,1,4,17.0,156,Smite,Flash,14,False,13375,12825,Tiamat,Enchantment: Warrior,Youmuu's Ghostblade,Duskblade of Draktharr,Pickaxe,Mercury's Treads,26375,123061,Lane.jungle,Role.none
+8,Gerrard,Blitzcrank,True,Side.red,1,1,11,12.0,31,Flash,Ignite,12,False,7865,7750,Sightstone,Locket of the Iron Solari,Boots of Mobility,Face of the Mountain,Needlessly Large Rod,Control Ward,9968,10178,Lane.bot_lane,Role.support
+9,Feitan,Ezreal,True,Side.red,2,2,10,6.0,142,Heal,Flash,13,False,10006,9150,Ionian Boots of Lucidity,Bilgewater Cutlass,Iceborn Gauntlet,Muramana,Recurve Bow,Doran's Blade,13705,77416,Lane.bot_lane,Role.carry

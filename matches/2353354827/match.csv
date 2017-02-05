@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fàkèr  ,Yasuo,True,Side.blue,4,0,2,6.0,139,Exhaust,Flash,11,False,7799,6350,Phantom Dancer,Health Potion,Berserker's Greaves,B. F. Sword,Doran's Blade,Cloak of Agility,10716,50428,Lane.mid_lane,Role.solo
+1,FIoopie,Caitlyn,True,Side.blue,5,3,1,2.0,102,Flash,Heal,9,False,7080,6075,Infinity Edge,Refillable Potion,Dagger,Doran's Blade,Berserker's Greaves,Dagger,664,47524,Lane.bot_lane,Role.carry
+2,LegitADC,Janna,True,Side.blue,0,0,8,8.0,9,Exhaust,Flash,9,False,5561,4000,Eye of the Oasis,Control Ward,Crystalline Bracer,Boots of Mobility,Faerie Charm,Faerie Charm,5484,6645,Lane.bot_lane,Role.support
+3,Ifkinluvpeaches,Darius,True,Side.blue,5,1,2,7.0,97,Teleport,Flash,11,True,6756,5725,Doran's Shield,The Black Cleaver,Chain Vest,Ninja Tabi,,,0,45935,Lane.top_lane,Role.solo
+4,Acerola LAN,Vi,True,Side.blue,7,1,4,11.0,85,Smite,Flash,11,False,8461,6475,Enchantment: Warrior,Blade of the Ruined King,Refillable Potion,Boots of Speed,,,1197,96324,Lane.jungle,Role.none
+5,sKILLSHOTz FIRED,Ryze,False,Side.red,0,3,0,0.0,74,Flash,Ghost,8,False,3923,3200,Ionian Boots of Lucidity,Catalyst of Aeons,Control Ward,,Tear of the Goddess,Total Biscuit of Rejuvenation,11961,8031,Lane.mid_lane,Role.solo
+6,Stunningstyles,Shen,False,Side.red,0,2,1,0.5,24,Flash,Exhaust,7,False,3283,2775,Targon's Brace,Refillable Potion,Kindlegem,Ionian Boots of Lucidity,,,2385,3761,Lane.bot_lane,Role.support
+7,PhD Wumbologist,Irelia,False,Side.red,2,6,1,0.5,71,Flash,Teleport,9,False,4565,4350,Corrupting Potion,Doran's Blade,Ninja Tabi,Phage,,Sheen,2434,16921,Lane.top_lane,Role.solo
+8,Miajima,Nocturne,False,Side.red,0,5,2,0.4,63,Smite,Flash,8,False,4346,3075,Enchantment: Bloodrazor,Refillable Potion,,Boots of Speed,,,2721,44721,Lane.jungle,Role.none
+9,Eckenroth,Ezreal,False,Side.red,3,5,1,0.8,85,Heal,Flash,8,False,5250,3975,Tear of the Goddess,Doran's Blade,Sheen,Cull,Boots of Speed,Pickaxe,4433,25149,Lane.bot_lane,Role.carry

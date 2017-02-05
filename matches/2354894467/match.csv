@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Astrolgia,Twisted Fate,True,Side.blue,10,3,12,7.333333333333333,106,Flash,Barrier,12,False,10621,8750,Doran's Ring,Luden's Echo,Control Ward,Doran's Ring,Lich Bane,Boots of Swiftness,62628,10170,Lane.mid_lane,Role.solo
+1,Onagne,Aatrox,True,Side.blue,6,1,7,13.0,161,Teleport,Flash,12,False,9565,8375,Ravenous Hydra,Mercury's Treads,Sterak's Gage,Doran's Blade,Dagger,Dagger,24657,69515,Lane.top_lane,Role.solo
+2,Good Lee xd,Graves,True,Side.blue,14,2,11,12.5,106,Smite,Flash,13,False,11947,9475,,Refillable Potion,Youmuu's Ghostblade,Berserker's Greaves,Phantom Dancer,Enchantment: Warrior,2306,108054,Lane.jungle,Role.none
+3,2342563463634,Vayne,True,Side.blue,5,6,8,2.1666666666666665,81,Heal,Flash,11,False,8102,6625,Doran's Blade,Berserker's Greaves,Phantom Dancer,Pickaxe,B. F. Sword,,111,42968,Lane.bot_lane,Role.duo
+4,PaladinDuran,Alistar,True,Side.blue,3,4,17,5.0,30,Ignite,Flash,11,False,7109,5675,Control Ward,Redemption,Sightstone,Boots of Mobility,Targon's Brace,Ruby Crystal,12369,7164,Lane.bot_lane,Role.duo
+5,Clasiik,Malphite,False,Side.red,1,4,1,0.5,124,Teleport,Flash,11,False,6354,5850,Corrupting Potion,The Dark Seal,Ninja Tabi,Sunfire Cape,Warden's Mail,,33374,21936,Lane.top_lane,Role.solo
+6,YoloShroom,Blitzcrank,False,Side.red,4,10,2,0.6,28,Flash,Ignite,9,True,5883,5600,Ruby Sightstone,Face of the Mountain,Boots of Mobility,Crystalline Bracer,,,7100,5452,Lane.bot_lane,Role.support
+7,Taylspin,Jhin,False,Side.red,4,7,5,1.2857142857142858,102,Flash,Heal,10,False,7150,6600,Doran's Blade,Infinity Edge,Boots of Swiftness,Zeal,Dagger,,1513,51609,Lane.bot_lane,Role.carry
+8,Rift Warriorz,Syndra,False,Side.red,3,9,0,0.3333333333333333,131,Flash,Ghost,11,False,7052,6310,Health Potion,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,Needlessly Large Rod,70550,7712,Lane.mid_lane,Role.solo
+9,am sol,Lee Sin,False,Side.red,4,8,2,0.75,59,Smite,Flash,10,False,6689,6175,Enchantment: Warrior,Refillable Potion,Long Sword,Ionian Boots of Lucidity,Tiamat,Pickaxe,10758,51653,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Doctus Rex,Darius,False,Side.blue,5,5,2,1.4,106,Ignite,Ghost,12,False,7110,6765,Caulfield's Warhammer,,,Boots of Swiftness,Spirit Visage,Phage,385,50005,Lane.top_lane,Role.solo
+1,East Berlin,Zac,False,Side.blue,4,4,1,1.25,66,Flash,Smite,10,False,6337,6250,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Cloth Armor,Spectre's Cowl,Kindlegem,43335,12016,Lane.jungle,Role.none
+2,i love aileen,Orianna,False,Side.blue,1,7,2,0.42857142857142855,89,Ghost,Flash,9,False,5383,3385,Lost Chapter,Doran's Ring,Fiendish Codex,Total Biscuit of Rejuvenation,Boots of Speed,Amplifying Tome,29102,6847,Lane.mid_lane,Role.solo
+3,Aileen Choi,Nami,False,Side.blue,0,4,1,0.25,4,Ignite,Flash,7,False,3916,1850,Spellthief's Edge,Sightstone,Total Biscuit of Rejuvenation,,Boots of Speed,,1410,1226,Lane.bot_lane,Role.support
+4,Nob That Boglin,Jhin,False,Side.blue,1,3,4,1.6666666666666667,139,Heal,Flash,11,False,6675,6100,Doran's Blade,Essence Reaver,Brawler's Gloves,B. F. Sword,Boots of Speed,,1165,57300,Lane.bot_lane,Role.carry
+5,JaxenGrumpy,Vladimir,True,Side.red,1,3,4,1.6666666666666667,132,Ghost,Flash,11,False,7608,7400,Hextech Protobelt-01,Zhonya's Hourglass,Refillable Potion,Kindlegem,Ionian Boots of Lucidity,,58811,12456,Lane.top_lane,Role.solo
+6,ATnTeemo,Graves,True,Side.red,8,3,7,5.0,127,Smite,Flash,13,False,9828,9225,Enchantment: Warrior,Caulfield's Warhammer,Phantom Dancer,Berserker's Greaves,Null-Magic Mantle,Phage,2737,98186,Lane.jungle,Role.none
+7,ICWhatUDidThar,Fizz,True,Side.red,9,2,5,7.0,84,Ignite,Flash,11,True,8457,8325,Doran's Ring,Refillable Potion,Abyssal Scepter,Sorcerer's Shoes,Lich Bane,Doran's Ring,42982,16751,Lane.mid_lane,Role.solo
+8,Soligo,Ezreal,True,Side.red,3,2,8,5.5,122,Heal,Flash,10,False,7926,7900,Manamune,Ionian Boots of Lucidity,Doran's Blade,Iceborn Gauntlet,Vampiric Scepter,Long Sword,5454,60278,Lane.bot_lane,Role.carry
+9,Some Fruit,Bard,True,Side.red,1,1,13,14.0,11,Exhaust,Flash,10,False,6547,6350,Spellthief's Edge,Sightstone,Redemption,Boots of Mobility,Ruby Crystal,B. F. Sword,8392,5208,Lane.bot_lane,Role.support

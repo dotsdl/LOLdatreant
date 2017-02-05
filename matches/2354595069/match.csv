@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Alex Ich 1,Kha'Zix,True,Side.blue,6,5,13,3.8,107,Flash,Smite,14,False,11357,8825,Enchantment: Warrior,Serrated Dirk,Boots of Mobility,Control Ward,Death's Dance,Ruby Crystal,4400,129176,Lane.jungle,Role.none
+1,Dontkillmek,Caitlyn,True,Side.blue,7,2,13,10.0,214,Flash,Heal,14,False,12817,10975,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Long Sword,1567,159400,Lane.bot_lane,Role.carry
+2,Hyorimaru,Anivia,True,Side.blue,9,1,8,17.0,202,Flash,Ghost,15,False,12997,12050,Doran's Ring,Seraph's Embrace,Zhonya's Hourglass,Morellonomicon,Haunting Guise,Boots of Mobility,106708,9688,Lane.mid_lane,Role.solo
+3,Liquid Matt,Alistar,True,Side.blue,2,1,23,25.0,48,Ignite,Flash,13,False,10059,8000,Relic Shield,Boots of Mobility,Ruby Sightstone,Redemption,,Knight's Vow,21109,10699,Lane.bot_lane,Role.support
+4,PutYourHeartsUp,Irelia,True,Side.blue,6,7,11,2.4285714285714284,168,Flash,Teleport,15,True,11943,11658,Corrupting Potion,Randuin's Omen,Spirit Visage,Ruby Crystal,Trinity Force,Ninja Tabi,4255,82389,Lane.top_lane,Role.solo
+5,Positivityy,Riven,False,Side.red,6,8,3,1.125,190,Teleport,Flash,14,False,10755,10150,Ninja Tabi,Edge of Night,The Black Cleaver,Doran's Blade,Tiamat,Vampiric Scepter,3690,109557,Lane.top_lane,Role.solo
+6,Paxton,Nautilus,False,Side.red,1,9,6,0.7777777777777778,36,Flash,Exhaust,11,False,6828,6550,Targon's Brace,Dead Man's Plate,Crystalline Bracer,Sightstone,,Boots of Mobility,8938,6547,Lane.bot_lane,Role.support
+7,Abou222,Elise,False,Side.red,3,4,3,1.5,71,Smite,Flash,12,False,8676,8525,Enchantment: Runic Echoes,Hunter's Potion,Control Ward,Sorcerer's Shoes,Rylai's Crystal Scepter,,65630,19652,Lane.jungle,Role.none
+8,NA Rumble,Ezreal,False,Side.red,4,4,4,2.0,183,Heal,Flash,13,False,10588,10533,Manamune,Bilgewater Cutlass,Ionian Boots of Lucidity,Trinity Force,Recurve Bow,,13780,65570,Lane.bot_lane,Role.carry
+9,Témpest,Yasuo,False,Side.red,2,5,6,1.6,217,Flash,Ignite,14,False,9954,8300,Infinity Edge,Phage,Boots of Speed,Phantom Dancer,,Doran's Blade,23301,108246,Lane.mid_lane,Role.solo

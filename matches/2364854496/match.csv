@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Rumble,True,Side.blue,8,4,7,3.75,167,Teleport,Flash,15,False,11700,8610,Zhonya's Hourglass,Control Ward,Sorcerer's Shoes,Doran's Shield,Liandry's Torment,Amplifying Tome,100951,14079,Lane.top_lane,Role.solo
+1,Hi Im A Sheep,Tahm Kench,True,Side.blue,1,3,12,4.333333333333333,34,Flash,Exhaust,13,False,7958,7150,Ruby Sightstone,Control Ward,Redemption,Kindlegem,Targon's Brace,Mercury's Treads,10676,8521,Lane.bot_lane,Role.support
+2,greenléaf,Caitlyn,True,Side.blue,13,1,9,22.0,185,Heal,Flash,14,False,13898,11400,Doran's Blade,Infinity Edge,Vampiric Scepter,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,245,128477,Lane.bot_lane,Role.carry
+3,how do i do it,Hecarim,True,Side.blue,7,3,14,7.0,124,Ghost,Smite,15,True,11666,10958,Randuin's Omen,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,Trinity Force,Cloth Armor,21620,110911,Lane.jungle,Role.none
+4,Budded,Vel'Koz,True,Side.blue,3,2,11,7.0,188,Exhaust,Flash,15,False,11116,9100,Morellonomicon,Null-Magic Mantle,Doran's Ring,Liandry's Torment,Boots of Speed,Aegis of the Legion,93121,11309,Lane.mid_lane,Role.solo
+5,foggedftw1,Tryndamere,False,Side.red,6,7,2,1.1428571428571428,196,Ignite,Flash,15,False,10280,9250,Refillable Potion,Bilgewater Cutlass,Statikk Shiv,Boots of Swiftness,The Black Cleaver,Recurve Bow,22400,99416,Lane.top_lane,Role.solo
+6,godrjsdnd,Kassadin,False,Side.red,0,6,5,0.8333333333333334,231,Teleport,Flash,14,False,9395,8935,Corrupting Potion,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Seeker's Armguard,Amplifying Tome,76098,32949,Lane.mid_lane,Role.solo
+7,Chody Walrus,Vi,False,Side.red,4,5,2,1.2,131,Flash,Smite,13,False,9161,8833,Sightstone,Mercury's Treads,Trinity Force,Enchantment: Warrior,Control Ward,,1373,120223,Lane.jungle,Role.none
+8,Yusui,Draven,False,Side.red,2,7,3,0.7142857142857143,184,Heal,Flash,12,False,9378,8875,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,,0,96932,Lane.bot_lane,Role.carry
+9,Pekin Woof,Thresh,False,Side.red,1,7,4,0.7142857142857143,29,Flash,Ignite,11,False,6320,5325,Redemption,Ruby Sightstone,,,Relic Shield,Boots of Mobility,9276,4337,Lane.bot_lane,Role.support

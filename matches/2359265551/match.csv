@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dna shockwave,LeBlanc,False,Side.blue,13,9,6,2.111111111111111,148,Ignite,Flash,15,False,12765,11350,Doran's Ring,Morellonomicon,The Dark Seal,Void Staff,Sorcerer's Shoes,Abyssal Scepter,90757,13845,Lane.mid_lane,Role.solo
+1,Haki,Rek'Sai,False,Side.blue,6,4,6,3.0,163,Smite,Flash,15,True,11825,11725,Titanic Hydra,Dead Man's Plate,Giant's Belt,Enchantment: Cinderhulk,Ninja Tabi,Cloth Armor,28186,106103,Lane.jungle,Role.none
+2,PutYourHeartsUp,Nami,False,Side.blue,3,7,17,2.857142857142857,8,Flash,Heal,12,False,9560,8610,Control Ward,Amplifying Tome,Eye of the Watchers,Ardent Censer,Athene's Unholy Grail,Boots of Swiftness,8184,5347,Lane.bot_lane,Role.support
+3,Rhux,Poppy,False,Side.blue,4,5,5,1.8,185,Flash,Teleport,15,False,10755,10725,Corrupting Potion,Spirit Visage,Randuin's Omen,Ninja Tabi,Sunfire Cape,,39645,84986,Lane.top_lane,Role.solo
+4,Falco Mechanic,Caitlyn,False,Side.blue,6,9,8,1.5555555555555556,205,Exhaust,Flash,14,False,11869,10550,Quicksilver Sash,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Doran's Blade,3589,166046,Lane.bot_lane,Role.carry
+5,Kawaki,Jinx,True,Side.red,13,7,10,3.2857142857142856,157,Heal,Flash,14,False,13336,11750,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Last Whisper,1784,134254,Lane.bot_lane,Role.carry
+6,CraacK,Vel'Koz,True,Side.red,9,7,4,1.8571428571428572,177,Flash,Barrier,14,False,12040,9250,Mercury's Treads,Fiendish Codex,Rylai's Crystal Scepter,Morellonomicon,Doran's Ring,Doran's Ring,86245,10591,Lane.mid_lane,Role.solo
+7,Indivisible,Thresh,True,Side.red,2,9,18,2.2222222222222223,29,Flash,Ignite,12,False,8981,8200,Locket of the Iron Solari,Control Ward,Knight's Vow,Ruby Sightstone,Boots of Mobility,Relic Shield,11638,5886,Lane.bot_lane,Role.support
+8,Keegun,Lee Sin,True,Side.red,6,5,14,4.0,71,Smite,Flash,13,False,10514,9750,Cloth Armor,Enchantment: Warrior,,Dead Man's Plate,Banshee's Veil,Mercury's Treads,13355,60775,Lane.jungle,Role.none
+9,Dhokla,Jayce,True,Side.red,4,4,9,3.25,229,Flash,Teleport,16,False,12507,11500,,The Black Cleaver,The Bloodthirster,Mercury's Treads,Lord Dominik's Regards,,24837,145162,Lane.top_lane,Role.solo

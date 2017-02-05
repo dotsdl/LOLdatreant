@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Volfo,Morgana,False,Side.blue,1,3,3,1.3333333333333333,214,Teleport,Flash,14,False,9409,8495,Doran's Ring,Luden's Echo,Morellonomicon,Negatron Cloak,,Sorcerer's Shoes,92257,15284,Lane.mid_lane,Role.solo
+1,poof the sheep,Singed,False,Side.blue,1,7,0,0.14285714285714285,307,Ghost,Teleport,16,True,10896,9475,Corrupting Potion,Zz'Rot Portal,Boots of Swiftness,Rod of Ages,Needlessly Large Rod,Giant's Belt,162030,8800,Lane.top_lane,Role.solo
+2,xxxVOLIBEARxx,Volibear,False,Side.blue,5,6,3,1.3333333333333333,132,Flash,Smite,13,False,9342,8725,Spectre's Cowl,Kindlegem,,Boots of Mobility,Dead Man's Plate,Enchantment: Cinderhulk,33573,58797,Lane.jungle,Role.none
+3,Starinna,Thresh,False,Side.blue,1,7,4,0.7142857142857143,30,Flash,Ignite,12,False,6386,5525,Sightstone,Locket of the Iron Solari,Relic Shield,Boots of Mobility,Kindlegem,,6822,6091,Lane.bot_lane,Role.support
+4,SalsATameR,Vayne,False,Side.blue,4,6,3,1.1666666666666667,164,Flash,Heal,12,False,9351,9200,Doran's Blade,Last Whisper,Rapid Firecannon,Berserker's Greaves,Infinity Edge,,3886,71808,Lane.bot_lane,Role.carry
+5,cùrz,Bard,True,Side.red,2,4,19,5.25,15,Flash,Ignite,13,False,9322,7875,Eye of the Watchers,Redemption,Locket of the Iron Solari,,Boots of Mobility,,13344,5833,Lane.bot_lane,Role.support
+6,BIack3,Twisted Fate,True,Side.red,11,2,10,10.5,236,Flash,Ghost,16,False,15927,14300,Rod of Ages,Rabadon's Deathcap,Zhonya's Hourglass,Ionian Boots of Lucidity,,Lich Bane,165638,18463,Lane.mid_lane,Role.solo
+7,KitingYeezus,Vi,True,Side.red,9,2,11,10.0,105,Flash,Smite,15,False,11529,10408,Enchantment: Warrior,Trinity Force,Mercury's Treads,Giant's Belt,Chain Vest,Giant's Belt,1034,128514,Lane.jungle,Role.none
+8,GhostBladeTear,Rumble,True,Side.red,4,1,3,7.0,252,Teleport,Flash,15,False,11682,9025,Hextech Protobelt-01,Zhonya's Hourglass,Rylai's Crystal Scepter,,,Boots of Speed,137206,19309,Lane.top_lane,Role.solo
+9,Liciana,Caitlyn,True,Side.red,2,3,16,6.0,183,Heal,Flash,14,False,11153,8775,Doran's Blade,,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Kircheis Shard,683,127595,Lane.bot_lane,Role.carry

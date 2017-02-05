@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Doublelift,Draven,False,Side.blue,1,5,1,0.4,141,Flash,Heal,9,False,6616,6250,Doran's Blade,Caulfield's Warhammer,Cull,Infinity Edge,Boots of Speed,Dagger,916,52136,Lane.bot_lane,Role.carry
+1,Stixxay,Vi,False,Side.blue,2,3,2,1.3333333333333333,105,Smite,Flash,11,False,6616,5900,Chain Vest,Refillable Potion,Ninja Tabi,Enchantment: Warrior,Giant's Belt,,612,78017,Lane.jungle,Role.none
+2,Pocket Rhino,Karma,False,Side.blue,1,3,4,1.6666666666666667,106,Flash,Ghost,11,False,5760,5175,Haunting Guise,Athene's Unholy Grail,Ionian Boots of Lucidity,Doran's Ring,,,46740,7879,Lane.mid_lane,Role.solo
+3,Old Man Lohpally,Nami,False,Side.blue,1,4,1,0.5,11,Exhaust,Flash,9,False,4977,4275,Total Biscuit of Rejuvenation,Eye of the Watchers,Control Ward,Boots of Mobility,Tear of the Goddess,,5274,3058,Lane.bot_lane,Role.support
+4,Licorice,Jarvan IV,False,Side.blue,1,4,3,1.0,97,Flash,Teleport,11,False,5810,5300,Tiamat,Corrupting Potion,Doran's Blade,Chain Vest,Ninja Tabi,Bami's Cinder,2563,42171,Lane.top_lane,Role.solo
+5,Hi Im A Sheep,Janna,True,Side.red,0,0,14,14.0,6,Flash,Exhaust,10,False,6099,5225,Eye of the Watchers,Control Ward,,Forbidden Idol,Crystalline Bracer,Ionian Boots of Lucidity,4298,3424,Lane.bot_lane,Role.support
+6,Pyrites,Vel'Koz,True,Side.red,5,3,5,3.3333333333333335,133,Flash,Ghost,11,False,8203,6100,Doran's Ring,Aether Wisp,Total Biscuit of Rejuvenation,Morellonomicon,Ionian Boots of Lucidity,Doran's Ring,58409,5572,Lane.mid_lane,Role.solo
+7,Révenge,Yasuo,True,Side.red,8,3,3,3.6666666666666665,154,Teleport,Flash,13,True,10656,10038,Doran's Blade,Doran's Blade,Trinity Force,Phantom Dancer,Ninja Tabi,B. F. Sword,27726,76857,Lane.top_lane,Role.solo
+8,windking66,Ezreal,True,Side.red,1,0,6,7.0,154,Heal,Flash,11,False,8027,7925,Manamune,Doran's Blade,Ionian Boots of Lucidity,Cull,Iceborn Gauntlet,Vampiric Scepter,11608,55667,Lane.bot_lane,Role.carry
+9,kms myself,Zac,True,Side.red,5,1,6,11.0,136,Smite,Flash,13,False,8969,8550,Enchantment: Cinderhulk,Spirit Visage,Ionian Boots of Lucidity,Giant's Belt,Warden's Mail,,91990,15130,Lane.jungle,Role.none

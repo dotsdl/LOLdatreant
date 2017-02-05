@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PAX Twisted Fate,Twisted Fate,False,Side.blue,2,6,4,1.0,207,Ghost,Flash,14,False,10196,9145,Doran's Ring,Fiendish Codex,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Negatron Cloak,112561,16174,Lane.mid_lane,Role.solo
+1,never meme,Lulu,False,Side.blue,0,2,7,3.5,20,Exhaust,Flash,11,False,6872,6425,Redemption,Eye of the Watchers,Total Biscuit of Rejuvenation,Boots of Mobility,Chain Vest,,20909,3276,Lane.bot_lane,Role.support
+2,Vicinus,Kha'Zix,False,Side.blue,4,8,4,1.0,111,Flash,Smite,12,False,9049,8425,Enchantment: Warrior,Maw of Malmortius,Boots of Mobility,Serrated Dirk,Ruby Crystal,,5419,99448,Lane.jungle,Role.none
+3,sangchu,Lucian,False,Side.blue,5,6,1,1.0,171,Heal,Flash,12,True,9583,9500,Doran's Blade,Essence Reaver,Berserker's Greaves,Phantom Dancer,B. F. Sword,,3869,96372,Lane.bot_lane,Role.carry
+4,Frank Slade,Singed,False,Side.blue,2,3,2,1.3333333333333333,244,Teleport,Ghost,14,False,10429,10500,Righteous Glory,Corrupting Potion,Zz'Rot Portal,Control Ward,Mercury's Treads,Liandry's Torment,103996,9176,Lane.top_lane,Role.solo
+5,Yarkbeezy,Janna,True,Side.red,0,2,15,7.5,18,Exhaust,Flash,13,False,9241,8175,Redemption,Sightstone,Locket of the Iron Solari,Forbidden Idol,Nomad's Medallion,Ionian Boots of Lucidity,3573,5400,Lane.bot_lane,Role.support
+6,yoko,Malphite,True,Side.red,2,2,7,4.5,223,Flash,Teleport,15,False,11451,10200,Zz'Rot Portal,Corrupting Potion,Ninja Tabi,Iceborn Gauntlet,Control Ward,Sunfire Cape,79840,37440,Lane.top_lane,Role.solo
+7,iIIusionist,Gangplank,True,Side.red,7,1,8,15.0,237,Flash,Teleport,16,False,14154,13058,Titanic Hydra,Corrupting Potion,Ionian Boots of Lucidity,Infinity Edge,Trinity Force,Brawler's Gloves,6591,182950,Lane.mid_lane,Role.solo
+8,Extreme Person,Shaco,True,Side.red,11,5,7,3.6,109,Ignite,Smite,14,False,11821,10575,Enchantment: Runic Echoes,Ionian Boots of Lucidity,The Dark Seal,Lich Bane,Hextech Protobelt-01,Blasting Wand,60804,53655,Lane.jungle,Role.none
+9, keine Hosen,Draven,True,Side.red,5,3,6,3.6666666666666665,249,Flash,Heal,14,False,13657,11950,Doran's Blade,Vampiric Scepter,Youmuu's Ghostblade,Berserker's Greaves,Rapid Firecannon,Duskblade of Draktharr,3057,192062,Lane.bot_lane,Role.carry

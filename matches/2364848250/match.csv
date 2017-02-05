@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Chase Yy forever,Graves,True,Side.blue,0,0,0,0.0,11,Flash,Smite,3,False,1046,500,Hunter's Machete,Refillable Potion,,,,,153,9309,Lane.jungle,Role.none
+1,piggydontcry,Jayce,True,Side.blue,0,0,0,0.0,9,Teleport,Flash,3,False,813,500,Doran's Blade,,,,,,100,2315,Lane.top_lane,Role.solo
+2,RADlANT G0KU,Syndra,True,Side.blue,0,0,0,0.0,14,Flash,Ghost,3,False,910,500,Doran's Ring,,,,,,1418,1832,Lane.mid_lane,Role.solo
+3,Lsh1,Blitzcrank,True,Side.blue,0,0,0,0.0,0,Flash,Ignite,2,False,753,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,236,387,Lane.bot_lane,Role.duo
+4,  c y1,Jhin,True,Side.blue,0,0,0,0.0,13,Flash,Heal,2,False,890,500,Doran's Blade,,,,,,19,2578,Lane.bot_lane,Role.duo
+5,Iilbit,LeBlanc,False,Side.red,0,0,0,0.0,14,Flash,Teleport,3,False,932,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,2294,1622,Lane.mid_lane,Role.duo
+6,SwangyD,Ryze,False,Side.red,0,0,0,0.0,6,Teleport,Flash,2,False,759,500,Refillable Potion,Sapphire Crystal,,,,,3041,549,Lane.bot_lane,Role.solo
+7,RealTeemo,Teemo,False,Side.red,0,0,0,0.0,12,Ignite,Flash,3,False,878,500,Doran's Ring,Health Potion,,,,,1184,1648,Lane.top_lane,Role.solo
+8,King Snivle,Kha'Zix,False,Side.red,0,0,0,0.0,7,Flash,Smite,3,False,1044,500,Hunter's Talisman,Refillable Potion,,,,,357,7658,Lane.jungle,Role.none
+9,Dreks,Renekton,False,Side.red,0,0,0,0.0,0,Ignite,Flash,1,False,648,0,,,,,,,0,0,Lane.mid_lane,Role.duo

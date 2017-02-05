@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fv Ares,Graves,False,Side.blue,0,0,0,0.0,11,Flash,Smite,3,False,1058,500,Hunter's Machete,Refillable Potion,,,,,10,8037,Lane.jungle,Role.none
+1,iTranscend,Ryze,False,Side.blue,0,0,0,0.0,15,Flash,Ghost,3,False,953,500,Sapphire Crystal,Refillable Potion,,,,,2332,1578,Lane.mid_lane,Role.duo
+2,Gareth,Zac,False,Side.blue,1,0,0,1.0,3,Teleport,Flash,3,True,1100,500,Ruby Crystal,,Health Potion,,,,1355,923,Lane.top_lane,Role.solo
+3,HowtoPee,Jhin,False,Side.blue,0,0,0,0.0,0,Heal,Flash,1,False,646,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+4,Thecrimsonrage,Janna,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,682,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,0,504,Lane.bot_lane,Role.solo
+5,Moist Kite,Singed,True,Side.red,0,1,0,0.0,11,Teleport,Ghost,2,False,814,500,The Dark Seal,Refillable Potion,,,,,3372,1395,Lane.top_lane,Role.solo
+6,FaR007,Caitlyn,True,Side.red,0,0,0,0.0,15,Heal,Flash,2,False,953,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,48,2734,Lane.bot_lane,Role.duo
+7,JurgenWindCaller,Orianna,True,Side.red,0,0,0,0.0,12,Ghost,Flash,3,False,868,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1303,1877,Lane.mid_lane,Role.solo
+8,The Potluck,Lee Sin,True,Side.red,0,0,0,0.0,11,Smite,Flash,3,False,1058,500,Hunter's Machete,Refillable Potion,,,,,77,7555,Lane.jungle,Role.none
+9,l Halcyon l,Zilean,True,Side.red,0,0,0,0.0,0,Ignite,Flash,2,False,646,500,Total Biscuit of Rejuvenation,Doran's Ring,,,,,14,39,Lane.bot_lane,Role.duo

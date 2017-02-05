@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,134gu3 0f 13g3nd,Syndra,False,Side.blue,2,13,3,0.38461538461538464,82,Flash,Ghost,11,False,6820,5625,Doran's Ring,,Morellonomicon,Tear of the Goddess,Sorcerer's Shoes,Control Ward,40137,5283,Lane.mid_lane,Role.solo
+1,GangstahSwerve,Ivern,False,Side.blue,6,6,8,2.3333333333333335,84,Smite,Flash,13,False,9298,7875,Locket of the Iron Solari,Redemption,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Control Ward,19938,7736,Lane.jungle,Role.none
+2,HootyBootyBeans,Ezreal,False,Side.blue,4,5,6,2.0,124,Heal,Flash,12,False,8699,8025,Iceborn Gauntlet,Manamune,Cull,Doran's Blade,Ionian Boots of Lucidity,Vampiric Scepter,13491,60066,Lane.bot_lane,Role.carry
+3,IlovePimtha,Karma,False,Side.blue,0,5,6,1.2,28,Flash,Exhaust,10,False,6577,5800,,Sightstone,Redemption,Ionian Boots of Lucidity,Raptor Cloak,Spellthief's Edge,27782,2024,Lane.bot_lane,Role.support
+4,patsup,Heimerdinger,False,Side.blue,5,9,6,1.2222222222222223,171,Ignite,Flash,15,False,10667,9725,Frost Queen's Claim,Sorcerer's Shoes,Doran's Ring,Liandry's Torment,Void Staff,,91267,11454,Lane.top_lane,Role.solo
+5,Topopotamus,Poppy,True,Side.red,4,3,4,2.6666666666666665,168,Teleport,Flash,13,False,10294,10000,Sunfire Cape,Corrupting Potion,Spirit Visage,Mercury's Treads,Iceborn Gauntlet,,32440,71932,Lane.top_lane,Role.solo
+6,HARUHI S3 PLS,Zac,True,Side.red,5,2,9,7.0,141,Smite,Flash,14,False,11041,10375,Enchantment: Cinderhulk,Giant's Belt,Ionian Boots of Lucidity,Spirit Visage,Randuin's Omen,,105426,24801,Lane.jungle,Role.none
+7,Asc Intercourse,Twitch,True,Side.red,20,5,0,4.0,223,Flash,Heal,15,True,15902,15225,The Bloodthirster,Blade of the Ruined King,,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,72,150059,Lane.bot_lane,Role.carry
+8,LearningToPIay,Yasuo,True,Side.red,8,5,6,2.8,226,Flash,Exhaust,15,False,12736,11455,Mercury's Treads,Maw of Malmortius,Infinity Edge,Phantom Dancer,,,39676,129264,Lane.mid_lane,Role.solo
+9,Rich Homie Lucky,Thresh,True,Side.red,0,2,14,7.0,36,Flash,Ignite,13,False,7857,6800,Control Ward,Ruby Sightstone,Redemption,Kindlegem,Targon's Brace,Ionian Boots of Lucidity,11435,5735,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fòul,Vi,False,Side.blue,6,7,5,1.5714285714285714,136,Flash,Smite,13,False,9429,8918,Enchantment: Warrior,Trinity Force,Cloth Armor,,Mercury's Treads,Refillable Potion,1861,111237,Lane.jungle,Role.none
+1,Témpest,Yasuo,False,Side.blue,5,8,4,1.125,172,Flash,Teleport,14,False,9426,8700,Phantom Dancer,Doran's Blade,Doran's Blade,Infinity Edge,Mercury's Treads,,24810,75831,Lane.top_lane,Role.solo
+2,fallenbandit,Cassiopeia,False,Side.blue,9,8,4,1.625,153,Flash,Ghost,14,False,10562,10300,Seraph's Embrace,Doran's Ring,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,,89799,5686,Lane.mid_lane,Role.solo
+3,SKY Fear,Varus,False,Side.blue,6,6,6,2.0,189,Flash,Heal,14,False,9919,8800,Doran's Blade,Runaan's Hurricane,Essence Reaver,Control Ward,Long Sword,Berserker's Greaves,6826,98055,Lane.bot_lane,Role.carry
+4,Seoksang,Karma,False,Side.blue,0,7,16,2.2857142857142856,20,Flash,Ignite,12,False,7342,6525,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,,Total Biscuit of Rejuvenation,11244,2671,Lane.bot_lane,Role.support
+5,Rhux,Zyra,True,Side.red,7,6,9,2.6666666666666665,27,Flash,Ignite,12,False,10622,9410,Eye of the Watchers,Boots of Mobility,Needlessly Large Rod,Liandry's Torment,Giant's Belt,Amplifying Tome,30392,5817,Lane.bot_lane,Role.support
+6,Entranced,Swain,True,Side.red,11,4,9,5.0,170,Teleport,Flash,16,True,13132,12625,Abyssal Scepter,Zhonya's Hourglass,Haunting Guise,Rod of Ages,The Dark Seal,Sorcerer's Shoes,104007,15785,Lane.mid_lane,Role.solo
+7,Peng Yiliang,Caitlyn,True,Side.red,4,6,10,2.3333333333333335,205,Flash,Heal,14,False,12004,11025,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Cull,Rapid Firecannon,941,123156,Lane.bot_lane,Role.carry
+8,One Called Saint,Skarner,True,Side.red,8,3,8,5.333333333333333,138,Flash,Smite,15,False,12698,12528,Enchantment: Cinderhulk,Ninja Tabi,Trinity Force,Warmog's Armor,Negatron Cloak,Raptor Cloak,50486,88180,Lane.jungle,Role.none
+9,CLG Darshawn,Fiora,True,Side.red,6,7,9,2.142857142857143,139,Teleport,Flash,14,False,11345,11108,Ravenous Hydra,,Ninja Tabi,Trinity Force,B. F. Sword,Doran's Blade,2756,91211,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MiIes,Yasuo,True,Side.blue,3,7,8,1.5714285714285714,228,Flash,Ignite,16,False,13568,11750,Berserker's Greaves,Phantom Dancer,Infinity Edge,Frozen Mallet,Null-Magic Mantle,Doran's Blade,21530,158828,Lane.top_lane,Role.solo
+1,Frosay,Karma,True,Side.blue,0,4,27,6.75,16,Flash,Exhaust,14,False,10733,9250,Ardent Censer,Redemption,Aegis of the Legion,Eye of the Watchers,Ionian Boots of Lucidity,,21136,4298,Lane.bot_lane,Role.support
+2,Wizikz,Rek'Sai,True,Side.blue,12,1,15,27.0,258,Smite,Flash,18,True,17065,14400,Titanic Hydra,Dead Man's Plate,Enchantment: Cinderhulk,Kindlegem,The Black Cleaver,Ninja Tabi,50112,176046,Lane.jungle,Role.none
+3,loveyen,Syndra,True,Side.blue,9,3,10,6.333333333333333,191,Flash,Ghost,16,False,13642,12100,Doran's Ring,Morellonomicon,Needlessly Large Rod,Rylai's Crystal Scepter,Sorcerer's Shoes,Zhonya's Hourglass,128701,11270,Lane.mid_lane,Role.solo
+4,Jynsin,Corki,True,Side.blue,11,5,15,5.2,237,Flash,Heal,16,False,15228,13558,Pickaxe,Trinity Force,Hextech Gunblade,Sorcerer's Shoes,B. F. Sword,Rapid Firecannon,120541,53677,Lane.bot_lane,Role.carry
+5,Cympathy,Braum,False,Side.red,3,4,10,3.25,40,Exhaust,Flash,13,False,8748,7950,Ionian Boots of Lucidity,Sightstone,Relic Shield,Knight's Vow,Spirit Visage,Ruby Crystal,13956,7375,Lane.bot_lane,Role.support
+6,Zëro,Ezreal,False,Side.red,4,6,8,2.0,204,Flash,Heal,14,False,10820,10408,Bilgewater Cutlass,Muramana,Trinity Force,Ionian Boots of Lucidity,Doran's Blade,Recurve Bow,15453,91473,Lane.bot_lane,Role.carry
+7,Im Logan,Rengar,False,Side.red,4,12,2,0.5,95,Smite,Flash,12,False,9043,8250,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Spectre's Cowl,,7157,68025,Lane.jungle,Role.none
+8,Master Yi Z,Galio,False,Side.red,1,6,13,2.3333333333333335,161,Flash,Ignite,14,False,9295,8750,Doran's Ring,Mercury's Treads,Doran's Ring,Abyssal Scepter,Rod of Ages,Needlessly Large Rod,97231,10979,Lane.mid_lane,Role.solo
+9,Nancy Tran,Poppy,False,Side.red,8,7,6,2.0,228,Teleport,Flash,17,False,12722,11650,Ninja Tabi,Corrupting Potion,Warden's Mail,Sunfire Cape,Iceborn Gauntlet,Spirit Visage,40482,107564,Lane.top_lane,Role.solo

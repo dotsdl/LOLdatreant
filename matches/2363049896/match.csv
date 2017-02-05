@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Suntail,Twitch,True,Side.blue,11,7,11,3.142857142857143,232,Flash,Smite,18,False,16330,26800,Fiendish Codex,,Void Staff,Rylai's Crystal Scepter,Rabadon's Deathcap,Sorcerer's Shoes,2285,215402,Lane.jungle,Role.none
+1,Jummychu,Jhin,True,Side.blue,15,3,5,6.666666666666667,183,Flash,Heal,15,False,14500,12200,Youmuu's Ghostblade,Infinity Edge,Rapid Firecannon,Hexdrinker,Boots of Swiftness,,7577,125714,Lane.bot_lane,Role.carry
+2,Aecinira,Thresh,True,Side.blue,2,1,25,27.0,29,Flash,Exhaust,15,False,10487,8600,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,,Boots of Swiftness,Forbidden Idol,10888,9251,Lane.bot_lane,Role.support
+3,Pianist,Syndra,True,Side.blue,14,3,3,5.666666666666667,236,Flash,Ghost,17,False,15328,11725,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,149373,8922,Lane.mid_lane,Role.solo
+4,sensei cat,Singed,True,Side.blue,1,8,22,2.875,234,Teleport,Ghost,18,False,13630,11300,The Dark Seal,Chain Vest,Righteous Glory,Rod of Ages,Rylai's Crystal Scepter,Boots of Swiftness,161572,10431,Lane.top_lane,Role.solo
+5,Danman96,Vayne,False,Side.red,3,10,4,0.7,218,Flash,Heal,14,True,10627,10075,Doran's Blade,Infinity Edge,Statikk Shiv,Zeal,Berserker's Greaves,Kircheis Shard,29434,69765,Lane.bot_lane,Role.carry
+6,Shockader,Cassiopeia,False,Side.red,5,10,7,1.2,144,Flash,Ghost,14,False,10406,9475,Abyssal Scepter,Rylai's Crystal Scepter,Lost Chapter,Tear of the Goddess,Doran's Ring,Fiendish Codex,89698,4461,Lane.mid_lane,Role.solo
+7,Cat Ears,Kennen,False,Side.red,1,7,6,1.0,79,Flash,Ignite,13,False,8992,8850,Abyssal Scepter,Eye of the Watchers,Hextech Protobelt-01,Sorcerer's Shoes,,,44568,8287,Lane.bot_lane,Role.support
+8,NaVi Juan,Nocturne,False,Side.red,9,9,2,1.2222222222222223,199,Smite,Flash,17,False,12936,12925,Ravenous Hydra,Duskblade of Draktharr,Hexdrinker,Long Sword,Enchantment: Warrior,Ninja Tabi,5756,179033,Lane.jungle,Role.none
+9,7788 ADC,Poppy,False,Side.red,4,7,5,1.2857142857142858,146,Teleport,Flash,14,False,10145,10075,Iceborn Gauntlet,Spirit Visage,Sunfire Cape,Ninja Tabi,,,21013,59846,Lane.top_lane,Role.solo

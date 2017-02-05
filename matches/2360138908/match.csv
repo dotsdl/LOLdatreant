@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xinthus,Leona,True,Side.blue,6,2,11,8.5,37,Exhaust,Flash,10,False,8621,7325,Total Biscuit of Rejuvenation,Control Ward,Face of the Mountain,Sightstone,Knight's Vow,Ninja Tabi,8803,7480,Lane.bot_lane,Role.support
+1,Subzeroark,Ivern,True,Side.blue,3,4,18,5.25,41,Flash,Smite,11,False,8273,6400,Redemption,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Refillable Potion,Chain Vest,8954,6952,Lane.jungle,Role.none
+2,Asyc xD ,Vayne,True,Side.blue,4,5,6,2.0,125,Heal,Flash,11,False,9074,7125,Doran's Blade,B. F. Sword,Cull,Berserker's Greaves,Pickaxe,Statikk Shiv,6667,63599,Lane.bot_lane,Role.carry
+3,goompa,Renekton,True,Side.blue,10,4,6,4.0,173,Teleport,Flash,13,True,11762,11425,Ninja Tabi,Caulfield's Warhammer,Titanic Hydra,Vampiric Scepter,Warden's Mail,The Black Cleaver,8150,120441,Lane.top_lane,Role.solo
+4,J D,Malzahar,True,Side.blue,8,3,7,5.0,160,Ghost,Flash,14,False,10630,8660,Ruby Crystal,Doran's Ring,Amplifying Tome,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,87448,23555,Lane.mid_lane,Role.solo
+5,KoreanDanny,Darius,False,Side.red,3,8,3,0.75,123,Teleport,Flash,11,False,7119,6650,The Black Cleaver,Corrupting Potion,Chain Vest,Giant's Belt,Mercury's Treads,Control Ward,275,63561,Lane.top_lane,Role.solo
+6,C9 Slim,Rek'Sai,False,Side.red,5,5,6,2.2,56,Smite,Flash,11,False,7279,6750,Refillable Potion,Enchantment: Cinderhulk,Tiamat,Mercury's Treads,Jaurim's Fist,Ruby Crystal,9975,54246,Lane.jungle,Role.none
+7,Malya EUW ,Yasuo,False,Side.red,7,7,2,1.2857142857142858,168,Flash,Ignite,13,False,9545,9100,Doran's Blade,Phantom Dancer,Infinity Edge,Jaurim's Fist,Mercury's Treads,,8381,94788,Lane.mid_lane,Role.solo
+8,dog baby,LeBlanc,False,Side.red,1,8,5,0.75,13,Flash,Ignite,9,False,5618,5125,Redemption,,Eye of the Watchers,Boots of Speed,,,10649,2061,Lane.bot_lane,Role.support
+9,RoMz,Sivir,False,Side.red,2,3,8,3.3333333333333335,117,Heal,Flash,11,False,7100,6750,Essence Reaver,Cull,Doran's Blade,Dagger,Brawler's Gloves,Berserker's Greaves,0,62091,Lane.bot_lane,Role.carry

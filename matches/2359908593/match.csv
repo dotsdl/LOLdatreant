@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sud83,Vi,True,Side.blue,0,0,1,1.0,71,Smite,Flash,8,False,4372,1600,Hunter's Machete,Refillable Potion,Caulfield's Warhammer,,,,0,42878,Lane.jungle,Role.none
+1,AzureAce,Thresh,True,Side.blue,0,0,0,0.0,18,Exhaust,Flash,6,False,3094,1075,Targon's Brace,Total Biscuit of Rejuvenation,Control Ward,,,,5395,6164,Lane.bot_lane,Role.duo
+2,CrazyStairs142,Varus,True,Side.blue,1,0,1,2.0,68,Heal,Flash,7,False,4141,3250,Doran's Blade,Caulfield's Warhammer,B. F. Sword,,,Boots of Speed,1835,23320,Lane.bot_lane,Role.duo
+3,xPresident,Galio,True,Side.blue,4,1,0,4.0,74,Teleport,Flash,8,True,5299,4525,Doran's Ring,Mercury's Treads,Abyssal Scepter,,,,29152,6600,Lane.top_lane,Role.solo
+4,Notice Me AOA,Lux,True,Side.blue,0,1,0,0.0,57,Flash,Barrier,7,False,3792,1750,Doran's Ring,Health Potion,Needlessly Large Rod,,,,19599,10712,Lane.mid_lane,Role.solo
+5,Iwillcarrybot,Karthus,False,Side.red,1,1,0,1.0,33,Flash,Exhaust,6,False,2552,2400,Doran's Ring,Sightstone,,,,,10009,1367,Lane.mid_lane,Role.solo
+6,potatorelated,Fizz,False,Side.red,0,1,0,0.0,26,Teleport,Flash,5,False,2116,1700,Cull,Corrupting Potion,Ruby Crystal,The Dark Seal,,,1202,3905,Lane.jungle,Role.none
+7,Cloudddd,Evelynn,False,Side.red,0,1,0,0.0,28,Flash,Smite,6,False,2548,2375,Boots of Speed,Tracker's Knife,Refillable Potion,Aether Wisp,,,12156,10567,Lane.jungle,Role.none
+8,PSYCHOPATH909,Veigar,False,Side.red,0,2,0,0.0,1,Flash,Exhaust,2,False,1603,500,Total Biscuit of Rejuvenation,Doran's Ring,,,,,525,858,Lane.top_lane,Role.solo
+9,Evolutionz,Caitlyn,False,Side.red,0,0,0,0.0,22,Heal,Flash,5,False,2027,500,Doran's Blade,,,,,,102,5573,Lane.bot_lane,Role.solo

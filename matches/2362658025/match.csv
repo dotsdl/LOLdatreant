@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZeroBlaze,Cassiopeia,True,Side.blue,10,3,5,5.0,174,Flash,Ghost,14,False,12219,9475,Morellonomicon,Abyssal Scepter,Seraph's Embrace,,Doran's Ring,Refillable Potion,107656,6942,Lane.mid_lane,Role.solo
+1,Rycah,Jayce,True,Side.blue,2,3,8,3.3333333333333335,197,Flash,Teleport,14,False,10097,8525,Ionian Boots of Lucidity,The Black Cleaver,The Bloodthirster,,,Doran's Blade,10292,102152,Lane.top_lane,Role.solo
+2,Eric1,Vayne,True,Side.blue,11,5,6,3.4,214,Heal,Flash,15,True,13625,10900,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Rapid Firecannon,Long Sword,42170,110569,Lane.bot_lane,Role.carry
+3,HvK DCStar,Janna,True,Side.blue,0,5,18,3.6,15,Flash,Exhaust,13,False,8583,6600,Eye of the Oasis,Boots of Mobility,Forbidden Idol,,Ruby Crystal,Redemption,5921,7946,Lane.bot_lane,Role.support
+4,Nick Diaz,Rammus,True,Side.blue,1,6,14,2.5,106,Flash,Smite,13,False,9277,7945,Enchantment: Cinderhulk,Raptor Cloak,Boots of Swiftness,Thornmail,Negatron Cloak,,60176,36328,Lane.jungle,Role.none
+5,Sorry Ur Noob,LeBlanc,False,Side.red,2,6,6,1.3333333333333333,145,Flash,Ignite,13,False,8991,8235,Void Staff,Morellonomicon,Amplifying Tome,The Dark Seal,Doran's Ring,Sorcerer's Shoes,62758,13249,Lane.mid_lane,Role.solo
+6,fnfn,Shyvana,False,Side.red,1,3,9,3.3333333333333335,148,Smite,Flash,14,False,9983,9450,Titanic Hydra,Spectre's Cowl,Kindlegem,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,69259,67590,Lane.jungle,Role.none
+7,Sìyou,Thresh,False,Side.red,2,5,11,2.6,24,Flash,Ignite,11,False,7511,6525,Knight's Vow,Eye of the Equinox,Control Ward,Boots of Mobility,Ruby Crystal,,10762,4414,Lane.bot_lane,Role.support
+8,PIay Naizi,Maokai,False,Side.red,10,3,5,5.0,182,Teleport,Flash,14,False,11812,11225,Doran's Ring,Sunfire Cape,Warden's Mail,Spirit Visage,Mercury's Treads,Frozen Heart,94083,10678,Lane.top_lane,Role.solo
+9,adc feng lft,Jinx,False,Side.red,7,7,5,1.7142857142857142,215,Heal,Flash,15,False,12009,11400,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Vampiric Scepter,,1973,141273,Lane.bot_lane,Role.carry

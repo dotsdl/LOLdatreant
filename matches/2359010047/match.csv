@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TSM MeNoHaxor,Karma,False,Side.blue,4,9,6,1.1111111111111112,6,Exhaust,Flash,10,False,7376,6750,Eye of the Watchers,Boots of Mobility,Redemption,Forbidden Idol,Control Ward,,10540,3023,Lane.bot_lane,Role.support
+1,Anivia Kid,Singed,False,Side.blue,1,4,7,2.0,187,Ghost,Teleport,14,False,8932,8300,Boots of Swiftness,Catalyst of Aeons,Locket of the Iron Solari,Sunfire Cape,The Dark Seal,Corrupting Potion,111430,5194,Lane.top_lane,Role.solo
+2,TeddyRO,Caitlyn,False,Side.blue,4,9,4,0.8888888888888888,170,Flash,Heal,12,False,8945,8800,Runaan's Hurricane,Infinity Edge,Vampiric Scepter,Berserker's Greaves,Doran's Blade,,203,99438,Lane.bot_lane,Role.carry
+3,IKingVex,Lee Sin,False,Side.blue,5,6,5,1.6666666666666667,143,Smite,Flash,13,True,9034,8475,Null-Magic Mantle,Tiamat,Ruby Sightstone,Enchantment: Cinderhulk,Mercury's Treads,Jaurim's Fist,26036,74535,Lane.jungle,Role.none
+4,Strompest,Syndra,False,Side.blue,3,10,5,0.8,151,Flash,Ghost,12,False,8554,8425,Refillable Potion,Doran's Ring,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,Blasting Wand,76737,6871,Lane.mid_lane,Role.solo
+5,1936 1948,Shaco,True,Side.red,8,4,11,4.75,99,Smite,Ignite,15,False,11645,10575,Titanic Hydra,Enchantment: Warrior,Hextech Gunblade,,Boots of Mobility,,27985,89643,Lane.jungle,Role.none
+6,Quaal,Fizz,True,Side.red,11,3,5,5.333333333333333,189,Flash,Teleport,15,False,13168,11820,Lich Bane,Fiendish Codex,The Dark Seal,Seeker's Armguard,Sorcerer's Shoes,Rabadon's Deathcap,98789,24811,Lane.mid_lane,Role.solo
+7,ókay,Jhin,True,Side.red,7,3,13,6.666666666666667,197,Heal,Flash,15,False,12452,11500,Doran's Blade,Rapid Firecannon,Ionian Boots of Lucidity,Essence Reaver,Infinity Edge,,6198,139025,Lane.bot_lane,Role.carry
+8,CloudNguyén,Bard,True,Side.red,7,4,17,6.0,22,Ignite,Flash,13,False,10710,9200,Eye of the Watchers,Locket of the Iron Solari,Redemption,Boots of Mobility,Sheen,Cloth Armor,21383,8399,Lane.bot_lane,Role.support
+9,BillyBoss1,Nautilus,True,Side.red,5,3,10,5.0,142,Flash,Teleport,13,False,10346,9275,Corrupting Potion,Cloth Armor,Spirit Visage,Sunfire Cape,Mercury's Treads,Sheen,68640,22227,Lane.top_lane,Role.solo

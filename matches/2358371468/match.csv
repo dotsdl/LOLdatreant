@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hashinshin,Yorick,True,Side.blue,6,3,3,3.0,169,Flash,Teleport,15,False,11295,9908,Corrupting Potion,Trinity Force,Mercury's Treads,Dead Man's Plate,Spectre's Cowl,Ruby Crystal,25267,105901,Lane.top_lane,Role.solo
+1,godrjsdnd,Corki,True,Side.blue,13,5,6,3.8,140,Heal,Flash,14,False,12786,11383,Doran's Blade,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,Rapid Firecannon,,86259,25035,Lane.mid_lane,Role.solo
+2,IHateD2Players,Thresh,True,Side.blue,1,4,11,3.0,27,Flash,Exhaust,11,False,7655,7475,Redemption,Locket of the Iron Solari,Sightstone,Boots of Mobility,Targon's Brace,Control Ward,10818,5671,Lane.bot_lane,Role.support
+3,Xandergod,Vayne,True,Side.blue,9,4,6,3.75,162,Flash,Heal,13,False,12075,10350,Doran's Blade,Bilgewater Cutlass,Berserker's Greaves,Infinity Edge,Recurve Bow,Statikk Shiv,13743,93692,Lane.bot_lane,Role.carry
+4,I Starboy l,Elise,True,Side.blue,3,3,10,4.333333333333333,86,Smite,Flash,13,True,9876,13560,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,69349,20385,Lane.jungle,Role.none
+5,Andreuss,Twitch,False,Side.red,3,9,7,1.1111111111111112,79,Flash,Heal,11,False,6890,5575,Doran's Blade,Cull,Runaan's Hurricane,Berserker's Greaves,,Pickaxe,0,44350,Lane.bot_lane,Role.carry
+6,Shrew,Shaco,False,Side.red,2,6,6,1.3333333333333333,117,Ignite,Teleport,13,False,7358,7125,Hextech Protobelt-01,Doran's Ring,The Dark Seal,Lich Bane,Corrupting Potion,,49584,25552,Lane.top_lane,Role.solo
+7,Nhock,Rumble,False,Side.red,9,4,8,4.25,167,Smite,Flash,14,False,10551,10300,Hextech Protobelt-01,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Liandry's Torment,Blasting Wand,109804,12658,Lane.jungle,Role.none
+8,Bes,Karma,False,Side.red,1,6,12,2.1666666666666665,20,Exhaust,Flash,11,False,6525,6075,Ionian Boots of Lucidity,Frostfang,Sightstone,Redemption,Fiendish Codex,,17989,5145,Lane.bot_lane,Role.support
+9,Témpest,Yasuo,False,Side.red,4,7,7,1.5714285714285714,158,Flash,Exhaust,12,False,8466,8400,Frozen Mallet,,Phantom Dancer,Doran's Blade,Boots of Speed,B. F. Sword,21150,75323,Lane.mid_lane,Role.solo

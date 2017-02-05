@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Barclay snoopy,Twitch,True,Side.blue,8,3,5,4.333333333333333,223,Heal,Flash,14,False,13199,11350,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,Vampiric Scepter,Runaan's Hurricane,0,145257,Lane.bot_lane,Role.carry
+1,Barclay Kaina,Lee Sin,True,Side.blue,3,2,9,6.0,87,Flash,Smite,13,False,10152,8395,Enchantment: Warrior,Refillable Potion,Chain Vest,Boots of Mobility,Dead Man's Plate,Negatron Cloak,10924,86178,Lane.jungle,Role.none
+2,Horny Pix,Soraka,True,Side.blue,0,1,17,17.0,27,Flash,Exhaust,13,False,9474,7725,Control Ward,Redemption,Eye of the Oasis,Boots of Mobility,,Banshee's Veil,11153,4987,Lane.bot_lane,Role.support
+3,ACuteKoreanGirI,Yasuo,True,Side.blue,11,4,8,4.75,234,Exhaust,Flash,16,False,15287,12575,B. F. Sword,Guardian Angel,Phantom Dancer,Mercury's Treads,Infinity Edge,Vampiric Scepter,24198,160375,Lane.mid_lane,Role.solo
+4,Kebin M,Riven,True,Side.blue,5,4,6,2.75,206,Flash,Teleport,16,False,12155,10050,Ravenous Hydra,Caulfield's Warhammer,Hexdrinker,Boots of Speed,The Black Cleaver,Cloth Armor,3004,145427,Lane.top_lane,Role.solo
+5,sSKenshinSs,Vel'Koz,False,Side.red,2,7,5,1.0,180,Exhaust,Flash,14,False,8652,8025,Doran's Ring,Control Ward,,Sorcerer's Shoes,Morellonomicon,Liandry's Torment,86680,6837,Lane.mid_lane,Role.solo
+6,Grande Donger,Taric,False,Side.red,1,4,6,1.75,44,Flash,Ignite,11,False,6852,6300,Eye of the Equinox,Locket of the Iron Solari,Ionian Boots of Lucidity,Cloth Armor,Faerie Charm,Faerie Charm,7968,6029,Lane.bot_lane,Role.support
+7,Al Palladini,Shaco,False,Side.red,4,8,3,0.875,86,Smite,Flash,12,True,8133,7675,Titanic Hydra,Refillable Potion,Berserker's Greaves,,,Enchantment: Warrior,21634,61624,Lane.jungle,Role.none
+8,Some Fruit,Jayce,False,Side.red,5,3,2,2.3333333333333335,247,Teleport,Flash,16,False,10706,10575,Doran's Blade,B. F. Sword,Ninja Tabi,The Black Cleaver,Doran's Blade,Duskblade of Draktharr,16933,101672,Lane.top_lane,Role.solo
+9,SnowfaII,Jhin,False,Side.red,1,5,2,0.6,198,Heal,Flash,13,False,8835,8650,Total Biscuit of Rejuvenation,Last Whisper,Rapid Firecannon,Boots of Speed,Doran's Blade,Essence Reaver,5058,90488,Lane.bot_lane,Role.carry

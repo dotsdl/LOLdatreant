@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Old Man Lohpally,Soraka,True,Side.blue,1,4,30,7.75,13,Exhaust,Flash,16,False,11675,9675,Mikael's Crucible,Locket of the Iron Solari,Redemption,Eye of the Oasis,Control Ward,Ionian Boots of Lucidity,9650,5958,Lane.bot_lane,Role.support
+1,Licorice,Vayne,True,Side.blue,10,7,10,2.857142857142857,212,Flash,Heal,16,False,14508,13050,Statikk Shiv,Berserker's Greaves,The Bloodthirster,Infinity Edge,Zeal,Control Ward,39548,110503,Lane.bot_lane,Role.carry
+2,Révenge,Ryze,True,Side.blue,18,9,11,3.2222222222222223,213,Ghost,Flash,18,False,17875,16825,Seraph's Embrace,Void Staff,Rabadon's Deathcap,Sorcerer's Shoes,Abyssal Scepter,Rod of Ages,208400,11809,Lane.mid_lane,Role.solo
+3,kms myself,Zac,True,Side.blue,7,5,19,5.2,134,Smite,Flash,17,False,13693,13300,Enchantment: Cinderhulk,Randuin's Omen,Ninja Tabi,Spirit Visage,Thornmail,Ruby Crystal,125860,19691,Lane.jungle,Role.none
+4,CLG Darshawn,Yasuo,True,Side.blue,12,7,12,3.4285714285714284,222,Teleport,Flash,17,False,15604,14450,Guardian Angel,Vampiric Scepter,Phantom Dancer,Frozen Mallet,Ninja Tabi,Infinity Edge,36478,127240,Lane.top_lane,Role.solo
+5,Dhokla,Jayce,False,Side.red,9,7,5,2.0,279,Flash,Teleport,18,True,15239,14350,Youmuu's Ghostblade,Hexdrinker,,The Bloodthirster,Ninja Tabi,The Black Cleaver,32798,179398,Lane.top_lane,Role.solo
+6,Liquid fabbbyyy,Fizz,False,Side.red,5,14,7,0.8571428571428571,113,Flash,Ignite,14,False,10513,10000,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Lich Bane,Blasting Wand,55211,23910,Lane.mid_lane,Role.solo
+7,windking66,Bard,False,Side.red,5,10,10,1.5,22,Ignite,Flash,13,False,10275,9350,Knight's Vow,Locket of the Iron Solari,Eye of the Watchers,Kindlegem,Boots of Mobility,Ruby Crystal,21343,5393,Lane.bot_lane,Role.support
+8,Doublelift,Lee Sin,False,Side.red,6,5,10,3.2,189,Flash,Smite,16,False,13142,12225,Tiamat,Randuin's Omen,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Spectre's Cowl,23936,148581,Lane.jungle,Role.none
+9,Stixxay,Draven,False,Side.red,7,12,11,1.5,216,Heal,Flash,15,False,14422,14635,Mercurial Scimitar,Berserker's Greaves,Lord Dominik's Regards,,Infinity Edge,Statikk Shiv,29972,118306,Lane.bot_lane,Role.carry

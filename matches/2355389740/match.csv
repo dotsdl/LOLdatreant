@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,We Win Late Game,Janna,True,Side.blue,1,2,15,8.0,10,Flash,Exhaust,11,False,8186,6775,Eye of the Oasis,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,,4122,4513,Lane.bot_lane,Role.support
+1,GcYoshi13,Sion,True,Side.blue,10,4,10,5.0,152,Flash,Teleport,14,False,12443,10875,Corrupting Potion,Sunfire Cape,Sterak's Gage,Iceborn Gauntlet,Ninja Tabi,Giant's Belt,42132,68995,Lane.top_lane,Role.solo
+2,Scene,Jhin,True,Side.blue,5,3,14,6.333333333333333,123,Heal,Flash,13,False,10417,9325,Total Biscuit of Rejuvenation,Rapid Firecannon,Essence Reaver,Pickaxe,Boots of Swiftness,,3515,75430,Lane.bot_lane,Role.carry
+3,Zv Pickle,Orianna,True,Side.blue,10,2,9,9.5,179,Flash,Ghost,13,False,12068,9610,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Amplifying Tome,Needlessly Large Rod,102006,12985,Lane.mid_lane,Role.solo
+4,Rhaby,Shaco,True,Side.blue,5,4,4,2.25,94,Ignite,Smite,13,False,10321,9725,Ravenous Hydra,Refillable Potion,Ninja Tabi,Enchantment: Warrior,Caulfield's Warhammer,Phage,25611,85270,Lane.jungle,Role.none
+5,Shwip,Poppy,False,Side.red,2,6,4,1.0,138,Flash,Teleport,12,False,7898,7600,Sunfire Cape,Boots of Speed,Corrupting Potion,Iceborn Gauntlet,Spectre's Cowl,,24339,53172,Lane.top_lane,Role.solo
+6,ZagrE,Rek'Sai,False,Side.red,5,5,6,2.2,174,Flash,Smite,14,True,10417,9325,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,Giant's Belt,Chain Vest,21194,105366,Lane.jungle,Role.none
+7,Haamil,Twitch,False,Side.red,6,5,2,1.6,130,Flash,Heal,11,False,8824,8775,Doran's Blade,Runaan's Hurricane,Infinity Edge,Cull,Dagger,Berserker's Greaves,482,53845,Lane.bot_lane,Role.carry
+8,Jugglersnort,Lulu,False,Side.red,1,9,9,1.1111111111111112,90,Flash,Teleport,11,False,7013,6875,Forbidden Idol,Corrupting Potion,Ionian Boots of Lucidity,Morellonomicon,Aether Wisp,The Dark Seal,40977,11826,Lane.mid_lane,Role.solo
+9,Tangerinezz,Bard,False,Side.red,1,7,7,1.1428571428571428,9,Exhaust,Flash,10,False,5956,4725,Eye of the Watchers,Refillable Potion,Aegis of the Legion,Boots of Mobility,Control Ward,,7487,1756,Lane.bot_lane,Role.support

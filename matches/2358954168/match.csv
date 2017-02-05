@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IKingVex,Lucian,False,Side.blue,2,7,1,0.42857142857142855,153,Heal,Flash,11,False,6917,6050,Doran's Blade,Refillable Potion,Essence Reaver,Dagger,Berserker's Greaves,Brawler's Gloves,1502,64299,Lane.bot_lane,Role.carry
+1,PSYCHOPATH909,Veigar,False,Side.blue,0,2,1,0.5,134,Flash,Exhaust,11,False,6035,5775,Morellonomicon,Control Ward,Spectre's Cowl,Sorcerer's Shoes,,Doran's Ring,37427,13768,Lane.mid_lane,Role.solo
+2,1936 1948,Blitzcrank,False,Side.blue,0,6,5,0.8333333333333334,15,Ignite,Flash,9,False,4910,4350,Relic Shield,Boots of Mobility,Ruby Sightstone,Aegis of the Legion,,,6381,3432,Lane.bot_lane,Role.support
+3,moon o,Lee Sin,False,Side.blue,4,9,0,0.4444444444444444,59,Smite,Flash,9,False,6034,4850,Boots of Mobility,Refillable Potion,Serrated Dirk,Enchantment: Warrior,,,8877,43021,Lane.jungle,Role.none
+4,McCashDollar,Shaco,False,Side.blue,2,6,1,0.5,106,Teleport,Ignite,11,False,6171,5850,Control Ward,Hextech Protobelt-01,Phage,Corrupting Potion,The Dark Seal,Ninja Tabi,24155,19386,Lane.top_lane,Role.solo
+5,Naeun,Syndra,True,Side.red,4,2,5,4.5,157,Cleanse,Flash,13,False,8693,12550,Morellonomicon,Boots of Swiftness,Luden's Echo,Doran's Ring,Doran's Ring,,76002,9280,Lane.jungle,Role.none
+6,urwong,Bard,True,Side.red,5,1,14,19.0,12,Exhaust,Flash,11,True,8212,6175,Frostfang,Sightstone,Locket of the Iron Solari,Boots of Swiftness,Cloth Armor,Crystalline Bracer,8979,5715,Lane.jungle,Role.none
+7,An Obese Panda,Gragas,True,Side.red,5,2,10,7.5,73,Smite,Flash,12,False,8887,7350,Enchantment: Runic Echoes,Dead Man's Plate,Ruby Crystal,Ionian Boots of Lucidity,Cloth Armor,,57556,20790,Lane.jungle,Role.none
+8,C9 Smoothie,Ezreal,True,Side.red,10,1,9,19.0,176,Flash,Heal,13,False,11729,10103,B. F. Sword,Muramana,,Ionian Boots of Lucidity,Trinity Force,,16637,93439,Lane.bot_lane,Role.solo
+9,Cris,Yasuo,True,Side.red,6,2,1,3.5,173,Flash,Teleport,13,False,9181,6625,Refillable Potion,Cloak of Agility,B. F. Sword,Mercury's Treads,Phantom Dancer,Doran's Blade,23218,83748,Lane.top_lane,Role.solo

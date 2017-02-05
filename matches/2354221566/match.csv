@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MyTeamSoGOD,Poppy,True,Side.blue,1,0,5,6.0,95,Flash,Teleport,10,False,6173,4575,Sunfire Cape,,Corrupting Potion,Ninja Tabi,,,15191,30943,Lane.top_lane,Role.solo
+1,BIind Goat,Syndra,True,Side.blue,4,2,2,3.0,97,Ghost,Flash,10,False,6525,5135,Doran's Ring,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,,,40778,7166,Lane.mid_lane,Role.solo
+2,iDontCareX,Lee Sin,True,Side.blue,4,0,4,8.0,47,Smite,Flash,9,True,6272,4850,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Cloth Armor,Cloth Armor,Cloth Armor,8298,46848,Lane.jungle,Role.none
+3,Cat Person,Lulu,True,Side.blue,4,0,3,7.0,9,Flash,Heal,8,False,5285,4175,Crystalline Bracer,Sightstone,Forbidden Idol,Frostfang,Null-Magic Mantle,Boots of Speed,6846,4433,Lane.bot_lane,Role.duo
+4,Falco Mechanic,Sivir,True,Side.blue,2,1,4,6.0,127,Exhaust,Flash,9,False,6790,5300,Doran's Blade,Infinity Edge,Berserker's Greaves,,,,453,68420,Lane.bot_lane,Role.duo
+5,ZambonGG,LeBlanc,False,Side.red,1,4,0,0.25,81,Flash,Ignite,9,False,4241,5335,Boots of Mobility,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,28963,5770,Lane.mid_lane,Role.solo
+6,RealDarkness,Vi,False,Side.red,0,3,1,0.3333333333333333,80,Smite,Flash,9,False,4295,3875,Enchantment: Warrior,Refillable Potion,Ninja Tabi,,,,1602,49516,Lane.jungle,Role.none
+7,LegitADC,Caitlyn,False,Side.red,1,4,0,0.25,82,Heal,Flash,7,False,4304,4025,Total Biscuit of Rejuvenation,Control Ward,Berserker's Greaves,B. F. Sword,Doran's Blade,Pickaxe,485,34124,Lane.bot_lane,Role.duo
+8,Boolt,Janna,False,Side.red,0,2,1,0.5,2,Flash,Exhaust,7,False,3202,2450,Nomad's Medallion,Refillable Potion,Faerie Charm,Sightstone,,Boots of Speed,1816,2522,Lane.bot_lane,Role.duo
+9,Maxcorsa,Jayce,False,Side.red,1,2,0,0.5,83,Flash,Teleport,9,False,4473,3900,,Health Potion,,Youmuu's Ghostblade,Tear of the Goddess,,2861,33460,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Annie Bot,Annie,False,Side.blue,2,5,4,1.2,117,Ignite,Flash,11,False,6127,5610,Doran's Ring,Ionian Boots of Lucidity,Abyssal Scepter,Amplifying Tome,Blasting Wand,,40379,6993,Lane.mid_lane,Role.solo
+1,bvcx222,Thresh,False,Side.blue,0,5,7,1.4,25,Flash,Exhaust,9,False,4885,4375,Ruby Sightstone,Total Biscuit of Rejuvenation,Relic Shield,Kindlegem,,Boots of Swiftness,5311,3315,Lane.bot_lane,Role.support
+2,Slapo,Elise,False,Side.blue,1,5,2,0.6,80,Smite,Flash,11,False,5754,5325,Refillable Potion,Enchantment: Runic Echoes,Mercury's Treads,,Giant's Belt,Cloth Armor,40813,18565,Lane.jungle,Role.none
+3,CraacK,Jhin,False,Side.blue,1,5,0,0.2,106,Flash,Heal,9,False,5622,4800,Boots of Speed,Dagger,,,Essence Reaver,Doran's Blade,625,40141,Lane.bot_lane,Role.carry
+4,The Coldshroom,Teemo,False,Side.blue,5,7,1,0.8571428571428571,135,Ignite,Flash,11,True,7449,7325,Liandry's Torment,Doran's Ring,Spectre's Cowl,Hextech Revolver,Sorcerer's Shoes,,47918,17273,Lane.top_lane,Role.solo
+5,SKY Fear,Malphite,True,Side.red,3,1,1,4.0,155,Flash,Teleport,13,False,9044,8350,Doran's Ring,Iceborn Gauntlet,Doran's Ring,Spirit Visage,Ninja Tabi,Null-Magic Mantle,41715,32902,Lane.top_lane,Role.solo
+6,Life,Sivir,True,Side.red,2,1,13,15.0,152,Flash,Heal,13,False,9662,8925,Refillable Potion,Statikk Shiv,Essence Reaver,Doran's Blade,Cloak of Agility,Berserker's Greaves,3888,81589,Lane.bot_lane,Role.carry
+7,Asyc xD ,Bard,True,Side.red,0,3,10,3.3333333333333335,7,Exhaust,Flash,10,False,6676,5500,Frostfang,Sightstone,Redemption,Boots of Mobility,Cloth Armor,,9992,3414,Lane.bot_lane,Role.support
+8,Firé,Rengar,True,Side.red,13,1,3,16.0,141,Smite,Flash,14,False,11933,10625,The Black Cleaver,Giant's Belt,Spectre's Cowl,Mercury's Treads,Enchantment: Warrior,Hexdrinker,7249,120091,Lane.jungle,Role.none
+9,ZambonGG,LeBlanc,True,Side.red,9,3,3,4.0,130,Flash,Ignite,13,False,9378,7925,Doran's Ring,Needlessly Large Rod,Refillable Potion,Abyssal Scepter,Boots of Speed,Morellonomicon,68443,7717,Lane.mid_lane,Role.solo

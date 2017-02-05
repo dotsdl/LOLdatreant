@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Feitan,Maokai,True,Side.blue,6,1,6,12.0,222,Teleport,Flash,15,True,12276,10500,Mercury's Treads,Corrupting Potion,Sunfire Cape,Randuin's Omen,Spirit Visage,Cloth Armor,115106,21909,Lane.top_lane,Role.solo
+1,MRTONERBONER,Vi,True,Side.blue,9,3,9,6.0,140,Smite,Flash,15,False,12394,10358,Enchantment: Warrior,Trinity Force,Jaurim's Fist,Boots of Swiftness,Tiamat,Ruby Crystal,3191,150664,Lane.jungle,Role.none
+2,Lucidity,Thresh,True,Side.blue,0,2,21,10.5,22,Flash,Ignite,12,False,8444,7075,Face of the Mountain,Sightstone,Locket of the Iron Solari,Boots of Mobility,Ruby Crystal,,8034,3483,Lane.bot_lane,Role.support
+3,rat fink boy,Caitlyn,True,Side.blue,13,2,7,10.0,202,Heal,Flash,14,False,13973,11975,Doran's Blade,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Hexdrinker,2581,153792,Lane.bot_lane,Role.carry
+4,VeeIox,Syndra,True,Side.blue,13,6,8,3.5,147,Ghost,Flash,15,False,12888,11235,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,Doran's Ring,Void Staff,Morellonomicon,98927,11782,Lane.mid_lane,Role.solo
+5,Walljumper,Vel'Koz,False,Side.red,0,7,6,0.8571428571428571,74,Exhaust,Flash,12,False,7956,7275,Sightstone,Total Biscuit of Rejuvenation,Frostfang,Boots of Mobility,Liandry's Torment,Needlessly Large Rod,46720,3960,Lane.bot_lane,Role.support
+6,Beautiful Korean,Shaco,False,Side.red,3,6,4,1.1666666666666667,106,Smite,Ignite,12,False,8196,6950,Stalker's Blade,Tiamat,Berserker's Greaves,Hunter's Potion,Duskblade of Draktharr,,21470,63664,Lane.jungle,Role.none
+7,Wazabiee,LeBlanc,False,Side.red,7,7,3,1.4285714285714286,121,Ignite,Flash,13,False,9225,9275,Morellonomicon,Rabadon's Deathcap,The Dark Seal,Doran's Ring,,Sorcerer's Shoes,59809,6730,Lane.mid_lane,Role.solo
+8,Darmous,Corki,False,Side.red,4,11,2,0.5454545454545454,126,Flash,Heal,12,False,8579,8033,Hextech Gunblade,Doran's Blade,Trinity Force,Boots of Speed,,,50209,19801,Lane.bot_lane,Role.carry
+9,Niles,Nautilus,False,Side.red,0,10,2,0.2,160,Flash,Teleport,12,False,8013,7200,Corrupting Potion,Zz'Rot Portal,Mercury's Treads,Bami's Cinder,Chain Vest,Giant's Belt,51645,20401,Lane.top_lane,Role.solo

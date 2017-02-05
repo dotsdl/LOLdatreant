@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Celend,Viktor,True,Side.blue,7,2,4,5.5,202,Flash,Ghost,15,False,12185,8410,Refillable Potion,Perfect Hex Core,Amplifying Tome,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,129583,15168,Lane.mid_lane,Role.solo
+1,Virus,Twitch,True,Side.blue,8,4,6,3.5,248,Heal,Flash,16,False,14647,12400,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,B. F. Sword,500,198227,Lane.bot_lane,Role.none
+2,sorrymybad1,Maokai,True,Side.blue,1,6,9,1.6666666666666667,115,Flash,Teleport,13,False,9179,7700,Doran's Shield,Refillable Potion,Sunfire Cape,Dead Man's Plate,Mercury's Treads,,55192,12074,Lane.top_lane,Role.solo
+3,Nash,Lux,True,Side.blue,6,5,13,3.8,29,Exhaust,Flash,12,False,10484,8625,Sightstone,Morellonomicon,Frost Queen's Claim,Mejai's Soulstealer,,Sorcerer's Shoes,32246,4939,Lane.bot_lane,Role.none
+4,Silas Kroeger,Zac,True,Side.blue,3,2,12,7.5,173,Smite,Flash,15,False,11117,8195,Enchantment: Cinderhulk,Ninja Tabi,Refillable Potion,Spirit Visage,Chain Vest,Negatron Cloak,116946,24405,Lane.bot_lane,Role.none
+5,Turc,Ashe,False,Side.red,5,6,2,1.1666666666666667,178,Heal,Flash,12,False,9726,9100,Doran's Blade,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,Pickaxe,,3084,89747,Lane.bot_lane,Role.carry
+6,Joelisboss,Orianna,False,Side.red,3,5,7,2.0,145,Ghost,Flash,13,False,9259,8600,Doran's Ring,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Total Biscuit of Rejuvenation,82102,10873,Lane.mid_lane,Role.solo
+7,lc0nic,Rek'Sai,False,Side.red,7,1,4,11.0,200,Flash,Smite,15,True,12121,10875,Enchantment: Cinderhulk,Cloth Armor,Titanic Hydra,Mercury's Treads,Spirit Visage,Ruby Crystal,36212,119700,Lane.jungle,Role.none
+8,The Tank Man,Janna,False,Side.red,0,7,9,1.2857142857142858,9,Flash,Exhaust,11,False,7272,6950,Eye of the Oasis,Ardent Censer,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,,3554,2043,Lane.bot_lane,Role.support
+9,Fake Carry,Renekton,False,Side.red,4,6,5,1.5,213,Teleport,Flash,14,False,10619,10400,The Black Cleaver,Tiamat,,Spectre's Cowl,Dead Man's Plate,Boots of Swiftness,3211,113007,Lane.top_lane,Role.solo

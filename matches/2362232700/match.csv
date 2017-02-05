@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xRequiem,Twitch,True,Side.blue,15,8,14,3.625,230,Heal,Flash,17,True,16979,14600,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Statikk Shiv,Lord Dominik's Regards,B. F. Sword,17686,163591,Lane.bot_lane,Role.duo
+1,II AN doG ll,Nidalee,True,Side.blue,10,9,9,2.111111111111111,132,Flash,Smite,16,False,12866,10900,Refillable Potion,Fiendish Codex,Iceborn Gauntlet,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Ionian Boots of Lucidity,128150,24056,Lane.jungle,Role.none
+2,Peridot,Vel'Koz,True,Side.blue,15,1,10,25.0,62,Exhaust,Flash,14,False,13433,11950,Eye of the Watchers,Zhonya's Hourglass,Needlessly Large Rod,Sorcerer's Shoes,Liandry's Torment,Aether Wisp,54147,5759,Lane.bot_lane,Role.duo
+3,OUT DO YA,Viktor,True,Side.blue,3,9,6,1.0,159,Flash,Ghost,14,False,10902,10060,Luden's Echo,Perfect Hex Core,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Amplifying Tome,85021,12120,Lane.mid_lane,Role.solo
+4,Dyrus,Garen,True,Side.blue,3,3,3,2.0,209,Teleport,Flash,15,False,11354,10150,The Black Cleaver,Refillable Potion,Cloth Armor,Sterak's Gage,Dead Man's Plate,Mercury's Treads,3291,120263,Lane.top_lane,Role.solo
+5,Koby,Maokai,False,Side.red,4,5,10,2.8,214,Flash,Teleport,16,False,10777,10200,Warden's Mail,Doran's Ring,Giant's Belt,Sunfire Cape,Ninja Tabi,Spirit Visage,111577,16662,Lane.top_lane,Role.solo
+6,Sheiden,Kennen,False,Side.red,7,8,8,1.875,34,Exhaust,Flash,13,False,9299,8975,Eye of the Watchers,Hextech Protobelt-01,Ionian Boots of Lucidity,Abyssal Scepter,,,21314,6351,Lane.bot_lane,Role.support
+7,zT ace,Lee Sin,False,Side.red,12,9,4,1.7777777777777777,98,Smite,Flash,15,False,11298,11300,Randuin's Omen,Enchantment: Warrior,Tiamat,Ninja Tabi,Maw of Malmortius,,16223,82138,Lane.jungle,Role.none
+8,mandatorycloud,Varus,False,Side.red,7,9,8,1.6666666666666667,170,Flash,Ghost,14,False,10929,10675,Corrupting Potion,Youmuu's Ghostblade,Manamune,Ionian Boots of Lucidity,Maw of Malmortius,Long Sword,5463,95025,Lane.mid_lane,Role.solo
+9,Imaokai,Caitlyn,False,Side.red,0,15,7,0.4666666666666667,139,Heal,Flash,12,False,8925,8300,Doran's Blade,Cull,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,906,81405,Lane.bot_lane,Role.carry

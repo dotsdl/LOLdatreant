@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keyboard Romeo,Viktor,True,Side.blue,4,10,2,0.6,153,Flash,Ghost,14,False,11105,10850,Ionian Boots of Lucidity,Abyssal Scepter,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Perfect Hex Core,76454,12711,Lane.mid_lane,Role.solo
+1,WatchThePower,Rengar,True,Side.blue,9,2,5,7.0,232,Flash,Smite,17,False,15660,15400,Enchantment: Warrior,Ravenous Hydra,Ninja Tabi,Chain Vest,Death's Dance,Spirit Visage,33557,188716,Lane.jungle,Role.none
+2,CaliLegend,Yorick,True,Side.blue,1,4,2,0.75,186,Flash,Teleport,14,False,11311,10133,Tiamat,Doran's Blade,Trinity Force,Control Ward,Boots of Swiftness,Zz'Rot Portal,21788,105587,Lane.top_lane,Role.solo
+3,LittleChimp,Tahm Kench,True,Side.blue,2,5,13,3.0,34,Exhaust,Flash,14,False,10542,9275,Knight's Vow,Eye of the Equinox,Locket of the Iron Solari,Mercury's Treads,Glacial Shroud,,11477,7515,Lane.bot_lane,Role.support
+4,Pytrigon,Vayne,True,Side.blue,10,2,8,9.0,263,Heal,Flash,16,False,16141,15500,Quicksilver Sash,Infinity Edge,The Bloodthirster,Berserker's Greaves,Statikk Shiv,Phantom Dancer,52705,148550,Lane.bot_lane,Role.carry
+5,Oroshi,Kha'Zix,False,Side.red,4,4,8,3.0,218,Teleport,Flash,15,False,11175,10675,Phage,Ravenous Hydra,Caulfield's Warhammer,Ninja Tabi,Duskblade of Draktharr,,4017,122564,Lane.top_lane,Role.solo
+6,Aisonu,Malzahar,False,Side.red,3,4,9,3.0,178,Flash,Ghost,15,False,10515,10025,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Control Ward,Haunting Guise,99949,24663,Lane.mid_lane,Role.solo
+7,WLP Brownie,Alistar,False,Side.red,1,6,13,2.3333333333333335,11,Exhaust,Flash,13,False,8389,7900,Talisman of Ascension,Boots of Swiftness,Ruby Sightstone,Zeke's Harbinger,,Control Ward,10475,3447,Lane.bot_lane,Role.support
+8,Hanzbro,Caitlyn,False,Side.red,4,8,5,1.125,216,Heal,Flash,14,False,11470,10950,Doran's Blade,Cull,Runaan's Hurricane,Infinity Edge,Mortal Reminder,Berserker's Greaves,295,146484,Lane.bot_lane,Role.carry
+9,i goZed or Yasuo,Graves,False,Side.red,11,5,7,3.6,192,Flash,Smite,15,True,13173,12200,Enchantment: Warrior,Last Whisper,Berserker's Greaves,The Black Cleaver,Phantom Dancer,,2675,163901,Lane.jungle,Role.none

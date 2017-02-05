@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Finna Lit,Graves,True,Side.blue,8,2,4,6.0,99,Smite,Flash,12,False,8717,5400,Enchantment: Warrior,Phantom Dancer,,,,,4029,89641,Lane.jungle,Role.none
+1,jìmmy,Ahri,True,Side.blue,6,1,5,11.0,118,Ignite,Flash,11,False,8295,6900,Refillable Potion,,,Luden's Echo,Morellonomicon,Doran's Ring,40065,11319,Lane.mid_lane,Role.solo
+2,YlKES,Bard,True,Side.blue,1,2,9,5.0,3,Ignite,Flash,8,False,5268,4450,Eye of the Watchers,Refillable Potion,Control Ward,Forbidden Idol,,Boots of Mobility,4514,2826,Lane.bot_lane,Role.support
+3,camtheham,Caitlyn,True,Side.blue,6,0,2,8.0,132,Heal,Flash,10,False,8111,6450,Control Ward,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Pickaxe,Doran's Blade,324,64965,Lane.bot_lane,Role.carry
+4,amumumu,Dr. Mundo,True,Side.blue,2,1,5,7.0,103,Flash,Teleport,11,True,6886,5850,Doran's Shield,Refillable Potion,Zz'Rot Portal,Ninja Tabi,Bami's Cinder,Cloth Armor,38272,20984,Lane.top_lane,Role.solo
+5,Whisper,Jhin,False,Side.red,1,5,1,0.4,102,Heal,Flash,9,False,5056,4450,Cull,Boots of Swiftness,,Doran's Blade,B. F. Sword,Caulfield's Warhammer,354,46267,Lane.bot_lane,Role.carry
+6,Darvec,Hecarim,False,Side.red,3,5,2,1.0,58,Smite,Ghost,8,False,5002,4050,Skirmisher's Sabre,Refillable Potion,Sheen,Boots of Speed,Phage,Dagger,6036,33442,Lane.jungle,Role.none
+7,TwistyJuker,Thresh,False,Side.red,0,4,1,0.25,18,Flash,Exhaust,7,False,3113,2575,Refillable Potion,Sightstone,Control Ward,,Relic Shield,Boots of Mobility,3755,2424,Lane.bot_lane,Role.support
+8,Bwas,Ryze,False,Side.red,1,6,2,0.5,96,Flash,Ghost,10,False,5010,4760,Tear of the Goddess,Refillable Potion,Rod of Ages,Boots of Speed,Sapphire Crystal,Amplifying Tome,40883,4158,Lane.mid_lane,Role.solo
+9,Ikzencriel,Jayce,False,Side.red,1,3,0,0.3333333333333333,51,Teleport,Flash,7,False,3840,2600,Doran's Blade,Refillable Potion,Phage,Long Sword,Long Sword,,3162,13005,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwicTVgoldenglue,LeBlanc,False,Side.blue,7,5,3,2.0,193,Teleport,Flash,13,False,10158,10235,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,The Dark Seal,Blasting Wand,98629,10625,Lane.mid_lane,Role.solo
+1,swoloHey,Vayne,False,Side.blue,3,10,1,0.4,119,Flash,Heal,12,False,7835,7800,Blade of the Ruined King,Phantom Dancer,Berserker's Greaves,Doran's Blade,Control Ward,,192,51939,Lane.top_lane,Role.solo
+2,stuntopia,Karma,False,Side.blue,1,7,12,1.8571428571428572,13,Exhaust,Flash,11,False,6978,6575,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Cloth Armor,Control Ward,Null-Magic Mantle,14983,5958,Lane.bot_lane,Role.support
+3,xTc4,Ezreal,False,Side.blue,1,7,6,1.0,149,Flash,Heal,11,False,7833,7683,Refillable Potion,Doran's Blade,Manamune,Trinity Force,Ionian Boots of Lucidity,,14576,45548,Lane.bot_lane,Role.carry
+4,tardzaned,Olaf,False,Side.blue,7,5,5,2.4,189,Smite,Ghost,15,False,10829,10675,Refillable Potion,Randuin's Omen,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Dead Man's Plate,Spectre's Cowl,22745,118255,Lane.jungle,Role.none
+5,FZ3R0,Twitch,True,Side.red,11,3,4,5.0,183,Flash,Heal,13,False,12491,11450,Edge of Night,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,Long Sword,0,108024,Lane.bot_lane,Role.carry
+6,11037,Rek'Sai,True,Side.red,4,4,16,5.0,98,Smite,Flash,14,False,10554,9725,Tiamat,Dead Man's Plate,Spectre's Cowl,Ninja Tabi,Enchantment: Cinderhulk,Ruby Crystal,22537,70351,Lane.jungle,Role.none
+7,Adrian Riven,Ekko,True,Side.red,7,4,6,3.25,139,Teleport,Flash,14,False,11046,10369,Morellonomicon,Corrupting Potion,Abyssal Scepter,Sheen,Sorcerer's Shoes,Amplifying Tome,80020,14725,Lane.mid_lane,Role.solo
+8,Viperrr,Riven,True,Side.red,12,3,7,6.333333333333333,206,Flash,Teleport,16,True,14014,12025,The Black Cleaver,Ravenous Hydra,Refillable Potion,Maw of Malmortius,Ninja Tabi,Doran's Blade,0,150918,Lane.top_lane,Role.solo
+9,Winter is back,Alistar,True,Side.red,0,5,11,2.2,34,Flash,Exhaust,12,False,7357,6850,,,Face of the Mountain,Sightstone,Boots of Mobility,Redemption,6021,7133,Lane.bot_lane,Role.support

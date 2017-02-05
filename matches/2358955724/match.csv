@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TSM MeNoHaxor,Karma,False,Side.blue,0,8,1,0.125,12,Ignite,Flash,8,False,4663,4525,Eye of the Watchers,Boots of Mobility,Control Ward,Forbidden Idol,,Refillable Potion,8110,1910,Lane.bot_lane,Role.support
+1,Ifkinluvpeaches,Yasuo,False,Side.blue,5,5,0,1.0,168,Teleport,Flash,13,True,8102,7650,Doran's Blade,Phantom Dancer,Mercury's Treads,B. F. Sword,Pickaxe,Cloak of Agility,29264,59214,Lane.top_lane,Role.solo
+2,TwitchChunkylol,Fizz,False,Side.blue,2,4,0,0.5,139,Ignite,Flash,11,False,6571,6500,Lich Bane,Ionian Boots of Lucidity,Doran's Ring,Refillable Potion,The Dark Seal,Seeker's Armguard,36479,15357,Lane.mid_lane,Role.solo
+3,NaVi Squirty,Twitch,False,Side.blue,0,4,1,0.25,141,Flash,Heal,10,False,6008,4850,B. F. Sword,Doran's Blade,Dagger,Berserker's Greaves,Zeal,Dagger,180,54437,Lane.bot_lane,Role.carry
+4,734,Ivern,False,Side.blue,0,4,1,0.25,49,Flash,Smite,9,False,5419,5050,Locket of the Iron Solari,Control Ward,Boots of Mobility,Tracker's Knife,Refillable Potion,Crystalline Bracer,3748,1530,Lane.jungle,Role.none
+5,daduu,Alistar,True,Side.red,1,1,15,16.0,21,Flash,Exhaust,10,False,6394,6075,Boots of Mobility,Ruby Sightstone,Null-Magic Mantle,Control Ward,Face of the Mountain,,5533,4712,Lane.bot_lane,Role.support
+6,zz cicero,Ezreal,True,Side.red,3,1,1,4.0,173,Heal,Flash,12,False,8737,7683,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Muramana,,,9664,76766,Lane.bot_lane,Role.carry
+7,TQS Zuardian,Azir,True,Side.red,6,3,5,3.6666666666666665,135,Ignite,Flash,13,False,8560,8150,Sorcerer's Shoes,Nashor's Tooth,The Dark Seal,Doran's Ring,Liandry's Torment,,59221,8595,Lane.top_lane,Role.solo
+8,Acerola LAN,Rek'Sai,True,Side.red,9,0,2,11.0,154,Smite,Flash,13,False,10300,9125,Enchantment: Cinderhulk,Titanic Hydra,Long Sword,Boots of Swiftness,Phage,Long Sword,24500,117351,Lane.jungle,Role.none
+9,Regular Mid,Ekko,True,Side.red,6,2,10,8.0,138,Flash,Ignite,13,False,9362,9225,Lich Bane,Control Ward,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,73629,17969,Lane.mid_lane,Role.solo

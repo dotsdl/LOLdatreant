@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,H2K Forg1venPOL,Ezreal,True,Side.blue,5,2,2,3.5,67,Heal,Flash,8,False,5785,3900,Doran's Blade,Manamune,Ionian Boots of Lucidity,,,,3563,28027,Lane.bot_lane,Role.duo
+1,trashgame123,Wukong,True,Side.blue,2,4,1,0.75,69,Teleport,Flash,9,False,4822,3400,Youmuu's Ghostblade,Corrupting Potion,,,,,1907,34048,Lane.mid_lane,Role.solo
+2,KarasMai,Graves,True,Side.blue,10,0,1,11.0,57,Flash,Smite,10,False,7954,7325,Enchantment: Warrior,Null-Magic Mantle,Boots of Speed,Control Ward,Brawler's Gloves,Maw of Malmortius,1517,56485,Lane.jungle,Role.none
+3,Rohammers,Rumble,True,Side.blue,2,1,3,5.0,70,Teleport,Flash,9,False,5419,6850,Stinger,Stinger,Dagger,Dagger,Dagger,Dagger,33129,7508,Lane.top_lane,Role.solo
+4,Ayo Its Jango,Trundle,True,Side.blue,0,1,5,5.0,14,Exhaust,Flash,7,False,3956,2300,Targon's Brace,Sightstone,Control Ward,Boots of Speed,,,426,7977,Lane.bot_lane,Role.duo
+5,never negative,Kassadin,False,Side.red,2,5,4,1.2,47,Flash,Teleport,8,False,3897,3535,Doran's Shield,Corrupting Potion,Seeker's Armguard,Ionian Boots of Lucidity,Amplifying Tome,,9141,7791,Lane.mid_lane,Role.solo
+6,You all boosted,Kha'Zix,False,Side.red,3,4,2,1.25,57,Flash,Smite,8,False,4473,3775,Enchantment: Warrior,Refillable Potion,Long Sword,Boots of Speed,Long Sword,,2517,42222,Lane.jungle,Role.none
+7,fwii,Talon,False,Side.red,1,4,1,0.5,58,Flash,Ignite,7,False,3420,2575,Serrated Dirk,Refillable Potion,Ionian Boots of Lucidity,Long Sword,,,469,25446,Lane.top_lane,Role.solo
+8,Jummychu,Jhin,False,Side.red,2,2,2,2.0,60,Flash,Heal,7,True,4150,3500,Serrated Dirk,Cull,Doran's Blade,Caulfield's Warhammer,,Boots of Speed,503,22765,Lane.bot_lane,Role.duo
+9,LightDatz,Alistar,False,Side.red,0,4,3,0.75,10,Flash,Exhaust,5,False,2481,1875,Relic Shield,Boots of Mobility,Ruby Crystal,Control Ward,,,2371,2245,Lane.bot_lane,Role.duo

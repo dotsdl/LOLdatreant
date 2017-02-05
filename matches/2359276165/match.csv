@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cris,Ekko,True,Side.blue,6,2,6,6.0,142,Flash,Teleport,13,False,9888,8400,Hextech Protobelt-01,Zhonya's Hourglass,Corrupting Potion,Sorcerer's Shoes,Doran's Ring,The Dark Seal,80184,17013,Lane.top_lane,Role.solo
+1,dog2,Vi,True,Side.blue,9,1,4,13.0,145,Flash,Smite,13,False,10511,8958,Enchantment: Warrior,Trinity Force,Refillable Potion,Ninja Tabi,Jaurim's Fist,,1507,128428,Lane.jungle,Role.none
+2,TSM MeNoHaxor,Karma,True,Side.blue,1,2,6,3.5,5,Exhaust,Flash,9,False,5702,4800,Eye of the Watchers,Boots of Mobility,Control Ward,Ruby Crystal,Forbidden Idol,,4430,4297,Lane.bot_lane,Role.support
+3,Jeehun,Caitlyn,True,Side.blue,0,1,5,5.0,153,Flash,Heal,11,False,7636,6525,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Pickaxe,242,73302,Lane.bot_lane,Role.carry
+4,Shamwwow,Mordekaiser,True,Side.blue,3,4,5,2.0,97,Flash,Ignite,11,False,7263,6875,Doran's Shield,Seeker's Armguard,Boots of Speed,Rylai's Crystal Scepter,Hextech Revolver,Ruby Crystal,52416,9593,Lane.mid_lane,Role.solo
+5,Yassuo,Yasuo,False,Side.red,3,8,4,0.875,105,Flash,Ignite,10,True,6594,6100,Refillable Potion,Phantom Dancer,Doran's Blade,Doran's Blade,Mercury's Treads,Jaurim's Fist,19003,43711,Lane.mid_lane,Role.solo
+6,Pond,Vayne,False,Side.red,0,2,2,1.0,103,Heal,Flash,9,False,5425,5300,Infinity Edge,Doran's Blade,Boots of Speed,Cull,Dagger,Total Biscuit of Rejuvenation,258,31081,Lane.bot_lane,Role.carry
+7,xTc4,Sona,False,Side.red,1,2,5,3.0,9,Flash,Exhaust,9,False,4655,4100,Frostfang,Refillable Potion,Sightstone,Hextech Revolver,Sorcerer's Shoes,Control Ward,5235,2384,Lane.bot_lane,Role.support
+8,Valkrin,Evelynn,False,Side.red,4,3,1,1.6666666666666667,95,Smite,Flash,11,False,6774,6700,Hunter's Potion,Hextech Protobelt-01,Sorcerer's Shoes,,Enchantment: Runic Echoes,,40174,26422,Lane.jungle,Role.none
+9,Maxtrobo,Maokai,False,Side.red,2,4,6,2.0,134,Flash,Teleport,12,False,6842,5850,Spectre's Cowl,Corrupting Potion,Mercury's Treads,Sunfire Cape,,,59442,15271,Lane.top_lane,Role.solo

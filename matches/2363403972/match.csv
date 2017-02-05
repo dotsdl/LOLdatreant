@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwistyJuker,Tristana,True,Side.blue,9,2,5,7.0,252,Flash,Heal,17,False,15239,13325,Vampiric Scepter,B. F. Sword,Berserker's Greaves,Infinity Edge,Statikk Shiv,Rapid Firecannon,67190,117024,Lane.bot_lane,Role.carry
+1,Grnlefboy2,Poppy,True,Side.blue,0,4,10,2.5,189,Teleport,Flash,16,False,11329,10625,Sunfire Cape,Spirit Visage,Corrupting Potion,Boots of Swiftness,Iceborn Gauntlet,Null-Magic Mantle,31447,78447,Lane.top_lane,Role.solo
+2,C9 Meteos,Vi,True,Side.blue,10,3,9,6.333333333333333,247,Smite,Flash,18,False,16485,14983,Edge of Night,Randuin's Omen,Enchantment: Warrior,Ninja Tabi,Trinity Force,Chain Vest,1473,255125,Lane.jungle,Role.none
+3,andtheknee,Syndra,True,Side.blue,5,4,8,3.25,250,Ghost,Flash,17,False,13632,12625,Rabadon's Deathcap,Rylai's Crystal Scepter,,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,164341,11109,Lane.mid_lane,Role.solo
+4,TheOddOrange,Brand,True,Side.blue,5,5,10,3.0,53,Flash,Exhaust,14,False,11762,9875,Rylai's Crystal Scepter,Eye of the Watchers,Sorcerer's Shoes,Blasting Wand,Null-Magic Mantle,Haunting Guise,74136,10156,Lane.bot_lane,Role.support
+5,Imentice,Orianna,False,Side.red,2,4,7,2.25,228,Ghost,Flash,16,False,11064,10880,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,Void Staff,Control Ward,125590,17252,Lane.mid_lane,Role.solo
+6,Féarless,Dr. Mundo,False,Side.red,3,10,3,0.6,130,Smite,Flash,13,False,9899,9300,Ninja Tabi,Enchantment: Cinderhulk,Giant's Belt,Ruby Crystal,Spirit Visage,Warden's Mail,63841,33966,Lane.jungle,Role.none
+7,kàylè,Kayle,False,Side.red,3,5,3,1.2,260,Ghost,Flash,15,True,11554,10725,Stinger,Blade of the Ruined King,Control Ward,Ionian Boots of Lucidity,Guinsoo's Rageblade,Fiendish Codex,82818,62423,Lane.top_lane,Role.solo
+8,Stiches,Vayne,False,Side.red,9,5,1,2.0,329,Heal,Flash,17,False,14831,14225,Infinity Edge,Statikk Shiv,Phantom Dancer,Lord Dominik's Regards,Vampiric Scepter,Berserker's Greaves,63481,139307,Lane.bot_lane,Role.carry
+9,Riot Meekal,Blitzcrank,False,Side.red,1,5,9,2.0,32,Flash,Exhaust,13,False,8090,7990,Ruby Sightstone,Boots of Mobility,Relic Shield,Control Ward,Redemption,Locket of the Iron Solari,7510,5276,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jadsbutt,Janna,True,Side.blue,0,3,14,4.666666666666667,11,Flash,Exhaust,12,False,7283,6375,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,,,6344,5596,Lane.bot_lane,Role.support
+1,Nero Valentine,Jayce,True,Side.blue,9,5,8,3.4,180,Teleport,Flash,15,False,11999,11850,Doran's Blade,Lord Dominik's Regards,Youmuu's Ghostblade,Last Whisper,The Black Cleaver,Boots of Swiftness,13129,104863,Lane.top_lane,Role.solo
+2,Azzam,Katarina,True,Side.blue,5,3,5,3.3333333333333335,148,Flash,Ignite,13,False,9196,8775,The Dark Seal,Hextech Gunblade,Sorcerer's Shoes,Rylai's Crystal Scepter,,,68580,9591,Lane.mid_lane,Role.solo
+3,LearningToPIay,Zac,True,Side.blue,3,0,13,16.0,121,Flash,Smite,14,False,9677,8850,Randuin's Omen,Refillable Potion,Locket of the Iron Solari,Enchantment: Cinderhulk,Ionian Boots of Lucidity,,87060,23784,Lane.jungle,Role.none
+4,6îx,Twitch,True,Side.blue,14,2,4,9.0,177,Heal,Flash,14,False,12638,10875,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Doran's Blade,Rapid Firecannon,Long Sword,413,115784,Lane.bot_lane,Role.carry
+5,Andybendy,Ryze,False,Side.red,3,6,2,0.8333333333333334,157,Flash,Ghost,12,False,8236,7450,Doran's Ring,Tear of the Goddess,Banshee's Veil,Ionian Boots of Lucidity,Rod of Ages,,67024,12664,Lane.mid_lane,Role.solo
+6,KarasMai,Graves,False,Side.red,4,6,0,0.6666666666666666,148,Flash,Smite,13,True,9297,8900,Enchantment: Warrior,Caulfield's Warhammer,Mercury's Treads,Phantom Dancer,Hexdrinker,,4186,133374,Lane.jungle,Role.none
+7,QuickRev,Maokai,False,Side.red,1,5,6,1.4,36,Flash,Ignite,10,False,6036,5700,Ninja Tabi,Locket of the Iron Solari,Eye of the Equinox,,,,19890,4845,Lane.bot_lane,Role.support
+8,always4u,Garen,False,Side.red,1,8,2,0.375,135,Flash,Teleport,13,False,7330,6075,Refillable Potion,Sunfire Cape,Giant's Belt,Doran's Shield,Ninja Tabi,Long Sword,11866,53101,Lane.top_lane,Role.solo
+9,Requite,Tristana,False,Side.red,4,6,2,1.0,183,Flash,Heal,12,False,8896,8600,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Dagger,Brawler's Gloves,Doran's Blade,20576,61890,Lane.bot_lane,Role.carry

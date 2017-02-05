@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,fallenbandit,Soraka,False,Side.blue,1,5,14,3.0,16,Flash,Exhaust,12,False,8362,7750,Redemption,Talisman of Ascension,Sightstone,Boots of Mobility,Aegis of the Legion,,14217,2458,Lane.bot_lane,Role.support
+1,Huhi Lite,Viktor,False,Side.blue,7,7,7,2.0,169,Ghost,Flash,14,False,10765,9650,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Blasting Wand,124641,12727,Lane.mid_lane,Role.solo
+2,Erry,Caitlyn,False,Side.blue,2,9,6,0.8888888888888888,192,Heal,Flash,13,False,9775,8975,Phantom Dancer,Doran's Blade,B. F. Sword,Berserker's Greaves,Pickaxe,Runaan's Hurricane,431,107579,Lane.bot_lane,Role.carry
+3,YummiBananas,Jax,False,Side.blue,9,6,2,1.8333333333333333,190,Smite,Ghost,16,False,12884,12408,Enchantment: Bloodrazor,Chain Vest,Vampiric Scepter,Frozen Mallet,Trinity Force,Ninja Tabi,50242,146990,Lane.jungle,Role.none
+4,Santa Quas,Nasus,False,Side.blue,4,6,5,1.5,218,Teleport,Flash,15,False,11037,8883,Doran's Shield,Trinity Force,Doran's Ring,Ninja Tabi,Doran's Ring,Sterak's Gage,65844,60792,Lane.top_lane,Role.solo
+5,Cris,Jayce,True,Side.red,9,4,5,3.5,198,Flash,Teleport,15,True,13437,12475,Quicksilver Sash,,The Black Cleaver,Mortal Reminder,Maw of Malmortius,Mercury's Treads,26665,123856,Lane.top_lane,Role.solo
+6,Xmithie Lite,Hecarim,True,Side.red,9,1,10,19.0,163,Ghost,Smite,16,False,13674,12483,Enchantment: Cinderhulk,Trinity Force,Zz'Rot Portal,Giant's Belt,Boots of Swiftness,Chain Vest,28411,128121,Lane.jungle,Role.none
+7,Zaganox,Tristana,True,Side.red,10,6,4,2.3333333333333335,193,Heal,Flash,15,False,13353,12525,Doran's Blade,Infinity Edge,Phantom Dancer,The Bloodthirster,Berserker's Greaves,Pickaxe,22637,120210,Lane.bot_lane,Role.carry
+8,moon o,Thresh,True,Side.red,0,5,17,3.4,18,Ignite,Flash,12,False,9058,7950,Redemption,Control Ward,Locket of the Iron Solari,Ruby Sightstone,Relic Shield,Boots of Mobility,8944,5268,Lane.bot_lane,Role.support
+9,Dhokla,Orianna,True,Side.red,5,7,8,1.8571428571428572,161,Flash,Ghost,14,False,11930,11185,Needlessly Large Rod,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,Morellonomicon,99506,14703,Lane.mid_lane,Role.solo

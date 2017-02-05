@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,brocco,Graves,True,Side.blue,10,5,10,4.0,140,Flash,Smite,17,False,14369,12000,Youmuu's Ghostblade,Death's Dance,Berserker's Greaves,Enchantment: Warrior,Hexdrinker,Long Sword,7025,168648,Lane.jungle,Role.none
+1,KingGeorgie,Vayne,True,Side.blue,15,9,8,2.5555555555555554,213,Heal,Flash,17,False,16940,14200,Doran's Blade,Mercurial Scimitar,Berserker's Greaves,Phantom Dancer,Infinity Edge,Lord Dominik's Regards,0,177934,Lane.bot_lane,Role.carry
+2,Khristmas,Viktor,True,Side.blue,7,7,4,1.5714285714285714,214,Flash,Cleanse,16,False,14337,13850,Perfect Hex Core,Doran's Ring,Abyssal Scepter,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Lich Bane,150128,14185,Lane.mid_lane,Role.solo
+3,Biggity Biggims ,Vel'Koz,True,Side.blue,5,10,15,2.0,31,Flash,Ignite,14,False,12928,11735,Ionian Boots of Lucidity,Morellonomicon,Seraph's Embrace,Frost Queen's Claim,Ruby Sightstone,,44883,4955,Lane.bot_lane,Role.support
+4,flerberg,Darius,True,Side.blue,7,8,11,2.25,245,Ghost,Teleport,18,True,14897,13850,Spirit Visage,Randuin's Omen,Dead Man's Plate,Ninja Tabi,The Black Cleaver,Null-Magic Mantle,0,159380,Lane.top_lane,Role.solo
+5,Smartcloud,Sion,False,Side.red,5,10,18,2.3,99,Flash,Exhaust,15,False,12337,11125,Frozen Heart,Redemption,Eye of the Equinox,Locket of the Iron Solari,Cloth Armor,Ninja Tabi,28846,35532,Lane.bot_lane,Role.duo
+6,Garani,Hecarim,False,Side.red,13,9,16,3.2222222222222223,149,Smite,Ghost,16,False,14582,14008,Enchantment: Cinderhulk,Maw of Malmortius,Ninja Tabi,Trinity Force,Dead Man's Plate,,23798,108510,Lane.jungle,Role.none
+7,GodMeru,Ekko,False,Side.red,4,8,7,1.375,195,Flash,Teleport,17,False,12496,12125,,Dead Man's Plate,Randuin's Omen,Sunfire Cape,Ninja Tabi,Phage,121648,24596,Lane.top_lane,Role.solo
+8,Toll,Jhin,False,Side.red,8,12,11,1.5833333333333333,223,Flash,Heal,16,False,14098,14025,Infinity Edge,Essence Reaver,Last Whisper,Rapid Firecannon,Boots of Swiftness,Giant Slayer,12619,155872,Lane.bot_lane,Role.duo
+9,Program,Cassiopeia,False,Side.red,9,6,5,2.3333333333333335,223,Ghost,Flash,17,False,13819,13245,Doran's Ring,Seraph's Embrace,Morellonomicon,Rylai's Crystal Scepter,Negatron Cloak,Void Staff,146016,7756,Lane.mid_lane,Role.solo

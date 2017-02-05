@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dystrex,Darius,True,Side.blue,4,5,10,2.8,137,Teleport,Flash,14,False,9623,6950,Doran's Shield,Corrupting Potion,Phage,Boots of Swiftness,Zz'Rot Portal,Caulfield's Warhammer,2999,82968,Lane.top_lane,Role.solo
+1,I Am Faceless,Ivern,True,Side.blue,6,2,14,10.0,64,Flash,Smite,14,False,9728,8160,Redemption,Aegis of the Legion,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Mejai's Soulstealer,22823,9376,Lane.jungle,Role.none
+2,Wazabiee,Jhin,True,Side.blue,8,3,14,7.333333333333333,151,Heal,Flash,13,False,11684,9150,Essence Reaver,Doran's Blade,Rapid Firecannon,Boots of Swiftness,B. F. Sword,,4531,110773,Lane.bot_lane,Role.carry
+3,SaintKilianv2,Ekko,True,Side.blue,9,3,5,4.666666666666667,154,Teleport,Flash,14,False,11569,8750,Rabadon's Deathcap,Frost Queen's Claim,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,Blasting Wand,98230,12874,Lane.mid_lane,Role.solo
+4,DoToT Returned,Ezreal,True,Side.blue,7,8,11,2.25,12,Ignite,Flash,11,False,9811,8200,Ionian Boots of Lucidity,Long Sword,Eye of the Watchers,Lich Bane,Hextech Revolver,The Dark Seal,20197,23652,Lane.bot_lane,Role.support
+5,HotsawceGG,Kayle,False,Side.red,4,7,5,1.2857142857142858,196,Teleport,Flash,14,False,9534,9200,Doran's Ring,Guinsoo's Rageblade,Nashor's Tooth,Berserker's Greaves,Ruby Crystal,Null-Magic Mantle,78644,31082,Lane.top_lane,Role.solo
+6,Sukhjot,Vayne,False,Side.red,6,12,6,1.0,128,Flash,Heal,12,False,9127,8700,Doran's Blade,Cull,Berserker's Greaves,Infinity Edge,Statikk Shiv,,13716,48546,Lane.bot_lane,Role.duo
+7,lIIIlIlIlIlIllI,Graves,False,Side.red,2,8,4,0.75,91,Smite,Flash,12,False,7746,7275,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,The Black Cleaver,,Dagger,4161,81726,Lane.jungle,Role.none
+8,Ahpulzz,Trundle,False,Side.red,3,3,11,4.666666666666667,41,Exhaust,Flash,11,True,7773,7175,Face of the Mountain,Cloth Armor,Control Ward,Ninja Tabi,Ruby Sightstone,Sheen,1598,11098,Lane.bot_lane,Role.duo
+9,l dont gank,Cassiopeia,False,Side.red,6,4,1,1.75,154,Flash,Ghost,13,False,8798,8430,Doran's Ring,Negatron Cloak,Rylai's Crystal Scepter,Seraph's Embrace,Amplifying Tome,,71407,7743,Lane.mid_lane,Role.solo

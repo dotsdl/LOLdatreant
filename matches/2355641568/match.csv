@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MrStingYoGirl,Skarner,True,Side.blue,8,5,14,4.4,97,Smite,Flash,15,False,12639,10908,Enchantment: Cinderhulk,Sterak's Gage,Mercury's Treads,Trinity Force,Cloth Armor,,38547,66664,Lane.jungle,Role.none
+1,amoureux de toi,Bard,True,Side.blue,3,10,16,1.9,6,Ignite,Flash,13,False,9926,9300,Boots of Swiftness,Redemption,Frost Queen's Claim,Chalice of Harmony,Sightstone,Zeke's Harbinger,10402,3157,Lane.bot_lane,Role.support
+2,Rohammers,Rumble,True,Side.blue,3,3,7,3.3333333333333335,226,Teleport,Flash,16,False,12471,11850,Liandry's Torment,Zhonya's Hourglass,Rylai's Crystal Scepter,Doran's Shield,Sorcerer's Shoes,,125613,11238,Lane.top_lane,Role.solo
+3,Niles,Zed,True,Side.blue,8,7,7,2.142857142857143,222,Flash,Ignite,16,False,14489,13975,Ninja Tabi,Blade of the Ruined King,Youmuu's Ghostblade,The Black Cleaver,Duskblade of Draktharr,,9368,159311,Lane.mid_lane,Role.solo
+4,Rich Homie Jayms,Twitch,True,Side.blue,10,6,14,4.0,243,Flash,Heal,16,False,15586,12250,Doran's Blade,Infinity Edge,Berserker's Greaves,Last Whisper,Rapid Firecannon,Runaan's Hurricane,1813,155247,Lane.bot_lane,Role.carry
+5,l Spawn l,Yasuo,False,Side.red,4,10,10,1.4,180,Flash,Exhaust,14,False,10273,9500,Infinity Edge,Ninja Tabi,Doran's Blade,Giant's Belt,Phantom Dancer,Long Sword,18449,95074,Lane.mid_lane,Role.solo
+6,l For You l,Lee Sin,False,Side.red,16,7,10,3.7142857142857144,144,Flash,Smite,15,True,13983,13275,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,The Black Cleaver,Guardian Angel,Giant's Belt,39329,107799,Lane.jungle,Role.none
+7,Tai Draven,Draven,False,Side.red,7,8,9,2.0,161,Flash,Heal,13,False,12234,11350,Doran's Blade,Blade of the Ruined King,Mercurial Scimitar,Lord Dominik's Regards,Berserker's Greaves,,44,112337,Lane.bot_lane,Role.carry
+8,KillerUnit,Karma,False,Side.red,2,3,17,6.333333333333333,45,Exhaust,Flash,12,False,9264,8950,Redemption,Eye of the Watchers,Ardent Censer,Ionian Boots of Lucidity,Chalice of Harmony,,23210,5333,Lane.bot_lane,Role.support
+9,Adrian Riven,Maokai,False,Side.red,2,4,8,2.5,193,Teleport,Flash,15,False,10113,9760,Doran's Ring,Sunfire Cape,Chain Vest,Spirit Visage,Ninja Tabi,Giant's Belt,108118,19708,Lane.top_lane,Role.solo

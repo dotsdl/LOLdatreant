@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Escarnor,Vi,False,Side.blue,8,8,13,2.625,137,Flash,Smite,15,False,12360,12058,Enchantment: Warrior,Maw of Malmortius,Mercury's Treads,Trinity Force,Spectre's Cowl,,1155,133016,Lane.jungle,Role.none
+1,GOTA KaBooM,Draven,False,Side.blue,5,5,7,2.4,205,Flash,Heal,15,False,13670,12775,Youmuu's Ghostblade,Berserker's Greaves,Infinity Edge,Doran's Blade,Maw of Malmortius,Zeal,0,143503,Lane.bot_lane,Role.carry
+2,Yagosu,Yasuo,False,Side.blue,4,11,10,1.2727272727272727,183,Flash,Exhaust,14,False,12319,12100,Stinger,Infinity Edge,Mercury's Treads,Phantom Dancer,Doran's Blade,Frozen Mallet,28628,111963,Lane.mid_lane,Role.solo
+3,DiamondDave,Bard,False,Side.blue,5,4,14,4.75,14,Flash,Ignite,14,False,10590,9900,Ruby Sightstone,Face of the Mountain,Redemption,Ionian Boots of Lucidity,,Locket of the Iron Solari,21487,7003,Lane.bot_lane,Role.support
+4,YoIocaust,Singed,False,Side.blue,5,4,4,2.25,270,Teleport,Ghost,16,False,13047,11450,Doran's Ring,Zz'Rot Portal,Rod of Ages,Mercury's Treads,Rylai's Crystal Scepter,Spectre's Cowl,125325,4536,Lane.top_lane,Role.solo
+5,Hèrmit,Ivern,True,Side.red,3,5,18,4.2,99,Flash,Smite,16,False,12607,11500,Redemption,Ruby Sightstone,Rylai's Crystal Scepter,Athene's Unholy Grail,Ionian Boots of Lucidity,Aegis of the Legion,17397,12532,Lane.jungle,Role.none
+6,xVip3R,Thresh,True,Side.red,2,8,19,2.625,41,Exhaust,Flash,14,False,10474,8925,Locket of the Iron Solari,Redemption,Eye of the Equinox,Control Ward,Boots of Mobility,Warden's Mail,19593,9061,Lane.bot_lane,Role.support
+7,Fuko lbuki,Ezreal,True,Side.red,8,4,9,4.25,196,Flash,Heal,15,False,13658,11825,Blade of the Ruined King,Ionian Boots of Lucidity,B. F. Sword,,Muramana,Iceborn Gauntlet,13944,119579,Lane.bot_lane,Role.carry
+8,ONLYPLAYKALISTA,Katarina,True,Side.red,15,5,6,4.2,239,Ignite,Flash,16,True,15789,13075,Zhonya's Hourglass,Hextech Gunblade,Rylai's Crystal Scepter,Mejai's Soulstealer,Blasting Wand,Ninja Tabi,170633,19388,Lane.mid_lane,Role.solo
+9,RealTeemo,Teemo,True,Side.red,4,5,3,1.4,366,Ignite,Flash,17,False,14725,14150,,Morellonomicon,Void Staff,Liandry's Torment,Nashor's Tooth,Sorcerer's Shoes,157491,60491,Lane.top_lane,Role.solo

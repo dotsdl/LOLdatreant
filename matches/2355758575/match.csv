@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mmaghei,Thresh,True,Side.blue,3,2,26,14.5,22,Flash,Exhaust,13,False,8956,7200,Sightstone,Face of the Mountain,Redemption,Control Ward,Ionian Boots of Lucidity,Crystalline Bracer,11431,7496,Lane.bot_lane,Role.support
+1,PeachSamaTuT,Jhin,True,Side.blue,12,4,12,6.0,152,Flash,Heal,13,False,13038,11900,,Doran's Blade,Rapid Firecannon,Infinity Edge,Essence Reaver,Boots of Swiftness,8037,102355,Lane.bot_lane,Role.carry
+2,Waifi,Ahri,True,Side.blue,16,2,6,11.0,164,Ignite,Flash,15,False,13463,12075,Abyssal Scepter,Sorcerer's Shoes,Hextech Protobelt-01,Rabadon's Deathcap,Aether Wisp,Doran's Ring,78853,14215,Lane.mid_lane,Role.solo
+3,Akkoreana,Quinn,True,Side.blue,5,4,6,2.75,178,Flash,Ignite,14,False,10422,9050,Doran's Blade,Infinity Edge,Mercurial Scimitar,Boots of Mobility,Dagger,,1681,111180,Lane.top_lane,Role.solo
+4,UltraAtheist,Zac,True,Side.blue,8,5,16,4.8,105,Flash,Smite,14,True,11373,9900,Enchantment: Cinderhulk,Refillable Potion,Chain Vest,Ionian Boots of Lucidity,Spirit Visage,Guardian Angel,77015,18980,Lane.jungle,Role.none
+5,plotz,Ryze,False,Side.red,5,11,4,0.8181818181818182,136,Ghost,Flash,12,False,8630,7710,Morellonomicon,Boots of Speed,Tear of the Goddess,Rod of Ages,Amplifying Tome,,72841,5449,Lane.mid_lane,Role.solo
+6,Sìyou,Caitlyn,False,Side.red,0,6,5,0.8333333333333334,133,Flash,Heal,12,False,7935,7250,Doran's Blade,Total Biscuit of Rejuvenation,Cull,Infinity Edge,Runaan's Hurricane,,429,87810,Lane.bot_lane,Role.duo
+7,Diracly,Kayle,False,Side.red,6,8,2,1.0,177,Flash,Teleport,13,False,9891,9350,Doran's Ring,Berserker's Greaves,Recurve Bow,Nashor's Tooth,Rylai's Crystal Scepter,,62581,26930,Lane.top_lane,Role.solo
+8,Aerodactyl,Xerath,False,Side.red,3,8,2,0.625,110,Flash,Ignite,12,False,8788,8250,Control Ward,Fiendish Codex,Frost Queen's Claim,Rylai's Crystal Scepter,Lost Chapter,Boots of Speed,74205,8104,Lane.bot_lane,Role.duo
+9,SissyBoo,Lee Sin,False,Side.red,3,11,7,0.9090909090909091,96,Smite,Flash,12,False,8298,7450,Enchantment: Warrior,Refillable Potion,Ruby Crystal,Control Ward,The Black Cleaver,Mercury's Treads,16818,60796,Lane.jungle,Role.none

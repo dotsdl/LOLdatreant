@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Doctor Krieger,Nami,True,Side.blue,3,2,13,8.0,7,Exhaust,Flash,12,False,8159,6900,Eye of the Watchers,Needlessly Large Rod,Redemption,Boots of Mobility,,,10074,5047,Lane.bot_lane,Role.support
+1,Braums Mustache,Poppy,True,Side.blue,1,1,3,4.0,137,Flash,Teleport,14,False,8110,7600,Boots of Swiftness,Spirit Visage,The Black Cleaver,Doran's Shield,,,2569,62156,Lane.top_lane,Role.solo
+2,FlameShotzZ,Graves,True,Side.blue,6,4,5,2.75,166,Smite,Flash,14,False,10411,9675,Youmuu's Ghostblade,Berserker's Greaves,Phantom Dancer,Enchantment: Warrior,Long Sword,,3296,136210,Lane.jungle,Role.none
+3,PRoHAppyCAmper,Xerath,True,Side.blue,13,4,6,4.75,138,Ghost,Flash,14,False,11415,11300,Luden's Echo,,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Sorcerer's Shoes,85415,9296,Lane.mid_lane,Role.solo
+4,tnerual70,Twitch,True,Side.blue,12,4,5,4.25,171,Flash,Heal,14,True,12296,11750,Mercurial Scimitar,Doran's Blade,Berserker's Greaves,Infinity Edge,Dagger,Runaan's Hurricane,955,118218,Lane.bot_lane,Role.carry
+5,BlackAndBluePain,Zilean,False,Side.red,6,7,1,1.0,107,Flash,Teleport,13,False,7903,7475,Doran's Ring,Rod of Ages,Sorcerer's Shoes,Archangel's Staff,,,49055,6887,Lane.mid_lane,Role.solo
+6,GKyrios,Kennen,False,Side.red,3,2,0,1.5,147,Flash,Teleport,13,False,7828,7300,Control Ward,Zhonya's Hourglass,Hextech Protobelt-01,Doran's Blade,Sorcerer's Shoes,,44168,15773,Lane.top_lane,Role.solo
+7,Sexually Active,Rek'Sai,False,Side.red,3,7,4,1.0,117,Smite,Flash,13,False,8545,7150,Tiamat,Refillable Potion,Mercury's Treads,Enchantment: Cinderhulk,Warden's Mail,Giant's Belt,22678,73388,Lane.jungle,Role.none
+8,Chad Reformed ,Tristana,False,Side.red,2,10,5,0.7,144,Heal,Flash,13,False,8555,8350,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Statikk Shiv,,20294,54597,Lane.bot_lane,Role.carry
+9,Alon456,Taliyah,False,Side.red,1,9,5,0.6666666666666666,18,Ignite,Flash,10,False,6306,5400,,Frost Queen's Claim,Ruby Sightstone,Boots of Mobility,Ruby Crystal,,22026,2835,Lane.bot_lane,Role.support

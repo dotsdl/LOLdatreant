@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Seamaken,Tryndamere,False,Side.blue,2,12,0,0.16666666666666666,164,Ghost,Ignite,14,False,9812,8850,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,Vampiric Scepter,,32164,88664,Lane.top_lane,Role.solo
+1,JebusJebebus,Nautilus,False,Side.blue,3,6,5,1.3333333333333333,37,Flash,Exhaust,11,False,8543,7700,Face of the Mountain,Sightstone,Knight's Vow,Cloth Armor,Null-Magic Mantle,Boots of Mobility,10255,7603,Lane.bot_lane,Role.support
+2, ARRRmandotl v3,Lee Sin,False,Side.blue,1,3,6,2.3333333333333335,139,Smite,Flash,14,False,9643,8975,Sightstone,Enchantment: Cinderhulk,Ninja Tabi,Tiamat,The Black Cleaver,,13492,105837,Lane.jungle,Role.none
+3,EdiWeasley,Twitch,False,Side.blue,5,3,4,3.0,263,Heal,Flash,14,False,12943,12150,Doran's Blade,Infinity Edge,Berserker's Greaves,Last Whisper,Runaan's Hurricane,Statikk Shiv,15066,127585,Lane.bot_lane,Role.carry
+4,Selkie,Ahri,False,Side.blue,7,4,5,3.0,206,Flash,Ghost,16,False,12243,11170,Giant's Belt,Sorcerer's Shoes,Needlessly Large Rod,Negatron Cloak,Morellonomicon,Luden's Echo,83221,17255,Lane.mid_lane,Role.solo
+5,WatchThePower,Rengar,True,Side.red,6,2,6,6.0,244,Flash,Smite,17,False,13844,11375,Enchantment: Warrior,Tiamat,Ninja Tabi,Refillable Potion,Death's Dance,Spirit Visage,23119,182092,Lane.jungle,Role.none
+6,Mathematix,Ezreal,True,Side.red,11,5,6,3.4,191,Flash,Heal,15,False,13694,13550,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Lord Dominik's Regards,Chain Vest,Ionian Boots of Lucidity,26930,106419,Lane.bot_lane,Role.carry
+7,Expect no ganks,Urgot,True,Side.red,7,2,5,6.0,248,Flash,Teleport,17,True,13749,12275,The Black Cleaver,Cloth Armor,Muramana,Frozen Heart,Banshee's Veil,Ninja Tabi,3015,155437,Lane.top_lane,Role.solo
+8,Eav,Janna,True,Side.red,1,1,13,14.0,10,Exhaust,Flash,13,False,8909,7950,Nomad's Medallion,Sightstone,Redemption,Locket of the Iron Solari,Control Ward,Mercury's Treads,6167,3394,Lane.bot_lane,Role.support
+9,NiceTwig,Cassiopeia,True,Side.red,2,8,7,1.125,180,Flash,Ghost,15,False,10875,10375,Doran's Ring,Seraph's Embrace,Morellonomicon,Rylai's Crystal Scepter,Null-Magic Mantle,,85839,12345,Lane.mid_lane,Role.solo

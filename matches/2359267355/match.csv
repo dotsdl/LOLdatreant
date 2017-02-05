@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rhubarbs,Rengar,True,Side.blue,9,4,3,3.0,106,Smite,Flash,12,False,9958,9075,Enchantment: Warrior,Tiamat,Ionian Boots of Lucidity,Refillable Potion,Youmuu's Ghostblade,B. F. Sword,9798,94023,Lane.jungle,Role.none
+1,Imaokai,Caitlyn,True,Side.blue,9,3,4,4.333333333333333,124,Heal,Flash,11,False,9504,9200,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,,634,70005,Lane.bot_lane,Role.carry
+2,Ari Kingu,Morgana,True,Side.blue,2,3,13,5.0,5,Ignite,Flash,11,False,6963,4725,Spellthief's Edge,Sightstone,Redemption,,Ionian Boots of Lucidity,,6705,6257,Lane.bot_lane,Role.support
+3,JezteRzT,Anivia,True,Side.blue,3,1,7,10.0,151,Flash,Ghost,12,False,8842,6950,Doran's Ring,Archangel's Staff,Boots of Speed,Rod of Ages,,,71653,11538,Lane.mid_lane,Role.solo
+4,MrGetRigHt,Nasus,True,Side.blue,4,3,3,2.3333333333333335,139,Flash,Teleport,12,False,8741,8375,Tiamat,Corrupting Potion,Spirit Visage,Mercury's Treads,Iceborn Gauntlet,Control Ward,10175,79632,Lane.top_lane,Role.solo
+5,Curious Gengar,Blitzcrank,False,Side.red,1,7,2,0.42857142857142855,22,Flash,Exhaust,9,False,4359,3225,Boots of Swiftness,,Ruby Sightstone,Ancient Coin,,,5156,5502,Lane.bot_lane,Role.support
+6,Sawyerr,Nautilus,False,Side.red,1,3,1,0.6666666666666666,76,Teleport,Flash,9,False,5113,3025,Doran's Ring,Boots of Speed,Doran's Ring,Blasting Wand,Ruby Crystal,Sapphire Crystal,26128,15280,Lane.top_lane,Role.solo
+7,MrHitchens,Twitch,False,Side.red,3,6,2,0.8333333333333334,97,Heal,Flash,11,False,6346,5425,Doran's Blade,,Berserker's Greaves,Dagger,,Blade of the Ruined King,151,40842,Lane.bot_lane,Role.carry
+8,1Tracked,Graves,False,Side.red,7,7,3,1.4285714285714286,93,Smite,Flash,12,True,7932,6825,Enchantment: Warrior,Hunter's Potion,Caulfield's Warhammer,Berserker's Greaves,Phage,Long Sword,2590,73253,Lane.jungle,Role.none
+9,Muzy,Karma,False,Side.red,2,4,5,1.75,79,Flash,Teleport,11,False,5776,5625,Doran's Ring,Morellonomicon,Blasting Wand,Sorcerer's Shoes,,,32262,7561,Lane.mid_lane,Role.solo

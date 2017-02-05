@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Natalia Dyer,Riven,True,Side.blue,9,8,11,2.5,162,Flash,Teleport,16,False,13063,11425,Doran's Shield,Edge of Night,Refillable Potion,The Black Cleaver,Maw of Malmortius,Ninja Tabi,0,109094,Lane.top_lane,Role.solo
+1,Sebi,Viktor,True,Side.blue,4,6,20,4.0,157,Flash,Exhaust,16,False,12493,11125,Perfect Hex Core,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,,Rylai's Crystal Scepter,114095,11206,Lane.mid_lane,Role.solo
+2,skyWtr,Elise,True,Side.blue,8,6,13,3.5,167,Smite,Flash,17,False,14141,13780,Hextech Protobelt-01,Blasting Wand,Haunting Guise,Rylai's Crystal Scepter,Sorcerer's Shoes,Enchantment: Runic Echoes,141551,34109,Lane.jungle,Role.none
+3,Yusui,Karma,True,Side.blue,5,4,33,9.5,42,Ignite,Flash,15,False,13547,12050,Mikael's Crucible,Redemption,Locket of the Iron Solari,Ruby Sightstone,Frost Queen's Claim,Ionian Boots of Lucidity,33377,8490,Lane.bot_lane,Role.support
+4,Pond,Vayne,True,Side.blue,22,5,8,6.0,235,Heal,Flash,17,True,17919,15525,Infinity Edge,Berserker's Greaves,Statikk Shiv,Phantom Dancer,B. F. Sword,Maw of Malmortius,54821,160861,Lane.bot_lane,Role.carry
+5,4911,Ezreal,False,Side.red,8,6,7,2.5,163,Heal,Flash,14,False,12529,11683,Maw of Malmortius,Muramana,Trinity Force,Ionian Boots of Lucidity,,,13927,101883,Lane.bot_lane,Role.solo
+6,FIoopie,Alistar,False,Side.red,1,15,11,0.8,22,Flash,Exhaust,11,False,8870,8125,Knight's Vow,Redemption,Sightstone,Boots of Mobility,Relic Shield,Aegis of the Legion,9043,4323,Lane.jungle,Role.none
+7,KiNG Nidhogg,Ekko,False,Side.red,4,9,3,0.7777777777777778,96,Smite,Flash,14,False,10263,9875,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rod of Ages,Spectre's Cowl,Giant's Belt,Chain Vest,68780,25746,Lane.jungle,Role.none
+8,Kaiceytron,Zyra,False,Side.red,6,6,9,2.5,203,Teleport,Flash,15,False,13183,12500,,Doran's Ring,Liandry's Torment,Luden's Echo,Rabadon's Deathcap,Sorcerer's Shoes,135528,20127,Lane.top_lane,Role.solo
+9,Niles,Yasuo,False,Side.red,10,12,4,1.1666666666666667,257,Flash,Teleport,16,False,14944,14650,Berserker's Greaves,Phantom Dancer,Infinity Edge,Mortal Reminder,The Bloodthirster,,20507,164626,Lane.mid_lane,Role.solo

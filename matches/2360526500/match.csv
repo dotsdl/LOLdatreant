@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hyosung,LeBlanc,False,Side.blue,4,8,4,1.0,116,Flash,Teleport,12,False,7553,7375,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,Boots of Speed,Doran's Ring,,55578,6792,Lane.mid_lane,Role.solo
+1,WatchThePower,Riven,False,Side.blue,3,7,4,1.0,157,Flash,Teleport,13,False,8057,7150,The Black Cleaver,Tiamat,Quicksilver Sash,Long Sword,Ionian Boots of Lucidity,,0,81134,Lane.top_lane,Role.solo
+2,Shuvi,Kayle,False,Side.blue,2,5,5,1.4,106,Smite,Flash,12,False,7703,7675,Enchantment: Bloodrazor,Refillable Potion,Guinsoo's Rageblade,Recurve Bow,,Boots of Speed,46892,48531,Lane.jungle,Role.none
+3,Stirling Archer,Thresh,False,Side.blue,1,2,6,3.5,25,Exhaust,Flash,11,False,5567,4725,Face of the Mountain,Sightstone,Cloth Armor,,Boots of Mobility,,9924,3332,Lane.bot_lane,Role.support
+4,PetePeterPeter1,Caitlyn,False,Side.blue,1,6,0,0.16666666666666666,158,Flash,Heal,11,False,7565,7100,Infinity Edge,Cull,Doran's Blade,Berserker's Greaves,Zeal,,317,82351,Lane.bot_lane,Role.carry
+5,er ber ter,Poppy,True,Side.red,3,3,8,3.6666666666666665,138,Teleport,Flash,13,False,9214,8000,Corrupting Potion,Sunfire Cape,Mercury's Treads,Kindlegem,Iceborn Gauntlet,,24251,57773,Lane.top_lane,Role.solo
+6,am Juicy,Kha'Zix,True,Side.red,11,3,5,5.333333333333333,95,Flash,Smite,13,False,10695,10250,Ionian Boots of Lucidity,Enchantment: Warrior,Youmuu's Ghostblade,B. F. Sword,Tiamat,Serrated Dirk,4185,104188,Lane.jungle,Role.none
+7,PeonsGoZugZug,Taric,True,Side.red,2,1,9,11.0,28,Exhaust,Flash,11,False,6953,6020,Relic Shield,Boots of Swiftness,Ruby Sightstone,,Redemption,Negatron Cloak,4215,9553,Lane.bot_lane,Role.support
+8,yungELEF,Jhin,True,Side.red,3,1,7,10.0,179,Heal,Flash,12,True,9826,8800,Doran's Blade,Essence Reaver,Rapid Firecannon,Vampiric Scepter,Total Biscuit of Rejuvenation,Boots of Swiftness,2895,96354,Lane.bot_lane,Role.carry
+9,iK aiiR,Syndra,True,Side.red,9,3,8,5.666666666666667,170,Ignite,Flash,14,False,11603,10525,Doran's Ring,Rabadon's Deathcap,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Doran's Ring,111169,13564,Lane.mid_lane,Role.solo

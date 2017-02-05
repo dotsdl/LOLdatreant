@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,feud999,Ashe,False,Side.blue,1,11,6,0.6363636363636364,111,Flash,Heal,11,False,7424,7250,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Pickaxe,Doran's Blade,Cull,1491,51581,Lane.bot_lane,Role.carry
+1,fre3zingCold,Lissandra,False,Side.blue,2,10,1,0.3,124,Flash,Teleport,11,False,7448,7200,Doran's Ring,Rod of Ages,Abyssal Scepter,Sorcerer's Shoes,,,55951,7146,Lane.top_lane,Role.solo
+2,Rushil Fangirl,Thresh,False,Side.blue,0,9,5,0.5555555555555556,15,Flash,Exhaust,9,False,5639,5225,Targon's Brace,Sightstone,Locket of the Iron Solari,Ninja Tabi,,,4964,2205,Lane.bot_lane,Role.support
+3,Clyde Bot,Zac,False,Side.blue,8,3,6,4.666666666666667,84,Smite,Flash,12,False,8897,8725,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Spectre's Cowl,Randuin's Omen,Kindlegem,Refillable Potion,54303,9331,Lane.jungle,Role.none
+4,AvriI Lavigne,Viktor,False,Side.blue,7,8,5,1.5,192,Flash,Ghost,14,False,10958,10775,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,The Dark Seal,Void Staff,110148,8231,Lane.mid_lane,Role.solo
+5,LimitedExtent,Jhin,True,Side.red,9,2,12,10.5,169,Heal,Flash,14,True,13591,12550,Doran's Blade,Quicksilver Sash,Boots of Swiftness,Infinity Edge,Rapid Firecannon,Essence Reaver,6095,140987,Lane.jungle,Role.none
+6,An Obese Panda,Kennen,True,Side.red,5,4,7,3.0,159,Flash,Teleport,15,False,10541,9310,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,Blasting Wand,75225,25796,Lane.top_lane,Role.solo
+7,1234569,Lee Sin,True,Side.red,15,5,10,5.0,170,Flash,Smite,16,False,14836,11300,Tiamat,Enchantment: Warrior,Youmuu's Ghostblade,Mercury's Treads,Refillable Potion,Maw of Malmortius,27789,154410,Lane.jungle,Role.none
+8,iaMsaraK,Pantheon,True,Side.red,8,4,9,4.25,126,Flash,Ignite,14,False,10842,9595,Maw of Malmortius,Corrupting Potion,Mercury's Treads,The Black Cleaver,Negatron Cloak,Long Sword,8645,73430,Lane.mid_lane,Role.solo
+9,MongolWarrior,Blitzcrank,True,Side.red,4,3,15,6.333333333333333,27,Ignite,Flash,12,False,8656,7850,Eye of the Equinox,Locket of the Iron Solari,Redemption,Boots of Mobility,,,5830,9451,Lane.bot_lane,Role.solo

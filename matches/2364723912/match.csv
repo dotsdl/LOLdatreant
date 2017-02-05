@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,noscopesniped,Kennen,False,Side.blue,2,11,7,0.8181818181818182,128,Teleport,Flash,13,False,7813,6850,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,,,53244,19208,Lane.top_lane,Role.solo
+1,SEA MONKEY,Jinx,False,Side.blue,8,9,3,1.2222222222222223,110,Heal,Flash,13,False,8959,7700,Infinity Edge,Dagger,Cull,Doran's Blade,Berserker's Greaves,Recurve Bow,399,57645,Lane.bot_lane,Role.none
+2,UCLA MATH PHD,Rek'Sai,False,Side.blue,3,8,6,1.125,105,Smite,Flash,11,False,7844,7675,Enchantment: Cinderhulk,Refillable Potion,Titanic Hydra,Ninja Tabi,Cloth Armor,,16614,58688,Lane.bot_lane,Role.none
+3,Rubii,Viktor,False,Side.blue,3,6,3,1.0,144,Ghost,Flash,13,False,8290,7950,The Hex Core mk-2,Rylai's Crystal Scepter,Blasting Wand,Doran's Ring,Ionian Boots of Lucidity,,65152,10493,Lane.mid_lane,Role.solo
+4,viciouskittycat,Morgana,False,Side.blue,3,8,6,1.125,18,Exhaust,Flash,10,False,7265,5975,Frost Queen's Claim,Sightstone,Redemption,,Total Biscuit of Rejuvenation,Boots of Speed,13197,2489,Lane.bot_lane,Role.none
+5,Perrito,Ekko,True,Side.red,10,3,7,5.666666666666667,169,Ignite,Flash,15,False,11785,10125,Doran's Ring,Lich Bane,Hextech Revolver,Morellonomicon,Kindlegem,Sorcerer's Shoes,95154,15354,Lane.mid_lane,Role.solo
+6,JoDa Fucking Pen,Nautilus,True,Side.red,5,3,14,6.333333333333333,134,Teleport,Flash,15,False,10726,9175,Doran's Shield,Spirit Visage,Mercury's Treads,Sunfire Cape,Giant's Belt,Chain Vest,57918,19874,Lane.top_lane,Role.solo
+7,cùrz,Taric,True,Side.red,1,4,18,4.75,32,Flash,Exhaust,12,False,8394,7075,Ruby Sightstone,Face of the Mountain,Redemption,Control Ward,Ionian Boots of Lucidity,,7933,7333,Lane.bot_lane,Role.support
+8,KitingYeezus,Twitch,True,Side.red,21,4,6,6.75,106,Flash,Smite,14,True,14596,12775,Enchantment: Bloodrazor,Quicksilver Sash,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Vampiric Scepter,3656,113225,Lane.jungle,Role.none
+9,Str1fe,Caitlyn,True,Side.red,5,5,7,2.4,189,Flash,Heal,12,False,12159,11275,Doran's Blade,Runaan's Hurricane,Infinity Edge,Phantom Dancer,Berserker's Greaves,Long Sword,425,127792,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KaNKl,Caitlyn,True,Side.blue,14,5,11,5.0,174,Heal,Flash,15,False,14775,13325,Berserker's Greaves,Vampiric Scepter,Quicksilver Sash,Runaan's Hurricane,Rapid Firecannon,Infinity Edge,1239,163989,Lane.bot_lane,Role.carry
+1,OgaTatsumi1117,Nautilus,True,Side.blue,4,4,14,4.5,143,Flash,Teleport,15,False,10760,9725,Corrupting Potion,Mercury's Treads,Sunfire Cape,Banshee's Veil,Frozen Heart,,50479,23971,Lane.top_lane,Role.solo
+2,Henline74,Morgana,True,Side.blue,3,6,23,4.333333333333333,22,Exhaust,Flash,14,False,10726,9275,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Frost Queen's Claim,Needlessly Large Rod,Giant's Belt,28180,8566,Lane.bot_lane,Role.support
+3,LilIie,Lee Sin,True,Side.blue,7,6,18,4.166666666666667,146,Flash,Smite,15,False,12451,11750,Vampiric Scepter,Enchantment: Cinderhulk,Tiamat,Mercury's Treads,Dead Man's Plate,Spirit Visage,36150,91283,Lane.jungle,Role.none
+4,Wolfox,Xerath,True,Side.blue,14,7,5,2.7142857142857144,160,Flash,Ghost,15,False,13460,12450,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Rabadon's Deathcap,Doran's Ring,Blasting Wand,116183,13925,Lane.mid_lane,Role.solo
+5,Q8vegapunk,Elise,False,Side.red,10,12,8,1.5,68,Smite,Flash,14,True,10905,10125,Hextech Protobelt-01,Cloth Armor,Enchantment: Runic Echoes,Sorcerer's Shoes,Dead Man's Plate,Ruby Crystal,81841,20739,Lane.jungle,Role.none
+6,MeetBeater,Thresh,False,Side.red,2,10,13,1.5,29,Flash,Exhaust,12,False,7807,7650,Relic Shield,Locket of the Iron Solari,Redemption,Boots of Mobility,Ruby Sightstone,,12506,5750,Lane.bot_lane,Role.support
+7,Nariman,Ryze,False,Side.red,4,6,2,1.0,165,Flash,Ghost,13,False,9470,8725,Rod of Ages,Refillable Potion,Seraph's Embrace,Fiendish Codex,Ionian Boots of Lucidity,Lost Chapter,90362,7123,Lane.mid_lane,Role.solo
+8,TRUMPSSMALLHANDS,Vayne,False,Side.red,9,8,9,2.25,151,Flash,Heal,14,False,11300,11250,,Blade of the Ruined King,Berserker's Greaves,Infinity Edge,Rapid Firecannon,,3473,80487,Lane.bot_lane,Role.carry
+9,racecar3112,Maokai,False,Side.red,3,6,5,1.3333333333333333,183,Flash,Teleport,14,False,9881,9575,Corrupting Potion,Locket of the Iron Solari,Sunfire Cape,Ninja Tabi,Spirit Visage,,88727,16573,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NayvadiusWilburn,Sivir,True,Side.blue,3,6,15,3.0,213,Flash,Heal,14,False,12512,12200,Doran's Blade,Infinity Edge,Essence Reaver,Berserker's Greaves,Statikk Shiv,Long Sword,10589,123625,Lane.bot_lane,Role.carry
+1,Dystrex,Darius,True,Side.blue,10,5,8,3.6,197,Teleport,Flash,15,False,13025,11300,The Black Cleaver,Refillable Potion,Ninja Tabi,Dead Man's Plate,Zz'Rot Portal,Spectre's Cowl,1424,99564,Lane.top_lane,Role.solo
+2,MyTimeIsNow,Orianna,True,Side.blue,13,8,6,2.375,212,Cleanse,Flash,16,False,14413,12200,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Rabadon's Deathcap,Void Staff,141263,14205,Lane.mid_lane,Role.solo
+3,Budded,Vel'Koz,True,Side.blue,5,5,15,4.0,36,Exhaust,Flash,13,True,10851,9575,Locket of the Iron Solari,Eye of the Watchers,,Liandry's Torment,Crystalline Bracer,Ionian Boots of Lucidity,44612,5523,Lane.bot_lane,Role.support
+4,Henrÿ,Vi,True,Side.blue,8,7,6,2.0,103,Flash,Smite,14,False,11265,10160,,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Randuin's Omen,Ninja Tabi,2207,107088,Lane.jungle,Role.none
+5,KarasMai,Karma,False,Side.red,1,6,12,2.1666666666666665,20,Flash,Exhaust,12,False,7337,7225,Aegis of the Legion,Redemption,Null-Magic Mantle,Eye of the Watchers,Ionian Boots of Lucidity,,18759,2798,Lane.bot_lane,Role.support
+6,1936 1948,Shaco,False,Side.red,8,11,9,1.5454545454545454,103,Smite,Ignite,14,False,10268,10175,Titanic Hydra,Enchantment: Warrior,Bilgewater Cutlass,Boots of Mobility,Hextech Revolver,Null-Magic Mantle,24673,68928,Lane.jungle,Role.none
+7,jyjyjy,Twisted Fate,False,Side.red,10,7,9,2.7142857142857144,203,Flash,Ghost,15,False,13578,12125,Lich Bane,Luden's Echo,Void Staff,Needlessly Large Rod,Doran's Ring,Ionian Boots of Lucidity,124761,14237,Lane.mid_lane,Role.solo
+8,Cat Ears,Vayne,False,Side.red,6,9,2,0.8888888888888888,163,Flash,Heal,13,False,10433,9800,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Statikk Shiv,Zeal,19225,68205,Lane.bot_lane,Role.carry
+9,Carkyn,Yasuo,False,Side.red,6,6,8,2.3333333333333335,193,Flash,Teleport,14,False,10817,10000,Doran's Blade,Phantom Dancer,Infinity Edge,Jaurim's Fist,Ninja Tabi,Vampiric Scepter,31426,92868,Lane.jungle,Role.none

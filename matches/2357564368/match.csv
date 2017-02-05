@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dyrus,Anivia,False,Side.blue,3,2,4,3.5,244,Teleport,Flash,15,False,10659,10350,Zhonya's Hourglass,Seraph's Embrace,,Rod of Ages,Sorcerer's Shoes,Doran's Ring,128694,10274,Lane.top_lane,Role.solo
+1,Just what I am,Elise,False,Side.blue,6,4,4,2.5,119,Flash,Smite,13,False,9663,9225,Rylai's Crystal Scepter,Refillable Potion,Sorcerer's Shoes,Enchantment: Runic Echoes,Giant's Belt,Warden's Mail,70953,28076,Lane.jungle,Role.none
+2,Dhokla,Karma,False,Side.blue,0,11,10,0.9090909090909091,47,Flash,Exhaust,11,False,8106,6875,Eye of the Watchers,Refillable Potion,Redemption,Control Ward,Boots of Swiftness,Aegis of the Legion,26206,9447,Lane.bot_lane,Role.duo
+3,blaberfish2,Ahri,False,Side.blue,9,7,5,2.0,165,Flash,Ignite,14,False,10715,10610,Needlessly Large Rod,Morellonomicon,Giant's Belt,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,62428,12156,Lane.mid_lane,Role.solo
+4,Useless Champ,Kog'Maw,False,Side.blue,2,10,1,0.3,134,Heal,Flash,11,True,8448,7550,Blade of the Ruined King,Cull,Long Sword,Berserker's Greaves,Sheen,Stinger,14196,49970,Lane.bot_lane,Role.duo
+5,Liquid fabbbyyy,Twitch,True,Side.red,11,6,10,3.5,198,Flash,Heal,15,False,13629,10600,Quicksilver Sash,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Zeal,0,127972,Lane.bot_lane,Role.carry
+6,Årcee,Blitzcrank,True,Side.red,4,5,12,3.2,53,Ignite,Flash,13,False,9572,8050,Eye of the Equinox,Redemption,Knight's Vow,,,Boots of Swiftness,16542,11957,Lane.bot_lane,Role.support
+7,CloudNguyén,Hecarim,True,Side.red,4,3,6,3.3333333333333335,139,Smite,Ghost,14,False,10563,8683,Spirit Visage,Hunter's Potion,Control Ward,Hunter's Machete,Trinity Force,Mercury's Treads,8193,112037,Lane.jungle,Role.none
+8,Darvec,Nasus,True,Side.red,2,3,3,1.6666666666666667,213,Teleport,Flash,15,False,10591,8950,Corrupting Potion,Zz'Rot Portal,Spirit Visage,Doran's Ring,Mercury's Treads,Sheen,76604,45532,Lane.top_lane,Role.solo
+9,Alex Ich 1,Ryze,True,Side.red,13,3,5,6.0,189,Flash,Cleanse,16,False,13247,11000,Ionian Boots of Lucidity,Refillable Potion,Seraph's Embrace,Rod of Ages,Abyssal Scepter,Needlessly Large Rod,145850,13163,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cruchaga,Caitlyn,True,Side.blue,2,2,2,2.0,177,Heal,Flash,12,False,10652,8550,Doran's Blade,Cull,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Total Biscuit of Rejuvenation,590,120173,Lane.bot_lane,Role.carry
+1,WatchThePower,Rek'Sai,True,Side.blue,5,0,9,14.0,170,Flash,Smite,15,False,11529,11275,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Ninja Tabi,Infinity Edge,Cloth Armor,38575,112088,Lane.jungle,Role.none
+2,Kelvin29ng,Morgana,True,Side.blue,2,4,10,3.0,9,Exhaust,Flash,11,False,7740,6075,Redemption,Eye of the Watchers,Cloth Armor,Boots of Mobility,Control Ward,,10067,6172,Lane.bot_lane,Role.support
+3,The SickMotion,Malzahar,True,Side.blue,10,2,2,6.0,178,Teleport,Flash,14,False,11943,11625,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,68339,27513,Lane.top_lane,Role.solo
+4,ironhide65,Jarvan IV,True,Side.blue,8,2,7,7.5,155,Ignite,Flash,14,True,11348,9275,Mercury's Treads,Youmuu's Ghostblade,B. F. Sword,The Black Cleaver,,Doran's Blade,3566,86367,Lane.mid_lane,Role.solo
+5,Rivett,Thresh,False,Side.red,1,4,4,1.25,20,Flash,Ignite,9,False,5246,3525,Health Potion,Eye of the Equinox,,Boots of Mobility,,,5154,3219,Lane.bot_lane,Role.support
+6,MadMistro,Draven,False,Side.red,3,6,3,1.0,122,Heal,Flash,11,False,7986,7575,Doran's Blade,Infinity Edge,Kircheis Shard,Berserker's Greaves,Vampiric Scepter,Cull,78,45473,Lane.bot_lane,Role.carry
+7,DrGrimm,Yasuo,False,Side.red,2,7,0,0.2857142857142857,145,Teleport,Flash,12,False,6999,6700,Phantom Dancer,Health Potion,Quicksilver Sash,Doran's Blade,Berserker's Greaves,Pickaxe,11594,58296,Lane.top_lane,Role.solo
+8,SexyTae,Elise,False,Side.red,1,4,0,0.25,68,Smite,Flash,10,False,6013,5150,Warden's Mail,Refillable Potion,,Enchantment: Runic Echoes,Giant's Belt,Boots of Speed,29873,17061,Lane.jungle,Role.none
+9,AR ActuallyAFK,Viktor,False,Side.red,2,6,1,0.5,156,Flash,Ghost,12,False,7337,6585,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,Seeker's Armguard,Amplifying Tome,64848,5704,Lane.mid_lane,Role.solo

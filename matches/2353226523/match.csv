@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KiteAzure,Fiora,False,Side.blue,6,5,6,2.4,167,Flash,Teleport,15,True,10532,10050,Doran's Blade,Ravenous Hydra,The Black Cleaver,Hexdrinker,Ninja Tabi,Long Sword,1467,95571,Lane.top_lane,Role.solo
+1,Gnoeshe,Corki,False,Side.blue,1,8,7,1.0,213,Exhaust,Flash,14,False,10010,9508,Trinity Force,Hextech Gunblade,Sorcerer's Shoes,Corrupting Potion,Brawler's Gloves,Dagger,101270,26401,Lane.mid_lane,Role.solo
+2,DumPooPoo,Sejuani,False,Side.blue,6,7,6,1.7142857142857142,139,Smite,Flash,15,False,10708,10700,Randuin's Omen,Abyssal Scepter,Enchantment: Cinderhulk,Boots of Swiftness,Giant's Belt,Cloth Armor,85242,26443,Lane.jungle,Role.none
+3,Legend of Korra,Janna,False,Side.blue,2,2,8,5.0,12,Exhaust,Flash,12,False,7703,7250,Ruby Sightstone,Talisman of Ascension,Crystalline Bracer,Control Ward,Ionian Boots of Lucidity,Aegis of the Legion,4103,5339,Lane.bot_lane,Role.support
+4,vicXD,Caitlyn,False,Side.blue,1,7,5,0.8571428571428571,255,Flash,Heal,14,False,10454,10050,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,Kircheis Shard,563,143019,Lane.bot_lane,Role.carry
+5,Luiski,Vel'Koz,True,Side.red,7,2,8,7.5,230,Flash,Ghost,17,False,13929,9300,Doran's Ring,Morellonomicon,Liandry's Torment,Sorcerer's Shoes,Needlessly Large Rod,,133376,15347,Lane.mid_lane,Role.solo
+6,support or troll,Varus,True,Side.red,4,3,13,5.666666666666667,235,Heal,Flash,15,False,13383,12125,Mortal Reminder,Runaan's Hurricane,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Long Sword,10445,154041,Lane.bot_lane,Role.carry
+7,wáck,Yasuo,True,Side.red,10,6,9,3.1666666666666665,250,Teleport,Flash,17,False,15667,14095,Phantom Dancer,The Bloodthirster,Infinity Edge,Chain Vest,Negatron Cloak,Berserker's Greaves,43106,171744,Lane.top_lane,Role.solo
+8,Paxton,Rumble,True,Side.red,8,3,5,4.333333333333333,163,Flash,Smite,16,False,13314,11645,Enchantment: Runic Echoes,Negatron Cloak,Mercury's Treads,Dead Man's Plate,Spirit Visage,Raptor Cloak,123850,25493,Lane.jungle,Role.none
+9,U LoZe,Bard,True,Side.red,0,2,13,6.5,21,Flash,Exhaust,14,False,9116,6900,Zz'Rot Portal,Sightstone,Frost Queen's Claim,Ionian Boots of Lucidity,,,13122,6497,Lane.bot_lane,Role.support

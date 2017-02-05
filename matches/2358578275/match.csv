@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ChiralX,Lucian,True,Side.blue,1,8,11,1.5,145,Heal,Flash,13,False,10238,8500,Doran's Blade,Edge of Night,Cull,The Black Cleaver,Berserker's Greaves,,2167,82520,Lane.bot_lane,Role.none
+1,Justin Baeber,Orianna,True,Side.blue,7,3,10,5.666666666666667,161,Flash,Ghost,15,False,11776,11225,Doran's Ring,Morellonomicon,Blasting Wand,Abyssal Scepter,Void Staff,Sorcerer's Shoes,95936,16879,Lane.mid_lane,Role.solo
+2,tubzzzz,Nami,True,Side.blue,3,4,18,5.25,8,Exhaust,Flash,12,False,9859,8050,Ionian Boots of Lucidity,Mejai's Soulstealer,Control Ward,Redemption,Eye of the Watchers,Forbidden Idol,8462,6312,Lane.bot_lane,Role.none
+3,DanWithAPlan,Kayle,True,Side.blue,11,5,8,3.8,142,Smite,Flash,15,False,12995,10850,Berserker's Greaves,Enchantment: Bloodrazor,Guinsoo's Rageblade,Nashor's Tooth,Dagger,,75861,80567,Lane.bot_lane,Role.none
+4,WolveiiMD,Darius,True,Side.blue,14,2,7,10.5,197,Ghost,Teleport,16,False,14100,11450,The Black Cleaver,Mercury's Treads,Randuin's Omen,Corrupting Potion,Dead Man's Plate,Chain Vest,504,126153,Lane.top_lane,Role.solo
+5,rank 2,Maokai,False,Side.red,2,11,3,0.45454545454545453,120,Flash,Teleport,13,False,7699,6375,Doran's Ring,Corrupting Potion,Sunfire Cape,Cloth Armor,Mercury's Treads,Giant's Belt,56902,9963,Lane.top_lane,Role.solo
+6,am sol,LeBlanc,False,Side.red,5,9,6,1.2222222222222223,149,Ignite,Flash,14,False,9177,7925,Abyssal Scepter,Health Potion,Sorcerer's Shoes,Morellonomicon,Doran's Ring,,75388,12612,Lane.mid_lane,Role.solo
+7,W1NTERHOWL,Vi,False,Side.red,4,5,7,2.2,100,Smite,Flash,13,False,8833,8683,Enchantment: Warrior,Mercury's Treads,Refillable Potion,Ruby Crystal,Trinity Force,Null-Magic Mantle,1250,97111,Lane.jungle,Role.none
+8,i love hitagi,Caitlyn,False,Side.red,11,4,5,4.0,175,Heal,Flash,12,True,11410,10550,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,1827,115285,Lane.bot_lane,Role.carry
+9,Krewl,Blitzcrank,False,Side.red,0,7,10,1.4285714285714286,29,Exhaust,Flash,11,False,6700,5875,Face of the Mountain,Ruby Sightstone,Tear of the Goddess,Boots of Mobility,Control Ward,,10499,5697,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wei Jing QAQ,Evelynn,False,Side.blue,4,5,3,1.4,78,Smite,Flash,11,True,7155,6725,Hextech Protobelt-01,Refillable Potion,Enchantment: Runic Echoes,The Dark Seal,Sorcerer's Shoes,,43343,19802,Lane.jungle,Role.none
+1,M5 XJ9,Nasus,False,Side.blue,0,3,2,0.6666666666666666,176,Teleport,Flash,13,False,8214,7250,Doran's Shield,Giant's Belt,Zz'Rot Portal,Doran's Ring,Ninja Tabi,Warden's Mail,59526,25289,Lane.top_lane,Role.solo
+2,Glader,Ezreal,False,Side.blue,4,7,4,1.1428571428571428,128,Flash,Heal,10,False,7825,7525,Doran's Blade,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,Pickaxe,,4282,50941,Lane.bot_lane,Role.carry
+3,fobbbyyy,Viktor,False,Side.blue,4,4,3,1.75,171,Ghost,Flash,13,False,8697,8360,Perfect Hex Core,Doran's Ring,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,78651,9475,Lane.mid_lane,Role.solo
+4,Oh Jeeze,Thresh,False,Side.blue,1,7,8,1.2857142857142858,30,Exhaust,Flash,10,False,6236,5950,Sightstone,Face of the Mountain,Glacial Shroud,Boots of Mobility,Cloth Armor,Cloth Armor,7577,3771,Lane.bot_lane,Role.support
+5,Funk Me Softly,Leona,True,Side.red,1,6,10,1.8333333333333333,30,Flash,Ignite,11,False,7450,6125,Face of the Mountain,Sightstone,Aegis of the Legion,,Null-Magic Mantle,Boots of Mobility,13337,5982,Lane.bot_lane,Role.support
+6,am tham ben em,Orianna,True,Side.red,11,2,9,10.0,183,Flash,Ghost,14,False,12515,12575,Sorcerer's Shoes,Morellonomicon,Blasting Wand,Luden's Echo,Void Staff,Needlessly Large Rod,104276,11875,Lane.mid_lane,Role.solo
+7,Mishas Swamp,Lee Sin,True,Side.red,8,1,8,16.0,64,Smite,Flash,12,False,9537,8950,Boots of Mobility,Serrated Dirk,Spectre's Cowl,Dead Man's Plate,Enchantment: Warrior,,8217,62095,Lane.jungle,Role.none
+8,scarraCANNON,Riven,True,Side.red,3,2,2,2.5,209,Flash,Teleport,15,False,10542,7550,Refillable Potion,The Black Cleaver,Ionian Boots of Lucidity,Tiamat,Vampiric Scepter,Pickaxe,0,129202,Lane.top_lane,Role.solo
+9,Clasiik,Caitlyn,True,Side.red,3,2,7,5.0,175,Heal,Flash,13,False,10193,9900,Doran's Blade,Last Whisper,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Long Sword,1915,104550,Lane.bot_lane,Role.carry

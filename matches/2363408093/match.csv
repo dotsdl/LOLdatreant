@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,InfectedNutz,Karma,False,Side.blue,3,2,4,3.5,129,Teleport,Flash,13,False,7339,6810,Doran's Ring,Amplifying Tome,Abyssal Scepter,Sorcerer's Shoes,Lost Chapter,Fiendish Codex,49735,11371,Lane.mid_lane,Role.solo
+1,ONLYPLAYKALISTA,Poppy,False,Side.blue,6,6,9,2.5,139,Teleport,Flash,14,False,8990,8475,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,,Spectre's Cowl,Ninja Tabi,13394,61625,Lane.top_lane,Role.solo
+2,Malli,Jhin,False,Side.blue,2,10,2,0.4,92,Flash,Heal,10,False,6548,5950,Refillable Potion,Cull,Essence Reaver,Doran's Blade,Ionian Boots of Lucidity,Dagger,2215,47257,Lane.bot_lane,Role.carry
+3,Asukira,Taliyah,False,Side.blue,1,9,7,0.8888888888888888,25,Exhaust,Flash,11,False,6000,5650,Sightstone,Rylai's Crystal Scepter,,,Frostfang,Boots of Speed,25947,3379,Lane.bot_lane,Role.support
+4,Rape Train,Lee Sin,False,Side.blue,9,8,2,1.375,84,Smite,Flash,12,False,8385,7575,Enchantment: Warrior,Cloth Armor,Ninja Tabi,Hexdrinker,Caulfield's Warhammer,Giant's Belt,17744,48654,Lane.jungle,Role.none
+5,Ðan the Man,Rek'Sai,True,Side.red,5,5,7,2.4,127,Smite,Flash,14,False,10956,10025,Enchantment: Cinderhulk,Boots of Mobility,Titanic Hydra,Cloth Armor,Giant's Belt,Spectre's Cowl,28318,109334,Lane.jungle,Role.none
+6, keine Hosen,Twitch,True,Side.red,22,4,4,6.5,133,Flash,Heal,13,True,15148,13075,Runaan's Hurricane,Blade of the Ruined King,Infinity Edge,Last Whisper,Doran's Blade,Berserker's Greaves,158,110922,Lane.bot_lane,Role.carry
+7,KiteAzure,Riven,True,Side.red,4,6,5,1.5,112,Flash,Teleport,13,False,8778,8075,Refillable Potion,Ravenous Hydra,Ninja Tabi,The Black Cleaver,,,0,64278,Lane.top_lane,Role.solo
+8,STR Tyler1,Janna,True,Side.red,0,5,17,3.4,7,Exhaust,Flash,11,False,7938,6425,Eye of the Oasis,Redemption,Null-Magic Mantle,The Dark Seal,Ionian Boots of Lucidity,Cloth Armor,2778,3187,Lane.bot_lane,Role.support
+9,Ledatic,LeBlanc,True,Side.red,4,1,5,9.0,170,Flash,Ignite,14,False,9911,9250,Rylai's Crystal Scepter,Blasting Wand,Doran's Ring,,Sorcerer's Shoes,Morellonomicon,77937,12609,Lane.mid_lane,Role.solo

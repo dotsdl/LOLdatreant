@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,i miss you haru,Jhin,False,Side.blue,1,2,3,2.0,158,Flash,Heal,12,False,7906,7750,Doran's Blade,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,,,6015,91139,Lane.bot_lane,Role.carry
+1,Pearsauce,Veigar,False,Side.blue,2,3,1,1.0,192,Flash,Barrier,13,False,8252,8245,,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,101679,10701,Lane.mid_lane,Role.solo
+2,GoSuPoTaTo,Master Yi,False,Side.blue,3,9,1,0.4444444444444444,130,Smite,Ghost,13,True,8253,7825,Enchantment: Bloodrazor,Duskblade of Draktharr,Ninja Tabi,Ruby Crystal,Cloth Armor,,1342,98020,Lane.jungle,Role.none
+3,bae af,Janna,False,Side.blue,0,3,2,0.6666666666666666,9,Exhaust,Flash,11,False,5507,4925,,Redemption,Sightstone,Ionian Boots of Lucidity,Ancient Coin,Null-Magic Mantle,5478,2711,Lane.bot_lane,Role.support
+4,Nero Valentine,Yasuo,False,Side.blue,0,6,1,0.16666666666666666,190,Teleport,Flash,13,False,8194,8100,Doran's Blade,Infinity Edge,Phantom Dancer,,Berserker's Greaves,,27244,91363,Lane.top_lane,Role.solo
+5,RockyTSaws,Caitlyn,True,Side.red,2,2,8,5.0,197,Heal,Flash,13,False,10770,10125,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Vampiric Scepter,Zeal,887,142283,Lane.bot_lane,Role.carry
+6,TaeYeonT,Ezreal,True,Side.red,2,0,7,9.0,179,Exhaust,Flash,14,False,10397,10075,Doran's Blade,Ionian Boots of Lucidity,Blade of the Ruined King,Iceborn Gauntlet,,Muramana,12306,91092,Lane.mid_lane,Role.solo
+7,Wukongs Decoy,Wukong,True,Side.red,7,1,4,11.0,173,Teleport,Flash,15,False,11338,11000,Righteous Glory,Corrupting Potion,Serrated Dirk,Dead Man's Plate,The Black Cleaver,Ionian Boots of Lucidity,2435,105782,Lane.top_lane,Role.solo
+8,Rank2 Banana,Elise,True,Side.red,9,1,4,13.0,154,Flash,Smite,15,False,12268,9735,Enchantment: Runic Echoes,Needlessly Large Rod,Hextech Protobelt-01,Sorcerer's Shoes,Haunting Guise,Amplifying Tome,126135,35315,Lane.jungle,Role.none
+9,Aellectris,Karma,True,Side.red,2,2,10,6.0,26,Exhaust,Flash,12,False,9365,7825,,,Eye of the Watchers,Athene's Unholy Grail,Ardent Censer,Boots of Mobility,25504,7314,Lane.bot_lane,Role.support

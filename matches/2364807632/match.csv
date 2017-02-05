@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,QuickRev,Alistar,True,Side.blue,2,2,17,9.5,57,Flash,Exhaust,14,False,10946,9750,Knight's Vow,Locket of the Iron Solari,Sightstone,Targon's Brace,Boots of Swiftness,Banshee's Veil,16590,10260,Lane.bot_lane,Role.support
+1,Gweiss,Graves,True,Side.blue,6,4,8,3.5,253,Smite,Flash,17,False,15006,14575,Enchantment: Warrior,Mercurial Scimitar,Last Whisper,Mercury's Treads,Phantom Dancer,Maw of Malmortius,6407,239312,Lane.jungle,Role.none
+2,HvK LiquidDiego,Viktor,True,Side.blue,6,4,9,3.75,179,Flash,Ghost,15,False,12682,11535,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Abyssal Scepter,,102160,14517,Lane.mid_lane,Role.solo
+3,Mi Amor Teemo,Trundle,True,Side.blue,4,7,9,1.8571428571428572,319,Flash,Teleport,17,False,15354,14608,Spirit Visage,Ravenous Hydra,Control Ward,Trinity Force,Dead Man's Plate,Mercury's Treads,4239,210110,Lane.top_lane,Role.solo
+4,C9 Gun,Twitch,True,Side.blue,9,5,12,4.2,311,Flash,Heal,17,True,17140,15625,Blade of the Ruined King,Quicksilver Sash,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Mortal Reminder,76,223053,Lane.bot_lane,Role.carry
+5,DumPooPoo,Lucian,False,Side.red,2,6,5,1.1666666666666667,214,Heal,Flash,14,False,11409,10075,Doran's Blade,The Black Cleaver,Infinity Edge,Berserker's Greaves,Zeal,Dagger,3545,130772,Lane.bot_lane,Role.duo
+6,Kevin Loves You,Nasus,False,Side.red,5,4,5,2.5,268,Teleport,Flash,16,False,13226,12800,Chain Vest,Zz'Rot Portal,Vampiric Scepter,Mercury's Treads,Iceborn Gauntlet,Spirit Visage,95615,69585,Lane.top_lane,Role.solo
+7,TheOddOrange,Brand,False,Side.red,1,10,9,1.0,96,Flash,Ignite,13,False,10205,9675,Void Staff,Eye of the Watchers,Rylai's Crystal Scepter,,Sorcerer's Shoes,,77230,11422,Lane.bot_lane,Role.duo
+8,skyWtr,Elise,False,Side.red,5,2,8,6.5,160,Smite,Flash,16,False,12560,14080,Zhonya's Hourglass,Hextech Protobelt-01,,Void Staff,Sorcerer's Shoes,Enchantment: Runic Echoes,158741,35923,Lane.jungle,Role.none
+9,GangstahSwerve,Ekko,False,Side.red,9,5,6,3.0,255,Teleport,Flash,17,False,13793,12400,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Doran's Ring,Blasting Wand,171187,18307,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LADYBABY,Zilean,False,Side.blue,1,4,6,1.75,53,Ignite,Flash,13,False,8681,8550,Redemption,Eye of the Watchers,Control Ward,Morellonomicon,,Boots of Swiftness,54525,3657,Lane.bot_lane,Role.support
+1,UO Daniel Wu,Vayne,False,Side.blue,1,8,6,0.875,172,Flash,Heal,12,False,9312,8650,Phantom Dancer,,Infinity Edge,Berserker's Greaves,,,0,90632,Lane.bot_lane,Role.carry
+2,z11  ,Lee Sin,False,Side.blue,4,8,4,1.0,149,Flash,Smite,14,False,10326,9625,Tiamat,Enchantment: Warrior,Boots of Mobility,Randuin's Omen,Refillable Potion,Spectre's Cowl,17306,120294,Lane.jungle,Role.none
+3,Joelzzz,Renekton,False,Side.blue,4,8,2,0.75,246,Teleport,Flash,15,False,10221,9225,Dead Man's Plate,Mercury's Treads,Doran's Shield,The Black Cleaver,Last Whisper,,7602,124168,Lane.top_lane,Role.solo
+4,Patented Jax ,Orianna,False,Side.blue,1,4,3,1.0,188,Ghost,Flash,14,False,9217,8860,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Rabadon's Deathcap,Amplifying Tome,,81002,15110,Lane.mid_lane,Role.solo
+5,KT Score,Ivern,True,Side.red,7,2,21,14.0,136,Smite,Flash,16,False,13892,13550,Redemption,Rylai's Crystal Scepter,Locket of the Iron Solari,Mejai's Soulstealer,Athene's Unholy Grail,Ionian Boots of Lucidity,50208,15380,Lane.jungle,Role.none
+6,Y8Y,Nautilus,True,Side.red,1,3,12,4.333333333333333,35,Flash,Exhaust,12,False,8799,6875,Ruby Sightstone,,Dead Man's Plate,Boots of Mobility,Targon's Brace,,18373,7279,Lane.bot_lane,Role.support
+7,Dat Boiiiiiiiii,Zed,True,Side.red,12,5,2,2.8,222,Flash,Ignite,15,False,14130,12750,Youmuu's Ghostblade,Blade of the Ruined King,Mercury's Treads,Tiamat,The Black Cleaver,Vampiric Scepter,10486,136887,Lane.mid_lane,Role.solo
+8,Hècarim,Ezreal,True,Side.red,2,1,14,16.0,170,Heal,Flash,14,False,10955,8425,Doran's Blade,Bilgewater Cutlass,Dagger,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,22383,76507,Lane.bot_lane,Role.carry
+9,Horny Pix,Lulu,True,Side.red,10,1,8,18.0,207,Flash,Teleport,15,True,13954,11160,The Dark Seal,Zz'Rot Portal,Lich Bane,Luden's Echo,Ionian Boots of Lucidity,Amplifying Tome,64514,24229,Lane.top_lane,Role.solo

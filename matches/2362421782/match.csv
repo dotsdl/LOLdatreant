@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,nilhaG,Hecarim,True,Side.blue,8,1,6,14.0,127,Ghost,Smite,13,False,10114,9758,Enchantment: Cinderhulk,Kindlegem,Control Ward,Trinity Force,Mercury's Treads,Spectre's Cowl,9297,107317,Lane.jungle,Role.none
+1,lost in thoughts,LeBlanc,True,Side.blue,8,1,4,12.0,189,Flash,Teleport,14,True,11266,9585,Rabadon's Deathcap,Morellonomicon,Doran's Ring,,Sorcerer's Shoes,Amplifying Tome,87508,13253,Lane.mid_lane,Role.solo
+2,Darvec,Maokai,True,Side.blue,2,1,0,2.0,180,Teleport,Flash,13,False,9162,7250,Corrupting Potion,Doran's Ring,Kindlegem,Sunfire Cape,Ninja Tabi,Spectre's Cowl,80073,22821,Lane.top_lane,Role.solo
+3,Grnlefboy2,Bard,True,Side.blue,0,3,14,4.666666666666667,2,Flash,Exhaust,11,False,6722,6275,Redemption,Null-Magic Mantle,Eye of the Watchers,Boots of Mobility,Control Ward,Total Biscuit of Rejuvenation,6916,2157,Lane.bot_lane,Role.support
+4,Tai Draven,Draven,True,Side.blue,6,3,7,4.333333333333333,156,Flash,Heal,12,False,11082,10850,Doran's Blade,Blade of the Ruined King,Mercurial Scimitar,Boots of Speed,Dagger,Lord Dominik's Regards,78,83634,Lane.bot_lane,Role.carry
+5,Espir III,Twisted Fate,False,Side.red,0,6,3,0.5,142,Flash,Teleport,12,False,6839,6195,Doran's Ring,Control Ward,Negatron Cloak,Ionian Boots of Lucidity,Rod of Ages,Fiendish Codex,64790,9023,Lane.mid_lane,Role.solo
+6,eRx,Riven,False,Side.red,2,4,1,0.75,142,Teleport,Flash,12,False,6775,6400,The Black Cleaver,Hexdrinker,Health Potion,Long Sword,Long Sword,Ionian Boots of Lucidity,0,54287,Lane.top_lane,Role.solo
+7,Whisper,Ezreal,False,Side.red,2,4,4,1.5,115,Heal,Flash,10,False,6512,6283,Doran's Blade,Trinity Force,Berserker's Greaves,Tear of the Goddess,,,11386,46329,Lane.bot_lane,Role.carry
+8,Sawyerr,Janna,False,Side.red,0,3,6,2.0,4,Ignite,Flash,9,False,4632,3600,Ancient Coin,Refillable Potion,Forbidden Idol,Boots of Mobility,Null-Magic Mantle,Sightstone,2400,2798,Lane.bot_lane,Role.support
+9,amumumu,Amumu,False,Side.red,5,7,1,0.8571428571428571,93,Flash,Smite,11,False,7420,6600,Enchantment: Runic Echoes,Hunter's Potion,Ninja Tabi,Guardian Angel,,,55330,18913,Lane.jungle,Role.none

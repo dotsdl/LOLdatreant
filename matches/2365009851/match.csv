@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RealTeemo,Teemo,False,Side.blue,5,11,3,0.7272727272727273,91,Ignite,Flash,11,False,6848,6585,Doran's Ring,Corrupting Potion,Fiendish Codex,Amplifying Tome,Nashor's Tooth,Sorcerer's Shoes,36342,11974,Lane.top_lane,Role.solo
+1,Zojuu,Viktor,False,Side.blue,1,6,5,1.0,133,Flash,Cleanse,11,False,6388,5935,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Giant's Belt,Amplifying Tome,,75402,5503,Lane.mid_lane,Role.solo
+2,The Puzzle,Caitlyn,False,Side.blue,1,8,5,0.75,89,Flash,Heal,10,False,5896,5750,Doran's Blade,Cull,Total Biscuit of Rejuvenation,Berserker's Greaves,Infinity Edge,,376,34710,Lane.bot_lane,Role.carry
+3,TheLittleWookie,Bard,False,Side.blue,0,10,7,0.7,14,Flash,Ignite,9,False,5283,5050,,Eye of the Watchers,,Cloth Armor,Glacial Shroud,Ionian Boots of Lucidity,6805,2985,Lane.bot_lane,Role.support
+4,THEKCPROdigy,Vi,False,Side.blue,5,3,1,2.0,75,Smite,Flash,11,False,6733,6358,Stalker's Blade,Trinity Force,Caulfield's Warhammer,,,Boots of Speed,663,59963,Lane.jungle,Role.none
+5,LetsGameItUp,Draven,True,Side.red,17,1,3,20.0,177,Flash,Heal,12,True,15295,13800,Giant Slayer,Rapid Firecannon,Infinity Edge,Berserker's Greaves,Last Whisper,The Bloodthirster,3214,133830,Lane.bot_lane,Role.carry
+6,Kid in Spanish,Fiora,True,Side.red,9,3,5,4.666666666666667,185,Teleport,Flash,14,False,11498,9858,Trinity Force,Ravenous Hydra,Cull,Doran's Blade,Doran's Shield,Mercury's Treads,3434,97491,Lane.top_lane,Role.solo
+7,Iron Quads,Brand,True,Side.red,8,1,9,17.0,116,Ignite,Flash,13,False,9837,6285,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,Blasting Wand,59807,12403,Lane.mid_lane,Role.solo
+8,KnG Nightmare,Leona,True,Side.red,2,3,15,5.666666666666667,24,Flash,Exhaust,10,False,8029,7675,Boots of Mobility,Face of the Mountain,Locket of the Iron Solari,Glacial Shroud,Cloth Armor,Sightstone,8629,6416,Lane.bot_lane,Role.support
+9,Haynay,Ivern,True,Side.red,2,4,9,2.75,63,Smite,Flash,12,False,8017,7000,Ruby Crystal,Athene's Unholy Grail,Redemption,Skirmisher's Sabre,The Dark Seal,Ionian Boots of Lucidity,6439,3978,Lane.jungle,Role.none

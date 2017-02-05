@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,McCABINATOR,Vayne,True,Side.blue,7,4,9,4.0,151,Flash,Heal,13,False,11798,10985,Infinity Edge,Doran's Blade,Statikk Shiv,Last Whisper,Berserker's Greaves,Giant Slayer,8168,73685,Lane.bot_lane,Role.carry
+1,LaWueraAsesina,Nami,True,Side.blue,2,2,16,9.0,6,Flash,Exhaust,11,False,8712,7550,Crystalline Bracer,Frost Queen's Claim,Sightstone,Forbidden Idol,Locket of the Iron Solari,Boots of Speed,9111,5840,Lane.bot_lane,Role.support
+2,Jaximus meridius,Ahri,True,Side.blue,7,2,9,8.0,148,Flash,Ignite,13,False,11005,9233,The Dark Seal,B. F. Sword,Berserker's Greaves,Pickaxe,Trinity Force,Zeal,31909,47467,Lane.mid_lane,Role.solo
+3,WatchThePower,Lee Sin,True,Side.blue,9,5,9,3.6,141,Flash,Smite,14,True,11695,10600,Enchantment: Warrior,Control Ward,Ionian Boots of Lucidity,Maw of Malmortius,Dead Man's Plate,Ruby Crystal,21905,106887,Lane.jungle,Role.none
+4,Dyr0nejk2,Renekton,True,Side.blue,7,2,8,7.5,196,Teleport,Flash,15,False,11790,10225,Tiamat,,The Black Cleaver,Mercury's Treads,Blade of the Ruined King,Ruby Crystal,6498,121484,Lane.top_lane,Role.solo
+5,JaySea,Maokai,False,Side.red,0,6,7,1.1666666666666667,172,Teleport,Flash,13,False,8194,7700,Mercury's Treads,Sunfire Cape,Randuin's Omen,Doran's Ring,,,82415,13767,Lane.top_lane,Role.solo
+6,Tayisdaman,Ezreal,False,Side.red,3,7,5,1.1428571428571428,142,Flash,Heal,12,False,8164,7500,Doran's Blade,Manamune,Iceborn Gauntlet,Ionian Boots of Lucidity,Vampiric Scepter,,9369,63096,Lane.bot_lane,Role.carry
+7,ILee Sin Bot,Graves,False,Side.red,8,5,5,2.6,130,Flash,Smite,13,False,10370,9625,Enchantment: Warrior,Phantom Dancer,Boots of Swiftness,Duskblade of Draktharr,,,3178,122924,Lane.jungle,Role.none
+8,Blobbob,Orianna,False,Side.red,2,8,3,0.625,140,Ghost,Flash,12,False,7863,7650,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Morellonomicon,,,70608,7967,Lane.mid_lane,Role.solo
+9,boosted noob,Brand,False,Side.red,2,6,4,1.0,19,Flash,Ignite,10,False,6705,6660,Frostfang,Rylai's Crystal Scepter,Amplifying Tome,Blasting Wand,Total Biscuit of Rejuvenation,Boots of Speed,23262,2947,Lane.bot_lane,Role.support

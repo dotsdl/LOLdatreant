@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Allorim,Poppy,True,Side.blue,4,3,9,4.333333333333333,173,Flash,Teleport,15,False,11045,9650,Sunfire Cape,Boots of Speed,Iceborn Gauntlet,Corrupting Potion,Spirit Visage,Cloth Armor,28530,55894,Lane.top_lane,Role.solo
+1,cesuna,Orianna,True,Side.blue,8,2,14,11.0,197,Flash,Ghost,16,False,13154,12125,Luden's Echo,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Doran's Ring,,120168,16136,Lane.mid_lane,Role.solo
+2,Link,Alistar,True,Side.blue,2,4,17,4.75,41,Flash,Ignite,13,False,9675,8800,Ruby Sightstone,Control Ward,Face of the Mountain,Knight's Vow,Aegis of the Legion,Boots of Mobility,14947,7593,Lane.bot_lane,Role.support
+3,Falco Mechanic,Lucian,True,Side.blue,8,5,3,2.2,198,Exhaust,Flash,14,True,12491,11900,Doran's Blade,Essence Reaver,Berserker's Greaves,Phantom Dancer,Lord Dominik's Regards,Vampiric Scepter,3992,135822,Lane.bot_lane,Role.carry
+4,TheOddOrange,Vi,True,Side.blue,8,6,9,2.8333333333333335,161,Flash,Smite,16,False,13090,10658,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,Dead Man's Plate,,1216,174783,Lane.jungle,Role.none
+5,gatsuno,Leona,False,Side.red,3,5,11,2.8,40,Exhaust,Flash,13,False,9220,8700,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,Boots of Mobility,Crystalline Bracer,Crystalline Bracer,12265,8397,Lane.bot_lane,Role.support
+6,Cuckvele,Ekko,False,Side.red,6,6,7,2.1666666666666665,164,Flash,Teleport,15,False,11239,10275,Lich Bane,The Dark Seal,Sorcerer's Shoes,Seeker's Armguard,Blasting Wand,Hextech Protobelt-01,114313,14323,Lane.jungle,Role.none
+7,Zerrsog,Draven,False,Side.red,7,9,1,0.8888888888888888,191,Flash,Heal,13,False,12575,12050,The Bloodthirster,Infinity Edge,Refillable Potion,Berserker's Greaves,Lord Dominik's Regards,Dagger,812,119872,Lane.bot_lane,Role.carry
+8,blaberfish2,Lee Sin,False,Side.red,1,5,0,0.2,101,Flash,Smite,11,False,8138,6400,Maw of Malmortius,Refillable Potion,Enchantment: Warrior,Boots of Speed,,,15418,70646,Lane.jungle,Role.none
+9,Entranced,Illaoi,False,Side.red,3,5,2,1.0,282,Teleport,Flash,16,False,12606,11433,The Black Cleaver,Corrupting Potion,Ninja Tabi,Sterak's Gage,Trinity Force,Ruby Crystal,1634,210419,Lane.top_lane,Role.solo

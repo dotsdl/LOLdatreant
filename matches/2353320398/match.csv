@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,So Not Gosu,Nasus,True,Side.blue,5,8,14,2.375,204,Exhaust,Flash,18,False,13674,12033,Frozen Heart,Spirit Visage,Trinity Force,Ruby Crystal,Doran's Ring,Mercury's Treads,55774,110168,Lane.jungle,Role.none
+1,Rengor,Kennen,True,Side.blue,7,11,12,1.7272727272727273,200,Flash,Ignite,18,True,13401,12700,Wooglet's Witchcap,Sorcerer's Shoes,Doran's Blade,Rylai's Crystal Scepter,Abyssal Scepter,Haunting Guise,102659,22595,Lane.mid_lane,Role.carry
+2,Gromp NA,Vi,True,Side.blue,15,8,7,2.75,105,Smite,Flash,18,False,14171,12488,Enchantment: Warrior,Mercury's Treads,Negatron Cloak,Trinity Force,Dead Man's Plate,Spectre's Cowl,1926,139795,Lane.mid_lane,Role.support
+3,6 Inches Deep,Darius,False,Side.red,10,8,5,1.875,242,Flash,Ignite,17,False,14368,14000,Titanic Hydra,Mercury's Treads,Dead Man's Plate,The Black Cleaver,Spirit Visage,,0,125052,Lane.mid_lane,Role.solo
+4,support or troll,Lux,False,Side.red,12,11,9,1.9090909090909092,234,Ignite,Flash,18,False,15376,15100,Giant's Belt,Wooglet's Witchcap,Needlessly Large Rod,Void Staff,Sorcerer's Shoes,Luden's Echo,146736,25915,Lane.jungle,Role.none
+5,LeapGod,Pantheon,False,Side.red,5,8,7,1.5,110,Flash,Smite,17,False,11787,11675,The Black Cleaver,Dead Man's Plate,Enchantment: Warrior,Boots of Mobility,Hexdrinker,Long Sword,9912,134449,Lane.jungle,Role.none

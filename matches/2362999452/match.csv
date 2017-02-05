@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,B00STED DRAVEN,Zac,True,Side.blue,3,1,18,21.0,125,Flash,Smite,15,False,11612,10395,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Dead Man's Plate,Mercury's Treads,Negatron Cloak,90995,29393,Lane.jungle,Role.none
+1,Yuán G,LeBlanc,True,Side.blue,10,4,10,5.0,183,Ignite,Flash,15,False,13278,11050,Rylai's Crystal Scepter,Abyssal Scepter,The Dark Seal,Doran's Ring,Sorcerer's Shoes,Morellonomicon,114400,15800,Lane.mid_lane,Role.solo
+2,plebmobs,Illaoi,True,Side.blue,5,5,3,1.6,229,Flash,Teleport,15,False,12226,9850,Guardian Angel,Control Ward,Ninja Tabi,The Black Cleaver,Sterak's Gage,,141,165080,Lane.top_lane,Role.solo
+3,YaThatWasABanana,Karma,True,Side.blue,4,6,22,4.333333333333333,15,Flash,Exhaust,13,True,10917,9500,Forbidden Idol,Redemption,Locket of the Iron Solari,Eye of the Watchers,Ionian Boots of Lucidity,Aether Wisp,11013,6212,Lane.bot_lane,Role.support
+4,C9 Sneaky,Twitch,True,Side.blue,16,6,11,4.5,224,Flash,Heal,16,False,16140,14325,Blade of the Ruined King,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Phantom Dancer,229,149861,Lane.bot_lane,Role.carry
+5,Aceyy,Jhin,False,Side.red,4,9,8,1.3333333333333333,165,Flash,Heal,13,False,9892,9350,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Hexdrinker,,9387,82499,Lane.bot_lane,Role.carry
+6,Kurumz,Kassadin,False,Side.red,6,7,6,1.7142857142857142,199,Teleport,Flash,15,False,11046,10695,Rod of Ages,Morellonomicon,Zhonya's Hourglass,Ionian Boots of Lucidity,Negatron Cloak,,78081,23225,Lane.mid_lane,Role.solo
+7,IHateD2Players,Kha'Zix,False,Side.red,3,10,7,1.0,156,Smite,Flash,14,False,10011,9500,Tiamat,Youmuu's Ghostblade,Enchantment: Warrior,Boots of Swiftness,Long Sword,Last Whisper,5572,129147,Lane.jungle,Role.none
+8,Sînner,Riven,False,Side.red,7,4,2,2.25,240,Flash,Teleport,15,False,11416,11175,Ravenous Hydra,The Black Cleaver,Maw of Malmortius,Ninja Tabi,,,0,130423,Lane.top_lane,Role.solo
+9,Flaresz,Blitzcrank,False,Side.red,2,8,12,1.75,42,Flash,Ignite,13,False,8180,7625,Targon's Brace,Boots of Mobility,Sightstone,Frozen Heart,Kindlegem,Aegis of the Legion,12644,7183,Lane.bot_lane,Role.support

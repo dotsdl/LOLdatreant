@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,7788 ADC,Blitzcrank,True,Side.blue,1,7,10,1.5714285714285714,33,Exhaust,Flash,13,False,7521,7025,Redemption,Righteous Glory,Control Ward,Health Potion,Boots of Mobility,Targon's Brace,13656,6075,Lane.bot_lane,Role.support
+1,white cat,Ryze,True,Side.blue,2,5,6,1.6,179,Flash,Ghost,15,False,10147,9845,Rod of Ages,Needlessly Large Rod,Ionian Boots of Lucidity,Tear of the Goddess,Negatron Cloak,Rylai's Crystal Scepter,102106,11889,Lane.mid_lane,Role.solo
+2,Adrian Riven,Jax,True,Side.blue,16,5,3,3.8,161,Teleport,Flash,16,False,13927,12983,Trinity Force,Hextech Gunblade,Recurve Bow,Ninja Tabi,Maw of Malmortius,,24141,81077,Lane.top_lane,Role.solo
+3,feed l0rd,Twitch,True,Side.blue,11,7,5,2.2857142857142856,162,Flash,Heal,14,True,12271,9425,Bilgewater Cutlass,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,,Infinity Edge,38,95586,Lane.bot_lane,Role.carry
+4,TF Blade,Zac,True,Side.blue,2,3,9,3.6666666666666665,176,Flash,Smite,15,False,10624,8550,Enchantment: Cinderhulk,Giant's Belt,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Warden's Mail,133223,24986,Lane.jungle,Role.none
+5,Shiphtur,Cassiopeia,False,Side.red,5,7,5,1.4285714285714286,214,Ghost,Flash,14,False,10433,9725,Needlessly Large Rod,Rylai's Crystal Scepter,Fiendish Codex,Abyssal Scepter,Doran's Ring,Tear of the Goddess,92389,9980,Lane.mid_lane,Role.solo
+6,CloudNguyén,Rumble,False,Side.red,6,8,4,1.25,170,Teleport,Flash,14,False,9673,8750,Zhonya's Hourglass,Liandry's Torment,Sorcerer's Shoes,Doran's Shield,Blasting Wand,,81221,10075,Lane.top_lane,Role.solo
+7,my bad team,Ezreal,False,Side.red,11,5,7,3.6,190,Flash,Heal,14,False,12378,9558,Bilgewater Cutlass,Muramana,Trinity Force,Doran's Blade,Cull,Ionian Boots of Lucidity,17601,91287,Lane.bot_lane,Role.carry
+8,cute pupper irl,Nami,False,Side.red,1,4,17,4.5,14,Flash,Exhaust,12,False,7608,7100,Redemption,Eye of the Watchers,Boots of Mobility,Control Ward,Aegis of the Legion,,10073,6046,Lane.bot_lane,Role.support
+9,You all boosted,Kha'Zix,False,Side.red,4,8,9,1.625,107,Flash,Smite,13,False,9180,8875,Enchantment: Warrior,Edge of Night,Phage,Mercury's Treads,Control Ward,Long Sword,5653,98845,Lane.jungle,Role.none

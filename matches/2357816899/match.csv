@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xDD,Vi,False,Side.blue,3,8,7,1.25,150,Flash,Smite,14,False,9515,9008,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Warden's Mail,Ruby Crystal,1358,130851,Lane.jungle,Role.none
+1,Betabet,Alistar,False,Side.blue,2,8,12,1.75,33,Flash,Exhaust,11,False,7328,6600,Redemption,Targon's Brace,Sightstone,Boots of Mobility,Raptor Cloak,Null-Magic Mantle,9110,4345,Lane.bot_lane,Role.support
+2,Iing,Ezreal,False,Side.blue,6,11,7,1.1818181818181819,117,Flash,Heal,12,False,9101,8100,Doran's Blade,Bilgewater Cutlass,Ionian Boots of Lucidity,Iceborn Gauntlet,Manamune,,13155,49236,Lane.bot_lane,Role.carry
+3,My Kat Evolved,Katarina,False,Side.blue,11,8,6,2.125,94,Ignite,Flash,13,False,9878,9360,Rylai's Crystal Scepter,Ruby Crystal,Hextech Gunblade,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,58163,8888,Lane.mid_lane,Role.solo
+4,Ifkinluvpeaches,Yasuo,False,Side.blue,4,8,3,0.875,188,Teleport,Flash,14,False,9717,9175,Sunfire Cape,Ninja Tabi,Phantom Dancer,Pickaxe,B. F. Sword,,54502,50568,Lane.top_lane,Role.solo
+5,Lukwer,LeBlanc,True,Side.red,12,4,10,5.5,149,Flash,Teleport,14,False,11930,8850,Doran's Ring,Blasting Wand,The Dark Seal,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,87474,11157,Lane.mid_lane,Role.solo
+6,Shamoo,Amumu,True,Side.red,8,6,19,4.5,95,Flash,Smite,14,False,11410,9600,Mercury's Treads,Enchantment: Runic Echoes,Sunfire Cape,Abyssal Scepter,,Refillable Potion,74169,15922,Lane.jungle,Role.none
+7,Yellow Turd,Jinx,True,Side.red,10,5,14,4.8,183,Heal,Flash,14,False,12647,12350,Last Whisper,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Long Sword,1294,113878,Lane.bot_lane,Role.carry
+8,peterlelol,Nautilus,True,Side.red,2,6,30,5.333333333333333,58,Flash,Exhaust,13,False,10561,8800,Locket of the Iron Solari,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Boots of Mobility,Forbidden Idol,23520,12075,Lane.bot_lane,Role.support
+9,KarasMai,Pantheon,True,Side.red,11,5,9,4.0,141,Flash,Ignite,14,True,11604,9975,Giant's Belt,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Ninja Tabi,Chain Vest,9656,92686,Lane.top_lane,Role.solo

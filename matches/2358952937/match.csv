@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Flaresz,Graves,False,Side.blue,3,8,6,1.125,150,Flash,Smite,13,False,9939,9750,Enchantment: Warrior,Youmuu's Ghostblade,Caulfield's Warhammer,Mercury's Treads,Hexdrinker,Long Sword,4423,129818,Lane.jungle,Role.none
+1,ChuYung,Jayce,False,Side.blue,2,7,7,1.2857142857142858,169,Teleport,Flash,13,False,9868,8850,Youmuu's Ghostblade,,Mercury's Treads,,Maw of Malmortius,Doran's Blade,14191,89413,Lane.top_lane,Role.solo
+2,Liquid Painless,Karma,False,Side.blue,4,4,8,3.0,165,Flash,Teleport,14,False,9976,9350,Doran's Ring,Athene's Unholy Grail,Ionian Boots of Lucidity,Ardent Censer,Luden's Echo,,80582,10531,Lane.mid_lane,Role.solo
+3,Xpecial,Leona,False,Side.blue,3,5,11,2.8,54,Exhaust,Flash,12,True,9286,8200,Boots of Mobility,Locket of the Iron Solari,Face of the Mountain,Control Ward,,Ruby Sightstone,9876,9527,Lane.bot_lane,Role.support
+4,Rhux,Jhin,False,Side.blue,13,4,4,4.25,208,Flash,Heal,14,False,13950,13025,Essence Reaver,Infinity Edge,Quicksilver Sash,Rapid Firecannon,,Boots of Swiftness,11112,152131,Lane.bot_lane,Role.carry
+5,Anivia Kid,Ezreal,True,Side.red,16,5,7,4.6,212,Flash,Heal,15,False,16211,13633,Mercury's Treads,Bilgewater Cutlass,Trinity Force,The Bloodthirster,Muramana,Doran's Blade,14143,159010,Lane.bot_lane,Role.carry
+6,Hi Im A Sheep,Bard,True,Side.red,2,7,23,3.5714285714285716,27,Flash,Exhaust,14,False,10662,9400,Eye of the Watchers,Redemption,Locket of the Iron Solari,Control Ward,Glacial Shroud,Boots of Mobility,8490,8357,Lane.bot_lane,Role.support
+7,Espir III,Twisted Fate,True,Side.red,6,3,13,6.333333333333333,162,Flash,Ghost,15,False,12204,10325,Doran's Ring,Iceborn Gauntlet,Control Ward,Zhonya's Hourglass,Ionian Boots of Lucidity,Rod of Ages,87834,15200,Lane.top_lane,Role.solo
+8,Hyorimaru,Anivia,True,Side.red,1,5,13,2.8,174,Flash,Ghost,14,False,10971,9100,Doran's Ring,Tear of the Goddess,Boots of Mobility,Morellonomicon,Rod of Ages,Fiendish Codex,96805,8519,Lane.mid_lane,Role.solo
+9,Vladfire1 BG ,Olaf,True,Side.red,3,5,12,3.0,126,Smite,Ghost,15,False,11123,9725,Kindlegem,Randuin's Omen,Chain Vest,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Giant's Belt,13815,99990,Lane.jungle,Role.none

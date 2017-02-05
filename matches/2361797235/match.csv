@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Putting in the D,Jayce,False,Side.blue,3,8,1,0.5,101,Flash,Teleport,10,False,6342,5975,Doran's Blade,Refillable Potion,Manamune,Serrated Dirk,Ionian Boots of Lucidity,Pickaxe,7781,44944,Lane.top_lane,Role.solo
+1,Thecrimsonrage,Rammus,False,Side.blue,0,4,5,1.25,91,Flash,Smite,11,False,6159,5550,Enchantment: Cinderhulk,Thornmail,,Boots of Speed,,,42627,25415,Lane.jungle,Role.none
+2,Nillers,Fizz,False,Side.blue,2,3,0,0.6666666666666666,154,Ignite,Flash,12,False,6901,6125,Lich Bane,Refillable Potion,Sorcerer's Shoes,The Dark Seal,Needlessly Large Rod,,43185,17980,Lane.mid_lane,Role.solo
+3,Farefars World,Caitlyn,False,Side.blue,3,4,1,1.0,149,Flash,Heal,10,False,7431,7275,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Cloak of Agility,Pickaxe,375,65855,Lane.bot_lane,Role.carry
+4,Pipe x Dream,Thresh,False,Side.blue,2,3,4,2.0,29,Exhaust,Flash,10,False,5668,5450,Targon's Brace,Sightstone,Boots of Mobility,Righteous Glory,Total Biscuit of Rejuvenation,,10829,4694,Lane.bot_lane,Role.support
+5,Mang3 moi Lcap,Ezreal,True,Side.red,3,1,3,6.0,158,Flash,Heal,11,False,8232,7375,Doran's Blade,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,Pickaxe,,12047,47558,Lane.bot_lane,Role.carry
+6,Sandman07,Xerath,True,Side.red,5,1,5,10.0,161,Flash,Ghost,12,False,8830,7375,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Mejai's Soulstealer,Needlessly Large Rod,75855,7550,Lane.mid_lane,Role.solo
+7,Logicke,Alistar,True,Side.red,2,3,7,3.0,22,Flash,Exhaust,9,False,6130,4850,Face of the Mountain,Sightstone,,Crystalline Bracer,Boots of Mobility,,6967,3978,Lane.bot_lane,Role.support
+8,KT Score,Ivern,True,Side.red,3,1,8,11.0,79,Smite,Flash,12,False,8094,7050,Hunter's Talisman,Aegis of the Legion,Redemption,The Dark Seal,Athene's Unholy Grail,Ionian Boots of Lucidity,10768,5486,Lane.jungle,Role.none
+9,Tyflos,Riven,True,Side.red,9,4,5,3.5,141,Teleport,Flash,13,True,10087,9825,The Black Cleaver,Death's Dance,Ruby Crystal,Control Ward,Tiamat,Ninja Tabi,2257,86828,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sawyerr,Bard,True,Side.blue,2,6,11,2.1666666666666665,15,Ignite,Flash,12,False,8388,7975,Spellthief's Edge,Athene's Unholy Grail,Control Ward,Boots of Mobility,Redemption,Ruby Sightstone,9680,5425,Lane.bot_lane,Role.support
+1,GamerXz,Orianna,True,Side.blue,9,1,7,16.0,194,Flash,Ghost,15,False,12449,9175,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,,109340,19021,Lane.mid_lane,Role.solo
+2,toke dude,Ezreal,True,Side.blue,1,3,12,4.333333333333333,135,Heal,Flash,13,False,10025,7725,Manamune,Iceborn Gauntlet,,Doran's Blade,Ionian Boots of Lucidity,Recurve Bow,13475,78782,Lane.bot_lane,Role.carry
+3,Dhokla,Jayce,True,Side.blue,10,3,5,5.0,232,Flash,Teleport,16,False,14564,13250,The Bloodthirster,Mercury's Treads,The Black Cleaver,Doran's Blade,Maw of Malmortius,Last Whisper,20211,152068,Lane.top_lane,Role.solo
+4,NA Rumble,Rumble,True,Side.blue,7,3,3,3.3333333333333335,153,Smite,Flash,14,False,11652,9575,Enchantment: Runic Echoes,Hextech Protobelt-01,Sorcerer's Shoes,Liandry's Torment,Refillable Potion,,114432,19630,Lane.jungle,Role.none
+5,Paxton,Alistar,False,Side.red,3,7,4,1.0,44,Flash,Exhaust,10,True,6680,5850,Redemption,Relic Shield,Crystalline Bracer,Sightstone,Crystalline Bracer,Boots of Mobility,10078,5584,Lane.bot_lane,Role.support
+6,retarded virgin,Elise,False,Side.red,5,6,6,1.8333333333333333,120,Flash,Smite,13,False,8919,8370,Sorcerer's Shoes,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Negatron Cloak,,The Dark Seal,73371,20121,Lane.jungle,Role.none
+7,cokes,Jhin,False,Side.red,4,6,2,1.0,142,Heal,Flash,10,False,7902,7275,Essence Reaver,Boots of Swiftness,Zeal,Doran's Blade,Total Biscuit of Rejuvenation,Kircheis Shard,1060,61459,Lane.bot_lane,Role.carry
+8,Rhux,Gnar,False,Side.red,1,5,2,0.6,167,Flash,Teleport,13,False,7899,6800,Doran's Shield,Doran's Blade,Control Ward,Frozen Mallet,Ninja Tabi,Phage,6470,76760,Lane.top_lane,Role.solo
+9,07scaping,Nocturne,False,Side.red,3,5,6,1.8,174,Smite,Flash,14,False,9808,9750,Enchantment: Warrior,Tiamat,Duskblade of Draktharr,Hunter's Potion,B. F. Sword,Ionian Boots of Lucidity,3508,134371,Lane.jungle,Role.none

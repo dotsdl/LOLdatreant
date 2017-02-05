@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Barclay snoopy,Lee Sin,True,Side.blue,7,2,19,13.0,103,Smite,Flash,14,False,11367,10425,Refillable Potion,Titanic Hydra,Enchantment: Warrior,Boots of Mobility,Maw of Malmortius,,15241,103571,Lane.jungle,Role.none
+1,Thinkful,Jayce,True,Side.blue,9,3,13,7.333333333333333,170,Teleport,Flash,14,False,11739,11025,Corrupting Potion,Youmuu's Ghostblade,Mortal Reminder,Mercury's Treads,The Black Cleaver,Doran's Blade,13812,103017,Lane.top_lane,Role.solo
+2,JeezyTheSnowMan,Morgana,True,Side.blue,2,3,21,7.666666666666667,8,Ignite,Flash,11,False,8463,7775,Frost Queen's Claim,Sightstone,Redemption,Seeker's Armguard,,Boots of Mobility,15557,3232,Lane.bot_lane,Role.support
+3,TSC Alternity,Twitch,True,Side.blue,14,1,7,21.0,169,Flash,Heal,14,True,12978,11350,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Lord Dominik's Regards,Doran's Blade,Kircheis Shard,128,117912,Lane.bot_lane,Role.carry
+4,FarmVilles,Annie,True,Side.blue,5,5,10,3.0,146,Ignite,Flash,14,False,10474,9625,Luden's Echo,Needlessly Large Rod,Abyssal Scepter,Doran's Ring,Doran's Ring,Sorcerer's Shoes,75955,11540,Lane.jungle,Role.none
+5,SaReNu,Poppy,False,Side.red,2,6,6,1.3333333333333333,130,Teleport,Flash,13,False,7540,6475,Corrupting Potion,Iceborn Gauntlet,Sunfire Cape,,,Boots of Speed,21242,52427,Lane.top_lane,Role.solo
+6,emV,Vi,False,Side.red,5,11,4,0.8181818181818182,88,Flash,Smite,12,False,7894,7683,Enchantment: Warrior,Trinity Force,Ninja Tabi,,,,805,79823,Lane.jungle,Role.none
+7,Buttbeard,Karma,False,Side.red,2,6,5,1.1666666666666667,18,Exhaust,Flash,10,False,6540,6300,Redemption,Eye of the Watchers,Chalice of Harmony,,Ionian Boots of Lucidity,,13249,2206,Lane.bot_lane,Role.support
+8,Pirean,Ryze,False,Side.red,3,8,3,0.75,161,Ghost,Flash,12,False,8246,8000,Tear of the Goddess,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Frozen Heart,Chain Vest,87151,10720,Lane.mid_lane,Role.solo
+9,AsianGoneWild,Jhin,False,Side.red,2,6,4,1.0,151,Heal,Flash,12,False,7996,7825,Doran's Blade,Refillable Potion,Infinity Edge,Boots of Swiftness,Statikk Shiv,,1784,78535,Lane.bot_lane,Role.carry

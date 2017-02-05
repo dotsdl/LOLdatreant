@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cat Ears,Kennen,True,Side.blue,4,0,2,6.0,6,Flash,Ignite,8,False,4863,2750,Frostfang,Hextech Revolver,Refillable Potion,Ruby Crystal,,Control Ward,12397,4909,Lane.bot_lane,Role.duo
+1,C9 Sneaky,Jhin,True,Side.blue,3,0,3,6.0,97,Flash,Heal,8,False,6462,3875,Doran's Blade,Youmuu's Ghostblade,Boots of Speed,,Control Ward,,1410,41323,Lane.bot_lane,Role.duo
+2,Wizzy,Kayle,True,Side.blue,2,0,0,2.0,120,Teleport,Flash,10,False,5865,5075,Doran's Ring,,,Boots of Speed,Guinsoo's Rageblade,The Dark Seal,35652,17594,Lane.top_lane,Role.solo
+3,Gweiss,Graves,True,Side.blue,2,1,3,5.0,81,Smite,Flash,9,False,6284,4575,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Long Sword,Long Sword,,2304,59530,Lane.jungle,Role.none
+4,Wolfelol,Xerath,True,Side.blue,5,1,2,7.0,74,Heal,Flash,9,True,5928,3925,Doran's Ring,Fiendish Codex,The Dark Seal,,Lost Chapter,Sorcerer's Shoes,37462,8194,Lane.mid_lane,Role.solo
+5,Sînner,Riven,False,Side.red,0,2,0,0.0,32,Flash,Smite,6,False,2777,2150,Refillable Potion,Skirmisher's Sabre,Long Sword,Long Sword,Boots of Speed,,548,21490,Lane.jungle,Role.none
+6,xxxxxwwwwwwxxxxx,Cassiopeia,False,Side.red,2,5,0,0.4,31,Ghost,Flash,7,False,3059,2275,,,Tear of the Goddess,Doran's Ring,Doran's Ring,Doran's Ring,9788,1124,Lane.mid_lane,Role.solo
+7,rtz 1,Vayne,False,Side.red,0,4,0,0.0,48,Flash,Heal,7,False,2883,2500,,Refillable Potion,Boots of Speed,Stinger,Cull,Doran's Blade,0,14299,Lane.bot_lane,Role.duo
+8,TwitchTV LOLFILL,Thresh,False,Side.red,0,3,1,0.3333333333333333,11,Exhaust,Flash,6,False,2245,2500,Boots of Mobility,,,,,,3348,1678,Lane.bot_lane,Role.duo
+9,Washing Dishes,Poppy,False,Side.red,0,2,1,0.5,56,Teleport,Flash,7,False,3063,2475,Corrupting Potion,Spectre's Cowl,Control Ward,Boots of Speed,Ruby Crystal,,599,16472,Lane.top_lane,Role.solo

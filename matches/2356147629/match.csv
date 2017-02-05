@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mr Boar,Janna,False,Side.blue,0,4,1,0.25,14,Exhaust,Flash,9,False,4564,4200,Sightstone,Forbidden Idol,Control Ward,Nomad's Medallion,Boots of Mobility,Cloth Armor,6436,3452,Lane.bot_lane,Role.support
+1,Black Acessss,Zed,False,Side.blue,2,6,2,0.6666666666666666,117,Ignite,Flash,11,False,6449,6050,Youmuu's Ghostblade,Phage,Refillable Potion,Ionian Boots of Lucidity,Long Sword,Long Sword,4073,53201,Lane.mid_lane,Role.solo
+2,TeddyBurrs,Vi,False,Side.blue,4,2,2,3.0,118,Smite,Flash,13,False,7874,7725,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Chain Vest,,1612,96766,Lane.jungle,Role.none
+3,Phereshin,Twitch,False,Side.blue,1,4,0,0.25,135,Flash,Heal,10,False,6759,6075,Doran's Blade,B. F. Sword,Cull,Boots of Speed,Runaan's Hurricane,Pickaxe,0,49506,Lane.bot_lane,Role.carry
+4,Elton Yen,Galio,False,Side.blue,2,6,2,0.6666666666666666,100,Flash,Teleport,11,False,6162,5825,Cloth Armor,Doran's Ring,Ninja Tabi,Doran's Ring,Cloth Armor,Hextech GLP-800,57598,4986,Lane.top_lane,Role.solo
+5,asdfjkl1234,Jarvan IV,True,Side.red,1,3,5,2.0,127,Flash,Teleport,12,False,7119,5575,Corrupting Potion,Titanic Hydra,Null-Magic Mantle,Boots of Speed,Long Sword,Ruby Crystal,2006,56830,Lane.top_lane,Role.solo
+6,uupa,Ryze,True,Side.red,9,3,0,3.0,180,Flash,Ghost,13,True,10577,8710,Seeker's Armguard,Seraph's Embrace,,Ionian Boots of Lucidity,Rod of Ages,Amplifying Tome,114807,7135,Lane.jungle,Role.none
+7,Rank 1 Season 7,Kha'Zix,True,Side.red,8,3,4,4.0,171,Smite,Flash,14,False,11152,8650,Tiamat,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Pickaxe,3162,143900,Lane.jungle,Role.none
+8,BooyahAchieved,Taric,True,Side.red,0,0,9,9.0,49,Exhaust,Flash,11,False,6504,4450,Targon's Brace,Knight's Vow,,Sightstone,,,7850,8923,Lane.bot_lane,Role.support
+9,jøna,Vayne,True,Side.red,4,0,3,7.0,147,Flash,Heal,11,False,8213,6645,Boots of Speed,B. F. Sword,Statikk Shiv,Doran's Blade,Cloak of Agility,Pickaxe,16159,54505,Lane.bot_lane,Role.carry

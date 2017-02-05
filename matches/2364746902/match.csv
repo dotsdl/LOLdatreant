@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,gabzpianosmurf,Alistar,True,Side.blue,3,4,16,4.75,31,Flash,Exhaust,11,False,7461,7200,Knight's Vow,Boots of Mobility,Sightstone,Relic Shield,Locket of the Iron Solari,Ruby Crystal,6602,7836,Lane.bot_lane,Role.support
+1,herolineage,Vayne,True,Side.blue,11,4,5,4.0,182,Flash,Heal,13,False,11668,8500,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Dagger,Brawler's Gloves,21598,92070,Lane.bot_lane,Role.carry
+2,Vero V1,Twisted Fate,True,Side.blue,7,1,12,19.0,145,Ghost,Flash,13,False,10881,8650,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Zhonya's Hourglass,,Aether Wisp,87640,11837,Lane.mid_lane,Role.solo
+3,Sofm  Aquarius,Lee Sin,True,Side.blue,10,2,9,9.5,99,Flash,Smite,13,False,11135,8400,Enchantment: Warrior,Refillable Potion,Serrated Dirk,Ninja Tabi,Dead Man's Plate,Pickaxe,15755,90135,Lane.jungle,Role.none
+4,LawlietLelouch,Riven,True,Side.blue,1,1,12,13.0,151,Flash,Teleport,14,False,9216,7925,Youmuu's Ghostblade,Refillable Potion,Doran's Blade,The Black Cleaver,Ninja Tabi,,0,91165,Lane.top_lane,Role.solo
+5,Pwnerness,Xerath,False,Side.red,2,8,1,0.375,141,Cleanse,Flash,11,False,7268,6785,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Blasting Wand,Amplifying Tome,Doran's Ring,75258,8925,Lane.mid_lane,Role.solo
+6,Horrible Player,Shyvana,False,Side.red,1,4,4,1.25,120,Smite,Exhaust,12,False,7538,7375,Enchantment: Bloodrazor,Titanic Hydra,Mercury's Treads,,,,47603,46562,Lane.jungle,Role.none
+7,AIways in promos,Thresh,False,Side.red,0,10,6,0.6,32,Exhaust,Flash,9,False,5747,5025,Face of the Mountain,Sightstone,Boots of Mobility,Crystalline Bracer,Total Biscuit of Rejuvenation,Rejuvenation Bead,6485,4791,Lane.bot_lane,Role.duo
+8,InSteriyo,Jhin,False,Side.red,7,6,1,1.3333333333333333,133,Flash,Heal,10,True,8807,8475,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Control Ward,Null-Magic Mantle,Doran's Blade,6431,63771,Lane.bot_lane,Role.duo
+9,Ikzencriel,Jax,False,Side.red,2,4,1,0.75,147,Teleport,Flash,12,False,7354,6283,Corrupting Potion,Doran's Blade,Trinity Force,Control Ward,Ninja Tabi,Long Sword,14114,43008,Lane.top_lane,Role.solo

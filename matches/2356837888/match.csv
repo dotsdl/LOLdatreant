@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LogicalJerimy,Vi,False,Side.blue,4,4,5,2.25,129,Flash,Smite,14,False,10311,9628,Enchantment: Warrior,Ninja Tabi,Health Potion,Trinity Force,Spectre's Cowl,Negatron Cloak,2214,134918,Lane.jungle,Role.none
+1,CJ Frost Sadlife,Thresh,False,Side.blue,1,7,11,1.7142857142857142,22,Flash,Exhaust,12,False,7498,6625,Face of the Mountain,Boots of Mobility,Refillable Potion,Redemption,,Sightstone,8165,4972,Lane.bot_lane,Role.support
+2,Too,Jhin,False,Side.blue,4,7,8,1.7142857142857142,214,Heal,Flash,14,False,11412,10325,Doran's Blade,Boots of Swiftness,Rapid Firecannon,B. F. Sword,Essence Reaver,Pickaxe,12606,125314,Lane.bot_lane,Role.carry
+3,Harry Ward,Renekton,False,Side.blue,7,4,5,3.0,225,Flash,Ignite,15,False,12903,12625,The Black Cleaver,Ninja Tabi,Titanic Hydra,Randuin's Omen,Chain Vest,Giant's Belt,5207,145492,Lane.top_lane,Role.solo
+4,Trumpamere,Veigar,False,Side.blue,4,5,6,2.0,181,Flash,Ghost,15,False,10272,9210,Doran's Ring,Blasting Wand,Morellonomicon,Banshee's Veil,Sorcerer's Shoes,Amplifying Tome,94735,11301,Lane.mid_lane,Role.solo
+5,IKingVex,Jinx,True,Side.red,8,4,11,4.75,309,Heal,Flash,17,False,16994,13750,Doran's Blade,Berserker's Greaves,Guardian Angel,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,3075,208610,Lane.bot_lane,Role.carry
+6,Hopachai,Karma,True,Side.red,4,3,15,6.333333333333333,10,Exhaust,Flash,14,False,10439,7600,Eye of the Watchers,,Redemption,Ionian Boots of Lucidity,Forbidden Idol,Aether Wisp,21238,6170,Lane.bot_lane,Role.support
+7,h4zy,Olaf,True,Side.red,8,4,8,4.0,103,Smite,Flash,15,True,12039,11475,Enchantment: Cinderhulk,Righteous Glory,Guardian Angel,Ionian Boots of Lucidity,Dead Man's Plate,,22009,85032,Lane.jungle,Role.none
+8,WhiteLilynette,Zyra,True,Side.red,3,3,5,2.6666666666666665,176,Teleport,Flash,14,False,10380,9710,Total Biscuit of Rejuvenation,Blasting Wand,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,Luden's Echo,86814,15895,Lane.mid_lane,Role.solo
+9,aniviaenthusiast,Fiora,True,Side.red,4,6,5,1.5,203,Flash,Teleport,16,False,11418,10550,Ravenous Hydra,The Black Cleaver,Mercury's Treads,Spectre's Cowl,Kindlegem,Doran's Blade,617,120245,Lane.top_lane,Role.solo

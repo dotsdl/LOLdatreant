@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog UNREFORMED,Fiora,True,Side.blue,9,2,5,7.0,143,Exhaust,Flash,13,False,10634,9900,The Black Cleaver,B. F. Sword,Ravenous Hydra,Mercury's Treads,Doran's Blade,Long Sword,567,92905,Lane.top_lane,Role.solo
+1,Foreflay,Thresh,True,Side.blue,3,2,24,13.5,17,Exhaust,Flash,12,False,8756,7475,Face of the Mountain,Redemption,Sightstone,Boots of Swiftness,Aegis of the Legion,,8303,5419,Lane.bot_lane,Role.support
+2,Best Vayne China,Shyvana,True,Side.blue,5,5,7,2.4,134,Smite,Ghost,13,False,9923,8875,Refillable Potion,Enchantment: Bloodrazor,Jaurim's Fist,Titanic Hydra,Mercury's Treads,Cloth Armor,46599,65666,Lane.jungle,Role.none
+3,Best Vayne World,Vayne,True,Side.blue,20,5,6,5.2,161,Flash,Heal,13,False,13810,12300,Doran's Blade,Phantom Dancer,Berserker's Greaves,Infinity Edge,Statikk Shiv,B. F. Sword,19779,93724,Lane.bot_lane,Role.carry
+4,uStunned,Viktor,True,Side.blue,8,6,11,3.1666666666666665,105,Ghost,Flash,13,False,9731,9250,Perfect Hex Core,Refillable Potion,Mejai's Soulstealer,Abyssal Scepter,Sorcerer's Shoes,Aether Wisp,58307,12520,Lane.mid_lane,Role.solo
+5,xSojin,Ashe,False,Side.red,3,8,2,0.625,143,Flash,Heal,11,False,7876,7050,Boots of Speed,Doran's Blade,Essence Reaver,Runaan's Hurricane,,,2585,71575,Lane.bot_lane,Role.carry
+6,BonQuish,Kha'Zix,False,Side.red,9,9,3,1.3333333333333333,72,Smite,Flash,11,True,8761,8075,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Serrated Dirk,,,3572,63738,Lane.jungle,Role.none
+7,goompa,Maokai,False,Side.red,1,11,5,0.5454545454545454,99,Teleport,Flash,11,False,6758,6725,Ninja Tabi,Doran's Ring,Control Ward,Sheen,Glacial Shroud,Rod of Ages,50488,10249,Lane.top_lane,Role.solo
+8,cant believe,Azir,False,Side.red,2,9,8,1.1111111111111112,24,Flash,Exhaust,10,False,6897,6225,Frost Queen's Claim,Sightstone,Redemption,Refillable Potion,Ionian Boots of Lucidity,,16694,3382,Lane.bot_lane,Role.support
+9,J D,Katarina,False,Side.red,5,8,6,1.375,77,Ignite,Flash,11,False,7352,6510,Hextech Gunblade,Giant's Belt,,Amplifying Tome,,Sorcerer's Shoes,41484,4600,Lane.mid_lane,Role.solo

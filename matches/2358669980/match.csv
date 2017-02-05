@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BigPickle11,Sivir,True,Side.blue,6,2,14,10.0,228,Flash,Heal,14,False,12908,11650,,,Infinity Edge,Berserker's Greaves,Essence Reaver,Phantom Dancer,0,150933,Lane.bot_lane,Role.carry
+1,Espir III,Morgana,True,Side.blue,10,3,14,8.0,166,Flash,Teleport,15,False,12613,10850,Doran's Ring,Control Ward,Sorcerer's Shoes,Zhonya's Hourglass,Morellonomicon,Abyssal Scepter,94361,16690,Lane.mid_lane,Role.solo
+2,bvcx222,Blitzcrank,True,Side.blue,5,2,13,9.0,40,Flash,Ignite,12,False,9527,8375,Ruby Sightstone,Face of the Mountain,Redemption,,Crystalline Bracer,Boots of Mobility,8179,7953,Lane.bot_lane,Role.support
+3,King of Memes,Rengar,True,Side.blue,7,6,17,4.0,172,Ignite,Flash,14,True,12533,12525,Tiamat,Quicksilver Sash,Dead Man's Plate,Caulfield's Warhammer,The Black Cleaver,Ninja Tabi,22152,137722,Lane.top_lane,Role.solo
+4,Barbaric Bonobo,Rek'Sai,True,Side.blue,12,3,11,7.666666666666667,149,Flash,Smite,15,False,13860,12825,,Spirit Visage,Dead Man's Plate,The Black Cleaver,Enchantment: Warrior,Ninja Tabi,22051,113241,Lane.jungle,Role.none
+5,YOUMADSIS,Lee Sin,False,Side.red,7,7,5,1.7142857142857142,128,Smite,Flash,13,False,10170,9645,Chain Vest,Tiamat,Ninja Tabi,Enchantment: Cinderhulk,Randuin's Omen,Negatron Cloak,22635,76263,Lane.jungle,Role.none
+6,JaySo,Twisted Fate,False,Side.red,3,5,6,1.8,155,Ghost,Flash,13,False,9218,9240,Negatron Cloak,Lich Bane,Morellonomicon,Amplifying Tome,,Sorcerer's Shoes,80197,8500,Lane.mid_lane,Role.solo
+7,Swkeeee,Karma,False,Side.red,0,9,8,0.8888888888888888,34,Exhaust,Flash,11,False,7445,6975,Redemption,Sightstone,Mikael's Crucible,Frostfang,Ionian Boots of Lucidity,,20524,2329,Lane.bot_lane,Role.support
+8,Based Stevens,Gangplank,False,Side.red,3,9,2,0.5555555555555556,190,Exhaust,Flash,13,False,10095,10033,Youmuu's Ghostblade,Trinity Force,The Dark Seal,B. F. Sword,Boots of Swiftness,Corrupting Potion,7010,119044,Lane.top_lane,Role.solo
+9,MongolWarrior,Twitch,False,Side.red,2,10,4,0.6,138,Heal,Flash,12,False,8887,8050,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Cull,Runaan's Hurricane,,0,64825,Lane.bot_lane,Role.carry

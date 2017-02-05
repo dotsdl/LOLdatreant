@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sud83,Kha'Zix,False,Side.blue,6,6,2,1.3333333333333333,180,Ignite,Flash,15,False,10411,9900,Corrupting Potion,Youmuu's Ghostblade,Tiamat,Ionian Boots of Lucidity,The Black Cleaver,Last Whisper,4384,101651,Lane.top_lane,Role.solo
+1,Sybrandt,Talon,False,Side.blue,6,6,1,1.1666666666666667,121,Ignite,Flash,13,True,8512,7450,Youmuu's Ghostblade,Vampiric Scepter,Hexdrinker,Boots of Swiftness,Pickaxe,Long Sword,1512,75490,Lane.mid_lane,Role.solo
+2,bloogle,Nami,False,Side.blue,0,3,3,1.0,6,Flash,Exhaust,10,False,5586,5385,Frost Queen's Claim,,Sightstone,Boots of Mobility,Forbidden Idol,Amplifying Tome,6427,1399,Lane.jungle,Role.none
+3,BunnehRabbit,Master Yi,False,Side.blue,0,6,1,0.16666666666666666,124,Smite,Flash,12,False,8248,7325,Enchantment: Bloodrazor,Blade of the Ruined King,Berserker's Greaves,,,,1222,103707,Lane.jungle,Role.none
+4,évo,Jhin,False,Side.blue,3,5,1,0.8,221,Flash,Heal,13,False,9526,9050,Doran's Blade,Rapid Firecannon,Essence Reaver,Berserker's Greaves,Caulfield's Warhammer,,7615,114883,Lane.bot_lane,Role.solo
+5,dankpapaya,Sivir,True,Side.red,7,2,4,5.5,216,Heal,Flash,14,False,12419,9850,Doran's Blade,Long Sword,Essence Reaver,Phantom Dancer,Berserker's Greaves,B. F. Sword,0,143488,Lane.bot_lane,Role.carry
+6,Sir Bigs,Graves,True,Side.red,9,2,2,5.5,148,Flash,Smite,14,False,11758,10025,Youmuu's Ghostblade,Long Sword,Phantom Dancer,Berserker's Greaves,Long Sword,Enchantment: Warrior,4387,150316,Lane.jungle,Role.none
+7,YaMaDiePlz,Janna,True,Side.red,2,3,8,3.3333333333333335,8,Flash,Exhaust,11,False,8203,6200,Redemption,Locket of the Iron Solari,Sightstone,Boots of Speed,Ancient Coin,Cloth Armor,4498,6694,Lane.bot_lane,Role.support
+8,Doctor LoL,Vel'Koz,True,Side.red,6,2,5,5.5,136,Flash,Ignite,14,False,10073,8900,Needlessly Large Rod,Zhonya's Hourglass,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,,69251,12446,Lane.mid_lane,Role.solo
+9,Man of Winter,Rammus,True,Side.red,2,6,5,1.1666666666666667,134,Teleport,Flash,14,False,9099,7550,Sunfire Cape,Ninja Tabi,Randuin's Omen,,Corrupting Potion,,44872,28096,Lane.top_lane,Role.solo

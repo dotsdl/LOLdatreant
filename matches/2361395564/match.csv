@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wablamuffin,Skarner,True,Side.blue,0,0,0,0.0,11,Smite,Flash,3,False,1063,500,Hunter's Machete,Refillable Potion,,,,,1105,7914,Lane.jungle,Role.none
+1,Sparksen,Lux,True,Side.blue,0,0,0,0.0,0,Flash,Exhaust,2,False,674,500,Spellthief's Edge,Health Potion,,,,,0,460,Lane.bot_lane,Role.duo
+2,Navi Mark,Riven,True,Side.blue,0,0,0,0.0,8,Flash,Teleport,3,False,845,500,Long Sword,Total Biscuit of Rejuvenation,,,,,0,1240,Lane.mid_lane,Role.solo
+3,RefrAen,Malphite,True,Side.blue,0,0,0,0.0,3,Teleport,Flash,2,False,711,500,Corrupting Potion,,,,,,70,485,Lane.top_lane,Role.solo
+4,Up AIl Night,Twitch,True,Side.blue,0,0,0,0.0,12,Flash,Heal,2,False,901,500,Doran's Blade,Health Potion,,,,,0,1505,Lane.bot_lane,Role.duo
+5,Ownsaurus,Ezreal,False,Side.red,0,0,0,0.0,0,Flash,Heal,1,False,651,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+6,RealTeemo,Teemo,False,Side.red,0,0,0,0.0,11,Teleport,Flash,3,False,859,500,Doran's Ring,Health Potion,,,,,1075,1665,Lane.top_lane,Role.solo
+7,Tayisdaman,Brand,False,Side.red,0,0,0,0.0,10,Flash,Ignite,2,False,868,500,Spellthief's Edge,,Refillable Potion,,,,1656,349,Lane.bot_lane,Role.solo
+8,Overzelaz,Viktor,False,Side.red,0,0,0,0.0,10,Ghost,Flash,3,False,870,500,Prototype Hex Core,Doran's Ring,Health Potion,,,,1922,1362,Lane.mid_lane,Role.duo
+9,OmegaGJ,Vi,False,Side.red,0,0,0,0.0,17,Flash,Smite,3,False,1023,500,Hunter's Machete,Refillable Potion,,,,,0,6932,Lane.jungle,Role.none

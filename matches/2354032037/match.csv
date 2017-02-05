@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,VSG VeryBitter,Sona,False,Side.blue,0,7,9,1.2857142857142858,14,Exhaust,Flash,10,False,6363,5625,Ruby Sightstone,Redemption,Refillable Potion,Control Ward,Spellthief's Edge,Ionian Boots of Lucidity,4616,4340,Lane.bot_lane,Role.support
+1,lcs jg sucks,Sejuani,False,Side.blue,3,6,5,1.3333333333333333,88,Flash,Smite,12,False,8007,7600,Enchantment: Cinderhulk,Refillable Potion,,Dead Man's Plate,Mercury's Treads,Null-Magic Mantle,64687,24058,Lane.jungle,Role.none
+2,cuteboy1,LeBlanc,False,Side.blue,8,3,6,4.666666666666667,146,Ignite,Flash,14,False,9871,9235,Refillable Potion,Blasting Wand,Amplifying Tome,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,69493,10729,Lane.jungle,Role.none
+3,Gaow Gaiy,Jayce,False,Side.blue,4,5,5,1.8,201,Flash,Teleport,14,True,10101,9350,Doran's Blade,Refillable Potion,Serrated Dirk,Maw of Malmortius,The Black Cleaver,Mercury's Treads,14251,97917,Lane.top_lane,Role.solo
+4,YummiBananas,Lucian,False,Side.blue,0,7,5,0.7142857142857143,182,Heal,Flash,12,False,8539,7850,Essence Reaver,Phantom Dancer,,,Doran's Blade,Berserker's Greaves,2844,106971,Lane.bot_lane,Role.carry
+5,Rhux,Ahri,True,Side.red,0,2,14,7.0,157,Flash,Ignite,14,False,9191,7395,Negatron Cloak,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,58149,15257,Lane.mid_lane,Role.solo
+6,Joyul,Karma,True,Side.red,0,4,16,4.0,14,Flash,Exhaust,12,False,8438,6600,Control Ward,Redemption,Sightstone,Frostfang,Ionian Boots of Lucidity,Aegis of the Legion,12221,5175,Lane.bot_lane,Role.support
+7,SKY Fear,Varus,True,Side.red,14,3,8,7.333333333333333,181,Flash,Heal,14,False,13963,11370,Negatron Cloak,Spectre's Cowl,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Essence Reaver,7146,117600,Lane.bot_lane,Role.carry
+8,Weeaboo Riven,Riven,True,Side.red,11,2,5,8.0,190,Flash,Teleport,15,False,12402,10975,The Black Cleaver,Null-Magic Mantle,,Ionian Boots of Lucidity,Guardian Angel,Ravenous Hydra,0,124989,Lane.top_lane,Role.solo
+9,iDontCareX,Elise,True,Side.red,3,4,10,3.25,86,Smite,Flash,13,False,9392,7770,Randuin's Omen,Refillable Potion,Boots of Swiftness,Enchantment: Runic Echoes,Negatron Cloak,Ruby Crystal,51861,26344,Lane.jungle,Role.none

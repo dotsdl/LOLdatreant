@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WEIAIT,Darius,False,Side.blue,7,10,1,0.8,180,Teleport,Flash,14,True,11005,8625,Doran's Shield,Refillable Potion,The Black Cleaver,Mercury's Treads,Dead Man's Plate,Kindlegem,0,110795,Lane.top_lane,Role.solo
+1,Sora and Shiro,Syndra,False,Side.blue,1,12,5,0.5,133,Flash,Ghost,12,False,8204,8220,Rylai's Crystal Scepter,Morellonomicon,,Negatron Cloak,Boots of Speed,,67783,5644,Lane.mid_lane,Role.solo
+2,Neo Restoration,Corki,False,Side.blue,3,6,8,1.8333333333333333,117,Heal,Flash,14,False,9012,6633,Bilgewater Cutlass,Refillable Potion,Cull,Boots of Speed,Trinity Force,Doran's Blade,56375,18300,Lane.bot_lane,Role.carry
+3,Sarcasm Orgasm,Vi,False,Side.blue,7,9,4,1.2222222222222223,116,Flash,Smite,14,False,10283,9408,Enchantment: Warrior,Refillable Potion,Trinity Force,Chain Vest,Mercury's Treads,Giant's Belt,1697,97193,Lane.jungle,Role.none
+4,A Fking God,Alistar,False,Side.blue,3,9,6,1.0,22,Exhaust,Flash,12,False,7252,6500,Targon's Brace,Boots of Mobility,,Knight's Vow,Locket of the Iron Solari,,11558,4827,Lane.bot_lane,Role.support
+5,Swiftdever,Nami,True,Side.red,0,5,23,4.6,7,Flash,Exhaust,13,False,9909,8750,Frost Queen's Claim,Redemption,Mikael's Crucible,Sightstone,Boots of Mobility,Sapphire Crystal,10608,7949,Lane.bot_lane,Role.support
+6,Green Awakening,Fizz,True,Side.red,11,4,7,4.5,200,Flash,Ignite,16,False,12951,11850,Needlessly Large Rod,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,Doran's Ring,82800,29651,Lane.mid_lane,Role.solo
+7,l Spawn l,Vayne,True,Side.red,12,5,8,4.0,200,Flash,Heal,15,False,13504,13625,Infinity Edge,Statikk Shiv,Vampiric Scepter,Berserker's Greaves,Sterak's Gage,B. F. Sword,19880,117806,Lane.bot_lane,Role.carry
+8,Ohhlol,Nautilus,True,Side.red,7,4,19,6.5,137,Flash,Teleport,15,False,12140,12200,Ninja Tabi,Sunfire Cape,Spirit Visage,Fiendish Codex,Stinger,Randuin's Omen,68171,23695,Lane.top_lane,Role.solo
+9,Treebro001,Rek'Sai,True,Side.red,16,3,16,10.666666666666666,192,Flash,Smite,17,False,16257,14825,Titanic Hydra,Randuin's Omen,Boots of Swiftness,Giant's Belt,Enchantment: Cinderhulk,The Black Cleaver,37500,136961,Lane.jungle,Role.none

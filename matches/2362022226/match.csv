@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Extempted,Nidalee,True,Side.blue,9,4,10,4.75,116,Smite,Flash,15,False,12317,10450,Enchantment: Runic Echoes,Rod of Ages,Spectre's Cowl,Iceborn Gauntlet,Boots of Swiftness,,110498,19842,Lane.jungle,Role.none
+1,HotCosplayGirl,Fiora,True,Side.blue,8,6,5,2.1666666666666665,157,Flash,Teleport,14,True,11698,9950,Ravenous Hydra,Mercury's Treads,The Black Cleaver,Doran's Blade,Caulfield's Warhammer,Long Sword,647,87661,Lane.top_lane,Role.solo
+2,GalileoGalilley,Xerath,True,Side.blue,5,4,7,3.0,196,Flash,Exhaust,14,False,11627,10375,Needlessly Large Rod,Blasting Wand,The Dark Seal,Sorcerer's Shoes,Rod of Ages,Luden's Echo,124816,12739,Lane.mid_lane,Role.solo
+3,i was car,Vayne,True,Side.blue,11,6,5,2.6666666666666665,165,Flash,Heal,14,False,12691,10850,Doran's Blade,Infinity Edge,Phantom Dancer,Long Sword,Statikk Shiv,Berserker's Greaves,23360,78681,Lane.bot_lane,Role.carry
+4,Thinkful,Blitzcrank,True,Side.blue,1,2,11,6.0,44,Exhaust,Flash,12,False,9074,7400,Redemption,Eye of the Equinox,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,,11161,13746,Lane.bot_lane,Role.support
+5,Master Kiritsugu,Thresh,False,Side.red,0,8,6,0.75,11,Flash,Exhaust,10,False,5960,4925,Total Biscuit of Rejuvenation,Redemption,Ancient Coin,Control Ward,Sightstone,Boots of Mobility,5259,1962,Lane.bot_lane,Role.support
+6,daluvin,Malphite,False,Side.red,2,6,9,1.8333333333333333,130,Flash,Teleport,12,False,8400,7900,Sunfire Cape,Ninja Tabi,Glacial Shroud,Abyssal Scepter,,,61045,13928,Lane.top_lane,Role.solo
+7,Black Technology,Viktor,False,Side.red,6,9,3,1.0,134,Ghost,Flash,12,False,8751,8400,Total Biscuit of Rejuvenation,,Doran's Ring,Morellonomicon,Perfect Hex Core,Sorcerer's Shoes,81193,8054,Lane.mid_lane,Role.solo
+8,0 K A Y B O Y S,Vi,False,Side.red,11,5,4,3.0,116,Flash,Smite,15,False,11497,11233,Enchantment: Warrior,Warden's Mail,Giant's Belt,Ninja Tabi,Trinity Force,Hexdrinker,3505,136342,Lane.jungle,Role.none
+9,bu he ni duo BB,Jhin,False,Side.red,2,6,4,1.0,173,Heal,Flash,12,False,9135,8730,Doran's Blade,Essence Reaver,Boots of Swiftness,Cull,Rapid Firecannon,Null-Magic Mantle,6240,88569,Lane.bot_lane,Role.carry

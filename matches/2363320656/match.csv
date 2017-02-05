@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ThronesLegend,Gangplank,False,Side.blue,6,2,5,5.5,266,Flash,Exhaust,16,False,14570,14233,Trinity Force,Refillable Potion,Youmuu's Ghostblade,Ninja Tabi,Infinity Edge,Statikk Shiv,15175,213560,Lane.top_lane,Role.solo
+1,HanaAckerman,Jarvan IV,False,Side.blue,5,10,10,1.5,90,Smite,Flash,13,True,9809,9650,Tiamat,Pickaxe,Enchantment: Warrior,Boots of Mobility,The Black Cleaver,Chain Vest,8621,78293,Lane.jungle,Role.none
+2,Łåmb,Janna,False,Side.blue,0,5,6,1.2,10,Flash,Exhaust,12,False,7594,7525,Redemption,Eye of the Oasis,Mercury's Treads,Locket of the Iron Solari,Control Ward,,6128,2333,Lane.bot_lane,Role.support
+3,Wöłf ,Ezreal,False,Side.blue,1,5,5,1.2,208,Flash,Heal,13,False,9985,9400,Iceborn Gauntlet,Mortal Reminder,Doran's Blade,Ionian Boots of Lucidity,Muramana,,18731,87175,Lane.bot_lane,Role.carry
+4,Royal Predator,Ryze,False,Side.blue,6,2,3,4.5,151,Ghost,Flash,13,False,9990,8950,Tear of the Goddess,Needlessly Large Rod,,Rod of Ages,Morellonomicon,Ionian Boots of Lucidity,81410,9077,Lane.mid_lane,Role.solo
+5,Cpt Squirtle,Caitlyn,True,Side.red,6,2,6,6.0,264,Heal,Flash,15,False,14164,12975,Giant Slayer,Rapid Firecannon,Last Whisper,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,2798,203628,Lane.bot_lane,Role.carry
+6,Tschussi,Irelia,True,Side.red,3,6,5,1.3333333333333333,273,Flash,Teleport,16,False,13129,10908,Ninja Tabi,Corrupting Potion,,Sterak's Gage,Trinity Force,Dead Man's Plate,2724,154950,Lane.top_lane,Role.solo
+7,Candymang,Katarina,True,Side.red,6,8,7,1.625,150,Flash,Teleport,15,False,11847,11785,Hextech Gunblade,Luden's Echo,Amplifying Tome,Sorcerer's Shoes,,Abyssal Scepter,107072,15814,Lane.mid_lane,Role.solo
+8,JustFalseX,Soraka,True,Side.red,1,0,14,15.0,17,Flash,Exhaust,14,False,9645,8850,Talisman of Ascension,Ruby Sightstone,,Boots of Mobility,Ardent Censer,Aegis of the Legion,10217,1531,Lane.bot_lane,Role.support
+9,hi im oomsu,Lee Sin,True,Side.red,8,2,10,9.0,154,Smite,Flash,16,False,13568,12475,,,,,Boots of Mobility,,32987,134277,Lane.jungle,Role.none

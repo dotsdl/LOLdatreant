@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zube,Ryze,False,Side.blue,4,8,6,1.25,223,Ghost,Flash,15,False,11885,10725,Refillable Potion,Blasting Wand,Seraph's Embrace,Rod of Ages,Abyssal Scepter,Sorcerer's Shoes,168674,13204,Lane.jungle,Role.none
+1,Spadex,Lee Sin,False,Side.blue,10,6,8,3.0,103,Smite,Flash,14,False,11350,10125,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Dead Man's Plate,The Black Cleaver,Null-Magic Mantle,24124,62697,Lane.jungle,Role.none
+2,Krab Zix,Singed,False,Side.blue,0,6,8,1.3333333333333333,160,Ghost,Teleport,13,False,9942,9835,Amplifying Tome,Zz'Rot Portal,Rod of Ages,Mercury's Treads,Giant's Belt,Needlessly Large Rod,86951,9362,Lane.top_lane,Role.solo
+3,nidage,Vayne,False,Side.blue,7,10,7,1.4,140,Flash,Heal,12,True,10744,10185,Infinity Edge,Quicksilver Sash,Statikk Shiv,Pickaxe,Berserker's Greaves,Doran's Blade,19771,68220,Lane.bot_lane,Role.carry
+4,tujinet,Morgana,False,Side.blue,1,7,15,2.2857142857142856,14,Exhaust,Flash,11,False,8775,8050,Eye of the Watchers,Redemption,Locket of the Iron Solari,Control Ward,Boots of Mobility,,18326,6200,Lane.bot_lane,Role.support
+5,Alestz,Jhin,True,Side.red,6,2,16,11.0,163,Heal,Flash,15,False,12171,11275,Youmuu's Ghostblade,Lord Dominik's Regards,Quicksilver Sash,Boots of Swiftness,Doran's Blade,Rapid Firecannon,7184,119485,Lane.bot_lane,Role.carry
+6,Braums Mustache,Bard,True,Side.red,0,7,22,3.142857142857143,16,Flash,Exhaust,13,False,9319,8220,Boots of Mobility,Ruby Sightstone,Frost Queen's Claim,Redemption,Negatron Cloak,Cloth Armor,11652,4542,Lane.bot_lane,Role.support
+7,DouyuTV 695995,Irelia,True,Side.red,12,4,9,5.25,186,Teleport,Flash,16,False,14047,11708,Mercury's Treads,Randuin's Omen,Corrupting Potion,Maw of Malmortius,Trinity Force,,6735,92096,Lane.top_lane,Role.solo
+8,cidade de cack,Twisted Fate,True,Side.red,11,4,15,6.5,235,Ghost,Flash,17,False,16244,14910,Void Staff,Zhonya's Hourglass,Rabadon's Deathcap,Amplifying Tome,Ionian Boots of Lucidity,Lich Bane,165010,14259,Lane.mid_lane,Role.solo
+9,part1nG,Shyvana,True,Side.red,8,5,10,3.6,176,Flash,Smite,15,False,13028,12775,Enchantment: Bloodrazor,Stinger,Titanic Hydra,Boots of Swiftness,Frozen Mallet,Phage,67629,105909,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,chakhae,Jayce,False,Side.blue,1,10,6,0.7,158,Flash,Exhaust,13,False,8594,8425,Youmuu's Ghostblade,Refillable Potion,Doran's Blade,Ionian Boots of Lucidity,The Black Cleaver,Pickaxe,12007,78537,Lane.mid_lane,Role.solo
+1,Aurath,Twitch,False,Side.blue,6,4,5,2.75,67,Smite,Flash,12,True,9134,8550,Blade of the Ruined King,Spectre's Cowl,Berserker's Greaves,Enchantment: Bloodrazor,,,2008,67986,Lane.jungle,Role.none
+2,Imaokai,Caitlyn,False,Side.blue,4,4,5,2.25,220,Heal,Flash,13,False,10694,9600,Doran's Blade,Infinity Edge,Runaan's Hurricane,Cull,Last Whisper,Berserker's Greaves,884,125316,Lane.bot_lane,Role.carry
+3,MadLyfe,Cho'Gath,False,Side.blue,4,3,3,2.3333333333333335,172,Teleport,Flash,13,False,9389,8950,Doran's Shield,Chain Vest,Rod of Ages,Mercury's Treads,Giant's Belt,Zz'Rot Portal,62809,21438,Lane.top_lane,Role.solo
+4,Vantar,Soraka,False,Side.blue,0,10,9,0.9,9,Flash,Exhaust,10,False,6559,5875,Redemption,Refillable Potion,Eye of the Oasis,Null-Magic Mantle,Ionian Boots of Lucidity,Cloth Armor,7894,1819,Lane.bot_lane,Role.support
+5,Please Fade,Janna,True,Side.red,2,3,17,6.333333333333333,10,Exhaust,Flash,12,False,8790,7425,Sightstone,Redemption,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,Frostfang,5848,3924,Lane.bot_lane,Role.support
+6,Muzy,Jhin,True,Side.red,9,1,8,17.0,196,Flash,Heal,15,False,12294,9925,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Pickaxe,B. F. Sword,6989,130992,Lane.bot_lane,Role.carry
+7,UpsidesOhoulihan,Poppy,True,Side.red,2,5,8,2.0,123,Flash,Teleport,13,False,9295,7975,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Ruby Crystal,Cloth Armor,28112,60263,Lane.top_lane,Role.solo
+8,Ablazeolive,Viktor,True,Side.red,15,4,9,6.0,180,Flash,Ghost,15,False,13881,12500,Perfect Hex Core,Doran's Ring,Blasting Wand,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Lich Bane,124950,10898,Lane.mid_lane,Role.solo
+9,adc feng lft,Rek'Sai,True,Side.red,3,2,13,8.0,242,Smite,Flash,17,False,13804,13375,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,Dead Man's Plate,The Black Cleaver,46350,160913,Lane.jungle,Role.none

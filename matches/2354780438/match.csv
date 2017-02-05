@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Archmagnis,Caitlyn,True,Side.blue,2,3,6,2.6666666666666665,107,Flash,Heal,9,False,7012,6950,Recurve Bow,,Boots of Speed,Infinity Edge,Zeal,Doran's Blade,544,58352,Lane.bot_lane,Role.carry
+1,Ehdy,Elise,True,Side.blue,5,0,5,10.0,98,Smite,Flash,11,False,8815,6375,Enchantment: Runic Echoes,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,,,66497,27286,Lane.jungle,Role.none
+2,Eiyo,Jayce,True,Side.blue,2,2,2,2.0,153,Teleport,Flash,12,False,7446,5250,Refillable Potion,Ninja Tabi,The Black Cleaver,Vampiric Scepter,,,7336,60151,Lane.top_lane,Role.solo
+3,nackksi,Leona,True,Side.blue,2,1,8,10.0,28,Exhaust,Flash,10,False,6164,4500,Face of the Mountain,,Sightstone,,Boots of Mobility,,5013,6505,Lane.bot_lane,Role.support
+4,t d,Zed,True,Side.blue,13,2,0,6.5,134,Ignite,Flash,12,True,9616,7175,The Black Cleaver,Youmuu's Ghostblade,Boots of Swiftness,,,,6212,66693,Lane.mid_lane,Role.solo
+5,IQ is 201 ,Thresh,False,Side.red,2,5,2,0.8,16,Flash,Exhaust,8,False,4216,3250,Face of the Mountain,Boots of Mobility,,,,,3735,2027,Lane.bot_lane,Role.support
+6,GalileoGalilley,Jhin,False,Side.red,1,6,1,0.3333333333333333,101,Flash,Heal,8,False,4976,4550,Doran's Blade,Youmuu's Ghostblade,Boots of Speed,Doran's Blade,Dagger,,0,39041,Lane.bot_lane,Role.carry
+7,SA panther410,Gnar,False,Side.red,1,5,3,0.8,91,Teleport,Flash,10,False,5005,5075,Frozen Mallet,Refillable Potion,Boots of Mobility,,,,1064,29223,Lane.top_lane,Role.solo
+8,GangstaEnigma,Shyvana,False,Side.red,1,4,1,0.5,68,Flash,Smite,9,False,4747,4575,Enchantment: Bloodrazor,Boots of Mobility,,Vampiric Scepter,,,26340,21388,Lane.jungle,Role.none
+9,rage Eevee,Twisted Fate,False,Side.red,2,5,0,0.4,83,Flash,Exhaust,9,False,5118,4575,Sheen,Doran's Ring,Aether Wisp,Boots of Speed,Seeker's Armguard,Doran's Ring,27800,5297,Lane.mid_lane,Role.solo

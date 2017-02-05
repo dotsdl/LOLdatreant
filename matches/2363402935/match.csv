@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,im Dusk,Graves,False,Side.blue,3,6,3,1.0,167,Smite,Flash,13,False,8891,8875,Enchantment: Warrior,The Black Cleaver,Phantom Dancer,,Boots of Speed,,2802,125256,Lane.jungle,Role.none
+1,HoNSol0,Nautilus,False,Side.blue,2,4,1,0.75,196,Flash,Teleport,14,False,8452,7650,Sunfire Cape,Corrupting Potion,Iceborn Gauntlet,Mercury's Treads,,Cloth Armor,68683,23670,Lane.top_lane,Role.solo
+2,Carrots2,Azir,False,Side.blue,3,9,5,0.8888888888888888,180,Flash,Exhaust,13,True,9282,8675,Nashor's Tooth,Berserker's Greaves,Needlessly Large Rod,Doran's Ring,Giant's Belt,Seeker's Armguard,106215,12152,Lane.mid_lane,Role.solo
+3,white cat,Caitlyn,False,Side.blue,2,6,2,0.6666666666666666,145,Flash,Heal,11,False,7851,6900,Doran's Blade,Infinity Edge,Total Biscuit of Rejuvenation,Recurve Bow,Berserker's Greaves,Dagger,1229,76525,Lane.bot_lane,Role.carry
+4,Professor Melyn,Zyra,False,Side.blue,3,6,1,0.6666666666666666,29,Flash,Exhaust,10,False,6931,6275,Sorcerer's Shoes,Refillable Potion,,Haunting Guise,Eye of the Watchers,Blasting Wand,22217,3076,Lane.bot_lane,Role.support
+5,moon o,Lee Sin,True,Side.red,12,2,10,11.0,136,Smite,Flash,15,False,12286,10800,Tiamat,Guardian Angel,Enchantment: Warrior,Ruby Sightstone,Mercury's Treads,Giant's Belt,24394,114812,Lane.jungle,Role.none
+6,Nhock,Zed,True,Side.red,5,1,4,9.0,186,Teleport,Flash,14,False,10121,8275,Youmuu's Ghostblade,Quicksilver Sash,Hexdrinker,Boots of Swiftness,Last Whisper,Long Sword,5500,87179,Lane.top_lane,Role.solo
+7,TSM MeNoHaxor,Karma,True,Side.red,0,2,20,10.0,10,Ignite,Flash,12,False,7895,6900,Eye of the Watchers,Aegis of the Legion,Redemption,Control Ward,Boots of Mobility,Refillable Potion,9268,4430,Lane.bot_lane,Role.support
+8,Jeehun,Jhin,True,Side.red,6,1,9,15.0,219,Flash,Heal,14,False,11670,9950,Doran's Blade,Essence Reaver,Rapid Firecannon,B. F. Sword,Boots of Swiftness,Pickaxe,3068,141174,Lane.bot_lane,Role.carry
+9,oopa,Cassiopeia,True,Side.red,8,7,5,1.8571428571428572,165,Flash,Ghost,14,False,10858,9300,Doran's Ring,Refillable Potion,Rylai's Crystal Scepter,Tear of the Goddess,Morellonomicon,Needlessly Large Rod,83041,6634,Lane.mid_lane,Role.solo

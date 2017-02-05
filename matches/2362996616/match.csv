@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sìyou,Orianna,False,Side.blue,8,6,6,2.3333333333333335,210,Flash,Cleanse,15,False,11541,10160,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,107482,14644,Lane.mid_lane,Role.solo
+1,Rokí,Riven,False,Side.blue,2,8,6,1.0,156,Flash,Teleport,14,False,8860,8350,Maw of Malmortius,The Black Cleaver,Control Ward,Long Sword,Mercury's Treads,,0,75096,Lane.top_lane,Role.solo
+2,feud999,Jhin,False,Side.blue,2,4,9,2.75,176,Flash,Heal,13,False,9378,9300,Essence Reaver,Rapid Firecannon,Berserker's Greaves,Doran's Blade,Control Ward,Pickaxe,6525,85438,Lane.bot_lane,Role.carry
+3,cute pupper irl,Karma,False,Side.blue,2,12,3,0.4166666666666667,16,Flash,Exhaust,10,False,6739,6400,Ionian Boots of Lucidity,Eye of the Watchers,,Redemption,Control Ward,,9011,2805,Lane.bot_lane,Role.support
+4,IHateD2Players,Nocturne,False,Side.blue,8,8,5,1.625,141,Smite,Flash,15,False,10824,10725,Youmuu's Ghostblade,Enchantment: Warrior,Maw of Malmortius,Ionian Boots of Lucidity,Ruby Crystal,Long Sword,5563,124700,Lane.jungle,Role.none
+5,Flaresz,Lissandra,True,Side.red,9,7,6,2.142857142857143,210,Flash,Teleport,15,False,13114,13075,Void Staff,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Control Ward,128687,11930,Lane.top_lane,Role.solo
+6,TOP SCORE,Lee Sin,True,Side.red,21,4,7,7.0,170,Smite,Flash,17,True,16796,13850,Enchantment: Warrior,Randuin's Omen,Youmuu's Ghostblade,Dead Man's Plate,Ninja Tabi,Spectre's Cowl,33338,142551,Lane.jungle,Role.none
+7,iPav,Teemo,True,Side.red,3,3,9,4.0,222,Exhaust,Flash,16,False,12902,9300,Doran's Ring,Refillable Potion,Ninja Tabi,Guinsoo's Rageblade,Runaan's Hurricane,Jaurim's Fist,69433,92524,Lane.mid_lane,Role.solo
+8,C9 Smoothie,Bard,True,Side.red,2,5,11,2.6,10,Flash,Exhaust,12,False,8850,7200,Control Ward,Eye of the Watchers,Redemption,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,8537,7526,Lane.bot_lane,Role.support
+9,Riot Meekal,Caitlyn,True,Side.red,3,3,7,3.3333333333333335,167,Flash,Heal,13,False,11261,9400,Pickaxe,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,Long Sword,194,118566,Lane.bot_lane,Role.carry

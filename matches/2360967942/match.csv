@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BabièThug,Ezreal,True,Side.blue,8,5,13,4.2,174,Flash,Heal,14,False,12381,10125,Muramana,Refillable Potion,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Blade,19562,92261,Lane.bot_lane,Role.carry
+1,data88,Nasus,True,Side.blue,6,3,6,4.0,204,Teleport,Flash,15,False,12324,9250,Iceborn Gauntlet,Zz'Rot Portal,Kindlegem,Ninja Tabi,Spectre's Cowl,Cloth Armor,35448,114245,Lane.top_lane,Role.solo
+2,Firé,Evelynn,True,Side.blue,12,6,10,3.6666666666666665,54,Smite,Ignite,13,False,11168,10850,Boots of Mobility,Hextech Protobelt-01,Lich Bane,Enchantment: Runic Echoes,Mejai's Soulstealer,,49163,23396,Lane.jungle,Role.none
+3,D0NG0,LeBlanc,True,Side.blue,13,3,7,6.666666666666667,169,Ignite,Flash,14,False,12672,12175,Needlessly Large Rod,Abyssal Scepter,Sorcerer's Shoes,The Dark Seal,Rylai's Crystal Scepter,Zhonya's Hourglass,97603,9331,Lane.mid_lane,Role.solo
+4,YOUMADSIS,Brand,True,Side.blue,4,6,11,2.5,33,Ignite,Flash,11,False,9372,8085,Rylai's Crystal Scepter,Ruby Crystal,Sorcerer's Shoes,Eye of the Watchers,Control Ward,Amplifying Tome,28236,6022,Lane.bot_lane,Role.support
+5,Wolfelol,Bard,False,Side.red,2,10,11,1.3,20,Ignite,Flash,11,True,7558,6900,,Sightstone,Boots of Mobility,Frost Queen's Claim,Total Biscuit of Rejuvenation,Redemption,10736,6030,Lane.bot_lane,Role.support
+6,Vote No,Riven,False,Side.red,2,9,2,0.4444444444444444,143,Teleport,Flash,12,False,7788,6225,Doran's Blade,Mercury's Treads,Refillable Potion,The Black Cleaver,Last Whisper,,0,72675,Lane.top_lane,Role.solo
+7,Drowning,Annie,False,Side.red,8,6,5,2.1666666666666665,157,Flash,Ignite,13,False,9700,8475,,Ionian Boots of Lucidity,Doran's Ring,Rod of Ages,Abyssal Scepter,Needlessly Large Rod,67225,11110,Lane.mid_lane,Role.solo
+8,Mitia Karamazov,Amumu,False,Side.red,2,7,3,0.7142857142857143,96,Flash,Smite,11,False,7488,7250,Enchantment: Runic Echoes,Refillable Potion,Mercury's Treads,Banshee's Veil,Ruby Crystal,Control Ward,50404,17718,Lane.jungle,Role.none
+9,Danman96,Twitch,False,Side.red,9,11,3,1.0909090909090908,117,Flash,Heal,11,False,9766,9725,Doran's Blade,Cull,Berserker's Greaves,Infinity Edge,Hexdrinker,Runaan's Hurricane,0,53884,Lane.bot_lane,Role.carry

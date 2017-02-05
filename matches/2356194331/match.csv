@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Youuuuuuuuuuuuu,Graves,True,Side.blue,6,1,1,7.0,116,Smite,Flash,12,False,8564,5625,Enchantment: Warrior,,Long Sword,Serrated Dirk,Long Sword,Ionian Boots of Lucidity,1874,93915,Lane.jungle,Role.none
+1,AnnieTopOnly,Annie,True,Side.blue,4,0,3,7.0,99,Flash,Ignite,11,False,7105,5125,Doran's Ring,Refillable Potion,Ionian Boots of Lucidity,Abyssal Scepter,The Dark Seal,Ruby Crystal,33209,8604,Lane.mid_lane,Role.solo
+2,NayvadiusWilburn,Corki,True,Side.blue,2,1,2,4.0,134,Flash,Heal,10,False,6842,6468,Doran's Blade,Trinity Force,Boots of Speed,Bilgewater Cutlass,Amplifying Tome,,39487,19410,Lane.bot_lane,Role.carry
+3,Carrots2,Soraka,True,Side.blue,1,0,10,11.0,6,Flash,Exhaust,9,False,5439,4650,Sightstone,Redemption,Refillable Potion,Forbidden Idol,Boots of Speed,Ancient Coin,6146,2786,Lane.bot_lane,Role.support
+4,Cris,Jayce,True,Side.blue,6,4,6,3.0,110,Flash,Teleport,11,False,8244,7550,Manamune,Refillable Potion,,B. F. Sword,The Black Cleaver,Boots of Speed,12469,60269,Lane.top_lane,Role.solo
+5,1234569,Lee Sin,False,Side.red,3,5,0,0.6,70,Flash,Smite,9,True,5418,4875,Tiamat,Enchantment: Warrior,Ionian Boots of Lucidity,,,,9767,41961,Lane.jungle,Role.none
+6,Sheathix,Sona,False,Side.red,0,3,2,0.6666666666666666,8,Flash,Exhaust,7,False,3881,2875,Nomad's Medallion,Boots of Swiftness,Control Ward,,Sightstone,,5356,2306,Lane.bot_lane,Role.support
+7,Hyorimaru,Anivia,False,Side.red,0,4,0,0.0,89,Flash,Ghost,9,False,4459,3450,Doran's Ring,Boots of Mobility,,Tear of the Goddess,Doran's Ring,Blasting Wand,27366,5054,Lane.mid_lane,Role.solo
+8,Rohammers,Nautilus,False,Side.red,1,3,2,1.0,99,Teleport,Flash,10,False,5378,4225,Corrupting Potion,Doran's Shield,Sunfire Cape,Boots of Speed,,,38077,11646,Lane.top_lane,Role.solo
+9,Ninjacrab,Jinx,False,Side.red,2,4,0,0.5,102,Flash,Heal,9,False,5270,4650,Doran's Blade,Cull,Zeal,Berserker's Greaves,B. F. Sword,,715,38681,Lane.bot_lane,Role.carry

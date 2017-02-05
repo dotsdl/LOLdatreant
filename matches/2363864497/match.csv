@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Im a real grill,Caitlyn,True,Side.blue,7,3,8,5.0,182,Flash,Heal,14,False,13238,10700,Statikk Shiv,Doran's Blade,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,Long Sword,13636,126206,Lane.bot_lane,Role.carry
+1,Lesu,Kha'Zix,True,Side.blue,12,4,7,4.75,188,Smite,Flash,16,True,14705,14500,Edge of Night,B. F. Sword,Youmuu's Ghostblade,Mercury's Treads,Maw of Malmortius,Enchantment: Warrior,3100,182782,Lane.jungle,Role.none
+2,Platrick,Sion,True,Side.blue,7,5,17,4.8,34,Exhaust,Flash,14,False,11494,9950,Redemption,Face of the Mountain,Ruby Sightstone,Knight's Vow,Boots of Swiftness,Ruby Crystal,16836,19798,Lane.bot_lane,Role.support
+3,Washing Dishes,Jayce,True,Side.blue,9,8,10,2.375,223,Teleport,Flash,16,False,13856,12550,Muramana,The Black Cleaver,Maw of Malmortius,Ionian Boots of Lucidity,Serrated Dirk,B. F. Sword,25464,129512,Lane.top_lane,Role.solo
+4,Huhi Lite,LeBlanc,True,Side.blue,15,6,3,3.0,187,Ignite,Flash,16,False,14282,13625,Blasting Wand,Morellonomicon,Rylai's Crystal Scepter,Void Staff,Needlessly Large Rod,Sorcerer's Shoes,114036,14333,Lane.mid_lane,Role.solo
+5,iMBACHAN,Viktor,False,Side.red,6,6,6,2.0,181,Flash,Exhaust,15,False,10972,10075,Perfect Hex Core,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Needlessly Large Rod,Giant's Belt,113168,7598,Lane.mid_lane,Role.solo
+6,Ninjacrab,Rek'Sai,False,Side.red,5,13,5,0.7692307692307693,115,Flash,Smite,14,False,9422,8775,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Boots of Swiftness,The Black Cleaver,Chain Vest,21088,75404,Lane.jungle,Role.none
+7,Thalies,Katarina,False,Side.red,6,9,8,1.5555555555555556,119,Teleport,Flash,14,False,9820,8650,Doran's Shield,,Ninja Tabi,Hextech Gunblade,Rylai's Crystal Scepter,,72465,8353,Lane.top_lane,Role.solo
+8,RATIRLonNA,Vayne,False,Side.red,7,12,4,0.9166666666666666,197,Flash,Exhaust,15,False,12036,12350,Vampiric Scepter,,Phantom Dancer,Infinity Edge,Statikk Shiv,Berserker's Greaves,32561,101108,Lane.bot_lane,Role.solo
+9,21 Sheepage,Thresh,False,Side.red,2,10,8,1.0,15,Flash,Ignite,12,False,7241,6825,Ruby Sightstone,Redemption,Control Ward,Aegis of the Legion,Relic Shield,Boots of Mobility,7444,4657,Lane.jungle,Role.none

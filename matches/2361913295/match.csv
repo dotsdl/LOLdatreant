@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Peridot,Ekko,True,Side.blue,4,1,1,5.0,125,Teleport,Flash,10,False,7007,5175,Doran's Ring,Hextech Gunblade,Refillable Potion,Boots of Speed,Doran's Ring,Sapphire Crystal,54724,13335,Lane.top_lane,Role.solo
+1,BaconSeeker,Karma,True,Side.blue,1,1,3,4.0,10,Exhaust,Flash,8,False,4821,3450,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,,Total Biscuit of Rejuvenation,,6536,4893,Lane.bot_lane,Role.duo
+2,Extreme Person,Shaco,True,Side.blue,2,0,1,3.0,70,Ignite,Smite,9,True,5681,5075,Enchantment: Runic Echoes,Hextech Revolver,The Dark Seal,Ionian Boots of Lucidity,,,21273,33269,Lane.jungle,Role.none
+3,Shroudedd,Twisted Fate,True,Side.blue,0,1,4,4.0,101,Ghost,Flash,9,False,6154,3850,Doran's Ring,Ionian Boots of Lucidity,Blasting Wand,Refillable Potion,The Dark Seal,Catalyst of Aeons,42957,10866,Lane.mid_lane,Role.solo
+4, keine Hosen,Twitch,True,Side.blue,4,1,1,5.0,116,Flash,Heal,10,False,7221,5725,Doran's Blade,Total Biscuit of Rejuvenation,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Control Ward,0,54947,Lane.bot_lane,Role.duo
+5,06 24 1998,Kha'Zix,False,Side.red,0,2,0,0.0,31,Smite,Flash,6,False,3384,1925,Skirmisher's Sabre,Refillable Potion,Long Sword,Long Sword,,,1112,20622,Lane.jungle,Role.none
+6,D0NG0,Ahri,False,Side.red,0,2,1,0.5,84,Ignite,Flash,9,False,3838,3600,Doran's Ring,Lost Chapter,Ionian Boots of Lucidity,The Dark Seal,Fiendish Codex,,11706,8931,Lane.mid_lane,Role.solo
+7,MongolWarrior,Ashe,False,Side.red,3,3,1,1.3333333333333333,79,Heal,Flash,8,False,4705,4400,Doran's Blade,Essence Reaver,Boots of Speed,,,,255,26803,Lane.bot_lane,Role.duo
+8,Desaltifier,Bard,False,Side.red,1,2,2,1.5,0,Flash,Exhaust,7,False,3069,2700,Control Ward,Boots of Mobility,Total Biscuit of Rejuvenation,Sightstone,Spellthief's Edge,,2182,1632,Lane.bot_lane,Role.duo
+9,Grandederp,Nautilus,False,Side.red,0,2,0,0.0,101,Teleport,Flash,9,False,4230,3900,Corrupting Potion,Spectre's Cowl,Bami's Cinder,Boots of Speed,Chain Vest,,24761,12624,Lane.top_lane,Role.solo

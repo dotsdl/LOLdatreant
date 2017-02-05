@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,q1w2e3r4t5y6u7i8,Twitch,True,Side.blue,2,3,5,2.3333333333333335,91,Flash,Heal,10,False,7259,6600,Runaan's Hurricane,Long Sword,B. F. Sword,Doran's Blade,Berserker's Greaves,Long Sword,0,48171,Lane.bot_lane,Role.carry
+1,Rank 1 Season 7,Kha'Zix,True,Side.blue,10,2,2,6.0,146,Smite,Flash,13,False,11086,10425,Tiamat,Refillable Potion,Youmuu's Ghostblade,Boots of Speed,Enchantment: Warrior,Duskblade of Draktharr,2558,127370,Lane.jungle,Role.none
+2,foggedftw1,Tryndamere,True,Side.blue,2,0,7,9.0,140,Ignite,Flash,12,False,9306,7650,Vampiric Scepter,Refillable Potion,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,,12390,83442,Lane.top_lane,Role.solo
+3,Nedo,Alistar,True,Side.blue,0,4,3,0.75,29,Exhaust,Flash,9,False,5260,4900,Eye of the Equinox,Crystalline Bracer,Control Ward,Crystalline Bracer,Refillable Potion,Boots of Mobility,5919,4055,Lane.bot_lane,Role.support
+4,KayBee,LeBlanc,True,Side.blue,8,1,7,15.0,146,Ignite,Flash,13,False,9783,8325,Refillable Potion,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,60681,9111,Lane.mid_lane,Role.solo
+5,bobqinXD,Viktor,False,Side.red,4,5,0,0.8,118,Flash,Exhaust,12,False,6559,6280,The Hex Core mk-2,Ionian Boots of Lucidity,Amplifying Tome,Doran's Ring,Negatron Cloak,Needlessly Large Rod,42922,9791,Lane.mid_lane,Role.solo
+6,Captain Nuke,Gnar,False,Side.red,0,3,0,0.0,126,Teleport,Flash,10,False,5472,4550,Doran's Blade,Refillable Potion,Giant's Belt,Ninja Tabi,Jaurim's Fist,Doran's Blade,4086,53975,Lane.top_lane,Role.solo
+7,Xinthus,Ezreal,False,Side.red,3,4,5,2.0,139,Heal,Flash,11,True,7572,7250,Doran's Blade,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,,,7210,52969,Lane.bot_lane,Role.carry
+8,BabièThug,Thresh,False,Side.red,1,5,4,1.0,13,Flash,Ignite,8,False,4504,3300,Mercury's Treads,Refillable Potion,Sightstone,Targon's Brace,,,4371,3035,Lane.bot_lane,Role.support
+9,BRING BAK SOLOQ,Nautilus,False,Side.red,2,5,2,0.8,94,Flash,Smite,10,False,5977,5025,Giant's Belt,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,,,42755,23674,Lane.jungle,Role.none

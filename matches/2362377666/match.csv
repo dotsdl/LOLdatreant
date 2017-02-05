@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Meteos,Kindred,False,Side.blue,7,8,7,1.75,137,Smite,Flash,14,False,11380,10660,Enchantment: Bloodrazor,Blade of the Ruined King,Hunter's Potion,Berserker's Greaves,Runaan's Hurricane,Dagger,1714,130781,Lane.jungle,Role.none
+1,oopa,Ryze,False,Side.blue,4,9,3,0.7777777777777778,187,Flash,Ghost,14,False,10167,9160,Needlessly Large Rod,Seraph's Embrace,Amplifying Tome,Ionian Boots of Lucidity,Rod of Ages,Ruby Crystal,116221,7121,Lane.mid_lane,Role.solo
+2,Sophist Sage,Ezreal,False,Side.blue,3,8,9,1.5,150,Heal,Flash,13,False,9760,9208,Bilgewater Cutlass,Trinity Force,Ionian Boots of Lucidity,Muramana,Doran's Blade,,11561,74546,Lane.bot_lane,Role.carry
+3,New Experience,Mordekaiser,False,Side.blue,1,11,2,0.2727272727272727,214,Flash,Teleport,15,False,9969,9360,Zhonya's Hourglass,Blasting Wand,Mercury's Treads,Doran's Shield,Rylai's Crystal Scepter,Amplifying Tome,113507,19515,Lane.top_lane,Role.solo
+4,Sheiden,Kennen,False,Side.blue,4,8,8,1.5,31,Exhaust,Flash,13,False,9277,8835,Frost Queen's Claim,Sightstone,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Amplifying Tome,28964,7219,Lane.bot_lane,Role.support
+5,Quad Main,Maokai,True,Side.red,5,0,11,16.0,204,Flash,Teleport,16,False,12088,11750,Doran's Ring,Catalyst of Aeons,Iceborn Gauntlet,Sunfire Cape,Spirit Visage,Mercury's Treads,104258,32718,Lane.top_lane,Role.solo
+6,Hyorimaru,Anivia,True,Side.red,6,3,15,7.0,198,Flash,Exhaust,16,False,12745,12250,Doran's Ring,Rod of Ages,Zhonya's Hourglass,Archangel's Staff,Haunting Guise,Boots of Mobility,102343,10710,Lane.mid_lane,Role.solo
+7,Gweiss,Vi,True,Side.red,12,8,8,2.5,156,Smite,Flash,15,False,14783,13758,Enchantment: Warrior,Mercury's Treads,Trinity Force,Maw of Malmortius,Dead Man's Plate,,1670,168362,Lane.jungle,Role.none
+8,D0NG0,LeBlanc,True,Side.red,7,4,7,3.5,31,Ignite,Flash,13,False,10854,9975,Eye of the Watchers,Abyssal Scepter,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,,32486,6435,Lane.bot_lane,Role.support
+9,Pond,Vayne,True,Side.red,14,6,7,3.5,171,Heal,Flash,15,True,14812,13125,Berserker's Greaves,Pickaxe,Quicksilver Sash,Infinity Edge,Statikk Shiv,Runaan's Hurricane,25046,95921,Lane.bot_lane,Role.carry

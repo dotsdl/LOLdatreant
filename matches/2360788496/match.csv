@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,We Win Late Game,Lulu,True,Side.blue,1,4,19,5.0,30,Flash,Exhaust,13,False,9735,8675,Locket of the Iron Solari,Redemption,Control Ward,Eye of the Watchers,Crystalline Bracer,Ionian Boots of Lucidity,22217,7291,Lane.bot_lane,Role.support
+1,Tyflos,Riven,True,Side.blue,11,5,7,3.6,161,Teleport,Flash,14,False,13084,12675,The Black Cleaver,Quicksilver Sash,Death's Dance,,Titanic Hydra,Boots of Swiftness,130,133161,Lane.top_lane,Role.solo
+2,Arselan,Vayne,True,Side.blue,3,7,7,1.4285714285714286,128,Flash,Heal,13,False,10196,9925,Doran's Blade,Statikk Shiv,Blade of the Ruined King,Berserker's Greaves,Cloak of Agility,B. F. Sword,4388,72560,Lane.bot_lane,Role.carry
+3,SaintKilianv2,Ekko,True,Side.blue,6,1,12,18.0,125,Smite,Flash,15,False,11646,10125,Refillable Potion,Enchantment: Runic Echoes,Boots of Speed,Mejai's Soulstealer,Spirit Visage,Iceborn Gauntlet,83858,39805,Lane.jungle,Role.none
+4,Mob Psychoe 100,Ryze,True,Side.blue,11,2,4,7.5,216,Flash,Ghost,15,False,14080,10735,Seraph's Embrace,Refillable Potion,Blasting Wand,Morellonomicon,Rod of Ages,Ionian Boots of Lucidity,161827,11158,Lane.mid_lane,Role.solo
+5,Kamajii,Ezreal,False,Side.red,9,4,9,4.5,176,Flash,Heal,13,True,10978,9733,Quicksilver Sash,Trinity Force,Muramana,Berserker's Greaves,Long Sword,Doran's Blade,15851,85619,Lane.bot_lane,Role.carry
+6,support or troll,Miss Fortune,False,Side.red,3,7,11,2.0,23,Ignite,Flash,11,False,7740,7225,Redemption,Frost Queen's Claim,Sightstone,Berserker's Greaves,Ruby Crystal,,9756,24093,Lane.bot_lane,Role.support
+7,aaaaaaGAYaaaaaa,Jarvan IV,False,Side.red,1,9,8,1.0,81,Smite,Flash,12,False,7311,6400,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Giant's Belt,Warden's Mail,Null-Magic Mantle,7770,65733,Lane.jungle,Role.none
+8,KlNG BOB,Maokai,False,Side.red,3,5,6,1.8,146,Teleport,Flash,13,False,8203,6900,Corrupting Potion,Doran's Ring,Sunfire Cape,Mercury's Treads,Spectre's Cowl,Kindlegem,75030,10875,Lane.top_lane,Role.solo
+9,Hochelaga,Lux,False,Side.red,3,8,8,1.375,148,Flash,Ghost,12,False,8387,7600,Ionian Boots of Lucidity,Luden's Echo,Morellonomicon,,Doran's Ring,,63731,15661,Lane.mid_lane,Role.solo

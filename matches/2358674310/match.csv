@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wazabiee,Vayne,True,Side.blue,0,0,1,1.0,12,Heal,Flash,2,False,1052,500,,Doran's Blade,,,,,65,2767,Lane.bot_lane,Role.duo
+1,Wynaan,Nami,True,Side.blue,1,0,0,1.0,1,Exhaust,Flash,2,True,1176,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,165,1015,Lane.bot_lane,Role.duo
+2,Cya IN THE BUSH,Viktor,True,Side.blue,0,0,0,0.0,16,Flash,Cleanse,3,False,981,500,Prototype Hex Core,Doran's Ring,Health Potion,,,,1265,1661,Lane.mid_lane,Role.solo
+3,Shamoo,Amumu,True,Side.blue,0,0,0,0.0,14,Flash,Smite,3,False,1084,500,Hunter's Talisman,,,,,Refillable Potion,5517,1958,Lane.jungle,Role.none
+4,emV,Gangplank,True,Side.blue,0,0,0,0.0,5,Flash,Exhaust,2,False,807,500,Doran's Ring,,,,,,0,2005,Lane.top_lane,Role.solo
+5,QuickRev,Maokai,False,Side.red,0,0,0,0.0,3,Flash,Ignite,2,False,735,500,Relic Shield,,,,,,1233,712,Lane.bot_lane,Role.duo
+6,OIaf,Olaf,False,Side.red,0,0,0,0.0,7,Flash,Teleport,3,False,893,650,Doran's Blade,,,,Refillable Potion,,22,5089,Lane.top_lane,Role.solo
+7,NeedMorePrestige,Zac,False,Side.red,0,0,0,0.0,0,Flash,Smite,1,False,660,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+8,Tar Ar Ais J,Ezreal,False,Side.red,0,1,0,0.0,9,Heal,Flash,2,False,828,500,,Doran's Blade,,,,,92,2230,Lane.bot_lane,Role.duo
+9,TheNuocMam,Lux,False,Side.red,0,0,0,0.0,14,Heal,Flash,3,False,958,500,The Dark Seal,Refillable Potion,,,,,1308,2048,Lane.mid_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RNG Mlxgod,Kha'Zix,True,Side.blue,8,1,7,15.0,117,Smite,Flash,14,True,11164,9125,Control Ward,Ravenous Hydra,Long Sword,Phage,Ninja Tabi,Enchantment: Warrior,3303,121302,Lane.jungle,Role.none
+1,Ouchxiao,Maokai,True,Side.blue,6,0,8,14.0,187,Flash,Teleport,15,False,10975,9950,Refillable Potion,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Giant's Belt,Spectre's Cowl,88571,19850,Lane.top_lane,Role.solo
+2,scott LongHui,Braum,True,Side.blue,0,1,14,14.0,39,Exhaust,Flash,11,False,7229,5925,,Face of the Mountain,Sightstone,Boots of Mobility,Null-Magic Mantle,Aegis of the Legion,5825,4248,Lane.bot_lane,Role.support
+3,VerGodLike,Jayce,True,Side.blue,5,0,10,15.0,188,Ignite,Flash,14,False,10514,9125,Youmuu's Ghostblade,Serrated Dirk,The Black Cleaver,Doran's Blade,Ionian Boots of Lucidity,,14828,91816,Lane.mid_lane,Role.solo
+4,suga heibai,Jinx,True,Side.blue,5,3,7,4.0,174,Flash,Heal,13,False,10218,9650,Doran's Blade,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Infinity Edge,Zeal,647,79612,Lane.bot_lane,Role.carry
+5,thekilerone,Caitlyn,False,Side.red,2,4,3,1.25,218,Heal,Flash,12,False,9505,8350,Doran's Blade,Cull,Health Potion,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,317,124645,Lane.bot_lane,Role.carry
+6,Nubsee,Riven,False,Side.red,0,6,1,0.16666666666666666,174,Teleport,Flash,12,False,7200,6750,Tiamat,Refillable Potion,Ninja Tabi,Vampiric Scepter,The Black Cleaver,,0,70656,Lane.top_lane,Role.solo
+7,l am Madlife,Janna,False,Side.red,0,2,5,2.5,2,Flash,Exhaust,11,False,5770,5425,Frostfang,Boots of Mobility,Redemption,Sightstone,The Dark Seal,,3941,2397,Lane.bot_lane,Role.support
+8,II Master II,Elise,False,Side.red,3,6,1,0.6666666666666666,91,Flash,Smite,11,False,7314,7210,Enchantment: Runic Echoes,Sorcerer's Shoes,Hextech Protobelt-01,Ruby Crystal,Amplifying Tome,,56692,23090,Lane.jungle,Role.none
+9,KaneKi521,Yasuo,False,Side.red,0,6,1,0.16666666666666666,160,Flash,Exhaust,12,False,7085,5675,Refillable Potion,Phantom Dancer,B. F. Sword,Doran's Blade,,Ninja Tabi,21289,53240,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Bard,False,Side.blue,1,6,3,0.6666666666666666,12,Flash,Ignite,9,False,5733,5600,Ruby Sightstone,Total Biscuit of Rejuvenation,Redemption,,Spellthief's Edge,Boots of Mobility,9003,2636,Lane.bot_lane,Role.support
+1,TQS Zuardian,Lucian,False,Side.blue,0,7,1,0.14285714285714285,187,Heal,Flash,12,False,8049,7350,Boots of Speed,Doran's Blade,Essence Reaver,Rapid Firecannon,Dagger,,3207,96038,Lane.bot_lane,Role.carry
+2,Is That Sony,Orianna,False,Side.blue,3,5,7,2.0,172,Exhaust,Flash,13,False,8993,8575,Rabadon's Deathcap,Doran's Ring,Morellonomicon,,,Sorcerer's Shoes,76678,11440,Lane.mid_lane,Role.solo
+3,all i want,Kha'Zix,False,Side.blue,8,7,2,1.4285714285714286,132,Flash,Smite,13,False,10101,9075,Tiamat,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Hexdrinker,3868,116539,Lane.jungle,Role.none
+4,Coal Tier 6,Singed,False,Side.blue,1,4,1,0.5,163,Ghost,Teleport,12,False,7628,6825,The Dark Seal,The Dark Seal,Zz'Rot Portal,Mercury's Treads,Catalyst of Aeons,Crystalline Bracer,80500,3612,Lane.top_lane,Role.solo
+5,Clarizio,Janna,True,Side.red,1,1,14,15.0,6,Flash,Exhaust,11,False,6885,5975,Redemption,Ruby Sightstone,Control Ward,Nomad's Medallion,,Boots of Mobility,2317,3236,Lane.bot_lane,Role.support
+6,feud999,Caitlyn,True,Side.red,9,2,6,7.5,239,Flash,Heal,14,False,12624,11175,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,B. F. Sword,Doran's Blade,Boots of Speed,1470,155397,Lane.bot_lane,Role.carry
+7,DogFewd,Kennen,True,Side.red,5,2,6,5.5,197,Flash,Teleport,14,False,9785,8400,Needlessly Large Rod,Abyssal Scepter,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Blade,,77082,25177,Lane.top_lane,Role.solo
+8,Teh Xiae,Ahri,True,Side.red,6,4,9,3.75,124,Flash,Ignite,12,True,9174,7175,Needlessly Large Rod,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,47703,11455,Lane.mid_lane,Role.solo
+9,Just hasagi,Lee Sin,True,Side.red,8,4,10,4.5,70,Smite,Flash,12,False,9244,8675,Refillable Potion,Enchantment: Warrior,Hexdrinker,The Black Cleaver,Long Sword,Boots of Swiftness,17063,63968,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZatsMod,Lee Sin,False,Side.blue,1,6,0,0.16666666666666666,65,Flash,Smite,10,False,5507,5375,,Enchantment: Warrior,Refillable Potion,Boots of Speed,Hexdrinker,Long Sword,13945,43790,Lane.jungle,Role.none
+1,friendly eu guy,Nasus,False,Side.blue,2,4,1,0.75,153,Ghost,Flash,12,False,7443,7750,Frost Queen's Claim,Luden's Echo,,Doran's Ring,Sorcerer's Shoes,,77116,10513,Lane.mid_lane,Role.solo
+2,Adrian Riven,Fiora,False,Side.blue,2,7,0,0.2857142857142857,96,Teleport,Flash,10,False,5468,5025,The Black Cleaver,Corrupting Potion,Boots of Swiftness,,,,1490,24239,Lane.top_lane,Role.solo
+3,insaníty,Thresh,False,Side.blue,1,6,0,0.16666666666666666,31,Flash,Ignite,10,True,4396,3375,Relic Shield,Sightstone,Refillable Potion,Boots of Speed,Aegis of the Legion,Null-Magic Mantle,8394,4647,Lane.bot_lane,Role.support
+4,Vincente Vu,Ashe,False,Side.blue,0,3,1,0.3333333333333333,98,Flash,Heal,8,False,5254,3600,Boots of Speed,B. F. Sword,Recurve Bow,Health Potion,Cull,Doran's Blade,145,29625,Lane.bot_lane,Role.carry
+5,Cris,Trundle,True,Side.red,6,1,5,11.0,127,Flash,Teleport,13,False,9220,8325,Titanic Hydra,Corrupting Potion,,Ninja Tabi,Iceborn Gauntlet,Cull,1589,74303,Lane.top_lane,Role.solo
+6,Liquid fabbbyyy,Twitch,True,Side.red,6,1,7,13.0,152,Flash,Heal,12,False,9887,8600,Berserker's Greaves,Cull,Runaan's Hurricane,Doran's Blade,Infinity Edge,Dagger,0,76606,Lane.bot_lane,Role.carry
+7,Xpecial,Bard,True,Side.red,4,0,14,18.0,4,Exhaust,Flash,11,False,7274,6450,Nomad's Medallion,Cloth Armor,Boots of Mobility,Control Ward,Redemption,Ruby Sightstone,8100,4914,Lane.bot_lane,Role.support
+8,Naeun,Graves,True,Side.red,5,2,7,6.0,143,Smite,Flash,13,False,10239,9610,Youmuu's Ghostblade,Enchantment: Warrior,Control Ward,Refillable Potion,Berserker's Greaves,Phantom Dancer,4024,119122,Lane.jungle,Role.none
+9,Abou222,Syndra,True,Side.red,5,2,5,5.0,154,Ghost,Flash,13,False,8850,8400,Needlessly Large Rod,Morellonomicon,Control Ward,Doran's Ring,Sorcerer's Shoes,Giant's Belt,78370,11305,Lane.mid_lane,Role.solo

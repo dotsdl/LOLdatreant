@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Penquynh,Janna,False,Side.blue,1,2,5,3.0,10,Flash,Exhaust,11,True,6600,4775,Total Biscuit of Rejuvenation,Sightstone,Talisman of Ascension,Boots of Mobility,,,3754,3558,Lane.bot_lane,Role.support
+1,bileyg,LeBlanc,False,Side.blue,1,4,4,1.25,135,Flash,Ignite,12,False,7220,6260,Doran's Ring,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,Needlessly Large Rod,,55409,13980,Lane.jungle,Role.none
+2,OoR4s3Ng4N4rUtOo,Lucian,False,Side.blue,5,3,2,2.3333333333333335,212,Flash,Heal,12,False,10290,10275,Doran's Blade,,Essence Reaver,B. F. Sword,Rapid Firecannon,Berserker's Greaves,3774,125534,Lane.bot_lane,Role.carry
+3,Jax Blaked,Shyvana,False,Side.blue,1,7,4,0.7142857142857143,123,Smite,Flash,12,False,7571,7050,Aegis of the Legion,Refillable Potion,Ninja Tabi,Giant's Belt,Warden's Mail,Enchantment: Bloodrazor,52936,50357,Lane.jungle,Role.none
+4,Mean Mug,Dr. Mundo,False,Side.blue,1,4,3,1.0,200,Flash,Teleport,13,False,8304,7500,Doran's Shield,Sunfire Cape,Spirit Visage,Boots of Swiftness,Cloth Armor,,68917,35891,Lane.top_lane,Role.solo
+5,GcYoshi13,Blitzcrank,True,Side.red,2,2,6,4.0,50,Flash,Ignite,11,False,8519,7225,Eye of the Equinox,Boots of Mobility,Redemption,Giant's Belt,Chain Vest,,9442,13835,Lane.bot_lane,Role.duo
+6,Truly,Orianna,True,Side.red,5,0,6,11.0,181,Ghost,Flash,14,False,11065,9700,Doran's Ring,Blasting Wand,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,100890,13906,Lane.mid_lane,Role.solo
+7,Too Bad IDFC,Olaf,True,Side.red,5,2,10,7.5,133,Smite,Ghost,14,False,10675,9450,Enchantment: Cinderhulk,Ruby Crystal,The Black Cleaver,Warden's Mail,Spectre's Cowl,Ionian Boots of Lucidity,19195,108701,Lane.jungle,Role.none
+8,TF x HoLy,Trundle,True,Side.red,3,2,7,5.0,210,Teleport,Flash,15,False,11199,9225,Spectre's Cowl,Ravenous Hydra,Corrupting Potion,Ninja Tabi,Iceborn Gauntlet,,2678,116332,Lane.top_lane,Role.solo
+9,TF x Nightmare,Twitch,True,Side.red,4,3,3,2.3333333333333335,147,Flash,Heal,12,False,10122,8125,Doran's Blade,Kircheis Shard,Berserker's Greaves,Caulfield's Warhammer,Infinity Edge,Vampiric Scepter,711,80251,Lane.bot_lane,Role.duo

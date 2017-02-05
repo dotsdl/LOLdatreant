@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shiphtur,Jarvan IV,True,Side.blue,6,5,14,4.0,157,Teleport,Flash,14,False,10667,10050,Youmuu's Ghostblade,Hexdrinker,The Black Cleaver,Serrated Dirk,Long Sword,Boots of Mobility,3135,99969,Lane.jungle,Role.none
+1,Link,Vayne,True,Side.blue,10,5,10,4.0,162,Flash,Heal,14,False,12133,10850,Long Sword,Doran's Blade,Phantom Dancer,Infinity Edge,Rapid Firecannon,Berserker's Greaves,1294,106573,Lane.bot_lane,Role.carry
+2,Linsanityy,LeBlanc,True,Side.blue,15,4,10,6.25,155,Flash,Teleport,14,False,12963,11050,Blasting Wand,Doran's Ring,Mejai's Soulstealer,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,103992,10086,Lane.mid_lane,Role.carry
+3,Abou222,Lee Sin,True,Side.blue,4,3,7,3.6666666666666665,129,Smite,Flash,13,True,10176,9925,Tiamat,The Black Cleaver,Ruby Sightstone,Ninja Tabi,Enchantment: Cinderhulk,,21378,93949,Lane.mid_lane,Role.support
+4,Flamboozle,Janna,True,Side.blue,2,3,21,7.666666666666667,11,Flash,Exhaust,12,False,8792,7650,Doran's Blade,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,Chalice of Harmony,8953,6554,Lane.bot_lane,Role.support
+5,Zaganox,Jhin,False,Side.red,3,8,4,0.875,175,Heal,Flash,12,False,9157,9125,Doran's Blade,B. F. Sword,Rapid Firecannon,Boots of Swiftness,Essence Reaver,,8368,80053,Lane.bot_lane,Role.carry
+6,Wintrader Vulcan,Alistar,False,Side.red,0,7,12,1.7142857142857142,24,Flash,Exhaust,11,False,6813,5925,Locket of the Iron Solari,Ruby Sightstone,,Relic Shield,Boots of Mobility,,9460,4832,Lane.bot_lane,Role.support
+7,How to Say No,Poppy,False,Side.red,5,7,6,1.5714285714285714,96,Teleport,Flash,12,False,8620,7825,Corrupting Potion,Doran's Shield,Ninja Tabi,Sunfire Cape,Spirit Visage,,19607,39632,Lane.top_lane,Role.solo
+8,OmarGod,Shyvana,False,Side.red,7,6,4,1.8333333333333333,145,Ghost,Smite,13,False,10446,10050,Blade of the Ruined King,Enchantment: Cinderhulk,Refillable Potion,Boots of Swiftness,,Randuin's Omen,76805,40997,Lane.mid_lane,Role.duo
+9,Tuesdayy,Ekko,False,Side.red,5,9,7,1.3333333333333333,160,Ghost,Flash,14,False,9851,9300,Lich Bane,Hextech Protobelt-01,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Doran's Ring,92840,14329,Lane.mid_lane,Role.duo

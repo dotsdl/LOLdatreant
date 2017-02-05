@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Peridot,Wukong,False,Side.blue,6,8,2,1.0,117,Smite,Flash,13,False,9530,9350,Enchantment: Warrior,Tiamat,Hexdrinker,Boots of Mobility,The Black Cleaver,,6053,84207,Lane.bot_lane,Role.none
+1,OUT DO YA,Ziggs,False,Side.blue,3,8,3,0.75,169,Flash,Heal,14,False,9583,8825,Sorcerer's Shoes,Abyssal Scepter,Control Ward,Doran's Ring,Blasting Wand,Rylai's Crystal Scepter,84774,13736,Lane.mid_lane,Role.solo
+2,hashinshin,Jax,False,Side.blue,4,8,0,0.5,232,Ghost,Teleport,15,False,11106,10283,Corrupting Potion,Blade of the Ruined King,Ninja Tabi,Trinity Force,Caulfield's Warhammer,Null-Magic Mantle,30365,100784,Lane.top_lane,Role.solo
+3,xFSN Saber,Miss Fortune,False,Side.blue,2,7,5,1.0,233,Heal,Flash,14,False,10956,9775,Doran's Blade,Maw of Malmortius,Statikk Shiv,Berserker's Greaves,B. F. Sword,Vampiric Scepter,17402,106369,Lane.bot_lane,Role.none
+4,734,Karma,False,Side.blue,0,11,4,0.36363636363636365,12,Flash,Exhaust,12,False,7005,5900,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,Eye of the Watchers,Refillable Potion,,11303,3260,Lane.bot_lane,Role.none
+5,AsianGoneWild,Bard,True,Side.red,4,3,13,5.666666666666667,35,Ignite,Flash,14,False,10370,6575,Hextech Protobelt-01,,Redemption,Refillable Potion,Frostfang,Boots of Mobility,25419,5422,Lane.bot_lane,Role.support
+6,D0NG0,Fizz,True,Side.red,10,3,8,6.0,163,Ignite,Flash,15,False,12305,9775,Needlessly Large Rod,Zhonya's Hourglass,Doran's Ring,Sorcerer's Shoes,Lich Bane,The Dark Seal,63063,24425,Lane.mid_lane,Role.solo
+7,TQS Zuardian,Evelynn,True,Side.red,15,1,3,18.0,248,Smite,Flash,18,False,15989,13675,Hextech Protobelt-01,Enchantment: Runic Echoes,Guardian Angel,Mejai's Soulstealer,Ionian Boots of Lucidity,Lich Bane,193186,67830,Lane.jungle,Role.none
+8,Part The Sea,Rengar,True,Side.red,10,2,4,7.0,222,Flash,Exhaust,16,True,13533,11625,Dead Man's Plate,Death's Dance,The Black Cleaver,Ionian Boots of Lucidity,Doran's Blade,Long Sword,22264,155135,Lane.top_lane,Role.solo
+9,hashmeerlol ,Vel'Koz,True,Side.red,3,6,11,2.3333333333333335,132,Flash,Heal,14,False,10248,8525,Sorcerer's Shoes,Doran's Ring,Liandry's Torment,,The Dark Seal,Morellonomicon,71643,7926,Lane.bot_lane,Role.carry

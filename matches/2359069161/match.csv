@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Peridot,Quinn,True,Side.blue,5,1,4,9.0,120,Smite,Flash,12,False,9094,6550,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Statikk Shiv,,,8189,104222,Lane.jungle,Role.none
+1,TwìtchTVSysnickl,Miss Fortune,True,Side.blue,1,3,4,1.6666666666666667,164,Heal,Flash,11,False,7883,7800,Edge of Night,Youmuu's Ghostblade,Control Ward,,Berserker's Greaves,Doran's Blade,1682,59220,Lane.bot_lane,Role.carry
+2,WaterOcean,Karma,True,Side.blue,1,3,7,2.6666666666666665,20,Flash,Exhaust,10,False,6361,5125,Ionian Boots of Lucidity,Redemption,Sightstone,Frostfang,,,9553,2250,Lane.bot_lane,Role.support
+3,Useless Rat,Syndra,True,Side.blue,6,1,2,8.0,154,Flash,Ghost,13,False,9123,7535,Morellonomicon,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Amplifying Tome,Giant's Belt,62350,13124,Lane.mid_lane,Role.solo
+4,zT ace,Yasuo,True,Side.blue,10,4,2,3.0,225,Teleport,Flash,15,True,12829,12900,Doran's Blade,The Bloodthirster,Ninja Tabi,,Phantom Dancer,Infinity Edge,26831,124887,Lane.top_lane,Role.solo
+5,KarasMai,Zyra,False,Side.red,0,4,4,1.0,25,Flash,Ignite,10,False,5309,4460,,Sorcerer's Shoes,,Eye of the Watchers,Ruby Crystal,Amplifying Tome,19731,2640,Lane.bot_lane,Role.support
+6,WJNA,Jayce,False,Side.red,3,2,1,2.0,196,Flash,Exhaust,13,False,8418,7925,Youmuu's Ghostblade,Maw of Malmortius,Boots of Speed,Ruby Crystal,Long Sword,Doran's Blade,10787,86438,Lane.mid_lane,Role.solo
+7,Delirious Korean,Caitlyn,False,Side.red,4,5,0,0.8,135,Flash,Heal,10,False,7160,6450,Doran's Blade,B. F. Sword,Control Ward,Berserker's Greaves,Runaan's Hurricane,Pickaxe,307,60736,Lane.bot_lane,Role.carry
+8,Indrit,Lee Sin,False,Side.red,2,7,2,0.5714285714285714,69,Smite,Flash,10,False,6455,6100,Enchantment: Warrior,Refillable Potion,Giant's Belt,Long Sword,Chain Vest,Mercury's Treads,9635,52809,Lane.jungle,Role.none
+9,hashinshin,Yorick,False,Side.red,3,5,3,1.2,134,Flash,Teleport,13,False,7522,6808,Corrupting Potion,Trinity Force,Ninja Tabi,Control Ward,Warden's Mail,Ruby Crystal,6202,63728,Lane.top_lane,Role.solo

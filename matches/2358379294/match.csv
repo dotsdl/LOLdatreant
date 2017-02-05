@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KaNKl,Caitlyn,True,Side.blue,10,3,7,5.666666666666667,175,Heal,Flash,13,False,12916,10600,Refillable Potion,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,1999,132917,Lane.bot_lane,Role.carry
+1,Nuggit,Viktor,True,Side.blue,2,3,4,2.0,183,Ghost,Flash,14,False,9689,8260,Perfect Hex Core,Doran's Ring,Refillable Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,103652,14098,Lane.mid_lane,Role.solo
+2,Im Novel,Thresh,True,Side.blue,4,1,14,18.0,26,Exhaust,Flash,12,True,8773,7675,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Boots of Mobility,,,10264,6423,Lane.bot_lane,Role.support
+3,Sudzzi,Jayce,True,Side.blue,5,3,6,3.6666666666666665,173,Flash,Teleport,13,False,10884,9675,Doran's Blade,Refillable Potion,Serrated Dirk,The Bloodthirster,The Black Cleaver,Ionian Boots of Lucidity,6147,95491,Lane.top_lane,Role.solo
+4,Wordd,Ivern,True,Side.blue,0,4,12,3.0,59,Smite,Flash,13,False,8777,6075,Refillable Potion,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,Hunter's Talisman,Ruby Crystal,10732,7288,Lane.jungle,Role.none
+5,semiprodota,Azir,False,Side.red,3,3,1,1.3333333333333333,176,Flash,Barrier,13,False,7992,7510,Nashor's Tooth,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,Doran's Ring,Giant's Belt,92425,9661,Lane.mid_lane,Role.solo
+6,TKC Phantom,Darius,False,Side.red,2,3,3,1.6666666666666667,108,Flash,Teleport,12,False,7038,6300,Doran's Blade,The Black Cleaver,Mercury's Treads,Raptor Cloak,Ruby Crystal,,59,55948,Lane.top_lane,Role.solo
+7,Azuriul,Warwick,False,Side.red,6,5,4,2.0,74,Smite,Flash,12,False,8138,7350,Enchantment: Bloodrazor,Blade of the Ruined King,Mercury's Treads,,,,16852,48600,Lane.jungle,Role.none
+8,gojuice56,Nami,False,Side.red,1,4,5,1.5,16,Exhaust,Flash,9,False,6307,5575,Redemption,Eye of the Watchers,Boots of Mobility,Control Ward,,,9093,5228,Lane.bot_lane,Role.support
+9,Bunny Protector,Draven,False,Side.red,2,6,3,0.8333333333333334,153,Flash,Heal,12,False,8320,7550,The Bloodthirster,Doran's Blade,Berserker's Greaves,Cull,Last Whisper,Long Sword,821,91879,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fiesta Splinter,Morgana,True,Side.blue,4,5,13,3.4,15,Exhaust,Flash,12,False,9281,7675,Redemption,Frost Queen's Claim,Ruby Sightstone,Refillable Potion,Ionian Boots of Lucidity,The Dark Seal,19522,7503,Lane.bot_lane,Role.support
+1,theylovetolove,Ezreal,True,Side.blue,6,1,9,15.0,198,Flash,Heal,14,False,12671,10833,Bilgewater Cutlass,Muramana,Berserker's Greaves,Cull,Trinity Force,Recurve Bow,26387,105342,Lane.bot_lane,Role.carry
+2,monsterbbg,Lux,True,Side.blue,2,4,10,3.0,161,Barrier,Flash,14,False,9574,8185,Blasting Wand,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,75684,16918,Lane.mid_lane,Role.solo
+3,KT Score,Lee Sin,True,Side.blue,6,1,8,14.0,145,Smite,Flash,15,False,11747,10450,Tiamat,Locket of the Iron Solari,Enchantment: Warrior,Dead Man's Plate,Ruby Crystal,Boots of Swiftness,18777,126797,Lane.jungle,Role.none
+4,Aisonu,Poppy,True,Side.blue,5,5,6,2.2,186,Flash,Teleport,15,False,10646,8550,Sunfire Cape,Corrupting Potion,Mercury's Treads,Banner of Command,Phage,Null-Magic Mantle,35413,71176,Lane.top_lane,Role.solo
+5,UnbearableBear,Volibear,False,Side.red,3,4,6,2.25,116,Smite,Ghost,13,True,8708,8475,Enchantment: Cinderhulk,Dead Man's Plate,Null-Magic Mantle,Mercury's Treads,Ruby Crystal,Ruby Crystal,44054,58685,Lane.jungle,Role.none
+6,TheNotoriousDFG,Gangplank,False,Side.red,1,7,4,0.7142857142857143,152,Flash,Teleport,13,False,9105,8708,Doran's Ring,Trinity Force,Lord Dominik's Regards,Pickaxe,Ionian Boots of Lucidity,,9264,104602,Lane.top_lane,Role.solo
+7,Tutor,Zyra,False,Side.red,3,4,6,2.25,31,Flash,Exhaust,11,False,8157,7650,Frost Queen's Claim,Sightstone,Liandry's Torment,Sorcerer's Shoes,,,25528,5286,Lane.bot_lane,Role.support
+8,Base Reality,Ahri,False,Side.red,7,2,4,5.5,165,Flash,Ignite,13,False,10018,9310,Doran's Ring,Amplifying Tome,Blasting Wand,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,51398,10488,Lane.mid_lane,Role.solo
+9,Lose,Caitlyn,False,Side.red,2,6,4,1.0,165,Flash,Heal,12,False,8722,8050,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,Doran's Blade,654,83698,Lane.bot_lane,Role.carry

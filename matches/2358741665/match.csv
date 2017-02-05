@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SuperAtomicPikl,Jhin,False,Side.blue,3,11,8,1.0,105,Heal,Flash,11,True,8270,7975,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Pickaxe,Cloak of Agility,B. F. Sword,8587,55686,Lane.bot_lane,Role.carry
+1,Cool Mankey,Nami,False,Side.blue,3,3,18,7.0,26,Flash,Exhaust,14,False,9421,8360,Eye of the Watchers,Redemption,,Banner of Command,Boots of Mobility,Amplifying Tome,19063,4979,Lane.bot_lane,Role.support
+2,WJNA,Jayce,False,Side.blue,6,8,7,1.625,200,Flash,Ignite,15,False,10951,10850,Youmuu's Ghostblade,The Black Cleaver,Mortal Reminder,Boots of Swiftness,Doran's Blade,Null-Magic Mantle,23076,112794,Lane.mid_lane,Role.solo
+3,Sexy GirI,Zac,False,Side.blue,7,7,10,2.4285714285714284,105,Smite,Flash,14,False,10033,8900,,Spirit Visage,Enchantment: Cinderhulk,Mercury's Treads,Warden's Mail,Giant's Belt,84045,17841,Lane.jungle,Role.none
+4,Féarless,Riven,False,Side.blue,8,8,4,1.5,201,Teleport,Flash,14,False,10853,10575,Mercury's Treads,The Black Cleaver,Death's Dance,Control Ward,Tiamat,Long Sword,212,130163,Lane.top_lane,Role.solo
+5,Sunbob,Vi,True,Side.red,8,7,9,2.4285714285714284,138,Smite,Flash,15,False,13008,11083,Ninja Tabi,Chain Vest,Enchantment: Warrior,Trinity Force,Sterak's Gage,,3862,151197,Lane.jungle,Role.none
+6,Hailtothechi,Swain,True,Side.red,7,6,10,2.8333333333333335,147,Exhaust,Flash,15,False,11565,10475,Doran's Ring,Zz'Rot Portal,Zhonya's Hourglass,Sorcerer's Shoes,The Dark Seal,Rod of Ages,78055,17514,Lane.mid_lane,Role.solo
+7,Auberaun,Karma,True,Side.red,0,6,25,4.166666666666667,21,Flash,Exhaust,14,False,10631,8725,Eye of the Watchers,Locket of the Iron Solari,Ionian Boots of Lucidity,Forbidden Idol,Redemption,,27551,8249,Lane.bot_lane,Role.support
+8,Dø Nøt Chase,Singed,True,Side.red,2,5,9,2.2,195,Teleport,Ghost,15,False,11674,10350,Righteous Glory,Zz'Rot Portal,Corrupting Potion,Rylai's Crystal Scepter,Ninja Tabi,The Dark Seal,111303,11784,Lane.top_lane,Role.solo
+9,Eric1,Ezreal,True,Side.red,20,3,9,9.666666666666666,232,Heal,Flash,16,False,17557,14683,Blade of the Ruined King,Muramana,Trinity Force,Ionian Boots of Lucidity,Jaurim's Fist,Guardian Angel,20211,172214,Lane.bot_lane,Role.carry

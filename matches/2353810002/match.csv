@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Henrÿ,Graves,True,Side.blue,12,0,6,18.0,123,Flash,Smite,13,True,12134,9675,Mercury's Treads,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Phantom Dancer,,4529,134917,Lane.jungle,Role.none
+1,Panunu,Gragas,True,Side.blue,7,3,1,2.6666666666666665,121,Ignite,Flash,12,False,9061,7860,Refillable Potion,Doran's Ring,Amplifying Tome,Void Staff,Ionian Boots of Lucidity,Abyssal Scepter,62606,14001,Lane.mid_lane,Role.solo
+2,Sophist Sage,Jhin,True,Side.blue,4,2,4,4.0,157,Heal,Flash,11,False,9032,6850,Doran's Blade,,Essence Reaver,Dagger,Boots of Swiftness,Zeal,5319,87709,Lane.bot_lane,Role.carry
+3,The Rory Mercury,Shyvana,True,Side.blue,4,3,3,2.3333333333333335,160,Flash,Teleport,12,False,9400,7300,Titanic Hydra,Zz'Rot Portal,Total Biscuit of Rejuvenation,Boots of Speed,Doran's Blade,,37626,45217,Lane.top_lane,Role.solo
+4,creamwithice,Lulu,True,Side.blue,0,0,15,15.0,5,Flash,Exhaust,10,False,7797,5875,Eye of the Oasis,Redemption,Aegis of the Legion,,,Boots of Speed,5608,4557,Lane.bot_lane,Role.support
+5,goompa,Ekko,False,Side.red,2,6,2,0.6666666666666666,122,Teleport,Flash,11,False,6428,6070,Boots of Speed,Doran's Ring,Hextech Protobelt-01,Sheen,Aether Wisp,Negatron Cloak,64093,10953,Lane.mid_lane,Role.solo
+6,C L,Karma,False,Side.red,2,4,3,1.25,123,Flash,Teleport,11,False,6217,6175,Spirit Visage,Control Ward,Ninja Tabi,Glacial Shroud,Sapphire Crystal,Doran's Ring,47721,15629,Lane.top_lane,Role.solo
+7,rikarawr,Caitlyn,False,Side.red,0,6,3,0.5,121,Flash,Heal,10,False,6261,5575,Doran's Blade,Cull,Pickaxe,Berserker's Greaves,Zeal,B. F. Sword,339,56066,Lane.bot_lane,Role.carry
+8,C9 Lemon,Soraka,False,Side.red,1,8,2,0.375,13,Exhaust,Flash,9,False,4867,4050,Forbidden Idol,Refillable Potion,Ionian Boots of Lucidity,Eye of the Oasis,Control Ward,,12048,3199,Lane.bot_lane,Role.support
+9,Mode,Zac,False,Side.red,3,3,4,2.3333333333333335,98,Flash,Smite,11,False,6537,5950,Warden's Mail,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,Giant's Belt,,42202,11089,Lane.jungle,Role.none

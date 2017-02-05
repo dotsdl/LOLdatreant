@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,S Diana 2,Ezreal,False,Side.blue,0,7,7,1.0,147,Heal,Flash,13,False,8078,7983,Boots of Speed,Manamune,Trinity Force,Giant Slayer,,,8991,64162,Lane.bot_lane,Role.solo
+1,CloudNguyén,Rumble,False,Side.blue,8,7,5,1.8571428571428572,170,Teleport,Flash,14,False,10631,10125,Hextech Protobelt-01,Seeker's Armguard,Blasting Wand,Doran's Shield,Sorcerer's Shoes,Liandry's Torment,100455,10409,Lane.top_lane,Role.solo
+2,IA55A55INI,Taric,False,Side.blue,3,12,7,0.8333333333333334,40,Flash,Ignite,11,False,7325,6675,Face of the Mountain,Sightstone,Frozen Heart,Null-Magic Mantle,Boots of Speed,,7032,4284,Lane.jungle,Role.none
+3,trashgame123,Wukong,False,Side.blue,6,8,1,0.875,129,Teleport,Flash,12,False,8545,7350,Youmuu's Ghostblade,Hexdrinker,Corrupting Potion,Phage,Boots of Speed,Caulfield's Warhammer,2285,57959,Lane.mid_lane,Role.solo
+4,KarasMai,Graves,False,Side.blue,8,9,8,1.7777777777777777,132,Flash,Smite,14,True,10666,10450,Enchantment: Warrior,Phantom Dancer,Ninja Tabi,Maw of Malmortius,Long Sword,Long Sword,4784,113146,Lane.jungle,Role.none
+5,amgod1,Caitlyn,True,Side.red,9,3,6,5.0,190,Heal,Flash,15,False,12967,11400,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Vampiric Scepter,2319,160336,Lane.jungle,Role.none
+6,RATIRLonNA,Twitch,True,Side.red,19,6,10,4.833333333333333,143,Flash,Smite,16,False,15685,14925,B. F. Sword,Runaan's Hurricane,Infinity Edge,Phantom Dancer,Enchantment: Bloodrazor,Ninja Tabi,1740,152396,Lane.jungle,Role.none
+7,1deag,Brand,True,Side.red,3,4,14,4.25,24,Exhaust,Flash,12,False,9644,9500,Eye of the Watchers,Giant's Belt,Control Ward,Sorcerer's Shoes,Liandry's Torment,Needlessly Large Rod,20326,6649,Lane.bot_lane,Role.solo
+8,Fockus,Gangplank,True,Side.red,7,6,9,2.6666666666666665,172,Flash,Teleport,14,False,12378,11433,Trinity Force,Ionian Boots of Lucidity,Youmuu's Ghostblade,Infinity Edge,Refillable Potion,,7612,130945,Lane.top_lane,Role.solo
+9,LegitKorea,Ahri,True,Side.red,5,6,7,2.0,145,Flash,Ignite,14,False,10534,8845,Doran's Ring,Morellonomicon,Luden's Echo,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,47438,13623,Lane.mid_lane,Role.solo

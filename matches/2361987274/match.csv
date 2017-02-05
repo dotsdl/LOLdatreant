@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Darude GateStorm,Singed,False,Side.blue,2,3,5,2.3333333333333335,163,Ghost,Ignite,13,False,8182,6650,Banner of Command,Corrupting Potion,Righteous Glory,Mercury's Treads,The Dark Seal,,84049,3791,Lane.mid_lane,Role.solo
+1,Walljumper,Alistar,False,Side.blue,1,3,5,2.0,54,Exhaust,Flash,11,False,6258,5050,Sightstone,Face of the Mountain,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,Crystalline Bracer,18626,5722,Lane.bot_lane,Role.duo
+2,TQS Zuardian,Graves,False,Side.blue,1,7,7,1.1428571428571428,156,Smite,Flash,14,False,8595,8500,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Phantom Dancer,Caulfield's Warhammer,Vampiric Scepter,5244,124514,Lane.jungle,Role.none
+3,yungELEF,Quinn,False,Side.blue,9,7,1,1.4285714285714286,112,Ignite,Flash,12,False,8658,7825,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Lord Dominik's Regards,Long Sword,Long Sword,1640,55049,Lane.top_lane,Role.solo
+4,BlackMambaX24,Twitch,False,Side.blue,2,7,6,1.1428571428571428,124,Heal,Flash,11,False,7325,6200,Doran's Blade,Runaan's Hurricane,Dagger,Pickaxe,Boots of Speed,B. F. Sword,0,49609,Lane.bot_lane,Role.duo
+5,Xinthus,Varus,True,Side.red,11,3,4,5.0,186,Ghost,Flash,14,False,12003,9625,Corrupting Potion,Youmuu's Ghostblade,Control Ward,Manamune,Boots of Swiftness,Mortal Reminder,6194,119460,Lane.mid_lane,Role.solo
+6,ZosHa,Trundle,True,Side.red,2,4,11,3.25,165,Flash,Teleport,14,False,9837,8675,Ravenous Hydra,Corrupting Potion,Iceborn Gauntlet,Ninja Tabi,Chain Vest,,6866,85500,Lane.top_lane,Role.solo
+7,Modx,Veigar,True,Side.red,6,3,7,4.333333333333333,69,Flash,Ghost,13,False,10017,7925,Eye of the Watchers,Morellonomicon,Control Ward,Sorcerer's Shoes,Needlessly Large Rod,,58165,6584,Lane.bot_lane,Role.support
+8,Eric1,Ivern,True,Side.red,4,3,17,7.0,69,Smite,Flash,14,True,10390,9050,Hunter's Talisman,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Mejai's Soulstealer,Athene's Unholy Grail,Chain Vest,23899,15342,Lane.jungle,Role.none
+9,Hârken,Draven,True,Side.red,4,3,8,4.0,162,Flash,Heal,13,False,10866,9650,Doran's Blade,Berserker's Greaves,Infinity Edge,Vampiric Scepter,Long Sword,Rapid Firecannon,1508,99183,Lane.bot_lane,Role.carry

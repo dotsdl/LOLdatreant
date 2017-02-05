@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Carrots2,Dr. Mundo,True,Side.blue,3,4,3,1.5,181,Flash,Teleport,14,False,9532,8500,Doran's Shield,Sunfire Cape,Ninja Tabi,Thornmail,Spectre's Cowl,Cloth Armor,68906,34290,Lane.top_lane,Role.solo
+1,who hurt you,Evelynn,True,Side.blue,8,4,9,4.25,103,Flash,Smite,13,False,10024,9725,Enchantment: Runic Echoes,Hunter's Potion,Boots of Speed,Lich Bane,Rylai's Crystal Scepter,,67647,30306,Lane.jungle,Role.none
+2,YaThatWasABanana,Karma,True,Side.blue,3,2,13,8.0,133,Flash,Ghost,13,False,9393,6900,Sorcerer's Shoes,Aether Wisp,Refillable Potion,Morellonomicon,Needlessly Large Rod,Doran's Ring,60475,14098,Lane.mid_lane,Role.solo
+3,C9 Sneaky,Jinx,True,Side.blue,11,1,11,22.0,178,Flash,Heal,13,False,12512,10575,Doran's Blade,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,,2175,139689,Lane.bot_lane,Role.carry
+4,Budded,Vel'Koz,True,Side.blue,5,1,9,14.0,16,Exhaust,Flash,11,True,9399,8225,Locket of the Iron Solari,Sightstone,Ionian Boots of Lucidity,Frostfang,,Liandry's Torment,27760,5745,Lane.bot_lane,Role.support
+5,C9 Lemon,Lulu,False,Side.red,1,7,6,1.0,17,Ignite,Flash,10,False,6173,5650,Boots of Mobility,Refillable Potion,Redemption,Eye of the Watchers,,Control Ward,11478,2320,Lane.bot_lane,Role.support
+6,Cris,Jayce,False,Side.red,7,5,2,1.8,190,Flash,Teleport,13,False,9914,9675,Refillable Potion,,Manamune,Mercury's Treads,The Black Cleaver,Mortal Reminder,19213,96052,Lane.top_lane,Role.solo
+7,Simon Hawkes,Nasus,False,Side.red,2,4,4,1.5,140,Ghost,Flash,12,False,7448,7175,Haunting Guise,,Sorcerer's Shoes,Luden's Echo,Doran's Ring,Doran's Ring,61598,16401,Lane.mid_lane,Role.solo
+8,Ninjacrab,Ivern,False,Side.red,1,7,4,0.7142857142857143,72,Flash,Smite,11,False,6948,6775,Redemption,Aegis of the Legion,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,,5669,2796,Lane.jungle,Role.none
+9,IHateD2Players,Jhin,False,Side.red,1,7,3,0.5714285714285714,97,Flash,Heal,10,False,6283,6025,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Long Sword,,Long Sword,2097,46277,Lane.bot_lane,Role.carry

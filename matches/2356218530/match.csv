@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hiropie,Quinn,False,Side.blue,6,8,2,1.0,98,Smite,Cleanse,12,False,8363,7775,Mercury's Treads,Enchantment: Warrior,Statikk Shiv,B. F. Sword,,Refillable Potion,5978,64851,Lane.jungle,Role.none
+1,tibs2,Sion,False,Side.blue,0,8,5,0.625,78,Exhaust,Flash,12,False,5907,5700,Randuin's Omen,Ninja Tabi,Chain Vest,Ruby Crystal,,,8642,36085,Lane.jungle,Role.none
+2,Dong Fuu Yo,Cho'Gath,False,Side.blue,4,8,4,1.0,110,Flash,Ignite,13,True,7899,6650,Doran's Ring,Doran's Ring,Rod of Ages,Mercury's Treads,Glacial Shroud,Giant's Belt,55881,12236,Lane.jungle,Role.none
+3,Sarcasm Orgasm,Yasuo,True,Side.red,7,5,10,3.4,202,Flash,Exhaust,15,False,12931,11300,Phantom Dancer,Infinity Edge,The Bloodthirster,Ruby Crystal,Doran's Blade,Boots of Speed,25520,134601,Lane.mid_lane,Role.solo
+4,Dirtbag Yordle,Veigar,True,Side.red,10,2,6,8.0,111,Ignite,Flash,15,False,10592,9335,Wooglet's Witchcap,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Blasting Wand,Amplifying Tome,77278,7956,Lane.jungle,Role.none
+5,Sevane,Warwick,True,Side.red,7,3,3,3.3333333333333335,104,Flash,Smite,14,False,10323,9725,Blade of the Ruined King,Enchantment: Bloodrazor,Spirit Visage,Boots of Speed,Null-Magic Mantle,,17535,96741,Lane.jungle,Role.none

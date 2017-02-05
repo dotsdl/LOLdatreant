@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Only Ziggs,Yasuo,False,Side.blue,1,9,3,0.4444444444444444,233,Flash,Teleport,15,False,10148,9950,Doran's Blade,Phantom Dancer,Hexdrinker,Vampiric Scepter,Berserker's Greaves,Infinity Edge,14560,131098,Lane.mid_lane,Role.solo
+1,MagicCupNoodles,Brand,False,Side.blue,6,9,8,1.5555555555555556,24,Flash,Ignite,13,False,9482,9060,Eye of the Watchers,Rylai's Crystal Scepter,Sorcerer's Shoes,Fiendish Codex,Lost Chapter,Amplifying Tome,32185,4011,Lane.bot_lane,Role.support
+2,Tythewarrior,Mordekaiser,False,Side.blue,4,4,8,3.0,206,Flash,Teleport,15,False,10838,10250,Doran's Shield,Rylai's Crystal Scepter,Seeker's Armguard,Ninja Tabi,Liandry's Torment,Fiendish Codex,103992,12451,Lane.top_lane,Role.solo
+3,Oh Xxx,Jhin,False,Side.blue,5,4,9,3.5,157,Flash,Heal,13,False,10317,10150,Essence Reaver,Doran's Blade,Zeal,Infinity Edge,,Boots of Swiftness,7871,106075,Lane.bot_lane,Role.carry
+4,Oh Ooo,Nocturne,False,Side.blue,4,7,10,2.0,135,Smite,Flash,14,False,10398,9950,Refillable Potion,Mercury's Treads,Enchantment: Warrior,The Black Cleaver,Dead Man's Plate,,1517,113548,Lane.jungle,Role.none
+5,Wazabiee,Vayne,True,Side.red,9,4,10,4.75,254,Heal,Flash,15,False,13959,11700,Infinity Edge,Doran's Blade,Berserker's Greaves,Phantom Dancer,Last Whisper,Statikk Shiv,58067,113248,Lane.bot_lane,Role.carry
+6,Vooldo,Orianna,True,Side.red,11,4,9,5.0,194,Ghost,Flash,16,False,13687,12035,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Rabadon's Deathcap,Sorcerer's Shoes,Amplifying Tome,113753,16008,Lane.mid_lane,Role.solo
+7,Wynaan,Nami,True,Side.red,1,3,21,7.333333333333333,5,Exhaust,Flash,14,False,9557,9050,Eye of the Watchers,Boots of Swiftness,Ardent Censer,Aegis of the Legion,,Redemption,9920,4973,Lane.bot_lane,Role.support
+8,owowowowowowowo,Jayce,True,Side.red,10,4,5,3.75,226,Ignite,Flash,16,True,14074,12375,Doran's Blade,Youmuu's Ghostblade,B. F. Sword,Mercury's Treads,Maw of Malmortius,The Black Cleaver,18787,123199,Lane.top_lane,Role.solo
+9,Łegion,Jarvan IV,True,Side.red,2,5,17,3.8,122,Smite,Flash,15,False,11235,9850,Titanic Hydra,Locket of the Iron Solari,Enchantment: Cinderhulk,Boots of Speed,Refillable Potion,Giant's Belt,13869,100635,Lane.jungle,Role.none

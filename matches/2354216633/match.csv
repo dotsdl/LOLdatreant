@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Useless Rat,Syndra,True,Side.blue,10,2,3,6.5,193,Flash,Exhaust,14,False,11380,9110,Zhonya's Hourglass,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,Morellonomicon,104808,15793,Lane.mid_lane,Role.solo
+1,The Mörder,Olaf,True,Side.blue,7,0,8,15.0,153,Smite,Ghost,15,False,10381,9325,Redemption,Refillable Potion,Ionian Boots of Lucidity,Dead Man's Plate,Enchantment: Cinderhulk,Crystalline Bracer,28810,106561,Lane.jungle,Role.none
+2,ScrubNoob,Rengar,True,Side.blue,18,5,2,4.0,162,Ignite,Flash,15,True,13010,12475,The Black Cleaver,Ravenous Hydra,Giant's Belt,Doran's Blade,Spirit Visage,Ionian Boots of Lucidity,12861,107514,Lane.top_lane,Role.solo
+3,maplestreet LFT,Twitch,True,Side.blue,4,4,9,3.25,181,Heal,Flash,13,False,10640,9700,Doran's Blade,Infinity Edge,Refillable Potion,Zeal,Berserker's Greaves,Runaan's Hurricane,0,72852,Lane.bot_lane,Role.carry
+4,Hello I am Dust,Karma,True,Side.blue,0,3,12,4.0,27,Exhaust,Flash,12,False,7375,7000,Redemption,Eye of the Watchers,Aegis of the Legion,Ionian Boots of Lucidity,,Control Ward,18450,6186,Lane.bot_lane,Role.support
+5,Useless Champ,Mordekaiser,False,Side.red,2,7,5,1.0,70,Smite,Ghost,13,False,8079,7800,Enchantment: Runic Echoes,Boots of Swiftness,Rylai's Crystal Scepter,Blasting Wand,,,51663,22347,Lane.jungle,Role.none
+6,TheRickestRlCK,Talon,False,Side.red,6,6,2,1.3333333333333333,157,Flash,Ignite,13,False,9555,9525,Ravenous Hydra,Duskblade of Draktharr,,Corrupting Potion,Hexdrinker,Boots of Swiftness,201,96638,Lane.mid_lane,Role.solo
+7,Stumpey,Zyra,False,Side.red,0,8,7,0.875,9,Flash,Ignite,11,False,6311,5800,Liandry's Torment,Sightstone,Total Biscuit of Rejuvenation,Boots of Speed,Frostfang,,27033,4899,Lane.bot_lane,Role.support
+8,Eckenroth,Vayne,False,Side.red,2,8,4,0.75,169,Heal,Flash,12,False,8543,8450,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Dagger,Dagger,1556,78005,Lane.bot_lane,Role.carry
+9,McCashDollar,Shaco,False,Side.red,4,10,3,0.7,154,Ignite,Teleport,14,False,9067,8775,Zhonya's Hourglass,Hextech Protobelt-01,Corrupting Potion,Sheen,Ninja Tabi,The Dark Seal,45959,24287,Lane.top_lane,Role.solo

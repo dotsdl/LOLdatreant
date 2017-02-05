@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Giocattoli,Sivir,False,Side.blue,1,5,2,0.6,180,Heal,Flash,12,False,8611,8400,Phantom Dancer,Doran's Blade,Berserker's Greaves,,Essence Reaver,,0,93641,Lane.bot_lane,Role.carry
+1,The Noodle Shop,Alistar,False,Side.blue,0,3,3,1.0,31,Flash,Exhaust,11,False,5561,4825,Mercury's Treads,Giant's Belt,Eye of the Equinox,Cloth Armor,,,6580,4264,Lane.bot_lane,Role.support
+2,Gorki,Ezreal,False,Side.blue,1,9,2,0.3333333333333333,119,Flash,Heal,11,False,7040,6308,Doran's Blade,Trinity Force,Boots of Speed,Tear of the Goddess,Pickaxe,,6566,50968,Lane.mid_lane,Role.solo
+3,SuckyJustice,Sejuani,False,Side.blue,2,2,4,3.0,143,Flash,Smite,14,False,8784,8275,Enchantment: Cinderhulk,Mercury's Treads,Refillable Potion,Liandry's Torment,Kindlegem,Ruby Crystal,78963,27731,Lane.jungle,Role.none
+4,Myname ISSSSmurf,Orianna,False,Side.blue,7,7,0,1.0,178,Flash,Teleport,13,True,10027,9320,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Amplifying Tome,Amplifying Tome,70887,21182,Lane.top_lane,Role.solo
+5,Mossynugget,Hecarim,True,Side.red,4,1,1,5.0,159,Smite,Ghost,14,False,10164,7808,Refillable Potion,Enchantment: Cinderhulk,Boots of Swiftness,Trinity Force,Ruby Crystal,,37874,114137,Lane.jungle,Role.none
+6,Fancy Yogurt,Jhin,True,Side.red,3,3,6,3.0,188,Flash,Heal,13,False,9683,8475,Doran's Blade,Infinity Edge,Rapid Firecannon,Long Sword,Boots of Swiftness,Long Sword,1474,108660,Lane.bot_lane,Role.carry
+7,Blazinhot,Kayle,True,Side.red,4,4,3,1.75,185,Teleport,Flash,14,False,9924,9060,Guinsoo's Rageblade,Doran's Ring,Doran's Ring,Nashor's Tooth,Boots of Swiftness,Amplifying Tome,73819,30304,Lane.top_lane,Role.solo
+8,Anthøny,LeBlanc,True,Side.red,13,2,2,7.5,155,Ignite,Flash,14,False,11129,9885,Doran's Ring,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Needlessly Large Rod,74559,13951,Lane.mid_lane,Role.solo
+9,azneric,Lux,True,Side.red,2,1,9,11.0,8,Exhaust,Flash,11,False,8030,7350,Frostfang,Refillable Potion,Sightstone,Sorcerer's Shoes,Mejai's Soulstealer,Morellonomicon,19536,8275,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UnderJaker,Ahri,True,Side.blue,3,0,4,7.0,170,Flash,Ignite,14,False,10226,9435,Morellonomicon,Rylai's Crystal Scepter,Needlessly Large Rod,Amplifying Tome,Ionian Boots of Lucidity,Doran's Ring,50479,17537,Lane.mid_lane,Role.solo
+1,Two and Four,Caitlyn,True,Side.blue,6,4,8,3.5,173,Flash,Heal,13,True,11726,10600,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,,882,106634,Lane.bot_lane,Role.carry
+2,Vehemus,Taric,True,Side.blue,3,2,11,7.0,41,Flash,Ignite,12,False,8636,7775,Crystalline Bracer,Sightstone,Face of the Mountain,Mercury's Treads,Iceborn Gauntlet,,12294,12090,Lane.bot_lane,Role.support
+3,How2Riven,Riven,True,Side.blue,4,0,1,5.0,230,Flash,Teleport,15,False,11483,9025,The Black Cleaver,Tiamat,Refillable Potion,Ionian Boots of Lucidity,Lord Dominik's Regards,Vampiric Scepter,0,133156,Lane.top_lane,Role.solo
+4,Pantsudesu,Shyvana,True,Side.blue,5,1,8,13.0,181,Smite,Ghost,16,False,12538,11075,Enchantment: Cinderhulk,Long Sword,Blade of the Ruined King,Ninja Tabi,The Black Cleaver,Long Sword,107120,81542,Lane.jungle,Role.none
+5,Taleik,Poppy,False,Side.red,1,2,3,2.0,150,Flash,Teleport,13,False,7107,6875,Corrupting Potion,Sunfire Cape,Ruby Crystal,Boots of Speed,Iceborn Gauntlet,,22745,45094,Lane.top_lane,Role.solo
+6,always plan ahea,Varus,False,Side.red,1,3,1,0.6666666666666666,196,Flash,Exhaust,14,False,8086,8100,Essence Reaver,Manamune,Ionian Boots of Lucidity,Long Sword,Long Sword,,4683,107785,Lane.mid_lane,Role.solo
+7,iSlothlove,Hecarim,False,Side.red,1,4,2,0.75,121,Ghost,Smite,12,False,7233,6308,Hunter's Potion,Mercury's Treads,Stalker's Blade,Trinity Force,,,11449,80263,Lane.jungle,Role.none
+8,g0dlee,Braum,False,Side.red,0,6,6,1.0,25,Flash,Exhaust,11,False,5661,5375,Face of the Mountain,,Ruby Sightstone,Control Ward,,Boots of Mobility,9637,4581,Lane.bot_lane,Role.support
+9,CRlTlCAL,Jhin,False,Side.red,4,6,2,1.0,181,Flash,Heal,12,False,8682,8175,Refillable Potion,Essence Reaver,Rapid Firecannon,Long Sword,Doran's Blade,Boots of Swiftness,11235,100069,Lane.bot_lane,Role.carry

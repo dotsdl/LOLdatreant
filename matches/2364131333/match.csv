@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,7788 ADC,Twitch,False,Side.blue,2,7,1,0.42857142857142855,116,Heal,Flash,10,False,6612,6525,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Doran's Blade,Pickaxe,,0,48270,Lane.bot_lane,Role.carry
+1,3in1warrior,Renekton,False,Side.blue,5,5,3,1.6,169,Flash,Exhaust,13,False,8861,8325,The Black Cleaver,Doran's Blade,Blade of the Ruined King,Mercury's Treads,,,5751,90328,Lane.top_lane,Role.solo
+2,Révenge,Lee Sin,False,Side.blue,5,10,6,1.1,100,Smite,Flash,12,False,8095,7975,Tiamat,Enchantment: Warrior,Randuin's Omen,Ninja Tabi,,,10677,71085,Lane.jungle,Role.none
+3,Nash,Lux,False,Side.blue,2,9,1,0.3333333333333333,126,Ignite,Flash,10,False,6753,6085,Doran's Ring,Doran's Ring,Morellonomicon,Amplifying Tome,Blasting Wand,Ionian Boots of Lucidity,54527,9889,Lane.mid_lane,Role.solo
+4,Shamwwow,Brand,False,Side.blue,1,7,3,0.5714285714285714,18,Flash,Exhaust,10,False,5806,4935,Boots of Mobility,Amplifying Tome,Giant's Belt,Eye of the Watchers,,,16851,2531,Lane.bot_lane,Role.support
+5,KRYMER NO JUTSU,Ezreal,True,Side.red,8,2,14,11.0,172,Flash,Heal,13,False,11441,10900,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Pickaxe,,18585,85135,Lane.bot_lane,Role.carry
+6,im Dusk,Zac,True,Side.red,8,3,15,7.666666666666667,126,Smite,Flash,14,False,10871,7850,Refillable Potion,Randuin's Omen,Spectre's Cowl,Ionian Boots of Lucidity,Enchantment: Cinderhulk,,95671,18567,Lane.jungle,Role.none
+7,Natalia Dyer,Yasuo,True,Side.red,2,5,6,1.6,152,Flash,Teleport,12,True,8645,6100,Doran's Blade,Refillable Potion,Phantom Dancer,Ninja Tabi,Jaurim's Fist,Ruby Crystal,19796,55175,Lane.top_lane,Role.solo
+8,Zib Nibbler,Morgana,True,Side.red,7,2,12,9.5,15,Flash,Exhaust,11,False,8725,6900,Frostfang,Boots of Mobility,Redemption,Ruby Sightstone,Control Ward,Fiendish Codex,15610,6854,Lane.bot_lane,Role.support
+9,AllAero,LeBlanc,True,Side.red,11,3,5,5.333333333333333,114,Flash,Teleport,13,False,9968,8800,Doran's Ring,Refillable Potion,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,61416,10321,Lane.mid_lane,Role.solo

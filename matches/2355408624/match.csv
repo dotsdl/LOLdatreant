@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Celend,Blitzcrank,True,Side.blue,1,5,15,3.2,30,Flash,Exhaust,12,False,8280,7400,Cloth Armor,Redemption,Eye of the Equinox,Crystalline Bracer,Boots of Mobility,Crystalline Bracer,9101,10857,Lane.bot_lane,Role.support
+1,Virus,Lee Sin,True,Side.blue,5,2,14,9.5,97,Smite,Flash,14,False,10781,10025,Enchantment: Warrior,Dead Man's Plate,Boots of Swiftness,Control Ward,Randuin's Omen,Ruby Crystal,13012,92763,Lane.jungle,Role.none
+2,WolfPawClaw,Caitlyn,True,Side.blue,10,3,9,6.333333333333333,160,Flash,Heal,13,True,13086,11375,,Infinity Edge,Rapid Firecannon,Cloth Armor,Berserker's Greaves,Runaan's Hurricane,1834,115147,Lane.bot_lane,Role.carry
+3,patsup,Heimerdinger,True,Side.blue,3,6,9,2.0,156,Ignite,Flash,14,False,11640,10425,Frost Queen's Claim,Zhonya's Hourglass,Doran's Ring,Sorcerer's Shoes,Liandry's Torment,Null-Magic Mantle,100960,10372,Lane.mid_lane,Role.solo
+4,SolarEnergy,Malphite,True,Side.blue,8,2,6,7.0,189,Flash,Teleport,14,False,12326,12000,Bami's Cinder,Zhonya's Hourglass,Randuin's Omen,Zz'Rot Portal,Ninja Tabi,Chain Vest,43061,34856,Lane.top_lane,Role.solo
+5,JaySo,Zed,False,Side.red,8,5,1,1.8,232,Ignite,Flash,15,False,11784,11675,The Black Cleaver,Caulfield's Warhammer,Youmuu's Ghostblade,Duskblade of Draktharr,Boots of Swiftness,,6958,132612,Lane.mid_lane,Role.solo
+6,Please Fade,Nocturne,False,Side.red,1,4,4,1.25,97,Smite,Flash,12,False,8088,7875,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,Giant's Belt,Cloth Armor,3447,89720,Lane.jungle,Role.none
+7,East Berlin,Karma,False,Side.red,0,7,3,0.42857142857142855,25,Flash,Ignite,11,False,6494,6125,Frostfang,Redemption,Boots of Mobility,Fiendish Codex,,Sightstone,21806,1672,Lane.bot_lane,Role.support
+8,Asgea,Jinx,False,Side.red,3,4,3,1.5,201,Heal,Flash,13,False,10172,9625,Doran's Blade,Berserker's Greaves,Cull,Infinity Edge,Runaan's Hurricane,Last Whisper,839,108254,Lane.bot_lane,Role.carry
+9,Nallax,Ekko,False,Side.red,6,8,3,1.125,207,Teleport,Flash,15,False,10671,10795,Corrupting Potion,Sheen,Blasting Wand,Morellonomicon,Rod of Ages,Sorcerer's Shoes,123060,19269,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Classic Archer,Yorick,False,Side.blue,1,11,0,0.09090909090909091,139,Teleport,Flash,12,False,6932,6350,Doran's Blade,Corrupting Potion,Frozen Mallet,,Ninja Tabi,Raptor Cloak,14287,55492,Lane.top_lane,Role.solo
+1,goompa,Caitlyn,False,Side.blue,2,6,2,0.6666666666666666,156,Heal,Flash,11,False,7645,7550,Berserker's Greaves,Doran's Blade,Cloak of Agility,B. F. Sword,Runaan's Hurricane,Pickaxe,641,85220,Lane.bot_lane,Role.carry
+2,NCS  Social Dog,Taliyah,False,Side.blue,5,5,1,1.2,126,Flash,Ignite,12,False,7719,7785,Abyssal Scepter,Giant's Belt,Needlessly Large Rod,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,68910,8179,Lane.mid_lane,Role.solo
+3,Legendary Brad,Karma,False,Side.blue,0,5,2,0.4,17,Exhaust,Flash,10,False,5391,5025,Frost Queen's Claim,Sightstone,Boots of Speed,Forbidden Idol,Crystalline Bracer,,17537,5323,Lane.bot_lane,Role.support
+4,Rip To My Cigar,Shyvana,False,Side.blue,3,5,0,0.6,184,Ghost,Smite,14,False,8916,8550,Titanic Hydra,Enchantment: Bloodrazor,Ninja Tabi,Stinger,,,50185,73290,Lane.jungle,Role.none
+5,GalileoGalilley,Jhin,True,Side.red,3,3,6,3.0,149,Flash,Heal,13,False,9700,9020,Doran's Blade,Youmuu's Ghostblade,Rapid Firecannon,Doran's Blade,Berserker's Greaves,B. F. Sword,2100,86833,Lane.bot_lane,Role.carry
+6,RiceFoxx,Nami,True,Side.red,1,2,16,8.5,9,Flash,Exhaust,13,False,8450,6125,Cloth Armor,,Control Ward,Eye of the Watchers,Boots of Mobility,Redemption,7345,5938,Lane.bot_lane,Role.support
+7,foggedftw1,Tryndamere,True,Side.red,6,1,5,11.0,256,Ignite,Flash,16,False,13086,11025,Refillable Potion,Blade of the Ruined King,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,Pickaxe,49906,148259,Lane.top_lane,Role.solo
+8,Extempted,Orianna,True,Side.red,8,2,7,7.5,186,Ghost,Flash,15,False,11930,8750,Doran's Ring,Needlessly Large Rod,Morellonomicon,Rylai's Crystal Scepter,Boots of Speed,,119926,18495,Lane.mid_lane,Role.solo
+9,Vicktorious,Kindred,True,Side.red,14,4,2,4.0,125,Flash,Smite,16,True,13058,9875,Blade of the Ruined King,Runaan's Hurricane,Enchantment: Bloodrazor,,,Berserker's Greaves,2087,156734,Lane.jungle,Role.none

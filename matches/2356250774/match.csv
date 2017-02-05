@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RumbleZSG,Rumble,True,Side.blue,8,5,3,2.2,87,Teleport,Flash,11,True,7910,6360,The Dark Seal,Hextech Protobelt-01,Refillable Potion,Sorcerer's Shoes,Haunting Guise,Amplifying Tome,47860,4895,Lane.top_lane,Role.solo
+1,Anthøny,Shyvana,True,Side.blue,7,1,2,9.0,66,Smite,Flash,10,False,8011,6250,Refillable Potion,Bilgewater Cutlass,Recurve Bow,Boots of Swiftness,Enchantment: Bloodrazor,,27822,39979,Lane.jungle,Role.none
+2,Bobby De Niro,Viktor,True,Side.blue,3,0,3,6.0,135,Ghost,Flash,11,False,8225,6085,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Sheen,Amplifying Tome,,59377,14070,Lane.mid_lane,Role.solo
+3,bobobooo,Nautilus,True,Side.blue,0,1,8,8.0,22,Exhaust,Flash,9,False,5257,3900,Targon's Brace,Crystalline Bracer,Sightstone,Boots of Speed,Catalyst of Aeons,,3993,6754,Lane.bot_lane,Role.support
+4,Ride Majestic,Jhin,True,Side.blue,6,1,5,11.0,99,Flash,Heal,9,False,7790,6350,Doran's Blade,Essence Reaver,,Zeal,Boots of Swiftness,,386,53072,Lane.bot_lane,Role.carry
+5,GreatNeeD,Leona,False,Side.red,0,2,0,0.0,10,Heal,Flash,5,False,2767,2350,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,1251,1166,Lane.bot_lane,Role.support
+6,KÓREAN,Lucian,False,Side.red,1,5,0,0.2,56,Flash,Heal,7,False,3825,3425,Pickaxe,Doran's Blade,Caulfield's Warhammer,Boots of Speed,,Cull,631,11036,Lane.bot_lane,Role.carry
+7,Gangstarr,Lee Sin,False,Side.red,3,5,2,1.0,57,Smite,Flash,9,False,4869,4250,Enchantment: Warrior,Refillable Potion,Control Ward,Mercury's Treads,Cloth Armor,,5924,31296,Lane.jungle,Role.none
+8,NlGGERINI,Xerath,False,Side.red,2,7,0,0.2857142857142857,82,Barrier,Flash,9,False,4508,3625,The Dark Seal,Corrupting Potion,Ionian Boots of Lucidity,Lost Chapter,Fiendish Codex,,39143,4865,Lane.jungle,Role.none
+9,Yorrick,Yorick,False,Side.red,2,5,2,0.8,42,Teleport,Flash,8,False,3991,2495,Doran's Blade,Negatron Cloak,Mercury's Treads,Control Ward,,,2596,16585,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,o Cero o,Darius,True,Side.blue,5,5,9,2.8,174,Flash,Ghost,15,False,10463,8750,Doran's Blade,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Null-Magic Mantle,Ruby Crystal,0,93392,Lane.top_lane,Role.solo
+1,lost in thoughts,LeBlanc,True,Side.blue,13,1,5,18.0,205,Flash,Teleport,16,False,13507,12185,Needlessly Large Rod,Morellonomicon,Rabadon's Deathcap,Mejai's Soulstealer,Sorcerer's Shoes,Amplifying Tome,131455,14447,Lane.jungle,Role.none
+2,SPACE JUNGLER X,Bard,True,Side.blue,1,4,16,4.25,18,Ignite,Flash,13,False,8678,6775,Control Ward,Eye of the Watchers,Redemption,Boots of Mobility,Aegis of the Legion,,15498,6465,Lane.bot_lane,Role.support
+3,Danman96,Twitch,True,Side.blue,8,2,4,6.0,194,Flash,Heal,14,False,11295,8375,Doran's Blade,Infinity Edge,Runaan's Hurricane,Control Ward,Berserker's Greaves,Brawler's Gloves,0,105570,Lane.bot_lane,Role.carry
+4,Pi Pi Xia Solo,Kha'Zix,True,Side.blue,6,2,8,7.0,173,Flash,Smite,15,False,11537,10750,Duskblade of Draktharr,Enchantment: Warrior,Control Ward,Cloth Armor,The Black Cleaver,Mercury's Treads,4641,157767,Lane.jungle,Role.none
+5,Bigerthanyou,Vayne,False,Side.red,5,8,2,0.875,182,Heal,Flash,12,False,9450,8325,Infinity Edge,Statikk Shiv,Long Sword,Control Ward,Doran's Blade,Berserker's Greaves,16965,60339,Lane.bot_lane,Role.carry
+6,DdC ThanatoZ,Hecarim,False,Side.red,0,6,4,0.6666666666666666,161,Smite,Ghost,13,False,8529,8158,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Trinity Force,Ruby Crystal,,11108,105736,Lane.jungle,Role.none
+7,onelumportwo,Thresh,False,Side.red,1,2,4,2.5,48,Flash,Exhaust,11,False,6589,6125,Eye of the Equinox,Redemption,,Ninja Tabi,Cloth Armor,,14098,6396,Lane.bot_lane,Role.support
+8,Iley,Gnar,False,Side.red,5,8,2,0.875,170,Teleport,Flash,14,True,9810,9325,Doran's Blade,The Black Cleaver,Frozen Mallet,Giant's Belt,Ninja Tabi,Cloth Armor,6855,82876,Lane.top_lane,Role.solo
+9,Abraham,Ryze,False,Side.red,3,9,1,0.4444444444444444,173,Flash,Ghost,13,False,8790,7835,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,Tear of the Goddess,Amplifying Tome,,114935,7795,Lane.jungle,Role.none

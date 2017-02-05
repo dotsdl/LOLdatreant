@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Platinum Shadow,Talon,False,Side.blue,7,4,5,3.0,154,Flash,Ignite,13,False,9535,8925,Corrupting Potion,Youmuu's Ghostblade,Duskblade of Draktharr,Ionian Boots of Lucidity,B. F. Sword,,1624,91249,Lane.jungle,Role.none
+1,Sliacen,Poppy,False,Side.blue,0,3,5,1.6666666666666667,139,Flash,Teleport,13,False,7086,6875,Corrupting Potion,Mercury's Treads,Sunfire Cape,Spectre's Cowl,Cloth Armor,Kindlegem,21218,49457,Lane.top_lane,Role.solo
+2,TG Maze,Zac,False,Side.blue,5,5,3,1.6,100,Flash,Smite,10,False,7651,7250,Refillable Potion,Randuin's Omen,Mercury's Treads,Enchantment: Cinderhulk,,Ruby Crystal,53781,14000,Lane.jungle,Role.none
+3,Burp The Worm,Karma,False,Side.blue,2,6,8,1.6666666666666667,23,Exhaust,Flash,10,False,6939,6850,Frost Queen's Claim,Redemption,Ionian Boots of Lucidity,Sightstone,Control Ward,Ruby Crystal,16825,5064,Lane.bot_lane,Role.support
+4,schankie,Jhin,False,Side.blue,4,8,6,1.25,101,Heal,Flash,11,False,7935,7825,Doran's Blade,Youmuu's Ghostblade,Ionian Boots of Lucidity,Duskblade of Draktharr,,,1371,73550,Lane.bot_lane,Role.carry
+5,KitingYeezus,Twitch,True,Side.red,11,4,8,4.75,105,Flash,Smite,13,True,11401,8650,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,Pickaxe,B. F. Sword,3412,94842,Lane.jungle,Role.none
+6,Mathematix,Ahri,True,Side.red,6,4,8,3.5,170,Flash,Ignite,13,False,11143,10250,Zhonya's Hourglass,Morellonomicon,Blasting Wand,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,60084,16074,Lane.mid_lane,Role.solo
+7,kT Mehjojo,Lucian,True,Side.red,5,4,11,4.0,120,Flash,Heal,12,False,9691,7925,The Black Cleaver,Youmuu's Ghostblade,Berserker's Greaves,Doran's Blade,,,2011,71268,Lane.bot_lane,Role.carry
+8,MAMA DO,Nami,True,Side.red,1,4,18,4.75,2,Exhaust,Flash,10,False,7817,5875,Redemption,Refillable Potion,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,,5077,4042,Lane.bot_lane,Role.support
+9,i Hoonsama,Nautilus,True,Side.red,3,2,14,8.5,127,Flash,Teleport,13,False,9455,7775,Sunfire Cape,Corrupting Potion,Iceborn Gauntlet,Boots of Swiftness,Ruby Crystal,Cloth Armor,55791,23032,Lane.top_lane,Role.solo

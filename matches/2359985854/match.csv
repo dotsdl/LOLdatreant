@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Distasteful,Ashe,False,Side.blue,3,8,5,1.0,182,Flash,Heal,12,False,9060,8650,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Cull,Brawler's Gloves,1035,96309,Lane.bot_lane,Role.carry
+1,Tobias Fate,Ivern,False,Side.blue,1,7,4,0.7142857142857143,7,Flash,Exhaust,10,False,5801,4150,Nomad's Medallion,Redemption,Raptor Cloak,,,,1754,3149,Lane.bot_lane,Role.support
+2,Annie Bot,Annie,False,Side.blue,1,4,3,1.0,160,Teleport,Flash,12,False,7326,6700,Hextech Protobelt-01,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Void Staff,,54903,10481,Lane.top_lane,Role.solo
+3,Dont Remember,Lee Sin,False,Side.blue,3,2,4,3.5,114,Flash,Smite,12,True,7642,7575,Ninja Tabi,Null-Magic Mantle,Enchantment: Warrior,Dead Man's Plate,,Long Sword,14434,67493,Lane.jungle,Role.none
+4,ZatsMod,Viktor,False,Side.blue,4,6,1,0.8333333333333334,138,Flash,Ghost,12,False,7628,6600,Perfect Hex Core,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Sheen,Blasting Wand,71758,10816,Lane.mid_lane,Role.solo
+5,STM Mark,Vel'Koz,True,Side.red,6,2,12,9.0,151,Flash,Barrier,14,False,10938,9900,Doran's Ring,Luden's Echo,Morellonomicon,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,78626,7187,Lane.mid_lane,Role.solo
+6,SKY Fear,Twitch,True,Side.red,7,2,8,7.5,153,Flash,Heal,13,False,11686,9875,Doran's Blade,Runaan's Hurricane,Cull,Berserker's Greaves,Infinity Edge,Zeal,1401,94593,Lane.bot_lane,Role.carry
+7,BukZacH,Vi,True,Side.red,3,2,9,6.0,76,Flash,Smite,12,False,9090,7825,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Giant's Belt,,,1792,79772,Lane.jungle,Role.none
+8,aShady,Lulu,True,Side.red,5,4,17,5.5,16,Ignite,Flash,12,False,9533,7975,Refillable Potion,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Banner of Command,14139,6476,Lane.bot_lane,Role.support
+9,Témpest,Yasuo,True,Side.red,6,2,6,6.0,220,Flash,Teleport,14,False,11979,9575,Infinity Edge,Mercury's Treads,Hexdrinker,Doran's Blade,Phantom Dancer,Ruby Crystal,28716,118934,Lane.top_lane,Role.solo

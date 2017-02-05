@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Qkuzi,Lux,True,Side.blue,5,4,11,4.0,150,Flash,Ghost,14,False,11602,8775,Lost Chapter,Hextech GLP-800,Frost Queen's Claim,Ionian Boots of Lucidity,Fiendish Codex,Doran's Ring,76184,18545,Lane.mid_lane,Role.solo
+1,Kamajii,Lee Sin,True,Side.blue,10,3,5,5.0,118,Flash,Smite,14,False,11060,9425,Hexdrinker,Dead Man's Plate,Ionian Boots of Lucidity,Control Ward,Caulfield's Warhammer,Enchantment: Warrior,21732,105392,Lane.jungle,Role.none
+2,Clarizio,Janna,True,Side.blue,1,2,15,8.0,18,Flash,Exhaust,12,False,8324,6725,Control Ward,Sightstone,Redemption,Ionian Boots of Lucidity,Nomad's Medallion,Aegis of the Legion,5889,5349,Lane.bot_lane,Role.support
+3,Betabet,Nautilus,True,Side.blue,2,2,5,3.5,172,Flash,Teleport,14,False,9742,8100,Mercury's Treads,Corrupting Potion,Sunfire Cape,Spirit Visage,Doran's Ring,Cloth Armor,83085,25216,Lane.top_lane,Role.solo
+4,Ezweal,Twitch,True,Side.blue,12,4,10,5.5,200,Flash,Heal,15,False,14330,14300,Doran's Blade,Infinity Edge,Blade of the Ruined King,Berserker's Greaves,Statikk Shiv,Runaan's Hurricane,12193,125495,Lane.bot_lane,Role.carry
+5,3A3Y 3OY,Jhin,False,Side.red,1,7,2,0.42857142857142855,191,Heal,Flash,12,False,9063,8975,Doran's Blade,Cull,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Pickaxe,1382,95507,Lane.bot_lane,Role.carry
+6,Samsung Surge,Malphite,False,Side.red,2,3,1,1.0,161,Teleport,Flash,14,False,8562,8525,Chain Vest,Corrupting Potion,The Dark Seal,Sunfire Cape,Spirit Visage,Mercury's Treads,44564,38206,Lane.top_lane,Role.solo
+7,rekaf nesgrejb,Cassiopeia,False,Side.red,4,6,1,0.8333333333333334,194,Flash,Cleanse,14,True,9983,9925,Doran's Ring,Seraph's Embrace,Morellonomicon,,Rylai's Crystal Scepter,,89627,9995,Lane.mid_lane,Role.solo
+8,The Prevailer,Brand,False,Side.red,1,8,6,0.875,32,Ignite,Flash,11,False,7461,6850,Eye of the Watchers,Liandry's Torment,,Sorcerer's Shoes,,,31890,2233,Lane.bot_lane,Role.support
+9,tkDarkSide,Shyvana,False,Side.red,7,6,1,1.3333333333333333,180,Smite,Flash,15,False,11491,10983,Randuin's Omen,Trinity Force,Skirmisher's Sabre,Mercury's Treads,Spectre's Cowl,Recurve Bow,85035,76168,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Miracle Kid,Caitlyn,True,Side.blue,6,3,5,3.6666666666666665,185,Heal,Flash,12,False,9461,7225,Doran's Blade,Boots of Speed,Essence Reaver,Runaan's Hurricane,Total Biscuit of Rejuvenation,Control Ward,491,92211,Lane.bot_lane,Role.carry
+1,Anxiity,Gnar,True,Side.blue,1,3,0,0.3333333333333333,149,Flash,Teleport,12,False,7378,5400,Doran's Blade,Ninja Tabi,The Black Cleaver,Ruby Crystal,Cloth Armor,,4837,74135,Lane.top_lane,Role.solo
+2,am sol,LeBlanc,True,Side.blue,13,1,4,17.0,151,Ignite,Flash,13,False,10614,9125,Abyssal Scepter,,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Morellonomicon,65584,12435,Lane.mid_lane,Role.carry
+3,Subzeroark,Ivern,True,Side.blue,0,1,10,10.0,63,Flash,Smite,12,False,7116,5950,Redemption,Ionian Boots of Lucidity,The Dark Seal,Athene's Unholy Grail,Refillable Potion,Hunter's Talisman,12346,8459,Lane.mid_lane,Role.support
+4,Rhoeth,Karma,True,Side.blue,1,1,10,11.0,7,Exhaust,Flash,11,False,6210,5475,Eye of the Watchers,Boots of Mobility,Control Ward,Crystalline Bracer,Refillable Potion,Forbidden Idol,8515,3504,Lane.bot_lane,Role.support
+5,Onat,Zyra,False,Side.red,3,3,0,1.0,29,Ignite,Flash,9,False,5942,6075,Frost Queen's Claim,Boots of Speed,Haunting Guise,Blasting Wand,Total Biscuit of Rejuvenation,,21937,3059,Lane.bot_lane,Role.support
+6,SoapBark,Jax,False,Side.red,4,6,2,1.0,95,Smite,Flash,11,False,7356,6808,,,,Boots of Speed,Trinity Force,Enchantment: Bloodrazor,16506,57525,Lane.mid_lane,Role.support
+7,TCoffee,Orianna,False,Side.red,0,6,2,0.3333333333333333,154,Ghost,Flash,11,False,6901,5880,,Amplifying Tome,Negatron Cloak,Doran's Ring,Morellonomicon,Sorcerer's Shoes,59550,10743,Lane.mid_lane,Role.carry
+8,No1 draven,Vayne,False,Side.red,0,3,1,0.3333333333333333,144,Flash,Heal,11,False,7099,6050,Doran's Blade,Statikk Shiv,Berserker's Greaves,,Cull,B. F. Sword,2575,46087,Lane.bot_lane,Role.carry
+9,WildDonkeyY,Olaf,False,Side.red,2,3,2,1.3333333333333333,164,Flash,Teleport,13,True,7844,7275,Corrupting Potion,Kindlegem,Ninja Tabi,Phage,Maw of Malmortius,Cloth Armor,278,73015,Lane.top_lane,Role.solo

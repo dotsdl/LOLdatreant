@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GangstahSwerve,Ivern,True,Side.blue,0,2,9,4.5,65,Smite,Flash,11,False,7494,6775,Hunter's Talisman,Redemption,Refillable Potion,Athene's Unholy Grail,Ionian Boots of Lucidity,Aegis of the Legion,11598,6296,Lane.jungle,Role.none
+1,Pyrrfect,Ezreal,True,Side.blue,5,1,7,12.0,151,Flash,Heal,11,True,9434,8283,Ionian Boots of Lucidity,Manamune,Trinity Force,Doran's Blade,Cull,,9749,61296,Lane.bot_lane,Role.carry
+2,cesuna,Kassadin,True,Side.blue,11,1,4,15.0,167,Flash,Teleport,13,False,9891,7170,Blasting Wand,Sheen,Aether Wisp,Rod of Ages,Ionian Boots of Lucidity,The Dark Seal,68226,23653,Lane.mid_lane,Role.solo
+3,D0NG0,LeBlanc,True,Side.blue,9,0,3,12.0,133,Ignite,Flash,13,False,8807,8100,Doran's Ring,Sorcerer's Shoes,Zhonya's Hourglass,The Dark Seal,Rylai's Crystal Scepter,,62955,12213,Lane.top_lane,Role.solo
+4,CC Dean,Thresh,True,Side.blue,2,0,9,11.0,28,Ignite,Flash,10,False,6150,3675,Targon's Brace,Ruby Sightstone,,Boots of Mobility,,,9294,6023,Lane.bot_lane,Role.support
+5,cute pupper irl,Karma,False,Side.red,0,7,1,0.14285714285714285,10,Flash,Exhaust,6,False,4010,3725,,,,,,,6993,3100,Lane.bot_lane,Role.support
+6,Mikey the Bully,Yasuo,False,Side.red,0,2,1,0.5,135,Flash,Teleport,11,False,5746,4875,Doran's Blade,Hexdrinker,,Ruby Crystal,Berserker's Greaves,Zeal,21340,34620,Lane.top_lane,Role.solo
+7,Maxtrobo,Nidalee,False,Side.red,3,8,0,0.375,88,Flash,Smite,10,False,5875,5635,Enchantment: Runic Echoes,Hunter's Potion,Giant's Belt,Sorcerer's Shoes,Amplifying Tome,,50420,11614,Lane.jungle,Role.none
+8,Hopefool,Viktor,False,Side.red,1,4,1,0.5,123,Flash,Heal,10,False,5803,5445,Perfect Hex Core,Refillable Potion,Doran's Ring,Giant's Belt,Negatron Cloak,,49459,5272,Lane.mid_lane,Role.solo
+9,camtheham,Tristana,False,Side.red,0,6,1,0.16666666666666666,148,Heal,Flash,10,False,6265,6075,Dagger,B. F. Sword,Doran's Blade,Statikk Shiv,Boots of Speed,Pickaxe,22676,46501,Lane.bot_lane,Role.carry

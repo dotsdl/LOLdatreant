@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ShadowofSelf,Poppy,False,Side.blue,3,8,7,1.25,138,Flash,Smite,14,False,9639,9050,Iceborn Gauntlet,Kindlegem,Enchantment: Cinderhulk,Mercury's Treads,Warden's Mail,Null-Magic Mantle,28949,88134,Lane.jungle,Role.none
+1,Ikzencriel,Jax,False,Side.blue,1,7,0,0.14285714285714285,134,Teleport,Flash,12,False,8319,6308,Corrupting Potion,Trinity Force,Doran's Blade,Boots of Speed,Vampiric Scepter,Long Sword,18242,49731,Lane.top_lane,Role.solo
+2,RyuShoryu,Twitch,False,Side.blue,8,7,2,1.4285714285714286,202,Heal,Flash,13,False,11318,11250,Doran's Blade,Blade of the Ruined King,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,932,97281,Lane.bot_lane,Role.carry
+3,pilling91,Cassiopeia,False,Side.blue,2,7,5,1.0,207,Ghost,Flash,14,False,9778,9235,Doran's Ring,Tear of the Goddess,Morellonomicon,Abyssal Scepter,Needlessly Large Rod,Amplifying Tome,95836,11939,Lane.mid_lane,Role.solo
+4,notzhep,Sona,False,Side.blue,1,3,7,2.6666666666666665,35,Flash,Exhaust,13,False,7589,7075,Locket of the Iron Solari,Eye of the Watchers,Redemption,Total Biscuit of Rejuvenation,Boots of Speed,,16361,10324,Lane.bot_lane,Role.support
+5,camtheham,Vayne,True,Side.red,9,4,8,4.25,170,Heal,Flash,15,False,13011,12025,Mercurial Scimitar,Berserker's Greaves,Statikk Shiv,Doran's Blade,Infinity Edge,Dagger,27292,90504,Lane.bot_lane,Role.carry
+6,734,Zyra,True,Side.red,4,5,11,3.0,17,Flash,Exhaust,13,False,9741,9550,Rylai's Crystal Scepter,Blasting Wand,Sorcerer's Shoes,Eye of the Watchers,,Haunting Guise,26817,5989,Lane.bot_lane,Role.support
+7,dog maple,Viktor,True,Side.red,5,1,7,12.0,245,Ghost,Flash,16,False,12774,11850,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,Rabadon's Deathcap,108765,15746,Lane.mid_lane,Role.solo
+8,Féarless,Lee Sin,True,Side.red,10,3,9,6.333333333333333,154,Smite,Flash,15,True,13219,12175,Ninja Tabi,Maw of Malmortius,The Black Cleaver,Giant's Belt,Enchantment: Warrior,Chain Vest,29279,130513,Lane.jungle,Role.none
+9,Cat Ears,Trundle,True,Side.red,4,2,9,6.5,180,Flash,Teleport,15,False,11956,11975,Ninja Tabi,Iceborn Gauntlet,Spectre's Cowl,Sunfire Cape,Kindlegem,Zz'Rot Portal,20190,82882,Lane.top_lane,Role.solo

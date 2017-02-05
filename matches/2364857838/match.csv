@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lose is improved,Lulu,True,Side.blue,2,4,17,4.75,22,Ignite,Flash,14,False,11624,10500,Locket of the Iron Solari,Redemption,Mikael's Crucible,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,19571,6848,Lane.bot_lane,Role.support
+1,RF Legendary,Jayce,True,Side.blue,10,6,9,3.1666666666666665,224,Flash,Heal,16,False,15882,13925,Death's Dance,Pickaxe,Berserker's Greaves,Serrated Dirk,The Black Cleaver,Lord Dominik's Regards,23579,163423,Lane.bot_lane,Role.carry
+2,Mr Gimix,Ziggs,True,Side.blue,5,4,7,3.0,246,Ignite,Flash,17,True,14039,11675,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Lich Bane,Void Staff,,175451,16980,Lane.mid_lane,Role.solo
+3,Rohammers,Poppy,True,Side.blue,3,7,4,1.0,175,Teleport,Flash,14,False,12161,11670,Chain Vest,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Spirit Visage,Negatron Cloak,35514,66245,Lane.top_lane,Role.solo
+4,RATIRLonNA,Master Yi,True,Side.blue,10,10,6,1.6,192,Ghost,Smite,17,False,15502,13700,,Statikk Shiv,Infinity Edge,Phantom Dancer,Enchantment: Bloodrazor,Ninja Tabi,7626,182424,Lane.jungle,Role.none
+5,Hi Im A Sheep,Thresh,False,Side.red,2,7,23,3.5714285714285716,43,Flash,Ignite,15,False,10622,8750,Ruby Sightstone,Face of the Mountain,Redemption,,Aegis of the Legion,Boots of Mobility,16969,8708,Lane.bot_lane,Role.support
+6,Liquid fabbbyyy,Lee Sin,False,Side.red,10,7,7,2.4285714285714284,236,Flash,Smite,17,False,15224,13475,Enchantment: Warrior,Ravenous Hydra,Locket of the Iron Solari,Ninja Tabi,Giant's Belt,Dead Man's Plate,53831,149901,Lane.jungle,Role.none
+7,Riesig,Jarvan IV,False,Side.red,4,4,12,4.0,232,Flash,Teleport,17,False,13305,13400,Guardian Angel,Spirit Visage,Sunfire Cape,Ruby Crystal,Ninja Tabi,Iceborn Gauntlet,47010,103137,Lane.top_lane,Role.solo
+8,C9 Gun,Twitch,False,Side.red,7,7,13,2.857142857142857,226,Flash,Heal,16,False,14129,13975,Blade of the Ruined King,Giant Slayer,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Last Whisper,156,137445,Lane.bot_lane,Role.carry
+9,Budded,Vel'Koz,False,Side.red,8,5,9,3.4,249,Ghost,Flash,17,False,14754,14125,Morellonomicon,Doran's Ring,Rabadon's Deathcap,Liandry's Torment,Ionian Boots of Lucidity,Void Staff,153211,12769,Lane.mid_lane,Role.solo

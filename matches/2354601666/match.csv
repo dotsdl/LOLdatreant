@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hec says neigh,Hecarim,True,Side.blue,2,4,6,2.0,134,Ignite,Teleport,13,False,9255,7283,Trinity Force,Corrupting Potion,Ninja Tabi,Giant's Belt,Chain Vest,,8019,70498,Lane.top_lane,Role.solo
+1,GP CRIT HARAMBE,Janna,True,Side.blue,0,1,15,15.0,8,Exhaust,Flash,11,False,7474,6550,Aegis of the Legion,Redemption,Sightstone,,Ionian Boots of Lucidity,Forbidden Idol,5340,7120,Lane.bot_lane,Role.support
+2,WHOOPS CAPS,Yasuo,True,Side.blue,8,3,6,4.666666666666667,243,Flash,Exhaust,15,False,12986,11883,Health Potion,Doran's Blade,Infinity Edge,Trinity Force,Phantom Dancer,Mercury's Treads,33787,130181,Lane.mid_lane,Role.solo
+3,all i want,Elise,True,Side.blue,10,2,6,8.0,106,Flash,Smite,14,True,11589,10500,Enchantment: Runic Echoes,Refillable Potion,Hextech Protobelt-01,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,92854,29641,Lane.jungle,Role.none
+4,bl4zing,Caitlyn,True,Side.blue,3,2,10,6.5,167,Heal,Flash,13,False,10472,8150,Doran's Blade,Infinity Edge,Berserker's Greaves,,Runaan's Hurricane,,849,112106,Lane.bot_lane,Role.carry
+5,Figurato,Kayle,False,Side.red,2,8,3,0.625,179,Flash,Teleport,13,False,8528,7225,Nashor's Tooth,Berserker's Greaves,Blasting Wand,Doran's Ring,Recurve Bow,Doran's Ring,77705,28666,Lane.top_lane,Role.solo
+6,KT Score,Lee Sin,False,Side.red,6,4,2,2.0,94,Smite,Flash,12,False,8416,7925,Tiamat,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,,Boots of Swiftness,12806,78265,Lane.jungle,Role.none
+7,Ayukura,Nami,False,Side.red,1,6,3,0.6666666666666666,14,Flash,Exhaust,11,False,6459,5150,Redemption,Sightstone,Total Biscuit of Rejuvenation,Frostfang,Boots of Mobility,,6825,5830,Lane.bot_lane,Role.support
+8,DJ Holiday,Twitch,False,Side.red,3,2,1,2.0,153,Heal,Flash,12,False,7958,7475,Doran's Blade,Infinity Edge,,Runaan's Hurricane,Boots of Speed,Dagger,939,72271,Lane.bot_lane,Role.carry
+9,Autumn Charm,Orianna,False,Side.red,0,3,3,1.0,171,Ghost,Flash,12,False,7662,6610,Doran's Ring,Health Potion,Sorcerer's Shoes,Amplifying Tome,Giant's Belt,Morellonomicon,73749,13878,Lane.mid_lane,Role.solo

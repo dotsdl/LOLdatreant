@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Riot Meekal,Dr. Mundo,False,Side.blue,2,7,7,1.2857142857142858,118,Flash,Teleport,13,False,8964,8385,Doran's Shield,Ninja Tabi,Sunfire Cape,Thornmail,Null-Magic Mantle,Kindlegem,41512,22798,Lane.top_lane,Role.solo
+1,Wizzy,Kayle,False,Side.blue,4,3,5,3.0,191,Ghost,Flash,14,False,10799,10300,The Dark Seal,Guinsoo's Rageblade,Doran's Ring,Ionian Boots of Lucidity,Nashor's Tooth,Needlessly Large Rod,86701,33911,Lane.mid_lane,Role.solo
+2,Sawyerr,Janna,False,Side.blue,3,2,8,5.5,5,Ignite,Flash,12,False,8239,9050,Ancient Coin,Redemption,Control Ward,Boots of Mobility,Mikael's Crucible,Ruby Sightstone,6306,3493,Lane.bot_lane,Role.support
+3,Rïkara,Caitlyn,False,Side.blue,6,5,4,2.0,213,Flash,Heal,13,False,12240,10900,Doran's Blade,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Long Sword,1010,146970,Lane.bot_lane,Role.carry
+4,Liquid fabbbyyy,Lee Sin,False,Side.blue,4,9,5,1.0,118,Flash,Smite,13,True,9745,9150,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Mobility,Dead Man's Plate,Hexdrinker,18491,79157,Lane.jungle,Role.none
+5,Nedo,Viktor,True,Side.red,8,4,8,4.0,163,Ghost,Flash,14,False,11239,10125,Perfect Hex Core,Rylai's Crystal Scepter,Blasting Wand,Doran's Ring,Ionian Boots of Lucidity,Sheen,106735,14633,Lane.mid_lane,Role.solo
+6,Cat Ears,Ezreal,True,Side.red,3,3,13,5.333333333333333,185,Flash,Heal,14,False,11028,10850,Muramana,Iceborn Gauntlet,Blade of the Ruined King,Ionian Boots of Lucidity,Doran's Blade,Null-Magic Mantle,25493,88220,Lane.bot_lane,Role.carry
+7,Max Waldo,Irelia,True,Side.red,8,4,10,4.5,240,Flash,Teleport,15,False,12521,10558,Corrupting Potion,Kindlegem,Boots of Swiftness,Trinity Force,Dead Man's Plate,Spectre's Cowl,2492,113658,Lane.top_lane,Role.solo
+8,urwong,Bard,True,Side.red,1,5,11,2.4,11,Ignite,Flash,12,False,7958,6875,Frostfang,Sightstone,Locket of the Iron Solari,Ninja Tabi,Crystalline Bracer,Forbidden Idol,10623,4948,Lane.bot_lane,Role.support
+9,IHateD2Players,Graves,True,Side.red,6,3,7,4.333333333333333,191,Smite,Flash,16,False,12167,10975,Enchantment: Warrior,Ninja Tabi,Phantom Dancer,,The Black Cleaver,,7576,180098,Lane.jungle,Role.none

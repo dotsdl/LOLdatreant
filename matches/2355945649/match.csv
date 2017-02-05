@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PrismaI,Ezreal,False,Side.blue,3,5,3,1.2,144,Flash,Heal,11,False,8408,8083,Trinity Force,Cull,Manamune,Doran's Blade,Ionian Boots of Lucidity,,12471,55475,Lane.bot_lane,Role.carry
+1,Hi Im A Sheep,Nautilus,False,Side.blue,2,8,0,0.25,118,Flash,Teleport,11,False,6934,6095,Corrupting Potion,Negatron Cloak,Raptor Cloak,Sunfire Cape,Doran's Ring,Boots of Speed,56110,15694,Lane.top_lane,Role.solo
+2,N810HO,Viktor,False,Side.blue,6,2,3,4.5,179,Flash,Ghost,14,False,10558,9950,Seeker's Armguard,Perfect Hex Core,Fiendish Codex,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,102508,10368,Lane.mid_lane,Role.solo
+3,The Eggsalad,Vel'Koz,False,Side.blue,1,6,5,1.0,18,Exhaust,Flash,9,False,6186,5375,Frostfang,Sorcerer's Shoes,Haunting Guise,Sightstone,Control Ward,Total Biscuit of Rejuvenation,13695,3475,Lane.bot_lane,Role.support
+4,Henrÿ,Graves,False,Side.blue,5,6,4,1.5,128,Flash,Smite,13,False,9133,8775,Berserker's Greaves,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Caulfield's Warhammer,Phage,2612,113457,Lane.jungle,Role.none
+5,zz cicero,Poppy,True,Side.red,6,3,7,4.333333333333333,149,Teleport,Flash,13,False,8746,7600,Sunfire Cape,Cloth Armor,Mercury's Treads,Spirit Visage,,,19521,63091,Lane.top_lane,Role.solo
+6,bvcx222,Bard,True,Side.red,2,4,13,3.75,17,Flash,Ignite,11,False,6597,5925,Ruby Sightstone,Locket of the Iron Solari,,Spellthief's Edge,Total Biscuit of Rejuvenation,Boots of Mobility,7381,2341,Lane.bot_lane,Role.support
+7,Nero Valentine,Talon,True,Side.red,11,2,3,7.0,130,Ghost,Flash,13,True,9349,7275,Ionian Boots of Lucidity,Refillable Potion,Youmuu's Ghostblade,The Black Cleaver,,,0,76705,Lane.jungle,Role.none
+8,NiMura,Jhin,True,Side.red,3,5,3,1.2,183,Flash,Heal,12,False,8596,6850,Doran's Blade,Essence Reaver,Zeal,Dagger,,Boots of Swiftness,871,98483,Lane.bot_lane,Role.carry
+9,OddieLAN,Lee Sin,True,Side.red,5,3,3,2.6666666666666665,106,Smite,Flash,13,False,8642,7785,Enchantment: Warrior,Randuin's Omen,Control Ward,Chain Vest,Ninja Tabi,Refillable Potion,15712,71462,Lane.jungle,Role.none

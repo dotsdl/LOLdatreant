@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LeapGod,Hecarim,True,Side.blue,6,0,3,9.0,138,Ghost,Ignite,13,False,8648,7533,Trinity Force,Spectre's Cowl,Ninja Tabi,Kindlegem,,,7646,49780,Lane.mid_lane,Role.none
+1,6 Inches Deep,Morgana,True,Side.blue,4,0,8,12.0,126,Flash,Cleanse,14,False,8374,6100,Doran's Ring,Doran's Ring,Rod of Ages,Health Potion,Sorcerer's Shoes,Seeker's Armguard,49636,15615,Lane.mid_lane,Role.none
+2,support or troll,Zac,True,Side.blue,4,3,8,4.0,126,Smite,Flash,14,False,9524,8375,Enchantment: Cinderhulk,Randuin's Omen,Refillable Potion,Mercury's Treads,Spectre's Cowl,Ruby Crystal,95123,22036,Lane.mid_lane,Role.none
+3,Grameol,Olaf,False,Side.red,0,5,0,0.0,147,Ghost,Exhaust,12,False,6518,6250,Sunfire Cape,Mercury's Treads,Spectre's Cowl,Kindlegem,,,9719,54696,Lane.mid_lane,Role.solo
+4,TheJimmyRustlers,Malzahar,False,Side.red,2,5,1,0.6,139,Flash,Ignite,12,True,7080,6250,Doran's Ring,Rod of Ages,Doran's Ring,Sorcerer's Shoes,Haunting Guise,,48040,20508,Lane.jungle,Role.none
+5,THE HULK SMASH,Trundle,False,Side.red,1,4,1,0.5,82,Flash,Smite,12,False,6484,5775,Enchantment: Bloodrazor,Boots of Speed,Refillable Potion,Phage,Stinger,Sapphire Crystal,2723,87175,Lane.jungle,Role.none

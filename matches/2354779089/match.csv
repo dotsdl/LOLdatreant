@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arcminute,Evelynn,True,Side.blue,14,1,9,23.0,137,Smite,Flash,13,False,12821,11750,Mercury's Treads,Enchantment: Runic Echoes,Hextech Protobelt-01,Rylai's Crystal Scepter,Needlessly Large Rod,Blasting Wand,91043,34142,Lane.jungle,Role.none
+1,MudBone69,Malzahar,True,Side.blue,5,1,5,10.0,134,Ghost,Flash,12,False,9369,8585,Morellonomicon,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,59093,20478,Lane.mid_lane,Role.solo
+2,QuickRev,Maokai,True,Side.blue,6,3,15,7.0,38,Flash,Ignite,11,True,9227,8350,Control Ward,Locket of the Iron Solari,Ruby Sightstone,Spirit Visage,Ninja Tabi,Relic Shield,25287,8821,Lane.jungle,Role.none
+3,IA55A55INI,Kled,True,Side.blue,11,2,13,12.0,155,Flash,Teleport,14,False,12140,10950,Doran's Blade,Titanic Hydra,The Black Cleaver,Mercury's Treads,Guardian Angel,Long Sword,0,98761,Lane.top_lane,Role.solo
+4,TEAMLUKEE,Caitlyn,True,Side.blue,1,8,4,0.625,132,Heal,Flash,11,False,7866,6425,Doran's Blade,Doran's Blade,Berserker's Greaves,Pickaxe,Runaan's Hurricane,Cloak of Agility,502,66259,Lane.bot_lane,Role.solo
+5,Painn,Ezreal,False,Side.red,4,7,1,0.7142857142857143,98,Flash,Heal,10,False,6198,5625,Manamune,Refillable Potion,Ionian Boots of Lucidity,Sheen,Doran's Blade,Long Sword,10983,35167,Lane.bot_lane,Role.solo
+6,Mishas Swamp,Xerath,False,Side.red,0,11,6,0.5454545454545454,110,Ghost,Flash,11,False,6198,5200,Boots of Speed,Tear of the Goddess,Doran's Ring,Morellonomicon,Doran's Ring,,56904,4608,Lane.top_lane,Role.solo
+7,SweetPete7,Shyvana,False,Side.red,6,7,4,1.4285714285714286,75,Flash,Smite,11,False,7730,7450,Refillable Potion,,,Enchantment: Bloodrazor,Mercury's Treads,Titanic Hydra,37059,40973,Lane.jungle,Role.none
+8,Klawbro,Ziggs,False,Side.red,4,9,3,0.7777777777777778,132,Flash,Ignite,12,False,7260,6445,Doran's Ring,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,72660,8253,Lane.mid_lane,Role.solo
+9,bvcx222,Blitzcrank,False,Side.red,1,3,8,3.0,26,Flash,Ignite,9,False,5544,5125,Sightstone,Face of the Mountain,Ruby Crystal,Control Ward,Total Biscuit of Rejuvenation,Boots of Mobility,4893,7857,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jared King1,LeBlanc,True,Side.blue,4,4,9,3.25,30,Flash,Ignite,12,False,9565,9300,Boots of Mobility,Frost Queen's Claim,Locket of the Iron Solari,Rylai's Crystal Scepter,,,26308,4122,Lane.bot_lane,Role.support
+1,always plan ahea,Teemo,True,Side.blue,0,7,2,0.2857142857142857,183,Flash,Ignite,14,False,9866,9400,Hextech Gunblade,Luden's Echo,Boots of Swiftness,Needlessly Large Rod,,,61620,39025,Lane.top_lane,Role.solo
+2,JG Eddie in NA,Master Yi,True,Side.blue,14,6,6,3.3333333333333335,133,Smite,Exhaust,15,False,13550,11975,Blade of the Ruined King,Ninja Tabi,Enchantment: Bloodrazor,The Black Cleaver,Jaurim's Fist,Ruby Crystal,1374,136227,Lane.jungle,Role.none
+3,Lunatea,Vayne,True,Side.blue,7,0,6,13.0,213,Flash,Heal,15,True,13003,11475,Berserker's Greaves,Infinity Edge,Statikk Shiv,Doran's Blade,Phantom Dancer,Pickaxe,31130,117167,Lane.bot_lane,Role.carry
+4,YoungHun Cho,Anivia,True,Side.blue,8,3,9,5.666666666666667,184,Ignite,Flash,16,False,12440,9200,Doran's Ring,Rod of Ages,Tear of the Goddess,Sorcerer's Shoes,Zhonya's Hourglass,Needlessly Large Rod,116804,9001,Lane.mid_lane,Role.solo
+5,NERDSMASHER5001,Gangplank,False,Side.red,6,10,3,0.9,139,Flash,Exhaust,13,False,9726,8583,Refillable Potion,Trinity Force,Boots of Speed,Essence Reaver,Cloak of Agility,,9181,97639,Lane.mid_lane,Role.solo
+6,Harpoon The Moon,Miss Fortune,False,Side.red,0,6,9,1.5,50,Flash,Exhaust,12,False,8159,6925,The Black Cleaver,Ionian Boots of Lucidity,,,,Eye of the Watchers,31239,18489,Lane.bot_lane,Role.support
+7,Fousey,Cho'Gath,False,Side.red,8,3,3,3.6666666666666665,157,Ignite,Flash,15,False,10020,8250,Corrupting Potion,Doran's Ring,Doran's Ring,Boots of Swiftness,Luden's Echo,Abyssal Scepter,90812,11399,Lane.top_lane,Role.solo
+8,dibbydongdopdup,Jinx,False,Side.red,3,7,5,1.1428571428571428,148,Flash,Heal,12,False,8740,8600,Doran's Blade,Dagger,,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,687,75039,Lane.bot_lane,Role.carry
+9,Corben,Rek'Sai,False,Side.red,3,7,6,1.2857142857142858,100,Smite,Flash,13,False,8744,7925,Ninja Tabi,Enchantment: Cinderhulk,Refillable Potion,Titanic Hydra,Ruby Crystal,,13963,66424,Lane.jungle,Role.none

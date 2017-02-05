@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Choco Mints,Lucian,True,Side.blue,5,3,7,4.0,213,Heal,Flash,14,False,11558,8720,Doran's Blade,Death's Dance,The Black Cleaver,Berserker's Greaves,Total Biscuit of Rejuvenation,Brawler's Gloves,2121,102232,Lane.bot_lane,Role.carry
+1,TriggyTre,Janna,True,Side.blue,0,2,12,6.0,16,Flash,Exhaust,12,False,7934,6950,Aegis of the Legion,Boots of Mobility,Redemption,Eye of the Oasis,Null-Magic Mantle,,4183,6132,Lane.bot_lane,Role.support
+2,2107524187435611,Nasus,True,Side.blue,7,3,8,5.0,211,Flash,Teleport,15,False,12363,11900,Dead Man's Plate,Sheen,Ninja Tabi,Kindlegem,Frozen Heart,Thornmail,25884,128079,Lane.top_lane,Role.solo
+3,lm Park,Quinn,True,Side.blue,7,6,11,3.0,100,Smite,Flash,15,False,11371,9975,Youmuu's Ghostblade,Enchantment: Warrior,Duskblade of Draktharr,Boots of Mobility,,,4636,125858,Lane.jungle,Role.none
+4,SKT T1 Shimy,Lux,True,Side.blue,8,3,9,5.666666666666667,167,Flash,Ghost,14,False,11358,10725,Doran's Ring,Morellonomicon,Fiendish Codex,Mejai's Soulstealer,Sorcerer's Shoes,Luden's Echo,103442,10733,Lane.mid_lane,Role.solo
+5,Frosay,Karma,False,Side.red,0,6,3,0.5,15,Flash,Exhaust,10,False,6721,6000,Ionian Boots of Lucidity,Ardent Censer,,Eye of the Watchers,,,11823,2035,Lane.bot_lane,Role.support
+6,Carry By Example,Singed,False,Side.red,3,4,5,2.0,200,Ghost,Ignite,13,False,10555,8200,Corrupting Potion,Tear of the Goddess,Zz'Rot Portal,Boots of Swiftness,Rylai's Crystal Scepter,Control Ward,94895,8942,Lane.top_lane,Role.solo
+7,joey legendary,Jax,False,Side.red,9,5,0,1.8,169,Flash,Smite,14,False,11536,10933,Enchantment: Bloodrazor,,Trinity Force,Boots of Swiftness,Frozen Mallet,Long Sword,27119,124064,Lane.jungle,Role.none
+8,IQ is 201 ,Yasuo,False,Side.red,4,9,6,1.1111111111111112,169,Flash,Ignite,13,True,10294,9160,Refillable Potion,Infinity Edge,Phantom Dancer,Mercury's Treads,Jaurim's Fist,,21026,91430,Lane.mid_lane,Role.solo
+9,Primal Zerg,Jhin,False,Side.red,1,3,5,2.0,144,Flash,Heal,13,False,8794,7825,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Doran's Blade,,,9214,74020,Lane.bot_lane,Role.carry

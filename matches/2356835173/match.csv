@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Killlua,Janna,False,Side.blue,0,7,11,1.5714285714285714,12,Exhaust,Flash,11,False,7545,7000,Redemption,Ionian Boots of Lucidity,Eye of the Oasis,Aegis of the Legion,Null-Magic Mantle,,5145,2966,Lane.bot_lane,Role.support
+1,Pr4Y,Vayne,False,Side.blue,2,9,3,0.5555555555555556,195,Flash,Heal,13,False,9408,9300,Doran's Blade,Berserker's Greaves,Statikk Shiv,Infinity Edge,Zeal,,24023,74494,Lane.bot_lane,Role.carry
+2,Adrian Riven,Jayce,False,Side.blue,3,11,3,0.5454545454545454,160,Teleport,Flash,13,False,9313,9400,Maw of Malmortius,The Black Cleaver,Boots of Swiftness,Serrated Dirk,Long Sword,,19772,86423,Lane.top_lane,Role.solo
+3,Lukwer,Ekko,False,Side.blue,2,8,5,0.875,199,Flash,Teleport,14,False,9571,9475,The Dark Seal,Hextech Protobelt-01,Abyssal Scepter,Seeker's Armguard,Sheen,Ionian Boots of Lucidity,97776,20496,Lane.mid_lane,Role.solo
+4,equalix,Graves,False,Side.blue,8,8,1,1.125,154,Flash,Smite,14,False,11042,10800,Enchantment: Warrior,Maw of Malmortius,Mercury's Treads,Phantom Dancer,Vampiric Scepter,,4163,152771,Lane.jungle,Role.none
+5,FanatiiLt,Lee Sin,True,Side.red,12,2,21,16.5,134,Smite,Flash,16,True,13744,12075,Enchantment: Warrior,Ruby Sightstone,Randuin's Omen,Ninja Tabi,Dead Man's Plate,Chain Vest,22049,116345,Lane.jungle,Role.none
+6,yeniaR,Ezreal,True,Side.red,20,2,15,17.5,201,Flash,Heal,16,False,16496,14625,Phantom Dancer,Bilgewater Cutlass,Death's Dance,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,28081,125383,Lane.bot_lane,Role.carry
+7,ioan,Rumble,True,Side.red,8,2,13,10.5,208,Flash,Teleport,16,False,12674,11010,Zhonya's Hourglass,Liandry's Torment,Doran's Shield,Sorcerer's Shoes,Void Staff,Amplifying Tome,107881,12414,Lane.top_lane,Role.solo
+8,Hello I am Dust,Braum,True,Side.red,0,2,29,14.5,53,Exhaust,Flash,14,False,9432,8025,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,Sapphire Crystal,Control Ward,Boots of Mobility,7610,11001,Lane.bot_lane,Role.support
+9,ZambonGG,Syndra,True,Side.red,3,7,12,2.142857142857143,149,Flash,Ghost,14,False,9960,8000,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,,,79739,9334,Lane.mid_lane,Role.solo

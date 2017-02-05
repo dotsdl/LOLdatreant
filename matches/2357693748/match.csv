@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Maguro Sensei,Karma,False,Side.blue,2,2,11,6.5,23,Flash,Exhaust,11,False,9025,7785,Mercury's Treads,Sightstone,Ardent Censer,Frost Queen's Claim,Amplifying Tome,Crystalline Bracer,28608,7166,Lane.bot_lane,Role.support
+1,TRUMPSSMALLHANDS,Nunu,False,Side.blue,6,5,4,2.0,120,Ghost,Smite,14,False,10580,9650,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Dead Man's Plate,Spirit Visage,,50235,42306,Lane.jungle,Role.none
+2,Kay Tse Is Kay,Orianna,False,Side.blue,1,6,2,0.5,180,Flash,Ignite,13,False,9208,8275,Luden's Echo,Doran's Ring,Cloth Armor,Sorcerer's Shoes,Morellonomicon,,85694,18709,Lane.mid_lane,Role.solo
+3,Chad Reformed ,Poppy,False,Side.blue,4,7,3,1.0,159,Teleport,Flash,15,False,10003,9000,Sunfire Cape,Ninja Tabi,Corrupting Potion,Iceborn Gauntlet,Chain Vest,Giant's Belt,30844,86578,Lane.top_lane,Role.solo
+4,Bunny Protector,Vayne,False,Side.blue,8,8,4,1.5,212,Flash,Heal,14,True,12860,12450,Mercurial Scimitar,Cull,Berserker's Greaves,Statikk Shiv,Infinity Edge,,24070,103225,Lane.bot_lane,Role.carry
+5,Buttbeard,Twisted Fate,True,Side.red,7,2,7,7.0,202,Ghost,Flash,16,False,13409,11675,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Needlessly Large Rod,Lich Bane,Void Staff,117322,14305,Lane.mid_lane,Role.solo
+6,ILoveYrx,Amumu,True,Side.red,3,3,14,5.666666666666667,114,Smite,Flash,14,False,10198,9075,Mercury's Treads,Hunter's Potion,Enchantment: Cinderhulk,Glacial Shroud,Spirit Visage,Warden's Mail,70934,20787,Lane.jungle,Role.none
+7,LoveLive Banzaai,Riven,True,Side.red,9,6,7,2.6666666666666665,200,Flash,Teleport,16,False,12805,11650,The Black Cleaver,Ravenous Hydra,Refillable Potion,Ninja Tabi,Mortal Reminder,Caulfield's Warhammer,0,139858,Lane.top_lane,Role.solo
+8,Twilly,Draven,True,Side.red,6,6,9,2.5,190,Flash,Heal,14,False,13273,12350,Youmuu's Ghostblade,Mercurial Scimitar,Doran's Blade,Vampiric Scepter,Berserker's Greaves,Lord Dominik's Regards,0,125426,Lane.bot_lane,Role.carry
+9,Dread Infernal,Bard,True,Side.red,2,4,14,4.0,16,Flash,Ignite,13,False,8946,8475,Ionian Boots of Lucidity,Locket of the Iron Solari,Eye of the Watchers,Redemption,Ruby Crystal,Cloth Armor,20233,7449,Lane.bot_lane,Role.support

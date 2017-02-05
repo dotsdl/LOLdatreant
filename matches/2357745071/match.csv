@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Riesig,Yorick,True,Side.blue,8,1,7,15.0,248,Flash,Teleport,16,False,13670,10733,Corrupting Potion,Trinity Force,Boots of Swiftness,Dead Man's Plate,Zz'Rot Portal,,21090,131849,Lane.top_lane,Role.solo
+1,Vladfire1 BG ,Kha'Zix,True,Side.blue,8,2,9,8.5,135,Smite,Flash,15,False,12762,12100,Maw of Malmortius,Refillable Potion,Mercury's Treads,Death's Dance,Phage,Enchantment: Warrior,4994,142065,Lane.jungle,Role.none
+2,OmegaB,Vayne,True,Side.blue,16,5,6,4.4,181,Flash,Heal,15,False,14244,12575,Berserker's Greaves,Phantom Dancer,Blade of the Ruined King,Infinity Edge,Hexdrinker,Doran's Blade,240,94548,Lane.bot_lane,Role.carry
+3,Biscuit Crusader,Twisted Fate,True,Side.blue,5,5,8,2.6,139,Flash,Ghost,14,False,10938,9850,Blasting Wand,Rod of Ages,Sheen,Ionian Boots of Lucidity,Abyssal Scepter,Aether Wisp,74346,15321,Lane.mid_lane,Role.solo
+4,ZambonGG,Karma,True,Side.blue,3,5,16,3.8,17,Flash,Exhaust,13,False,9480,6975,Redemption,Frost Queen's Claim,Sightstone,Refillable Potion,Ionian Boots of Lucidity,Null-Magic Mantle,16576,4772,Lane.bot_lane,Role.support
+5,BabièThug,LeBlanc,False,Side.red,9,10,5,1.4,144,Flash,Ignite,13,True,10509,9225,Doran's Ring,Blasting Wand,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Doran's Ring,73226,8501,Lane.mid_lane,Role.solo
+6,ZatsMod,Ezreal,False,Side.red,1,9,6,0.7777777777777778,154,Flash,Heal,12,False,8262,8100,Iceborn Gauntlet,Manamune,Ionian Boots of Lucidity,Recurve Bow,Long Sword,,21373,58124,Lane.bot_lane,Role.carry
+7,UndefeatedOne,Gangplank,False,Side.red,6,7,3,1.2857142857142858,165,Teleport,Flash,13,False,10627,10583,Trinity Force,Infinity Edge,Zeal,Ionian Boots of Lucidity,Kircheis Shard,,9210,145680,Lane.top_lane,Role.solo
+8,Fiku,Zac,False,Side.red,2,5,6,1.6,120,Flash,Smite,12,False,8424,7875,Enchantment: Cinderhulk,Randuin's Omen,Ninja Tabi,Chain Vest,Cloth Armor,,74699,17099,Lane.jungle,Role.none
+9,C9 Smoothie,Sion,False,Side.red,0,9,7,0.7777777777777778,63,Flash,Exhaust,11,False,6714,5875,,Ruby Sightstone,Locket of the Iron Solari,Mercury's Treads,Relic Shield,,23967,21898,Lane.bot_lane,Role.support

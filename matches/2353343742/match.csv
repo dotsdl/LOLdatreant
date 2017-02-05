@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Just hasagi,LeBlanc,False,Side.blue,8,9,0,0.8888888888888888,119,Ignite,Flash,13,False,8556,6760,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Doran's Ring,Amplifying Tome,61698,10114,Lane.mid_lane,Role.solo
+1,MST3kMantra,Vayne,False,Side.blue,8,12,2,0.8333333333333334,121,Flash,Heal,12,False,9274,8250,Doran's Blade,Berserker's Greaves,Statikk Shiv,Infinity Edge,,,24763,55041,Lane.bot_lane,Role.carry
+2,IA55A55INI,Braum,False,Side.blue,0,11,10,0.9090909090909091,22,Flash,Exhaust,9,False,6311,5675,Face of the Mountain,Ruby Sightstone,Ionian Boots of Lucidity,,,Cloth Armor,4132,4072,Lane.bot_lane,Role.support
+3,RubADub3Men1Tub,Olaf,False,Side.blue,5,9,7,1.3333333333333333,56,Ghost,Smite,11,False,8009,7650,Hunter's Potion,Righteous Glory,Ninja Tabi,Enchantment: Cinderhulk,Kindlegem,Control Ward,11660,49694,Lane.jungle,Role.none
+4,Darvec,Sion,False,Side.blue,1,3,3,1.3333333333333333,181,Teleport,Flash,13,False,8397,7950,Zz'Rot Portal,Corrupting Potion,Ninja Tabi,Doran's Ring,Sunfire Cape,,51805,38471,Lane.top_lane,Role.solo
+5,FORG1VENRE,Shen,True,Side.red,5,3,8,4.333333333333333,191,Teleport,Flash,14,False,9458,8650,Mercury's Treads,Zz'Rot Portal,Cloth Armor,Giant's Belt,Sunfire Cape,Doran's Shield,57667,31395,Lane.top_lane,Role.solo
+6,Asyc xD ,Bard,True,Side.red,3,5,26,5.8,9,Ignite,Flash,12,True,9362,8825,Locket of the Iron Solari,Sightstone,Redemption,Frost Queen's Claim,Boots of Mobility,Cloth Armor,15972,6129,Lane.bot_lane,Role.support
+7,RaptorKid,Caitlyn,True,Side.red,11,5,17,5.6,156,Heal,Flash,14,False,12196,9300,Doran's Blade,Total Biscuit of Rejuvenation,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Zeal,599,126176,Lane.bot_lane,Role.carry
+8,Morning,Lee Sin,True,Side.red,14,4,9,5.75,85,Flash,Smite,13,False,11744,10050,Banshee's Veil,Youmuu's Ghostblade,,Boots of Swiftness,Enchantment: Warrior,Sightstone,17982,82573,Lane.jungle,Role.none
+9,Modx,Orianna,True,Side.red,11,5,9,4.0,151,Flash,Ghost,13,False,11058,8805,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Blasting Wand,Sorcerer's Shoes,,92574,13090,Lane.mid_lane,Role.solo

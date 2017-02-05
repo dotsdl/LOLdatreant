@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TszHin OvO,Viktor,False,Side.blue,6,5,0,1.2,117,Heal,Flash,11,True,7403,7250,Perfect Hex Core,Fiendish Codex,Lost Chapter,Doran's Ring,The Dark Seal,Ionian Boots of Lucidity,50384,8317,Lane.mid_lane,Role.solo
+1,iPav,Teemo,False,Side.blue,0,6,0,0.0,136,Exhaust,Flash,11,False,6145,5500,Doran's Ring,Refillable Potion,Runaan's Hurricane,Mercury's Treads,Recurve Bow,,35945,23172,Lane.top_lane,Role.solo
+2,TOP SCORE,Twitch,False,Side.blue,1,9,4,0.5555555555555556,96,Heal,Flash,10,False,5748,4675,Doran's Blade,Runaan's Hurricane,Pickaxe,Boots of Speed,Dagger,,0,37096,Lane.bot_lane,Role.carry
+3,IHateD2Players,Graves,False,Side.blue,3,5,3,1.2,107,Smite,Flash,11,False,7132,6400,Enchantment: Warrior,Long Sword,Phantom Dancer,Long Sword,Boots of Speed,,4011,82729,Lane.jungle,Role.none
+4,C9 Smoothie,Thresh,False,Side.blue,2,6,7,1.5,13,Flash,Ignite,9,False,5134,4950,Aegis of the Legion,Ruby Sightstone,Control Ward,Boots of Mobility,Relic Shield,,3976,2423,Lane.bot_lane,Role.support
+5,Sìyou,Lee Sin,True,Side.red,6,3,5,3.6666666666666665,71,Flash,Smite,11,False,8325,7250,Enchantment: Warrior,Refillable Potion,Control Ward,Tiamat,Dead Man's Plate,Boots of Speed,13734,58664,Lane.jungle,Role.none
+6,konkwon,Nami,True,Side.red,2,1,13,15.0,7,Flash,Ignite,10,False,7508,5350,Redemption,Frostfang,Boots of Swiftness,Sightstone,Control Ward,,4321,7806,Lane.bot_lane,Role.support
+7,Flaresz,Kennen,True,Side.red,11,1,4,15.0,131,Flash,Teleport,13,False,9700,5025,Doran's Blade,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,,,50948,20619,Lane.top_lane,Role.solo
+8,Liquid fabbbyyy,Vayne,True,Side.red,7,3,6,4.333333333333333,122,Flash,Heal,11,False,9990,9050,Berserker's Greaves,Cull,Statikk Shiv,Infinity Edge,Brawler's Gloves,Dagger,8873,65428,Lane.bot_lane,Role.carry
+9,CloudNguyén,Brand,True,Side.red,5,4,3,2.0,101,Ignite,Flash,11,False,8433,8275,Doran's Ring,Refillable Potion,Control Ward,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,46665,10375,Lane.mid_lane,Role.solo

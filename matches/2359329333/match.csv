@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Brian Griffin,Poppy,True,Side.blue,6,1,6,12.0,129,Teleport,Flash,13,True,9292,7850,Corrupting Potion,Spectre's Cowl,Ninja Tabi,Warden's Mail,Sunfire Cape,Giant's Belt,23376,46247,Lane.top_lane,Role.solo
+1,camtheham,Vayne,True,Side.blue,6,2,4,5.0,130,Heal,Flash,12,False,9509,8475,Statikk Shiv,Infinity Edge,Doran's Blade,Cull,Berserker's Greaves,,2355,62414,Lane.bot_lane,Role.carry
+2,Suna Shogun Sama,Karma,True,Side.blue,0,3,14,4.666666666666667,14,Flash,Exhaust,11,False,6885,5500,Redemption,Eye of the Watchers,Boots of Mobility,,,,12607,5477,Lane.bot_lane,Role.support
+3,Asyc xD ,Vi,True,Side.blue,6,2,7,6.5,118,Smite,Flash,13,False,9549,8008,Enchantment: Warrior,Trinity Force,Ninja Tabi,Ruby Crystal,,,1535,105632,Lane.jungle,Role.none
+4,CraacK,Vel'Koz,True,Side.blue,7,2,3,5.0,159,Flash,Barrier,13,False,9720,8425,Boots of Speed,Zhonya's Hourglass,Needlessly Large Rod,Morellonomicon,Doran's Ring,Doran's Ring,64883,9469,Lane.mid_lane,Role.solo
+5,Rip Cig,Janna,False,Side.red,2,4,5,1.75,10,Flash,Exhaust,10,False,5696,5275,Control Ward,Sightstone,Redemption,Nomad's Medallion,Boots of Mobility,,4049,3417,Lane.bot_lane,Role.support
+6,l Spawn l,Ryze,False,Side.red,2,4,1,0.75,160,Flash,Ghost,12,False,7094,6085,Needlessly Large Rod,Refillable Potion,Tear of the Goddess,Amplifying Tome,Boots of Speed,Rod of Ages,71224,8177,Lane.mid_lane,Role.solo
+7,Feitan,Irelia,False,Side.red,0,7,1,0.14285714285714285,129,Teleport,Flash,11,False,6045,5058,Boots of Speed,Corrupting Potion,Control Ward,Trinity Force,Doran's Blade,,1162,43934,Lane.top_lane,Role.solo
+8,Below Zero,Twitch,False,Side.red,1,6,3,0.6666666666666666,99,Heal,Flash,10,False,5915,5575,Doran's Blade,Pickaxe,Zeal,B. F. Sword,Berserker's Greaves,Dagger,0,41489,Lane.bot_lane,Role.carry
+9,Yanni Tsunami,Zed,False,Side.red,5,4,1,1.5,121,Smite,Flash,12,False,7978,7950,Ninja Tabi,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Serrated Dirk,,6426,82856,Lane.jungle,Role.none

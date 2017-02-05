@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sekune,Hecarim,False,Side.blue,3,4,4,1.75,182,Smite,Ghost,14,False,10514,10108,Enchantment: Cinderhulk,Mercury's Treads,Trinity Force,Giant's Belt,Chain Vest,Null-Magic Mantle,21206,127817,Lane.jungle,Role.none
+1,Liquid fabbbyyy,Twitch,False,Side.blue,6,9,7,1.4444444444444444,201,Flash,Heal,14,False,11268,11125,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,Lord Dominik's Regards,,1467,110785,Lane.bot_lane,Role.carry
+2,ZTG SolidSnake,Gnar,False,Side.blue,2,7,5,1.0,237,Flash,Teleport,15,False,10467,9900,Doran's Blade,Frozen Mallet,The Black Cleaver,Mercury's Treads,Giant's Belt,Warden's Mail,17012,116976,Lane.top_lane,Role.solo
+3,Soulo Q,Nami,False,Side.blue,3,5,7,2.0,19,Exhaust,Flash,13,False,8557,7425,Redemption,Eye of the Watchers,Control Ward,Boots of Mobility,Forbidden Idol,Aether Wisp,4335,5286,Lane.bot_lane,Role.support
+4,KiteAzure,Akali,False,Side.blue,3,5,6,1.8,179,Flash,Ignite,15,False,10006,9850,Seeker's Armguard,Hextech Gunblade,Abyssal Scepter,Sorcerer's Shoes,Fiendish Codex,,31592,66755,Lane.mid_lane,Role.solo
+5,Malli,Nautilus,True,Side.red,5,0,7,12.0,201,Flash,Teleport,16,False,11916,9425,Corrupting Potion,Sunfire Cape,Mercury's Treads,Zz'Rot Portal,Warden's Mail,Giant's Belt,66896,31932,Lane.top_lane,Role.solo
+6,Kakeru,Viktor,True,Side.red,7,4,6,3.25,214,Flash,Heal,15,False,12280,11175,,,Zhonya's Hourglass,Rylai's Crystal Scepter,Perfect Hex Core,Ionian Boots of Lucidity,103428,17267,Lane.mid_lane,Role.solo
+7,HoNSol0,Shyvana,True,Side.red,5,2,9,7.0,208,Ghost,Smite,17,False,12871,12100,Enchantment: Cinderhulk,Thornmail,Randuin's Omen,Ninja Tabi,Dead Man's Plate,,143669,59174,Lane.jungle,Role.none
+8,Alicopter,Alistar,True,Side.red,4,5,20,4.8,32,Ignite,Flash,14,False,9983,7375,Redemption,,Crystalline Bracer,Boots of Mobility,Face of the Mountain,Sightstone,12669,8160,Lane.bot_lane,Role.support
+9,Based Stevens,Draven,True,Side.red,9,6,12,3.5,180,Heal,Flash,15,True,14436,14500,Blade of the Ruined King,Statikk Shiv,Infinity Edge,Lord Dominik's Regards,Doran's Blade,Berserker's Greaves,1300,135168,Lane.bot_lane,Role.carry

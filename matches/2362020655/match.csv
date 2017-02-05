@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Symbo,Nami,True,Side.blue,4,7,18,3.142857142857143,9,Exhaust,Flash,14,False,10486,10225,Eye of the Watchers,Redemption,Locket of the Iron Solari,Ardent Censer,Ionian Boots of Lucidity,Refillable Potion,13458,5172,Lane.bot_lane,Role.support
+1,절대충성꼬봉,Xerath,True,Side.blue,6,3,13,6.333333333333333,231,Ghost,Flash,16,True,13618,12350,Rylai's Crystal Scepter,Doran's Ring,Control Ward,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,166225,13708,Lane.mid_lane,Role.solo
+2,WatchThePower,Lee Sin,True,Side.blue,10,2,11,10.5,180,Flash,Smite,16,False,14369,13075,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Ninja Tabi,Dead Man's Plate,Randuin's Omen,30634,151860,Lane.jungle,Role.none
+3,Dyr0nejk2,Renekton,True,Side.blue,6,3,7,4.333333333333333,262,Ignite,Flash,17,False,14855,12850,Titanic Hydra,The Black Cleaver,Maw of Malmortius,Ninja Tabi,Warden's Mail,Ruby Crystal,6235,186990,Lane.top_lane,Role.solo
+4,rainflow,Ezreal,True,Side.blue,6,4,12,4.5,195,Flash,Heal,14,False,13271,11275,Muramana,Iceborn Gauntlet,Blade of the Ruined King,Doran's Blade,Last Whisper,Ionian Boots of Lucidity,19877,118798,Lane.bot_lane,Role.carry
+5,AZNDEVIL,Bard,False,Side.red,0,6,9,1.5,15,Ignite,Flash,13,False,8376,7575,Locket of the Iron Solari,Redemption,Ruby Sightstone,,Ionian Boots of Lucidity,Spellthief's Edge,14946,4328,Lane.jungle,Role.none
+6,keXar,Corki,False,Side.red,9,7,7,2.2857142857142856,168,Ignite,Flash,15,False,12072,11133,Essence Reaver,Trinity Force,Cloak of Agility,B. F. Sword,Sorcerer's Shoes,,109401,33438,Lane.mid_lane,Role.carry
+7,TheGodSent,Vi,False,Side.red,4,6,8,2.0,147,Flash,Smite,15,False,11411,10625,Enchantment: Warrior,Ninja Tabi,Randuin's Omen,The Black Cleaver,,,3154,142021,Lane.mid_lane,Role.support
+8,Frederick II,Caitlyn,False,Side.red,5,5,6,2.2,294,Flash,Heal,16,False,13644,13575,Quicksilver Sash,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Last Whisper,Rapid Firecannon,2742,194657,Lane.bot_lane,Role.solo
+9,Simon Hawkes,Nasus,False,Side.red,1,8,6,0.875,226,Teleport,Flash,15,False,11183,10135,Liandry's Torment,Sorcerer's Shoes,Luden's Echo,Doran's Ring,Giant's Belt,Amplifying Tome,102844,30458,Lane.top_lane,Role.solo

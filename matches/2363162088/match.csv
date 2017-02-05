@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Tank Man,Janna,False,Side.blue,0,1,0,0.0,0,Flash,Exhaust,2,False,732,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,49,253,Lane.bot_lane,Role.duo
+1,FourofDiamonds,Shaco,False,Side.blue,0,0,0,0.0,0,Smite,Ignite,1,False,648,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+2,Tai Draven,Draven,False,Side.blue,0,1,0,0.0,12,Flash,Heal,2,False,901,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,4255,Lane.bot_lane,Role.duo
+3,Natalia Dyer,Riven,False,Side.blue,0,1,0,0.0,4,Flash,Teleport,2,False,719,500,Doran's Shield,,,,,,0,1802,Lane.top_lane,Role.solo
+4,Bwas,Ryze,False,Side.blue,0,0,0,0.0,7,Flash,Ghost,3,False,782,500,Sapphire Crystal,Refillable Potion,,,,,1273,1022,Lane.mid_lane,Role.duo
+5,DrunkCatalyst,Viktor,True,Side.red,0,0,0,0.0,12,Flash,Ghost,3,False,873,500,,Doran's Ring,Prototype Hex Core,,,,1409,1264,Lane.mid_lane,Role.solo
+6,Alex Ich 1,Quinn,True,Side.red,1,0,0,1.0,11,Flash,Teleport,3,True,1249,500,Doran's Blade,Health Potion,,,,,149,2572,Lane.top_lane,Role.duo
+7,Wiggily,Lee Sin,True,Side.red,0,0,0,0.0,15,Flash,Smite,3,False,1004,500,Hunter's Machete,Refillable Potion,,,,,652,6416,Lane.top_lane,Role.duo
+8,Bes,Blitzcrank,True,Side.red,1,0,1,2.0,2,Ignite,Flash,2,False,1164,500,Relic Shield,,,,,,75,314,Lane.bot_lane,Role.duo
+9,FIoopie,Ashe,True,Side.red,1,0,1,2.0,10,Flash,Heal,2,False,1262,500,Doran's Blade,,,,,,9,2384,Lane.bot_lane,Role.duo

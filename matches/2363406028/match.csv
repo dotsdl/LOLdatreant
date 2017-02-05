@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,0 K A Y B O Y S,Nasus,True,Side.blue,2,2,7,4.5,181,Flash,Teleport,13,False,9488,7975,Corrupting Potion,Zz'Rot Portal,The Dark Seal,Iceborn Gauntlet,Doran's Ring,Ninja Tabi,61253,40689,Lane.top_lane,Role.solo
+1,Daddygoesdeep,Lee Sin,True,Side.blue,5,1,10,15.0,51,Flash,Smite,11,False,8026,7075,Ninja Tabi,Enchantment: Warrior,Giant's Belt,Phage,,Chain Vest,9595,49523,Lane.jungle,Role.none
+2,Get Good Le Bad,Kalista,True,Side.blue,12,2,3,7.5,172,Heal,Flash,12,False,10635,10250,Blade of the Ruined King,Vampiric Scepter,B. F. Sword,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,1153,92038,Lane.bot_lane,Role.carry
+3,BIack3,Twisted Fate,True,Side.blue,7,0,7,14.0,167,Flash,Ghost,13,True,10987,9035,Rabadon's Deathcap,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Aether Wisp,,94500,12039,Lane.mid_lane,Role.solo
+4,Mata dog,Thresh,True,Side.blue,1,0,14,15.0,19,Flash,Ignite,10,False,6389,5425,Face of the Mountain,Ruby Sightstone,Refillable Potion,Control Ward,Boots of Mobility,,8305,5898,Lane.bot_lane,Role.support
+5,Clarizio,Nami,False,Side.red,0,7,1,0.14285714285714285,8,Flash,Exhaust,9,False,4261,3675,Control Ward,Sightstone,Refillable Potion,Frostfang,Ionian Boots of Lucidity,Cloth Armor,4274,1853,Lane.bot_lane,Role.support
+6,ADC Prospect,Twitch,False,Side.red,0,3,2,0.6666666666666666,162,Heal,Flash,11,False,6473,5250,Doran's Blade,Pickaxe,B. F. Sword,Berserker's Greaves,Recurve Bow,Dagger,743,59423,Lane.bot_lane,Role.carry
+7,lc0nic,Rek'Sai,False,Side.red,2,5,2,0.8,125,Flash,Smite,11,False,6954,6700,Enchantment: Cinderhulk,Boots of Swiftness,Tiamat,Refillable Potion,Jaurim's Fist,Ruby Crystal,23201,70247,Lane.jungle,Role.none
+8,PieCakeLord,Jayce,False,Side.red,2,7,1,0.42857142857142855,149,Teleport,Flash,11,False,6698,6500,Refillable Potion,Youmuu's Ghostblade,Mercury's Treads,Doran's Blade,Doran's Blade,Phage,8919,64478,Lane.top_lane,Role.solo
+9,Dziarmaga,Viktor,False,Side.red,1,5,2,0.6,138,Flash,Ghost,11,False,6489,5860,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Control Ward,Amplifying Tome,Ruby Crystal,60322,8982,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Philolol,Thresh,True,Side.blue,2,4,16,4.5,4,Exhaust,Flash,11,False,7977,6375,Crystalline Bracer,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Redemption,Control Ward,Eye of the Oasis,7565,4411,Lane.bot_lane,Role.support
+1,Gweiss,Graves,True,Side.blue,7,3,15,7.333333333333333,181,Smite,Flash,15,False,12943,10500,Enchantment: Warrior,The Bloodthirster,Phantom Dancer,Ninja Tabi,Dagger,,4055,161525,Lane.jungle,Role.none
+2,Egregious King,Tryndamere,True,Side.blue,4,3,3,2.3333333333333335,173,Ignite,Flash,14,False,10123,9250,Infinity Edge,Bilgewater Cutlass,Berserker's Greaves,Rapid Firecannon,Dagger,,538,112728,Lane.top_lane,Role.solo
+3,D0NG0,LeBlanc,True,Side.blue,14,5,6,4.0,140,Ignite,Flash,14,True,12607,11825,Zhonya's Hourglass,Sorcerer's Shoes,Mejai's Soulstealer,Doran's Ring,Rylai's Crystal Scepter,Void Staff,88683,8918,Lane.mid_lane,Role.solo
+4,TQS Zuardian,Caitlyn,True,Side.blue,9,1,7,16.0,221,Heal,Flash,14,False,12797,10725,Refillable Potion,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Lord Dominik's Regards,Infinity Edge,306,166268,Lane.bot_lane,Role.carry
+5,LegitADC,Janna,False,Side.red,0,10,6,0.6,6,Exhaust,Flash,10,False,5854,5550,Eye of the Oasis,Boots of Mobility,Control Ward,Redemption,,Cloth Armor,3841,2145,Lane.bot_lane,Role.support
+6,FrozenNight,Poppy,False,Side.red,3,6,3,1.0,139,Flash,Teleport,13,False,8074,8050,Corrupting Potion,Ninja Tabi,Sunfire Cape,Frozen Heart,Ruby Crystal,Null-Magic Mantle,28411,53549,Lane.top_lane,Role.solo
+7,TwitchChunkylol,Kled,False,Side.red,3,4,4,1.75,138,Ignite,Flash,12,False,7988,7900,Ravenous Hydra,Ninja Tabi,,The Black Cleaver,,,0,64223,Lane.mid_lane,Role.solo
+8,YOUMADSIS,Lee Sin,False,Side.red,5,9,4,1.0,55,Smite,Flash,12,False,7761,7150,Refillable Potion,Tiamat,Mercury's Treads,Enchantment: Cinderhulk,Giant's Belt,Warden's Mail,15708,53593,Lane.jungle,Role.none
+9,NayvadiusWilburn,Corki,False,Side.red,5,7,4,1.2857142857142858,145,Flash,Heal,12,False,9034,8333,Doran's Blade,Bilgewater Cutlass,Cull,Trinity Force,Sorcerer's Shoes,Hextech Revolver,55414,18736,Lane.bot_lane,Role.carry

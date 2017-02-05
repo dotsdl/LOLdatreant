@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Celend,Miss Fortune,False,Side.blue,0,4,5,1.25,19,Flash,Exhaust,9,False,5409,4925,Refillable Potion,Control Ward,Eye of the Watchers,Boots of Swiftness,Phage,,15904,8386,Lane.bot_lane,Role.support
+1,Virus,Draven,False,Side.blue,3,7,0,0.42857142857142855,169,Heal,Flash,11,False,8066,7525,Doran's Blade,The Bloodthirster,Zeal,Berserker's Greaves,Pickaxe,,292,83598,Lane.bot_lane,Role.carry
+2,mandatorycloud,Viktor,False,Side.blue,2,3,1,1.0,181,Flash,Ghost,12,False,7345,6035,The Hex Core mk-2,Doran's Ring,Mercury's Treads,Ruby Crystal,Needlessly Large Rod,Amplifying Tome,77710,8225,Lane.mid_lane,Role.solo
+3,Fiku,Vi,False,Side.blue,2,6,0,0.3333333333333333,77,Flash,Smite,11,False,6497,5975,Enchantment: Warrior,Dagger,Boots of Speed,Phage,Sheen,Dagger,1483,85056,Lane.jungle,Role.none
+4,Whisper,Ahri,False,Side.blue,2,7,1,0.42857142857142855,140,Teleport,Flash,12,False,6972,6000,Doran's Ring,Total Biscuit of Rejuvenation,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Blasting Wand,34170,12042,Lane.top_lane,Role.solo
+5,Nëbu,Zac,True,Side.red,3,2,11,7.0,68,Flash,Smite,11,False,7527,7200,Enchantment: Cinderhulk,,Refillable Potion,Mercury's Treads,Cloth Armor,Spirit Visage,50394,16166,Lane.jungle,Role.none
+6,Turc,Ashe,True,Side.red,9,3,6,5.0,149,Heal,Flash,12,True,9764,8150,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,,Control Ward,936,72161,Lane.bot_lane,Role.carry
+7,BMGreenleaf,Brand,True,Side.red,3,3,13,5.333333333333333,21,Flash,Ignite,11,False,7410,6225,Eye of the Watchers,Refillable Potion,Sorcerer's Shoes,Giant's Belt,Needlessly Large Rod,,21075,7041,Lane.bot_lane,Role.support
+8,my bad team,Poppy,True,Side.red,5,1,4,9.0,160,Flash,Teleport,13,False,8719,8500,Sheen,Corrupting Potion,,Spirit Visage,Sunfire Cape,Mercury's Treads,22298,51790,Lane.top_lane,Role.solo
+9,Professor Melyn,Zyra,True,Side.red,7,0,7,14.0,142,Flash,Teleport,13,False,9153,8100,Doran's Ring,Sorcerer's Shoes,Void Staff,Liandry's Torment,,Doran's Ring,65643,10899,Lane.mid_lane,Role.solo

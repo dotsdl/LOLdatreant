@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,one trick hehexd,Orianna,True,Side.blue,12,4,7,4.75,136,Flash,Ghost,15,False,12081,10110,Mejai's Soulstealer,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,83982,16748,Lane.mid_lane,Role.solo
+1,BaIance,Nami,True,Side.blue,2,3,16,6.0,14,Exhaust,Flash,12,False,8233,7550,Ruby Sightstone,Redemption,Locket of the Iron Solari,Spellthief's Edge,Ionian Boots of Lucidity,,8593,3473,Lane.bot_lane,Role.support
+2,N810HO,Vayne,True,Side.blue,3,5,10,2.6,159,Flash,Heal,13,False,10385,9700,Infinity Edge,Statikk Shiv,Berserker's Greaves,Zeal,Dagger,Doran's Blade,24442,73113,Lane.bot_lane,Role.carry
+3,Rip Cig,Graves,True,Side.blue,10,1,7,17.0,210,Flash,Smite,17,True,15004,13875,Enchantment: Warrior,Null-Magic Mantle,Mercury's Treads,Statikk Shiv,Maw of Malmortius,The Bloodthirster,24960,184922,Lane.jungle,Role.none
+4,Entranced,Nasus,True,Side.blue,2,0,10,12.0,259,Teleport,Flash,16,False,12069,11633,Trinity Force,Zz'Rot Portal,Doran's Ring,Doran's Ring,Mercury's Treads,Spirit Visage,77552,46050,Lane.top_lane,Role.solo
+5,Grapermelon,Morgana,False,Side.red,2,5,2,0.8,193,Teleport,Flash,13,False,8562,8300,Ionian Boots of Lucidity,Seeker's Armguard,Doran's Ring,Rod of Ages,Morellonomicon,,82988,14848,Lane.top_lane,Role.solo
+6,retarded virgin,Kha'Zix,False,Side.red,3,10,1,0.4,134,Flash,Smite,14,False,8970,8650,Refillable Potion,Youmuu's Ghostblade,Tiamat,Ionian Boots of Lucidity,Enchantment: Warrior,Pickaxe,3925,128222,Lane.jungle,Role.none
+7,cokes,Karma,False,Side.red,3,1,3,6.0,161,Teleport,Flash,13,False,8726,8050,Athene's Unholy Grail,Sorcerer's Shoes,Doran's Ring,Void Staff,Doran's Ring,Aether Wisp,65878,15955,Lane.mid_lane,Role.solo
+8,Valkrin,Zyra,False,Side.red,1,6,6,1.1666666666666667,26,Flash,Ignite,12,False,7707,6435,Frostfang,Refillable Potion,Amplifying Tome,The Dark Seal,Sorcerer's Shoes,Liandry's Torment,49003,4341,Lane.bot_lane,Role.support
+9,Lil Cody,Kog'Maw,False,Side.red,4,7,1,0.7142857142857143,247,Heal,Flash,14,False,10317,9808,Blade of the Ruined King,Trinity Force,Doran's Blade,Berserker's Greaves,Dagger,Brawler's Gloves,50420,70738,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Firé,Graves,False,Side.blue,7,8,2,1.125,159,Smite,Flash,14,True,9942,9600,Phantom Dancer,Refillable Potion,,Berserker's Greaves,Enchantment: Warrior,The Black Cleaver,2726,117242,Lane.jungle,Role.none
+1,LegitADC,Malphite,False,Side.blue,4,4,3,1.75,162,Teleport,Flash,13,False,8444,7775,Corrupting Potion,Sunfire Cape,Ninja Tabi,Warden's Mail,Giant's Belt,Spectre's Cowl,45815,19040,Lane.top_lane,Role.solo
+2,Distasteful,Kog'Maw,False,Side.blue,3,4,7,2.5,194,Flash,Heal,13,False,9702,9833,Doran's Blade,Trinity Force,Blade of the Ruined King,Dagger,Berserker's Greaves,Dagger,45129,53642,Lane.bot_lane,Role.carry
+3,bvcx222,Malzahar,False,Side.blue,1,5,5,1.2,204,Flash,Ghost,14,False,9159,7850,,Rylai's Crystal Scepter,Morellonomicon,,Doran's Ring,Boots of Swiftness,80452,23598,Lane.mid_lane,Role.solo
+4,Empress Bee,Janna,False,Side.blue,0,4,8,2.0,10,Exhaust,Flash,12,False,6504,6125,Frostfang,Sightstone,Boots of Mobility,Ardent Censer,Control Ward,Null-Magic Mantle,4385,6347,Lane.bot_lane,Role.support
+5,Sawyerr,Leona,True,Side.red,2,3,10,4.0,43,Ignite,Flash,13,False,9157,7800,Boots of Mobility,Knight's Vow,,Glacial Shroud,Face of the Mountain,Sightstone,9360,10251,Lane.bot_lane,Role.support
+6,Pht,Kha'Zix,True,Side.red,7,1,8,15.0,166,Smite,Flash,17,False,13725,12525,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,Mortal Reminder,Duskblade of Draktharr,,5401,221099,Lane.jungle,Role.none
+7,i love eunha,Illaoi,True,Side.red,3,3,2,1.6666666666666667,263,Flash,Teleport,17,False,13367,12950,The Black Cleaver,Corrupting Potion,Quicksilver Sash,Spirit Visage,Death's Dance,Ninja Tabi,8419,204842,Lane.top_lane,Role.solo
+8,Sebi,Orianna,True,Side.red,8,4,5,3.25,225,Flash,Ghost,15,False,13669,11575,Doran's Ring,Morellonomicon,Zhonya's Hourglass,Sorcerer's Shoes,Rabadon's Deathcap,,126833,16233,Lane.mid_lane,Role.solo
+9,LegendaryLime,Caitlyn,True,Side.red,5,4,6,2.75,181,Flash,Heal,13,False,11940,10900,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,Runaan's Hurricane,Long Sword,6751,108052,Lane.bot_lane,Role.carry

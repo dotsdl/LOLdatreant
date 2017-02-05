@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Oldthebest,Ezreal,True,Side.blue,9,4,9,4.5,234,Flash,Heal,16,False,15140,14408,Quicksilver Sash,Bilgewater Cutlass,Ionian Boots of Lucidity,Mortal Reminder,Muramana,Trinity Force,17569,165657,Lane.bot_lane,Role.carry
+1,bu xiang fangqi,Karma,True,Side.blue,2,4,15,4.25,43,Flash,Exhaust,14,False,11474,9775,Frost Queen's Claim,Crystalline Bracer,Ruby Sightstone,Forbidden Idol,Morellonomicon,Sorcerer's Shoes,47787,9987,Lane.bot_lane,Role.support
+2,Poppys Hammer,Poppy,True,Side.blue,3,0,9,12.0,151,Flash,Teleport,15,False,11971,11000,Locket of the Iron Solari,Spirit Visage,Mercury's Treads,Sunfire Cape,Cloth Armor,Sheen,32814,67143,Lane.top_lane,Role.solo
+3,1IOrz,Yasuo,True,Side.blue,5,7,8,1.8571428571428572,230,Exhaust,Flash,16,False,13290,12600,Infinity Edge,Mercury's Treads,Banshee's Veil,Phantom Dancer,Recurve Bow,Vampiric Scepter,36860,127232,Lane.mid_lane,Role.solo
+4,dopas doge ,Shyvana,True,Side.blue,9,5,7,3.2,205,Smite,Exhaust,17,False,15209,13870,Titanic Hydra,Blade of the Ruined King,Randuin's Omen,Enchantment: Bloodrazor,Mercury's Treads,Refillable Potion,85522,142094,Lane.jungle,Role.none
+5,NEACE  Eeeee,Lux,False,Side.red,3,5,11,2.8,216,Flash,Ghost,16,False,10757,10685,Morellonomicon,Luden's Echo,Amplifying Tome,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,141031,15002,Lane.mid_lane,Role.solo
+6,Hanjaro,Soraka,False,Side.red,1,8,12,1.625,14,Flash,Exhaust,13,False,7737,7125,Sightstone,Redemption,,Frost Queen's Claim,Forbidden Idol,Ionian Boots of Lucidity,14208,1828,Lane.bot_lane,Role.support
+7,HARUHI S3 PLS,Lee Sin,False,Side.red,8,8,7,1.875,182,Smite,Flash,15,True,12095,11225,Randuin's Omen,Enchantment: Warrior,Tiamat,Dead Man's Plate,Ninja Tabi,Long Sword,36333,109208,Lane.jungle,Role.none
+8,CHEEZY DIAPER,Nautilus,False,Side.red,5,3,10,5.0,176,Teleport,Flash,15,False,10335,9800,Redemption,Corrupting Potion,Knight's Vow,Ninja Tabi,Sunfire Cape,Kindlegem,87320,19913,Lane.top_lane,Role.solo
+9,Kammgefahr,Jhin,False,Side.red,3,4,5,2.0,225,Heal,Flash,14,False,10980,10500,Total Biscuit of Rejuvenation,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Rapid Firecannon,Lord Dominik's Regards,5000,134263,Lane.bot_lane,Role.carry

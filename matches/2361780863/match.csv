@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,godrjsdnd,Corki,True,Side.blue,7,6,9,2.6666666666666665,224,Heal,Flash,16,False,14284,13383,Doran's Blade,Hextech Gunblade,The Bloodthirster,Trinity Force,Sorcerer's Shoes,Long Sword,113733,40439,Lane.mid_lane,Role.solo
+1,TheOddOrange,Lee Sin,True,Side.blue,8,9,8,1.7777777777777777,161,Flash,Smite,16,False,13799,12300,Titanic Hydra,Enchantment: Warrior,Maw of Malmortius,Ionian Boots of Lucidity,Chain Vest,Giant's Belt,23574,121668,Lane.jungle,Role.none
+2,Erry,Jinx,True,Side.blue,5,3,7,4.0,300,Heal,Flash,16,False,14634,12950,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Vampiric Scepter,Infinity Edge,B. F. Sword,3766,202028,Lane.bot_lane,Role.carry
+3,Teesum,Karma,True,Side.blue,1,3,10,3.6666666666666665,15,Exhaust,Flash,13,False,9019,7800,Redemption,Ruby Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Spellthief's Edge,Control Ward,13115,4508,Lane.bot_lane,Role.support
+4,AsianSGpøtatø,Yasuo,True,Side.blue,5,5,4,1.8,223,Flash,Exhaust,16,False,13277,11600,Doran's Shield,Sunfire Cape,B. F. Sword,Ninja Tabi,Phantom Dancer,Frozen Mallet,60629,83473,Lane.top_lane,Role.solo
+5,Str1fe,Orianna,False,Side.red,3,5,6,1.8,189,Flash,Ghost,14,False,10472,9610,Doran's Ring,Rylai's Crystal Scepter,Blasting Wand,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,106835,14547,Lane.mid_lane,Role.solo
+6,retarded virgin,Graves,False,Side.red,6,6,5,1.8333333333333333,160,Flash,Smite,15,True,11407,11275,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,The Black Cleaver,The Bloodthirster,Null-Magic Mantle,3199,143765,Lane.jungle,Role.none
+7,cokes,Jhin,False,Side.red,3,5,8,2.2,211,Heal,Flash,14,False,10943,10725,Rapid Firecannon,Essence Reaver,Ionian Boots of Lucidity,B. F. Sword,Doran's Blade,,2745,114196,Lane.bot_lane,Role.carry
+8,Rokí,Riven,False,Side.red,5,5,6,2.2,231,Flash,Teleport,16,False,11625,11500,Ravenous Hydra,Death's Dance,,Ninja Tabi,The Black Cleaver,,0,144502,Lane.top_lane,Role.solo
+9,never lucky help,Brand,False,Side.red,9,5,7,3.2,33,Ignite,Flash,13,False,10174,9600,Rylai's Crystal Scepter,Eye of the Watchers,Blasting Wand,Sorcerer's Shoes,,Haunting Guise,38312,3989,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yuki Asuna,Janna,False,Side.blue,0,2,0,0.0,7,Exhaust,Flash,9,False,3986,3750,Frostfang,Total Biscuit of Rejuvenation,Sightstone,Control Ward,Boots of Mobility,Crystalline Bracer,2110,4668,Lane.bot_lane,Role.support
+1,Chance,Ekko,False,Side.blue,2,5,0,0.4,123,Flash,Ignite,11,False,5985,5500,Corrupting Potion,The Dark Seal,Rod of Ages,Sorcerer's Shoes,Blasting Wand,,47129,11849,Lane.mid_lane,Role.solo
+2,naruto kun88,Graves,False,Side.blue,1,4,1,0.5,107,Smite,Flash,11,False,6236,5625,Enchantment: Warrior,Berserker's Greaves,Zeal,,Refillable Potion,Dagger,2591,80212,Lane.jungle,Role.none
+3,Qing Tian,Ashe,False,Side.blue,1,0,0,1.0,177,Flash,Heal,11,False,6778,6750,Refillable Potion,B. F. Sword,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Caulfield's Warhammer,354,76427,Lane.bot_lane,Role.carry
+4,Curious Gengar,Yasuo,False,Side.blue,0,9,1,0.1111111111111111,131,Flash,Exhaust,11,False,5960,5225,Phantom Dancer,Doran's Blade,Ninja Tabi,Kircheis Shard,,,19689,49370,Lane.top_lane,Role.solo
+5,Frozon,Ahri,True,Side.red,3,2,3,3.0,140,Flash,Ignite,12,False,8090,7850,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Morellonomicon,,,42001,11770,Lane.mid_lane,Role.solo
+6,Źyra,Lulu,True,Side.red,0,0,8,8.0,6,Flash,Exhaust,10,False,5791,5725,Eye of the Watchers,Redemption,,,Boots of Mobility,,10356,5748,Lane.bot_lane,Role.support
+7,Sanctus,Jayce,True,Side.red,12,1,2,14.0,159,Flash,Teleport,14,True,10656,10025,The Black Cleaver,Youmuu's Ghostblade,,Ionian Boots of Lucidity,Vampiric Scepter,B. F. Sword,14410,93523,Lane.top_lane,Role.solo
+8,KT Score,Ivern,True,Side.red,3,0,9,12.0,69,Smite,Flash,12,False,7991,7725,Refillable Potion,Skirmisher's Sabre,Redemption,Mejai's Soulstealer,Athene's Unholy Grail,Ionian Boots of Lucidity,9533,5100,Lane.jungle,Role.none
+9,Theet,Sivir,True,Side.red,1,1,4,5.0,176,Flash,Heal,11,False,7946,7800,Berserker's Greaves,Essence Reaver,Phantom Dancer,Doran's Blade,,,597,90517,Lane.bot_lane,Role.carry

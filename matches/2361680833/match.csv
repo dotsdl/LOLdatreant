@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hello I am Dust,Nidalee,False,Side.blue,3,6,2,0.8333333333333334,113,Smite,Flash,12,False,7490,7250,Enchantment: Runic Echoes,Refillable Potion,Rod of Ages,Mercury's Treads,Null-Magic Mantle,,67149,15935,Lane.jungle,Role.none
+1,Sawyerr,Leona,False,Side.blue,1,2,7,4.0,33,Exhaust,Flash,11,False,5967,5695,Ruby Crystal,Boots of Mobility,,Negatron Cloak,Face of the Mountain,Sightstone,10618,7601,Lane.bot_lane,Role.support
+2,STM Mark,Vel'Koz,False,Side.blue,3,5,2,1.0,182,Flash,Barrier,13,False,8200,8060,Doran's Ring,Amplifying Tome,Ionian Boots of Lucidity,Luden's Echo,Morellonomicon,,74660,5617,Lane.mid_lane,Role.solo
+3,xFSN Saber,Twitch,False,Side.blue,3,4,3,1.5,150,Heal,Flash,11,False,7885,7850,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,2292,55710,Lane.bot_lane,Role.carry
+4,No Speak Inglish,Ekko,False,Side.blue,3,8,1,0.5,144,Teleport,Flash,12,False,7899,6545,Corrupting Potion,Ionian Boots of Lucidity,Fiendish Codex,Hextech Protobelt-01,Doran's Ring,Negatron Cloak,85063,13416,Lane.top_lane,Role.solo
+5,Pond,Vayne,True,Side.red,4,2,3,3.5,149,Heal,Flash,12,False,8862,7000,B. F. Sword,Berserker's Greaves,Statikk Shiv,Doran's Blade,Pickaxe,Brawler's Gloves,11568,56193,Lane.bot_lane,Role.carry
+6,Feitan,Elise,True,Side.red,10,3,4,4.666666666666667,111,Smite,Flash,13,False,10599,7860,Boots of Mobility,Refillable Potion,Hextech Protobelt-01,Enchantment: Runic Echoes,Amplifying Tome,Needlessly Large Rod,93890,28915,Lane.jungle,Role.none
+7,bolo,Lulu,True,Side.red,1,3,8,3.0,5,Exhaust,Flash,10,False,6650,5450,Eye of the Watchers,Boots of Mobility,Redemption,,,,7723,3351,Lane.bot_lane,Role.support
+8,New Experience,Shaco,True,Side.red,8,5,4,2.4,178,Flash,Teleport,14,True,10465,9320,Corrupting Potion,Fiendish Codex,Hextech Protobelt-01,Lich Bane,Ionian Boots of Lucidity,The Dark Seal,64380,30053,Lane.top_lane,Role.solo
+9,Repfix,Vladimir,True,Side.red,2,0,1,3.0,198,Ghost,Flash,14,False,8925,6675,Ionian Boots of Lucidity,Hextech Protobelt-01,,Spirit Visage,,,91387,18421,Lane.mid_lane,Role.solo

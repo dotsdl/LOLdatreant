@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Grigne,Elise,False,Side.blue,3,2,2,2.5,119,Flash,Smite,12,False,7598,7450,Enchantment: Runic Echoes,Boots of Mobility,Refillable Potion,Rylai's Crystal Scepter,The Dark Seal,,67232,25811,Lane.jungle,Role.none
+1,Riesig,Darius,False,Side.blue,3,3,3,2.0,200,Flash,Teleport,13,False,8917,8825,Dead Man's Plate,Spectre's Cowl,The Black Cleaver,Boots of Swiftness,,Doran's Blade,0,99941,Lane.top_lane,Role.solo
+2,CloudNguyén,Brand,False,Side.blue,5,8,2,0.875,19,Exhaust,Flash,10,False,6384,6100,Sightstone,Frost Queen's Claim,Control Ward,Refillable Potion,Sorcerer's Shoes,Needlessly Large Rod,19959,3704,Lane.bot_lane,Role.support
+3,Peridot,Vel'Koz,False,Side.blue,2,5,2,0.8,140,Barrier,Flash,12,False,6958,5925,Doran's Ring,Hextech GLP-800,Refillable Potion,Doran's Ring,Ionian Boots of Lucidity,Fiendish Codex,52399,10363,Lane.mid_lane,Role.solo
+4,MongolWarrior,Caitlyn,False,Side.blue,0,8,5,0.625,148,Heal,Flash,11,False,6956,6575,Doran's Blade,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Pickaxe,,273,61985,Lane.bot_lane,Role.carry
+5,Liquid fabbbyyy,Twitch,True,Side.red,7,3,6,4.333333333333333,147,Flash,Heal,12,False,10254,10000,Runaan's Hurricane,Cull,Doran's Blade,Berserker's Greaves,Infinity Edge,Null-Magic Mantle,0,72818,Lane.bot_lane,Role.carry
+6,C9 Smoothie,Bard,True,Side.red,1,2,16,8.5,9,Flash,Exhaust,12,False,7083,4825,,Eye of the Watchers,Aegis of the Legion,,Boots of Mobility,,10425,6896,Lane.bot_lane,Role.support
+7,NiMura,Ekko,True,Side.red,4,2,3,3.5,173,Flash,Teleport,14,False,8935,7500,The Dark Seal,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Sheen,86958,14366,Lane.mid_lane,Role.solo
+8,Naeun,Nidalee,True,Side.red,12,1,1,13.0,113,Smite,Flash,14,True,10839,6850,Refillable Potion,Enchantment: Runic Echoes,,Abyssal Scepter,Mercury's Treads,,114474,20287,Lane.jungle,Role.none
+9,my bad team,Nasus,True,Side.red,2,5,5,1.4,140,Flash,Teleport,13,False,8302,7700,Zz'Rot Portal,Corrupting Potion,Sheen,Doran's Ring,Phage,Mercury's Treads,46019,15206,Lane.top_lane,Role.solo

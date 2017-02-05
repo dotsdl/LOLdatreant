@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IIlIlIlIlIlI,Syndra,True,Side.blue,10,3,10,6.666666666666667,130,Flash,Ignite,13,False,10055,8335,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,,69894,9515,Lane.mid_lane,Role.solo
+1,NeverQuitting,Sion,True,Side.blue,3,1,19,22.0,74,Flash,Exhaust,12,False,8700,7375,Face of the Mountain,Refillable Potion,Redemption,Ruby Sightstone,Ninja Tabi,,8914,38098,Lane.bot_lane,Role.duo
+2,Boars Head Ham ,Kog'Maw,True,Side.blue,9,3,6,5.0,146,Heal,Flash,13,False,11049,8850,Doran's Blade,Cull,Essence Reaver,Runaan's Hurricane,Zeal,Boots of Speed,21360,72270,Lane.bot_lane,Role.duo
+3,Sud83,Kha'Zix,True,Side.blue,7,2,6,6.5,116,Smite,Flash,13,False,9763,8125,Refillable Potion,Youmuu's Ghostblade,Tiamat,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,3772,107061,Lane.jungle,Role.none
+4,DoubleArts,Lulu,True,Side.blue,6,4,11,4.25,122,Exhaust,Flash,13,False,9035,8035,Doran's Ring,Zhonya's Hourglass,Tear of the Goddess,Boots of Speed,Morellonomicon,Amplifying Tome,51684,14407,Lane.top_lane,Role.solo
+5,Y8Y,Janna,False,Side.red,1,9,4,0.5555555555555556,6,Flash,Exhaust,9,False,5125,4525,Sightstone,,Forbidden Idol,Nomad's Medallion,Ionian Boots of Lucidity,Crystalline Bracer,6274,1759,Lane.bot_lane,Role.support
+6,c00lfire,Yasuo,False,Side.red,3,8,2,0.625,125,Flash,Teleport,11,False,7182,6850,Doran's Blade,Phantom Dancer,Refillable Potion,Infinity Edge,,,9785,67464,Lane.top_lane,Role.solo
+7,TheHiddenMist,Lee Sin,False,Side.red,5,4,2,1.75,85,Flash,Smite,11,True,7554,6625,Hexdrinker,Refillable Potion,Giant's Belt,Enchantment: Warrior,Cloth Armor,Mercury's Treads,12443,61952,Lane.jungle,Role.none
+8,Violent Magician,Galio,False,Side.red,3,7,1,0.5714285714285714,140,Flash,Teleport,12,False,7239,6650,Athene's Unholy Grail,Tear of the Goddess,Hextech Protobelt-01,Mercury's Treads,,,70521,7596,Lane.mid_lane,Role.solo
+9,Ambrose K,Jhin,False,Side.red,1,7,2,0.42857142857142855,122,Flash,Heal,10,False,6956,5655,Doran's Blade,Infinity Edge,Control Ward,,Cull,Boots of Swiftness,5553,55892,Lane.bot_lane,Role.carry

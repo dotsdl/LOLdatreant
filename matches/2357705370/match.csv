@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Meteos,Elise,False,Side.blue,3,5,4,1.4,97,Smite,Flash,12,False,7991,7025,Enchantment: Runic Echoes,Boots of Mobility,Refillable Potion,Rylai's Crystal Scepter,,,70054,29105,Lane.jungle,Role.none
+1,Dhokla,Jayce,False,Side.blue,3,4,3,1.5,170,Flash,Teleport,13,False,8353,7375,Maw of Malmortius,Refillable Potion,,Doran's Blade,The Black Cleaver,Boots of Speed,13577,80617,Lane.top_lane,Role.solo
+2,cute pupper irl,Vayne,False,Side.blue,4,6,4,1.3333333333333333,125,Flash,Heal,11,False,7786,6475,Doran's Blade,B. F. Sword,Berserker's Greaves,Statikk Shiv,Pickaxe,,15626,48778,Lane.bot_lane,Role.carry
+3,Winter is back,Syndra,False,Side.blue,3,4,4,1.75,144,Flash,Ignite,12,False,7648,7560,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Giant's Belt,Amplifying Tome,57282,8765,Lane.mid_lane,Role.solo
+4,Liquid Painless,Lulu,False,Side.blue,2,5,6,1.6,18,Flash,Ignite,9,True,6319,5500,Aegis of the Legion,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Control Ward,Null-Magic Mantle,7033,3571,Lane.bot_lane,Role.support
+5,Vchee,Rumble,True,Side.red,5,3,4,3.0,163,Teleport,Flash,14,False,9704,8250,Doran's Shield,Liandry's Torment,Sorcerer's Shoes,Zhonya's Hourglass,Ruby Crystal,Refillable Potion,70277,10001,Lane.top_lane,Role.solo
+6,FZ3R0,Ezreal,True,Side.red,4,2,12,8.0,179,Flash,Heal,13,False,10416,9083,Muramana,Trinity Force,Vampiric Scepter,Long Sword,Ionian Boots of Lucidity,Doran's Blade,14444,86195,Lane.bot_lane,Role.carry
+7,Stiches,Leona,True,Side.red,3,7,6,1.2857142857142858,33,Ignite,Flash,10,False,7304,7075,Eye of the Equinox,Warden's Mail,Kindlegem,Glacial Shroud,Ionian Boots of Lucidity,Forbidden Idol,6821,5248,Lane.bot_lane,Role.support
+8,Link,Corki,True,Side.red,7,1,6,13.0,176,Flash,Exhaust,15,False,11098,11053,Hextech Gunblade,Negatron Cloak,Sorcerer's Shoes,Hexdrinker,Trinity Force,Doran's Blade,76111,28585,Lane.mid_lane,Role.solo
+9,1936 1948,Shaco,True,Side.red,5,3,10,5.0,114,Smite,Ignite,14,False,9891,8200,Tiamat,Enchantment: Warrior,Vampiric Scepter,Boots of Mobility,B. F. Sword,Hextech Revolver,23580,95351,Lane.jungle,Role.none

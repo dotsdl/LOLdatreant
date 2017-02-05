@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TeddyRO,Yorick,True,Side.blue,4,3,5,3.0,156,Flash,Teleport,13,False,9141,8133,Corrupting Potion,Trinity Force,Mercury's Treads,Spirit Visage,,,13680,90531,Lane.top_lane,Role.solo
+1,Liquid fabbbyyy,Vayne,True,Side.blue,6,3,6,4.0,155,Flash,Heal,12,False,9890,8475,Infinity Edge,Statikk Shiv,Berserker's Greaves,Doran's Blade,Cull,,7658,67894,Lane.bot_lane,Role.carry
+2,Japanese Import,Zac,True,Side.blue,6,1,11,17.0,113,Smite,Flash,12,True,9225,7425,Mercury's Treads,Enchantment: Cinderhulk,Refillable Potion,Abyssal Scepter,Kindlegem,,72832,19969,Lane.jungle,Role.none
+3,Katlife,Katarina,True,Side.blue,15,2,5,10.0,134,Flash,Ignite,13,False,10929,10425,The Dark Seal,Control Ward,Sorcerer's Shoes,Banshee's Veil,Abyssal Scepter,Rylai's Crystal Scepter,66469,11398,Lane.mid_lane,Role.solo
+4,Melo,Lulu,True,Side.blue,2,3,14,5.333333333333333,5,Exhaust,Flash,10,False,7152,6700,Ionian Boots of Lucidity,Sightstone,Redemption,Frostfang,Chalice of Harmony,Forbidden Idol,4987,4548,Lane.bot_lane,Role.support
+5,D0NG0,Fizz,False,Side.red,5,8,1,0.75,98,Ignite,Flash,10,False,6791,8925,Statikk Shiv,B. F. Sword,Cloak of Agility,Boots of Speed,,,26223,18033,Lane.mid_lane,Role.solo
+6,Fiku,Blitzcrank,False,Side.red,2,7,5,1.0,21,Flash,Ignite,8,False,5405,5225,Forbidden Idol,Eye of the Equinox,Crystalline Bracer,Boots of Mobility,Cull,,6478,6191,Lane.bot_lane,Role.support
+7,Dardøch,Ivern,False,Side.red,2,7,5,1.0,56,Smite,Flash,10,False,6528,6000,Skirmisher's Sabre,Ruby Crystal,Forbidden Idol,Boots of Mobility,The Dark Seal,Athene's Unholy Grail,8130,3128,Lane.jungle,Role.none
+8,Danman96,Ezreal,False,Side.red,2,7,3,0.7142857142857143,106,Flash,Heal,10,False,6519,5475,Doran's Blade,Manamune,Ionian Boots of Lucidity,Sheen,Long Sword,,4695,39205,Lane.bot_lane,Role.carry
+9,Captain Nuke,Singed,False,Side.red,1,4,3,1.0,162,Ghost,Teleport,13,False,8125,7675,Corrupting Potion,Boots of Speed,Rylai's Crystal Scepter,Righteous Glory,Cloth Armor,Doran's Shield,100585,6523,Lane.top_lane,Role.solo

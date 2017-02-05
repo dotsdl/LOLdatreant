@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ixodez,Vladimir,True,Side.blue,8,1,9,17.0,261,Ghost,Flash,16,False,14354,13375,Rabadon's Deathcap,Refillable Potion,Hextech Protobelt-01,Spirit Visage,Ionian Boots of Lucidity,Void Staff,150864,22546,Lane.mid_lane,Role.solo
+1,Anthøny,Kha'Zix,True,Side.blue,21,5,5,5.2,122,Smite,Flash,16,False,14797,13350,The Black Cleaver,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Duskblade of Draktharr,Long Sword,5213,147641,Lane.jungle,Role.none
+2,zhongyan2013,Malphite,True,Side.blue,2,0,12,14.0,118,Flash,Teleport,14,True,9284,8175,Bami's Cinder,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Guardian Angel,Cloth Armor,41777,17423,Lane.top_lane,Role.solo
+3,Saul864,Caitlyn,True,Side.blue,4,5,8,2.4,185,Flash,Heal,14,False,10746,8375,Doran's Blade,Runaan's Hurricane,Infinity Edge,,Berserker's Greaves,,683,130294,Lane.bot_lane,Role.carry
+4,bobbykoikoi,Janna,True,Side.blue,1,0,12,13.0,21,Exhaust,Flash,13,False,8911,7575,Talisman of Ascension,Sightstone,Redemption,,Ninja Tabi,Forbidden Idol,9733,5010,Lane.bot_lane,Role.support
+5,Ambitionz,Katarina,False,Side.red,3,7,0,0.42857142857142855,88,Ignite,Flash,10,False,7348,5000,Sorcerer's Shoes,Hextech Gunblade,,Refillable Potion,Control Ward,,37285,6620,Lane.mid_lane,Role.solo
+6,Allen Huynh,Vayne,False,Side.red,4,5,2,1.2,184,Heal,Flash,13,False,9736,9200,Infinity Edge,Statikk Shiv,Berserker's Greaves,Pickaxe,Doran's Blade,,16233,82060,Lane.bot_lane,Role.carry
+7,WhiteAphromoo69,Thresh,False,Side.red,1,6,5,1.0,47,Flash,Ignite,12,False,7495,6775,Face of the Mountain,Ionian Boots of Lucidity,Ruby Sightstone,Glacial Shroud,Control Ward,Crystalline Bracer,16208,7440,Lane.bot_lane,Role.support
+8,FML SNORLAX,Graves,False,Side.red,1,11,5,0.5454545454545454,136,Flash,Smite,13,False,9089,8850,Enchantment: Warrior,Zeal,Berserker's Greaves,Control Ward,Maw of Malmortius,Long Sword,4113,102851,Lane.jungle,Role.none
+9,Diskourai,Illaoi,False,Side.red,2,7,0,0.2857142857142857,186,Teleport,Flash,14,False,9286,8725,Doran's Blade,The Black Cleaver,Mercury's Treads,Sterak's Gage,Spectre's Cowl,Control Ward,1586,135607,Lane.top_lane,Role.solo

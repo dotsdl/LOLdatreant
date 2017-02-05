@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nhock,Rumble,True,Side.blue,7,1,10,17.0,106,Smite,Flash,12,False,9426,9050,Hextech Protobelt-01,Refillable Potion,Mercury's Treads,Enchantment: Runic Echoes,Blasting Wand,Haunting Guise,77922,19279,Lane.jungle,Role.none
+1,Cris,Jayce,True,Side.blue,6,4,4,2.5,160,Flash,Teleport,13,True,10305,9150,Refillable Potion,Last Whisper,,Manamune,The Black Cleaver,Mercury's Treads,19571,99887,Lane.top_lane,Role.solo
+2,BabièThug,Zed,True,Side.blue,7,3,5,4.0,103,Flash,Ignite,12,False,8651,6900,Hexdrinker,Refillable Potion,Caulfield's Warhammer,Boots of Swiftness,Duskblade of Draktharr,,2768,55039,Lane.mid_lane,Role.solo
+3,UndefeatedOne,Blitzcrank,True,Side.blue,1,3,12,4.333333333333333,42,Exhaust,Flash,11,False,6852,4525,Face of the Mountain,Boots of Mobility,Sightstone,Ruby Crystal,,,7890,8170,Lane.bot_lane,Role.support
+4,OUT DO YA,Lucian,True,Side.blue,8,2,6,7.0,154,Flash,Heal,12,False,9822,7058,Bilgewater Cutlass,Trinity Force,Berserker's Greaves,,Doran's Blade,,1236,78930,Lane.bot_lane,Role.carry
+5,Témpest,LeBlanc,False,Side.red,2,6,5,1.1666666666666667,97,Flash,Ignite,11,False,5996,5350,Lost Chapter,Doran's Ring,Seeker's Armguard,Doran's Ring,Sorcerer's Shoes,Fiendish Codex,27633,11887,Lane.mid_lane,Role.solo
+6,Vìncent,Twitch,False,Side.red,3,7,2,0.7142857142857143,116,Heal,Flash,10,False,6372,5725,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,,,0,40731,Lane.bot_lane,Role.carry
+7,Winter is back,Morgana,False,Side.red,4,1,5,9.0,11,Flash,Exhaust,10,False,6149,5950,,Ionian Boots of Lucidity,Control Ward,Eye of the Watchers,,Redemption,13153,3945,Lane.bot_lane,Role.support
+8,Pocket Rhino,Rammus,False,Side.red,2,6,5,1.1666666666666667,62,Flash,Smite,10,False,5559,5250,Boots of Mobility,Enchantment: Cinderhulk,Aegis of the Legion,Ruby Crystal,,,21785,18892,Lane.jungle,Role.none
+9,Sebi,Irelia,False,Side.red,2,9,1,0.3333333333333333,132,Flash,Teleport,10,False,6288,5758,Corrupting Potion,Trinity Force,Long Sword,Ninja Tabi,,,3995,45748,Lane.top_lane,Role.solo

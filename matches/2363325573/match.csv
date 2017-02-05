@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Happo,Kog'Maw,True,Side.blue,9,4,13,5.5,147,Flash,Heal,15,False,11300,9035,Doran's Ring,Tear of the Goddess,Sorcerer's Shoes,Luden's Echo,Morellonomicon,Amplifying Tome,97415,17916,Lane.bot_lane,Role.carry
+1,ONLYPLAYKALISTA,Nautilus,True,Side.blue,8,1,7,15.0,165,Teleport,Flash,15,False,11084,10050,Corrupting Potion,Sunfire Cape,Spirit Visage,Thornmail,Ruby Crystal,Ninja Tabi,65119,22663,Lane.top_lane,Role.solo
+2,TwistyJuker,Lee Sin,True,Side.blue,11,3,12,7.666666666666667,147,Flash,Smite,15,False,12512,9325,Tiamat,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Dead Man's Plate,Jaurim's Fist,25997,124754,Lane.jungle,Role.none
+3,SoJay,Twisted Fate,True,Side.blue,4,3,16,6.666666666666667,170,Exhaust,Flash,15,False,11999,10008,Doran's Blade,Zeal,Boots of Swiftness,Statikk Shiv,Trinity Force,Kircheis Shard,69811,52726,Lane.mid_lane,Role.solo
+4,Azed,Nami,True,Side.blue,6,3,20,8.666666666666666,9,Flash,Exhaust,13,True,9980,8000,Frost Queen's Claim,Redemption,Sightstone,Null-Magic Mantle,Ionian Boots of Lucidity,Aegis of the Legion,6701,7701,Lane.bot_lane,Role.support
+5,kàylè,Kayle,False,Side.red,2,8,4,0.75,179,Cleanse,Flash,13,False,8810,8525,Guinsoo's Rageblade,Total Biscuit of Rejuvenation,Control Ward,Ionian Boots of Lucidity,Nashor's Tooth,,63316,34650,Lane.mid_lane,Role.solo
+6,Tricycle,Twitch,False,Side.red,2,8,3,0.625,147,Heal,Flash,11,False,8041,7900,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,,,0,67350,Lane.bot_lane,Role.carry
+7,Acerola LAN,Shyvana,False,Side.red,7,7,2,1.2857142857142858,176,Smite,Ghost,14,False,11533,11375,Enchantment: Cinderhulk,Titanic Hydra,The Black Cleaver,Ninja Tabi,Vampiric Scepter,,82746,64725,Lane.jungle,Role.none
+8,W Yuè,Karma,False,Side.red,0,10,4,0.4,15,Flash,Exhaust,10,False,6442,6250,Eye of the Watchers,Redemption,Cloth Armor,Ionian Boots of Lucidity,,,12970,3640,Lane.bot_lane,Role.support
+9,SwordofAL F,Jayce,False,Side.red,3,5,1,0.8,180,Teleport,Flash,14,False,8955,8750,The Black Cleaver,Manamune,Boots of Swiftness,Caulfield's Warhammer,Long Sword,,11887,79482,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SPgodRESH,Bard,False,Side.blue,4,6,5,1.5,13,Exhaust,Flash,11,False,6454,5725,Redemption,,Ruby Sightstone,Spellthief's Edge,Boots of Mobility,,12137,3513,Lane.bot_lane,Role.support
+1,Wehrli,Jhin,False,Side.blue,2,5,5,1.4,133,Heal,Flash,11,False,7180,6625,Zeal,Control Ward,Kircheis Shard,Doran's Blade,Essence Reaver,Boots of Speed,721,58020,Lane.bot_lane,Role.carry
+2,Hexadcimal,Ryze,False,Side.blue,8,6,5,2.1666666666666665,150,Flash,Ghost,13,False,9149,8875,Tear of the Goddess,Refillable Potion,Morellonomicon,Rod of Ages,Ionian Boots of Lucidity,Needlessly Large Rod,78936,6406,Lane.mid_lane,Role.solo
+3,subnet,Diana,False,Side.blue,1,9,7,0.8888888888888888,109,Smite,Flash,12,False,6959,6100,Enchantment: Runic Echoes,Hunter's Potion,Rod of Ages,Boots of Speed,,,59807,21396,Lane.jungle,Role.none
+4,Hi I am XXOO,Annie,False,Side.blue,1,8,2,0.375,115,Ignite,Flash,11,False,6477,6310,Doran's Ring,The Dark Seal,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,47431,8009,Lane.jungle,Role.none
+5,Bentonhell,Jax,True,Side.red,10,1,2,12.0,222,Teleport,Flash,15,False,12867,10433,Mercury's Treads,Hextech Gunblade,Corrupting Potion,Ruby Crystal,Hexdrinker,Trinity Force,41329,94563,Lane.top_lane,Role.solo
+6,noff,Karma,True,Side.red,0,4,11,2.75,16,Exhaust,Flash,11,False,7107,5025,Eye of the Watchers,Boots of Swiftness,Forbidden Idol,Crystalline Bracer,Control Ward,,12024,3225,Lane.bot_lane,Role.support
+7,Wazamonogatari,Vayne,True,Side.red,5,4,5,2.5,143,Heal,Flash,13,False,9606,8200,,Infinity Edge,Phantom Dancer,Berserker's Greaves,Doran's Blade,Dagger,135,70188,Lane.bot_lane,Role.carry
+8,always ham,Fizz,True,Side.red,9,3,3,4.0,155,Ignite,Flash,14,False,10820,9650,The Dark Seal,Fiendish Codex,Lich Bane,Sorcerer's Shoes,Abyssal Scepter,Seeker's Armguard,66601,22717,Lane.mid_lane,Role.solo
+9,herolineage,Lee Sin,True,Side.red,10,4,8,4.5,84,Flash,Smite,14,True,10965,9775,Ruby Crystal,Tiamat,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Jaurim's Fist,18662,78829,Lane.jungle,Role.none

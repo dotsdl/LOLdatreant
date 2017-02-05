@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rapidx,Vayne,True,Side.blue,9,6,4,2.1666666666666665,232,Flash,Heal,16,False,13902,10850,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Phantom Dancer,Doran's Blade,Long Sword,3839,144991,Lane.bot_lane,Role.carry
+1,Distasteful,Janna,True,Side.blue,1,0,14,15.0,28,Flash,Exhaust,14,False,9651,8300,Redemption,Ruby Sightstone,Ardent Censer,Nomad's Medallion,Ionian Boots of Lucidity,,11066,5979,Lane.bot_lane,Role.support
+2,Allorim,Maokai,True,Side.blue,7,1,9,16.0,212,Flash,Teleport,16,False,12892,10950,Sunfire Cape,Ninja Tabi,Control Ward,Spirit Visage,Frozen Heart,Chain Vest,112336,21044,Lane.top_lane,Role.solo
+3,EnVy Nien,Cassiopeia,True,Side.blue,8,3,4,4.0,231,Flash,Ghost,16,False,13176,12950,Seraph's Embrace,Needlessly Large Rod,Mejai's Soulstealer,Doran's Ring,Morellonomicon,Abyssal Scepter,122184,11283,Lane.mid_lane,Role.solo
+4,IHateD2Players,Shyvana,True,Side.blue,8,5,5,2.6,179,Smite,Flash,15,False,13094,11525,Blade of the Ruined King,Randuin's Omen,Enchantment: Bloodrazor,Mercury's Treads,Spectre's Cowl,,88284,95159,Lane.jungle,Role.none
+5,trashgame123,Wukong,False,Side.red,5,7,4,1.2857142857142858,114,Smite,Flash,14,True,9994,9675,Youmuu's Ghostblade,Enchantment: Warrior,Boots of Swiftness,The Black Cleaver,,,7217,115919,Lane.jungle,Role.none
+6,hashinshin,Jax,False,Side.red,0,9,1,0.1111111111111111,244,Ghost,Teleport,15,False,10749,10325,Corrupting Potion,Blade of the Ruined King,Guinsoo's Rageblade,Mercury's Treads,Hexdrinker,Long Sword,34732,104945,Lane.top_lane,Role.solo
+7,CloudNguyén,Brand,False,Side.red,4,7,4,1.1428571428571428,29,Ignite,Flash,11,False,8493,8050,Sightstone,Frost Queen's Claim,Control Ward,Rylai's Crystal Scepter,Sorcerer's Shoes,,29868,4884,Lane.bot_lane,Role.support
+8,Rip Cig,Vel'Koz,False,Side.red,4,3,2,2.0,225,Flash,Ghost,15,False,10616,10300,Doran's Ring,Morellonomicon,Liandry's Torment,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,125349,7815,Lane.mid_lane,Role.solo
+9,Natalia Dyer,Ezreal,False,Side.red,2,7,4,0.8571428571428571,158,Flash,Heal,12,False,9392,8283,Doran's Blade,Manamune,Trinity Force,Berserker's Greaves,Long Sword,,6834,72105,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Alestz,Jhin,True,Side.blue,0,0,0,0.0,13,Heal,Flash,2,False,924,500,Total Biscuit of Rejuvenation,Doran's Blade,,,,,0,2700,Lane.bot_lane,Role.duo
+1,UselessNihilist,Thresh,True,Side.blue,0,0,0,0.0,0,Ignite,Flash,2,False,746,500,Total Biscuit of Rejuvenation,Ancient Coin,,,,,145,268,Lane.bot_lane,Role.duo
+2,WatchThePower,Rengar,True,Side.blue,0,0,0,0.0,20,Flash,Smite,4,False,1120,500,Hunter's Talisman,Refillable Potion,,,,,1203,8310,Lane.jungle,Role.none
+3,Descendant,Quinn,True,Side.blue,0,0,0,0.0,9,Flash,Teleport,3,False,844,500,Doran's Blade,,,,,,32,2367,Lane.top_lane,Role.solo
+4,Azuriul,Kassadin,True,Side.blue,0,0,0,0.0,10,Teleport,Flash,3,False,864,500,Corrupting Potion,,,,,,814,1379,Lane.mid_lane,Role.solo
+5,Whadicol,Yasuo,False,Side.red,0,0,0,0.0,13,Exhaust,Flash,3,False,948,500,Doran's Blade,Health Potion,,,,,868,2038,Lane.mid_lane,Role.duo
+6,We are Ivern,Ivern,False,Side.red,0,0,0,0.0,9,Smite,Flash,3,False,1046,500,Hunter's Talisman,Refillable Potion,,,,,0,0,Lane.jungle,Role.none
+7,SaReNu,Ezreal,False,Side.red,0,0,0,0.0,4,Heal,Flash,2,False,728,500,Total Biscuit of Rejuvenation,Doran's Blade,,,,,60,626,Lane.bot_lane,Role.solo
+8,johnbonin,Ryze,False,Side.red,0,0,0,0.0,9,Teleport,Flash,2,False,819,500,Sapphire Crystal,Refillable Potion,,,,,2106,861,Lane.top_lane,Role.solo
+9,8el skeleto8,Karma,False,Side.red,0,0,0,0.0,0,Flash,Exhaust,1,False,648,0,,,,,,,0,0,Lane.mid_lane,Role.duo

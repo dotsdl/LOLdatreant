@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Salve,Ziggs,False,Side.blue,0,8,2,0.25,111,Flash,Barrier,10,False,5842,5350,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Tear of the Goddess,,,48846,5576,Lane.mid_lane,Role.solo
+1,Drawing The Line,Ezreal,False,Side.blue,4,8,4,1.0,92,Flash,Heal,10,False,6785,6400,Doran's Blade,Manamune,Cull,Ionian Boots of Lucidity,Glacial Shroud,Sheen,13987,35678,Lane.bot_lane,Role.carry
+2,flonk the donk,Gangplank,False,Side.blue,6,7,2,1.1428571428571428,148,Flash,Teleport,12,False,8775,7133,Trinity Force,Refillable Potion,Boots of Speed,The Dark Seal,B. F. Sword,B. F. Sword,14096,83490,Lane.top_lane,Role.solo
+3,FIST U,Vi,False,Side.blue,4,8,1,0.625,90,Smite,Flash,11,False,6779,6125,Enchantment: Warrior,Boots of Speed,Phage,Stinger,Sapphire Crystal,,708,64783,Lane.jungle,Role.none
+4,O N,Blitzcrank,False,Side.blue,3,9,10,1.4444444444444444,16,Flash,Ignite,10,False,6234,5525,,Boots of Mobility,Cloth Armor,Face of the Mountain,Ruby Sightstone,,7128,4658,Lane.bot_lane,Role.support
+5,max677,Pantheon,True,Side.red,11,4,10,5.25,81,Flash,Ignite,11,False,10550,9125,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Mercury's Treads,Last Whisper,Control Ward,5264,43318,Lane.bot_lane,Role.duo
+6,Sn4cky,Annie,True,Side.red,3,4,6,2.25,110,Flash,Teleport,12,False,8315,7300,Aether Wisp,Rylai's Crystal Scepter,Needlessly Large Rod,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,44993,9248,Lane.top_lane,Role.solo
+7,KitingYeezus,Graves,True,Side.red,10,2,6,8.0,110,Flash,Smite,12,True,10344,10375,Enchantment: Warrior,Rapid Firecannon,Berserker's Greaves,Infinity Edge,,,5376,105774,Lane.jungle,Role.none
+8,Dallidas,Veigar,True,Side.red,10,0,3,13.0,194,Teleport,Flash,14,False,11720,8050,Doran's Ring,Hextech Protobelt-01,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Blasting Wand,128991,15133,Lane.mid_lane,Role.solo
+9,Pa la Victoria,Sion,True,Side.red,6,8,15,2.625,49,Flash,Exhaust,11,False,8998,7350,Face of the Mountain,Frozen Heart,Mercury's Treads,Kindlegem,Ruby Crystal,,10744,27587,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IIKairosII,Akali,True,Side.blue,8,4,6,3.5,163,Flash,Teleport,14,False,11423,9825,Doran's Shield,Hextech Gunblade,Fiendish Codex,Hexdrinker,Guardian Angel,Sorcerer's Shoes,24895,70213,Lane.top_lane,Role.solo
+1,TwistyJuker,Graves,True,Side.blue,6,3,10,5.333333333333333,145,Flash,Smite,14,False,11773,10700,Youmuu's Ghostblade,Quicksilver Sash,Refillable Potion,Phantom Dancer,Berserker's Greaves,Enchantment: Warrior,4047,130370,Lane.jungle,Role.none
+2,AchiIIes Heal,Jhin,True,Side.blue,9,2,10,9.5,196,Flash,Heal,14,False,13091,9700,Rapid Firecannon,Quicksilver Sash,Doran's Blade,Long Sword,Essence Reaver,Boots of Swiftness,6069,106784,Lane.bot_lane,Role.carry
+3,Arane,Thresh,True,Side.blue,3,1,12,15.0,35,Exhaust,Flash,12,False,8466,6450,Redemption,Sightstone,,Targon's Brace,Boots of Mobility,Aegis of the Legion,13277,9562,Lane.bot_lane,Role.support
+4,IA55A55INI,Talon,True,Side.blue,6,6,3,1.5,168,Flash,Ignite,14,True,11408,11025,Duskblade of Draktharr,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,,,528,105422,Lane.mid_lane,Role.solo
+5,am sol,Lee Sin,False,Side.red,9,8,2,1.375,75,Smite,Flash,12,False,9216,9175,Enchantment: Warrior,Caulfield's Warhammer,Ionian Boots of Lucidity,The Black Cleaver,Hexdrinker,,11727,61080,Lane.jungle,Role.none
+6,cinto mamochi,Blitzcrank,False,Side.red,0,5,8,1.6,10,Exhaust,Flash,11,False,6370,5300,Boots of Swiftness,Talisman of Ascension,Total Biscuit of Rejuvenation,Sightstone,Ruby Crystal,Sapphire Crystal,3900,3095,Lane.bot_lane,Role.support
+7,hi im Holo,Ashe,False,Side.red,4,5,4,1.6,154,Flash,Heal,12,False,8439,7975,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,,Essence Reaver,,669,70263,Lane.bot_lane,Role.carry
+8,The Coldshroom,Teemo,False,Side.red,2,7,3,0.7142857142857143,162,Ignite,Flash,12,False,8545,8500,Nashor's Tooth,Hextech Protobelt-01,Blasting Wand,Doran's Ring,Doran's Ring,Sorcerer's Shoes,65020,18057,Lane.top_lane,Role.solo
+9,No Speak Inglish,Twisted Fate,False,Side.red,1,7,5,0.8571428571428571,129,Ghost,Flash,12,False,7960,7075,Hextech GLP-800,Ionian Boots of Lucidity,Sheen,Blasting Wand,Doran's Ring,Doran's Ring,60748,9026,Lane.mid_lane,Role.solo

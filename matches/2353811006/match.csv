@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,A A D I L,Lee Sin,True,Side.blue,10,2,6,8.0,73,Smite,Flash,11,True,9535,8200,Enchantment: Warrior,Ionian Boots of Lucidity,The Black Cleaver,Giant's Belt,Cloth Armor,,13745,64352,Lane.jungle,Role.none
+1,MXE,Vayne,True,Side.blue,4,3,9,4.333333333333333,158,Flash,Heal,11,False,9890,7675,Doran's Blade,Berserker's Greaves,Pickaxe,Runaan's Hurricane,B. F. Sword,Cloak of Agility,1126,71747,Lane.bot_lane,Role.carry
+2,Chennnn,Leona,True,Side.blue,4,1,13,17.0,39,Flash,Exhaust,11,False,7450,5650,Face of the Mountain,Boots of Mobility,Sightstone,Refillable Potion,Crystalline Bracer,Crystalline Bracer,8848,11467,Lane.bot_lane,Role.support
+3,Janna Kendrick,Ekko,True,Side.blue,2,0,9,11.0,127,Flash,Teleport,12,False,8800,7783,The Dark Seal,Trinity Force,Zz'Rot Portal,Boots of Speed,,,41302,19192,Lane.top_lane,Role.solo
+4,KayBee,LeBlanc,True,Side.blue,8,0,6,14.0,140,Ignite,Flash,13,False,10085,8610,Morellonomicon,Luden's Echo,The Dark Seal,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,71134,11430,Lane.mid_lane,Role.solo
+5,Tonaaan,Orianna,False,Side.red,0,7,2,0.2857142857142857,136,Ghost,Flash,11,False,5837,5345,Doran's Ring,Morellonomicon,Negatron Cloak,Control Ward,Sorcerer's Shoes,,44242,9106,Lane.mid_lane,Role.solo
+6,MoYing,Jhin,False,Side.red,3,6,1,0.6666666666666666,126,Heal,Flash,9,False,6207,5425,Essence Reaver,Brawler's Gloves,Control Ward,Boots of Speed,Doran's Blade,Dagger,1533,50757,Lane.bot_lane,Role.carry
+7,II Master II,Riven,False,Side.red,1,5,0,0.2,123,Flash,Teleport,10,False,5429,5050,The Black Cleaver,Ionian Boots of Lucidity,Health Potion,Long Sword,Long Sword,,0,53127,Lane.top_lane,Role.solo
+8,KaneKi521,Alistar,False,Side.red,0,5,4,0.8,34,Flash,Exhaust,9,False,4439,4125,Face of the Mountain,Cloth Armor,Sightstone,,,Boots of Speed,7054,5532,Lane.bot_lane,Role.support
+9,Cbw,Rek'Sai,False,Side.red,2,5,0,0.4,52,Smite,Flash,9,False,5337,4975,Enchantment: Cinderhulk,Health Potion,Boots of Speed,Giant's Belt,Chain Vest,,16302,37567,Lane.jungle,Role.none

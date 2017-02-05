@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Whisper,Zyra,False,Side.blue,1,8,2,0.375,14,Exhaust,Flash,9,False,5591,5335,Frost Queen's Claim,Sightstone,Sorcerer's Shoes,Amplifying Tome,Total Biscuit of Rejuvenation,Ruby Crystal,14744,3114,Lane.bot_lane,Role.support
+1,SKY Fear,Twitch,False,Side.blue,2,3,1,1.0,153,Flash,Heal,11,False,7190,6375,Doran's Blade,Runaan's Hurricane,Pickaxe,,Berserker's Greaves,Cloak of Agility,0,54620,Lane.bot_lane,Role.carry
+2,fallenbandit,Jayce,False,Side.blue,4,8,1,0.625,144,Flash,Teleport,12,False,7502,6550,The Black Cleaver,Ionian Boots of Lucidity,Hexdrinker,Doran's Blade,Doran's Blade,,7801,56394,Lane.top_lane,Role.solo
+3,Rhux,Twisted Fate,False,Side.blue,3,7,5,1.1428571428571428,126,Flash,Ghost,12,False,7856,7625,Refillable Potion,Doran's Ring,Zhonya's Hourglass,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,65447,9417,Lane.mid_lane,Role.solo
+4,moon o,Lee Sin,False,Side.blue,4,7,4,1.1428571428571428,76,Smite,Flash,12,False,7201,6300,Mercury's Treads,Refillable Potion,Aegis of the Legion,Enchantment: Warrior,Kindlegem,Null-Magic Mantle,11569,59500,Lane.jungle,Role.none
+5,Entranced,Ezreal,True,Side.red,6,1,3,9.0,163,Heal,Flash,13,False,9298,8033,Doran's Blade,Refillable Potion,Manamune,Ionian Boots of Lucidity,Trinity Force,Long Sword,13353,68472,Lane.bot_lane,Role.solo
+6,Rip Cig,Graves,True,Side.red,8,0,7,15.0,153,Flash,Smite,14,False,11231,10175,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Statikk Shiv,The Bloodthirster,,10498,135392,Lane.jungle,Role.none
+7,Yassuo,Yasuo,True,Side.red,8,6,4,2.0,162,Flash,Ignite,12,True,9969,9100,Mercury's Treads,Doran's Blade,Phantom Dancer,Vampiric Scepter,Infinity Edge,Long Sword,24890,68542,Lane.mid_lane,Role.solo
+8,McCashDollar,Shaco,True,Side.red,6,4,11,4.25,87,Teleport,Ignite,12,False,8837,7950,Zhonya's Hourglass,Hextech Protobelt-01,Corrupting Potion,The Dark Seal,Ninja Tabi,Null-Magic Mantle,28798,19062,Lane.top_lane,Role.solo
+9,QuickRev,Maokai,True,Side.red,5,3,12,5.666666666666667,30,Flash,Ignite,10,False,7906,7300,,Boots of Mobility,Eye of the Equinox,Spectre's Cowl,Frozen Heart,,20897,6460,Lane.jungle,Role.none

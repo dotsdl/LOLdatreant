@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Katlife,Katarina,True,Side.blue,7,5,6,2.6,142,Flash,Ignite,14,True,11215,10710,The Dark Seal,Void Staff,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Banshee's Veil,82343,12232,Lane.mid_lane,Role.solo
+1,Bo0sted Monkeys,Jhin,True,Side.blue,3,2,13,8.0,187,Flash,Heal,14,False,11793,9700,Doran's Blade,Zeal,Essence Reaver,Mercury's Treads,Dagger,Lord Dominik's Regards,6736,127924,Lane.bot_lane,Role.carry
+2,Finna Lit,Graves,True,Side.blue,10,2,4,7.0,226,Smite,Flash,17,False,15173,13500,Enchantment: Warrior,Mortal Reminder,The Black Cleaver,Maw of Malmortius,Berserker's Greaves,,9081,244833,Lane.jungle,Role.none
+3,amumumu,Illaoi,True,Side.blue,3,8,5,1.0,229,Flash,Teleport,16,False,12190,10500,Doran's Blade,The Black Cleaver,Mercury's Treads,Sterak's Gage,Iceborn Gauntlet,Cloth Armor,295,206866,Lane.top_lane,Role.solo
+4,aShady,Lulu,True,Side.blue,3,1,16,19.0,34,Exhaust,Flash,14,False,10606,9075,Ionian Boots of Lucidity,Banner of Command,Eye of the Watchers,Zz'Rot Portal,Crystalline Bracer,Faerie Charm,16287,8420,Lane.bot_lane,Role.support
+5,QuickRev,Zilean,False,Side.red,1,4,6,1.75,79,Flash,Exhaust,13,False,8006,7720,Amplifying Tome,Ionian Boots of Lucidity,Eye of the Watchers,Rod of Ages,Fiendish Codex,Amplifying Tome,55208,5417,Lane.bot_lane,Role.support
+6,Donmat,Maokai,False,Side.red,6,5,8,2.8,220,Teleport,Flash,16,False,10523,10700,Corrupting Potion,Sunfire Cape,Ninja Tabi,Zz'Rot Portal,Spirit Visage,Cloth Armor,109243,14605,Lane.top_lane,Role.solo
+7,Bes,Vayne,False,Side.red,3,7,1,0.5714285714285714,172,Heal,Flash,13,False,9197,8875,Doran's Blade,Berserker's Greaves,Statikk Shiv,Infinity Edge,Vampiric Scepter,,17290,70784,Lane.bot_lane,Role.carry
+8,PieCakeLord,Hecarim,False,Side.red,5,6,3,1.3333333333333333,141,Smite,Ghost,14,False,9353,8933,Trinity Force,Stalker's Blade,Giant's Belt,Ruby Crystal,Mercury's Treads,Warden's Mail,14735,107109,Lane.jungle,Role.none
+9,Nëbu,Malphite,False,Side.red,3,4,4,1.75,140,Flash,Teleport,13,False,8603,8075,The Dark Seal,Sunfire Cape,Corrupting Potion,Sorcerer's Shoes,Abyssal Scepter,,56459,20327,Lane.mid_lane,Role.solo

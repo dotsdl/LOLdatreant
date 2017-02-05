@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FlylikeGoatsucky,Tahm Kench,False,Side.blue,1,2,1,1.0,34,Flash,Exhaust,8,False,4691,4400,Control Ward,Face of the Mountain,Sightstone,Boots of Speed,Crystalline Bracer,,7678,3526,Lane.bot_lane,Role.support
+1,snap,Jhin,False,Side.blue,1,6,3,0.6666666666666666,123,Flash,Heal,9,False,5914,5625,Refillable Potion,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Brawler's Gloves,,2030,46102,Lane.bot_lane,Role.carry
+2,Mister Marvel,Poppy,False,Side.blue,2,4,1,0.75,119,Flash,Teleport,11,False,5987,5875,Corrupting Potion,Ninja Tabi,Sunfire Cape,Cloth Armor,Giant's Belt,,14811,37280,Lane.top_lane,Role.solo
+3,Bwas,Hecarim,False,Side.blue,0,2,4,2.0,116,Ghost,Smite,11,False,6290,5983,Skirmisher's Sabre,Hunter's Potion,,Ruby Crystal,Boots of Speed,Trinity Force,8553,79543,Lane.jungle,Role.none
+4,equalix,Viktor,False,Side.blue,1,3,0,0.3333333333333333,151,Flash,Ghost,12,False,6274,5875,Perfect Hex Core,Refillable Potion,Needlessly Large Rod,Ionian Boots of Lucidity,Doran's Ring,,70161,8767,Lane.mid_lane,Role.solo
+5,Axecute,Darius,True,Side.red,8,1,2,10.0,144,Teleport,Flash,13,False,9608,9225,Corrupting Potion,The Black Cleaver,Dead Man's Plate,Boots of Speed,Thornmail,,1060,90130,Lane.top_lane,Role.solo
+6,ACuteKoreanGirI,Talon,True,Side.red,6,0,0,6.0,150,Ignite,Flash,13,False,8681,6825,Refillable Potion,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Phage,Long Sword,1453,85252,Lane.mid_lane,Role.solo
+7,C9 Lemon,Karma,True,Side.red,0,1,7,7.0,20,Exhaust,Flash,10,False,5667,4225,Ruby Crystal,Ionian Boots of Lucidity,Refillable Potion,Eye of the Watchers,,,11972,3928,Lane.bot_lane,Role.support
+8,C9 Waygzh,Nunu,True,Side.red,1,0,9,10.0,112,Flash,Smite,13,False,8345,6150,Mercury's Treads,Refillable Potion,Enchantment: Cinderhulk,Spectre's Cowl,Glacial Shroud,,29868,35797,Lane.jungle,Role.none
+9,Astral Vagabond,Twitch,True,Side.red,2,3,4,2.0,116,Flash,Heal,11,True,7067,6000,Doran's Blade,B. F. Sword,Pickaxe,Runaan's Hurricane,Boots of Speed,Dagger,0,38937,Lane.bot_lane,Role.carry

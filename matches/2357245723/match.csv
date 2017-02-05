@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PeytonWillis,Jax,False,Side.blue,6,10,2,0.8,98,Flash,Ignite,13,False,7945,7208,Boots of Speed,Trinity Force,Hextech Revolver,Total Biscuit of Rejuvenation,Bilgewater Cutlass,,11499,43646,Lane.top_lane,Role.solo
+1,Rampage101,Amumu,False,Side.blue,3,5,6,1.8,110,Flash,Smite,12,False,7681,5775,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,Frozen Heart,,,57802,19282,Lane.jungle,Role.none
+2,Josso,Caitlyn,False,Side.blue,8,7,6,2.0,124,Flash,Heal,12,False,9108,8250,Doran's Blade,,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,820,81308,Lane.bot_lane,Role.carry
+3,ChicagoFakeFaker,Ekko,False,Side.blue,8,5,5,2.6,133,Ignite,Flash,14,False,9070,8970,Lich Bane,Negatron Cloak,Hextech Protobelt-01,Fiendish Codex,Sorcerer's Shoes,,68169,15535,Lane.mid_lane,Role.solo
+4,Yue Pao Jia WX,Janna,False,Side.blue,2,7,12,2.0,16,Flash,Exhaust,11,False,6962,6250,Nomad's Medallion,Sightstone,Ionian Boots of Lucidity,,Redemption,Chain Vest,9340,3607,Lane.bot_lane,Role.support
+5,herolineage,Sivir,True,Side.red,9,8,12,2.625,193,Flash,Heal,14,False,13726,11150,Doran's Blade,Essence Reaver,Phantom Dancer,Ionian Boots of Lucidity,Infinity Edge,,489,142753,Lane.bot_lane,Role.carry
+6,Shan Bao bao,Darius,True,Side.red,6,4,3,2.25,209,Flash,Ghost,15,True,11775,10195,Mercury's Treads,Chain Vest,Zz'Rot Portal,The Black Cleaver,Giant's Belt,Negatron Cloak,118,112009,Lane.top_lane,Role.solo
+7,Mufasaaa,Olaf,True,Side.red,9,5,6,3.0,84,Ghost,Smite,13,False,11081,7550,Spirit Visage,Refillable Potion,Ionian Boots of Lucidity,Warden's Mail,Enchantment: Warrior,,3727,92933,Lane.jungle,Role.none
+8,Steveo4565065,Karthus,True,Side.red,4,4,3,1.75,144,Flash,Ghost,13,False,10068,8150,Doran's Ring,Rod of Ages,Sorcerer's Shoes,Rylai's Crystal Scepter,,,83867,10993,Lane.mid_lane,Role.solo
+9,Dan Abnormal,Sona,True,Side.red,6,6,12,3.0,11,Exhaust,Flash,11,False,9976,8725,Eye of the Watchers,Sorcerer's Shoes,Redemption,Iceborn Gauntlet,,,17483,8942,Lane.bot_lane,Role.support

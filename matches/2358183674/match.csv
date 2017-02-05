@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NA Reactions,Soraka,False,Side.blue,0,8,5,0.625,17,Exhaust,Flash,11,False,6119,6075,Ninja Tabi,Redemption,Null-Magic Mantle,Eye of the Oasis,,,6672,3456,Lane.bot_lane,Role.support
+1,JoDa Fucking Pen,Swain,False,Side.blue,7,4,5,3.0,177,Teleport,Flash,15,False,9415,8550,Doran's Ring,Doran's Ring,Rod of Ages,Abyssal Scepter,Mercury's Treads,Fiendish Codex,82141,9026,Lane.top_lane,Role.solo
+2,rabs slayer,Vayne,False,Side.blue,0,6,1,0.16666666666666666,136,Flash,Heal,11,False,7367,7225,Doran's Blade,B. F. Sword,Statikk Shiv,Pickaxe,Berserker's Greaves,Dagger,10734,48374,Lane.bot_lane,Role.carry
+3,Soligo,Cassiopeia,False,Side.blue,4,5,2,1.2,148,Ghost,Flash,13,False,8287,7395,Needlessly Large Rod,Morellonomicon,Negatron Cloak,Doran's Ring,Tear of the Goddess,Giant's Belt,62668,4584,Lane.mid_lane,Role.solo
+4,Some Fruit,Hecarim,False,Side.blue,6,7,4,1.4285714285714286,126,Smite,Ghost,13,False,8957,8928,Enchantment: Cinderhulk,Refillable Potion,Boots of Swiftness,Trinity Force,Negatron Cloak,Chain Vest,12316,86430,Lane.jungle,Role.none
+5,InvertedComposer,Teemo,True,Side.red,1,7,2,0.42857142857142855,181,Flash,Barrier,14,False,10109,7950,The Dark Seal,Refillable Potion,Nashor's Tooth,Liandry's Torment,Control Ward,Sorcerer's Shoes,77260,36130,Lane.top_lane,Role.solo
+6,i love aileen,Syndra,True,Side.red,15,5,2,3.4,188,Ghost,Flash,15,False,14404,13200,Needlessly Large Rod,Morellonomicon,Rylai's Crystal Scepter,Void Staff,Sorcerer's Shoes,Mejai's Soulstealer,126995,14839,Lane.mid_lane,Role.solo
+7,Aileen Choi,Nami,True,Side.red,2,1,16,18.0,10,Ignite,Flash,12,True,9438,7925,Frost Queen's Claim,Ruby Sightstone,Redemption,Boots of Swiftness,Cloth Armor,Cloth Armor,8657,4036,Lane.bot_lane,Role.support
+8,Goedkope hoer,Lee Sin,True,Side.red,3,3,6,3.0,136,Flash,Smite,14,False,10379,8675,Refillable Potion,Tiamat,Enchantment: Warrior,Boots of Swiftness,Giant's Belt,Spirit Visage,24267,116527,Lane.jungle,Role.none
+9,Doctus Rex,Twitch,True,Side.red,9,1,6,15.0,212,Heal,Flash,14,False,13148,13125,,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,11982,144007,Lane.bot_lane,Role.carry

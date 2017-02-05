@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rikarawr,Vayne,True,Side.blue,1,9,8,1.0,214,Flash,Heal,15,False,12486,12000,Doran's Blade,Statikk Shiv,Cull,Berserker's Greaves,Infinity Edge,The Bloodthirster,33180,97406,Lane.bot_lane,Role.carry
+1,Pink Ward,Shaco,True,Side.blue,15,4,6,5.25,134,Teleport,Ignite,16,False,13728,13805,Lich Bane,Needlessly Large Rod,Hextech Protobelt-01,Ionian Boots of Lucidity,Luden's Echo,Blasting Wand,63397,23293,Lane.top_lane,Role.solo
+2,Témpest,Yasuo,True,Side.blue,12,3,9,7.0,306,Flash,Ignite,18,False,16579,13800,The Bloodthirster,Phantom Dancer,Phage,Mercury's Treads,Doran's Blade,Infinity Edge,39580,195415,Lane.mid_lane,Role.solo
+3,Keegun,Pantheon,True,Side.blue,2,2,17,9.5,43,Flash,Ignite,15,False,10114,8050,,Edge of Night,Redemption,Ionian Boots of Lucidity,Relic Shield,Aegis of the Legion,3460,45187,Lane.bot_lane,Role.support
+4,Rokí,Riven,True,Side.blue,10,3,7,5.666666666666667,218,Flash,Smite,17,False,14939,11375,Refillable Potion,Death's Dance,Ravenous Hydra,Enchantment: Warrior,Ionian Boots of Lucidity,Ruby Crystal,523,192998,Lane.jungle,Role.none
+5,Imaqtpie,Ashe,False,Side.red,4,9,2,0.6666666666666666,210,Flash,Heal,13,False,10687,10025,Berserker's Greaves,Doran's Blade,Pickaxe,Essence Reaver,B. F. Sword,Phantom Dancer,1576,112721,Lane.bot_lane,Role.carry
+6,Nightblue3,Rengar,False,Side.red,8,7,2,1.4285714285714286,145,Smite,Flash,15,True,11279,11225,Enchantment: Warrior,Death's Dance,Control Ward,Ionian Boots of Lucidity,Duskblade of Draktharr,Long Sword,13628,139509,Lane.jungle,Role.none
+7,Nhock,Ekko,False,Side.red,4,5,3,1.4,213,Teleport,Flash,15,False,10687,10750,Corrupting Potion,Zhonya's Hourglass,Ninja Tabi,Lich Bane,Rod of Ages,,120672,20145,Lane.mid_lane,Role.solo
+8,TeddyRO,Nunu,False,Side.red,1,10,8,0.9,20,Flash,Exhaust,11,False,7766,6960,Eye of the Watchers,Refillable Potion,Amplifying Tome,Ninja Tabi,Frozen Heart,Cloth Armor,17308,5818,Lane.bot_lane,Role.support
+9,Dhokla,Fiora,False,Side.red,4,10,1,0.5,213,Flash,Exhaust,15,False,11063,10725,B. F. Sword,Ravenous Hydra,The Black Cleaver,Doran's Blade,Mercury's Treads,Long Sword,764,134351,Lane.top_lane,Role.solo

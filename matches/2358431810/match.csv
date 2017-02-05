@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,onetricking1,Riven,False,Side.blue,6,3,3,3.0,227,Flash,Teleport,15,False,10598,10075,Quicksilver Sash,Titanic Hydra,Refillable Potion,Vampiric Scepter,Ionian Boots of Lucidity,The Black Cleaver,0,162050,Lane.top_lane,Role.solo
+1,HighKeySavage,Katarina,False,Side.blue,3,6,0,0.5,220,Ignite,Flash,15,True,9971,8260,Refillable Potion,Hextech Gunblade,Sorcerer's Shoes,Rylai's Crystal Scepter,,,134936,14802,Lane.jungle,Role.none
+2,FakeGod,Ezreal,False,Side.blue,3,6,4,1.1666666666666667,174,Flash,Heal,13,False,9679,9033,Doran's Blade,Trinity Force,Cull,Ionian Boots of Lucidity,Muramana,Recurve Bow,9742,86016,Lane.bot_lane,Role.carry
+3,Yarkbeezy,Janna,False,Side.blue,1,4,7,2.0,20,Exhaust,Flash,11,False,6919,5825,Redemption,Sightstone,Ionian Boots of Lucidity,Cloth Armor,Nomad's Medallion,Null-Magic Mantle,7407,2922,Lane.bot_lane,Role.support
+4,Feitan,Gragas,False,Side.blue,3,4,7,2.5,129,Smite,Flash,13,False,9519,8925,Mercury's Treads,Kindlegem,Spectre's Cowl,Enchantment: Runic Echoes,Dead Man's Plate,Control Ward,82707,32064,Lane.jungle,Role.none
+5,The Cookie,Irelia,True,Side.red,7,3,3,3.3333333333333335,198,Teleport,Flash,16,False,12574,10708,Corrupting Potion,Trinity Force,Ninja Tabi,Hexdrinker,Caulfield's Warhammer,Randuin's Omen,4977,89692,Lane.top_lane,Role.solo
+6,GamerXz,Ryze,True,Side.red,3,3,10,4.333333333333333,202,Flash,Exhaust,16,False,11973,9700,Refillable Potion,Seraph's Embrace,Rod of Ages,Mercury's Treads,Void Staff,,157185,12227,Lane.mid_lane,Role.solo
+7,Tai Draven,Draven,True,Side.red,10,4,6,4.0,271,Flash,Heal,15,False,17795,17905,Infinity Edge,Blade of the Ruined King,Berserker's Greaves,The Bloodthirster,Phantom Dancer,Lord Dominik's Regards,75,219686,Lane.bot_lane,Role.carry
+8,Hibyeman,Zyra,True,Side.red,2,5,6,1.6,33,Flash,Exhaust,12,False,9753,8375,Eye of the Watchers,Boots of Mobility,Refillable Potion,Liandry's Torment,Giant's Belt,Control Ward,33100,7931,Lane.bot_lane,Role.support
+9,Kebin M,Zac,True,Side.red,1,1,5,6.0,106,Flash,Smite,14,False,9624,8375,Ruby Crystal,Randuin's Omen,Null-Magic Mantle,Kindlegem,Ionian Boots of Lucidity,Enchantment: Cinderhulk,83076,19204,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,E1ectrik,Nasus,False,Side.blue,7,8,5,1.5,192,Flash,Teleport,15,False,11039,9908,Corrupting Potion,Doran's Ring,Trinity Force,Zz'Rot Portal,Ninja Tabi,Warden's Mail,75897,47494,Lane.top_lane,Role.solo
+1,Silent Pace,Nami,False,Side.blue,2,2,14,8.0,9,Exhaust,Flash,13,False,8206,7700,Frostfang,Ruby Sightstone,Redemption,Boots of Swiftness,Athene's Unholy Grail,,7371,4734,Lane.bot_lane,Role.support
+2,Quixezelk,LeBlanc,False,Side.blue,5,6,9,2.3333333333333335,151,Ignite,Flash,15,True,9791,9975,Morellonomicon,Corrupting Potion,Luden's Echo,Sorcerer's Shoes,Kindlegem,,95708,10158,Lane.mid_lane,Role.solo
+3,Arensor,Hecarim,False,Side.blue,5,7,6,1.5714285714285714,132,Flash,Smite,13,False,9568,9208,Enchantment: Warrior,Refillable Potion,Boots of Swiftness,Trinity Force,Giant's Belt,Chain Vest,16526,96112,Lane.jungle,Role.none
+4,Vermillion2,Vayne,False,Side.blue,4,9,4,0.8888888888888888,205,Heal,Flash,13,False,10423,9600,Cull,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Zeal,27549,79165,Lane.bot_lane,Role.carry
+5,HugU in the wind,Yasuo,True,Side.red,10,4,7,4.25,194,Flash,Ignite,16,False,13473,12350,Infinity Edge,Phantom Dancer,Frozen Mallet,Null-Magic Mantle,Berserker's Greaves,Chain Vest,28594,125785,Lane.mid_lane,Role.solo
+6,Liquid 1921119,Alistar,True,Side.red,2,5,18,4.0,20,Exhaust,Flash,13,False,9562,9200,Redemption,Righteous Glory,Ruby Sightstone,Relic Shield,Kindlegem,Boots of Mobility,11794,7280,Lane.bot_lane,Role.support
+7,Inori l Yuzuriha,Vi,True,Side.red,10,3,9,6.333333333333333,145,Smite,Flash,16,False,12788,12208,Mercury's Treads,Enchantment: Warrior,Trinity Force,Maw of Malmortius,Giant's Belt,Cloth Armor,2973,146023,Lane.jungle,Role.none
+8, keine Hosen,Jinx,True,Side.red,5,4,14,4.75,226,Flash,Heal,15,False,13549,11400,Doran's Blade,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Vampiric Scepter,2817,176184,Lane.bot_lane,Role.carry
+9,Haru Tenshi,Rumble,True,Side.red,5,7,8,1.8571428571428572,171,Flash,Teleport,14,False,11611,11375,Doran's Shield,Sorcerer's Shoes,Refillable Potion,Liandry's Torment,Rylai's Crystal Scepter,Void Staff,106975,15224,Lane.top_lane,Role.solo

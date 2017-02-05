@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,lm Thanatos,Lee Sin,True,Side.blue,7,7,12,2.7142857142857144,95,Flash,Smite,15,False,11484,11535,Enchantment: Warrior,Spirit Visage,Boots of Mobility,Hexdrinker,Dead Man's Plate,Chain Vest,16571,76178,Lane.jungle,Role.none
+1,Haunt,Zed,True,Side.blue,10,8,11,2.625,155,Flash,Ignite,15,False,12606,12360,The Black Cleaver,Long Sword,Ionian Boots of Lucidity,Maw of Malmortius,Duskblade of Draktharr,Last Whisper,7199,103693,Lane.mid_lane,Role.solo
+2,Clave Redwyn,Jhin,True,Side.blue,17,1,11,28.0,147,Flash,Heal,14,False,15082,14175,Infinity Edge,Essence Reaver,Lord Dominik's Regards,Rapid Firecannon,Doran's Blade,Berserker's Greaves,7546,112004,Lane.bot_lane,Role.carry
+3,Noraver,Brand,True,Side.blue,2,6,11,2.1666666666666665,23,Flash,Ignite,12,False,9496,9450,Liandry's Torment,Luden's Echo,Sightstone,,Frostfang,Sorcerer's Shoes,35871,7529,Lane.bot_lane,Role.support
+4,GnarlyTokes,Gnar,True,Side.blue,9,6,7,2.6666666666666665,217,Teleport,Flash,16,False,13594,13475,Berserker's Greaves,The Black Cleaver,Wit's End,Giant's Belt,Runaan's Hurricane,Randuin's Omen,16444,129763,Lane.top_lane,Role.solo
+5,Jhinathan ,Ekko,False,Side.red,6,11,3,0.8181818181818182,160,Teleport,Flash,14,False,9744,8900,Hextech Protobelt-01,The Dark Seal,Zhonya's Hourglass,Doran's Ring,Giant's Belt,Ionian Boots of Lucidity,105522,13219,Lane.top_lane,Role.solo
+6,Frapp,Vayne,False,Side.red,4,12,2,0.5,129,Heal,Flash,13,False,8821,7800,Statikk Shiv,Doran's Blade,Berserker's Greaves,Infinity Edge,,,22921,51246,Lane.bot_lane,Role.carry
+7,Mini Frapp,Lux,False,Side.red,6,6,6,2.0,148,Barrier,Flash,15,True,9862,8460,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,,107150,15359,Lane.mid_lane,Role.solo
+8,cùrz,Bard,False,Side.red,2,4,15,4.25,16,Flash,Exhaust,14,False,8846,8325,Eye of the Watchers,Redemption,Zz'Rot Portal,Boots of Mobility,Control Ward,,21181,5191,Lane.bot_lane,Role.support
+9,KitingYeezus,Vi,False,Side.red,10,13,4,1.0769230769230769,115,Flash,Smite,14,False,10611,10508,Enchantment: Warrior,Ninja Tabi,Trinity Force,Dead Man's Plate,,,2166,109775,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RozStone,Ezreal,False,Side.blue,0,5,2,0.4,167,Flash,Heal,11,False,8217,7875,Doran's Blade,Manamune,Cull,Iceborn Gauntlet,Ionian Boots of Lucidity,Pickaxe,11778,62794,Lane.bot_lane,Role.carry
+1,Koggle,Rammus,False,Side.blue,5,6,3,1.3333333333333333,125,Flash,Teleport,12,False,8636,8275,Sunfire Cape,Banshee's Veil,Ninja Tabi,Doran's Shield,Chain Vest,Cloth Armor,50333,24433,Lane.top_lane,Role.solo
+2,TRUMPSSMALLHANDS,Annie,False,Side.blue,3,5,0,0.6,78,Flash,Smite,10,False,7596,7325,Enchantment: Runic Echoes,Hunter's Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,,,48349,17468,Lane.jungle,Role.none
+3,Region,LeBlanc,False,Side.blue,4,9,0,0.4444444444444444,149,Ignite,Flash,12,False,8422,19358,Doran's Ring,Doran's Ring,Trinity Force,Sorcerer's Shoes,,,59659,10732,Lane.mid_lane,Role.solo
+4,TrungThienDo,Leona,False,Side.blue,0,6,5,0.8333333333333334,44,Flash,Exhaust,9,False,6501,6150,Eye of the Equinox,Redemption,Refillable Potion,Mercury's Treads,Cloth Armor,,8527,10546,Lane.bot_lane,Role.support
+5,Kammgefahr,Jhin,True,Side.red,10,3,10,6.666666666666667,181,Heal,Flash,14,False,12733,10325,,Zeal,Infinity Edge,Essence Reaver,Doran's Blade,Mercury's Treads,7571,108676,Lane.bot_lane,Role.carry
+6,KozAlstonZ,Evelynn,True,Side.red,9,2,12,10.5,149,Smite,Flash,16,True,12937,12225,Enchantment: Runic Echoes,Hextech Protobelt-01,Boots of Speed,Hunter's Potion,Lich Bane,Rylai's Crystal Scepter,99163,49908,Lane.jungle,Role.none
+7,Frosch,Kassadin,True,Side.red,8,2,11,9.5,195,Flash,Teleport,14,False,12126,10475,Corrupting Potion,Lich Bane,Control Ward,Abyssal Scepter,Rod of Ages,Mercury's Treads,89546,30490,Lane.mid_lane,Role.solo
+8,Spicy Curry,Irelia,True,Side.red,3,4,5,2.0,180,Ignite,Flash,14,False,10463,9658,Null-Magic Mantle,Wit's End,Trinity Force,Doran's Blade,Mercury's Treads,Doran's Blade,12732,70137,Lane.top_lane,Role.solo
+9,Sînner,Thresh,True,Side.red,1,1,19,20.0,36,Flash,Exhaust,13,False,8443,7125,Mikael's Crucible,Sightstone,Redemption,Control Ward,Boots of Swiftness,Targon's Brace,14245,10666,Lane.bot_lane,Role.support

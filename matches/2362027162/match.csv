@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Seamaken,Tryndamere,True,Side.blue,7,4,1,2.0,224,Ghost,Ignite,15,True,12856,11460,Infinity Edge,Bilgewater Cutlass,Statikk Shiv,Berserker's Greaves,Cloak of Agility,Recurve Bow,40092,159744,Lane.top_lane,Role.solo
+1,DougieJ,Taric,True,Side.blue,2,2,14,8.0,38,Flash,Exhaust,13,False,8463,6575,Relic Shield,Sightstone,Knight's Vow,Cloth Armor,Ninja Tabi,Glacial Shroud,5010,8670,Lane.bot_lane,Role.support
+2,Anthøny,Kha'Zix,True,Side.blue,13,4,7,5.0,76,Smite,Flash,14,False,11840,10575,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Hexdrinker,Lord Dominik's Regards,5548,86854,Lane.jungle,Role.none
+3,Hi im Thalies,Katarina,True,Side.blue,18,5,10,5.6,168,Ignite,Flash,15,False,14744,13275,Sorcerer's Shoes,Luden's Echo,Void Staff,Hextech Gunblade,Mejai's Soulstealer,Giant's Belt,131279,11857,Lane.jungle,Role.none
+4,TUCANA DOGANA,Ezreal,True,Side.blue,1,4,8,2.25,158,Heal,Flash,12,False,9461,8483,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,Vampiric Scepter,,10998,62601,Lane.bot_lane,Role.carry
+5,One Punch Kitty,Janna,False,Side.red,0,5,10,2.0,5,Flash,Exhaust,12,False,7051,6700,Ninja Tabi,Aegis of the Legion,,Eye of the Oasis,,Redemption,2915,1579,Lane.bot_lane,Role.support
+6,4 Minute Fangirl,Gangplank,False,Side.red,1,8,9,1.25,156,Flash,Exhaust,14,False,9924,9883,B. F. Sword,Corrupting Potion,Cull,Trinity Force,Maw of Malmortius,Boots of Speed,8992,121444,Lane.mid_lane,Role.solo
+7,Onat,Twitch,False,Side.red,6,8,3,1.125,162,Heal,Flash,12,False,9581,9450,Doran's Blade,Infinity Edge,Runaan's Hurricane,Null-Magic Mantle,Berserker's Greaves,Pickaxe,0,77981,Lane.bot_lane,Role.carry
+8,Prideful King,Shyvana,False,Side.red,5,8,2,0.875,171,Flash,Smite,14,False,9925,9325,Enchantment: Bloodrazor,Refillable Potion,Titanic Hydra,Mercury's Treads,Giant's Belt,Chain Vest,48760,85651,Lane.jungle,Role.none
+9,TheNotoriousDFG,Ryze,False,Side.red,6,12,1,0.5833333333333334,148,Flash,Teleport,14,False,9090,8650,Refillable Potion,Zhonya's Hourglass,Rod of Ages,Ionian Boots of Lucidity,Tear of the Goddess,Needlessly Large Rod,89374,6843,Lane.top_lane,Role.solo

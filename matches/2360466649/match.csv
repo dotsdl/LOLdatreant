@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sorrain,Riven,True,Side.blue,1,0,0,1.0,73,Flash,Teleport,8,False,4244,2850,Caulfield's Warhammer,Refillable Potion,Boots of Speed,,Hexdrinker,,0,31218,Lane.top_lane,Role.solo
+1,Pekin Woof,LeBlanc,True,Side.blue,5,1,0,5.0,80,Flash,Teleport,9,True,5902,2800,Doran's Ring,,Control Ward,Lost Chapter,Sorcerer's Shoes,,34166,10654,Lane.mid_lane,Role.solo
+2,Stiches,Caitlyn,True,Side.blue,1,0,2,3.0,84,Heal,Flash,7,False,5521,2150,,,,Boots of Speed,Doran's Blade,B. F. Sword,189,42891,Lane.bot_lane,Role.duo
+3,Link,Morgana,True,Side.blue,1,1,1,2.0,10,Flash,Exhaust,7,False,3798,1600,,,Sightstone,,Boots of Speed,Spellthief's Edge,5811,10303,Lane.bot_lane,Role.duo
+4,McCashDollar,Shaco,True,Side.blue,0,1,2,2.0,28,Ignite,Smite,7,False,3681,1475,Hunter's Machete,Refillable Potion,,Ionian Boots of Lucidity,,,10307,16096,Lane.jungle,Role.none
+5,Dardøch,Vayne,False,Side.red,1,2,1,1.0,39,Heal,Flash,5,False,2848,2350,Doran's Blade,Cull,Berserker's Greaves,Dagger,,,0,9567,Lane.bot_lane,Role.duo
+6,Hi Im A Sheep,Nautilus,False,Side.red,0,1,0,0.0,45,Flash,Teleport,6,False,2542,1650,Corrupting Potion,,,Doran's Shield,Ruby Crystal,Boots of Speed,13534,5599,Lane.top_lane,Role.solo
+7,Ninjacrab,Vi,False,Side.red,1,2,1,1.0,28,Flash,Smite,5,False,2913,2250,Skirmisher's Sabre,Refillable Potion,Caulfield's Warhammer,,,,154,20260,Lane.jungle,Role.none
+8,7788 ADC,Viktor,False,Side.red,0,3,1,0.3333333333333333,30,Ghost,Flash,5,False,2325,2300,The Hex Core mk-1,Health Potion,,Doran's Ring,,,5692,3503,Lane.mid_lane,Role.solo
+9,Haanii,Janna,False,Side.red,0,0,2,2.0,2,Flash,Exhaust,5,False,2076,1375,Ancient Coin,Sightstone,,,,,333,1181,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ownsaurus,Twitch,False,Side.blue,0,2,1,0.5,59,Flash,Heal,7,False,4380,2550,Doran's Blade,B. F. Sword,Dagger,Dagger,Total Biscuit of Rejuvenation,,0,16521,Lane.bot_lane,Role.carry
+1,Alusion cakes,Zilean,False,Side.blue,1,3,3,1.3333333333333333,20,Flash,Ignite,9,False,4617,3900,Boots of Speed,Frost Queen's Claim,Needlessly Large Rod,,,,14965,1503,Lane.bot_lane,Role.support
+2,Sora and Shiro,Ziggs,False,Side.blue,3,6,4,1.1666666666666667,97,Flash,Ghost,10,False,6196,5725,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,,,44364,6354,Lane.mid_lane,Role.solo
+3,Sarcasm Orgasm,Yasuo,False,Side.blue,4,5,1,1.0,155,Flash,Teleport,12,False,7574,7500,Doran's Blade,Phantom Dancer,Infinity Edge,Long Sword,,Boots of Speed,26369,62351,Lane.top_lane,Role.solo
+4,BiB LargeJugs,Kha'Zix,False,Side.blue,3,2,3,3.0,77,Smite,Flash,11,False,6315,5775,Tiamat,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Long Sword,Long Sword,2750,54507,Lane.jungle,Role.none
+5,YuBabbi,Nautilus,True,Side.red,4,2,3,3.5,145,Teleport,Flash,12,True,8780,7025,Boots of Speed,,Zz'Rot Portal,Doran's Ring,Doran's Ring,Sunfire Cape,63009,18406,Lane.top_lane,Role.solo
+6,a hard workor,Jinx,True,Side.red,4,3,2,2.0,125,Heal,Flash,9,False,8207,7850,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,403,79302,Lane.bot_lane,Role.carry
+7,Joelzzz,Ryze,True,Side.red,2,3,1,1.0,148,Ghost,Flash,11,False,7903,7675,Archangel's Staff,Refillable Potion,Morellonomicon,Boots of Swiftness,Ruby Crystal,Control Ward,79241,8660,Lane.mid_lane,Role.solo
+8,Hi Janna,Janna,True,Side.red,1,1,9,10.0,5,Flash,Exhaust,10,False,7075,4975,Eye of the Oasis,Boots of Speed,Redemption,The Dark Seal,,,1799,3875,Lane.bot_lane,Role.support
+9,LoveCal,Lee Sin,True,Side.red,7,2,2,4.5,88,Smite,Flash,12,False,9298,7775,Enchantment: Warrior,Refillable Potion,Tiamat,Boots of Mobility,Youmuu's Ghostblade,,13818,82343,Lane.jungle,Role.none

@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,savary,Trundle,True,Side.blue,1,0,3,4.0,86,Smite,Flash,11,False,6406,5675,Enchantment: Cinderhulk,Mercury's Treads,Refillable Potion,Chain Vest,Giant's Belt,,10874,45696,Lane.mid_lane,Role.duo
+1,Aalam,Illaoi,True,Side.blue,5,3,3,2.6666666666666665,106,Exhaust,Flash,11,True,7400,6300,Doran's Blade,Death's Dance,Mercury's Treads,Long Sword,Ruby Crystal,Long Sword,1158,79602,Lane.mid_lane,Role.duo
+2,Abou222,Ekko,True,Side.blue,6,1,2,8.0,98,Ignite,Flash,11,False,7327,6500,Hextech Protobelt-01,Aether Wisp,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Sheen,52879,9868,Lane.jungle,Role.none
+3,Tensai,Jarvan IV,False,Side.red,3,4,1,1.0,66,Smite,Flash,10,False,5580,4875,Enchantment: Warrior,Boots of Speed,Giant's Belt,Chain Vest,Refillable Potion,,4557,44080,Lane.jungle,Role.none
+4,AndrwPumpkinSeed,Fiora,False,Side.red,1,4,1,0.5,113,Ignite,Flash,10,False,4898,4200,Boots of Speed,Titanic Hydra,,,,,824,34539,Lane.mid_lane,Role.solo
+5,Branden San,Karma,False,Side.red,0,4,3,0.75,75,Flash,Exhaust,10,False,4490,3385,Doran's Ring,Health Potion,Doran's Ring,Lost Chapter,Amplifying Tome,Fiendish Codex,30716,6940,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Especially Baby,Yasuo,True,Side.blue,4,6,0,0.6666666666666666,180,Ignite,Flash,14,False,9714,8800,Cloak of Agility,Doran's Blade,Berserker's Greaves,Doran's Blade,Maw of Malmortius,Phantom Dancer,25851,76727,Lane.mid_lane,Role.solo
+1,Acelolz,Singed,True,Side.blue,2,1,11,13.0,188,Teleport,Ghost,14,False,10623,10075,Spirit Visage,Righteous Glory,Zz'Rot Portal,Doran's Ring,The Dark Seal,Mercury's Treads,73877,4920,Lane.top_lane,Role.solo
+2,M PiKaChu,Vayne,True,Side.blue,2,3,8,3.3333333333333335,209,Heal,Flash,13,False,10127,8125,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,,Refillable Potion,12404,83356,Lane.bot_lane,Role.carry
+3,TeamMeiya 70,Graves,True,Side.blue,11,0,6,17.0,174,Smite,Flash,15,True,14120,11050,Enchantment: Warrior,Refillable Potion,B. F. Sword,Mercury's Treads,Maw of Malmortius,Phantom Dancer,3792,168917,Lane.jungle,Role.none
+4,Tiedemonster,Karma,True,Side.blue,2,1,12,14.0,18,Exhaust,Flash,12,False,8013,5425,Ionian Boots of Lucidity,Eye of the Watchers,,,Crystalline Bracer,Forbidden Idol,17671,5571,Lane.bot_lane,Role.support
+5,ExecutionerKen,Cassiopeia,False,Side.red,3,5,2,1.0,168,Ghost,Flash,13,False,8044,7175,Void Staff,Tear of the Goddess,Morellonomicon,,Doran's Ring,,71927,8888,Lane.mid_lane,Role.solo
+6,bilibili Selfly,Annie,False,Side.red,0,7,3,0.42857142857142855,144,Flash,Teleport,12,False,6856,6800,Sorcerer's Shoes,Morellonomicon,Fiendish Codex,Doran's Ring,Giant's Belt,,53570,8142,Lane.top_lane,Role.solo
+7,Young Grandma,Rammus,False,Side.red,4,3,4,2.6666666666666665,65,Smite,Flash,12,False,7106,6350,Giant's Belt,Ninja Tabi,Enchantment: Cinderhulk,Warden's Mail,,,33486,30639,Lane.jungle,Role.none
+8,Angerful,Heimerdinger,False,Side.red,3,2,3,3.0,163,Flash,Ignite,12,False,7870,6475,Rylai's Crystal Scepter,Ionian Boots of Lucidity,The Dark Seal,Aether Wisp,Doran's Ring,Doran's Ring,71476,11970,Lane.bot_lane,Role.carry
+9,lorenzofast,Morgana,False,Side.red,1,4,5,1.5,9,Flash,Exhaust,10,False,6561,5825,Frost Queen's Claim,Refillable Potion,Ruby Sightstone,Ionian Boots of Lucidity,Fiendish Codex,,10166,2729,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Barranco Coma,Ezreal,True,Side.blue,6,2,15,10.5,186,Flash,Heal,14,True,11595,10560,Mortal Reminder,Muramana,Iceborn Gauntlet,Berserker's Greaves,Doran's Blade,Vampiric Scepter,13750,115385,Lane.bot_lane,Role.carry
+1,8el skeleto8,Cassiopeia,True,Side.blue,8,3,13,7.0,157,Flash,Ghost,14,False,11001,9800,Doran's Ring,Archangel's Staff,Rylai's Crystal Scepter,Void Staff,,Control Ward,81735,11380,Lane.mid_lane,Role.solo
+2,KarasMai,Pantheon,True,Side.blue,6,6,8,2.3333333333333335,152,Flash,Ignite,14,False,9934,9275,Ninja Tabi,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Cloth Armor,Hexdrinker,9552,95895,Lane.top_lane,Role.solo
+3,SWAG MONEY YOLO,Evelynn,True,Side.blue,15,3,7,7.333333333333333,94,Flash,Smite,14,False,12070,10525,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Lich Bane,Nashor's Tooth,Needlessly Large Rod,66896,33490,Lane.jungle,Role.none
+4,Jynxy,Zyra,True,Side.blue,3,2,17,10.0,4,Ignite,Flash,12,False,8304,7485,Frost Queen's Claim,Sorcerer's Shoes,Control Ward,Amplifying Tome,Liandry's Torment,,22558,5908,Lane.bot_lane,Role.support
+5,Pink Ward,Jhin,False,Side.red,4,12,3,0.5833333333333334,84,Flash,Heal,10,False,7913,7525,Doran's Blade,Essence Reaver,Kircheis Shard,Ionian Boots of Lucidity,Hexdrinker,Dagger,1831,59738,Lane.bot_lane,Role.carry
+6,Part The Sea,Graves,False,Side.red,4,6,5,1.5,128,Flash,Smite,13,False,10069,9325,Refillable Potion,Dagger,Mercury's Treads,Enchantment: Warrior,Zeal,Maw of Malmortius,3364,101088,Lane.jungle,Role.none
+7,Sunae,Janna,False,Side.red,2,5,8,2.0,6,Exhaust,Flash,11,False,7462,6825,Boots of Mobility,Eye of the Oasis,Redemption,Aegis of the Legion,Null-Magic Mantle,,8268,1621,Lane.bot_lane,Role.support
+8,Tyflos,Riven,False,Side.red,3,5,2,1.0,164,Teleport,Flash,13,False,9004,8900,The Black Cleaver,Caulfield's Warhammer,Null-Magic Mantle,Control Ward,Ravenous Hydra,Boots of Speed,0,93896,Lane.top_lane,Role.solo
+9,Lord Kuma,Yorick,False,Side.red,3,10,4,0.7,150,Ignite,Flash,13,False,9068,9208,Trinity Force,Spirit Visage,Giant's Belt,Cloth Armor,Ruby Crystal,Boots of Speed,7983,77211,Lane.mid_lane,Role.solo

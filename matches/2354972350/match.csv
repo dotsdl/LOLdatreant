@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TEAMLUKEE,Blitzcrank,True,Side.blue,5,5,9,2.8,66,Ignite,Flash,13,False,10269,8825,Boots of Mobility,Eye of the Equinox,Ruby Crystal,Luden's Echo,Sheen,Aether Wisp,30761,11696,Lane.bot_lane,Role.support
+1,Painn,Ryze,True,Side.blue,5,8,12,2.125,129,Flash,Cleanse,14,False,10927,10350,Null-Magic Mantle,Refillable Potion,Seraph's Embrace,Morellonomicon,Ionian Boots of Lucidity,Rod of Ages,84160,7980,Lane.mid_lane,Role.solo
+2,maplestreet LFT,Twitch,True,Side.blue,5,3,14,6.333333333333333,198,Heal,Flash,14,True,12338,11475,Phantom Dancer,Control Ward,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,,107,111150,Lane.bot_lane,Role.carry
+3,Jorgied,Lee Sin,True,Side.blue,11,4,7,4.5,105,Smite,Flash,14,False,12336,11985,Enchantment: Warrior,Locket of the Iron Solari,Maw of Malmortius,Boots of Swiftness,Guardian Angel,Ruby Crystal,26573,96785,Lane.jungle,Role.none
+4,Mgic,Jayce,True,Side.blue,17,5,6,4.6,225,Flash,Teleport,16,False,16276,13850,Youmuu's Ghostblade,Quicksilver Sash,Duskblade of Draktharr,Maw of Malmortius,Phage,Mercury's Treads,29072,150913,Lane.top_lane,Role.solo
+5,Kebin M,Ezreal,False,Side.red,2,8,11,1.625,190,Flash,Heal,14,False,10616,10413,Trinity Force,Muramana,Vampiric Scepter,Ionian Boots of Lucidity,B. F. Sword,Doran's Blade,22350,92871,Lane.bot_lane,Role.carry
+6,aphromoo,Sion,False,Side.red,2,7,6,1.1428571428571428,35,Exhaust,Flash,10,False,7374,7225,Ruby Sightstone,Knight's Vow,Targon's Brace,Control Ward,Kindlegem,Ninja Tabi,9672,17132,Lane.bot_lane,Role.support
+7,IA55A55INI,Ivern,False,Side.red,4,8,8,1.5,66,Flash,Smite,13,False,8899,8525,Enchantment: Runic Echoes,Athene's Unholy Grail,Ionian Boots of Lucidity,Rod of Ages,,,20232,6955,Lane.jungle,Role.none
+8,Pink Ward,Shaco,False,Side.red,8,9,8,1.7777777777777777,115,Teleport,Ignite,14,False,9825,9075,Corrupting Potion,Lich Bane,Hextech Protobelt-01,Ionian Boots of Lucidity,The Dark Seal,Aether Wisp,50256,13258,Lane.top_lane,Role.solo
+9,Shroudedd,Twisted Fate,False,Side.red,9,11,4,1.1818181818181819,152,Ghost,Flash,13,False,11207,10425,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Refillable Potion,Lich Bane,Zhonya's Hourglass,85907,11962,Lane.mid_lane,Role.solo

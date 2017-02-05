@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,wind of harmony,Karma,True,Side.blue,0,4,17,4.25,7,Exhaust,Flash,13,False,9437,7800,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,Refillable Potion,Ardent Censer,,16144,6007,Lane.bot_lane,Role.support
+1,powergamer,Katarina,True,Side.blue,12,4,3,3.75,202,Ignite,Flash,15,True,13466,12745,Sorcerer's Shoes,Negatron Cloak,Hextech Gunblade,Blasting Wand,Rylai's Crystal Scepter,Zhonya's Hourglass,112947,12003,Lane.mid_lane,Role.solo
+2,im smurfy,Jhin,True,Side.blue,8,2,7,7.5,219,Heal,Flash,15,False,14333,11200,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Infinity Edge,,7818,178799,Lane.bot_lane,Role.carry
+3,im not even 18,Shaco,True,Side.blue,8,2,3,5.5,191,Smite,Ignite,16,False,13866,11625,Ravenous Hydra,B. F. Sword,Enchantment: Warrior,Berserker's Greaves,Statikk Shiv,Long Sword,51131,160503,Lane.jungle,Role.none
+4,John LeCoky,Yasuo,True,Side.blue,2,3,5,2.3333333333333335,174,Flash,Teleport,15,False,10670,9550,Phantom Dancer,Infinity Edge,Ninja Tabi,Hexdrinker,Long Sword,,20189,82604,Lane.top_lane,Role.solo
+5,Sora and Shiro,Annie,False,Side.red,3,6,3,1.0,142,Flash,Ignite,13,False,8346,7625,Doran's Ring,Rylai's Crystal Scepter,Control Ward,Ionian Boots of Lucidity,Abyssal Scepter,,60627,9031,Lane.mid_lane,Role.solo
+6,Neo Restoration,Miss Fortune,False,Side.red,4,6,2,1.0,163,Heal,Flash,13,False,8678,8350,Doran's Blade,Youmuu's Ghostblade,Refillable Potion,Berserker's Greaves,Duskblade of Draktharr,Long Sword,11095,85347,Lane.bot_lane,Role.carry
+7,Sarcasm Orgasm,Nautilus,False,Side.red,5,6,5,1.6666666666666667,185,Flash,Teleport,15,False,9735,9350,Iceborn Gauntlet,Sunfire Cape,Kindlegem,Ninja Tabi,Doran's Ring,Spectre's Cowl,81278,24809,Lane.top_lane,Role.solo
+8,000gaolun000,Kha'Zix,False,Side.red,3,8,5,1.0,91,Flash,Smite,13,False,7824,7575,Enchantment: Warrior,Duskblade of Draktharr,Phage,,Boots of Speed,Refillable Potion,2203,69788,Lane.jungle,Role.none
+9,hellriddle,Janna,False,Side.red,0,4,11,2.75,16,Flash,Exhaust,12,False,7108,6525,Redemption,Sightstone,Aegis of the Legion,Boots of Mobility,Nomad's Medallion,Control Ward,4374,2414,Lane.bot_lane,Role.support

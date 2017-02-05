@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,who hurt you,Kha'Zix,True,Side.blue,12,3,5,5.666666666666667,106,Flash,Smite,13,False,11102,9425,Youmuu's Ghostblade,Hunter's Potion,Boots of Mobility,Enchantment: Warrior,Hexdrinker,B. F. Sword,5976,102306,Lane.jungle,Role.none
+1,Riesig,Yorick,True,Side.blue,4,1,2,6.0,183,Flash,Teleport,13,False,9133,8908,Corrupting Potion,Trinity Force,Ninja Tabi,Kindlegem,Zz'Rot Portal,,12399,81840,Lane.top_lane,Role.solo
+2,Simon Hawkes,Janna,True,Side.blue,1,2,11,6.0,7,Exhaust,Flash,11,False,6451,3975,Refillable Potion,Eye of the Watchers,,Faerie Charm,Faerie Charm,Ionian Boots of Lucidity,3770,2404,Lane.bot_lane,Role.support
+3,Ablazeolive,Syndra,True,Side.blue,6,1,7,13.0,188,Flash,Exhaust,13,False,10147,8075,Sorcerer's Shoes,Morellonomicon,Control Ward,Refillable Potion,Rylai's Crystal Scepter,Doran's Ring,99237,10396,Lane.mid_lane,Role.solo
+4,insaníty,Twitch,True,Side.blue,2,2,5,3.5,135,Flash,Heal,12,False,8021,5700,Doran's Blade,Berserker's Greaves,Blade of the Ruined King,Dagger,Dagger,,75,61101,Lane.bot_lane,Role.carry
+5,DoombringerEX,Kennen,False,Side.red,2,6,4,1.0,22,Flash,Exhaust,9,False,5981,5750,Frostfang,Ionian Boots of Lucidity,Zhonya's Hourglass,Sightstone,,,14767,5054,Lane.bot_lane,Role.support
+6,Cris,Yasuo,False,Side.red,1,6,1,0.3333333333333333,146,Flash,Teleport,12,False,6766,6125,Refillable Potion,Ruby Crystal,Doran's Blade,Phantom Dancer,Ninja Tabi,Jaurim's Fist,20554,63367,Lane.top_lane,Role.solo
+7,Rohammers,Karma,False,Side.red,1,4,3,1.0,121,Teleport,Flash,11,False,6301,5500,Doran's Ring,Refillable Potion,Athene's Unholy Grail,Boots of Speed,Ardent Censer,,57149,10650,Lane.mid_lane,Role.solo
+8,C9 Sneaky,Caitlyn,False,Side.red,3,4,4,1.75,172,Flash,Heal,11,True,8577,8050,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,Control Ward,627,91078,Lane.bot_lane,Role.carry
+9,x Coggles,Lee Sin,False,Side.red,2,5,2,0.8,62,Flash,Smite,10,False,6014,5675,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Long Sword,Giant's Belt,Cloth Armor,8795,48827,Lane.jungle,Role.none

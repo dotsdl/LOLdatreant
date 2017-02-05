@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Longzhu Crash,Rumble,True,Side.blue,7,3,5,4.0,164,Teleport,Flash,13,False,9866,8700,Sorcerer's Shoes,Liandry's Torment,Zhonya's Hourglass,Blasting Wand,Doran's Shield,,78967,9287,Lane.top_lane,Role.solo
+1,Sheathix,Trundle,True,Side.blue,2,2,12,7.0,40,Flash,Exhaust,11,False,7298,5700,Face of the Mountain,Mercury's Treads,Spectre's Cowl,Control Ward,Sightstone,,561,25062,Lane.bot_lane,Role.support
+2,goompa,Lee Sin,True,Side.blue,12,2,4,8.0,96,Smite,Flash,12,False,10007,8725,Mercury's Treads,Cloth Armor,,Hexdrinker,Duskblade of Draktharr,Enchantment: Warrior,15134,62738,Lane.jungle,Role.none
+3,J D,Vayne,True,Side.blue,10,4,4,3.5,122,Heal,Flash,12,False,10440,8775,Brawler's Gloves,Doran's Blade,Dagger,Infinity Edge,Statikk Shiv,Berserker's Greaves,13352,60092,Lane.bot_lane,Role.carry
+4,Klawbro,Ziggs,True,Side.blue,2,2,10,6.0,158,Flash,Ignite,13,False,9288,8360,Doran's Ring,Morellonomicon,Luden's Echo,Sorcerer's Shoes,Amplifying Tome,,87869,13110,Lane.mid_lane,Role.solo
+5,NEACE  Eeeee,Ivern,False,Side.red,0,8,6,0.75,55,Flash,Smite,10,False,5947,5625,Enchantment: Runic Echoes,Hunter's Potion,Boots of Mobility,Chalice of Harmony,Fiendish Codex,,6302,1784,Lane.jungle,Role.none
+6,Jordanian Sniper,Jhin,False,Side.red,4,9,0,0.4444444444444444,97,Flash,Heal,10,False,6378,4925,Youmuu's Ghostblade,,Control Ward,Boots of Speed,Pickaxe,Doran's Blade,4976,45827,Lane.bot_lane,Role.carry
+7,MaNDashwell,Morgana,False,Side.red,0,4,4,1.0,31,Flash,Exhaust,9,False,5427,4900,Frost Queen's Claim,Sightstone,Control Ward,Aegis of the Legion,Total Biscuit of Rejuvenation,Boots of Speed,23741,4075,Lane.bot_lane,Role.support
+8,SoloMeatballOnly,Renekton,False,Side.red,4,5,2,1.2,126,Ignite,Flash,12,False,7086,5425,The Black Cleaver,Refillable Potion,Mercury's Treads,Ruby Crystal,Ruby Crystal,Control Ward,5321,61934,Lane.top_lane,Role.solo
+9,HideInurShadow,Katarina,False,Side.red,5,7,2,1.0,102,Flash,Ignite,12,True,6975,6710,Hextech Gunblade,Boots of Speed,Amplifying Tome,Needlessly Large Rod,Ruby Crystal,The Dark Seal,52374,5351,Lane.mid_lane,Role.solo

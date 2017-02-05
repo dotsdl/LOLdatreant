@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lesu,Kha'Zix,False,Side.blue,6,2,5,5.5,130,Smite,Flash,12,False,8187,7425,Enchantment: Warrior,Refillable Potion,Hexdrinker,Youmuu's Ghostblade,Boots of Speed,,1994,90360,Lane.jungle,Role.none
+1,Clarizio,Alistar,False,Side.blue,0,3,10,3.3333333333333335,14,Flash,Exhaust,9,False,4411,4000,Control Ward,Eye of the Equinox,Boots of Mobility,Cloth Armor,,,5785,2679,Lane.bot_lane,Role.duo
+2,Nash,LeBlanc,False,Side.blue,2,4,3,1.25,60,Teleport,Flash,9,False,4668,4135,Doran's Ring,Catalyst of Aeons,The Dark Seal,Blasting Wand,,Boots of Swiftness,22782,4043,Lane.top_lane,Role.solo
+3,Orbt,Caitlyn,False,Side.blue,0,2,0,0.0,37,Flash,Heal,5,False,3645,1250,Doran's Blade,,,Dagger,Cull,,109,11072,Lane.bot_lane,Role.duo
+4,AchiIIes Heal,Ahri,False,Side.blue,4,2,6,5.0,159,Flash,Ignite,13,False,7318,6835,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,Ruby Crystal,47570,8933,Lane.mid_lane,Role.solo
+5,ZTG SolidSnake,Lee Sin,True,Side.red,3,3,1,1.3333333333333333,76,Flash,Smite,10,True,7429,6975,Chain Vest,Enchantment: Warrior,Mercury's Treads,Hexdrinker,Giant's Belt,,10607,51160,Lane.jungle,Role.none
+6,TheBolvar,Maokai,True,Side.red,4,1,3,7.0,160,Flash,Teleport,12,False,8733,8200,Doran's Ring,Spectre's Cowl,Iceborn Gauntlet,Sunfire Cape,Boots of Speed,Doran's Ring,72815,14788,Lane.top_lane,Role.solo
+7,Henchey,Orianna,True,Side.red,3,1,3,6.0,129,Ghost,Flash,12,False,8230,8135,Doran's Ring,Morellonomicon,Boots of Speed,Rabadon's Deathcap,Amplifying Tome,,64775,13092,Lane.mid_lane,Role.solo
+8,Cat Person,Janna,True,Side.red,0,2,5,2.5,3,Flash,Heal,9,False,6192,4450,Forbidden Idol,Sightstone,Crystalline Bracer,Frostfang,Boots of Mobility,,3977,5390,Lane.bot_lane,Role.support
+9,Falco Mechanic,Jinx,True,Side.red,3,5,2,1.0,128,Exhaust,Flash,9,False,8030,7650,Doran's Blade,Berserker's Greaves,Infinity Edge,Zeal,Recurve Bow,,170,81071,Lane.bot_lane,Role.carry

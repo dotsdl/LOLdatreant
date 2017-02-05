@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,savary,Irelia,False,Side.blue,0,5,1,0.2,79,Ignite,Flash,9,False,4351,3500,Phage,Boots of Speed,Sheen,Doran's Blade,,,697,24985,Lane.jungle,Role.none
+1,Abou222,Ekko,False,Side.blue,0,3,0,0.0,112,Ignite,Flash,10,False,4932,3850,Hextech Protobelt-01,Refillable Potion,Doran's Ring,Doran's Ring,,Boots of Speed,49174,10618,Lane.jungle,Role.none
+2,AndrwPumpkinSeed,Poppy,False,Side.blue,2,5,0,0.4,57,Smite,Flash,9,False,5004,4675,Boots of Swiftness,Refillable Potion,Enchantment: Cinderhulk,Ruby Crystal,Cloth Armor,Cloth Armor,10672,36199,Lane.mid_lane,Role.solo
+3,typty,Jayce,True,Side.red,4,2,5,4.5,128,Flash,Exhaust,11,False,7254,6650,Youmuu's Ghostblade,Doran's Blade,Phage,Mercury's Treads,Long Sword,Long Sword,8069,58435,Lane.mid_lane,Role.solo
+4,Tensai,Rek'Sai,True,Side.red,7,0,5,12.0,89,Smite,Flash,12,True,8103,7425,Enchantment: Cinderhulk,Mercury's Treads,Phage,Caulfield's Warhammer,Refillable Potion,Tiamat,21840,55269,Lane.jungle,Role.none
+5,Branden San,Karma,True,Side.red,2,0,7,9.0,81,Flash,Ignite,11,False,5679,4900,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,,,Doran's Ring,34553,8029,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,9213dog,Caitlyn,False,Side.blue,1,6,6,1.1666666666666667,200,Flash,Heal,13,False,9419,8400,Doran's Blade,Statikk Shiv,Infinity Edge,,Berserker's Greaves,,8042,90999,Lane.bot_lane,Role.carry
+1,Andy Sensei,Maokai,False,Side.blue,3,7,3,0.8571428571428571,163,Flash,Teleport,13,False,8684,7425,Doran's Ring,Rod of Ages,Refillable Potion,Sunfire Cape,Ninja Tabi,,88375,10987,Lane.top_lane,Role.solo
+2,Markachino77,Ivern,False,Side.blue,7,6,4,1.8333333333333333,56,Flash,Smite,13,False,8820,8600,Redemption,Locket of the Iron Solari,Randuin's Omen,Ionian Boots of Lucidity,Hunter's Talisman,,9651,5318,Lane.jungle,Role.none
+3,nackksi,Leona,False,Side.blue,0,8,8,1.0,49,Exhaust,Flash,12,False,6995,6925,Face of the Mountain,Forbidden Idol,Ruby Sightstone,Total Biscuit of Rejuvenation,Crystalline Bracer,Boots of Mobility,8413,6303,Lane.bot_lane,Role.support
+4,t d,Ahri,False,Side.blue,10,9,4,1.5555555555555556,176,Ignite,Flash,14,False,10940,11175,Rabadon's Deathcap,Void Staff,Sorcerer's Shoes,,Morellonomicon,,64093,8140,Lane.mid_lane,Role.solo
+5,idiot6593,Viktor,True,Side.red,10,7,8,2.5714285714285716,155,Ghost,Flash,15,False,12513,9250,Perfect Hex Core,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Sheen,89065,9479,Lane.mid_lane,Role.solo
+6,dustycat,Brand,True,Side.red,3,5,9,2.4,13,Flash,Exhaust,12,False,9135,8725,Blasting Wand,Eye of the Watchers,Boots of Speed,Haunting Guise,Rylai's Crystal Scepter,,23579,7225,Lane.bot_lane,Role.support
+7,BMoreScoots,Renekton,True,Side.red,5,3,11,5.333333333333333,172,Ignite,Flash,15,False,11761,10550,The Black Cleaver,Titanic Hydra,Locket of the Iron Solari,Refillable Potion,Mercury's Treads,Long Sword,4970,129694,Lane.top_lane,Role.solo
+8,mid VallFire,Ezreal,True,Side.red,11,2,6,8.5,165,Flash,Heal,14,True,12836,10483,Doran's Blade,Blade of the Ruined King,Boots of Speed,Trinity Force,Muramana,,10239,95892,Lane.bot_lane,Role.carry
+9,Vladfire1 BG ,Graves,True,Side.red,7,4,10,4.25,198,Smite,Flash,17,False,14303,13250,Enchantment: Warrior,Death's Dance,Mercury's Treads,Maw of Malmortius,Phantom Dancer,,4017,197291,Lane.jungle,Role.none

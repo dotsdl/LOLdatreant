@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IA55A55INI,Kled,False,Side.blue,2,6,1,0.5,153,Flash,Teleport,12,False,8832,8025,Doran's Blade,Titanic Hydra,Refillable Potion,Boots of Speed,The Black Cleaver,Cloth Armor,0,81934,Lane.top_lane,Role.solo
+1,Jorgied,Olaf,False,Side.blue,4,6,7,1.8333333333333333,146,Smite,Ghost,14,True,9871,9025,Spirit Visage,Warden's Mail,Ionian Boots of Lucidity,Giant's Belt,Enchantment: Cinderhulk,Ruby Crystal,21641,94837,Lane.mid_lane,Role.support
+2,Mgic,Cassiopeia,False,Side.blue,5,6,3,1.3333333333333333,153,Flash,Exhaust,13,False,8923,8260,Refillable Potion,Abyssal Scepter,Doran's Ring,Tear of the Goddess,Morellonomicon,Giant's Belt,67139,6736,Lane.mid_lane,Role.carry
+3,Azerothir,Nautilus,False,Side.blue,0,7,8,1.1428571428571428,42,Flash,Exhaust,11,False,7055,6250,Control Ward,Knight's Vow,Eye of the Equinox,Cloth Armor,Boots of Mobility,,18990,6420,Lane.bot_lane,Role.support
+4,Dexima,Ezreal,False,Side.blue,8,5,2,2.0,178,Flash,Heal,13,False,11027,8900,Doran's Blade,Bilgewater Cutlass,Ionian Boots of Lucidity,Cull,Iceborn Gauntlet,Muramana,12786,82588,Lane.bot_lane,Role.carry
+5,AchiIIes Heal,Lucian,True,Side.red,2,4,13,3.75,202,Flash,Heal,14,False,11961,9700,Rapid Firecannon,Quicksilver Sash,Essence Reaver,Cull,Berserker's Greaves,Doran's Blade,3766,111528,Lane.bot_lane,Role.carry
+6,Kebin M,Karma,True,Side.red,2,4,11,3.25,11,Flash,Exhaust,13,False,8627,7485,,Eye of the Watchers,Redemption,,Mejai's Soulstealer,Ionian Boots of Lucidity,14684,4888,Lane.bot_lane,Role.support
+7,Darvec,Hecarim,True,Side.red,10,3,12,7.333333333333333,142,Smite,Ghost,16,False,13118,13158,Enchantment: Cinderhulk,Dead Man's Plate,Trinity Force,Banshee's Veil,Ionian Boots of Lucidity,,23850,126354,Lane.jungle,Role.none
+8,Kachu,Riven,True,Side.red,6,2,6,6.0,213,Teleport,Flash,16,False,12144,10525,Doran's Blade,Tiamat,The Black Cleaver,Mercury's Treads,Death's Dance,Pickaxe,0,141379,Lane.top_lane,Role.solo
+9,Yanni Tsunami,Katarina,True,Side.red,10,6,10,3.3333333333333335,191,Ignite,Flash,15,False,12938,11600,Luden's Echo,Rabadon's Deathcap,Void Staff,Sorcerer's Shoes,The Dark Seal,,108594,12721,Lane.mid_lane,Role.solo

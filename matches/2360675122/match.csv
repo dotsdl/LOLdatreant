@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KushaIa Daora,Ezreal,False,Side.blue,4,7,7,1.5714285714285714,177,Flash,Heal,13,False,10483,10413,Doran's Blade,Trinity Force,Essence Reaver,Long Sword,Long Sword,Berserker's Greaves,15444,101387,Lane.bot_lane,Role.carry
+1,Lucky of Legends,Darius,False,Side.blue,5,9,4,1.0,214,Flash,Ghost,15,False,10853,9925,Ninja Tabi,Jaurim's Fist,Zz'Rot Portal,The Black Cleaver,Bami's Cinder,Doran's Shield,12149,106170,Lane.top_lane,Role.solo
+2,Mjolniron,Miss Fortune,False,Side.blue,2,13,8,0.7692307692307693,33,Flash,Exhaust,11,False,8158,7225,Boots of Swiftness,Eye of the Watchers,Mortal Reminder,Control Ward,,,9675,10823,Lane.bot_lane,Role.support
+3,PancakeKojo,Lee Sin,False,Side.blue,10,10,9,1.9,119,Smite,Flash,15,False,11203,11025,Tiamat,Enchantment: Warrior,Dead Man's Plate,Maw of Malmortius,,Boots of Mobility,19018,86276,Lane.jungle,Role.none
+4,adc feng lft,LeBlanc,False,Side.blue,6,7,5,1.5714285714285714,172,Ignite,Flash,14,False,10625,10925,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Void Staff,,95880,9490,Lane.mid_lane,Role.solo
+5,OmarGod,Vi,True,Side.red,19,1,8,27.0,125,Flash,Smite,17,False,16527,14308,Spirit Visage,Trinity Force,Sterak's Gage,Enchantment: Warrior,Boots of Swiftness,Giant's Belt,987,166824,Lane.jungle,Role.none
+6,Snackbar123,Jhin,True,Side.red,10,4,9,4.75,238,Heal,Flash,16,False,15713,14150,Doran's Blade,Lord Dominik's Regards,Infinity Edge,Rapid Firecannon,Boots of Swiftness,Essence Reaver,14826,184447,Lane.bot_lane,Role.carry
+7,TwitchTV LOLFILL,Zyra,True,Side.red,6,6,20,4.333333333333333,23,Ignite,Flash,13,True,12584,11375,Rylai's Crystal Scepter,Liandry's Torment,Sorcerer's Shoes,Blasting Wand,Eye of the Watchers,Control Ward,37723,4512,Lane.bot_lane,Role.support
+8,Tuesdayy,Syndra,True,Side.red,7,10,8,1.5,179,Ghost,Flash,15,False,13097,11330,Needlessly Large Rod,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Negatron Cloak,Amplifying Tome,123244,12316,Lane.jungle,Role.none
+9,Wintrader Vulcan,Yasuo,True,Side.red,4,6,3,1.1666666666666667,231,Flash,Teleport,15,False,12649,11600,Doran's Blade,Frozen Mallet,Infinity Edge,Phantom Dancer,Ninja Tabi,,13040,135413,Lane.top_lane,Role.solo

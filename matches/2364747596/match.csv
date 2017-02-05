@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Morgana,False,Side.blue,0,4,9,2.25,23,Flash,Exhaust,11,False,8034,7560,Eye of the Watchers,Redemption,Amplifying Tome,Total Biscuit of Rejuvenation,Fiendish Codex,Boots of Mobility,17398,3221,Lane.bot_lane,Role.support
+1,popgoestheglock,Maokai,False,Side.blue,4,6,6,1.6666666666666667,215,Teleport,Flash,15,False,10510,10175,Doran's Ring,Mercury's Treads,Sunfire Cape,Righteous Glory,Spirit Visage,Cloth Armor,96128,17691,Lane.top_lane,Role.solo
+2,Twisted Fãte,Twisted Fate,False,Side.blue,4,8,5,1.125,180,Flash,Ghost,14,False,11250,10525,Zhonya's Hourglass,,Lich Bane,Rod of Ages,Boots of Swiftness,Doran's Ring,117819,15590,Lane.mid_lane,Role.solo
+3,Dregonaut,Vayne,False,Side.blue,5,5,4,1.8,218,Heal,Flash,14,False,11388,11350,Blade of the Ruined King,Infinity Edge,Statikk Shiv,Berserker's Greaves,Doran's Blade,,31860,109716,Lane.bot_lane,Role.carry
+4,Feht,Elise,False,Side.blue,5,5,5,2.0,134,Smite,Flash,14,False,10673,10850,Enchantment: Runic Echoes,Hextech Protobelt-01,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,,106604,26943,Lane.jungle,Role.none
+5,data88,Nasus,True,Side.red,5,2,8,6.5,328,Teleport,Flash,18,False,15712,13733,Spirit Visage,Zz'Rot Portal,Mercury's Treads,Trinity Force,Guardian Angel,Vampiric Scepter,42601,211005,Lane.top_lane,Role.solo
+6,Encross,Karthus,True,Side.red,8,3,12,6.666666666666667,205,Exhaust,Flash,16,False,13460,12200,Doran's Ring,Zhonya's Hourglass,Quicksilver Sash,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,160094,2341,Lane.mid_lane,Role.solo
+7,Arselan,Vi,True,Side.red,7,3,10,5.666666666666667,104,Flash,Smite,15,False,12152,11283,Enchantment: Cinderhulk,Cloth Armor,Boots of Mobility,Maw of Malmortius,Trinity Force,Hunter's Potion,12703,88614,Lane.jungle,Role.none
+8,OPKen,Ezreal,True,Side.red,8,4,10,4.5,205,Heal,Flash,15,True,13426,12283,Trinity Force,Muramana,The Bloodthirster,Doran's Blade,Ionian Boots of Lucidity,Pickaxe,20539,132251,Lane.bot_lane,Role.carry
+9,ArmsofSilver,Bard,True,Side.red,0,6,21,3.5,5,Flash,Ignite,13,False,9257,8485,Redemption,Locket of the Iron Solari,Ruby Sightstone,,Boots of Mobility,Frostfang,11921,5846,Lane.bot_lane,Role.support

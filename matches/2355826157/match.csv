@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KrantZ Uzi,Lucian,False,Side.blue,3,13,11,1.0769230769230769,128,Flash,Heal,14,False,10273,9550,Rapid Firecannon,Doran's Blade,Essence Reaver,Berserker's Greaves,Last Whisper,,3534,86357,Lane.bot_lane,Role.carry
+1,Gdawg399,Ahri,False,Side.blue,5,8,7,1.5,179,Ignite,Flash,14,False,10743,10735,Needlessly Large Rod,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Giant's Belt,64453,13322,Lane.mid_lane,Role.solo
+2,Jurassiq,Lee Sin,False,Side.blue,10,7,5,2.142857142857143,132,Flash,Smite,16,False,12485,11725,Enchantment: Warrior,Randuin's Omen,Dead Man's Plate,Hexdrinker,Ionian Boots of Lucidity,Null-Magic Mantle,20979,103041,Lane.jungle,Role.none
+3,Lycheeeeeeee,Lux,False,Side.blue,3,9,10,1.4444444444444444,45,Ignite,Flash,13,False,10131,10075,Sightstone,Frost Queen's Claim,Redemption,Ionian Boots of Lucidity,The Dark Seal,Luden's Echo,54195,5293,Lane.bot_lane,Role.support
+4,WAIT imFarming,Master Yi,False,Side.blue,1,9,5,0.6666666666666666,177,Teleport,Flash,14,False,9776,9650,Doran's Blade,Titanic Hydra,Doran's Blade,Mercury's Treads,Guinsoo's Rageblade,Ruby Crystal,36,105064,Lane.top_lane,Role.solo
+5,Lining,Soraka,True,Side.red,1,4,26,6.75,14,Exhaust,Flash,14,False,10206,8750,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Chalice of Harmony,Faerie Charm,Eye of the Oasis,10528,5173,Lane.bot_lane,Role.support
+6,Cold Zer0,Vayne,True,Side.red,17,10,6,2.3,257,Heal,Flash,16,False,16501,18925,Rabadon's Deathcap,,,,Berserker's Greaves,,46678,140062,Lane.bot_lane,Role.carry
+7,chairz,Poppy,True,Side.red,6,2,22,14.0,150,Teleport,Flash,17,False,13130,12550,Guardian Angel,Sunfire Cape,Iceborn Gauntlet,Mercury's Treads,Spirit Visage,,37166,78357,Lane.top_lane,Role.solo
+8,König Puma,Orianna,True,Side.red,13,2,17,15.0,290,Flash,Ghost,17,False,16599,15450,Rabadon's Deathcap,Elixir of Sorcery,Void Staff,Sorcerer's Shoes,Luden's Echo,Morellonomicon,193174,20715,Lane.mid_lane,Role.solo
+9,RacistMuffin,Nidalee,True,Side.red,9,4,13,5.5,155,Smite,Flash,17,True,14266,12200,Enchantment: Runic Echoes,Rod of Ages,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Blasting Wand,Sheen,161619,24570,Lane.jungle,Role.none

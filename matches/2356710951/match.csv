@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aint Random,Renekton,False,Side.blue,2,7,1,0.42857142857142855,163,Flash,Ignite,12,False,8044,7750,Ninja Tabi,Giant's Belt,Ruby Crystal,The Black Cleaver,Null-Magic Mantle,Chain Vest,1924,61439,Lane.top_lane,Role.solo
+1,camtheham,Varus,False,Side.blue,3,3,6,3.0,192,Heal,Flash,12,False,8961,8175,Control Ward,Refillable Potion,Berserker's Greaves,Essence Reaver,Doran's Blade,Rapid Firecannon,7997,91489,Lane.bot_lane,Role.carry
+2,dog2,Leona,False,Side.blue,2,8,9,1.375,36,Flash,Exhaust,10,False,6615,5975,Boots of Mobility,Eye of the Equinox,Knight's Vow,,,,9080,6001,Lane.bot_lane,Role.support
+3,cesuna,Shyvana,False,Side.blue,4,8,4,1.0,134,Flash,Smite,12,False,8425,8260,Cloth Armor,Giant's Belt,Mercury's Treads,Enchantment: Bloodrazor,Wit's End,Dagger,60209,45610,Lane.jungle,Role.none
+4,Abou222,Annie,False,Side.blue,4,3,5,3.0,134,Ghost,Flash,13,False,8063,7950,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,,Doran's Ring,,44429,9106,Lane.mid_lane,Role.solo
+5,ZatsMod,Morgana,True,Side.red,3,5,9,2.4,24,Flash,Exhaust,11,False,8407,7275,Sightstone,Zhonya's Hourglass,Redemption,Ionian Boots of Lucidity,Spellthief's Edge,,19100,7232,Lane.bot_lane,Role.support
+6,TeddyRO,Caitlyn,True,Side.red,5,4,7,3.0,169,Flash,Heal,14,False,10963,8750,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Vampiric Scepter,,407,117361,Lane.bot_lane,Role.carry
+7,insaníty,LeBlanc,True,Side.red,9,3,6,5.0,168,Flash,Ignite,15,False,11434,10050,Doran's Ring,Mejai's Soulstealer,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,Needlessly Large Rod,80739,17371,Lane.mid_lane,Role.solo
+8,swoloHey,Zac,True,Side.red,5,1,13,18.0,127,Flash,Smite,14,False,10677,9525,Randuin's Omen,Spirit Visage,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Refillable Potion,,86835,23254,Lane.jungle,Role.none
+9,Kebin M,Riven,True,Side.red,7,2,7,7.0,168,Flash,Teleport,14,True,11193,9975,Tiamat,Vampiric Scepter,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Doran's Shield,0,120538,Lane.top_lane,Role.solo

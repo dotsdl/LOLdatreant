@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Weeaboo Riven,Riven,True,Side.blue,11,5,3,2.8,180,Flash,Teleport,15,False,12783,9325,Maw of Malmortius,Mercury's Treads,The Black Cleaver,,Long Sword,Tiamat,0,122615,Lane.top_lane,Role.solo
+1,Romanium,Renekton,True,Side.blue,15,6,7,3.6666666666666665,165,Flash,Ghost,15,False,14336,11300,The Black Cleaver,Blade of the Ruined King,Ninja Tabi,Death's Dance,,,3891,129246,Lane.mid_lane,Role.solo
+2,CloudNguyén,Lee Sin,True,Side.blue,8,6,9,2.8333333333333335,116,Smite,Flash,14,True,11785,11525,Enchantment: Warrior,Tiamat,Boots of Swiftness,Duskblade of Draktharr,Maw of Malmortius,,16761,100793,Lane.jungle,Role.none
+3,Témpest,Yasuo,True,Side.blue,6,5,6,2.4,117,Flash,Exhaust,13,False,10552,9500,Phantom Dancer,Infinity Edge,Mercury's Treads,Jaurim's Fist,Doran's Blade,Doran's Blade,22638,63478,Lane.bot_lane,Role.carry
+4,amumumu,Soraka,True,Side.blue,1,6,21,3.6666666666666665,17,Flash,Exhaust,13,False,9647,7500,Raptor Cloak,Mejai's Soulstealer,Redemption,Sightstone,Ionian Boots of Lucidity,Nomad's Medallion,15741,6289,Lane.bot_lane,Role.support
+5,MyTimeIsNow,Ryze,False,Side.red,7,9,10,1.8888888888888888,167,Ghost,Flash,14,False,10293,8160,Seraph's Embrace,Chain Vest,Control Ward,Ionian Boots of Lucidity,Rod of Ages,Amplifying Tome,97649,8132,Lane.mid_lane,Role.solo
+6,yltfed,Vayne,False,Side.red,10,11,5,1.3636363636363635,108,Flash,Heal,13,False,9394,8650,Statikk Shiv,Doran's Blade,Boots of Speed,Infinity Edge,Dagger,B. F. Sword,2716,47382,Lane.bot_lane,Role.carry
+7,TheAirIsDry,Nami,False,Side.red,0,5,15,3.0,12,Flash,Exhaust,12,False,6879,6325,Sightstone,Redemption,Knight's Vow,,Spellthief's Edge,Boots of Speed,9127,4392,Lane.bot_lane,Role.support
+8,EnVy Nien,Kha'Zix,False,Side.red,10,6,5,2.5,93,Flash,Smite,13,False,9914,10025,Tiamat,Refillable Potion,Ninja Tabi,Enchantment: Warrior,Duskblade of Draktharr,Chain Vest,4092,85786,Lane.jungle,Role.none
+9,Happy Birfdizzay,Teemo,False,Side.red,1,10,4,0.5,153,Flash,Ignite,13,False,8050,6600,Hextech Gunblade,Fiendish Codex,Boots of Speed,Stinger,Doran's Ring,Doran's Ring,54078,27225,Lane.top_lane,Role.solo

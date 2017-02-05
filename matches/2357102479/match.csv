@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xTc4,Sona,True,Side.blue,1,5,25,5.2,24,Flash,Exhaust,15,False,11920,11575,Liandry's Torment,Hextech Revolver,Eye of the Watchers,Tear of the Goddess,Sorcerer's Shoes,Zhonya's Hourglass,24185,9855,Lane.bot_lane,Role.support
+1,TwTv Kinoscorpia,Lucian,True,Side.blue,13,8,5,2.25,278,Heal,Flash,16,False,17632,15725,Phantom Dancer,The Bloodthirster,Infinity Edge,Berserker's Greaves,Essence Reaver,Long Sword,6405,237636,Lane.bot_lane,Role.carry
+2,CloudNguyén,Brand,True,Side.blue,8,5,11,3.8,188,Ignite,Flash,16,False,14456,12475,Blasting Wand,Rylai's Crystal Scepter,Sorcerer's Shoes,Liandry's Torment,Morellonomicon,Doran's Ring,139646,18687,Lane.mid_lane,Role.solo
+3,owowowowowowowo,Riven,True,Side.blue,8,4,4,3.0,261,Teleport,Flash,17,False,14813,14725,Lord Dominik's Regards,Youmuu's Ghostblade,The Black Cleaver,Hexdrinker,Mercury's Treads,Guardian Angel,6463,185251,Lane.top_lane,Role.solo
+4,TheKushGuy,Lee Sin,True,Side.blue,2,9,7,1.0,145,Smite,Flash,14,False,12051,10700,Enchantment: Warrior,Dead Man's Plate,Boots of Swiftness,Hexdrinker,Guardian Angel,Long Sword,27092,106459,Lane.jungle,Role.none
+5,OmegaB,Gnar,False,Side.red,6,10,7,1.3,170,Flash,Teleport,15,False,11627,11720,Randuin's Omen,The Black Cleaver,Negatron Cloak,Frozen Mallet,Mercury's Treads,,11204,87433,Lane.top_lane,Role.solo
+6,Ablazeolive,Ryze,False,Side.red,8,8,7,1.875,320,Flash,Ghost,18,False,15574,13125,Ionian Boots of Lucidity,Rod of Ages,Abyssal Scepter,,Seraph's Embrace,Void Staff,272275,9170,Lane.mid_lane,Role.solo
+7,LimitedExtent,Vayne,False,Side.red,13,5,8,4.2,216,Heal,Flash,16,True,14778,13000,Doran's Blade,Zeal,Infinity Edge,Statikk Shiv,The Bloodthirster,Berserker's Greaves,35357,122284,Lane.bot_lane,Role.carry
+8,An Obese Panda,Gragas,False,Side.red,3,4,16,4.75,97,Smite,Flash,15,False,10808,10225,,Randuin's Omen,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Null-Magic Mantle,Dead Man's Plate,74965,22023,Lane.jungle,Role.none
+9,TSM MeNoHaxor,Karma,False,Side.red,1,6,18,3.1666666666666665,18,Exhaust,Flash,13,False,10202,8975,Eye of the Watchers,Boots of Mobility,Locket of the Iron Solari,Chain Vest,Control Ward,Redemption,10040,3645,Lane.bot_lane,Role.support

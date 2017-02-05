@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,damightywolf,Miss Fortune,True,Side.blue,8,1,4,12.0,108,Heal,Flash,9,True,8875,7850,Berserker's Greaves,Youmuu's Ghostblade,Duskblade of Draktharr,,,Doran's Blade,5010,54214,Lane.bot_lane,Role.carry
+1,MewisaBearr,Janna,True,Side.blue,1,0,15,16.0,3,Exhaust,Flash,10,False,5884,5700,Redemption,Spellthief's Edge,Sightstone,Ionian Boots of Lucidity,Aegis of the Legion,,3564,5604,Lane.bot_lane,Role.support
+2,Enticed,Viktor,True,Side.blue,6,0,6,12.0,124,Flash,Ghost,11,False,8291,8050,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Lich Bane,Ruby Crystal,,53595,10415,Lane.mid_lane,Role.solo
+3,KT Score,Ivern,True,Side.blue,1,0,14,15.0,59,Smite,Flash,11,False,6860,6400,Null-Magic Mantle,Hunter's Talisman,The Dark Seal,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,17786,7725,Lane.jungle,Role.none
+4,Tyflos,Singed,True,Side.blue,1,5,4,1.0,149,Teleport,Ghost,11,False,6923,5960,The Dark Seal,Corrupting Potion,Giant's Belt,Amplifying Tome,Zz'Rot Portal,Boots of Swiftness,72178,5628,Lane.top_lane,Role.solo
+5,Kolayr,Veigar,False,Side.red,0,2,0,0.0,123,Teleport,Flash,11,False,4963,4175,The Dark Seal,Refillable Potion,Doran's Ring,Morellonomicon,Boots of Speed,,35965,8737,Lane.mid_lane,Role.solo
+6,FACEB00K,Taric,False,Side.red,0,7,1,0.14285714285714285,25,Exhaust,Flash,8,False,3621,2725,Total Biscuit of Rejuvenation,Eye of the Equinox,Boots of Speed,,,,3151,2599,Lane.bot_lane,Role.support
+7,Autist Retard,Xin Zhao,False,Side.red,3,4,0,0.75,63,Smite,Flash,10,False,5470,5275,Enchantment: Bloodrazor,Bilgewater Cutlass,Health Potion,Boots of Speed,Dagger,Dagger,5004,54403,Lane.jungle,Role.none
+8,UCSD Felix,Ashe,False,Side.red,1,2,0,0.5,87,Flash,Heal,8,False,4683,3950,Cull,Doran's Blade,B. F. Sword,Recurve Bow,Dagger,Brawler's Gloves,187,27982,Lane.bot_lane,Role.carry
+9,Vyvie,Maokai,False,Side.red,1,2,1,1.0,108,Flash,Teleport,10,False,4992,4900,Corrupting Potion,,,Doran's Ring,Sunfire Cape,Mercury's Treads,27956,9304,Lane.top_lane,Role.solo

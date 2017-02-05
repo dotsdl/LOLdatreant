@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iSEdge,Twisted Fate,False,Side.blue,4,6,4,1.3333333333333333,181,Cleanse,Flash,13,False,11154,9900,Boots of Speed,,Zhonya's Hourglass,Null-Magic Mantle,Lich Bane,Rod of Ages,75363,16685,Lane.mid_lane,Role.solo
+1,Extreme Person,Xin Zhao,False,Side.blue,1,4,8,2.25,66,Flash,Exhaust,13,False,9008,7725,Sightstone,Doran's Shield,Mercury's Treads,Face of the Mountain,Locket of the Iron Solari,Crystalline Bracer,12791,22275,Lane.bot_lane,Role.support
+2,imbobthebuilder,Draven,False,Side.blue,3,8,5,1.0,198,Heal,Flash,13,False,11241,11105,B. F. Sword,Berserker's Greaves,The Bloodthirster,Phantom Dancer,Pickaxe,Cloak of Agility,263,124452,Lane.bot_lane,Role.carry
+3,Celestial Bjoece,Jarvan IV,False,Side.blue,6,6,2,1.3333333333333333,166,Smite,Flash,15,True,12181,12125,Titanic Hydra,Null-Magic Mantle,Ninja Tabi,Enchantment: Cinderhulk,The Black Cleaver,Spectre's Cowl,18239,137155,Lane.jungle,Role.none
+4,08010505,Maokai,False,Side.blue,2,5,5,1.4,168,Flash,Teleport,13,False,9745,8600,Spirit Visage,Ninja Tabi,Warden's Mail,Doran's Ring,,Sunfire Cape,87092,11131,Lane.top_lane,Role.solo
+5,Nwok,Taric,True,Side.red,1,2,19,10.0,27,Flash,Exhaust,14,False,9442,9025,Ruby Sightstone,Redemption,Locket of the Iron Solari,Boots of Swiftness,Targon's Brace,Kindlegem,10023,8752,Lane.bot_lane,Role.support
+6,Soulquest1,Veigar,True,Side.red,4,2,7,5.5,207,Ignite,Flash,16,False,12257,11650,Doran's Ring,Doran's Ring,Spirit Visage,Ninja Tabi,Morellonomicon,Rabadon's Deathcap,118247,15898,Lane.mid_lane,Role.solo
+7,Vermillion2,Nocturne,True,Side.red,8,4,9,4.25,115,Smite,Flash,15,False,11960,8775,Refillable Potion,Enchantment: Cinderhulk,The Black Cleaver,Mercury's Treads,Giant's Belt,Chain Vest,26484,125058,Lane.jungle,Role.none
+8,123aaa789,Caitlyn,True,Side.red,7,4,12,4.75,249,Flash,Heal,16,False,14035,14330,Statikk Shiv,Berserker's Greaves,Runaan's Hurricane,Lord Dominik's Regards,Doran's Blade,Infinity Edge,964,189238,Lane.bot_lane,Role.carry
+9,chasethera1nbow,Renekton,True,Side.red,8,4,8,4.0,247,Teleport,Flash,16,False,13555,12375,Randuin's Omen,Death's Dance,Mercury's Treads,The Black Cleaver,Chain Vest,Doran's Blade,2409,152784,Lane.top_lane,Role.solo

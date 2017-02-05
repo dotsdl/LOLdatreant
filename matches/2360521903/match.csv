@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Lemon,Nautilus,False,Side.blue,0,9,5,0.5555555555555556,31,Exhaust,Flash,9,False,5255,4700,Cloth Armor,Refillable Potion,Ninja Tabi,Eye of the Equinox,Null-Magic Mantle,,11501,4163,Lane.bot_lane,Role.support
+1,Pekin Woof,Twitch,False,Side.blue,1,5,2,0.6,128,Flash,Heal,10,True,6832,5700,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,,,0,54127,Lane.bot_lane,Role.carry
+2,Pobelter,Graves,False,Side.blue,7,9,3,1.1111111111111112,95,Flash,Smite,12,False,8757,8250,Phantom Dancer,Refillable Potion,Berserker's Greaves,Phage,Enchantment: Warrior,Long Sword,2922,78689,Lane.jungle,Role.none
+3,RF Legendary,Gnar,False,Side.blue,0,8,4,0.5,117,Flash,Teleport,11,False,6469,6375,Refillable Potion,Ninja Tabi,Doran's Blade,Frozen Mallet,Phage,,4314,48067,Lane.top_lane,Role.solo
+4,Wizzy,Kayle,False,Side.blue,3,3,4,2.3333333333333335,164,Ghost,Flash,12,False,8180,7400,The Dark Seal,Guinsoo's Rageblade,,Ionian Boots of Lucidity,Stinger,Doran's Ring,50740,21394,Lane.mid_lane,Role.solo
+5,Hakuho,Morgana,True,Side.red,2,1,18,20.0,12,Exhaust,Flash,11,False,8330,7250,Eye of the Watchers,Redemption,,Boots of Mobility,Crystalline Bracer,Crystalline Bracer,13379,4965,Lane.bot_lane,Role.support
+6,MyTimeIsNow,Ryze,True,Side.red,2,3,6,2.6666666666666665,168,Ghost,Flash,13,False,9062,7760,Archangel's Staff,Refillable Potion,Ruby Crystal,Ionian Boots of Lucidity,Rod of Ages,Amplifying Tome,100664,13950,Lane.mid_lane,Role.solo
+7,yltfed,Jhin,True,Side.red,8,4,6,3.5,152,Flash,Heal,12,False,10016,9250,Youmuu's Ghostblade,Rapid Firecannon,Boots of Swiftness,Cloak of Agility,B. F. Sword,,4324,86248,Lane.bot_lane,Role.carry
+8,Renger cat,Darius,True,Side.red,14,2,2,8.0,183,Teleport,Flash,14,False,12369,11575,Sterak's Gage,The Black Cleaver,Control Ward,Boots of Swiftness,Giant's Belt,Frozen Mallet,274,125007,Lane.top_lane,Role.solo
+9,Riesig,Lee Sin,True,Side.red,8,1,5,13.0,135,Flash,Smite,13,False,9986,9125,Boots of Swiftness,Enchantment: Warrior,Dead Man's Plate,Control Ward,Caulfield's Warhammer,Hexdrinker,19562,95234,Lane.jungle,Role.none

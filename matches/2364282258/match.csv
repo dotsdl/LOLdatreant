@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fluorescently,Lulu,True,Side.blue,1,3,20,7.0,13,Exhaust,Flash,13,False,9333,8375,Knight's Vow,Redemption,Aegis of the Legion,Eye of the Watchers,,Boots of Speed,19401,5333,Lane.bot_lane,Role.support
+1,my bad team,Ekko,True,Side.blue,13,5,7,4.0,243,Flash,Teleport,16,False,15254,12650,Hextech Protobelt-01,Corrupting Potion,Rabadon's Deathcap,Blasting Wand,Lich Bane,Ionian Boots of Lucidity,145977,21899,Lane.mid_lane,Role.solo
+2,qet,Nautilus,True,Side.blue,2,5,10,2.4,175,Flash,Teleport,14,False,10976,9525,Doran's Ring,Sunfire Cape,Ninja Tabi,Zz'Rot Portal,Warden's Mail,Glacial Shroud,77249,26211,Lane.top_lane,Role.solo
+3,Volibèar,Twitch,True,Side.blue,5,6,6,1.8333333333333333,171,Flash,Heal,13,False,11231,10400,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,,858,85158,Lane.bot_lane,Role.carry
+4,rhubarbs,Elise,True,Side.blue,9,6,10,3.1666666666666665,124,Smite,Flash,15,True,12705,10360,Enchantment: Runic Echoes,Abyssal Scepter,Boots of Mobility,Rylai's Crystal Scepter,Amplifying Tome,Cloth Armor,118431,35178,Lane.jungle,Role.none
+5,only Yoki,Kennen,False,Side.red,3,5,8,2.2,202,Flash,Teleport,14,False,9951,9625,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,Fiendish Codex,Seeker's Armguard,85137,19768,Lane.top_lane,Role.solo
+6,brocco,Fizz,False,Side.red,10,4,7,4.25,146,Flash,Smite,15,False,11690,11675,Enchantment: Runic Echoes,Hextech Gunblade,Ionian Boots of Lucidity,Lich Bane,Needlessly Large Rod,,67376,42934,Lane.jungle,Role.none
+7,Auniko,Vayne,False,Side.red,4,5,6,2.0,143,Heal,Flash,12,False,9322,8575,Doran's Blade,Infinity Edge,,Berserker's Greaves,Phantom Dancer,,0,61159,Lane.bot_lane,Role.carry
+8,Biggity Biggims ,Viktor,False,Side.red,7,7,5,1.7142857142857142,171,Flash,Ghost,14,False,10328,9160,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Sheen,Amplifying Tome,95014,12204,Lane.mid_lane,Role.solo
+9,vvallabeebeatles,Taric,False,Side.red,1,9,7,0.8888888888888888,46,Exhaust,Flash,11,False,7023,6475,Eye of the Equinox,Boots of Swiftness,Redemption,Glacial Shroud,,,9071,8276,Lane.bot_lane,Role.support

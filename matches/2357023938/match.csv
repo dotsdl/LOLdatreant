@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rubia,Lee Sin,True,Side.blue,5,1,3,8.0,69,Flash,Smite,10,True,7306,6125,Refillable Potion,Enchantment: Warrior,Sightstone,Ninja Tabi,Giant's Belt,Cloth Armor,8394,49202,Lane.jungle,Role.none
+1,Final Hour Vayne,Ahri,True,Side.blue,1,1,4,5.0,106,Ignite,Flash,10,False,6526,4225,Doran's Ring,,Rod of Ages,Doran's Ring,Boots of Speed,,31545,10849,Lane.jungle,Role.none
+2,KeIsi Monroe,Yasuo,True,Side.blue,3,1,1,4.0,125,Teleport,Flash,11,False,6944,4875,Doran's Shield,Refillable Potion,Ninja Tabi,Doran's Blade,Phantom Dancer,,16626,49074,Lane.top_lane,Role.solo
+3,Cat Person,Karma,True,Side.blue,0,2,17,8.5,16,Flash,Heal,10,False,7274,4925,,Sightstone,Frost Queen's Claim,Crystalline Bracer,,Ionian Boots of Lucidity,12546,6358,Lane.bot_lane,Role.support
+4,Falco Mechanic,Caitlyn,True,Side.blue,15,1,3,18.0,159,Exhaust,Flash,12,False,12143,7850,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,,475,124467,Lane.bot_lane,Role.carry
+5,Tricycle,Graves,False,Side.red,4,6,0,0.6666666666666666,82,Smite,Flash,9,False,5565,5325,Enchantment: Warrior,Refillable Potion,Serrated Dirk,Berserker's Greaves,Long Sword,,2387,53750,Lane.jungle,Role.none
+6,TheRealVayne,Ezreal,False,Side.red,0,6,0,0.0,75,Flash,Heal,8,False,4267,4200,Doran's Blade,Manamune,Cull,Doran's Blade,Boots of Speed,,7201,24214,Lane.bot_lane,Role.carry
+7,Krypt,Bard,False,Side.red,0,5,3,0.6,7,Flash,Exhaust,8,False,4274,3700,Ruby Crystal,Cloth Armor,Sightstone,,Frostfang,Ionian Boots of Lucidity,8088,1960,Lane.bot_lane,Role.support
+8,Orbt,Viktor,False,Side.red,2,3,3,1.6666666666666667,99,Flash,Ghost,9,False,5392,4000,,,,Doran's Ring,The Hex Core mk-2,Ionian Boots of Lucidity,34022,7249,Lane.mid_lane,Role.solo
+9,Aint Random,Renekton,False,Side.red,0,4,1,0.25,105,Flash,Teleport,10,False,4876,4725,Doran's Blade,Control Ward,The Black Cleaver,Boots of Speed,Cloth Armor,Long Sword,2263,45945,Lane.top_lane,Role.solo

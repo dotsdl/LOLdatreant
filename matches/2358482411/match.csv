@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,OUT DO YA,Vayne,True,Side.blue,5,9,5,1.1111111111111112,141,Flash,Heal,12,False,9507,8525,Doran's Blade,Berserker's Greaves,Pickaxe,Phantom Dancer,Maw of Malmortius,,273,60904,Lane.bot_lane,Role.carry
+1,hashinshin,Braum,True,Side.blue,2,4,9,2.75,35,Flash,Exhaust,12,False,7137,6650,Face of the Mountain,Boots of Swiftness,Refillable Potion,Locket of the Iron Solari,Crystalline Bracer,Ruby Crystal,6855,6189,Lane.bot_lane,Role.support
+2,WJNA,Jayce,True,Side.blue,8,3,7,5.0,140,Flash,Ignite,14,False,10577,9200,Hunter's Potion,Youmuu's Ghostblade,Maw of Malmortius,Boots of Swiftness,Phage,Long Sword,13909,85557,Lane.mid_lane,Role.solo
+3,DZG Doomtrobo,Lee Sin,True,Side.blue,7,4,7,3.5,111,Smite,Flash,13,False,10091,9875,Titanic Hydra,Hexdrinker,Enchantment: Cinderhulk,Mercury's Treads,Chain Vest,Ruby Crystal,22611,78025,Lane.jungle,Role.none
+4,Adrian Riven,Jax,True,Side.blue,10,3,2,4.0,135,Teleport,Flash,14,True,10303,10075,Mercury's Treads,Hextech Gunblade,Guinsoo's Rageblade,Sheen,Long Sword,,23186,57941,Lane.top_lane,Role.solo
+5,Nash,Lux,False,Side.red,2,7,6,1.1428571428571428,79,Ghost,Flash,9,False,6879,5635,Aether Wisp,Morellonomicon,,,,Sorcerer's Shoes,30789,8530,Lane.mid_lane,Role.solo
+6,TEAMLUKEE,Syndra,False,Side.red,7,8,9,2.0,134,Ghost,Flash,12,False,9389,9000,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,Doran's Ring,82223,9001,Lane.bot_lane,Role.carry
+7,AchiIIes Heal,Kindred,False,Side.red,6,6,3,1.5,154,Flash,Smite,13,False,10283,9725,Phantom Dancer,Runaan's Hurricane,Enchantment: Bloodrazor,Berserker's Greaves,Ruby Crystal,,1799,120198,Lane.jungle,Role.none
+8,Swkeeee,Janna,False,Side.red,2,4,10,3.0,7,Exhaust,Flash,10,False,6964,6885,Locket of the Iron Solari,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,Amplifying Tome,,4403,6136,Lane.bot_lane,Role.support
+9,Maxtrobo,Poppy,False,Side.red,6,8,4,1.25,139,Flash,Teleport,13,False,9113,8608,Sunfire Cape,Corrupting Potion,Trinity Force,Ninja Tabi,Cloth Armor,,26672,58096,Lane.top_lane,Role.solo

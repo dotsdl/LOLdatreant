@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,t d,Quinn,False,Side.blue,3,10,3,0.6,137,Teleport,Flash,13,False,8187,7825,Corrupting Potion,Youmuu's Ghostblade,Boots of Swiftness,Phantom Dancer,Vampiric Scepter,,496,72268,Lane.top_lane,Role.solo
+1,FuZioN GraTaTa,Ezreal,False,Side.blue,4,6,3,1.1666666666666667,160,Flash,Heal,12,True,8579,8208,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,Dagger,Dagger,15072,72160,Lane.bot_lane,Role.carry
+2,Fluorescently,Nami,False,Side.blue,1,6,6,1.1666666666666667,9,Exhaust,Flash,10,False,6295,5925,Frostfang,Redemption,Boots of Speed,Sightstone,Aegis of the Legion,Null-Magic Mantle,5225,2414,Lane.bot_lane,Role.support
+3,SJC Cali,Azir,False,Side.blue,0,6,4,0.6666666666666666,142,Flash,Cleanse,12,False,7623,6660,Doran's Ring,Nashor's Tooth,Sorcerer's Shoes,Giant's Belt,Amplifying Tome,Doran's Ring,74314,9079,Lane.mid_lane,Role.solo
+4,my bad team,Graves,False,Side.blue,9,3,5,4.666666666666667,155,Flash,Smite,15,False,11652,11000,Youmuu's Ghostblade,Caulfield's Warhammer,Long Sword,Enchantment: Warrior,Phantom Dancer,Mercury's Treads,5607,153251,Lane.jungle,Role.none
+5,cùrz,Taric,True,Side.red,3,3,12,5.0,34,Flash,Exhaust,12,False,8345,7975,Ruby Sightstone,Face of the Mountain,Control Ward,Ninja Tabi,Frozen Heart,,8924,6681,Lane.bot_lane,Role.support
+6,KitingYeezus,Pantheon,True,Side.red,9,3,6,5.0,116,Flash,Ignite,14,False,10033,9600,The Black Cleaver,Corrupting Potion,,Boots of Swiftness,Serrated Dirk,Death's Dance,4005,61811,Lane.top_lane,Role.solo
+7,Goxtry,Twitch,True,Side.red,8,4,3,2.75,204,Heal,Flash,14,False,11910,10900,Doran's Blade,Infinity Edge,Blade of the Ruined King,Boots of Speed,Runaan's Hurricane,Dagger,72,115078,Lane.bot_lane,Role.carry
+8,The Harem King,Ahri,True,Side.red,8,3,7,5.0,209,Ignite,Flash,16,False,11829,9985,Doran's Ring,Luden's Echo,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,79913,13730,Lane.mid_lane,Role.solo
+9,Vr1,Rek'Sai,True,Side.red,3,4,8,2.75,141,Flash,Smite,14,False,9999,9375,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,Warden's Mail,Giant's Belt,24904,93790,Lane.jungle,Role.none

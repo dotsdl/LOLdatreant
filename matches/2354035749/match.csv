@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ygsu,Vayne,False,Side.blue,3,5,0,0.6,54,Flash,Heal,8,False,4095,3300,Doran's Blade,B. F. Sword,Boots of Speed,Serrated Dirk,,,483,20443,Lane.bot_lane,Role.duo
+1,BernieJewSanders,Darius,False,Side.blue,0,3,0,0.0,10,Flash,Teleport,4,False,2364,1650,Doran's Shield,Ruby Crystal,Cloth Armor,Long Sword,,,0,2642,Lane.top_lane,Role.solo
+2,Excodar,Nasus,False,Side.blue,1,2,0,0.5,62,Ghost,Smite,8,False,3949,3075,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,,,,17336,21555,Lane.jungle,Role.none
+3,King Bizzy,Orianna,False,Side.blue,0,5,0,0.0,73,Flash,Ghost,8,False,3558,3235,,Lost Chapter,Fiendish Codex,Amplifying Tome,Doran's Ring,Boots of Speed,17498,5597,Lane.mid_lane,Role.solo
+4,FlipyourPancake,Bard,False,Side.blue,1,4,1,0.5,4,Flash,Exhaust,8,False,3135,2325,Ionian Boots of Lucidity,Sightstone,Total Biscuit of Rejuvenation,,Spellthief's Edge,,3918,1299,Lane.bot_lane,Role.duo
+5,WatchThePower,Lee Sin,True,Side.red,6,0,1,7.0,99,Flash,Smite,11,True,8035,4350,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Control Ward,Ruby Crystal,,10810,69809,Lane.jungle,Role.none
+6,PancakeKojo,Syndra,True,Side.red,5,0,4,9.0,106,Ignite,Flash,11,False,7189,5800,Doran's Ring,Morellonomicon,Needlessly Large Rod,,,Sorcerer's Shoes,43489,9621,Lane.mid_lane,Role.solo
+7,Joxn,Brand,True,Side.red,2,3,2,1.3333333333333333,4,Flash,Exhaust,8,False,4956,5025,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,Eye of the Watchers,,4731,1022,Lane.bot_lane,Role.duo
+8,OmniParadise,Urgot,True,Side.red,5,1,2,7.0,129,Flash,Teleport,12,False,8141,4725,Tear of the Goddess,Corrupting Potion,The Black Cleaver,Boots of Speed,,,831,70736,Lane.top_lane,Role.solo
+9,Ironjacket,Ashe,True,Side.red,1,1,2,3.0,107,Heal,Flash,9,False,6102,4400,Doran's Blade,Essence Reaver,Boots of Speed,,,,173,38623,Lane.bot_lane,Role.duo

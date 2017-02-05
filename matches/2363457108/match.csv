@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cotopaco Parce,Ezreal,False,Side.blue,0,4,3,0.75,169,Heal,Flash,12,False,7113,6575,Doran's Blade,Manamune,Long Sword,Iceborn Gauntlet,Boots of Speed,Control Ward,20780,62348,Lane.bot_lane,Role.carry
+1,data88,Nasus,False,Side.blue,0,3,0,0.0,18,Teleport,Flash,5,False,4043,1300,Ruby Crystal,Health Potion,Null-Magic Mantle,,,,1018,4172,Lane.top_lane,Role.solo
+2,Mookiez,Lulu,False,Side.blue,0,6,2,0.3333333333333333,3,Exhaust,Flash,9,False,4690,4025,Spellthief's Edge,Sightstone,Forbidden Idol,Crystalline Bracer,Boots of Mobility,,6160,2941,Lane.bot_lane,Role.support
+3,The Broskie,Riven,False,Side.blue,3,4,0,0.75,172,Smite,Flash,13,False,8002,7600,Enchantment: Warrior,Tiamat,Boots of Speed,Refillable Potion,The Black Cleaver,,307,98530,Lane.jungle,Role.none
+4,FateTwister A,Lux,False,Side.blue,3,4,1,1.0,119,Flash,Barrier,12,False,6554,6050,Doran's Ring,Abyssal Scepter,Refillable Potion,Mejai's Soulstealer,Lost Chapter,Boots of Speed,57716,12183,Lane.mid_lane,Role.solo
+5,The Italian One,Lee Sin,True,Side.red,4,0,7,11.0,139,Flash,Smite,13,False,9777,8650,Tiamat,Ninja Tabi,Dead Man's Plate,Enchantment: Warrior,Null-Magic Mantle,Control Ward,16268,103539,Lane.jungle,Role.none
+6,IWD is a fgt,Karma,True,Side.red,3,1,10,13.0,8,Ignite,Flash,11,False,7679,5925,Locket of the Iron Solari,Refillable Potion,Frostfang,Sightstone,Ionian Boots of Lucidity,Chalice of Harmony,14908,6447,Lane.bot_lane,Role.support
+7,sorrymybad1,Jhin,True,Side.red,4,0,9,13.0,189,Flash,Heal,13,False,9931,7725,Rapid Firecannon,Doran's Blade,,Essence Reaver,Ionian Boots of Lucidity,,9258,104369,Lane.bot_lane,Role.carry
+8,Cozign,Katarina,True,Side.red,0,4,2,0.5,142,Ignite,Flash,12,False,7369,9400,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Sapphire Crystal,58111,13815,Lane.mid_lane,Role.solo
+9,Joelzzz,Ryze,True,Side.red,10,1,4,14.0,157,Teleport,Flash,14,True,11428,9775,Seraph's Embrace,Refillable Potion,Morellonomicon,Mejai's Soulstealer,Boots of Swiftness,Needlessly Large Rod,119317,12242,Lane.top_lane,Role.solo

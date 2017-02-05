@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Boars Head Ham ,Kog'Maw,True,Side.blue,4,3,3,2.3333333333333335,92,Heal,Flash,9,False,6648,5700,Doran's Blade,,Cull,Wit's End,Berserker's Greaves,Dagger,6711,32856,Lane.bot_lane,Role.carry
+1,SquirtTurt,Cho'Gath,True,Side.blue,5,2,2,3.5,104,Flash,Ignite,11,False,7040,6150,Needlessly Large Rod,Refillable Potion,Ionian Boots of Lucidity,Hextech Protobelt-01,Aether Wisp,,38486,11241,Lane.mid_lane,Role.solo
+2,Diamond l Khazix,Kha'Zix,True,Side.blue,4,0,3,7.0,69,Flash,Smite,10,False,7026,5700,Enchantment: Warrior,Refillable Potion,,Boots of Speed,Serrated Dirk,B. F. Sword,1951,60021,Lane.jungle,Role.none
+3,JOEMAMAMAD,LeBlanc,True,Side.blue,4,0,6,10.0,35,Flash,Ignite,9,True,6759,6220,Spellthief's Edge,Sightstone,Morellonomicon,Boots of Mobility,,The Dark Seal,22349,5435,Lane.bot_lane,Role.support
+4,ejzk,Gangplank,True,Side.blue,1,1,2,3.0,138,Teleport,Flash,11,False,7639,4258,Trinity Force,,,Boots of Speed,,,2728,82590,Lane.top_lane,Role.solo
+5,KarasMai,Graves,False,Side.red,0,4,0,0.0,80,Flash,Smite,9,False,4749,3850,Enchantment: Warrior,Refillable Potion,Boots of Speed,Brawler's Gloves,Dagger,,2068,59563,Lane.jungle,Role.none
+6,Herstory,Soraka,False,Side.red,1,6,3,0.6666666666666666,19,Flash,Exhaust,8,False,3866,2300,Nomad's Medallion,,Boots of Swiftness,The Dark Seal,,,8751,2805,Lane.bot_lane,Role.duo
+7,Míasma,Lux,False,Side.red,1,4,1,0.5,86,Barrier,Flash,9,False,4577,3550,Doran's Ring,The Dark Seal,Fiendish Codex,Lost Chapter,,Ionian Boots of Lucidity,34828,9053,Lane.mid_lane,Role.solo
+8,50ShadesOfKappa,Ekko,False,Side.red,2,3,0,0.6666666666666666,44,Teleport,Flash,9,False,3882,2275,Corrupting Potion,The Dark Seal,,Hextech Revolver,Boots of Speed,,18545,4570,Lane.top_lane,Role.solo
+9,Aengy,Vayne,False,Side.red,1,1,0,1.0,40,Heal,Flash,6,False,3458,1475,Doran's Blade,Pickaxe,Total Biscuit of Rejuvenation,,,,0,8210,Lane.bot_lane,Role.duo

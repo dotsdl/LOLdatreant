@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CC Hollywood,Cassiopeia,True,Side.blue,7,1,4,11.0,140,Ghost,Flash,11,False,9586,7500,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,,,Tear of the Goddess,62472,9613,Lane.mid_lane,Role.solo
+1,StumpeyAKAMisty,Jayce,True,Side.blue,6,3,4,3.3333333333333335,149,Flash,Teleport,12,False,9104,6375,The Black Cleaver,Refillable Potion,Serrated Dirk,Long Sword,Doran's Blade,Mercury's Treads,11751,73349,Lane.top_lane,Role.solo
+2,Me Amas,Janna,True,Side.blue,6,1,14,20.0,9,Flash,Exhaust,10,True,8734,6625,Sightstone,Frost Queen's Claim,Refillable Potion,Mejai's Soulstealer,Sorcerer's Shoes,Lost Chapter,12723,7134,Lane.bot_lane,Role.none
+3,Nick Diaz,Rammus,True,Side.blue,1,1,11,12.0,69,Flash,Smite,10,False,7154,6445,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,Thornmail,Cloth Armor,Negatron Cloak,24513,27285,Lane.bot_lane,Role.none
+4,terrortron,Twitch,True,Side.blue,1,0,10,11.0,110,Heal,Flash,10,False,8128,6550,Doran's Blade,Infinity Edge,Cull,Dagger,Boots of Speed,Zeal,0,60265,Lane.bot_lane,Role.none
+5,nackksi,Braum,False,Side.red,1,4,3,1.0,28,Ignite,Flash,8,False,4589,4375,Total Biscuit of Rejuvenation,Control Ward,Ruby Sightstone,Kindlegem,Boots of Mobility,Relic Shield,4015,4160,Lane.bot_lane,Role.support
+6,t d,Lucian,False,Side.red,1,6,1,0.3333333333333333,102,Heal,Flash,9,False,5410,4650,Refillable Potion,Youmuu's Ghostblade,Cull,Doran's Blade,Boots of Speed,Long Sword,828,36013,Lane.bot_lane,Role.carry
+7,l Zeno l,Nautilus,False,Side.red,0,5,3,0.6,91,Teleport,Flash,10,False,4946,4800,Corrupting Potion,Sunfire Cape,,Cloth Armor,Mercury's Treads,,36919,12769,Lane.top_lane,Role.solo
+8,Zepshun,Shyvana,False,Side.red,1,2,2,1.5,64,Smite,Flash,9,False,5238,4100,Boots of Speed,Refillable Potion,Enchantment: Bloodrazor,Long Sword,Null-Magic Mantle,Rejuvenation Bead,23698,24707,Lane.jungle,Role.none
+9,Unholy Wish,Ahri,False,Side.red,3,4,1,1.0,101,Flash,Ignite,10,False,5757,4125,Doran's Ring,Luden's Echo,Boots of Speed,,,,27643,6260,Lane.mid_lane,Role.solo

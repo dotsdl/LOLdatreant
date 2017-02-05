@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dr23,Ryze,False,Side.blue,0,0,0,0.0,9,Ghost,Smite,3,False,817,500,Sapphire Crystal,Refillable Potion,,,,,2585,424,Lane.mid_lane,Role.duo
+1,RawSkillz,Hecarim,False,Side.blue,0,0,0,0.0,0,Flash,Ghost,1,False,646,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+2,March2SmileBond,Riven,False,Side.blue,0,0,0,0.0,9,Flash,Teleport,3,False,814,500,Long Sword,Health Potion,,,,,0,2700,Lane.top_lane,Role.solo
+3,Pena,Jhin,False,Side.blue,0,0,0,0.0,4,Flash,Heal,1,False,723,500,Doran's Blade,,,,,,7,1102,Lane.bot_lane,Role.duo
+4,GGs Harambe,Morgana,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,685,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,200,342,Lane.bot_lane,Role.duo
+5,Preorder now,Blitzcrank,True,Side.red,0,0,0,0.0,3,Flash,Exhaust,2,False,743,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,56,534,Lane.bot_lane,Role.duo
+6,herolineage,Ezreal,True,Side.red,0,0,0,0.0,14,Flash,Heal,2,False,957,500,Doran's Blade,,,,,,92,3573,Lane.bot_lane,Role.duo
+7,InitialJT,Lee Sin,True,Side.red,0,0,0,0.0,5,Smite,Flash,3,False,932,500,Hunter's Machete,Refillable Potion,,,,,0,5189,Lane.jungle,Role.none
+8,Bird is OP,Viktor,True,Side.red,0,0,0,0.0,15,Ignite,Flash,3,False,953,500,Prototype Hex Core,Doran's Ring,Total Biscuit of Rejuvenation,,,,1322,1084,Lane.mid_lane,Role.solo
+9,Mr Wilkinson,Ekko,True,Side.red,0,0,0,0.0,11,Teleport,Flash,3,False,857,500,Corrupting Potion,,,,,,2359,1208,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xxxxxwwwwwwxxxxx,Zyra,True,Side.blue,3,1,12,15.0,52,Ignite,Flash,13,False,10341,8575,Eye of the Watchers,Liandry's Torment,Ruby Crystal,Needlessly Large Rod,Sorcerer's Shoes,,53486,10335,Lane.bot_lane,Role.support
+1,Wizzy,Jarvan IV,True,Side.blue,4,8,12,2.0,86,Smite,Flash,13,False,10026,9200,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Ninja Tabi,Warden's Mail,Giant's Belt,4677,84119,Lane.jungle,Role.none
+2,Fas the Magi,Ryze,True,Side.blue,8,3,6,4.666666666666667,231,Flash,Teleport,15,False,13703,12325,Seraph's Embrace,Rod of Ages,Rylai's Crystal Scepter,The Dark Seal,Ninja Tabi,Seeker's Armguard,159807,11312,Lane.top_lane,Role.solo
+3,MeowKye,Twisted Fate,True,Side.blue,0,7,10,1.4285714285714286,118,Ghost,Flash,13,False,9372,8950,Doran's Ring,Lich Bane,Blasting Wand,Zhonya's Hourglass,Sorcerer's Shoes,,60037,9888,Lane.mid_lane,Role.solo
+4,C9 Sneaky,Jhin,True,Side.blue,10,2,10,10.0,207,Flash,Heal,15,False,14517,12100,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Rapid Firecannon,Infinity Edge,Last Whisper,7808,149779,Lane.bot_lane,Role.carry
+5,BaIance,Nami,False,Side.red,2,5,12,2.8,16,Exhaust,Flash,12,False,7688,7450,Redemption,Locket of the Iron Solari,Ruby Sightstone,Ionian Boots of Lucidity,,Spellthief's Edge,7661,3294,Lane.bot_lane,Role.support
+6,Liquid fabbbyyy,Vayne,False,Side.red,2,6,5,1.1666666666666667,199,Flash,Heal,13,True,9565,9525,Berserker's Greaves,Phantom Dancer,Infinity Edge,Doran's Blade,Zeal,Dagger,846,89901,Lane.bot_lane,Role.carry
+7,Machai,Lee Sin,False,Side.red,3,5,5,1.6,125,Smite,Flash,13,False,9166,8925,Enchantment: Cinderhulk,Mercury's Treads,Ruby Sightstone,Hexdrinker,Chain Vest,Tiamat,13389,102218,Lane.jungle,Role.none
+8,Témpest,Yasuo,False,Side.red,11,5,4,3.0,230,Flash,Ignite,15,False,12994,12125,Mercury's Treads,Infinity Edge,Phantom Dancer,Doran's Blade,The Bloodthirster,,27894,128152,Lane.mid_lane,Role.solo
+9,Sasuni,Maokai,False,Side.red,3,4,4,1.75,129,Teleport,Flash,12,False,8365,7550,Randuin's Omen,Control Ward,Mercury's Treads,Spirit Visage,,Doran's Ring,48961,11804,Lane.top_lane,Role.solo

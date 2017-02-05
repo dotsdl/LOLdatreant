@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dopas doge ,Singed,True,Side.blue,8,8,6,1.75,188,Ghost,Teleport,16,False,12928,11945,Corrupting Potion,Zz'Rot Portal,Rod of Ages,Boots of Swiftness,Rylai's Crystal Scepter,Spectre's Cowl,129291,7012,Lane.top_lane,Role.solo
+1,Chubbzilla,Ezreal,True,Side.blue,8,4,10,4.5,189,Flash,Heal,15,False,13062,11683,Doran's Blade,Muramana,Trinity Force,Berserker's Greaves,The Bloodthirster,,18242,126349,Lane.bot_lane,Role.carry
+2,Bananas R Yummy,Rengar,True,Side.blue,14,4,7,5.25,148,Smite,Flash,16,False,14714,13525,Enchantment: Warrior,,The Black Cleaver,Dead Man's Plate,Death's Dance,Mercury's Treads,15447,159800,Lane.jungle,Role.none
+3,SM Minah,Sona,True,Side.blue,2,3,21,7.666666666666667,23,Flash,Exhaust,14,False,10608,9200,Redemption,Eye of the Watchers,,Ardent Censer,Ionian Boots of Lucidity,Aegis of the Legion,15958,7267,Lane.bot_lane,Role.support
+4,Heretickinkajou,Ahri,True,Side.blue,7,10,12,1.9,174,Flash,Ignite,16,False,12479,11450,Doran's Ring,Luden's Echo,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,61315,13039,Lane.mid_lane,Role.solo
+5,Hanjaro,Thresh,False,Side.red,3,6,12,2.5,10,Flash,Ignite,12,False,7475,6925,Ruby Sightstone,Ionian Boots of Lucidity,Nomad's Medallion,Knight's Vow,Kindlegem,,7990,2228,Lane.bot_lane,Role.support
+6,Nyada,Pantheon,False,Side.red,3,10,6,0.9,176,Ignite,Flash,14,False,9785,9150,Ionian Boots of Lucidity,Control Ward,Youmuu's Ghostblade,The Black Cleaver,Serrated Dirk,Long Sword,11557,101670,Lane.bot_lane,Role.carry
+7,F33dMeKills,Lux,False,Side.red,6,9,11,1.8888888888888888,182,Flash,Heal,14,False,10498,10550,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Aether Wisp,Needlessly Large Rod,,116447,14158,Lane.mid_lane,Role.solo
+8,Kanman33,Rumble,False,Side.red,9,8,5,1.75,128,Flash,Smite,14,False,10765,9975,Enchantment: Runic Echoes,Refillable Potion,Zhonya's Hourglass,Rylai's Crystal Scepter,Sorcerer's Shoes,,101278,18628,Lane.jungle,Role.none
+9,NCS  Social Dog,Poppy,False,Side.red,8,6,11,3.1666666666666665,185,Flash,Teleport,15,True,11308,10875,Spirit Visage,Sunfire Cape,Mercury's Treads,Chain Vest,Iceborn Gauntlet,,45972,75626,Lane.top_lane,Role.solo

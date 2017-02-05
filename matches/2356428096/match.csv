@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,VVoe,Kled,False,Side.blue,1,5,3,0.8,106,Flash,Teleport,11,False,6150,5550,The Black Cleaver,Tiamat,,Ionian Boots of Lucidity,,,95,50427,Lane.top_lane,Role.solo
+1,Captain Spears,Ezreal,False,Side.blue,3,7,2,0.7142857142857143,116,Flash,Heal,10,True,6627,6275,Phage,Ionian Boots of Lucidity,Doran's Blade,Sheen,Manamune,,7958,38457,Lane.bot_lane,Role.duo
+2,adc feng lft,Vi,False,Side.blue,2,4,0,0.5,109,Smite,Flash,12,False,7030,6475,Refillable Potion,Enchantment: Warrior,Boots of Speed,Phage,Stinger,Sheen,2508,95057,Lane.jungle,Role.none
+3,Zerkstep,Leona,False,Side.blue,2,3,4,2.0,53,Ignite,Flash,10,False,5625,5350,Face of the Mountain,Ruby Sightstone,,Control Ward,,Sorcerer's Shoes,10096,6758,Lane.bot_lane,Role.duo
+4,Sendio,Viktor,False,Side.blue,0,8,1,0.125,125,Flash,Barrier,10,False,5801,5635,Giant's Belt,Amplifying Tome,Boots of Speed,,Perfect Hex Core,,49897,8015,Lane.mid_lane,Role.solo
+5,Toukey,Janna,True,Side.red,0,0,14,14.0,19,Exhaust,Flash,11,False,6764,6675,Eye of the Oasis,Mejai's Soulstealer,Locket of the Iron Solari,Ionian Boots of Lucidity,,,4214,7329,Lane.bot_lane,Role.support
+6,CrazyOne,Nasus,True,Side.red,5,2,4,4.5,186,Teleport,Flash,14,False,9538,7675,Corrupting Potion,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Zz'Rot Portal,Iceborn Gauntlet,51710,42310,Lane.top_lane,Role.solo
+7,intexii,Hecarim,True,Side.red,8,0,5,13.0,107,Ghost,Smite,12,False,8950,8708,Stalker's Blade,Trinity Force,Ninja Tabi,Bami's Cinder,Giant's Belt,Cloth Armor,11854,88830,Lane.jungle,Role.none
+8,Sanom,Syndra,True,Side.red,7,2,4,5.5,139,Flash,Ignite,12,False,9093,7475,Doran's Ring,Doran's Ring,Boots of Speed,Rylai's Crystal Scepter,Morellonomicon,,83642,8581,Lane.mid_lane,Role.solo
+9,DJ Zelos,Jhin,True,Side.red,6,5,4,2.0,128,Flash,Heal,10,False,8990,8375,Doran's Blade,Cull,Essence Reaver,Rapid Firecannon,Boots of Swiftness,,1771,72976,Lane.bot_lane,Role.carry

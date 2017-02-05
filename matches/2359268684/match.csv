@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Draw me an 6egg9,Vayne,True,Side.blue,12,2,10,11.0,197,Heal,Flash,14,False,14526,12125,Quicksilver Sash,Berserker's Greaves,Statikk Shiv,Infinity Edge,Phantom Dancer,Long Sword,28987,127645,Lane.bot_lane,Role.carry
+1,Biofrost ,Thresh,True,Side.blue,5,4,25,7.5,33,Flash,Ignite,14,False,11029,8600,Ruby Sightstone,Nomad's Medallion,Boots of Mobility,Redemption,Locket of the Iron Solari,,16186,10743,Lane.bot_lane,Role.support
+2,Doublelift,Lee Sin,True,Side.blue,14,6,10,4.0,184,Flash,Smite,16,True,14279,11900,Tiamat,Randuin's Omen,Enchantment: Warrior,Ninja Tabi,Warmog's Armor,Giant's Belt,23144,149974,Lane.jungle,Role.none
+3,Fapdo,LeBlanc,True,Side.blue,6,4,7,3.25,170,Ignite,Flash,14,False,11259,10010,Needlessly Large Rod,Abyssal Scepter,Morellonomicon,The Dark Seal,Amplifying Tome,Sorcerer's Shoes,87686,13380,Lane.mid_lane,Role.solo
+4,Serilium,Maokai,True,Side.blue,1,5,10,2.2,181,Teleport,Flash,14,False,10276,8275,Doran's Ring,Mercury's Treads,Iceborn Gauntlet,Doran's Ring,Sunfire Cape,Ruby Crystal,97849,17657,Lane.top_lane,Role.solo
+5,IMayBackstab,Sona,False,Side.red,2,11,9,1.0,12,Exhaust,Flash,12,False,7623,7250,Eye of the Watchers,Ninja Tabi,Iceborn Gauntlet,,Control Ward,Kindlegem,12994,3354,Lane.bot_lane,Role.support
+6,sna1128,Gangplank,False,Side.red,2,6,10,2.0,147,Teleport,Flash,13,False,9740,8758,Corrupting Potion,Trinity Force,Ionian Boots of Lucidity,B. F. Sword,Pickaxe,Last Whisper,6071,94202,Lane.top_lane,Role.solo
+7,Fake Dragon,Fizz,False,Side.red,6,8,8,1.75,116,Ignite,Flash,13,False,9065,8635,Fiendish Codex,Amplifying Tome,Morellonomicon,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,49650,11951,Lane.mid_lane,Role.solo
+8,Xmithie,Shyvana,False,Side.red,3,8,7,1.25,103,Smite,Flash,13,False,9017,8900,Titanic Hydra,Refillable Potion,Enchantment: Bloodrazor,Ninja Tabi,Giant's Belt,Cloth Armor,43080,62620,Lane.jungle,Role.none
+9,Nash1313,Jhin,False,Side.red,8,5,6,2.8,133,Flash,Heal,13,False,10071,9350,Long Sword,Duskblade of Draktharr,Youmuu's Ghostblade,Boots of Swiftness,Doran's Blade,Last Whisper,7524,85394,Lane.bot_lane,Role.carry

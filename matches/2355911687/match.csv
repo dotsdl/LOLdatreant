@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Unstopebble,Cassiopeia,True,Side.blue,4,10,11,1.5,228,Flash,Heal,17,False,13268,12950,Seraph's Embrace,Rylai's Crystal Scepter,Doran's Ring,Abyssal Scepter,Morellonomicon,,148870,11561,Lane.mid_lane,Role.none
+1,Dominator,Nautilus,True,Side.blue,4,4,14,4.5,131,Flash,Smite,17,False,12494,11075,Redemption,Mercury's Treads,Enchantment: Cinderhulk,Locket of the Iron Solari,Spirit Visage,,104191,43437,Lane.mid_lane,Role.none
+2,Edispaghetti,Illaoi,True,Side.blue,10,7,3,1.8571428571428572,236,Teleport,Flash,17,False,14509,11850,Mercury's Treads,Spirit Visage,Caulfield's Warhammer,Mortal Reminder,Vampiric Scepter,The Black Cleaver,2489,215384,Lane.mid_lane,Role.none
+3,Akeelo,Singed,False,Side.red,9,5,10,3.8,273,Ghost,Ignite,18,False,14140,13150,Corrupting Potion,Righteous Glory,Boots of Swiftness,Liandry's Torment,Moonflair Spellblade,Void Staff,163573,9871,Lane.mid_lane,Role.solo
+4,GuilbertNightray,Poppy,False,Side.red,5,7,10,2.142857142857143,123,Smite,Flash,15,False,10922,11125,Enchantment: Cinderhulk,Mercury's Treads,Dead Man's Plate,The Black Cleaver,Null-Magic Mantle,Long Sword,31221,94084,Lane.jungle,Role.none
+5,Death4Peace,Lulu,False,Side.red,7,6,9,2.6666666666666665,179,Flash,Heal,16,True,11432,11400,Sorcerer's Shoes,Wooglet's Witchcap,Luden's Echo,Abyssal Scepter,Doran's Ring,Doran's Ring,84384,13889,Lane.jungle,Role.none

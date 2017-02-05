@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog2,Janna,True,Side.blue,2,5,18,4.0,16,Flash,Exhaust,12,False,8214,7500,Eye of the Oasis,Control Ward,Redemption,Ardent Censer,,Ionian Boots of Lucidity,6437,3400,Lane.bot_lane,Role.support
+1,Årcee,Twitch,True,Side.blue,11,6,7,3.0,167,Heal,Flash,14,False,12427,11875,Doran's Blade,Edge of Night,Boots of Speed,Infinity Edge,Statikk Shiv,B. F. Sword,13164,104398,Lane.bot_lane,Role.carry
+2,One Called Saint,Nautilus,True,Side.blue,3,3,12,5.0,171,Flash,Teleport,14,False,10045,9375,Hextech Protobelt-01,Sunfire Cape,Crystalline Bracer,Ninja Tabi,Giant's Belt,,86625,21430,Lane.top_lane,Role.solo
+3,WildTurtle,Lee Sin,True,Side.blue,15,5,8,4.6,114,Flash,Smite,15,False,12561,7675,Enchantment: Warrior,Refillable Potion,Edge of Night,Boots of Mobility,Phage,,22896,107657,Lane.jungle,Role.none
+4,qldurtms,Xerath,True,Side.blue,11,4,12,5.75,177,Flash,Cleanse,15,False,12333,11900,Void Staff,Doran's Ring,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,111501,12528,Lane.mid_lane,Role.solo
+5,LimitedExtent,Jhin,False,Side.red,2,9,10,1.3333333333333333,109,Heal,Flash,11,False,7504,6825,Doran's Blade,Zeal,Boots of Swiftness,Essence Reaver,Dagger,,721,53015,Lane.bot_lane,Role.carry
+6,An Obese Panda,Gragas,False,Side.red,4,5,9,2.6,74,Smite,Flash,13,False,7960,6625,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,,,58557,16255,Lane.jungle,Role.none
+7,Stiches,Lissandra,False,Side.red,5,11,6,1.0,122,Teleport,Flash,12,False,8186,8595,Hextech GLP-800,Amplifying Tome,Amplifying Tome,Doran's Ring,Ionian Boots of Lucidity,Aegis of the Legion,73323,5344,Lane.mid_lane,Role.solo
+8,Link,Bard,False,Side.red,7,10,8,1.5,8,Flash,Ignite,11,True,7942,8710,Eye of the Watchers,Hextech Gunblade,Control Ward,Refillable Potion,,Sorcerer's Shoes,11764,4709,Lane.bot_lane,Role.support
+9,Rokí,Riven,False,Side.red,5,7,4,1.2857142857142858,125,Flash,Teleport,13,False,8110,7475,Doran's Blade,Mercury's Treads,Control Ward,Caulfield's Warhammer,Vampiric Scepter,The Black Cleaver,0,58574,Lane.top_lane,Role.solo

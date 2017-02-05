@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Based Stevens,Vayne,False,Side.blue,2,5,1,0.6,48,Heal,Flash,6,False,3863,3450,Bilgewater Cutlass,Recurve Bow,Doran's Blade,Boots of Speed,Total Biscuit of Rejuvenation,,86,12818,Lane.bot_lane,Role.duo
+1,Cotopaco Parce,Ryze,False,Side.blue,2,4,0,0.5,73,Ghost,Flash,8,False,4230,4125,Tear of the Goddess,Rod of Ages,Refillable Potion,Boots of Speed,,Control Ward,25576,4253,Lane.mid_lane,Role.solo
+2,Auldrant,Poppy,False,Side.blue,0,3,2,0.6666666666666666,63,Flash,Teleport,8,False,3687,3175,Bami's Cinder,Corrupting Potion,Spectre's Cowl,Boots of Speed,,,3453,15995,Lane.top_lane,Role.solo
+3,Nyada,Lee Sin,False,Side.blue,0,3,2,0.6666666666666666,62,Smite,Flash,8,False,4039,3525,,Tiamat,Tracker's Knife,Mercury's Treads,,,5735,34526,Lane.jungle,Role.none
+4,YlKES,Thresh,False,Side.blue,1,4,0,0.25,10,Ignite,Flash,6,False,3094,2900,Sightstone,Total Biscuit of Rejuvenation,Control Ward,Ruby Crystal,Ancient Coin,Ionian Boots of Lucidity,2494,2692,Lane.bot_lane,Role.duo
+5,iDontCareX,Elise,True,Side.red,1,1,5,6.0,44,Smite,Flash,8,False,5883,3925,Refillable Potion,Enchantment: Cinderhulk,Aether Wisp,Boots of Speed,,,27644,16930,Lane.jungle,Role.none
+6,Yarkbeezy,Blitzcrank,True,Side.red,6,0,7,13.0,6,Exhaust,Flash,9,False,6458,3250,Nomad's Medallion,Sightstone,Boots of Mobility,,Ruby Crystal,,8359,6154,Lane.bot_lane,Role.duo
+7,Sebi,Jayce,True,Side.red,6,1,4,10.0,107,Flash,Exhaust,10,False,7418,5075,Corrupting Potion,Youmuu's Ghostblade,Boots of Speed,Hexdrinker,Control Ward,,8616,46410,Lane.mid_lane,Role.solo
+8,support or troll,Miss Fortune,True,Side.red,4,2,3,3.5,105,Heal,Flash,9,True,6989,5225,Doran's Blade,Pickaxe,Vampiric Scepter,Long Sword,Berserker's Greaves,B. F. Sword,3026,45481,Lane.bot_lane,Role.duo
+9,ddwaeji,Ekko,True,Side.red,2,1,6,8.0,124,Ghost,Teleport,11,False,7251,4625,Hextech Protobelt-01,Corrupting Potion,The Dark Seal,Doran's Ring,Doran's Ring,Boots of Speed,61595,16053,Lane.top_lane,Role.solo

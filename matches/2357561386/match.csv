@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NA Top Lane Xio,Lux,False,Side.blue,2,5,3,1.0,36,Ignite,Flash,11,False,6694,5610,Sorcerer's Shoes,Lost Chapter,Total Biscuit of Rejuvenation,Eye of the Watchers,,Amplifying Tome,27663,2998,Lane.bot_lane,Role.support
+1,Maxcorsa,Lee Sin,False,Side.blue,1,7,1,0.2857142857142857,113,Flash,Smite,12,False,7170,6550,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Sightstone,Giant's Belt,Chain Vest,14261,71438,Lane.jungle,Role.none
+2,Mocha is a Dog,Irelia,False,Side.blue,2,4,2,1.0,177,Teleport,Flash,13,False,7982,7608,Corrupting Potion,Trinity Force,Mercury's Treads,Warden's Mail,,Ruby Crystal,1299,67784,Lane.top_lane,Role.solo
+3,HappyEasterXbox,Annie,False,Side.blue,2,3,1,1.0,206,Flash,Ignite,13,False,8368,8170,Sorcerer's Shoes,Hextech Protobelt-01,Morellonomicon,Doran's Ring,Amplifying Tome,,69506,14300,Lane.mid_lane,Role.solo
+4,FlylikeGoatsucky,Vayne,False,Side.blue,1,5,1,0.4,155,Flash,Heal,12,False,7798,6525,Doran's Blade,Statikk Shiv,Berserker's Greaves,Pickaxe,B. F. Sword,,19673,56232,Lane.bot_lane,Role.carry
+5,Myloo,Alistar,True,Side.red,1,1,11,12.0,37,Flash,Exhaust,13,False,7784,6350,Knight's Vow,Ruby Sightstone,Control Ward,Relic Shield,Crystalline Bracer,Boots of Mobility,11188,10996,Lane.bot_lane,Role.support
+6,Rekyn,Swain,True,Side.red,6,1,4,10.0,169,Flash,Teleport,14,False,10356,9100,Zhonya's Hourglass,Needlessly Large Rod,Giant's Belt,Doran's Ring,Rod of Ages,Boots of Speed,80735,16306,Lane.top_lane,Role.solo
+7,MACACO,Ashe,True,Side.red,7,2,4,5.5,219,Heal,Flash,13,True,11748,9400,Doran's Blade,Essence Reaver,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,,2439,114851,Lane.bot_lane,Role.carry
+8,Melyn,Zyra,True,Side.red,5,2,7,6.0,162,Flash,Ignite,15,False,10482,8950,Doran's Ring,Liandry's Torment,Abyssal Scepter,Sorcerer's Shoes,Doran's Ring,Blasting Wand,86330,14899,Lane.mid_lane,Role.solo
+9,Leithal,Kha'Zix,True,Side.red,5,2,5,5.0,133,Flash,Smite,14,False,10689,8825,Enchantment: Warrior,Tiamat,Refillable Potion,Ninja Tabi,Maw of Malmortius,Long Sword,4838,131967,Lane.jungle,Role.none

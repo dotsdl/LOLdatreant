@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CaristinnQT,LeBlanc,True,Side.blue,8,4,11,4.75,146,Ignite,Flash,14,True,11758,9975,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Doran's Ring,Needlessly Large Rod,Blasting Wand,93107,16166,Lane.mid_lane,Role.solo
+1,DrSizzle,Karma,True,Side.blue,0,2,11,5.5,18,Exhaust,Flash,11,False,7958,7625,Eye of the Watchers,,Chalice of Harmony,Forbidden Idol,Boots of Mobility,Redemption,12582,2487,Lane.bot_lane,Role.support
+2,DoubleSwaggLift,Caitlyn,True,Side.blue,4,2,5,4.5,184,Heal,Flash,13,False,11432,10775,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,Rapid Firecannon,Runaan's Hurricane,Infinity Edge,633,135433,Lane.bot_lane,Role.carry
+3,Just Bad,Hecarim,True,Side.blue,8,2,7,7.5,166,Ghost,Smite,15,False,12337,11583,Enchantment: Cinderhulk,Refillable Potion,Dead Man's Plate,Trinity Force,Giant's Belt,Ninja Tabi,33575,119684,Lane.jungle,Role.none
+4,Malli,Trundle,True,Side.blue,6,3,4,3.3333333333333335,187,Flash,Teleport,14,False,11365,11125,Corrupting Potion,Ravenous Hydra,Spirit Visage,Mercury's Treads,Iceborn Gauntlet,Cloth Armor,2310,98439,Lane.top_lane,Role.solo
+5,Vyvie,Swain,False,Side.red,3,8,2,0.625,171,Flash,Teleport,13,False,8699,8175,Zhonya's Hourglass,Doran's Ring,Doran's Ring,Null-Magic Mantle,Rod of Ages,Sorcerer's Shoes,71691,8032,Lane.top_lane,Role.solo
+6,bvcx222,Bard,False,Side.red,1,4,10,2.75,14,Flash,Exhaust,11,False,7274,6350,Ruby Sightstone,Control Ward,Locket of the Iron Solari,Spellthief's Edge,Ruby Crystal,Boots of Mobility,11874,3815,Lane.bot_lane,Role.support
+7,Knight Wayne,Graves,False,Side.red,2,4,6,2.0,158,Smite,Flash,14,False,9282,8825,Enchantment: Warrior,Caulfield's Warhammer,Berserker's Greaves,Phantom Dancer,Hexdrinker,,4280,145505,Lane.jungle,Role.none
+8,zMotionz ,Twitch,False,Side.red,3,4,4,1.75,212,Flash,Heal,14,False,9998,9825,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Recurve Bow,,0,118515,Lane.bot_lane,Role.carry
+9,HungBrickMan,Ekko,False,Side.red,4,6,3,1.1666666666666667,147,Ignite,Flash,14,False,9341,9425,Void Staff,The Dark Seal,Abyssal Scepter,Sheen,Sorcerer's Shoes,Aether Wisp,89560,14990,Lane.mid_lane,Role.solo

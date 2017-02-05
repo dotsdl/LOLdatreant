@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RY xiaobaobao,Blitzcrank,False,Side.blue,4,6,2,1.0,28,Ignite,Flash,10,False,6510,5900,Eye of the Equinox,Righteous Glory,,Boots of Mobility,,,11009,5414,Lane.bot_lane,Role.support
+1,Dystrex,Ahri,False,Side.blue,0,5,4,0.8,159,Ignite,Flash,12,False,7167,6745,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Fiendish Codex,Negatron Cloak,,45289,11459,Lane.mid_lane,Role.solo
+2,tardzaned,Elise,False,Side.blue,6,8,1,0.875,112,Smite,Flash,12,False,8565,8325,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Fiendish Codex,Mercury's Treads,The Dark Seal,,75596,29552,Lane.jungle,Role.none
+3,Témpest,Yasuo,False,Side.blue,0,4,3,0.75,198,Flash,Teleport,14,False,8038,6600,Vampiric Scepter,B. F. Sword,Ninja Tabi,Phantom Dancer,,Doran's Shield,29967,70407,Lane.top_lane,Role.solo
+4,er ber ter,Draven,False,Side.blue,2,8,3,0.625,135,Heal,Flash,11,False,7543,6500,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,,,0,62272,Lane.bot_lane,Role.carry
+5,WT Spectator,Ryze,True,Side.red,5,5,4,1.8,178,Flash,Ghost,13,True,10260,9875,Rod of Ages,Ionian Boots of Lucidity,Seraph's Embrace,Morellonomicon,,,108725,15195,Lane.mid_lane,Role.solo
+6,Wintrader Vulcan,Alistar,True,Side.red,3,2,20,11.5,23,Flash,Exhaust,13,False,8602,6325,Locket of the Iron Solari,Ruby Sightstone,,Relic Shield,Boots of Mobility,Crystalline Bracer,10187,7458,Lane.bot_lane,Role.support
+7,L1MITAT1ONS,Jayce,True,Side.red,4,1,14,18.0,167,Teleport,Flash,14,False,10547,8850,Youmuu's Ghostblade,The Black Cleaver,Refillable Potion,Ninja Tabi,Doran's Blade,Pickaxe,16244,82766,Lane.top_lane,Role.solo
+8,Nhock,Evelynn,True,Side.red,6,3,9,5.0,100,Smite,Flash,13,False,10192,8375,Control Ward,Spectre's Cowl,Mercury's Treads,Enchantment: Runic Echoes,Dead Man's Plate,,67541,31403,Lane.jungle,Role.none
+9,Rapidx,Caitlyn,True,Side.red,13,1,9,22.0,243,Flash,Heal,15,False,14844,10875,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Long Sword,2702,182791,Lane.bot_lane,Role.carry

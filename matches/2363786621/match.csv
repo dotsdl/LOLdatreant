@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MrKao,Maokai,False,Side.blue,4,9,5,1.0,138,Flash,Teleport,12,False,8278,7925,Corrupting Potion,Sunfire Cape,Mercury's Treads,Doran's Ring,Kindlegem,Spectre's Cowl,78781,8904,Lane.top_lane,Role.solo
+1,New 208,Viktor,False,Side.blue,6,8,3,1.125,115,Flash,Ghost,12,False,7927,6910,Perfect Hex Core,Amplifying Tome,Doran's Ring,The Dark Seal,Ionian Boots of Lucidity,Needlessly Large Rod,58868,8386,Lane.mid_lane,Role.solo
+2,Good bye Obama,Jinx,False,Side.blue,8,6,4,2.0,149,Heal,Flash,12,False,10017,9200,Runaan's Hurricane,Infinity Edge,Cull,Vampiric Scepter,Berserker's Greaves,Doran's Blade,1029,85153,Lane.bot_lane,Role.carry
+3,Yo1o,Lee Sin,False,Side.blue,2,10,8,1.0,62,Smite,Flash,11,False,6820,6075,Boots of Mobility,Refillable Potion,Enchantment: Warrior,Hexdrinker,Caulfield's Warhammer,,13883,33461,Lane.jungle,Role.none
+4,SUPER VIA,Blitzcrank,False,Side.blue,0,7,9,1.2857142857142858,30,Exhaust,Flash,9,False,5645,4900,Eye of the Equinox,Crystalline Bracer,Ionian Boots of Lucidity,Forbidden Idol,,,10068,3644,Lane.bot_lane,Role.support
+5,Yuki Asuna,Lulu,True,Side.red,3,4,12,3.75,12,Exhaust,Flash,11,False,8825,8475,Locket of the Iron Solari,Redemption,Sightstone,Frost Queen's Claim,Control Ward,Boots of Mobility,9915,6245,Lane.bot_lane,Role.support
+6,I am Risk,Caitlyn,True,Side.red,10,4,4,3.5,155,Flash,Heal,13,False,11532,10050,Berserker's Greaves,Infinity Edge,Zeal,Doran's Blade,Kircheis Shard,Runaan's Hurricane,1871,102203,Lane.bot_lane,Role.carry
+7,MrSuyeda,Poppy,True,Side.red,2,7,9,1.5714285714285714,99,Teleport,Flash,12,True,8712,7983,Boots of Swiftness,Corrupting Potion,Trinity Force,Bami's Cinder,Ruby Crystal,Spectre's Cowl,15666,57051,Lane.top_lane,Role.solo
+8,rhubarbs,Ekko,True,Side.red,12,3,6,6.0,151,Teleport,Flash,14,False,12271,9925,Doran's Ring,Hextech Protobelt-01,Ionian Boots of Lucidity,Lich Bane,Needlessly Large Rod,Blasting Wand,92497,18161,Lane.mid_lane,Role.solo
+9,Asakura,Elise,True,Side.red,12,2,6,9.0,147,Smite,Flash,15,False,13987,12047,Refillable Potion,Amplifying Tome,Abyssal Scepter,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Boots of Mobility,134372,35160,Lane.jungle,Role.none

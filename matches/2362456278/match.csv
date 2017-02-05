@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,Orianna,True,Side.blue,2,1,11,13.0,158,Flash,Ghost,13,False,9135,8850,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,,74766,14517,Lane.mid_lane,Role.solo
+1,FIoopie,Alistar,True,Side.blue,1,4,16,4.25,30,Flash,Exhaust,12,False,7760,5225,Sightstone,Knight's Vow,Refillable Potion,Relic Shield,Boots of Mobility,Ruby Crystal,9842,8206,Lane.bot_lane,Role.support
+2,Lil Cody,Vayne,True,Side.blue,15,5,7,4.4,142,Heal,Flash,13,False,12302,8650,Blade of the Ruined King,Statikk Shiv,Pickaxe,Berserker's Greaves,Doran's Blade,,12674,71860,Lane.bot_lane,Role.carry
+3,zlsna,Ekko,True,Side.blue,4,4,9,3.25,182,Flash,Teleport,14,False,9912,8050,Hextech Protobelt-01,The Dark Seal,Lich Bane,Corrupting Potion,Ruby Crystal,Ninja Tabi,90212,23087,Lane.top_lane,Role.solo
+4,Leagué,Lee Sin,True,Side.blue,9,4,12,5.25,148,Flash,Smite,14,False,11205,8325,Mercury's Treads,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,,Tiamat,18771,102093,Lane.jungle,Role.none
+5,Yarnello,Kha'Zix,False,Side.red,8,7,3,1.5714285714285714,80,Flash,Smite,11,True,8901,8375,Enchantment: Warrior,Refillable Potion,Serrated Dirk,The Black Cleaver,Long Sword,Boots of Mobility,4593,82899,Lane.jungle,Role.none
+6,CloudNguyén,Irelia,False,Side.red,3,6,3,1.0,153,Teleport,Flash,12,False,8313,7108,Corrupting Potion,Trinity Force,Mercury's Treads,Vampiric Scepter,Long Sword,Doran's Blade,1931,65527,Lane.top_lane,Role.solo
+7,Riesig,Xerath,False,Side.red,2,3,2,1.3333333333333333,190,Flash,Ghost,13,False,8574,7310,Sorcerer's Shoes,Amplifying Tome,Morellonomicon,Giant's Belt,Doran's Ring,Needlessly Large Rod,87209,13123,Lane.mid_lane,Role.solo
+8,jamican banana,Thresh,False,Side.red,2,5,6,1.6,5,Exhaust,Flash,10,False,6323,5475,Ionian Boots of Lucidity,Sightstone,Talisman of Ascension,Glacial Shroud,Refillable Potion,Control Ward,9681,3069,Lane.bot_lane,Role.support
+9,Donde Esta Santa,Yasuo,False,Side.red,3,10,5,0.8,109,Heal,Flash,10,False,7732,7475,Doran's Blade,Phantom Dancer,Frozen Mallet,,Berserker's Greaves,,16212,47580,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KillerUnit,Elise,True,Side.blue,12,2,10,11.0,138,Smite,Flash,15,True,13186,12175,Hextech Protobelt-01,Rylai's Crystal Scepter,Mejai's Soulstealer,Boots of Mobility,Enchantment: Runic Echoes,Needlessly Large Rod,120490,30603,Lane.jungle,Role.none
+1,Pygwyn,Leona,True,Side.blue,3,4,15,4.5,30,Ignite,Flash,12,False,8513,8075,Boots of Mobility,Face of the Mountain,Sightstone,Frozen Heart,Ruby Crystal,Kindlegem,12088,7704,Lane.bot_lane,Role.support
+2,Herson000,Katarina,True,Side.blue,8,4,11,4.75,131,Flash,Ignite,14,False,11432,10875,The Dark Seal,Zhonya's Hourglass,Sorcerer's Shoes,Control Ward,Abyssal Scepter,Rylai's Crystal Scepter,76059,6552,Lane.mid_lane,Role.solo
+3,Joelzzz,Vayne,True,Side.blue,8,5,11,3.8,201,Heal,Flash,15,False,13772,11725,Infinity Edge,Doran's Blade,Pickaxe,Statikk Shiv,Berserker's Greaves,Phantom Dancer,28845,123530,Lane.bot_lane,Role.carry
+4,Tobias Fate,Gangplank,True,Side.blue,9,3,10,6.333333333333333,183,Flash,Exhaust,15,False,13383,13008,Mercury's Treads,Youmuu's Ghostblade,Cull,,Infinity Edge,Trinity Force,14073,128504,Lane.top_lane,Role.solo
+5,KarasMai,Janna,False,Side.red,1,9,11,1.3333333333333333,23,Flash,Exhaust,11,False,6895,6525,Control Ward,Redemption,Locket of the Iron Solari,Sightstone,Boots of Speed,Frostfang,9124,6300,Lane.bot_lane,Role.support
+6,xDD,Zac,False,Side.red,3,6,11,2.3333333333333335,107,Flash,Smite,13,False,8500,7825,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Ionian Boots of Lucidity,Null-Magic Mantle,Kindlegem,66790,13966,Lane.jungle,Role.none
+7,lost in thoughts,LeBlanc,False,Side.red,7,9,6,1.4444444444444444,152,Flash,Teleport,13,False,9554,7925,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Mejai's Soulstealer,86520,9577,Lane.mid_lane,Role.solo
+8,Azed,Yasuo,False,Side.red,3,9,2,0.5555555555555556,165,Flash,Teleport,13,False,8521,8625,Doran's Shield,Ninja Tabi,Phantom Dancer,Doran's Blade,Infinity Edge,,20505,61741,Lane.top_lane,Role.solo
+9,MrBlackPanda,Ashe,False,Side.red,4,7,7,1.5714285714285714,160,Flash,Heal,13,False,9826,9050,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Dagger,Infinity Edge,Dagger,2835,97285,Lane.bot_lane,Role.carry

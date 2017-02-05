@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FB3K,Yasuo,True,Side.blue,9,8,9,2.25,297,Flash,Teleport,18,False,17123,14925,Infinity Edge,Sunfire Cape,Phantom Dancer,Frozen Mallet,Ninja Tabi,Vampiric Scepter,34870,201138,Lane.top_lane,Role.solo
+1,Oyt,Vi,True,Side.blue,3,8,18,2.625,182,Smite,Flash,18,False,14584,13175,Enchantment: Warrior,Warmog's Armor,The Black Cleaver,Warden's Mail,Ninja Tabi,Thornmail,7325,179925,Lane.jungle,Role.none
+2,TheDeepDownBelow,Galio,True,Side.blue,4,2,19,11.5,143,Ghost,Flash,17,False,15982,13450,Catalyst of Aeons,Banner of Command,Zz'Rot Portal,Rod of Ages,Ninja Tabi,Liandry's Torment,88688,9020,Lane.bot_lane,Role.support
+3,Luuuurking,Orianna,True,Side.blue,7,5,19,5.2,281,Flash,Ghost,18,False,16719,15325,Morellonomicon,Zhonya's Hourglass,Rylai's Crystal Scepter,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,202060,22109,Lane.mid_lane,Role.solo
+4,AD LFT,Caitlyn,True,Side.blue,10,5,14,4.8,260,Flash,Heal,18,False,17355,15285,B. F. Sword,Rapid Firecannon,Lord Dominik's Regards,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,4554,220182,Lane.bot_lane,Role.carry
+5,NoChallenge,Jarvan IV,False,Side.red,10,7,8,2.5714285714285716,251,Flash,Teleport,17,False,15444,14875,Titanic Hydra,Dead Man's Plate,Mercury's Treads,The Black Cleaver,Guardian Angel,Hexdrinker,6683,172702,Lane.top_lane,Role.solo
+6,Costful,Lucian,False,Side.red,7,6,8,2.5,330,Flash,Heal,17,True,17404,16550,Serrated Dirk,Essence Reaver,Lord Dominik's Regards,Berserker's Greaves,Death's Dance,Phantom Dancer,5274,243478,Lane.bot_lane,Role.carry
+7,OPEN MlD,Olaf,False,Side.red,7,8,8,1.875,221,Smite,Ghost,17,False,15004,14425,Enchantment: Cinderhulk,Dead Man's Plate,Ionian Boots of Lucidity,The Black Cleaver,Guardian Angel,Thornmail,43001,154802,Lane.jungle,Role.none
+8,iIIogic,Thresh,False,Side.red,1,5,17,3.6,60,Flash,Exhaust,15,False,11513,10320,Ruby Sightstone,Redemption,Face of the Mountain,Ionian Boots of Lucidity,Banner of Command,Negatron Cloak,21544,8924,Lane.bot_lane,Role.support
+9,always plan ahea,Varus,False,Side.red,3,8,8,1.375,268,Flash,Exhaust,16,False,14891,14750,Ionian Boots of Lucidity,Muramana,Death's Dance,Essence Reaver,The Bloodthirster,,9418,207989,Lane.mid_lane,Role.solo

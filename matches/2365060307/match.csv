@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sebi,Braum,False,Side.blue,0,8,9,1.125,30,Flash,Exhaust,10,False,5691,5075,Redemption,Sightstone,Boots of Speed,Targon's Brace,Ruby Crystal,Cloth Armor,7953,3526,Lane.bot_lane,Role.support
+1,skyWtr,Kayle,False,Side.blue,4,5,3,1.4,152,Teleport,Flash,13,False,8337,8700,,,,Nashor's Tooth,Berserker's Greaves,Guinsoo's Rageblade,51802,21397,Lane.top_lane,Role.solo
+2,Regular Mid,Yasuo,False,Side.blue,2,7,6,1.1428571428571428,126,Flash,Exhaust,11,False,7387,7300,Cloak of Agility,Control Ward,Phantom Dancer,B. F. Sword,Berserker's Greaves,Doran's Blade,25004,57411,Lane.mid_lane,Role.solo
+3,retarded virgin,Kha'Zix,False,Side.blue,4,6,4,1.3333333333333333,134,Flash,Smite,13,False,8721,8475,Enchantment: Warrior,Refillable Potion,Tiamat,Ionian Boots of Lucidity,Maw of Malmortius,Long Sword,3557,113935,Lane.jungle,Role.none
+4,Celebratory Bear,Jhin,False,Side.blue,3,3,6,3.0,151,Heal,Flash,11,False,8599,8200,Essence Reaver,Cull,Ionian Boots of Lucidity,Rapid Firecannon,Doran's Blade,,1883,70637,Lane.bot_lane,Role.carry
+5,KarasMai,Karma,True,Side.red,6,1,16,22.0,27,Flash,Ignite,13,False,10764,9475,Fiendish Codex,Seeker's Armguard,Athene's Unholy Grail,Eye of the Watchers,Mejai's Soulstealer,Ionian Boots of Lucidity,31014,8316,Lane.bot_lane,Role.support
+6,Štarboy,Nidalee,True,Side.red,7,5,7,2.8,87,Smite,Flash,13,False,10886,8630,Ionian Boots of Lucidity,Giant's Belt,Rod of Ages,Frozen Heart,Hunter's Talisman,Amplifying Tome,86042,14286,Lane.jungle,Role.none
+7,Joelzzz,Ryze,True,Side.red,5,1,8,13.0,151,Ghost,Flash,14,False,11260,7550,Tear of the Goddess,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,,106885,9292,Lane.mid_lane,Role.solo
+8,C9 Saiph,Twitch,True,Side.red,8,4,7,3.75,208,Flash,Heal,14,True,14008,13250,Runaan's Hurricane,Cloak of Agility,Infinity Edge,B. F. Sword,Berserker's Greaves,Phantom Dancer,0,144026,Lane.bot_lane,Role.carry
+9,Cuckvele,Fiora,True,Side.red,3,2,3,3.0,189,Flash,Teleport,15,False,11096,10225,Doran's Blade,Ninja Tabi,The Black Cleaver,B. F. Sword,Long Sword,Titanic Hydra,3827,118401,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dhokla,Jayce,True,Side.blue,5,4,7,3.0,176,Flash,Exhaust,14,False,11017,8750,Maw of Malmortius,Refillable Potion,The Black Cleaver,B. F. Sword,Doran's Blade,Boots of Speed,17628,111367,Lane.mid_lane,Role.solo
+1,BillyBoss1,Pantheon,True,Side.blue,13,3,8,7.0,144,Flash,Teleport,14,False,12477,11875,Youmuu's Ghostblade,Edge of Night,Ninja Tabi,The Black Cleaver,B. F. Sword,,6986,95967,Lane.top_lane,Role.solo
+2,Sawyerr,Bard,True,Side.blue,0,6,12,2.0,22,Ignite,Flash,12,False,8269,10235,Chalice of Harmony,Poacher's Dirk,Poacher's Dirk,Poacher's Dirk,Poacher's Dirk,Poacher's Dirk,18419,6897,Lane.jungle,Role.none
+3,GordanRamsey,Evelynn,True,Side.blue,12,1,5,17.0,160,Smite,Flash,15,False,13106,11975,Enchantment: Runic Echoes,Mejai's Soulstealer,Sorcerer's Shoes,Rylai's Crystal Scepter,Hextech Protobelt-01,Giant's Belt,123346,40725,Lane.jungle,Role.none
+4,07scaping,Ezreal,True,Side.blue,2,3,4,2.0,138,Heal,Flash,13,False,9859,7025,Doran's Blade,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,Long Sword,16492,78970,Lane.bot_lane,Role.solo
+5,Paxton,Alistar,False,Side.red,1,5,9,2.0,40,Flash,Exhaust,11,False,6650,6300,Redemption,Crystalline Bracer,Targon's Brace,Sightstone,Crystalline Bracer,Boots of Mobility,11485,5510,Lane.bot_lane,Role.support
+6,Rokí,Fiora,False,Side.red,0,7,0,0.0,155,Flash,Teleport,12,False,7275,6875,Doran's Shield,Caulfield's Warhammer,Ravenous Hydra,Doran's Blade,Ninja Tabi,,1108,63402,Lane.top_lane,Role.solo
+7,7788 ADC,Jhin,False,Side.red,7,7,7,2.0,172,Heal,Flash,13,True,10461,10250,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Vampiric Scepter,B. F. Sword,Long Sword,2768,93369,Lane.bot_lane,Role.carry
+8,toke dude,Vi,False,Side.red,3,7,4,1.0,84,Heal,Flash,11,False,7355,6500,The Black Cleaver,Ninja Tabi,Warden's Mail,Ruby Crystal,,Cloth Armor,0,71168,Lane.mid_lane,Role.support
+9,Rhux,Cassiopeia,False,Side.red,5,6,5,1.6666666666666667,137,Flash,Ghost,13,False,8548,7275,Doran's Ring,Doran's Ring,Tear of the Goddess,Seeker's Armguard,Morellonomicon,Needlessly Large Rod,69541,5614,Lane.mid_lane,Role.carry

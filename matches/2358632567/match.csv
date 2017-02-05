@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Asdadarf,Shyvana,False,Side.blue,1,9,7,0.8888888888888888,106,Smite,Ghost,12,False,8007,7425,Vampiric Scepter,Ninja Tabi,Recurve Bow,Enchantment: Bloodrazor,Spectre's Cowl,Cloth Armor,49036,56784,Lane.jungle,Role.none
+1,RengeMiyauchii,Ryze,False,Side.blue,0,7,4,0.5714285714285714,179,Teleport,Flash,13,False,8123,7900,Ionian Boots of Lucidity,Rod of Ages,Zhonya's Hourglass,Tear of the Goddess,,Doran's Ring,95440,9445,Lane.top_lane,Role.solo
+2,Jorb,Annie,False,Side.blue,9,4,3,3.0,177,Flash,Ignite,13,False,10246,9735,Amplifying Tome,Health Potion,Blasting Wand,Luden's Echo,Sorcerer's Shoes,Rylai's Crystal Scepter,83692,13804,Lane.mid_lane,Role.solo
+3,Eleyana,Lulu,False,Side.blue,0,7,7,1.0,10,Exhaust,Flash,11,False,6548,5910,Frostfang,Redemption,Sightstone,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Amplifying Tome,11631,3555,Lane.bot_lane,Role.support
+4,i love hitagi,Caitlyn,False,Side.blue,4,3,4,2.6666666666666665,178,Heal,Flash,12,False,9313,8600,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,Brawler's Gloves,652,101653,Lane.bot_lane,Role.carry
+5,Cosic,Nautilus,True,Side.red,1,3,9,3.3333333333333335,38,Exhaust,Flash,12,False,7777,7600,Sightstone,Needlessly Large Rod,Face of the Mountain,,Giant's Belt,Ninja Tabi,13273,9268,Lane.bot_lane,Role.support
+6,WatchThePower,Rengar,True,Side.red,2,1,5,7.0,189,Flash,Teleport,14,True,10460,9625,Doran's Blade,Tiamat,Refillable Potion,The Black Cleaver,Mercury's Treads,Death's Dance,17361,105066,Lane.top_lane,Role.solo
+7,Solitarius Lupus,Vayne,True,Side.red,7,2,4,5.5,172,Flash,Heal,14,False,11377,10650,Cull,Doran's Blade,Zeal,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,133,83419,Lane.bot_lane,Role.carry
+8,1T Yasuo,Yasuo,True,Side.red,13,3,1,4.666666666666667,200,Flash,Ignite,15,False,13338,10300,Doran's Blade,Hexdrinker,Infinity Edge,Mercury's Treads,Phantom Dancer,Vampiric Scepter,21726,119215,Lane.mid_lane,Role.solo
+9,Best Nidalee NA,Elise,True,Side.red,7,5,6,2.6,109,Smite,Flash,14,False,10678,10350,Enchantment: Runic Echoes,Abyssal Scepter,Cloth Armor,Sorcerer's Shoes,Liandry's Torment,,79540,26277,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GordanRamsey,Nami,True,Side.blue,3,1,16,19.0,5,Flash,Ignite,12,False,9298,7975,Cloth Armor,Ionian Boots of Lucidity,,Eye of the Watchers,Redemption,Locket of the Iron Solari,9879,9257,Lane.bot_lane,Role.support
+1,IKingVex,Twitch,True,Side.blue,9,6,10,3.1666666666666665,200,Heal,Flash,14,False,12469,10175,Doran's Blade,Runaan's Hurricane,Zeal,Berserker's Greaves,Infinity Edge,Vampiric Scepter,1844,126711,Lane.bot_lane,Role.carry
+2,Dhokla,Irelia,True,Side.blue,16,5,3,3.8,172,Flash,Teleport,14,True,14018,13358,,Blade of the Ruined King,Mercury's Treads,Trinity Force,Maw of Malmortius,B. F. Sword,9111,104530,Lane.top_lane,Role.solo
+3,blaberfish2,Ahri,True,Side.blue,3,8,9,1.5,161,Flash,Ignite,14,False,10323,8360,Doran's Ring,Luden's Echo,Amplifying Tome,Sorcerer's Shoes,Morellonomicon,,64205,12451,Lane.mid_lane,Role.solo
+4,One Called Saint,Skarner,True,Side.blue,5,2,12,8.5,145,Flash,Smite,15,False,12167,10658,,Trinity Force,Dead Man's Plate,Mercury's Treads,Enchantment: Cinderhulk,,51679,98143,Lane.jungle,Role.none
+5,mlaC,Soraka,False,Side.red,1,5,8,1.8,19,Exhaust,Flash,12,False,7406,6225,Forbidden Idol,Redemption,Eye of the Oasis,,Boots of Mobility,,10310,5019,Lane.bot_lane,Role.support
+6,VeeIox,Karma,False,Side.red,3,6,9,2.0,137,Teleport,Flash,14,False,9123,8950,Doran's Ring,Forbidden Idol,Iceborn Gauntlet,Sorcerer's Shoes,Spirit Visage,Crystalline Bracer,61180,16345,Lane.top_lane,Role.solo
+7,Liquid fabbbyyy,Vayne,False,Side.red,3,11,2,0.45454545454545453,185,Flash,Heal,12,False,9868,9975,Quicksilver Sash,Infinity Edge,Berserker's Greaves,Doran's Blade,Statikk Shiv,Dagger,8395,73579,Lane.bot_lane,Role.carry
+8,ZatsMod,Cassiopeia,False,Side.red,3,10,3,0.6,148,Flash,Ghost,12,False,8836,8635,Rylai's Crystal Scepter,Amplifying Tome,Fiendish Codex,Doran's Ring,Morellonomicon,,81223,9927,Lane.mid_lane,Role.solo
+9,Abou222,Lee Sin,False,Side.red,12,4,4,4.0,127,Smite,Flash,14,False,11592,11100,Tiamat,Randuin's Omen,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,,18413,96440,Lane.jungle,Role.none

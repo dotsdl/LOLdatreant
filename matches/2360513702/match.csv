@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Luuuurking,Caitlyn,True,Side.blue,5,5,4,1.8,192,Flash,Heal,12,False,10555,10500,Doran's Blade,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,,457,123866,Lane.bot_lane,Role.carry
+1,One Bad Potato,Malphite,True,Side.blue,4,0,8,12.0,221,Teleport,Flash,16,False,11875,11025,Iceborn Gauntlet,Corrupting Potion,Dead Man's Plate,Boots of Speed,Sunfire Cape,Raptor Cloak,84056,52074,Lane.top_lane,Role.solo
+2,little lynx,Janna,True,Side.blue,0,2,21,10.5,5,Exhaust,Flash,13,False,7731,5350,Frostfang,Sightstone,Redemption,Forbidden Idol,,Boots of Speed,5269,4443,Lane.bot_lane,Role.support
+3,Code,Kha'Zix,True,Side.blue,18,4,6,6.0,167,Smite,Flash,15,False,13883,8950,Tiamat,Enchantment: Warrior,Long Sword,Boots of Mobility,Duskblade of Draktharr,Ruby Crystal,6584,143861,Lane.jungle,Role.none
+4,Salcuz,Syndra,True,Side.blue,6,7,7,1.8571428571428572,168,Ignite,Flash,13,True,10522,9725,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Total Biscuit of Rejuvenation,Rylai's Crystal Scepter,Needlessly Large Rod,88102,13509,Lane.mid_lane,Role.solo
+5,Laurica,Lee Sin,False,Side.red,2,8,5,0.875,51,Flash,Smite,11,False,6534,6425,Giant's Belt,Sightstone,Control Ward,Chain Vest,Enchantment: Warrior,Boots of Mobility,7815,39059,Lane.jungle,Role.none
+6,GodSohyang,Nami,False,Side.red,2,4,10,3.0,1,Exhaust,Flash,11,False,6126,5450,Eye of the Watchers,Redemption,,Boots of Swiftness,Total Biscuit of Rejuvenation,,4433,1223,Lane.bot_lane,Role.support
+7,Jo nOms,Ezreal,False,Side.red,6,7,5,1.5714285714285714,158,Heal,Flash,12,False,9143,8758,Doran's Blade,Total Biscuit of Rejuvenation,Muramana,Trinity Force,Pickaxe,Ionian Boots of Lucidity,9831,66060,Lane.bot_lane,Role.carry
+8,SuperMaxPhelps,Gangplank,False,Side.red,1,10,5,0.6,155,Teleport,Flash,13,False,8419,7358,Doran's Ring,Cull,Trinity Force,Ionian Boots of Lucidity,Pickaxe,Cloak of Agility,8336,88550,Lane.top_lane,Role.solo
+9,Amayzing,Ekko,False,Side.red,7,5,5,2.4,133,Teleport,Flash,14,False,8843,8085,Corrupting Potion,The Dark Seal,Hextech Protobelt-01,Sorcerer's Shoes,Lich Bane,Amplifying Tome,89650,10914,Lane.mid_lane,Role.solo

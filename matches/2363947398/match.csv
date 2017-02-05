@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mi Amor Teemo,Dr. Mundo,False,Side.blue,2,6,2,0.6666666666666666,131,Flash,Teleport,12,False,6624,6500,Doran's Shield,Sunfire Cape,Zz'Rot Portal,,Boots of Speed,,40331,12998,Lane.top_lane,Role.solo
+1,Suna Shogun Sama,Brand,False,Side.blue,3,5,1,0.8,30,Flash,Ignite,9,False,5663,5050,Frost Queen's Claim,Total Biscuit of Rejuvenation,Sightstone,Haunting Guise,Boots of Speed,,22533,3419,Lane.bot_lane,Role.support
+2,RockyTSaws,Ashe,False,Side.blue,0,3,1,0.3333333333333333,146,Heal,Flash,11,False,6298,5700,Doran's Blade,Runaan's Hurricane,,Berserker's Greaves,B. F. Sword,,807,55660,Lane.bot_lane,Role.carry
+3,Eric1,Hecarim,False,Side.blue,1,3,1,0.6666666666666666,129,Smite,Ghost,12,False,6849,6383,Skirmisher's Sabre,Trinity Force,Mercury's Treads,,,,9079,93212,Lane.jungle,Role.none
+4,Xyd ,Katarina,False,Side.blue,0,5,1,0.2,133,Flash,Teleport,11,False,6013,5445,Sorcerer's Shoes,Refillable Potion,Negatron Cloak,,Hextech Gunblade,,60473,9290,Lane.mid_lane,Role.solo
+5,Smartcloud,Maokai,True,Side.red,3,0,10,13.0,31,Flash,Exhaust,10,False,7357,7050,Control Ward,Redemption,Eye of the Equinox,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,13285,7746,Lane.bot_lane,Role.support
+6,Garani,Rumble,True,Side.red,7,1,8,15.0,127,Smite,Flash,13,False,10115,9650,Enchantment: Runic Echoes,Hextech Protobelt-01,Refillable Potion,Liandry's Torment,,Sorcerer's Shoes,84406,18356,Lane.jungle,Role.none
+7,GodMeru,Pantheon,True,Side.red,5,2,4,4.5,120,Flash,Ignite,12,True,8868,8850,Maw of Malmortius,Youmuu's Ghostblade,Corrupting Potion,Pickaxe,,Mercury's Treads,5407,65453,Lane.top_lane,Role.solo
+8,Toll,Jhin,True,Side.red,3,2,10,6.5,120,Flash,Heal,11,False,8819,8700,Essence Reaver,Pickaxe,Rapid Firecannon,Boots of Swiftness,,Doran's Blade,3014,63314,Lane.bot_lane,Role.carry
+9,Program,Anivia,True,Side.red,4,1,3,7.0,169,Ghost,Flash,14,False,9341,8885,Doran's Ring,Archangel's Staff,Sorcerer's Shoes,Rod of Ages,Amplifying Tome,Blasting Wand,82801,11675,Lane.mid_lane,Role.solo

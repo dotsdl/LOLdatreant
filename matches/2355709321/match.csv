@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,uupa,Ryze,True,Side.blue,10,2,4,7.0,110,Flash,Ghost,11,False,8873,8250,Archangel's Staff,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,57950,7051,Lane.mid_lane,Role.solo
+1,Rank 1 Season 7,Kha'Zix,True,Side.blue,10,2,1,5.5,120,Ignite,Flash,11,False,9091,7350,Tiamat,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Serrated Dirk,Caulfield's Warhammer,1724,72210,Lane.top_lane,Role.solo
+2,Sole Fire,Hecarim,True,Side.blue,2,1,3,5.0,58,Smite,Ghost,10,False,6055,4783,Hunter's Talisman,Hunter's Potion,Trinity Force,,,Boots of Speed,6403,43487,Lane.jungle,Role.none
+3,MayoFayo,Ashe,True,Side.blue,5,2,14,9.5,95,Heal,Flash,11,False,8436,6375,Essence Reaver,Berserker's Greaves,Dagger,Brawler's Gloves,Total Biscuit of Rejuvenation,Doran's Blade,1263,52103,Lane.bot_lane,Role.carry
+4,Eulalia,Annie,True,Side.blue,4,1,10,14.0,8,Ignite,Flash,8,False,6719,5325,Frost Queen's Claim,Sightstone,Boots of Mobility,Aether Wisp,Total Biscuit of Rejuvenation,,11071,2344,Lane.bot_lane,Role.support
+5,siumingftw,Fizz,False,Side.red,1,5,0,0.2,67,Teleport,Flash,8,False,4305,3900,Corrupting Potion,Doran's Ring,Sorcerer's Shoes,Aether Wisp,Sheen,,11377,11944,Lane.mid_lane,Role.solo
+6,PIox,Jinx,False,Side.red,2,6,1,0.5,84,Flash,Heal,8,False,4878,4650,Doran's Blade,Total Biscuit of Rejuvenation,B. F. Sword,Berserker's Greaves,Zeal,Dagger,879,27485,Lane.bot_lane,Role.carry
+7,BBASENG,Lucian,False,Side.red,3,8,2,0.625,78,Flash,Ignite,9,True,5247,5275,Pickaxe,Rapid Firecannon,Berserker's Greaves,,,,1226,36943,Lane.jungle,Role.none
+8,C4 3 2 1 B00M,Xin Zhao,False,Side.red,1,5,0,0.2,54,Smite,Flash,8,False,4362,4100,Enchantment: Bloodrazor,,Boots of Swiftness,,,,3967,32861,Lane.jungle,Role.none
+9,XC Tsunami,Thresh,False,Side.red,1,8,4,0.625,13,Flash,Exhaust,7,False,3927,3450,Targon's Brace,Control Ward,Boots of Mobility,Sightstone,Total Biscuit of Rejuvenation,Ruby Crystal,2924,2136,Lane.bot_lane,Role.support

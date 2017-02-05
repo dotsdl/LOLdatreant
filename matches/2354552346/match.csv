@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rokí,Riven,True,Side.blue,4,0,0,4.0,89,Flash,Smite,10,True,6847,4550,Hunter's Machete,,Refillable Potion,Boots of Speed,The Black Cleaver,Long Sword,0,75116,Lane.jungle,Role.none
+1,West Coast Carry,Jayce,True,Side.blue,3,0,3,6.0,92,Flash,Teleport,10,False,6357,5250,Doran's Blade,Youmuu's Ghostblade,Caulfield's Warhammer,Boots of Speed,Control Ward,,9109,47450,Lane.top_lane,Role.solo
+2,my bad team,Syndra,True,Side.blue,1,0,2,3.0,149,Flash,Ghost,10,False,6563,4700,,Refillable Potion,,Doran's Ring,Morellonomicon,Sorcerer's Shoes,64335,12477,Lane.mid_lane,Role.solo
+3,WolfFIame,Thresh,True,Side.blue,2,1,7,9.0,22,Flash,Ignite,9,False,5008,3575,Kindlegem,Sightstone,,Targon's Brace,Boots of Mobility,,7645,5183,Lane.bot_lane,Role.duo
+4,06 24 1998,Teemo,True,Side.blue,2,1,3,5.0,88,Heal,Flash,9,False,5917,5900,Doran's Ring,Cull,Hextech Gunblade,Sorcerer's Shoes,Ruby Crystal,,20440,16555,Lane.bot_lane,Role.duo
+5,Unsung,Renekton,False,Side.red,1,2,0,0.5,89,Flash,Exhaust,10,False,4344,4075,Refillable Potion,Youmuu's Ghostblade,Cloth Armor,Doran's Shield,,,1437,36660,Lane.top_lane,Role.solo
+6,amumumu,Soraka,False,Side.red,1,3,0,0.3333333333333333,1,Flash,Exhaust,6,False,3030,2350,Nomad's Medallion,Forbidden Idol,Boots of Speed,,The Dark Seal,,6236,1849,Lane.bot_lane,Role.duo
+7,Yusui,Ryze,False,Side.red,0,1,0,0.0,82,Exhaust,Flash,8,False,3756,2525,Tear of the Goddess,Refillable Potion,Catalyst of Aeons,,Boots of Speed,,17957,6293,Lane.mid_lane,Role.solo
+8,BmxSpecks,Poppy,False,Side.red,0,3,0,0.0,70,Flash,Smite,9,False,3979,3825,Boots of Swiftness,Refillable Potion,Enchantment: Cinderhulk,Control Ward,,,6561,40260,Lane.jungle,Role.none
+9,FIoopie,Caitlyn,False,Side.red,0,3,1,0.3333333333333333,76,Flash,Heal,6,False,3822,2150,,,,B. F. Sword,Doran's Blade,Boots of Speed,184,28183,Lane.bot_lane,Role.duo

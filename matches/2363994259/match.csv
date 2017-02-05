@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Utatane Piko,Soraka,True,Side.blue,2,4,25,6.75,11,Exhaust,Flash,13,False,9596,7925,Ruby Sightstone,Nomad's Medallion,Mikael's Crucible,Redemption,Ionian Boots of Lucidity,,6282,3176,Lane.bot_lane,Role.support
+1,Firé,Elise,True,Side.blue,12,3,11,7.666666666666667,60,Smite,Flash,14,False,11733,10250,Hunter's Potion,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Long Sword,74216,21681,Lane.jungle,Role.none
+2,TheDankWithinUs,Cassiopeia,True,Side.blue,13,3,10,7.666666666666667,190,Flash,Ghost,15,False,13356,12025,Rylai's Crystal Scepter,Tear of the Goddess,Void Staff,Rod of Ages,Needlessly Large Rod,Fiendish Codex,109223,9314,Lane.mid_lane,Role.solo
+3,Harajuku Barbie,Ryze,True,Side.blue,3,5,9,2.4,201,Flash,Teleport,15,False,11314,9750,Rod of Ages,Zhonya's Hourglass,Seraph's Embrace,Ionian Boots of Lucidity,,,147944,7251,Lane.top_lane,Role.solo
+4,Fake Carry,Vayne,True,Side.blue,12,4,8,5.0,211,Heal,Flash,15,False,13648,11850,Infinity Edge,Statikk Shiv,Phantom Dancer,B. F. Sword,,Berserker's Greaves,32812,115208,Lane.bot_lane,Role.carry
+5,DeathrunnerWC,Rek'Sai,False,Side.red,5,5,7,2.4,128,Smite,Flash,14,False,9500,9475,Enchantment: Cinderhulk,Warden's Mail,Mercury's Treads,Null-Magic Mantle,Spirit Visage,Tiamat,26468,91243,Lane.jungle,Role.none
+6,Bo0sted Monkeys,Ziggs,False,Side.red,4,7,3,1.0,160,Flash,Ghost,12,False,8446,7900,Doran's Ring,Morellonomicon,Doran's Ring,Rabadon's Deathcap,Boots of Speed,,94926,8878,Lane.mid_lane,Role.solo
+7,CC Wolf,Ezreal,False,Side.red,5,9,6,1.2222222222222223,155,Heal,Flash,13,False,9563,8500,Doran's Blade,Cull,Bilgewater Cutlass,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,12601,71490,Lane.bot_lane,Role.carry
+8,Phooka,Thresh,False,Side.red,1,15,8,0.6,16,Ignite,Flash,10,False,5977,5475,Knight's Vow,Ruby Sightstone,,,Relic Shield,Boots of Mobility,8365,2773,Lane.bot_lane,Role.support
+9,Tsui Wah ,Riven,False,Side.red,4,6,3,1.1666666666666667,192,Flash,Teleport,14,True,9186,8325,The Black Cleaver,Refillable Potion,,Maw of Malmortius,Mercury's Treads,Long Sword,0,104711,Lane.top_lane,Role.solo

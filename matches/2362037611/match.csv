@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Delerium,Karma,True,Side.blue,3,4,24,6.75,52,Exhaust,Flash,16,False,13765,11225,Redemption,Locket of the Iron Solari,Eye of the Watchers,,Ionian Boots of Lucidity,Ardent Censer,35693,8830,Lane.bot_lane,Role.support
+1,amumumu,Dr. Mundo,True,Side.blue,5,8,7,1.5,335,Flash,Teleport,18,False,16035,16100,Frozen Mallet,Zz'Rot Portal,Spirit Visage,Ninja Tabi,Sunfire Cape,Thornmail,160880,60968,Lane.top_lane,Role.solo
+2,JapaneseKoreanUG,Sivir,True,Side.blue,6,5,22,5.6,223,Flash,Heal,17,False,15015,13795,Doran's Blade,Essence Reaver,Hexdrinker,Infinity Edge,Berserker's Greaves,Phantom Dancer,298,168584,Lane.bot_lane,Role.carry
+3,moon o,Graves,True,Side.blue,15,5,10,5.0,234,Smite,Flash,18,False,18025,15225,Youmuu's Ghostblade,Maw of Malmortius,Pickaxe,Duskblade of Draktharr,Enchantment: Warrior,Berserker's Greaves,7499,260284,Lane.jungle,Role.none
+4,Huhi,Katarina,True,Side.blue,14,10,14,2.8,175,Flash,Ignite,17,True,15211,14225,Hextech Gunblade,Zhonya's Hourglass,,Void Staff,Abyssal Scepter,Sorcerer's Shoes,142372,11727,Lane.mid_lane,Role.solo
+5,PrismaI,Jhin,False,Side.red,2,11,13,1.3636363636363635,256,Flash,Heal,16,False,13469,12100,Boots of Swiftness,Essence Reaver,Statikk Shiv,Doran's Blade,Infinity Edge,,37313,141810,Lane.bot_lane,Role.carry
+6,Twitch FateFalls,Fizz,False,Side.red,8,7,4,1.7142857142857142,219,Flash,Ignite,16,False,13751,12400,Zhonya's Hourglass,Lich Bane,Blasting Wand,Abyssal Scepter,Ionian Boots of Lucidity,Doran's Ring,117567,34029,Lane.mid_lane,Role.solo
+7,my bad team,Fiora,False,Side.red,10,5,9,3.8,335,Flash,Teleport,18,False,17295,15350,Ravenous Hydra,Corrupting Potion,Death's Dance,The Bloodthirster,The Black Cleaver,Boots of Swiftness,7799,229572,Lane.top_lane,Role.solo
+8,The Tank Man,Janna,False,Side.red,1,12,11,1.0,8,Flash,Exhaust,13,False,9360,8725,Eye of the Oasis,Redemption,Locket of the Iron Solari,Boots of Mobility,Null-Magic Mantle,Forbidden Idol,3719,2260,Lane.bot_lane,Role.support
+9,McCashDollar,Shaco,False,Side.red,11,8,10,2.625,132,Ignite,Smite,16,False,13754,12370,Titanic Hydra,Bilgewater Cutlass,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Dead Man's Plate,Negatron Cloak,46428,88802,Lane.jungle,Role.none

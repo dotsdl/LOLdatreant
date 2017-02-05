@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZTG SolidSnake,Ahri,True,Side.blue,2,4,12,3.5,166,Flash,Ignite,14,False,10549,9985,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,Ruby Crystal,83528,12618,Lane.mid_lane,Role.solo
+1,all i want,Graves,True,Side.blue,11,4,7,4.5,184,Flash,Smite,15,False,13741,11875,Enchantment: Warrior,Ninja Tabi,Phantom Dancer,The Black Cleaver,Pickaxe,Vampiric Scepter,5043,166587,Lane.jungle,Role.none
+2,foggedftw1,Tryndamere,True,Side.blue,5,4,5,2.5,256,Ignite,Flash,16,False,13154,11225,Refillable Potion,Blade of the Ruined King,Ninja Tabi,Statikk Shiv,The Black Cleaver,Pickaxe,41473,157325,Lane.top_lane,Role.solo
+3,Ayukura,Nami,True,Side.blue,1,3,21,7.333333333333333,9,Flash,Exhaust,13,False,9916,8250,Locket of the Iron Solari,Ruby Sightstone,Redemption,,Frostfang,Boots of Mobility,9256,6774,Lane.bot_lane,Role.support
+4, keine Hosen,Caitlyn,True,Side.blue,10,3,4,4.666666666666667,187,Flash,Heal,13,False,12644,10600,Doran's Blade,Runaan's Hurricane,,Berserker's Greaves,Rapid Firecannon,Infinity Edge,3177,141409,Lane.bot_lane,Role.carry
+5,KiteAzure,Tristana,False,Side.red,3,6,4,1.1666666666666667,165,Flash,Heal,14,False,9786,9275,Doran's Blade,Infinity Edge,Berserker's Greaves,Cull,Runaan's Hurricane,Pickaxe,19344,86616,Lane.bot_lane,Role.carry
+6,MyTeamSoGOD,Rek'Sai,False,Side.red,3,6,9,2.0,111,Smite,Flash,14,False,9162,8725,Refillable Potion,Giant's Belt,Randuin's Omen,Ninja Tabi,Chain Vest,Enchantment: Cinderhulk,36619,66816,Lane.jungle,Role.none
+7,GalileoGalilley,Xerath,False,Side.red,4,3,10,4.666666666666667,185,Flash,Exhaust,15,False,10261,9200,Blasting Wand,Rod of Ages,The Dark Seal,Luden's Echo,The Dark Seal,Sorcerer's Shoes,120186,13435,Lane.mid_lane,Role.solo
+8,Y8Y,Janna,False,Side.red,0,9,9,1.0,7,Flash,Exhaust,12,False,6722,6075,Eye of the Oasis,Redemption,Control Ward,Ionian Boots of Lucidity,Null-Magic Mantle,Faerie Charm,3449,3128,Lane.bot_lane,Role.support
+9,Rènekton,Renekton,False,Side.red,7,5,5,2.4,234,Flash,Ignite,15,True,12052,11800,Titanic Hydra,Death's Dance,The Black Cleaver,Cloth Armor,,Ninja Tabi,3249,159935,Lane.top_lane,Role.solo

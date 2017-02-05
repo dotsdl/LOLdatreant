@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cùrz,Thresh,False,Side.blue,0,2,2,1.0,29,Flash,Ignite,9,False,4354,4000,Ruby Sightstone,Control Ward,Kindlegem,Relic Shield,Ionian Boots of Lucidity,,5755,3344,Lane.bot_lane,Role.support
+1,Stephane Ouellet,Lee Sin,False,Side.blue,4,4,2,1.5,107,Flash,Smite,11,False,7207,6750,Refillable Potion,Enchantment: Warrior,Tiamat,Boots of Mobility,Giant's Belt,Chain Vest,9769,65330,Lane.jungle,Role.none
+2,Stessy Poirier,Mordekaiser,False,Side.blue,2,5,3,1.0,142,Flash,Teleport,12,False,7548,7500,Health Potion,The Dark Seal,Sorcerer's Shoes,Hextech Protobelt-01,Rylai's Crystal Scepter,,69224,15844,Lane.top_lane,Role.solo
+3,KitingYeezus,Twisted Fate,False,Side.blue,0,5,2,0.4,91,Flash,Ghost,10,False,5524,5245,Doran's Ring,Blasting Wand,Ionian Boots of Lucidity,Aether Wisp,Sheen,Negatron Cloak,36748,7515,Lane.mid_lane,Role.solo
+4,Goxtry,Jhin,False,Side.blue,1,3,1,0.6666666666666666,148,Heal,Flash,10,False,6389,5800,Doran's Blade,Boots of Swiftness,Essence Reaver,Dagger,Dagger,,4869,62952,Lane.bot_lane,Role.carry
+5,Clarizio,Janna,True,Side.red,1,1,7,8.0,5,Flash,Exhaust,9,False,5526,4925,Redemption,Sightstone,Control Ward,Ruby Crystal,Ancient Coin,Boots of Speed,1829,3442,Lane.bot_lane,Role.support
+6,ADC Prospect,Caitlyn,True,Side.red,3,0,1,4.0,167,Heal,Flash,11,True,8128,7925,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Control Ward,,448,99419,Lane.bot_lane,Role.carry
+7,lc0nic,Zac,True,Side.red,3,2,9,6.0,108,Flash,Smite,12,False,8131,7075,Enchantment: Cinderhulk,Spirit Visage,Ionian Boots of Lucidity,Cloth Armor,Cloth Armor,,82053,14577,Lane.jungle,Role.none
+8,PieCakeLord,Irelia,True,Side.red,4,3,5,3.0,141,Teleport,Flash,13,False,8278,6058,Corrupting Potion,Doran's Blade,Hexdrinker,Trinity Force,,,1518,56311,Lane.top_lane,Role.solo
+9,Dziarmaga,LeBlanc,True,Side.red,8,1,3,11.0,143,Flash,Ignite,13,False,8829,7900,Doran's Ring,Sorcerer's Shoes,Void Staff,,Morellonomicon,The Dark Seal,67995,11937,Lane.mid_lane,Role.solo

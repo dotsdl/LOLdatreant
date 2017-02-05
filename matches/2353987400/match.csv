@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Imaqtpie,Kalista,False,Side.blue,7,11,2,0.8181818181818182,181,Flash,Heal,13,False,10161,9800,Blade of the Ruined King,,Last Whisper,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,1089,89391,Lane.bot_lane,Role.carry
+1,NoOb NeVeR trolL,Soraka,False,Side.blue,2,9,9,1.2222222222222223,21,Flash,Exhaust,12,False,7785,7025,Eye of the Watchers,Refillable Potion,Control Ward,Ardent Censer,Mejai's Soulstealer,Ionian Boots of Lucidity,24575,2289,Lane.bot_lane,Role.support
+2,Rokí,Riven,False,Side.blue,2,3,4,2.0,172,Flash,Teleport,14,False,8957,8150,The Black Cleaver,Refillable Potion,Death's Dance,,Mercury's Treads,,42,90534,Lane.top_lane,Role.solo
+3,Gahlin,Hecarim,False,Side.blue,1,6,8,1.5,102,Ghost,Smite,13,False,8457,7433,Hunter's Talisman,Refillable Potion,Trinity Force,Mercury's Treads,Chain Vest,Giant's Belt,9433,82292,Lane.jungle,Role.none
+4,cesuna,Akali,False,Side.blue,6,7,2,1.1428571428571428,154,Flash,Ignite,13,False,9505,8685,Hextech Gunblade,Amplifying Tome,Sorcerer's Shoes,Cloth Armor,Abyssal Scepter,Doran's Shield,31999,61104,Lane.mid_lane,Role.solo
+5,STM Mark,Vel'Koz,True,Side.red,9,5,6,3.0,65,Flash,Exhaust,13,False,11151,9785,Frostfang,Morellonomicon,Sightstone,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Amplifying Tome,51597,4189,Lane.bot_lane,Role.support
+6,FZ3R0,Ezreal,True,Side.red,9,5,11,4.0,169,Flash,Heal,14,False,13055,11825,Blade of the Ruined King,Muramana,Iceborn Gauntlet,Doran's Blade,Ionian Boots of Lucidity,Last Whisper,15573,105618,Lane.bot_lane,Role.carry
+7,amumumu,Amumu,True,Side.red,4,4,12,4.0,145,Flash,Smite,15,False,12048,10310,Enchantment: Runic Echoes,Hunter's Potion,Amplifying Tome,Ninja Tabi,Guardian Angel,Rylai's Crystal Scepter,132718,34116,Lane.jungle,Role.none
+8,Damonte,Katarina,True,Side.red,10,3,4,4.666666666666667,218,Ignite,Flash,15,True,13276,12260,Sorcerer's Shoes,Hextech Gunblade,Rabadon's Deathcap,Abyssal Scepter,Amplifying Tome,The Dark Seal,126752,18760,Lane.mid_lane,Role.solo
+9,Allorim,Poppy,True,Side.red,4,1,11,15.0,200,Flash,Teleport,16,False,11595,8875,Sunfire Cape,Ninja Tabi,Spectre's Cowl,Corrupting Potion,Iceborn Gauntlet,Ruby Crystal,38835,83102,Lane.top_lane,Role.solo

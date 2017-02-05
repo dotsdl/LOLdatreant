@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hopes,Ezreal,False,Side.blue,0,8,9,1.125,157,Teleport,Flash,14,False,10259,9800,Doran's Blade,Bilgewater Cutlass,The Black Cleaver,Boots of Swiftness,Iceborn Gauntlet,Recurve Bow,24138,87058,Lane.top_lane,Role.solo
+1,Daimon,Lee Sin,False,Side.blue,6,7,4,1.4285714285714286,140,Smite,Flash,14,True,11394,10200,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Thornmail,Giant's Belt,33824,103793,Lane.jungle,Role.none
+2,Ahrí,Ahri,False,Side.blue,7,8,7,1.75,215,Ignite,Flash,16,False,13048,12995,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Liandry's Torment,Blasting Wand,Amplifying Tome,110193,13630,Lane.mid_lane,Role.solo
+3,iEatCreeps,Draven,False,Side.blue,6,7,4,1.4285714285714286,227,Flash,Heal,14,False,14013,12750,B. F. Sword,Berserker's Greaves,Infinity Edge,Lord Dominik's Regards,Phantom Dancer,Vampiric Scepter,1507,163437,Lane.bot_lane,Role.carry
+4,Eddy tha God,Lulu,False,Side.blue,1,7,6,1.0,22,Exhaust,Flash,11,False,9889,9125,Eye of the Watchers,Redemption,Banner of Command,Ionian Boots of Lucidity,Blasting Wand,Control Ward,6506,3777,Lane.bot_lane,Role.support
+5,Aethex,Irelia,True,Side.red,8,9,7,1.6666666666666667,176,Flash,Ignite,16,False,13446,10833,Mercury's Treads,Quicksilver Sash,Randuin's Omen,Trinity Force,Hexdrinker,,6070,88814,Lane.mid_lane,Role.solo
+6,ZongopBongo,Varus,True,Side.red,12,4,12,6.0,190,Flash,Heal,15,False,14699,13025,Vampiric Scepter,Essence Reaver,B. F. Sword,Statikk Shiv,Berserker's Greaves,Mortal Reminder,15441,150864,Lane.bot_lane,Role.carry
+7,Hi Janna,Janna,True,Side.red,0,3,28,9.333333333333334,21,Flash,Exhaust,15,False,11050,9550,Eye of the Oasis,Ionian Boots of Lucidity,Redemption,Forbidden Idol,Ardent Censer,Chalice of Harmony,9356,4616,Lane.bot_lane,Role.support
+8,rhubarbs,Rek'Sai,True,Side.red,13,1,17,30.0,226,Smite,Flash,18,False,17574,15100,Enchantment: Cinderhulk,Titanic Hydra,Mercury's Treads,Dead Man's Plate,Maw of Malmortius,Giant's Belt,54236,182803,Lane.jungle,Role.none
+9,Toomz zzz,Shen,True,Side.red,4,3,18,7.333333333333333,227,Flash,Teleport,17,False,13298,11875,Sunfire Cape,Blade of the Ruined King,Mercury's Treads,Spirit Visage,Chain Vest,,82997,48767,Lane.top_lane,Role.solo

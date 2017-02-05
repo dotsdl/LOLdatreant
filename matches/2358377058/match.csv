@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Slapo,Blitzcrank,True,Side.blue,0,2,12,6.0,32,Ignite,Flash,11,False,6594,5425,Righteous Glory,Sightstone,,Targon's Brace,,Boots of Mobility,9753,6437,Lane.bot_lane,Role.support
+1,Annie Bot,Annie,True,Side.blue,6,1,6,12.0,164,Teleport,Flash,12,False,9439,8325,Hextech Protobelt-01,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Rabadon's Deathcap,Doran's Ring,64943,12341,Lane.mid_lane,Role.solo
+2,FFF Heresy Trial,Vi,True,Side.blue,5,0,11,16.0,67,Flash,Smite,13,False,8782,6500,Refillable Potion,Caulfield's Warhammer,Long Sword,Enchantment: Warrior,Hexdrinker,Boots of Mobility,2596,85607,Lane.jungle,Role.none
+3,umperor,Kennen,True,Side.blue,8,0,4,12.0,151,Teleport,Flash,13,False,10482,8900,Blasting Wand,Hextech Protobelt-01,Rabadon's Deathcap,Sorcerer's Shoes,,,69135,22730,Lane.top_lane,Role.solo
+4,Lucyfer,Twitch,True,Side.blue,9,0,8,17.0,166,Heal,Flash,12,True,10355,8450,Refillable Potion,Infinity Edge,Dagger,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,0,89693,Lane.bot_lane,Role.carry
+5,HannibaI Barca,Nasus,False,Side.red,0,4,1,0.25,160,Teleport,Flash,12,False,7169,6375,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Mercury's Treads,Spectre's Cowl,Doran's Ring,60609,27186,Lane.top_lane,Role.solo
+6,bvcx222,Thresh,False,Side.red,1,7,1,0.2857142857142857,27,Flash,Exhaust,9,False,4939,3950,Eye of the Equinox,Total Biscuit of Rejuvenation,Cloth Armor,,,Mercury's Treads,7008,3759,Lane.bot_lane,Role.support
+7,Gweiss,Graves,False,Side.red,0,4,1,0.25,99,Smite,Flash,11,False,6086,5950,Hexdrinker,Enchantment: Warrior,Mercury's Treads,Long Sword,Long Sword,,2338,70244,Lane.jungle,Role.none
+8,3A3Y 3OY,Ezreal,False,Side.red,1,4,1,0.5,144,Heal,Flash,10,False,6580,6408,Trinity Force,Pickaxe,Tear of the Goddess,,Cull,Doran's Blade,5723,61316,Lane.bot_lane,Role.carry
+9,Chaloc,LeBlanc,False,Side.red,1,9,1,0.2222222222222222,109,Ignite,Flash,11,False,5879,5900,Ionian Boots of Lucidity,Morellonomicon,Null-Magic Mantle,,,,45782,10757,Lane.mid_lane,Role.solo

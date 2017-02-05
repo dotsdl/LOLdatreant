@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Poı,LeBlanc,True,Side.blue,5,1,3,8.0,140,Flash,Teleport,12,False,8145,6135,Doran's Ring,Giant's Belt,Sorcerer's Shoes,,Amplifying Tome,Morellonomicon,63629,10552,Lane.mid_lane,Role.solo
+1,zT ace,Lee Sin,True,Side.blue,6,1,4,10.0,93,Smite,Flash,13,False,8561,8200,Giant's Belt,Enchantment: Warrior,,Edge of Night,Ninja Tabi,,17865,81515,Lane.jungle,Role.none
+2,utdwhoosh,Blitzcrank,True,Side.blue,1,0,6,7.0,9,Flash,Exhaust,9,False,6037,5850,Sapphire Crystal,Talisman of Ascension,Sightstone,Tear of the Goddess,Boots of Swiftness,Cloth Armor,5276,5793,Lane.bot_lane,Role.support
+3,H4xDefender,Lucian,True,Side.blue,6,1,2,8.0,152,Heal,Flash,11,False,9216,8860,Doran's Blade,The Black Cleaver,Berserker's Greaves,Brawler's Gloves,Duskblade of Draktharr,Dagger,767,70636,Lane.bot_lane,Role.carry
+4,singed420,Singed,True,Side.blue,1,2,2,1.5,160,Ghost,Teleport,12,False,7521,7200,The Dark Seal,Corrupting Potion,Mercury's Treads,Thornmail,Dead Man's Plate,,89293,5120,Lane.jungle,Role.none
+5,Sînner,Vayne,False,Side.red,0,4,1,0.25,141,Flash,Heal,10,False,6065,5600,Statikk Shiv,Doran's Blade,Berserker's Greaves,Total Biscuit of Rejuvenation,,B. F. Sword,5823,44580,Lane.bot_lane,Role.carry
+6,J D,Ahri,False,Side.red,1,3,0,0.3333333333333333,124,Ignite,Flash,10,False,5818,5185,Refillable Potion,Amplifying Tome,Giant's Belt,Doran's Ring,Abyssal Scepter,Boots of Speed,27639,9814,Lane.mid_lane,Role.solo
+7,out skizzled,Riven,False,Side.red,0,4,2,0.5,178,Flash,Teleport,12,False,6878,6210,Doran's Blade,The Black Cleaver,Refillable Potion,Boots of Speed,Vampiric Scepter,Tiamat,0,82955,Lane.top_lane,Role.solo
+8,KingStix,Janna,False,Side.red,0,5,1,0.2,2,Exhaust,Flash,8,False,4135,4000,Total Biscuit of Rejuvenation,Boots of Mobility,Eye of the Oasis,Forbidden Idol,,Control Ward,1905,1054,Lane.bot_lane,Role.support
+9,Simply Nora,Quinn,False,Side.red,4,3,0,1.3333333333333333,93,Ghost,Smite,11,True,6800,6225,Berserker's Greaves,Refillable Potion,Enchantment: Warrior,Phage,Caulfield's Warhammer,,3262,77280,Lane.jungle,Role.none

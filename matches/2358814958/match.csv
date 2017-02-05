@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shamwwow,Mordekaiser,False,Side.blue,7,7,1,1.1428571428571428,150,Flash,Ignite,13,False,10045,8735,Doran's Shield,Rylai's Crystal Scepter,Blasting Wand,Hextech Protobelt-01,Sorcerer's Shoes,Amplifying Tome,79833,9630,Lane.mid_lane,Role.solo
+1,Asyc xD ,Caitlyn,False,Side.blue,1,6,2,0.5,179,Heal,Flash,12,False,9183,7925,Doran's Blade,Runaan's Hurricane,Pickaxe,B. F. Sword,Kircheis Shard,Berserker's Greaves,1286,90394,Lane.bot_lane,Role.carry
+2,Rhux,Rumble,False,Side.blue,7,7,1,1.1428571428571428,134,Flash,Teleport,14,True,9915,8800,Rylai's Crystal Scepter,Doran's Shield,Hextech Protobelt-01,Seeker's Armguard,Sorcerer's Shoes,,72708,7437,Lane.top_lane,Role.solo
+3,3in1warrior,Shyvana,False,Side.blue,1,6,3,0.6666666666666666,137,Flash,Smite,13,False,8730,8200,Enchantment: Bloodrazor,Refillable Potion,Ninja Tabi,Dead Man's Plate,Recurve Bow,Long Sword,54411,49730,Lane.jungle,Role.none
+4,DumPooPoo,Alistar,False,Side.blue,0,9,3,0.3333333333333333,30,Exhaust,Flash,10,False,6061,5550,Relic Shield,Redemption,Sightstone,Control Ward,Boots of Mobility,Aegis of the Legion,12829,6914,Lane.bot_lane,Role.support
+5,Jadsbutt,Ezreal,True,Side.red,7,1,16,23.0,130,Flash,Heal,13,False,10800,8983,Muramana,Ionian Boots of Lucidity,Trinity Force,Doran's Blade,Hexdrinker,,13421,81944,Lane.bot_lane,Role.carry
+6,Nero Valentine,Jayce,True,Side.red,10,2,12,11.0,175,Teleport,Flash,14,False,11757,9100,Doran's Blade,Refillable Potion,Maw of Malmortius,The Black Cleaver,Boots of Swiftness,Vampiric Scepter,14500,88843,Lane.top_lane,Role.solo
+7,Carrots2,Soraka,True,Side.red,2,3,27,9.666666666666666,16,Flash,Exhaust,13,False,8747,7400,Eye of the Watchers,Redemption,,Forbidden Idol,Ionian Boots of Lucidity,Aegis of the Legion,14370,6288,Lane.bot_lane,Role.support
+8,Fiku,Olaf,True,Side.red,9,5,15,4.8,103,Ghost,Smite,13,False,10816,9575,Enchantment: Cinderhulk,Righteous Glory,Cloth Armor,Ionian Boots of Lucidity,Spirit Visage,Cloth Armor,13184,83323,Lane.jungle,Role.none
+9,Doctor Flambe,Malzahar,True,Side.red,7,5,16,4.6,152,Ignite,Flash,14,False,10796,8460,,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,Doran's Ring,76929,18838,Lane.jungle,Role.none

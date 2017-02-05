@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HannibaI Barca,Jayce,True,Side.blue,8,5,9,3.4,134,Teleport,Flash,14,False,9873,7800,The Black Cleaver,Doran's Blade,Hexdrinker,Tear of the Goddess,Boots of Swiftness,Caulfield's Warhammer,11596,77269,Lane.top_lane,Role.solo
+1,DJ Holiday,Blitzcrank,True,Side.blue,2,3,13,5.0,31,Ignite,Flash,11,False,7642,6100,Cloth Armor,Redemption,Boots of Mobility,Eye of the Equinox,,,8302,8493,Lane.bot_lane,Role.support
+2,The Sad Clown,Twitch,True,Side.blue,13,3,5,6.0,167,Heal,Flash,13,False,11862,10350,Doran's Blade,Infinity Edge,Bilgewater Cutlass,Berserker's Greaves,Runaan's Hurricane,Recurve Bow,0,104018,Lane.bot_lane,Role.carry
+3,Distasteful,Lee Sin,True,Side.blue,11,5,8,3.8,101,Flash,Smite,13,False,10451,9100,Mercury's Treads,Maw of Malmortius,Enchantment: Warrior,Spectre's Cowl,Ruby Crystal,Cloth Armor,19331,75133,Lane.jungle,Role.none
+4,Imentice,Syndra,True,Side.blue,9,3,10,6.333333333333333,186,Ghost,Flash,15,True,12173,9725,Rylai's Crystal Scepter,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Control Ward,117170,12576,Lane.mid_lane,Role.solo
+5,HoNSol0,Evelynn,False,Side.red,7,8,1,1.0,90,Flash,Smite,12,False,7949,7300,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,The Dark Seal,Lich Bane,,47321,25371,Lane.jungle,Role.none
+6,Asukira,Taliyah,False,Side.red,5,11,3,0.7272727272727273,46,Exhaust,Flash,10,False,7381,6800,Eye of the Watchers,Rylai's Crystal Scepter,Sorcerer's Shoes,,,,34997,2980,Lane.bot_lane,Role.support
+7,NEACE  Eeeee,Nasus,False,Side.red,2,6,5,1.1666666666666667,158,Flash,Teleport,12,False,8557,7750,Corrupting Potion,Zz'Rot Portal,Banner of Command,Doran's Ring,Boots of Speed,Phage,52992,21814,Lane.top_lane,Role.solo
+8,Gayzuo,Ryze,False,Side.red,2,10,2,0.4,82,Ghost,Flash,11,False,6277,6025,Tear of the Goddess,Refillable Potion,Rod of Ages,Control Ward,Mercury's Treads,Needlessly Large Rod,43882,4802,Lane.mid_lane,Role.solo
+9,Rachen,Ezreal,False,Side.red,3,8,3,0.75,123,Flash,Heal,11,False,7368,7075,Iceborn Gauntlet,Doran's Blade,Manamune,Ionian Boots of Lucidity,Cull,,8275,51057,Lane.bot_lane,Role.carry

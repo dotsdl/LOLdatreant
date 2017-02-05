@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Santa Quas,Swain,False,Side.blue,8,4,5,3.25,262,Teleport,Flash,16,False,13248,12675,Rod of Ages,Zhonya's Hourglass,Sorcerer's Shoes,Abyssal Scepter,Haunting Guise,The Dark Seal,138577,17573,Lane.mid_lane,Role.solo
+1,HvK LiquidDiego,Lee Sin,False,Side.blue,6,5,9,3.0,100,Flash,Smite,15,False,10810,10275,Maw of Malmortius,Warden's Mail,Enchantment: Warrior,Boots of Mobility,Spectre's Cowl,Giant's Belt,16987,83830,Lane.jungle,Role.none
+2,776,Alistar,False,Side.blue,1,8,6,0.875,43,Flash,Exhaust,12,False,7658,6900,Locket of the Iron Solari,Eye of the Equinox,Kindlegem,Boots of Mobility,Refillable Potion,,8531,4733,Lane.bot_lane,Role.support
+3,1 and 17,Caitlyn,False,Side.blue,1,11,6,0.6363636363636364,210,Heal,Flash,14,False,10310,9700,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Cull,Zeal,602,110100,Lane.bot_lane,Role.carry
+4,Rohammers,Trundle,False,Side.blue,4,4,7,2.75,207,Teleport,Flash,16,False,11107,10450,Titanic Hydra,Corrupting Potion,Iceborn Gauntlet,Mercury's Treads,Spectre's Cowl,Kindlegem,3327,113233,Lane.top_lane,Role.solo
+5,Rhux,Yasuo,True,Side.red,1,6,2,0.5,226,Flash,Teleport,15,False,10888,10350,Phantom Dancer,Doran's Blade,Ninja Tabi,Frozen Mallet,Mortal Reminder,,11686,121545,Lane.top_lane,Role.solo
+6,C9 Smoothie,Poppy,True,Side.red,6,3,15,7.0,41,Flash,Ignite,14,False,10710,6725,,Ruby Sightstone,Locket of the Iron Solari,Relic Shield,Boots of Mobility,Crystalline Bracer,3258,35550,Lane.bot_lane,Role.support
+7,IKingVex,Twitch,True,Side.red,14,6,9,3.8333333333333335,184,Heal,Flash,16,True,14697,11635,Berserker's Greaves,Blade of the Ruined King,Infinity Edge,,Runaan's Hurricane,Doran's Blade,2403,129120,Lane.bot_lane,Role.carry
+8,Grigne,Elise,True,Side.red,9,3,11,6.666666666666667,187,Flash,Smite,16,False,13924,12055,Enchantment: Runic Echoes,Sorcerer's Shoes,Rylai's Crystal Scepter,Control Ward,Mejai's Soulstealer,Banshee's Veil,148687,46266,Lane.jungle,Role.none
+9,Carrots2,Lulu,True,Side.red,2,2,9,5.5,249,Flash,Teleport,17,False,11894,10075,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Boots of Speed,Ardent Censer,,135943,29744,Lane.mid_lane,Role.solo

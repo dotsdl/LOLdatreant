@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Snik,Karma,True,Side.blue,3,4,4,1.75,67,Exhaust,Flash,10,True,7006,5595,Spellthief's Edge,Athene's Unholy Grail,Ionian Boots of Lucidity,Negatron Cloak,Fiendish Codex,,30452,11010,Lane.mid_lane,Role.solo
+1,lc0nic,Twitch,True,Side.blue,3,2,3,3.0,108,Flash,Heal,9,False,7551,6000,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Cull,,755,50182,Lane.bot_lane,Role.carry
+2,Liquid Yusan,Hecarim,True,Side.blue,5,0,4,9.0,115,Ghost,Smite,11,False,8369,6833,Mercury's Treads,Refillable Potion,Long Sword,Trinity Force,Long Sword,Tracker's Knife,8622,84364,Lane.jungle,Role.none
+3,RF Legendary,Poppy,True,Side.blue,2,1,1,3.0,135,Flash,Teleport,11,False,7505,6175,Corrupting Potion,Spectre's Cowl,Mercury's Treads,Sunfire Cape,Ruby Crystal,Control Ward,10953,48723,Lane.top_lane,Role.solo
+4,Liquid Painless,Nami,True,Side.blue,0,0,10,10.0,2,Flash,Exhaust,9,False,6259,5300,Chalice of Harmony,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Control Ward,Forbidden Idol,6380,6769,Lane.bot_lane,Role.support
+5,CloudNguyén,Brand,False,Side.red,1,3,0,0.3333333333333333,4,Ignite,Flash,5,False,3331,2325,Frostfang,Sightstone,,Boots of Speed,,,3516,1551,Lane.bot_lane,Role.support
+6,DeaIer29,Cassiopeia,False,Side.red,1,3,1,0.6666666666666666,142,Ghost,Flash,11,False,5792,4585,Doran's Ring,Morellonomicon,Tear of the Goddess,Amplifying Tome,,,51253,6456,Lane.mid_lane,Role.solo
+7,Riesig,Lissandra,False,Side.red,0,1,1,1.0,78,Flash,Teleport,8,False,4128,3750,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,Lost Chapter,Fiendish Codex,24286,6230,Lane.top_lane,Role.solo
+8,Sangydog,Jhin,False,Side.red,0,3,1,0.3333333333333333,58,Flash,Heal,6,False,3866,6400,Doran's Blade,B. F. Sword,,,,,256,16435,Lane.bot_lane,Role.carry
+9,1936 1948,Shaco,False,Side.red,5,3,1,2.0,96,Smite,Ignite,12,False,6897,6275,Tiamat,Berserker's Greaves,Enchantment: Runic Echoes,Jaurim's Fist,,,22886,54210,Lane.jungle,Role.none

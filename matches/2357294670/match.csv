@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,i love hitagi,Caitlyn,False,Side.blue,5,5,5,2.0,223,Heal,Flash,13,False,10702,9950,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,Kircheis Shard,554,132439,Lane.bot_lane,Role.carry
+1,nice guy dan,Poppy,False,Side.blue,2,3,7,3.0,188,Teleport,Flash,14,False,9666,9275,Sunfire Cape,Mercury's Treads,Corrupting Potion,Kindlegem,Spectre's Cowl,Iceborn Gauntlet,39840,69358,Lane.top_lane,Role.solo
+2,Thirsty Bastard,Blitzcrank,False,Side.blue,4,8,9,1.625,16,Ignite,Flash,12,True,8407,7400,Boots of Swiftness,Sightstone,Talisman of Ascension,Knight's Vow,Sapphire Crystal,Total Biscuit of Rejuvenation,6344,4282,Lane.bot_lane,Role.support
+3,Junuary,Kassadin,False,Side.blue,4,8,4,1.0,169,Flash,Teleport,13,False,9646,9660,Sheen,Rabadon's Deathcap,Rod of Ages,Amplifying Tome,,Sorcerer's Shoes,69989,22313,Lane.mid_lane,Role.solo
+4,xNoblesseObligex,Vi,False,Side.blue,3,10,5,0.8,142,Smite,Flash,14,False,9550,8883,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Raptor Cloak,,971,120973,Lane.jungle,Role.none
+5,I am Dai Lo,Lee Sin,True,Side.red,7,7,12,2.7142857142857144,129,Smite,Flash,14,False,11380,9650,Enchantment: Warrior,The Black Cleaver,Sightstone,Chain Vest,Boots of Mobility,Tiamat,23447,116693,Lane.jungle,Role.none
+6, keine Hosen,Jhin,True,Side.red,15,3,8,7.666666666666667,218,Flash,Heal,15,False,15245,11700,Doran's Blade,Essence Reaver,,Boots of Swiftness,Infinity Edge,Rapid Firecannon,4796,181428,Lane.bot_lane,Role.carry
+7,Arizona GreenTea,Xerath,True,Side.red,6,5,20,5.2,162,Heal,Flash,15,False,12037,8725,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Luden's Echo,Blasting Wand,,108769,11937,Lane.mid_lane,Role.solo
+8,SerieZ,Soraka,True,Side.red,2,1,26,28.0,24,Exhaust,Flash,13,False,10152,8925,,Talisman of Ascension,Redemption,Sightstone,Ardent Censer,Ionian Boots of Lucidity,12175,6050,Lane.bot_lane,Role.support
+9,DudeManGuyy,Nasus,True,Side.red,4,3,5,3.0,259,Flash,Teleport,16,False,12574,11758,Trinity Force,Zz'Rot Portal,Kindlegem,Frozen Heart,Ionian Boots of Lucidity,,88898,81685,Lane.top_lane,Role.solo

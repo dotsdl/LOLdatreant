@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ayukura,Karma,False,Side.blue,0,3,2,0.6666666666666666,21,Flash,Ignite,10,False,6353,5075,Redemption,Sightstone,,Frostfang,Ionian Boots of Lucidity,,10062,5546,Lane.bot_lane,Role.support
+1,foggedftw2,Tryndamere,False,Side.blue,2,3,0,0.6666666666666666,229,Ignite,Flash,14,False,10308,8950,The Black Cleaver,Bilgewater Cutlass,Statikk Shiv,Refillable Potion,Mercury's Treads,,30612,122555,Lane.mid_lane,Role.solo
+2,singed420,Singed,False,Side.blue,0,7,1,0.14285714285714285,231,Ghost,Teleport,14,False,8749,7700,The Dark Seal,Corrupting Potion,Rejuvenation Bead,Rod of Ages,Mercury's Treads,Dead Man's Plate,129588,4278,Lane.top_lane,Role.solo
+3,TrungThienDo,Shyvana,False,Side.blue,4,5,0,0.8,172,Smite,Exhaust,13,False,10003,9450,Refillable Potion,Tiamat,Enchantment: Bloodrazor,Mercury's Treads,Frozen Mallet,Jaurim's Fist,64529,67758,Lane.jungle,Role.none
+4,scarraCANNON,Caitlyn,False,Side.blue,0,6,2,0.3333333333333333,148,Flash,Heal,10,False,7611,7400,Runaan's Hurricane,Infinity Edge,Boots of Speed,Health Potion,Dagger,,312,80632,Lane.bot_lane,Role.carry
+5,Fire Editorial,Ezreal,True,Side.red,10,1,4,14.0,160,Flash,Heal,13,False,11384,9708,Bilgewater Cutlass,Ionian Boots of Lucidity,Trinity Force,Manamune,,,14540,94409,Lane.bot_lane,Role.carry
+6,TdollasAKATmoney,Morgana,True,Side.red,1,1,16,17.0,12,Flash,Exhaust,12,False,7891,6525,Zz'Rot Portal,Boots of Mobility,Control Ward,Eye of the Watchers,,,14408,5554,Lane.bot_lane,Role.support
+7,Twisted Fate Boy,Twisted Fate,True,Side.red,7,1,9,16.0,191,Ghost,Flash,15,False,11549,10750,Doran's Ring,Lich Bane,Sorcerer's Shoes,Luden's Echo,Void Staff,,110707,14533,Lane.mid_lane,Role.solo
+8,PokAthot,Shen,True,Side.red,1,1,12,13.0,166,Flash,Teleport,14,False,8865,7550,Randuin's Omen,Refillable Potion,Zz'Rot Portal,Ninja Tabi,Cloth Armor,Ruby Crystal,27549,32224,Lane.top_lane,Role.solo
+9,IdowhatImust,Lee Sin,True,Side.red,5,2,7,6.0,97,Flash,Smite,14,True,9207,7500,Boots of Mobility,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Null-Magic Mantle,Ruby Crystal,18339,87811,Lane.jungle,Role.none

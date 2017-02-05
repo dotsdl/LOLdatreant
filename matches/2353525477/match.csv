@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,I Marksman I,Jayce,False,Side.blue,10,6,1,1.8333333333333333,176,Ignite,Flash,13,False,10910,10025,Manamune,Doran's Blade,Maw of Malmortius,Lord Dominik's Regards,,Ionian Boots of Lucidity,11567,93223,Lane.mid_lane,Role.solo
+1,Kaído,Jhin,False,Side.blue,1,7,3,0.5714285714285714,157,Flash,Heal,11,False,8605,7700,Doran's Blade,Zeal,Cull,Essence Reaver,Boots of Swiftness,Kircheis Shard,3931,87313,Lane.bot_lane,Role.carry
+2,Aisakumi,Sona,False,Side.blue,1,6,7,1.3333333333333333,13,Exhaust,Flash,10,False,6920,6550,Null-Magic Mantle,Eye of the Watchers,Redemption,Cloth Armor,,Boots of Mobility,8305,2885,Lane.bot_lane,Role.support
+3,Im a monkeyman,Rek'Sai,False,Side.blue,3,7,7,1.4285714285714286,91,Flash,Smite,12,False,8674,7875,Enchantment: Cinderhulk,Tiamat,Spirit Visage,Ninja Tabi,,,19222,69626,Lane.jungle,Role.none
+4,Chuuper,Fiora,False,Side.blue,3,4,4,1.75,192,Flash,Teleport,14,False,9994,9758,Corrupting Potion,Ravenous Hydra,Trinity Force,Ruby Crystal,Null-Magic Mantle,Ninja Tabi,1087,91952,Lane.top_lane,Role.solo
+5,Galdrick,Nautilus,True,Side.red,1,5,13,2.8,37,Flash,Ignite,11,False,7652,7475,Sightstone,Face of the Mountain,Control Ward,Boots of Swiftness,Locket of the Iron Solari,Giant's Belt,13707,7011,Lane.bot_lane,Role.support
+6,IQ is 201 ,Nidalee,True,Side.red,9,3,6,5.0,91,Flash,Smite,13,False,10469,7310,Refillable Potion,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,,87419,14893,Lane.jungle,Role.none
+7,longdongsi1ver69,Gangplank,True,Side.red,2,4,6,2.0,193,Flash,Teleport,15,False,11292,9683,Trinity Force,Refillable Potion,Ionian Boots of Lucidity,Infinity Edge,Zeal,,4710,136089,Lane.top_lane,Role.solo
+8,MusicalNotes,Ezreal,True,Side.red,6,4,10,4.0,168,Flash,Heal,13,False,10820,9900,Doran's Blade,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,,Manamune,9060,80372,Lane.bot_lane,Role.carry
+9,Nedo,Ryze,True,Side.red,11,2,7,9.0,181,Ghost,Flash,15,True,12739,10725,Rod of Ages,Amplifying Tome,Seraph's Embrace,Ionian Boots of Lucidity,,Rylai's Crystal Scepter,134222,14659,Lane.mid_lane,Role.solo

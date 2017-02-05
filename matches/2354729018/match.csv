@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Darvec,Hecarim,False,Side.blue,4,2,5,4.5,108,Smite,Ghost,12,False,7615,6833,Stalker's Blade,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,Ruby Crystal,Ruby Crystal,9616,72296,Lane.jungle,Role.none
+1,DaDieYan,Viktor,False,Side.blue,0,3,1,0.3333333333333333,163,Flash,Exhaust,12,False,6630,6060,Perfect Hex Core,Doran's Ring,The Dark Seal,Boots of Speed,Amplifying Tome,Needlessly Large Rod,66681,9094,Lane.mid_lane,Role.solo
+2,Walljumper,Tristana,False,Side.blue,3,5,3,1.2,134,Heal,Flash,10,False,7305,7225,Cloak of Agility,Doran's Blade,Pickaxe,Rapid Firecannon,Berserker's Greaves,B. F. Sword,15790,49341,Lane.bot_lane,Role.carry
+3,ityyy,Shyvana,False,Side.blue,2,3,0,0.6666666666666666,115,Flash,Teleport,11,False,6516,6175,Doran's Blade,Refillable Potion,Mercury's Treads,Titanic Hydra,Chain Vest,,29955,30368,Lane.top_lane,Role.solo
+4,Na Kirby,Karma,False,Side.blue,2,5,5,1.4,16,Exhaust,Flash,10,False,5953,5600,Eye of the Watchers,Redemption,,Ionian Boots of Lucidity,,,7312,3578,Lane.bot_lane,Role.support
+5,Donmat,Twisted Fate,True,Side.red,1,0,3,4.0,168,Ghost,Flash,13,False,8664,8410,Doran's Ring,Health Potion,Ionian Boots of Lucidity,Rod of Ages,Amplifying Tome,Lich Bane,85980,10646,Lane.jungle,Role.none
+6,Iing,Kennen,True,Side.red,3,3,2,1.6666666666666667,155,Flash,Teleport,13,True,8214,7125,Ionian Boots of Lucidity,Hextech Protobelt-01,Zhonya's Hourglass,Ruby Crystal,,,60250,18813,Lane.top_lane,Role.solo
+7,My Kat Evolved,Janna,True,Side.red,0,3,8,2.6666666666666665,5,Exhaust,Flash,10,False,5697,5100,Ionian Boots of Lucidity,Sightstone,Redemption,Nomad's Medallion,,,2616,5162,Lane.bot_lane,Role.support
+8,Asc Intercourse,Vayne,True,Side.red,9,3,4,4.333333333333333,150,Flash,Heal,13,False,10335,8125,,Blade of the Ruined King,Dagger,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,144,76594,Lane.bot_lane,Role.carry
+9,Jetricxz,Vi,True,Side.red,5,2,2,3.5,97,Smite,Flash,12,False,8188,8133,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Control Ward,Ninja Tabi,Cloth Armor,2589,95568,Lane.jungle,Role.none

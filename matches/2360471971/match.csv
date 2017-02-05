@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TQS Zuardian,Vi,True,Side.blue,2,2,2,2.0,74,Smite,Flash,9,False,5859,5550,Refillable Potion,Enchantment: Warrior,Ionian Boots of Lucidity,Sheen,Ruby Crystal,Long Sword,2302,58781,Lane.jungle,Role.none
+1,Victim Of Talent,Orianna,True,Side.blue,4,0,3,7.0,119,Ignite,Flash,11,True,7495,4250,Doran's Ring,Morellonomicon,,Doran's Ring,Boots of Speed,,52986,11653,Lane.mid_lane,Role.solo
+2,Nyar was taken,Singed,True,Side.blue,3,0,0,3.0,125,Teleport,Ghost,11,False,6225,4900,Ruby Crystal,Zz'Rot Portal,,The Dark Seal,Doran's Ring,Boots of Swiftness,60077,7286,Lane.top_lane,Role.solo
+3,aphromoo,Morgana,True,Side.blue,2,0,7,9.0,9,Ignite,Flash,9,False,5311,4150,Ruby Sightstone,Forbidden Idol,Spellthief's Edge,Control Ward,Ionian Boots of Lucidity,,8486,4553,Lane.bot_lane,Role.support
+4,C9 Gun,Ashe,True,Side.blue,4,0,4,8.0,120,Flash,Heal,9,False,6709,5250,Doran's Blade,Pickaxe,Berserker's Greaves,B. F. Sword,Zeal,,369,55602,Lane.bot_lane,Role.carry
+5,Klawbro,Caitlyn,False,Side.red,1,4,1,0.5,67,Flash,Heal,7,False,3984,3775,Doran's Blade,B. F. Sword,Pickaxe,Dagger,Boots of Speed,Brawler's Gloves,187,21652,Lane.bot_lane,Role.carry
+6,Andybendy,Yasuo,False,Side.red,1,3,1,0.6666666666666666,107,Flash,Teleport,10,False,4712,4000,Doran's Blade,Doran's Blade,Hexdrinker,Zeal,Boots of Speed,,8912,39671,Lane.top_lane,Role.solo
+7,Katlife,Blitzcrank,False,Side.red,0,1,2,2.0,21,Flash,Ignite,7,False,3244,3475,Control Ward,Needlessly Large Rod,Targon's Brace,Boots of Speed,,,2998,3421,Lane.bot_lane,Role.support
+8,amgod1,Syndra,False,Side.red,0,4,1,0.25,89,Ghost,Flash,9,False,4053,3260,Doran's Ring,Refillable Potion,Boots of Speed,Lost Chapter,Fiendish Codex,Amplifying Tome,29264,5485,Lane.mid_lane,Role.solo
+9,effortlessly,Zac,False,Side.red,0,3,1,0.3333333333333333,74,Smite,Flash,9,False,4226,4150,Ruby Crystal,,Refillable Potion,,Enchantment: Cinderhulk,Ionian Boots of Lucidity,35646,10552,Lane.jungle,Role.none

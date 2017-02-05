@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Day after Day,Poppy,False,Side.blue,3,6,6,1.5,107,Teleport,Flash,11,False,6929,6608,Corrupting Potion,Control Ward,Bami's Cinder,Ionian Boots of Lucidity,Cloth Armor,Trinity Force,3923,65616,Lane.top_lane,Role.solo
+1,G G M,Jhin,False,Side.blue,1,6,2,0.5,116,Flash,Heal,10,False,6125,5900,Doran's Blade,Cull,Ionian Boots of Lucidity,Essence Reaver,Dagger,,671,54605,Lane.bot_lane,Role.carry
+2,Code,Morgana,False,Side.blue,4,1,6,10.0,141,Teleport,Flash,12,True,8360,7800,Zz'Rot Portal,Frost Queen's Claim,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Fiendish Codex,Cloth Armor,48185,16988,Lane.mid_lane,Role.solo
+3,Peach Nayeon,Thresh,False,Side.blue,0,3,9,3.0,17,Exhaust,Flash,9,False,4656,4550,Boots of Mobility,Sightstone,Redemption,Relic Shield,Control Ward,,7607,5247,Lane.bot_lane,Role.support
+4,biblee,Nidalee,False,Side.blue,7,4,4,2.75,107,Flash,Smite,11,False,8249,8025,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Fiendish Codex,Hunter's Potion,Rylai's Crystal Scepter,,73489,15002,Lane.jungle,Role.none
+5,kok on his face,Ekko,True,Side.red,5,3,5,3.3333333333333335,150,Flash,Ignite,12,False,8863,6975,Doran's Ring,Corrupting Potion,Hextech Protobelt-01,Lich Bane,Boots of Speed,,74237,12078,Lane.mid_lane,Role.solo
+6,MrFluffy631,Vayne,True,Side.red,2,4,4,1.5,134,Flash,Heal,11,False,7734,6630,Doran's Blade,Statikk Shiv,B. F. Sword,Berserker's Greaves,Pickaxe,,9722,46988,Lane.bot_lane,Role.carry
+7,Uncle,Blitzcrank,True,Side.red,1,4,6,1.75,38,Exhaust,Flash,9,False,5877,5675,Boots of Mobility,Refillable Potion,Face of the Mountain,Sightstone,Aegis of the Legion,Null-Magic Mantle,8795,6787,Lane.bot_lane,Role.support
+8,Egregious King,Tryndamere,True,Side.red,3,3,3,2.0,170,Ignite,Flash,13,False,8976,8450,Doran's Blade,Refillable Potion,Guinsoo's Rageblade,Boots of Speed,Statikk Shiv,B. F. Sword,4600,103350,Lane.top_lane,Role.solo
+9,DeaIer29,Kha'Zix,True,Side.red,9,2,3,6.0,83,Smite,Flash,12,False,9194,8150,Enchantment: Warrior,Refillable Potion,Youmuu's Ghostblade,Mercury's Treads,Hexdrinker,,4145,88554,Lane.jungle,Role.none

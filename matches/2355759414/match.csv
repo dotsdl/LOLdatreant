@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Solarian Son,Syndra,True,Side.blue,9,5,2,2.2,164,Ignite,Flash,14,False,12012,9025,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Control Ward,Needlessly Large Rod,Rylai's Crystal Scepter,111840,11478,Lane.mid_lane,Role.solo
+1,qiumoon,Soraka,True,Side.blue,1,3,14,5.0,16,Flash,Exhaust,14,False,9492,7160,Talisman of Ascension,Total Biscuit of Rejuvenation,Mejai's Soulstealer,Needlessly Large Rod,Amplifying Tome,Ionian Boots of Lucidity,11292,4375,Lane.bot_lane,Role.support
+2,dumpa,Rek'Sai,True,Side.blue,4,1,7,11.0,173,Smite,Flash,15,True,12978,11450,Enchantment: Cinderhulk,Dead Man's Plate,Titanic Hydra,Giant's Belt,Boots of Swiftness,Cloth Armor,47575,127296,Lane.jungle,Role.none
+3,Rojan,Caitlyn,True,Side.blue,6,1,7,13.0,201,Heal,Flash,15,False,12024,9900,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Infinity Edge,Zeal,Kircheis Shard,880,134109,Lane.bot_lane,Role.carry
+4,woIfe,Riven,True,Side.blue,6,4,5,2.75,227,Ignite,Flash,16,False,12803,10825,The Black Cleaver,Refillable Potion,Youmuu's Ghostblade,Rejuvenation Bead,Ninja Tabi,Lord Dominik's Regards,4152,164813,Lane.top_lane,Role.solo
+5,Sakoiya,Yorick,False,Side.red,3,8,2,0.625,155,Teleport,Flash,14,False,9145,8753,Corrupting Potion,Frozen Heart,Trinity Force,Ninja Tabi,Negatron Cloak,,20017,70432,Lane.top_lane,Role.solo
+6,Kshuna,Vayne,False,Side.red,3,4,4,1.75,227,Flash,Heal,12,False,10733,10400,Recurve Bow,Infinity Edge,Statikk Shiv,Berserker's Greaves,Bilgewater Cutlass,,29602,86636,Lane.bot_lane,Role.carry
+7,zeramion,Thresh,False,Side.red,1,4,3,1.0,51,Flash,Ignite,12,False,7146,6425,Ionian Boots of Lucidity,Face of the Mountain,Forbidden Idol,Sightstone,Glacial Shroud,Ruby Crystal,15369,8295,Lane.bot_lane,Role.support
+8,always plan ahea,Varus,False,Side.red,5,5,1,1.2,204,Flash,Ignite,14,False,11618,11750,Death's Dance,Manamune,Ionian Boots of Lucidity,Essence Reaver,Long Sword,,7203,140525,Lane.mid_lane,Role.solo
+9,AceII,Lee Sin,False,Side.red,2,5,4,1.2,118,Flash,Smite,13,False,9116,8375,Tiamat,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Dead Man's Plate,Ruby Crystal,22080,100292,Lane.jungle,Role.none

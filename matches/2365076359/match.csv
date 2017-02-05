@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0, Zed Tempest ,Jhin,True,Side.blue,2,2,1,1.5,169,Flash,Heal,11,False,8387,7850,Essence Reaver,Rapid Firecannon,,,Doran's Blade,Boots of Swiftness,5099,80788,Lane.bot_lane,Role.carry
+1,IceCreamQAQ,LeBlanc,True,Side.blue,18,0,4,22.0,145,Flash,Ignite,14,True,12524,10925,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,Morellonomicon,The Dark Seal,77280,14299,Lane.mid_lane,Role.solo
+2,iHDK,Shaco,True,Side.blue,2,2,5,3.5,76,Smite,Flash,11,False,7256,5225,Tiamat,Enchantment: Warrior,,Mercury's Treads,,,14828,54059,Lane.jungle,Role.none
+3,Heartlock,Nautilus,True,Side.blue,2,2,5,3.5,39,Exhaust,Flash,10,False,6162,6050,Relic Shield,Redemption,Sightstone,Boots of Mobility,Aegis of the Legion,Ruby Crystal,11823,8670,Lane.bot_lane,Role.support
+4,Atif,Nasus,True,Side.blue,3,1,3,6.0,179,Flash,Teleport,13,False,9194,7075,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,Doran's Ring,Sheen,Phage,48023,40756,Lane.top_lane,Role.solo
+5,harr0w,Kennen,False,Side.red,0,5,0,0.0,122,Flash,Teleport,11,False,5329,5150,Doran's Blade,Seeker's Armguard,Hextech Protobelt-01,Boots of Speed,Doran's Blade,,30519,17874,Lane.top_lane,Role.solo
+6,Rudeclaw,Zyra,False,Side.red,1,6,2,0.5,18,Flash,Ignite,9,False,4843,4460,Sorcerer's Shoes,Ruby Crystal,Amplifying Tome,Eye of the Watchers,,,15497,3735,Lane.bot_lane,Role.support
+7,JoopsaKid,Ezreal,False,Side.red,1,1,2,3.0,165,Flash,Heal,11,False,6630,6230,Doran's Blade,Total Biscuit of Rejuvenation,Manamune,Sheen,Ionian Boots of Lucidity,Glacial Shroud,12506,52481,Lane.bot_lane,Role.carry
+8,Colorro,Twisted Fate,False,Side.red,2,8,2,0.5,77,Flash,Ghost,10,False,5484,5225,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Control Ward,Null-Magic Mantle,39713,5209,Lane.mid_lane,Role.solo
+9,Dongeritis,Lee Sin,False,Side.red,3,7,1,0.5714285714285714,70,Flash,Smite,10,False,5749,5225,Enchantment: Warrior,Serrated Dirk,Mercury's Treads,,Health Potion,,6383,43676,Lane.jungle,Role.none

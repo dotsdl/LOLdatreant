@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lose is improved,Karma,False,Side.blue,1,3,6,2.3333333333333335,13,Exhaust,Flash,10,False,6622,6250,Aegis of the Legion,Redemption,Sightstone,Spellthief's Edge,Null-Magic Mantle,Ionian Boots of Lucidity,11527,2335,Lane.bot_lane,Role.support
+1,Féarless,Ezreal,False,Side.blue,2,8,3,0.625,156,Heal,Flash,11,False,8677,8358,Ionian Boots of Lucidity,Trinity Force,Long Sword,Doran's Blade,Muramana,Long Sword,14957,71239,Lane.bot_lane,Role.carry
+2,LL Stylish,Katarina,False,Side.blue,7,6,7,2.3333333333333335,205,Ignite,Flash,14,False,11459,11300,Hextech Gunblade,Zhonya's Hourglass,Sorcerer's Shoes,The Dark Seal,Luden's Echo,,116945,14015,Lane.mid_lane,Role.solo
+3,Naeun,Fiora,False,Side.blue,5,6,2,1.1666666666666667,211,Teleport,Flash,14,False,11754,11050,Ravenous Hydra,The Black Cleaver,Boots of Swiftness,Doran's Blade,B. F. Sword,Vampiric Scepter,629,136403,Lane.top_lane,Role.solo
+4,Finna Lit,Lee Sin,False,Side.blue,5,4,5,2.5,128,Smite,Flash,13,True,9712,9050,Refillable Potion,Enchantment: Warrior,Locket of the Iron Solari,Dead Man's Plate,Mercury's Treads,,19034,91726,Lane.jungle,Role.none
+5,S Diana 2,Diana,True,Side.red,8,5,11,3.8,156,Ignite,Flash,14,False,11395,9550,Doran's Ring,Rabadon's Deathcap,Luden's Echo,Doran's Ring,,Sorcerer's Shoes,116378,13637,Lane.mid_lane,Role.solo
+6,Makavéli,Rek'Sai,True,Side.red,4,3,11,5.0,164,Smite,Flash,15,False,11485,10200,Enchantment: Cinderhulk,Locket of the Iron Solari,Refillable Potion,Ninja Tabi,Ruby Crystal,Titanic Hydra,37514,127664,Lane.jungle,Role.none
+7,dog deft,Vayne,True,Side.red,8,4,3,2.75,189,Flash,Heal,14,False,11695,8150,Berserker's Greaves,Infinity Edge,Statikk Shiv,Control Ward,,Doran's Blade,20872,94925,Lane.bot_lane,Role.carry
+8,1onz,Lulu,True,Side.red,3,3,17,6.666666666666667,11,Flash,Exhaust,13,False,8699,7575,Spellthief's Edge,Boots of Mobility,Sightstone,Redemption,Ardent Censer,Ruby Crystal,9882,6089,Lane.bot_lane,Role.support
+9,Pyrrfect,Nautilus,True,Side.red,4,5,3,1.4,174,Flash,Teleport,15,False,10466,8725,Corrupting Potion,Ninja Tabi,,Sunfire Cape,Spirit Visage,Raptor Cloak,73817,31480,Lane.top_lane,Role.solo

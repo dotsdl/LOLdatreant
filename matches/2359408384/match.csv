@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,QcHolyknight,Twisted Fate,True,Side.blue,10,8,9,2.375,195,Flash,Heal,17,False,15087,13150,Blade of the Ruined King,Doran's Blade,Jaurim's Fist,Runaan's Hurricane,Guinsoo's Rageblade,Berserker's Greaves,73485,98564,Lane.jungle,Role.none
+1,Batcharnak,Illaoi,True,Side.blue,8,11,12,1.8181818181818181,148,Exhaust,Ignite,16,False,12121,11400,Mercury's Treads,The Black Cleaver,Spirit Visage,Giant's Belt,Dead Man's Plate,Corrupting Potion,1692,127714,Lane.mid_lane,Role.carry
+2,Abou222,Rek'Sai,True,Side.blue,12,4,13,6.25,161,Smite,Flash,18,False,15829,14425,Titanic Hydra,Ninja Tabi,Enchantment: Cinderhulk,The Black Cleaver,Spirit Visage,Caulfield's Warhammer,39826,157382,Lane.mid_lane,Role.support
+3,Fall From Glory,Ekko,False,Side.red,11,12,7,1.5,122,Flash,Smite,16,True,12111,11525,Mercury's Treads,Sunfire Cape,Thornmail,Enchantment: Runic Echoes,Glacial Shroud,Sheen,106950,23228,Lane.jungle,Role.none
+4,Squishy Squid,Galio,False,Side.red,6,10,9,1.5,207,Exhaust,Flash,16,False,11483,11450,Wooglet's Witchcap,Rod of Ages,Void Staff,Cloth Armor,Cloth Armor,Ninja Tabi,132558,12456,Lane.jungle,Role.none
+5,seuIrene,Xin Zhao,False,Side.red,6,8,9,1.875,148,Flash,Ignite,16,False,10089,9650,Blade of the Ruined King,Randuin's Omen,Doran's Blade,Ninja Tabi,Phage,Long Sword,17816,67280,Lane.mid_lane,Role.solo

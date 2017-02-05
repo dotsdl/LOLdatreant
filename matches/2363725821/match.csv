@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Coldshroom,Teemo,True,Side.blue,4,5,1,1.0,159,Ignite,Flash,13,False,9576,6750,Corrupting Potion,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Ring,Fiendish Codex,Stinger,68964,25121,Lane.top_lane,Role.solo
+1,Orbìt,Viktor,True,Side.blue,9,5,9,3.6,172,Flash,Ghost,15,False,11968,9985,Sheen,Amplifying Tome,Rylai's Crystal Scepter,Doran's Ring,Perfect Hex Core,Ionian Boots of Lucidity,105634,12636,Lane.mid_lane,Role.solo
+2,S3 Elise,Morgana,True,Side.blue,3,7,15,2.5714285714285716,44,Flash,Exhaust,12,False,9785,9505,Control Ward,Zhonya's Hourglass,Eye of the Watchers,Boots of Mobility,Morellonomicon,,25609,9407,Lane.bot_lane,Role.support
+3,Mitia Karamazov,Skarner,True,Side.blue,2,2,8,5.0,91,Flash,Smite,13,False,9222,7558,Enchantment: Cinderhulk,Trinity Force,Null-Magic Mantle,Boots of Speed,,,28270,59566,Lane.jungle,Role.none
+4,Joelzzz,Twitch,True,Side.blue,16,2,6,11.0,195,Heal,Flash,15,False,14951,12550,Edge of Night,Doran's Blade,Serrated Dirk,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,0,141152,Lane.bot_lane,Role.carry
+5,goompa,Nocturne,False,Side.red,6,8,4,1.25,110,Smite,Flash,13,False,9210,8700,Boots of Speed,,Quicksilver Sash,Duskblade of Draktharr,Recurve Bow,Enchantment: Warrior,2386,101188,Lane.jungle,Role.none
+6,J D,Ryze,False,Side.red,2,6,10,2.0,155,Ghost,Flash,13,False,8691,8225,Refillable Potion,Tear of the Goddess,Needlessly Large Rod,Guardian Angel,Rod of Ages,Ionian Boots of Lucidity,87004,7097,Lane.mid_lane,Role.solo
+7,support or troll,Miss Fortune,False,Side.red,7,9,4,1.2222222222222223,107,Heal,Flash,11,False,8694,8015,Doran's Blade,Pickaxe,Vampiric Scepter,The Black Cleaver,Zeal,Berserker's Greaves,4464,53477,Lane.bot_lane,Role.carry
+8,xBlotter,Nasus,False,Side.red,4,3,6,3.3333333333333335,218,Teleport,Flash,14,False,10572,9733,Zz'Rot Portal,Trinity Force,Warden's Mail,Doran's Ring,Doran's Ring,Mercury's Treads,61849,54184,Lane.top_lane,Role.solo
+9,cùrz,Bard,False,Side.red,2,8,9,1.375,6,Flash,Ignite,10,True,7061,6425,Eye of the Watchers,Redemption,Control Ward,Null-Magic Mantle,Ionian Boots of Lucidity,Cloth Armor,7837,3026,Lane.bot_lane,Role.support

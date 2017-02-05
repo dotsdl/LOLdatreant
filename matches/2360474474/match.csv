@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Drowning,Graves,True,Side.blue,10,1,5,15.0,130,Flash,Smite,14,True,12299,11725,Refillable Potion,B. F. Sword,Berserker's Greaves,Phantom Dancer,Death's Dance,Enchantment: Warrior,4671,134061,Lane.jungle,Role.none
+1,amgod1,Orianna,True,Side.blue,3,2,9,6.0,166,Ghost,Flash,14,False,9754,8775,Doran's Ring,Refillable Potion,Control Ward,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,86878,12459,Lane.mid_lane,Role.solo
+2,Cat Ears,Blitzcrank,True,Side.blue,2,4,6,2.0,22,Flash,Ignite,10,False,6727,6815,Catalyst of Aeons,Sightstone,Talisman of Ascension,Boots of Mobility,Crystalline Bracer,Control Ward,5065,4363,Lane.bot_lane,Role.support
+3,Nyar was taken,Caitlyn,True,Side.blue,1,5,6,1.4,179,Heal,Flash,13,False,9532,8300,Runaan's Hurricane,Infinity Edge,,Cull,Doran's Blade,Berserker's Greaves,320,97107,Lane.bot_lane,Role.carry
+4,Irelia Carries U,Irelia,True,Side.blue,6,1,4,10.0,198,Teleport,Flash,14,False,11073,9383,Corrupting Potion,The Bloodthirster,Long Sword,Ninja Tabi,,Trinity Force,2384,83172,Lane.top_lane,Role.solo
+5,Rip Cig,Vel'Koz,False,Side.red,0,4,1,0.25,135,Flash,Ghost,11,False,6847,6050,Doran's Ring,Morellonomicon,,Ionian Boots of Lucidity,Haunting Guise,,61937,3557,Lane.mid_lane,Role.solo
+6,Garani,Lee Sin,False,Side.red,6,5,1,1.4,130,Smite,Flash,12,False,8868,8800,Enchantment: Warrior,Tiamat,Poacher's Dirk,Ninja Tabi,Dead Man's Plate,,19588,79708,Lane.jungle,Role.none
+7,Extreme Person,Nasus,False,Side.red,0,6,1,0.16666666666666666,133,Flash,Teleport,11,False,6911,6025,Doran's Ring,Boots of Swiftness,Doran's Ring,Zz'Rot Portal,Doran's Ring,Sheen,45385,23253,Lane.top_lane,Role.solo
+8,effortlessly,Jhin,False,Side.red,7,6,2,1.5,138,Heal,Flash,10,False,9052,8125,,,Rapid Firecannon,Berserker's Greaves,Essence Reaver,Doran's Blade,5150,80507,Lane.bot_lane,Role.carry
+9,skyWtr,Janna,False,Side.red,0,1,9,9.0,27,Exhaust,Flash,11,False,6913,6450,Redemption,Eye of the Watchers,Faerie Charm,Faerie Charm,Null-Magic Mantle,Ionian Boots of Lucidity,7039,6088,Lane.bot_lane,Role.support

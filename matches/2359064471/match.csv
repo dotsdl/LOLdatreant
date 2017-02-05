@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ThePadzQC,Jhin,True,Side.blue,5,2,5,5.0,165,Heal,Flash,12,False,9315,7775,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,Doran's Blade,,5729,70126,Lane.bot_lane,Role.carry
+1,zinxao,Pantheon,True,Side.blue,10,4,10,5.0,73,Ignite,Flash,12,True,9055,7475,Youmuu's Ghostblade,Corrupting Potion,Edge of Night,,,Boots of Mobility,10648,39768,Lane.mid_lane,Role.solo
+2,zT ace,Lee Sin,True,Side.blue,12,2,4,8.0,99,Smite,Flash,13,False,10303,9425,Edge of Night,Enchantment: Warrior,Tiamat,Chain Vest,Boots of Mobility,Giant's Belt,17184,76717,Lane.jungle,Role.none
+3,TszHin OvO,Thresh,True,Side.blue,1,3,14,5.0,39,Ignite,Flash,11,False,6478,5550,Locket of the Iron Solari,Sightstone,,The Dark Seal,Boots of Mobility,Targon's Brace,13711,5906,Lane.bot_lane,Role.support
+4,my bad team,Katarina,True,Side.blue,10,1,5,15.0,193,Flash,Ignite,14,False,11034,8950,Hextech Gunblade,Blasting Wand,,The Dark Seal,Abyssal Scepter,Sorcerer's Shoes,101722,12590,Lane.top_lane,Role.solo
+5,DZG Cobra,Graves,False,Side.red,3,10,1,0.4,95,Flash,Smite,11,False,6972,6925,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,Control Ward,Long Sword,,2950,66946,Lane.jungle,Role.none
+6,PSYCHOPATH909,Veigar,False,Side.red,2,6,1,0.5,120,Flash,Exhaust,11,False,6625,5925,Refillable Potion,Control Ward,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Seeker's Armguard,41961,9280,Lane.bot_lane,Role.carry
+7,INTelligent feed,Zyra,False,Side.red,3,7,2,0.7142857142857143,121,Teleport,Flash,12,False,7422,6035,Sorcerer's Shoes,Doran's Ring,Luden's Echo,Doran's Ring,Doran's Ring,Amplifying Tome,62863,12313,Lane.top_lane,Role.solo
+8,aphromoo,Nami,False,Side.red,0,5,4,0.8,8,Exhaust,Flash,10,False,4882,4525,Ruby Sightstone,Total Biscuit of Rejuvenation,Boots of Mobility,Control Ward,Frostfang,Forbidden Idol,4184,3488,Lane.bot_lane,Role.support
+9,Link,Vayne,False,Side.red,4,10,3,0.7,83,Flash,Ghost,10,False,6625,6100,Quicksilver Sash,B. F. Sword,Hexdrinker,Berserker's Greaves,Doran's Blade,Doran's Blade,425,31209,Lane.mid_lane,Role.solo

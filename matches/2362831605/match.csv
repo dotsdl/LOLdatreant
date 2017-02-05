@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Be Here,Maokai,False,Side.blue,0,5,0,0.0,183,Flash,Teleport,13,False,7277,6750,Doran's Ring,Sunfire Cape,Mercury's Treads,Glacial Shroud,Sheen,,86622,12929,Lane.top_lane,Role.solo
+1,Crecious,Viktor,False,Side.blue,2,7,4,0.8571428571428571,158,Ghost,Flash,12,False,7467,7235,Amplifying Tome,Doran's Ring,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Needlessly Large Rod,71834,9484,Lane.mid_lane,Role.solo
+2,Banshee Rush,Thresh,False,Side.blue,2,3,6,2.6666666666666665,26,Ignite,Flash,10,False,5970,5225,Knight's Vow,Sightstone,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,Relic Shield,6023,3603,Lane.bot_lane,Role.support
+3,gLucy,Graves,False,Side.blue,7,4,2,2.25,121,Flash,Smite,12,False,8826,8725,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Maw of Malmortius,Zeal,Dagger,3989,84387,Lane.jungle,Role.none
+4,TheGodlyGale,Jhin,False,Side.blue,0,6,5,0.8333333333333334,142,Flash,Heal,11,False,6990,6600,Doran's Blade,Infinity Edge,Boots of Swiftness,Zeal,Dagger,,5894,56120,Lane.bot_lane,Role.carry
+5,Smartcloud,Karma,True,Side.red,0,4,13,3.25,15,Flash,Exhaust,11,False,8778,7150,Control Ward,Forbidden Idol,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Null-Magic Mantle,17007,6902,Lane.bot_lane,Role.support
+6,Garani,Nidalee,True,Side.red,10,1,6,16.0,106,Smite,Flash,14,False,11708,9925,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Rod of Ages,Control Ward,101082,18190,Lane.jungle,Role.none
+7,GodMeru,Poppy,True,Side.red,2,0,3,5.0,192,Flash,Teleport,14,False,9911,8325,Sunfire Cape,Glacial Shroud,Corrupting Potion,Boots of Swiftness,Spirit Visage,,39548,70622,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,4,3,6,3.3333333333333335,165,Flash,Heal,13,True,10899,8675,Infinity Edge,Brawler's Gloves,Runaan's Hurricane,Berserker's Greaves,Dagger,Doran's Blade,248,119501,Lane.bot_lane,Role.carry
+9,Program,Syndra,True,Side.red,9,3,7,5.333333333333333,181,Ghost,Flash,15,False,12069,10355,Void Staff,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,,119710,10851,Lane.mid_lane,Role.solo

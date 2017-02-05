@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sheiden,Kennen,True,Side.blue,11,4,7,4.5,207,Teleport,Flash,16,False,13521,12375,Blasting Wand,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Void Staff,Haunting Guise,100368,34545,Lane.mid_lane,Role.solo
+1,Rositajonez,Caitlyn,True,Side.blue,9,2,8,8.5,281,Heal,Flash,16,False,15684,13300,Last Whisper,Infinity Edge,Berserker's Greaves,Quicksilver Sash,Phantom Dancer,Runaan's Hurricane,225,238871,Lane.bot_lane,Role.carry
+2,Frogsuo,Singed,True,Side.blue,2,4,15,4.25,205,Ghost,Teleport,16,False,12371,11800,Ninja Tabi,Sunfire Cape,Locket of the Iron Solari,Thornmail,Redemption,,124249,9942,Lane.top_lane,Role.solo
+3,One Called Saint,Nocturne,True,Side.blue,7,3,8,5.0,216,Flash,Smite,16,False,14437,13000,Youmuu's Ghostblade,Edge of Night,Enchantment: Warrior,,Berserker's Greaves,Dead Man's Plate,4692,213260,Lane.jungle,Role.none
+4,Hi Im A Sheep,Karma,True,Side.blue,1,5,16,3.4,8,Flash,Ignite,13,False,9365,7800,Eye of the Watchers,Redemption,Control Ward,The Dark Seal,Aether Wisp,Ionian Boots of Lucidity,9426,5766,Lane.bot_lane,Role.support
+5,Nedo,Viktor,False,Side.red,5,7,4,1.2857142857142858,214,Ghost,Flash,15,False,11078,9925,Perfect Hex Core,Ionian Boots of Lucidity,Sheen,Aether Wisp,Doran's Ring,Rylai's Crystal Scepter,129859,12228,Lane.mid_lane,Role.solo
+6,Dna shockwave,Ezreal,False,Side.red,1,6,8,1.5,226,Heal,Flash,14,False,10685,10300,Doran's Blade,Blade of the Ruined King,,Muramana,Iceborn Gauntlet,Berserker's Greaves,29055,94246,Lane.bot_lane,Role.carry
+7,Winter is back,Thresh,False,Side.red,0,4,9,2.25,33,Flash,Ignite,12,False,6969,6775,Crystalline Bracer,Boots of Mobility,Control Ward,Ruby Sightstone,Forbidden Idol,Face of the Mountain,7534,3876,Lane.bot_lane,Role.support
+8,Akira Aries,Riven,False,Side.red,6,9,6,1.3333333333333333,212,Teleport,Flash,15,True,11670,11275,Youmuu's Ghostblade,Tiamat,Last Whisper,Hexdrinker,Ninja Tabi,The Black Cleaver,0,125470,Lane.top_lane,Role.solo
+9,mandatorycloud,Zac,False,Side.red,6,4,6,3.0,139,Flash,Smite,14,False,10417,10275,Enchantment: Cinderhulk,Spirit Visage,Ionian Boots of Lucidity,Ruby Crystal,Dead Man's Plate,Health Potion,93815,22077,Lane.jungle,Role.none

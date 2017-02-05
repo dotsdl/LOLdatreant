@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,InfectedNutz,Thresh,False,Side.blue,0,5,8,1.6,22,Exhaust,Flash,9,False,4560,4200,Face of the Mountain,Refillable Potion,Boots of Mobility,Sightstone,,,5179,3848,Lane.bot_lane,Role.support
+1,AZNDEVIL,Ezreal,False,Side.blue,2,5,4,1.2,115,Heal,Flash,10,False,6299,5825,Doran's Blade,Manamune,Sheen,Boots of Speed,Glacial Shroud,Cull,6136,46243,Lane.bot_lane,Role.carry
+2,Hi I am XXOO,Syndra,False,Side.blue,2,6,1,0.5,100,Exhaust,Flash,10,True,5757,5510,Doran's Ring,Refillable Potion,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,47412,6969,Lane.mid_lane,Role.solo
+3,cat and bird,Lee Sin,False,Side.blue,8,4,4,3.0,87,Smite,Flash,11,False,7881,7400,Enchantment: Warrior,Refillable Potion,Control Ward,Edge of Night,Mercury's Treads,Long Sword,13986,45475,Lane.jungle,Role.none
+4,Zoolouie,Gnar,False,Side.blue,2,3,5,2.3333333333333335,126,Teleport,Flash,12,False,6426,6075,Doran's Shield,The Black Cleaver,Boots of Speed,Spectre's Cowl,Kindlegem,,3892,55919,Lane.top_lane,Role.solo
+5,SoJay,Twisted Fate,True,Side.red,5,4,11,4.0,75,Heal,Flash,11,False,8348,6680,Doran's Ring,Morellonomicon,Fiendish Codex,Amplifying Tome,Negatron Cloak,Boots of Swiftness,44691,8173,Lane.mid_lane,Role.solo
+6,pLatina Asis,Ivern,True,Side.red,0,3,15,5.0,38,Smite,Flash,10,False,7439,5100,Refillable Potion,Eye of the Equinox,Boots of Swiftness,Aegis of the Legion,Null-Magic Mantle,,2948,6296,Lane.bot_lane,Role.support
+7,DankyIsToxic,Nasus,True,Side.red,1,3,1,0.6666666666666666,176,Teleport,Flash,12,False,8468,8150,Doran's Ring,Zz'Rot Portal,Giant's Belt,Ninja Tabi,Sheen,Phage,59146,20949,Lane.top_lane,Role.solo
+8,ShadowofSelf,Rek'Sai,True,Side.red,9,1,11,20.0,121,Flash,Smite,12,False,10807,9310,Titanic Hydra,Chain Vest,Mercury's Treads,Enchantment: Cinderhulk,Giant's Belt,,27148,79035,Lane.jungle,Role.none
+9,goompa,Ashe,True,Side.red,8,3,10,6.0,131,Heal,Flash,11,False,10675,8675,Berserker's Greaves,Doran's Blade,,Infinity Edge,Runaan's Hurricane,Kircheis Shard,1228,79310,Lane.bot_lane,Role.carry

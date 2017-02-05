@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Feht,Kha'Zix,False,Side.blue,1,6,6,1.1666666666666667,132,Smite,Flash,14,False,10214,9200,Serrated Dirk,Youmuu's Ghostblade,Enchantment: Warrior,Hexdrinker,Boots of Swiftness,,4570,128155,Lane.jungle,Role.none
+1,aegiuscutter,Miss Fortune,False,Side.blue,1,10,10,1.1,21,Flash,Ignite,11,False,9457,8900,Last Whisper,Eye of the Watchers,,The Black Cleaver,,Ionian Boots of Lucidity,22068,8294,Lane.bot_lane,Role.support
+2,I Was Boosted,Gangplank,False,Side.blue,6,2,5,5.5,261,Teleport,Flash,17,True,15489,14858,Guardian Angel,Infinity Edge,Trinity Force,,Phantom Dancer,Ninja Tabi,8774,213900,Lane.top_lane,Role.solo
+3,SinVS,LeBlanc,False,Side.blue,10,6,5,2.5,216,Ignite,Flash,15,False,13383,11950,The Dark Seal,Morellonomicon,Void Staff,Fiendish Codex,Rod of Ages,Sorcerer's Shoes,143029,8007,Lane.mid_lane,Role.solo
+4,Zorki,Jhin,False,Side.blue,3,6,7,1.6666666666666667,167,Flash,Heal,14,False,10575,10000,Doran's Blade,Pickaxe,Essence Reaver,Boots of Swiftness,Rapid Firecannon,B. F. Sword,11085,92726,Lane.bot_lane,Role.carry
+5,Pyle of gold,Lux,True,Side.red,6,4,7,3.25,224,Flash,Teleport,16,False,12869,9600,Doran's Ring,Morellonomicon,Luden's Echo,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,132315,18356,Lane.mid_lane,Role.solo
+6,Psapa,Urgot,True,Side.red,4,7,4,1.1428571428571428,198,Heal,Flash,15,False,11752,11470,Chain Vest,Frozen Heart,Muramana,Boots of Swiftness,The Black Cleaver,Negatron Cloak,1342,107329,Lane.top_lane,Role.solo
+7,Janni,Nami,True,Side.red,3,4,22,6.25,18,Exhaust,Flash,15,False,11071,9175,Frost Queen's Claim,Redemption,Locket of the Iron Solari,Sightstone,Control Ward,Mercury's Treads,9010,7879,Lane.bot_lane,Role.support
+8,KaNKl,Caitlyn,True,Side.red,14,2,8,11.0,313,Heal,Flash,17,False,18736,16225,Rapid Firecannon,Runaan's Hurricane,Mercurial Scimitar,Hexdrinker,Infinity Edge,Berserker's Greaves,7590,293746,Lane.bot_lane,Role.carry
+9,Atum,Vi,True,Side.red,3,4,10,3.25,105,Smite,Flash,15,False,10952,9450,Spectre's Cowl,Enchantment: Warrior,Ninja Tabi,Phage,Dead Man's Plate,,2225,123155,Lane.jungle,Role.none

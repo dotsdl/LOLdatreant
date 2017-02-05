@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rtz 1,LeBlanc,True,Side.blue,8,0,4,12.0,164,Flash,Teleport,13,False,10016,8400,,Morellonomicon,Luden's Echo,Sorcerer's Shoes,Doran's Ring,Doran's Ring,86741,9275,Lane.mid_lane,Role.solo
+1,Anthøny,Kha'Zix,True,Side.blue,7,1,4,11.0,66,Smite,Flash,11,False,8271,7000,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,,1976,72800,Lane.jungle,Role.none
+2,Hi im Thalies,Katarina,True,Side.blue,6,6,7,2.1666666666666665,82,Teleport,Flash,10,False,7899,7610,Giant's Belt,Sorcerer's Shoes,,Hextech Gunblade,Amplifying Tome,The Dark Seal,44497,6469,Lane.top_lane,Role.solo
+3,rypoo,Blitzcrank,True,Side.blue,0,2,7,3.5,8,Flash,Exhaust,9,False,4988,3850,Nomad's Medallion,,Sightstone,,Boots of Swiftness,Ruby Crystal,4963,5024,Lane.bot_lane,Role.support
+4,YoungGooby,Ezreal,True,Side.blue,6,2,5,5.5,134,Flash,Heal,11,False,8630,6800,Manamune,Phage,Stinger,Sheen,Doran's Blade,Boots of Speed,3418,58946,Lane.bot_lane,Role.carry
+5,Duchess of York,Janna,False,Side.red,1,3,5,2.0,14,Exhaust,Flash,8,False,4509,4075,Total Biscuit of Rejuvenation,Eye of the Oasis,Control Ward,Forbidden Idol,Ionian Boots of Lucidity,,3361,4177,Lane.bot_lane,Role.support
+6,bu he ni duo BB,Ashe,False,Side.red,2,6,3,0.8333333333333334,90,Heal,Flash,8,True,5378,4800,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Cull,,,907,35052,Lane.bot_lane,Role.carry
+7,vinceix,Viktor,False,Side.red,2,7,0,0.2857142857142857,55,Flash,Ignite,8,False,4380,4005,The Hex Core mk-1,Doran's Ring,Sorcerer's Shoes,Negatron Cloak,Amplifying Tome,,17913,6516,Lane.mid_lane,Role.solo
+8,Huw,Irelia,False,Side.red,4,4,0,1.0,130,Teleport,Flash,11,False,6417,5783,Doran's Blade,Corrupting Potion,Trinity Force,Mercury's Treads,,,1929,42134,Lane.top_lane,Role.solo
+9,rakyu012,Dr. Mundo,False,Side.red,2,7,4,0.8571428571428571,67,Smite,Ghost,10,False,5638,5100,Enchantment: Cinderhulk,Refillable Potion,Control Ward,Mercury's Treads,Warden's Mail,,35127,20963,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Futureway,Lux,False,Side.blue,0,1,0,0.0,13,Ghost,Flash,3,False,892,500,Doran's Ring,,,,,,1451,1422,Lane.mid_lane,Role.duo
+1,Thalies,Irelia,False,Side.blue,0,2,0,0.0,9,Teleport,Flash,2,False,821,500,Corrupting Potion,,,,,,0,2668,Lane.top_lane,Role.solo
+2,Ninjacrab,Twisted Fate,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,650,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+3,BabièThug,Lee Sin,False,Side.blue,0,0,0,0.0,12,Flash,Smite,3,False,1010,500,Hunter's Machete,Refillable Potion,,,,,124,6252,Lane.jungle,Role.none
+4,Imaokai,Nasus,False,Side.blue,0,1,0,0.0,7,Teleport,Flash,2,False,813,500,Spellthief's Edge,Refillable Potion,,,,,1590,312,Lane.bot_lane,Role.solo
+5,l For You l,Vayne,True,Side.red,0,0,1,1.0,10,Flash,Heal,2,False,976,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,1600,Lane.bot_lane,Role.duo
+6,rockonhi5,Ryze,True,Side.red,1,0,1,2.0,16,Exhaust,Flash,3,False,1427,500,Sapphire Crystal,Refillable Potion,,,,,3289,1312,Lane.top_lane,Role.solo
+7,Shrew,Brand,True,Side.red,1,0,0,1.0,0,Flash,Ignite,2,False,1021,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,391,502,Lane.bot_lane,Role.duo
+8,DrunkCatalyst,Kog'Maw,True,Side.red,0,0,1,1.0,17,Flash,Ghost,3,False,1125,500,Doran's Ring,,,,,,2248,1597,Lane.mid_lane,Role.solo
+9,blaberfish2,Vi,True,Side.red,2,0,0,2.0,11,Flash,Smite,3,True,1610,500,Hunter's Machete,Refillable Potion,,,,,0,5295,Lane.jungle,Role.none

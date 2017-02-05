@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,support or troll,Brand,True,Side.blue,2,2,8,5.0,35,Ignite,Flash,13,False,9735,8100,,Frost Queen's Claim,Sightstone,Boots of Mobility,Rylai's Crystal Scepter,,33716,6574,Lane.bot_lane,Role.support
+1,Benhart Vance,Lee Sin,True,Side.blue,5,2,4,4.5,137,Flash,Smite,14,False,11383,10000,B. F. Sword,Ninja Tabi,Enchantment: Warrior,Ravenous Hydra,Refillable Potion,Phage,24618,111194,Lane.jungle,Role.none
+2,SirRosicky,Viktor,True,Side.blue,2,0,8,10.0,160,Ghost,Flash,14,False,10523,9050,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Blasting Wand,104397,13319,Lane.mid_lane,Role.solo
+3,Wizzy,Vayne,True,Side.blue,14,1,5,19.0,244,Heal,Flash,15,False,15502,14450,Doran's Blade,Mercury's Treads,Infinity Edge,Blade of the Ruined King,Phantom Dancer,Statikk Shiv,23642,154490,Lane.bot_lane,Role.carry
+4,Aerotality,Yasuo,True,Side.blue,1,5,6,1.4,171,Ignite,Flash,14,False,10309,9100,Ninja Tabi,Phantom Dancer,B. F. Sword,Blade of the Ruined King,,Doran's Blade,33784,82630,Lane.top_lane,Role.solo
+5,NoCookies4You,Kindred,False,Side.red,2,4,2,1.0,154,Flash,Smite,14,False,9421,9375,Berserker's Greaves,Enchantment: Bloodrazor,Runaan's Hurricane,Hexdrinker,Jaurim's Fist,Ruby Crystal,2867,139849,Lane.jungle,Role.none
+6,fallenbouse,Karma,False,Side.red,1,4,1,0.5,26,Flash,Exhaust,11,False,7083,6725,Redemption,Refillable Potion,Eye of the Watchers,Chalice of Harmony,Faerie Charm,Boots of Mobility,20475,4656,Lane.bot_lane,Role.support
+7,Seems to be spee,Ezreal,False,Side.red,2,8,1,0.375,138,Heal,Flash,12,False,8091,8050,Doran's Blade,Iceborn Gauntlet,Ionian Boots of Lucidity,B. F. Sword,Muramana,,9906,63857,Lane.bot_lane,Role.carry
+8,MITNG,Renekton,False,Side.red,3,6,1,0.6666666666666666,222,Flash,Teleport,14,True,10060,9550,Doran's Blade,Titanic Hydra,Doran's Blade,Ninja Tabi,Sterak's Gage,Phage,2469,133708,Lane.top_lane,Role.solo
+9,Crows Before Hos,Swain,False,Side.red,2,2,0,1.0,180,Ignite,Flash,13,False,8871,8470,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Rod of Ages,Negatron Cloak,88653,14591,Lane.mid_lane,Role.solo

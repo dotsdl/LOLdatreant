@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rafffstaa,Hecarim,False,Side.blue,2,8,3,0.625,56,Ghost,Smite,9,False,5209,4800,Refillable Potion,Hunter's Talisman,Phage,Ninja Tabi,Sapphire Crystal,Stinger,6103,33309,Lane.jungle,Role.none
+1,Ensign Ledo,Sion,False,Side.blue,1,3,3,1.3333333333333333,33,Flash,Exhaust,10,False,5045,4525,Raptor Cloak,Refillable Potion,,Eye of the Equinox,,Ionian Boots of Lucidity,15984,9962,Lane.bot_lane,Role.duo
+2,Shorthop,Maokai,False,Side.blue,1,6,1,0.3333333333333333,78,Flash,Teleport,9,False,5140,3550,Corrupting Potion,Boots of Speed,Control Ward,Spectre's Cowl,Bami's Cinder,Cloth Armor,26840,8346,Lane.top_lane,Role.solo
+3,UptownSM,Jinx,False,Side.blue,1,6,1,0.3333333333333333,99,Flash,Heal,9,False,5473,5200,Doran's Blade,Infinity Edge,Berserker's Greaves,,,,661,35458,Lane.bot_lane,Role.duo
+4,FourofDiamonds,Karthus,False,Side.blue,3,9,3,0.6666666666666666,97,Flash,Ghost,11,False,6133,5585,Doran's Ring,Doran's Ring,Boots of Speed,Rod of Ages,Needlessly Large Rod,Amplifying Tome,51456,775,Lane.mid_lane,Role.solo
+5,Aceu Desu,Katarina,True,Side.red,9,3,6,5.0,118,Flash,Ignite,12,True,9912,7225,Boots of Speed,Hextech Gunblade,Refillable Potion,The Dark Seal,Abyssal Scepter,,71573,14668,Lane.top_lane,Role.solo
+6,coldrain evening,Kha'Zix,True,Side.red,5,3,4,3.0,99,Smite,Flash,12,False,9327,9295,Youmuu's Ghostblade,Hunter's Potion,Boots of Swiftness,Enchantment: Warrior,Poacher's Dirk,B. F. Sword,3492,100020,Lane.jungle,Role.none
+7,KiNG Nidhogg,Lucian,True,Side.red,6,0,8,14.0,165,Heal,Flash,12,False,10370,7175,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Zeal,Kircheis Shard,,2277,98816,Lane.bot_lane,Role.carry
+8,GtG Fyn,Karma,True,Side.red,2,0,14,16.0,10,Exhaust,Flash,11,False,7862,5000,Crystalline Bracer,Refillable Potion,Eye of the Watchers,,Boots of Swiftness,Forbidden Idol,12608,9488,Lane.bot_lane,Role.support
+9,t d,Ryze,True,Side.red,10,2,6,8.0,154,Ghost,Flash,13,False,10807,10260,Archangel's Staff,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,Amplifying Tome,94891,7529,Lane.mid_lane,Role.solo

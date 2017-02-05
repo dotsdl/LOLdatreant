@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog deft,Jhin,True,Side.blue,7,2,4,5.5,184,Flash,Heal,12,False,10524,8625,Boots of Speed,Essence Reaver,Infinity Edge,Brawler's Gloves,Total Biscuit of Rejuvenation,Doran's Blade,4002,114821,Lane.bot_lane,Role.carry
+1,1onz,Janna,True,Side.blue,1,2,11,6.0,3,Flash,Exhaust,11,False,7041,5975,Talisman of Ascension,Redemption,Sightstone,Boots of Speed,Control Ward,Total Biscuit of Rejuvenation,5976,5572,Lane.bot_lane,Role.support
+2,Rohammers,Rumble,True,Side.blue,6,2,4,5.0,125,Teleport,Flash,13,True,9189,12910,Stinger,Stinger,Stinger,Stinger,Stinger,Berserker's Greaves,70985,11993,Lane.top_lane,Role.solo
+3,Rhux,Orianna,True,Side.blue,12,3,2,4.666666666666667,143,Flash,Ignite,13,False,11644,11150,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Void Staff,,84195,14390,Lane.mid_lane,Role.solo
+4,Naeun,Rengar,True,Side.blue,2,4,6,2.0,90,Smite,Flash,11,False,8032,7425,Youmuu's Ghostblade,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Long Sword,Long Sword,5048,78070,Lane.jungle,Role.none
+5,white cat,Twitch,False,Side.red,5,5,0,1.0,101,Flash,Heal,10,False,6901,6425,Zeal,Infinity Edge,Total Biscuit of Rejuvenation,Dagger,Doran's Blade,Boots of Speed,856,37977,Lane.bot_lane,Role.carry
+6,Happy Birfdizzay,Dr. Mundo,False,Side.red,1,5,2,0.6,158,Ghost,Teleport,12,False,6956,6500,Spirit Visage,Sunfire Cape,Boots of Speed,Ruby Crystal,,,49270,20898,Lane.mid_lane,Role.solo
+7,moon o,Lee Sin,False,Side.red,7,7,0,1.0,90,Smite,Flash,12,False,7807,7150,Youmuu's Ghostblade,Refillable Potion,Control Ward,Enchantment: Warrior,Boots of Speed,Serrated Dirk,15318,63322,Lane.jungle,Role.none
+8,TheOddOrange,Nasus,False,Side.red,0,4,3,0.75,155,Flash,Teleport,13,False,6855,6500,Ionian Boots of Lucidity,Corrupting Potion,Kindlegem,Doran's Ring,Zz'Rot Portal,Spectre's Cowl,48430,31212,Lane.top_lane,Role.solo
+9,Winter is back,Nami,False,Side.red,0,7,9,1.2857142857142858,7,Flash,Exhaust,10,False,5375,5250,Frostfang,Control Ward,Total Biscuit of Rejuvenation,Sightstone,Ionian Boots of Lucidity,Redemption,4276,2849,Lane.bot_lane,Role.support

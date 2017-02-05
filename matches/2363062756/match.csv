@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Top Schlong,Akali,False,Side.blue,4,5,2,1.2,158,Teleport,Flash,13,False,8264,8150,Hextech Gunblade,Abyssal Scepter,Boots of Speed,Fiendish Codex,Cloth Armor,,20745,65263,Lane.top_lane,Role.solo
+1,VegetableVelkoz,Alistar,False,Side.blue,0,5,8,1.6,43,Exhaust,Flash,12,False,6465,5950,Boots of Swiftness,Eye of the Equinox,Glacial Shroud,Warden's Mail,,,6213,5429,Lane.bot_lane,Role.support
+2,7788 ADC,Kha'Zix,False,Side.blue,9,6,4,2.1666666666666665,66,Smite,Flash,13,False,8472,8325,Phage,Youmuu's Ghostblade,Long Sword,Boots of Mobility,Enchantment: Warrior,,3701,60320,Lane.jungle,Role.none
+3,RockyTSaws,Ezreal,False,Side.blue,3,4,3,1.5,149,Heal,Flash,13,True,8081,7625,Doran's Blade,Manamune,Ionian Boots of Lucidity,Vampiric Scepter,Iceborn Gauntlet,,13359,60282,Lane.bot_lane,Role.carry
+4,Kirito Carries U,Viktor,False,Side.blue,5,5,5,2.0,162,Flash,Ghost,14,False,8821,8675,Ionian Boots of Lucidity,Doran's Ring,Rylai's Crystal Scepter,Null-Magic Mantle,Perfect Hex Core,,85191,6854,Lane.mid_lane,Role.solo
+5,Suntail,Shyvana,True,Side.red,3,4,6,2.25,163,Exhaust,Smite,15,False,11663,10883,Refillable Potion,Blade of the Ruined King,,Trinity Force,Enchantment: Bloodrazor,Boots of Swiftness,76480,89163,Lane.jungle,Role.none
+6,Imaokai,Caitlyn,True,Side.red,9,1,5,14.0,227,Heal,Flash,15,False,13630,11675,Statikk Shiv,Infinity Edge,Vampiric Scepter,,Berserker's Greaves,Runaan's Hurricane,8633,136530,Lane.bot_lane,Role.carry
+7,hashinshin,Jax,True,Side.red,4,2,4,4.0,187,Ghost,Teleport,15,False,12209,11108,Doran's Blade,Guinsoo's Rageblade,Bilgewater Cutlass,Trinity Force,Ninja Tabi,,29309,98672,Lane.top_lane,Role.solo
+8,Weeknd,Thresh,True,Side.red,2,6,9,1.8333333333333333,19,Exhaust,Flash,12,False,7936,7100,Redemption,Face of the Mountain,Ruby Sightstone,Boots of Mobility,,,6905,3174,Lane.bot_lane,Role.support
+9,Leithal,Ekko,True,Side.red,7,8,5,1.5,141,Flash,Teleport,14,False,11032,10675,Doran's Ring,Zhonya's Hourglass,Doran's Ring,Boots of Speed,Abyssal Scepter,Lich Bane,78509,13015,Lane.mid_lane,Role.solo

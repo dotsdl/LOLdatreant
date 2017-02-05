@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Scary3,Miss Fortune,True,Side.blue,4,6,15,3.1666666666666665,46,Flash,Exhaust,14,False,11087,9200,B. F. Sword,Eye of the Watchers,,The Black Cleaver,Ionian Boots of Lucidity,Serrated Dirk,22846,28340,Lane.bot_lane,Role.support
+1,Filthy Rengar ,Lux,True,Side.blue,8,4,10,4.5,163,Flash,Ghost,15,False,12390,10500,The Dark Seal,Morellonomicon,Zhonya's Hourglass,Ionian Boots of Lucidity,Luden's Echo,,107234,13770,Lane.mid_lane,Role.solo
+2,Bulletproof Love,Vayne,True,Side.blue,7,4,4,2.75,176,Heal,Flash,15,False,12003,9650,Berserker's Greaves,Infinity Edge,Zeal,Doran's Blade,Statikk Shiv,,19642,96083,Lane.bot_lane,Role.carry
+3,TheHiddenMist,Lee Sin,True,Side.blue,5,5,12,3.4,109,Flash,Smite,15,False,11043,10575,Maw of Malmortius,Randuin's Omen,,Enchantment: Warrior,Ruby Crystal,Ninja Tabi,21628,93104,Lane.jungle,Role.none
+4,NADP Reductase,Poppy,True,Side.blue,6,3,14,6.666666666666667,192,Teleport,Flash,16,False,12453,11975,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Spectre's Cowl,Zz'Rot Portal,Kindlegem,35855,87082,Lane.top_lane,Role.solo
+5,TSM Zero and Ten,Twitch,False,Side.red,10,5,5,3.0,215,Flash,Heal,15,False,14257,14575,Lord Dominik's Regards,Infinity Edge,Phantom Dancer,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,684,153056,Lane.bot_lane,Role.carry
+6,CopynPaste,LeBlanc,False,Side.red,8,7,2,1.4285714285714286,161,Flash,Ignite,13,True,11205,11575,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,82710,9098,Lane.mid_lane,Role.solo
+7,NukeT0wN,Braum,False,Side.red,1,3,11,4.0,43,Flash,Exhaust,12,False,8630,8150,Knight's Vow,Redemption,,Eye of the Equinox,,Boots of Mobility,8812,9747,Lane.bot_lane,Role.support
+8,WatchThePower,Rek'Sai,False,Side.red,1,9,5,0.6666666666666666,189,Flash,Smite,14,False,10880,10940,Enchantment: Cinderhulk,Titanic Hydra,Randuin's Omen,Ninja Tabi,Elixir of Iron,,44232,117648,Lane.jungle,Role.none
+9,A U,Tryndamere,False,Side.red,2,6,2,0.6666666666666666,252,Teleport,Flash,15,False,11746,11525,The Black Cleaver,Statikk Shiv,B. F. Sword,Blade of the Ruined King,,Ionian Boots of Lucidity,38499,142434,Lane.top_lane,Role.solo

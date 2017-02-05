@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hanjaro,Zyra,False,Side.blue,1,7,3,0.5714285714285714,15,Flash,Ignite,10,False,6373,6100,Eye of the Watchers,Sorcerer's Shoes,Refillable Potion,Haunting Guise,Blasting Wand,,22495,2290,Lane.bot_lane,Role.support
+1,3in1warrior,Renekton,False,Side.blue,7,4,3,2.5,180,Flash,Ghost,14,True,10656,10335,Tiamat,Refillable Potion,Blade of the Ruined King,Ninja Tabi,The Black Cleaver,Serrated Dirk,8090,103472,Lane.top_lane,Role.solo
+2,JurgenWindCaller,Lee Sin,False,Side.blue,1,7,5,0.8571428571428571,83,Smite,Flash,12,False,7289,6675,Tiamat,Enchantment: Warrior,Refillable Potion,Boots of Swiftness,Chain Vest,Giant's Belt,10094,64253,Lane.jungle,Role.none
+3,Imentice,Ryze,False,Side.blue,2,6,5,1.1666666666666667,151,Ghost,Flash,12,False,8313,8000,Archangel's Staff,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Blasting Wand,Control Ward,79120,8490,Lane.mid_lane,Role.solo
+4,Xceline,Miss Fortune,False,Side.blue,2,8,4,0.75,120,Heal,Flash,12,False,7590,7250,Doran's Blade,Youmuu's Ghostblade,Phage,Berserker's Greaves,Caulfield's Warhammer,,3484,54054,Lane.bot_lane,Role.carry
+5,iPav999,Urgot,True,Side.red,3,4,4,1.75,164,Teleport,Flash,14,False,9969,8375,Muramana,Corrupting Potion,Mercury's Treads,The Black Cleaver,Sheen,Control Ward,504,82458,Lane.top_lane,Role.solo
+6,Undefeated DS,Karma,True,Side.red,3,3,15,6.0,26,Flash,Exhaust,12,False,10457,8300,Locket of the Iron Solari,Eye of the Watchers,Redemption,Null-Magic Mantle,Boots of Mobility,,26561,9170,Lane.bot_lane,Role.support
+7,Its MitchyBoots,Caitlyn,True,Side.red,5,3,8,4.333333333333333,221,Flash,Heal,14,False,12407,9100,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,Runaan's Hurricane,,525,145661,Lane.bot_lane,Role.carry
+8,TEAMLUKEE,Corki,True,Side.red,18,3,3,7.0,183,Exhaust,Flash,15,False,14405,12458,Mercurial Scimitar,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,Doran's Blade,,96105,35335,Lane.mid_lane,Role.solo
+9,Omnic1de,Zac,True,Side.red,3,1,5,8.0,185,Flash,Smite,15,False,11417,10050,Randuin's Omen,Cloth Armor,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Spirit Visage,Cloth Armor,113718,34776,Lane.jungle,Role.none

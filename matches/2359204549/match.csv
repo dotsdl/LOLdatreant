@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fiku,Nautilus,False,Side.blue,3,4,5,2.0,174,Flash,Teleport,13,False,8419,7675,Sunfire Cape,Corrupting Potion,Control Ward,Frozen Heart,Ruby Crystal,Ninja Tabi,61088,18809,Lane.top_lane,Role.solo
+1,Legend of Korra,Blitzcrank,False,Side.blue,2,4,6,2.0,34,Ignite,Flash,10,True,6154,5425,Eye of the Equinox,Health Potion,Crystalline Bracer,Control Ward,Forbidden Idol,Boots of Mobility,6880,4815,Lane.bot_lane,Role.support
+2,6îx,Vi,False,Side.blue,2,5,1,0.6,88,Smite,Flash,12,False,6712,6400,Ninja Tabi,Control Ward,Phage,Sheen,,Enchantment: Warrior,1122,73725,Lane.jungle,Role.none
+3,PokAthot,Lucian,False,Side.blue,4,2,4,4.0,147,Flash,Heal,11,False,8531,7875,Doran's Blade,Rapid Firecannon,Youmuu's Ghostblade,Berserker's Greaves,,,1697,69545,Lane.bot_lane,Role.carry
+4,ad QAQ,Viktor,False,Side.blue,3,3,1,1.3333333333333333,193,Flash,Cleanse,14,False,8422,8310,,Rylai's Crystal Scepter,Amplifying Tome,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,94912,14127,Lane.mid_lane,Role.solo
+5,hashinshin,Jax,True,Side.red,3,3,1,1.3333333333333333,193,Ghost,Teleport,14,False,10482,9158,Doran's Blade,Guinsoo's Rageblade,Trinity Force,Ninja Tabi,,,35241,94903,Lane.top_lane,Role.solo
+6,WalkingDead1441,Rek'Sai,True,Side.red,3,2,9,6.0,171,Flash,Smite,15,False,11451,8710,Enchantment: Cinderhulk,Mercury's Treads,Tiamat,The Black Cleaver,Ruby Crystal,,27801,114776,Lane.jungle,Role.none
+7,Andybendy,Vayne,True,Side.red,5,2,3,4.0,147,Flash,Heal,12,False,10175,9825,,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,B. F. Sword,0,82627,Lane.bot_lane,Role.carry
+8,BabièThug,Thresh,True,Side.red,2,4,8,2.5,17,Flash,Exhaust,10,False,7671,7250,Sightstone,Locket of the Iron Solari,Redemption,Relic Shield,Ruby Crystal,Boots of Mobility,5583,5229,Lane.bot_lane,Role.support
+9,Fàkèr  ,Twisted Fate,True,Side.red,5,3,5,3.3333333333333335,200,Ghost,Flash,15,False,12125,12075,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Needlessly Large Rod,Zhonya's Hourglass,116551,12029,Lane.mid_lane,Role.solo

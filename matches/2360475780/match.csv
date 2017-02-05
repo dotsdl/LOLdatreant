@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Renger cat,Darius,True,Side.blue,4,7,7,1.5714285714285714,196,Teleport,Flash,14,False,10833,10850,Corrupting Potion,The Black Cleaver,Sterak's Gage,Boots of Swiftness,Spectre's Cowl,Banner of Command,260,114428,Lane.top_lane,Role.solo
+1,Wizzy,Bard,True,Side.blue,2,4,12,3.5,13,Ignite,Flash,11,False,8276,6150,Ionian Boots of Lucidity,,Locket of the Iron Solari,Eye of the Watchers,,,10957,6076,Lane.bot_lane,Role.support
+2,IKingVex,Lucian,True,Side.blue,5,3,6,3.6666666666666665,233,Heal,Flash,14,False,11542,9375,Doran's Blade,Infinity Edge,Caulfield's Warhammer,Rapid Firecannon,Berserker's Greaves,Long Sword,4414,134674,Lane.bot_lane,Role.carry
+3,WildTurtle,Olaf,True,Side.blue,3,1,10,13.0,182,Flash,Smite,14,False,11325,9700,Enchantment: Cinderhulk,Hunter's Potion,,Dead Man's Plate,Spirit Visage,Ionian Boots of Lucidity,29090,120475,Lane.jungle,Role.none
+4,qldurtms,LeBlanc,True,Side.blue,11,3,5,5.333333333333333,196,Flash,Ignite,15,True,12714,10750,Void Staff,Doran's Ring,,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,101050,17788,Lane.mid_lane,Role.solo
+5,Lose is improved,Nautilus,False,Side.red,2,5,8,2.0,143,Teleport,Flash,13,False,8121,7175,Sunfire Cape,Corrupting Potion,Giant's Belt,Doran's Shield,Glacial Shroud,Ninja Tabi,62002,20204,Lane.top_lane,Role.solo
+6,Riesig,Lee Sin,False,Side.red,4,3,2,2.0,147,Flash,Smite,14,False,9867,8800,Boots of Swiftness,Enchantment: Warrior,Dead Man's Plate,Hexdrinker,Long Sword,Long Sword,19948,109560,Lane.jungle,Role.none
+7,Titan Dweevil,Brand,False,Side.red,3,5,3,1.2,137,Ignite,Flash,13,False,8115,7200,Sorcerer's Shoes,Rylai's Crystal Scepter,,Haunting Guise,Doran's Ring,,50181,9991,Lane.mid_lane,Role.solo
+8,The Tank Man,Karma,False,Side.red,2,6,8,1.6666666666666667,13,Flash,Exhaust,11,False,7147,6685,Eye of the Watchers,Locket of the Iron Solari,Ionian Boots of Lucidity,Forbidden Idol,Amplifying Tome,,14635,3301,Lane.bot_lane,Role.support
+9,Hyorimaru,Ezreal,False,Side.red,7,6,2,1.5,180,Flash,Heal,12,False,9898,8633,Doran's Blade,Manamune,Trinity Force,Boots of Speed,Hexdrinker,Long Sword,10150,69798,Lane.bot_lane,Role.carry

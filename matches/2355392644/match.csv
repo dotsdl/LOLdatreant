@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jurassiq,Ezreal,False,Side.blue,6,8,7,1.625,164,Flash,Heal,13,False,9513,9475,Bilgewater Cutlass,Doran's Blade,Iceborn Gauntlet,Hexdrinker,Ionian Boots of Lucidity,Muramana,12988,80692,Lane.bot_lane,Role.carry
+1,Lycheeeeeeee,Nami,False,Side.blue,0,7,13,1.8571428571428572,11,Exhaust,Flash,12,False,6274,6025,Sightstone,Redemption,Aegis of the Legion,Ionian Boots of Lucidity,Spellthief's Edge,Faerie Charm,4336,2555,Lane.bot_lane,Role.support
+2,BlackChutney,Fizz,False,Side.blue,9,9,4,1.4444444444444444,113,Smite,Flash,12,False,10076,9610,Enchantment: Runic Echoes,Hextech Revolver,Ionian Boots of Lucidity,Lich Bane,Amplifying Tome,Blasting Wand,62938,31013,Lane.jungle,Role.none
+3,ChaosMoon KL,Lux,False,Side.blue,3,5,10,2.6,141,Flash,Barrier,13,False,8325,8035,Doran's Ring,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,,65243,15594,Lane.mid_lane,Role.solo
+4,HanLynLee,Maokai,False,Side.blue,3,5,8,2.2,121,Teleport,Flash,13,False,8260,7725,Spirit Visage,Frozen Heart,Boots of Speed,Doran's Ring,Giant's Belt,Cloth Armor,59129,10727,Lane.top_lane,Role.solo
+5,jin love big na,Zed,True,Side.red,8,5,6,2.8,197,Flash,Ignite,14,False,12296,12200,Mercury's Treads,Tiamat,Youmuu's Ghostblade,Maw of Malmortius,The Black Cleaver,Long Sword,6948,121679,Lane.mid_lane,Role.solo
+6,Godple,Zac,True,Side.red,7,4,11,4.5,111,Smite,Flash,14,False,11263,10100,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Spirit Visage,Thornmail,Giant's Belt,95438,19331,Lane.jungle,Role.none
+7,sevens day,Karma,True,Side.red,4,4,18,5.5,24,Exhaust,Ghost,13,True,10695,8150,Ardent Censer,Boots of Mobility,Mikael's Crucible,Eye of the Watchers,Faerie Charm,Faerie Charm,25769,11556,Lane.bot_lane,Role.support
+8,thekilerone,Caitlyn,True,Side.red,11,4,8,4.75,195,Heal,Flash,15,False,14271,9650,Doran's Blade,Cull,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,1348,171409,Lane.bot_lane,Role.carry
+9,HotScarra,Rumble,True,Side.red,4,4,7,2.75,153,Teleport,Flash,14,False,10692,9425,Rylai's Crystal Scepter,Liandry's Torment,Seeker's Armguard,Sorcerer's Shoes,Doran's Shield,,91486,14219,Lane.top_lane,Role.solo

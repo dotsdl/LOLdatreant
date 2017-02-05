@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HippoPower,Varus,False,Side.blue,3,11,4,0.6363636363636364,119,Flash,Heal,11,False,8033,7775,Recurve Bow,Doran's Blade,,Essence Reaver,Zeal,Berserker's Greaves,3353,74308,Lane.bot_lane,Role.carry
+1,2plates1cup,Janna,False,Side.blue,2,9,6,0.8888888888888888,9,Flash,Exhaust,11,False,6774,6725,Redemption,Eye of the Watchers,Crystalline Bracer,Rejuvenation Bead,Cloth Armor,Boots of Mobility,6407,2106,Lane.bot_lane,Role.support
+2,Proxinity,Nidalee,False,Side.blue,7,13,6,1.0,92,Smite,Flash,12,False,8862,8460,Rod of Ages,Enchantment: Runic Echoes,Sorcerer's Shoes,Hextech Revolver,Amplifying Tome,Ruby Crystal,68740,8356,Lane.jungle,Role.none
+3,FourofDiamonds,Orianna,False,Side.blue,3,7,7,1.4285714285714286,167,Flash,Ghost,13,False,9145,8510,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,,79947,11181,Lane.mid_lane,Role.solo
+4,Mi Amor Teemo,Poppy,False,Side.blue,4,5,3,1.4,185,Flash,Teleport,13,True,10021,9275,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Kindlegem,Ninja Tabi,Spectre's Cowl,36753,67803,Lane.top_lane,Role.solo
+5,Peaceman,Malzahar,True,Side.red,11,2,15,13.0,160,Ghost,Flash,15,False,13035,11125,Rylai's Crystal Scepter,Aether Wisp,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Blasting Wand,103905,21800,Lane.mid_lane,Role.solo
+6,sexyminou,Rengar,True,Side.red,10,5,6,3.2,207,Flash,Ignite,14,False,12890,10800,The Black Cleaver,Ninja Tabi,Refillable Potion,Death's Dance,Spirit Visage,,17672,123008,Lane.top_lane,Role.solo
+7,Stumpey,Vayne,True,Side.red,10,4,12,5.5,202,Flash,Heal,14,False,13080,9700,Doran's Blade,Zeal,Berserker's Greaves,Statikk Shiv,Infinity Edge,,44465,97412,Lane.bot_lane,Role.carry
+8,CC ArJay,Lee Sin,True,Side.red,11,5,17,5.6,104,Flash,Smite,15,False,13062,11025,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Dead Man's Plate,Mercury's Treads,Giant's Belt,21968,104910,Lane.jungle,Role.none
+9,IQ is 201 ,Thresh,True,Side.red,3,3,26,9.666666666666666,36,Flash,Exhaust,13,False,9392,7900,Face of the Mountain,Sightstone,Locket of the Iron Solari,Forbidden Idol,Boots of Mobility,Crystalline Bracer,12344,6807,Lane.bot_lane,Role.support

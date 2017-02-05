@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Entranced,Nasus,True,Side.blue,3,4,11,3.5,233,Teleport,Flash,17,False,13778,12833,Zz'Rot Portal,Corrupting Potion,Spirit Visage,Mercury's Treads,Spectre's Cowl,Trinity Force,96624,83995,Lane.top_lane,Role.solo
+1,Dyrus,Yasuo,True,Side.blue,2,3,10,4.0,245,Heal,Flash,15,False,12821,10550,B. F. Sword,Vampiric Scepter,Mercury's Treads,Infinity Edge,Doran's Blade,Phantom Dancer,20344,134783,Lane.bot_lane,Role.carry
+2,TheOddOrange,Lee Sin,True,Side.blue,8,6,8,2.6666666666666665,187,Flash,Smite,17,False,13597,14905,Titanic Hydra,Tracker's Knife,Spirit Visage,Mercury's Treads,Maw of Malmortius,Sheen,24276,140982,Lane.jungle,Role.none
+3,TwTv Kinoscorpia,Miss Fortune,True,Side.blue,0,7,10,1.4285714285714286,39,Exhaust,Flash,13,False,9482,7975,Frostfang,,Ionian Boots of Lucidity,The Black Cleaver,Pickaxe,Sightstone,18807,34863,Lane.bot_lane,Role.support
+4,Wizzy,Kayle,True,Side.blue,10,3,3,4.333333333333333,216,Ghost,Flash,15,False,14551,12375,Mejai's Soulstealer,Needlessly Large Rod,Quicksilver Sash,Ionian Boots of Lucidity,Nashor's Tooth,Guinsoo's Rageblade,127760,50435,Lane.mid_lane,Role.solo
+5,SSBM Hax,Twisted Fate,False,Side.red,5,3,9,4.666666666666667,210,Flash,Ghost,15,False,11900,10860,Doran's Ring,Rod of Ages,Lich Bane,Zhonya's Hourglass,Amplifying Tome,Ionian Boots of Lucidity,123227,14716,Lane.mid_lane,Role.solo
+6,Xmithie Lite,Poppy,False,Side.red,5,4,10,3.75,136,Flash,Smite,15,True,10455,9400,,Dead Man's Plate,Enchantment: Cinderhulk,Guardian Angel,Ninja Tabi,,33287,91056,Lane.jungle,Role.none
+7,magic hour,Nami,False,Side.red,3,3,15,6.0,20,Flash,Exhaust,14,False,9121,8450,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,Refillable Potion,Redemption,Cloth Armor,10364,9251,Lane.bot_lane,Role.support
+8,fallenbandit,Fiora,False,Side.red,5,11,2,0.6363636363636364,219,Flash,Teleport,15,False,11065,10550,Ravenous Hydra,Corrupting Potion,Mercury's Treads,The Black Cleaver,B. F. Sword,Vampiric Scepter,1321,113112,Lane.top_lane,Role.solo
+9,Shiphtur,Ziggs,False,Side.red,5,2,9,7.0,250,Heal,Flash,15,False,11967,11300,Void Staff,,Sorcerer's Shoes,,Rabadon's Deathcap,Morellonomicon,160589,13499,Lane.bot_lane,Role.carry

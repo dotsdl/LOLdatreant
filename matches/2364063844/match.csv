@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SandPaperX,Alistar,True,Side.blue,2,0,9,11.0,9,Flash,Exhaust,7,False,4389,2975,Total Biscuit of Rejuvenation,Sightstone,Boots of Mobility,Relic Shield,Ruby Crystal,Cloth Armor,3300,5402,Lane.bot_lane,Role.duo
+1,Winter is back,Karma,True,Side.blue,1,1,3,4.0,83,Flash,Teleport,9,False,4871,2525,Doran's Ring,Fiendish Codex,Null-Magic Mantle,Boots of Speed,,Total Biscuit of Rejuvenation,26432,11617,Lane.jungle,Role.none
+2,TwitchTvSysnickl,Miss Fortune,True,Side.blue,5,1,5,10.0,97,Heal,Flash,8,True,6584,5475,Total Biscuit of Rejuvenation,Youmuu's Ghostblade,B. F. Sword,Doran's Blade,Boots of Speed,Long Sword,1964,39770,Lane.bot_lane,Role.duo
+3,Saskioo,Graves,True,Side.blue,5,1,3,8.0,62,Smite,Flash,8,False,6315,5700,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Boots of Speed,,,2087,57799,Lane.jungle,Role.none
+4,Hakuho,Poppy,True,Side.blue,1,1,3,4.0,82,Teleport,Flash,8,False,5154,3300,Doran's Shield,Bami's Cinder,Boots of Swiftness,Chain Vest,,,7499,29702,Lane.top_lane,Role.solo
+5,SSBM Hax,Twisted Fate,False,Side.red,1,1,1,2.0,72,Flash,Ghost,7,False,4021,3650,Doran's Ring,Ionian Boots of Lucidity,Refillable Potion,Catalyst of Aeons,Control Ward,Blasting Wand,20046,4841,Lane.mid_lane,Role.solo
+6,im Dusk,Lee Sin,False,Side.red,3,3,1,1.3333333333333333,50,Smite,Flash,8,False,4253,3475,Enchantment: Warrior,Refillable Potion,Boots of Speed,Ruby Crystal,,,5289,27493,Lane.jungle,Role.none
+7,Štarboy,Trundle,False,Side.red,0,2,0,0.0,103,Teleport,Flash,9,False,3941,3450,Corrupting Potion,Control Ward,Tiamat,Vampiric Scepter,Boots of Speed,Ruby Crystal,443,41149,Lane.top_lane,Role.solo
+8,SKY Fear,Jhin,False,Side.red,0,2,1,0.5,69,Flash,Heal,7,False,3325,2725,Caulfield's Warhammer,Total Biscuit of Rejuvenation,Doran's Blade,Control Ward,Boots of Swiftness,,147,20639,Lane.bot_lane,Role.duo
+9,Seoksang,Zyra,False,Side.red,0,6,1,0.16666666666666666,5,Flash,Ignite,6,False,2619,2000,Frostfang,Sightstone,Total Biscuit of Rejuvenation,Control Ward,,,5446,636,Lane.bot_lane,Role.duo

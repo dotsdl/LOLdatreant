@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NA HEASEDRIFT,Wukong,True,Side.blue,2,4,6,2.0,99,Smite,Ghost,12,False,8550,7375,Enchantment: Warrior,Ninja Tabi,Hunter's Potion,The Black Cleaver,,,6307,94006,Lane.jungle,Role.none
+1,jyjyjy,Orianna,True,Side.blue,8,4,6,3.5,210,Flash,Ghost,15,False,12118,10750,Zhonya's Hourglass,,Void Staff,Morellonomicon,Doran's Ring,Sorcerer's Shoes,133478,16566,Lane.mid_lane,Role.solo
+2,Poı,Rammus,True,Side.blue,9,3,7,5.333333333333333,185,Flash,Teleport,14,False,11414,9800,Sunfire Cape,Corrupting Potion,Thornmail,Ninja Tabi,Phantom Dancer,Ruby Crystal,77621,40810,Lane.top_lane,Role.solo
+3,NayvadiusWilburn,Corki,True,Side.blue,5,5,5,2.0,132,Flash,Heal,12,False,9161,7418,Doran's Blade,Bilgewater Cutlass,Sorcerer's Shoes,Refillable Potion,Trinity Force,Amplifying Tome,51338,24496,Lane.bot_lane,Role.carry
+4,Carrots2,Soraka,True,Side.blue,1,3,10,3.6666666666666665,28,Flash,Exhaust,12,False,7465,6375,Eye of the Oasis,Redemption,Forbidden Idol,Null-Magic Mantle,Ionian Boots of Lucidity,,12563,5898,Lane.bot_lane,Role.support
+5,FeeIsBoostedMan,Shyvana,False,Side.red,1,7,3,0.5714285714285714,131,Smite,Flash,12,False,8054,7825,Blade of the Ruined King,Refillable Potion,Mercury's Treads,Enchantment: Bloodrazor,Ruby Crystal,,54572,50723,Lane.jungle,Role.none
+6,Megalomaniacal,Olaf,False,Side.red,5,5,2,1.4,156,Flash,Ignite,14,True,8779,8675,Spirit Visage,The Black Cleaver,,Ionian Boots of Lucidity,Cloth Armor,Giant's Belt,256,82740,Lane.top_lane,Role.solo
+7,Nero Valentine,Talon,False,Side.red,8,6,1,1.5,133,Ghost,Flash,13,False,9160,8225,Ionian Boots of Lucidity,Refillable Potion,Youmuu's Ghostblade,Control Ward,The Black Cleaver,,0,83767,Lane.mid_lane,Role.solo
+8,0 K A Y B O Y S,Bard,False,Side.red,1,2,9,5.0,20,Flash,Exhaust,11,False,6571,5850,Crystalline Bracer,Redemption,Sightstone,Spellthief's Edge,Boots of Mobility,Crystalline Bracer,10271,4036,Lane.bot_lane,Role.support
+9,twitchtvz4mk4,Kog'Maw,False,Side.red,4,5,5,1.8,147,Heal,Flash,13,False,9008,8675,Blade of the Ruined King,Berserker's Greaves,Guinsoo's Rageblade,,,,23186,47363,Lane.bot_lane,Role.carry

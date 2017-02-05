@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rikarawr,Ashe,True,Side.blue,3,7,25,4.0,336,Flash,Heal,18,False,16204,13100,Last Whisper,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Doran's Blade,4032,229065,Lane.bot_lane,Role.carry
+1,Révenge,LeBlanc,True,Side.blue,18,7,15,4.714285714285714,183,Ignite,Flash,18,True,16749,14725,Morellonomicon,Rylai's Crystal Scepter,Zhonya's Hourglass,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,124937,19054,Lane.mid_lane,Role.solo
+2,PutYourHeartsUp,Akali,True,Side.blue,14,5,9,4.6,241,Flash,Teleport,18,False,15727,14200,Hextech Gunblade,Zhonya's Hourglass,Ruby Crystal,Nashor's Tooth,Void Staff,Sorcerer's Shoes,55513,121111,Lane.top_lane,Role.solo
+3,Abou222,Karma,True,Side.blue,0,8,32,4.0,20,Exhaust,Flash,15,False,11197,9260,Redemption,Control Ward,Eye of the Watchers,Athene's Unholy Grail,Ionian Boots of Lucidity,Aegis of the Legion,24265,4383,Lane.bot_lane,Role.support
+4,Alex Ich 1,Kha'Zix,True,Side.blue,17,5,10,5.4,152,Flash,Smite,18,False,16567,14075,Ravenous Hydra,Duskblade of Draktharr,Death's Dance,Enchantment: Warrior,Boots of Mobility,,7057,182331,Lane.jungle,Role.none
+5,Témpest,Yasuo,False,Side.red,5,12,8,1.0833333333333333,171,Flash,Exhaust,15,False,12424,11700,,,,,,,22161,93146,Lane.mid_lane,Role.solo
+6,Winter is back,Nasus,False,Side.red,5,6,4,1.5,301,Flash,Teleport,16,False,14240,14425,Guardian Angel,Spirit Visage,Chain Vest,Iceborn Gauntlet,Mercury's Treads,Zz'Rot Portal,91960,54522,Lane.top_lane,Role.solo
+7,Hi Im A Sheep,Thresh,False,Side.red,2,7,17,2.7142857142857144,33,Flash,Exhaust,14,False,10489,10600,Redemption,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,,Boots of Mobility,15175,8671,Lane.bot_lane,Role.support
+8,Keegun,Pantheon,False,Side.red,6,14,11,1.2142857142857142,118,Smite,Flash,15,False,11896,11575,Randuin's Omen,Tiamat,Edge of Night,,Mercury's Treads,Enchantment: Warrior,12332,100230,Lane.jungle,Role.none
+9,Liquid fabbbyyy,Twitch,False,Side.red,14,13,8,1.6923076923076923,213,Flash,Heal,16,False,16086,15625,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Statikk Shiv,Maw of Malmortius,Last Whisper,9121,144903,Lane.bot_lane,Role.carry

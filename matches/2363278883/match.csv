@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Subzeroark,Ivern,False,Side.blue,1,6,7,1.3333333333333333,49,Flash,Smite,12,False,6862,6250,Redemption,The Dark Seal,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Cloth Armor,14207,4337,Lane.jungle,Role.none
+1,Hi I am Zack,Vayne,False,Side.blue,4,6,4,1.3333333333333333,216,Heal,Flash,13,False,10196,8625,Dagger,Berserker's Greaves,Infinity Edge,Statikk Shiv,Doran's Blade,Dagger,44923,82144,Lane.bot_lane,Role.carry
+2,Abraham,Lulu,False,Side.blue,1,9,9,1.1111111111111112,19,Flash,Exhaust,12,False,6879,5750,Ionian Boots of Lucidity,,Redemption,Faerie Charm,Eye of the Watchers,Control Ward,19384,3414,Lane.bot_lane,Role.support
+3,rekaf nesgrejb,Cassiopeia,False,Side.blue,5,5,5,2.0,193,Flash,Ghost,15,False,10224,9375,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Tear of the Goddess,Doran's Ring,Blasting Wand,106951,7833,Lane.mid_lane,Role.solo
+4,Oyay,Gangplank,False,Side.blue,2,6,4,1.0,153,Flash,Teleport,13,False,9312,8558,Doran's Ring,Trinity Force,Youmuu's Ghostblade,Cull,,Ionian Boots of Lucidity,7655,81453,Lane.top_lane,Role.solo
+5,milala,Poppy,True,Side.red,7,1,5,12.0,170,Flash,Teleport,15,False,12439,10450,Corrupting Potion,Sunfire Cape,Ninja Tabi,Spirit Visage,Iceborn Gauntlet,Cloth Armor,32683,65707,Lane.top_lane,Role.solo
+6,Zàddy,Bard,True,Side.red,2,3,15,5.666666666666667,14,Flash,Ignite,13,False,9142,8375,Ruby Sightstone,Control Ward,Redemption,Ionian Boots of Lucidity,Spellthief's Edge,Locket of the Iron Solari,13019,8630,Lane.bot_lane,Role.support
+7,Twitch FateFalls,Kha'Zix,True,Side.red,5,3,3,2.6666666666666665,153,Flash,Smite,16,False,12132,10275,Enchantment: Warrior,Tiamat,Boots of Mobility,The Black Cleaver,Giant Slayer,Last Whisper,4127,165174,Lane.jungle,Role.none
+8,1deag,Caitlyn,True,Side.red,10,4,12,5.5,192,Heal,Flash,15,True,14287,13100,B. F. Sword,Runaan's Hurricane,Phantom Dancer,Infinity Edge,Vampiric Scepter,Berserker's Greaves,619,144491,Lane.bot_lane,Role.carry
+9,BigQuestionMark,Orianna,True,Side.red,8,2,10,9.0,239,Flash,Ghost,16,False,14284,12800,Doran's Ring,Blasting Wand,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Rylai's Crystal Scepter,164777,19690,Lane.mid_lane,Role.solo

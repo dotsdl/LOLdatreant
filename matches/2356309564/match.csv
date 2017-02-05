@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Bard,True,Side.blue,0,1,13,13.0,19,Flash,Ignite,12,False,8279,6600,Eye of the Watchers,Aegis of the Legion,Null-Magic Mantle,,Mejai's Soulstealer,Boots of Mobility,12061,5469,Lane.bot_lane,Role.support
+1,GamerXz,Fiora,True,Side.blue,10,3,3,4.333333333333333,197,Flash,Teleport,15,False,12942,10475,Corrupting Potion,Ravenous Hydra,The Black Cleaver,B. F. Sword,Mercury's Treads,Vampiric Scepter,789,122085,Lane.top_lane,Role.solo
+2,TEAMLUKEE,Caitlyn,True,Side.blue,6,4,8,3.5,234,Heal,Flash,14,False,12715,10680,Doran's Blade,B. F. Sword,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,696,149488,Lane.bot_lane,Role.carry
+3,Tobias Fate,Gangplank,True,Side.blue,14,2,9,11.5,224,Flash,Exhaust,16,False,15959,13358,Trinity Force,Youmuu's Ghostblade,The Dark Seal,Boots of Swiftness,Infinity Edge,Zeal,7659,185063,Lane.mid_lane,Role.solo
+4,Fàkèr  ,Vi,True,Side.blue,7,2,10,8.5,103,Smite,Flash,14,True,11505,9283,Enchantment: Warrior,Trinity Force,Chain Vest,Boots of Mobility,Giant's Belt,,1296,121005,Lane.jungle,Role.none
+5,NoCookies4You,Janna,False,Side.red,2,7,7,1.2857142857142858,1,Flash,Exhaust,11,False,6755,6500,Boots of Mobility,Talisman of Ascension,Redemption,Sightstone,Control Ward,,5896,1898,Lane.bot_lane,Role.support
+6,Koby,Orianna,False,Side.red,1,11,3,0.36363636363636365,161,Flash,Ghost,13,False,7777,6225,Doran's Ring,,Doran's Ring,Sorcerer's Shoes,Lost Chapter,Zhonya's Hourglass,74211,11951,Lane.mid_lane,Role.carry
+7,Japanese Import,Evelynn,False,Side.red,0,8,6,0.75,82,Smite,Flash,12,False,7087,6225,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Hextech Protobelt-01,,,,44279,24938,Lane.mid_lane,Role.support
+8,Firé,Ezreal,False,Side.red,6,6,2,1.3333333333333333,167,Heal,Flash,12,False,9254,9025,Ionian Boots of Lucidity,Bilgewater Cutlass,Iceborn Gauntlet,Doran's Blade,Muramana,Dagger,7012,78132,Lane.bot_lane,Role.carry
+9,SoV NSFW,Poppy,False,Side.red,3,6,3,1.0,191,Flash,Teleport,14,False,8965,8625,Sunfire Cape,Ninja Tabi,Corrupting Potion,Spirit Visage,Phage,,31783,74689,Lane.top_lane,Role.solo

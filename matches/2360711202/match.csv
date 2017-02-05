@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheOddOrange,Shyvana,True,Side.blue,4,0,3,7.0,163,Flash,Smite,15,False,10410,9100,Titanic Hydra,Bilgewater Cutlass,,Refillable Potion,Enchantment: Bloodrazor,Mercury's Treads,69655,83890,Lane.jungle,Role.none
+1,Peridot,Ezreal,True,Side.blue,3,4,3,1.5,164,Heal,Flash,12,False,8704,7758,Doran's Blade,Refillable Potion,Control Ward,Trinity Force,Ionian Boots of Lucidity,Manamune,7390,56768,Lane.bot_lane,Role.carry
+2,LL Stylish,Katarina,True,Side.blue,8,6,2,1.6666666666666667,94,Ignite,Flash,12,False,8944,7500,Hextech Gunblade,Aether Wisp,The Dark Seal,Sorcerer's Shoes,,Needlessly Large Rod,55241,8013,Lane.mid_lane,Role.solo
+3,Regular Mid,Karma,True,Side.blue,0,3,7,2.3333333333333335,9,Flash,Exhaust,11,False,6794,5875,Eye of the Watchers,Ardent Censer,,,Ionian Boots of Lucidity,,16959,4557,Lane.bot_lane,Role.support
+4,foggedftw1,Tryndamere,True,Side.blue,1,0,0,1.0,196,Ignite,Flash,13,False,9211,8885,Infinity Edge,Bilgewater Cutlass,Statikk Shiv,Boots of Swiftness,,,21498,98978,Lane.top_lane,Role.solo
+5,Lose is improved,Janna,False,Side.red,2,2,8,5.0,5,Exhaust,Flash,9,False,5464,4975,Nomad's Medallion,Sightstone,Forbidden Idol,Crystalline Bracer,Crystalline Bracer,Ionian Boots of Lucidity,1615,1593,Lane.bot_lane,Role.support
+6,Sebi,LeBlanc,False,Side.red,5,5,1,1.2,123,Flash,Ignite,11,True,7134,6785,Doran's Ring,Doran's Ring,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Amplifying Tome,53720,8596,Lane.mid_lane,Role.solo
+7,COME BACK STRONG,Vi,False,Side.red,4,3,3,2.3333333333333335,113,Smite,Flash,11,False,6935,6608,,Refillable Potion,Ruby Crystal,Trinity Force,Ninja Tabi,Skirmisher's Sabre,309,71358,Lane.jungle,Role.none
+8,camtheham,Tristana,False,Side.red,1,3,6,2.3333333333333335,162,Heal,Flash,11,False,6998,5625,Statikk Shiv,,Berserker's Greaves,,B. F. Sword,Doran's Blade,26498,53992,Lane.bot_lane,Role.carry
+9,Feitan,Rumble,False,Side.red,1,3,0,0.3333333333333333,106,Teleport,Flash,10,False,5591,5200,Doran's Shield,Refillable Potion,Giant's Belt,Seeker's Armguard,Sorcerer's Shoes,Needlessly Large Rod,43387,7396,Lane.top_lane,Role.solo

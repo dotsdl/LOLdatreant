@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,nilhaG,Trundle,False,Side.blue,4,9,4,0.8888888888888888,84,Ghost,Smite,10,False,6908,6550,Tiamat,Enchantment: Cinderhulk,Ninja Tabi,Warden's Mail,,Ruby Crystal,7458,65677,Lane.jungle,Role.none
+1,rovex,Cassiopeia,False,Side.blue,0,6,1,0.16666666666666666,96,Flash,Ghost,10,False,5223,4145,Doran's Ring,Tear of the Goddess,Control Ward,Lost Chapter,Negatron Cloak,Fiendish Codex,33272,6758,Lane.mid_lane,Role.solo
+2,Rakyero,Karma,False,Side.blue,4,4,5,2.25,13,Flash,Exhaust,8,False,6091,5625,,Ionian Boots of Lucidity,,,Redemption,Eye of the Watchers,13212,3494,Lane.bot_lane,Role.support
+3,iFrames,Kha'Zix,False,Side.blue,0,5,1,0.2,125,Teleport,Flash,11,False,5858,5280,Corrupting Potion,Tiamat,The Black Cleaver,Boots of Speed,,,1686,52163,Lane.top_lane,Role.solo
+4,iPav999,Urgot,False,Side.blue,2,6,6,1.3333333333333333,106,Heal,Flash,10,True,6527,6375,Manamune,Corrupting Potion,The Black Cleaver,Boots of Speed,,,1096,44924,Lane.bot_lane,Role.carry
+5,Sìyou,Vayne,True,Side.red,4,5,9,2.6,138,Flash,Heal,11,False,9527,9375,Doran's Blade,Cull,Berserker's Greaves,Statikk Shiv,The Bloodthirster,Pickaxe,4553,57433,Lane.bot_lane,Role.carry
+6,AsianSaltedF1sh,Janna,True,Side.red,2,4,10,3.0,8,Exhaust,Flash,10,False,6839,4900,Boots of Swiftness,Talisman of Ascension,The Dark Seal,Sightstone,,,7620,9122,Lane.bot_lane,Role.support
+7,how do i do it,Rek'Sai,True,Side.red,7,1,7,14.0,127,Flash,Smite,13,False,10514,10325,Titanic Hydra,Null-Magic Mantle,Enchantment: Cinderhulk,Dead Man's Plate,Boots of Speed,Ruby Crystal,19351,99220,Lane.jungle,Role.none
+8,OpenBackpack,LeBlanc,True,Side.red,10,0,5,15.0,141,Flash,Ignite,13,False,10065,8285,Abyssal Scepter,Amplifying Tome,,Doran's Ring,Morellonomicon,Sorcerer's Shoes,73181,14084,Lane.mid_lane,Role.solo
+9,greenléaf,Poppy,True,Side.red,7,0,8,15.0,153,Teleport,Flash,13,False,10080,8775,Sunfire Cape,Ninja Tabi,Corrupting Potion,Iceborn Gauntlet,Cloth Armor,Spectre's Cowl,23259,60708,Lane.top_lane,Role.solo

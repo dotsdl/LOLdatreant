@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizzy,Kayle,True,Side.blue,5,1,6,11.0,206,Ghost,Flash,15,False,11650,11375,The Dark Seal,Guinsoo's Rageblade,Ionian Boots of Lucidity,Doran's Ring,Abyssal Scepter,Nashor's Tooth,91068,37813,Lane.mid_lane,Role.solo
+1,AsianGoneWild,Bard,True,Side.blue,1,5,11,2.4,16,Ignite,Flash,12,False,8643,8450,Control Ward,Eye of the Watchers,Redemption,Boots of Mobility,Hextech Protobelt-01,Dagger,13501,3913,Lane.bot_lane,Role.support
+2,Ifkinluvpeaches,Hecarim,True,Side.blue,12,4,3,3.75,126,Smite,Ghost,15,True,13195,12383,Enchantment: Cinderhulk,Youmuu's Ghostblade,Boots of Swiftness,Trinity Force,Giant's Belt,Warden's Mail,24022,127969,Lane.jungle,Role.none
+3,out skizzled,Riven,True,Side.blue,5,4,6,2.75,201,Flash,Teleport,15,False,11762,11550,The Black Cleaver,Ninja Tabi,Death's Dance,Refillable Potion,,Ravenous Hydra,0,118902,Lane.top_lane,Role.solo
+4,Ben9813,Vayne,True,Side.blue,5,6,5,1.6666666666666667,168,Heal,Flash,14,False,11437,10500,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,Zeal,Long Sword,22108,82907,Lane.bot_lane,Role.carry
+5,aphromoo,Lulu,False,Side.red,0,7,8,1.1428571428571428,23,Exhaust,Flash,11,False,7991,6825,Eye of the Watchers,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,Forbidden Idol,21466,6388,Lane.bot_lane,Role.support
+6,Never Been,Jhin,False,Side.red,4,7,4,1.1428571428571428,164,Flash,Heal,12,False,10143,8675,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Rapid Firecannon,Pickaxe,Control Ward,5455,92306,Lane.bot_lane,Role.carry
+7,Modx,Jax,False,Side.red,5,4,3,2.0,190,Ghost,Teleport,15,False,10452,8808,Trinity Force,Corrupting Potion,Frozen Heart,Ninja Tabi,Long Sword,Long Sword,26276,75655,Lane.top_lane,Role.solo
+8,IAmArray,Shyvana,False,Side.red,2,8,7,1.125,135,Flash,Smite,13,False,9390,8895,Titanic Hydra,Refillable Potion,Ninja Tabi,Enchantment: Bloodrazor,Chain Vest,Negatron Cloak,52533,70490,Lane.jungle,Role.none
+9,Command Attack,Orianna,False,Side.red,9,2,4,6.5,218,Exhaust,Flash,15,False,12342,11275,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Void Staff,Doran's Ring,,128753,14696,Lane.mid_lane,Role.solo

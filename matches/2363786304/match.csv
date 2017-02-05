@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vladfire1 BG ,Zac,True,Side.blue,4,0,17,21.0,102,Smite,Flash,13,False,9566,7200,Randuin's Omen,Refillable Potion,Boots of Speed,Giant's Belt,Enchantment: Cinderhulk,Control Ward,83759,23219,Lane.jungle,Role.none
+1,BaIance,Nami,True,Side.blue,1,5,25,5.2,8,Exhaust,Flash,11,False,8571,7525,Ruby Sightstone,Redemption,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,Spellthief's Edge,6497,4432,Lane.bot_lane,Role.support
+2,Piggy Kitten,LeBlanc,True,Side.blue,2,4,2,1.0,183,Flash,Teleport,13,False,8854,8350,Liandry's Torment,Corrupting Potion,Control Ward,Morellonomicon,Sorcerer's Shoes,,85998,15358,Lane.top_lane,Role.solo
+3,Témpest,Yasuo,True,Side.blue,20,3,5,8.333333333333334,174,Flash,Exhaust,14,False,14356,12100,The Bloodthirster,Phantom Dancer,Infinity Edge,Mercury's Treads,Cull,Doran's Blade,22074,112706,Lane.mid_lane,Role.solo
+4,Nedo,Jhin,True,Side.blue,10,3,9,6.333333333333333,104,Heal,Flash,11,False,9748,8675,Doran's Blade,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,Refillable Potion,Pickaxe,3289,71134,Lane.bot_lane,Role.carry
+5,Liquid fabbbyyy,Vayne,False,Side.red,2,10,6,0.8,97,Flash,Heal,10,False,6736,6025,Doran's Blade,Cull,Pickaxe,Berserker's Greaves,Zeal,B. F. Sword,0,33737,Lane.bot_lane,Role.carry
+6,Machai,Bard,False,Side.red,2,9,3,0.5555555555555556,9,Ignite,Flash,9,True,5842,4350,Frostfang,Refillable Potion,Ruby Sightstone,Boots of Mobility,Ruby Crystal,Control Ward,7596,3483,Lane.bot_lane,Role.support
+7,C9 Sneaky,Lux,False,Side.red,2,7,2,0.5714285714285714,135,Flash,Ghost,12,False,6747,6375,Doran's Ring,Seeker's Armguard,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Control Ward,61577,12634,Lane.mid_lane,Role.solo
+8,RATIRLonNA,Master Yi,False,Side.red,7,7,2,1.2857142857142858,120,Ghost,Smite,12,False,8593,7875,Refillable Potion,,Pickaxe,Phantom Dancer,Enchantment: Bloodrazor,Ninja Tabi,929,89514,Lane.jungle,Role.none
+9,Flaresz,Poppy,False,Side.red,1,4,3,1.0,144,Flash,Teleport,13,False,7073,6275,Corrupting Potion,Spectre's Cowl,Zz'Rot Portal,Cloth Armor,Mercury's Treads,Ruby Crystal,2567,49935,Lane.top_lane,Role.solo

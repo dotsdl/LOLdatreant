@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KnK Ryuu,Thresh,True,Side.blue,3,0,5,8.0,45,Exhaust,Flash,12,False,8065,7750,Mercury's Treads,Face of the Mountain,Redemption,Ruby Sightstone,Cloth Armor,Control Ward,10844,5526,Lane.bot_lane,Role.support
+1,apple deez,Jhin,True,Side.blue,5,2,6,5.5,232,Flash,Heal,13,False,11276,9875,B. F. Sword,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Doran's Blade,Pickaxe,3888,128428,Lane.bot_lane,Role.carry
+2,JSave the WorldT,Elise,True,Side.blue,6,2,6,6.0,99,Flash,Smite,14,True,9877,9000,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Kindlegem,Hextech Revolver,77187,25148,Lane.jungle,Role.none
+3,Mais t es ou,Lissandra,True,Side.blue,5,4,5,2.5,175,Teleport,Flash,15,False,9939,9485,Rod of Ages,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,Fiendish Codex,Lost Chapter,105037,9725,Lane.mid_lane,Role.solo
+4,Climbing,Maokai,True,Side.blue,4,2,3,3.5,209,Teleport,Flash,15,False,10083,9670,Doran's Ring,Negatron Cloak,Sunfire Cape,Ninja Tabi,Frozen Heart,Raptor Cloak,101700,13933,Lane.top_lane,Role.solo
+5,GowaSan,Jax,False,Side.red,4,2,0,2.0,232,Ignite,Flash,15,False,10546,9983,Hextech Gunblade,Trinity Force,Chain Vest,Null-Magic Mantle,Mercury's Treads,Corrupting Potion,33611,107513,Lane.top_lane,Role.solo
+6,KAR Obama,LeBlanc,False,Side.red,5,10,1,0.6,148,Ignite,Flash,13,False,8574,8275,Morellonomicon,Luden's Echo,Health Potion,Sorcerer's Shoes,,,65483,17009,Lane.mid_lane,Role.solo
+7,UCD ADC,Amumu,False,Side.red,0,3,3,1.0,136,Flash,Smite,13,False,8387,7875,Enchantment: Cinderhulk,Hunter's Potion,Sorcerer's Shoes,Banshee's Veil,Giant's Belt,Cloth Armor,87534,23664,Lane.jungle,Role.none
+8,Wild Waves,Caitlyn,False,Side.red,1,3,1,0.6666666666666666,218,Flash,Heal,12,False,8949,8760,Doran's Blade,Refillable Potion,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Kircheis Shard,148,110916,Lane.bot_lane,Role.carry
+9,Simonsbed,Karma,False,Side.red,0,5,1,0.2,18,Flash,Exhaust,11,False,5714,5275,Total Biscuit of Rejuvenation,Eye of the Watchers,Redemption,,Boots of Speed,,15206,2936,Lane.bot_lane,Role.support

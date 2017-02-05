@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Unstopebble,Nami,True,Side.blue,1,1,11,12.0,3,Flash,Exhaust,10,False,6519,6450,Eye of the Watchers,Redemption,Refillable Potion,Control Ward,Boots of Mobility,Forbidden Idol,6993,6782,Lane.bot_lane,Role.support
+1,Deported Nipple,Caitlyn,True,Side.blue,4,1,4,8.0,143,Flash,Heal,11,False,8309,6525,Doran's Blade,Total Biscuit of Rejuvenation,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Pickaxe,878,83208,Lane.bot_lane,Role.carry
+2,Catch the Spirit,Poppy,True,Side.blue,5,0,3,8.0,142,Teleport,Flash,12,False,8496,8600,Mercury's Treads,Sheen,Zz'Rot Portal,The Dark Seal,Sunfire Cape,,13331,60271,Lane.top_lane,Role.solo
+3,Serilium,Vi,True,Side.blue,4,2,9,6.5,88,Smite,Flash,12,False,8135,7908,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Control Ward,,1559,93098,Lane.jungle,Role.none
+4,bl0o,Viktor,True,Side.blue,7,0,4,11.0,166,Ghost,Flash,13,False,9845,6845,Perfect Hex Core,Refillable Potion,Negatron Cloak,Doran's Ring,Sorcerer's Shoes,Fiendish Codex,82012,12674,Lane.mid_lane,Role.solo
+5,ZeroBlaze,Syndra,False,Side.red,2,3,1,1.0,154,Flash,Ghost,11,False,6637,5125,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Doran's Ring,,Refillable Potion,67137,6216,Lane.mid_lane,Role.solo
+6,Rycah,Nautilus,False,Side.red,0,2,3,1.5,176,Flash,Teleport,12,False,6521,6000,Ionian Boots of Lucidity,Zz'Rot Portal,Corrupting Potion,The Dark Seal,Bami's Cinder,Cloth Armor,59281,25559,Lane.top_lane,Role.solo
+7,RockyTSaws,Vayne,False,Side.red,0,3,2,0.6666666666666666,120,Heal,Flash,9,False,5444,5210,Doran's Blade,B. F. Sword,Berserker's Greaves,Kircheis Shard,Zeal,,614,29554,Lane.bot_lane,Role.carry
+8,TKrank,Braum,False,Side.red,1,4,2,0.75,27,Exhaust,Flash,9,False,4386,3875,Boots of Speed,Sightstone,Face of the Mountain,Control Ward,,,4738,4269,Lane.bot_lane,Role.support
+9,Eric1,Lee Sin,False,Side.red,1,9,2,0.3333333333333333,72,Smite,Flash,10,True,5409,5350,Giant's Belt,Enchantment: Warrior,Tiamat,Boots of Speed,,,7411,48074,Lane.jungle,Role.none

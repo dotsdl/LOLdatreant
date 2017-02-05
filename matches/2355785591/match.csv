@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NayeonNayeon,Braum,True,Side.blue,2,2,15,8.5,47,Flash,Exhaust,13,False,9361,7500,Sightstone,Face of the Mountain,Knight's Vow,Boots of Speed,Warden's Mail,Ruby Crystal,10285,10576,Lane.bot_lane,Role.support
+1,Høpü,Master Yi,True,Side.blue,6,7,2,1.1428571428571428,148,Smite,Flash,15,False,11311,10075,Quicksilver Sash,Refillable Potion,Mercury's Treads,Guinsoo's Rageblade,Enchantment: Bloodrazor,Hexdrinker,2975,143599,Lane.jungle,Role.none
+2,l337,Ekko,True,Side.blue,9,1,4,13.0,157,Ignite,Flash,15,False,11601,10200,,Corrupting Potion,Hextech Protobelt-01,Sorcerer's Shoes,Lich Bane,Abyssal Scepter,98756,16731,Lane.mid_lane,Role.solo
+3,MalevolentLemons,Sivir,True,Side.blue,6,3,10,5.333333333333333,209,Flash,Heal,14,True,12602,11000,Doran's Blade,Infinity Edge,Boots of Speed,Phantom Dancer,,Essence Reaver,339,145180,Lane.bot_lane,Role.carry
+4,rara,Renekton,True,Side.blue,4,3,4,2.6666666666666665,160,Teleport,Flash,15,False,10343,8500,Refillable Potion,Randuin's Omen,Doran's Shield,Ionian Boots of Lucidity,Phage,Spirit Visage,3572,80361,Lane.top_lane,Role.solo
+5,ste king,Leona,False,Side.red,0,7,7,1.0,32,Exhaust,Flash,11,False,6319,5975,Eye of the Equinox,Locket of the Iron Solari,Boots of Mobility,Control Ward,Total Biscuit of Rejuvenation,,10009,4877,Lane.bot_lane,Role.support
+6,Reaper Rory,Teemo,False,Side.red,5,6,0,0.8333333333333334,186,Ignite,Flash,14,False,9230,8975,Blade of the Ruined King,Blasting Wand,Frozen Mallet,Boots of Swiftness,Doran's Ring,,48059,48750,Lane.top_lane,Role.solo
+7,always plan ahea,Jhin,False,Side.red,2,7,6,1.1428571428571428,182,Flash,Heal,13,False,9462,9400,Doran's Blade,Infinity Edge,Essence Reaver,Berserker's Greaves,,,9458,101369,Lane.bot_lane,Role.carry
+8,Gimme Respek,Ivern,False,Side.red,4,6,6,1.6666666666666667,91,Smite,Flash,13,False,8711,8175,Redemption,Refillable Potion,Athene's Unholy Grail,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Cloth Armor,10816,2951,Lane.jungle,Role.none
+9,ChinesePope,Malzahar,False,Side.red,5,1,1,6.0,183,Flash,Ghost,15,False,9409,8550,Doran's Ring,Morellonomicon,Abyssal Scepter,,Needlessly Large Rod,Sorcerer's Shoes,82890,23921,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid fabbbyyy,Vayne,True,Side.blue,5,2,6,5.5,128,Flash,Heal,11,False,8599,6925,Quicksilver Sash,B. F. Sword,Statikk Shiv,Doran's Blade,Berserker's Greaves,,6267,53322,Lane.bot_lane,Role.carry
+1,ZatsMod,Morgana,True,Side.blue,3,4,9,3.0,6,Flash,Exhaust,10,True,7143,6225,Ruby Sightstone,Frost Queen's Claim,Control Ward,Fiendish Codex,Ionian Boots of Lucidity,,16114,3094,Lane.bot_lane,Role.support
+2,Pants are Dragon,Kha'Zix,True,Side.blue,8,1,4,12.0,112,Smite,Flash,13,False,9416,8500,Enchantment: Warrior,Refillable Potion,Tiamat,Duskblade of Draktharr,Boots of Swiftness,,3742,98991,Lane.jungle,Role.none
+3,Green Awakening,Katarina,True,Side.blue,4,2,8,6.0,105,Flash,Ignite,12,False,7974,6600,Refillable Potion,Needlessly Large Rod,Rylai's Crystal Scepter,Sorcerer's Shoes,The Dark Seal,Doran's Ring,52355,9159,Lane.mid_lane,Role.solo
+4,Drutagan,Rumble,True,Side.blue,2,0,9,11.0,154,Flash,Teleport,13,False,8735,6610,Doran's Shield,Blasting Wand,Liandry's Torment,Amplifying Tome,Sorcerer's Shoes,Cloth Armor,74086,8341,Lane.top_lane,Role.solo
+5,Bard Enthusiast,Ezreal,False,Side.red,6,3,1,2.3333333333333335,153,Flash,Heal,11,False,8640,6533,Doran's Blade,Tear of the Goddess,Trinity Force,Ionian Boots of Lucidity,,Cull,8622,60072,Lane.bot_lane,Role.carry
+6,Bjerg Søren,Ryze,False,Side.red,3,6,1,0.6666666666666666,154,Flash,Ghost,12,False,7598,6745,Ionian Boots of Lucidity,Tear of the Goddess,Negatron Cloak,Rod of Ages,Needlessly Large Rod,,78157,8718,Lane.mid_lane,Role.solo
+7,MEMEME670,Amumu,False,Side.red,0,3,6,2.0,74,Flash,Smite,10,False,5436,4675,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,Cloth Armor,Sapphire Crystal,,40891,10823,Lane.jungle,Role.none
+8,Leagué,Riven,False,Side.red,0,7,2,0.2857142857142857,123,Flash,Teleport,11,False,5846,5125,Hexdrinker,Caulfield's Warhammer,Refillable Potion,Mercury's Treads,Phage,,0,51226,Lane.top_lane,Role.solo
+9,Liquid Painless,Karma,False,Side.red,0,3,7,2.3333333333333335,3,Flash,Exhaust,9,False,4896,4150,Ionian Boots of Lucidity,Eye of the Watchers,Refillable Potion,Null-Magic Mantle,Control Ward,,8416,3158,Lane.bot_lane,Role.support

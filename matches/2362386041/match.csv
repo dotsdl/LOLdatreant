@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheOddOrange,Lee Sin,True,Side.blue,12,3,2,4.666666666666667,112,Flash,Smite,13,True,10820,8200,Tiamat,Enchantment: Warrior,Hexdrinker,Mercury's Treads,Jaurim's Fist,Ruby Crystal,16830,95796,Lane.jungle,Role.none
+1,zlsna,Ryze,True,Side.blue,2,4,10,3.0,154,Flash,Ghost,13,False,8226,6600,Refillable Potion,Tear of the Goddess,Fiendish Codex,Rod of Ages,Lost Chapter,Ionian Boots of Lucidity,85366,8781,Lane.mid_lane,Role.solo
+2,Hakuho,Poppy,True,Side.blue,2,1,2,4.0,120,Teleport,Flash,12,False,7001,5720,Doran's Shield,Mercury's Treads,Spirit Visage,Negatron Cloak,Cloth Armor,Rejuvenation Bead,1805,48388,Lane.top_lane,Role.solo
+3,dog deft,Twitch,True,Side.blue,6,2,4,5.0,151,Flash,Heal,12,False,9112,8475,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Brawler's Gloves,,Doran's Blade,1257,70375,Lane.bot_lane,Role.carry
+4,1onz,Lulu,True,Side.blue,0,1,14,14.0,3,Flash,Ignite,10,False,5750,4550,Frostfang,Boots of Mobility,Sightstone,Forbidden Idol,Crystalline Bracer,Total Biscuit of Rejuvenation,8532,4785,Lane.bot_lane,Role.support
+5,Kerias,Malzahar,False,Side.red,2,3,0,0.6666666666666666,138,Teleport,Flash,12,False,6282,6010,Amplifying Tome,Giant's Belt,,Morellonomicon,Doran's Ring,Ionian Boots of Lucidity,51750,17371,Lane.top_lane,Role.solo
+6,Rhux,Cassiopeia,False,Side.red,6,7,1,1.0,124,Flash,Ghost,11,False,7191,6220,The Dark Seal,Doran's Ring,Tear of the Goddess,Morellonomicon,Giant's Belt,Negatron Cloak,51457,6509,Lane.mid_lane,Role.solo
+7,SKY Fear,Jhin,False,Side.red,0,3,5,1.6666666666666667,127,Flash,Heal,10,False,6338,5675,Doran's Blade,Boots of Swiftness,Cull,Control Ward,Essence Reaver,,547,47121,Lane.bot_lane,Role.carry
+8,Keegun,Rek'Sai,False,Side.red,3,4,1,1.0,97,Smite,Flash,11,False,6434,5950,Enchantment: Cinderhulk,Tiamat,Refillable Potion,Boots of Speed,Jaurim's Fist,Ruby Crystal,13913,60461,Lane.jungle,Role.none
+9,BMGreenleaf,Bard,False,Side.red,0,5,6,1.2,11,Flash,Exhaust,9,False,4822,4750,Eye of the Watchers,Boots of Mobility,Refillable Potion,Forbidden Idol,Ruby Crystal,Control Ward,9633,2914,Lane.bot_lane,Role.support

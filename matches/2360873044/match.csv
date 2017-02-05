@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,procberry,Shyvana,True,Side.blue,11,2,4,7.5,152,Smite,Exhaust,14,False,12408,11225,Dead Man's Plate,Refillable Potion,Titanic Hydra,Ninja Tabi,Enchantment: Bloodrazor,Kindlegem,61330,87561,Lane.jungle,Role.none
+1,Wazabiee,Vayne,True,Side.blue,5,4,10,3.75,196,Heal,Flash,14,False,11341,10000,Infinity Edge,Berserker's Greaves,Doran's Blade,Statikk Shiv,Zeal,Dagger,30377,102204,Lane.bot_lane,Role.carry
+2,Slightly Sexual,Janna,True,Side.blue,0,3,12,4.0,14,Exhaust,Flash,11,False,8584,7875,Eye of the Watchers,Forbidden Idol,Redemption,Ionian Boots of Lucidity,The Dark Seal,Aether Wisp,8722,4199,Lane.bot_lane,Role.support
+3,Best Fiormere NA,Teemo,True,Side.blue,2,3,7,3.0,157,Teleport,Flash,14,False,9533,8635,Doran's Blade,Frozen Mallet,Nashor's Tooth,Boots of Swiftness,Ruby Crystal,Amplifying Tome,53181,42399,Lane.top_lane,Role.solo
+4,o Cero o,Karma,True,Side.blue,4,5,9,2.6,168,Flash,Exhaust,14,False,10299,9200,Doran's Ring,Sorcerer's Shoes,Redemption,Athene's Unholy Grail,Luden's Echo,,82035,17142,Lane.mid_lane,Role.solo
+5,NaVi Juan,Nasus,False,Side.red,2,5,4,1.2,154,Teleport,Flash,13,False,8901,8685,Giant's Belt,Frozen Heart,Cloth Armor,Spirit Visage,Doran's Shield,Ninja Tabi,53648,21233,Lane.top_lane,Role.solo
+6,Dont Keng Wo,Evelynn,False,Side.red,9,6,2,1.8333333333333333,143,Smite,Flash,15,False,10601,10160,Hextech Protobelt-01,Lich Bane,Ionian Boots of Lucidity,The Dark Seal,Enchantment: Runic Echoes,Amplifying Tome,102876,37606,Lane.jungle,Role.none
+7,Míya,Nami,False,Side.red,0,3,9,3.0,10,Exhaust,Flash,11,False,7122,6425,Frost Queen's Claim,Redemption,Sightstone,Boots of Mobility,,,7900,4767,Lane.bot_lane,Role.support
+8,tkDarkSide,Ahri,False,Side.red,2,1,1,3.0,185,Barrier,Flash,14,False,8977,7585,Rod of Ages,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,,56366,19096,Lane.mid_lane,Role.solo
+9,Darmous,Twitch,False,Side.red,4,7,4,1.1428571428571428,183,Flash,Heal,12,True,9462,9400,Infinity Edge,Doran's Blade,Runaan's Hurricane,Zeal,Berserker's Greaves,,2553,97979,Lane.bot_lane,Role.carry

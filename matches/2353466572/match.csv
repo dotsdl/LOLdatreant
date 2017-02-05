@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Unstopebble,Maokai,True,Side.blue,12,3,4,5.333333333333333,180,Flash,Teleport,15,False,13014,10500,Righteous Glory,Zz'Rot Portal,Frozen Heart,Mercury's Treads,Doran's Ring,Kindlegem,82574,22303,Lane.top_lane,Role.solo
+1,Drexe,Vayne,True,Side.blue,8,5,9,3.4,189,Flash,Heal,14,False,12627,12325,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Berserker's Greaves,Brawler's Gloves,Doran's Blade,46038,88017,Lane.bot_lane,Role.carry
+2,OnlyKeoo,Nami,True,Side.blue,1,2,25,13.0,5,Flash,Exhaust,13,False,9681,7500,Ionian Boots of Lucidity,Locket of the Iron Solari,Chalice of Harmony,Eye of the Watchers,Refillable Potion,Forbidden Idol,6184,5210,Lane.bot_lane,Role.support
+3,xRamee,Viktor,True,Side.blue,11,4,8,4.75,190,Ghost,Flash,17,True,13510,13675,Perfect Hex Core,Void Staff,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Abyssal Scepter,,137230,12164,Lane.mid_lane,Role.solo
+4,Danday22,Rek'Sai,True,Side.blue,5,1,20,25.0,210,Smite,Flash,16,False,13753,12425,Enchantment: Cinderhulk,Titanic Hydra,Randuin's Omen,Ninja Tabi,Spectre's Cowl,Kindlegem,48030,143592,Lane.jungle,Role.none
+5,Mr Pinch,Ivern,False,Side.red,3,5,7,2.0,98,Smite,Flash,15,False,9774,8625,Hunter's Talisman,Mejai's Soulstealer,Guardian Angel,Ionian Boots of Lucidity,Athene's Unholy Grail,Needlessly Large Rod,34689,9393,Lane.jungle,Role.none
+6,Bardly Trying,Bard,False,Side.red,1,5,6,1.4,18,Exhaust,Flash,12,False,7668,6700,Eye of the Watchers,Crystalline Bracer,Boots of Mobility,Banner of Command,Total Biscuit of Rejuvenation,,11689,4324,Lane.bot_lane,Role.support
+7,IreliaCarriesMe,Caitlyn,False,Side.red,2,9,5,0.7777777777777778,162,Heal,Flash,13,False,9574,9175,Infinity Edge,Zeal,Runaan's Hurricane,Berserker's Greaves,,,620,102991,Lane.bot_lane,Role.carry
+8,Influxive,Fiora,False,Side.red,5,6,1,1.0,212,Teleport,Flash,15,False,11353,10950,The Black Cleaver,Ravenous Hydra,,Mercury's Treads,Kindlegem,Spectre's Cowl,2470,121462,Lane.top_lane,Role.solo
+9,Suebegedei,Ekko,False,Side.red,4,12,3,0.5833333333333334,167,Ignite,Flash,13,False,9812,9555,Abyssal Scepter,Lich Bane,Fiendish Codex,Doran's Ring,Ionian Boots of Lucidity,Amplifying Tome,93819,18428,Lane.mid_lane,Role.solo

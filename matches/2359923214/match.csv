@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Flavour,Karma,True,Side.blue,4,3,27,10.333333333333334,24,Exhaust,Flash,13,True,10628,9625,Frost Queen's Claim,Redemption,Sightstone,Ionian Boots of Lucidity,Ardent Censer,Blasting Wand,24360,8232,Lane.bot_lane,Role.support
+1,Last Kush Bender,Caitlyn,True,Side.blue,13,2,15,14.0,133,Flash,Heal,13,False,12977,12000,Doran's Blade,Lord Dominik's Regards,Rapid Firecannon,Infinity Edge,Berserker's Greaves,Vampiric Scepter,3038,120353,Lane.bot_lane,Role.carry
+2,DOUCHEBAG MID,Ahri,True,Side.blue,12,4,15,6.75,168,Ignite,Flash,15,False,12918,12210,Blasting Wand,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,Void Staff,69362,16828,Lane.mid_lane,Role.solo
+3,Cerberus3785,Nautilus,True,Side.blue,2,5,15,3.4,143,Teleport,Flash,15,False,10059,9225,Corrupting Potion,Sunfire Cape,Randuin's Omen,Mercury's Treads,Aegis of the Legion,Null-Magic Mantle,70072,19467,Lane.top_lane,Role.solo
+4,I Have Dominated,Graves,True,Side.blue,14,3,15,9.666666666666666,211,Smite,Flash,16,False,15517,14310,Enchantment: Warrior,Chain Vest,Ninja Tabi,Phantom Dancer,The Black Cleaver,The Bloodthirster,9327,208570,Lane.jungle,Role.none
+5,Jakeith,Yasuo,False,Side.red,4,8,3,0.875,197,Exhaust,Flash,14,False,10797,10175,Ninja Tabi,Phantom Dancer,Infinity Edge,Giant's Belt,Jaurim's Fist,Doran's Blade,13053,111004,Lane.mid_lane,Role.solo
+6,Prodigý,Illaoi,False,Side.red,2,8,6,1.0,216,Exhaust,Flash,15,False,11227,10350,Corrupting Potion,Death's Dance,Guardian Angel,Ninja Tabi,Lord Dominik's Regards,,3023,157467,Lane.top_lane,Role.solo
+7,Henta2,Nami,False,Side.red,2,10,7,0.9,14,Flash,Ignite,13,False,8322,8075,Sightstone,Frost Queen's Claim,Redemption,Aegis of the Legion,Null-Magic Mantle,Ionian Boots of Lucidity,10257,4609,Lane.bot_lane,Role.support
+8,Natural 9 Over 8,Jhin,False,Side.red,0,9,9,1.0,188,Heal,Flash,14,False,10302,10125,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Doran's Blade,Cloak of Agility,Pickaxe,14519,118626,Lane.bot_lane,Role.carry
+9,moon o,Elise,False,Side.red,9,10,5,1.4,124,Smite,Flash,14,False,11621,11450,,Rabadon's Deathcap,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Sorcerer's Shoes,,88794,29092,Lane.jungle,Role.none

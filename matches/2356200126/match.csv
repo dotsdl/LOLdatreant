@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Just a Coach,Karma,True,Side.blue,1,3,12,4.333333333333333,7,Flash,Exhaust,11,False,7303,6475,Refillable Potion,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,Control Ward,6642,3898,Lane.bot_lane,Role.support
+1,SmurfShepard,Poppy,True,Side.blue,7,3,1,2.6666666666666665,129,Flash,Teleport,13,False,9221,7850,Corrupting Potion,Doran's Shield,Iceborn Gauntlet,Sunfire Cape,Boots of Speed,Giant's Belt,21600,55086,Lane.top_lane,Role.solo
+2,HugU in the wind,Jhin,True,Side.blue,7,5,4,2.2,134,Flash,Heal,12,False,9680,7400,Doran's Blade,Essence Reaver,Refillable Potion,Berserker's Greaves,Zeal,Kircheis Shard,3007,76962,Lane.bot_lane,Role.carry
+3,Vicktorious,Yasuo,True,Side.blue,8,3,6,4.666666666666667,103,Flash,Smite,12,False,10144,10025,,,Enchantment: Bloodrazor,Phantom Dancer,Infinity Edge,Mercury's Treads,11434,94913,Lane.jungle,Role.none
+4,jyjyjy,Orianna,True,Side.blue,12,3,10,7.333333333333333,196,Flash,Ghost,15,False,12851,9660,Morellonomicon,Luden's Echo,Needlessly Large Rod,Amplifying Tome,Doran's Ring,Sorcerer's Shoes,131933,16919,Lane.mid_lane,Role.solo
+5,twitchtvz4mk4,Kog'Maw,False,Side.red,3,4,5,2.0,105,Heal,Flash,11,False,7543,7000,Blade of the Ruined King,Doran's Blade,Recurve Bow,Boots of Speed,Pickaxe,Blasting Wand,12980,28983,Lane.bot_lane,Role.carry
+6,AtIantis,Cassiopeia,False,Side.red,0,8,5,0.625,104,Flash,Ghost,10,False,6722,5535,Doran's Ring,Total Biscuit of Rejuvenation,Morellonomicon,Tear of the Goddess,Amplifying Tome,,53272,3988,Lane.mid_lane,Role.solo
+7,1234569,Lee Sin,False,Side.red,5,9,1,0.6666666666666666,121,Flash,Smite,12,True,8762,6650,Tiamat,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Caulfield's Warhammer,Ruby Crystal,19405,86290,Lane.jungle,Role.none
+8,Zhico,Bard,False,Side.red,4,9,1,0.5555555555555556,5,Flash,Ignite,9,False,6269,5700,Frost Queen's Claim,Control Ward,Sightstone,Total Biscuit of Rejuvenation,Boots of Mobility,Aegis of the Legion,5603,2031,Lane.bot_lane,Role.support
+9,Oyt,Jayce,False,Side.red,5,5,3,1.6,147,Ignite,Flash,13,False,8653,7100,Doran's Blade,Refillable Potion,The Black Cleaver,Boots of Speed,Mortal Reminder,Long Sword,11926,66144,Lane.top_lane,Role.solo

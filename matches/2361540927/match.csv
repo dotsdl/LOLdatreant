@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,black priest,Nami,True,Side.blue,0,2,12,6.0,8,Exhaust,Flash,11,False,6343,4825,Sightstone,Boots of Mobility,Redemption,Faerie Charm,Spellthief's Edge,Faerie Charm,4665,5558,Lane.bot_lane,Role.support
+1,bu xiang fangqi,Maokai,True,Side.blue,3,4,9,3.0,124,Flash,Teleport,13,False,8357,7150,Righteous Glory,Knight's Vow,,Doran's Ring,Doran's Ring,Ninja Tabi,49789,10722,Lane.top_lane,Role.solo
+2,bolo,Caitlyn,True,Side.blue,10,1,3,13.0,182,Heal,Flash,12,False,11231,9300,Statikk Shiv,Control Ward,Infinity Edge,Berserker's Greaves,Doran's Blade,Zeal,24070,100984,Lane.bot_lane,Role.carry
+3,MQ Galin,Elise,True,Side.blue,6,2,4,5.0,122,Flash,Smite,13,False,9411,7475,Enchantment: Runic Echoes,Rylai's Crystal Scepter,,Null-Magic Mantle,,Ionian Boots of Lucidity,80381,35623,Lane.jungle,Role.none
+4,lost in thoughts,Ryze,True,Side.blue,3,1,8,11.0,175,Flash,Ghost,14,False,9449,8100,Tear of the Goddess,Needlessly Large Rod,Lost Chapter,Quicksilver Sash,Rod of Ages,Ionian Boots of Lucidity,91561,12186,Lane.mid_lane,Role.solo
+5,Whisper,Jhin,False,Side.red,1,7,2,0.42857142857142855,122,Heal,Flash,10,False,6687,5500,Doran's Blade,Essence Reaver,Brawler's Gloves,Boots of Speed,,Cull,628,49687,Lane.bot_lane,Role.carry
+6,Rangito,Fiora,False,Side.red,3,5,3,1.2,149,Flash,Teleport,12,False,7664,7575,The Black Cleaver,Tiamat,Ionian Boots of Lucidity,,Pickaxe,Vampiric Scepter,318,58547,Lane.top_lane,Role.solo
+7,Pëng,Alistar,False,Side.red,0,5,4,0.8,34,Exhaust,Flash,9,False,4824,4725,Boots of Speed,Forbidden Idol,Eye of the Equinox,Crystalline Bracer,Control Ward,Cloth Armor,4670,4178,Lane.bot_lane,Role.support
+8,Griffin1795,Malzahar,False,Side.red,1,4,3,1.0,137,Flash,Ghost,12,False,6664,5960,Morellonomicon,Doran's Ring,Ruby Crystal,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,49728,14961,Lane.mid_lane,Role.solo
+9,Chewy is god,Zac,False,Side.red,5,1,2,7.0,133,Smite,Flash,12,True,7984,7125,Spirit Visage,Refillable Potion,Mercury's Treads,Cloth Armor,,Enchantment: Cinderhulk,78967,12575,Lane.jungle,Role.none

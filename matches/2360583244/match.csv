@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Voglia,Zed,False,Side.blue,1,4,0,0.25,89,Ignite,Flash,9,False,4429,3250,Hexdrinker,Caulfield's Warhammer,Boots of Speed,Long Sword,,,3101,32829,Lane.mid_lane,Role.solo
+1,Pumpfake,Brand,False,Side.blue,0,7,0,0.0,89,Teleport,Flash,9,False,4053,4060,Mejai's Soulstealer,,,Doran's Ring,Doran's Ring,Sorcerer's Shoes,23669,5360,Lane.top_lane,Role.solo
+2,KT Score,Rek'Sai,False,Side.blue,0,1,1,1.0,60,Smite,Flash,8,False,4209,3925,Tiamat,Refillable Potion,Skirmisher's Sabre,Ruby Crystal,Mercury's Treads,,4354,43038,Lane.jungle,Role.none
+3,Ayukura,Karma,False,Side.blue,2,4,1,0.75,8,Flash,Exhaust,7,False,4095,2800,Frostfang,Sightstone,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,,,5486,1861,Lane.bot_lane,Role.support
+4,Never Vote Yes,Tristana,False,Side.blue,0,4,0,0.0,94,Flash,Heal,9,False,4222,3950,Doran's Blade,B. F. Sword,Berserker's Greaves,Dagger,Dagger,Brawler's Gloves,9353,34286,Lane.bot_lane,Role.carry
+5,Garani,Leona,True,Side.red,1,1,8,9.0,21,Ignite,Flash,8,False,5087,4750,Sightstone,Glacial Shroud,Control Ward,Face of the Mountain,Boots of Speed,,5973,7799,Lane.bot_lane,Role.support
+6,Bros0verHoes,Jayce,True,Side.red,9,0,4,13.0,121,Flash,Teleport,12,False,8255,7175,The Black Cleaver,Youmuu's Ghostblade,Ionian Boots of Lucidity,,,,7196,56772,Lane.top_lane,Role.solo
+7,Gorica,Jhin,True,Side.red,4,0,7,11.0,114,Flash,Heal,10,True,7352,7050,Doran's Blade,Infinity Edge,Boots of Swiftness,Zeal,Kircheis Shard,,2150,61536,Lane.bot_lane,Role.carry
+8,TheNotoriousDFG,Udyr,True,Side.red,1,2,6,3.5,43,Ghost,Smite,9,False,5578,5475,Enchantment: Bloodrazor,Refillable Potion,Boots of Swiftness,Giant's Belt,Chain Vest,,19589,21377,Lane.jungle,Role.none
+9,EBG Afrothunder,Ekko,True,Side.red,5,0,3,8.0,87,Teleport,Flash,10,False,6196,5375,Sheen,Hextech Protobelt-01,Control Ward,Doran's Ring,Doran's Ring,Boots of Speed,42897,6845,Lane.mid_lane,Role.solo

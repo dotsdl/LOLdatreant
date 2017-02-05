@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PAX Twisted Fate,Twisted Fate,False,Side.blue,2,6,6,1.3333333333333333,176,Ghost,Flash,13,False,8910,7900,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Doran's Ring,Lich Bane,,91545,12086,Lane.jungle,Role.none
+1,TDK Tr4nce,Bard,False,Side.blue,1,3,9,3.3333333333333335,5,Flash,Exhaust,11,False,6057,4650,Eye of the Watchers,Refillable Potion,,Ionian Boots of Lucidity,Kindlegem,,8225,3098,Lane.bot_lane,Role.support
+2,Jummychu,Twitch,False,Side.blue,3,7,2,0.7142857142857143,151,Flash,Heal,11,False,7743,7325,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Pickaxe,Cloak of Agility,B. F. Sword,0,48096,Lane.bot_lane,Role.carry
+3,TheOddOrange,Kha'Zix,False,Side.blue,5,5,3,1.6,149,Flash,Smite,14,False,9144,7800,Refillable Potion,Youmuu's Ghostblade,Boots of Speed,Enchantment: Warrior,Null-Magic Mantle,B. F. Sword,3834,123583,Lane.jungle,Role.none
+4,Thalies,Katarina,False,Side.blue,5,10,4,0.9,98,Teleport,Flash,12,False,7394,6535,Doran's Shield,,Ninja Tabi,Hextech Gunblade,Amplifying Tome,Ruby Crystal,45212,6451,Lane.top_lane,Role.solo
+5,Natalia Dyer,Riven,True,Side.red,7,4,3,2.5,161,Flash,Teleport,14,False,11167,10725,The Black Cleaver,Refillable Potion,Youmuu's Ghostblade,Control Ward,Mercury's Treads,Edge of Night,0,100921,Lane.top_lane,Role.solo
+6,Finna Lit,Rek'Sai,True,Side.red,9,1,9,18.0,147,Smite,Flash,15,True,12686,11975,Jaurim's Fist,Tiamat,Randuin's Omen,Ninja Tabi,Enchantment: Cinderhulk,Spirit Visage,31099,98840,Lane.jungle,Role.none
+7,KiNG Nidhogg,Nami,True,Side.red,2,5,7,1.8,4,Exhaust,Flash,10,False,8019,6500,Ionian Boots of Lucidity,,Control Ward,Frost Queen's Claim,Sightstone,Locket of the Iron Solari,8308,3640,Lane.bot_lane,Role.support
+8,3in1warrior,Lux,True,Side.red,9,2,8,8.5,191,Flash,Ghost,15,False,13247,9550,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Luden's Echo,Morellonomicon,Needlessly Large Rod,106828,17490,Lane.mid_lane,Role.solo
+9,TwitchTvSysnickl,Miss Fortune,True,Side.red,4,4,4,2.0,169,Heal,Flash,12,False,10518,9425,Berserker's Greaves,Youmuu's Ghostblade,Duskblade of Draktharr,Doran's Blade,Phage,Long Sword,4372,77780,Lane.bot_lane,Role.carry

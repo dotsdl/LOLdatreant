@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Toan Tran,Kalista,True,Side.blue,4,7,11,2.142857142857143,159,Flash,Heal,14,False,11350,9200,Doran's Blade,Quicksilver Sash,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,Total Biscuit of Rejuvenation,787,91895,Lane.bot_lane,Role.carry
+1,Arcminute,Elise,True,Side.blue,5,4,5,2.5,123,Smite,Flash,14,False,10735,9850,Ionian Boots of Lucidity,Refillable Potion,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Zhonya's Hourglass,,85927,27329,Lane.jungle,Role.none
+2,Témpest,Yasuo,True,Side.blue,3,2,8,5.5,62,Flash,Exhaust,13,False,8715,7325,Crystalline Bracer,Frozen Mallet,Phantom Dancer,Boots of Speed,Relic Shield,Faerie Charm,11908,30933,Lane.bot_lane,Role.support
+3,Romanium,Renekton,True,Side.blue,6,4,5,2.75,157,Flash,Ghost,13,False,10748,10050,Caulfield's Warhammer,Blade of the Ruined King,The Black Cleaver,Boots of Swiftness,Long Sword,Pickaxe,2826,100574,Lane.top_lane,Role.solo
+4,Entranced,Swain,True,Side.blue,15,0,3,18.0,197,Teleport,Flash,16,False,14543,10300,Haunting Guise,Zhonya's Hourglass,Rod of Ages,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,116809,18205,Lane.mid_lane,Role.solo
+5,mulgokizary,Lee Sin,False,Side.red,8,7,3,1.5714285714285714,134,Smite,Flash,13,False,9564,9025,Refillable Potion,Enchantment: Warrior,Phage,Maw of Malmortius,Mercury's Treads,Long Sword,22522,97569,Lane.jungle,Role.none
+6,Winter is back,Thresh,False,Side.red,1,7,9,1.4285714285714286,17,Flash,Ignite,11,False,5979,5750,Ruby Crystal,Boots of Mobility,Control Ward,Sightstone,Forbidden Idol,Face of the Mountain,6053,3155,Lane.bot_lane,Role.support
+7,Dhokla,Fiora,False,Side.red,3,7,0,0.42857142857142855,201,Flash,Teleport,14,False,9113,8950,The Black Cleaver,Ravenous Hydra,Mercury's Treads,Doran's Blade,Doran's Blade,,1192,98255,Lane.top_lane,Role.solo
+8,Fragas,Viktor,False,Side.red,3,6,7,1.6666666666666667,155,Flash,Ghost,13,True,8494,8350,Perfect Hex Core,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Blasting Wand,,98510,7511,Lane.mid_lane,Role.solo
+9,rat fink boy,Ezreal,False,Side.red,2,6,4,1.0,161,Heal,Flash,12,False,8215,7683,Ionian Boots of Lucidity,Manamune,Trinity Force,,Doran's Blade,,12718,62164,Lane.bot_lane,Role.carry

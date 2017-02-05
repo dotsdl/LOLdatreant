@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Soulo Q,Karma,True,Side.blue,0,1,17,17.0,9,Exhaust,Flash,11,False,7599,6300,Redemption,Eye of the Watchers,,Boots of Mobility,Forbidden Idol,,14063,6081,Lane.bot_lane,Role.support
+1,Celend,Nasus,True,Side.blue,4,1,6,10.0,250,Flash,Teleport,14,False,10767,8708,Zz'Rot Portal,Ionian Boots of Lucidity,Control Ward,Doran's Ring,Trinity Force,Cloth Armor,107528,53242,Lane.top_lane,Role.solo
+2,cesuna,Shyvana,True,Side.blue,13,1,6,19.0,150,Flash,Smite,14,False,12453,11025,Blade of the Ruined King,Null-Magic Mantle,Mercury's Treads,Enchantment: Bloodrazor,Dead Man's Plate,Ruby Crystal,65384,81838,Lane.jungle,Role.none
+3,TEAMLUKEE,Vayne,True,Side.blue,4,5,6,2.0,115,Heal,Flash,12,True,9023,7675,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Phantom Dancer,,,119,62947,Lane.bot_lane,Role.carry
+4,lost in thoughts,LeBlanc,True,Side.blue,16,3,4,6.666666666666667,153,Flash,Teleport,14,False,12861,11175,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Needlessly Large Rod,Doran's Ring,Mejai's Soulstealer,96542,12140,Lane.mid_lane,Role.solo
+5,fatelin,Caitlyn,False,Side.red,1,13,3,0.3076923076923077,126,Flash,Heal,10,False,6852,6300,Doran's Blade,Infinity Edge,Cull,Recurve Bow,Dagger,Boots of Speed,862,49933,Lane.bot_lane,Role.carry
+6,Stumpey,Braum,False,Side.red,1,5,7,1.6,33,Flash,Exhaust,10,False,5861,5675,Face of the Mountain,Sightstone,Boots of Mobility,Crystalline Bracer,Cloth Armor,Ruby Crystal,8127,6205,Lane.bot_lane,Role.support
+7,Eckenroth,Kha'Zix,False,Side.red,5,8,0,0.625,115,Smite,Flash,11,False,7643,7375,Enchantment: Warrior,Hunter's Potion,Ionian Boots of Lucidity,The Black Cleaver,Long Sword,,2874,73824,Lane.jungle,Role.none
+8,HopOffMyDonger,Katarina,False,Side.red,3,7,1,0.5714285714285714,123,Ignite,Flash,12,False,7057,6435,Refillable Potion,The Dark Seal,Luden's Echo,Giant's Belt,Sorcerer's Shoes,Amplifying Tome,68373,6893,Lane.mid_lane,Role.solo
+9,tonpole,Heimerdinger,False,Side.red,1,4,3,1.0,158,Teleport,Flash,12,False,8088,7575,Frost Queen's Claim,Zz'Rot Portal,Control Ward,Sorcerer's Shoes,The Dark Seal,Giant's Belt,55160,13037,Lane.top_lane,Role.solo

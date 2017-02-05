@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pat the Bunny,Olaf,True,Side.blue,13,3,11,8.0,67,Smite,Ghost,12,True,9821,9525,Randuin's Omen,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Enchantment: Cinderhulk,,11006,59951,Lane.jungle,Role.none
+1,Smartcloud,Braum,True,Side.blue,0,3,19,6.333333333333333,29,Flash,Exhaust,10,False,6578,6175,Control Ward,Knight's Vow,Eye of the Equinox,Boots of Mobility,,,7287,4960,Lane.bot_lane,Role.support
+2,GodMeru,Nautilus,True,Side.blue,10,1,16,26.0,149,Flash,Teleport,14,False,10389,7550,Zz'Rot Portal,,Corrupting Potion,Sunfire Cape,Doran's Ring,Boots of Swiftness,72267,23938,Lane.top_lane,Role.solo
+3,Toll,Vayne,True,Side.blue,11,1,5,16.0,139,Flash,Heal,12,False,10559,7375,Infinity Edge,Statikk Shiv,Boots of Speed,Dagger,,Doran's Blade,10217,70660,Lane.bot_lane,Role.carry
+4,Program,Orianna,True,Side.blue,14,4,8,5.5,124,Ghost,Flash,12,False,10148,9250,Doran's Ring,Rylai's Crystal Scepter,Mejai's Soulstealer,Sorcerer's Shoes,Morellonomicon,,62405,10622,Lane.mid_lane,Role.solo
+5,MiLF,Ezreal,False,Side.red,0,7,0,0.0,112,Flash,Heal,10,False,5677,5025,Manamune,Ionian Boots of Lucidity,Doran's Blade,Total Biscuit of Rejuvenation,Sheen,,8413,41000,Lane.bot_lane,Role.carry
+6,Vchee,Katarina,False,Side.red,5,9,4,1.0,90,Teleport,Flash,11,False,6857,6010,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,Hextech Gunblade,,Refillable Potion,48567,6674,Lane.mid_lane,Role.solo
+7,Burp,Bard,False,Side.red,2,9,4,0.6666666666666666,6,Flash,Ignite,8,False,5191,5075,Frost Queen's Claim,Refillable Potion,Sightstone,Forbidden Idol,Boots of Mobility,Control Ward,9703,4341,Lane.bot_lane,Role.support
+8,My Kat Evolved,Yasuo,False,Side.red,3,10,5,0.8,80,Smite,Flash,10,False,6619,6475,Enchantment: Bloodrazor,Mercury's Treads,Phantom Dancer,,,,15878,46992,Lane.jungle,Role.none
+9,Dø Nøt Chase,Singed,False,Side.red,1,15,3,0.26666666666666666,112,Teleport,Ghost,10,False,5871,5525,Corrupting Potion,Righteous Glory,Boots of Swiftness,The Dark Seal,Spectre's Cowl,,76340,3940,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,23oTbtx5y1planet,Caitlyn,True,Side.blue,10,5,13,4.6,182,Flash,Heal,15,False,13118,12050,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Quicksilver Sash,,1931,133950,Lane.bot_lane,Role.carry
+1,missgabiz,Janna,True,Side.blue,0,8,17,2.125,13,Exhaust,Flash,12,False,8328,7375,Redemption,Talisman of Ascension,Ruby Sightstone,Boots of Mobility,Health Potion,,5683,3632,Lane.bot_lane,Role.support
+2,Unrealseal,Pantheon,True,Side.blue,4,8,4,1.0,168,Ignite,Flash,14,False,11409,10950,Corrupting Potion,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,Guardian Angel,Chain Vest,5607,101059,Lane.top_lane,Role.solo
+3,Heavy Rainbow,Ahri,True,Side.blue,13,5,10,4.6,135,Ignite,Flash,15,False,13125,11350,Rylai's Crystal Scepter,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Fiendish Codex,63580,13338,Lane.jungle,Role.none
+4,TRUMPSSMALLHANDS,Jarvan IV,True,Side.blue,12,6,18,5.0,116,Flash,Smite,16,False,14310,12075,Enchantment: Warrior,Refillable Potion,Locket of the Iron Solari,Mercury's Treads,Dead Man's Plate,The Black Cleaver,6013,129536,Lane.jungle,Role.none
+5,Mooseph,Jhin,False,Side.red,4,9,8,1.3333333333333333,157,Heal,Flash,12,True,10076,9550,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Last Whisper,Long Sword,3785,99606,Lane.bot_lane,Role.solo
+6,Fatboy 11122,Cho'Gath,False,Side.red,3,6,5,1.3333333333333333,186,Teleport,Flash,14,False,10580,10325,Locket of the Iron Solari,Corrupting Potion,Rod of Ages,Fiendish Codex,Zz'Rot Portal,Ionian Boots of Lucidity,79406,22811,Lane.top_lane,Role.solo
+7,Cow Vayne,Lee Sin,False,Side.red,15,8,7,2.75,137,Smite,Flash,14,False,13625,13425,Sterak's Gage,Enchantment: Warrior,The Black Cleaver,Ninja Tabi,Spirit Visage,Pickaxe,33022,103204,Lane.jungle,Role.none
+8,Scholar,Lux,False,Side.red,7,8,11,2.25,179,Barrier,Flash,14,False,11694,11675,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,,103268,15736,Lane.mid_lane,Role.solo
+9,Heizman,Blitzcrank,False,Side.red,3,8,16,2.375,38,Ignite,Flash,12,False,9075,8700,Face of the Mountain,Aegis of the Legion,Boots of Mobility,Sightstone,Null-Magic Mantle,Iceborn Gauntlet,16365,9634,Lane.jungle,Role.none

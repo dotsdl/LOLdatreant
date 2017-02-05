@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dj Sensei,Jarvan IV,True,Side.blue,8,2,11,9.5,156,Smite,Flash,17,False,14996,11650,Enchantment: Warrior,Ravenous Hydra,Cloth Armor,Boots of Swiftness,The Black Cleaver,Giant's Belt,17148,157600,Lane.jungle,Role.none
+1,B Solo Lane B,Viktor,True,Side.blue,8,2,6,7.0,228,Flash,Barrier,17,False,14181,12925,Doran's Ring,Rylai's Crystal Scepter,Perfect Hex Core,Ionian Boots of Lucidity,Rabadon's Deathcap,Blasting Wand,168626,16471,Lane.mid_lane,Role.solo
+2,lolipopmarco,Lucian,True,Side.blue,9,3,3,4.0,233,Flash,Heal,15,False,14316,12200,Berserker's Greaves,Infinity Edge,Essence Reaver,Doran's Blade,Rapid Firecannon,,4446,159078,Lane.bot_lane,Role.carry
+3,Ayalamihs,Sona,True,Side.blue,1,3,17,6.0,6,Flash,Exhaust,14,False,10752,8900,Ninja Tabi,Talisman of Ascension,Locket of the Iron Solari,Sightstone,Athene's Unholy Grail,,10938,6769,Lane.bot_lane,Role.support
+4,InrRa,Yasuo,True,Side.blue,5,6,4,1.5,235,Flash,Exhaust,16,False,13448,11000,Doran's Blade,Berserker's Greaves,Phantom Dancer,Infinity Edge,Frozen Mallet,,33423,124351,Lane.top_lane,Role.solo
+5,SmiIe GG,Olaf,False,Side.red,4,8,2,0.75,218,Exhaust,Ghost,15,False,10463,9850,Doran's Blade,Blade of the Ruined King,Phage,Ninja Tabi,Frozen Mallet,Ruby Crystal,1078,119246,Lane.top_lane,Role.solo
+6,Jeffery zou,Lee Sin,False,Side.red,7,5,5,2.4,151,Flash,Smite,15,True,10760,10275,Enchantment: Warrior,Tiamat,Giant's Belt,Dead Man's Plate,Mercury's Treads,Hexdrinker,23695,97549,Lane.jungle,Role.none
+7,Zixz8,Orianna,False,Side.red,5,7,4,1.2857142857142858,195,Flash,Ghost,14,False,10349,9785,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Amplifying Tome,Blasting Wand,Doran's Ring,98468,12867,Lane.mid_lane,Role.solo
+8,123TL,Jinx,False,Side.red,0,5,8,1.6,207,Heal,Flash,14,False,10158,9650,Doran's Blade,Cull,Zeal,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,991,117870,Lane.bot_lane,Role.carry
+9,Kind Spirit,Janna,False,Side.red,0,6,9,1.5,19,Exhaust,Flash,13,False,7820,7300,Redemption,Eye of the Oasis,Aether Wisp,Cloth Armor,Boots of Mobility,Forbidden Idol,9502,4720,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Just A Newb,Vayne,True,Side.blue,20,3,9,9.666666666666666,177,Heal,Flash,14,False,15314,14450,B. F. Sword,Infinity Edge,Phantom Dancer,Lord Dominik's Regards,Statikk Shiv,Berserker's Greaves,36803,95764,Lane.bot_lane,Role.carry
+1,jicircle,Thresh,True,Side.blue,2,4,25,6.75,15,Exhaust,Flash,13,False,9801,8000,Refillable Potion,Ruby Sightstone,Talisman of Ascension,Ruby Crystal,Ionian Boots of Lucidity,Knight's Vow,12826,5507,Lane.bot_lane,Role.support
+2,ThickResidue,Ahri,True,Side.blue,11,3,12,7.666666666666667,141,Flash,Ignite,14,False,11567,9525,Hextech Protobelt-01,Seeker's Armguard,Sorcerer's Shoes,Fiendish Codex,Doran's Ring,Morellonomicon,54101,12382,Lane.mid_lane,Role.solo
+3,Diablos,Vi,True,Side.blue,6,5,13,3.8,111,Flash,Smite,13,False,10665,9308,Enchantment: Warrior,Trinity Force,Ninja Tabi,,Giant's Belt,Cloth Armor,1519,99633,Lane.jungle,Role.none
+4,Gamma,Rumble,True,Side.blue,5,4,13,4.5,180,Flash,Teleport,15,False,10693,8675,,,Hextech Protobelt-01,Liandry's Torment,Sorcerer's Shoes,Needlessly Large Rod,82938,14150,Lane.top_lane,Role.solo
+5,Ohhlol,Malphite,False,Side.red,2,7,7,1.2857142857142858,144,Flash,Teleport,13,False,9399,9170,Corrupting Potion,Abyssal Scepter,Ninja Tabi,Sunfire Cape,Spectre's Cowl,Negatron Cloak,38337,26401,Lane.top_lane,Role.solo
+6,I Marcus I,Yasuo,False,Side.red,4,10,3,0.7,147,Exhaust,Flash,13,False,9811,9750,Maw of Malmortius,Phantom Dancer,Jaurim's Fist,Giant's Belt,Doran's Blade,Mercury's Treads,20858,64200,Lane.mid_lane,Role.solo
+7,GordanRamsey,Zyra,False,Side.red,1,13,8,0.6923076923076923,11,Flash,Exhaust,11,False,7973,7675,Haunting Guise,Blasting Wand,Boots of Speed,Eye of the Watchers,Locket of the Iron Solari,Total Biscuit of Rejuvenation,28728,5842,Lane.bot_lane,Role.support
+8,TF x HoLy,Jhin,False,Side.red,5,11,4,0.8181818181818182,150,Heal,Flash,12,False,10164,9900,Doran's Blade,Rapid Firecannon,Ionian Boots of Lucidity,Long Sword,Essence Reaver,Last Whisper,4119,81972,Lane.bot_lane,Role.carry
+9,RAUGHS,Lee Sin,False,Side.red,7,3,5,4.0,122,Smite,Flash,15,True,11297,10350,Giant's Belt,Enchantment: Warrior,Hexdrinker,The Black Cleaver,Warden's Mail,Mercury's Treads,24441,101281,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Renrekton,Renekton,False,Side.blue,3,6,10,2.1666666666666665,199,Teleport,Flash,14,False,10817,10070,Tiamat,Ninja Tabi,Sunfire Cape,The Black Cleaver,Negatron Cloak,Chain Vest,23629,99190,Lane.top_lane,Role.solo
+1,IIIIIIIllllII,Caitlyn,False,Side.blue,4,4,9,3.25,266,Heal,Flash,15,False,12751,11300,Doran's Blade,Null-Magic Mantle,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,2300,185938,Lane.bot_lane,Role.carry
+2,Periwinkled,Viktor,False,Side.blue,4,7,12,2.2857142857142856,180,Ghost,Flash,14,False,10941,8835,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,Doran's Ring,Doran's Ring,132495,12848,Lane.mid_lane,Role.solo
+3,GazXX,Lee Sin,False,Side.blue,8,10,9,1.7,81,Flash,Smite,13,False,10847,10150,Dead Man's Plate,Enchantment: Warrior,Tiamat,Ionian Boots of Lucidity,Hexdrinker,Warden's Mail,16453,82086,Lane.jungle,Role.none
+4,Harkonenn,Soraka,False,Side.blue,3,2,15,9.0,17,Exhaust,Flash,12,False,9795,9200,Warmog's Armor,Eye of the Oasis,Redemption,Giant's Belt,Boots of Mobility,,8675,3541,Lane.bot_lane,Role.support
+5,iDetermine,Hecarim,True,Side.red,5,5,10,3.0,146,Ghost,Smite,15,False,12075,11183,Control Ward,Enchantment: Warrior,Trinity Force,Ninja Tabi,Dead Man's Plate,Null-Magic Mantle,12013,141233,Lane.jungle,Role.none
+6,Dokiz,LeBlanc,True,Side.red,6,5,11,3.4,153,Flash,Ignite,15,True,11542,10600,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Morellonomicon,Seeker's Armguard,89533,9378,Lane.mid_lane,Role.solo
+7,ThirdPoint,Thresh,True,Side.red,1,6,21,3.6666666666666665,30,Ignite,Flash,14,False,9311,8675,Knight's Vow,Cloth Armor,Eye of the Equinox,Redemption,Boots of Swiftness,Cloth Armor,10707,4839,Lane.bot_lane,Role.support
+8,KaNKl,Lucian,True,Side.red,14,1,6,20.0,304,Heal,Flash,17,False,17143,16350,The Bloodthirster,Serrated Dirk,Essence Reaver,Statikk Shiv,Berserker's Greaves,Infinity Edge,31910,202455,Lane.bot_lane,Role.carry
+9,theuberone,Kled,True,Side.red,3,5,15,3.6,168,Flash,Teleport,15,False,11459,10075,Doran's Blade,Ravenous Hydra,Boots of Swiftness,The Black Cleaver,Caulfield's Warhammer,Pickaxe,0,98069,Lane.top_lane,Role.solo

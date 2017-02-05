@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Banshee Rush,Soraka,False,Side.blue,0,4,2,0.5,18,Exhaust,Flash,10,False,5834,5125,Redemption,Sightstone,,Control Ward,Ionian Boots of Lucidity,Nomad's Medallion,9560,3629,Lane.bot_lane,Role.support
+1,gLucy,Poppy,False,Side.blue,1,7,1,0.2857142857142857,164,Flash,Teleport,13,False,7510,7200,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,,,16402,53085,Lane.top_lane,Role.solo
+2,Useless Champ,Mordekaiser,False,Side.blue,2,7,1,0.42857142857142855,109,Ignite,Flash,11,True,7013,6250,The Dark Seal,Rylai's Crystal Scepter,Boots of Swiftness,Haunting Guise,,,49089,7477,Lane.mid_lane,Role.solo
+3,BukZacH,Twitch,False,Side.blue,3,2,1,2.0,192,Flash,Heal,13,False,9399,9150,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,Doran's Blade,Berserker's Greaves,Dagger,0,93612,Lane.bot_lane,Role.carry
+4,wiggily420,Elise,False,Side.blue,4,6,3,1.1666666666666667,95,Flash,Smite,11,False,7860,7300,Enchantment: Runic Echoes,Null-Magic Mantle,Giant's Belt,Fiendish Codex,Boots of Mobility,Raptor Cloak,54723,19649,Lane.jungle,Role.none
+5,The Coldshroom,Annie,True,Side.red,1,1,7,8.0,19,Ignite,Flash,11,False,7513,5550,Total Biscuit of Rejuvenation,Boots of Mobility,Eye of the Watchers,Fiendish Codex,Ruby Crystal,Lost Chapter,16638,5209,Lane.bot_lane,Role.support
+6,TwitchChunkylol,Corki,True,Side.red,2,4,5,1.75,136,Heal,Flash,11,False,8623,7933,Bilgewater Cutlass,Trinity Force,Sorcerer's Shoes,Doran's Blade,Hextech Revolver,,47521,20848,Lane.bot_lane,Role.carry
+7,C9 Meteos,Vi,True,Side.red,8,0,3,11.0,156,Smite,Flash,15,False,11819,8408,Enchantment: Warrior,Boots of Speed,Refillable Potion,Trinity Force,Serrated Dirk,Long Sword,2690,177598,Lane.jungle,Role.none
+8,Leagué,Riven,True,Side.red,8,3,5,4.333333333333333,218,Flash,Teleport,15,False,11912,10400,The Black Cleaver,,Guardian Angel,,Ionian Boots of Lucidity,Ravenous Hydra,0,128125,Lane.top_lane,Role.solo
+9,mandatorycloud,Orianna,True,Side.red,7,2,9,8.0,180,Flash,Ghost,14,False,11527,9120,Doran's Ring,Morellonomicon,Doran's Ring,Negatron Cloak,Rylai's Crystal Scepter,Sorcerer's Shoes,101263,15130,Lane.mid_lane,Role.solo

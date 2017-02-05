@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yassuo,Zed,False,Side.blue,8,11,2,0.9090909090909091,150,Flash,Ignite,13,False,9719,9125,Youmuu's Ghostblade,Refillable Potion,Mercury's Treads,The Black Cleaver,B. F. Sword,Long Sword,8617,79066,Lane.jungle,Role.none
+1,Rhux,Dr. Mundo,False,Side.blue,2,6,2,0.6666666666666666,167,Flash,Teleport,12,False,8546,8300,Sunfire Cape,Doran's Shield,Mercury's Treads,Warden's Mail,,Spirit Visage,58079,29794,Lane.top_lane,Role.solo
+2,SKY Fear,Twitch,False,Side.blue,4,4,8,3.0,205,Flash,Heal,13,False,10027,9975,Doran's Blade,Runaan's Hurricane,Infinity Edge,Zeal,Dagger,Berserker's Greaves,532,90921,Lane.bot_lane,Role.carry
+3,Aecinira,Janna,False,Side.blue,1,3,13,4.666666666666667,4,Flash,Exhaust,11,True,6796,6700,Ionian Boots of Lucidity,Ruby Sightstone,Mikael's Crucible,Aegis of the Legion,Ancient Coin,Control Ward,2894,2690,Lane.bot_lane,Role.support
+4,Doublelift,Ivern,False,Side.blue,2,5,9,2.2,86,Flash,Smite,13,False,8546,8025,Redemption,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Athene's Unholy Grail,,13201,4118,Lane.jungle,Role.none
+5,Xpecial,Leona,True,Side.red,1,4,13,3.5,32,Ignite,Flash,12,False,7897,6850,Boots of Mobility,Locket of the Iron Solari,Face of the Mountain,Control Ward,,Sightstone,8360,6615,Lane.bot_lane,Role.support
+6,Easley,Jayce,True,Side.red,8,1,5,13.0,168,Teleport,Flash,14,False,11942,10650,The Black Cleaver,Null-Magic Mantle,Youmuu's Ghostblade,Mercury's Treads,Serrated Dirk,Pickaxe,12547,86805,Lane.top_lane,Role.solo
+7,TheOddOrange,Kha'Zix,True,Side.red,9,4,4,3.25,153,Flash,Smite,15,False,12390,11175,Tiamat,Youmuu's Ghostblade,Duskblade of Draktharr,Ionian Boots of Lucidity,Enchantment: Warrior,,4067,154277,Lane.jungle,Role.none
+8,Wizzy,Kayle,True,Side.red,9,3,4,4.333333333333333,238,Exhaust,Flash,16,False,13558,12350,The Dark Seal,Rabadon's Deathcap,Ionian Boots of Lucidity,Guinsoo's Rageblade,,Nashor's Tooth,118667,51541,Lane.bot_lane,Role.carry
+9,ZatsMod,Morgana,True,Side.red,2,5,16,3.6,167,Flash,Teleport,14,False,10635,10500,Liandry's Torment,Zhonya's Hourglass,Hextech Protobelt-01,,Ionian Boots of Lucidity,,73424,15779,Lane.mid_lane,Role.solo

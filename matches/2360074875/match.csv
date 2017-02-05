@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Contractz,Lee Sin,True,Side.blue,9,1,8,17.0,137,Smite,Flash,15,False,12748,10325,Warden's Mail,Enchantment: Warrior,The Black Cleaver,Spectre's Cowl,Giant's Belt,Mercury's Treads,25090,120852,Lane.jungle,Role.none
+1,Dhokla,Jayce,True,Side.blue,1,3,7,2.6666666666666665,262,Flash,Teleport,16,False,12912,10425,Maw of Malmortius,B. F. Sword,The Black Cleaver,Doran's Blade,Mercury's Treads,Vampiric Scepter,25192,149439,Lane.top_lane,Role.solo
+2,Pocket Rhino,Zyra,True,Side.blue,2,4,12,3.5,42,Flash,Exhaust,13,False,10133,9600,Haunting Guise,Refillable Potion,Eye of the Watchers,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,28971,4571,Lane.bot_lane,Role.duo
+3,CLG Darshawn,Fizz,True,Side.blue,9,4,4,3.25,128,Teleport,Flash,15,False,11433,9950,Seeker's Armguard,Abyssal Scepter,The Dark Seal,Ionian Boots of Lucidity,Lich Bane,Fiendish Codex,53026,19097,Lane.mid_lane,Role.solo
+4,GordanRamsey,Twitch,True,Side.blue,7,4,5,3.0,185,Flash,Heal,14,False,12316,11475,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Pickaxe,320,111540,Lane.bot_lane,Role.duo
+5,Peng Yiliang,Ezreal,False,Side.red,7,7,2,1.2857142857142858,220,Flash,Heal,14,True,11128,10475,Doran's Blade,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,Long Sword,18484,96495,Lane.bot_lane,Role.carry
+6,Rhux,Rumble,False,Side.red,3,4,1,1.0,167,Flash,Teleport,14,False,8657,7625,Liandry's Torment,Doran's Shield,Sorcerer's Shoes,Needlessly Large Rod,Cloth Armor,Giant's Belt,81979,8167,Lane.top_lane,Role.solo
+7,toke dude,Vi,False,Side.red,1,4,2,0.75,156,Smite,Flash,14,False,8930,8375,Enchantment: Warrior,Ninja Tabi,Locket of the Iron Solari,Giant's Belt,Warden's Mail,Cloth Armor,1892,118622,Lane.jungle,Role.none
+8,Cat Ears,Thresh,False,Side.red,0,4,6,1.5,23,Flash,Ignite,9,False,6291,4325,Relic Shield,Ruby Crystal,Sightstone,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,6019,2716,Lane.bot_lane,Role.support
+9,Stixxay,Syndra,False,Side.red,5,9,1,0.6666666666666666,171,Ghost,Flash,14,False,9437,9285,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Morellonomicon,Doran's Ring,Blasting Wand,83967,7893,Lane.mid_lane,Role.solo

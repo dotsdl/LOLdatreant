@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,data88,Nasus,True,Side.blue,1,0,0,1.0,81,Teleport,Flash,9,False,4579,3700,Iceborn Gauntlet,Health Potion,Boots of Speed,Ruby Crystal,,,4928,28144,Lane.top_lane,Role.solo
+1,Master Ahri,Caitlyn,True,Side.blue,1,0,3,4.0,90,Heal,Flash,8,False,5348,1800,Doran's Blade,Health Potion,B. F. Sword,,,,256,35500,Lane.bot_lane,Role.duo
+2,Anthøny,Kha'Zix,True,Side.blue,2,0,1,3.0,51,Smite,Flash,8,True,5019,2550,Stalker's Blade,Refillable Potion,Caulfield's Warhammer,Boots of Speed,,,610,35931,Lane.mid_lane,Role.duo
+3,Hi im Thalies,Katarina,True,Side.blue,3,0,0,3.0,67,Ignite,Flash,8,False,4906,2085,The Dark Seal,,Long Sword,Long Sword,Amplifying Tome,Boots of Speed,27637,5537,Lane.mid_lane,Role.duo
+4,Asrye,Lux,True,Side.blue,1,0,3,4.0,11,Exhaust,Flash,7,False,4376,1200,Spellthief's Edge,,The Dark Seal,Boots of Speed,,,12327,7334,Lane.bot_lane,Role.duo
+5,kt Sofm,Jayce,False,Side.red,0,0,0,0.0,42,Teleport,Flash,6,False,2416,1950,,,,Doran's Blade,Long Sword,Caulfield's Warhammer,1195,10116,Lane.top_lane,Role.solo
+6,Aisonu,Graves,False,Side.red,0,3,0,0.0,43,Flash,Smite,6,False,2925,2575,Skirmisher's Sabre,Refillable Potion,Long Sword,Boots of Speed,Long Sword,Long Sword,1764,29370,Lane.jungle,Role.none
+7,Cant Kilean ,Zilean,False,Side.red,0,3,0,0.0,0,Exhaust,Flash,4,False,1824,925,Control Ward,Boots of Speed,Ancient Coin,,,,928,417,Lane.bot_lane,Role.duo
+8,Reformed Nove,Ashe,False,Side.red,0,1,0,0.0,35,Heal,Flash,5,False,2317,1900,,,,Tear of the Goddess,,,0,9316,Lane.bot_lane,Role.duo
+9,i am clean,Viktor,False,Side.red,0,1,0,0.0,29,Flash,Ghost,5,False,2210,1450,Doran's Ring,Refillable Potion,Boots of Speed,,Doran's Ring,Prototype Hex Core,4603,2426,Lane.mid_lane,Role.solo

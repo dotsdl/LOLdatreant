@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Qkuzi,Bard,True,Side.blue,1,3,16,5.666666666666667,6,Flash,Exhaust,12,False,7285,5250,Control Ward,Sightstone,Redemption,Ruby Crystal,Spellthief's Edge,Boots of Mobility,8709,6652,Lane.bot_lane,Role.support
+1,Ginseng,Jhin,True,Side.blue,10,2,6,8.0,172,Flash,Heal,13,False,11033,7800,Doran's Blade,Rapid Firecannon,Boots of Swiftness,Essence Reaver,,,7506,114090,Lane.bot_lane,Role.carry
+2,KT Score,Ivern,True,Side.blue,9,1,14,23.0,106,Smite,Flash,15,True,11375,7875,Redemption,Refillable Potion,Locket of the Iron Solari,Hunter's Talisman,Athene's Unholy Grail,Ionian Boots of Lucidity,20118,7524,Lane.jungle,Role.none
+3,dog baby,Viktor,True,Side.blue,10,3,11,7.0,138,Flash,Ghost,14,False,11310,10975,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Lich Bane,,78665,9932,Lane.mid_lane,Role.solo
+4,xRamee,Fiora,True,Side.blue,4,4,11,3.75,137,Teleport,Flash,14,False,9423,9550,Ravenous Hydra,The Black Cleaver,Spectre's Cowl,,Ninja Tabi,,5701,78070,Lane.top_lane,Role.solo
+5,Commisioner,Thresh,False,Side.red,1,4,5,1.5,20,Flash,Ignite,10,False,5494,5250,Face of the Mountain,,Ruby Sightstone,Ionian Boots of Lucidity,,,8115,2074,Lane.bot_lane,Role.support
+6,Malya EUW ,Yasuo,False,Side.red,3,7,4,1.0,163,Flash,Teleport,13,False,7952,7400,Doran's Blade,Phantom Dancer,Mercury's Treads,Frozen Mallet,,,5658,78804,Lane.mid_lane,Role.solo
+7,lvernie Sanders,Kindred,False,Side.red,1,7,2,0.42857142857142855,73,Smite,Flash,11,False,6580,6475,Enchantment: Bloodrazor,Refillable Potion,Runaan's Hurricane,Berserker's Greaves,,,1661,79293,Lane.jungle,Role.none
+8,Àce,Lucian,False,Side.red,4,7,2,0.8571428571428571,164,Flash,Heal,12,False,8648,8300,Doran's Blade,Essence Reaver,Phantom Dancer,Berserker's Greaves,Cull,,1650,80174,Lane.bot_lane,Role.carry
+9,ƒaith,Akali,False,Side.red,4,9,3,0.7777777777777778,113,Teleport,Flash,12,False,7235,6460,Hextech Gunblade,Refillable Potion,The Dark Seal,Ninja Tabi,Aether Wisp,Doran's Shield,22041,36904,Lane.top_lane,Role.solo

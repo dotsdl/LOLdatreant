@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UnequaledLegend,Elise,False,Side.blue,1,4,3,1.0,43,Flash,Smite,10,False,5106,3875,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,,,,25159,10210,Lane.jungle,Role.none
+1,PauseNow,Ziggs,False,Side.blue,2,6,0,0.3333333333333333,129,Barrier,Flash,11,False,6156,4935,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,,,56921,7714,Lane.mid_lane,Role.solo
+2,Asian GirI,Lucian,False,Side.blue,1,12,1,0.16666666666666666,88,Flash,Ghost,10,False,5189,5175,Doran's Blade,Ionian Boots of Lucidity,,Caulfield's Warhammer,Pickaxe,Vampiric Scepter,1250,35975,Lane.top_lane,Role.solo
+3,Outclass,Leona,False,Side.blue,0,10,2,0.2,15,Ignite,Flash,8,False,4114,3575,Relic Shield,Boots of Mobility,Sightstone,B. F. Sword,,,5266,7658,Lane.jungle,Role.none
+4,IM IgNar,Miss Fortune,False,Side.blue,2,7,2,0.5714285714285714,106,Heal,Flash,10,False,5888,5225,Doran's Blade,Cull,Essence Reaver,,Boots of Speed,,5172,42383,Lane.bot_lane,Role.solo
+5,thekilerone,Brand,True,Side.red,13,0,6,19.0,16,Exhaust,Flash,11,False,9067,7485,Frostfang,Rylai's Crystal Scepter,Sightstone,Lost Chapter,Sorcerer's Shoes,Amplifying Tome,23213,6417,Lane.bot_lane,Role.support
+6,PGset,Yasuo,True,Side.red,9,2,7,8.0,111,Ignite,Flash,11,False,8737,8575,Infinity Edge,Long Sword,Berserker's Greaves,Phantom Dancer,,Doran's Blade,16644,58170,Lane.mid_lane,Role.solo
+7,NikuNikuNii,Ashe,True,Side.red,0,2,15,7.5,140,Heal,Flash,12,False,8848,8700,Berserker's Greaves,Doran's Blade,Dagger,Runaan's Hurricane,Dagger,Infinity Edge,1146,81050,Lane.bot_lane,Role.carry
+8,Vanilla Chan,Tryndamere,True,Side.red,6,3,6,4.0,155,Flash,Ignite,12,False,9849,9400,Zeal,Blade of the Ruined King,Kircheis Shard,Control Ward,Phantom Dancer,Berserker's Greaves,72,95337,Lane.top_lane,Role.solo
+9,KitingYeezus,Vi,True,Side.red,11,0,8,19.0,74,Flash,Smite,12,True,9681,8308,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Trinity Force,Ruby Crystal,Cloth Armor,1991,80027,Lane.jungle,Role.none

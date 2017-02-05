@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xzevz,Lee Sin,False,Side.blue,7,8,5,1.5,98,Smite,Flash,13,False,9624,9175,Boots of Speed,Dead Man's Plate,Cloth Armor,Youmuu's Ghostblade,Enchantment: Warrior,,17966,79044,Lane.jungle,Role.none
+1,Myloo,Jhin,False,Side.blue,5,4,3,2.0,219,Flash,Heal,13,False,10584,10150,Boots of Swiftness,Essence Reaver,Rapid Firecannon,B. F. Sword,Pickaxe,Doran's Blade,6196,117772,Lane.bot_lane,Role.carry
+2,Vathyrn,Rengar,False,Side.blue,9,7,1,1.4285714285714286,181,Flash,Exhaust,13,False,10494,10250,Caulfield's Warhammer,Youmuu's Ghostblade,Ravenous Hydra,Phage,,Ninja Tabi,7104,98788,Lane.top_lane,Role.solo
+3,WT Spectator,Orianna,False,Side.blue,0,8,10,1.25,151,Flash,Ghost,13,False,8893,8360,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,,67307,12089,Lane.mid_lane,Role.solo
+4,zz cicero,Poppy,False,Side.blue,4,4,8,3.0,41,Ignite,Flash,11,True,8076,7700,Aegis of the Legion,Eye of the Equinox,Dead Man's Plate,,Boots of Mobility,,1640,21575,Lane.bot_lane,Role.support
+5,The Eggsalad,Vel'Koz,True,Side.red,1,5,7,1.6,29,Exhaust,Flash,13,False,8304,7600,Frostfang,,Sorcerer's Shoes,Sightstone,Liandry's Torment,Blasting Wand,23437,4805,Lane.bot_lane,Role.support
+6,Natalia Dyer,Riven,True,Side.red,13,6,5,3.0,106,Flash,Smite,16,False,13262,12725,Titanic Hydra,Refillable Potion,Ninja Tabi,Enchantment: Warrior,The Black Cleaver,Jaurim's Fist,1444,110266,Lane.jungle,Role.none
+7,Témpest,Katarina,True,Side.red,10,7,6,2.2857142857142856,141,Flash,Ignite,15,False,11752,10675,Hextech Gunblade,Rylai's Crystal Scepter,Blasting Wand,The Dark Seal,Sorcerer's Shoes,Needlessly Large Rod,85724,10891,Lane.mid_lane,Role.solo
+8,NoOb NeVeR trolL,Fiora,True,Side.red,3,3,7,3.3333333333333335,181,Flash,Teleport,15,False,11350,9625,Ravenous Hydra,The Black Cleaver,Ninja Tabi,Glacial Shroud,Doran's Blade,Sapphire Crystal,488,85912,Lane.top_lane,Role.solo
+9,xFSN Saber,Twitch,True,Side.red,4,4,3,1.75,209,Heal,Flash,15,False,10935,9750,Doran's Blade,Blade of the Ruined King,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Cloak of Agility,199,112965,Lane.bot_lane,Role.carry

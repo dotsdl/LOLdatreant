@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,O BURNNN,Ryze,False,Side.blue,1,3,6,2.3333333333333335,208,Teleport,Flash,15,False,9787,8485,Ionian Boots of Lucidity,Rod of Ages,Seraph's Embrace,Blasting Wand,Amplifying Tome,,131725,10253,Lane.top_lane,Role.solo
+1,Griffin1795,LeBlanc,False,Side.blue,5,9,2,0.7777777777777778,140,Flash,Teleport,13,False,8892,8775,Doran's Ring,The Dark Seal,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,,81319,8441,Lane.mid_lane,Role.solo
+2,MrDING,Xin Zhao,False,Side.blue,6,6,2,1.3333333333333333,134,Smite,Flash,14,False,9638,9408,Enchantment: Bloodrazor,Trinity Force,Ninja Tabi,Giant's Belt,Chain Vest,,11764,105153,Lane.jungle,Role.none
+3,Hanjaro,Jhin,False,Side.blue,5,4,3,2.0,218,Flash,Heal,14,False,10357,9750,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,Last Whisper,11091,127857,Lane.bot_lane,Role.carry
+4,3eon,Nami,False,Side.blue,1,3,9,3.3333333333333335,15,Flash,Exhaust,11,False,7522,7075,Eye of the Oasis,Ionian Boots of Lucidity,Redemption,Chalice of Harmony,Forbidden Idol,,8431,3189,Lane.bot_lane,Role.support
+5,ELISE Ya Tried,Vayne,True,Side.red,2,2,2,2.0,224,Heal,Flash,14,False,11791,9725,Quicksilver Sash,Statikk Shiv,Infinity Edge,Berserker's Greaves,Long Sword,,21675,109422,Lane.bot_lane,Role.carry
+6,Cotopaco Parce,Gangplank,True,Side.red,3,3,12,5.0,252,Teleport,Flash,17,False,14700,10833,Trinity Force,Mercury's Treads,Corrupting Potion,Maw of Malmortius,B. F. Sword,Pickaxe,13863,201155,Lane.top_lane,Role.solo
+7,Simon Hawkes,Zyra,True,Side.red,4,5,5,1.8,30,Exhaust,Flash,12,False,10723,8810,Control Ward,Eye of the Watchers,Amplifying Tome,Needlessly Large Rod,Liandry's Torment,Boots of Mobility,33222,9280,Lane.bot_lane,Role.support
+8,ChriShin,Lee Sin,True,Side.red,14,4,5,4.75,91,Smite,Flash,15,True,13120,10850,Enchantment: Warrior,Long Sword,Mercury's Treads,Dead Man's Plate,Guardian Angel,Phage,18075,82731,Lane.jungle,Role.none
+9,Anti Contagion,Vladimir,True,Side.red,2,4,10,3.0,189,Flash,Ghost,15,False,11454,9295,Ionian Boots of Lucidity,Hextech Protobelt-01,Negatron Cloak,Spirit Visage,Seeker's Armguard,Fiendish Codex,104125,15414,Lane.mid_lane,Role.solo

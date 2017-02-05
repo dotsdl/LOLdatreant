@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tehpwner188,Tristana,True,Side.blue,12,4,11,5.75,200,Heal,Flash,15,False,15062,12150,Doran's Blade,Hexdrinker,Rapid Firecannon,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,25118,128893,Lane.bot_lane,Role.carry
+1,Mitia Karamazov,Kayle,True,Side.blue,2,6,7,1.5,168,Flash,Teleport,15,False,10775,9025,Nashor's Tooth,Guinsoo's Rageblade,Berserker's Greaves,Doran's Ring,,,77829,31004,Lane.mid_lane,Role.solo
+2,Nwok,Zac,True,Side.blue,7,2,14,10.5,135,Flash,Smite,16,False,12515,11825,Enchantment: Cinderhulk,Randuin's Omen,Guardian Angel,Warmog's Armor,Ionian Boots of Lucidity,,117166,21734,Lane.jungle,Role.none
+3,Ikzencriel,Jax,True,Side.blue,9,4,4,3.25,226,Teleport,Flash,16,False,13233,11583,Caulfield's Warhammer,Doran's Shield,Hextech Gunblade,Trinity Force,Ninja Tabi,Hexdrinker,38439,93619,Lane.top_lane,Role.solo
+4,Pumpfake,Morgana,True,Side.blue,3,5,23,5.2,19,Exhaust,Flash,14,False,10771,7575,Ruby Sightstone,Frost Queen's Claim,Locket of the Iron Solari,Boots of Mobility,,Control Ward,16743,5721,Lane.bot_lane,Role.support
+5,1deag,Alistar,False,Side.red,0,7,6,0.8571428571428571,26,Exhaust,Flash,11,False,6223,5650,Ruby Sightstone,Locket of the Iron Solari,Control Ward,Boots of Mobility,Relic Shield,,6180,3531,Lane.bot_lane,Role.support
+6,7788 ADC,Jayce,False,Side.red,2,5,2,0.8,168,Teleport,Flash,13,False,8701,8550,The Black Cleaver,Doran's Blade,Serrated Dirk,Ionian Boots of Lucidity,Sterak's Gage,,5512,77742,Lane.top_lane,Role.solo
+7,FrozenNight,Hecarim,False,Side.red,5,5,4,1.8,145,Ghost,Smite,14,True,9856,9308,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Trinity Force,Cloth Armor,Giant's Belt,15427,110924,Lane.jungle,Role.none
+8,STR Tyler1,Draven,False,Side.red,5,6,3,1.3333333333333333,224,Heal,Flash,15,False,11682,10525,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,Statikk Shiv,,2040,142935,Lane.bot_lane,Role.carry
+9,TEAMLUKEE,Fizz,False,Side.red,9,10,2,1.1,150,Ignite,Flash,14,False,10078,8750,Corrupting Potion,Lich Bane,The Dark Seal,Rabadon's Deathcap,Ionian Boots of Lucidity,,65993,25331,Lane.mid_lane,Role.solo

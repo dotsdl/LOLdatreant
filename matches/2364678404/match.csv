@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jadsbutt,Twitch,False,Side.blue,1,4,0,0.25,84,Flash,Heal,8,False,4919,4375,Pickaxe,B. F. Sword,Berserker's Greaves,Doran's Blade,Cull,,0,30050,Lane.bot_lane,Role.carry
+1,Nero Valentine,Twisted Fate,False,Side.blue,0,6,2,0.3333333333333333,14,Exhaust,Flash,8,False,4289,3325,Frost Queen's Claim,Refillable Potion,Boots of Mobility,,,,16681,3530,Lane.bot_lane,Role.support
+2,mayoung10,Swain,False,Side.blue,0,8,3,0.375,90,Ghost,Flash,9,False,4951,4000,Doran's Ring,The Dark Seal,Refillable Potion,Rod of Ages,Boots of Speed,,34169,6542,Lane.mid_lane,Role.solo
+3,        sadhguru,Shaco,False,Side.blue,2,5,2,0.8,88,Flash,Smite,10,False,5854,5175,Hunter's Potion,Enchantment: Runic Echoes,Sorcerer's Shoes,Hextech Revolver,,,28791,35845,Lane.jungle,Role.none
+4,Sînner,Riven,False,Side.blue,2,0,0,2.0,138,Flash,Teleport,12,False,6450,5150,Refillable Potion,The Black Cleaver,Caulfield's Warhammer,Boots of Speed,Long Sword,,0,54596,Lane.top_lane,Role.solo
+5,SSG mindless,Nami,True,Side.red,1,1,13,14.0,9,Exhaust,Flash,9,False,5943,5025,Forbidden Idol,Control Ward,Crystalline Bracer,Ionian Boots of Lucidity,,Eye of the Watchers,4740,5987,Lane.bot_lane,Role.support
+6,DumPooPoo,Lucian,True,Side.red,3,1,2,5.0,126,Heal,Flash,10,False,7163,6650,Doran's Blade,The Black Cleaver,Berserker's Greaves,B. F. Sword,Cull,,3001,54475,Lane.bot_lane,Role.carry
+7,Locke Lamora,Ahri,True,Side.red,4,1,8,12.0,126,Ignite,Flash,11,False,7709,6810,Morellonomicon,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,37046,13713,Lane.mid_lane,Role.solo
+8,Darvec,Hecarim,True,Side.red,10,1,5,15.0,79,Smite,Ghost,11,True,8966,8133,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,,Ruby Crystal,9708,68450,Lane.jungle,Role.none
+9,Kyree,Ekko,True,Side.red,5,1,5,10.0,106,Flash,Ignite,11,False,7177,6175,Sheen,Corrupting Potion,Hextech Gunblade,Boots of Speed,Blasting Wand,,47822,10132,Lane.top_lane,Role.solo

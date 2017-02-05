@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Michael Kwok,Caitlyn,False,Side.blue,0,5,1,0.2,121,Heal,Flash,9,False,5462,5175,Pickaxe,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,,,480,46517,Lane.bot_lane,Role.carry
+1,Evangelion,Nautilus,False,Side.blue,3,5,0,0.6,112,Flash,Teleport,11,False,5897,5525,Corrupting Potion,Doran's Ring,Sunfire Cape,Cloth Armor,Boots of Speed,Sheen,35024,14835,Lane.top_lane,Role.solo
+2,Im Axiom,Zilean,False,Side.blue,0,7,1,0.14285714285714285,34,Flash,Ignite,9,False,4853,4785,Frost Queen's Claim,Refillable Potion,Sorcerer's Shoes,Fiendish Codex,Amplifying Tome,,24341,4805,Lane.bot_lane,Role.support
+3,SaReNu,Viktor,False,Side.blue,1,6,1,0.3333333333333333,142,Ghost,Flash,12,False,6144,5935,Needlessly Large Rod,Amplifying Tome,Doran's Ring,,Boots of Speed,Perfect Hex Core,55690,8149,Lane.mid_lane,Role.solo
+4,Sasuni,Shyvana,False,Side.blue,2,2,3,2.5,147,Smite,Exhaust,12,False,7445,7325,Dead Man's Plate,Refillable Potion,Ninja Tabi,Ruby Crystal,,Enchantment: Bloodrazor,59280,45219,Lane.jungle,Role.none
+5,0 K A Y B O Y S,Nasus,True,Side.red,1,2,6,3.5,144,Flash,Teleport,12,False,7741,7180,Corrupting Potion,Zz'Rot Portal,The Dark Seal,Sheen,Ruby Crystal,Mercury's Treads,47477,21017,Lane.top_lane,Role.solo
+6,ityyy,Lee Sin,True,Side.red,11,0,8,19.0,77,Flash,Smite,13,True,9790,8775,Phage,Refillable Potion,Titanic Hydra,Enchantment: Warrior,Mercury's Treads,Control Ward,16679,70530,Lane.jungle,Role.none
+7,Pro Dwarf Female,Miss Fortune,True,Side.red,0,3,9,3.0,41,Flash,Ignite,10,False,7631,6350,Refillable Potion,Eye of the Watchers,Tear of the Goddess,Boots of Swiftness,Caulfield's Warhammer,Phage,18286,16476,Lane.bot_lane,Role.support
+8,Tbonzz,LeBlanc,True,Side.red,8,1,5,13.0,125,Teleport,Flash,12,False,8627,7075,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,Needlessly Large Rod,Blasting Wand,54720,10726,Lane.mid_lane,Role.solo
+9,Beyoutiful,Ezreal,True,Side.red,5,0,5,10.0,136,Heal,Flash,11,False,8424,7575,Doran's Blade,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,,,7280,66362,Lane.bot_lane,Role.carry

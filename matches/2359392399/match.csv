@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rohammers,Ekko,True,Side.blue,9,7,10,2.7142857142857144,153,Teleport,Flash,15,False,11748,11100,Hextech Protobelt-01,Zhonya's Hourglass,The Dark Seal,Control Ward,Lich Bane,Ninja Tabi,102201,15418,Lane.top_lane,Role.solo
+1,GodXxXJJ,Lucian,True,Side.blue,7,9,3,1.1111111111111112,170,Flash,Heal,13,False,11549,9800,Essence Reaver,Cull,Berserker's Greaves,Rapid Firecannon,Doran's Blade,B. F. Sword,2742,94357,Lane.bot_lane,Role.carry
+2,McCashDollar,Shaco,True,Side.blue,14,4,19,8.25,52,Ignite,Smite,15,False,12702,9685,Enchantment: Runic Echoes,Hextech Gunblade,Giant's Belt,The Dark Seal,Ionian Boots of Lucidity,Sheen,57380,33908,Lane.jungle,Role.none
+3,TwitchChunkylol,Kled,True,Side.blue,14,3,14,9.333333333333334,157,Ignite,Flash,15,False,13658,13650,Ravenous Hydra,Sterak's Gage,Guardian Angel,Ninja Tabi,The Black Cleaver,,0,104487,Lane.mid_lane,Role.solo
+4,S Diana 2,Blitzcrank,True,Side.blue,6,7,17,3.2857142857142856,32,Ignite,Flash,14,False,9651,7675,Face of the Mountain,Iceborn Gauntlet,Sightstone,Ionian Boots of Lucidity,Control Ward,Chain Vest,13668,8307,Lane.bot_lane,Role.support
+5,N810HO,Vayne,False,Side.red,7,10,3,1.0,205,Flash,Heal,14,False,11998,11680,Berserker's Greaves,Vampiric Scepter,Doran's Blade,Infinity Edge,Statikk Shiv,Phantom Dancer,43691,84500,Lane.bot_lane,Role.carry
+6,Walljumper,Shyvana,False,Side.red,4,9,9,1.4444444444444444,126,Smite,Ghost,14,False,10280,8808,Enchantment: Bloodrazor,Refillable Potion,Ninja Tabi,Trinity Force,Spectre's Cowl,,67607,64384,Lane.jungle,Role.none
+7,Révenge,Jayce,False,Side.red,13,10,3,1.6,145,Teleport,Flash,14,False,11772,10875,The Black Cleaver,Refillable Potion,Maw of Malmortius,Mercury's Treads,Lord Dominik's Regards,Long Sword,18322,91603,Lane.top_lane,Role.solo
+8,Dna shockwave,Bard,False,Side.red,4,11,8,1.0909090909090908,15,Exhaust,Flash,11,False,8690,6700,Eye of the Watchers,Redemption,Aegis of the Legion,Boots of Mobility,,,16582,6036,Lane.bot_lane,Role.support
+9,Command Attack,Orianna,False,Side.red,2,10,6,0.8,171,Ghost,Flash,14,True,9689,8900,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,,,93656,10257,Lane.mid_lane,Role.solo

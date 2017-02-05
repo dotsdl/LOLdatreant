@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hi Mikey,Vi,False,Side.blue,7,6,5,2.0,159,Smite,Flash,14,False,10595,9608,Refillable Potion,Trinity Force,Ninja Tabi,Enchantment: Warrior,Giant's Belt,Warden's Mail,2257,127812,Lane.jungle,Role.none
+1,Jenlain,Twitch,False,Side.blue,1,7,6,1.0,159,Flash,Heal,12,False,8828,8175,Doran's Blade,Recurve Bow,Berserker's Greaves,Infinity Edge,Total Biscuit of Rejuvenation,Zeal,416,63569,Lane.bot_lane,Role.carry
+2,Rulesofgods,Nami,False,Side.blue,3,4,11,3.5,11,Ignite,Flash,12,False,7284,6925,Sightstone,Redemption,Banshee's Veil,Spellthief's Edge,Boots of Mobility,,8817,3760,Lane.bot_lane,Role.support
+3,Iake,Malphite,False,Side.blue,3,4,5,2.0,182,Flash,Teleport,14,False,9230,8325,Ionian Boots of Lucidity,Thornmail,Kindlegem,Doran's Ring,Doran's Ring,Sunfire Cape,65929,22462,Lane.top_lane,Role.solo
+4,Give me jg pls,Viktor,False,Side.blue,2,4,3,1.25,199,Ghost,Flash,14,False,9373,9350,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,The Dark Seal,Rylai's Crystal Scepter,,122359,9806,Lane.mid_lane,Role.solo
+5,ShukriChiu,Fiora,True,Side.red,4,3,4,2.6666666666666665,205,Ghost,Teleport,15,False,11807,10508,Ravenous Hydra,Mercury's Treads,Doran's Blade,Doran's Blade,Trinity Force,Caulfield's Warhammer,4318,122417,Lane.top_lane,Role.solo
+6,AyaLynn,Sona,True,Side.red,6,5,11,3.4,18,Exhaust,Flash,13,False,11035,9800,Kindlegem,Lich Bane,Athene's Unholy Grail,Frostfang,Mejai's Soulstealer,Sorcerer's Shoes,31885,11847,Lane.bot_lane,Role.support
+7,Chuuper,LeBlanc,True,Side.red,6,1,6,12.0,216,Flash,Ignite,16,False,12944,12025,Rabadon's Deathcap,Morellonomicon,Void Staff,Blasting Wand,Doran's Ring,Sorcerer's Shoes,112030,15587,Lane.mid_lane,Role.solo
+8,TRUMPSSMALLHANDS,Ezreal,True,Side.red,7,4,11,4.5,188,Flash,Heal,15,True,14451,13783,Giant Slayer,Blade of the Ruined King,Trinity Force,Muramana,Ionian Boots of Lucidity,Last Whisper,20782,137035,Lane.bot_lane,Role.carry
+9,Trial of Grasses,Jax,True,Side.red,2,3,0,0.6666666666666666,153,Flash,Smite,14,False,11070,10483,Enchantment: Bloodrazor,Boots of Swiftness,Trinity Force,Sterak's Gage,Ruby Crystal,,32815,117113,Lane.jungle,Role.none

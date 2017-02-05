@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwitchChunkylol,Kled,False,Side.blue,0,8,5,0.625,186,Ignite,Flash,13,False,9552,9550,Ravenous Hydra,The Black Cleaver,Ninja Tabi,Jaurim's Fist,Long Sword,,0,87841,Lane.top_lane,Role.solo
+1,TheOddOrange,Ezreal,False,Side.blue,4,9,4,0.8888888888888888,185,Flash,Heal,13,False,10490,8575,,Bilgewater Cutlass,Muramana,Iceborn Gauntlet,Doran's Blade,Ionian Boots of Lucidity,21732,79322,Lane.bot_lane,Role.carry
+2,TszHin OvO,Viktor,False,Side.blue,6,4,1,1.75,253,Heal,Flash,16,False,11960,12350,Perfect Hex Core,Doran's Ring,Rabadon's Deathcap,Ionian Boots of Lucidity,,Rylai's Crystal Scepter,143527,10946,Lane.mid_lane,Role.solo
+3,aphromoo,Lux,False,Side.blue,2,7,6,1.1428571428571428,23,Ignite,Flash,10,False,8031,7850,Eye of the Watchers,Total Biscuit of Rejuvenation,Rabadon's Deathcap,Control Ward,Ionian Boots of Lucidity,,14653,5024,Lane.bot_lane,Role.support
+4,Gweiss,Graves,False,Side.blue,3,9,3,0.6666666666666666,168,Smite,Flash,14,False,10274,9400,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Phantom Dancer,Berserker's Greaves,,4187,140411,Lane.jungle,Role.none
+5,KarasMai,Pantheon,True,Side.red,13,1,6,19.0,240,Flash,Smite,16,False,14522,13475,Dead Man's Plate,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Guardian Angel,Mercury's Treads,5716,156156,Lane.top_lane,Role.solo
+6,Green Awakening,Lee Sin,True,Side.red,9,5,8,3.4,102,Flash,Smite,14,False,11245,10045,Negatron Cloak,Tiamat,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,16386,102592,Lane.jungle,Role.none
+7,COME BACK STRONG,Xerath,True,Side.red,0,3,6,2.0,227,Ghost,Flash,15,False,10647,9000,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,,Doran's Ring,Doran's Ring,140465,8523,Lane.mid_lane,Role.solo
+8,Teesum,Karma,True,Side.red,3,2,18,10.5,8,Exhaust,Flash,13,False,9147,8300,Redemption,Ruby Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Frostfang,Control Ward,8892,5345,Lane.bot_lane,Role.support
+9,Str1fe,Vayne,True,Side.red,12,4,10,5.5,226,Flash,Heal,16,True,13663,12700,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Statikk Shiv,Phantom Dancer,Hexdrinker,29992,118498,Lane.bot_lane,Role.carry

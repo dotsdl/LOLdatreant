@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jindog,Sona,True,Side.blue,3,5,20,4.6,8,Exhaust,Flash,12,False,8798,8075,Redemption,Eye of the Watchers,,Mikael's Crucible,,Mercury's Treads,8450,4017,Lane.bot_lane,Role.support
+1,Libzz,Kassadin,True,Side.blue,12,4,13,6.25,104,Flash,Teleport,14,False,11599,10675,Rod of Ages,Corrupting Potion,Sorcerer's Shoes,Lich Bane,Void Staff,Cloth Armor,54524,13164,Lane.mid_lane,Role.solo
+2,Scrambled Egggs,Hecarim,True,Side.blue,10,5,11,4.2,129,Ghost,Smite,15,False,12041,11008,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Boots of Swiftness,Spirit Visage,Chain Vest,19250,103543,Lane.jungle,Role.none
+3,Sanctus,Kled,True,Side.blue,7,1,16,23.0,212,Flash,Teleport,16,False,12358,11575,Doran's Blade,Titanic Hydra,Spirit Visage,The Black Cleaver,Cloth Armor,Ninja Tabi,172,130472,Lane.top_lane,Role.solo
+4,Honi,Caitlyn,True,Side.blue,1,11,9,0.9090909090909091,209,Flash,Heal,14,False,10440,9375,,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Zeal,1293,134387,Lane.bot_lane,Role.carry
+5,Vinhdo,Olaf,False,Side.red,5,7,11,2.2857142857142856,106,Flash,Smite,13,True,10278,9650,Enchantment: Cinderhulk,,Sterak's Gage,Dead Man's Plate,Ionian Boots of Lucidity,Ruby Crystal,23657,83187,Lane.jungle,Role.none
+6,IQ is 201 ,Thresh,False,Side.red,3,5,11,2.8,47,Flash,Ignite,11,False,8289,7800,Sightstone,Locket of the Iron Solari,Face of the Mountain,Control Ward,Boots of Mobility,Crystalline Bracer,11211,5478,Lane.bot_lane,Role.support
+7,Turazrok,Diana,False,Side.red,7,7,2,1.2857142857142858,204,Flash,Teleport,15,False,11264,9950,Doran's Ring,Zhonya's Hourglass,Blasting Wand,Sorcerer's Shoes,Abyssal Scepter,Needlessly Large Rod,113978,20243,Lane.top_lane,Role.solo
+8,DrChang,Cassiopeia,False,Side.red,2,8,6,1.0,185,Flash,Ghost,14,False,10422,10225,Doran's Ring,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,Abyssal Scepter,,115812,11895,Lane.mid_lane,Role.solo
+9,RockyTSaws,Lucian,False,Side.red,9,6,6,2.5,186,Heal,Flash,14,False,13156,13050,Doran's Blade,The Bloodthirster,Statikk Shiv,Berserker's Greaves,Infinity Edge,Pickaxe,17226,121576,Lane.bot_lane,Role.carry

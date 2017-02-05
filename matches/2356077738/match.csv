@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cotopaco Parce,Ryze,True,Side.blue,7,3,8,5.0,220,Ghost,Flash,16,False,13363,11225,Needlessly Large Rod,Rod of Ages,Refillable Potion,Morellonomicon,Ionian Boots of Lucidity,Seraph's Embrace,176109,13498,Lane.mid_lane,Role.solo
+1,MythoIogy,Poppy,True,Side.blue,4,2,4,4.0,207,Teleport,Flash,16,False,11782,9525,Sunfire Cape,Mercury's Treads,Control Ward,Iceborn Gauntlet,Thornmail,,45840,81214,Lane.top_lane,Role.solo
+2,Miyuriha,Twitch,True,Side.blue,4,6,3,1.1666666666666667,160,Heal,Flash,14,False,11481,9775,Doran's Blade,Infinity Edge,Runaan's Hurricane,Cull,Zeal,Berserker's Greaves,1195,95776,Lane.bot_lane,Role.carry
+3,sangydoge,Graves,True,Side.blue,10,3,6,5.333333333333333,168,Flash,Smite,15,False,13477,11120,Enchantment: Warrior,The Black Cleaver,Chain Vest,Phantom Dancer,Negatron Cloak,Berserker's Greaves,4527,166737,Lane.jungle,Role.none
+4,Swirl,Lulu,True,Side.blue,2,4,10,3.0,32,Exhaust,Flash,12,False,9390,8000,Redemption,Ruby Sightstone,Mikael's Crucible,Ionian Boots of Lucidity,Frostfang,,18310,7628,Lane.bot_lane,Role.support
+5,Sefciuc,Nami,False,Side.red,1,4,10,2.75,5,Exhaust,Flash,12,False,7521,6425,Mercury's Treads,Eye of the Watchers,Redemption,Total Biscuit of Rejuvenation,Cloth Armor,,9290,3683,Lane.bot_lane,Role.support
+6,Evangelion,Viktor,False,Side.red,3,8,4,0.875,182,Flash,Ghost,14,False,9128,8650,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Rylai's Crystal Scepter,Blasting Wand,,104468,11551,Lane.mid_lane,Role.solo
+7,Alamander,Shaco,False,Side.red,4,8,4,1.0,133,Smite,Ignite,13,False,9502,8075,Enchantment: Warrior,Kircheis Shard,Tiamat,Boots of Mobility,Hextech Revolver,Sheen,27450,68464,Lane.jungle,Role.none
+8,Evexus,Vayne,False,Side.red,8,2,3,5.5,203,Heal,Flash,14,True,11407,10100,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,B. F. Sword,Vampiric Scepter,14234,95978,Lane.bot_lane,Role.carry
+9,Son of Ogre,Renekton,False,Side.red,2,5,3,1.0,161,Flash,Teleport,14,False,8771,8150,Mercury's Treads,Doran's Blade,The Black Cleaver,Dead Man's Plate,Ruby Crystal,,3493,89188,Lane.top_lane,Role.solo

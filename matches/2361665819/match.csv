@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SaReNu,Viktor,True,Side.blue,4,0,5,9.0,175,Ghost,Flash,13,False,9065,7225,Rylai's Crystal Scepter,Doran's Ring,Boots of Speed,,,Perfect Hex Core,70205,13095,Lane.mid_lane,Role.solo
+1,gabzpiano,Xin Zhao,True,Side.blue,12,2,5,8.5,125,Flash,Smite,14,False,11259,8225,Enchantment: Bloodrazor,Mercury's Treads,Warden's Mail,Dead Man's Plate,Dagger,Dagger,10511,109164,Lane.jungle,Role.none
+2,Celestial Bjoece,Pantheon,True,Side.blue,6,3,4,3.3333333333333335,90,Teleport,Flash,12,False,7641,6850,Corrupting Potion,,Ninja Tabi,Caulfield's Warhammer,Sunfire Cape,Phage,9830,43102,Lane.top_lane,Role.solo
+3,08010505,Nautilus,True,Side.blue,0,2,7,3.5,27,Flash,Exhaust,11,False,5462,4025,Sightstone,Cloth Armor,Crystalline Bracer,Relic Shield,Boots of Swiftness,Crystalline Bracer,10853,7983,Lane.bot_lane,Role.support
+4,Gei,Caitlyn,True,Side.blue,0,3,3,1.0,151,Flash,Heal,12,False,7424,5675,Berserker's Greaves,Runaan's Hurricane,,,B. F. Sword,Doran's Blade,552,65329,Lane.bot_lane,Role.carry
+5,Bramblestein,Cassiopeia,False,Side.red,0,4,0,0.0,102,Ghost,Flash,10,False,5577,4525,Tear of the Goddess,,,Doran's Ring,Rylai's Crystal Scepter,,34722,5596,Lane.mid_lane,Role.solo
+6,Zyko,Nami,False,Side.red,1,2,4,2.5,15,Exhaust,Flash,10,False,5467,4675,Redemption,Sightstone,Control Ward,Boots of Speed,,Frostfang,7389,2493,Lane.bot_lane,Role.support
+7,Rokhan,Aatrox,False,Side.red,1,4,4,1.25,165,Flash,Ignite,12,False,7748,6800,Doran's Blade,The Black Cleaver,Vampiric Scepter,Ninja Tabi,Caulfield's Warhammer,,18047,56536,Lane.top_lane,Role.solo
+8,IIIlIIIlIIlIIllI,Jax,False,Side.red,4,7,0,0.5714285714285714,65,Flash,Smite,10,True,6910,6150,Hunter's Potion,Phage,Dagger,Boots of Speed,Enchantment: Bloodrazor,Sheen,9424,49820,Lane.jungle,Role.none
+9,SkipAd,Lucian,False,Side.red,4,5,1,1.0,150,Heal,Flash,10,False,7804,7200,Zeal,Dagger,,Essence Reaver,Berserker's Greaves,Doran's Blade,2619,63154,Lane.bot_lane,Role.carry

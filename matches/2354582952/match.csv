@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ScrubNoob,Rengar,True,Side.blue,18,11,11,2.6363636363636362,217,Ignite,Flash,17,False,16890,14700,Spirit Visage,Ravenous Hydra,Vampiric Scepter,The Black Cleaver,Caulfield's Warhammer,Mercury's Treads,22717,173130,Lane.mid_lane,Role.none
+1,Troll Status,Brand,True,Side.blue,17,8,11,3.5,123,Flash,Ignite,16,False,13125,10500,Sorcerer's Shoes,Morellonomicon,Seeker's Armguard,Rylai's Crystal Scepter,Needlessly Large Rod,Doran's Ring,87967,11957,Lane.mid_lane,Role.none
+2,SlunkoZ,Ivern,True,Side.blue,7,6,26,5.5,72,Flash,Smite,16,False,12266,10275,Enchantment: Runic Echoes,Face of the Mountain,Ardent Censer,Ionian Boots of Lucidity,Redemption,,29072,17557,Lane.mid_lane,Role.none
+3,l Zero Kiryuu l,Gragas,False,Side.red,3,14,10,0.9285714285714286,120,Flash,Smite,15,False,10223,9675,Iceborn Gauntlet,Enchantment: Runic Echoes,Ninja Tabi,Banshee's Veil,Crystalline Bracer,,91048,22278,Lane.jungle,Role.none
+4,Zan Vorez,Kled,False,Side.red,13,16,8,1.3125,110,Ignite,Exhaust,16,True,12267,11550,The Black Cleaver,Ravenous Hydra,Berserker's Greaves,Thornmail,Giant's Belt,Cloth Armor,1645,97609,Lane.mid_lane,Role.solo
+5,Sarcasm Orgasm,Anivia,False,Side.red,9,12,5,1.1666666666666667,177,Flash,Ignite,16,False,12008,11785,Seraph's Embrace,Wooglet's Witchcap,Rod of Ages,Amplifying Tome,Blasting Wand,Sorcerer's Shoes,118144,8753,Lane.jungle,Role.none

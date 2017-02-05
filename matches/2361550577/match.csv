@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog deft,Jhin,False,Side.blue,7,6,3,1.6666666666666667,204,Flash,Heal,14,False,11045,10900,Youmuu's Ghostblade,Edge of Night,Ionian Boots of Lucidity,Duskblade of Draktharr,Control Ward,,2446,113232,Lane.bot_lane,Role.carry
+1,1onz,Lulu,False,Side.blue,2,5,7,1.8,20,Flash,Ignite,12,False,7601,7025,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,Total Biscuit of Rejuvenation,,13205,5569,Lane.bot_lane,Role.support
+2,out skizzled,Ahri,False,Side.blue,3,9,7,1.1111111111111112,210,Flash,Ignite,15,True,10416,10550,Abyssal Scepter,Morellonomicon,Void Staff,Sorcerer's Shoes,Doran's Ring,,65548,15593,Lane.mid_lane,Role.solo
+3,hashinshin,Kha'Zix,False,Side.blue,2,6,3,0.8333333333333334,128,Flash,Smite,14,False,9416,8825,Enchantment: Warrior,Hunter's Potion,Mercury's Treads,Maw of Malmortius,Serrated Dirk,Long Sword,5926,130619,Lane.jungle,Role.none
+4,BearlyArmed,Maokai,False,Side.blue,2,4,5,1.75,190,Flash,Teleport,14,False,9664,9300,Locket of the Iron Solari,Mercury's Treads,Spirit Visage,Iceborn Gauntlet,Corrupting Potion,,78578,20625,Lane.top_lane,Role.solo
+5,Feitan,Ezreal,True,Side.red,6,2,8,7.0,203,Heal,Flash,15,False,12651,9183,Ionian Boots of Lucidity,Bilgewater Cutlass,Refillable Potion,Muramana,Trinity Force,Doran's Blade,20147,107216,Lane.bot_lane,Role.carry
+6,ape boy,Nidalee,True,Side.red,10,1,7,17.0,167,Flash,Smite,17,False,14063,13200,Rylai's Crystal Scepter,Refillable Potion,Mercury's Treads,Zhonya's Hourglass,Void Staff,Enchantment: Runic Echoes,158113,25436,Lane.jungle,Role.none
+7,LGD Maybe,Soraka,True,Side.red,1,4,7,2.0,13,Exhaust,Flash,13,False,8585,7700,Redemption,Eye of the Oasis,Refillable Potion,Locket of the Iron Solari,,Boots of Swiftness,8772,5463,Lane.bot_lane,Role.support
+8,Cat Ears,Kennen,True,Side.red,3,5,6,1.8,250,Flash,Teleport,16,False,12551,12225,Blasting Wand,Void Staff,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Needlessly Large Rod,117818,27956,Lane.top_lane,Role.solo
+9,Alex Ich 1,LeBlanc,True,Side.red,9,4,8,4.25,205,Flash,Ignite,16,False,13039,10675,Doran's Ring,Abyssal Scepter,Morellonomicon,Rylai's Crystal Scepter,,Sorcerer's Shoes,102687,14069,Lane.mid_lane,Role.solo

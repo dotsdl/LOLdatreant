@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Amrr,Caitlyn,False,Side.blue,0,2,0,0.0,16,Flash,Heal,5,False,1994,1075,Doran's Blade,Doran's Blade,Health Potion,,,,172,6760,Lane.bot_lane,Role.solo
+1,zMotionz ,Twitch,False,Side.blue,1,2,0,0.5,5,Smite,Flash,4,True,2364,1450,Skirmisher's Sabre,Refillable Potion,Dagger,,,,9,5053,Lane.jungle,Role.none
+2,Asikisa,Karma,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,1660,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+3,dadams,Zilean,False,Side.blue,0,1,1,1.0,41,Flash,Ghost,6,False,2569,2125,Boots of Speed,Tear of the Goddess,,Doran's Ring,Doran's Ring,,8947,3348,Lane.mid_lane,Role.duo
+4,ponies r kute,Riven,False,Side.blue,2,3,0,0.6666666666666666,43,Flash,Teleport,7,False,3145,1950,Caulfield's Warhammer,Long Sword,,Boots of Speed,,,0,12251,Lane.top_lane,Role.solo
+5,Alexandriea,Jhin,True,Side.red,2,0,0,2.0,86,Flash,Heal,7,False,5004,2100,Doran's Blade,B. F. Sword,Boots of Speed,,,,86,35324,Lane.bot_lane,Role.duo
+6,Ozakii,Yasuo,True,Side.red,3,2,1,2.0,60,Ignite,Flash,8,False,4749,2900,Doran's Blade,Zeal,Dagger,Boots of Speed,Dagger,,7206,26851,Lane.mid_lane,Role.solo
+7,WUWUWUWUWUWUWUWU,Kennen,True,Side.red,0,1,2,2.0,61,Flash,Teleport,8,False,3785,2320,Sorcerer's Shoes,,Fiendish Codex,,,,14416,10414,Lane.top_lane,Role.solo
+8,Mob Psychoe 100,Olaf,True,Side.red,2,0,0,2.0,43,Ghost,Smite,7,False,4188,2450,Refillable Potion,Long Sword,Long Sword,Cloth Armor,Skirmisher's Sabre,Boots of Speed,1142,27724,Lane.jungle,Role.none
+9,RealTeemo,Morgana,True,Side.red,1,0,3,4.0,3,Exhaust,Flash,7,False,4200,1425,Frostfang,Total Biscuit of Rejuvenation,,The Dark Seal,,,6755,5086,Lane.bot_lane,Role.duo

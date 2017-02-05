@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jurassiq,Lucian,False,Side.blue,4,9,5,1.0,177,Flash,Heal,13,False,10092,10450,Phantom Dancer,Doran's Blade,Essence Reaver,Berserker's Greaves,Hexdrinker,,4387,94650,Lane.bot_lane,Role.carry
+1,Pobelter,Viktor,False,Side.blue,5,5,8,2.6,218,Flash,Cleanse,14,False,11170,11050,Lich Bane,Void Staff,,Ionian Boots of Lucidity,Doran's Ring,Perfect Hex Core,109608,11033,Lane.mid_lane,Role.solo
+2,Shrew,LeBlanc,False,Side.blue,10,8,4,1.75,130,Flash,Teleport,15,False,10681,9475,Corrupting Potion,Rylai's Crystal Scepter,Sorcerer's Shoes,Seeker's Armguard,Morellonomicon,,77489,9103,Lane.top_lane,Role.solo
+3,Abou222,Karma,False,Side.blue,2,5,18,4.0,15,Exhaust,Flash,12,False,8667,8000,Redemption,Locket of the Iron Solari,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,,7497,2713,Lane.bot_lane,Role.support
+4,Ðad,Lee Sin,False,Side.blue,7,10,6,1.3,146,Smite,Flash,15,False,11230,10760,Control Ward,Enchantment: Warrior,Ravenous Hydra,Mercury's Treads,The Black Cleaver,,18417,114463,Lane.jungle,Role.none
+5,Viperrr,Nidalee,True,Side.red,8,4,11,4.75,168,Flash,Smite,16,True,13049,10675,Enchantment: Runic Echoes,Refillable Potion,Athene's Unholy Grail,Mercury's Treads,Seeker's Armguard,Rylai's Crystal Scepter,132597,28376,Lane.jungle,Role.none
+6,Révenge,Yasuo,True,Side.red,9,7,7,2.2857142857142856,152,Teleport,Flash,15,False,12422,10583,Doran's Blade,Trinity Force,Phantom Dancer,Mercury's Treads,Hexdrinker,Cloak of Agility,31633,84718,Lane.top_lane,Role.solo
+7,Soerenbjerg,Ryze,True,Side.red,3,5,7,2.0,184,Flash,Ghost,14,False,11223,8920,Fiendish Codex,Negatron Cloak,Control Ward,Rod of Ages,Seraph's Embrace,Ionian Boots of Lucidity,111099,10852,Lane.mid_lane,Role.solo
+8,cesuna,Brand,True,Side.red,13,5,8,4.2,48,Flash,Ignite,14,False,12564,10225,Rylai's Crystal Scepter,Control Ward,Eye of the Watchers,Sorcerer's Shoes,Liandry's Torment,,37313,9714,Lane.bot_lane,Role.duo
+9,BabièThug,Ezreal,True,Side.red,4,7,12,2.2857142857142856,162,Flash,Heal,14,False,12036,11975,Doran's Blade,Muramana,Bilgewater Cutlass,Maw of Malmortius,Iceborn Gauntlet,Ionian Boots of Lucidity,16355,80949,Lane.bot_lane,Role.duo

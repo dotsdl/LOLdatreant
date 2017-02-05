@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,XIA0 GONG JU,Janna,True,Side.blue,1,0,16,17.0,12,Flash,Exhaust,12,False,7364,4625,Frost Queen's Claim,Sightstone,,Faerie Charm,Boots of Mobility,Faerie Charm,4064,3322,Lane.bot_lane,Role.support
+1,Jia Wo Dai Lian,Twitch,True,Side.blue,9,4,5,3.5,127,Flash,Heal,11,True,9780,8200,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Long Sword,,0,78675,Lane.bot_lane,Role.carry
+2,Unpureruination,Shaco,True,Side.blue,8,0,3,11.0,101,Ignite,Smite,12,False,9245,7125,Enchantment: Runic Echoes,Refillable Potion,Hextech Revolver,Serrated Dirk,Ionian Boots of Lucidity,B. F. Sword,35419,56586,Lane.jungle,Role.none
+3,Shiphtur,LeBlanc,True,Side.blue,5,2,5,5.0,213,Ignite,Flash,14,False,10692,10575,Rylai's Crystal Scepter,Void Staff,Morellonomicon,Sorcerer's Shoes,,Doran's Ring,107068,11949,Lane.mid_lane,Role.solo
+4,RealTeemo,Teemo,True,Side.blue,2,2,3,2.5,195,Teleport,Flash,14,False,9205,6625,Doran's Ring,,,Luden's Echo,Haunting Guise,Sorcerer's Shoes,54652,29131,Lane.top_lane,Role.solo
+5,º Åïšúrø º,Master Yi,False,Side.red,1,6,1,0.3333333333333333,125,Teleport,Ghost,11,False,6204,5450,B. F. Sword,Phantom Dancer,Berserker's Greaves,,,,121,59921,Lane.top_lane,Role.solo
+6,Limitless18,Kayle,False,Side.red,1,3,0,0.3333333333333333,145,Teleport,Flash,12,False,6530,5700,Doran's Ring,Health Potion,Nashor's Tooth,Berserker's Greaves,Blasting Wand,,50450,19803,Lane.mid_lane,Role.solo
+7,Rubin,Blitzcrank,False,Side.red,1,4,2,0.75,5,Flash,Exhaust,9,False,5019,4675,Talisman of Ascension,,Ruby Sightstone,,Boots of Speed,,3678,3394,Lane.bot_lane,Role.support
+8,MoneyOrLife,Ezreal,False,Side.red,2,8,2,0.5,143,Flash,Heal,11,False,6852,6650,Doran's Blade,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,,,10530,54976,Lane.bot_lane,Role.carry
+9,WE Mafia,Hecarim,False,Side.red,3,4,2,1.25,104,Ghost,Smite,11,False,6917,5958,Hunter's Potion,Hunter's Talisman,Boots of Swiftness,Trinity Force,Hunter's Machete,,10642,62611,Lane.jungle,Role.none

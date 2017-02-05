@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CC Hollywood,LeBlanc,True,Side.blue,10,3,6,5.333333333333333,123,Ignite,Flash,12,False,9178,7650,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,Zhonya's Hourglass,,54128,12204,Lane.mid_lane,Role.solo
+1,Stumpey,Rek'Sai,True,Side.blue,9,4,10,4.75,167,Flash,Teleport,14,False,10446,9325,Ninja Tabi,Cloth Armor,Titanic Hydra,Sunfire Cape,Chain Vest,Doran's Blade,17766,96896,Lane.top_lane,Role.solo
+2,CC J Ricosta,Lee Sin,True,Side.blue,9,1,9,18.0,79,Flash,Smite,12,False,9086,6675,Refillable Potion,Enchantment: Warrior,Tiamat,Boots of Mobility,Giant's Belt,Chain Vest,11747,62678,Lane.jungle,Role.none
+3,Jimmy Carter,Blitzcrank,True,Side.blue,4,2,9,6.5,21,Exhaust,Flash,11,False,8531,7625,Talisman of Ascension,Redemption,Refillable Potion,Boots of Swiftness,Glacial Shroud,Warden's Mail,8511,13285,Lane.bot_lane,Role.support
+4,Nevr,Jhin,True,Side.blue,3,4,3,1.5,149,Heal,Flash,11,True,8669,7700,Doran's Blade,Rapid Firecannon,Essence Reaver,Dagger,Boots of Speed,Brawler's Gloves,1133,89176,Lane.bot_lane,Role.carry
+5,coldrain evening,Kha'Zix,False,Side.red,4,5,4,1.6,88,Smite,Flash,12,False,7737,6825,Youmuu's Ghostblade,Hunter's Potion,Boots of Swiftness,Enchantment: Warrior,,,3300,78108,Lane.jungle,Role.none
+6,Ja Wangnan,Lucian,False,Side.red,4,4,0,1.0,90,Flash,Heal,10,False,6213,5550,Doran's Blade,Berserker's Greaves,Essence Reaver,,Dagger,,2223,37108,Lane.bot_lane,Role.duo
+7,SlayersZ,Fiora,False,Side.red,2,7,4,0.8571428571428571,121,Teleport,Flash,12,False,6846,6125,Doran's Blade,Ravenous Hydra,Health Potion,Boots of Speed,Phage,Long Sword,315,61534,Lane.top_lane,Role.solo
+8,Xtray,Zed,False,Side.red,3,11,1,0.36363636363636365,68,Flash,Ignite,10,False,5806,5350,Maw of Malmortius,Refillable Potion,Mercury's Treads,Long Sword,Long Sword,,2818,29183,Lane.mid_lane,Role.solo
+9,TheOddishOne,Alistar,False,Side.red,1,9,3,0.4444444444444444,26,Exhaust,Flash,8,False,4946,3700,Targon's Brace,Ruby Sightstone,Boots of Mobility,,,,8977,3891,Lane.bot_lane,Role.duo

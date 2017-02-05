@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IKingVex,Jinx,True,Side.blue,9,4,8,4.25,163,Heal,Flash,12,True,11328,9575,Doran's Blade,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,Berserker's Greaves,3164,115659,Lane.bot_lane,Role.carry
+1,Hopachai,Lulu,True,Side.blue,2,1,15,17.0,21,Exhaust,Flash,12,False,7716,6500,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Forbidden Idol,,,15616,8135,Lane.bot_lane,Role.support
+2,h4zy,Vladimir,True,Side.blue,3,4,6,2.25,110,Teleport,Flash,12,False,8172,8085,Doran's Shield,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Zhonya's Hourglass,Amplifying Tome,,54978,9242,Lane.top_lane,Role.solo
+3,Code,Kha'Zix,True,Side.blue,4,2,7,5.5,154,Smite,Flash,15,False,10091,8125,Tiamat,Enchantment: Warrior,Boots of Mobility,Duskblade of Draktharr,,Long Sword,5538,129231,Lane.jungle,Role.none
+4,Hero of Wabash,Veigar,True,Side.blue,5,1,7,12.0,174,Ignite,Flash,13,False,9501,7475,Morellonomicon,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,Blasting Wand,Doran's Ring,88350,14119,Lane.mid_lane,Role.solo
+5,xvae,Malphite,False,Side.red,2,4,1,0.75,130,Flash,Smite,12,False,7509,7200,Mercury's Treads,,Refillable Potion,Ruby Crystal,Enchantment: Cinderhulk,Frozen Heart,54502,40314,Lane.jungle,Role.none
+6,OveroVerovEroveR,Ryze,False,Side.red,3,3,2,1.6666666666666667,196,Flash,Ghost,14,False,9019,7975,Rod of Ages,Refillable Potion,Abyssal Scepter,Tear of the Goddess,Boots of Speed,Needlessly Large Rod,118898,12114,Lane.mid_lane,Role.solo
+7,Doctus Rex,Darius,False,Side.red,6,5,0,1.2,149,Ignite,Ghost,13,False,8602,8430,Dead Man's Plate,,The Black Cleaver,Boots of Swiftness,Kindlegem,,1120,69551,Lane.top_lane,Role.solo
+8,Fluxyy,Vayne,False,Side.red,0,6,4,0.6666666666666666,154,Heal,Flash,12,False,7503,7425,Infinity Edge,Dagger,Berserker's Greaves,Brawler's Gloves,Dagger,Doran's Blade,1020,71234,Lane.bot_lane,Role.carry
+9,TBagginBearTraps,Nami,False,Side.red,1,5,4,1.0,12,Flash,Exhaust,10,False,5739,5400,Ruby Sightstone,Refillable Potion,Redemption,Ionian Boots of Lucidity,,Spellthief's Edge,8953,4479,Lane.bot_lane,Role.support

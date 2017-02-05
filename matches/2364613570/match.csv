@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MusicalNotes,Twitch,False,Side.blue,5,6,2,1.1666666666666667,203,Flash,Heal,13,False,9994,9700,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Recurve Bow,Vampiric Scepter,0,108458,Lane.bot_lane,Role.carry
+1,Nedo,Ahri,False,Side.blue,1,10,4,0.5,132,Ignite,Flash,12,False,7792,7255,Morellonomicon,Fiendish Codex,Negatron Cloak,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,48535,11790,Lane.mid_lane,Role.solo
+2,TwittyParker,Yasuo,False,Side.blue,1,7,2,0.42857142857142855,172,Teleport,Flash,13,False,8284,8170,Doran's Shield,Statikk Shiv,Ninja Tabi,Frozen Mallet,Negatron Cloak,,55377,47926,Lane.top_lane,Role.solo
+3,IHATEEATINGPIE,Master Yi,False,Side.blue,8,5,3,2.2,158,Smite,Flash,15,False,11091,10050,Enchantment: Bloodrazor,Recurve Bow,Guinsoo's Rageblade,Ninja Tabi,Negatron Cloak,Negatron Cloak,4481,132841,Lane.jungle,Role.none
+4,xHarambe,Soraka,False,Side.blue,0,5,8,1.6,6,Exhaust,Flash,11,False,6448,6175,Redemption,Eye of the Oasis,Boots of Mobility,Null-Magic Mantle,Cloth Armor,,4359,2375,Lane.bot_lane,Role.support
+5,TroIl King,Jhin,True,Side.red,7,4,8,3.75,169,Flash,Heal,13,False,11765,10485,Cloak of Agility,Essence Reaver,Boots of Swiftness,B. F. Sword,Rapid Firecannon,Doran's Blade,3803,94932,Lane.bot_lane,Role.carry
+6,patten,Zilean,True,Side.red,2,1,17,19.0,25,Flash,Exhaust,13,False,9448,8335,Redemption,Giant's Belt,Eye of the Watchers,Ionian Boots of Lucidity,Needlessly Large Rod,Amplifying Tome,20010,4466,Lane.bot_lane,Role.support
+7,BronzeSingedCane,Nasus,True,Side.red,5,3,8,4.333333333333333,221,Flash,Teleport,15,False,12506,11208,Banner of Command,Zz'Rot Portal,Corrupting Potion,Ninja Tabi,Trinity Force,,84102,45921,Lane.mid_lane,Role.solo
+8,Captain Aruz,Kled,True,Side.red,9,5,8,3.4,174,Teleport,Flash,15,True,12090,11450,Doran's Blade,The Black Cleaver,Ravenous Hydra,Randuin's Omen,,Ninja Tabi,3349,138322,Lane.top_lane,Role.solo
+9,GordanRamsey,Evelynn,True,Side.red,10,2,7,8.5,149,Smite,Flash,15,False,13040,11950,Enchantment: Runic Echoes,Mejai's Soulstealer,Sorcerer's Shoes,Rylai's Crystal Scepter,Hextech Protobelt-01,Fiendish Codex,116736,48472,Lane.jungle,Role.none

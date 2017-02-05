@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Toukey,Lulu,False,Side.blue,0,1,1,1.0,11,Exhaust,Flash,9,False,4607,3825,Eye of the Oasis,,Forbidden Idol,,Boots of Speed,,6715,2748,Lane.bot_lane,Role.support
+1,Lunae Lux,Vi,False,Side.blue,2,5,0,0.4,87,Smite,Flash,10,False,6002,5650,Enchantment: Warrior,Refillable Potion,Phage,Mercury's Treads,Null-Magic Mantle,,1927,68207,Lane.jungle,Role.none
+2,aePheva,Katarina,False,Side.blue,1,6,2,0.5,100,Teleport,Flash,11,False,5681,5100,The Dark Seal,Hextech Gunblade,,,Boots of Speed,Doran's Shield,43989,9290,Lane.top_lane,Role.solo
+3,NA Top Lane Xio,Corki,False,Side.blue,0,2,1,0.5,175,Heal,Flash,10,False,6459,5858,Boots of Speed,Trinity Force,,Vampiric Scepter,,Doran's Blade,60688,19376,Lane.bot_lane,Role.carry
+4,Skymark,Viktor,False,Side.blue,0,7,2,0.2857142857142857,129,Flash,Barrier,11,False,5905,5350,Abyssal Scepter,Boots of Speed,The Hex Core mk-1,Doran's Ring,Doran's Ring,,46683,8907,Lane.mid_lane,Role.solo
+5,Puhb,Janna,True,Side.red,0,0,7,7.0,11,Flash,Exhaust,9,False,5360,4775,Ionian Boots of Lucidity,Refillable Potion,Eye of the Oasis,Control Ward,Forbidden Idol,Crystalline Bracer,2673,2645,Lane.bot_lane,Role.support
+6,Knight Emperor,Ryze,True,Side.red,4,1,8,12.0,126,Ghost,Flash,12,False,8122,7675,Tear of the Goddess,Refillable Potion,Control Ward,Rod of Ages,Mercury's Treads,Abyssal Scepter,67390,6709,Lane.mid_lane,Role.solo
+7,Nick Diaz,Rammus,True,Side.red,3,1,12,15.0,85,Flash,Smite,12,False,8061,7120,Enchantment: Cinderhulk,Refillable Potion,Thornmail,Boots of Swiftness,Negatron Cloak,Cloth Armor,41230,33551,Lane.jungle,Role.none
+8,Imaokai,Nasus,True,Side.red,0,0,5,5.0,193,Teleport,Flash,12,False,8862,7050,Frost Queen's Claim,The Dark Seal,Corrupting Potion,Sorcerer's Shoes,Morellonomicon,,91908,18621,Lane.bot_lane,Role.carry
+9,Vìncent,Jayce,True,Side.red,14,1,3,17.0,133,Teleport,Flash,12,True,11399,10200,Maw of Malmortius,Youmuu's Ghostblade,Corrupting Potion,Caulfield's Warhammer,Boots of Swiftness,Phage,11396,79483,Lane.top_lane,Role.solo

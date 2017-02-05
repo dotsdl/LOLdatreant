@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GNAR PUMP,Maokai,True,Side.blue,0,0,11,11.0,86,Flash,Exhaust,12,False,6866,5300,Corrupting Potion,Catalyst of Aeons,Boots of Speed,Iceborn Gauntlet,Cloth Armor,Ruby Crystal,41701,10264,Lane.mid_lane,Role.none
+1,Crims0nNight,Olaf,True,Side.blue,13,0,2,15.0,101,Smite,Ghost,13,False,10826,10225,Enchantment: Cinderhulk,Righteous Glory,Ionian Boots of Lucidity,Ravenous Hydra,,,13752,80206,Lane.mid_lane,Role.none
+2,xNoblesseObligex,Azir,True,Side.blue,5,2,8,6.5,111,Heal,Flash,12,True,8438,7500,Doran's Ring,Doran's Ring,Nashor's Tooth,Rylai's Crystal Scepter,Refillable Potion,Boots of Speed,58125,10685,Lane.mid_lane,Role.none
+3,Sarcasm Orgasm,Graves,False,Side.red,0,5,0,0.0,117,Flash,Heal,9,False,5366,4850,Death's Dance,Berserker's Greaves,,,,,76,59570,Lane.mid_lane,Role.none
+4,Buffy,Lux,False,Side.red,2,8,0,0.25,105,Flash,Ignite,11,False,5742,5585,Luden's Echo,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,,48840,8033,Lane.mid_lane,Role.none
+5,Neo Restoration,Alistar,False,Side.red,0,5,1,0.2,16,Exhaust,Flash,9,False,3713,3350,Face of the Mountain,Refillable Potion,Boots of Speed,Cloth Armor,Ruby Crystal,,7106,3154,Lane.mid_lane,Role.none

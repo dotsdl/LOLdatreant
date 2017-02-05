@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wintrader Vulcan,Vayne,True,Side.blue,3,6,1,0.6666666666666666,187,Flash,Heal,12,False,10787,8550,Doran's Blade,Cull,Berserker's Greaves,Statikk Shiv,Infinity Edge,Dagger,15944,80578,Lane.bot_lane,Role.carry
+1,Day after Day,Ekko,True,Side.blue,9,2,6,7.5,149,Ignite,Flash,14,False,11214,10375,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Lich Bane,,80047,17176,Lane.mid_lane,Role.solo
+2,26209633,Nami,True,Side.blue,0,4,15,3.75,14,Flash,Ignite,11,False,7955,7875,Eye of the Watchers,Redemption,Control Ward,Boots of Speed,Zeke's Harbinger,Elixir of Sorcery,8069,5882,Lane.bot_lane,Role.support
+3,Anxiity,Nautilus,True,Side.blue,2,2,7,4.5,172,Flash,Teleport,14,False,9468,9200,Warden's Mail,Sunfire Cape,The Dark Seal,Ninja Tabi,Thornmail,Giant's Belt,74623,22124,Lane.top_lane,Role.solo
+4,Daddygoesdeep,Rek'Sai,True,Side.blue,14,0,7,21.0,145,Flash,Smite,14,True,13371,8450,Refillable Potion,Enchantment: Cinderhulk,Tiamat,Ninja Tabi,Dead Man's Plate,Ruby Crystal,29316,92154,Lane.jungle,Role.none
+5,iMBACHAN,Lee Sin,False,Side.red,3,8,6,1.125,57,Flash,Smite,11,False,6853,5925,Enchantment: Warrior,Refillable Potion,Control Ward,Boots of Swiftness,Caulfield's Warhammer,Giant's Belt,11549,50460,Lane.jungle,Role.none
+6,Cotopaco Parce,Gangplank,False,Side.red,2,7,4,0.8571428571428571,106,Teleport,Flash,12,False,6871,6058,Trinity Force,Caulfield's Warhammer,Corrupting Potion,Long Sword,,Boots of Speed,10669,60270,Lane.top_lane,Role.solo
+7,Jordanian Sniper,Jhin,False,Side.red,4,5,6,2.0,131,Flash,Heal,11,False,7793,6925,Youmuu's Ghostblade,Kircheis Shard,Zeal,Boots of Swiftness,Doran's Blade,Total Biscuit of Rejuvenation,4116,62933,Lane.bot_lane,Role.carry
+8,Part The Sea,Yasuo,False,Side.red,3,5,1,0.8,158,Flash,Exhaust,12,False,7752,7225,Cloak of Agility,B. F. Sword,Doran's Blade,Doran's Blade,Phantom Dancer,Mercury's Treads,20597,63396,Lane.mid_lane,Role.solo
+9,KnG Nightmare,Thresh,False,Side.red,2,4,8,2.5,23,Flash,Ignite,11,False,6119,5625,Aegis of the Legion,Face of the Mountain,Control Ward,Boots of Mobility,,Sightstone,6560,3237,Lane.bot_lane,Role.support

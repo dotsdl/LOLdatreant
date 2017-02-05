@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Espir Ill,Caitlyn,True,Side.blue,4,2,3,3.5,149,Flash,Heal,12,False,9067,5350,Doran's Blade,Control Ward,Total Biscuit of Rejuvenation,Runaan's Hurricane,Berserker's Greaves,Pickaxe,609,89053,Lane.bot_lane,Role.carry
+1,Koma cahn,Nasus,True,Side.blue,2,2,7,4.5,161,Ghost,Teleport,13,False,9568,6175,Zz'Rot Portal,Corrupting Potion,Boots of Swiftness,Doran's Ring,Doran's Ring,Spectre's Cowl,53395,36319,Lane.top_lane,Role.solo
+2,herolineage,Vi,True,Side.blue,7,2,4,5.5,115,Flash,Smite,12,False,9920,8433,Enchantment: Warrior,Refillable Potion,Trinity Force,Boots of Speed,Jaurim's Fist,Long Sword,1587,118833,Lane.jungle,Role.none
+3,Sunae,Janna,True,Side.blue,1,1,10,11.0,6,Exhaust,Flash,10,False,7024,5625,,Eye of the Oasis,Redemption,The Dark Seal,Boots of Mobility,,3979,3233,Lane.bot_lane,Role.support
+4,allchat RMU,Cassiopeia,True,Side.blue,9,2,5,7.0,163,Flash,Ghost,13,False,10375,8475,Morellonomicon,Tear of the Goddess,Doran's Ring,Giant's Belt,Abyssal Scepter,Doran's Ring,81185,8757,Lane.mid_lane,Role.solo
+5,SomeKidd,Ezreal,False,Side.red,0,5,5,1.0,118,Flash,Heal,9,False,5712,5083,Tear of the Goddess,Doran's Blade,Trinity Force,,,,8224,39093,Lane.bot_lane,Role.carry
+6,Across The Map,Thresh,False,Side.red,1,2,4,2.5,23,Exhaust,Flash,9,False,4427,3875,Targon's Brace,Total Biscuit of Rejuvenation,Sightstone,Kindlegem,Mercury's Treads,,6648,3679,Lane.bot_lane,Role.support
+7,1Chicharito4,Elise,False,Side.red,2,6,6,1.3333333333333333,62,Smite,Flash,10,False,5915,5185,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,Amplifying Tome,Giant's Belt,,38104,17355,Lane.jungle,Role.none
+8,pinkunicornnnn,Karma,False,Side.red,3,2,3,3.0,114,Teleport,Flash,12,True,6543,5910,Abyssal Scepter,Sorcerer's Shoes,Lost Chapter,Doran's Ring,Refillable Potion,Amplifying Tome,54857,7887,Lane.mid_lane,Role.solo
+9,Reputed,Kayle,False,Side.red,3,8,2,0.625,161,Teleport,Flash,12,False,7060,6525,Doran's Ring,Nashor's Tooth,Blasting Wand,Berserker's Greaves,Recurve Bow,,57714,21227,Lane.top_lane,Role.solo

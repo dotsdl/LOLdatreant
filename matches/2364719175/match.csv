@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kizm,Twitch,True,Side.blue,13,5,10,4.6,135,Heal,Flash,14,False,12773,10675,Infinity Edge,Runaan's Hurricane,Quicksilver Sash,Berserker's Greaves,Vampiric Scepter,Doran's Blade,0,84448,Lane.bot_lane,Role.carry
+1,GowaSan,Jax,True,Side.blue,12,4,3,3.75,186,Ignite,Flash,16,True,13328,9683,Hextech Gunblade,Trinity Force,Doran's Blade,Doran's Blade,Mercury's Treads,Corrupting Potion,30763,102179,Lane.top_lane,Role.solo
+2,LIHaiLeWoDeLianR,Fiddlesticks,True,Side.blue,8,4,14,5.5,123,Ignite,Flash,15,False,11271,10950,Doran's Ring,Zhonya's Hourglass,Rabadon's Deathcap,Sorcerer's Shoes,Void Staff,,73799,11261,Lane.mid_lane,Role.solo
+3,kolp412,Hecarim,True,Side.blue,2,4,17,4.75,102,Ghost,Smite,14,False,10101,9533,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Trinity Force,Spectre's Cowl,Ruby Crystal,20382,75474,Lane.jungle,Role.none
+4,MOnkeyDdU,Brand,True,Side.blue,6,4,13,4.75,62,Flash,Ignite,13,False,10918,10235,Refillable Potion,Rylai's Crystal Scepter,Frost Queen's Claim,Liandry's Torment,Amplifying Tome,Ionian Boots of Lucidity,48036,7786,Lane.bot_lane,Role.support
+5,I Savage l,Caitlyn,False,Side.red,8,8,4,1.5,124,Flash,Heal,12,False,9248,8700,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Brawler's Gloves,Dagger,1042,80270,Lane.bot_lane,Role.carry
+6,Hiddenbakpak,Lissandra,False,Side.red,4,9,3,0.7777777777777778,129,Teleport,Flash,13,False,8137,7925,Doran's Ring,Zhonya's Hourglass,,Catalyst of Aeons,Mercury's Treads,Blasting Wand,66013,6582,Lane.top_lane,Role.solo
+7,zq0012,Twisted Fate,False,Side.red,6,8,7,1.625,140,Flash,Teleport,13,False,9642,8920,Control Ward,Luden's Echo,Ionian Boots of Lucidity,Lich Bane,Negatron Cloak,Doran's Ring,83313,11792,Lane.jungle,Role.none
+8,Chatultov,Vi,False,Side.red,3,8,4,0.875,110,Flash,Smite,12,False,7952,7650,Enchantment: Warrior,The Black Cleaver,Ninja Tabi,Cloth Armor,Cloth Armor,,920,88261,Lane.jungle,Role.none
+9,2Legit2Quit,Soraka,False,Side.red,0,8,9,1.125,2,Exhaust,Flash,11,False,6306,5750,Redemption,Talisman of Ascension,Sightstone,Boots of Speed,,,3796,1218,Lane.bot_lane,Role.support

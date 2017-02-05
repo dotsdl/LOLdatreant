@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TSM MeNoHaxor,Karma,True,Side.blue,1,5,18,3.8,16,Exhaust,Flash,12,False,8690,8000,Eye of the Watchers,Boots of Mobility,Redemption,Control Ward,Locket of the Iron Solari,,10102,5315,Lane.bot_lane,Role.support
+1,Kakeru,Caitlyn,True,Side.blue,6,3,7,4.333333333333333,201,Flash,Heal,13,False,11645,10625,Rapid Firecannon,,,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,775,140192,Lane.bot_lane,Role.carry
+2,Myloo,Malphite,True,Side.blue,8,0,5,13.0,192,Flash,Teleport,15,False,11423,10400,Ninja Tabi,Corrupting Potion,Sunfire Cape,Dead Man's Plate,Iceborn Gauntlet,Cloth Armor,74290,38187,Lane.top_lane,Role.solo
+3,AllAero,Zac,True,Side.blue,3,0,14,17.0,77,Flash,Smite,13,False,8899,8050,Randuin's Omen,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,Spectre's Cowl,,55161,18272,Lane.jungle,Role.none
+4,EnVy Nien,Cassiopeia,True,Side.blue,12,5,4,3.2,188,Flash,Ghost,15,True,12581,12075,Seraph's Embrace,Seeker's Armguard,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Fiendish Codex,110375,6332,Lane.mid_lane,Role.solo
+5,Asc Intercourse,Alistar,False,Side.red,1,6,6,1.1666666666666667,35,Flash,Exhaust,10,False,6521,6150,,Eye of the Equinox,Control Ward,,Knight's Vow,Boots of Mobility,10779,6278,Lane.bot_lane,Role.support
+6,jacksparrow111,Ivern,False,Side.red,0,3,3,1.0,103,Smite,Flash,12,False,7765,7600,Ionian Boots of Lucidity,Athene's Unholy Grail,Control Ward,Enchantment: Cinderhulk,Giant's Belt,,24240,5663,Lane.jungle,Role.none
+7,TeddyRO,Vayne,False,Side.red,2,4,0,0.5,164,Flash,Heal,13,False,8046,7175,Doran's Blade,Pickaxe,Berserker's Greaves,B. F. Sword,Rapid Firecannon,Cloak of Agility,1784,74165,Lane.bot_lane,Role.carry
+8,IIIlIIIlIIIllI,Ezreal,False,Side.red,6,10,2,0.8,143,Flash,Heal,12,False,8927,8133,Doran's Blade,Trinity Force,Long Sword,Ionian Boots of Lucidity,Muramana,,15277,69995,Lane.mid_lane,Role.solo
+9,Nero Valentine,Jayce,False,Side.red,4,7,0,0.5714285714285714,186,Teleport,Flash,13,False,9218,7975,Doran's Blade,Refillable Potion,The Black Cleaver,Boots of Swiftness,Maw of Malmortius,,13341,79179,Lane.top_lane,Role.solo

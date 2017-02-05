@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,90Lady,Jinx,False,Side.blue,1,5,0,0.2,120,Flash,Heal,10,False,5959,5600,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,,B. F. Sword,,102,48608,Lane.bot_lane,Role.carry
+1,Mr HuaLun,Yasuo,False,Side.blue,5,5,0,1.0,118,Teleport,Flash,12,False,6924,6475,Phantom Dancer,Doran's Blade,Refillable Potion,Mercury's Treads,B. F. Sword,Cloak of Agility,15886,48589,Lane.mid_lane,Role.solo
+2,BIu Baron,Teemo,False,Side.blue,1,5,0,0.2,114,Flash,Teleport,11,False,5972,5750,Doran's Ring,Boots of Swiftness,Total Biscuit of Rejuvenation,Liandry's Torment,Stinger,,31297,20761,Lane.top_lane,Role.solo
+3,Anthøny,Zac,False,Side.blue,0,2,3,1.5,99,Smite,Flash,11,False,6006,4675,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Warden's Mail,,,57045,23894,Lane.jungle,Role.none
+4,péggy,Janna,False,Side.blue,0,3,2,0.6666666666666666,9,Flash,Exhaust,8,False,4455,3950,Nomad's Medallion,Sightstone,Forbidden Idol,Boots of Mobility,Rejuvenation Bead,,2219,2982,Lane.bot_lane,Role.support
+5,ScleaverZerone,Darius,True,Side.red,1,1,5,6.0,107,Exhaust,Ghost,11,False,6399,5900,Doran's Shield,The Black Cleaver,Spectre's Cowl,,Boots of Swiftness,,46,50501,Lane.top_lane,Role.solo
+6,Princebobo,Varus,True,Side.red,5,1,5,10.0,145,Heal,Flash,11,False,9050,8075,Essence Reaver,Total Biscuit of Rejuvenation,Doran's Blade,Berserker's Greaves,Statikk Shiv,,6224,63161,Lane.bot_lane,Role.carry
+7,Negre,Xin Zhao,True,Side.red,5,2,3,4.0,96,Flash,Smite,12,False,8162,6775,Blade of the Ruined King,Enchantment: Bloodrazor,Boots of Speed,Cloth Armor,,,4711,91186,Lane.jungle,Role.none
+8,iWillAmazeYou,Karma,True,Side.red,3,1,7,10.0,24,Ignite,Flash,11,True,6616,5600,,Faerie Charm,Eye of the Watchers,Iceborn Gauntlet,Boots of Speed,,18691,7131,Lane.bot_lane,Role.support
+9,I Best Ekko NA I,Ekko,True,Side.red,6,2,2,4.0,128,Ignite,Flash,13,False,7949,6550,Corrupting Potion,Rod of Ages,Needlessly Large Rod,Sorcerer's Shoes,Aether Wisp,,48586,15250,Lane.mid_lane,Role.solo

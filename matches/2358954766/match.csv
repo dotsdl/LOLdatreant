@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,mandatorycloud,Zac,False,Side.blue,4,7,5,1.2857142857142858,148,Flash,Smite,14,False,10435,9050,Enchantment: Cinderhulk,Dead Man's Plate,Ionian Boots of Lucidity,Kindlegem,Spectre's Cowl,,88361,17223,Lane.jungle,Role.none
+1,BabièThug,Cassiopeia,False,Side.blue,4,10,4,0.8,162,Flash,Ghost,13,False,10164,8575,Morellonomicon,Refillable Potion,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,Tear of the Goddess,79652,5122,Lane.mid_lane,Role.solo
+2,Peridot,Fiora,False,Side.blue,1,11,2,0.2727272727272727,180,Teleport,Flash,14,False,10165,9475,Doran's Blade,Ravenous Hydra,Sheen,Ninja Tabi,The Black Cleaver,,345,108958,Lane.top_lane,Role.solo
+3,BaconSeeker,Karma,False,Side.blue,0,8,10,1.25,19,Exhaust,Flash,11,False,8200,7850,Locket of the Iron Solari,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,,,17589,4653,Lane.bot_lane,Role.support
+4,C9 Gun,Ezreal,False,Side.blue,10,5,4,2.8,179,Flash,Heal,14,True,12887,11675,Blade of the Ruined King,Quicksilver Sash,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,Muramana,16528,104357,Lane.bot_lane,Role.carry
+5,WildTurtle,Jhin,True,Side.red,8,6,11,3.1666666666666665,202,Flash,Heal,15,False,13885,12150,Essence Reaver,Boots of Swiftness,Infinity Edge,Rapid Firecannon,Doran's Blade,Control Ward,9372,164286,Lane.bot_lane,Role.carry
+6,qldurtms,Corki,True,Side.red,8,4,15,5.75,250,Flash,Exhaust,17,False,14404,13383,,Corrupting Potion,,Trinity Force,,,135209,33259,Lane.mid_lane,Role.solo
+7,Rycah,Jayce,True,Side.red,12,2,10,11.0,227,Flash,Teleport,17,False,14943,13200,Ionian Boots of Lucidity,The Bloodthirster,Guardian Angel,Last Whisper,The Black Cleaver,,18280,145509,Lane.top_lane,Role.solo
+8,Yanni Tsunami,Vel'Koz,True,Side.red,7,4,15,5.5,37,Exhaust,Flash,14,False,11690,10125,Eye of the Watchers,Mejai's Soulstealer,Ionian Boots of Lucidity,Luden's Echo,Needlessly Large Rod,Blasting Wand,40699,4077,Lane.bot_lane,Role.support
+9,SF Niffou,Lee Sin,True,Side.red,6,4,15,5.25,118,Smite,Flash,15,False,12192,10875,Enchantment: Warrior,Chain Vest,Boots of Swiftness,Dead Man's Plate,,Maw of Malmortius,19453,91923,Lane.jungle,Role.none

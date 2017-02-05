@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KA BU DAAAAA,Caitlyn,False,Side.blue,8,7,7,2.142857142857143,210,Heal,Flash,14,False,13670,13760,Last Whisper,Runaan's Hurricane,,Berserker's Greaves,Infinity Edge,Rapid Firecannon,2090,147940,Lane.bot_lane,Role.carry
+1,Rose in the Dawn,Darius,False,Side.blue,2,10,6,0.8,138,Flash,Ghost,14,False,10164,9700,Frozen Heart,Doran's Blade,Spirit Visage,Ninja Tabi,Giant's Belt,Warden's Mail,0,84237,Lane.top_lane,Role.solo
+2,DudeYaSuH,Yasuo,False,Side.blue,8,9,5,1.4444444444444444,209,Flash,Teleport,16,False,12731,12450,Ruby Crystal,Phantom Dancer,Maw of Malmortius,Boots of Swiftness,Infinity Edge,Jaurim's Fist,24178,113816,Lane.mid_lane,Role.solo
+3,papapaboy,Elise,False,Side.blue,8,8,7,1.875,129,Flash,Smite,14,True,12037,11950,Enchantment: Runic Echoes,Guardian Angel,,Boots of Mobility,Banshee's Veil,Rylai's Crystal Scepter,92615,26375,Lane.jungle,Role.none
+4,SmallMoggy,Braum,False,Side.blue,1,5,13,2.8,49,Flash,Exhaust,13,False,9819,8850,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Mercury's Treads,Crystalline Bracer,Crystalline Bracer,12530,13144,Lane.bot_lane,Role.support
+5,JesuisScott,Viktor,True,Side.red,11,4,11,5.5,207,Ghost,Flash,16,False,14228,11400,Sorcerer's Shoes,The Hex Core mk-2,Lich Bane,Doran's Ring,Fiendish Codex,Rylai's Crystal Scepter,134962,16560,Lane.mid_lane,Role.solo
+6,TubbyTiger,Jinx,True,Side.red,5,4,11,4.0,219,Heal,Flash,16,False,12767,10450,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,3667,182862,Lane.bot_lane,Role.carry
+7,THEKCPROdigy,Thresh,True,Side.red,5,8,15,2.5,22,Exhaust,Flash,14,False,10493,9125,Boots of Mobility,Redemption,Zz'Rot Portal,Eye of the Oasis,Glacial Shroud,Cloth Armor,10542,2692,Lane.bot_lane,Role.support
+8,Wizikz,Ryze,True,Side.red,11,3,8,6.333333333333333,224,Smite,Flash,18,False,16052,14125,Seraph's Embrace,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,Blasting Wand,248450,19559,Lane.jungle,Role.none
+9,loveyen,Aatrox,True,Side.red,6,8,12,2.25,105,Flash,Teleport,14,False,11023,9425,Ninja Tabi,Control Ward,Blade of the Ruined King,Sunfire Cape,Vampiric Scepter,Long Sword,41220,38149,Lane.top_lane,Role.solo

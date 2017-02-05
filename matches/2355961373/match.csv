@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid fabbbyyy,Twitch,False,Side.blue,3,8,4,0.875,139,Flash,Heal,11,False,8430,8300,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,Infinity Edge,,,0,66756,Lane.bot_lane,Role.none
+1,Kitzuø,Rek'Sai,False,Side.blue,3,3,0,1.0,151,Smite,Flash,13,False,8526,8150,Enchantment: Cinderhulk,Ninja Tabi,Titanic Hydra,Refillable Potion,Ruby Crystal,Cloth Armor,19813,100659,Lane.bot_lane,Role.none
+2,AvriI Lavigne,Syndra,False,Side.blue,2,6,2,0.6666666666666666,160,Flash,Ghost,12,False,8053,6835,Needlessly Large Rod,Doran's Ring,The Dark Seal,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,79045,8755,Lane.mid_lane,Role.solo
+3,Dna shockwave,Fiora,False,Side.blue,1,6,1,0.3333333333333333,224,Teleport,Flash,12,False,8414,7675,Doran's Blade,Ravenous Hydra,Boots of Speed,The Black Cleaver,,,651,95884,Lane.top_lane,Role.solo
+4,Str1fe,Janna,False,Side.blue,1,4,6,1.75,16,Flash,Exhaust,10,False,6846,6875,Boots of Mobility,Redemption,Eye of the Oasis,Null-Magic Mantle,Null-Magic Mantle,Control Ward,3071,4361,Lane.bot_lane,Role.none
+5,SandPaperX,Tahm Kench,True,Side.red,5,0,12,17.0,153,Teleport,Flash,14,True,10392,8525,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Sunfire Cape,Chain Vest,Cloth Armor,45513,20328,Lane.top_lane,Role.solo
+6,lc0nic,Karma,True,Side.red,8,2,11,9.5,131,Flash,Exhaust,14,False,10654,8710,Blasting Wand,Ardent Censer,Athene's Unholy Grail,Mercury's Treads,Amplifying Tome,Needlessly Large Rod,69029,13987,Lane.mid_lane,Role.solo
+7,Ntz dOdObee,Thresh,True,Side.red,3,2,13,8.0,29,Ignite,Flash,12,False,7878,6475,Locket of the Iron Solari,Crystalline Bracer,Ruby Sightstone,Relic Shield,Control Ward,Boots of Mobility,7860,5506,Lane.bot_lane,Role.support
+8,SKY Fear,Varus,True,Side.red,3,4,13,4.0,187,Flash,Heal,13,False,10747,8200,Doran's Blade,Recurve Bow,Essence Reaver,,Berserker's Greaves,Zeal,6682,108160,Lane.bot_lane,Role.carry
+9,CloudNguyén,Lee Sin,True,Side.red,8,2,12,10.0,142,Smite,Flash,14,False,11907,9175,Enchantment: Warrior,Tiamat,,Spirit Visage,Ninja Tabi,Giant's Belt,22566,114499,Lane.jungle,Role.none

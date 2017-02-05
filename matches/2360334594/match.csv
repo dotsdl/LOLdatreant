@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nuxe,Syndra,True,Side.blue,5,3,14,6.333333333333333,164,Flash,Ghost,15,False,12229,12475,Morellonomicon,Sorcerer's Shoes,Elixir of Sorcery,Rylai's Crystal Scepter,Rylai's Crystal Scepter,,99335,15136,Lane.mid_lane,Role.solo
+1,Fake Carry,Renekton,True,Side.blue,8,3,8,5.333333333333333,162,Teleport,Flash,14,False,12010,11700,The Black Cleaver,Titanic Hydra,Dead Man's Plate,Null-Magic Mantle,Boots of Swiftness,Doran's Blade,3680,103691,Lane.top_lane,Role.solo
+2,MyTeamSoGOD,Blitzcrank,True,Side.blue,4,6,14,3.0,16,Flash,Ignite,12,False,9317,7550,Zz'Rot Portal,Eye of the Oasis,Refillable Potion,Boots of Mobility,Ruby Sightstone,,11264,6428,Lane.bot_lane,Role.support
+3,Tai Draven,Draven,True,Side.blue,11,5,4,3.0,160,Flash,Heal,14,False,13555,12750,Doran's Blade,Edge of Night,Lord Dominik's Regards,Berserker's Greaves,Zeal,Infinity Edge,0,120604,Lane.bot_lane,Role.carry
+4,Pht,Graves,True,Side.blue,14,2,10,12.0,133,Smite,Flash,16,False,14089,12675,Enchantment: Warrior,Vampiric Scepter,Death's Dance,Berserker's Greaves,Rapid Firecannon,B. F. Sword,6149,150808,Lane.jungle,Role.none
+5,Peridot,Ezreal,False,Side.red,8,9,8,1.7777777777777777,150,Heal,Flash,13,True,10426,9733,Doran's Blade,Refillable Potion,Bilgewater Cutlass,Trinity Force,Manamune,Ionian Boots of Lucidity,18783,69148,Lane.bot_lane,Role.carry
+6,BaconSeeker,Brand,False,Side.red,0,8,11,1.375,31,Ignite,Flash,11,False,6663,6360,Amplifying Tome,Eye of the Watchers,Sorcerer's Shoes,Refillable Potion,Needlessly Large Rod,Giant's Belt,32467,4749,Lane.bot_lane,Role.support
+7,WalaDANG,Zac,False,Side.red,7,8,2,1.125,82,Flash,Smite,12,False,8155,7775,Randuin's Omen,Refillable Potion,Ruby Crystal,Kindlegem,Enchantment: Cinderhulk,Ionian Boots of Lucidity,56751,13632,Lane.jungle,Role.none
+8,Carrots2,Orianna,False,Side.red,2,7,7,1.2857142857142858,181,Flash,Exhaust,14,False,8739,7950,Doran's Ring,Blasting Wand,Morellonomicon,Sorcerer's Shoes,Haunting Guise,The Dark Seal,89162,12749,Lane.mid_lane,Role.solo
+9,Andybendy,Yasuo,False,Side.red,2,10,7,0.9,131,Flash,Teleport,12,False,7566,7075,Doran's Blade,Doran's Blade,Ninja Tabi,Giant's Belt,Phantom Dancer,Cloak of Agility,12751,51196,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Y8Y,Nautilus,False,Side.blue,0,5,2,0.4,36,Flash,Ignite,10,False,5222,4625,Ruby Sightstone,Targon's Brace,Control Ward,Kindlegem,,Boots of Mobility,14426,4908,Lane.bot_lane,Role.support
+1,WT Spectator,Ryze,False,Side.blue,3,4,4,1.75,155,Flash,Ghost,13,False,8219,7975,Archangel's Staff,Refillable Potion,Ionian Boots of Lucidity,Blasting Wand,Rod of Ages,,77711,13844,Lane.mid_lane,Role.solo
+2,KT Score,Poppy,False,Side.blue,0,6,2,0.3333333333333333,132,Teleport,Flash,11,False,6834,6450,Corrupting Potion,Sunfire Cape,Warden's Mail,Ruby Crystal,Ruby Crystal,Ninja Tabi,18264,47832,Lane.top_lane,Role.solo
+3,Ayukura,Caitlyn,False,Side.blue,2,6,2,0.6666666666666666,176,Flash,Heal,11,False,7810,7575,Cloak of Agility,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Pickaxe,Doran's Blade,903,85461,Lane.bot_lane,Role.carry
+4,goompa,Nocturne,False,Side.blue,5,6,2,1.1666666666666667,88,Smite,Flash,12,False,7908,7275,Ninja Tabi,Control Ward,Refillable Potion,Duskblade of Draktharr,Enchantment: Warrior,,5035,83069,Lane.jungle,Role.none
+5,RexRequired,Shaco,True,Side.red,6,2,6,6.0,137,Smite,Ignite,14,True,11154,10625,Titanic Hydra,Enchantment: Warrior,Hextech Revolver,B. F. Sword,Boots of Mobility,Serrated Dirk,29912,96947,Lane.jungle,Role.none
+6,Yarkbeezy,Alistar,True,Side.red,4,2,9,6.5,19,Exhaust,Flash,11,False,8084,5750,Nomad's Medallion,Sightstone,Boots of Mobility,Control Ward,Frozen Heart,,10468,4271,Lane.bot_lane,Role.support
+7,aiopqwe,Fiora,True,Side.red,6,1,5,11.0,175,Flash,Teleport,15,False,11331,8600,Ravenous Hydra,The Black Cleaver,Long Sword,Doran's Blade,Ninja Tabi,,365,112291,Lane.top_lane,Role.solo
+8,colourkevin,Twitch,True,Side.red,7,0,7,14.0,170,Heal,Flash,13,False,11273,8050,Doran's Blade,,Infinity Edge,Control Ward,Runaan's Hurricane,Berserker's Greaves,0,99450,Lane.bot_lane,Role.carry
+9,ChiralX,Gangplank,True,Side.red,4,5,5,1.8,133,Teleport,Flash,12,False,9989,9233,Doran's Ring,Corrupting Potion,Trinity Force,Infinity Edge,Ionian Boots of Lucidity,,6976,82771,Lane.mid_lane,Role.solo

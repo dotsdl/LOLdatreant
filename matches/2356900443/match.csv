@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,wind of harmony,Janna,False,Side.blue,0,3,1,0.3333333333333333,10,Exhaust,Flash,10,False,5128,4800,Ionian Boots of Lucidity,Redemption,Sightstone,Total Biscuit of Rejuvenation,Nomad's Medallion,,2134,3436,Lane.bot_lane,Role.support
+1,Aurath,Ziggs,False,Side.blue,2,4,0,0.5,175,Exhaust,Flash,13,False,7606,7900,Doran's Ring,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,,,95083,8104,Lane.mid_lane,Role.solo
+2,BloodNeverFrosts,Yasuo,False,Side.blue,2,5,1,0.6,180,Teleport,Flash,13,False,7969,7100,Doran's Blade,Cloak of Agility,Ruby Crystal,Phantom Dancer,B. F. Sword,Ninja Tabi,37564,65154,Lane.top_lane,Role.solo
+3,The Tank Man,Ivern,False,Side.blue,1,10,2,0.3,47,Flash,Smite,10,False,5998,5700,Hunter's Talisman,Refillable Potion,Locket of the Iron Solari,Ionian Boots of Lucidity,Athene's Unholy Grail,,8591,1936,Lane.jungle,Role.none
+4,Imaokai,Caitlyn,False,Side.blue,1,11,0,0.09090909090909091,134,Heal,Flash,9,False,6269,5650,Doran's Blade,B. F. Sword,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,,518,57481,Lane.bot_lane,Role.carry
+5,OmarGod,Vi,True,Side.red,11,0,5,16.0,130,Flash,Smite,14,False,10721,10308,Enchantment: Warrior,Boots of Swiftness,Trinity Force,Dead Man's Plate,,Refillable Potion,1138,125783,Lane.jungle,Role.none
+6,chi hai wu,Gangplank,True,Side.red,8,1,7,15.0,167,Flash,Teleport,13,False,11249,10633,Corrupting Potion,Trinity Force,Ionian Boots of Lucidity,Infinity Edge,Cull,Zeal,5809,121424,Lane.mid_lane,Role.solo
+7,TFW Glory,Sivir,True,Side.red,6,0,10,16.0,159,Heal,Flash,13,False,10484,8025,Doran's Blade,Cull,Essence Reaver,Berserker's Greaves,Zeal,Kircheis Shard,2769,110248,Lane.bot_lane,Role.carry
+8,I Love Evey,Lulu,True,Side.red,1,1,18,19.0,15,Flash,Exhaust,12,False,7676,5850,Redemption,Cloth Armor,Eye of the Watchers,,Ionian Boots of Lucidity,,8804,6331,Lane.bot_lane,Role.support
+9,1Tracked,Gnar,True,Side.red,7,4,5,3.0,131,Teleport,Flash,13,True,9654,8620,Randuin's Omen,Negatron Cloak,Control Ward,Ninja Tabi,The Black Cleaver,Doran's Blade,4966,70017,Lane.top_lane,Role.solo

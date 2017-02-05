@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Iing,Kennen,True,Side.blue,1,1,7,8.0,84,Flash,Teleport,10,False,6656,5360,Ionian Boots of Lucidity,Hextech Protobelt-01,Seeker's Armguard,Amplifying Tome,,,38435,15007,Lane.top_lane,Role.solo
+1,My Kat Evolved,Katarina,True,Side.blue,10,2,0,5.0,110,Ignite,Flash,11,True,9250,7800,The Dark Seal,Sorcerer's Shoes,Hextech Gunblade,Haunting Guise,Giant's Belt,,71220,14442,Lane.mid_lane,Role.solo
+2,Fire Editorial,Ivern,True,Side.blue,1,2,9,5.0,59,Flash,Smite,11,False,7215,6250,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,Skirmisher's Sabre,,,7239,4443,Lane.jungle,Role.none
+3,Cat Person,Soraka,True,Side.blue,1,1,9,10.0,2,Flash,Heal,8,False,6190,5100,Redemption,Sightstone,,Frostfang,Ruby Crystal,Boots of Speed,2687,3301,Lane.bot_lane,Role.support
+4,Falco Mechanic,Vayne,True,Side.blue,10,2,2,6.0,151,Exhaust,Flash,11,False,10870,9650,,Infinity Edge,Berserker's Greaves,Phantom Dancer,B. F. Sword,Doran's Blade,1808,91733,Lane.bot_lane,Role.carry
+5,Joji LAN,Jayce,False,Side.red,2,6,2,0.6666666666666666,68,Flash,Teleport,10,False,4744,4450,Doran's Blade,Hexdrinker,Boots of Speed,Phage,Caulfield's Warhammer,,5518,29145,Lane.top_lane,Role.solo
+6,MEME MASTER XD ,Zac,False,Side.red,1,3,5,2.0,42,Flash,Smite,8,False,4456,4225,Control Ward,Refillable Potion,Enchantment: Cinderhulk,Ionian Boots of Lucidity,,Ruby Crystal,21157,8468,Lane.jungle,Role.none
+7,Alicopter,Alistar,False,Side.red,1,4,4,1.25,30,Exhaust,Flash,8,False,4378,3525,Control Ward,Boots of Mobility,Targon's Brace,Crystalline Bracer,Total Biscuit of Rejuvenation,Sightstone,8913,2743,Lane.bot_lane,Role.solo
+8,sungil2,Ezreal,False,Side.red,0,5,2,0.4,34,Heal,Flash,7,False,3647,3200,Doran's Blade,Manamune,,Boots of Speed,,,5176,14159,Lane.jungle,Role.none
+9,HannibaI Barca,Kog'Maw,False,Side.red,3,5,2,1.0,125,Teleport,Flash,10,False,6186,5375,Morellonomicon,Doran's Ring,Tear of the Goddess,Boots of Speed,Aether Wisp,,51235,5778,Lane.mid_lane,Role.solo

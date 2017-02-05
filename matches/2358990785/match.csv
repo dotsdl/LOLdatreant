@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Stunningstyles,Nami,False,Side.blue,0,5,7,1.4,7,Flash,Exhaust,11,False,6011,5275,Boots of Mobility,Tear of the Goddess,Eye of the Watchers,Fiendish Codex,Control Ward,,6478,2565,Lane.bot_lane,Role.support
+1,Alexa,Miss Fortune,False,Side.blue,3,6,2,0.8333333333333334,202,Heal,Flash,12,False,8904,8850,,Pickaxe,Rapid Firecannon,Essence Reaver,Doran's Blade,Berserker's Greaves,3488,85737,Lane.bot_lane,Role.carry
+2,ChuYung,Poppy,False,Side.blue,5,6,3,1.3333333333333333,177,Teleport,Flash,14,False,9011,8750,Control Ward,Corrupting Potion,Sunfire Cape,Dead Man's Plate,Ninja Tabi,Spectre's Cowl,29820,58936,Lane.top_lane,Role.solo
+3,FrostyLights,Lee Sin,False,Side.blue,3,9,5,0.8888888888888888,103,Smite,Flash,12,False,7932,7375,Randuin's Omen,Refillable Potion,Control Ward,Enchantment: Warrior,Null-Magic Mantle,Mercury's Treads,12384,74514,Lane.jungle,Role.none
+4,MudBone69,Ryze,False,Side.blue,5,6,3,1.3333333333333333,152,Ghost,Flash,13,False,8783,8510,Seraph's Embrace,Rod of Ages,Amplifying Tome,Ionian Boots of Lucidity,Giant's Belt,,93048,8463,Lane.mid_lane,Role.solo
+5,iOddOrange,Kha'Zix,True,Side.red,9,1,3,12.0,146,Flash,Smite,15,False,12348,10850,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Duskblade of Draktharr,Ionian Boots of Lucidity,Pickaxe,4772,161724,Lane.jungle,Role.none
+6,TheRickestRlCK,Caitlyn,True,Side.red,5,3,9,4.666666666666667,186,Flash,Heal,13,False,11486,9625,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,493,129755,Lane.bot_lane,Role.carry
+7,Tsùki,Karma,True,Side.red,2,5,20,4.4,20,Flash,Exhaust,13,False,9506,8650,Eye of the Watchers,Redemption,Control Ward,Ionian Boots of Lucidity,Forbidden Idol,Locket of the Iron Solari,25850,5895,Lane.bot_lane,Role.support
+8,SKT Beng,Yasuo,True,Side.red,1,5,8,1.8,211,Flash,Teleport,15,False,10624,9560,Berserker's Greaves,Doran's Blade,B. F. Sword,Phantom Dancer,Frozen Mallet,Cloak of Agility,27553,116668,Lane.top_lane,Role.solo
+9,Thalies,Katarina,True,Side.red,15,2,5,10.0,175,Ignite,Flash,15,True,13281,10700,Mejai's Soulstealer,Refillable Potion,Luden's Echo,Hextech Gunblade,Sorcerer's Shoes,Needlessly Large Rod,109319,10727,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,yungELEF,Lux,False,Side.blue,6,6,8,2.3333333333333335,143,Ghost,Flash,14,False,10339,8810,Doran's Ring,Luden's Echo,Morellonomicon,Amplifying Tome,Mejai's Soulstealer,Boots of Speed,72224,15035,Lane.mid_lane,Role.solo
+1,SaiSaiidapi,Ezreal,False,Side.blue,6,5,6,2.4,223,Heal,Flash,15,False,11496,9333,Doran's Blade,Muramana,Last Whisper,Trinity Force,Ionian Boots of Lucidity,Long Sword,19887,119896,Lane.bot_lane,Role.carry
+2,Lite Matter,Graves,False,Side.blue,7,6,3,1.6666666666666667,186,Flash,Smite,14,False,11201,10325,Enchantment: Warrior,Phantom Dancer,Ninja Tabi,The Black Cleaver,Null-Magic Mantle,Long Sword,5153,150965,Lane.jungle,Role.none
+3,MoonLightRice,Bard,False,Side.blue,1,6,13,2.3333333333333335,25,Flash,Exhaust,13,False,8150,7850,Eye of the Watchers,Locket of the Iron Solari,Redemption,,,Boots of Mobility,16177,3424,Lane.bot_lane,Role.support
+4,Angry Handjob,Trundle,False,Side.blue,4,6,4,1.3333333333333333,174,Teleport,Flash,15,True,10163,10225,Spirit Visage,Iceborn Gauntlet,,Corrupting Potion,Sunfire Cape,Ninja Tabi,40571,56895,Lane.top_lane,Role.solo
+5,Firestrike,Darius,True,Side.red,6,5,1,1.4,237,Teleport,Flash,16,False,13001,11425,Randuin's Omen,The Black Cleaver,Ninja Tabi,Sunfire Cape,Ruby Crystal,Null-Magic Mantle,22303,139169,Lane.top_lane,Role.solo
+6,Anthøny,Lee Sin,True,Side.red,12,5,7,3.8,152,Smite,Flash,16,False,14650,12925,Maw of Malmortius,Randuin's Omen,The Black Cleaver,Boots of Swiftness,Enchantment: Warrior,,36568,121765,Lane.jungle,Role.none
+7,ShaShou,Ryze,True,Side.red,3,5,6,1.8,155,Ghost,Flash,14,False,11621,10425,Seraph's Embrace,Refillable Potion,Rylai's Crystal Scepter,Rod of Ages,Ionian Boots of Lucidity,,117233,12806,Lane.mid_lane,Role.solo
+8,Heimdall,Jhin,True,Side.red,7,3,9,5.333333333333333,215,Heal,Flash,16,False,13934,11900,Phantom Dancer,Rapid Firecannon,Berserker's Greaves,Doran's Blade,Infinity Edge,Last Whisper,14461,161981,Lane.bot_lane,Role.carry
+9,touch,Zyra,True,Side.red,1,6,12,2.1666666666666665,25,Flash,Exhaust,13,False,9992,8085,Giant's Belt,Eye of the Watchers,Haunting Guise,Ionian Boots of Lucidity,Amplifying Tome,Needlessly Large Rod,33502,4093,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BunFuu,Lux,False,Side.blue,3,2,4,3.5,189,Flash,Exhaust,14,False,10331,9975,Doran's Ring,Zhonya's Hourglass,Luden's Echo,Sorcerer's Shoes,Athene's Unholy Grail,,107295,18356,Lane.mid_lane,Role.solo
+1,Reformed Nove,Kha'Zix,False,Side.blue,4,6,6,1.6666666666666667,136,Smite,Flash,15,False,10747,10450,Enchantment: Warrior,Youmuu's Ghostblade,Control Ward,Long Sword,Ninja Tabi,The Black Cleaver,3854,143248,Lane.jungle,Role.none
+2,Rapidx,Irelia,False,Side.blue,3,7,6,1.2857142857142858,278,Flash,Teleport,16,False,12154,11733,Titanic Hydra,Trinity Force,Ninja Tabi,Randuin's Omen,,,1699,174681,Lane.top_lane,Role.solo
+3,KlvA,Alistar,False,Side.blue,1,8,10,1.375,40,Ignite,Flash,13,False,8151,6475,Ruby Sightstone,Refillable Potion,Knight's Vow,,Targon's Brace,Boots of Mobility,9347,5673,Lane.bot_lane,Role.support
+4,TJMAS,Caitlyn,False,Side.blue,4,5,5,1.8,235,Flash,Heal,14,False,11513,10675,Refillable Potion,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Phantom Dancer,Doran's Blade,517,154746,Lane.bot_lane,Role.carry
+5,Garani,Vayne,True,Side.red,10,4,8,4.5,201,Heal,Flash,15,False,14237,12650,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Statikk Shiv,Phantom Dancer,B. F. Sword,30088,109177,Lane.bot_lane,Role.carry
+6,Hanjaro,Soraka,True,Side.red,1,3,21,7.333333333333333,22,Flash,Exhaust,14,False,10034,8475,Sightstone,Redemption,Locket of the Iron Solari,Ninja Tabi,Ancient Coin,Raptor Cloak,20758,3695,Lane.bot_lane,Role.support
+7,less       Fear,Nautilus,True,Side.red,1,3,15,5.333333333333333,197,Teleport,Flash,16,True,12011,11075,Sunfire Cape,Randuin's Omen,Doran's Ring,Spirit Visage,Doran's Ring,Ninja Tabi,93878,26973,Lane.top_lane,Role.solo
+8,Pht,Yasuo,True,Side.red,5,2,5,5.0,329,Ignite,Flash,17,False,15093,13025,B. F. Sword,Guardian Angel,Infinity Edge,Statikk Shiv,Berserker's Greaves,Vampiric Scepter,87649,184262,Lane.mid_lane,Role.solo
+9,Chewy is god,Rengar,True,Side.red,11,3,10,7.0,243,Smite,Flash,17,False,16381,16950,Boots of Mobility,Youmuu's Ghostblade,Infinity Edge,Lord Dominik's Regards,Enchantment: Warrior,Statikk Shiv,34228,211750,Lane.jungle,Role.none

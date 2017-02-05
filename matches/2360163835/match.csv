@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Based Stevens,Draven,False,Side.blue,0,6,0,0.0,116,Heal,Flash,10,False,5659,5450,Youmuu's Ghostblade,Serrated Dirk,Doran's Blade,Doran's Blade,Boots of Speed,Total Biscuit of Rejuvenation,918,49169,Lane.bot_lane,Role.carry
+1,Doodalive,Lissandra,False,Side.blue,2,4,2,1.0,125,Teleport,Flash,11,False,6585,6060,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Rod of Ages,Amplifying Tome,,54632,6292,Lane.mid_lane,Role.solo
+2,FIoopie,Hecarim,False,Side.blue,5,2,4,4.5,144,Ghost,Smite,13,False,9460,8883,Mercury's Treads,Refillable Potion,,Spectre's Cowl,Enchantment: Cinderhulk,Trinity Force,21611,98052,Lane.jungle,Role.none
+3,Peach Nayeon,Taliyah,False,Side.blue,1,11,3,0.36363636363636365,99,Teleport,Flash,10,False,5863,5700,Doran's Ring,Morellonomicon,Faerie Charm,Fiendish Codex,Sorcerer's Shoes,Health Potion,52871,8120,Lane.top_lane,Role.solo
+4,Simon Hawkes,Zilean,False,Side.blue,1,3,1,0.6666666666666666,23,Exhaust,Flash,10,False,4882,4025,Spellthief's Edge,Sightstone,Refillable Potion,Crystalline Bracer,Ionian Boots of Lucidity,Forbidden Idol,22742,4456,Lane.bot_lane,Role.support
+5,General Gatsby,Gragas,True,Side.red,5,4,6,2.75,144,Flash,Teleport,13,False,8919,8000,Doran's Ring,Hextech Protobelt-01,Refillable Potion,Sheen,Ionian Boots of Lucidity,Abyssal Scepter,77715,12779,Lane.top_lane,Role.solo
+6,4911,Ezreal,True,Side.red,5,0,8,13.0,164,Heal,Flash,12,False,9481,8983,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Recurve Bow,Manamune,Long Sword,10335,78816,Lane.bot_lane,Role.carry
+7,6IIII9,Janna,True,Side.red,1,1,11,12.0,5,Exhaust,Flash,10,False,6366,5885,Redemption,Eye of the Oasis,Boots of Speed,Amplifying Tome,Control Ward,Forbidden Idol,3584,5654,Lane.bot_lane,Role.support
+8, keine Hosen,Corki,True,Side.red,4,2,2,3.0,168,Flash,Cleanse,12,False,8657,8033,Doran's Blade,Bilgewater Cutlass,Trinity Force,Sorcerer's Shoes,Hextech Revolver,,69299,21812,Lane.mid_lane,Role.solo
+9,jamican banana,Zac,True,Side.red,10,2,4,7.0,112,Smite,Flash,13,True,9789,9625,Ionian Boots of Lucidity,Zz'Rot Portal,Enchantment: Cinderhulk,Spirit Visage,Cloth Armor,Refillable Potion,72949,19792,Lane.jungle,Role.none

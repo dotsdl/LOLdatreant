@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,VAGRANTVIRUS,Riven,False,Side.blue,4,8,2,0.75,118,Flash,Ignite,12,True,7559,6850,The Black Cleaver,Tiamat,Refillable Potion,Vampiric Scepter,Ionian Boots of Lucidity,Long Sword,0,68498,Lane.top_lane,Role.solo
+1,TeddyRO,Ashe,False,Side.blue,2,6,6,1.3333333333333333,144,Flash,Heal,12,False,7448,6825,Doran's Blade,B. F. Sword,Berserker's Greaves,Cull,Pickaxe,Runaan's Hurricane,922,70941,Lane.bot_lane,Role.carry
+2,NA Mechanics,Elise,False,Side.blue,3,6,7,1.6666666666666667,70,Smite,Flash,11,False,7286,6025,Enchantment: Runic Echoes,Refillable Potion,Giant's Belt,Ninja Tabi,Warden's Mail,,39222,17322,Lane.jungle,Role.none
+3,EnjoyLoss,Xerath,False,Side.blue,7,2,4,5.5,148,Ghost,Flash,13,False,8668,8450,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Zhonya's Hourglass,The Dark Seal,,87518,5520,Lane.mid_lane,Role.solo
+4,TSM MeNoHaxor,Zyra,False,Side.blue,1,8,8,1.125,14,Exhaust,Flash,10,False,6567,6350,Eye of the Watchers,Haunting Guise,Boots of Mobility,Control Ward,Blasting Wand,Refillable Potion,16650,3064,Lane.bot_lane,Role.support
+5,Arcminute,Shyvana,True,Side.red,8,5,9,3.4,126,Smite,Flash,14,False,11022,9350,Mercury's Treads,Refillable Potion,Enchantment: Bloodrazor,Dead Man's Plate,Wit's End,,66957,64058,Lane.jungle,Role.none
+6,DirtyMobs,Brand,True,Side.red,3,5,9,2.4,18,Flash,Exhaust,10,False,7554,5385,Eye of the Watchers,Control Ward,Refillable Potion,Amplifying Tome,Sorcerer's Shoes,Giant's Belt,18048,2624,Lane.bot_lane,Role.support
+7,McCashDollar,Shaco,True,Side.red,7,3,2,3.0,132,Teleport,Ignite,13,False,9322,7650,Youmuu's Ghostblade,Hextech Protobelt-01,Corrupting Potion,Cloth Armor,The Dark Seal,Mercury's Treads,46221,29130,Lane.top_lane,Role.solo
+8,Lukwer,Talon,True,Side.red,4,5,5,1.8,128,Flash,Ignite,12,False,8326,8425,Caulfield's Warhammer,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Phage,Long Sword,1177,73443,Lane.mid_lane,Role.solo
+9,Jeehun,Jhin,True,Side.red,8,0,9,17.0,208,Flash,Heal,14,False,11684,8875,Doran's Blade,B. F. Sword,Boots of Speed,Rapid Firecannon,Essence Reaver,Dagger,6947,117734,Lane.bot_lane,Role.carry

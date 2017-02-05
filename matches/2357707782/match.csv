@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RiddlerShen,Shen,False,Side.blue,6,6,7,2.1666666666666665,129,Flash,Ignite,14,False,8968,8770,Doran's Shield,Redemption,Ninja Tabi,Sunfire Cape,Raptor Cloak,Negatron Cloak,46138,23665,Lane.top_lane,Role.solo
+1,Hide btch bush,Jinx,False,Side.blue,3,8,5,1.0,148,Heal,Flash,13,False,8457,7950,Youmuu's Ghostblade,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Long Sword,584,87312,Lane.bot_lane,Role.carry
+2,Dicey,Shaco,False,Side.blue,4,6,3,1.1666666666666667,81,Smite,Ignite,12,False,8032,7525,Enchantment: Warrior,Tiamat,Hunter's Potion,Ionian Boots of Lucidity,Serrated Dirk,B. F. Sword,19177,56861,Lane.jungle,Role.none
+3,0wnedbychris,Janna,False,Side.blue,0,6,13,2.1666666666666665,7,Exhaust,Flash,12,False,7081,6425,Ardent Censer,Eye of the Oasis,Aegis of the Legion,Control Ward,Boots of Speed,Null-Magic Mantle,7032,844,Lane.bot_lane,Role.support
+4,Atif,Annie,False,Side.blue,4,5,1,1.0,195,Flash,Ignite,13,False,9389,8875,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,,86741,12892,Lane.mid_lane,Role.solo
+5,xvae,Malphite,True,Side.red,6,4,16,5.5,112,Flash,Smite,13,False,11271,8800,Mercury's Treads,,Iceborn Gauntlet,Warden's Mail,Giant's Belt,Enchantment: Cinderhulk,48829,49975,Lane.jungle,Role.none
+6,NA Top Lane Xio,Quinn,True,Side.red,3,4,6,2.25,229,Teleport,Flash,15,False,12365,10225,Berserker's Greaves,Mortal Reminder,Essence Reaver,Zeal,Cull,Doran's Blade,2368,149989,Lane.top_lane,Role.solo
+7,Sìyou,Karma,True,Side.red,5,4,17,5.5,15,Flash,Ignite,13,False,10328,8550,Athene's Unholy Grail,Eye of the Watchers,Control Ward,Liandry's Torment,Boots of Speed,The Dark Seal,21112,7707,Lane.bot_lane,Role.support
+8,ToxicGreenie QwQ,Orianna,True,Side.red,12,3,7,6.333333333333333,204,Ghost,Flash,15,True,13619,12070,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Negatron Cloak,Void Staff,117724,16164,Lane.mid_lane,Role.solo
+9,adc feng lft,Jhin,True,Side.red,5,2,11,8.0,228,Heal,Flash,14,False,13024,11675,Doran's Blade,Dagger,Boots of Swiftness,Infinity Edge,Essence Reaver,Rapid Firecannon,7449,162014,Lane.bot_lane,Role.carry

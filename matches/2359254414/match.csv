@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zaganox,Vayne,False,Side.blue,1,8,6,0.875,154,Heal,Flash,11,False,8038,6525,Doran's Blade,Refillable Potion,Statikk Shiv,Berserker's Greaves,B. F. Sword,Pickaxe,9780,50242,Lane.bot_lane,Role.carry
+1,Wintrader Vulcan,Karma,False,Side.blue,1,4,9,2.5,23,Flash,Exhaust,11,False,6582,6225,Boots of Mobility,Ruby Sightstone,Control Ward,Redemption,Spellthief's Edge,Null-Magic Mantle,13844,6069,Lane.bot_lane,Role.support
+2,Sorrain,Zed,False,Side.blue,4,5,1,1.0,136,Flash,Ignite,12,True,7868,7075,Recurve Bow,Bilgewater Cutlass,,Duskblade of Draktharr,Ninja Tabi,,4070,50807,Lane.mid_lane,Role.solo
+3,Koby,Rumble,False,Side.blue,6,4,2,2.0,191,Flash,Teleport,15,False,9670,8985,Doran's Shield,Liandry's Torment,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,Zhonya's Hourglass,96212,9960,Lane.top_lane,Role.solo
+4,godrjsdnd,Graves,False,Side.blue,3,5,5,1.6,171,Smite,Flash,13,False,9616,8325,Youmuu's Ghostblade,Refillable Potion,Berserker's Greaves,Enchantment: Warrior,Dagger,Phage,5210,126238,Lane.jungle,Role.none
+5,IKingVex,Corki,True,Side.red,6,2,3,4.5,206,Exhaust,Flash,15,False,10856,9683,Doran's Blade,Hextech Gunblade,Dagger,Trinity Force,Brawler's Gloves,Sorcerer's Shoes,92470,31310,Lane.mid_lane,Role.solo
+6,Doublelift,Twitch,True,Side.red,11,2,3,7.0,221,Flash,Heal,14,False,12593,12025,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Rapid Firecannon,B. F. Sword,4868,124493,Lane.bot_lane,Role.carry
+7,Bobjenkins,Gnar,True,Side.red,2,5,6,1.6,160,Flash,Teleport,13,False,8876,8350,Doran's Blade,Frozen Mallet,Ninja Tabi,The Black Cleaver,Long Sword,,4640,84436,Lane.top_lane,Role.solo
+8,Biofrost ,Lulu,True,Side.red,1,3,16,5.666666666666667,10,Flash,Exhaust,13,False,7656,7375,Eye of the Watchers,Aether Wisp,Ionian Boots of Lucidity,Redemption,Forbidden Idol,,7425,5181,Lane.bot_lane,Role.support
+9,Darvec,Hecarim,True,Side.red,6,3,5,3.6666666666666665,96,Smite,Ghost,13,False,9526,9533,Enchantment: Cinderhulk,Giant's Belt,Trinity Force,Ionian Boots of Lucidity,Chain Vest,,13061,93964,Lane.jungle,Role.none

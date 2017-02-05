@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,VegetableVelkoz,Alistar,False,Side.blue,2,5,4,1.2,41,Exhaust,Flash,10,False,6371,5550,Eye of the Equinox,Glacial Shroud,Boots of Swiftness,Warden's Mail,,,9418,8110,Lane.bot_lane,Role.support
+1,bvcx222,Sion,False,Side.blue,1,8,0,0.125,182,Flash,Teleport,13,False,8087,6535,Corrupting Potion,Zz'Rot Portal,Bami's Cinder,Doran's Ring,Doran's Ring,Spectre's Cowl,64506,39346,Lane.top_lane,Role.solo
+2,InfernalRebirth,Evelynn,False,Side.blue,4,6,2,1.0,110,Smite,Flash,12,False,7806,7825,Bilgewater Cutlass,Hextech Revolver,Enchantment: Runic Echoes,Sheen,The Dark Seal,Sorcerer's Shoes,52978,30927,Lane.jungle,Role.none
+3,Wazzi,Vayne,False,Side.blue,5,4,3,2.0,167,Flash,Heal,12,True,9243,8350,Cull,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,,14381,71240,Lane.bot_lane,Role.carry
+4,Tobias Fate,Twisted Fate,False,Side.blue,0,10,2,0.2,138,Flash,Ghost,11,False,7561,6175,Cull,Doran's Ring,Control Ward,Lich Bane,Sorcerer's Shoes,Aether Wisp,67106,10184,Lane.mid_lane,Role.solo
+5,AsianSGpøtatø,Twitch,True,Side.red,6,7,9,2.142857142857143,135,Flash,Heal,12,False,9872,9275,Doran's Blade,Infinity Edge,Vampiric Scepter,Cull,Berserker's Greaves,Runaan's Hurricane,0,74725,Lane.bot_lane,Role.carry
+6,Simon Hawkes,Nasus,True,Side.red,9,0,15,24.0,182,Teleport,Flash,14,False,12348,10975,Luden's Echo,Corrupting Potion,Liandry's Torment,Blasting Wand,Sorcerer's Shoes,Needlessly Large Rod,90737,32233,Lane.top_lane,Role.solo
+7,IQ is 201 ,Rek'Sai,True,Side.red,9,0,7,16.0,198,Flash,Smite,15,False,12965,11150,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,The Black Cleaver,Dead Man's Plate,22349,137631,Lane.jungle,Role.none
+8,Waraight,Thresh,True,Side.red,2,2,17,9.5,25,Flash,Exhaust,12,False,7487,6200,Total Biscuit of Rejuvenation,Face of the Mountain,Sightstone,Boots of Mobility,Chalice of Harmony,Forbidden Idol,8338,6583,Lane.bot_lane,Role.support
+9,3in1warrior,Renekton,True,Side.red,7,3,10,5.666666666666667,160,Flash,Exhaust,13,False,10793,10225,Tiamat,Mercury's Treads,Chain Vest,The Black Cleaver,Maw of Malmortius,Ruby Crystal,6514,99332,Lane.mid_lane,Role.solo

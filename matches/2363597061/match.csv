@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Alex Ich 1,LeBlanc,True,Side.blue,8,4,5,3.25,150,Flash,Teleport,13,False,10303,8900,Corrupting Potion,The Dark Seal,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Blasting Wand,77728,9365,Lane.mid_lane,Role.solo
+1,BukZacH,Caitlyn,True,Side.blue,14,2,10,12.0,192,Flash,Heal,13,True,14106,14100,Rapid Firecannon,Infinity Edge,The Bloodthirster,Runaan's Hurricane,Berserker's Greaves,,2377,167047,Lane.bot_lane,Role.carry
+2,aShady,Morgana,True,Side.blue,5,2,23,14.0,11,Ignite,Flash,12,False,9831,7175,Aegis of the Legion,Redemption,Eye of the Watchers,Boots of Mobility,Control Ward,Null-Magic Mantle,15354,6665,Lane.bot_lane,Role.support
+3,Lerky,Ivern,True,Side.blue,0,2,11,5.5,58,Smite,Flash,12,False,7698,6025,Hunter's Talisman,Refillable Potion,Ionian Boots of Lucidity,The Dark Seal,Athene's Unholy Grail,Redemption,5961,4916,Lane.jungle,Role.none
+4,Screamer,Jayce,True,Side.blue,5,3,4,3.0,183,Teleport,Flash,14,False,10441,8675,The Black Cleaver,Ninja Tabi,Long Sword,Youmuu's Ghostblade,Doran's Blade,Long Sword,10141,107792,Lane.top_lane,Role.solo
+5,amumumu,Soraka,False,Side.red,0,10,8,0.8,19,Flash,Exhaust,10,False,6096,5550,,Talisman of Ascension,Redemption,Ionian Boots of Lucidity,,,13550,2312,Lane.bot_lane,Role.support
+6,Grell Carry U,Ezreal,False,Side.red,4,7,3,1.0,126,Flash,Heal,12,False,7605,6200,Doran's Blade,Manamune,Ionian Boots of Lucidity,Doran's Blade,Vampiric Scepter,Sheen,22007,55400,Lane.bot_lane,Role.carry
+7,I Want My Cigar,Graves,False,Side.red,6,6,2,1.3333333333333333,128,Flash,Smite,12,False,8674,7950,Enchantment: Warrior,Berserker's Greaves,The Black Cleaver,Brawler's Gloves,Dagger,Dagger,1267,97996,Lane.jungle,Role.none
+8,Biscuit Crusader,Twisted Fate,False,Side.red,1,5,5,1.2,109,Flash,Ghost,11,False,7182,6900,Abyssal Scepter,Rod of Ages,Ionian Boots of Lucidity,Doran's Ring,,,44100,7862,Lane.mid_lane,Role.solo
+9,eRx,Riven,False,Side.red,2,4,2,1.0,171,Teleport,Flash,13,False,8281,7600,The Black Cleaver,,Edge of Night,,,Ionian Boots of Lucidity,0,85084,Lane.top_lane,Role.solo

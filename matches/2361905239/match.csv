@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Minsama,Soraka,False,Side.blue,0,4,9,2.25,10,Exhaust,Flash,11,False,6514,6000,Cloth Armor,Redemption,Eye of the Oasis,Ionian Boots of Lucidity,Cloth Armor,,8242,1238,Lane.bot_lane,Role.support
+1,munra6,Nasus,False,Side.blue,1,9,1,0.2222222222222222,135,Ghost,Teleport,13,False,7435,6625,Boots of Speed,Health Potion,Zz'Rot Portal,Ruby Crystal,,Iceborn Gauntlet,8073,51749,Lane.top_lane,Role.solo
+2,MeanLilTeddyBear,Evelynn,False,Side.blue,11,7,6,2.4285714285714284,134,Flash,Smite,14,False,11402,10850,Hextech Protobelt-01,Seeker's Armguard,Sorcerer's Shoes,Lich Bane,Enchantment: Runic Echoes,,75988,36194,Lane.jungle,Role.none
+3,iJustSpectate,Ezreal,False,Side.blue,4,2,7,5.5,156,Heal,Flash,13,False,9007,7883,Doran's Blade,Trinity Force,Lord Dominik's Regards,Ionian Boots of Lucidity,,,13653,77377,Lane.bot_lane,Role.carry
+4,Taoon,Ryze,False,Side.blue,5,4,5,2.5,168,Flash,Ghost,13,False,9564,8835,Seraph's Embrace,Blasting Wand,Rod of Ages,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,105786,7196,Lane.mid_lane,Role.solo
+5,GowaSan,Jax,True,Side.red,14,3,4,6.0,271,Ignite,Flash,18,True,16137,14683,Hextech Gunblade,Trinity Force,Maw of Malmortius,Jaurim's Fist,Giant's Belt,Mercury's Treads,47425,155791,Lane.top_lane,Role.solo
+6,XiaoGod,Miss Fortune,True,Side.red,3,4,5,2.0,178,Heal,Flash,13,False,10312,9550,Long Sword,Doran's Blade,Berserker's Greaves,Essence Reaver,Rapid Firecannon,Phage,5131,85599,Lane.bot_lane,Role.carry
+7,BlackTech Sky,Fizz,True,Side.red,4,6,2,1.0,119,Ignite,Flash,12,False,9624,9150,Doran's Ring,Seeker's Armguard,Fiendish Codex,Lich Bane,Boots of Speed,Abyssal Scepter,38003,16286,Lane.mid_lane,Role.solo
+8,Goddess Of Luck,Shyvana,True,Side.red,2,4,6,2.0,146,Flash,Smite,14,False,10284,9250,Enchantment: Bloodrazor,Refillable Potion,Boots of Speed,Frozen Mallet,Guardian Angel,Null-Magic Mantle,53957,68286,Lane.jungle,Role.none
+9,Swagglehaus,Nami,True,Side.red,3,4,5,2.0,9,Exhaust,Flash,12,False,8095,7250,Redemption,Frost Queen's Claim,Sightstone,Null-Magic Mantle,Boots of Mobility,Cloth Armor,7585,5297,Lane.bot_lane,Role.support

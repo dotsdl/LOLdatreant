@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Delerium,Janna,False,Side.blue,0,1,0,0.0,7,Exhaust,Flash,9,False,4675,3875,Sightstone,Control Ward,Crystalline Bracer,Forbidden Idol,Boots of Speed,Nomad's Medallion,3725,1944,Lane.bot_lane,Role.support
+1,Xandergod,Vayne,False,Side.blue,0,13,0,0.0,123,Flash,Heal,10,False,6159,5425,Doran's Blade,B. F. Sword,Pickaxe,Berserker's Greaves,Zeal,Dagger,0,48584,Lane.bot_lane,Role.carry
+2,DogFewd,Vel'Koz,False,Side.blue,0,3,1,0.3333333333333333,194,Flash,Ghost,13,False,8221,7850,Liandry's Torment,,Frost Queen's Claim,Doran's Ring,Sorcerer's Shoes,Doran's Ring,102544,10340,Lane.mid_lane,Role.solo
+3,Farefars World,Nasus,False,Side.blue,2,5,0,0.4,157,Flash,Teleport,14,False,7757,7000,Iceborn Gauntlet,Ninja Tabi,Giant's Belt,Spectre's Cowl,Cloth Armor,Cloth Armor,12966,89121,Lane.top_lane,Role.solo
+4,Quest and K0,Lee Sin,False,Side.blue,3,6,1,0.6666666666666666,63,Flash,Smite,11,False,6176,5225,Tiamat,Enchantment: Warrior,Boots of Mobility,Refillable Potion,Long Sword,,7335,50430,Lane.jungle,Role.none
+5,TQS Zuardian,Azir,True,Side.red,5,2,2,3.5,170,Ignite,Flash,13,False,9481,7225,Liandry's Torment,Doran's Ring,Refillable Potion,Nashor's Tooth,Boots of Speed,,84164,9941,Lane.mid_lane,Role.solo
+6,Abraham,Blitzcrank,True,Side.red,3,0,14,17.0,27,Flash,Ignite,11,True,7893,6500,Boots of Mobility,Redemption,Face of the Mountain,,Sightstone,,7961,7050,Lane.bot_lane,Role.support
+7,Gweiss,Hecarim,True,Side.red,4,1,8,12.0,193,Smite,Ghost,15,False,11509,10658,Enchantment: Warrior,Youmuu's Ghostblade,Boots of Swiftness,Trinity Force,Long Sword,,11896,160510,Lane.jungle,Role.none
+8,Fatchicks r us,Jayce,True,Side.red,8,1,3,11.0,153,Teleport,Flash,14,False,9644,8325,Doran's Blade,Ionian Boots of Lucidity,Youmuu's Ghostblade,The Black Cleaver,Long Sword,Corrupting Potion,13270,99824,Lane.top_lane,Role.solo
+9,effortlessly,Jhin,True,Side.red,8,1,3,11.0,155,Heal,Flash,12,False,10516,10625,Rapid Firecannon,Pickaxe,Berserker's Greaves,Essence Reaver,B. F. Sword,Doran's Blade,5849,96718,Lane.bot_lane,Role.carry

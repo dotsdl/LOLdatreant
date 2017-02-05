@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AchiIIes Heal,Ekko,True,Side.blue,4,1,3,7.0,67,Flash,Smite,9,False,6459,6225,Hunter's Potion,Sheen,Boots of Speed,Enchantment: Runic Echoes,Blasting Wand,Aether Wisp,37858,19090,Lane.jungle,Role.none
+1,ZYRVK,Vayne,True,Side.blue,4,2,1,2.5,121,Flash,Heal,9,False,7534,5950,Blade of the Ruined King,,Boots of Speed,Zeal,Dagger,Doran's Blade,77,42433,Lane.bot_lane,Role.carry
+2,support or troll,Karma,True,Side.blue,1,1,6,7.0,25,Ignite,Flash,9,False,5702,4385,Fiendish Codex,,Sightstone,Frostfang,Boots of Mobility,Amplifying Tome,22278,8592,Lane.bot_lane,Role.support
+3,KINKY LORD,Viktor,True,Side.blue,3,0,2,5.0,119,Ghost,Flash,11,False,6641,6450,The Hex Core mk-2,Ionian Boots of Lucidity,Doran's Ring,Sheen,Aether Wisp,Blasting Wand,48404,12613,Lane.mid_lane,Role.solo
+4,Dream Arc,Malphite,True,Side.blue,4,2,1,2.5,89,Teleport,Flash,11,False,6252,5325,Corrupting Potion,The Dark Seal,Sunfire Cape,Doran's Ring,Sorcerer's Shoes,,29593,18494,Lane.top_lane,Role.solo
+5,Fàkèr  ,Jayce,False,Side.red,1,4,2,0.75,84,Ignite,Flash,9,False,4595,3875,Refillable Potion,Youmuu's Ghostblade,Null-Magic Mantle,Boots of Speed,,,6116,26784,Lane.top_lane,Role.solo
+6,Shakely,Kindred,False,Side.red,3,4,2,1.25,60,Smite,Flash,9,True,5381,4025,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,,,,1227,44939,Lane.jungle,Role.none
+7,Just Bad,Alistar,False,Side.red,1,2,3,2.0,19,Flash,Ignite,8,False,3672,2800,Targon's Brace,,Boots of Mobility,Sightstone,,,2984,2652,Lane.bot_lane,Role.support
+8,Reservation,Fizz,False,Side.red,1,3,1,0.6666666666666666,58,Ignite,Flash,8,False,3972,2675,Corrupting Potion,Doran's Ring,Aether Wisp,Blasting Wand,,,12891,6046,Lane.mid_lane,Role.solo
+9,Fv Ares,Jhin,False,Side.red,0,3,3,1.0,65,Flash,Heal,7,False,4026,3350,Doran's Blade,B. F. Sword,Caulfield's Warhammer,Boots of Speed,,,339,24698,Lane.bot_lane,Role.carry

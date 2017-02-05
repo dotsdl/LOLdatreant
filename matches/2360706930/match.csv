@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PutYourHeartsUp,Lulu,True,Side.blue,2,1,15,17.0,16,Exhaust,Flash,11,False,7680,6200,Refillable Potion,Control Ward,Eye of the Watchers,Faerie Charm,Ardent Censer,Ionian Boots of Lucidity,12455,6048,Lane.bot_lane,Role.support
+1,Leagué,Nautilus,True,Side.blue,3,5,6,1.8,128,Flash,Teleport,12,False,8208,6500,Sunfire Cape,Corrupting Potion,Spectre's Cowl,Ninja Tabi,Doran's Ring,Ruby Crystal,53901,14674,Lane.top_lane,Role.solo
+2,Chody Walrus,Trundle,True,Side.blue,7,2,8,7.5,87,Flash,Smite,12,False,9285,7700,Long Sword,Boots of Swiftness,Randuin's Omen,Control Ward,Enchantment: Cinderhulk,Long Sword,19130,58576,Lane.jungle,Role.none
+3,Je Suis Saskio,Jhin,True,Side.blue,7,1,9,16.0,140,Flash,Heal,12,False,10269,8800,Doran's Blade,Ionian Boots of Lucidity,Cull,Rapid Firecannon,Essence Reaver,Long Sword,6293,97416,Lane.bot_lane,Role.carry
+4,Rip Cig,Graves,True,Side.blue,1,4,3,1.0,170,Flash,Ghost,12,False,7910,6525,Maw of Malmortius,Corrupting Potion,Mercury's Treads,Zeal,,Dagger,2087,93792,Lane.mid_lane,Role.solo
+5,zz cicero,Poppy,False,Side.red,3,5,1,0.8,21,Ignite,Flash,7,True,5097,3125,Boots of Mobility,Health Potion,Sightstone,Targon's Brace,,,427,9695,Lane.bot_lane,Role.support
+6,cat and bird,Pantheon,False,Side.red,5,3,4,3.0,123,Ignite,Flash,12,False,7537,7125,Youmuu's Ghostblade,Corrupting Potion,Boots of Mobility,Serrated Dirk,Long Sword,Last Whisper,8769,57563,Lane.top_lane,Role.solo
+7,07scaping,Caitlyn,False,Side.red,0,4,3,0.75,158,Heal,Flash,11,False,6795,5125,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,,,Pickaxe,246,65334,Lane.bot_lane,Role.carry
+8,Wolffy ,Shyvana,False,Side.red,3,4,0,0.75,164,Smite,Flash,14,False,8608,8408,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Boots of Swiftness,Warden's Mail,,79918,49276,Lane.jungle,Role.none
+9,cesuna,Veigar,False,Side.red,2,4,2,1.0,139,Flash,Teleport,12,False,6790,6400,Blasting Wand,Morellonomicon,Ionian Boots of Lucidity,Cloth Armor,Doran's Ring,Doran's Ring,68929,6324,Lane.mid_lane,Role.solo

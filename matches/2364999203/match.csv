@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,feed l0rd,Yasuo,True,Side.blue,2,4,6,2.0,230,Flash,Exhaust,15,False,11901,10500,B. F. Sword,Berserker's Greaves,Vampiric Scepter,Infinity Edge,Phantom Dancer,Doran's Blade,25521,128780,Lane.bot_lane,Role.carry
+1,PutYourHeartsUp,Taliyah,True,Side.blue,5,6,14,3.1666666666666665,10,Flash,Heal,12,False,10258,8050,Refillable Potion,Control Ward,Eye of the Watchers,Fiendish Codex,Rylai's Crystal Scepter,Ionian Boots of Lucidity,18619,4439,Lane.bot_lane,Role.support
+2,Abou222,Ryze,True,Side.blue,11,5,5,3.2,153,Ghost,Flash,14,False,12109,10625,Seraph's Embrace,Rylai's Crystal Scepter,Control Ward,Ionian Boots of Lucidity,The Dark Seal,Rod of Ages,99190,8505,Lane.mid_lane,Role.solo
+3,Cris,Jayce,True,Side.blue,11,3,4,5.0,167,Flash,Teleport,15,False,13285,11525,Youmuu's Ghostblade,Refillable Potion,B. F. Sword,Ninja Tabi,Sterak's Gage,The Black Cleaver,17644,109915,Lane.top_lane,Role.solo
+4,Wiggily,Elise,True,Side.blue,9,3,9,6.0,131,Flash,Smite,15,False,12258,10475,Zhonya's Hourglass,Enchantment: Runic Echoes,Control Ward,Rylai's Crystal Scepter,The Dark Seal,Ninja Tabi,103660,33289,Lane.jungle,Role.none
+5,moon o,Graves,False,Side.red,1,9,5,0.6666666666666666,152,Teleport,Flash,13,False,8178,8025,Youmuu's Ghostblade,Doran's Blade,Death's Dance,Dagger,Dagger,Boots of Speed,521,80457,Lane.top_lane,Role.solo
+6,RATIRLonNA,Twitch,False,Side.red,10,8,4,1.75,138,Flash,Smite,14,True,10982,10650,,B. F. Sword,Lord Dominik's Regards,Runaan's Hurricane,Enchantment: Bloodrazor,Berserker's Greaves,1953,105039,Lane.jungle,Role.none
+7,zlsna,Ekko,False,Side.red,4,9,5,1.0,172,Flash,Teleport,14,False,9056,8725,Hextech Protobelt-01,Abyssal Scepter,Doran's Ring,Corrupting Potion,Sheen,Mercury's Treads,93589,13104,Lane.mid_lane,Role.solo
+8,Saskioo,Jhin,False,Side.red,6,4,4,2.5,179,Flash,Heal,13,False,10083,9625,Doran's Blade,Rapid Firecannon,Cull,Ionian Boots of Lucidity,Essence Reaver,Last Whisper,9332,87193,Lane.bot_lane,Role.carry
+9,Hi Im A Sheep,Tahm Kench,False,Side.red,0,8,8,1.0,31,Flash,Exhaust,11,False,6279,5975,Ruby Sightstone,Redemption,Control Ward,,Relic Shield,Mercury's Treads,6150,4220,Lane.bot_lane,Role.support

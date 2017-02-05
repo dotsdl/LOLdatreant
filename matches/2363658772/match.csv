@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am sol,Lee Sin,True,Side.blue,8,1,20,28.0,43,Ignite,Flash,14,False,10978,10375,Ruby Sightstone,Face of the Mountain,Redemption,Ionian Boots of Lucidity,Control Ward,Dead Man's Plate,5898,32643,Lane.bot_lane,Role.support
+1,zzdrake2k,Xerath,True,Side.blue,9,3,18,9.0,226,Ghost,Flash,17,False,14632,13550,Zhonya's Hourglass,Hextech Revolver,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Needlessly Large Rod,164204,17366,Lane.mid_lane,Role.solo
+2,kukumbzzz,Karthus,True,Side.blue,4,2,11,7.5,155,Flash,Teleport,15,False,11757,10650,Doran's Ring,Zhonya's Hourglass,Rylai's Crystal Scepter,Sorcerer's Shoes,Rod of Ages,,92053,11358,Lane.top_lane,Role.solo
+3,Hitman Mafioso,Kha'Zix,True,Side.blue,12,3,12,8.0,164,Smite,Flash,16,False,14062,12510,Enchantment: Warrior,Ravenous Hydra,Sheen,Duskblade of Draktharr,Ninja Tabi,Ruby Crystal,5973,171221,Lane.jungle,Role.none
+4,Champion Mage,Miss Fortune,True,Side.blue,4,2,13,8.5,239,Heal,Flash,15,False,13392,11975,Lord Dominik's Regards,Essence Reaver,Infinity Edge,Berserker's Greaves,Doran's Blade,Brawler's Gloves,1280,149035,Lane.bot_lane,Role.carry
+5,Quantized,Ezreal,False,Side.red,1,12,3,0.3333333333333333,161,Heal,Flash,12,False,9110,8683,Muramana,Boots of Speed,Trinity Force,Bilgewater Cutlass,Dagger,Dagger,17675,59474,Lane.bot_lane,Role.duo
+6,Lyra,Nautilus,False,Side.red,1,5,5,1.2,81,Flash,Exhaust,13,False,8721,8575,Eye of the Equinox,Null-Magic Mantle,Ninja Tabi,Knight's Vow,Control Ward,Aegis of the Legion,18883,14853,Lane.bot_lane,Role.duo
+7,Yagosu,Yasuo,False,Side.red,4,12,1,0.4166666666666667,248,Flash,Exhaust,15,False,11296,11400,Bilgewater Cutlass,Phantom Dancer,Infinity Edge,Mercury's Treads,Spectre's Cowl,,38083,131096,Lane.mid_lane,Role.solo
+8,lts Nap Time,Rengar,False,Side.red,3,4,1,1.0,266,Flash,Ignite,15,True,12201,12700,Tiamat,The Black Cleaver,Hexdrinker,Dead Man's Plate,Mercury's Treads,Spectre's Cowl,24648,138622,Lane.top_lane,Role.solo
+9,Ryan Boi,Ivern,False,Side.red,2,4,2,1.0,86,Flash,Smite,13,False,9041,8850,Skirmisher's Sabre,Locket of the Iron Solari,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,Ruby Crystal,15673,5586,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,skmasamune,Orianna,False,Side.blue,13,10,6,1.9,198,Ghost,Flash,16,False,14306,13700,Rabadon's Deathcap,Morellonomicon,Mejai's Soulstealer,Sorcerer's Shoes,Abyssal Scepter,Needlessly Large Rod,142595,17277,Lane.mid_lane,Role.solo
+1,im dao mei Ge,Irelia,False,Side.blue,3,11,3,0.5454545454545454,203,Flash,Ignite,15,False,10843,9783,Corrupting Potion,Spectre's Cowl,Kindlegem,Trinity Force,Maw of Malmortius,Boots of Speed,479,98968,Lane.top_lane,Role.solo
+2,Rhaby,Shaco,False,Side.blue,5,8,3,1.0,146,Ignite,Smite,14,True,11197,10475,Ravenous Hydra,The Black Cleaver,Ninja Tabi,Enchantment: Warrior,,,28219,102595,Lane.jungle,Role.none
+3,The Great Mishka,Thresh,False,Side.blue,1,5,8,1.8,54,Exhaust,Flash,13,False,9213,8425,Eye of the Oasis,Redemption,Zz'Rot Portal,Control Ward,Boots of Swiftness,,8768,3154,Lane.bot_lane,Role.support
+4,xCrestfallen,Jhin,False,Side.blue,5,5,6,2.2,205,Heal,Flash,14,False,11893,11525,Rapid Firecannon,Ionian Boots of Lucidity,Infinity Edge,,Essence Reaver,Doran's Blade,10301,123590,Lane.bot_lane,Role.carry
+5,Oyay,Ryze,True,Side.red,10,6,10,3.3333333333333335,192,Flash,Ghost,17,False,14772,12625,Rod of Ages,Control Ward,Seraph's Embrace,Ionian Boots of Lucidity,Morellonomicon,Void Staff,159464,11500,Lane.mid_lane,Role.solo
+6,Im Novel,Karma,True,Side.red,1,6,18,3.1666666666666665,19,Exhaust,Flash,14,False,10940,9275,Eye of the Watchers,Redemption,Ardent Censer,Ionian Boots of Lucidity,Giant's Belt,,20195,4667,Lane.bot_lane,Role.support
+7,Siskyo,Lee Sin,True,Side.red,9,5,15,4.8,69,Smite,Flash,16,False,13210,12575,Guardian Angel,The Black Cleaver,Enchantment: Warrior,Boots of Mobility,Maw of Malmortius,,16973,90185,Lane.jungle,Role.none
+8,KaNKl,Vayne,True,Side.red,9,5,4,2.6,261,Heal,Flash,16,False,14877,14275,Infinity Edge,Infinity Edge,Rapid Firecannon,Doran's Blade,Statikk Shiv,Berserker's Greaves,38398,139920,Lane.bot_lane,Role.carry
+9,PhantomSyrus,Mordekaiser,True,Side.red,10,5,6,3.2,257,Flash,Ignite,18,False,15129,13850,Rylai's Crystal Scepter,Boots of Swiftness,Zhonya's Hourglass,Void Staff,Guardian Angel,Spectre's Cowl,168833,24782,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Alistar,False,Side.blue,3,5,8,2.2,25,Ignite,Flash,11,False,6804,6150,Eye of the Equinox,Locket of the Iron Solari,Control Ward,Ruby Crystal,Boots of Mobility,,5033,4796,Lane.bot_lane,Role.support
+1,Strompest,Ryze,False,Side.blue,3,8,9,1.5,112,Flash,Smite,13,False,8271,8000,Hunter's Talisman,Archangel's Staff,Null-Magic Mantle,Boots of Mobility,The Dark Seal,Rod of Ages,98162,9233,Lane.jungle,Role.none
+2,IKingVex,Ezreal,False,Side.blue,4,4,3,1.75,190,Heal,Flash,13,True,9268,8883,Doran's Blade,Muramana,Trinity Force,Cull,Ionian Boots of Lucidity,Vampiric Scepter,12544,73270,Lane.bot_lane,Role.carry
+3,Thalies,Katarina,False,Side.blue,2,6,5,1.1666666666666667,123,Teleport,Flash,12,False,7460,6995,Negatron Cloak,Fiendish Codex,,Hextech Gunblade,The Dark Seal,Mercury's Treads,68250,7939,Lane.top_lane,Role.solo
+4,Anivia Kid,Galio,False,Side.blue,6,5,3,1.8,185,Flash,Ghost,13,False,9285,8400,Sorcerer's Shoes,Abyssal Scepter,Morellonomicon,Chain Vest,Doran's Ring,,102206,9702,Lane.mid_lane,Role.solo
+5,Quaal,Viktor,True,Side.red,10,5,6,3.2,200,Flash,Cleanse,15,False,13833,10775,Lich Bane,,Doran's Ring,Ionian Boots of Lucidity,Abyssal Scepter,Perfect Hex Core,132953,14169,Lane.mid_lane,Role.solo
+6,ókay,Zac,True,Side.red,8,2,7,7.5,118,Smite,Flash,14,False,11762,10075,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ionian Boots of Lucidity,Dead Man's Plate,Ruby Crystal,85927,31257,Lane.jungle,Role.none
+7,BillyBoss1,Nautilus,True,Side.red,3,4,9,3.0,179,Flash,Teleport,15,False,10975,8920,Corrupting Potion,Sunfire Cape,The Dark Seal,Mercury's Treads,Negatron Cloak,Spirit Visage,75961,29344,Lane.top_lane,Role.solo
+8,C9 Sneaky,Twitch,True,Side.red,3,3,4,2.3333333333333335,195,Flash,Heal,14,False,11275,9250,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Zeal,Control Ward,0,111437,Lane.bot_lane,Role.carry
+9,Wizzy,Olaf,True,Side.red,4,4,3,1.75,31,Ignite,Flash,11,False,8491,6325,Righteous Glory,Targon's Brace,Aegis of the Legion,Sightstone,Boots of Speed,Control Ward,103,19643,Lane.bot_lane,Role.support

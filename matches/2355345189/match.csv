@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Katarina,False,Side.blue,11,8,7,2.25,172,Ignite,Flash,16,False,13414,13200,The Dark Seal,Zhonya's Hourglass,Void Staff,Sorcerer's Shoes,Luden's Echo,Guardian Angel,125051,10189,Lane.mid_lane,Role.solo
+1,péggy,Karma,False,Side.blue,2,10,20,2.2,31,Flash,Exhaust,14,True,11436,9800,Morellonomicon,Eye of the Watchers,Locket of the Iron Solari,Crystalline Bracer,Faerie Charm,Boots of Mobility,29379,5842,Lane.bot_lane,Role.support
+2,gerdinn,Twitch,False,Side.blue,16,8,11,3.375,237,Heal,Flash,17,False,17884,16300,B. F. Sword,Death's Dance,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Statikk Shiv,44418,158222,Lane.bot_lane,Role.carry
+3,Minje,Nasus,False,Side.blue,3,7,8,1.5714285714285714,207,Flash,Teleport,17,False,12849,12825,Thornmail,Iceborn Gauntlet,Ninja Tabi,Spirit Visage,Warmog's Armor,Ruby Crystal,77332,83820,Lane.top_lane,Role.solo
+4,ToTiltAndBeyond,Vi,False,Side.blue,11,6,7,3.0,201,Smite,Flash,17,False,15161,13800,Dead Man's Plate,Banshee's Veil,Titanic Hydra,Enchantment: Warrior,Giant's Belt,Ninja Tabi,1246,204069,Lane.jungle,Role.none
+5,LFA,Caitlyn,True,Side.red,3,11,20,2.090909090909091,178,Flash,Heal,16,False,13922,12650,Zeal,,Runaan's Hurricane,Lord Dominik's Regards,Berserker's Greaves,Infinity Edge,781,145264,Lane.bot_lane,Role.carry
+6,sad squid,Yasuo,True,Side.red,14,8,4,2.25,358,Teleport,Flash,18,False,18897,15110,Maw of Malmortius,Bilgewater Cutlass,Phantom Dancer,Infinity Edge,Berserker's Greaves,Guardian Angel,38732,245259,Lane.top_lane,Role.solo
+7,LegaciezZ,Anivia,True,Side.red,7,5,10,3.4,208,Teleport,Flash,17,False,13976,13135,Seraph's Embrace,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,Void Staff,,132734,15620,Lane.mid_lane,Role.solo
+8,Lijuel,Bard,True,Side.red,8,7,20,4.0,15,Flash,Ignite,16,False,13321,11050,Frost Queen's Claim,Ruby Sightstone,Knight's Vow,Boots of Mobility,Frozen Heart,Aegis of the Legion,20319,6468,Lane.bot_lane,Role.support
+9,Joxn,Shaco,True,Side.red,7,12,10,1.4166666666666667,135,Smite,Ignite,16,False,13361,12025,Enchantment: Warrior,Ravenous Hydra,Duskblade of Draktharr,Boots of Mobility,Phage,Long Sword,28736,101236,Lane.jungle,Role.none

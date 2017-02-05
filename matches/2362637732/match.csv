@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Walljumper,Poppy,True,Side.blue,6,3,9,5.0,217,Teleport,Flash,16,False,11875,10100,Randuin's Omen,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,,45028,86710,Lane.top_lane,Role.solo
+1,FIoopie,Caitlyn,True,Side.blue,1,3,11,4.0,200,Flash,Heal,13,False,10301,9550,Doran's Blade,Dagger,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Zeal,1466,122777,Lane.bot_lane,Role.carry
+2,COME BACK STRONG,Evelynn,True,Side.blue,16,2,11,13.5,134,Smite,Flash,15,False,13389,10850,,Hextech Protobelt-01,Lich Bane,Mejai's Soulstealer,Boots of Mobility,Enchantment: Runic Echoes,95097,44039,Lane.jungle,Role.none
+3,AsianGoneWild,Ryze,True,Side.blue,8,3,11,6.333333333333333,210,Ghost,Flash,15,False,12133,11325,Luden's Echo,Refillable Potion,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Tear of the Goddess,150636,8622,Lane.jungle,Role.none
+4,Empress Bee,Janna,True,Side.blue,1,1,20,21.0,6,Exhaust,Flash,13,False,8211,7125,Frostfang,Frozen Heart,Sightstone,Boots of Swiftness,Forbidden Idol,Crystalline Bracer,4054,7230,Lane.bot_lane,Role.support
+5,aphromoo,Tahm Kench,False,Side.red,0,7,4,0.5714285714285714,23,Exhaust,Flash,10,False,6447,5575,Ruby Sightstone,Redemption,Total Biscuit of Rejuvenation,Control Ward,Relic Shield,Boots of Mobility,11028,3487,Lane.bot_lane,Role.support
+6,Never Been,Vayne,False,Side.red,4,6,2,1.0,176,Flash,Heal,12,False,9362,8925,Doran's Blade,Infinity Edge,Berserker's Greaves,Null-Magic Mantle,Statikk Shiv,Long Sword,11561,61407,Lane.bot_lane,Role.carry
+7,Ifkinluvpeaches,Udyr,False,Side.red,0,4,2,0.5,127,Smite,Flash,13,False,8343,7850,Enchantment: Bloodrazor,Hunter's Potion,,Blade of the Ruined King,Boots of Swiftness,Null-Magic Mantle,51544,55854,Lane.jungle,Role.none
+8,NI9HT,Yasuo,False,Side.red,2,9,2,0.4444444444444444,164,Exhaust,Flash,13,False,8649,8200,Bilgewater Cutlass,Phantom Dancer,Recurve Bow,Last Whisper,Mercury's Treads,Doran's Blade,27965,70009,Lane.jungle,Role.none
+9,Im Jonny,Riven,False,Side.red,6,6,0,1.0,203,Flash,Teleport,15,True,10434,10275,Maw of Malmortius,Refillable Potion,Last Whisper,Mercury's Treads,The Black Cleaver,Giant Slayer,0,114682,Lane.top_lane,Role.solo

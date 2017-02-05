@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,50ShadesOfKappa,Janna,True,Side.blue,3,4,22,6.25,3,Ignite,Flash,12,False,9693,7250,Refillable Potion,Ardent Censer,Eye of the Watchers,Boots of Mobility,Mejai's Soulstealer,Control Ward,11454,7145,Lane.bot_lane,Role.support
+1,gotoe11,Zac,True,Side.blue,2,5,9,2.2,99,Flash,Smite,12,False,9093,8625,Enchantment: Cinderhulk,Giant's Belt,Refillable Potion,Ionian Boots of Lucidity,Warden's Mail,Spirit Visage,59080,16588,Lane.jungle,Role.none
+2,ACuteKoreanGirI,Tristana,True,Side.blue,11,4,11,5.5,175,Heal,Flash,14,False,13832,10800,Phantom Dancer,Cull,Infinity Edge,Berserker's Greaves,Statikk Shiv,,34952,104349,Lane.bot_lane,Role.carry
+3,Terrorist Ziggs,Kayle,True,Side.blue,8,4,10,4.5,142,Flash,Ignite,14,False,11364,9075,Doran's Ring,Doran's Ring,Lich Bane,Nashor's Tooth,Ionian Boots of Lucidity,Blasting Wand,72970,29029,Lane.mid_lane,Role.solo
+4,CarrilIo,Poppy,True,Side.blue,8,4,5,3.25,98,Flash,Teleport,12,False,10470,8750,Spirit Visage,Mercury's Treads,Sunfire Cape,Giant's Belt,,Corrupting Potion,14678,56755,Lane.top_lane,Role.solo
+5,2342563463634,Jhin,False,Side.red,3,6,4,1.1666666666666667,119,Heal,Flash,11,False,7568,6800,Doran's Blade,Cull,Essence Reaver,Zeal,Boots of Swiftness,,7438,57388,Lane.bot_lane,Role.carry
+6,Nasuuna,Ekko,False,Side.red,4,8,3,0.875,114,Teleport,Flash,11,False,7476,6750,Doran's Ring,Hextech Protobelt-01,Aether Wisp,Sorcerer's Shoes,Doran's Ring,Sheen,59604,11650,Lane.mid_lane,Role.solo
+7,am tham ben em,Morgana,False,Side.red,7,5,8,3.0,15,Flash,Exhaust,10,False,7975,7350,Boots of Mobility,Eye of the Watchers,Redemption,Aegis of the Legion,Null-Magic Mantle,,13681,3385,Lane.bot_lane,Role.support
+8,Bilog,Dr. Mundo,False,Side.red,4,6,6,1.6666666666666667,109,Flash,Teleport,11,True,7472,6800,Doran's Shield,Sunfire Cape,Boots of Speed,Refillable Potion,Spirit Visage,,48964,20227,Lane.top_lane,Role.solo
+9,Eludo,Graves,False,Side.red,3,7,5,1.1428571428571428,111,Flash,Smite,11,False,7835,7700,Refillable Potion,Maw of Malmortius,Berserker's Greaves,Long Sword,,Enchantment: Warrior,2688,98337,Lane.jungle,Role.none

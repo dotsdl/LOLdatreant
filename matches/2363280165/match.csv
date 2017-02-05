@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AKA SIeepingDAWG,Karma,True,Side.blue,3,1,19,22.0,19,Flash,Ignite,11,False,9135,7525,Ruby Sightstone,Redemption,Ionian Boots of Lucidity,,Refillable Potion,Frost Queen's Claim,13212,7257,Lane.bot_lane,Role.support
+1,Do U Copy,Rek'Sai,True,Side.blue,5,2,13,9.0,164,Smite,Flash,15,False,11931,9450,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Giant's Belt,Warden's Mail,31922,123478,Lane.jungle,Role.none
+2,Ablazeolive,LeBlanc,True,Side.blue,11,3,4,5.0,185,Flash,Ignite,14,False,12692,10575,Mercury's Treads,Morellonomicon,Rylai's Crystal Scepter,Refillable Potion,Void Staff,,91865,13269,Lane.mid_lane,Role.solo
+3,BaIance,Poppy,True,Side.blue,3,1,5,8.0,86,Teleport,Flash,12,False,8227,6500,Sunfire Cape,Corrupting Potion,Spirit Visage,Boots of Speed,,,14115,33440,Lane.top_lane,Role.solo
+4,Rich Homie Jayms,Ezreal,True,Side.blue,10,5,6,3.2,164,Flash,Heal,13,True,12214,10350,Long Sword,Blade of the Ruined King,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,,13997,93643,Lane.bot_lane,Role.carry
+5,Nedo,Jhin,False,Side.red,2,7,3,0.7142857142857143,130,Heal,Flash,11,False,7448,6800,Doran's Blade,Zeal,Essence Reaver,Cull,Boots of Swiftness,,3631,51301,Lane.bot_lane,Role.carry
+6,Professor Melyn,Zyra,False,Side.red,2,10,4,0.6,15,Flash,Ignite,9,False,6221,5350,Haunting Guise,Sorcerer's Shoes,,,Eye of the Watchers,,14921,1512,Lane.bot_lane,Role.support
+7,zlsna,Corki,False,Side.red,5,5,0,1.0,217,Flash,Heal,14,False,9731,9533,Doran's Blade,Hextech Gunblade,,Doran's Blade,Trinity Force,Sorcerer's Shoes,96821,29541,Lane.mid_lane,Role.solo
+8,PutYourHeartsUp,Sejuani,False,Side.red,2,4,1,0.75,141,Flash,Teleport,11,False,6951,6700,Corrupting Potion,Spirit Visage,Glacial Shroud,Bami's Cinder,Ruby Crystal,Boots of Swiftness,57314,13865,Lane.top_lane,Role.solo
+9,Abou222,Ivern,False,Side.red,1,6,2,0.5,52,Smite,Flash,10,False,6211,6350,Redemption,Null-Magic Mantle,Cloth Armor,Ionian Boots of Lucidity,Athene's Unholy Grail,,3325,1383,Lane.jungle,Role.none

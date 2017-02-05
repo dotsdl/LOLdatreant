@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IQ is 201 ,Thresh,True,Side.blue,3,5,19,4.4,36,Flash,Ignite,15,False,11887,9925,Sightstone,Face of the Mountain,Locket of the Iron Solari,Redemption,,Boots of Mobility,18327,6946,Lane.bot_lane,Role.support
+1,Outclass,Cassiopeia,True,Side.blue,15,5,6,4.2,325,Ghost,Flash,18,True,19737,17104,Needlessly Large Rod,Seraph's Embrace,Abyssal Scepter,Rylai's Crystal Scepter,Morellonomicon,Void Staff,265455,16054,Lane.mid_lane,Role.solo
+2,PhD Bunny Riven,Riven,True,Side.blue,14,1,7,21.0,360,Flash,Teleport,18,False,21067,17500,Ravenous Hydra,Mercurial Scimitar,Mortal Reminder,The Black Cleaver,Guardian Angel,Ionian Boots of Lucidity,0,292693,Lane.top_lane,Role.solo
+3,Oxfoord,Jhin,True,Side.blue,5,5,11,3.2,225,Heal,Flash,17,False,15163,12600,Rapid Firecannon,Doran's Blade,Essence Reaver,Infinity Edge,Boots of Swiftness,Vampiric Scepter,20872,193609,Lane.bot_lane,Role.carry
+4,Thomcats,Xin Zhao,True,Side.blue,2,10,9,1.1,155,Flash,Smite,17,False,13807,11258,Trinity Force,Enchantment: Cinderhulk,Mercury's Treads,Spirit Visage,Cloth Armor,Cloth Armor,31711,112801,Lane.jungle,Role.none
+5,  yy  suger  ,Lee Sin,False,Side.red,6,12,5,0.9166666666666666,170,Flash,Smite,15,False,12611,12500,Enchantment: Warrior,Dead Man's Plate,Maw of Malmortius,Mercury's Treads,Guardian Angel,,25120,128493,Lane.jungle,Role.none
+6,C0nVict,Swain,False,Side.red,3,10,6,0.9,223,Flash,Teleport,16,False,13100,12150,Doran's Ring,Zhonya's Hourglass,Rod of Ages,Mercury's Treads,Haunting Guise,Abyssal Scepter,112666,22690,Lane.top_lane,Role.solo
+7,Immortal Poro,Vel'Koz,False,Side.red,7,6,8,2.5,323,Ghost,Flash,18,False,15624,15060,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Liandry's Torment,Rabadon's Deathcap,,202928,13084,Lane.mid_lane,Role.solo
+8,john cena1000000,Ezreal,False,Side.red,8,5,6,2.8,246,Flash,Heal,16,False,14790,14300,,Blade of the Ruined King,The Bloodthirster,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,17680,157337,Lane.bot_lane,Role.carry
+9,Formic Mind,Nami,False,Side.red,1,6,17,3.0,9,Flash,Exhaust,14,False,10563,10100,Redemption,Mikael's Crucible,Locket of the Iron Solari,Ruby Sightstone,Ionian Boots of Lucidity,Frostfang,7946,2614,Lane.bot_lane,Role.support

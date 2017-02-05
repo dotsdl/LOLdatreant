@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,havsumskeet,Lee Sin,True,Side.blue,0,0,1,1.0,7,Smite,Flash,4,False,1126,500,Hunter's Machete,Refillable Potion,,,,,292,7318,Lane.jungle,Role.none
+1,tindina,Malzahar,True,Side.blue,0,0,1,1.0,14,Flash,Ghost,3,False,957,500,Doran's Ring,,,,,,2096,3119,Lane.mid_lane,Role.solo
+2,We are Ivern,Ivern,True,Side.blue,1,0,0,1.0,0,Exhaust,Flash,2,True,1147,850,Ancient Coin,Total Biscuit of Rejuvenation,The Dark Seal,,,,0,37,Lane.bot_lane,Role.duo
+3,FeelinTheAster,Malphite,True,Side.blue,0,1,0,0.0,7,Teleport,Flash,2,False,793,500,Corrupting Potion,,,,,,156,562,Lane.top_lane,Role.solo
+4,God of Men,Jinx,True,Side.blue,0,0,1,1.0,15,Flash,Heal,3,False,999,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,51,4298,Lane.bot_lane,Role.duo
+5,Picc,Ryze,False,Side.red,1,0,0,1.0,16,Ignite,Flash,3,False,1280,500,Sapphire Crystal,Health Potion,,,,,4359,809,Lane.top_lane,Role.solo
+6,always plan ahea,Varus,False,Side.red,0,0,0,0.0,11,Flash,Exhaust,3,False,897,500,Doran's Blade,,,,,,191,3478,Lane.mid_lane,Role.duo
+7,qiumoon,Caitlyn,False,Side.red,0,0,0,0.0,0,Flash,Heal,1,False,662,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+8,ShiroLycoris,Janna,False,Side.red,0,1,0,0.0,7,Flash,Exhaust,2,False,839,500,Total Biscuit of Rejuvenation,Spellthief's Edge,,,,,283,436,Lane.bot_lane,Role.solo
+9,omgitznerd,Shaco,False,Side.red,0,0,0,0.0,6,Smite,Ignite,3,False,1048,500,Hunter's Machete,Refillable Potion,,,,,2333,5232,Lane.jungle,Role.none

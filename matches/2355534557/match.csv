@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keira Knightley,Maokai,True,Side.blue,3,4,5,2.0,142,Teleport,Flash,12,False,7959,7050,Corrupting Potion,Control Ward,Boots of Speed,Glacial Shroud,Bami's Cinder,Spirit Visage,58729,15142,Lane.top_lane,Role.solo
+1,D0NG0,Fizz,True,Side.blue,12,2,4,8.0,138,Teleport,Flash,13,False,10959,10075,Seeker's Armguard,The Dark Seal,Lich Bane,Abyssal Scepter,Mercury's Treads,Fiendish Codex,62262,19248,Lane.mid_lane,Role.solo
+2,IIlIllIIlllIII,Morgana,True,Side.blue,1,5,12,2.6,5,Flash,Ignite,10,False,6264,5660,Crystalline Bracer,Eye of the Watchers,Control Ward,Amplifying Tome,Mercury's Treads,Forbidden Idol,4954,4295,Lane.bot_lane,Role.support
+3,xSojin,Lee Sin,True,Side.blue,5,4,11,4.0,107,Smite,Flash,12,False,9107,8050,Boots of Mobility,Refillable Potion,Tiamat,Enchantment: Warrior,The Black Cleaver,,11350,91214,Lane.jungle,Role.none
+4,J D,Jhin,True,Side.blue,5,0,8,13.0,172,Heal,Flash,12,False,10415,8825,Cull,Doran's Blade,B. F. Sword,Rapid Firecannon,Essence Reaver,Boots of Speed,1774,98315,Lane.bot_lane,Role.carry
+5,Vicktorious,Syndra,False,Side.red,3,7,2,0.7142857142857143,113,Flash,Ghost,11,False,6503,5400,Doran's Ring,Aether Wisp,,,Morellonomicon,Sorcerer's Shoes,57734,7056,Lane.mid_lane,Role.solo
+6,Killlua,Vayne,False,Side.red,3,6,2,0.8333333333333334,139,Heal,Flash,10,True,7459,6975,Doran's Blade,B. F. Sword,Berserker's Greaves,Cull,Statikk Shiv,Pickaxe,7701,44468,Lane.bot_lane,Role.carry
+7,support or troll,Thresh,False,Side.red,1,4,6,1.75,35,Ignite,Flash,9,False,5088,4525,Kindlegem,Sightstone,,Targon's Brace,Boots of Mobility,Ruby Crystal,10503,4614,Lane.bot_lane,Role.support
+8,Azed,Katarina,False,Side.red,3,5,4,1.4,108,Flash,Ignite,11,False,6700,6150,Hextech Gunblade,Refillable Potion,Boots of Speed,Needlessly Large Rod,The Dark Seal,Ruby Crystal,53285,7248,Lane.top_lane,Role.solo
+9,Leshaunda,Nunu,False,Side.red,5,4,4,2.25,69,Smite,Flash,11,False,7216,6875,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Glacial Shroud,Spectre's Cowl,Kindlegem,17949,26654,Lane.jungle,Role.none

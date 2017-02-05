@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Codyduh,Olaf,True,Side.blue,6,3,5,3.6666666666666665,144,Teleport,Flash,13,False,9134,8475,Ninja Tabi,Corrupting Potion,The Black Cleaver,Dead Man's Plate,Kindlegem,,189,81425,Lane.top_lane,Role.solo
+1,Tranzige,Jhin,True,Side.blue,7,3,6,4.333333333333333,146,Flash,Heal,11,False,9722,8970,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,B. F. Sword,,7879,75449,Lane.bot_lane,Role.carry
+2,UO Daniel Wu,Lux,True,Side.blue,7,1,4,11.0,103,Flash,Ghost,12,False,8324,7650,Doran's Ring,Total Biscuit of Rejuvenation,Mejai's Soulstealer,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,50563,12033,Lane.mid_lane,Role.solo
+3,z11  ,Vi,True,Side.blue,9,1,10,19.0,143,Flash,Smite,14,True,11157,9975,Enchantment: Warrior,Refillable Potion,Ninja Tabi,The Black Cleaver,Sterak's Gage,Ruby Crystal,4386,124938,Lane.jungle,Role.none
+4,Av akc,Sona,True,Side.blue,1,4,15,4.0,8,Ignite,Flash,10,False,7298,7025,Total Biscuit of Rejuvenation,,Frost Queen's Claim,Sorcerer's Shoes,Morellonomicon,,11451,4055,Lane.bot_lane,Role.support
+5,Dunkaroose,Lee Sin,False,Side.red,3,8,3,0.75,69,Flash,Smite,10,False,6258,5775,Refillable Potion,Sightstone,Mercury's Treads,Enchantment: Warrior,Caulfield's Warhammer,,10934,50510,Lane.jungle,Role.none
+6,Asukira,Taliyah,False,Side.red,4,7,4,1.1428571428571428,95,Teleport,Flash,11,False,6585,6000,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Total Biscuit of Rejuvenation,,53564,5619,Lane.jungle,Role.none
+7,am sol,Riven,False,Side.red,2,4,1,0.75,142,Teleport,Flash,12,False,6659,6325,Ionian Boots of Lucidity,Health Potion,Long Sword,Last Whisper,The Black Cleaver,,0,58595,Lane.top_lane,Role.solo
+8,KlvA,Miss Fortune,False,Side.red,2,5,1,0.6,109,Heal,Flash,10,False,6070,5075,Ionian Boots of Lucidity,Youmuu's Ghostblade,Total Biscuit of Rejuvenation,,Cull,Doran's Blade,1459,33051,Lane.bot_lane,Role.carry
+9,Nghtmover,Karma,False,Side.red,1,6,4,0.8333333333333334,25,Exhaust,Flash,9,False,5084,4750,Forbidden Idol,Refillable Potion,Control Ward,Eye of the Watchers,Ionian Boots of Lucidity,Ruby Crystal,14260,1985,Lane.bot_lane,Role.support

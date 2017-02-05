@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WarChamp,LeBlanc,False,Side.blue,6,10,5,1.1,138,Ignite,Flash,12,True,9435,8910,Ionian Boots of Lucidity,Morellonomicon,Abyssal Scepter,Amplifying Tome,Blasting Wand,Doran's Ring,78267,10024,Lane.mid_lane,Role.solo
+1,We are Ivern,Ivern,False,Side.blue,1,4,11,3.0,89,Smite,Flash,14,False,9321,8350,Hunter's Talisman,Guardian Angel,The Dark Seal,Ionian Boots of Lucidity,Athene's Unholy Grail,Redemption,22346,10512,Lane.jungle,Role.none
+2,Beuca,Yasuo,False,Side.blue,9,4,3,3.0,197,Teleport,Flash,15,False,11676,10875,Doran's Blade,Frozen Mallet,Maw of Malmortius,,Phantom Dancer,Mercury's Treads,35191,100247,Lane.top_lane,Role.solo
+3,hello now,Jhin,False,Side.blue,8,7,9,2.4285714285714284,163,Heal,Flash,13,False,11191,10175,Doran's Blade,Rapid Firecannon,Hexdrinker,Boots of Swiftness,Essence Reaver,Caulfield's Warhammer,5538,100158,Lane.bot_lane,Role.carry
+4,xRamee,Karma,False,Side.blue,5,8,9,1.75,17,Exhaust,Flash,11,False,8782,8075,Boots of Swiftness,Redemption,Eye of the Watchers,Ardent Censer,,,15673,5015,Lane.bot_lane,Role.support
+5,2342563463634,Kassadin,True,Side.red,8,10,19,2.7,122,Teleport,Flash,14,False,11652,10600,Corrupting Potion,Zhonya's Hourglass,Abyssal Scepter,Rod of Ages,Ionian Boots of Lucidity,Blasting Wand,54602,16474,Lane.mid_lane,Role.solo
+6,Triggered Shaco,Singed,True,Side.red,2,4,11,3.25,201,Ghost,Teleport,15,False,11612,10595,Corrupting Potion,Zz'Rot Portal,Rylai's Crystal Scepter,Rod of Ages,The Dark Seal,Boots of Swiftness,106193,9095,Lane.top_lane,Role.solo
+7,goompa,Twitch,True,Side.red,12,8,9,2.625,192,Heal,Flash,14,False,13943,11950,Berserker's Greaves,Doran's Blade,B. F. Sword,Infinity Edge,Runaan's Hurricane,Statikk Shiv,8863,118479,Lane.bot_lane,Role.carry
+8,SoraSky,Zac,True,Side.red,9,1,14,23.0,137,Smite,Flash,14,False,12120,10125,Refillable Potion,Randuin's Omen,Locket of the Iron Solari,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Spectre's Cowl,90996,24033,Lane.jungle,Role.none
+9,Saucy Sells,Bard,True,Side.red,2,6,24,4.333333333333333,12,Exhaust,Flash,13,False,10051,8975,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,Zeke's Harbinger,Glacial Shroud,Control Ward,19752,5252,Lane.bot_lane,Role.support

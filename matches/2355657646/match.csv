@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,out skizzled,Riven,True,Side.blue,4,1,6,10.0,163,Flash,Teleport,14,True,10076,8350,Doran's Blade,Ravenous Hydra,Refillable Potion,The Black Cleaver,Mercury's Treads,,0,106012,Lane.mid_lane,Role.solo
+1,NEACE  Eeeee,Gangplank,True,Side.blue,6,6,10,2.6666666666666665,184,Flash,Teleport,14,False,11883,9833,Trinity Force,Infinity Edge,Ionian Boots of Lucidity,Serrated Dirk,Long Sword,,10740,159469,Lane.top_lane,Role.solo
+2,IIlIIlIIIlllIIlI,Jhin,True,Side.blue,11,3,14,8.333333333333334,159,Heal,Flash,13,False,12163,12025,Cloak of Agility,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Mortal Reminder,Pickaxe,16572,106278,Lane.bot_lane,Role.carry
+3,support or troll,Thresh,True,Side.blue,0,2,23,11.5,33,Ignite,Flash,12,False,7918,6875,Sightstone,Face of the Mountain,Locket of the Iron Solari,,Boots of Mobility,,16814,8246,Lane.bot_lane,Role.support
+4,DumPooPoo,Sejuani,True,Side.blue,8,3,11,6.333333333333333,117,Smite,Flash,14,False,11115,10075,Randuin's Omen,Cloth Armor,Control Ward,Abyssal Scepter,Boots of Swiftness,Enchantment: Cinderhulk,84070,35931,Lane.jungle,Role.none
+5,duckduckgoob,Lee Sin,False,Side.red,5,7,4,1.2857142857142858,107,Smite,Flash,12,False,8529,7450,Refillable Potion,Enchantment: Warrior,Boots of Mobility,Dead Man's Plate,Chain Vest,,14249,59250,Lane.jungle,Role.none
+6,Stevens 1v9,Malphite,False,Side.red,3,2,5,4.0,215,Teleport,Flash,14,False,10064,9400,Randuin's Omen,Sunfire Cape,Glacial Shroud,Warden's Mail,Ninja Tabi,Corrupting Potion,85870,35076,Lane.top_lane,Role.solo
+7,Tai Draven,Draven,False,Side.red,0,8,4,0.5,182,Flash,Heal,12,False,8384,7850,Doran's Blade,Infinity Edge,Zeal,Last Whisper,Berserker's Greaves,,0,97354,Lane.bot_lane,Role.carry
+8,HungBrickMan,Ekko,False,Side.red,5,7,2,1.0,131,Ignite,Flash,12,False,8685,8150,Doran's Ring,Zhonya's Hourglass,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Control Ward,67254,11777,Lane.mid_lane,Role.solo
+9,Sinickle,Soraka,False,Side.red,1,5,4,1.0,8,Flash,Exhaust,11,False,6120,4800,Mikael's Crucible,Refillable Potion,Sightstone,Boots of Mobility,Nomad's Medallion,,5787,2808,Lane.bot_lane,Role.support

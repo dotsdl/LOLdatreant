@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hakuho,Morgana,False,Side.blue,0,2,12,6.0,32,Exhaust,Flash,12,False,8083,7500,Ruby Sightstone,Redemption,Frost Queen's Claim,Control Ward,Boots of Mobility,,18566,3658,Lane.bot_lane,Role.support
+1,Pekin Woof,Cassiopeia,False,Side.blue,4,5,4,1.6,211,Flash,Ghost,14,False,10143,9360,Tear of the Goddess,Morellonomicon,Needlessly Large Rod,Doran's Ring,Rylai's Crystal Scepter,Amplifying Tome,106130,7391,Lane.mid_lane,Role.solo
+2,Rokí,Riven,False,Side.blue,5,7,3,1.1428571428571428,164,Flash,Teleport,14,False,9395,9000,Doran's Shield,Death's Dance,The Black Cleaver,Ninja Tabi,Long Sword,Rejuvenation Bead,0,89804,Lane.top_lane,Role.solo
+3,Yusui,Draven,False,Side.blue,7,7,3,1.4285714285714286,162,Heal,Flash,12,False,10910,10900,Cloak of Agility,Phantom Dancer,Death's Dance,Pickaxe,Berserker's Greaves,B. F. Sword,0,84457,Lane.bot_lane,Role.carry
+4,Kuiiiiiiiiiiiii,Elise,False,Side.blue,4,9,4,0.8888888888888888,88,Smite,Flash,12,False,8298,7900,Refillable Potion,Hextech Protobelt-01,Giant's Belt,Mercury's Treads,,Enchantment: Runic Echoes,50742,17621,Lane.jungle,Role.none
+5,7788 ADC,Graves,True,Side.red,5,5,8,2.6,150,Smite,Flash,15,False,11872,9450,Enchantment: Warrior,Phage,Phantom Dancer,Berserker's Greaves,Hexdrinker,Long Sword,2241,132190,Lane.jungle,Role.none
+6,Zaganox,Blitzcrank,True,Side.red,2,3,11,4.333333333333333,39,Exhaust,Flash,13,False,8646,7325,Relic Shield,Locket of the Iron Solari,Knight's Vow,Sightstone,,Boots of Mobility,10122,9513,Lane.bot_lane,Role.support
+7,Huhi lite,Orianna,True,Side.red,7,5,7,2.8,219,Ghost,Flash,16,False,13031,12120,Doran's Ring,Negatron Cloak,Morellonomicon,Rabadon's Deathcap,Void Staff,Sorcerer's Shoes,134148,16489,Lane.mid_lane,Role.solo
+8,FIaresz,Jayce,True,Side.red,10,4,3,3.25,207,Flash,Teleport,16,True,13993,12375,B. F. Sword,Youmuu's Ghostblade,Boots of Swiftness,The Black Cleaver,Maw of Malmortius,,21037,151260,Lane.top_lane,Role.solo
+9,C9 Sneaky,Caitlyn,True,Side.red,6,3,9,5.0,214,Flash,Heal,14,False,12611,10900,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Control Ward,1451,133595,Lane.bot_lane,Role.carry

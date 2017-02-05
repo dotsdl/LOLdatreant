@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zeafa,Elise,False,Side.blue,7,3,4,3.6666666666666665,100,Smite,Flash,13,True,9475,9075,Enchantment: Runic Echoes,Hextech Protobelt-01,Refillable Potion,Abyssal Scepter,Ionian Boots of Lucidity,,71450,25121,Lane.jungle,Role.none
+1,Leon4242,Karma,False,Side.blue,3,1,14,17.0,23,Flash,Exhaust,11,False,8197,7775,Boots of Mobility,Control Ward,Eye of the Watchers,Ardent Censer,,Redemption,19380,6761,Lane.bot_lane,Role.support
+2,Weeknd,Syndra,False,Side.blue,5,6,6,1.8333333333333333,173,Ghost,Flash,14,False,9605,8035,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,,101783,11517,Lane.mid_lane,Role.solo
+3,Leithal,Poppy,False,Side.blue,4,3,7,3.6666666666666665,187,Flash,Teleport,14,False,9792,8550,Corrupting Potion,Spirit Visage,Ionian Boots of Lucidity,Sunfire Cape,Ruby Crystal,Sheen,39096,75136,Lane.top_lane,Role.solo
+4,iDontCareX,Ashe,False,Side.blue,6,3,9,5.0,201,Heal,Flash,14,False,10721,10625,Rapid Firecannon,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,3470,105017,Lane.bot_lane,Role.carry
+5,Elyptical,Sion,True,Side.red,1,9,2,0.3333333333333333,69,Ignite,Flash,11,False,7926,6650,Zz'Rot Portal,Total Biscuit of Rejuvenation,Eye of the Equinox,Control Ward,,Boots of Swiftness,27512,24652,Lane.bot_lane,Role.support
+6,0 K A Y B O Y S,Vi,True,Side.red,6,4,4,2.5,124,Flash,Smite,15,False,11078,9133,Enchantment: Warrior,Refillable Potion,Control Ward,Mercury's Treads,Trinity Force,Hexdrinker,2001,117536,Lane.jungle,Role.none
+7,Koby,Nasus,True,Side.red,6,3,4,3.3333333333333335,197,Flash,Teleport,15,False,12886,11408,Randuin's Omen,Doran's Ring,Trinity Force,,Mercury's Treads,Zz'Rot Portal,78270,63107,Lane.top_lane,Role.solo
+8,SPITROAST ME DAD,Zilean,True,Side.red,1,7,7,1.1428571428571428,122,Teleport,Flash,14,False,8948,7225,Doran's Ring,Rod of Ages,Morellonomicon,Ionian Boots of Lucidity,,,59845,7259,Lane.mid_lane,Role.solo
+9,NQKEAIDJF,Jinx,True,Side.red,2,2,0,1.0,195,Heal,Flash,13,False,10482,8650,Doran's Blade,Infinity Edge,Runaan's Hurricane,Dagger,Boots of Speed,Last Whisper,31,122666,Lane.bot_lane,Role.carry

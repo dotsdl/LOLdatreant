@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MongolWarrior,Caitlyn,False,Side.blue,3,4,4,1.75,145,Heal,Flash,11,False,7777,7400,Doran's Blade,Runaan's Hurricane,Pickaxe,Berserker's Greaves,B. F. Sword,Cloak of Agility,401,66982,Lane.bot_lane,Role.carry
+1,zz cicero,Poppy,False,Side.blue,4,6,5,1.5,40,Ignite,Flash,10,False,6774,6450,Dead Man's Plate,Eye of the Equinox,,Boots of Mobility,,,1202,23012,Lane.bot_lane,Role.support
+2,Necroside,Maokai,False,Side.blue,2,10,2,0.4,102,Teleport,Flash,11,True,6631,6100,Corrupting Potion,Sunfire Cape,Raptor Cloak,Spectre's Cowl,,Boots of Speed,50296,11103,Lane.top_lane,Role.solo
+3,BabièThug,Ryze,False,Side.blue,3,10,4,0.7,124,Flash,Cleanse,12,False,7376,6670,Tear of the Goddess,Refillable Potion,Rod of Ages,Mercury's Treads,Negatron Cloak,Needlessly Large Rod,53092,7145,Lane.mid_lane,Role.solo
+4,FIoopie,Lee Sin,False,Side.blue,6,6,4,1.6666666666666667,121,Flash,Smite,12,False,9090,9000,Refillable Potion,Enchantment: Warrior,Spectre's Cowl,The Black Cleaver,Kindlegem,Boots of Speed,24876,82626,Lane.jungle,Role.none
+5,Liquid fabbbyyy,Twitch,True,Side.red,11,3,12,7.666666666666667,145,Flash,Heal,13,False,12340,11025,Runaan's Hurricane,Berserker's Greaves,Cull,Doran's Blade,Infinity Edge,Phantom Dancer,1103,100278,Lane.bot_lane,Role.carry
+6,C9 Smoothie,Lulu,True,Side.red,5,4,16,5.25,19,Flash,Exhaust,12,False,9501,7650,,Eye of the Watchers,Locket of the Iron Solari,Forbidden Idol,Boots of Mobility,Crystalline Bracer,12406,6161,Lane.bot_lane,Role.support
+7,Shroudedd,Twisted Fate,True,Side.red,6,4,14,5.0,155,Ghost,Flash,14,False,11651,10500,Doran's Ring,Ionian Boots of Lucidity,Refillable Potion,Zhonya's Hourglass,Lich Bane,Rod of Ages,81770,15159,Lane.mid_lane,Role.solo
+8,jacksparrow111,Shyvana,True,Side.red,8,4,9,4.25,176,Flash,Teleport,14,False,11665,10425,Spirit Visage,Titanic Hydra,Control Ward,Warden's Mail,Mercury's Treads,Doran's Blade,53459,66335,Lane.top_lane,Role.solo
+9,NI9HT,Elise,True,Side.red,6,3,13,6.333333333333333,119,Smite,Flash,14,False,11617,10375,Refillable Potion,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Hextech Protobelt-01,Blasting Wand,92970,23334,Lane.jungle,Role.none

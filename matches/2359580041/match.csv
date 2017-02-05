@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Asixth,Thresh,True,Side.blue,4,4,23,6.75,16,Flash,Ignite,12,False,8214,6850,Forbidden Idol,Redemption,Ruby Sightstone,,Null-Magic Mantle,Boots of Mobility,12512,6463,Lane.bot_lane,Role.support
+1,Forest Pref,Lee Sin,True,Side.blue,12,4,12,6.0,111,Smite,Flash,13,False,11867,10450,Mercury's Treads,Chain Vest,Enchantment: Warrior,Dead Man's Plate,Spirit Visage,,16106,91742,Lane.jungle,Role.none
+2,Mirub,Yasuo,True,Side.blue,2,2,6,4.0,158,Flash,Teleport,14,False,9145,8850,Doran's Blade,B. F. Sword,,Ninja Tabi,Phantom Dancer,Frozen Mallet,14741,80183,Lane.top_lane,Role.solo
+3,KS DuBB,Jhin,True,Side.blue,4,4,18,5.5,128,Flash,Heal,12,True,10260,8975,Doran's Blade,Rapid Firecannon,Pickaxe,Essence Reaver,Boots of Swiftness,,6867,77203,Lane.bot_lane,Role.carry
+4,GreySocks,Viktor,True,Side.blue,11,0,13,24.0,219,Flash,Cleanse,15,False,13150,10800,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,,126795,15066,Lane.mid_lane,Role.solo
+5,JoDa Fucking Pen,Swain,False,Side.red,3,5,6,1.8,148,Teleport,Flash,12,False,8595,8485,Doran's Ring,Rod of Ages,Abyssal Scepter,Mercury's Treads,Fiendish Codex,Amplifying Tome,54472,9937,Lane.mid_lane,Role.solo
+6,cùrz,Taric,False,Side.red,1,10,8,0.9,35,Flash,Ignite,10,False,6449,6250,Ruby Sightstone,Face of the Mountain,Control Ward,Ionian Boots of Lucidity,Forbidden Idol,Ruby Crystal,5969,5739,Lane.bot_lane,Role.support
+7,Stessy Poirier,Elise,False,Side.red,7,7,4,1.5714285714285714,104,Flash,Smite,12,False,9133,8675,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Sorcerer's Shoes,Haunting Guise,,,71826,23995,Lane.jungle,Role.none
+8,Str1fe,Caitlyn,False,Side.red,1,7,4,0.7142857142857143,222,Flash,Heal,13,False,9588,9620,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,,479,121289,Lane.bot_lane,Role.carry
+9,Goxtry,Fiora,False,Side.red,1,4,4,1.25,190,Teleport,Flash,14,False,9335,9225,Ninja Tabi,The Black Cleaver,Ravenous Hydra,Doran's Blade,Long Sword,Null-Magic Mantle,231,105307,Lane.top_lane,Role.solo

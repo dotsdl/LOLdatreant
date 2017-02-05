@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MildLif3,Irelia,False,Side.blue,3,8,6,1.125,138,Flash,Teleport,13,False,7973,7128,Corrupting Potion,Trinity Force,Mercury's Treads,Giant's Belt,Negatron Cloak,,3167,58472,Lane.top_lane,Role.solo
+1,Extra Ugli Fruit,Kayle,False,Side.blue,3,9,4,0.7777777777777778,67,Flash,Smite,11,False,7344,6575,Berserker's Greaves,Enchantment: Bloodrazor,Stinger,Refillable Potion,Sheen,Ruby Crystal,33557,36190,Lane.jungle,Role.none
+2,Emperor Havoc,LeBlanc,False,Side.blue,6,7,3,1.2857142857142858,92,Flash,Teleport,12,False,7558,6760,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Lost Chapter,Fiendish Codex,Amplifying Tome,52639,7758,Lane.mid_lane,Role.solo
+3,Nyahahaa,Jinx,False,Side.blue,2,8,3,0.625,142,Heal,Flash,11,False,7471,6350,Doran's Blade,Infinity Edge,Berserker's Greaves,Doran's Blade,Dagger,Dagger,1451,73319,Lane.bot_lane,Role.carry
+4,Siblue,Sona,False,Side.blue,2,8,7,1.125,25,Exhaust,Flash,11,False,6628,6250,Ionian Boots of Lucidity,Eye of the Watchers,Redemption,Null-Magic Mantle,,,17343,7194,Lane.bot_lane,Role.support
+5,Il Minah lI,Pantheon,True,Side.red,6,2,20,13.0,38,Flash,Ignite,12,False,9486,8200,Eye of the Equinox,Refillable Potion,Jaurim's Fist,Boots of Swiftness,The Black Cleaver,Long Sword,7602,24839,Lane.bot_lane,Role.support
+6,ajmara2,Twitch,True,Side.red,17,3,4,7.0,133,Heal,Flash,13,False,13188,12700,B. F. Sword,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,340,93511,Lane.bot_lane,Role.carry
+7,The Clark,Xerath,True,Side.red,5,4,20,6.25,175,Flash,Heal,14,False,11596,9650,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Rabadon's Deathcap,Mejai's Soulstealer,,104699,11282,Lane.mid_lane,Role.solo
+8,Sallyzar,Ivern,True,Side.red,5,3,18,7.666666666666667,79,Flash,Smite,13,True,10471,8650,Skirmisher's Sabre,Refillable Potion,Boots of Mobility,Athene's Unholy Grail,Redemption,Knight's Vow,16738,5655,Lane.jungle,Role.none
+9,PBJellyInAJar,Nasus,True,Side.red,7,4,3,2.5,158,Flash,Teleport,13,False,11361,9683,Zeke's Harbinger,Redemption,Mercury's Treads,Trinity Force,,,11989,83848,Lane.top_lane,Role.solo

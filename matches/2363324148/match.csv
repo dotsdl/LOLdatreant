@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Christmas Hype,Cho'Gath,False,Side.blue,1,6,3,0.6666666666666666,100,Flash,Ignite,10,False,5536,4600,Doran's Ring,Morellonomicon,Doran's Ring,Doran's Ring,,Boots of Speed,43132,5620,Lane.mid_lane,Role.solo
+1,TRAVYPOOO,Malphite,False,Side.blue,2,7,3,0.7142857142857143,93,Flash,Teleport,10,False,5684,5275,Corrupting Potion,Control Ward,Sunfire Cape,Ruby Crystal,Mercury's Treads,Cloth Armor,32693,14574,Lane.top_lane,Role.solo
+2,xRequiem,Twitch,False,Side.blue,3,7,1,0.5714285714285714,143,Heal,Flash,10,True,7397,7100,Doran's Blade,Control Ward,Pickaxe,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,207,58843,Lane.bot_lane,Role.carry
+3,BukZacH,Ekko,False,Side.blue,2,6,4,1.0,40,Flash,Smite,9,False,5044,3675,Enchantment: Cinderhulk,Refillable Potion,,Boots of Swiftness,,,20993,12847,Lane.jungle,Role.none
+4,aShady,Bard,False,Side.blue,0,7,5,0.7142857142857143,6,Exhaust,Flash,7,False,4308,3760,Eye of the Watchers,Boots of Mobility,,Amplifying Tome,Control Ward,,3905,2245,Lane.bot_lane,Role.support
+5,TSM MeNoHaxor,Karma,True,Side.red,0,2,17,8.5,14,Exhaust,Flash,9,False,6930,6125,Eye of the Watchers,Refillable Potion,Redemption,Boots of Mobility,The Dark Seal,Control Ward,11546,4621,Lane.bot_lane,Role.support
+6,Jeehun,Ezreal,True,Side.red,4,2,10,7.0,119,Flash,Heal,11,False,8616,7350,Doran's Blade,Iceborn Gauntlet,Berserker's Greaves,Manamune,Cull,,10367,55545,Lane.bot_lane,Role.carry
+7,andtheknee,LeBlanc,True,Side.red,12,1,6,18.0,130,Teleport,Flash,12,False,10719,9125,Morellonomicon,Doran's Ring,Needlessly Large Rod,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,66948,10912,Lane.mid_lane,Role.solo
+8,l For You l,Lee Sin,True,Side.red,13,1,8,21.0,101,Flash,Smite,12,False,10990,9475,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,Phage,Caulfield's Warhammer,22538,71650,Lane.jungle,Role.none
+9,Grell Carry U,Darius,True,Side.red,4,2,7,5.5,169,Flash,Teleport,12,False,9696,9175,Doran's Shield,The Black Cleaver,Spirit Visage,Giant's Belt,Mercury's Treads,Cloth Armor,0,90009,Lane.top_lane,Role.solo

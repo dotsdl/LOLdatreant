@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rip Fallen,Draven,True,Side.blue,8,3,3,3.6666666666666665,181,Heal,Flash,12,False,13038,12625,Doran's Blade,Last Whisper,The Bloodthirster,Infinity Edge,Long Sword,Phantom Dancer,683,154855,Lane.bot_lane,Role.carry
+1,SupportLifeSucks,Sona,True,Side.blue,0,2,14,7.0,11,Exhaust,Flash,12,False,8166,6575,Eye of the Watchers,Hextech Revolver,Control Ward,Forbidden Idol,Sheen,Ionian Boots of Lucidity,16233,8624,Lane.bot_lane,Role.support
+2,minazzre,Nasus,True,Side.blue,3,3,5,2.6666666666666665,156,Teleport,Flash,13,False,9982,8350,Corrupting Potion,Spirit Visage,Iceborn Gauntlet,Boots of Swiftness,Giant's Belt,Cloth Armor,30349,76867,Lane.top_lane,Role.solo
+3,Anthøny,Kha'Zix,True,Side.blue,13,4,1,3.5,107,Smite,Flash,13,True,11470,8375,Enchantment: Warrior,Youmuu's Ghostblade,Hexdrinker,Boots of Mobility,,Long Sword,5507,96555,Lane.jungle,Role.none
+4,Bobby De Niro,Orianna,True,Side.blue,4,1,6,10.0,206,Ghost,Flash,14,False,11072,9425,Doran's Ring,Void Staff,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Blasting Wand,99147,17856,Lane.mid_lane,Role.solo
+5,dr3mayo,Shaco,False,Side.red,1,5,3,0.8,35,Exhaust,Ignite,10,False,5344,5300,Targon's Brace,Blasting Wand,Glacial Shroud,Ionian Boots of Lucidity,The Dark Seal,Aether Wisp,15130,4964,Lane.bot_lane,Role.support
+6,2loney,Akali,False,Side.red,4,4,4,2.0,174,Teleport,Flash,13,False,8684,7900,Doran's Shield,Zhonya's Hourglass,Sorcerer's Shoes,,,Rylai's Crystal Scepter,30963,58895,Lane.top_lane,Role.solo
+7,SaxBalzinski,Caitlyn,False,Side.red,1,6,3,0.6666666666666666,124,Heal,Flash,11,False,6880,6325,Doran's Blade,Doran's Blade,Berserker's Greaves,Infinity Edge,Brawler's Gloves,,577,56102,Lane.bot_lane,Role.carry
+8,Katomaru,Ekko,False,Side.red,6,6,2,1.3333333333333333,71,Smite,Flash,11,False,7377,6775,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Sheen,Aether Wisp,Blasting Wand,39116,15576,Lane.jungle,Role.none
+9,Fall1n,Viktor,False,Side.red,1,7,4,0.7142857142857143,162,Ghost,Flash,13,False,7575,6950,,Needlessly Large Rod,Giant's Belt,Doran's Ring,Perfect Hex Core,Ionian Boots of Lucidity,70155,6766,Lane.mid_lane,Role.solo

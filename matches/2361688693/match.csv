@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ostry,Ashe,False,Side.blue,3,6,5,1.3333333333333333,170,Flash,Heal,12,True,9636,8875,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Doran's Blade,Brawler's Gloves,,1252,94777,Lane.bot_lane,Role.carry
+1,Painting Me Pink,Karma,False,Side.blue,4,5,8,2.4,18,Flash,Exhaust,11,False,7580,6925,Spellthief's Edge,Ruby Sightstone,Ionian Boots of Lucidity,Ardent Censer,Forbidden Idol,Crystalline Bracer,11716,3640,Lane.bot_lane,Role.support
+2,Dokiz,LeBlanc,False,Side.blue,5,5,4,1.8,196,Flash,Ignite,14,False,10261,9185,Blasting Wand,Amplifying Tome,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Doran's Ring,96498,12492,Lane.mid_lane,Role.solo
+3,Rule Bage,Ryze,False,Side.blue,1,6,8,1.5,178,Teleport,Flash,13,False,9538,8960,Mejai's Soulstealer,Ionian Boots of Lucidity,Seraph's Embrace,Morellonomicon,Amplifying Tome,,115572,10034,Lane.top_lane,Role.solo
+4,Hanzbro,Hecarim,False,Side.blue,7,6,6,2.1666666666666665,142,Smite,Flash,13,False,10258,9483,Enchantment: Cinderhulk,Chain Vest,Trinity Force,Ninja Tabi,Giant's Belt,,20275,102807,Lane.jungle,Role.none
+5,Killlua,Lee Sin,True,Side.red,6,4,15,5.25,108,Smite,Flash,14,False,10893,10275,Hunter's Potion,Enchantment: Warrior,Maw of Malmortius,Mercury's Treads,Dead Man's Plate,,17288,80683,Lane.top_lane,Role.support
+6,gniK efiL oN,Viktor,True,Side.red,7,3,3,3.3333333333333335,172,Flash,Ignite,14,False,11104,8950,Perfect Hex Core,Corrupting Potion,Aether Wisp,Ionian Boots of Lucidity,Doran's Ring,Rylai's Crystal Scepter,102177,12161,Lane.mid_lane,Role.solo
+7,Secillia,Riven,True,Side.red,8,6,10,3.0,144,Teleport,Flash,15,False,11521,9500,Tiamat,Refillable Potion,Death's Dance,Boots of Speed,Maw of Malmortius,Vampiric Scepter,308,100428,Lane.top_lane,Role.carry
+8,Kappa desu,Lulu,True,Side.red,2,4,20,5.5,9,Flash,Exhaust,13,False,8758,7125,Redemption,Eye of the Watchers,Refillable Potion,Null-Magic Mantle,Aegis of the Legion,Boots of Mobility,8115,4211,Lane.bot_lane,Role.support
+9,Wyátt,Twitch,True,Side.red,5,3,14,6.333333333333333,145,Heal,Flash,14,False,11219,9700,Doran's Blade,Infinity Edge,Runaan's Hurricane,Quicksilver Sash,Berserker's Greaves,Long Sword,1147,87090,Lane.bot_lane,Role.carry

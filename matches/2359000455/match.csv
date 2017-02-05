@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Extempted,Orianna,True,Side.blue,9,3,5,4.666666666666667,163,Ignite,Flash,13,False,11065,8650,Doran's Ring,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Boots of Speed,Needlessly Large Rod,94796,17144,Lane.mid_lane,Role.solo
+1,yungELEF,Quinn,True,Side.blue,6,3,3,3.0,106,Ignite,Flash,12,False,8664,8145,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Statikk Shiv,Serrated Dirk,Control Ward,4321,55241,Lane.top_lane,Role.solo
+2,Arane,Zyra,True,Side.blue,2,2,18,10.0,35,Ignite,Flash,12,False,8900,8025,Eye of the Watchers,Liandry's Torment,Control Ward,Ionian Boots of Lucidity,Needlessly Large Rod,,36810,10595,Lane.bot_lane,Role.support
+3,tealpit,Draven,True,Side.blue,11,4,9,5.0,135,Heal,Flash,13,False,12137,11550,Mercurial Scimitar,The Bloodthirster,Youmuu's Ghostblade,Boots of Speed,Dagger,,0,82080,Lane.bot_lane,Role.carry
+4,herolineage,Warwick,True,Side.blue,8,2,6,7.0,130,Flash,Smite,13,False,9864,8275,Enchantment: Bloodrazor,Tiamat,Blade of the Ruined King,Boots of Swiftness,,,14790,84308,Lane.jungle,Role.none
+5,Hi im Kise,Gragas,False,Side.red,0,6,3,0.5,143,Flash,Teleport,12,False,6590,6475,Doran's Ring,Hextech Protobelt-01,Blasting Wand,Sorcerer's Shoes,Doran's Ring,Fiendish Codex,48949,9942,Lane.top_lane,Role.solo
+6,Dallidas,Graves,False,Side.red,4,9,4,0.8888888888888888,93,Smite,Flash,12,True,7383,6700,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Boots of Swiftness,Ruby Crystal,,2920,69097,Lane.jungle,Role.none
+7,Tingle Biddies,Jinx,False,Side.red,3,8,4,0.875,82,Heal,Flash,11,False,6600,5750,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,,,422,48379,Lane.bot_lane,Role.duo
+8,Wiemann,Ryze,False,Side.red,5,7,2,1.0,124,Ghost,Flash,11,False,7592,7000,Archangel's Staff,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rod of Ages,,57677,7954,Lane.mid_lane,Role.solo
+9,ÇharHÐ,Alistar,False,Side.red,1,6,4,0.8333333333333334,30,Flash,Exhaust,9,False,5406,4975,Crystalline Bracer,,Face of the Mountain,Sightstone,Boots of Mobility,,3051,4110,Lane.bot_lane,Role.duo

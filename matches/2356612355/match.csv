@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Erase,Cassiopeia,True,Side.blue,6,4,5,2.75,117,Flash,Ghost,12,False,7773,6900,Tear of the Goddess,Rylai's Crystal Scepter,,Haunting Guise,Blasting Wand,,52947,9204,Lane.mid_lane,Role.carry
+1,Magby,Poppy,True,Side.blue,6,1,5,11.0,79,Smite,Flash,12,False,7982,7425,Enchantment: Cinderhulk,Mercury's Treads,Dead Man's Plate,Crystalline Bracer,,,16352,55363,Lane.mid_lane,Role.support
+2,Views From the 6,Graves,True,Side.blue,2,3,6,2.6666666666666665,153,Exhaust,Flash,12,False,7416,6500,Boots of Speed,The Black Cleaver,Phantom Dancer,Doran's Blade,,,728,80767,Lane.jungle,Role.none
+3,support or troll,Katarina,False,Side.red,2,7,2,0.5714285714285714,99,Ignite,Flash,10,True,6049,5385,Liandry's Torment,Total Biscuit of Rejuvenation,,Boots of Speed,Aether Wisp,Amplifying Tome,52520,7980,Lane.jungle,Role.none
+4,Majestic Fish,Vayne,False,Side.red,3,5,1,0.8,130,Heal,Flash,11,False,6781,6425,Doran's Blade,Phantom Dancer,Berserker's Greaves,Quicksilver Sash,,Pickaxe,0,47683,Lane.mid_lane,Role.solo
+5,6 Inches Deep,Zac,False,Side.red,3,2,2,2.5,76,Flash,Smite,11,False,6310,5825,Enchantment: Cinderhulk,Hunter's Potion,Spirit Visage,,,,52142,11822,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Alex Ich 1,Corki,True,Side.blue,1,1,3,4.0,90,Flash,Heal,9,False,5470,3375,Corrupting Potion,Doran's Blade,,Hexdrinker,Sheen,,25255,12512,Lane.mid_lane,Role.solo
+1,Daarr,Rek'Sai,True,Side.blue,3,1,2,5.0,82,Flash,Smite,9,True,6122,3625,Hunter's Machete,Ruby Crystal,Tiamat,Refillable Potion,Ninja Tabi,Long Sword,4810,51384,Lane.jungle,Role.none
+2,Riesig,Maokai,True,Side.blue,2,0,1,3.0,111,Flash,Teleport,10,False,5987,3225,Corrupting Potion,The Dark Seal,Doran's Ring,Bami's Cinder,Chain Vest,,46959,11709,Lane.top_lane,Role.solo
+3,RF Legendary,Jayce,True,Side.blue,6,0,2,8.0,114,Flash,Heal,9,False,7399,4975,Refillable Potion,Vampiric Scepter,Serrated Dirk,Doran's Blade,B. F. Sword,Ionian Boots of Lucidity,5940,50642,Lane.bot_lane,Role.duo
+4,ShörterACE,Karma,True,Side.blue,1,0,6,7.0,2,Flash,Exhaust,7,False,4256,2700,Spellthief's Edge,Total Biscuit of Rejuvenation,The Dark Seal,Sightstone,Ionian Boots of Lucidity,Control Ward,5208,4287,Lane.bot_lane,Role.duo
+5,Liquid fabbbyyy,Ashe,False,Side.red,0,3,1,0.3333333333333333,30,Flash,Heal,4,False,2919,1150,Doran's Blade,Boots of Speed,Dagger,,,,0,6778,Lane.bot_lane,Role.duo
+6,C9 Smoothie,Zyra,False,Side.red,0,3,2,0.6666666666666666,5,Flash,Exhaust,6,False,2919,2700,Total Biscuit of Rejuvenation,Sightstone,,Spellthief's Edge,Boots of Mobility,,5534,823,Lane.bot_lane,Role.duo
+7,Vincente Vu,Twitch,False,Side.red,0,3,0,0.0,47,Flash,Smite,7,False,3436,3150,Boots of Speed,Enchantment: Bloodrazor,Refillable Potion,,,,856,22170,Lane.jungle,Role.none
+8,Pekin Woof,LeBlanc,False,Side.red,1,1,1,2.0,107,Flash,Teleport,10,False,5083,4275,Doran's Ring,Morellonomicon,,Doran's Ring,Boots of Speed,,44908,7594,Lane.mid_lane,Role.solo
+9,Flaresz,Riven,False,Side.red,1,3,0,0.3333333333333333,101,Flash,Teleport,10,False,4851,2900,Caulfield's Warhammer,Serrated Dirk,Doran's Blade,,,,0,49064,Lane.top_lane,Role.solo

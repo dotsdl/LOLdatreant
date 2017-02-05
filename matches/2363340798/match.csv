@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HvK DCStar,Thresh,False,Side.blue,2,11,10,1.0909090909090908,33,Flash,Exhaust,11,False,7377,7250,Face of the Mountain,Boots of Mobility,Ruby Sightstone,Locket of the Iron Solari,,,11833,5317,Lane.bot_lane,Role.duo
+1,Regular Mid,Yasuo,False,Side.blue,4,9,4,0.8888888888888888,206,Flash,Exhaust,14,False,10058,9975,Ninja Tabi,Phantom Dancer,Infinity Edge,Warden's Mail,Doran's Blade,Ruby Crystal,27321,104506,Lane.mid_lane,Role.solo
+2,RandomPrestige,Tahm Kench,False,Side.blue,4,8,6,1.25,142,Flash,Teleport,13,True,9331,8875,Corrupting Potion,Ninja Tabi,Sunfire Cape,Dead Man's Plate,Ruby Crystal,Warden's Mail,62156,19559,Lane.top_lane,Role.solo
+3,I Blame Rito,Twitch,False,Side.blue,9,9,5,1.5555555555555556,148,Flash,Heal,13,False,10923,10850,Doran's Blade,Bilgewater Cutlass,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Recurve Bow,0,80977,Lane.bot_lane,Role.duo
+4,Semoponume,Volibear,False,Side.blue,2,7,9,1.5714285714285714,147,Smite,Flash,13,False,9779,9950,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Dead Man's Plate,Warden's Mail,Giant's Belt,50972,54524,Lane.jungle,Role.none
+5,Tobias Fate,Gangplank,True,Side.red,9,0,16,25.0,248,Flash,Exhaust,16,False,15683,14393,Doran's Ring,Youmuu's Ghostblade,Trinity Force,Infinity Edge,Boots of Swiftness,Statikk Shiv,17085,218261,Lane.mid_lane,Role.solo
+6,Ezna K,Ezreal,True,Side.red,4,6,14,3.0,138,Heal,Flash,13,False,10723,10025,Doran's Blade,Total Biscuit of Rejuvenation,Iceborn Gauntlet,Muramana,Mortal Reminder,Ionian Boots of Lucidity,7772,80487,Lane.bot_lane,Role.carry
+7,RNG Mlxgod,Karma,True,Side.red,13,5,15,5.6,29,Exhaust,Flash,14,False,12121,11275,Morellonomicon,Eye of the Watchers,Liandry's Torment,Needlessly Large Rod,Sorcerer's Shoes,The Dark Seal,47589,6113,Lane.bot_lane,Role.support
+8,YZzzzz,Jayce,True,Side.red,8,5,14,4.4,192,Ignite,Flash,16,False,12775,10750,The Black Cleaver,Youmuu's Ghostblade,Manamune,Last Whisper,,Ionian Boots of Lucidity,25377,129708,Lane.top_lane,Role.solo
+9,trashgame123,Wukong,True,Side.red,10,5,13,4.6,133,Smite,Flash,15,False,12610,11700,Youmuu's Ghostblade,Enchantment: Warrior,Ninja Tabi,Maw of Malmortius,Phage,Long Sword,8378,132987,Lane.jungle,Role.none

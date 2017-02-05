@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ahemmm,Nautilus,False,Side.blue,0,6,7,1.1666666666666667,40,Flash,Exhaust,12,False,7178,6450,Targon's Brace,Knight's Vow,Ruby Sightstone,Boots of Mobility,Ruby Crystal,,10755,9208,Lane.bot_lane,Role.support
+1,Tàke Me Daddy,Jarvan IV,False,Side.blue,1,6,4,0.8333333333333334,119,Smite,Flash,12,False,8118,7725,Youmuu's Ghostblade,Serrated Dirk,Enchantment: Warrior,,Boots of Speed,,10720,79951,Lane.jungle,Role.none
+2,fkuz,Gragas,False,Side.blue,0,4,2,0.5,197,Teleport,Flash,14,False,8996,8950,Hextech Protobelt-01,Doran's Ring,Refillable Potion,Boots of Speed,Iceborn Gauntlet,Spirit Visage,94485,19452,Lane.top_lane,Role.solo
+3,Aboyan,Xerath,False,Side.blue,5,3,1,2.0,213,Barrier,Flash,15,False,10697,9950,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Needlessly Large Rod,,131980,8009,Lane.mid_lane,Role.solo
+4,Retrogressed,Kog'Maw,False,Side.blue,5,7,3,1.1428571428571428,178,Heal,Flash,13,False,9930,8983,Blade of the Ruined King,Trinity Force,Berserker's Greaves,Doran's Blade,,,21534,55591,Lane.bot_lane,Role.carry
+5,Eu sunt Dracul,Vi,True,Side.red,12,1,9,21.0,153,Smite,Flash,17,True,15062,13408,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,Refillable Potion,Trinity Force,Guardian Angel,4311,197859,Lane.jungle,Role.none
+6,Stirling Archer,Lucian,True,Side.red,1,2,6,3.5,235,Heal,Flash,15,False,11864,9600,Berserker's Greaves,Rapid Firecannon,Essence Reaver,Last Whisper,Doran's Blade,Long Sword,4206,143998,Lane.bot_lane,Role.carry
+7,Tangerinezz,Janna,True,Side.red,1,2,16,8.5,10,Exhaust,Flash,13,False,9105,7175,Eye of the Oasis,Ionian Boots of Lucidity,Aegis of the Legion,Redemption,Null-Magic Mantle,,6152,6060,Lane.bot_lane,Role.support
+8,TBones,Karthus,True,Side.red,7,6,7,2.3333333333333335,207,Flash,Teleport,15,False,12761,11310,Doran's Ring,Seraph's Embrace,Abyssal Scepter,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,136128,3656,Lane.mid_lane,Role.solo
+9,WatchThePower,Riven,True,Side.red,5,0,6,11.0,237,Flash,Teleport,16,False,13375,11525,Maw of Malmortius,Ravenous Hydra,The Black Cleaver,Refillable Potion,Ionian Boots of Lucidity,Cloth Armor,1499,155895,Lane.top_lane,Role.solo

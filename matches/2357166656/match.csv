@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BlackChutney,Gangplank,False,Side.blue,3,5,3,1.2,219,Teleport,Flash,14,False,11771,11583,Infinity Edge,Trinity Force,Statikk Shiv,Ionian Boots of Lucidity,,,14105,143369,Lane.top_lane,Role.solo
+1,East Berlin,LeBlanc,False,Side.blue,4,3,1,1.6666666666666667,188,Flash,Ghost,14,False,9288,8325,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,Aether Wisp,,93634,11133,Lane.mid_lane,Role.solo
+2,Oppa Ozaing,Nidalee,False,Side.blue,1,6,4,0.8333333333333334,88,Flash,Smite,12,False,8010,7575,Boots of Speed,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Sheen,,,64798,13499,Lane.jungle,Role.none
+3,Soligo,Alistar,False,Side.blue,0,8,4,0.5,29,Exhaust,Flash,11,False,6106,5750,Frozen Heart,Sightstone,,Targon's Brace,Ionian Boots of Lucidity,,8749,4425,Lane.bot_lane,Role.support
+4,Some Fruit,Jhin,False,Side.blue,2,9,3,0.5555555555555556,176,Heal,Flash,12,False,9015,8850,Essence Reaver,Doran's Blade,Cull,Rapid Firecannon,Berserker's Greaves,Null-Magic Mantle,8357,93911,Lane.bot_lane,Role.carry
+5,Yuán G,Lee Sin,True,Side.red,5,1,11,16.0,100,Smite,Flash,14,False,10431,9325,Enchantment: Warrior,Hexdrinker,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Caulfield's Warhammer,19882,112950,Lane.jungle,Role.none
+6,Kioshima S,Vayne,True,Side.red,15,4,3,4.5,198,Heal,Flash,14,True,14664,14800,Quicksilver Sash,Banshee's Veil,Statikk Shiv,Berserker's Greaves,Infinity Edge,Phantom Dancer,44700,109711,Lane.bot_lane,Role.carry
+7,Neveeer Lucky,Aurelion Sol,True,Side.red,9,1,8,17.0,190,Ghost,Flash,15,False,11958,11050,The Dark Seal,Corrupting Potion,Hextech GLP-800,Mercury's Treads,Abyssal Scepter,Rylai's Crystal Scepter,127134,9187,Lane.mid_lane,Role.solo
+8,TheSarahPen,Morgana,True,Side.red,1,0,25,26.0,24,Exhaust,Flash,13,False,9502,6725,Redemption,Sightstone,Ionian Boots of Lucidity,Spellthief's Edge,Seeker's Armguard,Fiendish Codex,15284,6486,Lane.bot_lane,Role.support
+9,MasterStan,Fiora,True,Side.red,1,4,6,1.75,191,Teleport,Flash,14,False,10366,10125,Chain Vest,Null-Magic Mantle,Titanic Hydra,The Black Cleaver,Doran's Blade,Mercury's Treads,1987,89432,Lane.top_lane,Role.solo

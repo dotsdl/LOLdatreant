@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Teagan Konrad,Kindred,True,Side.blue,4,2,12,8.0,112,Flash,Smite,14,False,9493,8450,Enchantment: Bloodrazor,Runaan's Hurricane,Berserker's Greaves,Zeal,Dagger,Dagger,1421,101981,Lane.jungle,Role.none
+1,King of Memes,Rengar,True,Side.blue,2,4,11,3.25,51,Ignite,Flash,11,False,7721,7025,Giant's Belt,Sightstone,,Ninja Tabi,The Black Cleaver,Cloth Armor,11021,29491,Lane.bot_lane,Role.support
+2,NA Rumble,Rumble,True,Side.blue,10,2,5,7.5,212,Teleport,Flash,15,False,11732,10860,Hextech Protobelt-01,Zhonya's Hourglass,Doran's Shield,Sorcerer's Shoes,Liandry's Torment,Amplifying Tome,116037,12278,Lane.top_lane,Role.solo
+3,Carrots2,Orianna,True,Side.blue,6,1,8,14.0,162,Flash,Barrier,14,False,9960,7885,Doran's Ring,Zhonya's Hourglass,Morellonomicon,,Ionian Boots of Lucidity,Doran's Ring,84517,16280,Lane.mid_lane,Role.solo
+4,Asyc xD ,Jhin,True,Side.blue,7,5,7,2.8,169,Heal,Flash,13,True,10989,9550,Doran's Blade,Essence Reaver,Rapid Firecannon,Cull,Boots of Swiftness,B. F. Sword,3645,103638,Lane.bot_lane,Role.carry
+5,PutYourHeartsUp,Lulu,False,Side.red,1,6,6,1.1666666666666667,15,Exhaust,Flash,10,False,7101,6150,Refillable Potion,,Eye of the Watchers,Faerie Charm,Ardent Censer,Ionian Boots of Lucidity,8109,4383,Lane.bot_lane,Role.support
+6,LL Stylish,Zed,False,Side.red,3,6,0,0.5,172,Ignite,Flash,13,False,8539,7700,Refillable Potion,Edge of Night,Duskblade of Draktharr,Ionian Boots of Lucidity,,,5792,81226,Lane.mid_lane,Role.solo
+7,KarasMai,Graves,False,Side.red,7,5,2,1.8,152,Flash,Smite,14,False,11101,10250,Enchantment: Warrior,,Mercury's Treads,Phantom Dancer,Maw of Malmortius,,5448,152128,Lane.jungle,Role.none
+8,NI9HT,Kalista,False,Side.red,3,8,3,0.75,152,Heal,Flash,11,False,8591,8350,Blade of the Ruined King,Long Sword,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,,3560,76141,Lane.bot_lane,Role.carry
+9,jamican banana,Yorick,False,Side.red,0,5,3,0.6,173,Teleport,Flash,13,False,8188,7383,Boots of Speed,Corrupting Potion,Zz'Rot Portal,Trinity Force,,,8615,69409,Lane.top_lane,Role.solo

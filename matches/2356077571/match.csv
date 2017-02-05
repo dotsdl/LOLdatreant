@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KINKY LORD,Graves,True,Side.blue,2,1,7,9.0,132,Smite,Flash,13,False,8883,8325,Refillable Potion,Serrated Dirk,Youmuu's Ghostblade,Enchantment: Warrior,Berserker's Greaves,Null-Magic Mantle,2718,127051,Lane.jungle,Role.none
+1,Féarless,Draven,True,Side.blue,8,4,3,2.75,149,Heal,Flash,12,False,11063,9700,Berserker's Greaves,Doran's Blade,Infinity Edge,B. F. Sword,Phantom Dancer,Null-Magic Mantle,393,90508,Lane.bot_lane,Role.carry
+2,DoombringerEX,Blitzcrank,True,Side.blue,1,5,16,3.4,7,Flash,Ignite,11,False,6765,6150,Boots of Mobility,Nomad's Medallion,Ruby Sightstone,Redemption,,Control Ward,6367,3910,Lane.bot_lane,Role.support
+3,KeIsi Monroe,Rengar,True,Side.blue,9,4,5,3.5,125,Ignite,Flash,13,False,9717,8075,The Black Cleaver,Refillable Potion,Mercury's Treads,Spirit Visage,Long Sword,Long Sword,11153,68939,Lane.top_lane,Role.solo
+4,am sol,LeBlanc,True,Side.blue,17,2,5,11.0,127,Ignite,Flash,13,False,12182,10925,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Doran's Ring,,Abyssal Scepter,58648,11340,Lane.mid_lane,Role.solo
+5,master fizz,Fizz,False,Side.red,2,9,4,0.6666666666666666,68,Flash,Ignite,10,False,5668,5135,Ionian Boots of Lucidity,Zhonya's Hourglass,Corrupting Potion,Doran's Ring,Amplifying Tome,,23302,8879,Lane.top_lane,Role.solo
+6,JUAN TU TREE,Ezreal,False,Side.red,3,4,4,1.75,130,Heal,Flash,11,True,7103,6650,Doran's Blade,Refillable Potion,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,,9218,53436,Lane.bot_lane,Role.carry
+7,NI9HT,Ivern,False,Side.red,2,9,4,0.6666666666666666,10,Exhaust,Flash,8,False,5103,4810,Eye of the Watchers,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Amplifying Tome,Kindlegem,,5297,3069,Lane.bot_lane,Role.support
+8,Shroudedd,Cassiopeia,False,Side.red,2,9,2,0.4444444444444444,105,Ghost,Flash,11,False,5983,5910,Tear of the Goddess,Doran's Ring,Morellonomicon,Amplifying Tome,Needlessly Large Rod,,46448,6531,Lane.mid_lane,Role.solo
+9,Gweiss,Lee Sin,False,Side.red,7,6,2,1.5,82,Smite,Flash,11,False,7417,7125,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,,,13550,53790,Lane.jungle,Role.none

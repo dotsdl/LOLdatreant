@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AlfredXillia,Annie,False,Side.blue,2,3,1,1.0,154,Flash,Ghost,12,False,7436,7275,Ruby Crystal,Fiendish Codex,Sorcerer's Shoes,Doran's Ring,Abyssal Scepter,Seeker's Armguard,60481,10171,Lane.mid_lane,Role.solo
+1,Susice,Kha'Zix,False,Side.blue,7,4,4,2.75,108,Smite,Flash,14,False,9265,7800,Enchantment: Warrior,Ionian Boots of Lucidity,B. F. Sword,Tiamat,Serrated Dirk,Null-Magic Mantle,4464,101484,Lane.jungle,Role.none
+2,UtahaKasumigaoka,Riven,False,Side.blue,0,7,3,0.42857142857142855,134,Teleport,Flash,12,False,6974,6750,The Black Cleaver,Ionian Boots of Lucidity,Hexdrinker,Vampiric Scepter,,,324,52159,Lane.top_lane,Role.solo
+3,noob maple,Jhin,False,Side.blue,1,5,6,1.4,166,Heal,Flash,11,False,7909,7750,Doran's Blade,Boots of Swiftness,Refillable Potion,Essence Reaver,Statikk Shiv,,3994,79996,Lane.bot_lane,Role.carry
+4,L3E SIN,Zilean,False,Side.blue,3,4,6,2.25,36,Flash,Exhaust,11,False,6944,6525,Morellonomicon,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,,Refillable Potion,30330,5365,Lane.bot_lane,Role.support
+5,JOGViking,Xin Zhao,True,Side.red,1,4,4,1.25,161,Smite,Flash,14,True,10187,8900,Enchantment: Bloodrazor,Tiamat,Mercury's Treads,The Black Cleaver,Ruby Crystal,Ruby Crystal,22717,114298,Lane.jungle,Role.none
+6,Liquidify,Kennen,True,Side.red,5,2,1,3.0,149,Teleport,Flash,14,False,10000,7810,Zhonya's Hourglass,,Hextech Protobelt-01,Doran's Blade,Amplifying Tome,Sorcerer's Shoes,58687,26685,Lane.top_lane,Role.solo
+7,Outline,Vel'Koz,True,Side.red,5,2,3,4.0,163,Flash,Heal,14,False,10626,9150,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Aether Wisp,Sorcerer's Shoes,,88584,9981,Lane.mid_lane,Role.solo
+8,Sìyou,Janna,True,Side.red,1,2,16,8.5,8,Flash,Exhaust,12,False,8907,7575,Rabadon's Deathcap,Eye of the Oasis,Control Ward,,Ionian Boots of Lucidity,The Dark Seal,8634,5274,Lane.bot_lane,Role.support
+9,adc feng lft,Vayne,True,Side.red,11,3,6,5.666666666666667,235,Heal,Flash,14,False,13845,11850,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Statikk Shiv,Phantom Dancer,Null-Magic Mantle,28532,133332,Lane.bot_lane,Role.carry

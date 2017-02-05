@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zadioc,Jhin,False,Side.blue,8,8,6,1.75,171,Heal,Flash,14,False,12221,11850,B. F. Sword,Essence Reaver,Rapid Firecannon,Lord Dominik's Regards,Boots of Swiftness,,15427,114760,Lane.bot_lane,Role.carry
+1,Yure,Alistar,False,Side.blue,0,7,11,1.5714285714285714,36,Exhaust,Flash,13,False,8271,7700,Knight's Vow,Randuin's Omen,Sightstone,,Ninja Tabi,Relic Shield,15671,8156,Lane.bot_lane,Role.support
+2,the gobin,Malphite,False,Side.blue,3,5,3,1.2,223,Flash,Teleport,15,False,11853,10925,Doran's Blade,Wit's End,Titanic Hydra,Iceborn Gauntlet,Mercury's Treads,Ruby Crystal,22747,108684,Lane.top_lane,Role.solo
+3,TRUMPSSMALLHANDS,Pantheon,False,Side.blue,6,10,4,1.0,134,Flash,Smite,15,False,11711,11675,Enchantment: Warrior,The Black Cleaver,Tiamat,Mercury's Treads,Maw of Malmortius,,11619,140301,Lane.jungle,Role.none
+4,sGerry,Twisted Fate,False,Side.blue,2,8,10,1.5,182,Ghost,Flash,14,False,11555,11210,Ionian Boots of Lucidity,Zhonya's Hourglass,Amplifying Tome,Rod of Ages,Lich Bane,,121236,18094,Lane.mid_lane,Role.solo
+5,BearlyArmed,Maokai,True,Side.red,8,3,16,8.0,192,Flash,Teleport,16,False,13187,12875,Warden's Mail,Sunfire Cape,Frozen Heart,Ninja Tabi,Spirit Visage,Giant's Belt,107611,21409,Lane.top_lane,Role.solo
+6,Tangerinezz,Janna,True,Side.red,0,4,32,8.0,10,Exhaust,Flash,14,False,9697,8850,Eye of the Oasis,Ionian Boots of Lucidity,Mikael's Crucible,Redemption,Aegis of the Legion,Control Ward,5145,5422,Lane.bot_lane,Role.support
+7,Foxlooo,Jinx,True,Side.red,12,5,9,4.2,286,Heal,Flash,16,False,15762,14175,Berserker's Greaves,Statikk Shiv,Mercurial Scimitar,Infinity Edge,Runaan's Hurricane,,16583,205481,Lane.bot_lane,Role.carry
+8,Hakuto,Ekko,True,Side.red,6,6,11,2.8333333333333335,208,Teleport,Flash,16,False,12710,11975,Giant's Belt,Hextech Protobelt-01,Zhonya's Hourglass,Needlessly Large Rod,Rod of Ages,Ionian Boots of Lucidity,132501,18662,Lane.mid_lane,Role.solo
+9,PaladinDuran,Olaf,True,Side.red,11,1,17,28.0,173,Smite,Ghost,17,True,14623,13600,Righteous Glory,Dead Man's Plate,Randuin's Omen,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Kindlegem,29755,143078,Lane.jungle,Role.none

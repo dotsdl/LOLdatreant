@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Not Kat Main,Katarina,False,Side.blue,2,7,2,0.5714285714285714,91,Flash,Ignite,11,False,6242,5625,The Dark Seal,Hextech Gunblade,Sorcerer's Shoes,Refillable Potion,Ruby Crystal,Control Ward,41344,6762,Lane.mid_lane,Role.solo
+1,Demon Akame,Karma,False,Side.blue,0,6,8,1.3333333333333333,17,Exhaust,Flash,10,False,5593,4700,Frost Queen's Claim,,Ruby Sightstone,Boots of Speed,,,13011,1335,Lane.bot_lane,Role.support
+2,psycho Therapy,Master Yi,False,Side.blue,12,4,0,3.0,142,Flash,Smite,14,False,11011,10200,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Phantom Dancer,The Bloodthirster,,1694,125423,Lane.jungle,Role.none
+3,MrHitchens,Varus,False,Side.blue,2,6,7,1.5,133,Heal,Flash,11,False,7480,7425,Doran's Blade,Manamune,Essence Reaver,Cull,,Boots of Speed,3444,67633,Lane.bot_lane,Role.carry
+4,Pu33y Sl4yer,Shaco,False,Side.blue,4,6,5,1.5,96,Teleport,Ignite,12,False,7007,5800,Hextech Protobelt-01,Corrupting Potion,Ionian Boots of Lucidity,Sheen,Aether Wisp,,26909,17780,Lane.top_lane,Role.solo
+5,Hicchan,LeBlanc,True,Side.red,5,2,5,5.0,149,Flash,Ignite,14,False,9010,7775,Hextech Revolver,Abyssal Scepter,The Dark Seal,Lost Chapter,Sorcerer's Shoes,Fiendish Codex,69873,12003,Lane.mid_lane,Role.solo
+6,Kehnee,Fiora,True,Side.red,2,2,3,2.5,137,Teleport,Flash,12,False,8648,8225,Doran's Blade,Ravenous Hydra,Boots of Swiftness,The Black Cleaver,,,1286,78182,Lane.top_lane,Role.solo
+7,Im Not Impressed,Brand,True,Side.red,5,9,7,1.3333333333333333,24,Flash,Ignite,11,False,8232,7010,Frost Queen's Claim,Sightstone,Giant's Belt,Needlessly Large Rod,Ionian Boots of Lucidity,Amplifying Tome,24005,4226,Lane.bot_lane,Role.support
+8,Sìyou,Ezreal,True,Side.red,5,5,6,2.2,117,Flash,Heal,12,False,8818,7450,Doran's Blade,Control Ward,Iceborn Gauntlet,Manamune,Berserker's Greaves,Cull,7340,49272,Lane.bot_lane,Role.carry
+9,adc feng lft,Shyvana,True,Side.red,12,2,3,7.5,160,Smite,Flash,15,True,12675,11783,Enchantment: Bloodrazor,Refillable Potion,Trinity Force,Ninja Tabi,Frozen Mallet,Warden's Mail,58142,86126,Lane.jungle,Role.none

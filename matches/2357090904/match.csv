@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Legendary Brad,Shyvana,True,Side.blue,1,3,5,2.0,182,Smite,Flash,14,False,10071,9075,Titanic Hydra,Refillable Potion,Stinger,Boots of Speed,Enchantment: Bloodrazor,Phage,62385,91597,Lane.jungle,Role.none
+1,Subzeroark,Twitch,True,Side.blue,10,2,3,6.5,116,Flash,Heal,12,False,10719,8600,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Long Sword,,3037,70118,Lane.bot_lane,Role.carry
+2,Baby Brimstone,Lulu,True,Side.blue,1,1,13,14.0,11,Flash,Exhaust,11,False,7916,6325,Frostfang,Sightstone,Ionian Boots of Lucidity,Ardent Censer,Forbidden Idol,Control Ward,11801,4327,Lane.bot_lane,Role.support
+3,Use Knowledge,Viktor,True,Side.blue,6,1,6,12.0,156,Flash,Ghost,14,False,10005,7650,Refillable Potion,Perfect Hex Core,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,,84398,13979,Lane.mid_lane,Role.solo
+4,JeiiZe,Nautilus,True,Side.blue,4,1,8,12.0,161,Teleport,Flash,13,True,9949,8275,Doran's Shield,Mercury's Treads,Corrupting Potion,Spirit Visage,Sunfire Cape,,66727,22060,Lane.top_lane,Role.solo
+5,Conteam,Kennen,False,Side.red,3,6,1,0.6666666666666666,135,Flash,Teleport,12,False,7030,6850,Hextech Protobelt-01,,Doran's Blade,Zhonya's Hourglass,Ruby Crystal,Boots of Speed,42773,16359,Lane.top_lane,Role.solo
+6,BlazingCake,Karma,False,Side.red,0,3,1,0.3333333333333333,155,Flash,Teleport,11,False,6582,6100,Ionian Boots of Lucidity,Doran's Ring,Haunting Guise,Morellonomicon,,,52136,16964,Lane.mid_lane,Role.solo
+7,Braums Mustache,Braum,False,Side.red,0,4,5,1.25,27,Flash,Exhaust,9,False,5323,5050,Boots of Mobility,Sightstone,Face of the Mountain,Cloth Armor,Cloth Armor,,5468,3326,Lane.bot_lane,Role.support
+8,Watarimono,Graves,False,Side.red,4,5,1,1.0,115,Flash,Smite,12,False,7338,6950,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Vampiric Scepter,Boots of Speed,Long Sword,3360,86876,Lane.jungle,Role.none
+9,SleePpy,Caitlyn,False,Side.red,1,4,1,0.5,137,Flash,Heal,10,False,6726,5800,Boots of Speed,Runaan's Hurricane,B. F. Sword,Doran's Blade,,Pickaxe,833,70767,Lane.bot_lane,Role.carry

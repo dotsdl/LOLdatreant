@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ancient Forest,Skarner,False,Side.blue,2,4,2,1.0,88,Smite,Ghost,11,False,6575,6175,Refillable Potion,Enchantment: Warrior,Boots of Swiftness,Phage,Stinger,,17396,54852,Lane.jungle,Role.none
+1,TheMostNobleGas,Riven,False,Side.blue,0,4,1,0.25,111,Flash,Teleport,11,False,5675,5400,Refillable Potion,The Black Cleaver,Long Sword,Long Sword,,Ninja Tabi,279,40130,Lane.top_lane,Role.solo
+2,Reptar Revised,Twisted Fate,False,Side.blue,2,5,2,0.8,109,Flash,Ignite,11,False,6499,6050,,,Needlessly Large Rod,Lich Bane,Doran's Ring,Sorcerer's Shoes,47476,10300,Lane.mid_lane,Role.solo
+3,answer Revised,Bard,False,Side.blue,2,6,2,0.6666666666666666,8,Flash,Ignite,9,False,5001,4775,Boots of Speed,Control Ward,Eye of the Watchers,Fiendish Codex,Chalice of Harmony,,7153,3594,Lane.bot_lane,Role.support
+4,Final Mark,Ezreal,False,Side.blue,1,5,5,1.2,110,Heal,Flash,10,False,6063,5750,Sheen,Doran's Blade,Manamune,Cull,Ionian Boots of Lucidity,Long Sword,6993,47520,Lane.bot_lane,Role.carry
+5,School High,Ryze,True,Side.red,4,2,2,3.0,173,Flash,Ghost,13,False,8703,7150,Archangel's Staff,Refillable Potion,Rod of Ages,,Ionian Boots of Lucidity,,94923,10628,Lane.mid_lane,Role.solo
+6,Jerry Chan,Kha'Zix,True,Side.red,6,1,6,12.0,91,Flash,Smite,12,False,9064,6750,Refillable Potion,Tiamat,Hexdrinker,Caulfield's Warhammer,Enchantment: Warrior,Boots of Speed,3899,102156,Lane.jungle,Role.none
+7,TamilTiger,Gangplank,True,Side.red,4,0,1,5.0,146,Exhaust,Flash,13,True,9093,8633,Trinity Force,Youmuu's Ghostblade,Pickaxe,Ionian Boots of Lucidity,,,926,97769,Lane.top_lane,Role.solo
+8,53XY,Leona,True,Side.red,2,2,7,4.5,36,Flash,Ignite,11,False,6376,4850,Face of the Mountain,Refillable Potion,Ruby Sightstone,Null-Magic Mantle,,Boots of Speed,5241,7156,Lane.bot_lane,Role.support
+9,always plan ahea,Jhin,True,Side.red,8,2,5,6.5,180,Flash,Heal,12,False,10557,8500,Doran's Blade,Infinity Edge,Boots of Speed,Essence Reaver,,Dagger,6396,96920,Lane.bot_lane,Role.carry

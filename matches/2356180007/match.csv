@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DeaIer29,Shyvana,False,Side.blue,2,5,1,0.6,97,Teleport,Ghost,11,False,5799,4800,Zz'Rot Portal,Tiamat,,Boots of Speed,Doran's Blade,,25944,21087,Lane.top_lane,Role.solo
+1,LimitedExtent,Jhin,False,Side.blue,4,4,3,1.75,135,Heal,Flash,10,False,7076,6150,Doran's Blade,Boots of Speed,Essence Reaver,Zeal,Dagger,,1199,65203,Lane.bot_lane,Role.carry
+2,An Obese Panda,Vi,False,Side.blue,1,6,3,0.6666666666666666,95,Smite,Flash,10,False,5901,5275,Mercury's Treads,Refillable Potion,Phage,,,Enchantment: Warrior,1046,70300,Lane.jungle,Role.none
+3,ZatsMod,Karma,False,Side.blue,2,8,3,0.625,11,Flash,Exhaust,9,False,4984,3585,Ionian Boots of Lucidity,Ruby Sightstone,Refillable Potion,,Spellthief's Edge,Amplifying Tome,11050,3714,Lane.bot_lane,Role.support
+4,godrjsdnd,Fizz,False,Side.blue,0,8,2,0.25,102,Ignite,Flash,10,False,5242,5025,Corrupting Potion,The Dark Seal,Lich Bane,Ionian Boots of Lucidity,,,18877,14788,Lane.mid_lane,Role.solo
+5,Kawaki,Twitch,True,Side.red,4,4,3,1.75,88,Heal,Flash,10,False,6531,6450,Refillable Potion,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Zeal,,76,35517,Lane.bot_lane,Role.carry
+6,Grigne,Elise,True,Side.red,12,0,8,20.0,112,Flash,Smite,14,True,11194,8250,Enchantment: Runic Echoes,Boots of Mobility,Refillable Potion,Rylai's Crystal Scepter,Fiendish Codex,Ruby Crystal,88898,27736,Lane.jungle,Role.none
+7,Riesig,Poppy,True,Side.red,6,2,6,6.0,170,Flash,Teleport,13,False,9423,9308,Corrupting Potion,Sunfire Cape,Boots of Swiftness,Trinity Force,Spectre's Cowl,,27351,59802,Lane.top_lane,Role.solo
+8,Yusui,Morgana,True,Side.red,4,3,14,6.0,20,Exhaust,Flash,11,False,7500,5585,Frost Queen's Claim,,Boots of Mobility,Ruby Sightstone,Amplifying Tome,,13325,4347,Lane.bot_lane,Role.support
+9,Descraton,Vladimir,True,Side.red,5,0,11,16.0,152,Ghost,Flash,13,False,8649,5475,Doran's Shield,Spirit Visage,Ionian Boots of Lucidity,Refillable Potion,Hextech Revolver,,63214,12346,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PSYCHOPATH909,Veigar,True,Side.blue,9,0,3,12.0,50,Flash,Exhaust,12,False,9512,6885,Blasting Wand,The Dark Seal,Sorcerer's Shoes,Morellonomicon,Frostfang,Doran's Ring,40834,5856,Lane.bot_lane,Role.support
+1,Gaow Gaiy,Maokai,True,Side.blue,1,0,12,13.0,195,Flash,Teleport,14,False,9797,8150,Doran's Ring,Spirit Visage,Sunfire Cape,Mercury's Treads,Cloth Armor,Ruby Crystal,79309,19599,Lane.top_lane,Role.solo
+2,YummiBananas,Jax,True,Side.blue,5,2,6,5.5,115,Smite,Ghost,14,False,10036,8408,Enchantment: Bloodrazor,Refillable Potion,Trinity Force,Ruby Crystal,Ruby Crystal,Mercury's Treads,26659,101619,Lane.jungle,Role.none
+3,Stiches,Kog'Maw,True,Side.blue,3,2,8,5.5,135,Heal,Flash,12,False,9369,7950,Blade of the Ruined King,Pickaxe,Recurve Bow,Berserker's Greaves,Doran's Blade,Blasting Wand,23078,54127,Lane.bot_lane,Role.carry
+4,Pobelter,Viktor,True,Side.blue,3,2,4,3.5,154,Flash,Cleanse,13,True,9514,8185,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Lich Bane,Amplifying Tome,,72091,12947,Lane.mid_lane,Role.solo
+5,Silas Kroeger,Ryze,False,Side.red,3,1,1,4.0,158,Ghost,Flash,12,False,7757,7300,Archangel's Staff,Rod of Ages,Boots of Speed,Fiendish Codex,,,75483,10746,Lane.mid_lane,Role.solo
+6,umperor,Irelia,False,Side.red,0,7,2,0.2857142857142857,130,Teleport,Flash,11,False,6026,5033,Doran's Blade,Trinity Force,Refillable Potion,Long Sword,Boots of Speed,,435,51169,Lane.top_lane,Role.solo
+7,FZ3R0,Caitlyn,False,Side.red,0,5,2,0.4,179,Flash,Heal,11,False,7543,7475,Doran's Blade,Pickaxe,Vampiric Scepter,Berserker's Greaves,Statikk Shiv,Recurve Bow,11863,77601,Lane.bot_lane,Role.carry
+8,retarded virgin,Elise,False,Side.red,1,5,1,0.4,76,Flash,Smite,10,False,5984,5800,Enchantment: Runic Echoes,Refillable Potion,Hextech Revolver,Kindlegem,Sorcerer's Shoes,,44383,19134,Lane.jungle,Role.none
+9,Ari Kingu,Karma,False,Side.red,2,3,1,1.0,20,Exhaust,Flash,10,False,5398,5825,Eye of the Watchers,Tear of the Goddess,Tear of the Goddess,,Ionian Boots of Lucidity,,11341,4517,Lane.bot_lane,Role.support

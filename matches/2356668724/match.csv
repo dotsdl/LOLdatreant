@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IKingVex,Lucian,False,Side.blue,9,8,6,1.875,225,Heal,Flash,14,False,13280,13375,Rapid Firecannon,Mercurial Scimitar,,Hexdrinker,Essence Reaver,Berserker's Greaves,6471,130591,Lane.bot_lane,Role.carry
+1,Valkrin,Zyra,False,Side.blue,1,7,9,1.4285714285714286,49,Flash,Ignite,12,False,8746,8360,Sorcerer's Shoes,Eye of the Watchers,Liandry's Torment,The Dark Seal,Amplifying Tome,Null-Magic Mantle,41044,5751,Lane.bot_lane,Role.support
+2,Cris,Jayce,False,Side.blue,3,8,5,1.0,200,Flash,Teleport,14,False,10648,10275,Refillable Potion,Ruby Crystal,Manamune,Mercury's Treads,The Black Cleaver,Mortal Reminder,20945,100486,Lane.top_lane,Role.solo
+3,Abou222,Annie,False,Side.blue,10,8,3,1.625,132,Ghost,Flash,13,False,10913,11000,Doran's Ring,Abyssal Scepter,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,,62658,9907,Lane.mid_lane,Role.solo
+4,blaberfish2,Rek'Sai,False,Side.blue,2,5,8,2.0,139,Flash,Smite,14,False,10053,8825,Randuin's Omen,Null-Magic Mantle,Tiamat,Mercury's Treads,Enchantment: Cinderhulk,Ruby Crystal,24387,79732,Lane.jungle,Role.none
+5,cute pupper irl,Poppy,True,Side.red,4,3,9,4.333333333333333,133,Flash,Teleport,15,False,10095,9500,Sunfire Cape,Ninja Tabi,Glacial Shroud,Corrupting Potion,Spirit Visage,Sheen,22262,55339,Lane.top_lane,Role.solo
+6,FZ3R0,Ahri,True,Side.red,10,4,9,4.75,254,Flash,Cleanse,16,False,14839,13950,Rylai's Crystal Scepter,Luden's Echo,Doran's Ring,Sorcerer's Shoes,Void Staff,Morellonomicon,118560,18607,Lane.mid_lane,Role.solo
+7,Årcee,Twitch,True,Side.red,7,7,7,2.0,176,Heal,Flash,14,False,12112,12000,Mercurial Scimitar,,Infinity Edge,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,0,100729,Lane.bot_lane,Role.carry
+8,Naeun,Nidalee,True,Side.red,11,5,8,3.8,151,Smite,Flash,16,True,13756,13470,Locket of the Iron Solari,Enchantment: Runic Echoes,Mercury's Treads,Rod of Ages,Iceborn Gauntlet,Negatron Cloak,147479,26425,Lane.jungle,Role.none
+9,Professor Melyn,Vel'Koz,True,Side.red,4,6,10,2.3333333333333335,23,Flash,Ignite,12,False,9494,7325,Ionian Boots of Lucidity,Liandry's Torment,Ruby Crystal,,Eye of the Watchers,,21928,2702,Lane.bot_lane,Role.support

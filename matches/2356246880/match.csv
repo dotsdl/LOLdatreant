@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ul7raz,Ryze,True,Side.blue,4,1,9,13.0,114,Ghost,Flash,13,False,10030,8775,Tear of the Goddess,Rod of Ages,Ionian Boots of Lucidity,Abyssal Scepter,Refillable Potion,Needlessly Large Rod,70148,9556,Lane.mid_lane,Role.solo
+1,doey,Irelia,True,Side.blue,9,1,4,13.0,175,Flash,Teleport,15,False,11748,8983,Trinity Force,Corrupting Potion,Youmuu's Ghostblade,Mercury's Treads,Long Sword,Ruby Crystal,1274,90674,Lane.top_lane,Role.solo
+2,F33dMeKills,Zilean,True,Side.blue,6,2,16,11.0,22,Flash,Exhaust,13,False,10299,9225,Ionian Boots of Lucidity,Sightstone,Talisman of Ascension,Morellonomicon,Tear of the Goddess,Needlessly Large Rod,40717,4538,Lane.bot_lane,Role.support
+3,CopyCat,Vi,True,Side.blue,9,3,13,7.333333333333333,139,Smite,Flash,15,False,12971,12383,Enchantment: Warrior,Serrated Dirk,Maw of Malmortius,Trinity Force,Mercury's Treads,Long Sword,3423,169048,Lane.jungle,Role.none
+4,BasementCasanova,Tristana,True,Side.blue,5,6,11,2.6666666666666665,171,Flash,Heal,14,False,11253,7975,Boots of Speed,Statikk Shiv,Infinity Edge,Cull,Dagger,Doran's Blade,33079,74642,Lane.bot_lane,Role.carry
+5,Legend Floob,Caitlyn,False,Side.red,2,9,3,0.5555555555555556,108,Heal,Flash,11,False,6895,5675,Doran's Blade,Cull,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,Pickaxe,427,58730,Lane.bot_lane,Role.carry
+6,XinsertpunhereX,Orianna,False,Side.red,3,8,2,0.625,123,Ignite,Flash,11,False,7055,6100,Refillable Potion,Sorcerer's Shoes,Lost Chapter,Fiendish Codex,Rod of Ages,The Dark Seal,51911,11496,Lane.mid_lane,Role.solo
+7,Hanjaro,Janna,False,Side.red,1,3,3,1.3333333333333333,6,Flash,Exhaust,10,False,5193,4200,Sightstone,Forbidden Idol,The Dark Seal,Ancient Coin,Boots of Swiftness,Crystalline Bracer,6808,2167,Lane.bot_lane,Role.support
+8,PRyan24,Malphite,False,Side.red,2,8,4,0.75,118,Flash,Teleport,12,False,7024,6260,Doran's Shield,Sunfire Cape,Ninja Tabi,Warden's Mail,Ruby Crystal,,41524,19626,Lane.top_lane,Role.solo
+9,King Mansa Musa,Sejuani,False,Side.red,5,5,2,1.4,136,Flash,Smite,13,True,8721,8450,Enchantment: Cinderhulk,Refillable Potion,Righteous Glory,Ninja Tabi,Warden's Mail,Giant's Belt,71580,22863,Lane.jungle,Role.none

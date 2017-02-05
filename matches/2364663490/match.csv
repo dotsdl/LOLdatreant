@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sheiden,Kennen,True,Side.blue,6,7,13,2.7142857142857144,154,Teleport,Flash,14,False,11573,10635,Zhonya's Hourglass,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,,59315,21349,Lane.mid_lane,Role.solo
+1,Sofm  Aquarius,Jhin,True,Side.blue,11,5,12,4.6,169,Flash,Heal,14,False,13479,10550,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Rapid Firecannon,Essence Reaver,,10844,107119,Lane.bot_lane,Role.carry
+2,stealthattacker,Rumble,True,Side.blue,7,5,7,2.8,192,Flash,Teleport,15,False,12079,10325,Doran's Shield,Rylai's Crystal Scepter,Liandry's Torment,Seeker's Armguard,Fiendish Codex,Sorcerer's Shoes,96664,15814,Lane.top_lane,Role.solo
+3,The Eggsalad,Vel'Koz,True,Side.blue,3,5,16,3.8,37,Exhaust,Flash,13,False,10012,7985,Frostfang,Sorcerer's Shoes,Liandry's Torment,Sightstone,Amplifying Tome,Blasting Wand,37153,6571,Lane.bot_lane,Role.support
+4,BlackGanja420,Vi,True,Side.blue,10,5,10,4.0,115,Flash,Smite,14,False,12501,10658,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Ninja Tabi,Dead Man's Plate,Control Ward,5676,112245,Lane.jungle,Role.none
+5,Waifu Killer,Janna,False,Side.red,2,9,17,2.111111111111111,10,Exhaust,Flash,11,False,8066,6785,Eye of the Oasis,Redemption,Control Ward,Boots of Mobility,Forbidden Idol,Amplifying Tome,12176,2796,Lane.bot_lane,Role.support
+6,Malli,Nautilus,False,Side.red,5,5,6,2.2,154,Flash,Teleport,14,False,9700,9445,Corrupting Potion,Spirit Visage,Mercury's Treads,Sunfire Cape,Spectre's Cowl,Negatron Cloak,52994,23855,Lane.top_lane,Role.solo
+7,Nykolas,Zac,False,Side.red,9,5,8,3.4,118,Smite,Flash,14,True,10565,9675,Spirit Visage,Randuin's Omen,Ionian Boots of Lucidity,Enchantment: Cinderhulk,,,91445,15170,Lane.jungle,Role.none
+8,Conomos,Draven,False,Side.red,6,7,7,1.8571428571428572,131,Flash,Heal,12,False,10240,9800,The Bloodthirster,Doran's Blade,Infinity Edge,Berserker's Greaves,Dagger,Long Sword,0,81322,Lane.bot_lane,Role.carry
+9,Ozakii,Yasuo,False,Side.red,5,11,10,1.3636363636363635,124,Ignite,Flash,13,False,9165,8750,Doran's Blade,Phantom Dancer,Berserker's Greaves,Frozen Mallet,Cloak of Agility,Long Sword,13227,68683,Lane.mid_lane,Role.solo

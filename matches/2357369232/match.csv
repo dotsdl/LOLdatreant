@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Grapermelon,Gragas,False,Side.blue,6,8,10,2.0,134,Smite,Flash,15,False,11550,10975,Ionian Boots of Lucidity,Giant's Belt,Enchantment: Runic Echoes,Iceborn Gauntlet,Spirit Visage,Chain Vest,95243,29829,Lane.jungle,Role.none
+1,Sebi,Orianna,False,Side.blue,7,8,14,2.625,203,Flash,Ghost,16,False,12912,12200,Needlessly Large Rod,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Void Staff,Blasting Wand,133530,15405,Lane.mid_lane,Role.solo
+2,skyWtr,Morgana,False,Side.blue,1,8,18,2.375,16,Exhaust,Flash,13,False,9639,8850,Redemption,Eye of the Watchers,Zhonya's Hourglass,Control Ward,,Ionian Boots of Lucidity,19745,4264,Lane.bot_lane,Role.support
+3,owowowowowowowo,Jhin,False,Side.blue,9,8,7,2.0,230,Heal,Flash,15,True,13267,12875,Pickaxe,Rapid Firecannon,Lord Dominik's Regards,Essence Reaver,Boots of Swiftness,B. F. Sword,22975,121370,Lane.bot_lane,Role.carry
+4,godrjsdnd,Fiora,False,Side.blue,3,10,5,0.8,202,Teleport,Flash,14,False,11379,11425,Quicksilver Sash,Ravenous Hydra,Vampiric Scepter,The Black Cleaver,Ninja Tabi,Pickaxe,850,123820,Lane.top_lane,Role.solo
+5,The13adGuy,Braum,True,Side.red,1,6,16,2.8333333333333335,44,Teleport,Flash,13,False,10393,11025,Locket of the Iron Solari,Face of the Mountain,Sightstone,Knight's Vow,Mercury's Treads,Kindlegem,12459,9263,Lane.bot_lane,Role.support
+6,Apdo dogjj,Pantheon,True,Side.red,16,6,7,3.8333333333333335,120,Flash,Ignite,15,False,14095,11950,,Youmuu's Ghostblade,Edge of Night,Mercury's Treads,Caulfield's Warhammer,The Black Cleaver,8641,88565,Lane.mid_lane,Role.solo
+7,Rhux,Ezreal,True,Side.red,9,5,15,4.8,215,Flash,Heal,16,False,14885,12308,Blade of the Ruined King,Doran's Blade,Ionian Boots of Lucidity,Trinity Force,Muramana,Last Whisper,27428,155763,Lane.bot_lane,Role.carry
+8,Koby,Nasus,True,Side.red,4,5,6,2.0,214,Flash,Teleport,15,False,13118,12933,Corrupting Potion,Zz'Rot Portal,Trinity Force,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,82884,47542,Lane.top_lane,Role.solo
+9,Abou222,Lee Sin,True,Side.red,12,4,13,6.25,169,Smite,Flash,17,False,15194,14897,Banshee's Veil,Enchantment: Cinderhulk,Sightstone,Mercury's Treads,Dead Man's Plate,Maw of Malmortius,32756,125483,Lane.jungle,Role.none

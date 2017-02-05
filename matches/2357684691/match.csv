@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BabièThug,LeBlanc,True,Side.blue,14,3,1,5.0,169,Flash,Ignite,16,False,12515,9660,Doran's Ring,Needlessly Large Rod,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,95529,13205,Lane.mid_lane,Role.solo
+1,iplaylol,Hecarim,True,Side.blue,4,3,6,3.3333333333333335,78,Smite,Ghost,14,False,9583,8883,Hunter's Potion,Control Ward,Ninja Tabi,Enchantment: Cinderhulk,Trinity Force,Chain Vest,9950,77445,Lane.jungle,Role.none
+2,xSojin,Caitlyn,True,Side.blue,6,2,6,6.0,223,Flash,Heal,14,False,12300,10550,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,Control Ward,2050,157107,Lane.bot_lane,Role.carry
+3,cesuna,Mordekaiser,True,Side.blue,5,3,9,4.666666666666667,177,Flash,Teleport,16,False,10928,9835,Hextech Gunblade,Seeker's Armguard,Amplifying Tome,Doran's Shield,Sorcerer's Shoes,Rylai's Crystal Scepter,108735,19389,Lane.top_lane,Role.solo
+4,Scherb,Zyra,True,Side.blue,0,3,12,4.0,35,Flash,Exhaust,13,False,8419,7235,Frostfang,Sightstone,Boots of Mobility,Liandry's Torment,Amplifying Tome,Ruby Crystal,22476,6034,Lane.bot_lane,Role.support
+5,Rositajonez,Jhin,False,Side.red,3,4,4,1.75,206,Heal,Flash,13,False,9928,9850,Doran's Blade,Essence Reaver,Boots of Swiftness,Youmuu's Ghostblade,Control Ward,Zeal,6211,107177,Lane.bot_lane,Role.carry
+6,HoNSol0,Graves,False,Side.red,3,5,4,1.4,183,Flash,Smite,13,False,10254,9825,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Maw of Malmortius,Phantom Dancer,,4264,155115,Lane.jungle,Role.none
+7,Autumn Clouds,Thresh,False,Side.red,3,5,5,1.6,33,Flash,Exhaust,11,False,6887,6100,Control Ward,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Ionian Boots of Lucidity,,8849,4855,Lane.bot_lane,Role.support
+8,Yuán G,Kennen,False,Side.red,3,6,5,1.3333333333333333,196,Teleport,Flash,14,False,9432,7975,Hextech Protobelt-01,Giant's Belt,Sorcerer's Shoes,Abyssal Scepter,Doran's Blade,,79612,22249,Lane.top_lane,Role.solo
+9,Archer85,Yasuo,False,Side.red,2,9,2,0.4444444444444444,175,Flash,Ignite,13,True,8867,12900,Refillable Potion,Spectre's Cowl,Spectre's Cowl,Mercury's Treads,Spectre's Cowl,Spectre's Cowl,22791,72715,Lane.mid_lane,Role.solo

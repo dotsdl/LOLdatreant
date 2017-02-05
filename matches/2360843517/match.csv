@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tytykiller,Akali,True,Side.blue,3,0,6,9.0,291,Teleport,Flash,18,False,14024,12275,Sunfire Cape,Titanic Hydra,Ninja Tabi,Redemption,Sheen,Phage,76149,97303,Lane.top_lane,Role.solo
+1,faithwithin2,Jhin,True,Side.blue,7,3,9,5.333333333333333,217,Flash,Heal,15,False,14239,12725,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Infinity Edge,Hexdrinker,7464,167305,Lane.bot_lane,Role.carry
+2,Ubi Caritas,Zyra,True,Side.blue,2,6,8,1.6666666666666667,22,Exhaust,Flash,12,False,10054,8775,Haunting Guise,Eye of the Watchers,,Sorcerer's Shoes,Morellonomicon,,37814,4793,Lane.bot_lane,Role.support
+3,Rubia,Shyvana,True,Side.blue,11,4,6,4.25,219,Ghost,Smite,17,True,15863,13425,Titanic Hydra,Spirit Visage,,Frozen Mallet,Enchantment: Bloodrazor,Ninja Tabi,90126,111279,Lane.jungle,Role.none
+4,FearInsidious,Zed,True,Side.blue,8,7,5,1.8571428571428572,221,Ignite,Flash,17,False,14087,12875,Last Whisper,Ninja Tabi,The Black Cleaver,Youmuu's Ghostblade,Maw of Malmortius,Giant Slayer,9164,133379,Lane.mid_lane,Role.solo
+5,am sol,Viktor,False,Side.red,9,5,5,2.8,221,Ghost,Flash,16,False,12993,12675,Sheen,Aether Wisp,Zhonya's Hourglass,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,135689,13399,Lane.mid_lane,Role.solo
+6,i goZed or Yasuo,Yasuo,False,Side.red,0,4,3,0.75,267,Flash,Teleport,16,False,10781,9925,Sunfire Cape,B. F. Sword,Hexdrinker,Doran's Blade,Ninja Tabi,Phantom Dancer,55463,87672,Lane.top_lane,Role.solo
+7,YellowSSW,Caitlyn,False,Side.red,2,7,8,1.4285714285714286,240,Heal,Flash,15,False,10752,10450,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Phantom Dancer,,928,151017,Lane.bot_lane,Role.carry
+8,Tutor,Graves,False,Side.red,9,8,3,1.5,164,Flash,Smite,14,False,11448,10800,Enchantment: Warrior,Death's Dance,Boots of Speed,Phantom Dancer,Dagger,Last Whisper,5695,136748,Lane.jungle,Role.none
+9,Base Reality,Soraka,False,Side.red,0,7,13,1.8571428571428572,14,Flash,Exhaust,12,False,7554,6650,Redemption,Kindlegem,Sightstone,Frostfang,Ionian Boots of Lucidity,Crystalline Bracer,5289,3643,Lane.bot_lane,Role.support

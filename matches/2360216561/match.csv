@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ablazeolive,Katarina,True,Side.blue,5,4,4,2.25,170,Flash,Ignite,14,True,10100,8770,Sorcerer's Shoes,Negatron Cloak,The Dark Seal,Refillable Potion,Zhonya's Hourglass,Hextech Gunblade,99096,12375,Lane.mid_lane,Role.solo
+1,Sheiden,Kennen,True,Side.blue,5,2,2,3.5,187,Teleport,Flash,14,False,10550,9225,Cull,Hextech Protobelt-01,Abyssal Scepter,Fiendish Codex,Sorcerer's Shoes,Seeker's Armguard,69740,26213,Lane.top_lane,Role.solo
+2,TheOddOrange,Shyvana,True,Side.blue,8,1,3,11.0,188,Flash,Smite,16,False,12798,11300,Enchantment: Bloodrazor,Blade of the Ruined King,Mercury's Treads,Spirit Visage,Warden's Mail,Control Ward,93036,82822,Lane.jungle,Role.none
+3,OUT DO YA,Vayne,True,Side.blue,2,5,1,0.6,144,Flash,Heal,11,False,9103,7875,Blade of the Ruined King,Phantom Dancer,Control Ward,Berserker's Greaves,Doran's Blade,,495,57063,Lane.bot_lane,Role.carry
+4,PutYourHeartsUp,Nami,True,Side.blue,1,3,9,3.3333333333333335,20,Exhaust,Flash,12,False,8519,7500,Forbidden Idol,,Eye of the Watchers,Aether Wisp,Athene's Unholy Grail,Boots of Swiftness,7018,7085,Lane.bot_lane,Role.support
+5,W Yuè,Leona,False,Side.red,1,6,4,0.8333333333333334,33,Flash,Ignite,9,False,5661,5475,Refillable Potion,Sightstone,Targon's Brace,Boots of Mobility,Knight's Vow,,4461,8201,Lane.bot_lane,Role.support
+6,Xmithie,Caitlyn,False,Side.red,2,4,2,1.0,207,Heal,Flash,12,False,9376,9150,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Null-Magic Mantle,Control Ward,1309,107807,Lane.bot_lane,Role.carry
+7,Riesig,Nautilus,False,Side.red,4,3,0,1.3333333333333333,199,Flash,Teleport,14,False,9172,9075,Corrupting Potion,Spirit Visage,Mercury's Treads,Iceborn Gauntlet,Bami's Cinder,Chain Vest,83144,26246,Lane.top_lane,Role.solo
+8,umperor,Fizz,False,Side.red,5,4,3,2.0,146,Ignite,Flash,14,False,8616,8135,The Dark Seal,Corrupting Potion,Abyssal Scepter,Ionian Boots of Lucidity,Lich Bane,Amplifying Tome,50503,27160,Lane.mid_lane,Role.solo
+9,Nero Valentine,Lee Sin,False,Side.red,3,5,1,0.8,101,Smite,Flash,12,False,7892,6900,Enchantment: Warrior,Tiamat,Boots of Swiftness,,Giant's Belt,Chain Vest,11673,80754,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,7788 ADC,Kha'Zix,True,Side.blue,4,2,1,2.5,118,Smite,Flash,14,True,10823,9125,Enchantment: Warrior,Youmuu's Ghostblade,Hexdrinker,Caulfield's Warhammer,Boots of Mobility,,4122,105216,Lane.jungle,Role.none
+1,Betabet,Ahri,True,Side.blue,4,0,1,5.0,249,Flash,Ignite,16,False,12394,10525,Sorcerer's Shoes,Abyssal Scepter,Rabadon's Deathcap,Doran's Ring,Fiendish Codex,Lost Chapter,82366,26881,Lane.mid_lane,Role.solo
+2,Dhokla,Jayce,True,Side.blue,2,3,1,1.0,282,Flash,Teleport,16,False,13503,12550,Youmuu's Ghostblade,The Black Cleaver,Quicksilver Sash,Mercury's Treads,Lord Dominik's Regards,Vampiric Scepter,27551,154030,Lane.top_lane,Role.solo
+3,Rapidx,Vayne,True,Side.blue,2,3,4,2.0,277,Flash,Heal,15,False,13022,11370,Phantom Dancer,Infinity Edge,Statikk Shiv,Berserker's Greaves,Doran's Blade,Vampiric Scepter,36092,135797,Lane.bot_lane,Role.carry
+4,Turc,Bard,True,Side.blue,0,2,4,2.0,21,Exhaust,Flash,13,False,8492,7500,Frost Queen's Claim,Redemption,Sightstone,Ionian Boots of Lucidity,Forbidden Idol,,13427,6911,Lane.bot_lane,Role.support
+5,retarded virgin,Elise,False,Side.red,5,3,2,2.3333333333333335,123,Flash,Smite,14,False,9839,8750,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Hextech Revolver,Ruby Crystal,102042,31925,Lane.jungle,Role.none
+6,Ari Kingu,Lux,False,Side.red,4,2,5,4.5,230,Exhaust,Flash,15,False,10417,9175,Doran's Ring,Doran's Ring,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Blasting Wand,121230,17544,Lane.mid_lane,Role.solo
+7,SKY Fear,Jhin,False,Side.red,0,3,5,1.6666666666666667,232,Flash,Heal,14,False,9152,9025,Doran's Blade,Essence Reaver,Boots of Swiftness,Control Ward,Rapid Firecannon,Pickaxe,6078,124278,Lane.bot_lane,Role.carry
+8,Aecinira,Nami,False,Side.red,1,2,5,3.0,12,Flash,Ignite,12,False,6503,6325,Eye of the Watchers,Redemption,Control Ward,Boots of Mobility,,The Dark Seal,7877,4775,Lane.bot_lane,Role.support
+9,6îx,Tahm Kench,False,Side.red,0,2,4,2.0,175,Teleport,Flash,15,False,8180,7975,Corrupting Potion,Control Ward,Sunfire Cape,Ninja Tabi,Spirit Visage,Cloth Armor,74709,17270,Lane.top_lane,Role.solo

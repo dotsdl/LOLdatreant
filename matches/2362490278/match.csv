@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Christmas Hype,Cho'Gath,True,Side.blue,5,1,4,9.0,187,Flash,Ghost,13,False,10375,7900,Doran's Ring,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Abyssal Scepter,99810,14823,Lane.mid_lane,Role.solo
+1,GangstahSwerve,Rek'Sai,True,Side.blue,2,3,7,3.0,119,Smite,Flash,14,False,10183,8750,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Giant's Belt,Cloth Armor,27841,106622,Lane.jungle,Role.none
+2,LØki,Janna,True,Side.blue,1,0,11,12.0,10,Flash,Exhaust,12,False,7978,6500,Sightstone,,Boots of Mobility,Redemption,Talisman of Ascension,,5068,7641,Lane.bot_lane,Role.support
+3,Rapidx,Twitch,True,Side.blue,10,3,3,4.333333333333333,169,Flash,Heal,12,False,11664,11450,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,Vampiric Scepter,0,86349,Lane.bot_lane,Role.carry
+4,Rokí,Riven,True,Side.blue,4,1,3,7.0,188,Flash,Teleport,14,False,10726,8775,Doran's Blade,Refillable Potion,The Black Cleaver,Death's Dance,Ninja Tabi,Long Sword,0,111866,Lane.top_lane,Role.solo
+5,Gweiss,Hecarim,False,Side.red,1,4,2,0.75,122,Smite,Ghost,12,False,6932,5983,Skirmisher's Sabre,Trinity Force,,Ninja Tabi,,,8991,73986,Lane.jungle,Role.none
+6,D0NG0,LeBlanc,False,Side.red,3,5,3,1.2,159,Ignite,Flash,12,True,7802,7375,Doran's Ring,Needlessly Large Rod,The Dark Seal,Sorcerer's Shoes,Morellonomicon,Giant's Belt,79229,8541,Lane.mid_lane,Role.solo
+7,konkwon,Lulu,False,Side.red,1,3,6,2.3333333333333335,6,Flash,Exhaust,10,False,6342,6150,Redemption,Boots of Swiftness,,Eye of the Watchers,Control Ward,,11151,4305,Lane.bot_lane,Role.support
+8,EnVy LOD,Jhin,False,Side.red,3,5,4,1.4,196,Flash,Heal,12,False,8744,8625,Doran's Blade,B. F. Sword,Rapid Firecannon,Essence Reaver,Boots of Speed,,12636,92124,Lane.bot_lane,Role.carry
+9,white cat,Fiora,False,Side.red,0,5,3,0.6,133,Flash,Teleport,12,False,6647,6350,Ninja Tabi,Tiamat,The Black Cleaver,Doran's Blade,,,1137,61882,Lane.top_lane,Role.solo

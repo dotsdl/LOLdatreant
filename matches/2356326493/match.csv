@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DZG Doomtrobo,Brand,True,Side.blue,8,1,15,23.0,50,Exhaust,Flash,14,False,12233,8860,Ruby Crystal,Blasting Wand,Sorcerer's Shoes,Eye of the Watchers,Rylai's Crystal Scepter,Amplifying Tome,59558,9598,Lane.bot_lane,Role.support
+1,toke dude,Poppy,True,Side.blue,7,2,11,9.0,101,Smite,Flash,14,False,11155,10925,Enchantment: Cinderhulk,Hunter's Potion,Locket of the Iron Solari,Dead Man's Plate,Ninja Tabi,Raptor Cloak,26453,73299,Lane.jungle,Role.none
+2,cokes,Jhin,True,Side.blue,8,5,7,3.0,197,Heal,Flash,14,False,12096,10150,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Doran's Blade,Pickaxe,B. F. Sword,3109,123358,Lane.bot_lane,Role.carry
+3,Based Envy,Rammus,True,Side.blue,3,8,9,1.5,118,Teleport,Flash,14,False,9686,9250,Thornmail,Glacial Shroud,Ninja Tabi,Sunfire Cape,Ruby Crystal,Warden's Mail,50378,25692,Lane.top_lane,Role.solo
+4,Strategics,Taliyah,True,Side.blue,8,1,4,12.0,162,Ghost,Flash,15,False,11353,9225,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Blasting Wand,86269,13542,Lane.mid_lane,Role.solo
+5,UndefeatedOne,Gangplank,False,Side.red,2,4,3,1.25,173,Exhaust,Flash,13,False,9560,8633,Trinity Force,Lord Dominik's Regards,Pickaxe,,,Mercury's Treads,2791,117455,Lane.mid_lane,Role.solo
+6,Stumpey,Caitlyn,False,Side.red,1,6,5,1.0,174,Flash,Heal,12,False,9444,8850,Doran's Blade,Runaan's Hurricane,Cull,Infinity Edge,Berserker's Greaves,Long Sword,376,98098,Lane.bot_lane,Role.carry
+7,Uzumaki,Zyra,False,Side.red,2,9,3,0.5555555555555556,18,Ignite,Flash,10,False,7106,6575,Eye of the Watchers,Haunting Guise,Control Ward,Blasting Wand,Sorcerer's Shoes,,22851,3789,Lane.bot_lane,Role.support
+8,FIoopie,Lee Sin,False,Side.red,10,7,2,1.7142857142857142,130,Flash,Smite,13,True,10751,9650,Youmuu's Ghostblade,Sightstone,Spectre's Cowl,Enchantment: Warrior,Mercury's Treads,Kindlegem,25241,101901,Lane.jungle,Role.none
+9,Adrian Riven,Shyvana,False,Side.red,2,8,5,0.875,186,Teleport,Flash,14,False,9269,9035,Sunfire Cape,Blade of the Ruined King,Mercury's Treads,Spectre's Cowl,,,62533,40898,Lane.top_lane,Role.solo

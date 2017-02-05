@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Espir III,Jhin,False,Side.blue,1,7,1,0.2857142857142857,15,Flash,Exhaust,10,False,4880,4375,Control Ward,Frost Queen's Claim,Total Biscuit of Rejuvenation,Sightstone,Boots of Swiftness,,2550,12740,Lane.bot_lane,Role.support
+1,You all boosted,Elise,False,Side.blue,3,8,3,0.75,89,Flash,Smite,12,False,7319,6760,Enchantment: Runic Echoes,Hextech Protobelt-01,Refillable Potion,,Boots of Mobility,Amplifying Tome,52736,20063,Lane.jungle,Role.none
+2,Féarless,Riven,False,Side.blue,0,8,0,0.0,77,Teleport,Flash,9,False,4964,4600,The Black Cleaver,Ionian Boots of Lucidity,,,,,0,35350,Lane.top_lane,Role.solo
+3,Pekin Woof,Fizz,False,Side.blue,4,3,2,2.0,171,Flash,Teleport,13,False,8126,8075,Corrupting Potion,Zhonya's Hourglass,,Lich Bane,The Dark Seal,Ionian Boots of Lucidity,50933,18758,Lane.mid_lane,Role.solo
+4,Ablazeolive,Caitlyn,False,Side.blue,0,8,1,0.125,155,Flash,Heal,10,False,6500,5725,Doran's Blade,B. F. Sword,Boots of Speed,Refillable Potion,Runaan's Hurricane,Pickaxe,605,69943,Lane.bot_lane,Role.carry
+5,Hyorimaru,Orianna,True,Side.red,7,1,11,18.0,202,Flash,Barrier,14,False,11059,7600,Doran's Ring,,Zhonya's Hourglass,Ionian Boots of Lucidity,Morellonomicon,Doran's Ring,101589,13484,Lane.mid_lane,Role.solo
+6,IKingVex,Ashe,True,Side.red,6,4,5,2.75,159,Heal,Flash,11,False,9999,9600,Doran's Blade,Infinity Edge,Cull,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,1084,81949,Lane.bot_lane,Role.carry
+7,LimitedExtent,Nautilus,True,Side.red,3,0,16,19.0,34,Exhaust,Flash,11,True,8136,6425,Crystalline Bracer,Ruby Sightstone,Face of the Mountain,Boots of Mobility,Crystalline Bracer,,11562,8597,Lane.bot_lane,Role.support
+8,An Obese Panda,Gragas,True,Side.red,8,0,7,15.0,84,Smite,Flash,12,False,9229,8800,Spectre's Cowl,Ruby Crystal,Ionian Boots of Lucidity,Dead Man's Plate,Ruby Crystal,Enchantment: Runic Echoes,60211,21077,Lane.jungle,Role.none
+9,Cris,Jayce,True,Side.red,10,3,7,5.666666666666667,168,Flash,Teleport,13,False,10280,9500,Caulfield's Warhammer,,Mercury's Treads,Manamune,The Black Cleaver,Hexdrinker,19441,81937,Lane.top_lane,Role.solo

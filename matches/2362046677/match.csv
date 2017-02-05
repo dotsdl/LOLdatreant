@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Feeding in Style,Zac,False,Side.blue,6,4,6,3.0,105,Smite,Flash,14,False,10153,10025,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Spirit Visage,Guardian Angel,Giant's Belt,,69039,15658,Lane.jungle,Role.none
+1,Puiginator,Sona,False,Side.blue,3,7,10,1.8571428571428572,31,Flash,Exhaust,13,False,9564,9260,Sorcerer's Shoes,Amplifying Tome,,Eye of the Watchers,Lich Bane,Athene's Unholy Grail,32137,9575,Lane.bot_lane,Role.support
+2,DrChang,Quinn,False,Side.blue,10,7,6,2.2857142857142856,204,Flash,Ignite,16,False,13874,14050,Infinity Edge,Boots of Swiftness,Youmuu's Ghostblade,Duskblade of Draktharr,Phantom Dancer,,2032,155835,Lane.top_lane,Role.solo
+3,All Things Go,Lux,False,Side.blue,8,6,4,2.0,162,Flash,Ghost,15,False,11295,11200,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Void Staff,,Sorcerer's Shoes,95905,11401,Lane.mid_lane,Role.solo
+4,CupcakKe,Ashe,False,Side.blue,1,10,7,0.8,191,Flash,Heal,13,True,10302,9950,Doran's Blade,Infinity Edge,Runaan's Hurricane,Zeal,Kircheis Shard,Berserker's Greaves,2310,107220,Lane.bot_lane,Role.carry
+5,Kittles,Janna,True,Side.red,2,4,13,3.75,14,Exhaust,Flash,14,False,10112,7360,Redemption,,Eye of the Oasis,Boots of Swiftness,Aether Wisp,Forbidden Idol,6332,5570,Lane.bot_lane,Role.support
+6,Joethemexican,Irelia,True,Side.red,3,8,7,1.25,184,Teleport,Flash,14,False,12174,11883,Trinity Force,Corrupting Potion,Randuin's Omen,Ninja Tabi,Frozen Heart,Chain Vest,3070,96217,Lane.top_lane,Role.solo
+7,TSC Wings,Viktor,True,Side.red,12,6,5,2.8333333333333335,263,Flash,Cleanse,17,False,15883,15200,,Rabadon's Deathcap,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Perfect Hex Core,Lich Bane,171669,14953,Lane.mid_lane,Role.solo
+8,Cat Ears,Caitlyn,True,Side.red,7,4,8,3.75,239,Flash,Heal,16,False,14349,10550,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Rapid Firecannon,,3602,194482,Lane.bot_lane,Role.carry
+9,ShörterACE,Lee Sin,True,Side.red,10,6,9,3.1666666666666665,153,Flash,Smite,16,False,13327,12400,Tiamat,Randuin's Omen,Zz'Rot Portal,Enchantment: Warrior,Ninja Tabi,Giant's Belt,24631,113511,Lane.jungle,Role.none

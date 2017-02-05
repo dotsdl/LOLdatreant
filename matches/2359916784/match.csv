@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Panunu,Gragas,False,Side.blue,4,6,0,0.6666666666666666,108,Ignite,Flash,11,False,6392,5725,Abyssal Scepter,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Fiendish Codex,Doran's Ring,43835,8567,Lane.top_lane,Role.solo
+1,I Bubble You,Nami,False,Side.blue,3,3,2,1.6666666666666667,52,Flash,Exhaust,10,False,5957,5550,Frostfang,Luden's Echo,,Boots of Speed,Forbidden Idol,,8751,8179,Lane.bot_lane,Role.solo
+2,YaThatWasABanana,Syndra,False,Side.blue,2,7,2,0.5714285714285714,90,Flash,Ghost,10,False,5764,5450,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,,,40466,5841,Lane.mid_lane,Role.solo
+3,Šona,Zac,False,Side.blue,1,4,3,1.0,102,Flash,Smite,11,False,6282,5950,Refillable Potion,Spectre's Cowl,,Kindlegem,Mercury's Treads,Enchantment: Cinderhulk,59667,14608,Lane.jungle,Role.none
+4,PSYCHOPATH909,Nunu,False,Side.blue,2,7,4,0.8571428571428571,27,Flash,Ignite,9,False,4874,4235,Doran's Ring,Sorcerer's Shoes,Lost Chapter,Doran's Ring,Fiendish Codex,Amplifying Tome,5707,4620,Lane.jungle,Role.none
+5,Zaganox,Jhin,True,Side.red,4,3,4,2.6666666666666665,156,Heal,Flash,11,True,8881,8525,Doran's Blade,Essence Reaver,Rapid Firecannon,Pickaxe,Boots of Swiftness,,5043,84612,Lane.bot_lane,Role.carry
+6,MyTimeIsNow,Ekko,True,Side.red,8,6,4,2.0,122,Teleport,Flash,12,False,8609,8410,Doran's Ring,Hextech Protobelt-01,Lich Bane,Amplifying Tome,Mercury's Treads,Doran's Ring,60561,14092,Lane.mid_lane,Role.solo
+7,iTroll,Karma,True,Side.red,3,0,8,11.0,16,Exhaust,Flash,10,False,6851,6400,Ionian Boots of Lucidity,Redemption,Cloth Armor,Eye of the Watchers,Null-Magic Mantle,Total Biscuit of Rejuvenation,9348,3944,Lane.bot_lane,Role.support
+8,Vsionz,Kennen,True,Side.red,7,3,4,3.6666666666666665,149,Flash,Teleport,13,False,9492,7625,Doran's Blade,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Ruby Crystal,,54787,29413,Lane.top_lane,Role.solo
+9,PhD Bunny Riven,Riven,True,Side.red,5,0,4,9.0,137,Flash,Smite,13,False,9293,6450,Refillable Potion,Hunter's Machete,The Black Cleaver,Boots of Speed,Hexdrinker,Caulfield's Warhammer,429,105525,Lane.jungle,Role.none

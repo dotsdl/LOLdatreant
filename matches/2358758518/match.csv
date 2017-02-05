@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Braums Mustache,Tahm Kench,True,Side.blue,0,0,0,0.0,3,Flash,Exhaust,2,False,779,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,404,325,Lane.bot_lane,Role.duo
+1,Lukillz,Graves,True,Side.blue,0,0,0,0.0,11,Flash,Smite,3,False,1056,500,Hunter's Machete,Refillable Potion,,,,,122,9694,Lane.jungle,Role.none
+2,CA MY Lobe,Riven,True,Side.blue,0,1,0,0.0,8,Teleport,Flash,2,False,809,550,Health Potion,,,,,Long Sword,36,2205,Lane.jungle,Role.none
+3,oNee VFoxy,Jhin,True,Side.blue,0,0,0,0.0,11,Flash,Heal,2,False,891,500,,,,,Doran's Blade,,0,3629,Lane.bot_lane,Role.duo
+4,13ChArLiE21,Viktor,True,Side.blue,0,0,0,0.0,16,Flash,Ignite,3,False,976,500,Health Potion,,,,Prototype Hex Core,Doran's Ring,1897,711,Lane.mid_lane,Role.solo
+5,Undisclosed,Volibear,False,Side.red,0,0,1,1.0,12,Smite,Ghost,3,False,1150,500,Hunter's Machete,Refillable Potion,,,,,439,4524,Lane.top_lane,Role.none
+6,17yearoldboy,Miss Fortune,False,Side.red,0,0,0,0.0,7,Heal,Flash,2,False,789,500,Doran's Blade,,,,,,695,2154,Lane.bot_lane,Role.duo
+7,splatsss,Thresh,False,Side.red,0,0,0,0.0,0,Exhaust,Flash,2,False,740,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,356,335,Lane.bot_lane,Role.duo
+8,EliteAsianNation,Zed,False,Side.red,0,0,0,0.0,0,Exhaust,Flash,1,False,658,0,,,,,,,0,0,Lane.top_lane,Role.none
+9,U LoZe,Teemo,False,Side.red,1,0,0,1.0,10,Flash,Ignite,3,True,1267,500,Doran's Ring,,Health Potion,,,,1093,1386,Lane.top_lane,Role.none

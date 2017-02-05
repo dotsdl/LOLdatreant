@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RlVÈN,Riven,True,Side.blue,10,7,5,2.142857142857143,190,Teleport,Flash,15,False,13056,13025,Last Whisper,Ninja Tabi,Ravenous Hydra,The Black Cleaver,Maw of Malmortius,,0,123462,Lane.top_lane,Role.solo
+1,I Serenity I,Ezreal,True,Side.blue,7,3,18,8.333333333333334,194,Flash,Heal,15,False,12904,10400,,Blade of the Ruined King,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,25015,106017,Lane.bot_lane,Role.carry
+2,Jurassiq,Lee Sin,True,Side.blue,4,3,17,7.0,113,Flash,Smite,15,False,11488,9725,Enchantment: Warrior,Dead Man's Plate,Kindlegem,Giant's Belt,Mercury's Treads,Warden's Mail,16567,98782,Lane.jungle,Role.none
+3,Melo,Ahri,True,Side.blue,10,5,7,3.4,186,Ignite,Flash,15,False,13140,11545,Ionian Boots of Lucidity,Zhonya's Hourglass,Amplifying Tome,Abyssal Scepter,Morellonomicon,Doran's Ring,84472,19107,Lane.mid_lane,Role.solo
+4,aphromoo,Thresh,True,Side.blue,1,4,23,6.0,21,Ignite,Flash,13,False,8848,7275,Ruby Sightstone,Locket of the Iron Solari,Forbidden Idol,Crystalline Bracer,Ionian Boots of Lucidity,Relic Shield,9149,5195,Lane.bot_lane,Role.support
+5,Asyc xD ,Janna,False,Side.red,0,6,11,1.8333333333333333,10,Exhaust,Flash,11,False,7061,6275,Ancient Coin,Sightstone,Boots of Mobility,Redemption,Null-Magic Mantle,Aegis of the Legion,6213,3690,Lane.bot_lane,Role.support
+6,CraacK,Fizz,False,Side.red,7,8,2,1.125,190,Flash,Ignite,14,True,11035,9500,Ionian Boots of Lucidity,Zhonya's Hourglass,Corrupting Potion,Lich Bane,The Dark Seal,Needlessly Large Rod,64804,22822,Lane.mid_lane,Role.solo
+7,ddwaeji,Renekton,False,Side.red,6,5,6,2.4,193,Ghost,Teleport,15,False,11099,9850,Ravenous Hydra,The Black Cleaver,Control Ward,Jaurim's Fist,Ninja Tabi,Long Sword,4289,114576,Lane.top_lane,Role.solo
+8,d3ps,Hecarim,False,Side.red,5,6,10,2.5,200,Ghost,Smite,16,False,12092,11633,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Trinity Force,Dead Man's Plate,Chain Vest,31057,135103,Lane.jungle,Role.none
+9,Andreuss,Twitch,False,Side.red,4,7,9,1.8571428571428572,169,Flash,Heal,13,False,10728,10550,Doran's Blade,Infinity Edge,Runaan's Hurricane,Zeal,Berserker's Greaves,Kircheis Shard,0,87410,Lane.bot_lane,Role.carry

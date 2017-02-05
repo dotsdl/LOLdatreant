@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Stumpey,Nasus,True,Side.blue,1,0,1,2.0,91,Flash,Teleport,9,False,4735,4175,Control Ward,Refillable Potion,Zz'Rot Portal,Sheen,,,8134,34053,Lane.top_lane,Role.solo
+1,EnVy Nien,Karma,True,Side.blue,3,1,3,6.0,84,Flash,Exhaust,9,False,5595,4350,Doran's Ring,Total Biscuit of Rejuvenation,Control Ward,Doran's Ring,Boots of Speed,Morellonomicon,24894,7884,Lane.mid_lane,Role.solo
+2,4911,Ezreal,True,Side.blue,2,1,0,2.0,81,Heal,Flash,7,False,4972,2550,Doran's Blade,Total Biscuit of Rejuvenation,Tear of the Goddess,Phage,,,3755,35046,Lane.bot_lane,Role.duo
+3,FourofDiamonds,Shaco,True,Side.blue,5,2,1,3.0,35,Smite,Ignite,8,True,5494,4025,Tiamat,Refillable Potion,Skirmisher's Sabre,Recurve Bow,Boots of Speed,Dagger,6825,33447,Lane.jungle,Role.none
+4,MaNDashwell,Blitzcrank,True,Side.blue,0,0,2,2.0,22,Flash,Ignite,7,False,3617,2350,Relic Shield,Sightstone,,Boots of Mobility,Control Ward,,3121,6954,Lane.bot_lane,Role.duo
+5,Lovechemist,Twisted Fate,False,Side.red,0,3,0,0.0,14,Ghost,Flash,4,False,2185,975,Boots of Speed,Control Ward,Doran's Ring,,,,1703,1263,Lane.mid_lane,Role.solo
+6,retarded virgin,Hecarim,False,Side.red,0,4,2,0.5,43,Ghost,Smite,7,False,3198,2275,Hunter's Talisman,Refillable Potion,Boots of Speed,Sheen,Long Sword,,3964,22319,Lane.jungle,Role.none
+7,TeddyRO,Graves,False,Side.red,2,2,0,1.0,51,Flash,Teleport,6,False,3513,2525,Control Ward,Phage,Boots of Speed,Doran's Blade,Long Sword,,717,24386,Lane.top_lane,Role.solo
+8,xTc4,Jinx,False,Side.red,0,2,2,1.0,35,Flash,Heal,5,False,2789,2175,Doran's Blade,Boots of Speed,Cull,Pickaxe,,Total Biscuit of Rejuvenation,49,9803,Lane.bot_lane,Role.solo
+9,YlKES,Thresh,False,Side.red,2,0,1,3.0,12,Ignite,Flash,6,False,3015,2450,Sightstone,Control Ward,Total Biscuit of Rejuvenation,,Ancient Coin,Ionian Boots of Lucidity,2197,1269,Lane.jungle,Role.none

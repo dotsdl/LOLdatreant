@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Thuan,Rumble,False,Side.blue,4,9,9,1.4444444444444444,136,Teleport,Flash,13,False,9125,8210,Doran's Shield,Liandry's Torment,Boots of Speed,Hextech Protobelt-01,Giant's Belt,Amplifying Tome,90428,9520,Lane.top_lane,Role.solo
+1,Edel,Graves,False,Side.blue,6,7,8,2.0,151,Flash,Smite,14,False,10608,9825,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,The Black Cleaver,Cloth Armor,,4543,129850,Lane.jungle,Role.none
+2,DoubleVision,Ezreal,False,Side.blue,7,8,7,1.75,128,Flash,Ignite,13,False,9391,8400,Hextech Gunblade,Refillable Potion,Lich Bane,Doran's Blade,Boots of Speed,Blasting Wand,26929,53251,Lane.mid_lane,Role.solo
+3,real kms hours,Jhin,False,Side.blue,10,7,10,2.857142857142857,150,Flash,Heal,13,True,12036,10500,Doran's Blade,Rapid Firecannon,Vampiric Scepter,Infinity Edge,Zeal,Boots of Swiftness,7348,97448,Lane.bot_lane,Role.carry
+4,rins,Janna,False,Side.blue,2,8,18,2.5,14,Exhaust,Flash,12,False,8608,7925,Frost Queen's Claim,Redemption,Sightstone,Mejai's Soulstealer,Boots of Mobility,,7115,2965,Lane.bot_lane,Role.support
+5,Cotopaco Parce,Viktor,True,Side.red,10,4,3,3.25,192,Ghost,Flash,15,False,12985,12485,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Rabadon's Deathcap,Sorcerer's Shoes,Amplifying Tome,119216,12552,Lane.mid_lane,Role.solo
+6,Goooshlrific,Volibear,True,Side.red,6,2,12,9.0,98,Smite,Flash,15,False,12322,10325,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Dead Man's Plate,Crystalline Bracer,Ninja Tabi,43632,71417,Lane.jungle,Role.none
+7,Spensauur,Leona,True,Side.red,1,9,10,1.2222222222222223,39,Ignite,Flash,12,False,8923,6800,Boots of Speed,Face of the Mountain,Sightstone,Cloth Armor,Randuin's Omen,,11279,9269,Lane.bot_lane,Role.support
+8,Captain Aruz,Kled,True,Side.red,13,6,6,3.1666666666666665,156,Teleport,Flash,16,False,14130,12435,The Black Cleaver,Ninja Tabi,Titanic Hydra,Ruby Crystal,Maw of Malmortius,Chain Vest,86,122202,Lane.top_lane,Role.solo
+9,Monsieur Shiffou,Twitch,True,Side.red,9,8,5,1.75,176,Heal,Flash,15,False,13297,11100,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Statikk Shiv,,14626,101875,Lane.bot_lane,Role.carry

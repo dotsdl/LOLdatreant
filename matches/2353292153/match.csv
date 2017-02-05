@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Malya EUW ,Hecarim,True,Side.blue,4,3,15,6.333333333333333,99,Ghost,Smite,13,False,9555,8858,Enchantment: Cinderhulk,Trinity Force,Ionian Boots of Lucidity,Ruby Crystal,,,17622,86061,Lane.jungle,Role.none
+1,Useless Rat,Twitch,True,Side.blue,9,1,6,15.0,155,Flash,Heal,12,False,10344,8700,Runaan's Hurricane,Doran's Blade,Infinity Edge,Berserker's Greaves,Dagger,Brawler's Gloves,0,73906,Lane.bot_lane,Role.carry
+2,Day after Day,Morgana,True,Side.blue,1,4,11,3.0,13,Ignite,Flash,11,False,6732,5810,Sightstone,Frostfang,Boots of Mobility,The Dark Seal,Athene's Unholy Grail,Amplifying Tome,13010,5024,Lane.bot_lane,Role.support
+3,Wood Gecko,Yasuo,True,Side.blue,8,4,3,2.75,161,Cleanse,Flash,13,False,10031,9650,Doran's Blade,Cloak of Agility,Phantom Dancer,Mercury's Treads,Frozen Mallet,B. F. Sword,23297,72480,Lane.mid_lane,Role.solo
+4,Weeaboo Riven,Riven,True,Side.blue,13,2,5,9.0,182,Flash,Teleport,14,False,11730,10900,The Black Cleaver,Quicksilver Sash,Ionian Boots of Lucidity,Pickaxe,Vampiric Scepter,Ravenous Hydra,0,113183,Lane.top_lane,Role.solo
+5,Nikkone,Fiddlesticks,False,Side.red,6,8,4,1.25,90,Flash,Smite,12,True,7777,7670,Enchantment: Runic Echoes,Rabadon's Deathcap,Boots of Speed,Amplifying Tome,Amplifying Tome,,61658,8041,Lane.jungle,Role.none
+6,One Called Saint,Sion,False,Side.red,4,8,5,1.125,50,Flash,Exhaust,10,False,6403,5775,Face of the Mountain,Sightstone,Control Ward,Glacial Shroud,Cloth Armor,Ninja Tabi,14421,16870,Lane.bot_lane,Role.duo
+7,Nedo,Ryze,False,Side.red,0,5,3,0.6,136,Ghost,Flash,11,False,6237,5900,Tear of the Goddess,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Control Ward,Needlessly Large Rod,46481,10140,Lane.mid_lane,Role.solo
+8,Projekt Yasuo,Jhin,False,Side.red,1,5,7,1.6,111,Flash,Heal,10,False,6257,5425,Boots of Swiftness,Essence Reaver,,Control Ward,Total Biscuit of Rejuvenation,Doran's Blade,2126,40332,Lane.bot_lane,Role.duo
+9,DarkWingsForSale,Fiora,False,Side.red,1,9,3,0.4444444444444444,99,Flash,Teleport,10,False,5744,5525,Corrupting Potion,Tiamat,The Black Cleaver,Long Sword,Boots of Speed,,1571,31285,Lane.top_lane,Role.solo

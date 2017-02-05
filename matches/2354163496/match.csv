@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aint Random,Renekton,True,Side.blue,3,5,3,1.2,139,Flash,Ignite,13,False,10004,9775,Locket of the Iron Solari,Tiamat,Ninja Tabi,The Black Cleaver,Jaurim's Fist,Ruby Crystal,3707,84621,Lane.top_lane,Role.solo
+1,Zorlas,Viktor,True,Side.blue,11,3,8,6.333333333333333,230,Ghost,Flash,16,True,14160,14350,Perfect Hex Core,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,Void Staff,Morellonomicon,153404,11952,Lane.mid_lane,Role.solo
+2,TSM MeNoHaxor,Karma,True,Side.blue,3,4,11,3.5,8,Exhaust,Flash,11,False,9783,9300,Eye of the Watchers,Control Ward,Ardent Censer,Boots of Mobility,Aegis of the Legion,Redemption,12526,6737,Lane.bot_lane,Role.support
+3,Jeehun,Caitlyn,True,Side.blue,4,0,9,13.0,225,Flash,Heal,15,False,12571,10325,Doran's Blade,Kircheis Shard,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,768,164461,Lane.bot_lane,Role.carry
+4,Ginormous Noob,Lee Sin,True,Side.blue,5,4,10,3.75,115,Flash,Smite,14,False,11197,10075,Enchantment: Warrior,Tiamat,Randuin's Omen,Giant's Belt,Chain Vest,Ninja Tabi,14305,101321,Lane.jungle,Role.none
+5,LegitADC,Janna,False,Side.red,0,5,11,2.2,10,Exhaust,Flash,11,False,7612,7225,Redemption,Eye of the Oasis,Aether Wisp,Boots of Mobility,Forbidden Idol,,5081,1302,Lane.bot_lane,Role.support
+6,FIoopie,Cassiopeia,False,Side.red,4,6,5,1.5,202,Flash,Ghost,15,False,10898,10400,Rylai's Crystal Scepter,Seraph's Embrace,,,Morellonomicon,Doran's Ring,130391,7732,Lane.mid_lane,Role.solo
+7,ADC Prospect,Vayne,False,Side.red,4,4,1,1.25,155,Heal,Flash,14,False,10069,9100,Phantom Dancer,Doran's Blade,Berserker's Greaves,B. F. Sword,Blade of the Ruined King,,0,71634,Lane.bot_lane,Role.carry
+8,PieCakeLord,Graves,False,Side.red,3,7,3,0.8571428571428571,135,Smite,Flash,13,False,10184,10025,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,The Black Cleaver,Phantom Dancer,Long Sword,2606,122754,Lane.jungle,Role.none
+9,Fàkèr  ,Yasuo,False,Side.red,5,4,7,3.0,154,Teleport,Flash,14,False,10449,9650,Frozen Mallet,Ninja Tabi,Phantom Dancer,Doran's Shield,Cloak of Agility,B. F. Sword,17411,66055,Lane.top_lane,Role.solo

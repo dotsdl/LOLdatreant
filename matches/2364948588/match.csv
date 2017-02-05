@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Poppy,False,Side.blue,2,5,4,1.2,159,Teleport,Flash,14,False,9474,8875,,Spirit Visage,Cloth Armor,Ninja Tabi,Sheen,Sunfire Cape,28125,75061,Lane.top_lane,Role.solo
+1,Vainsu,Karma,False,Side.blue,1,3,9,3.3333333333333335,33,Exhaust,Flash,12,False,8092,8050,Redemption,Locket of the Iron Solari,Ruby Sightstone,Frostfang,Ionian Boots of Lucidity,,19749,3763,Lane.bot_lane,Role.support
+2,Rhux,Orianna,False,Side.blue,1,2,6,3.5,250,Flash,Ghost,16,False,10726,9810,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,Rabadon's Deathcap,Blasting Wand,144049,18422,Lane.mid_lane,Role.solo
+3,Ayo Its Jango,Ezreal,False,Side.blue,5,4,5,2.5,185,Heal,Flash,14,False,11096,11250,Vampiric Scepter,Lord Dominik's Regards,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Blade,13812,91330,Lane.bot_lane,Role.carry
+4,moon o,Lee Sin,False,Side.blue,11,7,2,1.8571428571428572,126,Smite,Flash,14,True,11511,10125,Locket of the Iron Solari,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,Mercury's Treads,Giant's Belt,22732,98686,Lane.jungle,Role.none
+5,Wintrader Vulcan,Bard,True,Side.red,4,3,13,5.666666666666667,26,Flash,Ignite,14,False,11012,9075,Locket of the Iron Solari,Ruby Sightstone,Control Ward,Redemption,Boots of Mobility,Spellthief's Edge,15936,7871,Lane.bot_lane,Role.support
+6,Link,Jayce,True,Side.red,4,2,6,5.0,234,Flash,Ghost,16,False,13062,12300,Youmuu's Ghostblade,The Black Cleaver,Muramana,Ionian Boots of Lucidity,Vampiric Scepter,Last Whisper,25306,169166,Lane.mid_lane,Role.solo
+7,Shiphtur,Ziggs,True,Side.red,7,3,7,4.666666666666667,253,Heal,Flash,16,False,14950,10175,Sorcerer's Shoes,Luden's Echo,Doran's Ring,Needlessly Large Rod,Morellonomicon,Blasting Wand,169945,16891,Lane.bot_lane,Role.carry
+8,retarded virgin,Rengar,True,Side.red,4,5,8,2.4,188,Flash,Smite,16,False,12462,11725,Boots of Mobility,Youmuu's Ghostblade,Tiamat,Spirit Visage,Giant's Belt,Enchantment: Warrior,15130,148679,Lane.jungle,Role.none
+9,Avi,Maokai,True,Side.red,2,7,9,1.5714285714285714,185,Flash,Teleport,15,False,11660,10875,Doran's Ring,Refillable Potion,Dead Man's Plate,Ninja Tabi,Spirit Visage,Guardian Angel,88535,23673,Lane.top_lane,Role.solo

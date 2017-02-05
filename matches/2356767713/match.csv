@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DJ Holiday,Annie,False,Side.blue,4,7,6,1.4285714285714286,171,Ghost,Flash,14,False,9983,9135,Doran's Ring,Rod of Ages,Sorcerer's Shoes,Luden's Echo,Blasting Wand,Amplifying Tome,74441,8971,Lane.mid_lane,Role.solo
+1,Cya IN THE BUSH,Gangplank,False,Side.blue,2,7,5,1.0,203,Flash,Teleport,14,False,10849,10133,Trinity Force,Youmuu's Ghostblade,Boots of Speed,Mortal Reminder,Doran's Ring,,5074,118972,Lane.top_lane,Role.solo
+2,MyPetTurtle,Zac,False,Side.blue,7,5,7,2.8,88,Flash,Smite,13,False,10060,9950,Refillable Potion,Enchantment: Cinderhulk,Spirit Visage,Guardian Angel,Giant's Belt,Ionian Boots of Lucidity,75222,26076,Lane.jungle,Role.none
+3,Mingod,Nami,False,Side.blue,2,5,14,3.2,14,Flash,Exhaust,12,True,8336,8025,Eye of the Watchers,Mercury's Treads,Redemption,Zeke's Harbinger,,,7724,6098,Lane.bot_lane,Role.support
+4,RockyTSaws,Varus,False,Side.blue,4,4,8,3.0,206,Heal,Flash,13,False,11077,10875,Essence Reaver,Quicksilver Sash,Statikk Shiv,Berserker's Greaves,Last Whisper,,25299,122232,Lane.bot_lane,Role.carry
+5,Źyra,Zyra,True,Side.red,1,5,9,2.0,43,Flash,Ignite,13,False,9681,8160,Eye of the Watchers,Liandry's Torment,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,,47716,9631,Lane.bot_lane,Role.support
+6,KT Score,Poppy,True,Side.red,6,1,11,17.0,220,Smite,Flash,17,False,13987,12650,Locket of the Iron Solari,Enchantment: Cinderhulk,Dead Man's Plate,Guardian Angel,Sheen,Mercury's Treads,48311,140618,Lane.jungle,Role.none
+7,Soulquest1,Nasus,True,Side.red,10,4,7,4.25,212,Teleport,Ghost,16,False,13635,12600,Randuin's Omen,Iceborn Gauntlet,Spirit Visage,Sterak's Gage,Mercury's Treads,,44305,119861,Lane.top_lane,Role.solo
+8,Vermillion2,Lucian,True,Side.red,3,4,5,2.0,188,Heal,Flash,14,False,11975,11000,Essence Reaver,Doran's Blade,Berserker's Greaves,Lord Dominik's Regards,Rapid Firecannon,,5000,124875,Lane.bot_lane,Role.carry
+9,Kizeme,Syndra,True,Side.red,8,5,7,3.0,184,Ghost,Flash,14,False,12375,12075,Abyssal Scepter,,Health Potion,Sorcerer's Shoes,Morellonomicon,Luden's Echo,92880,12587,Lane.mid_lane,Role.solo

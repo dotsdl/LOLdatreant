@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Autist Retard,Yorick,False,Side.blue,3,2,1,2.0,190,Teleport,Flash,14,False,9054,8308,Corrupting Potion,Trinity Force,Control Ward,Mercury's Treads,Dead Man's Plate,,17537,91233,Lane.top_lane,Role.solo
+1,lHlavoc,Viktor,False,Side.blue,2,5,3,1.0,186,Flash,Ghost,13,False,8327,7835,Perfect Hex Core,Ruby Crystal,Ionian Boots of Lucidity,Amplifying Tome,Needlessly Large Rod,Sheen,94857,12611,Lane.mid_lane,Role.solo
+2,Dinosaurus,Skarner,False,Side.blue,1,3,3,1.3333333333333333,107,Ghost,Smite,12,False,7499,6483,Stalker's Blade,Refillable Potion,Trinity Force,Boots of Swiftness,Cloth Armor,Ruby Crystal,18205,71103,Lane.jungle,Role.none
+3,Hanjaro,Soraka,False,Side.blue,1,6,2,0.5,26,Flash,Exhaust,10,False,5734,5250,Spellthief's Edge,Mercury's Treads,Dead Man's Plate,Null-Magic Mantle,,,16070,2416,Lane.bot_lane,Role.support
+4,Xeran,Ashe,False,Side.blue,2,6,1,0.5,164,Heal,Flash,11,True,7661,7600,Doran's Blade,Berserker's Greaves,Essence Reaver,Recurve Bow,Zeal,,816,77653,Lane.bot_lane,Role.carry
+5,ityyy,Shyvana,True,Side.red,2,2,3,2.5,110,Flash,Smite,13,False,8884,7925,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,Titanic Hydra,Ruby Crystal,Control Ward,57041,57322,Lane.jungle,Role.none
+6,Na Kirby,Karma,True,Side.red,1,3,11,4.0,7,Ignite,Flash,11,False,7298,6725,Eye of the Watchers,Redemption,Chalice of Harmony,Ionian Boots of Lucidity,Faerie Charm,Faerie Charm,9380,4491,Lane.bot_lane,Role.support
+7,DusKRaptor,Jhin,True,Side.red,7,0,7,14.0,172,Flash,Heal,13,False,10723,9825,Quicksilver Sash,Essence Reaver,Rapid Firecannon,,Boots of Swiftness,Doran's Blade,1834,92974,Lane.bot_lane,Role.carry
+8,Joelzzz,Ryze,True,Side.red,6,0,8,14.0,173,Ghost,Flash,15,False,10952,9635,Seraph's Embrace,Refillable Potion,Mejai's Soulstealer,Mercury's Treads,Morellonomicon,Blasting Wand,121478,9005,Lane.mid_lane,Role.solo
+9,Feed Yasuo,Yasuo,True,Side.red,6,4,5,2.75,232,Flash,Teleport,16,False,12163,11375,Doran's Blade,Blade of the Ruined King,Phantom Dancer,Mercury's Treads,Frozen Mallet,Control Ward,29977,117306,Lane.top_lane,Role.solo

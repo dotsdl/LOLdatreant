@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HvK LiquidDiego,Kha'Zix,True,Side.blue,11,4,5,4.0,114,Flash,Smite,13,False,12073,11510,,Youmuu's Ghostblade,Tiamat,Ionian Boots of Lucidity,The Black Cleaver,Enchantment: Warrior,4705,120644,Lane.jungle,Role.none
+1,Jadsbutt,Ezreal,True,Side.blue,6,2,13,9.5,181,Flash,Heal,12,False,11409,10733,Trinity Force,Muramana,Ionian Boots of Lucidity,Doran's Blade,Lord Dominik's Regards,Long Sword,10758,90304,Lane.bot_lane,Role.carry
+2,Nero Valentine,Jayce,True,Side.blue,5,3,7,4.0,179,Teleport,Flash,13,False,10456,9925,Elixir of Wrath,Doran's Blade,The Black Cleaver,Boots of Swiftness,Maw of Malmortius,Last Whisper,16666,78971,Lane.top_lane,Role.solo
+3,ZuteGach,Janna,True,Side.blue,0,0,19,19.0,12,Exhaust,Flash,12,False,7856,5875,Boots of Mobility,Eye of the Oasis,,Redemption,Null-Magic Mantle,,1977,4710,Lane.bot_lane,Role.support
+4,Yarkbeezy,Malzahar,True,Side.blue,2,0,10,12.0,123,Ghost,Flash,13,False,8670,7925,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Control Ward,,Ionian Boots of Lucidity,63153,18560,Lane.mid_lane,Role.solo
+5,pilling91,Cassiopeia,False,Side.red,1,5,3,0.8,186,Ghost,Flash,13,False,8039,7585,Doran's Ring,Seraph's Embrace,Morellonomicon,,The Dark Seal,Amplifying Tome,96734,7309,Lane.mid_lane,Role.solo
+6,SNiKerDoDIe,Evelynn,False,Side.red,3,6,3,1.0,112,Smite,Flash,12,True,7496,7340,Enchantment: Runic Echoes,Boots of Mobility,Giant's Belt,Hextech Protobelt-01,,,54421,29502,Lane.jungle,Role.none
+7,Swìft,Poppy,False,Side.red,2,3,3,1.6666666666666667,173,Teleport,Flash,13,False,7846,7625,Corrupting Potion,Ninja Tabi,Sunfire Cape,Giant's Belt,Sheen,Glacial Shroud,23797,54410,Lane.top_lane,Role.solo
+8,Ledatic,Caitlyn,False,Side.red,1,6,3,0.6666666666666666,148,Flash,Heal,11,False,7247,6925,Doran's Blade,Zeal,Infinity Edge,Berserker's Greaves,Dagger,,271,71271,Lane.bot_lane,Role.carry
+9,popgoestheglock,Thresh,False,Side.red,2,4,2,1.0,22,Ignite,Flash,10,False,5498,4400,Sightstone,Control Ward,Boots of Speed,Face of the Mountain,Chalice of Harmony,,7827,3065,Lane.bot_lane,Role.support

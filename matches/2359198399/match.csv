@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KiNG Nidhogg,Jarvan IV,False,Side.blue,7,5,4,2.2,118,Smite,Flash,12,True,8962,8250,Enchantment: Cinderhulk,Boots of Mobility,Warden's Mail,,Titanic Hydra,,17713,69765,Lane.jungle,Role.none
+1,ApoIlo Price,Jhin,False,Side.blue,4,4,4,2.0,145,Flash,Heal,11,False,8040,6950,Youmuu's Ghostblade,Doran's Blade,Boots of Swiftness,Serrated Dirk,B. F. Sword,,2724,68782,Lane.bot_lane,Role.carry
+2,Dhokla,Fiora,False,Side.blue,0,6,3,0.5,176,Flash,Teleport,12,False,7617,7700,The Black Cleaver,Ravenous Hydra,,,Boots of Speed,,873,80767,Lane.top_lane,Role.solo
+3,TwTv Kinoscorpia,Brand,False,Side.blue,3,7,7,1.4285714285714286,26,Ignite,Flash,10,False,6650,6175,Sorcerer's Shoes,Total Biscuit of Rejuvenation,Frost Queen's Claim,Haunting Guise,,Blasting Wand,22777,3663,Lane.bot_lane,Role.support
+4,Tower of God,Nautilus,False,Side.blue,2,8,3,0.625,138,Flash,Ignite,11,False,7346,6700,Corrupting Potion,Ninja Tabi,Zz'Rot Portal,Spectre's Cowl,Ruby Crystal,Chain Vest,44734,13905,Lane.mid_lane,Role.solo
+5,Valkrin,Kha'Zix,True,Side.red,8,1,11,19.0,96,Smite,Flash,14,False,10300,9500,,Tiamat,Death's Dance,Mercury's Treads,Long Sword,Enchantment: Warrior,3745,100011,Lane.jungle,Role.none
+6,Témpest,Yasuo,True,Side.red,1,2,7,4.0,109,Flash,Exhaust,12,False,7327,6375,B. F. Sword,Relic Shield,Boots of Speed,Phantom Dancer,Jaurim's Fist,Ruby Crystal,14228,35896,Lane.bot_lane,Role.duo
+7,Rohammers,Ekko,True,Side.red,5,5,4,1.8,133,Teleport,Flash,13,False,8748,7335,Hextech Protobelt-01,Corrupting Potion,Sheen,Seeker's Armguard,The Dark Seal,Mercury's Treads,76703,10789,Lane.top_lane,Role.solo
+8,Tai Draven,Draven,True,Side.red,9,5,2,2.2,149,Flash,Heal,12,False,11386,10050,Doran's Blade,Infinity Edge,Phantom Dancer,Vampiric Scepter,Berserker's Greaves,Last Whisper,0,104404,Lane.bot_lane,Role.duo
+9,ZatsMod,Syndra,True,Side.red,7,3,5,4.0,188,Flash,Ghost,14,False,10482,9300,Doran's Ring,Morellonomicon,Mejai's Soulstealer,Rylai's Crystal Scepter,,Sorcerer's Shoes,100157,9362,Lane.mid_lane,Role.solo

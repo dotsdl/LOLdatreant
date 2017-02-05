@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,never negative,Graves,False,Side.blue,2,4,1,0.75,79,Smite,Flash,9,False,5508,5050,Enchantment: Warrior,Refillable Potion,Zeal,Boots of Speed,Dagger,Dagger,2282,59348,Lane.jungle,Role.none
+1,feed l0rd,Singed,False,Side.blue,1,9,1,0.2222222222222222,112,Ghost,Teleport,10,False,5520,5475,Rod of Ages,Corrupting Potion,Ninja Tabi,Ruby Crystal,Sapphire Crystal,,62347,1755,Lane.top_lane,Role.solo
+2,D0NG0,Twisted Fate,False,Side.blue,0,8,0,0.0,56,Ghost,Flash,8,False,4343,5275,Aether Wisp,Zeal,Boots of Mobility,Control Ward,,,13145,4819,Lane.mid_lane,Role.solo
+3,Winter is back,Lulu,False,Side.blue,2,7,4,0.8571428571428571,9,Flash,Exhaust,8,True,4827,4725,Control Ward,Ionian Boots of Lucidity,Forbidden Idol,Eye of the Watchers,,Total Biscuit of Rejuvenation,3227,2634,Lane.bot_lane,Role.support
+4,Youuuuuuuuuuuuu,Draven,False,Side.blue,4,8,3,0.875,94,Heal,Flash,9,False,6793,6025,Death's Dance,Boots of Speed,Doran's Blade,Dagger,Pickaxe,Long Sword,736,45936,Lane.bot_lane,Role.carry
+5,Pyrites,Lux,True,Side.red,4,3,16,6.666666666666667,22,Flash,Exhaust,9,False,8122,5830,Frost Queen's Claim,Sightstone,,The Dark Seal,Ionian Boots of Lucidity,Chalice of Harmony,15918,3222,Lane.bot_lane,Role.support
+6,toke dude,Rek'Sai,True,Side.red,8,1,3,11.0,126,Smite,Flash,13,False,10089,9225,Enchantment: Warrior,Hunter's Potion,Titanic Hydra,Ninja Tabi,Phage,Long Sword,10440,101416,Lane.jungle,Role.none
+7,dellzorrrrrrrrrr,Twitch,True,Side.red,8,4,12,5.0,73,Flash,Heal,10,False,8532,6650,Refillable Potion,Doran's Blade,B. F. Sword,Pickaxe,Runaan's Hurricane,Berserker's Greaves,0,31846,Lane.bot_lane,Role.carry
+8,Thalies,Katarina,True,Side.red,13,0,3,16.0,129,Ignite,Flash,12,False,10440,10050,Mejai's Soulstealer,Mercury's Treads,Rabadon's Deathcap,Hextech Gunblade,,,68161,10338,Lane.mid_lane,Role.solo
+9,Riesig,Yorick,True,Side.red,2,1,3,5.0,152,Flash,Teleport,13,False,8928,7383,Corrupting Potion,Trinity Force,Boots of Speed,Control Ward,Zz'Rot Portal,,14857,86369,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bigfatlp,Orianna,True,Side.blue,11,3,9,6.666666666666667,146,Ghost,Flash,14,False,11969,8375,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Ionian Boots of Lucidity,,,77276,15439,Lane.mid_lane,Role.solo
+1,Sud83,Rengar,True,Side.blue,9,4,6,3.75,167,Smite,Flash,15,False,12572,10875,Enchantment: Warrior,Long Sword,Youmuu's Ghostblade,Ionian Boots of Lucidity,Infinity Edge,Long Sword,9916,148804,Lane.jungle,Role.none
+2,2342563463634,Jayce,True,Side.blue,6,6,8,2.3333333333333335,129,Teleport,Flash,13,False,9658,7775,Doran's Blade,Youmuu's Ghostblade,Duskblade of Draktharr,Ionian Boots of Lucidity,,,5346,57324,Lane.top_lane,Role.solo
+3,Asian GirI,Caitlyn,True,Side.blue,8,8,11,2.375,131,Flash,Heal,12,False,11528,11075,Doran's Blade,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Null-Magic Mantle,2826,101675,Lane.bot_lane,Role.carry
+4,IM IgNar,Lulu,True,Side.blue,4,4,14,4.5,12,Exhaust,Flash,11,False,8812,6850,Frost Queen's Claim,Redemption,Sightstone,Boots of Mobility,Control Ward,,13347,7833,Lane.bot_lane,Role.support
+5,KiteAzure,Fiora,False,Side.red,4,7,10,2.0,114,Flash,Teleport,12,True,7903,7125,Corrupting Potion,Ravenous Hydra,Phage,Ninja Tabi,Long Sword,Long Sword,1967,56904,Lane.top_lane,Role.solo
+6,TheHiddenMist,Tristana,False,Side.red,3,8,7,1.25,139,Flash,Heal,12,False,7758,7550,Doran's Blade,Infinity Edge,Control Ward,Runaan's Hurricane,Boots of Speed,Long Sword,15809,60905,Lane.bot_lane,Role.carry
+7,TheNotoriousDFG,Malzahar,False,Side.red,3,6,8,1.8333333333333333,146,Flash,Ghost,13,False,7913,8185,Doran's Ring,Morellonomicon,Giant's Belt,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,56726,16684,Lane.mid_lane,Role.solo
+8,JaçkeyLove,Morgana,False,Side.red,7,6,11,3.0,15,Exhaust,Flash,11,False,7955,7010,Frost Queen's Claim,Redemption,Sightstone,Sorcerer's Shoes,Control Ward,Amplifying Tome,9945,3286,Lane.bot_lane,Role.support
+9,I am Jett,Kha'Zix,False,Side.red,8,11,9,1.5454545454545454,49,Flash,Smite,12,False,8227,7745,Enchantment: Warrior,Ionian Boots of Lucidity,Youmuu's Ghostblade,Control Ward,Long Sword,Long Sword,4322,57038,Lane.jungle,Role.none

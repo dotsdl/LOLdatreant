@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PutYourHeartsUp,Ezreal,False,Side.blue,3,7,4,1.0,150,Flash,Heal,13,False,9346,8200,Doran's Blade,Cull,Recurve Bow,Iceborn Gauntlet,Manamune,Ionian Boots of Lucidity,18635,70487,Lane.bot_lane,Role.carry
+1,Abou222,Ivern,False,Side.blue,0,4,8,2.0,16,Exhaust,Flash,11,False,6622,6575,Forbidden Idol,Crystalline Bracer,Eye of the Oasis,Boots of Speed,Athene's Unholy Grail,Null-Magic Mantle,5098,2436,Lane.bot_lane,Role.support
+2,TheOddOrange,Vi,False,Side.blue,5,8,3,1.0,176,Flash,Smite,15,False,10860,10233,Enchantment: Warrior,Trinity Force,Ninja Tabi,Hexdrinker,Caulfield's Warhammer,,2144,164260,Lane.jungle,Role.none
+3,Adrian Riven,Riven,False,Side.blue,3,6,5,1.3333333333333333,149,Teleport,Flash,14,True,8659,7550,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,,,,1722,79934,Lane.top_lane,Role.solo
+4,Alex Ich 1,Kog'Maw,False,Side.blue,5,5,2,1.4,215,Flash,Ghost,14,False,10399,9925,Doran's Ring,Tear of the Goddess,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Needlessly Large Rod,122875,13633,Lane.mid_lane,Role.solo
+5,zlsna,Ekko,True,Side.red,8,1,7,15.0,202,Flash,Teleport,16,False,12893,12175,Hextech Protobelt-01,Rylai's Crystal Scepter,Lich Bane,Corrupting Potion,Needlessly Large Rod,Boots of Swiftness,111017,20472,Lane.mid_lane,Role.solo
+6,Imaokai,Caitlyn,True,Side.red,5,4,4,2.25,230,Heal,Flash,14,False,13169,10975,Berserker's Greaves,Infinity Edge,Statikk Shiv,Cull,Doran's Blade,Runaan's Hurricane,21524,140829,Lane.bot_lane,Role.carry
+7,Yassuo,Yasuo,True,Side.red,9,6,6,2.5,202,Flash,Teleport,16,False,13227,10525,Infinity Edge,Phantom Dancer,Ninja Tabi,Vampiric Scepter,Long Sword,B. F. Sword,32975,120557,Lane.top_lane,Role.solo
+8,Årcee,Nocturne,True,Side.red,4,4,7,2.75,162,Smite,Flash,15,False,12142,11950,Enchantment: Warrior,Ravenous Hydra,Statikk Shiv,Pickaxe,Mercury's Treads,Serrated Dirk,6977,151055,Lane.jungle,Role.none
+9,Professor Melyn,Zyra,True,Side.red,3,1,8,11.0,21,Flash,Exhaust,13,False,9818,8025,Liandry's Torment,Refillable Potion,Sorcerer's Shoes,Control Ward,Eye of the Watchers,Blasting Wand,37901,7879,Lane.bot_lane,Role.support

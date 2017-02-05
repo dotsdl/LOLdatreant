@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid fabbbyyy,Vayne,True,Side.blue,5,1,11,16.0,159,Flash,Heal,13,False,10097,8675,Statikk Shiv,Berserker's Greaves,Infinity Edge,Doran's Blade,Dagger,Dagger,23067,73141,Lane.bot_lane,Role.carry
+1,Smoothie,Bard,True,Side.blue,2,2,10,6.0,12,Flash,Exhaust,11,False,7161,5900,,Ruby Sightstone,Frost Queen's Claim,Boots of Mobility,Cloth Armor,,9722,5277,Lane.bot_lane,Role.support
+2,Adrian Riven,Riven,True,Side.blue,7,1,7,14.0,136,Teleport,Flash,13,False,9829,8425,The Black Cleaver,Refillable Potion,Ninja Tabi,Death's Dance,,Long Sword,835,85827,Lane.top_lane,Role.solo
+3,SSBM Hax,Twisted Fate,True,Side.blue,5,0,12,17.0,199,Flash,Ghost,14,True,12287,10900,Doran's Ring,Lich Bane,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Rod of Ages,121463,16996,Lane.mid_lane,Role.solo
+4,Rhux,Lee Sin,True,Side.blue,4,3,8,4.0,113,Flash,Smite,13,False,9182,8925,Enchantment: Warrior,Refillable Potion,Tiamat,Randuin's Omen,Boots of Mobility,Giant's Belt,14233,85025,Lane.jungle,Role.none
+5,Xpecial,Alistar,False,Side.red,1,5,2,0.6,32,Exhaust,Flash,10,False,5623,5125,Targon's Brace,Cloth Armor,Boots of Mobility,Control Ward,Kindlegem,Ruby Sightstone,3841,6035,Lane.bot_lane,Role.support
+6,Strompest,Orianna,False,Side.red,2,3,1,1.0,178,Flash,Ghost,12,False,7979,7185,Morellonomicon,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,74908,11542,Lane.mid_lane,Role.solo
+7,Im Jonny,Kha'Zix,False,Side.red,2,5,2,0.8,128,Flash,Smite,12,False,7668,6875,Tiamat,Hunter's Potion,Mercury's Treads,Control Ward,Enchantment: Warrior,Phage,3924,106481,Lane.jungle,Role.none
+8,Alex Ich 1,Renekton,False,Side.red,0,5,1,0.2,194,Flash,Teleport,13,False,7667,7375,Tiamat,Mercury's Treads,Refillable Potion,The Black Cleaver,Jaurim's Fist,Ruby Crystal,1306,87039,Lane.top_lane,Role.solo
+9,Stixxay,Twitch,False,Side.red,2,5,1,0.6,168,Heal,Flash,11,False,8183,8050,Runaan's Hurricane,Berserker's Greaves,Sheen,Pickaxe,B. F. Sword,Doran's Blade,0,77604,Lane.bot_lane,Role.carry

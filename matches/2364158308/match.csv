@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Crown1ess,Rek'Sai,True,Side.blue,3,1,8,11.0,139,Smite,Flash,14,False,11109,9175,Refillable Potion,Titanic Hydra,Enchantment: Cinderhulk,Mercury's Treads,Giant's Belt,Chain Vest,28518,103435,Lane.jungle,Role.none
+1,Rule Bage,Xerath,True,Side.blue,5,1,4,9.0,178,Ghost,Flash,15,False,11160,9325,Rabadon's Deathcap,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Doran's Ring,The Dark Seal,117267,12073,Lane.mid_lane,Role.solo
+2,Tehpwner188,Vayne,True,Side.blue,9,5,4,2.6,201,Heal,Flash,14,False,13167,12350,Doran's Blade,Quicksilver Sash,Phantom Dancer,Infinity Edge,Statikk Shiv,Berserker's Greaves,35604,99494,Lane.bot_lane,Role.carry
+3,T0gether,Riven,True,Side.blue,4,1,6,10.0,199,Flash,Teleport,15,True,11392,9625,Tiamat,Refillable Potion,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Vampiric Scepter,0,123061,Lane.top_lane,Role.solo
+4,Yuanbaby,Janna,True,Side.blue,2,0,13,15.0,6,Flash,Exhaust,12,False,9053,7450,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,Forbidden Idol,Crystalline Bracer,,3638,5568,Lane.bot_lane,Role.support
+5,Vankara,Ashe,False,Side.red,2,5,5,1.4,155,Heal,Flash,12,False,8474,8325,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,,,1885,78028,Lane.bot_lane,Role.carry
+6,K for Hanny,Lee Sin,False,Side.red,5,1,2,7.0,113,Flash,Smite,13,False,8692,7950,Enchantment: Warrior,Refillable Potion,Randuin's Omen,,Chain Vest,Ninja Tabi,13170,76642,Lane.jungle,Role.none
+7,1Primo1,Orianna,False,Side.red,1,4,3,1.0,200,Flash,Ghost,13,False,8645,8350,Doran's Ring,Rylai's Crystal Scepter,The Dark Seal,Morellonomicon,Sorcerer's Shoes,,91563,12839,Lane.mid_lane,Role.solo
+8,willgeta,Yasuo,False,Side.red,0,7,2,0.2857142857142857,206,Teleport,Flash,14,False,8692,8425,Infinity Edge,Phantom Dancer,Ninja Tabi,Doran's Blade,Doran's Blade,,21415,81431,Lane.top_lane,Role.solo
+9,Dregin001,Lulu,False,Side.red,0,6,3,0.5,29,Exhaust,Flash,10,False,6256,5600,Frost Queen's Claim,Refillable Potion,Ionian Boots of Lucidity,Forbidden Idol,Sightstone,Ruby Crystal,14873,4402,Lane.bot_lane,Role.support

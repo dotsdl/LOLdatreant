@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog2,Ezreal,False,Side.blue,2,8,5,0.875,171,Flash,Heal,13,False,9693,9533,Doran's Blade,Manamune,Bilgewater Cutlass,Cull,Trinity Force,Ionian Boots of Lucidity,13006,80228,Lane.bot_lane,Role.carry
+1,MadLyfe,Thresh,False,Side.blue,1,7,8,1.2857142857142858,23,Exhaust,Flash,11,False,6799,6425,Aegis of the Legion,Face of the Mountain,Ruby Sightstone,Boots of Mobility,,Control Ward,10313,3071,Lane.bot_lane,Role.support
+2,Vantar,Ryze,False,Side.blue,3,5,6,1.8,213,Flash,Ghost,15,False,10754,9875,,,,,,,137984,11814,Lane.mid_lane,Role.solo
+3,Uncle,Tryndamere,False,Side.blue,6,7,3,1.2857142857142858,187,Teleport,Flash,15,False,11150,10450,Doran's Blade,Refillable Potion,Blade of the Ruined King,Phantom Dancer,Mercury's Treads,Mortal Reminder,73,129901,Lane.top_lane,Role.solo
+4,Aurath,Twitch,False,Side.blue,5,6,8,2.1666666666666665,109,Smite,Flash,13,True,9815,8650,Blade of the Ruined King,Enchantment: Bloodrazor,Zeal,,,Ninja Tabi,2785,90317,Lane.jungle,Role.none
+5,Muzy,Nami,True,Side.red,3,3,20,7.666666666666667,11,Flash,Exhaust,13,False,10095,8275,Redemption,Locket of the Iron Solari,Eye of the Watchers,Boots of Mobility,Null-Magic Mantle,Faerie Charm,7157,7716,Lane.bot_lane,Role.support
+6,Beenzinos,Lee Sin,True,Side.red,13,3,9,7.333333333333333,105,Flash,Smite,15,False,13269,11075,Youmuu's Ghostblade,Tiamat,Enchantment: Warrior,Boots of Mobility,Dead Man's Plate,Ruby Crystal,23079,103102,Lane.jungle,Role.none
+7,Ablazeolive,Cassiopeia,True,Side.red,7,4,8,3.75,194,Flash,Ghost,14,False,12308,10650,Doran's Ring,Tear of the Goddess,Abyssal Scepter,Morellonomicon,Rylai's Crystal Scepter,,101945,9187,Lane.mid_lane,Role.solo
+8,adc feng lft,Ashe,True,Side.red,4,5,13,3.4,217,Heal,Flash,15,False,12654,11500,Infinity Edge,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,,Doran's Blade,3310,140871,Lane.bot_lane,Role.carry
+9,DeathSentence247,Renekton,True,Side.red,6,2,4,5.0,208,Flash,Ignite,16,False,12267,11175,Control Ward,Randuin's Omen,Titanic Hydra,Ninja Tabi,The Black Cleaver,,6019,140810,Lane.top_lane,Role.solo

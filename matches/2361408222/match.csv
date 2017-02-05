@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ChuYung,Blitzcrank,True,Side.blue,3,7,24,3.857142857142857,38,Ignite,Flash,13,False,9898,8025,Face of the Mountain,Redemption,Control Ward,Ruby Sightstone,Boots of Mobility,Crystalline Bracer,8545,9323,Lane.bot_lane,Role.support
+1,santana claus,Vayne,True,Side.blue,17,7,8,3.5714285714285716,175,Flash,Heal,14,False,14671,14825,Statikk Shiv,Infinity Edge,Phantom Dancer,Null-Magic Mantle,Berserker's Greaves,The Bloodthirster,23801,100492,Lane.bot_lane,Role.carry
+2,FeeIsBoostedMan,Graves,True,Side.blue,8,3,18,8.666666666666666,197,Smite,Flash,16,False,14459,13200,Mercurial Scimitar,Refillable Potion,Mercury's Treads,Phantom Dancer,The Black Cleaver,Enchantment: Warrior,5574,181525,Lane.jungle,Role.none
+3,Carmen Campagne,LeBlanc,True,Side.blue,17,5,5,4.4,128,Ignite,Flash,15,False,13044,11460,Rylai's Crystal Scepter,Mejai's Soulstealer,Amplifying Tome,Morellonomicon,Blasting Wand,Sorcerer's Shoes,68638,9910,Lane.mid_lane,Role.solo
+4,And JuIy,Xin Zhao,True,Side.blue,4,6,5,1.5,144,Flash,Teleport,14,True,10985,11325,Warden's Mail,Dead Man's Plate,Ninja Tabi,Titanic Hydra,Giant's Belt,,13644,81470,Lane.top_lane,Role.solo
+5,1Tracked,Rammus,False,Side.red,2,10,11,1.3,134,Smite,Flash,14,False,8878,8350,Enchantment: Cinderhulk,Hunter's Potion,Thornmail,Ninja Tabi,Chain Vest,Giant's Belt,63818,36949,Lane.jungle,Role.none
+6,Muzy,Jhin,False,Side.red,6,9,11,1.8888888888888888,161,Flash,Heal,13,False,10348,10675,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Pickaxe,B. F. Sword,4363,102153,Lane.bot_lane,Role.carry
+7,Wrath,Zyra,False,Side.red,3,8,14,2.125,17,Flash,Ignite,12,False,8668,7185,Frostfang,Sorcerer's Shoes,Rylai's Crystal Scepter,Sightstone,Ruby Crystal,Amplifying Tome,21524,5141,Lane.bot_lane,Role.support
+8,II Master II,Quinn,False,Side.red,11,12,4,1.25,77,Flash,Ignite,13,False,9687,9350,Doran's Blade,Duskblade of Draktharr,Youmuu's Ghostblade,Boots of Swiftness,B. F. Sword,Long Sword,1864,49211,Lane.top_lane,Role.solo
+9,KaneKi521,Yasuo,False,Side.red,6,10,8,1.4,147,Flash,Ignite,14,False,9797,9375,Infinity Edge,Phantom Dancer,Hexdrinker,,Doran's Blade,Mercury's Treads,26992,68527,Lane.mid_lane,Role.solo

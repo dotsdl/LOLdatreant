@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IKingVex,Twitch,False,Side.blue,11,11,4,1.3636363636363635,215,Heal,Flash,15,False,14314,13250,Doran's Blade,Rapid Firecannon,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Lord Dominik's Regards,1263,140559,Lane.bot_lane,Role.carry
+1,Hopachai,Yasuo,False,Side.blue,4,7,0,0.5714285714285714,209,Teleport,Flash,14,False,10569,10175,Caulfield's Warhammer,Frozen Mallet,Hexdrinker,,Phantom Dancer,Mercury's Treads,26473,88179,Lane.top_lane,Role.solo
+2,h4zy,Nautilus,False,Side.blue,2,11,8,0.9090909090909091,47,Exhaust,Flash,12,False,9139,8550,Redemption,Face of the Mountain,Knight's Vow,Sightstone,Boots of Mobility,,25354,9727,Lane.bot_lane,Role.support
+3,purpleninja0,Amumu,False,Side.blue,2,12,4,0.5,87,Smite,Flash,13,False,9037,8125,Locket of the Iron Solari,Hunter's Potion,Mercury's Treads,Enchantment: Cinderhulk,Chain Vest,Giant's Belt,65856,19395,Lane.jungle,Role.none
+4,Dropzz,Katarina,False,Side.blue,5,13,3,0.6153846153846154,103,Flash,Ignite,13,False,9277,9425,Sorcerer's Shoes,Rylai's Crystal Scepter,Luden's Echo,Vampiric Scepter,Long Sword,,78271,6820,Lane.mid_lane,Role.solo
+5,L3E SIN,Vayne,True,Side.red,18,7,15,4.714285714285714,169,Flash,Heal,16,False,15884,14308,Mercurial Scimitar,B. F. Sword,Statikk Shiv,Berserker's Greaves,Trinity Force,Pickaxe,34144,105648,Lane.bot_lane,Role.carry
+6,Stessy Poirier,Elise,True,Side.red,16,5,12,5.6,99,Flash,Smite,16,False,14513,12925,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Sorcerer's Shoes,Liandry's Torment,Void Staff,,121388,27978,Lane.jungle,Role.none
+7,Daru,Poppy,True,Side.red,5,2,12,8.5,156,Flash,Teleport,16,False,11808,11025,Corrupting Potion,Sunfire Cape,Mercury's Treads,Thornmail,Giant's Belt,Iceborn Gauntlet,32862,58597,Lane.top_lane,Role.solo
+8,suffix,Janna,True,Side.red,7,4,32,9.75,11,Ignite,Flash,15,True,12722,10900,Redemption,Eye of the Watchers,Mejai's Soulstealer,Boots of Mobility,Rabadon's Deathcap,,15172,6696,Lane.bot_lane,Role.support
+9,CNTRL,Akali,True,Side.red,8,6,5,2.1666666666666665,243,Flash,Ignite,16,False,13803,11600,Refillable Potion,Zhonya's Hourglass,Hextech Gunblade,Sorcerer's Shoes,The Dark Seal,Lich Bane,48167,119639,Lane.mid_lane,Role.solo

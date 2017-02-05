@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xxWowUrBadxx,Irelia,True,Side.blue,6,4,7,3.25,154,Teleport,Flash,15,False,10572,9708,Corrupting Potion,Trinity Force,Jaurim's Fist,Mercury's Treads,Frozen Mallet,,4254,72418,Lane.top_lane,Role.solo
+1,Tsùki,Sivir,True,Side.blue,5,3,4,3.0,212,Flash,Heal,13,False,11167,10650,Doran's Blade,Essence Reaver,B. F. Sword,Phantom Dancer,Berserker's Greaves,Pickaxe,665,120117,Lane.bot_lane,Role.carry
+2,umperor,Trundle,True,Side.blue,10,4,7,4.25,158,Smite,Ghost,15,False,12738,11558,Enchantment: Cinderhulk,Titanic Hydra,Trinity Force,Mercury's Treads,Null-Magic Mantle,,9142,132258,Lane.jungle,Role.none
+3,Painn,Fizz,True,Side.blue,8,5,10,3.6,143,Flash,Ignite,14,False,10811,8800,Abyssal Scepter,Corrupting Potion,The Dark Seal,Lich Bane,Sorcerer's Shoes,Fiendish Codex,71791,17654,Lane.mid_lane,Role.solo
+4,PutYourHeartsUp,Nami,True,Side.blue,0,2,13,6.5,9,Exhaust,Flash,12,False,7394,6825,Refillable Potion,Control Ward,Eye of the Watchers,Forbidden Idol,Athene's Unholy Grail,Boots of Swiftness,8062,6124,Lane.bot_lane,Role.support
+5,Rogue 0ne,Poppy,False,Side.red,8,5,1,1.8,151,Flash,Teleport,14,True,9074,8200,Corrupting Potion,Iceborn Gauntlet,Mercury's Treads,Null-Magic Mantle,Ruby Crystal,Sunfire Cape,34213,61027,Lane.top_lane,Role.solo
+6,Carkyn,Kayle,False,Side.red,3,6,5,1.3333333333333333,91,Flash,Smite,12,False,7931,7825,Enchantment: Bloodrazor,Nashor's Tooth,Blasting Wand,Dagger,Ionian Boots of Lucidity,,44349,44029,Lane.jungle,Role.none
+7,bobqinXD,Syndra,False,Side.red,3,9,4,0.7777777777777778,141,Flash,Exhaust,12,False,7843,7630,Amplifying Tome,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Negatron Cloak,71581,9601,Lane.mid_lane,Role.solo
+8,Pheonix General,Vayne,False,Side.red,2,5,4,1.2,141,Heal,Flash,12,False,8122,7800,Doran's Blade,Zeal,Berserker's Greaves,Dagger,Infinity Edge,Dagger,153,54812,Lane.bot_lane,Role.duo
+9,Témpest,Yasuo,False,Side.red,2,4,3,1.25,65,Flash,Exhaust,11,False,6419,5650,Sightstone,Health Potion,Phantom Dancer,Berserker's Greaves,Targon's Brace,,10342,23305,Lane.bot_lane,Role.duo

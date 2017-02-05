@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PIays With Balls,Orianna,True,Side.blue,3,0,2,5.0,87,Flash,Barrier,10,False,5815,4550,Doran's Ring,Refillable Potion,Boots of Speed,Doran's Ring,Luden's Echo,,33334,10126,Lane.mid_lane,Role.solo
+1,Mest,Vi,True,Side.blue,4,1,0,4.0,115,Smite,Flash,11,True,6869,6675,Enchantment: Warrior,Refillable Potion,Infinity Edge,Boots of Speed,,,1142,76372,Lane.jungle,Role.none
+2,dustycat,Janna,True,Side.blue,0,2,5,2.5,1,Flash,Exhaust,8,False,4262,3425,Nomad's Medallion,Ruby Crystal,Boots of Mobility,,Forbidden Idol,Rejuvenation Bead,1910,4475,Lane.bot_lane,Role.duo
+3,plebmobs,Lissandra,True,Side.blue,0,1,3,3.0,58,Flash,Teleport,8,False,4779,4250,Doran's Ring,Hextech Protobelt-01,Sorcerer's Shoes,Refillable Potion,,,27175,7203,Lane.top_lane,Role.solo
+4,Samsung Surge,Corki,True,Side.blue,4,0,2,6.0,83,Heal,Flash,8,False,6005,5133,,Refillable Potion,,,Trinity Force,Sorcerer's Shoes,26971,13650,Lane.bot_lane,Role.duo
+5,The Coldshroom,Teemo,False,Side.red,0,0,0,0.0,2,Ignite,Flash,3,False,1982,500,Total Biscuit of Rejuvenation,Doran's Ring,,,,,177,217,Lane.mid_lane,Role.duo
+6, keine Hosen,Draven,False,Side.red,0,2,0,0.0,43,Flash,Heal,5,False,2764,1600,Doran's Blade,Serrated Dirk,,,,,113,12395,Lane.bot_lane,Role.duo
+7,Aengy,Lee Sin,False,Side.red,0,2,0,0.0,26,Smite,Flash,5,False,2694,2550,Skirmisher's Sabre,Refillable Potion,Caulfield's Warhammer,,Boots of Speed,,2423,10918,Lane.jungle,Role.none
+8,Veeshan,Syndra,False,Side.red,3,6,0,0.5,68,Ignite,Flash,9,False,4132,3575,Doran's Ring,Needlessly Large Rod,Boots of Speed,Control Ward,Doran's Ring,Lost Chapter,26587,6069,Lane.mid_lane,Role.duo
+9,BoBsMiTh,Nami,False,Side.red,0,1,0,0.0,1,Exhaust,Flash,5,False,2290,1050,Frostfang,Total Biscuit of Rejuvenation,,,,,1027,1941,Lane.bot_lane,Role.duo

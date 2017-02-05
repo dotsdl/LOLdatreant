@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zeliais,Bard,True,Side.blue,0,0,0,0.0,0,Exhaust,Flash,2,False,708,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,365,742,Lane.bot_lane,Role.duo
+1,lost in thoughts,LeBlanc,True,Side.blue,0,0,0,0.0,16,Flash,Cleanse,3,False,963,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1998,2177,Lane.mid_lane,Role.solo
+2,Firé,Jhin,True,Side.blue,0,0,0,0.0,12,Heal,Flash,2,False,873,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,52,4259,Lane.bot_lane,Role.duo
+3,Doodalive,Hecarim,True,Side.blue,0,0,0,0.0,11,Smite,Ghost,3,False,905,500,Hunter's Talisman,Refillable Potion,,,,,689,4522,Lane.jungle,Role.none
+4,Casualtax5,Riven,True,Side.blue,0,0,0,0.0,14,Flash,Teleport,3,False,935,500,Long Sword,Health Potion,,,,,0,3118,Lane.top_lane,Role.solo
+5,Sourpatchkids,Vayne,False,Side.red,0,0,0,0.0,7,Flash,Heal,2,False,779,500,Doran's Blade,,,,,,0,1806,Lane.bot_lane,Role.duo
+6,bvcx222,Morgana,False,Side.red,0,0,0,0.0,0,Flash,Exhaust,2,False,726,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,1344,704,Lane.bot_lane,Role.duo
+7,Henrÿ,Vi,False,Side.red,0,0,0,0.0,7,Flash,Smite,4,False,1101,500,Hunter's Machete,Refillable Potion,,,,,0,8834,Lane.jungle,Role.none
+8,SPACE JUNGLER X,Lux,False,Side.red,0,0,0,0.0,0,Ghost,Flash,1,False,645,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+9,Satsui No Hado,Nasus,False,Side.red,0,0,0,0.0,7,Teleport,Ghost,2,False,779,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1568,66,Lane.top_lane,Role.solo

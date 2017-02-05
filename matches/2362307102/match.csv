@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keegun,Pantheon,False,Side.blue,1,8,10,1.375,32,Flash,Ignite,10,False,7200,6625,Relic Shield,Edge of Night,Sightstone,Phage,,Boots of Swiftness,2622,22877,Lane.bot_lane,Role.duo
+1,New Experience,Ryze,False,Side.blue,5,5,3,1.6,204,Flash,Ghost,14,False,10444,10185,Seraph's Embrace,Abyssal Scepter,Ionian Boots of Lucidity,Rod of Ages,Amplifying Tome,,118741,10543,Lane.mid_lane,Role.solo
+2,7788 ADC,Twitch,False,Side.blue,3,9,5,0.8888888888888888,113,Heal,Flash,11,False,8042,7975,Infinity Edge,Runaan's Hurricane,,Berserker's Greaves,Doran's Blade,,0,47007,Lane.bot_lane,Role.duo
+3,CloudNguyén,Poppy,False,Side.blue,4,3,2,2.0,179,Teleport,Flash,14,False,9507,9200,Spectre's Cowl,Sunfire Cape,Boots of Swiftness,Iceborn Gauntlet,Doran's Shield,Ruby Crystal,27971,68208,Lane.top_lane,Role.solo
+4,Abou222,Elise,False,Side.blue,5,4,3,2.0,108,Smite,Flash,13,False,9448,9410,Enchantment: Runic Echoes,Refillable Potion,Rylai's Crystal Scepter,Sorcerer's Shoes,Giant's Belt,Seeker's Armguard,88182,26782,Lane.jungle,Role.none
+5,Pond,Riven,True,Side.red,4,3,5,3.0,203,Teleport,Flash,15,False,11090,9900,Tiamat,Pickaxe,Refillable Potion,Mercury's Treads,Maw of Malmortius,The Black Cleaver,229,104964,Lane.top_lane,Role.solo
+6,tardzaned,Olaf,True,Side.red,7,3,9,5.333333333333333,211,Smite,Ghost,16,False,13335,11275,Randuin's Omen,Titanic Hydra,Ionian Boots of Lucidity,,Enchantment: Cinderhulk,Spectre's Cowl,20014,160729,Lane.jungle,Role.none
+7,Overlord Forte,Xerath,True,Side.red,11,4,5,4.0,174,Flash,Ghost,14,False,12478,9525,Doran's Ring,Sorcerer's Shoes,The Dark Seal,Luden's Echo,Morellonomicon,Blasting Wand,110705,7929,Lane.mid_lane,Role.solo
+8,TSM MeNoHaxor,Karma,True,Side.red,1,5,19,4.0,24,Exhaust,Flash,12,False,9301,7400,Eye of the Watchers,Boots of Mobility,Redemption,Forbidden Idol,Chalice of Harmony,Refillable Potion,18232,8030,Lane.bot_lane,Role.support
+9,Jeehun,Ezreal,True,Side.red,6,3,12,6.0,148,Flash,Heal,13,True,12212,11800,Blade of the Ruined King,Muramana,Doran's Blade,Last Whisper,Iceborn Gauntlet,Ionian Boots of Lucidity,18090,88215,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,21 Savagé,Shaco,False,Side.blue,0,2,0,0.0,21,Smite,Ignite,6,False,2393,1450,Hunter's Machete,Refillable Potion,Control Ward,Boots of Speed,Rejuvenation Bead,Long Sword,3735,11910,Lane.jungle,Role.none
+1,Flaresz,Trundle,False,Side.blue,1,4,0,0.25,69,Flash,Teleport,8,False,3364,3250,Corrupting Potion,Ninja Tabi,Doran's Blade,,Tiamat,,311,20108,Lane.top_lane,Role.solo
+2,Keegun,Pantheon,False,Side.blue,0,2,0,0.0,46,Flash,Exhaust,5,False,2591,1950,Doran's Blade,Corrupting Potion,Boots of Speed,Long Sword,Long Sword,,320,9961,Lane.bot_lane,Role.duo
+3,SSBM Hax,Twisted Fate,False,Side.blue,0,0,0,0.0,30,Flash,Ghost,6,False,2391,1475,Doran's Ring,Ruby Crystal,Refillable Potion,Control Ward,Sapphire Crystal,,6366,2184,Lane.mid_lane,Role.solo
+4,Liquid Painless,Braum,False,Side.blue,0,0,0,0.0,10,Flash,Heal,5,False,2195,1625,Targon's Brace,Ruby Crystal,Total Biscuit of Rejuvenation,,,,1182,1453,Lane.bot_lane,Role.duo
+5,Espir III,Karma,True,Side.red,0,0,1,1.0,12,Flash,Exhaust,7,False,3257,1725,Spellthief's Edge,Control Ward,Total Biscuit of Rejuvenation,Sightstone,Boots of Speed,,7497,6062,Lane.bot_lane,Role.duo
+6,Grigne,Elise,True,Side.red,5,1,0,5.0,37,Flash,Smite,7,False,5181,4700,Skirmisher's Sabre,Boots of Mobility,Refillable Potion,Needlessly Large Rod,Aether Wisp,Ruby Crystal,21464,13850,Lane.jungle,Role.none
+7,Riesig,Jarvan IV,True,Side.red,2,2,3,2.5,78,Flash,Teleport,9,True,4962,4375,Corrupting Potion,,Boots of Speed,Control Ward,,Titanic Hydra,686,36788,Lane.top_lane,Role.solo
+8,DeaIer29,LeBlanc,True,Side.red,1,0,0,1.0,99,Cleanse,Flash,9,False,4870,1625,Doran's Ring,Lost Chapter,,Refillable Potion,,,31594,10480,Lane.mid_lane,Role.solo
+9,1936 1948,Ashe,True,Side.red,0,0,2,2.0,56,Heal,Flash,7,False,3848,2025,Doran's Blade,Dagger,Boots of Speed,Pickaxe,,,144,27714,Lane.bot_lane,Role.duo

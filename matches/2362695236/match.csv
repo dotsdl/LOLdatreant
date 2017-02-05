@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Quaal,Ryze,True,Side.blue,6,5,12,3.6,183,Flash,Ghost,15,False,12533,11800,Rabadon's Deathcap,Seraph's Embrace,Rod of Ages,Ionian Boots of Lucidity,Blasting Wand,,116259,9650,Lane.mid_lane,Role.solo
+1,ókay,Ivern,True,Side.blue,6,3,14,6.666666666666667,79,Smite,Flash,15,False,12356,10425,Skirmisher's Sabre,Redemption,Zz'Rot Portal,Mejai's Soulstealer,Athene's Unholy Grail,Ionian Boots of Lucidity,18623,8398,Lane.jungle,Role.none
+2,Rokí,Riven,True,Side.blue,11,2,8,9.5,217,Flash,Teleport,16,False,15180,13750,Mercury's Treads,Death's Dance,Ravenous Hydra,Doran's Blade,The Black Cleaver,Chain Vest,6916,169196,Lane.top_lane,Role.solo
+3,Contractz,Jhin,True,Side.blue,10,5,14,4.8,181,Heal,Flash,14,False,13978,12925,Infinity Edge,Boots of Swiftness,Rapid Firecannon,Doran's Blade,B. F. Sword,Essence Reaver,9265,127858,Lane.bot_lane,Role.solo
+4,stuntopia,Thresh,True,Side.blue,2,8,20,2.75,17,Ignite,Flash,13,True,9521,8075,Ruby Sightstone,Locket of the Iron Solari,Redemption,Boots of Mobility,Targon's Brace,Control Ward,10265,6308,Lane.jungle,Role.none
+5,Riot Meekal,Karma,False,Side.red,3,7,14,2.4285714285714284,22,Flash,Exhaust,12,False,9101,8485,Redemption,Ionian Boots of Lucidity,Glacial Shroud,Control Ward,Ruby Sightstone,Frost Queen's Claim,16318,5245,Lane.bot_lane,Role.support
+6,Erry,Caitlyn,False,Side.red,12,8,7,2.375,266,Heal,Flash,15,False,15412,15725,Rapid Firecannon,The Bloodthirster,Berserker's Greaves,Elixir of Wrath,Infinity Edge,Runaan's Hurricane,2774,186483,Lane.bot_lane,Role.carry
+7,Pekin Woof,Orianna,False,Side.red,1,5,11,2.4,194,Flash,Ghost,15,False,10115,8385,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,,108819,14234,Lane.mid_lane,Role.solo
+8,tardzaned,Rumble,False,Side.red,4,9,4,0.8888888888888888,173,Smite,Flash,14,False,10633,10435,Enchantment: Runic Echoes,,Sorcerer's Shoes,Liandry's Torment,Abyssal Scepter,Amplifying Tome,130487,23556,Lane.jungle,Role.none
+9,Rhux,Poppy,False,Side.red,3,6,9,2.0,172,Flash,Teleport,15,False,10037,9250,Corrupting Potion,Sunfire Cape,Giant's Belt,Spirit Visage,Mercury's Treads,Chain Vest,38294,73445,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PAX Twisted Fate,Twisted Fate,False,Side.blue,0,2,0,0.0,8,Exhaust,Flash,6,False,2799,2175,Refillable Potion,Sightstone,Control Ward,Frostfang,Boots of Speed,,5826,2601,Lane.bot_lane,Role.duo
+1,Fàkèr  ,Rengar,False,Side.blue,2,3,1,1.0,71,Ignite,Flash,9,True,4339,4150,Control Ward,Cloth Armor,The Black Cleaver,Boots of Speed,,,3789,21314,Lane.top_lane,Role.solo
+2,Dna shockwave,Cassiopeia,False,Side.blue,1,2,0,0.5,90,Ghost,Flash,8,False,4133,2235,Doran's Ring,Total Biscuit of Rejuvenation,Doran's Ring,Tear of the Goddess,Amplifying Tome,,24555,6819,Lane.mid_lane,Role.solo
+3,CedR1CK GOD,Kha'Zix,False,Side.blue,1,1,0,1.0,54,Flash,Smite,8,False,4114,3150,Enchantment: Warrior,Refillable Potion,Boots of Speed,,,,1498,43305,Lane.jungle,Role.none
+4,PieCakeLord,Vayne,False,Side.blue,0,3,0,0.0,61,Heal,Flash,6,False,3380,2650,Doran's Blade,Doran's Blade,Boots of Speed,B. F. Sword,Health Potion,,0,16207,Lane.bot_lane,Role.duo
+5,ACuteKoreanGirI,Graves,True,Side.red,2,0,1,3.0,91,Smite,Flash,9,False,6375,3425,Enchantment: Warrior,Refillable Potion,Long Sword,Boots of Speed,,,2353,64691,Lane.jungle,Role.none
+6,Indivisible,Caitlyn,True,Side.red,3,0,3,6.0,117,Flash,Heal,9,False,6695,4700,Total Biscuit of Rejuvenation,B. F. Sword,Berserker's Greaves,Doran's Blade,Dagger,Zeal,297,52660,Lane.bot_lane,Role.duo
+7,hashinshin,Jax,True,Side.red,3,3,0,1.0,103,Ghost,Teleport,10,False,6047,5408,Trinity Force,Ninja Tabi,,,,,10444,33592,Lane.top_lane,Role.solo
+8,yungELEF,Ahri,True,Side.red,1,1,0,1.0,86,Ignite,Flash,9,False,5164,3125,Doran's Ring,The Dark Seal,Boots of Speed,Lost Chapter,Control Ward,Fiendish Codex,18899,9892,Lane.mid_lane,Role.solo
+9,SandPaperX,Alistar,True,Side.red,1,0,5,6.0,19,Flash,Exhaust,8,False,4692,3125,Refillable Potion,Sightstone,Boots of Mobility,Relic Shield,Ruby Crystal,Cloth Armor,6472,6252,Lane.bot_lane,Role.duo

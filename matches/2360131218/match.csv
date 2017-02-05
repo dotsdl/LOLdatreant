@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Regular Mid,Maokai,True,Side.blue,1,3,9,3.3333333333333335,139,Flash,Teleport,12,False,8134,7875,Corrupting Potion,Zz'Rot Portal,Control Ward,Sunfire Cape,Null-Magic Mantle,Ninja Tabi,59022,17269,Lane.top_lane,Role.solo
+1,Turc,Karma,True,Side.blue,2,4,12,3.5,11,Exhaust,Flash,10,False,6766,6375,Fiendish Codex,Redemption,Sightstone,Frostfang,Ionian Boots of Lucidity,Control Ward,11118,3664,Lane.bot_lane,Role.support
+2,Klawbro,Ziggs,True,Side.blue,8,4,8,4.0,149,Flash,Ignite,12,False,9498,8800,Doran's Ring,Doran's Ring,Morellonomicon,Rabadon's Deathcap,,Sorcerer's Shoes,70977,7390,Lane.mid_lane,Role.solo
+3,IKingVex,Caitlyn,True,Side.blue,5,3,6,3.6666666666666665,148,Heal,Flash,11,True,8796,8600,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Dagger,Brawler's Gloves,32,68445,Lane.bot_lane,Role.carry
+4,HoNSol0,Hecarim,True,Side.blue,12,0,3,15.0,153,Ghost,Smite,14,False,11471,5658,Skirmisher's Sabre,Refillable Potion,Boots of Speed,Trinity Force,,Ruby Crystal,10756,128238,Lane.jungle,Role.none
+5,Sebi,Fizz,False,Side.red,1,7,1,0.2857142857142857,106,Flash,Ignite,11,False,5947,4720,Corrupting Potion,The Dark Seal,Sheen,Negatron Cloak,Sorcerer's Shoes,Aether Wisp,19792,17147,Lane.mid_lane,Role.solo
+6,Trigger me Sebi,Elise,False,Side.red,4,6,3,1.1666666666666667,79,Smite,Flash,11,False,7337,6960,Refillable Potion,Hextech Protobelt-01,Control Ward,Amplifying Tome,Sorcerer's Shoes,Enchantment: Runic Echoes,58801,24321,Lane.jungle,Role.none
+7,iKryptix,Ashe,False,Side.red,5,4,1,1.5,143,Flash,Heal,11,False,7738,7000,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,Zeal,Infinity Edge,Dagger,1338,64183,Lane.bot_lane,Role.carry
+8,The Honor Man,Renekton,False,Side.red,4,4,3,1.75,148,Flash,Ghost,13,False,7766,7050,Bilgewater Cutlass,Mercury's Treads,Refillable Potion,The Black Cleaver,Recurve Bow,,3728,77191,Lane.top_lane,Role.solo
+9,Hi Im A Sheep,Thresh,False,Side.red,0,7,6,0.8571428571428571,13,Flash,Ignite,8,False,4652,4125,Ruby Sightstone,,Faerie Charm,Crystalline Bracer,Relic Shield,Boots of Mobility,8186,5005,Lane.bot_lane,Role.support

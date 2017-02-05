@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Braums Mustache,Braum,False,Side.blue,0,6,3,0.5,32,Flash,Exhaust,9,False,5061,4925,Boots of Mobility,Sightstone,Face of the Mountain,Cloth Armor,Cloth Armor,,6517,4922,Lane.bot_lane,Role.support
+1,Lukillz,Vi,False,Side.blue,2,6,2,0.6666666666666666,94,Flash,Smite,10,False,6427,6158,Stalker's Blade,Trinity Force,Long Sword,Long Sword,,Boots of Speed,320,71620,Lane.jungle,Role.none
+2,Yed,Swain,False,Side.blue,4,7,3,1.0,102,Flash,Teleport,12,False,7024,5585,Doran's Ring,Rod of Ages,Doran's Ring,Ninja Tabi,Amplifying Tome,Cloth Armor,46460,8810,Lane.top_lane,Role.solo
+3,kyunn,Lee Sin,False,Side.blue,4,9,2,0.6666666666666666,107,Ignite,Flash,12,False,7032,6900,Boots of Swiftness,Caulfield's Warhammer,Sightstone,Maw of Malmortius,Doran's Blade,Long Sword,10506,39101,Lane.mid_lane,Role.solo
+4,Shakno,Ezreal,False,Side.blue,3,8,2,0.625,130,Flash,Heal,10,False,7101,6850,Doran's Blade,Manamune,Vampiric Scepter,Boots of Speed,Iceborn Gauntlet,,7489,58946,Lane.bot_lane,Role.carry
+5,B Gerbz,LeBlanc,True,Side.red,12,1,8,20.0,121,Flash,Ignite,13,False,9792,8860,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Rabadon's Deathcap,Amplifying Tome,,59518,12530,Lane.mid_lane,Role.solo
+6,Gladator,Vayne,True,Side.red,6,3,8,4.666666666666667,145,Heal,Flash,12,False,9594,8400,Doran's Blade,Infinity Edge,,,Berserker's Greaves,Statikk Shiv,4761,69940,Lane.bot_lane,Role.carry
+7,Zackattack,Soraka,True,Side.red,2,1,19,21.0,20,Flash,Exhaust,11,False,7290,6175,,Ionian Boots of Lucidity,Talisman of Ascension,Sightstone,Crystalline Bracer,Forbidden Idol,9161,3462,Lane.bot_lane,Role.support
+8,Snow Day Singed,Elise,True,Side.red,7,2,15,11.0,75,Smite,Flash,12,False,9206,8375,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Sorcerer's Shoes,Glacial Shroud,Cloth Armor,,61001,25905,Lane.jungle,Role.none
+9,johnbonin,Rengar,True,Side.red,9,6,7,2.6666666666666665,153,Teleport,Flash,13,True,9820,7800,Vampiric Scepter,Refillable Potion,The Black Cleaver,Hexdrinker,Caulfield's Warhammer,Ninja Tabi,9413,91122,Lane.top_lane,Role.solo

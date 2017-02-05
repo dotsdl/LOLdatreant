@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AchiIIes Heal,Ahri,True,Side.blue,5,1,3,8.0,110,Flash,Ignite,11,False,7515,6950,,Aether Wisp,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Morellonomicon,35415,10909,Lane.mid_lane,Role.solo
+1,Sìyou,Vayne,True,Side.blue,4,4,5,2.25,101,Flash,Heal,9,False,7582,6975,Doran's Blade,Pickaxe,Cull,B. F. Sword,Berserker's Greaves,Statikk Shiv,3545,43932,Lane.bot_lane,Role.carry
+2,Best Kser FL,Akali,True,Side.blue,4,0,4,8.0,103,Flash,Teleport,11,True,7766,4700,Sorcerer's Shoes,Hextech Gunblade,,,,,18209,40897,Lane.top_lane,Role.solo
+3,SupaIsntAPenguin,Rek'Sai,True,Side.blue,3,2,6,4.5,99,Flash,Smite,10,False,7397,5825,Tiamat,Refillable Potion,Skirmisher's Sabre,Boots of Speed,Ruby Crystal,Zz'Rot Portal,7153,70138,Lane.jungle,Role.none
+4,Zàddy,Janna,True,Side.blue,2,1,10,12.0,11,Flash,Exhaust,9,False,5865,3550,Ruby Sightstone,Control Ward,Ionian Boots of Lucidity,,Spellthief's Edge,Refillable Potion,2395,7933,Lane.bot_lane,Role.support
+5,Oyay,Nautilus,False,Side.red,0,4,5,1.25,19,Flash,Exhaust,8,False,3447,2875,Boots of Mobility,Total Biscuit of Rejuvenation,Sightstone,Targon's Brace,,,6327,3035,Lane.bot_lane,Role.support
+6,Aerotality,Ezreal,False,Side.red,0,3,5,1.6666666666666667,68,Heal,Flash,7,False,4191,3200,Boots of Speed,Sheen,,Tear of the Goddess,Cull,Doran's Blade,2053,18355,Lane.bot_lane,Role.carry
+7,TheOddOrange,Lee Sin,False,Side.red,6,5,1,1.4,54,Flash,Smite,8,False,5751,4875,Tiamat,Enchantment: Warrior,Boots of Mobility,,,,6457,37344,Lane.jungle,Role.none
+8,GOsuperfly,Gangplank,False,Side.red,0,2,1,0.5,87,Teleport,Flash,9,False,4473,3950,Doran's Ring,Sheen,Phage,Total Biscuit of Rejuvenation,Stinger,,3720,39578,Lane.top_lane,Role.solo
+9,Whisper,Viktor,False,Side.red,2,4,2,1.0,89,Ghost,Flash,9,False,4968,3995,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Doran's Ring,Doran's Ring,Negatron Cloak,The Hex Core mk-1,26001,7045,Lane.mid_lane,Role.solo

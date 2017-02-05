@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nash,Sona,True,Side.blue,6,7,7,1.8571428571428572,153,Teleport,Flash,14,False,10644,8975,Rod of Ages,Athene's Unholy Grail,Ardent Censer,Tear of the Goddess,,Ionian Boots of Lucidity,51189,29320,Lane.top_lane,Role.solo
+1,xTc4,Karma,True,Side.blue,2,0,17,19.0,26,Flash,Exhaust,13,False,9586,8475,Righteous Glory,Locket of the Iron Solari,Eye of the Watchers,Null-Magic Mantle,Ionian Boots of Lucidity,,22846,7291,Lane.bot_lane,Role.support
+2,Gweiss,Vi,True,Side.blue,3,4,6,2.25,167,Smite,Flash,15,False,11181,10158,Enchantment: Warrior,Ninja Tabi,Trinity Force,Hexdrinker,Caulfield's Warhammer,,1675,169399,Lane.jungle,Role.none
+3,Wazabiee,LeBlanc,True,Side.blue,11,3,10,7.0,192,Ignite,Flash,15,False,13176,12150,Rylai's Crystal Scepter,Doran's Ring,Needlessly Large Rod,Morellonomicon,Void Staff,Sorcerer's Shoes,119039,8170,Lane.mid_lane,Role.solo
+4,DumPooPoo,Lucian,True,Side.blue,6,2,9,7.5,210,Heal,Flash,15,False,12159,9780,Doran's Blade,B. F. Sword,Berserker's Greaves,The Black Cleaver,Phantom Dancer,Pickaxe,3968,130628,Lane.bot_lane,Role.carry
+5,feud999,Kha'Zix,False,Side.red,6,6,0,1.0,127,Flash,Smite,14,False,9779,9525,Tiamat,Duskblade of Draktharr,Enchantment: Warrior,Boots of Mobility,Caulfield's Warhammer,Control Ward,3549,105165,Lane.jungle,Role.none
+6,No Speak Inglish,Ziggs,False,Side.red,1,5,4,1.0,214,Teleport,Flash,14,False,9532,8810,Doran's Ring,Lost Chapter,Sorcerer's Shoes,Doran's Ring,Abyssal Scepter,Rod of Ages,112242,16611,Lane.mid_lane,Role.solo
+7,Cuckvele,Fiora,False,Side.red,9,4,2,2.75,190,Flash,Teleport,15,True,11607,11675,Doran's Blade,The Black Cleaver,Ninja Tabi,Hexdrinker,Quicksilver Sash,Titanic Hydra,2207,97267,Lane.top_lane,Role.solo
+8,Filly,Soraka,False,Side.red,0,6,5,0.8333333333333334,6,Flash,Exhaust,10,False,5977,5775,Control Ward,,Eye of the Oasis,Redemption,,Ionian Boots of Lucidity,3226,958,Lane.bot_lane,Role.support
+9,Omnic1de,Jhin,False,Side.red,0,7,1,0.14285714285714285,181,Flash,Heal,12,False,8169,7600,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,,,1522,97158,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,swordstoo,Caitlyn,False,Side.blue,3,9,5,0.8888888888888888,202,Heal,Flash,13,False,10673,9550,Cull,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Vampiric Scepter,Doran's Blade,1876,123338,Lane.bot_lane,Role.carry
+1,Enharmonics,Nidalee,False,Side.blue,7,8,5,1.5,126,Smite,Flash,13,True,10185,9850,Enchantment: Runic Echoes,Zhonya's Hourglass,Refillable Potion,Rylai's Crystal Scepter,Ionian Boots of Lucidity,,108320,16054,Lane.jungle,Role.none
+2,Rosarium,Lulu,False,Side.blue,2,5,8,2.0,17,Exhaust,Flash,11,False,7813,7470,Redemption,Eye of the Watchers,Boots of Mobility,Glacial Shroud,Amplifying Tome,Amplifying Tome,8976,3776,Lane.bot_lane,Role.support
+3,Z3P,Poppy,False,Side.blue,1,5,5,1.2,148,Flash,Teleport,13,False,8493,8025,Ninja Tabi,Corrupting Potion,Sunfire Cape,Spirit Visage,Cloth Armor,Sapphire Crystal,28461,69082,Lane.top_lane,Role.solo
+4,Utatane Piko,Ezreal,False,Side.blue,6,7,2,1.1428571428571428,139,Ghost,Flash,13,False,9187,8210,Doran's Ring,Morellonomicon,Lich Bane,Sorcerer's Shoes,Amplifying Tome,,36191,50504,Lane.mid_lane,Role.solo
+5,Epyx,Lee Sin,True,Side.red,8,5,15,4.6,108,Flash,Smite,15,False,12088,10250,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,,Maw of Malmortius,Ninja Tabi,24777,107606,Lane.jungle,Role.none
+6,Wazabiee,LeBlanc,True,Side.red,12,5,6,3.6,165,Ignite,Flash,15,False,12975,11025,Rylai's Crystal Scepter,Abyssal Scepter,Morellonomicon,The Dark Seal,,Sorcerer's Shoes,104254,10071,Lane.mid_lane,Role.solo
+7,Wynaan,Nami,True,Side.red,2,3,18,6.666666666666667,7,Exhaust,Flash,14,False,9354,6625,Eye of the Watchers,Aether Wisp,Control Ward,Boots of Swiftness,,Redemption,9499,5551,Lane.bot_lane,Role.support
+8,Will Schleicher,Vayne,True,Side.red,8,2,7,7.5,171,Flash,Heal,14,False,12312,11475,Infinity Edge,Vampiric Scepter,Berserker's Greaves,Control Ward,Phantom Dancer,Statikk Shiv,9586,90343,Lane.bot_lane,Role.carry
+9,THE RING BEARER,Darius,True,Side.red,4,4,7,2.75,206,Teleport,Flash,15,False,11716,14175,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,129,130149,Lane.top_lane,Role.solo

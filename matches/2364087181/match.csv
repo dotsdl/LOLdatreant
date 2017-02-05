@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BraveLimitao,Soraka,True,Side.blue,0,5,13,2.6,13,Exhaust,Flash,12,False,9067,7600,Talisman of Ascension,Mercury's Treads,Redemption,Null-Magic Mantle,The Dark Seal,Sightstone,5435,4657,Lane.bot_lane,Role.support
+1,AD LFT,Ashe,True,Side.blue,1,3,2,1.0,163,Flash,Heal,13,False,9481,7400,Berserker's Greaves,Cull,Doran's Blade,Infinity Edge,Zeal,Dagger,1377,106127,Lane.bot_lane,Role.carry
+2,Please Enjoy,Yasuo,True,Side.blue,2,7,5,1.0,119,Teleport,Flash,12,False,8966,8425,Mercury's Treads,Infinity Edge,Ruby Crystal,Phantom Dancer,,,18107,64347,Lane.top_lane,Role.solo
+3,XJ10,Rek'Sai,True,Side.blue,10,0,9,19.0,203,Smite,Flash,15,False,14378,12350,Zz'Rot Portal,Tiamat,Redemption,Knight's Vow,Enchantment: Cinderhulk,Ninja Tabi,30440,118505,Lane.jungle,Role.none
+4,Selkie,Taliyah,True,Side.blue,11,1,3,14.0,120,Flash,Ghost,14,True,11305,8520,Doran's Ring,Rylai's Crystal Scepter,Negatron Cloak,Sorcerer's Shoes,Morellonomicon,,75629,14423,Lane.mid_lane,Role.solo
+5,bonkae1,LeBlanc,False,Side.red,4,5,6,2.0,134,Flash,Ignite,13,False,8273,7470,Negatron Cloak,Needlessly Large Rod,Fiendish Codex,Doran's Ring,Morellonomicon,Sorcerer's Shoes,69278,8350,Lane.mid_lane,Role.solo
+6,LiamNeison,Vayne,False,Side.red,1,4,1,0.5,175,Heal,Flash,11,False,7726,7275,Statikk Shiv,Pickaxe,Doran's Blade,Berserker's Greaves,Cloak of Agility,B. F. Sword,14724,57665,Lane.bot_lane,Role.carry
+7,IQ is 201 ,Lee Sin,False,Side.red,4,9,4,0.8888888888888888,92,Flash,Smite,11,False,7640,6750,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Mobility,Giant's Belt,Chain Vest,11384,69100,Lane.jungle,Role.none
+8,longdongsi1ver69,Jayce,False,Side.red,7,4,2,2.25,121,Flash,Teleport,12,False,8873,8300,Youmuu's Ghostblade,Doran's Blade,Ionian Boots of Lucidity,The Black Cleaver,Vampiric Scepter,,10371,64052,Lane.top_lane,Role.solo
+9,abandoned by God,Karma,False,Side.red,0,2,4,2.0,18,Flash,Exhaust,10,False,6111,5025,Sightstone,Frost Queen's Claim,Boots of Swiftness,Ruby Crystal,,,18003,2757,Lane.bot_lane,Role.support

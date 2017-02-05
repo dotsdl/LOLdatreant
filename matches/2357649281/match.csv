@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sweet Gorilla,Morgana,True,Side.blue,1,4,15,4.0,12,Exhaust,Flash,12,False,9877,7675,Frost Queen's Claim,Sightstone,Total Biscuit of Rejuvenation,Boots of Mobility,Zeke's Harbinger,Seeker's Armguard,17393,6186,Lane.bot_lane,Role.support
+1,Sorá,Twitch,True,Side.blue,13,5,6,3.8,206,Heal,Flash,15,True,16212,13930,Runaan's Hurricane,Infinity Edge,Statikk Shiv,Lord Dominik's Regards,Berserker's Greaves,,16288,157188,Lane.bot_lane,Role.carry
+2,JeezyTheSnowMan,Anivia,True,Side.blue,4,2,3,3.5,230,Teleport,Flash,17,False,13010,9875,Needlessly Large Rod,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Rod of Ages,Tear of the Goddess,Luden's Echo,149473,13881,Lane.top_lane,Role.solo
+3,Dust Neay,Nocturne,True,Side.blue,2,5,14,3.2,130,Smite,Flash,15,False,11731,11675,Youmuu's Ghostblade,Ravenous Hydra,Zeal,Ionian Boots of Lucidity,Enchantment: Bloodrazor,Dagger,9315,148627,Lane.jungle,Role.none
+4,Hi Im QiaoSusu,Syndra,True,Side.blue,4,7,6,1.4285714285714286,199,Flash,Ghost,14,False,11824,11500,Rylai's Crystal Scepter,Void Staff,Ionian Boots of Lucidity,Morellonomicon,Seeker's Armguard,Doran's Ring,121878,12687,Lane.mid_lane,Role.solo
+5,What Lies Below,Zed,False,Side.red,4,3,3,2.3333333333333335,162,Flash,Ignite,14,False,9566,8875,Maw of Malmortius,Mercury's Treads,Edge of Night,Serrated Dirk,,,5487,89615,Lane.mid_lane,Role.solo
+6,Boosted Buns 69,Lucian,False,Side.red,1,7,5,0.8571428571428571,200,Flash,Heal,13,False,9708,9625,Doran's Blade,Essence Reaver,Rapid Firecannon,Hexdrinker,,Berserker's Greaves,6755,109000,Lane.bot_lane,Role.duo
+7,Hècarim,Hecarim,False,Side.red,9,7,8,2.4285714285714284,121,Smite,Ghost,14,False,11233,10083,Warden's Mail,Hunter's Potion,Giant's Belt,Ninja Tabi,Trinity Force,Enchantment: Cinderhulk,20355,98202,Lane.jungle,Role.none
+8,LMQ Tc Alex,Braum,False,Side.red,1,2,15,8.0,52,Exhaust,Flash,13,False,8360,7375,Redemption,Refillable Potion,Face of the Mountain,Ruby Sightstone,,Mercury's Treads,9356,6416,Lane.bot_lane,Role.duo
+9,Rènekton,Renekton,False,Side.red,8,5,8,3.2,233,Flash,Teleport,15,False,12425,11025,Randuin's Omen,Chain Vest,,Mercury's Treads,The Black Cleaver,Spirit Visage,6814,139093,Lane.top_lane,Role.solo

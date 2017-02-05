@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cute pupper irl,Bard,True,Side.blue,3,4,15,4.5,8,Flash,Ignite,12,False,8917,8275,Sorcerer's Shoes,Eye of the Watchers,Lich Bane,Serrated Dirk,Control Ward,,12534,7765,Lane.bot_lane,Role.support
+1,THE Benb,Corki,True,Side.blue,8,3,12,6.666666666666667,127,Heal,Flash,13,False,10917,10533,Pickaxe,B. F. Sword,Sorcerer's Shoes,Rapid Firecannon,Trinity Force,Doran's Blade,59932,23660,Lane.bot_lane,Role.carry
+2,Yassuo,Yasuo,True,Side.blue,18,6,8,4.333333333333333,150,Flash,Ignite,15,False,13751,14125,Quicksilver Sash,The Bloodthirster,Infinity Edge,,Ninja Tabi,Phantom Dancer,26881,109436,Lane.mid_lane,Role.solo
+3,Huhi Lite,Lee Sin,True,Side.blue,6,8,11,2.125,176,Smite,Flash,15,False,12274,12000,Tiamat,Enchantment: Warrior,Youmuu's Ghostblade,Dead Man's Plate,Boots of Swiftness,Phage,23412,145904,Lane.jungle,Role.none
+4,Adrian Riven,Riven,True,Side.blue,4,1,8,12.0,171,Teleport,Flash,14,True,10711,10125,Youmuu's Ghostblade,Long Sword,Quicksilver Sash,Doran's Shield,Duskblade of Draktharr,Ninja Tabi,0,99255,Lane.top_lane,Role.solo
+5,Sînner,Renekton,False,Side.red,4,5,5,1.8,167,Flash,Teleport,14,False,9385,9125,Tiamat,Randuin's Omen,Ninja Tabi,Doran's Blade,The Black Cleaver,,4241,94799,Lane.top_lane,Role.solo
+6,feed l0rd,Vayne,False,Side.red,7,8,8,1.875,185,Flash,Heal,14,False,11289,10200,Zeal,Infinity Edge,Berserker's Greaves,Doran's Blade,,Statikk Shiv,22045,75506,Lane.bot_lane,Role.carry
+7,7788 ADC,Graves,False,Side.red,7,9,2,1.0,167,Smite,Flash,13,False,10343,10300,The Black Cleaver,Youmuu's Ghostblade,Enchantment: Warrior,Berserker's Greaves,,,2503,116279,Lane.jungle,Role.none
+8,Pocket Rhino,Thresh,False,Side.red,2,6,15,2.8333333333333335,20,Flash,Exhaust,13,False,6992,6600,Refillable Potion,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Boots of Mobility,Forbidden Idol,11281,3856,Lane.bot_lane,Role.support
+9,1936 1948,Karma,False,Side.red,1,11,12,1.1818181818181819,103,Teleport,Flash,12,False,7465,6800,Doran's Ring,Ionian Boots of Lucidity,Fiendish Codex,Ardent Censer,Redemption,,50564,8537,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Huhi,Lee Sin,True,Side.blue,11,5,9,4.0,119,Flash,Smite,14,False,11819,9975,Enchantment: Warrior,Tiamat,Chain Vest,Giant's Belt,The Black Cleaver,Mercury's Treads,22961,102207,Lane.jungle,Role.none
+1,PutYourHeartsUp,Maokai,True,Side.blue,6,1,10,16.0,164,Flash,Teleport,14,False,10325,8750,Doran's Ring,Doran's Ring,Spectre's Cowl,Frozen Heart,Sunfire Cape,Boots of Swiftness,80146,17240,Lane.top_lane,Role.solo
+2,Abou222,LeBlanc,True,Side.blue,6,4,8,3.5,135,Ignite,Flash,13,True,10064,9285,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,,64734,12199,Lane.mid_lane,Role.solo
+3,Jeehun,Ezreal,True,Side.blue,13,1,10,23.0,153,Flash,Heal,13,False,12738,10700,Blade of the Ruined King,Iceborn Gauntlet,Null-Magic Mantle,Muramana,Doran's Blade,Ionian Boots of Lucidity,14131,99162,Lane.bot_lane,Role.carry
+4,Hi Im A Sheep,Thresh,True,Side.blue,3,2,22,12.5,26,Flash,Ignite,12,False,8853,6975,Ruby Sightstone,Redemption,Control Ward,Targon's Brace,Kindlegem,Boots of Mobility,10562,9366,Lane.bot_lane,Role.support
+5,Doublelift,Corki,False,Side.red,6,7,2,1.1428571428571428,170,Flash,Heal,12,False,9757,9233,Doran's Blade,Hextech Gunblade,,Berserker's Greaves,,Trinity Force,67311,19552,Lane.bot_lane,Role.carry
+6,Keegun,Pantheon,False,Side.red,1,8,8,1.125,39,Flash,Ignite,10,False,6859,6600,Relic Shield,Edge of Night,Sightstone,Ionian Boots of Lucidity,Last Whisper,,3934,18118,Lane.bot_lane,Role.support
+7,FIoopie,Jayce,False,Side.red,4,9,4,0.8888888888888888,136,Flash,Teleport,12,False,8381,7500,Doran's Blade,Caulfield's Warhammer,Long Sword,Maw of Malmortius,Phage,Boots of Swiftness,10513,61736,Lane.mid_lane,Role.solo
+8,Maxtrobo,Jax,False,Side.red,1,9,0,0.1111111111111111,164,Flash,Teleport,12,False,8377,7300,Sheen,Hextech Gunblade,Corrupting Potion,Mercury's Treads,Phage,,23165,67876,Lane.top_lane,Role.solo
+9,TheOddOrange,Kha'Zix,False,Side.red,1,6,4,0.8333333333333334,134,Flash,Smite,12,False,8336,8100,Enchantment: Warrior,Youmuu's Ghostblade,Mercury's Treads,Serrated Dirk,,,3667,102609,Lane.jungle,Role.none

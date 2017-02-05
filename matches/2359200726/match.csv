@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwistyJuker,Irelia,True,Side.blue,6,2,4,5.0,153,Flash,Teleport,13,False,9694,8183,Youmuu's Ghostblade,Corrupting Potion,Boots of Speed,Dagger,Dagger,Trinity Force,948,69130,Lane.top_lane,Role.solo
+1,MrHitchens,Jhin,True,Side.blue,3,1,3,6.0,132,Heal,Flash,11,False,8174,6575,Essence Reaver,Cull,Boots of Speed,Zeal,Doran's Blade,Dagger,1157,66173,Lane.bot_lane,Role.carry
+2,chakhae,Orianna,True,Side.blue,11,4,4,3.75,165,Flash,Barrier,14,True,11535,8550,Refillable Potion,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,,106131,18724,Lane.mid_lane,Role.solo
+3,Curious Gengar,Blitzcrank,True,Side.blue,1,3,8,3.0,22,Flash,Exhaust,10,False,5978,4800,Aegis of the Legion,,Ruby Sightstone,Null-Magic Mantle,Ancient Coin,Boots of Swiftness,8655,7289,Lane.bot_lane,Role.support
+4,Dodge Lamb,Kindred,True,Side.blue,6,2,4,5.0,90,Flash,Smite,12,False,8149,7275,Berserker's Greaves,Refillable Potion,Blade of the Ruined King,Enchantment: Bloodrazor,,,3166,81158,Lane.jungle,Role.none
+5,Poxiel,Lee Sin,False,Side.red,3,9,2,0.5555555555555556,65,Smite,Flash,10,False,6196,5225,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,,,12569,47825,Lane.jungle,Role.none
+6,Leos sadness,Kayle,False,Side.red,3,4,2,1.25,136,Ghost,Flash,12,False,7021,6633,Recurve Bow,,,Berserker's Greaves,Trinity Force,Doran's Ring,41754,21056,Lane.top_lane,Role.solo
+7,Skymark,Syndra,False,Side.red,3,7,3,0.8571428571428571,131,Flash,Teleport,12,False,7098,6500,Doran's Ring,Needlessly Large Rod,Morellonomicon,Doran's Ring,Boots of Speed,Giant's Belt,51795,7582,Lane.mid_lane,Role.solo
+8,Ginjer,Sivir,False,Side.red,1,2,2,1.5,113,Flash,Heal,9,False,6055,5250,Doran's Blade,Essence Reaver,Total Biscuit of Rejuvenation,Boots of Speed,Dagger,Dagger,0,44526,Lane.bot_lane,Role.carry
+9,OneDayToChange,Alistar,False,Side.red,2,5,3,1.0,39,Flash,Exhaust,10,False,5449,5150,Sightstone,Refillable Potion,Face of the Mountain,Control Ward,Kindlegem,Boots of Mobility,9837,5020,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,D0NG0,LeBlanc,True,Side.blue,7,6,3,1.6666666666666667,217,Ignite,Flash,16,False,12914,10885,Void Staff,Zhonya's Hourglass,The Dark Seal,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,122591,13530,Lane.top_lane,Role.solo
+1,1936 1948,Shaco,True,Side.blue,6,0,5,11.0,204,Smite,Ignite,17,False,15070,14050,Titanic Hydra,Enchantment: Warrior,Hextech Gunblade,Duskblade of Draktharr,,Boots of Mobility,38137,184343,Lane.jungle,Role.none
+2,Garani,Lucian,True,Side.blue,7,1,6,13.0,250,Heal,Flash,16,False,14298,12900,Doran's Blade,Essence Reaver,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Last Whisper,8277,183794,Lane.bot_lane,Role.carry
+3,Twitch FateFalls,Fizz,True,Side.blue,4,2,6,5.0,229,Flash,Ignite,17,True,12880,11775,Zhonya's Hourglass,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rod of Ages,Sheen,112245,29304,Lane.mid_lane,Role.solo
+4,Spooke,Janna,True,Side.blue,1,0,13,14.0,26,Flash,Ignite,13,False,10231,9150,Redemption,Control Ward,Talisman of Ascension,Ruby Sightstone,Ionian Boots of Lucidity,Forbidden Idol,9523,6843,Lane.bot_lane,Role.support
+5,Yumika,Nasus,False,Side.red,3,4,2,1.25,237,Flash,Ghost,14,False,11601,11050,Frost Queen's Claim,Luden's Echo,Ionian Boots of Lucidity,Mejai's Soulstealer,Zz'Rot Portal,,124893,19540,Lane.mid_lane,Role.solo
+6,aphromoo,Nami,False,Side.red,1,5,7,1.6,10,Exhaust,Flash,13,False,7640,6800,Ruby Sightstone,Redemption,Spellthief's Edge,Control Ward,Boots of Mobility,Aegis of the Legion,7587,4410,Lane.bot_lane,Role.support
+7,Link,Caitlyn,False,Side.red,4,7,2,0.8571428571428571,302,Flash,Heal,16,False,12489,11875,The Bloodthirster,Dagger,Berserker's Greaves,Infinity Edge,Statikk Shiv,Doran's Blade,48017,189900,Lane.bot_lane,Role.carry
+8,Alex BIais,Lee Sin,False,Side.red,0,6,3,0.5,113,Smite,Flash,13,False,8231,7650,Mercury's Treads,Pickaxe,Sightstone,Enchantment: Warrior,Serrated Dirk,Long Sword,16285,78168,Lane.jungle,Role.none
+9,AtoQAto,Malphite,False,Side.red,1,3,2,1.0,167,Teleport,Flash,14,False,8473,8100,Doran's Shield,Corrupting Potion,Abyssal Scepter,Sorcerer's Shoes,Iceborn Gauntlet,Ruby Crystal,42549,31983,Lane.top_lane,Role.solo

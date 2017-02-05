@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cat Person,Annie,True,Side.blue,7,7,3,1.4285714285714286,153,Flash,Ignite,14,True,11169,10560,Abyssal Scepter,Zhonya's Hourglass,Doran's Ring,Needlessly Large Rod,Amplifying Tome,Sorcerer's Shoes,74934,9545,Lane.mid_lane,Role.solo
+1,Falco Mechanic,Jinx,True,Side.blue,5,9,5,1.1111111111111112,193,Exhaust,Flash,13,False,11862,9600,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Long Sword,1302,144486,Lane.bot_lane,Role.carry
+2,The Honor Man,Renekton,True,Side.blue,7,5,8,3.0,218,Flash,Ghost,16,False,13259,11400,Titanic Hydra,Refillable Potion,Blade of the Ruined King,Ninja Tabi,The Black Cleaver,,4730,141238,Lane.top_lane,Role.solo
+3,Y8Y,Janna,True,Side.blue,0,4,10,2.5,7,Flash,Heal,12,False,7933,6375,Eye of the Oasis,Redemption,Control Ward,,Ionian Boots of Lucidity,Chalice of Harmony,3790,3408,Lane.bot_lane,Role.support
+4,Ouchxiao,Lee Sin,True,Side.blue,7,5,3,2.0,110,Flash,Smite,14,False,11038,9275,Enchantment: Warrior,Refillable Potion,Tiamat,Boots of Mobility,The Black Cleaver,Hexdrinker,19395,100881,Lane.jungle,Role.none
+5,xKiWi,Tristana,False,Side.red,5,4,6,2.75,163,Flash,Heal,13,False,10264,10200,Doran's Blade,Infinity Edge,Rapid Firecannon,Cloak of Agility,Caulfield's Warhammer,B. F. Sword,21472,81183,Lane.bot_lane,Role.carry
+6,PutYourHeartsUp,Nami,False,Side.red,4,2,18,11.0,5,Exhaust,Flash,12,False,9473,8935,Control Ward,Amplifying Tome,Eye of the Watchers,Ardent Censer,Athene's Unholy Grail,Boots of Swiftness,14386,5326,Lane.bot_lane,Role.support
+7,RumbleMidGGnoRE,Rumble,False,Side.red,5,4,12,4.25,134,Smite,Flash,14,False,10497,9650,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,,Void Staff,Zhonya's Hourglass,106819,23985,Lane.jungle,Role.none
+8,Pht,Katarina,False,Side.red,9,10,2,1.1,154,Ignite,Flash,14,False,10778,11145,Blasting Wand,Hextech Gunblade,Liandry's Torment,Sorcerer's Shoes,Needlessly Large Rod,,90505,12272,Lane.mid_lane,Role.solo
+9,TwitchChunkylol,Kled,False,Side.red,7,6,5,2.0,167,Ignite,Flash,15,False,10611,9550,Ravenous Hydra,Ninja Tabi,The Black Cleaver,Jaurim's Fist,Long Sword,,413,97100,Lane.top_lane,Role.solo

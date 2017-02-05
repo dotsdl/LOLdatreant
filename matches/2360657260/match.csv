@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yusui,Karma,True,Side.blue,2,6,15,2.8333333333333335,21,Ignite,Flash,14,False,10911,9500,Frost Queen's Claim,Redemption,Mikael's Crucible,Ruby Sightstone,Ionian Boots of Lucidity,Control Ward,19946,8108,Lane.bot_lane,Role.support
+1,Santa Quas,Illaoi,True,Side.blue,5,4,8,3.25,240,Teleport,Flash,17,False,13945,11850,The Black Cleaver,Corrupting Potion,Ninja Tabi,Sterak's Gage,Death's Dance,Sheen,2853,217181,Lane.top_lane,Role.solo
+2,Doublelift,Corki,True,Side.blue,14,4,3,4.25,255,Flash,Heal,17,False,16804,14283,Doran's Blade,Hextech Gunblade,Zeal,Berserker's Greaves,Infinity Edge,Trinity Force,147549,64854,Lane.bot_lane,Role.carry
+3,Rhux,Syndra,True,Side.blue,12,4,6,4.5,251,Flash,Ghost,17,False,15235,11175,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,Void Staff,174016,12941,Lane.mid_lane,Role.solo
+4,Adrian Riven,Riven,True,Side.blue,6,8,7,1.625,163,Smite,Flash,16,False,12318,10900,Youmuu's Ghostblade,Refillable Potion,Boots of Swiftness,Enchantment: Warrior,Duskblade of Draktharr,Long Sword,956,146803,Lane.jungle,Role.none
+5,SandPaperX,Tahm Kench,False,Side.red,2,4,8,2.5,40,Flash,Exhaust,13,False,8178,7725,Control Ward,Ruby Sightstone,Redemption,Relic Shield,Boots of Swiftness,Locket of the Iron Solari,16332,4209,Lane.bot_lane,Role.support
+6,Huhi,Katarina,False,Side.red,9,9,6,1.6666666666666667,227,Flash,Ignite,16,False,13281,12650,Refillable Potion,Blasting Wand,Banshee's Veil,Rylai's Crystal Scepter,Rabadon's Deathcap,Sorcerer's Shoes,134452,9822,Lane.mid_lane,Role.solo
+7,Témpest,Yorick,False,Side.red,4,7,5,1.2857142857142858,248,Flash,Teleport,16,False,11891,11508,Sterak's Gage,Zz'Rot Portal,Control Ward,Mercury's Treads,Kindlegem,Trinity Force,17919,118691,Lane.top_lane,Role.solo
+8,FZ3R0,Twitch,False,Side.red,6,10,4,1.0,200,Flash,Heal,14,True,11513,11300,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Phantom Dancer,Dagger,0,97818,Lane.bot_lane,Role.carry
+9,McCashDollar,Shaco,False,Side.red,5,9,6,1.2222222222222223,69,Ignite,Smite,13,False,9798,9450,Tiamat,Zhonya's Hourglass,Control Ward,Ruby Sightstone,Ionian Boots of Lucidity,Enchantment: Runic Echoes,31893,31876,Lane.jungle,Role.none

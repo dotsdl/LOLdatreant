@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ðad,Twisted Fate,False,Side.blue,6,9,2,0.8888888888888888,125,Ghost,Flash,12,False,8511,8760,Ionian Boots of Lucidity,Hextech GLP-800,Lich Bane,Amplifying Tome,,The Dark Seal,64923,10831,Lane.jungle,Role.none
+1,Mirolla,Poppy,False,Side.blue,3,5,3,1.2,125,Flash,Teleport,11,False,7432,7375,Mercury's Treads,Sunfire Cape,Spirit Visage,Corrupting Potion,,,17172,45635,Lane.top_lane,Role.solo
+2,KarasMai,Graves,False,Side.blue,5,7,3,1.1428571428571428,134,Flash,Smite,12,False,8573,8225,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Mercury's Treads,Hexdrinker,Long Sword,3928,92736,Lane.jungle,Role.none
+3,Ifkinluvpeaches,Alistar,False,Side.blue,1,8,10,1.375,12,Ignite,Flash,9,False,5635,5375,Face of the Mountain,Sightstone,Boots of Mobility,Kindlegem,Ruby Crystal,,6010,1923,Lane.bot_lane,Role.support
+4,PhD Wumbologist,Caitlyn,False,Side.blue,3,4,1,1.0,154,Flash,Heal,11,False,7664,7425,Boots of Speed,Doran's Blade,Infinity Edge,Dagger,Runaan's Hurricane,Control Ward,211,73478,Lane.bot_lane,Role.carry
+5,Dyrus,Blitzcrank,True,Side.red,1,5,11,2.4,124,Teleport,Flash,12,False,7738,7500,Redemption,Corrupting Potion,Mercury's Treads,Iceborn Gauntlet,Aegis of the Legion,,20747,33308,Lane.top_lane,Role.solo
+6,Nedo,Morgana,True,Side.red,1,2,16,8.5,10,Exhaust,Flash,11,False,7249,6725,Eye of the Watchers,Refillable Potion,Boots of Mobility,Redemption,Chalice of Harmony,Control Ward,9592,4270,Lane.bot_lane,Role.support
+7,Ninjacrab,Vi,True,Side.red,7,3,5,4.0,99,Flash,Smite,13,False,9115,8983,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,Giant's Belt,Cloth Armor,1022,101547,Lane.jungle,Role.none
+8,Iing,Jhin,True,Side.red,2,5,3,1.0,136,Flash,Heal,12,False,8109,5850,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Zeal,,,2588,77558,Lane.bot_lane,Role.carry
+9,My Kat Evolved,Katarina,True,Side.red,22,3,4,8.666666666666666,132,Ignite,Flash,14,True,13152,9810,The Dark Seal,Rylai's Crystal Scepter,Hextech Gunblade,Blasting Wand,Amplifying Tome,Sorcerer's Shoes,93397,15033,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,oopa,Viktor,True,Side.blue,2,3,3,1.6666666666666667,210,Flash,Ghost,15,False,10789,9350,Perfect Hex Core,Refillable Potion,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,Ionian Boots of Lucidity,115279,8560,Lane.mid_lane,Role.solo
+1,Hakuho,Lulu,True,Side.blue,3,5,11,2.8,14,Ignite,Flash,13,False,9339,8500,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Ardent Censer,,,12654,4732,Lane.bot_lane,Role.support
+2,Cody Sun,Caitlyn,True,Side.blue,10,3,7,5.666666666666667,273,Heal,Flash,16,False,15294,13300,Infinity Edge,Quicksilver Sash,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,5591,191767,Lane.bot_lane,Role.carry
+3,CloudNguyén,Lee Sin,True,Side.blue,7,4,10,4.25,106,Smite,Flash,15,False,11281,9975,Enchantment: Warrior,Tiamat,Hexdrinker,Guardian Angel,Boots of Swiftness,Caulfield's Warhammer,13928,92635,Lane.jungle,Role.none
+4,Riesig,Jarvan IV,True,Side.blue,1,8,2,0.375,197,Flash,Teleport,14,False,10534,10525,Corrupting Potion,Spirit Visage,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,,30302,88160,Lane.top_lane,Role.solo
+5,mulgokizary,Olaf,False,Side.red,3,3,2,1.6666666666666667,154,Smite,Ghost,13,False,9282,8925,Righteous Glory,Locket of the Iron Solari,Hunter's Potion,Enchantment: Cinderhulk,Ionian Boots of Lucidity,,19218,101490,Lane.jungle,Role.none
+6,Liquid Matt,Bard,False,Side.red,0,5,7,1.4,18,Exhaust,Flash,11,False,6559,5825,Redemption,Boots of Mobility,Eye of the Watchers,,Control Ward,,13701,2650,Lane.bot_lane,Role.support
+7,aphromoo,Ashe,False,Side.red,1,7,8,1.2857142857142858,138,Heal,Flash,13,False,8376,7725,Doran's Blade,Recurve Bow,Essence Reaver,Berserker's Greaves,Pickaxe,Dagger,1505,77493,Lane.bot_lane,Role.carry
+8,Révenge,Jayce,False,Side.red,9,4,3,3.0,192,Teleport,Flash,15,False,11404,11500,B. F. Sword,Vampiric Scepter,Hexdrinker,The Black Cleaver,Lord Dominik's Regards,Ninja Tabi,19132,120622,Lane.top_lane,Role.solo
+9,cesuna,Katarina,False,Side.red,10,4,2,3.0,186,Flash,Ignite,15,True,11266,11025,Hextech Gunblade,Giant's Belt,Haunting Guise,Sorcerer's Shoes,Luden's Echo,The Dark Seal,101457,17370,Lane.mid_lane,Role.solo

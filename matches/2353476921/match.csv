@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dodge Lamb,Fizz,False,Side.blue,6,8,3,1.125,177,Flash,Ignite,13,False,9749,9550,Sorcerer's Shoes,Morellonomicon,Lich Bane,Doran's Ring,Fiendish Codex,Null-Magic Mantle,70699,28643,Lane.mid_lane,Role.solo
+1,Aint Random,Renekton,False,Side.blue,4,7,6,1.4285714285714286,139,Flash,Ignite,14,False,9655,9575,Ninja Tabi,Titanic Hydra,The Black Cleaver,Chain Vest,Ruby Crystal,,3352,84502,Lane.top_lane,Role.solo
+2,NayvadiusWilburn,Corki,False,Side.blue,11,4,7,4.5,171,Flash,Heal,14,False,11703,11333,Doran's Blade,Hextech Gunblade,Sorcerer's Shoes,Trinity Force,Rapid Firecannon,,76096,29259,Lane.bot_lane,Role.carry
+3,WT Spectator,Lee Sin,False,Side.blue,4,5,12,3.2,119,Flash,Smite,14,False,9782,9750,Boots of Mobility,Dead Man's Plate,The Black Cleaver,Enchantment: Warrior,,,19062,88077,Lane.jungle,Role.none
+4,bae af,Morgana,False,Side.blue,1,7,14,2.142857142857143,17,Exhaust,Flash,11,False,8046,7400,Sightstone,Zhonya's Hourglass,Forbidden Idol,Boots of Mobility,Frostfang,Crystalline Bracer,17969,3918,Lane.bot_lane,Role.support
+5,Vir7ue,Maokai,True,Side.red,3,5,15,3.6,164,Flash,Teleport,15,True,10723,8700,Doran's Ring,Frozen Heart,Doran's Ring,Ninja Tabi,Spirit Visage,Bami's Cinder,88186,15646,Lane.top_lane,Role.solo
+6,Asrye,Janna,True,Side.red,1,5,17,3.6,19,Exhaust,Flash,12,False,8618,7590,Mejai's Soulstealer,Redemption,Ionian Boots of Lucidity,Crystalline Bracer,Spellthief's Edge,Ruby Sightstone,7724,6196,Lane.bot_lane,Role.support
+7,05 07 2009,Vayne,True,Side.red,6,8,7,1.625,186,Heal,Flash,14,False,11503,9400,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Zeal,Dagger,21352,91384,Lane.bot_lane,Role.carry
+8,MyTeamSoGOD,Graves,True,Side.red,9,4,12,5.25,143,Smite,Flash,15,False,13242,10450,Boots of Swiftness,Vampiric Scepter,Youmuu's Ghostblade,Phantom Dancer,Enchantment: Warrior,Long Sword,3096,153693,Lane.jungle,Role.none
+9,Klng Adam,Twisted Fate,True,Side.red,12,4,8,5.0,184,Exhaust,Flash,15,False,13963,12175,Doran's Ring,Zhonya's Hourglass,Lich Bane,Needlessly Large Rod,Ionian Boots of Lucidity,Abyssal Scepter,111020,15870,Lane.mid_lane,Role.solo

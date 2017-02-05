@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vithix,Draven,True,Side.blue,8,2,3,5.5,162,Heal,Flash,12,False,11257,10150,Doran's Blade,Youmuu's Ghostblade,Berserker's Greaves,Infinity Edge,Zeal,Dagger,166,113039,Lane.bot_lane,Role.carry
+1,IA55A55INI,Talon,True,Side.blue,10,1,1,11.0,152,Flash,Ignite,13,True,9462,8175,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Duskblade of Draktharr,Long Sword,Ruby Crystal,1267,70862,Lane.mid_lane,Role.solo
+2,Twitch FateFalls,Kha'Zix,True,Side.blue,4,2,2,3.0,70,Flash,Smite,11,False,7186,6850,Enchantment: Warrior,Refillable Potion,Boots of Mobility,The Black Cleaver,,,3452,69848,Lane.jungle,Role.none
+3,GKyrios,Rumble,True,Side.blue,1,4,4,1.25,151,Flash,Teleport,12,False,7274,6500,Fiendish Codex,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,Seeker's Armguard,Doran's Shield,69033,8202,Lane.top_lane,Role.solo
+4,supercoolisaac,Morgana,True,Side.blue,2,1,12,14.0,7,Flash,Exhaust,11,False,6576,5850,Control Ward,Ruby Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Spellthief's Edge,,10417,2603,Lane.bot_lane,Role.support
+5, keine Hosen,Twitch,False,Side.red,2,7,0,0.2857142857142857,106,Flash,Heal,10,False,5937,4325,Doran's Blade,Total Biscuit of Rejuvenation,Pickaxe,Berserker's Greaves,Zeal,Dagger,0,41982,Lane.bot_lane,Role.carry
+6,emV,Thresh,False,Side.red,0,5,3,0.6,15,Flash,Exhaust,8,False,4293,3550,Relic Shield,Sightstone,Boots of Mobility,Kindlegem,Control Ward,Cloth Armor,4425,2614,Lane.bot_lane,Role.support
+7,SuperAtomicPikl,Riven,False,Side.red,4,3,1,1.6666666666666667,135,Teleport,Flash,12,False,7100,6900,The Black Cleaver,Hexdrinker,Boots of Speed,Long Sword,Tiamat,Long Sword,0,57184,Lane.top_lane,Role.solo
+8,Henchey,Orianna,False,Side.red,1,6,2,0.5,128,Ghost,Flash,11,False,6230,5125,Doran's Ring,Morellonomicon,Seeker's Armguard,Boots of Speed,,,53422,8900,Lane.mid_lane,Role.solo
+9,Olov,Vi,False,Side.red,2,4,5,1.75,107,Flash,Smite,12,False,7048,6475,Enchantment: Warrior,Refillable Potion,Jaurim's Fist,Control Ward,Phage,Ninja Tabi,628,102921,Lane.jungle,Role.none

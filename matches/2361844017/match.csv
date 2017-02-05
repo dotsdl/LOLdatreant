@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UO Daniel Wu,Leona,True,Side.blue,0,0,1,1.0,2,Flash,Exhaust,2,False,782,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,116,949,Lane.bot_lane,Role.none
+1,z11  ,Irelia,True,Side.blue,0,1,0,0.0,8,Flash,Teleport,2,False,805,500,Corrupting Potion,,,,,,105,1701,Lane.top_lane,Role.solo
+2,K0REAN MECHANICS,Vayne,True,Side.blue,0,0,0,0.0,11,Flash,Heal,2,False,856,500,Doran's Blade,Health Potion,,,,,73,2980,Lane.bot_lane,Role.none
+3,Monitor Licker,Lee Sin,True,Side.blue,1,0,0,1.0,15,Flash,Smite,3,False,1251,500,Hunter's Machete,Refillable Potion,,,,,558,5932,Lane.bot_lane,Role.none
+4,SPOF,Cassiopeia,True,Side.blue,0,0,1,1.0,7,Ghost,Flash,2,False,854,500,,,,,,Doran's Ring,1018,580,Lane.jungle,Role.none
+5,am sol,Hecarim,False,Side.red,0,0,0,0.0,5,Smite,Ghost,3,False,951,500,Hunter's Talisman,Refillable Potion,,,,,383,5092,Lane.jungle,Role.none
+6,SomeKidd,Jayce,False,Side.red,1,0,0,1.0,9,Flash,Teleport,3,True,1222,500,Doran's Blade,,,,,,258,2358,Lane.top_lane,Role.solo
+7,8el skeleto8,Ryze,False,Side.red,0,1,0,0.0,9,Flash,Ghost,2,False,819,500,Sapphire Crystal,Refillable Potion,,,,,2052,1100,Lane.jungle,Role.none
+8,D Gemini,Morgana,False,Side.red,0,0,0,0.0,6,Exhaust,Flash,3,False,828,500,Spellthief's Edge,Health Potion,,,,,1690,1084,Lane.bot_lane,Role.solo
+9,Nevr,Jhin,False,Side.red,0,0,0,0.0,0,Heal,Flash,1,False,651,0,,,,,,,0,0,Lane.mid_lane,Role.solo

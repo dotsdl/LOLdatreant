@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TANKTOP TlGER,Thresh,False,Side.blue,1,9,13,1.5555555555555556,20,Exhaust,Flash,12,False,6866,6450,Locket of the Iron Solari,Sightstone,Face of the Mountain,Control Ward,Boots of Mobility,,7292,3697,Lane.bot_lane,Role.support
+1,MeetBeater,Lee Sin,False,Side.blue,5,10,8,1.3,88,Flash,Smite,12,False,8840,8075,Enchantment: Warrior,Refillable Potion,Ravenous Hydra,Mercury's Treads,Ruby Crystal,Cloth Armor,10355,63013,Lane.jungle,Role.none
+2,ViciousDolphin,Draven,False,Side.blue,7,9,4,1.2222222222222223,156,Flash,Heal,12,False,10472,9100,Doran's Blade,Infinity Edge,Vampiric Scepter,Long Sword,Phantom Dancer,Berserker's Greaves,0,95639,Lane.bot_lane,Role.carry
+3,MyOwnProfile,Anivia,False,Side.blue,4,6,4,1.3333333333333333,157,Flash,Teleport,15,True,9085,8900,Doran's Ring,Sorcerer's Shoes,Zhonya's Hourglass,Luden's Echo,Tear of the Goddess,,72256,8193,Lane.top_lane,Role.solo
+4,evilshado1,LeBlanc,False,Side.blue,9,7,5,2.0,134,Ignite,Flash,13,False,10071,9600,Void Staff,Doran's Ring,Needlessly Large Rod,Luden's Echo,Sorcerer's Shoes,,72817,8817,Lane.mid_lane,Role.solo
+5,KT Score,Graves,True,Side.red,7,4,6,3.25,193,Smite,Flash,16,False,13508,10325,Enchantment: Warrior,Phantom Dancer,,Maw of Malmortius,Long Sword,Berserker's Greaves,4637,199457,Lane.jungle,Role.none
+6,Tyflos,Riven,True,Side.red,11,6,7,3.0,74,Ignite,Flash,14,False,11327,9825,The Black Cleaver,Maw of Malmortius,Ruby Crystal,Long Sword,Tiamat,Mercury's Treads,1513,63365,Lane.mid_lane,Role.solo
+7,RADlANT G0KU,Yasuo,True,Side.red,11,7,6,2.4285714285714284,220,Flash,Teleport,16,False,14506,14100,Blade of the Ruined King,Infinity Edge,Mercury's Treads,Cull,Statikk Shiv,Guardian Angel,70432,107055,Lane.top_lane,Role.solo
+8,O02D0O,Jhin,True,Side.red,4,6,5,1.5,172,Flash,Heal,13,False,11691,9950,Edge of Night,Youmuu's Ghostblade,Boots of Swiftness,Doran's Blade,B. F. Sword,Serrated Dirk,2456,115366,Lane.bot_lane,Role.carry
+9,Renserguden,Bard,True,Side.red,8,3,13,7.0,8,Flash,Exhaust,13,False,11471,10575,Redemption,Locket of the Iron Solari,Eye of the Watchers,Boots of Mobility,Ohmwrecker,,13516,5747,Lane.bot_lane,Role.support

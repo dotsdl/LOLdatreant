@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AKA SIeepingDAWG,Karma,True,Side.blue,0,2,18,9.0,10,Flash,Heal,11,False,7598,5810,Refillable Potion,Redemption,Glacial Shroud,Amplifying Tome,Frostfang,Ionian Boots of Lucidity,13994,6041,Lane.bot_lane,Role.support
+1,Falco Mechanic,Caitlyn,True,Side.blue,5,3,7,4.0,166,Exhaust,Flash,11,False,9563,7225,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Pickaxe,Cloak of Agility,158,103288,Lane.bot_lane,Role.carry
+2,EDG SLICER,Teemo,True,Side.blue,4,2,3,3.5,170,Flash,Teleport,13,False,9269,6825,Doran's Blade,Recurve Bow,Guinsoo's Rageblade,Ninja Tabi,Doran's Ring,,34806,39323,Lane.top_lane,Role.solo
+3,k7o2slqdoc7pvgym,Xerath,True,Side.blue,9,0,5,14.0,138,Ghost,Flash,12,False,10224,7585,Doran's Ring,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Mejai's Soulstealer,Amplifying Tome,81528,10565,Lane.mid_lane,Role.solo
+4,Walljumper,Shyvana,True,Side.blue,4,1,1,5.0,136,Smite,Ghost,13,False,9674,8075,Blade of the Ruined King,Refillable Potion,Mercury's Treads,Enchantment: Bloodrazor,Null-Magic Mantle,Long Sword,55404,77437,Lane.jungle,Role.none
+5,AsianSGpøtatø,Thresh,False,Side.red,4,7,0,0.5714285714285714,11,Flash,Ignite,8,False,4942,4175,Relic Shield,Boots of Swiftness,Sightstone,Crystalline Bracer,Cloth Armor,Forbidden Idol,3365,1972,Lane.bot_lane,Role.support
+6,Dyrus,Brand,False,Side.red,1,4,2,0.75,121,Teleport,Flash,11,False,6110,6050,Doran's Ring,Null-Magic Mantle,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Ruby Crystal,37346,6906,Lane.top_lane,Role.solo
+7,PhD Wumbologist,Ezreal,False,Side.red,0,5,2,0.4,124,Flash,Heal,10,False,5921,5900,Iceborn Gauntlet,Doran's Blade,Manamune,,Boots of Speed,,10843,47506,Lane.bot_lane,Role.carry
+8,Juanfucius,Graves,False,Side.red,3,5,3,1.2,100,Smite,Flash,11,True,7015,6200,Hexdrinker,Dagger,Dagger,Long Sword,Enchantment: Warrior,Berserker's Greaves,3722,82240,Lane.jungle,Role.none
+9,Nedo,Viktor,False,Side.red,0,1,0,0.0,115,Ghost,Flash,11,False,5568,5050,The Hex Core mk-1,Abyssal Scepter,Doran's Ring,,Refillable Potion,Boots of Speed,51253,5580,Lane.mid_lane,Role.solo

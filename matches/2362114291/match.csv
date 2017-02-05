@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shamoo,Amumu,False,Side.blue,0,1,0,0.0,47,Flash,Smite,7,False,3421,2985,Stalker's Blade,Boots of Speed,Bami's Cinder,Amplifying Tome,,Refillable Potion,22225,8243,Lane.jungle,Role.none
+1,Rich Homie Lucky,Karma,False,Side.blue,0,1,0,0.0,13,Flash,Exhaust,5,False,2890,2075,Frostfang,Sightstone,Total Biscuit of Rejuvenation,,,,9432,1135,Lane.jungle,Role.none
+2,sooooooo unlucky,Caitlyn,False,Side.blue,0,2,0,0.0,62,Flash,Heal,6,False,3325,2950,Doran's Blade,Total Biscuit of Rejuvenation,Dagger,Cull,Dagger,B. F. Sword,201,21126,Lane.bot_lane,Role.solo
+3,kt Sofm,Swain,False,Side.blue,1,6,0,0.16666666666666666,52,Teleport,Flash,8,False,3438,3350,Boots of Speed,Blasting Wand,,Catalyst of Aeons,Doran's Ring,Doran's Ring,14278,4705,Lane.top_lane,Role.solo
+4,Thls ls my swamp,Jayce,False,Side.blue,1,2,0,0.5,70,Ignite,Flash,8,False,3716,3075,Phage,Caulfield's Warhammer,Refillable Potion,Boots of Speed,,,3786,21153,Lane.mid_lane,Role.solo
+5,Hyosung,Rek'Sai,True,Side.red,3,1,0,3.0,74,Flash,Smite,9,False,5867,3600,Refillable Potion,Tiamat,Control Ward,Stalker's Blade,Bami's Cinder,,8874,53224,Lane.jungle,Role.none
+6,fwii,Talon,True,Side.red,6,0,3,9.0,100,Flash,Ignite,10,True,7443,5575,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Control Ward,Null-Magic Mantle,Serrated Dirk,589,59629,Lane.top_lane,Role.solo
+7,Cotopaco Parce,Ryze,True,Side.red,1,1,3,4.0,86,Ghost,Flash,9,False,5365,3750,Tear of the Goddess,Refillable Potion,Rod of Ages,,,,37329,8394,Lane.mid_lane,Role.solo
+8,Prophase II,Soraka,True,Side.red,0,0,2,2.0,3,Exhaust,Flash,7,False,3986,2325,Refillable Potion,Sightstone,Nomad's Medallion,Boots of Speed,,,6133,3997,Lane.bot_lane,Role.duo
+9,ELISE Ya Tried,Vayne,True,Side.red,2,0,1,3.0,109,Heal,Flash,8,False,6027,3875,Health Potion,Doran's Blade,B. F. Sword,Berserker's Greaves,Pickaxe,,0,39913,Lane.bot_lane,Role.duo

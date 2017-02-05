@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CaosFury,Syndra,False,Side.blue,4,2,1,2.5,74,Flash,Exhaust,14,False,7708,7250,Boots of Speed,Wooglet's Witchcap,Morellonomicon,Doran's Ring,,,44390,6099,Lane.jungle,Role.none
+1,Henry Pham,Braum,False,Side.blue,4,4,14,4.5,70,Ignite,Exhaust,15,False,10308,9350,Face of the Mountain,Randuin's Omen,Locket of the Iron Solari,Mercury's Treads,Crystalline Bracer,,15668,15033,Lane.mid_lane,Role.support
+2,Sarcasm Orgasm,Ezreal,False,Side.blue,16,5,6,4.4,359,Flash,Heal,18,False,19294,17633,Mercurial Scimitar,Blade of the Ruined King,Muramana,Trinity Force,Lord Dominik's Regards,Ionian Boots of Lucidity,50255,231316,Lane.mid_lane,Role.carry
+3,KabalWins,Maokai,True,Side.red,6,8,4,1.25,213,Flash,Smite,17,True,14804,11775,Righteous Glory,Rod of Ages,Sorcerer's Shoes,Iceborn Gauntlet,Enchantment: Runic Echoes,,175876,44057,Lane.mid_lane,Role.none
+4,Le Plombier,Darius,True,Side.red,3,6,4,1.1666666666666667,205,Flash,Ghost,16,False,12098,11300,Doran's Shield,Titanic Hydra,The Black Cleaver,Dead Man's Plate,,Mercury's Treads,248,145820,Lane.mid_lane,Role.none
+5,Kejorn,Kennen,True,Side.red,2,10,4,0.6,196,Ignite,Flash,15,False,11270,11235,Abyssal Scepter,Hextech Protobelt-01,Wooglet's Witchcap,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,87825,32499,Lane.mid_lane,Role.none

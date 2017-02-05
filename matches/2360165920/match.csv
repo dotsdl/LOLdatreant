@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,camtheham,Sivir,False,Side.blue,1,5,2,0.6,74,Heal,Flash,7,False,4855,2875,Doran's Blade,Pickaxe,Cull,Dagger,Dagger,Boots of Speed,329,27048,Lane.bot_lane,Role.carry
+1,Fiku,Yorick,False,Side.blue,1,5,2,0.6,125,Flash,Teleport,11,False,6341,6153,Trinity Force,Corrupting Potion,Negatron Cloak,Raptor Cloak,,,9632,53781,Lane.top_lane,Role.solo
+2,Sawyerr,Nami,False,Side.blue,2,8,1,0.375,6,Ignite,Flash,6,False,4360,3600,Eye of the Watchers,Boots of Mobility,Control Ward,,,,3167,3133,Lane.bot_lane,Role.support
+3,QzzzzzzQ,Malzahar,False,Side.blue,1,2,0,0.5,104,Flash,Ghost,10,False,5158,4325,Refillable Potion,Morellonomicon,,Boots of Speed,Doran's Ring,Doran's Ring,25810,14805,Lane.mid_lane,Role.solo
+4,Chennnn,Lee Sin,False,Side.blue,1,3,2,1.0,60,Smite,Flash,9,False,5153,3600,Tracker's Knife,Tiamat,Refillable Potion,Boots of Mobility,Long Sword,,6311,44500,Lane.jungle,Role.none
+5,No HandleBards ,Viktor,True,Side.red,1,0,3,4.0,165,Ghost,Flash,12,False,7624,4850,Needlessly Large Rod,Total Biscuit of Rejuvenation,Doran's Ring,Boots of Speed,The Hex Core mk-2,The Dark Seal,71778,12455,Lane.mid_lane,Role.solo
+6,LÌn,Thresh,True,Side.red,2,1,14,16.0,27,Ignite,Flash,10,True,6629,4250,Refillable Potion,Eye of the Equinox,,Crystalline Bracer,,Boots of Mobility,11381,6663,Lane.bot_lane,Role.support
+7,PIay Naizi,Jayce,True,Side.red,6,2,3,4.5,99,Teleport,Flash,10,False,7758,4550,Doran's Blade,Refillable Potion,,The Black Cleaver,Boots of Speed,Cloth Armor,8517,46075,Lane.top_lane,Role.solo
+8,adc feng lft,Evelynn,True,Side.red,9,0,3,12.0,65,Smite,Flash,11,False,8562,7635,Hunter's Potion,Rylai's Crystal Scepter,Boots of Mobility,Enchantment: Runic Echoes,Amplifying Tome,,37887,25937,Lane.jungle,Role.none
+9,tacoeaterfosho,Twitch,True,Side.red,5,3,6,3.6666666666666665,134,Heal,Flash,11,False,9121,8900,Health Potion,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,Youmuu's Ghostblade,B. F. Sword,0,73500,Lane.bot_lane,Role.carry

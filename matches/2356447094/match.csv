@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AllAero,Katarina,True,Side.blue,7,5,3,2.0,118,Flash,Teleport,12,False,8731,8700,Hextech Gunblade,Refillable Potion,Sunfire Cape,Sorcerer's Shoes,Chalice of Harmony,,59985,11718,Lane.top_lane,Role.solo
+1,Rhux,Zyra,True,Side.blue,6,3,6,4.0,16,Flash,Ignite,10,False,7728,7185,Eye of the Watchers,Boots of Mobility,Liandry's Torment,Amplifying Tome,,,23690,5291,Lane.bot_lane,Role.support
+2,NoCookies4You,Kindred,True,Side.blue,4,2,7,5.5,112,Flash,Smite,13,False,9177,8075,Berserker's Greaves,Enchantment: Bloodrazor,Runaan's Hurricane,Jaurim's Fist,Ruby Crystal,,2938,109198,Lane.jungle,Role.none
+3,Xinthus,Jhin,True,Side.blue,3,2,6,4.5,137,Heal,Flash,12,False,8446,7950,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Rapid Firecannon,Control Ward,1961,68192,Lane.bot_lane,Role.carry
+4,Ablazeolive,Ryze,True,Side.blue,8,2,11,9.5,180,Flash,Ghost,14,True,11587,10800,Ionian Boots of Lucidity,Rod of Ages,,Refillable Potion,Seraph's Embrace,Rabadon's Deathcap,108851,9589,Lane.mid_lane,Role.solo
+5,Koby,Shyvana,False,Side.red,3,5,3,1.2,111,Flash,Smite,12,False,7530,6775,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,Dead Man's Plate,,,42819,45161,Lane.jungle,Role.none
+6,TEAMLUKEE,Caitlyn,False,Side.red,3,6,5,1.3333333333333333,123,Heal,Flash,10,False,7226,6475,Doran's Blade,Berserker's Greaves,Pickaxe,B. F. Sword,Runaan's Hurricane,Total Biscuit of Rejuvenation,4,58607,Lane.bot_lane,Role.carry
+7,Overlord Forte,Karma,False,Side.red,1,6,7,1.3333333333333333,18,Flash,Exhaust,9,False,5703,5175,Eye of the Watchers,Boots of Speed,Ardent Censer,,,,8040,2656,Lane.bot_lane,Role.support
+8,ZatsMod,Cassiopeia,False,Side.red,4,6,2,1.0,123,Flash,Ghost,11,False,7450,6535,Morellonomicon,Amplifying Tome,Tear of the Goddess,Doran's Ring,Doran's Ring,Needlessly Large Rod,55597,7033,Lane.mid_lane,Role.solo
+9,The13adGuy,Renekton,False,Side.red,3,5,3,1.2,122,Teleport,Flash,12,False,7455,6825,Mercury's Treads,Refillable Potion,Tiamat,Jaurim's Fist,,The Black Cleaver,2937,80111,Lane.top_lane,Role.solo

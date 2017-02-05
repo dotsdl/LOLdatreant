@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LynchBeaner,Cassiopeia,True,Side.blue,5,5,7,2.4,219,Ghost,Flash,16,False,12823,12175,Doran's Ring,Morellonomicon,Tear of the Goddess,Rylai's Crystal Scepter,Seeker's Armguard,Abyssal Scepter,126787,13109,Lane.mid_lane,Role.solo
+1,Y8Y,Janna,True,Side.blue,2,4,18,5.0,6,Flash,Exhaust,13,False,10024,6250,Eye of the Oasis,Redemption,,Chalice of Harmony,Faerie Charm,Ionian Boots of Lucidity,5441,4665,Lane.bot_lane,Role.support
+2,Stirling Archer,Jhin,True,Side.blue,3,2,7,5.0,223,Heal,Flash,14,False,12388,11880,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Infinity Edge,Doran's Blade,Null-Magic Mantle,5064,147051,Lane.bot_lane,Role.carry
+3,Main Lee Sin,Lee Sin,True,Side.blue,15,4,4,4.75,88,Smite,Flash,15,True,13273,12950,Enchantment: Warrior,Ionian Boots of Lucidity,Hexdrinker,The Bloodthirster,Caulfield's Warhammer,The Black Cleaver,19628,89382,Lane.jungle,Role.none
+4,Aisonu,Poppy,True,Side.blue,10,4,10,5.0,247,Flash,Teleport,18,False,15578,10850,Sunfire Cape,Corrupting Potion,Mercury's Treads,Iceborn Gauntlet,Guardian Angel,Phage,60592,120238,Lane.top_lane,Role.solo
+5,Cotopaco Parce,Orianna,False,Side.red,4,6,3,1.1666666666666667,211,Ghost,Flash,15,False,10366,10325,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,120844,12959,Lane.mid_lane,Role.solo
+6,Jarvans Helping,Lucian,False,Side.red,2,8,5,0.875,167,Flash,Heal,13,False,9572,9250,Doran's Blade,Essence Reaver,Berserker's Greaves,Statikk Shiv,Vampiric Scepter,Long Sword,8533,78029,Lane.bot_lane,Role.carry
+7,BearJr,Thresh,False,Side.red,1,7,5,0.8571428571428571,41,Flash,Ignite,12,False,7105,6125,Sightstone,Locket of the Iron Solari,,Targon's Brace,Boots of Mobility,Chain Vest,8580,5032,Lane.bot_lane,Role.support
+8,El Biblioteca,Rumble,False,Side.red,3,10,7,1.0,184,Teleport,Flash,15,False,9606,8985,Liandry's Torment,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,Blasting Wand,,105652,12323,Lane.top_lane,Role.solo
+9,CN ARESgogogo,Hecarim,False,Side.red,9,5,4,2.6,98,Ghost,Smite,14,False,10202,9675,Enchantment: Cinderhulk,Ninja Tabi,Dead Man's Plate,Sterak's Gage,,,22747,56060,Lane.jungle,Role.none

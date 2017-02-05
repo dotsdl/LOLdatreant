@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zarydabs,Kha'Zix,True,Side.blue,8,3,5,4.333333333333333,85,Flash,Smite,13,False,9115,7100,Enchantment: Warrior,,The Black Cleaver,Boots of Swiftness,,,4894,98539,Lane.jungle,Role.none
+1,oopa,Gangplank,True,Side.blue,2,2,6,4.0,188,Flash,Teleport,13,False,9578,7533,Corrupting Potion,Trinity Force,,Ionian Boots of Lucidity,B. F. Sword,Pickaxe,5960,117981,Lane.top_lane,Role.solo
+2,Pekin Woof,Fizz,True,Side.blue,6,1,6,12.0,155,Flash,Teleport,12,False,8702,8325,Lich Bane,Corrupting Potion,Ionian Boots of Lucidity,Abyssal Scepter,Fiendish Codex,,50291,18965,Lane.mid_lane,Role.solo
+3,C9 Lemon,Karma,True,Side.blue,3,2,9,6.0,20,Exhaust,Flash,11,False,7181,5650,Ionian Boots of Lucidity,Refillable Potion,Redemption,Eye of the Watchers,,,18909,5202,Lane.bot_lane,Role.support
+4,Maxtrobo,Caitlyn,True,Side.blue,5,5,5,2.0,153,Flash,Heal,11,True,9301,7850,Doran's Blade,Infinity Edge,Runaan's Hurricane,Dagger,Boots of Speed,,771,90591,Lane.bot_lane,Role.carry
+5,Just what I am,Twitch,False,Side.red,2,6,3,0.8333333333333334,133,Flash,Heal,11,False,7277,7025,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Pickaxe,,B. F. Sword,323,48735,Lane.bot_lane,Role.carry
+6,1936 1948,Shaco,False,Side.red,3,4,5,2.0,92,Smite,Ignite,11,False,7357,7375,Tiamat,Boots of Mobility,Hextech Revolver,Enchantment: Warrior,Serrated Dirk,Long Sword,20112,61030,Lane.jungle,Role.none
+7,Riesig,Yorick,False,Side.red,5,7,1,0.8571428571428571,173,Flash,Teleport,13,False,8610,8308,Corrupting Potion,Trinity Force,Boots of Swiftness,Ruby Crystal,Zz'Rot Portal,,9468,78910,Lane.top_lane,Role.solo
+8,Liquid Matt,Lulu,False,Side.red,2,3,4,2.0,14,Exhaust,Flash,9,False,5426,4035,Amplifying Tome,Refillable Potion,Eye of the Watchers,Control Ward,Boots of Speed,Crystalline Bracer,9131,4808,Lane.bot_lane,Role.support
+9,GangstahSwerve,Malzahar,False,Side.red,1,4,1,0.5,157,Ghost,Flash,11,False,6819,6295,Doran's Ring,Negatron Cloak,Morellonomicon,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Giant's Belt,43687,19704,Lane.mid_lane,Role.solo

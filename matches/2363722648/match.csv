@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GangstahSwerve,Thresh,False,Side.blue,1,7,11,1.7142857142857142,22,Exhaust,Flash,11,False,7094,6025,Ruby Sightstone,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Targon's Brace,Boots of Mobility,Control Ward,7862,3721,Lane.bot_lane,Role.support
+1,You all boosted,Kassadin,False,Side.blue,8,8,4,1.5,150,Flash,Teleport,13,True,10557,10600,The Dark Seal,Hextech GLP-800,Morellonomicon,Sheen,Blasting Wand,Sorcerer's Shoes,55239,17573,Lane.mid_lane,Role.solo
+2,Washing Dishes,Kalista,False,Side.blue,4,7,6,1.4285714285714286,220,Heal,Flash,14,False,11224,9950,Blade of the Ruined King,Runaan's Hurricane,Zeal,Berserker's Greaves,Doran's Blade,Dagger,731,130375,Lane.bot_lane,Role.carry
+3,Yarnello,Nasus,False,Side.blue,3,6,5,1.3333333333333333,258,Flash,Teleport,16,False,11475,11758,Control Ward,Mercury's Treads,Sterak's Gage,Trinity Force,Zz'Rot Portal,Doran's Ring,81061,79522,Lane.top_lane,Role.solo
+4,TheOddOrange,Vi,False,Side.blue,1,5,5,1.2,160,Flash,Smite,15,False,9962,8833,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,Warden's Mail,,1529,157846,Lane.jungle,Role.none
+5,Donde Esta Santa,Yasuo,True,Side.red,4,8,6,1.25,151,Exhaust,Flash,13,False,10815,8350,Doran's Blade,Phantom Dancer,,Berserker's Greaves,Frozen Mallet,Cloak of Agility,13523,99926,Lane.mid_lane,Role.solo
+6,Liquid Painless,Karma,True,Side.red,9,1,18,27.0,24,Flash,Ignite,14,False,11569,10650,Redemption,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Ardent Censer,Locket of the Iron Solari,19338,6249,Lane.bot_lane,Role.support
+7,Stiches,Vayne,True,Side.red,12,1,8,20.0,301,Heal,Flash,17,False,16534,15450,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Phantom Dancer,B. F. Sword,Berserker's Greaves,59953,183383,Lane.bot_lane,Role.carry
+8,Hakuho,Zac,True,Side.red,1,2,12,6.5,92,Smite,Flash,14,False,9374,8250,Enchantment: Cinderhulk,Redemption,,Ionian Boots of Lucidity,Knight's Vow,,71317,23942,Lane.jungle,Role.none
+9,Lil Cody,Kennen,True,Side.red,7,5,12,3.8,197,Teleport,Flash,16,False,12410,11425,Zhonya's Hourglass,Hextech Protobelt-01,Aether Wisp,Sorcerer's Shoes,Rylai's Crystal Scepter,Doran's Blade,99326,21941,Lane.top_lane,Role.solo

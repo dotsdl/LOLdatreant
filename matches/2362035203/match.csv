@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Top Schlong,Shaco,True,Side.blue,15,1,9,24.0,85,Smite,Exhaust,13,False,11128,9050,Enchantment: Warrior,Refillable Potion,Ravenous Hydra,Berserker's Greaves,Zeal,Dagger,17957,71735,Lane.jungle,Role.none
+1,Pëng,Twitch,True,Side.blue,5,4,6,2.75,68,Heal,Flash,9,False,7198,6750,Doran's Blade,B. F. Sword,Pickaxe,Berserker's Greaves,Runaan's Hurricane,,0,42477,Lane.bot_lane,Role.carry
+2,STM Mark,Vel'Koz,True,Side.blue,3,5,14,3.4,27,Flash,Exhaust,11,False,7176,6675,Frostfang,,Sightstone,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Control Ward,19369,4230,Lane.bot_lane,Role.support
+3,amumumu,Dr. Mundo,True,Side.blue,5,3,2,2.3333333333333335,134,Flash,Teleport,12,False,8795,8550,Doran's Shield,Refillable Potion,Zz'Rot Portal,Ninja Tabi,Sunfire Cape,Jaurim's Fist,65533,24817,Lane.top_lane,Role.solo
+4,Huhi Lite,LeBlanc,True,Side.blue,7,5,7,2.8,126,Ignite,Flash,13,True,9021,8835,Rylai's Crystal Scepter,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,Control Ward,60502,8645,Lane.mid_lane,Role.solo
+5,WJNA,Jayce,False,Side.red,3,5,4,1.4,182,Flash,Teleport,13,False,8570,8475,Maw of Malmortius,The Black Cleaver,Serrated Dirk,Boots of Speed,Doran's Blade,,16772,76638,Lane.top_lane,Role.solo
+6,Cotopaco Parce,Corki,False,Side.red,6,7,4,1.4285714285714286,99,Exhaust,Flash,12,False,7613,7233,Trinity Force,Boots of Speed,Corrupting Potion,Hexdrinker,Caulfield's Warhammer,Control Ward,44605,12234,Lane.mid_lane,Role.solo
+7,Pink Ward,Thresh,False,Side.red,2,10,5,0.7,22,Flash,Exhaust,8,False,5402,5200,Face of the Mountain,Boots of Mobility,Sightstone,Forbidden Idol,,Rejuvenation Bead,5695,3206,Lane.bot_lane,Role.support
+8,Baeflone,Ezreal,False,Side.red,2,7,4,0.8571428571428571,101,Exhaust,Flash,9,False,6379,6108,Doran's Blade,Refillable Potion,Tear of the Goddess,Ionian Boots of Lucidity,Trinity Force,,7941,35172,Lane.bot_lane,Role.carry
+9,moon o,Lee Sin,False,Side.red,5,6,2,1.1666666666666667,127,Smite,Flash,12,False,7914,7600,Tiamat,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Boots of Speed,Long Sword,17042,68401,Lane.jungle,Role.none

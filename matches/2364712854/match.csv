@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zz cicero,Nidalee,False,Side.blue,4,8,7,1.375,129,Smite,Flash,15,False,10042,9325,Enchantment: Runic Echoes,Rod of Ages,Sorcerer's Shoes,Abyssal Scepter,,,114644,18863,Lane.jungle,Role.none
+1,Celend,Cassiopeia,False,Side.blue,1,5,8,1.8,228,Flash,Ghost,15,False,10067,8935,Rylai's Crystal Scepter,Abyssal Scepter,Blasting Wand,Amplifying Tome,Doran's Ring,Tear of the Goddess,107895,12381,Lane.mid_lane,Role.solo
+2,Virus,Twitch,False,Side.blue,10,4,1,2.75,204,Heal,Flash,14,False,11974,11700,Pickaxe,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Phantom Dancer,Long Sword,0,116453,Lane.bot_lane,Role.carry
+3,Cuckvele,Fiora,False,Side.blue,7,6,5,2.0,156,Flash,Teleport,14,True,10270,9500,Doran's Blade,Doran's Blade,The Black Cleaver,Mercury's Treads,Null-Magic Mantle,Titanic Hydra,1131,82267,Lane.top_lane,Role.solo
+4,Filly,Morgana,False,Side.blue,0,5,8,1.6,14,Flash,Exhaust,11,False,6821,6525,Frostfang,Crystalline Bracer,Sightstone,Locket of the Iron Solari,,Ionian Boots of Lucidity,18668,3044,Lane.bot_lane,Role.support
+5,CloudNguyén,Poppy,True,Side.red,5,4,10,3.75,170,Teleport,Flash,16,False,11972,10750,Spirit Visage,,Ninja Tabi,Sunfire Cape,Cloth Armor,Iceborn Gauntlet,28422,78123,Lane.top_lane,Role.solo
+6,Abou222,Ryze,True,Side.red,9,3,8,5.666666666666667,222,Ghost,Flash,16,False,13647,11730,Seraph's Embrace,Abyssal Scepter,Blasting Wand,Rod of Ages,Ionian Boots of Lucidity,,152045,7964,Lane.mid_lane,Role.solo
+7,BeautifulCascade,Diana,True,Side.red,9,3,6,5.0,243,Flash,Smite,18,False,15684,13475,Enchantment: Runic Echoes,Rod of Ages,Nashor's Tooth,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,189452,45863,Lane.jungle,Role.none
+8,Lucidity,Janna,True,Side.red,0,4,15,3.75,12,Exhaust,Flash,13,False,9557,7450,Locket of the Iron Solari,Redemption,Sightstone,Boots of Mobility,Nomad's Medallion,,4831,5336,Lane.bot_lane,Role.support
+9,rat fink boy,Jhin,True,Side.red,5,8,7,1.5,189,Heal,Flash,13,False,12028,9950,Rapid Firecannon,Essence Reaver,Boots of Swiftness,B. F. Sword,Doran's Blade,Pickaxe,5913,108970,Lane.bot_lane,Role.carry

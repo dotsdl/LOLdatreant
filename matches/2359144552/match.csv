@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Entranced,Renekton,False,Side.blue,2,6,3,0.8333333333333334,203,Teleport,Flash,14,False,9710,9050,Randuin's Omen,Refillable Potion,Doran's Shield,The Black Cleaver,Ninja Tabi,Hexdrinker,3710,94575,Lane.top_lane,Role.solo
+1,lc0nic,Graves,False,Side.blue,6,6,2,1.3333333333333333,178,Flash,Smite,15,False,11106,10200,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,The Bloodthirster,,,4337,158666,Lane.jungle,Role.none
+2,OUT DO YA,Vayne,False,Side.blue,1,7,4,0.7142857142857143,173,Flash,Heal,13,False,9763,9650,Infinity Edge,Zeal,Berserker's Greaves,,Doran's Blade,Statikk Shiv,11113,73799,Lane.bot_lane,Role.carry
+3,lron Pyrite,Bard,False,Side.blue,2,9,4,0.6666666666666666,22,Flash,Exhaust,11,False,7611,7385,Talisman of Ascension,Sightstone,Redemption,Boots of Mobility,Total Biscuit of Rejuvenation,,7522,3483,Lane.bot_lane,Role.support
+4,godrjsdnd,Kog'Maw,False,Side.blue,2,3,1,1.0,251,Cleanse,Flash,15,False,10629,10000,Seraph's Embrace,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,Aether Wisp,Needlessly Large Rod,137450,20125,Lane.mid_lane,Role.solo
+5,SSBM Hax,Twisted Fate,True,Side.red,5,3,8,4.333333333333333,179,Flash,Ghost,15,True,11705,11010,Doran's Ring,Rod of Ages,Lich Bane,Zhonya's Hourglass,Ionian Boots of Lucidity,Amplifying Tome,118476,12935,Lane.mid_lane,Role.solo
+6,Pekin Woof,Lee Sin,True,Side.red,7,1,9,16.0,170,Flash,Smite,16,False,11863,11450,Titanic Hydra,Long Sword,Enchantment: Warrior,Boots of Mobility,Poacher's Dirk,The Black Cleaver,25089,126203,Lane.jungle,Role.none
+7,Vincente Vu,Twitch,True,Side.red,16,4,7,5.75,252,Flash,Heal,16,False,16607,15675,Berserker's Greaves,Infinity Edge,The Bloodthirster,Runaan's Hurricane,Phantom Dancer,Zeal,813,182267,Lane.bot_lane,Role.carry
+8,Wintrader Vulcan,Yasuo,True,Side.red,2,2,6,4.0,253,Flash,Teleport,16,False,11822,10300,Doran's Blade,Pickaxe,Frozen Mallet,Ninja Tabi,Phantom Dancer,B. F. Sword,11560,143432,Lane.top_lane,Role.solo
+9,The Tank Man,Karma,True,Side.red,1,3,23,8.0,6,Flash,Exhaust,14,False,9984,9425,Eye of the Watchers,Redemption,Ardent Censer,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,12935,3927,Lane.bot_lane,Role.support

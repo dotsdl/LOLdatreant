@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yuppyboy,Viktor,True,Side.blue,6,2,2,4.0,204,Flash,Ghost,13,False,9281,8250,Ionian Boots of Lucidity,Perfect Hex Core,Rylai's Crystal Scepter,The Dark Seal,Doran's Ring,Control Ward,100811,10028,Lane.mid_lane,Role.solo
+1,Hugh jj,Jhin,True,Side.blue,5,2,3,4.0,178,Heal,Flash,12,False,8784,7375,Total Biscuit of Rejuvenation,Zeal,Kircheis Shard,Boots of Swiftness,Doran's Blade,Essence Reaver,1586,94939,Lane.bot_lane,Role.carry
+2,Ryan Ni,Tryndamere,True,Side.blue,6,3,2,2.6666666666666665,199,Ghost,Ignite,14,False,9204,8050,Blade of the Ruined King,Mortal Reminder,Boots of Speed,Zeal,,,264,102981,Lane.top_lane,Role.solo
+3,Lord Christo II,Nami,True,Side.blue,0,1,11,11.0,7,Flash,Exhaust,11,False,6012,5550,Redemption,Ruby Sightstone,Refillable Potion,Control Ward,Boots of Mobility,Spellthief's Edge,5842,5441,Lane.bot_lane,Role.support
+4,Braums Mustache,Poppy,True,Side.blue,5,0,6,11.0,92,Flash,Smite,12,False,8176,7775,Boots of Mobility,Enchantment: Cinderhulk,The Black Cleaver,Chain Vest,Control Ward,Health Potion,18090,62450,Lane.jungle,Role.none
+5,MeaningIess,Diana,False,Side.red,4,3,0,1.3333333333333333,161,Teleport,Flash,13,False,7820,7150,Doran's Ring,Abyssal Scepter,Rod of Ages,Doran's Ring,Boots of Speed,,68751,15796,Lane.mid_lane,Role.solo
+6,WeRrsome,Miss Fortune,False,Side.red,1,2,1,1.0,136,Heal,Flash,11,False,6505,6150,Duskblade of Draktharr,Serrated Dirk,Long Sword,Boots of Speed,Long Sword,Doran's Blade,3386,44286,Lane.bot_lane,Role.carry
+7,kt Sofm,Jarvan IV,False,Side.red,2,3,4,2.0,61,Smite,Flash,11,False,6490,6325,Boots of Mobility,Hunter's Potion,Tiamat,Enchantment: Warrior,Jaurim's Fist,,5886,51897,Lane.jungle,Role.none
+8,ZosHa,Illaoi,False,Side.red,1,7,1,0.2857142857142857,136,Flash,Teleport,12,True,6499,5900,Corrupting Potion,The Black Cleaver,Ninja Tabi,Jaurim's Fist,,,1006,94618,Lane.top_lane,Role.solo
+9,Shupian,Karma,False,Side.red,0,7,0,0.0,41,Flash,Exhaust,9,False,4959,4260,Frostfang,Fiendish Codex,Lost Chapter,Boots of Speed,Doran's Ring,Amplifying Tome,26992,6239,Lane.bot_lane,Role.support

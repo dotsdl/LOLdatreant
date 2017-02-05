@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Enharmonics,Yasuo,False,Side.blue,3,8,3,0.75,248,Exhaust,Flash,16,False,12043,11975,Infinity Edge,Ninja Tabi,Sterak's Gage,Hexdrinker,Phantom Dancer,,23417,150817,Lane.top_lane,Role.solo
+1,Anthøny,Lee Sin,False,Side.blue,5,9,4,1.0,144,Smite,Flash,15,False,11011,10125,Refillable Potion,Randuin's Omen,Boots of Swiftness,The Black Cleaver,Enchantment: Warrior,Null-Magic Mantle,34497,108136,Lane.jungle,Role.none
+2,Hi im Thalies,Katarina,False,Side.blue,18,9,4,2.4444444444444446,204,Ignite,Flash,16,False,15085,14625,Sorcerer's Shoes,,Rylai's Crystal Scepter,Hextech Gunblade,Void Staff,Zhonya's Hourglass,151381,10899,Lane.jungle,Role.none
+3,Anski,Nami,False,Side.blue,0,6,12,2.0,18,Flash,Exhaust,13,False,9032,8250,Frost Queen's Claim,Sightstone,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,Knight's Vow,14644,12116,Lane.bot_lane,Role.support
+4,casca,Vayne,False,Side.blue,3,5,5,1.6,206,Flash,Heal,14,False,11478,10500,Vampiric Scepter,Quicksilver Sash,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,31940,83334,Lane.bot_lane,Role.carry
+5,JesuisScott,Brand,True,Side.red,9,8,13,2.75,54,Ignite,Flash,14,True,12802,12000,Sorcerer's Shoes,Seeker's Armguard,Eye of the Watchers,Morellonomicon,Rylai's Crystal Scepter,Fiendish Codex,56791,5251,Lane.bot_lane,Role.support
+6,Lose,Ashe,True,Side.red,7,8,11,2.25,214,Flash,Heal,15,False,14552,14250,,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,Essence Reaver,Infinity Edge,3403,147498,Lane.bot_lane,Role.carry
+7,Henchman Hambone,Dr. Mundo,True,Side.red,6,5,18,4.8,164,Ghost,Smite,16,False,13481,12025,Enchantment: Cinderhulk,Zz'Rot Portal,Boots of Swiftness,Warmog's Armor,Spirit Visage,,78611,56238,Lane.jungle,Role.none
+8,ONLYPLAYKALISTA,Renekton,True,Side.red,5,6,13,3.0,213,Teleport,Flash,17,False,13110,11550,Titanic Hydra,Giant's Belt,The Black Cleaver,Chain Vest,Hexdrinker,Ninja Tabi,4800,135552,Lane.top_lane,Role.solo
+9,DeadInternal,Orianna,True,Side.red,10,3,15,8.333333333333334,219,Flash,Exhaust,17,False,15103,13035,Doran's Ring,Rabadon's Deathcap,Sorcerer's Shoes,Blasting Wand,Morellonomicon,Abyssal Scepter,121433,17653,Lane.mid_lane,Role.solo

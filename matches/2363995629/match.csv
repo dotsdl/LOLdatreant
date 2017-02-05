@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Quixezelk,Poppy,False,Side.blue,1,8,3,0.5,144,Ignite,Flash,13,False,9096,8400,Sunfire Cape,Corrupting Potion,Ninja Tabi,Iceborn Gauntlet,Spectre's Cowl,,30020,61162,Lane.top_lane,Role.solo
+1,DarkWingsForSale,Katarina,False,Side.blue,4,8,3,0.875,163,Flash,Ignite,13,False,9676,9410,Zhonya's Hourglass,Hextech Gunblade,The Dark Seal,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,81657,12827,Lane.mid_lane,Role.solo
+2,zT ace,Yasuo,False,Side.blue,2,4,3,1.25,174,Exhaust,Flash,14,False,9998,9500,Frozen Mallet,Refillable Potion,Cloak of Agility,B. F. Sword,Phantom Dancer,Ninja Tabi,29804,87109,Lane.bot_lane,Role.support
+3,KaNKl,Vayne,False,Side.blue,8,5,6,2.8,265,Heal,Flash,15,True,13790,12950,Phantom Dancer,Vampiric Scepter,Infinity Edge,Statikk Shiv,Hexdrinker,Berserker's Greaves,46194,130076,Lane.bot_lane,Role.carry
+4,goompa,Rek'Sai,False,Side.blue,2,5,5,1.4,131,Smite,Flash,14,False,9539,8850,Ninja Tabi,Sightstone,Tiamat,Dead Man's Plate,Control Ward,Enchantment: Cinderhulk,30879,85220,Lane.jungle,Role.none
+5,im jungIe,Graves,True,Side.red,11,3,12,7.666666666666667,193,Smite,Flash,16,False,15733,12850,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Phantom Dancer,Ninja Tabi,The Black Cleaver,4908,226318,Lane.jungle,Role.none
+6,Sînner,Thresh,True,Side.red,2,4,16,4.5,34,Flash,Exhaust,13,False,9292,7725,Sightstone,Face of the Mountain,Redemption,Control Ward,Ninja Tabi,Aegis of the Legion,9778,7731,Lane.bot_lane,Role.support
+7,Fàkèr  ,Jinx,True,Side.red,3,7,14,2.4285714285714284,175,Heal,Flash,14,False,11176,9950,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Zeal,Kircheis Shard,1131,84436,Lane.bot_lane,Role.carry
+8,yungELEF,Brand,True,Side.red,7,2,8,7.5,155,Exhaust,Flash,15,False,11337,10150,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Rabadon's Deathcap,Haunting Guise,,70680,17879,Lane.mid_lane,Role.solo
+9,SoloMeatballOnly,Renekton,True,Side.red,7,1,12,19.0,263,Ignite,Flash,17,False,14200,13775,Death's Dance,Locket of the Iron Solari,Titanic Hydra,Mercury's Treads,The Black Cleaver,,7189,183943,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wymz,Karma,False,Side.blue,3,5,4,1.4,24,Flash,Exhaust,10,False,6139,5950,Aether Wisp,Redemption,Sightstone,Spellthief's Edge,Forbidden Idol,Ionian Boots of Lucidity,17236,5948,Lane.bot_lane,Role.support
+1,Zerk605,Twisted Fate,False,Side.blue,3,4,5,2.0,158,Exhaust,Flash,13,False,8410,7775,Doran's Ring,Abyssal Scepter,Lich Bane,,Sorcerer's Shoes,,66087,13861,Lane.mid_lane,Role.solo
+2,CaIIMeBrad,Maokai,False,Side.blue,1,4,6,1.75,150,Teleport,Flash,13,False,7211,6525,Doran's Ring,Spectre's Cowl,Control Ward,Ninja Tabi,Sunfire Cape,Ruby Crystal,69870,14110,Lane.top_lane,Role.solo
+3,ttdkrz,Caitlyn,False,Side.blue,0,4,2,0.5,157,Flash,Heal,11,False,6879,6000,,Doran's Blade,B. F. Sword,Berserker's Greaves,Long Sword,Runaan's Hurricane,389,72458,Lane.bot_lane,Role.carry
+4,TRUMPSSMALLHANDS,Jarvan IV,False,Side.blue,5,6,6,1.8333333333333333,66,Flash,Smite,11,False,7555,7175,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Dead Man's Plate,Ruby Crystal,,3623,65580,Lane.jungle,Role.none
+5,DSDW,Viktor,True,Side.red,6,2,5,5.5,164,Ghost,Flash,14,False,10335,9749,Ionian Boots of Lucidity,,Doran's Ring,Perfect Hex Core,Needlessly Large Rod,Rylai's Crystal Scepter,92499,13723,Lane.mid_lane,Role.solo
+6,JesuisScott,Draven,True,Side.red,4,1,3,7.0,193,Heal,Flash,12,False,10238,8875,Doran's Blade,Infinity Edge,Vampiric Scepter,Phantom Dancer,Pickaxe,Null-Magic Mantle,0,93557,Lane.bot_lane,Role.carry
+7,Hook Man,Thresh,True,Side.red,1,2,8,4.5,29,Flash,Ignite,10,False,6132,5350,Relic Shield,Total Biscuit of Rejuvenation,Redemption,Sightstone,Ionian Boots of Lucidity,Ruby Crystal,6892,4146,Lane.bot_lane,Role.support
+8,Drigos BR,Rek'Sai,True,Side.red,9,4,7,4.0,127,Flash,Smite,14,False,10680,9500,Titanic Hydra,Refillable Potion,Aegis of the Legion,Chain Vest,Berserker's Greaves,Enchantment: Cinderhulk,29007,90567,Lane.jungle,Role.none
+9,bouletier420,Nasus,True,Side.red,3,3,5,2.6666666666666665,169,Ghost,Teleport,13,True,9437,8025,Spirit Visage,Boots of Swiftness,Frozen Heart,Sheen,,Control Ward,18907,76880,Lane.top_lane,Role.solo

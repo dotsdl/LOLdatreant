@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NibbaXD,Viktor,True,Side.blue,4,8,3,0.875,226,Exhaust,Flash,16,False,12755,10950,Perfect Hex Core,Doran's Ring,Abyssal Scepter,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,129389,20860,Lane.mid_lane,Role.solo
+1,Angormus,Nasus,True,Side.blue,8,1,7,15.0,301,Teleport,Flash,18,False,16214,14025,Ninja Tabi,Spirit Visage,Iceborn Gauntlet,Dead Man's Plate,Banshee's Veil,Raptor Cloak,37339,188187,Lane.top_lane,Role.solo
+2,Free Rollin Pimp,Vi,True,Side.blue,7,4,4,2.75,180,Flash,Smite,16,False,13430,12678,Enchantment: Warrior,Trinity Force,Negatron Cloak,Maw of Malmortius,Chain Vest,Mercury's Treads,1809,188820,Lane.jungle,Role.none
+3,ChampChampions,Jhin,True,Side.blue,10,8,8,2.25,202,Heal,Flash,16,True,14352,14075,Infinity Edge,Essence Reaver,Hexdrinker,Caulfield's Warhammer,Ionian Boots of Lucidity,Rapid Firecannon,12436,154798,Lane.bot_lane,Role.carry
+4,Hanjaro,Brand,True,Side.blue,1,9,10,1.2222222222222223,30,Flash,Exhaust,13,False,10141,10075,Eye of the Watchers,Rylai's Crystal Scepter,Sorcerer's Shoes,Liandry's Torment,,,34489,3438,Lane.bot_lane,Role.support
+5,Next NA ADC,Vayne,False,Side.red,3,6,5,1.3333333333333333,236,Flash,Heal,16,False,12123,13300,Null-Magic Mantle,Infinity Edge,Statikk Shiv,Berserker's Greaves,Long Sword,Phantom Dancer,48674,100582,Lane.bot_lane,Role.carry
+6,fishyfoodguy,Bard,False,Side.red,2,4,11,3.25,30,Flash,Exhaust,14,False,10033,10250,Eye of the Watchers,Locket of the Iron Solari,Boots of Swiftness,Banshee's Veil,Glacial Shroud,Cloth Armor,22005,4876,Lane.bot_lane,Role.support
+7,thedanielpark,Lee Sin,False,Side.red,6,8,10,2.0,116,Flash,Smite,15,False,11244,10620,Control Ward,Enchantment: Warrior,Randuin's Omen,Mercury's Treads,Negatron Cloak,Dead Man's Plate,22678,85573,Lane.jungle,Role.none
+8,Extempted,Riven,False,Side.red,6,10,3,0.9,236,Teleport,Flash,16,False,12625,12100,The Bloodthirster,Mercury's Treads,Ravenous Hydra,Caulfield's Warhammer,Last Whisper,,0,172579,Lane.top_lane,Role.solo
+9,Leg,Syndra,False,Side.red,13,2,4,8.5,282,Flash,Ghost,17,False,15171,14150,,Void Staff,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Rabadon's Deathcap,Morellonomicon,175232,10951,Lane.mid_lane,Role.solo

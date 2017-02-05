@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Abou222,Ryze,True,Side.blue,5,2,6,5.5,215,Ghost,Flash,15,False,11359,9600,Seraph's Embrace,Void Staff,,Rod of Ages,The Dark Seal,Boots of Speed,141543,9463,Lane.mid_lane,Role.solo
+1,776,Brand,True,Side.blue,2,7,15,2.4285714285714284,23,Flash,Ignite,13,False,8873,7100,Refillable Potion,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Liandry's Torment,,30032,5477,Lane.bot_lane,Role.support
+2,ókay,Ivern,True,Side.blue,0,4,15,3.75,60,Smite,Flash,13,False,9250,9275,Enchantment: Cinderhulk,The Dark Seal,Athene's Unholy Grail,Redemption,Boots of Mobility,Ionian Boots of Lucidity,13256,7156,Lane.jungle,Role.none
+3,Stixxay,Caitlyn,True,Side.blue,10,4,3,3.25,220,Heal,Flash,14,False,13442,10775,Quicksilver Sash,Zeal,Infinity Edge,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,572,140510,Lane.bot_lane,Role.carry
+4,Titan Dweevil,Pantheon,True,Side.blue,9,6,5,2.3333333333333335,87,Ignite,Flash,12,False,10012,8750,Corrupting Potion,The Black Cleaver,Edge of Night,Mercury's Treads,Pickaxe,,6916,51049,Lane.top_lane,Role.solo
+5,1936 1948,Blitzcrank,False,Side.red,2,3,9,3.6666666666666665,22,Ignite,Flash,10,True,7186,6525,Face of the Mountain,Boots of Mobility,Sightstone,Control Ward,Redemption,,7194,5037,Lane.bot_lane,Role.support
+6,Adrian Riven,Riven,False,Side.red,4,6,3,1.1666666666666667,173,Teleport,Flash,13,False,9261,9025,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Pickaxe,Long Sword,,1273,96192,Lane.mid_lane,Role.solo
+7,C9 Meteos,Elise,False,Side.red,8,7,6,2.0,111,Smite,Flash,13,False,10452,9825,Enchantment: Runic Echoes,Sorcerer's Shoes,Refillable Potion,Blasting Wand,Haunting Guise,Rylai's Crystal Scepter,86714,28007,Lane.jungle,Role.none
+8,Doublelift,Ashe,False,Side.red,5,5,6,2.2,195,Flash,Heal,13,False,10274,10075,Doran's Blade,Infinity Edge,Runaan's Hurricane,Zeal,Kircheis Shard,Berserker's Greaves,1526,97253,Lane.bot_lane,Role.carry
+9,7788 ADC,Jarvan IV,False,Side.red,3,5,7,2.0,107,Teleport,Flash,12,False,8365,7950,Locket of the Iron Solari,Tiamat,Ninja Tabi,Dead Man's Plate,,,1916,63508,Lane.top_lane,Role.solo

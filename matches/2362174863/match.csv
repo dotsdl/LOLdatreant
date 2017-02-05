@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kerias,Vayne,False,Side.blue,7,4,2,2.25,252,Heal,Flash,15,False,12720,12500,Infinity Edge,Phantom Dancer,Statikk Shiv,Pickaxe,Berserker's Greaves,Vampiric Scepter,37866,117996,Lane.bot_lane,Role.carry
+1,Pocket Rhino,Blitzcrank,False,Side.blue,2,4,8,2.5,32,Flash,Ignite,10,False,6874,6550,Control Ward,Refillable Potion,Eye of the Equinox,Boots of Mobility,Frozen Heart,Rejuvenation Bead,6975,6787,Lane.bot_lane,Role.support
+2,Jeehun,Lee Sin,False,Side.blue,3,10,4,0.7,101,Flash,Smite,11,False,7647,7075,Dead Man's Plate,Refillable Potion,Enchantment: Warrior,Ninja Tabi,,Control Ward,14115,61347,Lane.jungle,Role.none
+3,Rhux,LeBlanc,False,Side.blue,3,7,0,0.42857142857142855,125,Flash,Teleport,12,False,7755,7460,Rabadon's Deathcap,Doran's Ring,Sheen,Mercury's Treads,The Dark Seal,Amplifying Tome,62661,13969,Lane.mid_lane,Role.solo
+4,Just Lampost,Poppy,False,Side.blue,0,6,3,0.5,180,Teleport,Flash,13,False,8380,8275,Sunfire Cape,Corrupting Potion,Dead Man's Plate,Chain Vest,Ninja Tabi,,29854,77282,Lane.top_lane,Role.solo
+5,Huhi,Galio,True,Side.red,15,2,7,11.0,196,Flash,Teleport,16,False,14473,12200,Zhonya's Hourglass,Blasting Wand,The Dark Seal,Morellonomicon,Spirit Visage,Mercury's Treads,127288,15173,Lane.mid_lane,Role.solo
+6,VoidIncarnated,Darius,True,Side.red,4,2,6,5.0,170,Flash,Teleport,14,False,10138,8975,Corrupting Potion,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Giant's Belt,Cloth Armor,268,99265,Lane.top_lane,Role.solo
+7,Nano Seconds,Jinx,True,Side.red,5,3,6,3.6666666666666665,168,Flash,Heal,13,False,10641,8600,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Brawler's Gloves,Dagger,536,106793,Lane.bot_lane,Role.carry
+8,BmxSpecks,Vi,True,Side.red,6,2,11,8.5,111,Flash,Smite,14,True,11122,9883,Enchantment: Warrior,Hunter's Potion,Chain Vest,Ninja Tabi,Trinity Force,Giant's Belt,2086,125722,Lane.jungle,Role.none
+9,Rohammers,Soraka,True,Side.red,0,6,19,3.1666666666666665,9,Flash,Exhaust,12,False,7908,6525,Redemption,Eye of the Oasis,Aegis of the Legion,Refillable Potion,Control Ward,Ionian Boots of Lucidity,6612,3509,Lane.bot_lane,Role.support

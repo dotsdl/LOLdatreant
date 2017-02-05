@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,lron Pyrite,Blitzcrank,False,Side.blue,1,1,2,3.0,0,Flash,Ignite,7,False,2820,2375,Nomad's Medallion,Sightstone,Total Biscuit of Rejuvenation,Boots of Speed,,,912,1985,Lane.bot_lane,Role.duo
+1,lc0nic,Hecarim,False,Side.blue,1,1,1,2.0,53,Ghost,Smite,7,False,3654,3175,Hunter's Talisman,Refillable Potion,Sheen,Boots of Speed,Phage,,4494,33001,Lane.jungle,Role.none
+2,dog2,Vayne,False,Side.blue,1,1,1,2.0,68,Flash,Heal,6,False,3449,2900,Doran's Blade,B. F. Sword,Boots of Speed,Dagger,Dagger,Total Biscuit of Rejuvenation,0,15135,Lane.bot_lane,Role.duo
+3,SSBM Hax,Twisted Fate,False,Side.blue,0,2,0,0.0,75,Flash,Ghost,8,False,3504,2335,Doran's Ring,,Catalyst of Aeons,Boots of Speed,Amplifying Tome,,20853,4225,Lane.mid_lane,Role.solo
+4,hashinshin,Yorick,False,Side.blue,1,4,0,0.25,60,Flash,Teleport,8,False,3268,2450,Corrupting Potion,Sheen,Boots of Speed,Cloth Armor,Dagger,,715,21520,Lane.top_lane,Role.solo
+5,Thalies,Katarina,True,Side.red,2,0,0,2.0,89,Ignite,Flash,9,False,4987,2475,,,Long Sword,Long Sword,Sorcerer's Shoes,The Dark Seal,34570,8003,Lane.mid_lane,Role.solo
+6,Ninjacrab,Vi,True,Side.red,1,1,2,3.0,66,Flash,Smite,9,True,5358,1975,Hunter's Machete,Refillable Potion,Caulfield's Warhammer,Boots of Speed,Control Ward,,0,50919,Lane.jungle,Role.none
+7,Yassuo,Yasuo,True,Side.red,6,1,1,7.0,84,Flash,Teleport,9,False,6526,3725,Refillable Potion,Phantom Dancer,Doran's Blade,,Doran's Blade,,10342,42903,Lane.top_lane,Role.solo
+8,Myloo,Lucian,True,Side.red,0,0,3,3.0,79,Flash,Heal,8,False,4616,3375,Doran's Blade,,Caulfield's Warhammer,B. F. Sword,Boots of Speed,,1134,32610,Lane.bot_lane,Role.duo
+9,Rokí,Soraka,True,Side.red,0,3,2,0.6666666666666666,8,Flash,Exhaust,6,False,3277,2075,Frostfang,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,,,,4584,1395,Lane.bot_lane,Role.duo

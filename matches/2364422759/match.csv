@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sawyerr,Taric,False,Side.blue,2,5,5,1.4,28,Ignite,Flash,9,False,5659,4825,Null-Magic Mantle,Boots of Swiftness,Control Ward,,Face of the Mountain,Sightstone,4894,5702,Lane.bot_lane,Role.support
+1,Gareth,Darius,False,Side.blue,1,8,4,0.625,128,Teleport,Flash,11,False,6600,6175,The Black Cleaver,Spectre's Cowl,Corrupting Potion,Boots of Swiftness,Ruby Crystal,,132,63099,Lane.top_lane,Role.solo
+2,TheDankWithinUs,Anivia,False,Side.blue,3,6,1,0.6666666666666666,119,Flash,Ghost,11,True,6723,6070,Negatron Cloak,Tear of the Goddess,Boots of Speed,Rod of Ages,Doran's Ring,Fiendish Codex,52803,4694,Lane.mid_lane,Role.solo
+3,Imaokai,Caitlyn,False,Side.blue,2,7,3,0.7142857142857143,131,Heal,Flash,9,False,6654,5675,Doran's Blade,Pickaxe,Refillable Potion,Cull,Berserker's Greaves,Runaan's Hurricane,780,50130,Lane.bot_lane,Role.carry
+4,ACuteKoreanGirI,Riven,False,Side.blue,3,5,5,1.6,73,Smite,Flash,10,False,6630,6175,Enchantment: Warrior,Boots of Speed,The Black Cleaver,,,,711,61992,Lane.jungle,Role.none
+5,Turc,Bard,True,Side.red,0,4,16,4.0,8,Exhaust,Flash,11,False,6765,4000,Frostfang,,Sightstone,Ionian Boots of Lucidity,Forbidden Idol,Control Ward,11375,6198,Lane.bot_lane,Role.support
+6,Gourish,Elise,True,Side.red,6,1,5,11.0,84,Smite,Flash,13,False,9234,6645,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Negatron Cloak,Needlessly Large Rod,Giant's Belt,56540,21940,Lane.jungle,Role.none
+7,Pht,Katarina,True,Side.red,14,2,2,8.0,120,Ignite,Flash,12,False,10563,9585,The Dark Seal,Hextech Gunblade,Sorcerer's Shoes,Sunfire Cape,Spectre's Cowl,Amplifying Tome,75263,12965,Lane.jungle,Role.none
+8,Bo0sted Monkeys,Ezreal,True,Side.red,8,2,6,7.0,115,Flash,Heal,11,False,8971,7633,Doran's Blade,Manamune,Trinity Force,Ionian Boots of Lucidity,,,8093,55084,Lane.bot_lane,Role.carry
+9,GonGoon,Kled,True,Side.red,3,2,8,5.5,122,Teleport,Flash,12,False,8194,6125,Doran's Shield,Tiamat,Refillable Potion,The Black Cleaver,Control Ward,Ninja Tabi,0,65430,Lane.top_lane,Role.solo

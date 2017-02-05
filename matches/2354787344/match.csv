@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,sKaMaTo XXX,Vayne,False,Side.blue,9,8,9,2.25,185,Flash,Heal,14,True,12145,11825,Doran's Blade,Phantom Dancer,Statikk Shiv,Berserker's Greaves,Infinity Edge,Vampiric Scepter,27910,79108,Lane.bot_lane,Role.carry
+1,am Juicy,Rek'Sai,False,Side.blue,5,5,9,2.8,176,Flash,Teleport,15,False,10660,10475,Mercury's Treads,The Black Cleaver,Sunfire Cape,Spirit Visage,Doran's Shield,,25168,73584,Lane.top_lane,Role.solo
+2,Betabet,Hecarim,False,Side.blue,8,9,10,2.0,113,Ghost,Smite,13,False,10437,9558,Mercury's Treads,Enchantment: Cinderhulk,Trinity Force,Chain Vest,Giant's Belt,,17443,79772,Lane.jungle,Role.none
+3,o Cero o,Thresh,False,Side.blue,1,5,20,4.2,41,Flash,Exhaust,12,False,8571,8375,Ruby Sightstone,Redemption,Face of the Mountain,,Boots of Mobility,Chalice of Harmony,15064,6604,Lane.bot_lane,Role.support
+4,Yanni Tsunami,Katarina,False,Side.blue,11,9,4,1.6666666666666667,199,Ignite,Flash,14,False,12124,12160,Rabadon's Deathcap,Zhonya's Hourglass,Amplifying Tome,Sorcerer's Shoes,Luden's Echo,,111553,8395,Lane.mid_lane,Role.solo
+5,ShadowofSelf,Shaco,True,Side.red,17,3,9,8.666666666666666,135,Flash,Smite,16,False,15521,14225,Ravenous Hydra,Elixir of Wrath,Enchantment: Warrior,Infinity Edge,Statikk Shiv,Berserker's Greaves,31450,125820,Lane.jungle,Role.none
+6,goompa,Caitlyn,True,Side.red,11,11,11,2.0,167,Heal,Flash,15,False,13321,12720,Berserker's Greaves,Last Whisper,Vampiric Scepter,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,2199,141602,Lane.bot_lane,Role.duo
+7,DankyIsToxic,Morgana,True,Side.red,3,7,16,2.7142857142857144,152,Ignite,Flash,15,False,11534,11925,Doran's Ring,Zz'Rot Portal,Frost Queen's Claim,Abyssal Scepter,Needlessly Large Rod,Sorcerer's Shoes,75688,13916,Lane.mid_lane,Role.solo
+8,Iing,Kennen,True,Side.red,5,6,9,2.3333333333333335,179,Flash,Teleport,14,False,11691,10625,Zz'Rot Portal,Hextech Protobelt-01,Zhonya's Hourglass,Ionian Boots of Lucidity,Needlessly Large Rod,,72345,20147,Lane.top_lane,Role.solo
+9,My Kat Evolved,Alistar,True,Side.red,0,7,13,1.8571428571428572,36,Exhaust,Flash,13,False,7701,6925,Knight's Vow,Sightstone,Face of the Mountain,,,Boots of Mobility,12936,13830,Lane.bot_lane,Role.duo

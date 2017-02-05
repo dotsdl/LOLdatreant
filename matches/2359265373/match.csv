@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hi Im QiaoSusu,Ezreal,False,Side.blue,3,6,5,1.3333333333333333,119,Flash,Heal,10,False,6952,6000,Phage,Boots of Speed,Sheen,Manamune,Dagger,Doran's Blade,16246,48589,Lane.bot_lane,Role.carry
+1,Hi Chen Sir,Kennen,False,Side.blue,7,4,1,2.0,172,Teleport,Flash,12,False,8299,7585,Hextech Protobelt-01,Zhonya's Hourglass,Refillable Potion,Doran's Blade,Sorcerer's Shoes,Amplifying Tome,56356,18847,Lane.top_lane,Role.solo
+2,A Bottle Of,Karma,False,Side.blue,1,9,2,0.3333333333333333,77,Flash,Ignite,9,False,5122,4650,The Dark Seal,Refillable Potion,Morellonomicon,Sorcerer's Shoes,,,27107,7426,Lane.mid_lane,Role.solo
+3,TSM Layne,Thresh,False,Side.blue,2,7,3,0.7142857142857143,31,Flash,Ignite,9,False,5344,5075,Face of the Mountain,Boots of Mobility,Ruby Sightstone,,,,6386,4719,Lane.bot_lane,Role.support
+4,AchiIIes Heal,Kindred,False,Side.blue,2,6,4,1.0,52,Flash,Smite,9,False,5898,5675,Zeal,Control Ward,Recurve Bow,Enchantment: Bloodrazor,Boots of Speed,,1297,48763,Lane.jungle,Role.none
+5,Cotopaco Parce,Ryze,True,Side.red,13,1,7,20.0,150,Ghost,Flash,14,True,11872,8725,Tear of the Goddess,Rod of Ages,Refillable Potion,Ionian Boots of Lucidity,Morellonomicon,Needlessly Large Rod,107468,11758,Lane.mid_lane,Role.solo
+6,damightywolf,Vi,True,Side.red,6,3,3,3.0,112,Smite,Flash,12,False,9426,7983,Enchantment: Warrior,Mercury's Treads,Refillable Potion,Trinity Force,Cloth Armor,,2578,119194,Lane.jungle,Role.none
+7,Sn4cky,Nautilus,True,Side.red,7,2,3,5.0,165,Flash,Teleport,13,False,10413,8275,Corrupting Potion,Zz'Rot Portal,Ruby Sightstone,Mercury's Treads,Bami's Cinder,Spectre's Cowl,50274,13850,Lane.top_lane,Role.solo
+8,Holtergeist,Janna,True,Side.red,2,3,16,6.0,8,Exhaust,Flash,11,False,7455,5550,Redemption,Sightstone,Refillable Potion,Ancient Coin,Boots of Mobility,Aegis of the Legion,4028,5424,Lane.bot_lane,Role.support
+9,Never Been,Vayne,True,Side.red,4,6,5,1.5,121,Flash,Heal,11,False,9048,7100,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,,,0,76076,Lane.bot_lane,Role.carry

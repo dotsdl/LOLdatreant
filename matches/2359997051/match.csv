@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog maple,Ashe,True,Side.blue,7,4,11,4.5,245,Heal,Flash,15,True,14643,11500,Doran's Blade,Refillable Potion,Mercurial Scimitar,Berserker's Greaves,Phantom Dancer,Essence Reaver,1734,149380,Lane.bot_lane,Role.carry
+1,Abou222,LeBlanc,True,Side.blue,5,3,9,4.666666666666667,175,Ignite,Flash,15,False,11529,10725,Needlessly Large Rod,Giant's Belt,Abyssal Scepter,Doran's Ring,Mercury's Treads,Morellonomicon,68593,14171,Lane.mid_lane,Role.solo
+2,Henrÿ,Graves,True,Side.blue,11,3,7,6.0,216,Flash,Smite,17,False,16219,14150,Mercury's Treads,Enchantment: Warrior,B. F. Sword,Maw of Malmortius,Phantom Dancer,The Black Cleaver,6528,247029,Lane.jungle,Role.none
+3,Snaffs,Blitzcrank,True,Side.blue,3,2,15,9.0,26,Exhaust,Flash,13,False,9608,7875,Targon's Brace,Hextech Protobelt-01,Ruby Sightstone,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,7849,7031,Lane.bot_lane,Role.support
+4,less       Fear,Maokai,True,Side.blue,4,2,8,6.0,220,Teleport,Flash,16,False,12403,10875,Sunfire Cape,Spirit Visage,Guardian Angel,Mercury's Treads,Ruby Crystal,Doran's Ring,116339,21954,Lane.top_lane,Role.solo
+5,W Yuè,Morgana,False,Side.red,1,8,3,0.5,21,Flash,Exhaust,11,False,6680,6450,Locket of the Iron Solari,Eye of the Watchers,Crystalline Bracer,Control Ward,Boots of Speed,Faerie Charm,12401,3582,Lane.bot_lane,Role.support
+6,Sheiden,Kennen,False,Side.red,5,5,1,1.2,259,Teleport,Flash,16,False,11305,11025,Doran's Blade,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,106372,27923,Lane.mid_lane,Role.solo
+7,4911,Nidalee,False,Side.red,7,5,0,1.4,156,Smite,Flash,14,False,10142,9775,Enchantment: Runic Echoes,Zhonya's Hourglass,Rylai's Crystal Scepter,Refillable Potion,Ionian Boots of Lucidity,,112500,13824,Lane.jungle,Role.none
+8,Nijijinchuuriki,Jhin,False,Side.red,0,7,4,0.5714285714285714,162,Flash,Heal,12,False,8319,7825,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,,6872,83509,Lane.bot_lane,Role.carry
+9,TheBolvar,Poppy,False,Side.red,1,5,3,0.8,179,Flash,Teleport,13,False,8587,7875,Corrupting Potion,Spirit Visage,Sunfire Cape,Boots of Speed,Glacial Shroud,Cloth Armor,23877,69024,Lane.top_lane,Role.solo

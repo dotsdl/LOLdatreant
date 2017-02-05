@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lovelights,Braum,True,Side.blue,0,3,20,6.666666666666667,30,Flash,Exhaust,13,False,9456,8575,Face of the Mountain,Ruby Sightstone,Knight's Vow,Ionian Boots of Lucidity,Aegis of the Legion,,8484,9656,Lane.bot_lane,Role.support
+1,MasterJemz,Darius,True,Side.blue,9,5,7,3.2,165,Teleport,Flash,15,False,12146,11100,Ninja Tabi,The Black Cleaver,Randuin's Omen,Dead Man's Plate,Doran's Shield,Null-Magic Mantle,172,89322,Lane.top_lane,Role.solo
+2,NA Mechanics,Ashe,True,Side.blue,12,5,10,4.4,207,Heal,Flash,14,False,14568,13775,Essence Reaver,Quicksilver Sash,Runaan's Hurricane,Berserker's Greaves,Vampiric Scepter,Infinity Edge,4868,139685,Lane.bot_lane,Role.carry
+3,kingleauge,Twitch,True,Side.blue,16,8,6,2.75,93,Flash,Smite,14,True,14090,12575,Bilgewater Cutlass,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Enchantment: Bloodrazor,Recurve Bow,548,118029,Lane.jungle,Role.none
+4,Champion Mage,Xerath,True,Side.blue,2,4,9,2.75,155,Ghost,Flash,14,False,10518,9025,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,,81049,8869,Lane.mid_lane,Role.solo
+5,bilibili tv,Rengar,False,Side.red,14,7,4,2.5714285714285716,141,Smite,Flash,15,False,12490,12325,Duskblade of Draktharr,Youmuu's Ghostblade,Boots of Swiftness,Enchantment: Warrior,Giant's Belt,Warden's Mail,10789,119059,Lane.jungle,Role.none
+6,herolineage,Vayne,False,Side.red,6,8,6,1.5,150,Flash,Heal,13,False,9799,8475,Doran's Blade,Blade of the Ruined King,Pickaxe,Berserker's Greaves,Phantom Dancer,,79,72958,Lane.bot_lane,Role.carry
+7,Miles Storm,Lux,False,Side.red,4,7,5,1.2857142857142858,158,Flash,Ghost,14,False,8864,7925,Sorcerer's Shoes,Luden's Echo,The Dark Seal,Morellonomicon,,,81204,12594,Lane.mid_lane,Role.solo
+8,2342563463634,Blitzcrank,False,Side.red,0,8,12,1.5,47,Exhaust,Flash,11,False,6633,6175,Sightstone,Targon's Brace,Boots of Mobility,Redemption,Crystalline Bracer,Crystalline Bracer,14176,8211,Lane.bot_lane,Role.support
+9,PRyan24,Riven,False,Side.red,1,9,4,0.5555555555555556,137,Flash,Teleport,13,False,7731,7075,Doran's Blade,Tiamat,The Black Cleaver,Boots of Speed,Vampiric Scepter,Pickaxe,0,69088,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Auberaun,Karma,False,Side.blue,1,1,1,2.0,2,Flash,Exhaust,4,False,2256,1250,,,,,,,2483,1352,Lane.bot_lane,Role.duo
+1,You all boosted,Graves,False,Side.blue,0,4,1,0.25,33,Flash,Smite,6,False,2440,2225,Hunter's Machete,Caulfield's Warhammer,Health Potion,Dagger,Boots of Speed,,748,20613,Lane.jungle,Role.none
+2,jaíme,Ahri,False,Side.blue,0,4,1,0.25,29,Flash,Ignite,6,False,2111,1610,Doran's Ring,Doran's Ring,Amplifying Tome,,,,4164,3861,Lane.mid_lane,Role.solo
+3,Allorim,Poppy,False,Side.blue,0,1,0,0.0,33,Flash,Teleport,6,False,2138,2100,Ruby Crystal,Cloth Armor,Boots of Mobility,,,,305,9907,Lane.top_lane,Role.solo
+4,Hi Im A Sheep,Twitch,False,Side.blue,1,2,1,1.0,40,Flash,Heal,5,False,2633,2200,Control Ward,Boots of Speed,,Pickaxe,Doran's Blade,Doran's Blade,0,10888,Lane.bot_lane,Role.duo
+5,BabièThug,LeBlanc,True,Side.red,3,0,2,5.0,61,Flash,Ignite,8,True,4484,3010,,Refillable Potion,Lost Chapter,Doran's Ring,Sorcerer's Shoes,,21999,7810,Lane.mid_lane,Role.solo
+6,Hârken,Draven,True,Side.red,6,0,0,6.0,68,Flash,Heal,7,False,5992,3625,Doran's Blade,B. F. Sword,Vampiric Scepter,Pickaxe,,,0,32830,Lane.bot_lane,Role.duo
+7,Max Waldo,Olaf,True,Side.red,1,1,2,3.0,35,Ghost,Smite,7,False,3683,1725,Hunter's Talisman,Hunter's Potion,Control Ward,,,Ionian Boots of Lucidity,969,29066,Lane.jungle,Role.none
+8,konkwon,Brand,True,Side.red,0,0,5,5.0,10,Flash,Ignite,6,False,3666,2050,Frostfang,,,Sightstone,Control Ward,,8017,5064,Lane.bot_lane,Role.duo
+9,Renger cat,Darius,True,Side.red,1,1,0,1.0,63,Teleport,Flash,7,False,3585,3300,Corrupting Potion,Doran's Blade,Phage,Caulfield's Warhammer,,,69,27063,Lane.top_lane,Role.solo

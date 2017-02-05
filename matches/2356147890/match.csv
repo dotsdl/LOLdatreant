@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Emiii,Orianna,False,Side.blue,3,7,5,1.1428571428571428,163,Flash,Barrier,14,False,9427,9085,Doran's Ring,Abyssal Scepter,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,Seeker's Armguard,85723,13665,Lane.mid_lane,Role.solo
+1,Best Trydyr Na,Talon,False,Side.blue,10,5,5,3.0,194,Smite,Flash,16,False,12784,12050,Enchantment: Warrior,Edge of Night,Duskblade of Draktharr,Ninja Tabi,Caulfield's Warhammer,Long Sword,3459,153138,Lane.jungle,Role.none
+2,virginitythief,Tryndamere,False,Side.blue,1,10,6,0.7,137,Teleport,Flash,14,False,9085,8750,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Guinsoo's Rageblade,,,46,97536,Lane.top_lane,Role.solo
+3,Soligo,Vayne,False,Side.blue,4,13,2,0.46153846153846156,148,Heal,Flash,13,False,9676,9775,Control Ward,Doran's Blade,Zeal,Infinity Edge,Statikk Shiv,Berserker's Greaves,19623,63359,Lane.bot_lane,Role.carry
+4,Some Fruit,Caitlyn,False,Side.blue,3,14,4,0.5,72,Exhaust,Flash,12,False,9040,9200,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Dagger,Dagger,,569,56151,Lane.bot_lane,Role.support
+5,chaubb,LeBlanc,True,Side.red,6,6,7,2.1666666666666665,192,Flash,Ignite,16,False,12427,11785,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Rabadon's Deathcap,Amplifying Tome,113482,14599,Lane.mid_lane,Role.solo
+6,TszHin OvO,Thresh,True,Side.red,5,4,20,6.25,34,Ignite,Flash,14,True,10592,9775,Zhonya's Hourglass,Ruby Sightstone,Ninja Tabi,The Dark Seal,Frozen Heart,Relic Shield,20208,7634,Lane.bot_lane,Role.support
+7,Chatless Wonder,Jarvan IV,True,Side.red,18,5,8,5.2,224,Exhaust,Flash,18,False,16637,13480,Ravenous Hydra,Youmuu's Ghostblade,Serrated Dirk,The Black Cleaver,Doran's Blade,Ninja Tabi,5535,176214,Lane.top_lane,Role.solo
+8,HellKatabrousse,Ezreal,True,Side.red,9,4,12,5.25,186,Heal,Flash,15,False,13873,11433,Doran's Blade,Muramana,Trinity Force,B. F. Sword,Blade of the Ruined King,,14034,140935,Lane.bot_lane,Role.carry
+9,Hi I m Realer,Pantheon,True,Side.red,11,2,16,13.5,122,Smite,Flash,16,False,14551,11870,Enchantment: Warrior,Negatron Cloak,Chain Vest,The Black Cleaver,Mortal Reminder,Ninja Tabi,14075,143063,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,West Coast Carry,Zilean,False,Side.blue,1,6,6,1.1666666666666667,107,Flash,Teleport,11,False,5867,5660,Doran's Ring,Doran's Ring,Fiendish Codex,Rod of Ages,Amplifying Tome,Boots of Speed,46249,6573,Lane.mid_lane,Role.solo
+1,aShady,Alistar,False,Side.blue,1,4,8,2.25,32,Ignite,Flash,10,False,5234,4800,Aegis of the Legion,Boots of Mobility,Eye of the Equinox,Null-Magic Mantle,,,9228,4834,Lane.bot_lane,Role.support
+2,McCashDollar,Shaco,False,Side.blue,1,8,2,0.375,104,Teleport,Ignite,11,False,5879,5350,Corrupting Potion,Hextech Protobelt-01,The Dark Seal,Ninja Tabi,Long Sword,Doran's Ring,24063,20751,Lane.top_lane,Role.solo
+3,retarded virgin,Hecarim,False,Side.blue,6,3,1,2.3333333333333335,110,Ghost,Smite,12,False,7989,7508,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Ruby Crystal,Boots of Speed,Cloth Armor,10903,79183,Lane.jungle,Role.none
+4,Ari Kingu,Caitlyn,False,Side.blue,3,2,1,2.0,153,Heal,Flash,11,False,7211,6475,Doran's Blade,Berserker's Greaves,B. F. Sword,Pickaxe,Runaan's Hurricane,,289,65120,Lane.bot_lane,Role.carry
+5,Walljumper,Shyvana,True,Side.red,10,0,2,12.0,136,Smite,Ghost,14,False,11881,11308,Randuin's Omen,Long Sword,Mercury's Treads,Trinity Force,Enchantment: Bloodrazor,Null-Magic Mantle,68095,76110,Lane.jungle,Role.none
+6,Dyrus,Poppy,True,Side.red,1,1,7,8.0,43,Ignite,Flash,10,False,7131,6525,Locket of the Iron Solari,Face of the Mountain,Sightstone,Mercury's Treads,,,1300,24684,Lane.bot_lane,Role.support
+7,Dhokla,Jayce,True,Side.red,6,4,2,2.0,174,Flash,Teleport,14,True,10441,9725,The Bloodthirster,Pickaxe,Doran's Blade,The Black Cleaver,,Boots of Swiftness,11779,97758,Lane.top_lane,Role.solo
+8,Zaganox,Ezreal,True,Side.red,1,1,8,9.0,172,Heal,Flash,12,False,9483,8933,Doran's Blade,Trinity Force,Vampiric Scepter,Manamune,,Ionian Boots of Lucidity,6731,66839,Lane.bot_lane,Role.carry
+9,MyTimeIsNow,Orianna,True,Side.red,5,6,3,1.3333333333333333,129,Ghost,Flash,12,False,8684,6860,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Amplifying Tome,Needlessly Large Rod,64891,11709,Lane.mid_lane,Role.solo

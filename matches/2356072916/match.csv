@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Best Fiormere NA,Fiora,True,Side.blue,0,11,2,0.18181818181818182,121,Teleport,Flash,13,False,8317,6950,Doran's Blade,Tiamat,Ninja Tabi,The Black Cleaver,Vampiric Scepter,,752,69282,Lane.top_lane,Role.solo
+1,a fed child,Vayne,True,Side.blue,16,3,9,8.333333333333334,141,Heal,Flash,16,False,13096,11450,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Statikk Shiv,Infinity Edge,,22618,84997,Lane.bot_lane,Role.carry
+2,Miyuriha,Talon,True,Side.blue,7,7,9,2.2857142857142856,49,Ignite,Flash,12,True,9260,8800,Youmuu's Ghostblade,Refillable Potion,Duskblade of Draktharr,Chain Vest,Null-Magic Mantle,Ninja Tabi,1213,51228,Lane.bot_lane,Role.support
+3,TFB0Y,Yasuo,True,Side.blue,6,5,1,1.4,195,Ignite,Flash,14,False,10832,10050,Doran's Shield,Berserker's Greaves,Phantom Dancer,The Black Cleaver,Guardian Angel,Ruby Crystal,30004,93382,Lane.mid_lane,Role.solo
+4,am sol,Lee Sin,True,Side.blue,14,4,10,6.0,83,Smite,Flash,16,False,12846,10900,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Maw of Malmortius,Ravenous Hydra,Ruby Crystal,17543,94580,Lane.jungle,Role.none
+5,sbimp,Ezreal,False,Side.red,3,11,10,1.1818181818181819,134,Flash,Heal,12,False,8577,8000,Iceborn Gauntlet,Manamune,Ionian Boots of Lucidity,Doran's Blade,Last Whisper,,10986,55786,Lane.bot_lane,Role.carry
+6,Stevens 1v9,Jax,False,Side.red,13,5,1,2.8,205,Teleport,Flash,15,False,11632,10583,Hextech Gunblade,Trinity Force,Jaurim's Fist,Doran's Blade,Doran's Blade,Mercury's Treads,28641,99066,Lane.top_lane,Role.solo
+7,Bentonhell,Gnar,False,Side.red,2,10,5,0.7,49,Exhaust,Flash,11,False,6944,6250,Ninja Tabi,Refillable Potion,Face of the Mountain,Sightstone,Warden's Mail,Giant's Belt,5254,28217,Lane.bot_lane,Role.support
+8,DeathCrayonS,Teemo,False,Side.red,7,8,5,1.5,104,Flash,Smite,13,False,9146,8910,Nashor's Tooth,Hunter's Potion,Sorcerer's Shoes,Seeker's Armguard,Enchantment: Runic Echoes,Amplifying Tome,64191,32228,Lane.jungle,Role.none
+9,Piggy Azalea,Ahri,False,Side.red,5,9,5,1.1111111111111112,134,Flash,Teleport,12,False,8813,8585,Doran's Ring,Zhonya's Hourglass,Morellonomicon,Needlessly Large Rod,Amplifying Tome,Boots of Speed,43582,7991,Lane.mid_lane,Role.solo

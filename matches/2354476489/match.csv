@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ginormous Noob,Karma,True,Side.blue,1,1,12,13.0,19,Flash,Exhaust,11,False,8135,6700,Ionian Boots of Lucidity,,Eye of the Watchers,Ardent Censer,Forbidden Idol,,21113,8436,Lane.bot_lane,Role.support
+1,Rapidx,Yasuo,True,Side.blue,12,5,3,3.0,203,Flash,Teleport,15,True,12945,11000,Frozen Mallet,Phantom Dancer,Ninja Tabi,Infinity Edge,Doran's Blade,,27078,108254,Lane.top_lane,Role.solo
+2,Arcade AHRl,Ahri,True,Side.blue,2,3,8,3.3333333333333335,144,Flash,Ignite,13,False,8683,7175,Lost Chapter,Luden's Echo,The Dark Seal,Doran's Ring,Mercury's Treads,Fiendish Codex,53443,13137,Lane.mid_lane,Role.carry
+3,Lose,Ezreal,True,Side.blue,5,2,4,4.5,148,Flash,Heal,10,False,9482,9200,Quicksilver Sash,Muramana,Iceborn Gauntlet,Vampiric Scepter,Ionian Boots of Lucidity,Doran's Blade,8280,66149,Lane.bot_lane,Role.carry
+4,FSU Dream,Lee Sin,True,Side.blue,6,1,5,11.0,72,Smite,Flash,12,False,9089,8000,Refillable Potion,Control Ward,Enchantment: Warrior,Ionian Boots of Lucidity,Dead Man's Plate,Spectre's Cowl,14435,59591,Lane.mid_lane,Role.support
+5,Thalies,Janna,False,Side.red,0,3,5,1.6666666666666667,8,Exhaust,Flash,10,False,4626,3925,,Sightstone,Frostfang,Forbidden Idol,Ionian Boots of Lucidity,,4000,2084,Lane.bot_lane,Role.support
+6,KarasMai,Kha'Zix,False,Side.red,5,2,2,3.5,131,Flash,Smite,13,False,8545,7825,,Ravenous Hydra,Refillable Potion,Ionian Boots of Lucidity,,Enchantment: Warrior,4144,103618,Lane.jungle,Role.none
+7,DaDieYan,Twisted Fate,False,Side.red,3,8,3,0.75,116,Flash,Ignite,11,False,7132,6900,Doran's Ring,The Dark Seal,Morellonomicon,,Boots of Speed,Hextech Protobelt-01,59103,5705,Lane.mid_lane,Role.solo
+8,Killlua,Vayne,False,Side.red,1,4,2,0.75,140,Heal,Flash,11,False,6768,6575,Doran's Blade,B. F. Sword,Berserker's Greaves,Statikk Shiv,Pickaxe,,1735,46855,Lane.bot_lane,Role.carry
+9,RichERich,Riven,False,Side.red,3,9,4,0.7777777777777778,139,Flash,Teleport,12,False,7493,7000,Ravenous Hydra,Caulfield's Warhammer,Doran's Blade,Boots of Speed,Phage,,0,72583,Lane.top_lane,Role.solo

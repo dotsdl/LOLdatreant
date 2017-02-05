@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Harry Ward,Malzahar,False,Side.blue,2,5,6,1.6,125,Flash,Cleanse,12,False,6925,6735,Doran's Ring,Morellonomicon,Needlessly Large Rod,The Dark Seal,Amplifying Tome,Ionian Boots of Lucidity,52150,17781,Lane.mid_lane,Role.solo
+1,IIKairosII,Blitzcrank,False,Side.blue,1,6,3,0.6666666666666666,23,Flash,Ignite,9,False,4874,3875,Crystalline Bracer,Ruby Crystal,Sightstone,Relic Shield,Boots of Mobility,Cloth Armor,6531,4931,Lane.bot_lane,Role.support
+2,Lovechemist,Lee Sin,False,Side.blue,2,1,3,5.0,93,Smite,Flash,10,False,6609,6025,Control Ward,Boots of Speed,Enchantment: Warrior,Phage,Caulfield's Warhammer,,11260,60875,Lane.jungle,Role.none
+3,LawlietLelouch,Riven,False,Side.blue,2,4,3,1.25,144,Flash,Teleport,12,False,7068,6350,Maw of Malmortius,Refillable Potion,Caulfield's Warhammer,Control Ward,Phage,Boots of Speed,0,66719,Lane.top_lane,Role.solo
+4,Zask,Vayne,False,Side.blue,2,2,0,1.0,151,Flash,Heal,11,False,6888,6525,Doran's Blade,B. F. Sword,Pickaxe,Berserker's Greaves,Phantom Dancer,Total Biscuit of Rejuvenation,0,56651,Lane.bot_lane,Role.carry
+5,RaptorKid,Kennen,True,Side.red,0,2,2,1.0,166,Teleport,Flash,12,False,7542,7450,Doran's Blade,Zhonya's Hourglass,Hextech Protobelt-01,Control Ward,Sorcerer's Shoes,Health Potion,56414,17534,Lane.top_lane,Role.solo
+6,Morning,Kha'Zix,True,Side.red,10,1,4,14.0,101,Flash,Smite,13,True,10249,8650,B. F. Sword,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Long Sword,5062,122877,Lane.jungle,Role.none
+7,Cat Person,Soraka,True,Side.red,0,2,12,6.0,8,Flash,Heal,11,False,6181,5475,Redemption,Sightstone,,Frostfang,Ruby Crystal,Ionian Boots of Lucidity,5088,2508,Lane.bot_lane,Role.support
+8,Falco Mechanic,Jhin,True,Side.red,6,2,3,4.5,177,Exhaust,Flash,12,False,9380,8250,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,Null-Magic Mantle,,3512,111554,Lane.bot_lane,Role.carry
+9,GKyrios,Lissandra,True,Side.red,2,2,6,4.0,143,Flash,Teleport,12,False,7924,7250,Doran's Ring,,Hextech Protobelt-01,Ionian Boots of Lucidity,Abyssal Scepter,,75883,9539,Lane.mid_lane,Role.solo

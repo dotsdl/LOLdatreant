@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tobias Fate,Twisted Fate,False,Side.blue,5,8,6,1.375,150,Flash,Exhaust,14,False,10643,9635,Needlessly Large Rod,Lich Bane,Rod of Ages,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,80591,9115,Lane.top_lane,Role.solo
+1,OUT DO YA,Varus,False,Side.blue,6,5,8,2.8,157,Flash,Heal,13,False,10400,10050,Youmuu's Ghostblade,Manamune,Doran's Blade,Ionian Boots of Lucidity,Duskblade of Draktharr,,4945,96169,Lane.bot_lane,Role.carry
+2,Happo,Ivern,False,Side.blue,2,8,17,2.375,29,Flash,Exhaust,12,False,7983,7675,Eye of the Equinox,,Ionian Boots of Lucidity,,Athene's Unholy Grail,Redemption,9355,5948,Lane.bot_lane,Role.support
+3,Lukwer,Ryze,False,Side.blue,5,7,11,2.2857142857142856,161,Flash,Ghost,13,False,10068,9500,Morellonomicon,Needlessly Large Rod,Control Ward,Tear of the Goddess,Rod of Ages,Ionian Boots of Lucidity,90917,9602,Lane.mid_lane,Role.solo
+4,Darvec,Hecarim,False,Side.blue,11,4,5,4.0,146,Smite,Ghost,14,False,11896,11208,Enchantment: Cinderhulk,Cloth Armor,Trinity Force,Cloth Armor,Ionian Boots of Lucidity,Spirit Visage,17049,96068,Lane.jungle,Role.none
+5,out skizzled,Yasuo,True,Side.red,5,5,7,2.4,198,Flash,Teleport,15,False,12205,12000,Elixir of Wrath,Mercurial Scimitar,Infinity Edge,Mercury's Treads,Doran's Blade,Phantom Dancer,23777,105100,Lane.top_lane,Role.solo
+6,Rich Homie Lucky,Lee Sin,True,Side.red,3,6,8,1.8333333333333333,100,Flash,Smite,14,False,9903,9200,Chain Vest,Enchantment: Warrior,Tiamat,Giant's Belt,Banshee's Veil,Ionian Boots of Lucidity,11519,79032,Lane.jungle,Role.none
+7,BabièThug,Cassiopeia,True,Side.red,12,7,8,2.857142857142857,173,Flash,Cleanse,15,False,13598,11300,Rylai's Crystal Scepter,Needlessly Large Rod,Seraph's Embrace,Morellonomicon,Doran's Ring,,115207,7462,Lane.mid_lane,Role.solo
+8,W Yuè,Janna,True,Side.red,0,5,21,4.2,9,Flash,Exhaust,13,False,9064,6900,Frost Queen's Claim,Redemption,Sightstone,Ionian Boots of Lucidity,Faerie Charm,Faerie Charm,10395,7043,Lane.bot_lane,Role.support
+9,Imaokai,Caitlyn,True,Side.red,12,6,4,2.6666666666666665,186,Heal,Flash,14,True,13398,13350,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,Morellonomicon,2035,139752,Lane.bot_lane,Role.carry

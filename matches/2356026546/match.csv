@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vincente Vu,Lucian,True,Side.blue,4,4,2,1.5,155,Flash,Exhaust,13,True,9751,8950,Boots of Speed,Death's Dance,The Black Cleaver,Zeal,,Doran's Blade,2301,81806,Lane.top_lane,Role.solo
+1,Makavéli,Olaf,True,Side.blue,2,3,7,3.0,156,Smite,Ghost,14,False,10101,8650,Enchantment: Cinderhulk,Randuin's Omen,Refillable Potion,Ionian Boots of Lucidity,Kindlegem,Spectre's Cowl,19044,93953,Lane.jungle,Role.none
+2,N810HO,Viktor,True,Side.blue,7,5,5,2.4,170,Flash,Ghost,14,False,10877,9055,Ionian Boots of Lucidity,Perfect Hex Core,Rylai's Crystal Scepter,Amplifying Tome,Amplifying Tome,Doran's Ring,99515,9853,Lane.mid_lane,Role.solo
+3,Hello I am Dust,Lulu,True,Side.blue,3,6,12,2.5,25,Exhaust,Flash,12,False,9187,7025,Redemption,Eye of the Watchers,,,Boots of Swiftness,Aegis of the Legion,9729,4859,Lane.bot_lane,Role.support
+4,dog maple,Kog'Maw,True,Side.blue,8,5,6,2.8,173,Heal,Flash,12,False,12305,10100,Doran's Blade,Guinsoo's Rageblade,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,Pickaxe,32809,86615,Lane.bot_lane,Role.carry
+5,NiMura,Jinx,False,Side.red,6,6,8,2.3333333333333335,170,Flash,Heal,13,False,11240,10625,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,896,105997,Lane.bot_lane,Role.carry
+6,OddieLAN,Thresh,False,Side.red,0,5,13,2.6,36,Flash,Ignite,11,False,7064,5175,Face of the Mountain,Sightstone,Boots of Swiftness,,Total Biscuit of Rejuvenation,Ruby Crystal,10135,5354,Lane.bot_lane,Role.support
+7,fallenbandit,Yasuo,False,Side.red,7,4,5,3.0,201,Flash,Teleport,15,False,11377,8875,Cloak of Agility,Doran's Shield,Doran's Blade,Phantom Dancer,Ninja Tabi,Frozen Mallet,34026,82754,Lane.top_lane,Role.solo
+8,3in1warrior,Hecarim,False,Side.red,6,6,9,2.5,116,Ghost,Smite,13,False,10465,9418,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Boots of Swiftness,Chain Vest,Giant's Belt,12522,93959,Lane.jungle,Role.none
+9,Imentice,Syndra,False,Side.red,4,3,5,3.0,183,Ghost,Flash,13,False,10348,8960,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,101609,11480,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xzevz,Lee Sin,False,Side.blue,4,4,7,2.75,153,Smite,Flash,15,True,10962,10225,Ninja Tabi,Dead Man's Plate,Ruby Crystal,Randuin's Omen,Enchantment: Warrior,Rejuvenation Bead,25635,118794,Lane.jungle,Role.none
+1,Vincente Vu,Ezreal,False,Side.blue,2,7,6,1.1428571428571428,218,Flash,Heal,14,False,11768,10825,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,The Bloodthirster,,Doran's Blade,17900,107016,Lane.bot_lane,Role.carry
+2,Fiku,Alistar,False,Side.blue,1,6,9,1.6666666666666667,57,Flash,Teleport,12,False,8720,8625,Redemption,Eye of the Equinox,Locket of the Iron Solari,Boots of Mobility,Giant's Belt,Refillable Potion,19181,8507,Lane.bot_lane,Role.support
+3,Hyorimaru,Anivia,False,Side.blue,7,3,4,3.6666666666666665,247,Flash,Ghost,15,False,12868,12335,Doran's Ring,Sorcerer's Shoes,Zhonya's Hourglass,Seraph's Embrace,Morellonomicon,Amplifying Tome,140955,7546,Lane.mid_lane,Role.solo
+4,Thalies,Irelia,False,Side.blue,5,6,3,1.3333333333333333,184,Teleport,Flash,15,False,10968,11008,Trinity Force,Corrupting Potion,Mercury's Treads,Sterak's Gage,Guardian Angel,Cloth Armor,1784,85546,Lane.top_lane,Role.solo
+5,Juuichi san ,Varus,True,Side.red,5,5,7,2.4,231,Ghost,Flash,15,False,13004,10850,Lord Dominik's Regards,Youmuu's Ghostblade,Doran's Blade,Ionian Boots of Lucidity,Muramana,B. F. Sword,8179,148704,Lane.mid_lane,Role.solo
+6,Sawyerr,Thresh,True,Side.red,3,2,19,11.0,37,Ignite,Flash,13,False,9577,8025,Relic Shield,Locket of the Iron Solari,,Ionian Boots of Lucidity,Redemption,Ruby Sightstone,14638,6406,Lane.bot_lane,Role.support
+7,Rositajonez,Jhin,True,Side.red,4,6,11,2.5,227,Heal,Flash,15,False,12431,11950,Doran's Blade,Essence Reaver,Boots of Swiftness,Infinity Edge,Rapid Firecannon,Null-Magic Mantle,13141,152113,Lane.bot_lane,Role.carry
+8,Myloo,Poppy,True,Side.red,8,2,7,7.5,188,Flash,Teleport,16,False,13061,11150,Ninja Tabi,Corrupting Potion,Sunfire Cape,Dead Man's Plate,Spirit Visage,Chain Vest,52515,93047,Lane.top_lane,Role.solo
+9,Rokí,Riven,True,Side.red,6,4,9,3.75,157,Flash,Smite,15,False,12982,10900,The Black Cleaver,Death's Dance,Guardian Angel,Hunter's Machete,Mercury's Treads,,0,145862,Lane.jungle,Role.none

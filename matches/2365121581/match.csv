@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,theylovetolove,Caitlyn,False,Side.blue,5,8,7,1.5,168,Flash,Heal,13,False,10067,9475,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,,1166,103660,Lane.bot_lane,Role.carry
+1,N04H,Skarner,False,Side.blue,6,7,8,2.0,88,Flash,Smite,12,False,9196,8725,Enchantment: Cinderhulk,Stinger,Boots of Swiftness,Frozen Heart,Phage,,27492,43714,Lane.jungle,Role.none
+2,Slush,Janna,False,Side.blue,1,6,14,2.5,14,Flash,Exhaust,12,False,7792,7375,Mikael's Crucible,Redemption,Sightstone,Frostfang,Ionian Boots of Lucidity,Control Ward,8838,7761,Lane.bot_lane,Role.support
+3,RealTeemo,Teemo,False,Side.blue,10,10,3,1.3,163,Ignite,Flash,14,False,11087,10900,Doran's Ring,Nashor's Tooth,Morellonomicon,,Luden's Echo,Sorcerer's Shoes,82021,24434,Lane.top_lane,Role.solo
+4,Japanese Import,Orianna,False,Side.blue,5,7,7,1.7142857142857142,161,Ghost,Flash,13,False,9828,8485,Sorcerer's Shoes,Doran's Ring,Luden's Echo,Doran's Ring,Morellonomicon,,91942,9678,Lane.mid_lane,Role.solo
+5,MorningBaconBits,Ivern,True,Side.red,8,4,17,6.25,96,Flash,Smite,15,False,11776,9575,Redemption,Locket of the Iron Solari,Guardian Angel,Mejai's Soulstealer,Boots of Mobility,Hunter's Talisman,26547,10758,Lane.jungle,Role.none
+6,Abezethibod,Kayle,True,Side.red,12,5,11,4.6,216,Flash,Teleport,16,False,14382,14075,Doran's Ring,Nashor's Tooth,Wit's End,Guinsoo's Rageblade,Runaan's Hurricane,Berserker's Greaves,108259,41840,Lane.top_lane,Role.solo
+7,Stunningstyles,Leona,True,Side.red,6,4,14,5.0,53,Flash,Exhaust,14,True,10071,8850,Face of the Mountain,Boots of Mobility,Ruby Sightstone,Iceborn Gauntlet,Giant's Belt,,21953,14359,Lane.bot_lane,Role.duo
+8,StoCoBoLo,Twitch,True,Side.red,8,9,11,2.111111111111111,151,Heal,Flash,13,False,11639,10650,Doran's Blade,Control Ward,Statikk Shiv,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,2742,85982,Lane.bot_lane,Role.duo
+9,CarrilIo,Ryze,True,Side.red,4,6,12,2.6666666666666665,154,Flash,Ghost,14,False,10773,8025,Tear of the Goddess,Rod of Ages,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,,84983,9822,Lane.mid_lane,Role.solo

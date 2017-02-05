@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KeIsi Monroe,Rengar,False,Side.blue,4,5,0,0.8,111,Ignite,Flash,11,True,7058,6550,The Black Cleaver,Refillable Potion,Giant's Belt,Chain Vest,Ionian Boots of Lucidity,Cloth Armor,12911,52337,Lane.top_lane,Role.solo
+1,Riot Wittrock,Olaf,False,Side.blue,1,2,1,1.0,91,Smite,Ghost,11,False,6479,5675,Enchantment: Cinderhulk,Ninja Tabi,Chain Vest,Refillable Potion,Giant's Belt,,11313,58900,Lane.jungle,Role.none
+2,CookiesOP,Janna,False,Side.blue,0,6,3,0.5,8,Flash,Exhaust,9,False,5002,4550,Forbidden Idol,Crystalline Bracer,Refillable Potion,Sightstone,Nomad's Medallion,Boots of Mobility,2795,3391,Lane.bot_lane,Role.support
+3,Applum,Miss Fortune,False,Side.blue,2,4,1,0.75,186,Flash,Heal,11,False,7951,7225,Essence Reaver,B. F. Sword,,Berserker's Greaves,Dagger,Doran's Blade,2845,88210,Lane.bot_lane,Role.carry
+4,MindCalm,Cassiopeia,False,Side.blue,1,4,1,0.5,174,Flash,Exhaust,12,False,7414,6775,Refillable Potion,Doran's Ring,Rylai's Crystal Scepter,Tear of the Goddess,Seeker's Armguard,Fiendish Codex,67703,8974,Lane.mid_lane,Role.solo
+5,Xaexel,Gnar,True,Side.red,4,1,4,8.0,127,Teleport,Flash,13,False,7737,6745,Doran's Blade,Ninja Tabi,Spectre's Cowl,Negatron Cloak,Sunfire Cape,,15035,53637,Lane.top_lane,Role.solo
+6,Torn Anus,Diana,True,Side.red,6,0,6,12.0,103,Flash,Smite,12,False,8381,7385,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Rod of Ages,Dagger,Amplifying Tome,68046,28573,Lane.jungle,Role.none
+7,GunshyMonkey,Varus,True,Side.red,4,3,10,4.666666666666667,147,Heal,Flash,11,False,8792,7750,Doran's Blade,Essence Reaver,Cull,Runaan's Hurricane,Boots of Speed,Dagger,4243,75049,Lane.bot_lane,Role.carry
+8,support or troll,Nami,True,Side.red,3,1,10,13.0,19,Ignite,Flash,10,False,6744,6025,,Frost Queen's Claim,Sightstone,Ruby Crystal,Aegis of the Legion,Boots of Mobility,8302,6777,Lane.bot_lane,Role.support
+9,Niles,Zed,True,Side.red,4,3,2,2.0,197,Flash,Cleanse,13,False,8774,8275,Refillable Potion,Blade of the Ruined King,Youmuu's Ghostblade,Boots of Speed,Caulfield's Warhammer,Long Sword,6426,96601,Lane.mid_lane,Role.solo

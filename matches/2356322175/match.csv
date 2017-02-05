@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Adrian Riven,Jayce,False,Side.blue,6,12,5,0.9166666666666666,188,Teleport,Flash,15,False,11087,10675,Youmuu's Ghostblade,B. F. Sword,Ninja Tabi,Serrated Dirk,The Black Cleaver,Long Sword,22485,95815,Lane.top_lane,Role.solo
+1,Kachu,Viktor,False,Side.blue,9,8,6,1.875,183,Ghost,Flash,15,False,11816,11310,Perfect Hex Core,Blasting Wand,Negatron Cloak,Rylai's Crystal Scepter,Needlessly Large Rod,Sorcerer's Shoes,107864,12323,Lane.mid_lane,Role.solo
+2,SKY Fear,Jhin,False,Side.blue,8,5,8,3.2,239,Flash,Heal,15,False,12668,11800,Infinity Edge,,Boots of Swiftness,Rapid Firecannon,,Essence Reaver,13469,146480,Lane.bot_lane,Role.carry
+3,Seoksang,Ivern,False,Side.blue,0,9,10,1.1111111111111112,102,Smite,Flash,14,False,10100,9525,Redemption,Aegis of the Legion,Enchantment: Cinderhulk,Athene's Unholy Grail,Ionian Boots of Lucidity,Ruby Crystal,26449,5583,Lane.jungle,Role.none
+4,Vagular,Leona,False,Side.blue,3,10,9,1.2,42,Exhaust,Flash,11,False,8776,8375,Targon's Brace,Sightstone,Redemption,Knight's Vow,Mercury's Treads,Ruby Crystal,6105,7695,Lane.bot_lane,Role.support
+5,Drowning,Graves,True,Side.red,9,4,10,4.75,153,Flash,Smite,16,False,13855,12825,Caulfield's Warhammer,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,Death's Dance,Hexdrinker,4240,161996,Lane.jungle,Role.none
+6,Alex Ich 1,Ashe,True,Side.red,9,6,12,3.5,162,Flash,Heal,15,True,13804,13200,Doran's Blade,Essence Reaver,Chain Vest,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,1934,120629,Lane.bot_lane,Role.carry
+7,ZatsMod,Syndra,True,Side.red,5,7,15,2.857142857142857,180,Flash,Ghost,16,False,13040,12100,Doran's Ring,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,133277,11368,Lane.mid_lane,Role.solo
+8,DZG Doomtrobo,Morgana,True,Side.red,7,6,27,5.666666666666667,20,Exhaust,Flash,14,False,12976,11600,Redemption,Knight's Vow,Mercury's Treads,Eye of the Watchers,Rylai's Crystal Scepter,,23460,8680,Lane.bot_lane,Role.support
+9,Tobias Fate,Gangplank,True,Side.red,14,3,7,7.0,268,Flash,Exhaust,18,False,17662,14658,Ninja Tabi,Youmuu's Ghostblade,Trinity Force,Infinity Edge,Corrupting Potion,Statikk Shiv,17047,259299,Lane.top_lane,Role.solo

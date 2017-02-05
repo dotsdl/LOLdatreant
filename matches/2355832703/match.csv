@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TomWardTheSpook,Ekko,False,Side.blue,1,6,2,0.5,50,Flash,Smite,10,False,5451,5050,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Aether Wisp,Sheen,,34858,16583,Lane.jungle,Role.none
+1,EmC Nasty,Darius,False,Side.blue,3,7,0,0.42857142857142855,131,Teleport,Flash,12,False,6578,6100,Giant's Belt,,Ruby Crystal,Boots of Speed,Chain Vest,The Black Cleaver,0,67229,Lane.top_lane,Role.solo
+2,Marzy,Jinx,False,Side.blue,0,4,1,0.25,133,Heal,Flash,9,False,6405,5675,Doran's Blade,Runaan's Hurricane,,Pickaxe,Berserker's Greaves,,407,49007,Lane.bot_lane,Role.carry
+3,always plan ahea,Varus,False,Side.blue,5,3,0,1.6666666666666667,159,Flash,Ignite,12,False,7722,7400,Doran's Blade,Maw of Malmortius,Ionian Boots of Lucidity,Manamune,,,4270,70280,Lane.mid_lane,Role.solo
+4,Best Rend NA,Janna,False,Side.blue,1,4,1,0.5,4,Exhaust,Flash,8,False,4600,4500,Ionian Boots of Lucidity,Talisman of Ascension,Sightstone,,,,1980,2355,Lane.bot_lane,Role.support
+5,ReliabIe,Poppy,True,Side.red,6,3,2,2.6666666666666665,121,Flash,Teleport,12,False,7432,6850,Corrupting Potion,Sunfire Cape,Control Ward,Boots of Speed,Iceborn Gauntlet,Cloth Armor,23136,37363,Lane.top_lane,Role.solo
+6,x0HelloPencil0x,Vayne,True,Side.red,4,1,4,8.0,147,Heal,Flash,12,False,8661,6000,Doran's Blade,B. F. Sword,Statikk Shiv,Cull,Berserker's Greaves,,6974,51753,Lane.bot_lane,Role.carry
+7,xXIanCuiXx,Diana,True,Side.red,1,4,2,0.75,140,Teleport,Flash,12,False,6956,5625,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Doran's Ring,Dagger,Dagger,79191,12210,Lane.mid_lane,Role.solo
+8,Bytme,Zilean,True,Side.red,1,0,8,9.0,15,Flash,Exhaust,10,False,5844,4160,Ionian Boots of Lucidity,Sightstone,Crystalline Bracer,Frostfang,Faerie Charm,Amplifying Tome,15162,2442,Lane.bot_lane,Role.support
+9,gotoe11,Lee Sin,True,Side.red,12,2,4,8.0,92,Flash,Smite,13,True,9580,6725,,Tiamat,Enchantment: Warrior,Boots of Mobility,Pickaxe,Vampiric Scepter,14932,78252,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Lucian,False,Side.blue,6,6,7,2.1666666666666665,178,Flash,Heal,13,False,9845,9350,Refillable Potion,Quicksilver Sash,Berserker's Greaves,Statikk Shiv,Doran's Blade,Essence Reaver,5067,71521,Lane.bot_lane,Role.carry
+1,Huhi,Viktor,False,Side.blue,1,5,6,1.4,189,Flash,Ghost,14,False,8413,6985,The Dark Seal,Doran's Ring,Amplifying Tome,Needlessly Large Rod,Perfect Hex Core,Ionian Boots of Lucidity,105249,7943,Lane.mid_lane,Role.solo
+2,Santa Quas,Poppy,False,Side.blue,2,7,7,1.2857142857142858,49,Ignite,Flash,11,False,7068,6200,Face of the Mountain,Refillable Potion,Locket of the Iron Solari,Sightstone,Boots of Speed,Ruby Crystal,1268,19856,Lane.bot_lane,Role.support
+3,07scaping,Jarvan IV,False,Side.blue,9,6,4,2.1666666666666665,120,Smite,Flash,13,False,9671,8875,Enchantment: Warrior,Tiamat,Control Ward,Ruby Crystal,Ninja Tabi,Duskblade of Draktharr,9640,90824,Lane.jungle,Role.none
+4,McCashDollar,Shaco,False,Side.blue,2,4,3,1.25,143,Teleport,Ignite,13,False,8037,8050,Tiamat,Hextech Protobelt-01,Sheen,Mercury's Treads,The Dark Seal,Jaurim's Fist,55806,30391,Lane.top_lane,Role.solo
+5,PutYourHeartsUp,Sejuani,True,Side.red,4,5,5,1.8,190,Flash,Teleport,15,False,9778,8775,Corrupting Potion,Chain Vest,Giant's Belt,Iceborn Gauntlet,Spirit Visage,Ionian Boots of Lucidity,91025,21093,Lane.top_lane,Role.solo
+6,Abou222,Ryze,True,Side.red,4,3,8,4.0,203,Ghost,Flash,15,False,10759,9175,Tear of the Goddess,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Abyssal Scepter,Needlessly Large Rod,124289,8166,Lane.mid_lane,Role.solo
+7,retarded virgin,Graves,True,Side.red,14,3,2,5.333333333333333,166,Flash,Smite,15,True,13241,9625,Enchantment: Warrior,Dagger,Berserker's Greaves,The Black Cleaver,Vampiric Scepter,Zeal,2673,155883,Lane.jungle,Role.none
+8,cokes,Jhin,True,Side.red,2,5,6,1.6,148,Heal,Flash,12,False,8827,7775,Essence Reaver,Rapid Firecannon,Doran's Blade,Boots of Swiftness,Control Ward,,1514,76063,Lane.bot_lane,Role.carry
+9,Doublelift,Karma,True,Side.red,4,4,5,2.25,29,Flash,Exhaust,11,False,8099,6325,Redemption,Ionian Boots of Lucidity,Eye of the Watchers,Cloth Armor,Null-Magic Mantle,,17232,6090,Lane.bot_lane,Role.support

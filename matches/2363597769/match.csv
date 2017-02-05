@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Le5le,Syndra,True,Side.blue,6,3,4,3.3333333333333335,174,Ghost,Flash,13,False,9587,7300,Doran's Ring,Blasting Wand,Morellonomicon,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,86202,10424,Lane.mid_lane,Role.solo
+1,Longzhu Crash,Nocturne,True,Side.blue,9,2,9,9.0,166,Smite,Flash,15,False,12319,11545,Mercury's Treads,Duskblade of Draktharr,Youmuu's Ghostblade,Enchantment: Bloodrazor,Chain Vest,Negatron Cloak,8248,146903,Lane.jungle,Role.none
+2,Braums Mustache,Braum,True,Side.blue,2,2,11,6.5,40,Flash,Exhaust,11,False,7390,6100,Mercury's Treads,Sightstone,Face of the Mountain,Crystalline Bracer,Crystalline Bracer,Cloth Armor,5646,7668,Lane.bot_lane,Role.support
+3,GKyrios,Rumble,True,Side.blue,3,5,7,2.0,129,Flash,Teleport,12,False,8493,7460,Doran's Shield,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,Amplifying Tome,Seeker's Armguard,69590,6966,Lane.top_lane,Role.solo
+4,unfolding89,Caitlyn,True,Side.blue,3,2,9,6.0,141,Flash,Heal,12,False,9088,7700,Doran's Blade,Recurve Bow,,Berserker's Greaves,Zeal,Infinity Edge,467,83036,Lane.bot_lane,Role.carry
+5,FlameShotzZ,Lee Sin,False,Side.red,6,4,4,2.5,120,Smite,Flash,13,True,8785,7525,Enchantment: Warrior,Sightstone,Phage,Hexdrinker,Boots of Speed,Caulfield's Warhammer,27203,84424,Lane.jungle,Role.none
+6,KamiyaHrc,Poppy,False,Side.red,3,5,6,1.8,126,Teleport,Flash,12,False,7401,6875,Sunfire Cape,Corrupting Potion,Kindlegem,Mercury's Treads,Spectre's Cowl,Cloth Armor,16530,50411,Lane.top_lane,Role.solo
+7,DDefiance,Ashe,False,Side.red,1,4,6,1.75,125,Heal,Flash,11,False,6937,6625,Doran's Blade,B. F. Sword,Berserker's Greaves,Pickaxe,Runaan's Hurricane,,1170,57692,Lane.bot_lane,Role.carry
+8,Alon456,Morgana,False,Side.red,1,6,8,1.5,4,Exhaust,Flash,10,False,6146,5600,Boots of Mobility,Seeker's Armguard,Eye of the Watchers,Fiendish Codex,,,13037,2397,Lane.bot_lane,Role.support
+9,Edgeism,Ryze,False,Side.red,3,5,4,1.4,165,Exhaust,Flash,13,False,8518,7570,Archangel's Staff,Negatron Cloak,Boots of Speed,Refillable Potion,Rod of Ages,Cloth Armor,80201,12036,Lane.mid_lane,Role.solo

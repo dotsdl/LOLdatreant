@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Modx,Riven,True,Side.blue,12,6,4,2.6666666666666665,184,Flash,Teleport,14,False,13032,11925,The Black Cleaver,Ravenous Hydra,Control Ward,Death's Dance,Ninja Tabi,Long Sword,0,133625,Lane.top_lane,Role.solo
+1,Grapermelon,Corki,True,Side.blue,8,2,11,9.5,173,Heal,Flash,13,False,12534,11683,Sorcerer's Shoes,,Doran's Blade,Trinity Force,Infinity Edge,Rapid Firecannon,77947,39164,Lane.bot_lane,Role.carry
+2,Swifte,Thresh,True,Side.blue,2,1,18,20.0,29,Flash,Ignite,12,False,8566,7725,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,Boots of Mobility,Ruby Crystal,,12093,8084,Lane.bot_lane,Role.support
+3,Fiku,Olaf,True,Side.blue,10,5,8,3.6,109,Ghost,Smite,13,True,12255,11175,Enchantment: Cinderhulk,Randuin's Omen,Giant's Belt,Ionian Boots of Lucidity,Spirit Visage,Chain Vest,17710,83146,Lane.jungle,Role.none
+4,Gube,LeBlanc,True,Side.blue,7,3,8,5.0,117,Flash,Ignite,13,False,10258,8610,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Abyssal Scepter,Cloth Armor,Amplifying Tome,52085,11369,Lane.mid_lane,Role.solo
+5,Fàkèr  ,Janna,False,Side.red,0,6,10,1.6666666666666667,9,Exhaust,Flash,11,False,6258,5925,Redemption,Null-Magic Mantle,Sightstone,Ionian Boots of Lucidity,Ancient Coin,Aegis of the Legion,8933,2833,Lane.bot_lane,Role.support
+6,Gourish,Kha'Zix,False,Side.red,7,7,4,1.5714285714285714,102,Smite,Flash,13,False,9272,9250,Enchantment: Warrior,Edge of Night,Boots of Mobility,Serrated Dirk,Pickaxe,Long Sword,4119,91868,Lane.jungle,Role.none
+7,Pht,Darius,False,Side.red,4,11,5,0.8181818181818182,146,Teleport,Flash,13,False,8770,8830,Doran's Shield,Corrupting Potion,Ninja Tabi,Sunfire Cape,Thornmail,Giant's Belt,25021,67017,Lane.top_lane,Role.solo
+8,Hi I am XXOO,Annie,False,Side.red,3,8,7,1.25,159,Ignite,Flash,13,False,8772,8600,Mejai's Soulstealer,Zhonya's Hourglass,Hextech Protobelt-01,Doran's Ring,,Sorcerer's Shoes,69737,12927,Lane.mid_lane,Role.solo
+9,Gorhunter,Jhin,False,Side.red,3,7,6,1.2857142857142858,154,Heal,Flash,13,False,8912,8700,Doran's Blade,Refillable Potion,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Pickaxe,8260,97167,Lane.bot_lane,Role.carry

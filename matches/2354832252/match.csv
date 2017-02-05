@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Weeaboo Riven,Caitlyn,False,Side.blue,1,4,0,0.25,122,Flash,Heal,10,False,6266,6200,Doran's Blade,Boots of Speed,Recurve Bow,Cull,Infinity Edge,Dagger,458,47839,Lane.bot_lane,Role.carry
+1,Kind Fate,Lee Sin,False,Side.blue,2,2,2,2.0,107,Smite,Flash,11,False,6478,6250,Refillable Potion,Tiamat,Enchantment: Warrior,Pickaxe,Boots of Mobility,Long Sword,9895,71570,Lane.jungle,Role.none
+2,Allorim,Maokai,False,Side.blue,0,5,1,0.2,125,Flash,Teleport,12,False,5550,5325,The Dark Seal,Sunfire Cape,Control Ward,Corrupting Potion,Spectre's Cowl,Boots of Speed,49771,12114,Lane.top_lane,Role.solo
+3,Maxtrobo,Ryze,False,Side.blue,2,4,0,0.5,133,Flash,Ghost,11,False,6393,5825,Tear of the Goddess,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,,63675,10164,Lane.mid_lane,Role.solo
+4,SandPaperX,Karma,False,Side.blue,0,5,3,0.6,9,Flash,Exhaust,7,False,4313,3925,Refillable Potion,Eye of the Watchers,Boots of Speed,Control Ward,Null-Magic Mantle,Cloth Armor,5203,1902,Lane.bot_lane,Role.support
+5,Liquid fabbbyyy,Twitch,True,Side.red,9,2,4,6.5,139,Flash,Heal,11,False,10116,6300,Infinity Edge,Dagger,Cull,Berserker's Greaves,Doran's Blade,Dagger,0,79146,Lane.bot_lane,Role.carry
+6,C9 Smoothie,Bard,True,Side.red,1,0,15,16.0,13,Flash,Exhaust,10,False,5778,2525,,Sightstone,Spellthief's Edge,Boots of Mobility,,,8587,5906,Lane.bot_lane,Role.support
+7,Katar,Shen,True,Side.red,2,1,6,8.0,137,Flash,Teleport,11,False,7188,5525,Kindlegem,Sunfire Cape,,Doran's Shield,Mercury's Treads,,35787,28413,Lane.top_lane,Role.solo
+8,Hakuho,Vi,True,Side.red,1,2,10,5.5,66,Smite,Flash,10,False,6643,4550,Enchantment: Warrior,,Boots of Speed,Phage,,,1238,67553,Lane.jungle,Role.none
+9,SSBM Hax,Twisted Fate,True,Side.red,7,1,1,8.0,149,Flash,Ghost,12,True,9232,8875,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Seeker's Armguard,Lich Bane,Control Ward,75449,11264,Lane.mid_lane,Role.solo

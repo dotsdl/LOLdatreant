@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WJNA,Jayce,False,Side.blue,4,6,1,0.8333333333333334,182,Flash,Teleport,13,False,8855,8675,Youmuu's Ghostblade,Manamune,Boots of Speed,Phage,Caulfield's Warhammer,Doran's Blade,11461,91934,Lane.top_lane,Role.solo
+1,Jadsbutt,Draven,False,Side.blue,0,5,0,0.0,179,Flash,Heal,11,False,7461,7150,Infinity Edge,Zeal,,Doran's Blade,Doran's Blade,Berserker's Greaves,0,86543,Lane.bot_lane,Role.carry
+2,Nero Valentine,Lee Sin,False,Side.blue,1,5,2,0.6,81,Smite,Flash,11,False,7209,6450,Enchantment: Warrior,Tiamat,Boots of Swiftness,Control Ward,Chain Vest,Ruby Crystal,10470,72701,Lane.jungle,Role.none
+3,TheIntenseMango,Thresh,False,Side.blue,1,4,5,1.5,38,Flash,Ignite,10,False,5969,5325,Sightstone,Redemption,Ruby Crystal,Targon's Brace,Boots of Mobility,,7999,5914,Lane.bot_lane,Role.support
+4,Lukwer,Vladimir,False,Side.blue,1,2,2,1.5,164,Flash,Ghost,12,False,7477,7310,Ionian Boots of Lucidity,Hextech Protobelt-01,Spirit Visage,Amplifying Tome,Cloth Armor,,66864,13668,Lane.mid_lane,Role.solo
+5,colourkevin,Janna,True,Side.red,2,0,11,13.0,8,Exhaust,Flash,11,False,7604,6100,Talisman of Ascension,Redemption,Control Ward,Boots of Speed,Sightstone,,3953,5926,Lane.bot_lane,Role.support
+6,Xzevz,Jax,True,Side.red,6,2,7,6.5,132,Smite,Flash,13,True,10116,9108,Ninja Tabi,Enchantment: Bloodrazor,Trinity Force,Refillable Potion,Bilgewater Cutlass,,27879,94865,Lane.jungle,Role.none
+7,bobqinXD,Orianna,True,Side.red,4,3,10,4.666666666666667,201,Flash,Ghost,14,False,10494,9175,Rylai's Crystal Scepter,Needlessly Large Rod,Morellonomicon,,Sorcerer's Shoes,Doran's Ring,102534,14966,Lane.mid_lane,Role.solo
+8,MooseHater,Wukong,True,Side.red,2,2,6,4.0,163,Flash,Teleport,13,False,9328,8775,Boots of Swiftness,Ravenous Hydra,Youmuu's Ghostblade,Doran's Blade,Doran's Blade,,1434,83703,Lane.top_lane,Role.solo
+9,Wizzy,Ezreal,True,Side.red,8,0,5,13.0,201,Heal,Flash,14,False,12439,10775,Doran's Blade,Iceborn Gauntlet,,The Bloodthirster,Ionian Boots of Lucidity,Muramana,21789,95972,Lane.bot_lane,Role.carry

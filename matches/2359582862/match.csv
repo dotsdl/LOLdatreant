@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Malya EUW ,Yasuo,False,Side.blue,0,9,1,0.1111111111111111,216,Flash,Exhaust,14,False,10302,8750,Doran's Blade,Statikk Shiv,Mercury's Treads,Infinity Edge,Brawler's Gloves,,40164,94566,Lane.mid_lane,Role.solo
+1,Pumpfake,Nami,False,Side.blue,2,4,9,2.75,20,Exhaust,Flash,14,False,9137,8900,Mikael's Crucible,Redemption,Eye of the Watchers,Boots of Mobility,Control Ward,Glacial Shroud,12055,7659,Lane.bot_lane,Role.support
+2,Treebro001,Ivern,False,Side.blue,4,5,11,3.0,93,Flash,Smite,16,False,10904,10400,Redemption,Locket of the Iron Solari,Needlessly Large Rod,Mercury's Treads,Athene's Unholy Grail,Giant's Belt,22616,14962,Lane.jungle,Role.none
+3,er ber ter,Vayne,False,Side.blue,9,6,3,2.0,284,Heal,Flash,15,False,14267,14280,Infinity Edge,Mercurial Scimitar,Berserker's Greaves,Statikk Shiv,Phantom Dancer,,54841,145588,Lane.bot_lane,Role.carry
+4,Aellectris,Cassiopeia,False,Side.blue,7,8,6,1.625,200,Teleport,Flash,16,False,12435,12195,Zhonya's Hourglass,Negatron Cloak,Seraph's Embrace,Morellonomicon,Spectre's Cowl,Doran's Ring,122006,10815,Lane.top_lane,Role.solo
+5,TooMany,Janna,True,Side.red,0,4,16,4.0,15,Flash,Exhaust,15,False,9892,8150,Faerie Charm,Eye of the Oasis,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Redemption,Ionian Boots of Lucidity,8942,4125,Lane.bot_lane,Role.support
+6,swordstoo,Caitlyn,True,Side.red,5,7,1,0.8571428571428571,224,Heal,Flash,14,False,12053,9900,Cull,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Hexdrinker,Doran's Blade,516,147632,Lane.bot_lane,Role.carry
+7,Locke Lamora,Ahri,True,Side.red,14,1,7,21.0,260,Ignite,Flash,17,False,15663,11535,Sorcerer's Shoes,Doran's Ring,Void Staff,Luden's Echo,Morellonomicon,Amplifying Tome,118764,18864,Lane.mid_lane,Role.solo
+8,Darvec,Hecarim,True,Side.red,13,1,4,17.0,167,Smite,Ghost,17,True,14427,13358,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,Spirit Visage,Dead Man's Plate,26966,160668,Lane.jungle,Role.none
+9,Extempted,Maokai,True,Side.red,0,9,8,0.8888888888888888,216,Teleport,Flash,15,False,11462,11570,Randuin's Omen,Spirit Visage,Mercury's Treads,Sunfire Cape,Negatron Cloak,,121733,21992,Lane.top_lane,Role.solo

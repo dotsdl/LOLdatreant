@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Oziemaster,Ahri,False,Side.blue,2,13,4,0.46153846153846156,213,Ignite,Flash,14,False,11045,10800,Doran's Ring,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Zhonya's Hourglass,,75110,18401,Lane.mid_lane,Role.solo
+1,Sunae,Janna,False,Side.blue,0,7,14,2.0,10,Exhaust,Flash,14,False,9231,8400,Locket of the Iron Solari,Eye of the Oasis,Redemption,The Dark Seal,Boots of Mobility,Chain Vest,9982,2437,Lane.bot_lane,Role.support
+2,Tyflos,Lee Sin,False,Side.blue,11,10,4,1.5,80,Smite,Flash,14,False,11336,9900,Boots of Mobility,Zz'Rot Portal,,Giant's Belt,Enchantment: Warrior,Banshee's Veil,13015,74061,Lane.jungle,Role.none
+3,EmperorOfBronze,Heimerdinger,False,Side.blue,6,8,4,1.25,193,Flash,Ignite,16,False,13190,13375,Rylai's Crystal Scepter,Eye of the Watchers,Zz'Rot Portal,Sorcerer's Shoes,Liandry's Torment,,121358,18630,Lane.top_lane,Role.solo
+4,herolineage,Ezreal,False,Side.blue,9,5,5,2.8,289,Flash,Heal,16,False,14931,13183,Caulfield's Warhammer,Blade of the Ruined King,Trinity Force,Muramana,Ionian Boots of Lucidity,Pickaxe,24288,167549,Lane.bot_lane,Role.carry
+5,Bruno Gnars,Darius,True,Side.red,11,5,8,3.8,207,Ghost,Flash,18,True,15021,13850,Titanic Hydra,Corrupting Potion,Boots of Swiftness,Spirit Visage,Dead Man's Plate,The Black Cleaver,243,136460,Lane.top_lane,Role.solo
+6,KoolaidOath,Corki,True,Side.red,13,4,12,6.25,294,Exhaust,Flash,18,False,18229,16008,Rapid Firecannon,Infinity Edge,Hextech Gunblade,Trinity Force,Blasting Wand,Sorcerer's Shoes,180926,54675,Lane.mid_lane,Role.solo
+7,U LoZe,Tahm Kench,True,Side.red,6,4,14,5.0,67,Flash,Exhaust,16,False,11396,10525,Banner of Command,Sightstone,Corrupting Potion,Boots of Swiftness,Spirit Visage,Dead Man's Plate,24811,10763,Lane.bot_lane,Role.support
+8,Ttalgee,Lucian,True,Side.red,7,9,10,1.8888888888888888,227,Flash,Heal,16,False,14628,13850,Berserker's Greaves,Infinity Edge,Statikk Shiv,Essence Reaver,Vampiric Scepter,B. F. Sword,21645,142632,Lane.bot_lane,Role.carry
+9,TicTacTeddyBear,Graves,True,Side.red,6,6,13,3.1666666666666665,197,Smite,Flash,17,False,14513,13175,Enchantment: Warrior,Phantom Dancer,Death's Dance,Berserker's Greaves,Maw of Malmortius,,5913,194936,Lane.jungle,Role.none

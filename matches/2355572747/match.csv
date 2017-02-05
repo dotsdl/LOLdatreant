@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Icerank,Vayne,True,Side.blue,9,4,11,5.0,212,Heal,Flash,16,False,14593,12800,Vampiric Scepter,Infinity Edge,Quicksilver Sash,Berserker's Greaves,Rapid Firecannon,Statikk Shiv,44120,122716,Lane.bot_lane,Role.carry
+1,DoConslaught,Teemo,True,Side.blue,7,3,6,4.333333333333333,184,Flash,Ignite,16,False,13515,11760,Morellonomicon,Nashor's Tooth,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,98684,32580,Lane.top_lane,Role.solo
+2,WatchThePower,Lee Sin,True,Side.blue,7,1,15,22.0,223,Flash,Smite,18,False,15255,14600,Enchantment: Warrior,Ravenous Hydra,Dead Man's Plate,Mercury's Treads,Spirit Visage,Chain Vest,37085,174737,Lane.jungle,Role.none
+3,Eu sunt Dracul,Fizz,True,Side.blue,6,9,10,1.7777777777777777,201,Ignite,Flash,16,False,12886,11150,Ionian Boots of Lucidity,Lich Bane,,Zhonya's Hourglass,Abyssal Scepter,Doran's Ring,91260,25236,Lane.mid_lane,Role.solo
+4,Never Vote Yes,Bard,True,Side.blue,2,7,17,2.7142857142857144,38,Flash,Ignite,16,True,11135,10100,Boots of Mobility,Frost Queen's Claim,Redemption,Sightstone,Knight's Vow,Aegis of the Legion,37473,9444,Lane.bot_lane,Role.support
+5,ZagrE,Twisted Fate,False,Side.red,3,8,8,1.375,162,Flash,Ignite,14,False,11715,10950,Doran's Ring,Zhonya's Hourglass,Lich Bane,,Rod of Ages,Boots of Swiftness,103223,11979,Lane.mid_lane,Role.solo
+6,Zeliais,Ezreal,False,Side.red,7,8,4,1.375,176,Heal,Flash,14,False,12123,11075,Doran's Blade,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,Blade of the Ruined King,Pickaxe,21080,88880,Lane.bot_lane,Role.carry
+7,CPWzzz,Graves,False,Side.red,10,4,4,3.5,242,Smite,Flash,17,False,15926,13825,Youmuu's Ghostblade,B. F. Sword,Maw of Malmortius,Enchantment: Warrior,Ionian Boots of Lucidity,Phantom Dancer,5251,241671,Lane.jungle,Role.none
+8,s7efen2,Annie,False,Side.red,4,6,8,2.0,230,Teleport,Flash,16,False,12935,12225,Doran's Ring,Luden's Echo,Zhonya's Hourglass,Boots of Mobility,Rabadon's Deathcap,Blasting Wand,140676,15820,Lane.top_lane,Role.solo
+9,KatKatKatKatKat,Soraka,False,Side.red,0,5,10,2.0,10,Exhaust,Flash,13,False,8778,8150,Eye of the Oasis,Redemption,Locket of the Iron Solari,Boots of Mobility,Control Ward,,5272,2054,Lane.bot_lane,Role.support

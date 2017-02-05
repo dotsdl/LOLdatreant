@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Klawbro,Caitlyn,True,Side.blue,4,3,5,3.0,151,Flash,Heal,12,True,8545,7325,Doran's Blade,Cull,Berserker's Greaves,Infinity Edge,Zeal,Dagger,464,80858,Lane.bot_lane,Role.carry
+1,weeman100,Kha'Zix,True,Side.blue,12,2,6,9.0,107,Flash,Smite,13,False,10091,8125,Enchantment: Warrior,Tiamat,Refillable Potion,Duskblade of Draktharr,Ionian Boots of Lucidity,,4167,108813,Lane.jungle,Role.none
+2,SaintKilianv2,Ekko,True,Side.blue,7,2,7,7.0,135,Exhaust,Flash,13,False,9477,8975,Doran's Ring,Frost Queen's Claim,Doran's Ring,Ionian Boots of Lucidity,Rabadon's Deathcap,Blasting Wand,68714,10509,Lane.mid_lane,Role.solo
+3,bvcx222,Bard,True,Side.blue,2,2,14,8.0,10,Flash,Ignite,11,False,6626,4125,Sightstone,,Spellthief's Edge,Crystalline Bracer,Forbidden Idol,Boots of Mobility,9716,3402,Lane.bot_lane,Role.support
+4,MaNDashwell,Gangplank,True,Side.blue,1,2,5,3.0,143,Flash,Teleport,12,False,7964,6583,Trinity Force,B. F. Sword,Boots of Speed,Cloak of Agility,,,7489,88435,Lane.top_lane,Role.solo
+5,SoloMeatballOnly,Renekton,False,Side.red,0,4,1,0.25,157,Ignite,Flash,12,False,6660,6575,The Black Cleaver,Refillable Potion,Tiamat,Jaurim's Fist,Boots of Speed,Ruby Crystal,1432,65176,Lane.top_lane,Role.solo
+6,Sheathix,Trundle,False,Side.red,3,2,2,2.5,32,Flash,Exhaust,9,False,5227,5175,Face of the Mountain,Ninja Tabi,Health Potion,Null-Magic Mantle,Sightstone,Cloth Armor,556,11805,Lane.bot_lane,Role.support
+7,goompa,Jhin,False,Side.red,1,7,4,0.7142857142857143,134,Heal,Flash,10,False,7511,7250,Boots of Speed,Doran's Blade,Total Biscuit of Rejuvenation,Essence Reaver,Zeal,Kircheis Shard,646,63132,Lane.bot_lane,Role.carry
+8,J D,Katarina,False,Side.red,5,8,0,0.625,102,Ignite,Flash,10,False,6581,5810,Hextech Gunblade,Giant's Belt,,Amplifying Tome,The Dark Seal,Boots of Speed,44005,6765,Lane.mid_lane,Role.solo
+9,Malaydian,Nocturne,False,Side.red,2,5,2,0.8,95,Flash,Smite,10,False,6518,6200,Enchantment: Bloodrazor,Hunter's Potion,Ninja Tabi,Warden's Mail,Giant's Belt,,2631,65036,Lane.jungle,Role.none

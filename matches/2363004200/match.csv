@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mr Gimix,Ziggs,False,Side.blue,0,0,0,0.0,0,Ignite,Flash,1,False,647,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+1,YaThatWasABanana,Lulu,False,Side.blue,0,1,0,0.0,0,Flash,Exhaust,2,False,734,500,Spellthief's Edge,,,,,,381,973,Lane.bot_lane,Role.duo
+2,TwitchTV LOLFILL,Jhin,False,Side.blue,0,1,0,0.0,9,Heal,Flash,2,False,809,500,Doran's Blade,,,,,,95,3780,Lane.bot_lane,Role.duo
+3,Washing Dishes,Riven,False,Side.blue,0,0,0,0.0,9,Teleport,Flash,2,False,818,500,Health Potion,Doran's Shield,,,,,0,1328,Lane.top_lane,Role.solo
+4,CedR1CK GOD,Evelynn,False,Side.blue,0,0,0,0.0,13,Smite,Flash,3,False,1013,500,Hunter's Talisman,Refillable Potion,,,,,3696,2120,Lane.jungle,Role.none
+5,Quaal,Fizz,True,Side.red,1,0,0,1.0,10,Flash,Teleport,2,True,1235,500,,Corrupting Potion,,,,,789,1484,Lane.jungle,Role.none
+6,ókay,Lee Sin,True,Side.red,0,0,0,0.0,11,Smite,Flash,3,False,1045,500,Hunter's Machete,Refillable Potion,,,,,902,8067,Lane.jungle,Role.none
+7,YlKES,Thresh,True,Side.red,0,0,2,2.0,0,Ignite,Flash,2,False,950,500,Total Biscuit of Rejuvenation,Ancient Coin,,,,,694,783,Lane.bot_lane,Role.duo
+8,Ranksexual,Kennen,True,Side.red,0,0,0,0.0,15,Flash,Teleport,3,False,929,500,Doran's Blade,Health Potion,,,,,818,2283,Lane.top_lane,Role.solo
+9,C9 Sneaky,Caitlyn,True,Side.red,1,0,1,2.0,12,Flash,Heal,2,False,1258,500,Doran's Blade,,,,,,55,4713,Lane.bot_lane,Role.duo

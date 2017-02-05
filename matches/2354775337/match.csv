@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RisenGod,Akali,True,Side.blue,1,4,2,0.75,135,Flash,Exhaust,12,False,8214,7500,The Dark Seal,Sunfire Cape,Titanic Hydra,Refillable Potion,Cloth Armor,Boots of Speed,23133,51549,Lane.top_lane,Role.solo
+1,terrortron,Sona,True,Side.blue,3,0,16,19.0,4,Exhaust,Flash,11,False,8838,6650,Frostfang,Redemption,Boots of Speed,Sightstone,Ardent Censer,,15136,7723,Lane.bot_lane,Role.support
+2,Firé,Yasuo,True,Side.blue,10,4,2,3.0,156,Ignite,Flash,13,False,10811,10150,Berserker's Greaves,Phantom Dancer,Infinity Edge,Hexdrinker,Long Sword,Doran's Blade,21626,85660,Lane.mid_lane,Role.solo
+3,Asyc xD ,Caitlyn,True,Side.blue,3,5,9,2.4,163,Heal,Flash,11,False,9130,6650,Doran's Blade,Berserker's Greaves,Infinity Edge,Dagger,Recurve Bow,,1430,96145,Lane.bot_lane,Role.carry
+4,Japanese Import,Evelynn,True,Side.blue,12,5,4,3.2,77,Smite,Flash,11,False,9550,7660,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Hextech Protobelt-01,Amplifying Tome,Giant's Belt,,43171,19933,Lane.jungle,Role.none
+5,KarasMai,Pantheon,False,Side.red,5,2,3,4.0,128,Flash,Ignite,11,False,8039,6525,Mercury's Treads,Corrupting Potion,Maw of Malmortius,Phage,Long Sword,,4381,69257,Lane.top_lane,Role.solo
+6,Lokreah,Ziggs,False,Side.red,7,5,4,2.2,166,Flash,Heal,14,False,9745,9260,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,103314,10307,Lane.mid_lane,Role.solo
+7,Simply Nora,Quinn,False,Side.red,4,9,5,1.0,42,Ghost,Smite,9,False,6616,6200,Berserker's Greaves,Refillable Potion,Vampiric Scepter,Enchantment: Bloodrazor,Long Sword,Recurve Bow,1379,45134,Lane.jungle,Role.none
+8,MrBlackPanda,Sivir,False,Side.red,2,5,2,0.8,59,Flash,Heal,7,True,5626,4100,Doran's Blade,Total Biscuit of Rejuvenation,Boots of Speed,Caulfield's Warhammer,Cull,B. F. Sword,0,25279,Lane.bot_lane,Role.carry
+9,Darcreationx,Twisted Fate,False,Side.red,0,8,4,0.5,12,Exhaust,Flash,7,False,4853,6270,Mejai's Soulstealer,Sightstone,Refillable Potion,,,Ionian Boots of Lucidity,8877,2623,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keff Bang,Vi,True,Side.blue,1,2,10,5.5,107,Smite,Flash,12,False,7908,7125,Enchantment: Warrior,Giant's Belt,Mercury's Treads,Warden's Mail,Null-Magic Mantle,Long Sword,2756,90511,Lane.jungle,Role.none
+1,Cynestro,Caitlyn,True,Side.blue,4,0,5,9.0,153,Flash,Heal,11,False,8524,8375,Doran's Blade,Runaan's Hurricane,Dagger,Berserker's Greaves,Infinity Edge,,1014,86331,Lane.bot_lane,Role.carry
+2,Empress Bee,Nami,True,Side.blue,1,0,11,12.0,4,Exhaust,Flash,10,False,6716,5920,Frostfang,Sightstone,Boots of Mobility,Control Ward,Athene's Unholy Grail,Forbidden Idol,4976,6425,Lane.bot_lane,Role.support
+3,Tzaphkiel,Katarina,True,Side.blue,11,0,3,14.0,193,Ignite,Flash,14,False,10960,9075,Mejai's Soulstealer,Zhonya's Hourglass,Refillable Potion,Luden's Echo,Sorcerer's Shoes,,93647,12802,Lane.mid_lane,Role.solo
+4,Kuiiiiiiiiiiiii,Kennen,True,Side.blue,4,0,5,9.0,142,Teleport,Flash,12,True,8236,7060,Blasting Wand,Hextech Protobelt-01,Needlessly Large Rod,Doran's Blade,Sorcerer's Shoes,Amplifying Tome,46865,17870,Lane.top_lane,Role.solo
+5,AsianGoneWild,Lee Sin,False,Side.red,1,6,1,0.3333333333333333,102,Smite,Flash,11,False,6553,6100,Tiamat,Refillable Potion,Hexdrinker,Enchantment: Warrior,Boots of Speed,Null-Magic Mantle,9268,79659,Lane.jungle,Role.none
+6,TheNuocMam,Lux,False,Side.red,0,2,0,0.0,150,Heal,Flash,11,False,6616,6600,Refillable Potion,Frost Queen's Claim,Doran's Ring,The Dark Seal,Luden's Echo,Boots of Speed,55142,8835,Lane.mid_lane,Role.solo
+7,one trick hehexd,Jinx,False,Side.red,1,5,1,0.4,127,Flash,Heal,9,False,6204,5600,Doran's Blade,Berserker's Greaves,Dagger,Infinity Edge,,,446,46304,Lane.bot_lane,Role.carry
+8,Just hasagi,Nasus,False,Side.red,0,4,0,0.0,164,Teleport,Flash,12,False,6458,6410,The Dark Seal,Ionian Boots of Lucidity,Lost Chapter,Luden's Echo,Amplifying Tome,Doran's Ring,67650,15656,Lane.top_lane,Role.solo
+9,FACEB00K,Taric,False,Side.red,0,4,2,0.5,39,Exhaust,Flash,9,False,4920,4500,Total Biscuit of Rejuvenation,Eye of the Equinox,Boots of Swiftness,Warden's Mail,,,6614,5413,Lane.bot_lane,Role.support

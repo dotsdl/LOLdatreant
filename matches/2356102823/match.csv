@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Craig Mammalton,Zed,True,Side.blue,12,7,6,2.5714285714285716,87,Ignite,Flash,13,False,8979,7150,Boots of Speed,Youmuu's Ghostblade,Refillable Potion,Duskblade of Draktharr,,Doran's Blade,3453,56601,Lane.mid_lane,Role.none
+1,master marsh,Ryze,True,Side.blue,14,2,7,10.5,129,Flash,Ghost,13,True,10931,10700,Ionian Boots of Lucidity,Rod of Ages,Seraph's Embrace,Morellonomicon,Blasting Wand,,87062,7258,Lane.mid_lane,Role.none
+2,mumu12,Rammus,True,Side.blue,7,3,18,8.333333333333334,58,Flash,Smite,14,False,9295,7125,Enchantment: Cinderhulk,Locket of the Iron Solari,Chain Vest,Ninja Tabi,,,42863,27236,Lane.mid_lane,Role.none
+3,FireBirdDestroyr,Ekko,False,Side.red,2,12,3,0.4166666666666667,71,Barrier,Flash,12,False,5784,4550,Doran's Ring,Hextech Protobelt-01,Doran's Ring,Seeker's Armguard,,,41174,6282,Lane.mid_lane,Role.duo
+4,Gankr,Rengar,False,Side.red,4,15,3,0.4666666666666667,60,Flash,Smite,11,False,6807,6325,Tiamat,Ionian Boots of Lucidity,Enchantment: Warrior,Caulfield's Warhammer,Long Sword,,8368,50582,Lane.jungle,Role.none
+5,YOLQ Sord928,Garen,False,Side.red,5,6,0,0.8333333333333334,110,Flash,Ignite,12,False,7195,5950,Mercury's Treads,Doran's Blade,The Black Cleaver,Chain Vest,Ruby Crystal,,795,54542,Lane.mid_lane,Role.duo

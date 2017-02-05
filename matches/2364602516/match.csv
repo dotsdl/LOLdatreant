@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cuckvele,Fiora,True,Side.blue,4,0,0,4.0,112,Flash,Teleport,12,False,6566,5225,Doran's Blade,Doran's Blade,The Black Cleaver,Ninja Tabi,,,827,36306,Lane.top_lane,Role.solo
+1,BukZacH,Twitch,True,Side.blue,3,1,6,9.0,125,Flash,Heal,10,False,7209,5350,Doran's Blade,Long Sword,Dagger,Dagger,Infinity Edge,Boots of Speed,0,53900,Lane.bot_lane,Role.carry
+2,aShady,Zyra,True,Side.blue,2,1,4,6.0,10,Exhaust,Flash,8,False,5494,3200,Frostfang,Refillable Potion,Sightstone,Sorcerer's Shoes,,,17323,5889,Lane.bot_lane,Role.support
+3,IQ is 201 ,Graves,True,Side.blue,3,2,2,2.5,73,Flash,Smite,9,False,5959,4175,Refillable Potion,Enchantment: Warrior,Berserker's Greaves,Dagger,,,2282,61252,Lane.jungle,Role.none
+4,Spirited Haku,Cassiopeia,True,Side.blue,7,0,3,10.0,100,Flash,Ghost,11,False,7549,5800,Doran's Ring,Refillable Potion,Seeker's Armguard,Tear of the Goddess,Rylai's Crystal Scepter,,37357,11336,Lane.mid_lane,Role.solo
+5,SWKM,Elise,False,Side.red,3,3,0,1.0,77,Smite,Flash,10,False,5594,4435,Enchantment: Bloodrazor,,Aether Wisp,Boots of Speed,Amplifying Tome,,39294,27281,Lane.jungle,Role.none
+6,IA55A55INI,Talon,False,Side.red,0,5,0,0.0,70,Flash,Ignite,9,False,3794,3000,Serrated Dirk,Corrupting Potion,Caulfield's Warhammer,Boots of Speed,,,868,35854,Lane.mid_lane,Role.solo
+7,GonGoon,Kled,False,Side.red,0,2,0,0.0,75,Teleport,Flash,9,False,3742,3300,Doran's Shield,Phage,Refillable Potion,Caulfield's Warhammer,Boots of Speed,,0,23671,Lane.top_lane,Role.solo
+8,zz cicero,Lulu,False,Side.red,0,4,2,0.5,4,Exhaust,Flash,6,False,3216,2400,Boots of Speed,,Sightstone,Frostfang,,Faerie Charm,2729,2041,Lane.bot_lane,Role.support
+9,feud999,Caitlyn,False,Side.red,1,5,0,0.2,102,Flash,Heal,8,True,4688,3575,B. F. Sword,Berserker's Greaves,Doran's Blade,,Cull,,733,41644,Lane.bot_lane,Role.carry

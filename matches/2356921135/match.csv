@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tteltraB,Lucian,False,Side.blue,1,7,3,0.5714285714285714,166,Flash,Heal,12,False,8423,8400,Berserker's Greaves,Statikk Shiv,Infinity Edge,Long Sword,,Doran's Blade,4554,92252,Lane.bot_lane,Role.carry
+1,R0bert,Lux,False,Side.blue,2,6,4,1.0,30,Exhaust,Flash,10,False,7015,6725,Faerie Charm,Sorcerer's Shoes,Frost Queen's Claim,Sightstone,Needlessly Large Rod,Blasting Wand,28420,5791,Lane.bot_lane,Role.support
+2,AlienZombieNecro,Shaco,False,Side.blue,3,8,3,0.75,121,Ignite,Teleport,13,False,7580,6875,Doran's Ring,Corrupting Potion,Bilgewater Cutlass,Morellonomicon,The Dark Seal,Hextech Revolver,36068,23907,Lane.top_lane,Role.solo
+3,bigfatnerd1,Ryze,False,Side.blue,5,3,3,2.6666666666666665,194,Ghost,Flash,14,True,9680,8425,Tear of the Goddess,Needlessly Large Rod,Boots of Speed,Morellonomicon,Cloth Armor,Rod of Ages,110550,11429,Lane.mid_lane,Role.solo
+4,APEC AA,Elise,False,Side.blue,3,6,3,1.0,74,Flash,Smite,11,False,7579,6950,Hextech Protobelt-01,Refillable Potion,Enchantment: Runic Echoes,Boots of Speed,Giant's Belt,Cloth Armor,56800,20527,Lane.jungle,Role.none
+5,Sora and Shiro,LeBlanc,True,Side.red,5,3,2,2.3333333333333335,142,Flash,Ignite,13,False,9793,9650,Doran's Ring,Needlessly Large Rod,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,,66723,11800,Lane.mid_lane,Role.solo
+6,Neo Restoration,Fiora,True,Side.red,10,3,4,4.666666666666667,152,Teleport,Flash,15,False,11128,10100,Tiamat,Corrupting Potion,The Black Cleaver,Mercury's Treads,Maw of Malmortius,Chain Vest,2231,70734,Lane.top_lane,Role.solo
+7,Sarcasm Orgasm,Lee Sin,True,Side.red,10,3,10,6.666666666666667,122,Flash,Smite,15,False,12145,10025,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Mercury's Treads,Maw of Malmortius,,18973,101729,Lane.jungle,Role.none
+8,Asian GirI,Caitlyn,True,Side.red,4,3,8,4.0,227,Flash,Heal,14,False,11820,9775,Doran's Blade,Runaan's Hurricane,Control Ward,Rapid Firecannon,Boots of Speed,Infinity Edge,3843,161002,Lane.bot_lane,Role.carry
+9,IM IgNar,Nami,True,Side.red,1,2,13,7.0,21,Exhaust,Flash,12,False,7894,6325,Spellthief's Edge,Locket of the Iron Solari,Sightstone,Boots of Mobility,Ruby Crystal,Forbidden Idol,7896,8791,Lane.bot_lane,Role.support

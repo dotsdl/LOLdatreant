@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PIay Naizi,Lee Sin,False,Side.blue,2,5,1,0.6,84,Smite,Flash,9,True,5560,5225,Tiamat,Refillable Potion,Enchantment: Warrior,,Mercury's Treads,,6846,47325,Lane.jungle,Role.none
+1,adc feng lft,Nasus,False,Side.blue,3,5,0,0.6,128,Teleport,Flash,11,False,6551,6100,Corrupting Potion,Ninja Tabi,Zz'Rot Portal,Warden's Mail,Doran's Ring,Doran's Ring,50348,13799,Lane.top_lane,Role.solo
+2,Nade,Ezreal,False,Side.blue,2,5,1,0.6,98,Heal,Flash,8,False,5505,5100,Manamune,Health Potion,Doran's Blade,Sheen,,Ionian Boots of Lucidity,2107,36967,Lane.bot_lane,Role.carry
+3,SeattleDanielWu,Janna,False,Side.blue,1,5,4,1.0,4,Exhaust,Flash,8,False,4288,3760,Crystalline Bracer,Forbidden Idol,Amplifying Tome,Boots of Speed,Ruby Crystal,Nomad's Medallion,2878,2613,Lane.bot_lane,Role.support
+4,BlackChutney,Ryze,False,Side.blue,1,9,5,0.6666666666666666,84,Ghost,Flash,10,False,5512,5210,Tear of the Goddess,Rod of Ages,Amplifying Tome,Ionian Boots of Lucidity,,,37355,5710,Lane.mid_lane,Role.solo
+5,OmarGod,Vi,True,Side.red,9,0,6,15.0,89,Flash,Smite,12,False,9700,7408,Enchantment: Warrior,Trinity Force,Boots of Swiftness,,,Refillable Potion,1788,96804,Lane.jungle,Role.none
+6,Snackbar123,Ashe,True,Side.red,3,2,6,4.5,140,Heal,Flash,11,False,8473,6425,Doran's Blade,Berserker's Greaves,Essence Reaver,Recurve Bow,,Control Ward,1017,82022,Lane.bot_lane,Role.carry
+7,fallenbandit,Poppy,True,Side.red,7,2,3,5.0,127,Flash,Teleport,12,False,8922,6400,Corrupting Potion,Spirit Visage,Ninja Tabi,Doran's Blade,Bami's Cinder,Cloth Armor,16459,51084,Lane.top_lane,Role.solo
+8,TwitchTV LOLFILL,Lulu,True,Side.red,3,3,19,7.333333333333333,3,Exhaust,Flash,10,False,7540,5550,Redemption,,Boots of Mobility,,,Eye of the Watchers,9175,6598,Lane.bot_lane,Role.support
+9,Tuesdayy,Orianna,True,Side.red,7,2,15,11.0,137,Ghost,Flash,12,False,10167,8150,Doran's Ring,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Control Ward,79242,11017,Lane.mid_lane,Role.solo

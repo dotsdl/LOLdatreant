@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MarineRevenge,Garen,False,Side.blue,4,5,4,1.6,169,Flash,Ignite,14,False,9780,9275,Youmuu's Ghostblade,Edge of Night,,Ninja Tabi,Giant's Belt,Chain Vest,2072,100696,Lane.top_lane,Role.solo
+1,Bes,Ezreal,False,Side.blue,5,7,8,1.8571428571428572,130,Heal,Flash,12,False,9038,8525,Doran's Blade,Ionian Boots of Lucidity,Bilgewater Cutlass,Muramana,Iceborn Gauntlet,Dagger,15945,64014,Lane.bot_lane,Role.carry
+2,duckduckgoob,Cassiopeia,False,Side.blue,3,10,6,0.9,137,Ghost,Flash,12,False,8571,8310,Doran's Ring,Doran's Ring,Archangel's Staff,Lost Chapter,Abyssal Scepter,Amplifying Tome,55424,6496,Lane.mid_lane,Role.solo
+3,Popular Panda,Nidalee,False,Side.blue,4,5,5,1.8,125,Flash,Smite,13,False,9286,8600,Enchantment: Runic Echoes,Refillable Potion,Rylai's Crystal Scepter,Boots of Speed,Seeker's Armguard,Fiendish Codex,96987,17751,Lane.jungle,Role.none
+4,er ber ter,Brand,False,Side.blue,3,7,7,1.4285714285714286,66,Ignite,Flash,12,False,8576,8385,Frost Queen's Claim,Zhonya's Hourglass,Needlessly Large Rod,Doran's Ring,Amplifying Tome,Giant's Belt,50802,6214,Lane.bot_lane,Role.support
+5,Alexandriea,Draven,True,Side.red,12,5,7,3.8,144,Flash,Heal,13,True,14216,12925,Berserker's Greaves,The Bloodthirster,Quicksilver Sash,Rapid Firecannon,Mortal Reminder,Vampiric Scepter,3275,96149,Lane.bot_lane,Role.carry
+6,SirRosicky,Shyvana,True,Side.red,3,3,4,2.3333333333333335,149,Smite,Exhaust,14,False,10664,10050,Blade of the Ruined King,Guardian Angel,Mercury's Treads,Enchantment: Bloodrazor,,Cloth Armor,63379,79113,Lane.jungle,Role.none
+7,Fàkèr  ,Ryze,True,Side.red,11,3,6,5.666666666666667,150,Ghost,Flash,14,False,12342,9445,Rod of Ages,Seraph's Embrace,Lost Chapter,Ionian Boots of Lucidity,Negatron Cloak,Fiendish Codex,101488,10401,Lane.mid_lane,Role.solo
+8,Al Palladini,Nasus,True,Side.red,2,5,6,1.6,188,Teleport,Flash,15,False,10965,9025,Titanic Hydra,Corrupting Potion,Kindlegem,Iceborn Gauntlet,Mercury's Treads,The Dark Seal,18214,99144,Lane.top_lane,Role.solo
+9,kiyoshi1,Blitzcrank,True,Side.red,6,3,16,7.333333333333333,39,Flash,Ignite,13,False,10457,8200,Sightstone,Face of the Mountain,Redemption,Sheen,Boots of Mobility,,11168,14351,Lane.bot_lane,Role.support

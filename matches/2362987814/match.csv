@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Sneaky,Sivir,False,Side.blue,3,5,3,1.2,166,Flash,Heal,12,False,8010,7375,Doran's Blade,Essence Reaver,Berserker's Greaves,Zeal,Dagger,Dagger,0,81721,Lane.bot_lane,Role.carry
+1,TwitchTV LOLFILL,Yasuo,False,Side.blue,5,9,2,0.7777777777777778,91,Teleport,Flash,11,False,7044,6950,Doran's Blade,Ninja Tabi,Phantom Dancer,Phage,Stinger,Ruby Crystal,15826,25452,Lane.top_lane,Role.solo
+2,rekaf nesgrejb,Syndra,False,Side.blue,9,9,2,1.2222222222222223,126,Flash,Ghost,13,True,8966,7900,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Luden's Echo,,,66805,5892,Lane.mid_lane,Role.solo
+3,Aecinira,Thresh,False,Side.blue,1,6,6,1.1666666666666667,21,Flash,Exhaust,10,False,5506,5375,Face of the Mountain,Refillable Potion,Ruby Sightstone,,Boots of Mobility,,6499,5010,Lane.bot_lane,Role.support
+4,Gladiator Yoshi,Lee Sin,False,Side.blue,0,1,0,0.0,6,Flash,Smite,4,False,3901,500,Hunter's Machete,Refillable Potion,,,,,298,5942,Lane.jungle,Role.none
+5,Ninjacrab,Karma,True,Side.red,1,4,9,2.5,10,Flash,Exhaust,11,False,6837,4100,Eye of the Watchers,Crystalline Bracer,Boots of Speed,Forbidden Idol,,,14007,4581,Lane.bot_lane,Role.support
+6,RF Legendary,Jayce,True,Side.red,9,3,8,5.666666666666667,183,Flash,Teleport,14,False,11746,11525,Death's Dance,Lord Dominik's Regards,The Black Cleaver,Doran's Blade,Doran's Blade,Berserker's Greaves,13301,89761,Lane.top_lane,Role.solo
+7,Wizzy,Kayle,True,Side.red,1,3,4,1.6666666666666667,127,Heal,Flash,11,False,7590,7200,The Dark Seal,Blasting Wand,Recurve Bow,Doran's Ring,Ionian Boots of Lucidity,Nashor's Tooth,41355,17055,Lane.bot_lane,Role.carry
+8,Gweiss,Graves,True,Side.red,10,2,3,6.5,138,Smite,Flash,14,False,11409,9325,Refillable Potion,Youmuu's Ghostblade,Berserker's Greaves,Enchantment: Warrior,Phantom Dancer,,3364,124491,Lane.jungle,Role.none
+9,Wolfelol,Xerath,True,Side.red,9,6,5,2.3333333333333335,121,Cleanse,Flash,13,False,10038,9575,Doran's Ring,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Rylai's Crystal Scepter,Needlessly Large Rod,71283,9143,Lane.mid_lane,Role.solo

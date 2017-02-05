@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Not Easy Indeed,Vayne,True,Side.blue,8,1,4,12.0,151,Flash,Heal,11,False,10098,6215,Doran's Blade,Statikk Shiv,Total Biscuit of Rejuvenation,Berserker's Greaves,B. F. Sword,Cull,7330,64595,Lane.bot_lane,Role.carry
+1,Give me hate pls,Blitzcrank,True,Side.blue,0,1,13,13.0,23,Exhaust,Flash,10,False,6436,5875,Face of the Mountain,Sightstone,Crystalline Bracer,Boots of Mobility,Crystalline Bracer,Control Ward,5680,5057,Lane.bot_lane,Role.support
+2,Galletota,Viktor,True,Side.blue,9,0,6,15.0,141,Ghost,Flash,13,False,9493,6775,Refillable Potion,Perfect Hex Core,Abyssal Scepter,,Boots of Speed,Doran's Ring,79262,11332,Lane.mid_lane,Role.solo
+3,SoV NSFW,Poppy,True,Side.blue,4,1,2,6.0,162,Flash,Teleport,13,True,8832,6250,Spectre's Cowl,Sunfire Cape,Corrupting Potion,Ruby Crystal,Mercury's Treads,,16616,67084,Lane.top_lane,Role.solo
+4,Crackadon,Zac,True,Side.blue,4,1,9,13.0,86,Smite,Flash,11,False,7807,6750,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Mercury's Treads,,,59380,15196,Lane.jungle,Role.none
+5,Semoponume,Jayce,False,Side.red,1,4,1,0.5,134,Ghost,Flash,9,False,5923,5300,Doran's Blade,Youmuu's Ghostblade,Boots of Speed,Doran's Blade,Serrated Dirk,,1941,42313,Lane.bot_lane,Role.carry
+6,GKyrios,Rumble,False,Side.red,1,2,1,1.0,123,Flash,Teleport,10,False,5761,5460,Doran's Shield,Liandry's Torment,Amplifying Tome,,Sorcerer's Shoes,,51379,5453,Lane.top_lane,Role.solo
+7,NuzziG,Syndra,False,Side.red,0,7,0,0.0,150,Ghost,Flash,11,False,5838,5560,Doran's Ring,Doran's Ring,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,54147,8602,Lane.mid_lane,Role.solo
+8,SweetPete7,Shyvana,False,Side.red,2,4,2,1.0,68,Flash,Smite,11,False,6145,5900,Refillable Potion,Ruby Crystal,Tiamat,Long Sword,Mercury's Treads,Enchantment: Bloodrazor,37912,36379,Lane.jungle,Role.none
+9,Źyra,Zyra,False,Side.red,0,8,2,0.25,5,Flash,Ignite,8,False,4052,3760,Eye of the Watchers,,Amplifying Tome,Boots of Mobility,,,11788,2716,Lane.bot_lane,Role.support

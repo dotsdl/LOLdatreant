@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Isya Boy,Thresh,False,Side.blue,1,7,3,0.5714285714285714,32,Ignite,Flash,9,False,5605,5025,Cloth Armor,Control Ward,Boots of Mobility,Ruby Crystal,Forbidden Idol,Eye of the Equinox,9260,5076,Lane.bot_lane,Role.support
+1,Victim Of Talent,Lux,False,Side.blue,5,6,3,1.3333333333333333,150,Ignite,Flash,13,False,8499,8250,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,,74081,11050,Lane.mid_lane,Role.solo
+2,Redsaturn,Kha'Zix,False,Side.blue,2,5,2,0.8,82,Flash,Smite,11,False,7047,5550,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Serrated Dirk,Long Sword,,2718,76584,Lane.jungle,Role.none
+3,Farcraft2,Trundle,False,Side.blue,0,6,3,0.5,158,Teleport,Flash,13,False,7507,7050,Doran's Blade,Mercury's Treads,Titanic Hydra,Chain Vest,Giant's Belt,,1982,80198,Lane.top_lane,Role.solo
+4,THE Jons,Vayne,False,Side.blue,2,7,0,0.2857142857142857,166,Heal,Flash,11,True,7509,6800,Berserker's Greaves,Infinity Edge,Doran's Blade,Zeal,,Dagger,0,67353,Lane.bot_lane,Role.carry
+5,FaR007,Lucian,True,Side.red,4,0,6,10.0,207,Heal,Flash,13,False,11002,9225,Berserker's Greaves,Essence Reaver,Rapid Firecannon,B. F. Sword,Doran's Blade,,3670,124955,Lane.bot_lane,Role.carry
+6,Dat Boiiiiiiiii,Zed,True,Side.red,5,2,6,5.5,157,Flash,Ignite,14,False,10113,9825,Youmuu's Ghostblade,Boots of Swiftness,The Black Cleaver,Lord Dominik's Regards,,,6509,92266,Lane.top_lane,Role.solo
+7,OH MY GULAYY,Gragas,True,Side.red,11,1,8,19.0,139,Smite,Flash,15,False,12502,11975,Enchantment: Runic Echoes,Spirit Visage,Boots of Swiftness,Iceborn Gauntlet,Ruby Crystal,Guardian Angel,111204,39405,Lane.jungle,Role.none
+8,DogeWizard,Alistar,True,Side.red,2,3,8,3.3333333333333335,28,Flash,Exhaust,10,False,7199,5950,Boots of Mobility,Redemption,Cloth Armor,Eye of the Equinox,,,9121,4965,Lane.bot_lane,Role.support
+9,am sol,LeBlanc,True,Side.red,9,4,8,4.25,155,Ignite,Flash,14,False,11205,9400,Abyssal Scepter,Morellonomicon,Needlessly Large Rod,Doran's Ring,Doran's Ring,Sorcerer's Shoes,82257,13032,Lane.mid_lane,Role.solo

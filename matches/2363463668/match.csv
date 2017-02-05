@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rohammers,Zac,True,Side.blue,8,4,6,3.5,155,Smite,Flash,15,False,11468,10400,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Randuin's Omen,Spirit Visage,Chain Vest,107854,16851,Lane.jungle,Role.none
+1,Cat Person,Karma,True,Side.blue,1,3,21,7.333333333333333,22,Flash,Heal,13,False,9892,9820,Redemption,Sightstone,Frost Queen's Claim,Ardent Censer,Negatron Cloak,Mercury's Treads,7339,6422,Lane.bot_lane,Role.support
+2,Falco Mechanic,Caitlyn,True,Side.blue,17,3,10,9.0,248,Exhaust,Flash,15,False,16376,13300,Mercurial Scimitar,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Last Whisper,5503,224383,Lane.bot_lane,Role.carry
+3,Liquid Painless,Lulu,True,Side.blue,1,3,17,6.0,130,Flash,Teleport,15,False,10013,7425,Doran's Ring,Doran's Ring,Luden's Echo,Athene's Unholy Grail,,Ionian Boots of Lucidity,65758,17996,Lane.mid_lane,Role.solo
+4,CloudNguyén,Rumble,True,Side.blue,3,3,5,2.6666666666666665,198,Teleport,Flash,15,False,10611,10250,Hextech Protobelt-01,Liandry's Torment,Void Staff,Sorcerer's Shoes,Doran's Shield,,98944,14028,Lane.top_lane,Role.solo
+5,swoloHey,Ezreal,False,Side.red,4,7,4,1.1428571428571428,178,Flash,Heal,13,False,10777,10425,Iceborn Gauntlet,Muramana,Maw of Malmortius,Ionian Boots of Lucidity,,Doran's Blade,22644,91476,Lane.bot_lane,Role.carry
+6,zlsna,LeBlanc,False,Side.red,6,5,3,1.8,165,Flash,Ignite,14,False,10460,9600,Doran's Ring,Giant's Belt,Morellonomicon,Abyssal Scepter,Needlessly Large Rod,Ionian Boots of Lucidity,94652,11009,Lane.mid_lane,Role.solo
+7,bvcx222,Nasus,False,Side.red,0,7,5,0.7142857142857143,212,Flash,Teleport,14,False,9867,9868,Zz'Rot Portal,Trinity Force,Doran's Ring,Doran's Ring,Chain Vest,Mercury's Treads,81746,38395,Lane.top_lane,Role.solo
+8,retarded virgin,Graves,False,Side.red,4,7,5,1.2857142857142858,163,Flash,Smite,14,True,10781,10425,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,Maw of Malmortius,Ruby Crystal,Long Sword,4782,151988,Lane.jungle,Role.none
+9,Ari Kingu,Nami,False,Side.red,2,4,8,2.5,9,Exhaust,Flash,12,False,7995,6325,Frostfang,Aegis of the Legion,Redemption,Sightstone,Boots of Mobility,,5859,4748,Lane.bot_lane,Role.support

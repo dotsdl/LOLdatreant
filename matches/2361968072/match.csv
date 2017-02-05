@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Riesig,Jarvan IV,False,Side.blue,2,5,1,0.6,173,Flash,Teleport,13,False,7484,6900,Corrupting Potion,Ninja Tabi,Giant's Belt,Chain Vest,,Titanic Hydra,809,78774,Lane.top_lane,Role.solo
+1,Cris,Lee Sin,False,Side.blue,2,7,4,0.8571428571428571,71,Flash,Smite,10,False,6120,5425,Tiamat,Enchantment: Warrior,Refillable Potion,Boots of Speed,Giant's Belt,,10789,48504,Lane.jungle,Role.none
+2,QuickRev,Karma,False,Side.blue,1,7,4,0.7142857142857143,20,Flash,Ignite,9,False,5034,4285,Spellthief's Edge,Ruby Crystal,Sightstone,Amplifying Tome,Ionian Boots of Lucidity,Needlessly Large Rod,13307,1917,Lane.bot_lane,Role.support
+3,Rokí,Ezreal,False,Side.blue,0,9,3,0.3333333333333333,101,Flash,Heal,10,False,5658,5375,Doran's Blade,Ionian Boots of Lucidity,Control Ward,Manamune,Sheen,Sapphire Crystal,7516,28793,Lane.bot_lane,Role.carry
+4,Pekin Woof,LeBlanc,False,Side.blue,4,6,1,0.8333333333333334,135,Flash,Teleport,12,False,7537,7000,Doran's Ring,Sorcerer's Shoes,Control Ward,Needlessly Large Rod,Morellonomicon,Giant's Belt,58627,8868,Lane.mid_lane,Role.solo
+5,Gahlin,Evelynn,True,Side.red,15,3,5,6.666666666666667,121,Flash,Smite,13,True,10987,9450,Hextech Protobelt-01,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Enchantment: Runic Echoes,,,83290,36235,Lane.jungle,Role.none
+6,Washing Dishes,Riven,True,Side.red,4,1,7,11.0,125,Teleport,Flash,12,False,8017,6400,Tiamat,The Black Cleaver,,Ionian Boots of Lucidity,Doran's Blade,Doran's Blade,45,68367,Lane.top_lane,Role.solo
+7,C9 Sneaky,Jhin,True,Side.red,6,1,11,17.0,154,Flash,Heal,12,False,10016,8575,Doran's Blade,Youmuu's Ghostblade,Rapid Firecannon,Boots of Swiftness,B. F. Sword,Control Ward,3068,82868,Lane.bot_lane,Role.carry
+8,C9 Smoothie,Lulu,True,Side.red,2,2,18,10.0,2,Flash,Exhaust,10,False,6673,5125,Control Ward,Eye of the Watchers,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,,7001,4611,Lane.bot_lane,Role.support
+9,Lose is improved,Orianna,True,Side.red,7,3,10,5.666666666666667,117,Barrier,Flash,12,False,8661,6525,Doran's Ring,Control Ward,Needlessly Large Rod,Morellonomicon,Doran's Ring,Sorcerer's Shoes,50201,10426,Lane.mid_lane,Role.solo

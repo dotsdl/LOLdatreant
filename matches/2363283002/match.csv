@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Trump Trane,Sion,False,Side.blue,4,9,10,1.5555555555555556,195,Teleport,Flash,15,False,10524,9725,Mercury's Treads,Zz'Rot Portal,Titanic Hydra,Phage,Control Ward,Stinger,39539,78913,Lane.top_lane,Role.solo
+1,Aurath,Twitch,False,Side.blue,9,8,9,2.25,103,Smite,Flash,14,False,10415,9975,Bilgewater Cutlass,Enchantment: Bloodrazor,Ninja Tabi,Runaan's Hurricane,Pickaxe,Recurve Bow,3564,78907,Lane.jungle,Role.none
+2,Geeega,Karma,False,Side.blue,7,8,10,2.125,154,Teleport,Flash,14,False,10373,9435,Rylai's Crystal Scepter,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,Morellonomicon,Blasting Wand,82572,9768,Lane.mid_lane,Role.solo
+3,Thearchy Alex,Caitlyn,False,Side.blue,4,9,5,1.0,163,Flash,Heal,13,False,10137,10630,Zeal,,Infinity Edge,Runaan's Hurricane,Kircheis Shard,Berserker's Greaves,1119,101953,Lane.bot_lane,Role.carry
+4,stmgod,Blitzcrank,False,Side.blue,3,8,11,1.75,39,Ignite,Flash,13,False,8873,8250,Banner of Command,Sightstone,Frost Queen's Claim,Giant's Belt,Kindlegem,Boots of Mobility,22636,8224,Lane.bot_lane,Role.support
+5,cùrz,Taric,True,Side.red,1,6,29,5.0,43,Flash,Exhaust,14,False,11059,9950,Ruby Sightstone,Face of the Mountain,Redemption,Knight's Vow,Ionian Boots of Lucidity,Null-Magic Mantle,7791,13087,Lane.bot_lane,Role.support
+6,KitingYeezus,Graves,True,Side.red,11,7,15,3.7142857142857144,125,Flash,Smite,16,False,14244,13025,,Youmuu's Ghostblade,Berserker's Greaves,Phantom Dancer,Mortal Reminder,Enchantment: Warrior,4802,165872,Lane.jungle,Role.none
+7,Goxtry,Vayne,True,Side.red,20,3,6,8.666666666666666,202,Heal,Flash,16,True,17636,15700,B. F. Sword,Infinity Edge,Blade of the Ruined King,Rapid Firecannon,Phantom Dancer,Berserker's Greaves,1484,175475,Lane.bot_lane,Role.carry
+8,CatFarmz,Ryze,True,Side.red,6,4,12,4.5,231,Ghost,Flash,16,False,13577,12825,Rod of Ages,Seraph's Embrace,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Void Staff,,141225,21271,Lane.mid_lane,Role.solo
+9,lllIIIllIIlI,Poppy,True,Side.red,4,7,3,1.0,178,Flash,Teleport,15,False,11885,11400,Corrupting Potion,Mercury's Treads,Sunfire Cape,Spirit Visage,The Black Cleaver,Giant's Belt,31609,76604,Lane.top_lane,Role.solo

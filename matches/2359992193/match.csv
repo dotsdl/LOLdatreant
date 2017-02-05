@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iaMsaraK,Hecarim,True,Side.blue,3,1,9,12.0,93,Ghost,Smite,12,False,8033,7758,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,,,Mercury's Treads,10194,67439,Lane.jungle,Role.none
+1,Pooper Josh,Twitch,True,Side.blue,11,2,2,6.5,122,Heal,Flash,11,False,9841,9375,Total Biscuit of Rejuvenation,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Doran's Blade,Zeal,0,82424,Lane.bot_lane,Role.carry
+2,amumumu,Soraka,True,Side.blue,1,4,16,4.25,9,Flash,Exhaust,10,False,6921,6550,Ionian Boots of Lucidity,Talisman of Ascension,Redemption,Glacial Shroud,,,11570,3460,Lane.bot_lane,Role.support
+3,Sebi,Fizz,True,Side.blue,17,2,1,9.0,137,Flash,Ignite,14,False,11249,9925,Corrupting Potion,Lich Bane,The Dark Seal,Sorcerer's Shoes,Rabadon's Deathcap,Fiendish Codex,62841,26258,Lane.mid_lane,Role.solo
+4,HoNSol0,Nautilus,True,Side.blue,1,1,3,4.0,201,Flash,Teleport,13,False,8348,7775,Doran's Ring,Corrupting Potion,Mercury's Treads,Sunfire Cape,Spirit Visage,,76314,27679,Lane.top_lane,Role.solo
+5,Pink Ward,Shaco,False,Side.red,3,3,0,1.0,110,Teleport,Ignite,11,False,6396,5000,Corrupting Potion,The Dark Seal,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Ring,,29593,19744,Lane.top_lane,Role.solo
+6,Baeflone,Shyvana,False,Side.red,1,7,4,0.7142857142857143,95,Smite,Ghost,10,False,6130,5275,Enchantment: Bloodrazor,Tiamat,Refillable Potion,Boots of Speed,Recurve Bow,,40823,36912,Lane.jungle,Role.none
+7,Jurassiq,Lucian,False,Side.red,1,7,4,0.7142857142857143,123,Flash,Heal,10,False,6299,6100,Berserker's Greaves,Doran's Blade,Essence Reaver,Dagger,Brawler's Gloves,,3125,51289,Lane.bot_lane,Role.carry
+8,Cat Ears,Karma,False,Side.red,3,7,4,1.0,22,Flash,Ignite,10,True,5964,5700,Ionian Boots of Lucidity,Eye of the Watchers,Redemption,,,Control Ward,16086,2278,Lane.bot_lane,Role.support
+9,STM Mark,Vel'Koz,False,Side.red,2,9,2,0.4444444444444444,139,Flash,Exhaust,12,False,6489,5835,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Lost Chapter,Amplifying Tome,,57955,4028,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,YOUMADSIS,Lee Sin,True,Side.blue,3,0,2,5.0,41,Smite,Flash,7,False,4367,3025,Refillable Potion,Tiamat,Boots of Mobility,Hunter's Machete,Control Ward,Long Sword,5012,26630,Lane.jungle,Role.none
+1,Voids,Maokai,True,Side.blue,1,0,2,3.0,48,Teleport,Flash,7,False,3604,1275,Corrupting Potion,Ruby Crystal,Cloth Armor,Control Ward,,,16531,7272,Lane.top_lane,Role.solo
+2,Sebi,Cassiopeia,True,Side.blue,3,0,2,5.0,60,Flash,Ghost,8,True,4467,3020,Doran's Ring,Tear of the Goddess,Negatron Cloak,Health Potion,Lost Chapter,,20816,6134,Lane.mid_lane,Role.solo
+3,cinto mamochi,Blitzcrank,True,Side.blue,0,0,1,1.0,2,Exhaust,Flash,5,False,2343,1275,Sapphire Crystal,Long Sword,Long Sword,Total Biscuit of Rejuvenation,,,188,4933,Lane.bot_lane,Role.duo
+4,Jeehun,Ezreal,True,Side.blue,1,0,0,1.0,62,Flash,Heal,6,False,3635,2550,Doran's Blade,Total Biscuit of Rejuvenation,Dagger,Dagger,Dagger,Berserker's Greaves,177,22062,Lane.bot_lane,Role.duo
+5,Dr Saline PhD,Kog'Maw,False,Side.red,0,4,0,0.0,21,Ghost,Flash,5,False,1922,1550,Doran's Ring,Tear of the Goddess,Boots of Speed,,,,4060,2862,Lane.mid_lane,Role.solo
+6,tardzaned,Dr. Mundo,False,Side.red,0,2,0,0.0,22,Smite,Exhaust,5,False,2274,1300,Control Ward,Refillable Potion,Skirmisher's Sabre,,,,7913,6628,Lane.jungle,Role.none
+7,Ikzencriel,Jax,False,Side.red,0,2,0,0.0,26,Teleport,Flash,5,False,2041,1325,Corrupting Potion,Ruby Crystal,Long Sword,,,,603,6445,Lane.top_lane,Role.solo
+8,Phooka,Jinx,False,Side.red,0,0,0,0.0,63,Heal,Flash,6,False,3027,1800,B. F. Sword,,,,,Doran's Blade,0,20425,Lane.bot_lane,Role.duo
+9,Is That Hymn,Janna,False,Side.red,0,1,0,0.0,0,Exhaust,Flash,4,False,1849,1175,Nomad's Medallion,Total Biscuit of Rejuvenation,Control Ward,,,,795,1174,Lane.bot_lane,Role.duo

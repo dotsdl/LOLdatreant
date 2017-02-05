@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,blaberfish2,Lee Sin,False,Side.blue,7,8,3,1.25,118,Flash,Smite,13,False,9113,9000,Refillable Potion,The Black Cleaver,Enchantment: Warrior,Mercury's Treads,Giant's Belt,Chain Vest,22677,84981,Lane.jungle,Role.none
+1,Imaqtpie,Kalista,False,Side.blue,1,6,7,1.3333333333333333,212,Flash,Heal,13,False,9538,9500,Blade of the Ruined King,Runaan's Hurricane,Doran's Blade,Last Whisper,Berserker's Greaves,Cull,1684,97602,Lane.bot_lane,Role.carry
+2,definitely high,Thresh,False,Side.blue,3,6,9,2.0,31,Flash,Exhaust,11,False,6761,6175,Crystalline Bracer,Boots of Mobility,Sightstone,Face of the Mountain,Aegis of the Legion,,11812,5257,Lane.bot_lane,Role.support
+3,CelticsPwn,Poppy,False,Side.blue,2,7,3,0.7142857142857143,140,Flash,Teleport,12,False,7432,6850,Corrupting Potion,Sunfire Cape,Mercury's Treads,Glacial Shroud,Giant's Belt,Sapphire Crystal,20074,34691,Lane.top_lane,Role.solo
+4,Fàkèr  ,Viktor,False,Side.blue,2,6,6,1.3333333333333333,221,Ghost,Flash,14,False,8901,8760,Rylai's Crystal Scepter,Refillable Potion,Amplifying Tome,Ionian Boots of Lucidity,Perfect Hex Core,Sapphire Crystal,108180,13900,Lane.mid_lane,Role.solo
+5,bae af,Caitlyn,True,Side.red,8,5,9,3.4,139,Heal,Flash,13,False,11856,10200,Doran's Blade,B. F. Sword,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,669,102178,Lane.bot_lane,Role.duo
+6,WT Spectator,Ryze,True,Side.red,5,3,11,5.333333333333333,179,Flash,Ghost,15,True,12298,10525,Ionian Boots of Lucidity,Rod of Ages,Seraph's Embrace,Fiendish Codex,Void Staff,,123718,12846,Lane.mid_lane,Role.solo
+7,Keegun,Pantheon,True,Side.red,3,4,15,4.5,48,Flash,Ignite,12,False,9555,8425,Youmuu's Ghostblade,Edge of Night,Sightstone,,Ionian Boots of Lucidity,Relic Shield,4145,36067,Lane.bot_lane,Role.duo
+8,Dystrex,Darius,True,Side.red,8,1,9,17.0,210,Teleport,Flash,15,False,13555,11525,The Black Cleaver,Corrupting Potion,Boots of Swiftness,Dead Man's Plate,Zz'Rot Portal,Spectre's Cowl,434,115848,Lane.top_lane,Role.solo
+9,HoNSol0,Vi,True,Side.red,9,2,8,8.5,185,Flash,Smite,16,False,13877,11383,Enchantment: Warrior,Refillable Potion,Randuin's Omen,Ninja Tabi,Chain Vest,Trinity Force,1629,194647,Lane.jungle,Role.none

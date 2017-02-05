@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,im Dusk,Lee Sin,True,Side.blue,10,6,11,3.5,152,Smite,Flash,16,True,14019,12375,Mercury's Treads,Tiamat,Enchantment: Warrior,Spirit Visage,Dead Man's Plate,Hexdrinker,24086,127454,Lane.jungle,Role.none
+1,FZ3R0,Caitlyn,True,Side.blue,14,4,7,5.25,259,Flash,Heal,17,False,16898,15175,Infinity Edge,Berserker's Greaves,Statikk Shiv,The Bloodthirster,Doran's Blade,Phantom Dancer,34122,179621,Lane.bot_lane,Role.carry
+2,Pocket Rhino,Soraka,True,Side.blue,0,10,24,2.4,18,Flash,Exhaust,13,False,9559,8485,Redemption,Ardent Censer,Ruby Sightstone,,Boots of Mobility,Nomad's Medallion,6094,2621,Lane.bot_lane,Role.support
+3,feed l0rd,Tahm Kench,True,Side.blue,4,6,12,2.6666666666666665,154,Flash,Teleport,15,False,11905,11475,Knight's Vow,Dead Man's Plate,Spectre's Cowl,Sunfire Cape,Ruby Crystal,Ninja Tabi,62437,16242,Lane.top_lane,Role.solo
+4,Shiphtur,Ekko,True,Side.blue,11,5,8,3.8,258,Teleport,Flash,17,False,16028,15600,Zhonya's Hourglass,Hextech Gunblade,Rabadon's Deathcap,Ionian Boots of Lucidity,Lich Bane,Doran's Ring,169034,32921,Lane.mid_lane,Role.solo
+5,Entranced,Ezreal,False,Side.red,6,8,10,2.0,235,Heal,Flash,15,False,12113,11083,Blade of the Ruined King,Refillable Potion,Muramana,Ionian Boots of Lucidity,Trinity Force,Doran's Blade,33987,122465,Lane.bot_lane,Role.carry
+6,Professor Melyn,Zyra,False,Side.red,4,7,11,2.142857142857143,35,Flash,Ignite,12,False,9490,8235,Sorcerer's Shoes,Refillable Potion,Liandry's Torment,Blasting Wand,Eye of the Watchers,Amplifying Tome,42552,5325,Lane.bot_lane,Role.support
+7,Rohammers,Kennen,False,Side.red,7,5,8,3.0,183,Teleport,Flash,16,False,11056,10875,Hextech Protobelt-01,Rylai's Crystal Scepter,Zhonya's Hourglass,Sorcerer's Shoes,,,84841,27433,Lane.top_lane,Role.solo
+8,Keegun,Pantheon,False,Side.red,7,12,5,1.0,128,Flash,Ignite,13,False,10365,10175,Refillable Potion,Youmuu's Ghostblade,Edge of Night,Boots of Swiftness,Mortal Reminder,,4370,83110,Lane.mid_lane,Role.solo
+9,white cat,Vi,False,Side.red,7,7,8,2.142857142857143,131,Flash,Smite,14,False,10893,10308,Enchantment: Warrior,Trinity Force,Ninja Tabi,Hexdrinker,Ruby Crystal,Ruby Crystal,1539,120170,Lane.jungle,Role.none

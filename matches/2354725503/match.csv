@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Darvec,Karma,False,Side.blue,1,4,3,1.0,25,Ignite,Flash,8,False,5366,4800,Eye of the Watchers,Corrupting Potion,The Dark Seal,Boots of Mobility,Ruby Crystal,,20526,3815,Lane.bot_lane,Role.support
+1,NA Mechanics,Caitlyn,False,Side.blue,2,6,3,0.8333333333333334,136,Heal,Flash,10,False,6743,6050,Doran's Blade,Refillable Potion,Berserker's Greaves,Infinity Edge,Brawler's Gloves,Dagger,321,54802,Lane.bot_lane,Role.carry
+2,DaDieYan,Viktor,False,Side.blue,4,4,1,1.25,121,Flash,Exhaust,11,False,6817,6450,Perfect Hex Core,Doran's Ring,Sorcerer's Shoes,The Dark Seal,Needlessly Large Rod,Health Potion,59279,7030,Lane.jungle,Role.none
+3,emV,Zac,False,Side.blue,1,3,4,1.6666666666666667,101,Flash,Smite,11,False,6528,5875,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Boots of Speed,,,53337,14793,Lane.jungle,Role.none
+4,I Am Leegend,Poppy,False,Side.blue,2,1,1,3.0,154,Teleport,Flash,12,False,7041,5650,Corrupting Potion,Sunfire Cape,,Mercury's Treads,Glacial Shroud,,21926,47017,Lane.top_lane,Role.solo
+5,Soulo Q,Janna,True,Side.red,1,1,6,7.0,2,Exhaust,Flash,9,False,5461,5125,Faerie Charm,Eye of the Watchers,Faerie Charm,Boots of Mobility,Mejai's Soulstealer,,3251,3966,Lane.bot_lane,Role.support
+6,DankyIsToxic,Quinn,True,Side.red,6,2,1,3.5,165,Ignite,Flash,13,True,9425,8700,Doran's Blade,Duskblade of Draktharr,Youmuu's Ghostblade,Berserker's Greaves,Kircheis Shard,,1376,86610,Lane.top_lane,Role.solo
+7,LynchBeaner,Cassiopeia,True,Side.red,6,4,4,2.5,154,Ghost,Flash,13,False,8493,8400,Doran's Ring,Abyssal Scepter,Fiendish Codex,Tear of the Goddess,Rylai's Crystal Scepter,,74059,10895,Lane.mid_lane,Role.solo
+8,Dank Cub,Ivern,True,Side.red,3,1,8,11.0,79,Flash,Smite,11,False,7720,7550,Hunter's Talisman,Chain Vest,Redemption,Ionian Boots of Lucidity,Athene's Unholy Grail,Giant's Belt,6431,4476,Lane.jungle,Role.none
+9,Kureo,Jhin,True,Side.red,2,2,3,2.5,128,Flash,Heal,10,False,6969,6700,Doran's Blade,Essence Reaver,Zeal,Boots of Swiftness,Dagger,,3006,68063,Lane.bot_lane,Role.carry

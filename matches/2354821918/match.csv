@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sadplane,Twitch,False,Side.blue,1,5,0,0.2,97,Heal,Flash,9,False,5262,3775,Refillable Potion,Control Ward,Cull,B. F. Sword,Doran's Blade,Zeal,491,27806,Lane.bot_lane,Role.carry
+1,KRYMER NO JUTSU,Karma,False,Side.blue,2,5,1,0.6,126,Flash,Ghost,11,False,5983,4575,Doran's Ring,Boots of Speed,Doran's Ring,Morellonomicon,Control Ward,Total Biscuit of Rejuvenation,46262,10235,Lane.mid_lane,Role.solo
+2,Goophed,Shyvana,False,Side.blue,3,4,3,1.5,173,Smite,Exhaust,13,False,8456,7275,Enchantment: Bloodrazor,Ninja Tabi,Blade of the Ruined King,,,,73546,63419,Lane.jungle,Role.none
+3,Silent Pace,Nami,False,Side.blue,1,1,3,4.0,6,Exhaust,Flash,8,False,4512,4225,Frostfang,Sightstone,Boots of Swiftness,Forbidden Idol,Crystalline Bracer,,4851,1906,Lane.bot_lane,Role.support
+4,NeverQuitting,Kled,False,Side.blue,0,5,2,0.4,121,Flash,Teleport,11,False,5554,4050,Doran's Blade,Refillable Potion,The Black Cleaver,Boots of Speed,,,172,55044,Lane.top_lane,Role.solo
+5,Just Bad,Jhin,True,Side.red,6,0,7,13.0,149,Flash,Heal,11,False,10147,9850,Doran's Blade,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,Cloak of Agility,B. F. Sword,4311,78829,Lane.bot_lane,Role.carry
+6,Malli,Trundle,True,Side.red,2,3,5,2.3333333333333335,120,Flash,Teleport,12,False,7808,7225,Corrupting Potion,Ravenous Hydra,Ninja Tabi,Glacial Shroud,Sheen,,1727,54297,Lane.top_lane,Role.solo
+7,Moosenaski,Xin Zhao,True,Side.red,5,1,10,15.0,67,Flash,Smite,11,True,9048,8050,Blade of the Ruined King,Recurve Bow,Enchantment: Bloodrazor,Boots of Mobility,,,11709,63886,Lane.jungle,Role.none
+8,Lokreah,Ziggs,True,Side.red,5,1,7,12.0,155,Flash,Heal,13,False,9527,8485,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,,80664,12440,Lane.mid_lane,Role.solo
+9,am sol,Thresh,True,Side.red,2,2,11,6.5,29,Ignite,Flash,11,False,7172,5950,Sightstone,Forbidden Idol,Face of the Mountain,Ionian Boots of Lucidity,Crystalline Bracer,,10403,8946,Lane.bot_lane,Role.support

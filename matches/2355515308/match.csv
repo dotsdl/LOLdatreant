@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,my bad team,Poppy,False,Side.blue,2,2,2,2.0,193,Flash,Teleport,14,False,9352,8970,Guardian Angel,Corrupting Potion,Negatron Cloak,Spectre's Cowl,Sunfire Cape,Mercury's Treads,42325,63537,Lane.top_lane,Role.solo
+1,C9 Lemon,Lulu,False,Side.blue,3,7,4,1.0,27,Ignite,Flash,12,False,7475,6425,Boots of Mobility,Crystalline Bracer,Locket of the Iron Solari,Eye of the Watchers,Control Ward,,23539,4375,Lane.bot_lane,Role.support
+2,C9 Sneaky,Varus,False,Side.blue,3,10,2,0.5,220,Flash,Heal,13,False,9644,9600,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,B. F. Sword,Control Ward,12771,104940,Lane.bot_lane,Role.carry
+3,megapasta,Ahri,False,Side.blue,2,8,4,0.75,139,Flash,Ignite,13,False,8040,7100,Doran's Ring,Morellonomicon,Aether Wisp,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,39911,11927,Lane.mid_lane,Role.solo
+4,1234569,Vi,False,Side.blue,1,9,4,0.5555555555555556,133,Flash,Smite,13,False,8260,7683,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Trinity Force,,,9353,93961,Lane.jungle,Role.none
+5,stuntopia,Katarina,True,Side.red,16,2,6,11.0,166,Ignite,Flash,15,False,13326,11325,Zhonya's Hourglass,Hextech Gunblade,Rylai's Crystal Scepter,Doran's Shield,Sorcerer's Shoes,,101183,17625,Lane.mid_lane,Role.solo
+6,4Head XD,Jayce,True,Side.red,0,4,1,0.25,230,Teleport,Flash,15,False,10453,10225,Corrupting Potion,The Black Cleaver,Manamune,Ionian Boots of Lucidity,Duskblade of Draktharr,,12778,130345,Lane.top_lane,Role.solo
+7,C9 Smoothie,Bard,True,Side.red,2,1,17,19.0,15,Flash,Exhaust,13,False,8937,6825,,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,Crystalline Bracer,,15702,6928,Lane.bot_lane,Role.support
+8,KElTHMCBRlEF,Ezreal,True,Side.red,8,2,10,9.0,183,Heal,Flash,14,False,12323,11825,Doran's Blade,Blade of the Ruined King,Quicksilver Sash,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,12021,94489,Lane.bot_lane,Role.carry
+9,Daarr,Lee Sin,True,Side.red,10,2,12,11.0,152,Flash,Smite,16,True,13710,11360,Mercury's Treads,Enchantment: Warrior,Tiamat,Refillable Potion,Maw of Malmortius,Dead Man's Plate,21332,144093,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IQ is 201 ,Viktor,True,Side.blue,8,1,2,10.0,237,Flash,Ghost,15,False,12312,11325,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,Perfect Hex Core,Doran's Ring,152698,16220,Lane.mid_lane,Role.solo
+1,Mckenize,Twitch,True,Side.blue,0,4,4,1.0,174,Heal,Flash,12,False,8673,8475,Doran's Blade,Control Ward,Total Biscuit of Rejuvenation,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,0,71223,Lane.bot_lane,Role.carry
+2,Rox Penaut,Lee Sin,True,Side.blue,3,1,5,8.0,95,Smite,Flash,12,False,8673,7800,Boots of Swiftness,The Black Cleaver,Enchantment: Warrior,Cloth Armor,Ruby Crystal,,17662,74524,Lane.jungle,Role.none
+3,Kilering,Karma,True,Side.blue,0,1,7,7.0,13,Flash,Exhaust,11,False,7353,6550,Frostfang,Ruby Sightstone,Redemption,Aegis of the Legion,,Boots of Speed,8615,4234,Lane.bot_lane,Role.support
+4,Screaming,Fiora,True,Side.blue,5,2,3,4.0,197,Teleport,Flash,14,True,10709,9900,Mercury's Treads,The Black Cleaver,Ravenous Hydra,Warden's Mail,Ruby Crystal,Doran's Blade,677,106067,Lane.top_lane,Role.solo
+5,Vegito Blue,Yasuo,False,Side.red,2,3,1,1.0,199,Exhaust,Flash,13,False,8560,8075,Doran's Blade,Mercury's Treads,Infinity Edge,Phantom Dancer,,,29517,80193,Lane.mid_lane,Role.solo
+6,Vortexum,Janna,False,Side.red,0,3,6,2.0,4,Flash,Exhaust,10,False,6116,4950,Sightstone,Redemption,Boots of Mobility,Nomad's Medallion,,,3007,2036,Lane.bot_lane,Role.support
+7,Susice,Hecarim,False,Side.red,3,5,3,1.2,78,Smite,Ghost,11,False,7551,7283,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Boots of Speed,,,12758,69138,Lane.jungle,Role.none
+8,Sike,Jhin,False,Side.red,4,2,3,3.5,182,Flash,Heal,12,False,9150,8800,Doran's Blade,Infinity Edge,Boots of Swiftness,Caulfield's Warhammer,Zeal,B. F. Sword,3867,98971,Lane.bot_lane,Role.carry
+9,Barôn,Nasus,False,Side.red,0,3,1,0.3333333333333333,200,Flash,Teleport,13,False,8497,7825,Doran's Ring,Ninja Tabi,Doran's Ring,Spirit Visage,,Zz'Rot Portal,74931,38185,Lane.top_lane,Role.solo

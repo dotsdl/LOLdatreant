@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,VoidSovereign,Vayne,True,Side.blue,3,4,3,1.5,139,Heal,Flash,11,False,7487,6475,Doran's Blade,Pickaxe,Statikk Shiv,Berserker's Greaves,B. F. Sword,,14818,53534,Lane.bot_lane,Role.carry
+1,uupa,Ryze,True,Side.blue,1,2,4,2.5,162,Flash,Ghost,12,False,7635,5975,Tear of the Goddess,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,93760,7070,Lane.mid_lane,Role.solo
+2,Rank 1 Season 7,Kha'Zix,True,Side.blue,23,2,0,11.5,173,Smite,Flash,16,False,14883,12325,Tiamat,Zeal,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Duskblade of Draktharr,6382,178536,Lane.jungle,Role.none
+3,SoulEatingCat,Lulu,True,Side.blue,0,4,13,3.25,5,Exhaust,Flash,10,False,5817,4875,Frostfang,Redemption,Sightstone,,Boots of Mobility,Refillable Potion,2635,2697,Lane.bot_lane,Role.support
+4,Dewey200,Maokai,True,Side.blue,2,4,7,2.25,112,Flash,Teleport,12,False,7033,5125,Doran's Ring,Sunfire Cape,Ruby Crystal,Ninja Tabi,,,54792,12066,Lane.top_lane,Role.solo
+5,MrPhix,Zed,False,Side.red,4,5,0,0.8,96,Ignite,Flash,11,True,6646,6575,Maw of Malmortius,Boots of Speed,Bilgewater Cutlass,Recurve Bow,,,3292,49757,Lane.mid_lane,Role.solo
+6,Chem Gio,Alistar,False,Side.red,2,7,5,1.0,25,Flash,Exhaust,9,False,6009,5325,Redemption,Sightstone,Control Ward,Kindlegem,Relic Shield,Boots of Mobility,11749,4019,Lane.bot_lane,Role.support
+7,BIA Budweiser,Yasuo,False,Side.red,4,7,2,0.8571428571428571,137,Flash,Exhaust,12,False,7673,7400,Doran's Blade,Phantom Dancer,Refillable Potion,Berserker's Greaves,Frozen Mallet,,20730,53486,Lane.top_lane,Role.solo
+8,Ziiic,Evelynn,False,Side.red,3,6,3,1.0,111,Flash,Smite,12,False,7292,6625,Refillable Potion,Hextech Protobelt-01,Boots of Speed,Enchantment: Runic Echoes,Sheen,,52159,32442,Lane.jungle,Role.none
+9,babiryukh,Sivir,False,Side.red,3,4,3,1.5,165,Flash,Heal,11,False,8016,6975,Doran's Blade,Zeal,Total Biscuit of Rejuvenation,Berserker's Greaves,Essence Reaver,Dagger,0,85252,Lane.bot_lane,Role.carry

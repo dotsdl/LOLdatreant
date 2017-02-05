@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vincente Vu,Varus,True,Side.blue,7,4,7,3.5,192,Flash,Heal,13,False,11594,10325,Quicksilver Sash,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,Pickaxe,Doran's Blade,6302,114658,Lane.bot_lane,Role.carry
+1,zlsna,Syndra,True,Side.blue,7,5,7,2.8,205,Flash,Cleanse,14,False,11745,9625,Doran's Ring,Morellonomicon,Needlessly Large Rod,Doran's Ring,Liandry's Torment,Sorcerer's Shoes,125820,10342,Lane.mid_lane,Role.solo
+2,mandatorycloud,Nocturne,True,Side.blue,6,3,6,4.0,143,Flash,Smite,14,False,11208,9100,Enchantment: Warrior,Edge of Night,Mercury's Treads,Giant's Belt,Chain Vest,,4501,140409,Lane.jungle,Role.none
+3,SKY Fear,Nautilus,True,Side.blue,4,4,7,2.75,180,Flash,Teleport,14,True,10448,9750,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Kindlegem,Spectre's Cowl,Ruby Crystal,74730,26213,Lane.top_lane,Role.solo
+4,Pyrites,Lux,True,Side.blue,0,1,14,14.0,25,Flash,Exhaust,11,False,8008,7075,Frost Queen's Claim,Sightstone,Athene's Unholy Grail,The Dark Seal,Ionian Boots of Lucidity,Control Ward,21623,4255,Lane.bot_lane,Role.support
+5,SSBM Hax,Twisted Fate,False,Side.red,5,3,7,4.0,206,Flash,Ghost,14,False,11675,11275,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Zhonya's Hourglass,Blasting Wand,Lich Bane,121372,12702,Lane.mid_lane,Role.solo
+6,Hakuho,Morgana,False,Side.red,3,3,8,3.6666666666666665,18,Exhaust,Flash,11,False,7818,7050,Eye of the Watchers,Redemption,Control Ward,Forbidden Idol,Null-Magic Mantle,Ionian Boots of Lucidity,16884,4093,Lane.bot_lane,Role.support
+7,Hyorimaru,Ashe,False,Side.red,1,6,6,1.1666666666666667,180,Flash,Heal,13,False,9058,8625,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Runaan's Hurricane,Pickaxe,,1098,86640,Lane.bot_lane,Role.carry
+8,eThug,Zac,False,Side.red,3,5,5,1.6,209,Flash,Teleport,14,False,9339,8950,Spirit Visage,Sunfire Cape,Ninja Tabi,Giant's Belt,Cloth Armor,,96500,11909,Lane.top_lane,Role.solo
+9,im Dusk,Lee Sin,False,Side.red,5,7,7,1.7142857142857142,115,Smite,Flash,13,False,9235,8585,Refillable Potion,Tiamat,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Ruby Crystal,13956,86699,Lane.jungle,Role.none

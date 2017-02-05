@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Never Been,Jhin,False,Side.blue,6,9,3,1.0,170,Flash,Heal,12,False,10381,9275,Doran's Blade,Ionian Boots of Lucidity,Rapid Firecannon,B. F. Sword,Youmuu's Ghostblade,Pickaxe,5564,81780,Lane.bot_lane,Role.carry
+1,Asyc xD ,Thresh,False,Side.blue,0,8,12,1.5,26,Ignite,Flash,12,False,7010,6775,Relic Shield,Redemption,Locket of the Iron Solari,Boots of Mobility,Sightstone,Control Ward,6902,2997,Lane.bot_lane,Role.support
+2,Rhux,Viktor,False,Side.blue,7,6,9,2.6666666666666665,176,Flash,Ghost,15,True,11242,10650,Perfect Hex Core,Doran's Ring,Zhonya's Hourglass,Lich Bane,Ionian Boots of Lucidity,Control Ward,110847,8801,Lane.mid_lane,Role.solo
+3,Rapidx,Riven,False,Side.blue,2,5,5,1.4,244,Flash,Teleport,15,False,10849,10675,Ravenous Hydra,B. F. Sword,Ionian Boots of Lucidity,The Black Cleaver,Pickaxe,Long Sword,0,132250,Lane.top_lane,Role.solo
+4,tardzaned,Rek'Sai,False,Side.blue,5,6,7,2.0,192,Smite,Flash,16,False,11370,10800,Randuin's Omen,Tiamat,Enchantment: Cinderhulk,Ninja Tabi,Thornmail,Ruby Crystal,39406,115716,Lane.jungle,Role.none
+5,TSM MeNoHaxor,Karma,True,Side.red,1,4,20,5.25,17,Exhaust,Flash,13,False,9609,8100,Eye of the Watchers,Refillable Potion,Boots of Mobility,Ardent Censer,,Redemption,16064,5547,Lane.bot_lane,Role.support
+6,Jeehun,Ezreal,True,Side.red,13,3,11,8.0,176,Flash,Heal,15,False,14041,11505,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,Last Whisper,Doran's Blade,14930,93659,Lane.bot_lane,Role.carry
+7,Valkrin,Kha'Zix,True,Side.red,10,2,13,11.5,168,Smite,Ghost,16,False,14153,12325,Enchantment: Warrior,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Duskblade of Draktharr,Pickaxe,5078,178183,Lane.jungle,Role.none
+8,Keegun,Pantheon,True,Side.red,9,5,16,5.0,141,Flash,Ignite,15,False,11950,10950,The Black Cleaver,Youmuu's Ghostblade,Edge of Night,Boots of Swiftness,Cloth Armor,,10938,80539,Lane.top_lane,Role.solo
+9,Imaokai,Gangplank,True,Side.red,1,6,7,1.3333333333333333,242,Teleport,Flash,15,False,12324,11008,Youmuu's Ghostblade,Trinity Force,Pickaxe,Ionian Boots of Lucidity,B. F. Sword,Cloak of Agility,7978,182920,Lane.mid_lane,Role.solo

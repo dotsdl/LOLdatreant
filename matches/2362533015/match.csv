@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bluepancake69,Darius,False,Side.blue,6,8,4,1.25,189,Teleport,Flash,15,False,11726,10875,The Black Cleaver,Corrupting Potion,Dead Man's Plate,Spirit Visage,Mercury's Treads,Ruby Crystal,394,129582,Lane.top_lane,Role.solo
+1,Sìyou,Thresh,False,Side.blue,4,6,16,3.3333333333333335,18,Flash,Ignite,13,False,9571,8450,Redemption,Eye of the Equinox,Control Ward,Frozen Heart,Boots of Mobility,,15276,6236,Lane.bot_lane,Role.support
+2,adc feng lft,Ezreal,False,Side.blue,10,8,7,2.125,247,Heal,Flash,15,True,15915,15050,Blade of the Ruined King,Maw of Malmortius,Muramana,Iceborn Gauntlet,Last Whisper,Ionian Boots of Lucidity,28626,157654,Lane.bot_lane,Role.carry
+3,Aria Ready,Amumu,False,Side.blue,2,8,13,1.875,70,Smite,Flash,13,False,9785,8645,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Frozen Heart,Spectre's Cowl,Negatron Cloak,54829,17243,Lane.jungle,Role.none
+4,b1son,Brand,False,Side.blue,3,8,9,1.5,151,Ignite,Flash,14,False,10311,9600,Haunting Guise,Rod of Ages,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,,80254,13718,Lane.mid_lane,Role.solo
+5,IHATEEATINGPIE,Shaco,True,Side.red,12,6,8,3.3333333333333335,151,Teleport,Ignite,15,False,12919,11950,Boots of Swiftness,Hextech Gunblade,Corrupting Potion,Duskblade of Draktharr,B. F. Sword,Statikk Shiv,43383,51018,Lane.top_lane,Role.solo
+6,Kammr,Fizz,True,Side.red,12,6,8,3.3333333333333335,163,Flash,Ignite,15,False,13124,11350,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Abyssal Scepter,Lich Bane,Blasting Wand,87426,31151,Lane.mid_lane,Role.solo
+7,1Tracked,Rek'Sai,True,Side.red,3,4,17,5.0,197,Smite,Flash,16,False,13100,12775,Titanic Hydra,Warden's Mail,Enchantment: Cinderhulk,Mercury's Treads,Maw of Malmortius,Giant's Belt,35439,134209,Lane.jungle,Role.none
+8,Muzy,Caitlyn,True,Side.red,10,7,10,2.857142857142857,180,Flash,Heal,14,False,13214,11125,Doran's Blade,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Control Ward,2238,163421,Lane.bot_lane,Role.carry
+9,FrozenNight,Janna,True,Side.red,1,2,22,11.5,12,Flash,Exhaust,13,False,9490,8225,Ancient Coin,Mikael's Crucible,Sightstone,Redemption,Zeke's Harbinger,Boots of Speed,11069,5387,Lane.bot_lane,Role.support

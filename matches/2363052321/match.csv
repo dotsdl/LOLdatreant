@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Radial,Draven,True,Side.blue,15,3,4,6.333333333333333,153,Heal,Flash,13,True,13740,12200,Doran's Blade,The Bloodthirster,Essence Reaver,Infinity Edge,Boots of Speed,Long Sword,0,102053,Lane.bot_lane,Role.carry
+1,Serrenissimo,Zac,True,Side.blue,5,1,9,14.0,116,Flash,Smite,12,False,8927,8975,Enchantment: Cinderhulk,Locket of the Iron Solari,Mercury's Treads,Dead Man's Plate,,,74197,16424,Lane.jungle,Role.none
+2,SABER WoIf,Janna,True,Side.blue,0,2,18,9.0,3,Exhaust,Flash,11,False,7304,4100,Frostfang,Redemption,Sightstone,Faerie Charm,,,3668,6859,Lane.bot_lane,Role.support
+3,Invictus Blade,Ryze,True,Side.blue,4,3,3,2.3333333333333335,143,Flash,Teleport,12,False,9005,8725,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,Tear of the Goddess,Needlessly Large Rod,83105,10809,Lane.top_lane,Role.solo
+4,iQT,Cassiopeia,True,Side.blue,6,3,7,4.333333333333333,133,Flash,Ghost,12,False,9022,5985,Doran's Ring,Tear of the Goddess,Refillable Potion,Morellonomicon,Needlessly Large Rod,Amplifying Tome,58851,9810,Lane.mid_lane,Role.solo
+5,Fledge,Ezreal,False,Side.red,1,6,3,0.6666666666666666,77,Heal,Flash,9,False,5398,4525,Doran's Blade,,Control Ward,Tear of the Goddess,Iceborn Gauntlet,Boots of Speed,8131,25072,Lane.bot_lane,Role.carry
+6,Sud83,Kha'Zix,False,Side.red,4,5,2,1.2,91,Smite,Flash,11,False,7177,7125,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,,,,3980,75239,Lane.jungle,Role.none
+7,IM YOUNG KHALIFA,Jayce,False,Side.red,2,8,1,0.375,25,Flash,Ignite,8,False,4789,3250,Doran's Blade,Kindlegem,Targon's Brace,Long Sword,Boots of Speed,,1900,12661,Lane.bot_lane,Role.support
+8,CrazyApe43,Ekko,False,Side.red,5,5,1,1.2,129,Ignite,Flash,12,False,7265,7225,Doran's Ring,Morellonomicon,Lich Bane,Boots of Speed,,Health Potion,56222,8259,Lane.mid_lane,Role.solo
+9,A Flying Potato,Nautilus,False,Side.red,0,6,5,0.8333333333333334,83,Flash,Teleport,10,False,5483,4600,Bami's Cinder,Corrupting Potion,Mercury's Treads,Cloth Armor,Spectre's Cowl,Ruby Crystal,23191,12652,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MrJsian,Ashe,False,Side.blue,1,5,6,1.4,132,Heal,Flash,11,False,6872,6375,Essence Reaver,Doran's Blade,Berserker's Greaves,Recurve Bow,,,1106,60438,Lane.bot_lane,Role.carry
+1,Braums Mustache,Braum,False,Side.blue,0,4,7,1.75,31,Flash,Exhaust,10,False,5578,5150,Boots of Mobility,Sightstone,Targon's Brace,Locket of the Iron Solari,,,5696,4270,Lane.bot_lane,Role.support
+2,Watarimono,Twisted Fate,False,Side.blue,2,6,6,1.3333333333333333,126,Flash,Ghost,12,False,7527,7300,The Dark Seal,Ionian Boots of Lucidity,Morellonomicon,Sheen,Aether Wisp,Blasting Wand,61235,11032,Lane.jungle,Role.none
+3,Zaga,Hecarim,False,Side.blue,5,6,1,1.0,68,Ghost,Smite,11,False,7144,6883,Skirmisher's Sabre,Refillable Potion,Boots of Swiftness,Trinity Force,Bami's Cinder,,7493,54507,Lane.jungle,Role.none
+4,Anadus,Irelia,False,Side.blue,2,6,1,0.5,149,Teleport,Flash,12,False,7302,6533,Trinity Force,Corrupting Potion,Mercury's Treads,Jaurim's Fist,,,3701,62806,Lane.top_lane,Role.solo
+5,Yutaka Hoshino,Jhin,True,Side.red,9,1,10,19.0,129,Heal,Flash,13,True,11486,9425,Doran's Blade,Infinity Edge,Boots of Swiftness,Statikk Shiv,B. F. Sword,Long Sword,8800,86043,Lane.bot_lane,Role.carry
+6,Behsehkeh,Ahri,True,Side.red,6,3,12,6.0,120,Ignite,Flash,12,False,10180,8650,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,Null-Magic Mantle,36757,15372,Lane.jungle,Role.none
+7,Fantastinet AShi,Kennen,True,Side.red,6,3,1,2.3333333333333335,196,Flash,Teleport,14,False,10712,9800,Rylai's Crystal Scepter,Hextech Protobelt-01,Seeker's Armguard,Sorcerer's Shoes,Doran's Blade,Fiendish Codex,83032,28998,Lane.top_lane,Role.solo
+8,gojuice56,Nami,True,Side.red,2,2,14,8.0,6,Exhaust,Flash,10,False,8372,7800,,Eye of the Watchers,Mikael's Crucible,Boots of Mobility,Ardent Censer,,6181,4908,Lane.bot_lane,Role.support
+9,IaKat,Vi,True,Side.red,4,2,3,3.5,158,Smite,Flash,14,False,10650,9108,Enchantment: Warrior,Ionian Boots of Lucidity,Trinity Force,Jaurim's Fist,Long Sword,,2332,141368,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rip Cig,Vel'Koz,True,Side.blue,2,6,5,1.1666666666666667,202,Flash,Ghost,15,False,10869,10525,Doran's Ring,Zhonya's Hourglass,Liandry's Torment,Ionian Boots of Lucidity,,Morellonomicon,118321,7575,Lane.mid_lane,Role.solo
+1,ACuteKoreanGirI,Riven,True,Side.blue,7,4,4,2.75,193,Teleport,Flash,16,False,12059,10500,The Black Cleaver,Tiamat,Youmuu's Ghostblade,Mercury's Treads,Pickaxe,Vampiric Scepter,0,111599,Lane.top_lane,Role.solo
+2,CC Panzer,Hecarim,True,Side.blue,2,4,13,3.75,152,Smite,Ghost,15,False,11246,9533,Enchantment: Cinderhulk,Hunter's Potion,Ninja Tabi,Trinity Force,Spectre's Cowl,Ruby Crystal,24120,113935,Lane.jungle,Role.none
+3,EternalShock,Vayne,True,Side.blue,18,5,2,4.0,235,Flash,Heal,16,True,16944,14225,B. F. Sword,Mercurial Scimitar,Statikk Shiv,Infinity Edge,Berserker's Greaves,Vampiric Scepter,41355,132947,Lane.bot_lane,Role.carry
+4,Day after Day,Blitzcrank,True,Side.blue,3,8,15,2.25,33,Exhaust,Flash,13,False,9870,8200,Sightstone,Face of the Mountain,Knight's Vow,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,9801,6333,Lane.bot_lane,Role.support
+5,EnVy Nien,Cassiopeia,False,Side.red,11,4,4,3.75,269,Flash,Ghost,17,False,14623,13775,Seraph's Embrace,Zhonya's Hourglass,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Blasting Wand,159131,9698,Lane.mid_lane,Role.solo
+6,Gweiss,Vi,False,Side.red,7,8,8,1.875,129,Smite,Flash,15,False,11745,11508,Enchantment: Warrior,Trinity Force,Ninja Tabi,Dead Man's Plate,Giant's Belt,,1306,134733,Lane.jungle,Role.none
+7,equalix,Brand,False,Side.red,2,9,11,1.4444444444444444,13,Flash,Ignite,12,False,8887,8385,Sightstone,Frost Queen's Claim,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,,21121,4160,Lane.bot_lane,Role.support
+8,Moelon,Ashe,False,Side.red,3,10,5,0.8,173,Flash,Heal,14,False,10258,10150,Berserker's Greaves,Phantom Dancer,Essence Reaver,Giant Slayer,Last Whisper,Doran's Blade,1570,81255,Lane.bot_lane,Role.carry
+9,TheBonerMachine,Poppy,False,Side.red,4,2,11,7.5,199,Flash,Teleport,16,False,11789,11075,Corrupting Potion,Dead Man's Plate,Sunfire Cape,Spirit Visage,Chain Vest,Mercury's Treads,35416,73664,Lane.top_lane,Role.solo

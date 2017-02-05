@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,myLAMEis,Ahri,True,Side.blue,12,1,8,20.0,128,Flash,Ignite,14,False,11713,9875,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Needlessly Large Rod,Blasting Wand,52050,12351,Lane.mid_lane,Role.solo
+1,willybumpbump,Jhin,True,Side.blue,5,3,15,6.666666666666667,141,Flash,Heal,13,False,9777,8700,Doran's Blade,Essence Reaver,Control Ward,Boots of Swiftness,Rapid Firecannon,Pickaxe,4817,78866,Lane.bot_lane,Role.carry
+2,UnknownJapanese,Singed,True,Side.blue,0,5,11,2.2,227,Teleport,Ghost,15,False,9757,8575,The Dark Seal,Corrupting Potion,Haunting Guise,Boots of Swiftness,Thornmail,Spirit Visage,131678,7797,Lane.top_lane,Role.solo
+3,Hi im KC,Zyra,True,Side.blue,6,4,13,4.75,15,Exhaust,Flash,12,False,9280,8700,Eye of the Watchers,Total Biscuit of Rejuvenation,Liandry's Torment,Sorcerer's Shoes,Giant's Belt,,30676,5841,Lane.bot_lane,Role.support
+4,SeKiT,Jarvan IV,True,Side.blue,7,1,12,19.0,112,Smite,Flash,14,False,10437,8150,Mercury's Treads,Refillable Potion,Ravenous Hydra,Enchantment: Cinderhulk,Long Sword,Long Sword,20654,88315,Lane.jungle,Role.none
+5,Hot Bard,Vel'Koz,False,Side.red,3,7,5,1.1428571428571428,131,Ghost,Flash,12,False,8047,6700,Doran's Ring,Morellonomicon,Aether Wisp,Needlessly Large Rod,,Sorcerer's Shoes,50510,11875,Lane.mid_lane,Role.solo
+6,ZPZG Teddy,Nami,False,Side.red,1,7,6,1.0,12,Flash,Exhaust,11,False,6028,5350,Total Biscuit of Rejuvenation,Sightstone,Redemption,Control Ward,Boots of Swiftness,Cloth Armor,5277,4028,Lane.bot_lane,Role.support
+7,Dj Sensei,Riven,False,Side.red,2,5,7,1.8,150,Teleport,Flash,13,False,8317,8100,The Black Cleaver,Ravenous Hydra,Refillable Potion,Ionian Boots of Lucidity,,,1422,75469,Lane.top_lane,Role.solo
+8,yik4901,Caitlyn,False,Side.red,2,7,5,1.0,174,Heal,Flash,12,False,8599,7500,Doran's Blade,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Zeal,,1090,90089,Lane.bot_lane,Role.carry
+9,DonaldTrump Play,Hecarim,False,Side.red,6,4,5,2.75,121,Smite,Ghost,13,True,9701,8883,Refillable Potion,Trinity Force,Mercury's Treads,Enchantment: Cinderhulk,Kindlegem,Ruby Crystal,16518,98581,Lane.jungle,Role.none

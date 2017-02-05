@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Markachino77,Alistar,True,Side.blue,3,8,13,2.0,45,Flash,Exhaust,15,False,10498,9945,Face of the Mountain,Redemption,Locket of the Iron Solari,Ruby Sightstone,Boots of Mobility,Negatron Cloak,14677,6756,Lane.bot_lane,Role.support
+1,EmCeeLee,Yasuo,True,Side.blue,6,8,4,1.25,264,Ignite,Flash,16,False,14309,11950,Doran's Blade,Statikk Shiv,Infinity Edge,The Bloodthirster,Mercury's Treads,Dagger,68961,134097,Lane.mid_lane,Role.solo
+2,Imaokai,Caitlyn,True,Side.blue,8,2,6,7.0,337,Heal,Flash,17,False,16872,14405,Mercurial Scimitar,Infinity Edge,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Rapid Firecannon,4831,274664,Lane.bot_lane,Role.carry
+3,l am Peter,Poppy,True,Side.blue,2,3,8,3.3333333333333335,172,Flash,Teleport,16,False,11369,10350,Sunfire Cape,Corrupting Potion,Ninja Tabi,Spirit Visage,Dead Man's Plate,,31530,63648,Lane.top_lane,Role.solo
+4,AkoyPinoy,Shaco,True,Side.blue,9,3,5,4.666666666666667,168,Smite,Ignite,17,False,13708,12175,Ninja Tabi,Titanic Hydra,Hextech Gunblade,Enchantment: Warrior,Sheen,Long Sword,49776,146759,Lane.jungle,Role.none
+5,míles,Riven,False,Side.red,5,5,7,2.4,157,Smite,Flash,15,False,10324,10000,Jaurim's Fist,Ruby Crystal,Tiamat,The Black Cleaver,Ninja Tabi,Enchantment: Warrior,194,125932,Lane.jungle,Role.none
+6,Aurath,Zilean,False,Side.red,1,4,16,4.25,17,Exhaust,Flash,14,False,8453,8025,Talisman of Ascension,Chain Vest,Sightstone,Ninja Tabi,Frozen Heart,,7658,3775,Lane.bot_lane,Role.support
+7,1ncomparabIe,Viktor,False,Side.red,7,5,12,3.8,194,Exhaust,Flash,16,True,11747,11100,Zhonya's Hourglass,Health Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Perfect Hex Core,165450,11700,Lane.mid_lane,Role.solo
+8,Yu Yan Jia,Ezreal,False,Side.red,8,5,7,3.0,211,Heal,Flash,15,False,12219,11408,Long Sword,Long Sword,Lord Dominik's Regards,Trinity Force,Muramana,Ionian Boots of Lucidity,25878,135551,Lane.bot_lane,Role.carry
+9,Ken Shifu,Jayce,False,Side.red,3,9,9,1.3333333333333333,201,Teleport,Flash,15,False,10466,10125,Lord Dominik's Regards,Glacial Shroud,The Black Cleaver,Cloth Armor,Giant's Belt,Ninja Tabi,13679,91765,Lane.top_lane,Role.solo

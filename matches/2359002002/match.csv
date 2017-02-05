@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hi Im A Sheep,Nautilus,True,Side.blue,9,3,6,5.0,153,Flash,Teleport,13,False,9926,8625,,Corrupting Potion,Sunfire Cape,Spirit Visage,Aegis of the Legion,Mercury's Treads,73904,21743,Lane.top_lane,Role.solo
+1,Liquid Painless,Karma,True,Side.blue,3,1,8,11.0,143,Flash,Teleport,12,True,8156,7050,Doran's Ring,Athene's Unholy Grail,Luden's Echo,Ionian Boots of Lucidity,Control Ward,,55451,12729,Lane.mid_lane,Role.solo
+2,Yusui,Lee Sin,True,Side.blue,8,3,7,5.0,114,Smite,Flash,12,False,9444,7700,Tiamat,Enchantment: Warrior,Caulfield's Warhammer,Mercury's Treads,Control Ward,Hexdrinker,12643,76128,Lane.jungle,Role.none
+3,urwong,Bard,True,Side.blue,4,0,14,18.0,7,Exhaust,Flash,11,False,7502,5725,Locket of the Iron Solari,Boots of Swiftness,Eye of the Watchers,,,,8979,4231,Lane.bot_lane,Role.support
+4,Carrots2,Twitch,True,Side.blue,8,4,6,3.5,185,Flash,Heal,13,False,11086,8850,Doran's Blade,Infinity Edge,Boots of Speed,Cull,Runaan's Hurricane,Zeal,0,97557,Lane.bot_lane,Role.carry
+5,Auberaun,Syndra,False,Side.red,2,7,1,0.42857142857142855,140,Flash,Ghost,11,False,6963,5960,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Total Biscuit of Rejuvenation,Amplifying Tome,65325,6402,Lane.mid_lane,Role.solo
+6,PSYCHOPATH909,Veigar,False,Side.red,4,4,3,1.75,146,Flash,Exhaust,11,False,7846,5800,Total Biscuit of Rejuvenation,The Dark Seal,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Blasting Wand,51171,10919,Lane.bot_lane,Role.carry
+7,zz cicero,Nidalee,False,Side.red,1,7,5,0.8571428571428571,88,Smite,Flash,11,False,6738,6375,Enchantment: Runic Echoes,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,,,64745,11885,Lane.jungle,Role.none
+8,Flaresz,Irelia,False,Side.red,3,7,1,0.5714285714285714,133,Flash,Teleport,11,False,7033,6608,Corrupting Potion,Trinity Force,Boots of Speed,B. F. Sword,Long Sword,Long Sword,1389,54958,Lane.top_lane,Role.solo
+9,The Tank Man,Brand,False,Side.red,1,7,6,1.0,16,Flash,Ignite,9,False,5869,5250,Sightstone,Frost Queen's Claim,Sorcerer's Shoes,Giant's Belt,,,19162,5045,Lane.bot_lane,Role.support

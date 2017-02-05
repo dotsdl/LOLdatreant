@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am sol,Lee Sin,True,Side.blue,8,1,6,14.0,76,Smite,Flash,12,False,9426,8300,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Caulfield's Warhammer,Long Sword,13022,68053,Lane.jungle,Role.none
+1,OfficerNickWilde,Braum,True,Side.blue,0,3,19,6.333333333333333,27,Ignite,Flash,11,False,7032,5625,Mercury's Treads,Warden's Mail,Eye of the Equinox,Giant's Belt,,,8860,6208,Lane.bot_lane,Role.support
+2,Lukulos,Jarvan IV,True,Side.blue,2,1,1,3.0,147,Flash,Teleport,12,False,8259,6550,Titanic Hydra,Doran's Blade,Corrupting Potion,Ninja Tabi,Glacial Shroud,,2085,76904,Lane.top_lane,Role.solo
+3,BlackMambaX24,Twitch,True,Side.blue,17,1,4,21.0,158,Heal,Flash,12,True,11644,10775,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Statikk Shiv,,2591,92068,Lane.bot_lane,Role.carry
+4,Metal666King,Malzahar,True,Side.blue,4,2,7,5.5,139,Teleport,Flash,13,False,8884,7300,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Giant's Belt,54752,24397,Lane.mid_lane,Role.solo
+5,Sadplane,Vayne,False,Side.red,2,6,1,0.5,91,Heal,Flash,9,False,5693,5350,Refillable Potion,Doran's Blade,Infinity Edge,Berserker's Greaves,,,0,24985,Lane.bot_lane,Role.carry
+6,Autist Retard,Yorick,False,Side.red,4,2,0,2.0,142,Teleport,Flash,12,False,7088,6808,Corrupting Potion,Trinity Force,Mercury's Treads,Chain Vest,Cloth Armor,Cloth Armor,15578,60148,Lane.top_lane,Role.solo
+7,lnfallible,Ryze,False,Side.red,1,6,2,0.5,113,Ghost,Flash,10,False,6008,4575,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Tear of the Goddess,,,54102,6064,Lane.mid_lane,Role.solo
+8,Sungmin Kim,Thresh,False,Side.red,0,10,4,0.4,25,Exhaust,Flash,9,False,4702,4325,Sightstone,Boots of Mobility,Aegis of the Legion,Targon's Brace,,,10719,3179,Lane.bot_lane,Role.support
+9,About Shadows,Graves,False,Side.red,1,7,3,0.5714285714285714,108,Flash,Smite,11,False,6503,6425,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,,,,1689,82887,Lane.jungle,Role.none

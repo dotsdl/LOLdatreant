@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ShadowyFigure,Nautilus,False,Side.blue,1,7,5,0.8571428571428571,128,Flash,Teleport,12,True,7803,8075,Mercury's Treads,Zz'Rot Portal,Kindlegem,Spectre's Cowl,Chain Vest,,39064,26513,Lane.top_lane,Role.solo
+1,Wo Xihuan Hanguo,Janna,False,Side.blue,1,4,10,2.75,6,Flash,Exhaust,11,False,6499,6250,Talisman of Ascension,Crystalline Bracer,Ruby Sightstone,,Boots of Mobility,,4244,2948,Lane.bot_lane,Role.support
+2,DoubleSwaggLift,Ezreal,False,Side.blue,4,5,4,1.6,156,Heal,Flash,12,False,8891,8708,Doran's Blade,Pickaxe,Muramana,Trinity Force,Ionian Boots of Lucidity,,11468,70081,Lane.bot_lane,Role.carry
+3,Salcuz,Xerath,False,Side.blue,6,6,3,1.5,167,Barrier,Flash,13,False,9204,9275,Rylai's Crystal Scepter,The Dark Seal,Morellonomicon,Sorcerer's Shoes,Health Potion,Blasting Wand,94891,10465,Lane.mid_lane,Role.solo
+4,Lilliae,Evelynn,False,Side.blue,5,6,5,1.6666666666666667,131,Smite,Flash,13,False,9442,8600,Enchantment: Runic Echoes,Hunter's Potion,Sorcerer's Shoes,Hextech Protobelt-01,The Dark Seal,Sheen,92405,28161,Lane.jungle,Role.none
+5,Yuán G,Jhin,True,Side.red,8,2,9,8.5,213,Heal,Flash,13,False,12339,9825,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Doran's Blade,B. F. Sword,Pickaxe,5680,134700,Lane.bot_lane,Role.carry
+6,Tae Hwa,LeBlanc,True,Side.red,9,3,3,4.0,97,Flash,Ignite,11,False,10026,7600,Doran's Ring,Blasting Wand,Needlessly Large Rod,The Dark Seal,Luden's Echo,Sorcerer's Shoes,46062,8113,Lane.mid_lane,Role.solo
+7,Eiyo,Blitzcrank,True,Side.red,1,3,18,6.333333333333333,52,Ignite,Flash,13,False,8936,6525,Face of the Mountain,Boots of Swiftness,Crystalline Bracer,Crystalline Bracer,Cloth Armor,Ruby Sightstone,13893,11875,Lane.bot_lane,Role.support
+8,InvertedComposer,Yorick,True,Side.red,6,5,11,3.4,199,Flash,Teleport,14,False,11494,9525,Banner of Command,Corrupting Potion,Boots of Speed,Death's Dance,Spirit Visage,,17456,101330,Lane.top_lane,Role.solo
+9,Goedkope hoer,Lee Sin,True,Side.red,4,4,4,2.0,90,Flash,Smite,13,False,10259,9725,Ruby Crystal,Tiamat,Enchantment: Warrior,Boots of Swiftness,Maw of Malmortius,Spectre's Cowl,15895,96440,Lane.jungle,Role.none

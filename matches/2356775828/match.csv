@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Staples,Skarner,True,Side.blue,3,4,8,2.75,144,Flash,Smite,15,False,11233,8875,Enchantment: Warrior,Ionian Boots of Lucidity,Sheen,Dead Man's Plate,Phage,,33790,98129,Lane.jungle,Role.none
+1,hi i like porn,Corki,True,Side.blue,9,8,4,1.625,150,Exhaust,Flash,15,False,11331,10550,Sorcerer's Shoes,Corrupting Potion,Hextech Gunblade,Infinity Edge,Zeal,Dagger,68345,17848,Lane.mid_lane,Role.solo
+2,Seamaken,Tryndamere,True,Side.blue,7,1,0,7.0,234,Ghost,Ignite,16,False,12854,11250,Recurve Bow,Bilgewater Cutlass,Infinity Edge,Statikk Shiv,Cloak of Agility,Berserker's Greaves,56787,129958,Lane.top_lane,Role.solo
+3,Braums Mustache,Braum,True,Side.blue,2,4,17,4.75,41,Flash,Exhaust,13,False,9639,8325,Boots of Mobility,Sightstone,Face of the Mountain,Knight's Vow,Aegis of the Legion,Null-Magic Mantle,8560,6234,Lane.bot_lane,Role.support
+4,Marzy,Lucian,True,Side.blue,15,3,3,6.0,197,Heal,Flash,15,False,14491,12025,Doran's Blade,Null-Magic Mantle,Blade of the Ruined King,Statikk Shiv,Infinity Edge,Berserker's Greaves,19510,115261,Lane.bot_lane,Role.carry
+5,FrostForest,Zyra,False,Side.red,3,8,8,1.375,31,Flash,Exhaust,13,False,8806,7775,Ionian Boots of Lucidity,Refillable Potion,Eye of the Watchers,Rylai's Crystal Scepter,Blasting Wand,Ruby Crystal,42888,5752,Lane.bot_lane,Role.support
+6,EXflax,Kindred,False,Side.red,4,7,3,1.0,136,Smite,Flash,14,False,9596,8925,Enchantment: Bloodrazor,Runaan's Hurricane,Berserker's Greaves,Hexdrinker,Caulfield's Warhammer,,2622,122840,Lane.jungle,Role.none
+7,Butter Magikarp,Ezreal,False,Side.red,3,7,5,1.1428571428571428,160,Heal,Flash,13,False,9150,8350,Doran's Blade,Bilgewater Cutlass,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,,17539,75046,Lane.bot_lane,Role.carry
+8,WoundedTurtle,Riven,False,Side.red,5,5,4,1.8,182,Flash,Teleport,15,False,9959,9525,The Black Cleaver,Jaurim's Fist,Ravenous Hydra,Ionian Boots of Lucidity,Long Sword,,0,105726,Lane.top_lane,Role.solo
+9,iTranscend,Ryze,False,Side.red,4,9,6,1.1111111111111112,176,Flash,Ghost,14,True,9878,8925,Zhonya's Hourglass,Morellonomicon,Tear of the Goddess,Ionian Boots of Lucidity,Refillable Potion,Needlessly Large Rod,112092,6966,Lane.mid_lane,Role.solo

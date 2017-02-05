@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Supawario,Jinx,False,Side.blue,0,2,0,0.0,116,Flash,Heal,8,False,4978,4400,Doran's Blade,,Infinity Edge,Boots of Speed,,,178,21875,Lane.bot_lane,Role.carry
+1,BakLauBoii,Braum,False,Side.blue,1,4,2,0.75,18,Flash,Exhaust,9,False,4113,3100,Total Biscuit of Rejuvenation,Targon's Brace,Sightstone,Boots of Mobility,Control Ward,,3135,2111,Lane.bot_lane,Role.support
+2,zzzkrave,Xin Zhao,False,Side.blue,1,7,0,0.14285714285714285,79,Flash,Smite,10,False,5187,4925,Boots of Speed,Refillable Potion,Tiamat,Long Sword,Dagger,Enchantment: Warrior,19733,53122,Lane.jungle,Role.none
+3,Noypie,Diana,False,Side.blue,0,2,2,1.0,114,Flash,Teleport,11,False,5265,4700,Doran's Ring,Hextech Protobelt-01,Doran's Ring,,,Sorcerer's Shoes,49125,10764,Lane.mid_lane,Role.solo
+4,HoldMyDlC,Rumble,False,Side.blue,3,3,0,1.0,110,Teleport,Flash,11,False,5814,4900,Zhonya's Hourglass,Doran's Shield,Sorcerer's Shoes,,Health Potion,,51824,5386,Lane.top_lane,Role.solo
+5,Alice and Bob,Lulu,True,Side.red,1,2,9,5.0,17,Flash,Exhaust,10,False,6342,3725,Frost Queen's Claim,Total Biscuit of Rejuvenation,Boots of Mobility,Ruby Crystal,,,9699,4914,Lane.bot_lane,Role.support
+6,uupa,Ryze,True,Side.red,0,1,5,5.0,123,Flash,Ghost,11,False,6733,4650,Tear of the Goddess,Refillable Potion,Control Ward,Rod of Ages,Ionian Boots of Lucidity,,61049,8032,Lane.mid_lane,Role.solo
+7,Rank 1 Season 7,Kha'Zix,True,Side.red,13,1,2,15.0,132,Smite,Flash,13,False,11061,9075,Tiamat,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,B. F. Sword,3900,130391,Lane.jungle,Role.none
+8,beagles21,Pantheon,True,Side.red,2,0,3,5.0,130,Ignite,Flash,12,False,7059,6600,The Black Cleaver,Corrupting Potion,Lord Dominik's Regards,Boots of Speed,,,1756,57182,Lane.top_lane,Role.solo
+9,PenguinZelda,Vayne,True,Side.red,2,1,0,2.0,118,Heal,Flash,9,True,6868,5125,Doran's Blade,Phantom Dancer,Boots of Speed,B. F. Sword,Dagger,Total Biscuit of Rejuvenation,633,49325,Lane.bot_lane,Role.carry

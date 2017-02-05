@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BabièThug,Ezreal,False,Side.blue,1,9,5,0.6666666666666666,96,Flash,Heal,10,False,6706,6250,Doran's Blade,Refillable Potion,Manamune,Ionian Boots of Lucidity,Sheen,Phage,5690,35866,Lane.bot_lane,Role.carry
+1,Sheiden,Kennen,False,Side.blue,3,5,1,0.8,145,Ghost,Flash,11,False,7762,7610,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Blade,,Amplifying Tome,46602,15456,Lane.mid_lane,Role.solo
+2,cute pupper irl,Brand,False,Side.blue,5,8,8,1.625,31,Flash,Ignite,10,False,7933,7200,Sorcerer's Shoes,Eye of the Watchers,Liandry's Torment,,,,29298,5355,Lane.bot_lane,Role.support
+3,Thalies,Irelia,False,Side.blue,5,11,6,1.0,101,Teleport,Flash,12,False,8198,7933,Trinity Force,Corrupting Potion,Ninja Tabi,Sterak's Gage,,,1509,37453,Lane.top_lane,Role.solo
+4,Ninjacrab,Lee Sin,False,Side.blue,6,7,6,1.7142857142857142,75,Flash,Smite,11,False,8404,8125,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Caulfield's Warhammer,Dead Man's Plate,Null-Magic Mantle,14569,58161,Lane.jungle,Role.none
+5,Cris,Jayce,True,Side.red,13,5,6,3.8,137,Flash,Teleport,14,True,10451,9825,B. F. Sword,Serrated Dirk,Doran's Blade,The Black Cleaver,Manamune,Mercury's Treads,15958,74500,Lane.top_lane,Role.solo
+6,HoNSol0,Evelynn,True,Side.red,8,5,10,3.6,115,Flash,Smite,13,False,10173,8775,Enchantment: Runic Echoes,Hextech Protobelt-01,Giant's Belt,The Dark Seal,Boots of Mobility,Needlessly Large Rod,75847,36633,Lane.jungle,Role.none
+7,Szeto 1997,Varus,True,Side.red,6,4,6,3.0,153,Heal,Flash,12,False,9463,7750,Doran's Blade,Essence Reaver,Control Ward,Boots of Speed,Cull,Rapid Firecannon,5184,90077,Lane.bot_lane,Role.carry
+8,Riot Meekal,Blitzcrank,True,Side.red,1,4,8,2.25,24,Flash,Exhaust,9,False,5450,3825,Relic Shield,Boots of Mobility,Null-Magic Mantle,Refillable Potion,Ruby Sightstone,,5332,5845,Lane.bot_lane,Role.support
+9,oopa,Ryze,True,Side.red,12,3,5,5.666666666666667,173,Flash,Ghost,14,False,11380,11200,Refillable Potion,Seraph's Embrace,Blasting Wand,Ionian Boots of Lucidity,Rod of Ages,Rylai's Crystal Scepter,101282,11073,Lane.mid_lane,Role.solo

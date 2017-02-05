@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CalmDownxD,Thresh,True,Side.blue,0,6,12,2.0,9,Flash,Ignite,10,False,7094,6525,Sightstone,Control Ward,Chain Vest,Nomad's Medallion,Boots of Mobility,Frozen Heart,4173,2108,Lane.bot_lane,Role.support
+1,am sol,LeBlanc,True,Side.blue,16,2,7,11.5,187,Ignite,Flash,16,False,14029,10885,Morellonomicon,Void Staff,Abyssal Scepter,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,113954,15159,Lane.mid_lane,Role.solo
+2,Spicyyyy,Lucian,True,Side.blue,7,4,1,2.0,246,Flash,Heal,14,False,12554,10900,Doran's Blade,Runaan's Hurricane,Rapid Firecannon,Essence Reaver,Berserker's Greaves,,6548,150998,Lane.bot_lane,Role.carry
+3,SolidCerberus,Shen,True,Side.blue,7,2,8,7.5,160,Flash,Teleport,14,True,11013,9375,Titanic Hydra,Mercury's Treads,Kindlegem,Doran's Shield,Sunfire Cape,Cloth Armor,57058,40981,Lane.top_lane,Role.solo
+4,Hècarim,Vi,True,Side.blue,4,1,4,8.0,127,Smite,Flash,14,False,9795,8708,Enchantment: Cinderhulk,Hunter's Potion,Ninja Tabi,Ruby Crystal,Cloth Armor,Trinity Force,23782,88236,Lane.jungle,Role.none
+5,Farcraft2,Irelia,False,Side.red,0,8,4,0.5,177,Teleport,Flash,13,False,8151,7283,Trinity Force,Giant's Belt,Corrupting Potion,Mercury's Treads,Chain Vest,,2796,73554,Lane.top_lane,Role.solo
+6,Nillers,Lee Sin,False,Side.red,6,5,2,1.6,93,Smite,Flash,11,False,8503,6775,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Boots of Mobility,,,15567,66287,Lane.jungle,Role.none
+7,Rìku,Janna,False,Side.red,2,4,7,2.25,9,Flash,Exhaust,11,False,6612,6475,The Dark Seal,Athene's Unholy Grail,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,Control Ward,2606,3127,Lane.bot_lane,Role.support
+8,Sorá,Jinx,False,Side.red,5,10,3,0.8,184,Heal,Flash,12,False,10003,9270,Infinity Edge,Negatron Cloak,Runaan's Hurricane,Berserker's Greaves,Cull,Doran's Blade,755,102715,Lane.bot_lane,Role.carry
+9,Orianna Venti,Syndra,False,Side.red,2,7,1,0.42857142857142855,146,Flash,Ghost,12,False,7942,7510,Refillable Potion,Morellonomicon,Doran's Ring,Abyssal Scepter,Boots of Speed,Amplifying Tome,77332,11122,Lane.mid_lane,Role.solo

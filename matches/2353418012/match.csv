@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,mrhizz,Karma,True,Side.blue,0,0,2,2.0,8,Exhaust,Flash,9,False,4778,3675,,Refillable Potion,,Eye of the Watchers,Ionian Boots of Lucidity,,11387,6252,Lane.bot_lane,Role.support
+1,SquirreI,Ezreal,True,Side.blue,2,0,0,2.0,128,Flash,Heal,9,True,6481,5150,Doran's Blade,Sheen,Refillable Potion,Manamune,Ionian Boots of Lucidity,,3688,44393,Lane.bot_lane,Role.carry
+2,MaGeRdAnGeR,Kha'Zix,True,Side.blue,4,0,1,5.0,80,Smite,Flash,11,False,7220,4225,Mercury's Treads,Enchantment: Warrior,Long Sword,,Refillable Potion,,2881,75682,Lane.jungle,Role.none
+3,Darvec,Maokai,True,Side.blue,4,0,3,7.0,121,Teleport,Flash,12,False,7567,7050,Corrupting Potion,Glacial Shroud,Sheen,Ionian Boots of Lucidity,Zz'Rot Portal,The Dark Seal,49299,16907,Lane.top_lane,Role.solo
+4,MindCalm,Cassiopeia,True,Side.blue,1,0,2,3.0,162,Flash,Cleanse,12,False,7292,5875,Needlessly Large Rod,Rylai's Crystal Scepter,,,Tear of the Goddess,,45437,14837,Lane.mid_lane,Role.solo
+5,THE Jons,Zilean,False,Side.red,0,3,0,0.0,113,Teleport,Flash,10,False,4641,4100,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Rod of Ages,,Doran's Ring,,43693,7256,Lane.mid_lane,Role.solo
+6,NG ShadowFrost ,Gnar,False,Side.red,0,5,0,0.0,139,Flash,Teleport,11,False,5128,4375,Doran's Blade,The Black Cleaver,Health Potion,Control Ward,Boots of Speed,,3707,57320,Lane.top_lane,Role.solo
+7,zMotionz ,Twitch,False,Side.red,0,1,0,0.0,90,Flash,Heal,8,False,4374,3600,Doran's Blade,Doran's Blade,B. F. Sword,Berserker's Greaves,Total Biscuit of Rejuvenation,,0,24781,Lane.bot_lane,Role.duo
+8,Killlua,Elise,False,Side.red,0,2,0,0.0,63,Smite,Flash,9,False,4398,3925,Enchantment: Runic Echoes,Hunter's Potion,Ionian Boots of Lucidity,,,,31130,18559,Lane.jungle,Role.none
+9,peterlelol,Nautilus,False,Side.red,0,0,0,0.0,46,Flash,Exhaust,8,False,3964,3775,Boots of Speed,Face of the Mountain,Sightstone,,Control Ward,,12330,6873,Lane.bot_lane,Role.duo

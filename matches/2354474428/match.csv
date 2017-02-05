@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Polkaman,Kha'Zix,False,Side.blue,3,6,3,1.0,106,Flash,Smite,12,False,7507,7375,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Ruby Crystal,,Refillable Potion,3127,80145,Lane.jungle,Role.none
+1,NuubbCake,Renekton,False,Side.blue,2,7,6,1.1428571428571428,157,Flash,Teleport,12,False,7925,7525,The Black Cleaver,Giant's Belt,Mercury's Treads,Chain Vest,Control Ward,Spectre's Cowl,3439,84306,Lane.top_lane,Role.solo
+2,Ninji,Orianna,False,Side.blue,3,5,5,1.6,138,Cleanse,Flash,12,False,7271,6985,Doran's Ring,Needlessly Large Rod,Morellonomicon,Blasting Wand,Ionian Boots of Lucidity,Amplifying Tome,58699,9486,Lane.mid_lane,Role.solo
+3,Mata dog,Alistar,False,Side.blue,0,5,5,1.0,24,Flash,Exhaust,9,False,5006,4700,Ruby Sightstone,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,Targon's Brace,Kindlegem,5598,4365,Lane.bot_lane,Role.support
+4,vvot,Vayne,False,Side.blue,2,3,3,1.6666666666666667,128,Heal,Flash,10,False,7024,6575,Berserker's Greaves,Pickaxe,Statikk Shiv,B. F. Sword,,Doran's Blade,6502,43119,Lane.bot_lane,Role.carry
+5,Relidic,Nami,True,Side.red,3,2,11,7.0,5,Flash,Exhaust,11,False,7045,5875,Refillable Potion,Redemption,Sightstone,Ionian Boots of Lucidity,Frostfang,Glacial Shroud,5356,3871,Lane.bot_lane,Role.support
+6,ZWN AIWNION,Varus,True,Side.red,2,1,9,11.0,166,Heal,Flash,12,False,8946,6950,Refillable Potion,Berserker's Greaves,Doran's Blade,Essence Reaver,Zeal,Dagger,5302,87612,Lane.bot_lane,Role.carry
+7,Stoned Socrates,Shyvana,True,Side.red,1,2,12,6.5,132,Ghost,Smite,14,False,9565,7175,Titanic Hydra,Enchantment: Bloodrazor,Boots of Swiftness,,,,56062,90253,Lane.jungle,Role.none
+8,0 K A Y B O Y S,Poppy,True,Side.red,10,2,5,7.5,175,Flash,Teleport,14,True,11110,9625,Corrupting Potion,Locket of the Iron Solari,,Ninja Tabi,Iceborn Gauntlet,Sunfire Cape,28279,63273,Lane.top_lane,Role.solo
+9,Captain Ziploc,Lissandra,True,Side.red,10,3,6,5.333333333333333,193,Teleport,Flash,14,False,11325,10375,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Aether Wisp,Ionian Boots of Lucidity,Needlessly Large Rod,114222,10905,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kebin M,Trundle,False,Side.blue,1,4,2,0.75,156,Flash,Teleport,12,False,6756,6283,Corrupting Potion,Null-Magic Mantle,Boots of Speed,Ruby Crystal,Vampiric Scepter,Trinity Force,2029,72701,Lane.top_lane,Role.solo
+1,CraacK,Vladimir,False,Side.blue,0,6,2,0.3333333333333333,110,Flash,Ghost,10,False,5566,5485,Ionian Boots of Lucidity,Giant's Belt,Amplifying Tome,,,Spirit Visage,30311,8463,Lane.mid_lane,Role.solo
+2,iOddOrange,Kha'Zix,False,Side.blue,7,4,2,2.25,82,Flash,Smite,13,False,7943,7000,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Boots of Speed,Null-Magic Mantle,Long Sword,3794,79710,Lane.jungle,Role.none
+3,Shuvi,Poppy,False,Side.blue,2,2,2,2.0,31,Ignite,Flash,10,False,4924,4525,Aegis of the Legion,Null-Magic Mantle,Ninja Tabi,Targon's Brace,,Sightstone,974,8056,Lane.bot_lane,Role.support
+4,Alexandriea,Caitlyn,False,Side.blue,1,1,1,2.0,186,Flash,Heal,11,False,7099,5575,Doran's Blade,Runaan's Hurricane,Pickaxe,Boots of Speed,B. F. Sword,,141,83492,Lane.bot_lane,Role.carry
+5,er ber ter,Draven,True,Side.red,2,0,1,3.0,176,Heal,Flash,11,False,9837,8175,Doran's Blade,Phantom Dancer,Infinity Edge,Long Sword,Berserker's Greaves,,820,87700,Lane.bot_lane,Role.carry
+6,Sebi,Orianna,True,Side.red,12,4,1,3.25,151,Flash,Ghost,14,False,10937,10825,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Luden's Echo,,74840,12209,Lane.mid_lane,Role.solo
+7,skyWtr,Vi,True,Side.red,2,3,5,2.3333333333333335,120,Smite,Flash,12,False,8389,7500,Sheen,Stinger,,Phage,Ninja Tabi,Enchantment: Warrior,2035,117165,Lane.jungle,Role.none
+8,SKY Fear,Maokai,True,Side.red,1,3,5,2.0,152,Flash,Teleport,13,True,8180,8075,Sunfire Cape,Corrupting Potion,Ninja Tabi,Doran's Ring,Doran's Ring,Iceborn Gauntlet,70405,12379,Lane.top_lane,Role.solo
+9,Empress Bee,Nami,True,Side.red,0,1,4,4.0,3,Exhaust,Flash,11,False,5913,5800,Frostfang,Redemption,Ruby Sightstone,Boots of Mobility,Total Biscuit of Rejuvenation,Control Ward,6556,3486,Lane.bot_lane,Role.support

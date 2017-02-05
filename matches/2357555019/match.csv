@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tiphe,Nasus,True,Side.blue,4,2,9,6.5,234,Teleport,Flash,16,False,12609,10683,Zz'Rot Portal,Mercury's Treads,Trinity Force,Randuin's Omen,,,42599,75868,Lane.top_lane,Role.solo
+1,skmasamune,Jinx,True,Side.blue,6,5,7,2.6,218,Heal,Flash,14,False,12867,10250,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,B. F. Sword,473,155693,Lane.bot_lane,Role.none
+2,im dao mei Ge,Lee Sin,True,Side.blue,14,3,14,9.333333333333334,122,Flash,Smite,15,False,12961,12025,Enchantment: Warrior,Randuin's Omen,Refillable Potion,Dead Man's Plate,Thornmail,Ninja Tabi,22499,82066,Lane.bot_lane,Role.none
+3,ardnaxela,Ziggs,True,Side.blue,9,6,12,3.5,188,Flash,Cleanse,15,True,12513,11175,Doran's Ring,Mejai's Soulstealer,Rabadon's Deathcap,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,133160,9052,Lane.mid_lane,Role.solo
+4,Navn,Karma,True,Side.blue,2,2,23,12.5,34,Flash,Exhaust,13,False,9378,8225,Mikael's Crucible,Ruby Sightstone,Redemption,Control Ward,Nomad's Medallion,Ionian Boots of Lucidity,17844,7139,Lane.bot_lane,Role.none
+5,AFKBBQ,Shyvana,False,Side.red,9,6,4,2.1666666666666665,150,Smite,Flash,14,False,11604,11535,Titanic Hydra,Spectre's Cowl,Ninja Tabi,Enchantment: Bloodrazor,Dead Man's Plate,,57265,89202,Lane.jungle,Role.none
+6,Pounder,Leona,False,Side.red,0,8,6,0.75,34,Exhaust,Flash,10,False,6780,6575,Eye of the Equinox,Knight's Vow,Boots of Speed,Ionian Boots of Lucidity,Doran's Shield,,7280,9239,Lane.bot_lane,Role.support
+7,AznLift,Varus,False,Side.red,6,7,3,1.2857142857142858,203,Ghost,Flash,15,False,10685,10450,Doran's Blade,Youmuu's Ghostblade,Ionian Boots of Lucidity,Manamune,Duskblade of Draktharr,Long Sword,9493,109961,Lane.mid_lane,Role.solo
+8, keine Hosen,Draven,False,Side.red,2,9,1,0.3333333333333333,197,Flash,Heal,12,False,10434,8475,Doran's Blade,Cull,Youmuu's Ghostblade,Berserker's Greaves,Duskblade of Draktharr,,671,102699,Lane.bot_lane,Role.carry
+9,The Jade Emperor,Riven,False,Side.red,1,5,5,1.2,207,Flash,Teleport,14,False,9695,9350,Mercury's Treads,Doran's Blade,The Black Cleaver,Youmuu's Ghostblade,Jaurim's Fist,Long Sword,1783,103680,Lane.top_lane,Role.solo

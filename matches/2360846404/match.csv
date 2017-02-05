@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Happy Birfdizzay,Teemo,False,Side.blue,5,7,2,1.0,144,Flash,Ignite,12,False,7813,5700,Hextech Gunblade,Sorcerer's Shoes,Dagger,Dagger,,Doran's Ring,37718,25007,Lane.top_lane,Role.solo
+1,Teesum,Janna,False,Side.blue,0,3,7,2.3333333333333335,5,Exhaust,Flash,9,False,4960,4625,Nomad's Medallion,Sightstone,Refillable Potion,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,3047,1740,Lane.bot_lane,Role.support
+2,Str1fe,Kalista,False,Side.blue,0,6,5,0.8333333333333334,91,Flash,Heal,10,False,5649,5500,Doran's Blade,Blade of the Ruined King,Dagger,Berserker's Greaves,,,1236,37009,Lane.bot_lane,Role.carry
+3,Pobelter,Ryze,False,Side.blue,3,6,3,1.0,170,Flash,Ghost,11,False,7805,7510,Refillable Potion,Archangel's Staff,Ionian Boots of Lucidity,Rod of Ages,Amplifying Tome,,73014,7219,Lane.mid_lane,Role.solo
+4,Ninjacrab,Ivern,False,Side.blue,2,9,3,0.5555555555555556,46,Flash,Smite,9,False,5878,5600,Hunter's Talisman,Refillable Potion,Ionian Boots of Lucidity,Redemption,Athene's Unholy Grail,,6686,1827,Lane.jungle,Role.none
+5,Révenge,Fizz,True,Side.red,3,3,6,3.0,100,Teleport,Flash,11,False,7600,7085,Lich Bane,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Needlessly Large Rod,Amplifying Tome,43959,19260,Lane.mid_lane,Role.solo
+6,Makavéli,Lee Sin,True,Side.red,8,1,5,13.0,134,Smite,Flash,13,False,10169,9225,Enchantment: Warrior,Boots of Mobility,Ruby Sightstone,B. F. Sword,B. F. Sword,Tiamat,13357,89404,Lane.jungle,Role.none
+7,Finna Lit,Karma,True,Side.red,2,1,16,18.0,11,Exhaust,Flash,10,False,7620,7300,Control Ward,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,,15855,4312,Lane.bot_lane,Role.support
+8,Cuckvele,Ezreal,True,Side.red,6,2,7,6.5,136,Flash,Heal,11,False,9101,8108,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Manamune,Long Sword,Refillable Potion,10040,67502,Lane.bot_lane,Role.carry
+9,Leagué,Riven,True,Side.red,12,3,4,5.333333333333333,149,Flash,Teleport,13,True,10880,9775,Maw of Malmortius,Vampiric Scepter,Mercury's Treads,,The Black Cleaver,Tiamat,0,94743,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheKushGuy,Lee Sin,True,Side.blue,14,4,8,5.5,142,Smite,Flash,16,True,14200,12750,Enchantment: Warrior,Hexdrinker,The Black Cleaver,Ninja Tabi,Dead Man's Plate,Warden's Mail,41758,122889,Lane.jungle,Role.none
+1,never meme,Lulu,True,Side.blue,2,2,17,9.5,36,Exhaust,Flash,14,False,9860,8500,Locket of the Iron Solari,Redemption,Ruby Sightstone,Spellthief's Edge,Boots of Mobility,Glacial Shroud,41320,7112,Lane.bot_lane,Role.support
+2,Tai Draven,Draven,True,Side.blue,7,3,9,5.333333333333333,270,Flash,Heal,15,False,16205,14360,Doran's Blade,Mercurial Scimitar,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Phantom Dancer,1365,229671,Lane.bot_lane,Role.carry
+3,Pohq,Riven,True,Side.blue,2,2,6,4.0,148,Flash,Teleport,15,False,10267,9550,Ninja Tabi,Caulfield's Warhammer,Doran's Blade,Titanic Hydra,The Black Cleaver,,15,94790,Lane.top_lane,Role.solo
+4,Poı,Ahri,True,Side.blue,7,3,9,5.333333333333333,199,Flash,Ignite,15,False,12948,12060,Doran's Ring,Ionian Boots of Lucidity,Luden's Echo,Rabadon's Deathcap,Amplifying Tome,Morellonomicon,92022,18579,Lane.mid_lane,Role.solo
+5,Rip To My Cigar,Graves,False,Side.red,4,7,2,0.8571428571428571,162,Flash,Smite,13,False,10125,10050,Enchantment: Warrior,Berserker's Greaves,Duskblade of Draktharr,Youmuu's Ghostblade,,,2032,122407,Lane.jungle,Role.none
+6,TEAMLUKEE,Yasuo,False,Side.red,2,4,2,1.0,272,Teleport,Flash,16,False,11731,10850,Doran's Blade,Phantom Dancer,Ninja Tabi,Frozen Mallet,Infinity Edge,,35665,133943,Lane.top_lane,Role.solo
+7,Walljumper,Vel'Koz,False,Side.red,3,5,3,1.2,189,Ghost,Flash,14,False,10126,9435,Liandry's Torment,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,111728,4508,Lane.mid_lane,Role.solo
+8,aphromoo,Leona,False,Side.red,0,8,7,0.875,25,Exhaust,Flash,12,False,7172,6725,Ruby Sightstone,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Control Ward,Targon's Brace,Boots of Mobility,3236,3664,Lane.bot_lane,Role.support
+9,Never Been,Vayne,False,Side.red,4,8,4,1.0,171,Flash,Heal,13,False,10335,9870,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Statikk Shiv,B. F. Sword,7553,66992,Lane.bot_lane,Role.carry

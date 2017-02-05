@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Reversed Sejuani,Janna,False,Side.blue,1,2,0,0.5,7,Flash,Exhaust,7,False,3865,3125,Ionian Boots of Lucidity,Sightstone,Total Biscuit of Rejuvenation,Nomad's Medallion,,,2648,1293,Lane.bot_lane,Role.support
+1,Umar,Lee Sin,False,Side.blue,0,5,3,0.6,68,Flash,Smite,9,False,4966,4875,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Mobility,,,7158,41082,Lane.jungle,Role.none
+2,Hugh Akston,Brand,False,Side.blue,2,5,0,0.4,92,Flash,Ignite,10,True,5208,4575,Doran's Ring,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Haunting Guise,Ruby Crystal,29943,7497,Lane.mid_lane,Role.solo
+3,Percalfi,Riven,False,Side.blue,1,4,0,0.25,127,Teleport,Flash,11,False,5831,5600,The Black Cleaver,Ionian Boots of Lucidity,Refillable Potion,Control Ward,Pickaxe,Long Sword,0,62212,Lane.top_lane,Role.solo
+4,KitingYeezus,Jhin,False,Side.blue,0,3,1,0.3333333333333333,108,Flash,Heal,9,False,4966,4925,Doran's Blade,Caulfield's Warhammer,Boots of Swiftness,B. F. Sword,Dagger,Dagger,779,44955,Lane.bot_lane,Role.carry
+5,Suggestive Sloth,Morgana,True,Side.red,3,0,5,8.0,12,Exhaust,Flash,10,False,6808,5260,Eye of the Watchers,Boots of Mobility,Fiendish Codex,Refillable Potion,Amplifying Tome,Cloth Armor,11717,4473,Lane.bot_lane,Role.support
+6,Challenger LAN,Poppy,True,Side.red,3,1,3,6.0,135,Teleport,Flash,13,False,7876,7400,Sunfire Cape,Corrupting Potion,Zz'Rot Portal,Boots of Speed,Giant's Belt,,22727,53758,Lane.top_lane,Role.solo
+7,Arcaeum,Ezreal,True,Side.red,3,1,3,6.0,104,Heal,Flash,10,False,7294,5325,Boots of Speed,Tear of the Goddess,Refillable Potion,Doran's Blade,Iceborn Gauntlet,Pickaxe,5383,48657,Lane.bot_lane,Role.carry
+8,Periwinkled,Twisted Fate,True,Side.red,1,2,5,3.0,104,Ghost,Flash,11,False,7283,4875,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,,,,58324,14031,Lane.jungle,Role.none
+9,Not Easy Indeed,Zac,True,Side.red,8,0,3,11.0,107,Flash,Smite,12,False,9153,6025,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Giant's Belt,Chain Vest,Ruby Crystal,63994,21333,Lane.jungle,Role.none

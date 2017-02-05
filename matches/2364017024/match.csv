@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pshaw,Rek'Sai,False,Side.blue,2,5,5,1.4,103,Smite,Flash,12,False,7853,7300,Control Ward,Warden's Mail,Tiamat,Mercury's Treads,Enchantment: Cinderhulk,Giant's Belt,20448,58897,Lane.jungle,Role.none
+1,Bird Machine,Anivia,False,Side.blue,4,2,2,3.0,220,Teleport,Flash,15,False,9964,9395,Doran's Ring,Rod of Ages,Archangel's Staff,Ionian Boots of Lucidity,Negatron Cloak,Raptor Cloak,111681,9998,Lane.top_lane,Role.solo
+2,Aitai,Janna,False,Side.blue,2,3,6,2.6666666666666665,13,Exhaust,Flash,11,False,6987,6475,Nomad's Medallion,Ruby Sightstone,Redemption,Ionian Boots of Lucidity,Cloth Armor,Cloth Armor,4722,2344,Lane.bot_lane,Role.support
+3,LetsGetFizzical,Jayce,False,Side.blue,3,5,4,1.4,190,Flash,Exhaust,14,False,9073,8675,Doran's Blade,Youmuu's Ghostblade,Manamune,Caulfield's Warhammer,Phage,Boots of Speed,15202,83502,Lane.mid_lane,Role.solo
+4,Apdo I,Vayne,False,Side.blue,3,8,4,0.875,152,Heal,Flash,12,False,8454,8150,Control Ward,Total Biscuit of Rejuvenation,Infinity Edge,Berserker's Greaves,Statikk Shiv,Doran's Blade,6815,62133,Lane.bot_lane,Role.carry
+5,OH MY GULAYY,Gragas,True,Side.red,5,1,5,10.0,141,Smite,Flash,15,True,11759,10245,Enchantment: Runic Echoes,Refillable Potion,Spirit Visage,Ninja Tabi,Iceborn Gauntlet,Negatron Cloak,117388,33868,Lane.jungle,Role.none
+6,Galdrick,Soraka,True,Side.red,1,1,11,12.0,6,Flash,Exhaust,12,False,8726,6950,Sightstone,Talisman of Ascension,Redemption,Control Ward,Ionian Boots of Lucidity,Null-Magic Mantle,5326,3546,Lane.bot_lane,Role.support
+7,IQ is 201 ,Yasuo,True,Side.red,9,5,5,2.8,214,Flash,Exhaust,15,False,13305,11850,Phantom Dancer,Doran's Blade,Berserker's Greaves,Infinity Edge,The Bloodthirster,Ruby Crystal,29337,140384,Lane.mid_lane,Role.solo
+8,Mckenize,Twitch,True,Side.red,7,4,3,2.5,180,Heal,Flash,14,False,11543,9575,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Dagger,Runaan's Hurricane,0,109375,Lane.bot_lane,Role.carry
+9,EggPain001,Lissandra,True,Side.red,1,3,5,2.0,213,Flash,Teleport,14,False,10887,10150,Hextech Protobelt-01,Zhonya's Hourglass,Doran's Ring,Sorcerer's Shoes,Morellonomicon,,114201,18655,Lane.top_lane,Role.solo

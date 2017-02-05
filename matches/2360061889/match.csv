@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,kT Raigeru,Gnar,True,Side.blue,5,5,15,4.0,198,Teleport,Flash,16,False,13700,11925,Dead Man's Plate,The Black Cleaver,Frozen Mallet,Boots of Swiftness,Spectre's Cowl,,8391,121831,Lane.top_lane,Role.solo
+1,Hamilet,Lux,True,Side.blue,9,2,9,9.0,206,Flash,Heal,17,False,14127,12775,Doran's Ring,Rabadon's Deathcap,Void Staff,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,125088,19472,Lane.mid_lane,Role.solo
+2,Wizikz,Riven,True,Side.blue,11,4,8,4.75,199,Smite,Flash,17,False,15480,15025,Titanic Hydra,Mercurial Scimitar,Enchantment: Warrior,The Black Cleaver,Ionian Boots of Lucidity,Giant's Belt,2379,185543,Lane.jungle,Role.none
+3,loveyen,Kennen,True,Side.blue,4,5,16,4.0,32,Flash,Exhaust,14,False,10891,9575,Sorcerer's Shoes,Sightstone,Hextech Protobelt-01,Frost Queen's Claim,Haunting Guise,Blasting Wand,34263,8512,Lane.bot_lane,Role.support
+4,Prophed,Corki,True,Side.blue,8,3,8,5.333333333333333,167,Flash,Heal,14,False,12822,12533,Hextech Gunblade,Infinity Edge,Doran's Blade,Trinity Force,,Sorcerer's Shoes,72640,34085,Lane.bot_lane,Role.carry
+5,lntricate,Thresh,False,Side.red,0,6,14,2.3333333333333335,42,Exhaust,Flash,14,False,8083,7400,Sightstone,Face of the Mountain,Locket of the Iron Solari,Control Ward,Crystalline Bracer,Boots of Mobility,12552,4492,Lane.bot_lane,Role.support
+6,Mlxgzzzzzz,Shyvana,False,Side.red,4,8,4,1.0,169,Flash,Smite,15,False,10537,10425,Enchantment: Bloodrazor,Refillable Potion,Titanic Hydra,Ninja Tabi,Dead Man's Plate,,71035,82787,Lane.jungle,Role.none
+7,sohye,Nautilus,False,Side.red,2,5,8,2.0,185,Teleport,Flash,15,False,10142,9000,Doran's Ring,Glacial Shroud,Sunfire Cape,Spirit Visage,Ninja Tabi,,94918,23716,Lane.top_lane,Role.solo
+8,i was car,Tristana,False,Side.red,9,10,3,1.2,201,Flash,Heal,14,True,12674,11975,Rapid Firecannon,Infinity Edge,Berserker's Greaves,Vampiric Scepter,Runaan's Hurricane,,29179,109961,Lane.bot_lane,Role.carry
+9,Purse First,Orianna,False,Side.red,3,8,5,1.0,225,Teleport,Flash,15,False,10640,9225,Doran's Ring,Rod of Ages,Morellonomicon,Boots of Speed,Void Staff,Control Ward,114971,14686,Lane.mid_lane,Role.solo

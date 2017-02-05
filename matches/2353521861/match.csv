@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Twitch FateFalls,Nasus,False,Side.blue,3,4,2,1.25,217,Flash,Teleport,14,False,10237,8675,Doran's Ring,Zz'Rot Portal,Kindlegem,Ninja Tabi,Frozen Heart,Doran's Ring,81662,33074,Lane.top_lane,Role.solo
+1,Aecinira,Bard,False,Side.blue,0,6,6,1.0,9,Flash,Exhaust,11,False,6450,6175,Refillable Potion,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Null-Magic Mantle,,7175,3562,Lane.bot_lane,Role.support
+2,Clarizio,Karma,False,Side.blue,1,5,3,0.8,169,Flash,Exhaust,14,False,8238,8275,Needlessly Large Rod,Athene's Unholy Grail,Giant's Belt,Ardent Censer,,Ionian Boots of Lucidity,98795,9135,Lane.mid_lane,Role.solo
+3,KaNKl,Lee Sin,False,Side.blue,4,2,4,4.0,147,Smite,Flash,14,False,9900,8875,Refillable Potion,Enchantment: Warrior,Tiamat,Boots of Mobility,Dead Man's Plate,Serrated Dirk,25441,104681,Lane.jungle,Role.none
+4,MICROWAVEEEE,Vayne,False,Side.blue,3,7,0,0.42857142857142855,165,Flash,Heal,12,True,8639,8375,Doran's Blade,Infinity Edge,Boots of Speed,Statikk Shiv,,Zeal,16133,56053,Lane.bot_lane,Role.carry
+5,JaySo,Ahri,True,Side.red,5,3,12,5.666666666666667,221,Ignite,Flash,16,False,12249,10110,Morellonomicon,Rabadon's Deathcap,Amplifying Tome,Blasting Wand,Doran's Ring,Sorcerer's Shoes,78140,21925,Lane.mid_lane,Role.solo
+6,Pht,Graves,True,Side.red,7,1,3,10.0,176,Smite,Flash,15,False,12531,10825,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,The Black Cleaver,Pickaxe,Long Sword,4920,174623,Lane.jungle,Role.none
+7,TakeTheTip,Thresh,True,Side.red,1,1,14,15.0,54,Exhaust,Flash,13,False,9134,7400,Redemption,Control Ward,Eye of the Equinox,Null-Magic Mantle,Boots of Mobility,Aegis of the Legion,13538,12435,Lane.bot_lane,Role.support
+8,S Lyn,Jhin,True,Side.red,5,4,11,4.0,193,Heal,Flash,14,False,11850,9300,,B. F. Sword,Boots of Swiftness,Essence Reaver,Doran's Blade,Rapid Firecannon,7546,113520,Lane.bot_lane,Role.carry
+9,GtG Fyn,Jayce,True,Side.red,6,2,3,4.5,192,Teleport,Flash,15,False,11410,10375,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Mortal Reminder,Ionian Boots of Lucidity,,10106,104846,Lane.top_lane,Role.solo

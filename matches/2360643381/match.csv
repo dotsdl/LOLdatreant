@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Blitzcrank,True,Side.blue,3,2,13,8.0,33,Flash,Ignite,11,False,8612,6975,Ruby Sightstone,Face of the Mountain,Forbidden Idol,,Crystalline Bracer,Boots of Mobility,6631,8973,Lane.bot_lane,Role.support
+1,that808gamer,Vi,True,Side.blue,3,5,12,3.0,99,Flash,Smite,13,False,9969,9475,Refillable Potion,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Hexdrinker,Spectre's Cowl,1289,89842,Lane.jungle,Role.none
+2,Chief Bandit,Ryze,True,Side.blue,5,2,5,5.0,173,Ghost,Flash,14,False,10951,8210,Seraph's Embrace,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Amplifying Tome,Blasting Wand,120342,15184,Lane.mid_lane,Role.solo
+3,asianaffliter,Twitch,True,Side.blue,10,6,7,2.8333333333333335,123,Flash,Heal,12,True,11142,7900,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,0,86457,Lane.bot_lane,Role.carry
+4,ONLYPLAYKALISTA,Lee Sin,True,Side.blue,8,4,12,5.0,131,Ignite,Flash,13,False,11371,9500,Ravenous Hydra,Guardian Angel,Jaurim's Fist,Doran's Blade,Ruby Crystal,Mercury's Treads,20496,80313,Lane.jungle,Role.none
+5,Barranco Coma,Lux,False,Side.red,2,5,5,1.4,127,Flash,Exhaust,12,False,7671,7325,Refillable Potion,Mejai's Soulstealer,Morellonomicon,Cloth Armor,Fiendish Codex,Sorcerer's Shoes,59464,10048,Lane.mid_lane,Role.solo
+6,NiceTwig,Brand,False,Side.red,8,9,6,1.5555555555555556,31,Flash,Ignite,10,False,8589,7785,Sorcerer's Shoes,Eye of the Watchers,,Amplifying Tome,Rylai's Crystal Scepter,Ruby Crystal,29646,4459,Lane.bot_lane,Role.support
+7,xPresident,Zac,False,Side.red,3,6,6,1.5,75,Smite,Flash,11,False,7671,7495,Enchantment: Cinderhulk,Refillable Potion,Dead Man's Plate,Mercury's Treads,Negatron Cloak,,44973,15842,Lane.jungle,Role.none
+8,Yugameru,Poppy,False,Side.red,0,4,3,0.75,155,Heal,Flash,12,False,7669,7150,Cloth Armor,Corrupting Potion,Sunfire Cape,Giant's Belt,Spectre's Cowl,Mercury's Treads,19058,47824,Lane.top_lane,Role.solo
+9,Liquid Lima,Jhin,False,Side.red,5,5,9,2.8,131,Flash,Heal,11,False,9041,8700,Refillable Potion,Essence Reaver,Rapid Firecannon,Doran's Blade,Ionian Boots of Lucidity,Pickaxe,5650,65303,Lane.bot_lane,Role.carry

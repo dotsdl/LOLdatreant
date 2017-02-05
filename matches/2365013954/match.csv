@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Oh Jeeze,Vi,False,Side.blue,3,6,3,1.0,114,Smite,Flash,13,False,7705,7000,Phage,Enchantment: Cinderhulk,Ninja Tabi,Sheen,Dagger,Dagger,7925,76372,Lane.jungle,Role.none
+1,Fockus,Nautilus,False,Side.blue,3,5,2,1.0,158,Flash,Teleport,13,False,8095,7600,Doran's Shield,Ninja Tabi,Ruby Crystal,Sunfire Cape,Warden's Mail,Spectre's Cowl,64067,17493,Lane.top_lane,Role.solo
+2,iGaymer,Lux,False,Side.blue,2,8,5,0.875,18,Exhaust,Flash,11,False,6580,6425,Eye of the Watchers,Athene's Unholy Grail,Forbidden Idol,,,Boots of Swiftness,19042,3395,Lane.bot_lane,Role.support
+3,Raveydemon,Caitlyn,False,Side.blue,3,6,7,1.6666666666666667,169,Heal,Flash,12,False,8703,8000,Doran's Blade,Rapid Firecannon,Infinity Edge,Berserker's Greaves,,,809,88190,Lane.bot_lane,Role.carry
+4,oVo Quangholic,Anivia,False,Side.blue,2,6,3,0.8333333333333334,138,Flash,Ghost,12,False,7579,6775,Doran's Ring,Sorcerer's Shoes,Tear of the Goddess,Needlessly Large Rod,,Rod of Ages,69498,8975,Lane.mid_lane,Role.solo
+5,lcs jg sucks,Rumble,True,Side.red,10,2,8,9.0,174,Flash,Ghost,14,False,12678,10525,,Liandry's Torment,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,,108214,9699,Lane.mid_lane,Role.solo
+6,Kituld,Sivir,True,Side.red,2,4,13,3.75,221,Flash,Heal,15,False,11336,10050,Infinity Edge,B. F. Sword,Vampiric Scepter,Phantom Dancer,Berserker's Greaves,Doran's Blade,0,143166,Lane.bot_lane,Role.carry
+7,Vaeth,Jayce,True,Side.red,4,3,6,3.3333333333333335,175,Teleport,Flash,14,False,10633,8500,Youmuu's Ghostblade,Pickaxe,Doran's Blade,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,8627,76274,Lane.top_lane,Role.solo
+8,iplaylol,Shyvana,True,Side.red,9,3,13,7.333333333333333,169,Smite,Ghost,15,False,12860,10600,Blade of the Ruined King,Refillable Potion,Control Ward,Enchantment: Bloodrazor,Frozen Mallet,Mercury's Treads,63463,88316,Lane.jungle,Role.none
+9,Hanjaro,Thresh,True,Side.red,6,1,16,22.0,24,Flash,Ignite,13,True,9239,7050,Sightstone,Face of the Mountain,Redemption,Ionian Boots of Lucidity,Crystalline Bracer,,8346,5616,Lane.bot_lane,Role.support

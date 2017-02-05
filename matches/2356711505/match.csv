@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,1Shiv2Boxes,Blitzcrank,True,Side.blue,1,3,19,6.666666666666667,25,Flash,Exhaust,12,False,8322,6300,Redemption,Eye of the Equinox,Boots of Speed,Chain Vest,Control Ward,Null-Magic Mantle,10612,5369,Lane.bot_lane,Role.support
+1,Besaid,Orianna,True,Side.blue,9,3,12,7.0,185,Flash,Ghost,14,False,12073,9650,Doran's Ring,Morellonomicon,Doran's Ring,Rabadon's Deathcap,Sorcerer's Shoes,Blasting Wand,106000,12512,Lane.mid_lane,Role.solo
+2,Uzumaki,Riven,True,Side.blue,8,4,9,4.25,241,Teleport,Flash,15,True,12803,11775,Doran's Blade,Maw of Malmortius,The Bloodthirster,,The Black Cleaver,Ninja Tabi,0,145019,Lane.top_lane,Role.solo
+3,Kappton,Caitlyn,True,Side.blue,8,1,6,14.0,184,Flash,Heal,13,False,12079,9500,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,Dagger,491,121148,Lane.bot_lane,Role.carry
+4,Nagano513,Skarner,True,Side.blue,5,5,9,2.8,137,Smite,Flash,14,False,11175,8803,Enchantment: Warrior,Refillable Potion,Boots of Speed,Trinity Force,Chain Vest,Giant's Belt,29823,110270,Lane.jungle,Role.none
+5,TwistyJuker,Lee Sin,False,Side.red,6,5,4,2.0,128,Flash,Smite,14,False,8955,8800,Tiamat,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,Ruby Crystal,Long Sword,16228,83606,Lane.jungle,Role.none
+6,Jintea,Jhin,False,Side.red,7,4,4,2.75,209,Flash,Heal,13,False,10162,9700,Youmuu's Ghostblade,Refillable Potion,Duskblade of Draktharr,Rapid Firecannon,Doran's Blade,Boots of Speed,7840,117781,Lane.bot_lane,Role.carry
+7,Chwy,Illaoi,False,Side.red,1,9,7,0.8888888888888888,55,Flash,Teleport,11,False,5860,5500,The Black Cleaver,Boots of Speed,Corrupting Potion,Giant's Belt,Cloth Armor,,923,45963,Lane.jungle,Role.none
+8,e1Prophet,Viktor,False,Side.red,1,8,5,0.75,162,Ghost,Flash,13,False,7670,7175,Perfect Hex Core,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Fiendish Codex,Seeker's Armguard,69741,9445,Lane.mid_lane,Role.solo
+9,MattDeitz,Taric,False,Side.red,1,5,8,1.8,39,Flash,Exhaust,11,False,6409,6145,Sightstone,Frozen Heart,Targon's Brace,Negatron Cloak,Boots of Speed,Cloth Armor,4285,6204,Lane.bot_lane,Role.support

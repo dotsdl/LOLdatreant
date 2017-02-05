@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ERE56R,Twisted Fate,True,Side.blue,5,2,16,10.5,160,Flash,Ghost,15,False,11695,11110,Lich Bane,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Luden's Echo,Amplifying Tome,87349,13630,Lane.mid_lane,Role.solo
+1,RNG Mlxgod,Kha'Zix,True,Side.blue,7,7,9,2.2857142857142856,90,Smite,Flash,14,True,10577,9225,Duskblade of Draktharr,Tiamat,,Enchantment: Warrior,Ninja Tabi,Serrated Dirk,3762,113256,Lane.jungle,Role.none
+2,Ouchxiao,Poppy,True,Side.blue,7,3,11,6.0,139,Flash,Teleport,15,False,10529,9800,Corrupting Potion,Mercury's Treads,Spirit Visage,The Black Cleaver,Chain Vest,Giant's Belt,5080,70687,Lane.top_lane,Role.solo
+3,suga heibai,Ezreal,True,Side.blue,10,4,8,4.5,180,Flash,Heal,14,False,12286,10833,Doran's Blade,Blade of the Ruined King,Trinity Force,Muramana,Dagger,Boots of Speed,17927,99361,Lane.bot_lane,Role.carry
+4,ThirdPoint,Morgana,True,Side.blue,1,4,18,4.75,37,Exhaust,Flash,12,False,9024,7975,Locket of the Iron Solari,,Eye of the Watchers,Redemption,,Boots of Swiftness,22693,6933,Lane.bot_lane,Role.support
+5,Perrito,Vayne,False,Side.red,1,8,7,1.0,158,Heal,Flash,12,False,8778,8025,Doran's Blade,Infinity Edge,Control Ward,Berserker's Greaves,Statikk Shiv,,20848,64431,Lane.bot_lane,Role.carry
+6,Mario Dumont,Viktor,False,Side.red,1,7,3,0.5714285714285714,185,Flash,Cleanse,13,False,8986,8025,Ionian Boots of Lucidity,Control Ward,Rylai's Crystal Scepter,Perfect Hex Core,Doran's Ring,,90879,14324,Lane.mid_lane,Role.solo
+7,JoDa Fucking Pen,Swain,False,Side.red,4,3,5,3.0,165,Teleport,Flash,14,False,9838,8850,Doran's Ring,Rod of Ages,Zhonya's Hourglass,Mercury's Treads,Ruby Crystal,Needlessly Large Rod,65508,14369,Lane.top_lane,Role.solo
+8,cùrz,Nami,False,Side.red,5,6,8,2.1666666666666665,8,Flash,Ignite,11,False,8209,7200,Eye of the Watchers,Redemption,Aegis of the Legion,Ionian Boots of Lucidity,Null-Magic Mantle,,6677,2806,Lane.bot_lane,Role.support
+9,KitingYeezus,Graves,False,Side.red,9,6,5,2.3333333333333335,120,Flash,Smite,13,False,10561,10375,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,Maw of Malmortius,Long Sword,Long Sword,4566,106087,Lane.jungle,Role.none

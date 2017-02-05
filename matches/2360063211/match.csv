@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WJNA,Lulu,True,Side.blue,7,4,13,5.0,201,Flash,Ignite,16,False,13296,11850,Athene's Unholy Grail,Lich Bane,Rabadon's Deathcap,Sorcerer's Shoes,Doran's Ring,Blasting Wand,91238,21720,Lane.mid_lane,Role.solo
+1,ioan,Volibear,True,Side.blue,6,6,8,2.3333333333333335,113,Flash,Smite,14,False,11758,11425,Titanic Hydra,Ruby Crystal,Chain Vest,Dead Man's Plate,Enchantment: Cinderhulk,Boots of Swiftness,38945,79760,Lane.jungle,Role.none
+2,3eon,Nami,True,Side.blue,1,4,19,5.0,14,Flash,Exhaust,14,True,10171,8660,Ionian Boots of Lucidity,Redemption,Eye of the Oasis,Forbidden Idol,Athene's Unholy Grail,Amplifying Tome,9762,6571,Lane.bot_lane,Role.support
+3,West Coast Carry,Tahm Kench,True,Side.blue,4,8,5,1.125,163,Flash,Teleport,15,False,11201,9275,Corrupting Potion,Ninja Tabi,Sunfire Cape,Frozen Heart,Spectre's Cowl,Kindlegem,76979,23265,Lane.top_lane,Role.solo
+4,Celend,Ashe,True,Side.blue,10,4,10,5.0,235,Flash,Heal,15,False,15190,13530,Infinity Edge,Guardian Angel,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Phantom Dancer,6324,156115,Lane.bot_lane,Role.carry
+5,Firé,Riven,False,Side.red,3,4,9,3.0,152,Teleport,Flash,14,False,9812,9375,Refillable Potion,Ravenous Hydra,The Black Cleaver,Serrated Dirk,Ionian Boots of Lucidity,Long Sword,0,109054,Lane.top_lane,Role.solo
+6,Cat Ears,Soraka,False,Side.red,1,5,16,3.4,17,Flash,Exhaust,12,False,8022,7475,Locket of the Iron Solari,The Dark Seal,Redemption,Ionian Boots of Lucidity,Nomad's Medallion,Control Ward,14127,2383,Lane.bot_lane,Role.support
+7,Stixxay,Lucian,False,Side.red,5,7,5,1.4285714285714286,207,Heal,Flash,13,False,11324,10750,Rapid Firecannon,Berserker's Greaves,Essence Reaver,Lord Dominik's Regards,Doran's Blade,,4928,136626,Lane.bot_lane,Role.carry
+8,Below Zero,LeBlanc,False,Side.red,11,6,2,2.1666666666666665,157,Ignite,Flash,15,False,11007,11050,Void Staff,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,,,88928,13255,Lane.mid_lane,Role.solo
+9,WolfFIame,Shyvana,False,Side.red,6,6,8,2.3333333333333335,175,Ghost,Smite,15,False,12049,11575,Enchantment: Bloodrazor,Titanic Hydra,Frozen Mallet,Mercury's Treads,Chain Vest,Cloth Armor,71120,123202,Lane.jungle,Role.none

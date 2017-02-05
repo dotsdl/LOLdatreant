@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Usermang,Lee Sin,False,Side.blue,2,1,0,2.0,107,Smite,Flash,11,False,6644,6400,Tiamat,Giant's Belt,Boots of Mobility,Enchantment: Warrior,Null-Magic Mantle,,13096,62546,Lane.jungle,Role.none
+1,Fixyou,Trundle,False,Side.blue,1,1,2,3.0,28,Exhaust,Flash,9,False,5071,4125,Sightstone,,Targon's Brace,Ionian Boots of Lucidity,Kindlegem,,654,8391,Lane.bot_lane,Role.support
+2,Koggle,Katarina,False,Side.blue,3,1,1,4.0,142,Flash,Exhaust,12,False,7413,6875,Rylai's Crystal Scepter,Seeker's Armguard,Aether Wisp,Sorcerer's Shoes,,,63076,13437,Lane.top_lane,Role.solo
+3,kim jong bait,Draven,False,Side.blue,0,8,2,0.25,153,Flash,Heal,10,False,7121,6550,Infinity Edge,Cull,Berserker's Greaves,Dagger,Doran's Blade,Brawler's Gloves,0,70572,Lane.bot_lane,Role.carry
+4,  Ran God Sy,Ziggs,False,Side.blue,0,6,2,0.3333333333333333,191,Teleport,Flash,12,False,7823,6785,Amplifying Tome,Morellonomicon,Blasting Wand,Boots of Speed,Needlessly Large Rod,The Dark Seal,95514,9793,Lane.mid_lane,Role.solo
+5,Baboom223,Orianna,True,Side.red,2,0,5,7.0,159,Flash,Ghost,12,False,7811,6450,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Ruby Crystal,66376,14703,Lane.mid_lane,Role.solo
+6,Iron Willy,Jayce,True,Side.red,1,2,1,1.0,142,Teleport,Flash,12,False,7233,6350,Doran's Blade,Caulfield's Warhammer,Mercury's Treads,Maw of Malmortius,,,6129,62253,Lane.top_lane,Role.solo
+7,PROUD GAY DADS,Caitlyn,True,Side.red,4,2,3,3.5,170,Heal,Flash,12,False,8513,7250,Doran's Blade,Runaan's Hurricane,Pickaxe,B. F. Sword,Cloak of Agility,Berserker's Greaves,1689,91411,Lane.bot_lane,Role.carry
+8,Horny Pix,Lulu,True,Side.red,3,1,6,9.0,8,Flash,Ignite,10,True,6413,4775,Total Biscuit of Rejuvenation,Sightstone,Frost Queen's Claim,Boots of Mobility,Ruby Crystal,,11934,4983,Lane.bot_lane,Role.support
+9,cracker,Hecarim,True,Side.red,7,1,3,10.0,80,Ghost,Smite,11,False,8061,6883,Boots of Speed,Refillable Potion,Enchantment: Cinderhulk,Trinity Force,,,10750,78826,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WatchThePower,Rek'Sai,False,Side.blue,4,7,5,1.2857142857142858,144,Flash,Smite,14,True,9788,8175,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Mercury's Treads,Chain Vest,,30301,90231,Lane.jungle,Role.none
+1,Braums Mustache,Braum,False,Side.blue,1,8,16,2.125,47,Flash,Exhaust,13,False,8719,8450,Boots of Swiftness,Sightstone,Face of the Mountain,Knight's Vow,Aegis of the Legion,Null-Magic Mantle,11138,6447,Lane.bot_lane,Role.support
+2,TSM Jarl,Twisted Fate,False,Side.blue,5,7,2,1.0,206,Teleport,Flash,15,False,11630,10985,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Abyssal Scepter,Void Staff,,125787,15965,Lane.mid_lane,Role.solo
+3,bigzmaster,Vayne,False,Side.blue,5,9,7,1.3333333333333333,160,Flash,Heal,13,False,9944,9525,Guinsoo's Rageblade,Blade of the Ruined King,Total Biscuit of Rejuvenation,Null-Magic Mantle,,Berserker's Greaves,1479,58925,Lane.bot_lane,Role.carry
+4,Pat the Bunny,Pantheon,False,Side.blue,5,12,2,0.5833333333333334,140,Flash,Ignite,13,False,9454,7825,Corrupting Potion,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,,,6625,62059,Lane.top_lane,Role.solo
+5,Davidhow,Vi,True,Side.red,14,1,15,29.0,144,Smite,Flash,17,False,15009,14008,Randuin's Omen,Trinity Force,Titanic Hydra,Mercury's Treads,Enchantment: Cinderhulk,,21285,142824,Lane.jungle,Role.none
+6,Vultix,Jhin,True,Side.red,5,6,16,3.5,178,Flash,Heal,14,False,12436,11300,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Infinity Edge,,9623,104578,Lane.bot_lane,Role.carry
+7,9point5mechanics,LeBlanc,True,Side.red,15,5,9,4.8,197,Teleport,Flash,16,False,14711,13035,Rabadon's Deathcap,Rylai's Crystal Scepter,Amplifying Tome,Morellonomicon,The Dark Seal,Sorcerer's Shoes,109394,12981,Lane.mid_lane,Role.solo
+8,ÇharHÐ,Karma,True,Side.red,0,4,32,8.0,18,Flash,Exhaust,14,False,10590,9225,Control Ward,Mikael's Crucible,Redemption,Ruby Sightstone,Nomad's Medallion,Boots of Mobility,17178,6152,Lane.bot_lane,Role.support
+9,8el skeleto8,Maokai,True,Side.red,9,4,14,5.75,153,Flash,Teleport,15,False,12951,12250,Sunfire Cape,Dead Man's Plate,Ninja Tabi,Frozen Heart,Kindlegem,Spectre's Cowl,90336,23281,Lane.top_lane,Role.solo

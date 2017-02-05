@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pink Dildo,Nasus,True,Side.blue,0,0,0,0.0,14,Flash,Teleport,3,False,915,500,Corrupting Potion,,,,,,0,1446,Lane.top_lane,Role.solo
+1,AlienZombieNecro,Draven,True,Side.blue,1,1,1,2.0,7,Flash,Heal,2,False,1320,500,Doran's Blade,,,,,,117,4285,Lane.bot_lane,Role.duo
+2,purpleninja0,Syndra,True,Side.blue,1,0,0,1.0,10,Ghost,Flash,2,True,1238,1050,Doran's Ring,Doran's Ring,Refillable Potion,,,,1697,779,Lane.mid_lane,Role.duo
+3,LindsenN,Kha'Zix,True,Side.blue,0,0,1,1.0,6,Flash,Smite,4,False,1159,500,Hunter's Talisman,Refillable Potion,,,,,336,6283,Lane.mid_lane,Role.duo
+4,thekilerone,Sona,True,Side.blue,1,0,1,2.0,2,Ignite,Flash,3,False,1214,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,991,1009,Lane.bot_lane,Role.duo
+5,cokes,Jhin,False,Side.red,0,1,0,0.0,7,Heal,Flash,2,False,787,500,Doran's Blade,,,,,,93,3794,Lane.bot_lane,Role.solo
+6,Based Envy,Renekton,False,Side.red,0,0,0,0.0,0,Teleport,Flash,1,False,653,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+7,RacistMuffin,Nidalee,False,Side.red,0,0,0,0.0,5,Smite,Flash,3,False,939,500,Health Potion,Hunter's Talisman,,,,,4928,1590,Lane.jungle,Role.none
+8,Trickster Loki,Twitch,False,Side.red,1,1,0,1.0,0,Exhaust,Flash,2,False,1023,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,0,860,Lane.jungle,Role.none
+9,King Cobra,Aurelion Sol,False,Side.red,0,1,0,0.0,11,Flash,Ghost,3,False,877,500,Corrupting Potion,,,,,,4585,674,Lane.mid_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Abou222,Ekko,True,Side.blue,6,1,8,14.0,144,Teleport,Flash,13,False,9752,8975,Hextech Protobelt-01,Needlessly Large Rod,Lich Bane,The Dark Seal,Sorcerer's Shoes,,67190,13418,Lane.mid_lane,Role.solo
+1,Yarnello,Katarina,True,Side.blue,7,3,9,5.333333333333333,145,Flash,Teleport,13,False,9843,8510,Sorcerer's Shoes,Refillable Potion,Hextech Gunblade,Control Ward,Amplifying Tome,Rylai's Crystal Scepter,74739,13056,Lane.top_lane,Role.solo
+2,PrismaI,Vayne,True,Side.blue,5,5,11,3.2,114,Flash,Heal,11,False,9049,7675,Doran's Blade,Pickaxe,Statikk Shiv,Berserker's Greaves,Phantom Dancer,,14448,52836,Lane.bot_lane,Role.carry
+3,wiggily420,Pantheon,True,Side.blue,7,4,9,4.0,33,Flash,Ignite,11,False,8353,6650,Edge of Night,Refillable Potion,Relic Shield,Boots of Speed,Phage,Caulfield's Warhammer,2104,27799,Lane.bot_lane,Role.support
+4,TheOddOrange,Skarner,True,Side.blue,7,3,13,6.666666666666667,88,Flash,Smite,13,False,10533,8333,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Trinity Force,Ruby Crystal,Null-Magic Mantle,20171,65968,Lane.jungle,Role.none
+5,amoureux de toi,Jhin,False,Side.red,1,9,3,0.4444444444444444,106,Heal,Flash,9,False,5876,4600,Doran's Blade,Essence Reaver,,Boots of Speed,,,892,43829,Lane.bot_lane,Role.carry
+6,Riesig,Kled,False,Side.red,2,5,0,0.4,118,Flash,Teleport,11,False,6097,5550,Refillable Potion,Doran's Blade,Doran's Blade,Ninja Tabi,The Black Cleaver,,0,51808,Lane.top_lane,Role.solo
+7,Pyrrfect,Nautilus,False,Side.red,2,7,6,1.1428571428571428,35,Flash,Exhaust,9,False,5651,4100,Sightstone,Crystalline Bracer,,Mercury's Treads,Cloth Armor,Targon's Brace,9021,7110,Lane.bot_lane,Role.support
+8,Mordio,Lee Sin,False,Side.red,6,7,5,1.5714285714285714,124,Smite,Flash,12,False,8376,8375,The Black Cleaver,Cloth Armor,Enchantment: Warrior,Ninja Tabi,Caulfield's Warhammer,,20905,68590,Lane.jungle,Role.none
+9,lc0nic,Karma,False,Side.red,5,4,3,2.0,146,Flash,Exhaust,12,True,7826,7350,Doran's Ring,Doran's Ring,Luden's Echo,Athene's Unholy Grail,Mercury's Treads,,67848,13442,Lane.mid_lane,Role.solo

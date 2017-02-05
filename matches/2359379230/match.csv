@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,brocco,Zilean,False,Side.blue,1,4,3,1.0,56,Flash,Exhaust,11,False,7284,5825,,Eye of the Watchers,Tear of the Goddess,,Ionian Boots of Lucidity,Needlessly Large Rod,32039,5446,Lane.bot_lane,Role.duo
+1,Auniko,Irelia,False,Side.blue,1,8,2,0.375,176,Teleport,Flash,13,False,7936,7308,Doran's Blade,Mercury's Treads,Health Potion,Trinity Force,Warden's Mail,Ruby Crystal,1712,72902,Lane.top_lane,Role.solo
+2,Biggity Biggims ,Viktor,False,Side.blue,2,6,2,0.6666666666666666,148,Flash,Ghost,12,False,7630,7075,The Hex Core mk-2,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,,70901,11304,Lane.mid_lane,Role.solo
+3,Jolteonn,Caitlyn,False,Side.blue,3,6,2,0.8333333333333334,107,Heal,Flash,12,False,7504,6700,Doran's Blade,Pickaxe,Berserker's Greaves,,Runaan's Hurricane,B. F. Sword,224,57543,Lane.bot_lane,Role.duo
+4,Burp,Graves,False,Side.blue,3,8,4,0.875,127,Flash,Smite,13,False,8869,8200,Refillable Potion,Mercury's Treads,Caulfield's Warhammer,Phantom Dancer,Enchantment: Warrior,Null-Magic Mantle,4956,114082,Lane.jungle,Role.none
+5,Not Only Lee Sin,Ryze,True,Side.red,11,2,7,9.0,205,Flash,Ghost,15,False,13354,11275,Rylai's Crystal Scepter,Sorcerer's Shoes,Seraph's Embrace,Chain Vest,,Rod of Ages,141958,10467,Lane.mid_lane,Role.solo
+6,LotteryApple,Maokai,True,Side.red,3,3,14,5.666666666666667,140,Flash,Teleport,15,False,10850,8625,Rod of Ages,Doran's Ring,Iceborn Gauntlet,Mercury's Treads,Spectre's Cowl,,67127,23455,Lane.top_lane,Role.solo
+7,Xmithie,Rengar,True,Side.red,3,2,13,8.0,149,Smite,Flash,15,False,11377,9475,Locket of the Iron Solari,Enchantment: Warrior,Ionian Boots of Lucidity,Dead Man's Plate,Ruby Crystal,Control Ward,15542,111996,Lane.jungle,Role.none
+8,Biofrost ,Thresh,True,Side.red,4,1,16,20.0,45,Flash,Ignite,14,True,9899,7825,Ruby Sightstone,Relic Shield,Boots of Mobility,Redemption,Locket of the Iron Solari,,18175,10533,Lane.bot_lane,Role.support
+9,Doublelift,Ashe,True,Side.red,11,2,5,8.0,262,Flash,Heal,15,False,15713,12325,Doran's Blade,Runaan's Hurricane,Last Whisper,Infinity Edge,Berserker's Greaves,Rapid Firecannon,4579,172182,Lane.bot_lane,Role.carry

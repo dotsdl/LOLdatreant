@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,amgod1,Orianna,False,Side.blue,3,9,1,0.4444444444444444,174,Barrier,Flash,13,True,9061,8670,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Negatron Cloak,,81241,14336,Lane.mid_lane,Role.solo
+1,Zero Nostalgia,Vi,False,Side.blue,3,4,5,2.0,126,Smite,Flash,12,False,8931,8450,Mercury's Treads,Enchantment: Warrior,The Black Cleaver,Warden's Mail,Ruby Crystal,,1840,95217,Lane.jungle,Role.none
+2,Navn,Zyra,False,Side.blue,5,3,4,3.0,18,Flash,Exhaust,11,False,8600,8175,Rylai's Crystal Scepter,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Ruby Crystal,,24888,3055,Lane.bot_lane,Role.support
+3,dfist,Vayne,False,Side.blue,7,7,5,1.7142857142857142,215,Flash,Heal,14,False,12290,11650,Doran's Blade,Infinity Edge,The Bloodthirster,,Statikk Shiv,Berserker's Greaves,29625,93847,Lane.bot_lane,Role.carry
+4,dirtydob,Ryze,False,Side.blue,1,9,1,0.2222222222222222,174,Flash,Teleport,13,False,8935,8500,Tear of the Goddess,Ionian Boots of Lucidity,Rod of Ages,Abyssal Scepter,Needlessly Large Rod,,104265,7046,Lane.top_lane,Role.solo
+5,TSC Alternity,Bard,True,Side.red,2,4,8,2.5,23,Flash,Ignite,13,False,8733,8225,Locket of the Iron Solari,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,,Control Ward,12938,6643,Lane.bot_lane,Role.support
+6,Anthøny,Kha'Zix,True,Side.red,12,1,5,17.0,142,Smite,Flash,17,False,13667,12300,Enchantment: Warrior,Youmuu's Ghostblade,Guardian Angel,Ionian Boots of Lucidity,Maw of Malmortius,,6450,183442,Lane.jungle,Role.none
+7,Thalies,Katarina,True,Side.red,15,3,4,6.333333333333333,205,Ignite,Flash,17,False,13972,13300,The Dark Seal,Rylai's Crystal Scepter,Rabadon's Deathcap,Hextech Gunblade,Sorcerer's Shoes,Fiendish Codex,139768,10392,Lane.mid_lane,Role.solo
+8,Malli,Nautilus,True,Side.red,2,2,7,4.5,233,Flash,Teleport,16,False,11345,10870,Corrupting Potion,Spirit Visage,Mercury's Treads,Sunfire Cape,Iceborn Gauntlet,Negatron Cloak,88493,38204,Lane.top_lane,Role.solo
+9,ApeXsnipe,Jhin,True,Side.red,1,9,8,1.0,140,Flash,Heal,12,False,10102,9075,Cloak of Agility,Essence Reaver,B. F. Sword,Pickaxe,Cull,Ionian Boots of Lucidity,5182,88856,Lane.bot_lane,Role.carry

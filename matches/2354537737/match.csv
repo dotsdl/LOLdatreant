@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nedo,Thresh,True,Side.blue,1,0,0,1.0,2,Exhaust,Flash,2,True,1129,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,511,733,Lane.bot_lane,Role.duo
+1,LightDatz,Vayne,True,Side.blue,0,0,1,1.0,1,Flash,Heal,1,False,768,550,Doran's Blade,Health Potion,,,,,0,145,Lane.jungle,Role.none
+2,Just Lampost,Poppy,True,Side.blue,0,0,0,0.0,15,Teleport,Flash,3,False,938,500,,Corrupting Potion,,,,,30,2275,Lane.top_lane,Role.solo
+3,Imaokai,Twitch,True,Side.blue,0,0,1,1.0,10,Ignite,Smite,3,False,1019,500,Hunter's Machete,Refillable Potion,,,,,0,3288,Lane.bot_lane,Role.duo
+4,Emilia Is Love,LeBlanc,True,Side.blue,0,0,0,0.0,18,Flash,Ignite,3,False,1011,500,,,Total Biscuit of Rejuvenation,,,Doran's Ring,3200,2040,Lane.mid_lane,Role.solo
+5,popgoestheglock,Janna,False,Side.red,0,1,0,0.0,0,Exhaust,Flash,2,False,747,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,50,153,Lane.bot_lane,Role.duo
+6,Swàin,Swain,False,Side.red,0,0,0,0.0,0,Ignite,Flash,1,False,656,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+7,L1MITAT1ONS,Jayce,False,Side.red,0,0,0,0.0,11,Teleport,Flash,3,False,876,500,Doran's Blade,Health Potion,,,,,217,3163,Lane.top_lane,Role.duo
+8,Rapidx,Caitlyn,False,Side.red,0,0,0,0.0,15,Flash,Heal,2,False,935,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,4546,Lane.bot_lane,Role.duo
+9,Nhock,Skarner,False,Side.red,0,0,0,0.0,8,Smite,Flash,3,False,968,500,Hunter's Talisman,Refillable Potion,,,,,1382,5196,Lane.top_lane,Role.duo

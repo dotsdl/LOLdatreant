@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JKJ,Morgana,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,657,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+1,Rhaby,Shaco,False,Side.blue,0,1,0,0.0,6,Ignite,Smite,3,False,957,500,Hunter's Machete,Refillable Potion,,,,,2096,3819,Lane.jungle,Role.none
+2,IQ is 201 ,Graves,False,Side.blue,1,1,0,1.0,14,Flash,Teleport,3,False,1247,500,,Doran's Blade,,,,,60,5488,Lane.top_lane,Role.solo
+3,Primal Zerg,Caitlyn,False,Side.blue,1,1,0,1.0,1,Flash,Heal,2,False,977,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,647,Lane.bot_lane,Role.solo
+4,Oy Gevalt,Ashe,False,Side.blue,0,0,0,0.0,13,Flash,Heal,3,False,899,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,3139,Lane.mid_lane,Role.duo
+5,Vero V1,Jhin,True,Side.red,0,1,1,1.0,10,Heal,Flash,3,False,1027,500,Doran's Blade,Health Potion,,,,,9,3170,Lane.bot_lane,Role.duo
+6,ItsGregFFs,Malphite,True,Side.red,1,1,0,1.0,3,Flash,Teleport,3,False,1017,500,Corrupting Potion,,,,,,611,859,Lane.top_lane,Role.solo
+7,dills,Zilean,True,Side.red,0,0,1,1.0,13,Flash,Teleport,3,False,1043,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,2162,1028,Lane.mid_lane,Role.solo
+8,Fennecat,Xin Zhao,True,Side.red,1,0,0,1.0,4,Smite,Ghost,3,False,1260,500,Hunter's Machete,Refillable Potion,,,,,115,5376,Lane.jungle,Role.none
+9,aegiuscutter,Zyra,True,Side.red,1,0,0,1.0,1,Flash,Ignite,2,True,1137,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,480,1074,Lane.bot_lane,Role.duo

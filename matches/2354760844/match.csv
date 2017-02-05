@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Venyx,Lee Sin,False,Side.blue,4,8,3,0.875,105,Smite,Flash,14,False,10122,9825,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Dead Man's Plate,Randuin's Omen,Long Sword,17628,76150,Lane.jungle,Role.none
+1,Peng Yiliwang,Jayce,False,Side.blue,1,6,10,1.8333333333333333,154,Ignite,Flash,14,False,10442,9500,The Black Cleaver,B. F. Sword,Youmuu's Ghostblade,Boots of Speed,Vampiric Scepter,Long Sword,16213,91884,Lane.top_lane,Role.solo
+2,TheYoungMo,Yasuo,False,Side.blue,5,6,3,1.3333333333333333,278,Ignite,Flash,15,False,12816,12725,Infinity Edge,Giant's Belt,Mercury's Treads,Phantom Dancer,Frozen Mallet,Chain Vest,28855,157013,Lane.mid_lane,Role.solo
+3,Ji Yoon Lee,Sona,False,Side.blue,0,8,12,1.5,18,Flash,Exhaust,12,False,9457,9150,Frost Queen's Claim,Sightstone,Rylai's Crystal Scepter,Sorcerer's Shoes,,Sheen,16503,4725,Lane.bot_lane,Role.support
+4,Noeul Bit,Tristana,False,Side.blue,8,3,2,3.3333333333333335,266,Flash,Heal,15,False,13862,13850,Giant Slayer,Infinity Edge,Rapid Firecannon,Berserker's Greaves,The Bloodthirster,Last Whisper,37159,156256,Lane.bot_lane,Role.carry
+5,Salariel,Karma,True,Side.red,3,4,9,3.0,157,Flash,Exhaust,15,False,11171,9160,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Blasting Wand,Amplifying Tome,94470,17109,Lane.mid_lane,Role.solo
+6,JuanCarlosFist,Rengar,True,Side.red,10,5,10,4.0,153,Smite,Flash,14,False,13660,12735,Ravenous Hydra,Ionian Boots of Lucidity,Enchantment: Warrior,The Black Cleaver,Pickaxe,B. F. Sword,7653,153193,Lane.jungle,Role.none
+7,Darb Darb,Janna,True,Side.red,3,3,19,7.333333333333333,19,Flash,Exhaust,13,False,11074,9000,Ionian Boots of Lucidity,Banner of Command,,Redemption,Talisman of Ascension,Sightstone,6486,6704,Lane.bot_lane,Role.support
+8,Hoes In My Shirt,Jinx,True,Side.red,4,3,10,4.666666666666667,282,Flash,Heal,15,False,14560,13100,B. F. Sword,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,Vampiric Scepter,6643,225278,Lane.bot_lane,Role.carry
+9,RenektonTopOnly,Renekton,True,Side.red,10,3,8,6.0,279,Flash,Teleport,18,True,15989,14050,Sunfire Cape,The Black Cleaver,Titanic Hydra,Spirit Visage,Ninja Tabi,,27380,194409,Lane.top_lane,Role.solo

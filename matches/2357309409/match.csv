@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FromJinxWithLove,Twitch,True,Side.blue,14,5,11,5.0,170,Heal,Flash,15,False,13946,12750,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,Statikk Shiv,Infinity Edge,Vampiric Scepter,7417,100531,Lane.bot_lane,Role.carry
+1,kookia,Jayce,True,Side.blue,8,4,10,4.5,132,Ignite,Flash,14,False,11868,10450,Manamune,The Black Cleaver,Mortal Reminder,Doran's Blade,Mercury's Treads,Long Sword,9423,87457,Lane.top_lane,Role.solo
+2,Anthøny,Morgana,True,Side.blue,0,3,21,7.0,11,Ignite,Flash,12,False,9012,8000,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,,,15851,9528,Lane.bot_lane,Role.support
+3,Pap,Orianna,True,Side.blue,5,4,12,4.25,125,Ghost,Flash,13,False,10862,9550,Doran's Ring,Void Staff,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,74825,15540,Lane.mid_lane,Role.solo
+4,Ostertag,Lee Sin,True,Side.blue,8,9,5,1.4444444444444444,93,Smite,Flash,12,True,10559,9725,Hexdrinker,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Caulfield's Warhammer,,16227,72033,Lane.jungle,Role.none
+5,Critkeeper,Tryndamere,False,Side.red,6,7,11,2.4285714285714284,101,Ghost,Exhaust,12,False,8774,8400,Statikk Shiv,Blade of the Ruined King,Berserker's Greaves,Cloak of Agility,,,12026,62238,Lane.top_lane,Role.solo
+6,DNW Elixorz,Zac,False,Side.red,2,7,12,2.0,117,Flash,Smite,13,False,8336,7875,Knight's Vow,Refillable Potion,Ninja Tabi,Spectre's Cowl,Enchantment: Cinderhulk,Ruby Crystal,84704,17938,Lane.jungle,Role.none
+7,badseed31,Sona,False,Side.red,2,5,12,2.8,13,Flash,Exhaust,12,False,6689,5725,Athene's Unholy Grail,Sightstone,Glacial Shroud,Faerie Charm,Spellthief's Edge,Boots of Mobility,9472,2598,Lane.bot_lane,Role.support
+8,Nnnncat,Ahri,False,Side.red,9,9,6,1.6666666666666667,145,Ignite,Flash,13,False,9985,9400,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Fiendish Codex,Seeker's Armguard,Doran's Ring,56552,10480,Lane.mid_lane,Role.solo
+9,Hanamura,Vayne,False,Side.red,6,7,4,1.4285714285714286,143,Flash,Heal,13,False,9199,8325,Doran's Blade,Berserker's Greaves,Doran's Blade,Infinity Edge,Statikk Shiv,,3937,61310,Lane.bot_lane,Role.carry

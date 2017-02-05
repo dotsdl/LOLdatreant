@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Autumn Charm,Kennen,False,Side.blue,8,6,1,1.5,191,Ghost,Flash,16,False,11668,10725,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,The Dark Seal,Abyssal Scepter,Rylai's Crystal Scepter,79434,29185,Lane.mid_lane,Role.solo
+1,Angrymeatball,Jarvan IV,False,Side.blue,2,6,6,1.3333333333333333,138,Flash,Smite,14,False,9942,9075,Enchantment: Cinderhulk,The Black Cleaver,Giant's Belt,,Chain Vest,Mercury's Treads,23487,87603,Lane.jungle,Role.none
+2,Dualist,Darius,False,Side.blue,1,7,0,0.14285714285714285,214,Ignite,Flash,14,False,10562,9825,The Black Cleaver,Dead Man's Plate,Kindlegem,Boots of Swiftness,Giant's Belt,Ruby Crystal,347,118614,Lane.top_lane,Role.solo
+3,OTomBombadilo,Janna,False,Side.blue,0,10,9,0.9,16,Exhaust,Flash,11,False,8261,7775,Boots of Mobility,Redemption,Locket of the Iron Solari,Eye of the Oasis,,Cloth Armor,6415,3017,Lane.bot_lane,Role.support
+4,occupiedtoilet,Jhin,False,Side.blue,9,7,1,1.4285714285714286,214,Flash,Heal,14,False,12383,11850,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Infinity Edge,Null-Magic Mantle,,18272,147693,Lane.bot_lane,Role.carry
+5,TRUMPSSMALLHANDS,Ezreal,True,Side.red,5,6,16,3.5,168,Flash,Heal,15,True,11550,10075,Doran's Blade,Blade of the Ruined King,,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,19953,100157,Lane.bot_lane,Role.carry
+6,sGerry,Zilean,True,Side.red,5,4,18,5.75,74,Exhaust,Flash,14,False,10737,9600,Frost Queen's Claim,Locket of the Iron Solari,Sightstone,Zz'Rot Portal,Ionian Boots of Lucidity,Control Ward,45264,8852,Lane.bot_lane,Role.support
+7,BlackChevy,Hecarim,True,Side.red,9,4,12,5.25,174,Ghost,Smite,16,False,12997,12708,Enchantment: Cinderhulk,Trinity Force,Boots of Mobility,Dead Man's Plate,Guardian Angel,,28747,128436,Lane.jungle,Role.none
+8,qazaq,Jayce,True,Side.red,11,2,8,9.5,250,Teleport,Flash,17,False,14052,12825,Ionian Boots of Lucidity,Youmuu's Ghostblade,B. F. Sword,The Black Cleaver,The Bloodthirster,Long Sword,27724,132786,Lane.top_lane,Role.solo
+9,Ombreobscure,Orianna,True,Side.red,6,4,14,5.0,203,Ghost,Flash,16,False,12027,11925,,Zhonya's Hourglass,Rabadon's Deathcap,Sorcerer's Shoes,,Morellonomicon,112470,14912,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Waifu Killer,Yasuo,False,Side.blue,1,10,4,0.5,240,Teleport,Flash,15,False,12250,11700,Infinity Edge,Frozen Mallet,Phantom Dancer,Ninja Tabi,,,29421,130860,Lane.top_lane,Role.solo
+1,08 18 2015,Pantheon,False,Side.blue,16,5,10,5.2,112,Flash,Smite,15,False,14099,13925,Randuin's Omen,Mercury's Treads,The Black Cleaver,Enchantment: Warrior,Hexdrinker,Guardian Angel,14154,112052,Lane.jungle,Role.none
+2,The Gay,Jhin,False,Side.blue,10,9,13,2.5555555555555554,256,Heal,Flash,16,True,15375,14175,Quicksilver Sash,Essence Reaver,Infinity Edge,Rapid Firecannon,,Berserker's Greaves,23332,186890,Lane.bot_lane,Role.carry
+3,TF x Nightmare,Orianna,False,Side.blue,7,5,13,4.0,237,Flash,Ghost,17,False,13684,12225,Rylai's Crystal Scepter,,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,143915,11841,Lane.mid_lane,Role.solo
+4,NaiNai,Janna,False,Side.blue,0,3,30,10.0,15,Flash,Exhaust,14,False,10667,10075,Eye of the Oasis,Redemption,Mikael's Crucible,Locket of the Iron Solari,Boots of Mobility,Control Ward,7628,5501,Lane.bot_lane,Role.support
+5,Kayonas,Darius,True,Side.red,9,3,8,5.666666666666667,261,Teleport,Flash,18,False,15970,14025,Raptor Cloak,Dead Man's Plate,Mercury's Treads,The Black Cleaver,Spirit Visage,Thornmail,3542,157626,Lane.top_lane,Role.solo
+6,II Master II,Cassiopeia,True,Side.red,7,6,13,3.3333333333333335,209,Flash,Ghost,16,False,14806,12800,Seraph's Embrace,Rylai's Crystal Scepter,Zhonya's Hourglass,Abyssal Scepter,,Doran's Ring,132138,13944,Lane.mid_lane,Role.solo
+7,TF Demon King,Hecarim,True,Side.red,6,7,9,2.142857142857143,150,Smite,Ghost,16,False,13775,12308,Skirmisher's Sabre,Trinity Force,Spirit Visage,Control Ward,Mercury's Treads,Dead Man's Plate,18471,135852,Lane.jungle,Role.none
+8,Garani,Brand,True,Side.red,4,8,12,2.0,56,Ignite,Flash,14,False,12661,10850,Frostfang,Sightstone,Needlessly Large Rod,Liandry's Torment,Rylai's Crystal Scepter,Sorcerer's Shoes,64485,6846,Lane.bot_lane,Role.support
+9,Shukumei,Vayne,True,Side.red,6,10,15,2.1,211,Heal,Flash,16,False,14979,12950,Quicksilver Sash,Doran's Blade,Infinity Edge,Rapid Firecannon,The Bloodthirster,Berserker's Greaves,5685,147426,Lane.bot_lane,Role.carry

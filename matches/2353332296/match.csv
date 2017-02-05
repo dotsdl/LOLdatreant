@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KarasMai,Pantheon,False,Side.blue,11,4,2,3.25,151,Flash,Ignite,13,False,9726,8650,Maw of Malmortius,Corrupting Potion,Mercury's Treads,The Black Cleaver,Long Sword,Long Sword,7814,89397,Lane.top_lane,Role.solo
+1,rainflow,Vayne,False,Side.blue,1,6,5,1.0,143,Flash,Heal,11,False,7015,6600,Doran's Blade,B. F. Sword,Statikk Shiv,Refillable Potion,Pickaxe,Berserker's Greaves,8819,46746,Lane.bot_lane,Role.carry
+2,TQS Zuardian,Evelynn,False,Side.blue,12,5,2,2.8,143,Smite,Flash,15,False,11193,10600,Hextech Protobelt-01,Enchantment: Runic Echoes,Abyssal Scepter,The Dark Seal,Sorcerer's Shoes,Sheen,100812,44653,Lane.jungle,Role.none
+3,Lovechemist,Ryze,False,Side.blue,0,10,3,0.3,93,Exhaust,Flash,11,False,6108,5375,Refillable Potion,Control Ward,Rod of Ages,Boots of Speed,Tear of the Goddess,Needlessly Large Rod,36036,8814,Lane.mid_lane,Role.solo
+4,cùrz,Bard,False,Side.blue,0,6,8,1.3333333333333333,6,Flash,Exhaust,11,False,5927,5550,Eye of the Watchers,Redemption,Control Ward,Ionian Boots of Lucidity,,,13113,4029,Lane.bot_lane,Role.support
+5,Peridot,Ezreal,True,Side.red,3,4,7,2.5,159,Heal,Flash,12,False,9595,8658,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Manamune,Vampiric Scepter,,14261,60686,Lane.bot_lane,Role.carry
+6,Tzaphkiel,Katarina,True,Side.red,24,4,2,6.5,173,Ignite,Flash,16,True,16422,15375,The Dark Seal,Hextech Gunblade,Rylai's Crystal Scepter,Sorcerer's Shoes,Liandry's Torment,Rabadon's Deathcap,121432,15403,Lane.mid_lane,Role.solo
+7,Nash,Sona,True,Side.red,1,4,9,2.5,9,Exhaust,Flash,12,False,8177,7950,Eye of the Watchers,,Refillable Potion,Athene's Unholy Grail,Ardent Censer,Boots of Speed,11022,5503,Lane.bot_lane,Role.support
+8,DPSforFPS,Maokai,True,Side.red,0,5,4,0.8,108,Teleport,Flash,13,False,8192,8100,Doran's Ring,Corrupting Potion,Ninja Tabi,Sunfire Cape,Spirit Visage,Cloth Armor,59987,11965,Lane.top_lane,Role.solo
+9,Master Yi Jungle,Master Yi,True,Side.red,3,7,1,0.5714285714285714,131,Smite,Ghost,14,False,9438,9150,Blade of the Ruined King,Caulfield's Warhammer,Berserker's Greaves,Enchantment: Bloodrazor,Long Sword,Long Sword,4140,121670,Lane.jungle,Role.none

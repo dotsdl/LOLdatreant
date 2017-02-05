@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sora and Shiro,Orianna,True,Side.blue,3,1,5,8.0,145,Flash,Ghost,12,False,8044,6250,Doran's Ring,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,,Control Ward,56982,11592,Lane.mid_lane,Role.solo
+1,Sarcasm Orgasm,Yasuo,True,Side.blue,4,1,3,7.0,154,Flash,Teleport,13,False,8726,5750,B. F. Sword,Phantom Dancer,Refillable Potion,Cloak of Agility,Doran's Blade,Boots of Speed,21086,59315,Lane.top_lane,Role.solo
+2,G U CK F O S U,Lucian,True,Side.blue,7,2,5,6.0,159,Flash,Heal,11,False,9833,8075,Rapid Firecannon,Essence Reaver,Berserker's Greaves,,,Doran's Blade,2516,86005,Lane.bot_lane,Role.carry
+3,lm Thanatos,Lux,True,Side.blue,3,1,13,16.0,14,Flash,Exhaust,10,False,7081,4200,Sightstone,Mejai's Soulstealer,Sorcerer's Shoes,Doran's Ring,Spellthief's Edge,,15276,6304,Lane.bot_lane,Role.support
+4,Susice,Kha'Zix,True,Side.blue,9,3,4,4.333333333333333,65,Smite,Flash,12,True,8893,8625,Enchantment: Warrior,Refillable Potion,Boots of Swiftness,Tiamat,Duskblade of Draktharr,Long Sword,4118,75867,Lane.jungle,Role.none
+5,Uzï,Caitlyn,False,Side.red,2,5,2,0.8,132,Flash,Heal,10,False,6410,5350,Berserker's Greaves,B. F. Sword,Recurve Bow,Doran's Blade,Cull,Pickaxe,1541,56675,Lane.bot_lane,Role.carry
+6,Safety Dad,Nami,False,Side.red,1,9,3,0.4444444444444444,7,Exhaust,Flash,8,False,4336,3100,Frostfang,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,,Sightstone,Control Ward,2848,3188,Lane.bot_lane,Role.support
+7,trash xerath,Gnar,False,Side.red,0,3,1,0.3333333333333333,89,Flash,Teleport,11,False,5016,4600,Randuin's Omen,Ninja Tabi,Doran's Blade,,,,1529,31569,Lane.top_lane,Role.solo
+8,Chennnn,Viktor,False,Side.red,1,4,1,0.5,151,Flash,Ghost,11,False,6273,5560,Perfect Hex Core,Doran's Ring,Sorcerer's Shoes,Total Biscuit of Rejuvenation,Doran's Ring,Amplifying Tome,54540,12475,Lane.mid_lane,Role.solo
+9,KitingYeezus,Vi,False,Side.red,4,5,2,1.2,80,Flash,Smite,10,False,6255,5525,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Phage,Dagger,Dagger,1967,59918,Lane.jungle,Role.none

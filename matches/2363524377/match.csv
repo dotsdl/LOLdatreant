@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hibyeman,Varus,True,Side.blue,3,2,12,7.5,161,Flash,Heal,13,False,10766,10225,Doran's Blade,Essence Reaver,Rapid Firecannon,Berserker's Greaves,Pickaxe,B. F. Sword,7545,106819,Lane.bot_lane,Role.carry
+1,8el skeleto8,Lee Sin,True,Side.blue,11,3,8,6.333333333333333,112,Flash,Smite,14,True,12403,11775,The Black Cleaver,Enchantment: Warrior,Dead Man's Plate,Boots of Mobility,Giant's Belt,Kindlegem,22953,103237,Lane.jungle,Role.none
+2,DreadXaeon,Malphite,True,Side.blue,7,2,9,8.0,137,Flash,Teleport,15,False,11394,8975,Doran's Shield,Doran's Ring,Sunfire Cape,Spirit Visage,Warden's Mail,Ionian Boots of Lucidity,62572,29359,Lane.top_lane,Role.solo
+3,Cotopaco Parce,Vel'Koz,True,Side.blue,4,5,13,3.4,21,Exhaust,Flash,11,False,9220,7525,Spellthief's Edge,Morellonomicon,Sightstone,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,38515,8412,Lane.bot_lane,Role.support
+4,celstin,Karma,True,Side.blue,5,4,12,4.25,130,Flash,Barrier,14,False,10495,10475,Doran's Ring,Redemption,Rabadon's Deathcap,,Morellonomicon,Ionian Boots of Lucidity,74213,14668,Lane.mid_lane,Role.solo
+5,WatchThePower,Rengar,False,Side.red,5,7,3,1.1428571428571428,137,Flash,Smite,13,False,9057,8175,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,The Black Cleaver,Spectre's Cowl,,24383,87929,Lane.jungle,Role.none
+6,Glory IX,Alistar,False,Side.red,0,7,10,1.4285714285714286,37,Exhaust,Flash,12,False,6241,5900,Eye of the Equinox,Knight's Vow,Boots of Mobility,,,,14848,4234,Lane.bot_lane,Role.support
+7,Dontkillmek,Maokai,False,Side.red,3,5,8,2.2,206,Flash,Teleport,14,False,10216,9800,Spirit Visage,The Dark Seal,Bilgewater Cutlass,Corrupting Potion,Mercury's Treads,Sunfire Cape,103857,18052,Lane.top_lane,Role.solo
+8,Dregonaut,Caitlyn,False,Side.red,3,5,6,1.8,151,Heal,Flash,12,False,9104,8400,Infinity Edge,Cull,Berserker's Greaves,Statikk Shiv,Doran's Blade,,6361,76889,Lane.bot_lane,Role.carry
+9,Kamille W,Viktor,False,Side.red,5,6,0,0.8333333333333334,190,Ghost,Flash,14,False,9407,7550,Perfect Hex Core,Needlessly Large Rod,Doran's Ring,Aether Wisp,Ionian Boots of Lucidity,Sheen,99967,11548,Lane.mid_lane,Role.solo

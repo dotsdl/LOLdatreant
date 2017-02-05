@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Almost Done,Lee Sin,False,Side.blue,10,7,6,2.2857142857142856,113,Smite,Flash,14,False,11233,9950,Hexdrinker,Enchantment: Warrior,The Black Cleaver,Giant's Belt,Chain Vest,Boots of Swiftness,27710,82592,Lane.jungle,Role.none
+1,Vultix,Ekko,False,Side.blue,7,6,2,1.5,191,Flash,Teleport,14,True,10459,9750,Lich Bane,Doran's Ring,Hextech Protobelt-01,Mercury's Treads,The Dark Seal,Seeker's Armguard,108277,20905,Lane.top_lane,Role.solo
+2,Ninja Shen,Karma,False,Side.blue,2,7,12,2.0,134,Flash,Exhaust,14,False,9119,8650,Doran's Ring,Redemption,Blasting Wand,Morellonomicon,Ionian Boots of Lucidity,Needlessly Large Rod,54348,11372,Lane.mid_lane,Role.solo
+3,King Kayys,Nami,False,Side.blue,3,5,8,2.2,13,Flash,Ignite,11,False,7451,6500,Spellthief's Edge,Ruby Sightstone,Redemption,Control Ward,Forbidden Idol,Boots of Mobility,10255,3220,Lane.bot_lane,Role.support
+4,JaçkeyLove,Draven,False,Side.blue,3,8,0,0.375,167,Heal,Flash,11,False,9117,8450,Doran's Blade,Vampiric Scepter,Duskblade of Draktharr,,Berserker's Greaves,Mortal Reminder,349,85847,Lane.bot_lane,Role.carry
+5,Gayzuo,Nasus,True,Side.red,7,4,9,4.0,151,Teleport,Flash,14,False,11295,10125,Randuin's Omen,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,Sheen,Glacial Shroud,58974,31766,Lane.top_lane,Role.solo
+6,sharpier22,Thresh,True,Side.red,0,2,19,9.5,34,Exhaust,Flash,12,False,8372,7620,Ruby Sightstone,Face of the Mountain,Control Ward,Raptor Cloak,Negatron Cloak,Boots of Mobility,16861,9139,Lane.bot_lane,Role.support
+7,l Light I,Xerath,True,Side.red,6,6,12,3.0,139,Flash,Heal,13,False,11135,9750,Doran's Ring,Morellonomicon,,Sorcerer's Shoes,Rabadon's Deathcap,Needlessly Large Rod,89769,11557,Lane.mid_lane,Role.solo
+8,goompa,Jhin,True,Side.red,9,5,13,4.4,136,Heal,Flash,13,False,11711,10950,Boots of Swiftness,Pickaxe,Vampiric Scepter,Essence Reaver,Rapid Firecannon,B. F. Sword,8909,96799,Lane.bot_lane,Role.carry
+9,Call Me Shaniqua,Vi,True,Side.red,11,8,9,2.5,156,Flash,Smite,15,False,13005,12475,Enchantment: Warrior,Sterak's Gage,Ninja Tabi,The Black Cleaver,Dead Man's Plate,,1528,155982,Lane.jungle,Role.none

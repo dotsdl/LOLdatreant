@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Steam Bun,Malphite,False,Side.blue,0,7,1,0.14285714285714285,47,Teleport,Flash,8,False,4077,4400,Corrupting Potion,Boots of Speed,Sunfire Cape,,,,15744,7379,Lane.top_lane,Role.solo
+1,xumuk,Lee Sin,False,Side.blue,1,2,0,0.5,56,Flash,Smite,9,False,4642,3675,Refillable Potion,Enchantment: Warrior,Boots of Mobility,,,,6228,32021,Lane.jungle,Role.none
+2,BLUESUPERCAR73,Twitch,False,Side.blue,1,3,0,0.3333333333333333,104,Flash,Heal,8,False,5133,4350,B. F. Sword,Berserker's Greaves,Doran's Blade,Zeal,,,706,30896,Lane.bot_lane,Role.carry
+3,Kaylip,Orianna,False,Side.blue,0,2,0,0.0,142,Exhaust,Flash,11,False,5503,4525,,Morellonomicon,Cloth Armor,Doran's Ring,Cloth Armor,Boots of Speed,47022,7008,Lane.mid_lane,Role.solo
+4,Iwillcarrybot,Lulu,False,Side.blue,0,2,1,0.5,7,Flash,Exhaust,7,False,3551,3125,Spellthief's Edge,Sightstone,Refillable Potion,Crystalline Bracer,Forbidden Idol,Boots of Speed,2268,1236,Lane.bot_lane,Role.support
+5,iTroll,Sona,True,Side.red,2,0,6,8.0,3,Exhaust,Flash,9,False,6358,5100,Redemption,Total Biscuit of Rejuvenation,Boots of Speed,Eye of the Watchers,Control Ward,,6336,4895,Lane.bot_lane,Role.support
+6,Aisonu,Poppy,True,Side.red,8,1,3,11.0,127,Flash,Teleport,13,True,9274,6200,Sunfire Cape,Corrupting Potion,Sheen,Boots of Speed,Null-Magic Mantle,Glacial Shroud,35707,58226,Lane.top_lane,Role.solo
+7,Cloudy Skyz,Shyvana,True,Side.red,1,0,1,2.0,145,Flash,Smite,12,False,8071,3550,Enchantment: Bloodrazor,Boots of Speed,Ruby Crystal,,,,65986,60376,Lane.jungle,Role.none
+8,Sud83,Jhin,True,Side.red,0,1,4,4.0,139,Heal,Flash,10,False,7600,5900,Doran's Blade,Berserker's Greaves,Essence Reaver,Dagger,Dagger,,3194,66862,Lane.bot_lane,Role.carry
+9,AzureAce,Talon,True,Side.red,5,0,2,7.0,142,Ignite,Flash,13,False,8813,7125,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,,Boots of Mobility,,858,73559,Lane.mid_lane,Role.solo

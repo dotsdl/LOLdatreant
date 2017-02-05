@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,danknug,Alistar,True,Side.blue,0,6,18,3.0,36,Flash,Exhaust,12,False,9157,8625,Mercury's Treads,Knight's Vow,Eye of the Equinox,Frozen Heart,,,6665,8248,Lane.bot_lane,Role.support
+1,Kale Bot,Miss Fortune,True,Side.blue,7,6,11,3.0,183,Flash,Heal,15,False,13220,10600,Doran's Blade,Youmuu's Ghostblade,Duskblade of Draktharr,Phage,Berserker's Greaves,Caulfield's Warhammer,3411,99918,Lane.bot_lane,Role.carry
+2,vancouver cC,Hecarim,True,Side.blue,7,5,10,3.4,124,Smite,Ghost,14,False,12130,11353,Hunter's Potion,Enchantment: Cinderhulk,Trinity Force,Boots of Swiftness,Dead Man's Plate,Negatron Cloak,15644,112673,Lane.jungle,Role.none
+3,Likang45,Akali,True,Side.blue,10,3,9,6.333333333333333,214,Flash,Teleport,17,False,14951,11255,Amplifying Tome,Hextech Gunblade,Zhonya's Hourglass,Lich Bane,Boots of Speed,Negatron Cloak,52715,118541,Lane.top_lane,Role.solo
+4,SantasTwink,Lux,True,Side.blue,10,4,17,6.75,177,Flash,Exhaust,16,False,14041,11850,Athene's Unholy Grail,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Luden's Echo,109198,15850,Lane.mid_lane,Role.solo
+5,TeaKayy,Ryze,False,Side.red,7,4,2,2.25,190,Teleport,Flash,15,False,11113,10450,Seraph's Embrace,Ionian Boots of Lucidity,Rod of Ages,Refillable Potion,Abyssal Scepter,Blasting Wand,114671,11984,Lane.top_lane,Role.solo
+6,Chinox97,Talon,False,Side.red,8,8,4,1.5,178,Ignite,Flash,14,False,11116,10650,Youmuu's Ghostblade,Edge of Night,Duskblade of Draktharr,Ionian Boots of Lucidity,Long Sword,,1925,96898,Lane.mid_lane,Role.solo
+7,SPAM PING MIA,Kindred,False,Side.red,2,8,11,1.625,135,Smite,Flash,13,False,10168,9225,Enchantment: Bloodrazor,Hunter's Potion,Berserker's Greaves,Runaan's Hurricane,Hexdrinker,Jaurim's Fist,3176,127382,Lane.jungle,Role.none
+8,53XY,Leona,False,Side.red,0,5,12,2.4,44,Flash,Ignite,12,False,7243,6875,Face of the Mountain,Crystalline Bracer,Ruby Sightstone,Crystalline Bracer,Cloth Armor,Mercury's Treads,14381,6195,Lane.bot_lane,Role.support
+9,always plan ahea,Jhin,False,Side.red,7,9,9,1.7777777777777777,166,Flash,Heal,12,True,11249,11325,Infinity Edge,Kircheis Shard,Boots of Swiftness,Essence Reaver,Zeal,,15413,86115,Lane.bot_lane,Role.carry

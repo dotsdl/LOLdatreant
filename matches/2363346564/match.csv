@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kulina,Karma,False,Side.blue,0,9,9,1.0,17,Flash,Exhaust,11,False,6099,6025,Frostfang,Redemption,Sightstone,Ninja Tabi,Cloth Armor,Null-Magic Mantle,9889,4208,Lane.bot_lane,Role.support
+1,SelloutAma,Orianna,False,Side.blue,3,10,6,0.9,120,Ghost,Flash,12,False,7865,7225,Sorcerer's Shoes,Blasting Wand,Morellonomicon,Doran's Ring,Needlessly Large Rod,Doran's Ring,62458,7964,Lane.mid_lane,Role.solo
+2,Fantastic Ling,Poppy,False,Side.blue,1,2,3,2.0,155,Teleport,Flash,14,False,7752,7500,Corrupting Potion,Spectre's Cowl,Mercury's Treads,Sunfire Cape,Kindlegem,Glacial Shroud,21914,53436,Lane.top_lane,Role.solo
+3,Qing Tian,Ezreal,False,Side.blue,5,5,5,2.0,189,Flash,Heal,13,False,9701,9050,Manamune,Bilgewater Cutlass,Ionian Boots of Lucidity,Doran's Blade,Iceborn Gauntlet,Recurve Bow,10440,80856,Lane.bot_lane,Role.carry
+4,TeamMeiya 70,Hecarim,False,Side.blue,8,6,5,2.1666666666666665,144,Smite,Ghost,14,False,10230,10008,Boots of Swiftness,Cloth Armor,Giant's Belt,Trinity Force,Enchantment: Cinderhulk,Hexdrinker,24132,84313,Lane.jungle,Role.none
+5,Provocative,Kennen,True,Side.red,5,2,6,5.5,193,Flash,Teleport,15,True,11705,9350,Hextech Protobelt-01,Zhonya's Hourglass,Blasting Wand,Needlessly Large Rod,Sorcerer's Shoes,Doran's Blade,88719,28758,Lane.top_lane,Role.solo
+6,Look Val CCnacks,Quinn,True,Side.red,12,5,4,3.2,152,Ignite,Flash,14,False,12421,11500,Doran's Blade,Youmuu's Ghostblade,Duskblade of Draktharr,Boots of Swiftness,Statikk Shiv,B. F. Sword,3195,88481,Lane.mid_lane,Role.solo
+7,The Eggsalad,Vel'Koz,True,Side.red,3,5,12,3.0,26,Exhaust,Flash,12,False,9236,7535,Blasting Wand,Liandry's Torment,Amplifying Tome,Eye of the Watchers,Total Biscuit of Rejuvenation,Control Ward,31725,5060,Lane.bot_lane,Role.support
+8,Keemo Anlyst LFT,Zac,True,Side.red,4,2,7,5.5,119,Smite,Flash,14,False,10562,9525,Enchantment: Cinderhulk,Spirit Visage,Refillable Potion,Dead Man's Plate,Ionian Boots of Lucidity,,76525,24768,Lane.jungle,Role.none
+9,WoXiHuanOliQAQ,Vayne,True,Side.red,8,3,4,4.0,204,Heal,Flash,15,False,13683,11935,Doran's Blade,Quicksilver Sash,Phantom Dancer,Berserker's Greaves,Infinity Edge,Statikk Shiv,37234,123872,Lane.bot_lane,Role.carry

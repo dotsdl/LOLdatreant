@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ranksexual,Jayce,True,Side.blue,10,5,2,2.4,169,Flash,Teleport,13,False,10518,10200,Refillable Potion,The Black Cleaver,Edge of Night,Last Whisper,Ionian Boots of Lucidity,Giant Slayer,11980,77078,Lane.top_lane,Role.solo
+1,Ikzencriel,Leona,True,Side.blue,3,6,11,2.3333333333333335,26,Exhaust,Flash,10,False,6951,6825,Eye of the Equinox,Redemption,Giant's Belt,Ionian Boots of Lucidity,Refillable Potion,Control Ward,5011,6635,Lane.bot_lane,Role.support
+2,Dyr0nejk2,Ekko,True,Side.blue,7,3,5,4.0,118,Teleport,Flash,13,False,9343,8760,The Dark Seal,Corrupting Potion,Sorcerer's Shoes,Abyssal Scepter,Hextech Protobelt-01,Sheen,63565,11412,Lane.mid_lane,Role.solo
+3,Nerf Vayne,Caitlyn,True,Side.blue,6,6,8,2.3333333333333335,115,Heal,Flash,10,False,8554,8250,Doran's Blade,Infinity Edge,Dagger,Runaan's Hurricane,Berserker's Greaves,,674,46085,Lane.bot_lane,Role.carry
+4,No HandleBards ,Kha'Zix,True,Side.blue,9,1,12,21.0,107,Smite,Flash,14,True,11009,8125,Refillable Potion,Ravenous Hydra,Null-Magic Mantle,Enchantment: Warrior,Ionian Boots of Lucidity,Long Sword,3060,108266,Lane.jungle,Role.none
+5,ShadowofSelf,Rumble,False,Side.red,3,9,7,1.1111111111111112,121,Flash,Teleport,12,False,7103,6450,Hextech Protobelt-01,Seeker's Armguard,Doran's Shield,Fiendish Codex,Sorcerer's Shoes,,61682,8200,Lane.top_lane,Role.solo
+6,goompa,Twitch,False,Side.red,5,6,6,1.8333333333333333,113,Heal,Flash,11,False,7772,7425,Berserker's Greaves,Doran's Blade,Cloak of Agility,B. F. Sword,Runaan's Hurricane,Pickaxe,0,54836,Lane.bot_lane,Role.carry
+7,Firé,Evelynn,False,Side.red,9,7,3,1.7142857142857142,42,Smite,Ignite,10,False,7611,6750,Refillable Potion,Hextech Protobelt-01,,Enchantment: Runic Echoes,Boots of Mobility,,31316,19272,Lane.jungle,Role.none
+8,Morning of Owl,Corki,False,Side.red,3,7,7,1.4285714285714286,92,Exhaust,Flash,10,False,6851,5200,Doran's Blade,Bilgewater Cutlass,Cull,Sheen,Boots of Speed,Phage,37615,11688,Lane.mid_lane,Role.solo
+9,Synotic,Morgana,False,Side.red,1,6,9,1.6666666666666667,16,Exhaust,Flash,9,False,5803,4800,Frostfang,Sightstone,Ionian Boots of Lucidity,Redemption,,,9447,3049,Lane.bot_lane,Role.support

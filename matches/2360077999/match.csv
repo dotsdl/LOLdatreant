@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Polar Star Dorm,Lux,False,Side.blue,5,6,12,2.8333333333333335,145,Flash,Ghost,14,False,10923,9750,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,Needlessly Large Rod,Blasting Wand,87796,13187,Lane.mid_lane,Role.solo
+1,Civo,Vayne,False,Side.blue,6,10,7,1.3,199,Heal,Flash,15,False,12327,12080,Infinity Edge,Statikk Shiv,Phantom Dancer,Vampiric Scepter,Doran's Blade,Berserker's Greaves,28078,97029,Lane.bot_lane,Role.duo
+2,PsiChiOmega,Pantheon,False,Side.blue,11,8,4,1.875,158,Ignite,Flash,15,False,11749,11300,The Black Cleaver,Youmuu's Ghostblade,Guardian Angel,Mercury's Treads,Last Whisper,,10988,102818,Lane.top_lane,Role.solo
+3,NorthQuab,Lee Sin,False,Side.blue,8,9,9,1.8888888888888888,97,Flash,Smite,14,False,11124,10925,Maw of Malmortius,Dead Man's Plate,Serrated Dirk,Enchantment: Warrior,Boots of Mobility,,11415,85717,Lane.jungle,Role.none
+4,LaTrashCan,Poppy,False,Side.blue,5,4,12,4.25,69,Flash,Ignite,13,False,9801,8650,Locket of the Iron Solari,Redemption,Sightstone,Ninja Tabi,Targon's Brace,Raptor Cloak,3028,44179,Lane.bot_lane,Role.duo
+5,Vizjun,Sona,True,Side.red,1,8,22,2.875,4,Exhaust,Flash,13,False,9559,8525,Spellthief's Edge,Ruby Sightstone,Locket of the Iron Solari,Mercury's Treads,Athene's Unholy Grail,Forbidden Idol,8978,4097,Lane.bot_lane,Role.support
+6,am tham ben em,Orianna,True,Side.red,7,3,14,7.0,212,Flash,Ghost,16,False,13175,11260,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Luden's Echo,Void Staff,Amplifying Tome,122212,15282,Lane.mid_lane,Role.solo
+7,Hachimitsu,Fiora,True,Side.red,8,8,7,1.875,209,Teleport,Flash,17,True,13635,12150,Ravenous Hydra,Randuin's Omen,The Black Cleaver,Chain Vest,Doran's Blade,Mercury's Treads,1307,151336,Lane.top_lane,Role.solo
+8,xPresident,Jarvan IV,True,Side.red,14,9,12,2.888888888888889,111,Smite,Flash,15,False,14288,13600,Ravenous Hydra,Dead Man's Plate,Enchantment: Warrior,Ninja Tabi,Maw of Malmortius,,8671,106624,Lane.jungle,Role.none
+9,Dæmon,Ezreal,True,Side.red,7,7,10,2.4285714285714284,207,Flash,Heal,15,False,13430,10958,Dagger,Bilgewater Cutlass,Quicksilver Sash,Trinity Force,Ionian Boots of Lucidity,Muramana,30532,112094,Lane.bot_lane,Role.carry

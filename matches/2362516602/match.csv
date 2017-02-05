@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Synonym,Kha'Zix,False,Side.blue,4,11,6,0.9090909090909091,128,Smite,Flash,14,False,10612,9500,Enchantment: Warrior,The Black Cleaver,Ninja Tabi,Hexdrinker,Caulfield's Warhammer,,6084,115415,Lane.jungle,Role.none
+1,Spring,Jhin,False,Side.blue,13,9,10,2.5555555555555554,256,Heal,Flash,17,True,15588,15050,Boots of Swiftness,Essence Reaver,Infinity Edge,Rapid Firecannon,Mortal Reminder,Vampiric Scepter,12517,197723,Lane.bot_lane,Role.carry
+2,Sousa9,Maokai,False,Side.blue,2,8,6,1.0,194,Flash,Teleport,16,False,10540,10250,Doran's Ring,Spirit Visage,Frozen Heart,Rod of Ages,Ninja Tabi,,116054,13385,Lane.top_lane,Role.solo
+3,Josh Guarneros,Ahri,False,Side.blue,6,8,10,2.0,135,Ignite,Flash,15,False,10969,9950,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Blasting Wand,62641,11033,Lane.mid_lane,Role.solo
+4,instrel,Lux,False,Side.blue,7,4,16,5.75,42,Exhaust,Flash,15,False,11625,10875,Eye of the Watchers,Void Staff,,Mejai's Soulstealer,Ionian Boots of Lucidity,Morellonomicon,48831,7971,Lane.bot_lane,Role.support
+5,cùrz,Bard,True,Side.red,3,6,22,4.166666666666667,12,Flash,Ignite,15,False,11852,10500,Eye of the Watchers,Redemption,Locket of the Iron Solari,Zz'Rot Portal,Boots of Mobility,Control Ward,17056,5671,Lane.bot_lane,Role.support
+6,0 K A Y B O Y S,Nasus,True,Side.red,13,2,11,12.0,275,Flash,Teleport,18,False,17600,15425,Liandry's Torment,Luden's Echo,Void Staff,Rabadon's Deathcap,Sorcerer's Shoes,The Dark Seal,158731,49083,Lane.mid_lane,Role.solo
+7,Stessy Poirier,Rengar,True,Side.red,14,9,4,2.0,138,Flash,Smite,15,False,14729,13875,Edge of Night,Enchantment: Warrior,Duskblade of Draktharr,Boots of Swiftness,Death's Dance,Sapphire Crystal,8294,154287,Lane.jungle,Role.none
+8,Str1fe,Caitlyn,True,Side.red,5,8,10,1.875,235,Flash,Heal,16,False,14264,12650,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Statikk Shiv,B. F. Sword,17289,162093,Lane.bot_lane,Role.carry
+9,Goxtry,Fiora,True,Side.red,5,7,12,2.4285714285714284,264,Teleport,Flash,18,False,14840,13775,The Black Cleaver,Randuin's Omen,Ravenous Hydra,Mercury's Treads,Doran's Blade,Guardian Angel,8970,177084,Lane.top_lane,Role.solo

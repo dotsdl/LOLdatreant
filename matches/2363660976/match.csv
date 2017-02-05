@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Leagué,Pantheon,True,Side.blue,1,1,0,1.0,4,Flash,Teleport,2,False,1037,500,,Corrupting Potion,,,,,183,838,Lane.jungle,Role.none
+1,Rhux,Ryze,True,Side.blue,0,1,0,0.0,4,Flash,Ghost,1,False,734,575,Refillable Potion,Sapphire Crystal,Control Ward,,,,297,292,Lane.jungle,Role.none
+2,Erry,Caitlyn,True,Side.blue,0,1,0,0.0,3,Heal,Flash,2,False,711,550,Total Biscuit of Rejuvenation,Doran's Blade,,,,,0,1349,Lane.bot_lane,Role.duo
+3,Xpecial,Leona,True,Side.blue,1,0,1,2.0,3,Ignite,Flash,2,False,1192,500,Relic Shield,,,,,,361,651,Lane.bot_lane,Role.duo
+4,Riesig,Lee Sin,True,Side.blue,0,1,1,1.0,7,Flash,Smite,3,False,1060,850,Refillable Potion,Long Sword,,Hunter's Machete,,,252,4920,Lane.jungle,Role.none
+5,RATIRLonNA,Katarina,False,Side.red,1,0,2,3.0,3,Flash,Smite,2,False,1155,0,,,,,,,2086,768,Lane.bot_lane,Role.none
+6,Ablazeolive,Zyra,False,Side.red,2,1,0,2.0,0,Flash,Exhaust,1,True,1436,1235,Spellthief's Edge,Boots of Speed,Amplifying Tome,,,Total Biscuit of Rejuvenation,413,604,Lane.bot_lane,Role.none
+7,Søren Bjerg,Twitch,False,Side.red,0,0,0,0.0,0,Flash,Teleport,1,False,657,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+8,Washing Dishes,Darius,False,Side.red,0,1,3,3.0,2,Teleport,Flash,2,False,855,575,Corrupting Potion,Control Ward,,,,,25,1159,Lane.jungle,Role.none
+9,ApoIlo Price,Ashe,False,Side.red,1,0,3,4.0,2,Flash,Heal,2,False,1155,500,Doran's Blade,,,,,,13,2666,Lane.bot_lane,Role.none

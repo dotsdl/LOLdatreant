@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aethex,Thresh,False,Side.blue,3,4,4,1.75,48,Flash,Ignite,10,False,7100,5520,Ruby Sightstone,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Relic Shield,,Boots of Mobility,11760,6121,Lane.bot_lane,Role.support
+1,ZongopBongo,Varus,False,Side.blue,2,7,3,0.7142857142857143,158,Flash,Heal,11,False,8045,7025,Doran's Blade,Essence Reaver,Refillable Potion,Berserker's Greaves,Zeal,Dagger,7672,79692,Lane.bot_lane,Role.carry
+2,Xucxfer,Lee Sin,False,Side.blue,3,8,2,0.625,93,Smite,Flash,12,False,7766,7375,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Chain Vest,Boots of Mobility,,12989,72337,Lane.jungle,Role.none
+3,Tesserzact,Singed,False,Side.blue,0,4,2,0.5,201,Ghost,Teleport,14,False,8336,8025,The Dark Seal,Corrupting Potion,Mercury's Treads,Zz'Rot Portal,Banner of Command,Catalyst of Aeons,108528,5363,Lane.top_lane,Role.solo
+4,FLACKO,Twisted Fate,False,Side.blue,2,7,1,0.42857142857142855,140,Flash,Ghost,12,False,7974,7825,Lich Bane,Zhonya's Hourglass,,Doran's Ring,,Ionian Boots of Lucidity,58008,15789,Lane.mid_lane,Role.solo
+5,Mrs Bjerg,Caitlyn,True,Side.red,2,3,5,2.3333333333333335,145,Heal,Flash,13,False,9842,9200,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,B. F. Sword,,6956,86073,Lane.bot_lane,Role.carry
+6,Panth Tier God,Dr. Mundo,True,Side.red,2,2,8,5.0,237,Teleport,Flash,15,False,10657,10125,Righteous Glory,Sunfire Cape,Spirit Visage,Mercury's Treads,,Doran's Shield,95031,40115,Lane.top_lane,Role.solo
+7,FLOWmyGOD,Ivern,True,Side.red,3,3,13,5.333333333333333,106,Smite,Flash,15,False,11303,9275,Hunter's Talisman,Redemption,Athene's Unholy Grail,Mejai's Soulstealer,Ionian Boots of Lucidity,Locket of the Iron Solari,22690,11243,Lane.jungle,Role.none
+8,Jurassiq,Pantheon,True,Side.red,21,1,4,25.0,164,Flash,Ignite,15,True,15347,12025,Youmuu's Ghostblade,Corrupting Potion,Ionian Boots of Lucidity,Maw of Malmortius,Infinity Edge,Ruby Crystal,17713,119769,Lane.jungle,Role.none
+9,Lycheeeeeeee,Nami,True,Side.red,1,1,9,10.0,16,Exhaust,Flash,11,False,7974,5975,Sightstone,Locket of the Iron Solari,,Frostfang,Forbidden Idol,Ionian Boots of Lucidity,3140,7358,Lane.bot_lane,Role.support

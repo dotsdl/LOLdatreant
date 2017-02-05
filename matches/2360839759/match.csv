@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,onLy FoRget,Kha'Zix,False,Side.blue,8,5,3,2.2,86,Smite,Flash,12,False,8883,8225,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Caulfield's Warhammer,,The Black Cleaver,4171,72745,Lane.jungle,Role.none
+1,Skyping,Irelia,False,Side.blue,0,7,4,0.5714285714285714,133,Flash,Teleport,12,False,7349,6808,Corrupting Potion,Ninja Tabi,Trinity Force,Ruby Crystal,Warden's Mail,,1526,53183,Lane.top_lane,Role.solo
+2,cidade de cack,Ekko,False,Side.blue,3,6,4,1.1666666666666667,137,Teleport,Flash,12,False,8300,7675,Corrupting Potion,,Hextech Protobelt-01,Lich Bane,Ionian Boots of Lucidity,The Dark Seal,74777,17416,Lane.mid_lane,Role.solo
+3,Leshaunda,Jinx,False,Side.blue,0,7,1,0.14285714285714285,181,Heal,Flash,12,False,7965,6900,Doran's Blade,Cull,Berserker's Greaves,Runaan's Hurricane,Pickaxe,B. F. Sword,1142,84551,Lane.bot_lane,Role.carry
+4,Arane,Morgana,False,Side.blue,0,5,3,0.6,20,Ignite,Flash,10,False,6538,6100,Redemption,Eye of the Watchers,Faerie Charm,Boots of Mobility,Null-Magic Mantle,,16057,3984,Lane.bot_lane,Role.support
+5,NipperSlipper,Lee Sin,True,Side.red,6,3,10,5.333333333333333,113,Smite,Flash,14,True,11144,7950,Giant's Belt,Refillable Potion,Enchantment: Warrior,Boots of Speed,Cloth Armor,Ravenous Hydra,24624,95393,Lane.jungle,Role.none
+6,dragon579,Poppy,True,Side.red,7,1,11,18.0,125,Teleport,Flash,14,False,11249,9975,Locket of the Iron Solari,Corrupting Potion,Ninja Tabi,Dead Man's Plate,Sunfire Cape,Cloth Armor,33659,47022,Lane.top_lane,Role.solo
+7,Kryonix,Caitlyn,True,Side.red,7,1,8,15.0,186,Flash,Heal,14,False,12259,11125,Runaan's Hurricane,Vampiric Scepter,Berserker's Greaves,Doran's Blade,Infinity Edge,B. F. Sword,331,135975,Lane.bot_lane,Role.carry
+8,FaR007,Bard,True,Side.red,3,3,13,5.333333333333333,7,Ignite,Flash,12,False,8890,8175,Boots of Mobility,Ruby Sightstone,Redemption,Frozen Heart,Spellthief's Edge,Control Ward,6420,3801,Lane.bot_lane,Role.support
+9,less       Fear,Ahri,True,Side.red,7,3,10,5.666666666666667,181,Ignite,Flash,14,False,12012,10400,Morellonomicon,Seeker's Armguard,Doran's Ring,Abyssal Scepter,Needlessly Large Rod,Ionian Boots of Lucidity,68480,16119,Lane.mid_lane,Role.solo

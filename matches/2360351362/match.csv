@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,greenléaf,Nautilus,False,Side.blue,3,4,6,2.25,198,Teleport,Flash,14,False,9875,8825,Spirit Visage,Sunfire Cape,Corrupting Potion,Mercury's Treads,Glacial Shroud,Null-Magic Mantle,90993,20469,Lane.top_lane,Role.solo
+1,PieCakeLord,Thresh,False,Side.blue,1,8,5,0.75,38,Exhaust,Flash,10,False,6174,5725,Sightstone,Face of the Mountain,Crystalline Bracer,Boots of Mobility,Control Ward,Faerie Charm,14473,4757,Lane.bot_lane,Role.support
+2,Dziarmaga,Ezreal,False,Side.blue,3,4,6,2.25,185,Flash,Heal,13,False,9721,9508,Muramana,Refillable Potion,Quicksilver Sash,Ionian Boots of Lucidity,Doran's Blade,Trinity Force,12726,78317,Lane.bot_lane,Role.carry
+3,Fòul,Olaf,False,Side.blue,5,5,5,2.0,150,Ghost,Smite,14,False,9981,8900,Enchantment: Cinderhulk,Kindlegem,Hunter's Potion,Randuin's Omen,Ionian Boots of Lucidity,Spectre's Cowl,19557,106077,Lane.jungle,Role.none
+4,TwitchChunkylol,Kled,False,Side.blue,3,2,5,4.0,182,Ignite,Flash,14,False,9343,7925,The Black Cleaver,Mercury's Treads,Hexdrinker,Long Sword,Vampiric Scepter,Pickaxe,0,77283,Lane.mid_lane,Role.solo
+5,RF Legendary,Kennen,True,Side.red,8,2,6,7.0,188,Flash,Teleport,15,False,12269,11010,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Blade,Rylai's Crystal Scepter,Amplifying Tome,76824,29649,Lane.top_lane,Role.solo
+6,Apdo dogjj,Pantheon,True,Side.red,5,5,11,3.2,100,Smite,Flash,14,True,10226,9275,Enchantment: Warrior,Tiamat,Cloth Armor,The Black Cleaver,Giant's Belt,Boots of Swiftness,6121,110997,Lane.jungle,Role.none
+7,Espir III,Ahri,True,Side.red,2,1,10,12.0,200,Flash,Ignite,15,False,10205,10125,Doran's Ring,Control Ward,Sorcerer's Shoes,Rabadon's Deathcap,Needlessly Large Rod,Luden's Echo,68198,14960,Lane.mid_lane,Role.solo
+8,Hello I am Dust,Karma,True,Side.red,2,3,14,5.333333333333333,15,Exhaust,Flash,12,False,8636,8425,Locket of the Iron Solari,Redemption,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,,11836,5118,Lane.bot_lane,Role.support
+9,yltfed,Vayne,True,Side.red,6,4,2,2.0,222,Flash,Heal,14,False,11455,10675,Berserker's Greaves,Infinity Edge,Statikk Shiv,Doran's Blade,Last Whisper,Zeal,20467,97204,Lane.bot_lane,Role.carry

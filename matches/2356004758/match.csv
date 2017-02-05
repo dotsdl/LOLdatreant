@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Capt JuanMiguel,Yorick,False,Side.blue,2,6,1,0.5,128,Teleport,Flash,11,True,6449,5933,Corrupting Potion,Trinity Force,Mercury's Treads,Cloth Armor,Rejuvenation Bead,,8604,53490,Lane.top_lane,Role.solo
+1,galou001,Orianna,False,Side.blue,1,8,2,0.375,128,Flash,Ghost,11,False,6076,5025,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Doran's Ring,,,59561,8181,Lane.mid_lane,Role.solo
+2,iTranscend,Thresh,False,Side.blue,0,7,5,0.7142857142857143,29,Flash,Exhaust,10,False,4781,3800,Sightstone,Total Biscuit of Rejuvenation,Crystalline Bracer,Boots of Mobility,Crystalline Bracer,Relic Shield,9406,7631,Lane.bot_lane,Role.support
+3,KitingYeezus,Vi,False,Side.blue,6,8,1,0.875,97,Flash,Smite,11,False,7654,7408,Enchantment: Warrior,Trinity Force,,Boots of Mobility,,,2030,86373,Lane.jungle,Role.none
+4,Feht,Ezreal,False,Side.blue,1,2,2,1.5,121,Heal,Flash,9,False,6114,4850,Manamune,,Cull,Doran's Blade,Sheen,Boots of Speed,2408,40477,Lane.bot_lane,Role.carry
+5,Darude GateStorm,Singed,True,Side.red,4,2,7,5.5,166,Ghost,Ignite,14,False,9765,8850,The Dark Seal,Corrupting Potion,Righteous Glory,Ninja Tabi,Rylai's Crystal Scepter,Spectre's Cowl,100911,8666,Lane.top_lane,Role.solo
+6,rate my poo,Anivia,True,Side.red,14,1,6,20.0,168,Flash,Teleport,14,False,12967,10150,Seraph's Embrace,Rod of Ages,Zz'Rot Portal,,Doran's Ring,Boots of Swiftness,101974,11780,Lane.mid_lane,Role.solo
+7,ShriveledBug,Lee Sin,True,Side.red,4,4,15,4.75,67,Flash,Smite,13,False,9038,7450,Mercury's Treads,Dead Man's Plate,,Enchantment: Warrior,Null-Magic Mantle,Refillable Potion,13930,62351,Lane.jungle,Role.none
+8,Janni,Nami,True,Side.red,0,2,10,5.0,5,Exhaust,Flash,10,False,6461,6175,Frostfang,Sightstone,Control Ward,Redemption,Fiendish Codex,Boots of Swiftness,5356,5903,Lane.bot_lane,Role.support
+9,rainflow,Vayne,True,Side.red,9,1,5,14.0,169,Flash,Heal,13,False,10720,8025,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Control Ward,,21767,68398,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AKA SIeepingDAWG,Alistar,True,Side.blue,1,1,23,24.0,18,Flash,Heal,11,False,7151,5100,Sightstone,Refillable Potion,,,Boots of Mobility,Talisman of Ascension,6451,5038,Lane.bot_lane,Role.support
+1,Falco Mechanic,Vayne,True,Side.blue,19,3,4,7.666666666666667,146,Exhaust,Flash,14,False,12470,10500,Doran's Blade,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Phantom Dancer,B. F. Sword,0,103178,Lane.bot_lane,Role.carry
+2,fatelin,Jayce,True,Side.blue,6,3,1,2.3333333333333335,161,Flash,Teleport,13,False,8706,8375,Corrupting Potion,Serrated Dirk,Boots of Swiftness,Control Ward,The Black Cleaver,Lord Dominik's Regards,9350,71514,Lane.top_lane,Role.solo
+3,d3ps,Elise,True,Side.blue,5,5,6,2.2,95,Flash,Smite,12,False,8481,6450,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Hextech Protobelt-01,,,59893,23849,Lane.jungle,Role.none
+4,Gweiss,Annie,True,Side.blue,13,3,2,5.0,125,Ghost,Flash,12,True,10229,10000,Doran's Ring,Abyssal Scepter,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Void Staff,,65536,7509,Lane.mid_lane,Role.solo
+5,Orbt,Viktor,False,Side.red,5,9,4,1.0,97,Flash,Cleanse,10,False,7103,6535,Amplifying Tome,Giant's Belt,,Doran's Ring,Perfect Hex Core,Ionian Boots of Lucidity,43257,6148,Lane.mid_lane,Role.solo
+6,Shamwwow,Poppy,False,Side.red,2,4,2,1.0,127,Flash,Teleport,13,False,6593,6000,Corrupting Potion,Sunfire Cape,Mercury's Treads,Glacial Shroud,Control Ward,Sapphire Crystal,20485,42931,Lane.top_lane,Role.solo
+7,Danman96,Ezreal,False,Side.red,2,10,1,0.3,85,Flash,Heal,9,False,5916,5100,Doran's Blade,Sheen,Manamune,,Ionian Boots of Lucidity,,9702,32401,Lane.bot_lane,Role.carry
+8,Licorice,Lee Sin,False,Side.red,6,8,4,1.25,69,Flash,Smite,11,False,7409,6075,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Hexdrinker,Caulfield's Warhammer,,13548,46315,Lane.jungle,Role.none
+9,You all boosted,Janna,False,Side.red,0,14,7,0.5,6,Flash,Exhaust,8,False,4755,4475,Nomad's Medallion,Boots of Mobility,Redemption,,,,2356,1620,Lane.bot_lane,Role.support

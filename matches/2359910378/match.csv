@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Lemon,Karma,False,Side.blue,0,6,0,0.0,160,Teleport,Flash,12,False,6489,5975,Doran's Ring,Health Potion,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Spectre's Cowl,64248,14392,Lane.top_lane,Role.solo
+1,YaThatWasABanana,Lulu,False,Side.blue,0,4,4,1.0,7,Flash,Exhaust,8,False,4980,4825,Control Ward,Forbidden Idol,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Ruby Crystal,6157,3252,Lane.bot_lane,Role.support
+2,Repfix,Nidalee,False,Side.blue,1,5,1,0.4,91,Smite,Flash,11,False,6228,6100,Enchantment: Runic Echoes,Hunter's Potion,Rod of Ages,Boots of Speed,,,63302,14251,Lane.jungle,Role.none
+3,Sebi,Viktor,False,Side.blue,3,8,0,0.375,139,Flash,Ghost,11,False,7167,5660,The Hex Core mk-2,Doran's Ring,Doran's Ring,Amplifying Tome,Boots of Speed,Needlessly Large Rod,60590,7534,Lane.mid_lane,Role.solo
+4,SanaSana,Jhin,False,Side.blue,3,6,0,0.5,127,Heal,Flash,9,False,6547,6000,Essence Reaver,Kircheis Shard,Boots of Swiftness,,Doran's Blade,,2574,54709,Lane.bot_lane,Role.carry
+5,The Tank Man,Janna,True,Side.red,1,0,18,19.0,10,Flash,Exhaust,11,False,7437,5725,Eye of the Oasis,Redemption,Boots of Mobility,Null-Magic Mantle,Control Ward,,3271,6731,Lane.bot_lane,Role.support
+6,ókay,Lee Sin,True,Side.red,14,3,3,5.666666666666667,109,Smite,Flash,13,True,11502,10675,Enchantment: Warrior,Ionian Boots of Lucidity,Ruby Sightstone,Maw of Malmortius,Pickaxe,Tiamat,12093,89037,Lane.jungle,Role.none
+7,NayvadiusWilburn,Lucian,True,Side.red,2,3,5,2.3333333333333335,146,Flash,Heal,11,False,8263,6200,Doran's Blade,Phage,Boots of Speed,Refillable Potion,Youmuu's Ghostblade,Caulfield's Warhammer,1704,88062,Lane.bot_lane,Role.carry
+8,EDG SLICER,Xerath,True,Side.red,10,1,8,18.0,167,Flash,Ghost,13,False,11071,7725,Doran's Ring,Morellonomicon,Ruby Crystal,Mejai's Soulstealer,Needlessly Large Rod,Sorcerer's Shoes,89460,11320,Lane.mid_lane,Role.solo
+9,QuickRev,Maokai,True,Side.red,2,0,11,13.0,116,Flash,Teleport,12,False,8033,6300,Doran's Ring,Spirit Visage,Bami's Cinder,Mercury's Treads,Ruby Crystal,Ruby Crystal,50541,14807,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LvI 1 Bidoof,Cassiopeia,False,Side.blue,4,7,6,1.4285714285714286,196,Flash,Cleanse,14,False,10450,10139,Morellonomicon,Tear of the Goddess,Needlessly Large Rod,The Dark Seal,Doran's Ring,Rylai's Crystal Scepter,111372,9669,Lane.mid_lane,Role.solo
+1,Laetabilis,Janna,False,Side.blue,1,4,15,4.0,8,Flash,Exhaust,12,False,7831,6675,Null-Magic Mantle,Boots of Mobility,Redemption,Eye of the Watchers,Control Ward,Cloth Armor,5126,3165,Lane.bot_lane,Role.support
+2,Zatron,Poppy,False,Side.blue,3,5,8,2.2,158,Flash,Teleport,13,False,9915,9275,Zz'Rot Portal,Corrupting Potion,Warden's Mail,Sunfire Cape,Ninja Tabi,Giant's Belt,28813,59875,Lane.top_lane,Role.solo
+3,Jayden Park,Twitch,False,Side.blue,11,7,5,2.2857142857142856,197,Flash,Heal,14,False,12811,12250,Doran's Blade,Mercurial Scimitar,Dagger,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,0,107656,Lane.bot_lane,Role.carry
+4,JonLeMale,Rek'Sai,False,Side.blue,6,5,11,3.4,194,Smite,Flash,16,True,12241,11775,Titanic Hydra,Chain Vest,Berserker's Greaves,Enchantment: Cinderhulk,Sterak's Gage,Giant's Belt,44129,122078,Lane.jungle,Role.none
+5,Feitan,Lee Sin,True,Side.red,12,5,10,4.4,129,Smite,Flash,16,False,14612,13275,Mercury's Treads,Spirit Visage,Youmuu's Ghostblade,Enchantment: Warrior,Dead Man's Plate,Chain Vest,30727,134432,Lane.jungle,Role.none
+6,Hârken,Ashe,True,Side.red,3,4,6,2.25,223,Flash,Heal,16,False,12599,9800,Doran's Blade,Essence Reaver,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,,2216,135401,Lane.bot_lane,Role.carry
+7,Gerrard,Zyra,True,Side.red,2,8,7,1.125,28,Flash,Ignite,11,False,10027,8675,Sightstone,Frost Queen's Claim,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Blasting Wand,Ruby Crystal,29217,6036,Lane.bot_lane,Role.support
+8,Below Zero,Yorick,True,Side.red,7,2,7,7.0,227,Teleport,Flash,16,False,14114,10508,Trinity Force,Boots of Swiftness,Sterak's Gage,,Zz'Rot Portal,Corrupting Potion,24953,116013,Lane.top_lane,Role.solo
+9,iDehydrated,Twisted Fate,True,Side.red,4,6,3,1.1666666666666667,238,Flash,Ghost,15,False,13140,12300,Doran's Ring,Zhonya's Hourglass,Boots of Swiftness,Lich Bane,Needlessly Large Rod,Abyssal Scepter,123250,27603,Lane.mid_lane,Role.solo

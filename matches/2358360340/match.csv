@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KT Score,Ivern,True,Side.blue,1,1,11,12.0,94,Smite,Flash,14,False,10281,8375,Redemption,Hunter's Talisman,Locket of the Iron Solari,The Dark Seal,Athene's Unholy Grail,Ionian Boots of Lucidity,19681,11824,Lane.jungle,Role.none
+1,Precipitate,Twitch,True,Side.blue,7,2,2,4.5,209,Flash,Heal,13,False,12148,9700,Brawler's Gloves,Doran's Blade,Berserker's Greaves,Kircheis Shard,Infinity Edge,Runaan's Hurricane,1417,109105,Lane.bot_lane,Role.carry
+2,Super Support,Janna,True,Side.blue,0,3,9,3.0,16,Exhaust,Flash,12,False,7461,5625,Sightstone,Redemption,Aether Wisp,Ionian Boots of Lucidity,Ancient Coin,Control Ward,8235,4860,Lane.bot_lane,Role.support
+3,new 1,Ryze,True,Side.blue,6,2,6,6.0,232,Flash,Ghost,15,True,12146,9310,Seraph's Embrace,Needlessly Large Rod,Morellonomicon,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,166265,14792,Lane.mid_lane,Role.solo
+4,popgoestheglock,Maokai,True,Side.blue,3,0,5,8.0,255,Teleport,Flash,15,False,12053,11125,Doran's Ring,Spirit Visage,Sunfire Cape,Zz'Rot Portal,Boots of Swiftness,Aegis of the Legion,92915,19645,Lane.top_lane,Role.solo
+5,Kappa desu,Lulu,False,Side.red,0,1,6,6.0,3,Flash,Exhaust,11,False,6373,5575,Redemption,Eye of the Watchers,Refillable Potion,,,Boots of Mobility,13276,3144,Lane.bot_lane,Role.support
+6,Flashnuk3,Rumble,False,Side.red,0,3,1,0.3333333333333333,263,Teleport,Flash,14,False,9007,8925,Doran's Shield,Rylai's Crystal Scepter,Mercury's Treads,Liandry's Torment,Cloth Armor,Cloth Armor,121661,14860,Lane.top_lane,Role.solo
+7,B00STED DRAVEN,Katarina,False,Side.red,0,8,2,0.25,163,Flash,Ignite,12,False,7940,7700,Abyssal Scepter,,Hextech Gunblade,Sorcerer's Shoes,,,89792,11776,Lane.mid_lane,Role.solo
+8,Stirling Archer,Jhin,False,Side.red,4,0,3,7.0,220,Heal,Flash,12,False,10133,9800,Rapid Firecannon,Boots of Swiftness,Essence Reaver,Cloak of Agility,Doran's Blade,B. F. Sword,8610,114384,Lane.bot_lane,Role.carry
+9,AbsurdDC,Lee Sin,False,Side.red,4,5,4,1.6,80,Flash,Smite,12,False,8408,8275,Mercury's Treads,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,Giant's Belt,,15493,72282,Lane.jungle,Role.none

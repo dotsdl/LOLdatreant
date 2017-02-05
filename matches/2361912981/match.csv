@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,gabzpiano,Xin Zhao,True,Side.blue,10,0,4,14.0,156,Flash,Smite,14,False,12261,9058,,Mercury's Treads,Chain Vest,Cloth Armor,Trinity Force,Enchantment: Bloodrazor,15488,123542,Lane.jungle,Role.none
+1,Dazhao Shangmiss,Caitlyn,True,Side.blue,5,6,10,2.5,100,Heal,Flash,10,False,8489,7950,Doran's Blade,Runaan's Hurricane,Infinity Edge,,,Berserker's Greaves,1380,60301,Lane.bot_lane,Role.carry
+2,Av akc,Sona,True,Side.blue,5,4,15,5.0,7,Ignite,Flash,12,False,8610,6800,Frost Queen's Claim,,,Morellonomicon,Sorcerer's Shoes,,19136,4943,Lane.bot_lane,Role.support
+3,lost in thoughts,LeBlanc,True,Side.blue,7,1,6,13.0,183,Flash,Teleport,13,False,10185,8310,Doran's Ring,Needlessly Large Rod,Mejai's Soulstealer,Amplifying Tome,Sorcerer's Shoes,Morellonomicon,93541,12418,Lane.jungle,Role.none
+4,Gareth,Nasus,True,Side.blue,4,0,4,8.0,203,Teleport,Flash,14,True,10522,8908,Doran's Ring,Doran's Ring,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Trinity Force,75138,35805,Lane.top_lane,Role.solo
+5,MIA Bot Khalifa,Irelia,False,Side.red,0,4,2,0.5,141,Teleport,Flash,11,False,5944,5333,Corrupting Potion,Trinity Force,Mercury's Treads,,,,1806,52255,Lane.top_lane,Role.solo
+6,monsterbbg,Nami,False,Side.red,1,7,9,1.4285714285714286,4,Exhaust,Flash,9,False,5239,4825,Frostfang,Boots of Speed,,Sightstone,Redemption,Null-Magic Mantle,5080,2341,Lane.bot_lane,Role.support
+7,Dank Matter,Lee Sin,False,Side.red,2,7,4,0.8571428571428571,60,Flash,Smite,10,False,5512,5125,Enchantment: Warrior,,Ionian Boots of Lucidity,Caulfield's Warhammer,Long Sword,,7662,44959,Lane.jungle,Role.none
+8,SquirreI,Ezreal,False,Side.red,5,5,2,1.4,133,Flash,Heal,10,False,7252,6650,Doran's Blade,Manamune,Iceborn Gauntlet,Ionian Boots of Lucidity,,,9526,53279,Lane.bot_lane,Role.carry
+9,RapidKillz,Katarina,False,Side.red,3,8,4,0.875,81,Flash,Ignite,10,False,5809,5300,Sorcerer's Shoes,Abyssal Scepter,Hextech Revolver,,,,42715,4723,Lane.jungle,Role.none

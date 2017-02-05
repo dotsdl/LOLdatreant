@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nijijinchuuriki,Jhin,False,Side.blue,4,3,1,1.6666666666666667,207,Flash,Heal,13,False,9692,8650,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Pickaxe,,6117,119066,Lane.bot_lane,Role.carry
+1,Overlord Forte,Taliyah,False,Side.blue,0,7,3,0.42857142857142855,174,Flash,Ghost,13,False,8689,8175,Doran's Ring,Sorcerer's Shoes,Hextech GLP-800,Doran's Ring,Morellonomicon,,82599,7248,Lane.mid_lane,Role.solo
+2,retarded virgin,Rengar,False,Side.blue,9,5,3,2.4,158,Flash,Smite,15,False,11094,10900,Enchantment: Warrior,Youmuu's Ghostblade,Tiamat,Ionian Boots of Lucidity,Dead Man's Plate,,18651,142335,Lane.jungle,Role.none
+3,Ari Kingu,Lulu,False,Side.blue,0,3,6,2.0,18,Exhaust,Flash,11,False,6818,6200,Eye of the Watchers,,Redemption,Sapphire Crystal,Ionian Boots of Lucidity,,16437,4212,Lane.bot_lane,Role.support
+4,amumumu,Dr. Mundo,False,Side.blue,4,6,3,1.1666666666666667,197,Flash,Teleport,15,False,10329,10150,Doran's Shield,Zz'Rot Portal,Sunfire Cape,Spirit Visage,Ninja Tabi,,100049,34723,Lane.top_lane,Role.solo
+5,West Coast Carry,Lee Sin,True,Side.red,6,6,9,2.5,141,Flash,Smite,14,False,11143,10350,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,The Black Cleaver,Long Sword,,21343,109983,Lane.jungle,Role.none
+6,xRequiem,Twitch,True,Side.red,2,6,13,2.5,200,Heal,Flash,13,False,11325,10600,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Statikk Shiv,,273,112434,Lane.bot_lane,Role.carry
+7,CC Dean,Janna,True,Side.red,2,0,16,18.0,15,Exhaust,Flash,13,False,9069,8150,Zeke's Harbinger,Ruby Sightstone,Redemption,Boots of Mobility,Nomad's Medallion,,3800,5693,Lane.bot_lane,Role.support
+8,Stumpey,Viktor,True,Side.red,5,2,6,5.5,208,Flash,Ghost,15,False,11683,9510,Control Ward,Rylai's Crystal Scepter,Amplifying Tome,Ionian Boots of Lucidity,Perfect Hex Core,Blasting Wand,110662,18268,Lane.mid_lane,Role.solo
+9,Cuckvele,Fiora,True,Side.red,9,3,4,4.333333333333333,187,Flash,Teleport,15,True,13178,12200,The Black Cleaver,Ninja Tabi,The Bloodthirster,Cull,,Titanic Hydra,496,130930,Lane.top_lane,Role.solo

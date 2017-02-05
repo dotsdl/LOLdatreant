@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Feiyt,Alistar,True,Side.blue,1,5,19,4.0,32,Flash,Exhaust,12,False,8638,7050,Face of the Mountain,Knight's Vow,Sightstone,Cloth Armor,,Boots of Mobility,6817,5865,Lane.bot_lane,Role.support
+1,Anthøny,Kha'Zix,True,Side.blue,14,8,10,3.0,65,Smite,Flash,14,False,12242,10400,Refillable Potion,Youmuu's Ghostblade,Maw of Malmortius,Long Sword,Enchantment: Warrior,Boots of Mobility,4187,107335,Lane.jungle,Role.none
+2,Bobby De Niro,Orianna,True,Side.blue,5,3,13,6.0,209,Ghost,Flash,15,True,12190,11100,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Void Staff,,118793,16480,Lane.mid_lane,Role.solo
+3,OhDamn I Died,Twitch,True,Side.blue,7,5,8,3.0,171,Heal,Flash,14,False,11748,9200,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,B. F. Sword,,0,93781,Lane.bot_lane,Role.carry
+4,GreatNeeD,Rumble,True,Side.blue,12,3,13,8.333333333333334,121,Teleport,Flash,15,False,12202,10525,Hextech Protobelt-01,Zhonya's Hourglass,Refillable Potion,Sorcerer's Shoes,Liandry's Torment,Ruby Crystal,75510,11410,Lane.top_lane,Role.solo
+5,TubbyTiger,Warwick,False,Side.red,5,12,2,0.5833333333333334,71,Smite,Flash,11,False,8175,7500,Enchantment: Bloodrazor,Spirit Visage,Mercury's Treads,Cloth Armor,Ruby Crystal,,16067,43019,Lane.jungle,Role.none
+6,Leesin2,Riven,False,Side.red,5,7,5,1.4285714285714286,168,Ignite,Flash,14,False,9608,9275,Maw of Malmortius,Refillable Potion,The Black Cleaver,Boots of Speed,Jaurim's Fist,Tiamat,0,91375,Lane.top_lane,Role.solo
+7,Kreleian,Jhin,False,Side.red,8,6,8,2.6666666666666665,132,Flash,Heal,12,False,10343,9450,Doran's Blade,Essence Reaver,Berserker's Greaves,B. F. Sword,Rapid Firecannon,,5554,80981,Lane.bot_lane,Role.carry
+8,Narrticjazul,Morgana,False,Side.red,5,4,11,4.0,17,Flash,Exhaust,12,False,8546,7975,Zhonya's Hourglass,Ruby Sightstone,Frost Queen's Claim,,Ionian Boots of Lucidity,,22956,1619,Lane.bot_lane,Role.support
+9,GMZ Jumpire,Ryze,False,Side.red,1,10,5,0.6,165,Flash,Ignite,13,False,8554,8375,,Needlessly Large Rod,Ionian Boots of Lucidity,Rod of Ages,Faerie Charm,Archangel's Staff,91660,9816,Lane.mid_lane,Role.solo

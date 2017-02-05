@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UnityComplex,Taric,True,Side.blue,1,0,12,13.0,59,Flash,Exhaust,14,False,10030,6075,,Eye of the Equinox,Mercury's Treads,,,Knight's Vow,10690,15187,Lane.bot_lane,Role.support
+1,Aurath,Twitch,True,Side.blue,11,1,8,19.0,89,Smite,Flash,15,True,12769,10875,Blade of the Ruined King,Enchantment: Bloodrazor,Ninja Tabi,Runaan's Hurricane,Null-Magic Mantle,Ruby Crystal,4678,99818,Lane.jungle,Role.none
+2,Qing Tian,Ezreal,True,Side.blue,7,1,5,12.0,286,Flash,Heal,15,False,14317,9100,Iceborn Gauntlet,Bilgewater Cutlass,Muramana,Recurve Bow,Doran's Blade,Ionian Boots of Lucidity,17161,159216,Lane.bot_lane,Role.carry
+3,MadLyfe,Singed,True,Side.blue,3,3,12,5.0,192,Ghost,Flash,16,False,12274,10150,Corrupting Potion,Sunfire Cape,The Dark Seal,Boots of Swiftness,Thornmail,Zz'Rot Portal,112634,10628,Lane.top_lane,Role.solo
+4,Vantar,Ryze,True,Side.blue,12,4,7,4.75,268,Flash,Ghost,18,False,16644,13525,Seraph's Embrace,Corrupting Potion,Zz'Rot Portal,Rod of Ages,Ionian Boots of Lucidity,Frozen Heart,201321,14293,Lane.mid_lane,Role.solo
+5,FFF Heresy Trial,Lee Sin,False,Side.red,4,6,1,0.8333333333333334,114,Flash,Smite,13,False,9456,9050,Enchantment: Warrior,Edge of Night,Mercury's Treads,Hexdrinker,Long Sword,Long Sword,20793,83328,Lane.jungle,Role.none
+6,LeeLax,Janna,False,Side.red,0,6,4,0.6666666666666666,20,Flash,Exhaust,11,False,7448,6900,Sightstone,Talisman of Ascension,Boots of Speed,Redemption,Aegis of the Legion,,12886,6046,Lane.bot_lane,Role.support
+7,CC Hollywood,Lux,False,Side.red,2,6,2,0.6666666666666666,249,Ghost,Flash,15,False,10772,10100,Doran's Ring,Mejai's Soulstealer,Blasting Wand,Morellonomicon,Ionian Boots of Lucidity,Luden's Echo,141016,14237,Lane.mid_lane,Role.solo
+8,Stumpey,Jayce,False,Side.red,3,9,1,0.4444444444444444,242,Flash,Teleport,15,False,10716,9185,Youmuu's Ghostblade,Refillable Potion,Doran's Blade,Mercury's Treads,The Black Cleaver,Hexdrinker,28166,122602,Lane.top_lane,Role.solo
+9,dog2,Caitlyn,False,Side.red,0,7,4,0.5714285714285714,218,Flash,Heal,13,False,9492,9200,Doran's Blade,Runaan's Hurricane,Infinity Edge,Last Whisper,Berserker's Greaves,,774,116362,Lane.bot_lane,Role.carry

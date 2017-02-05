@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Asian GirI,Lee Sin,False,Side.blue,4,5,8,2.4,39,Flash,Ignite,11,False,7189,6525,Boots of Mobility,Refillable Potion,Eye of the Equinox,Dead Man's Plate,,Cloth Armor,5428,14781,Lane.jungle,Role.none
+1,Miss Kimch,Jinx,False,Side.blue,2,6,3,0.8333333333333334,118,Heal,Flash,11,False,7143,6075,Doran's Blade,Cull,Runaan's Hurricane,B. F. Sword,Pickaxe,Boots of Speed,551,54523,Lane.bot_lane,Role.solo
+2,LSDP,Graves,False,Side.blue,3,5,2,1.0,118,Smite,Flash,12,False,7778,6575,Boots of Mobility,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,,,3619,89966,Lane.jungle,Role.none
+3,Asdadarf,Renekton,False,Side.blue,6,8,3,1.125,138,Teleport,Flash,12,False,8350,8050,Tiamat,Ninja Tabi,The Black Cleaver,Warden's Mail,Giant's Belt,Long Sword,1799,65823,Lane.top_lane,Role.solo
+4,Luxferro,Ryze,False,Side.blue,2,5,7,1.8,174,Flash,Ghost,13,False,8342,7450,Tear of the Goddess,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,,,91081,7762,Lane.mid_lane,Role.solo
+5,always plan ahea,Jhin,True,Side.red,10,6,7,2.8333333333333335,174,Flash,Ignite,14,False,11903,11625,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Infinity Edge,,11149,124185,Lane.mid_lane,Role.solo
+6,Ult f4,Sona,True,Side.red,0,2,17,8.5,49,Exhaust,Flash,12,False,9596,7125,Spellthief's Edge,Banner of Command,Zz'Rot Portal,Ruby Sightstone,,,16085,12554,Lane.bot_lane,Role.support
+7,Breakbot,Nunu,True,Side.red,7,1,11,18.0,106,Smite,Flash,13,False,11699,10475,Enchantment: Cinderhulk,Frozen Heart,Boots of Swiftness,Giant's Belt,Hunter's Potion,Warmog's Armor,27789,39542,Lane.jungle,Role.none
+8,Stirling Archer,Ezreal,True,Side.red,1,2,13,7.0,139,Heal,Flash,12,False,9222,9050,Bilgewater Cutlass,Manamune,Iceborn Gauntlet,Doran's Blade,Ionian Boots of Lucidity,Recurve Bow,6838,68028,Lane.bot_lane,Role.carry
+9,asianaffliter,Fiora,True,Side.red,11,6,4,2.5,129,Flash,Teleport,14,True,11619,8550,The Black Cleaver,Ravenous Hydra,Corrupting Potion,Mercury's Treads,Long Sword,,1985,85029,Lane.top_lane,Role.solo

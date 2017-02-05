@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RF Legendary,Jayce,True,Side.blue,3,5,10,2.6,198,Flash,Teleport,16,False,12200,11200,Refillable Potion,The Black Cleaver,Mercury's Treads,Doran's Blade,Maw of Malmortius,Edge of Night,17558,106769,Lane.top_lane,Role.solo
+1,Drowning,Graves,True,Side.blue,10,4,8,4.5,160,Flash,Smite,16,False,14005,12850,Lord Dominik's Regards,,Berserker's Greaves,Phantom Dancer,Death's Dance,Enchantment: Warrior,3181,158672,Lane.jungle,Role.none
+2,D0NG0,LeBlanc,True,Side.blue,9,4,10,4.75,158,Ignite,Flash,15,False,12257,11775,Zhonya's Hourglass,Abyssal Scepter,The Dark Seal,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,95374,11099,Lane.mid_lane,Role.solo
+3,734,Zyra,True,Side.blue,9,4,6,3.75,20,Flash,Exhaust,13,False,11187,8900,Rylai's Crystal Scepter,Haunting Guise,Sorcerer's Shoes,Eye of the Watchers,Refillable Potion,Control Ward,25412,4214,Lane.bot_lane,Role.support
+4,TSM MeNoHaxor,Caitlyn,True,Side.blue,5,7,7,1.7142857142857142,219,Heal,Flash,15,True,12543,11775,Doran's Blade,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Pickaxe,1628,150358,Lane.bot_lane,Role.carry
+5,TQS Zuardian,Shyvana,False,Side.red,9,7,6,2.142857142857143,149,Smite,Flash,15,False,11621,11075,Blade of the Ruined King,Enchantment: Bloodrazor,Banshee's Veil,Ninja Tabi,Ruby Crystal,Chain Vest,70391,63807,Lane.jungle,Role.none
+6,Fox BIG,Miss Fortune,False,Side.red,6,2,6,6.0,79,Exhaust,Flash,13,False,10315,10435,Caulfield's Warhammer,Eye of the Watchers,The Black Cleaver,Ionian Boots of Lucidity,Hexdrinker,,32750,30213,Lane.bot_lane,Role.duo
+7,Jurassiq,Ezreal,False,Side.red,3,11,8,1.0,151,Flash,Heal,12,False,9468,8900,Muramana,Doran's Blade,Iceborn Gauntlet,Ionian Boots of Lucidity,Hexdrinker,Vampiric Scepter,6293,66242,Lane.bot_lane,Role.duo
+8,The Brophy,Viktor,False,Side.red,1,10,1,0.2,164,Ghost,Flash,13,False,8566,7600,Ionian Boots of Lucidity,Health Potion,Perfect Hex Core,Abyssal Scepter,,,76606,9924,Lane.mid_lane,Role.solo
+9,BillyBoss1,Malphite,False,Side.red,5,6,6,1.8333333333333333,168,Flash,Teleport,14,False,10226,10600,Cloth Armor,,Sunfire Cape,Iceborn Gauntlet,Ionian Boots of Lucidity,Banshee's Veil,61937,31585,Lane.top_lane,Role.solo

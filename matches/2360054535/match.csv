@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CRlTlCAL,Twitch,True,Side.blue,11,4,7,4.5,274,Flash,Heal,17,False,16539,14835,Infinity Edge,Runaan's Hurricane,Statikk Shiv,Mortal Reminder,Cloak of Agility,Berserker's Greaves,22948,188765,Lane.bot_lane,Role.carry
+1,Wizikz,Lee Sin,True,Side.blue,3,10,4,0.7,248,Teleport,Flash,16,True,13263,12275,Titanic Hydra,Sunfire Cape,Doran's Shield,Ninja Tabi,The Black Cleaver,Kindlegem,65161,110375,Lane.top_lane,Role.solo
+2,loveyen,Syndra,True,Side.blue,6,5,6,2.4,206,Flash,Ghost,16,False,13680,13225,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Seeker's Armguard,Sorcerer's Shoes,Rylai's Crystal Scepter,148523,11442,Lane.mid_lane,Role.solo
+3,Jeffacake,Thresh,True,Side.blue,3,4,17,5.0,40,Flash,Ignite,14,False,10972,10600,Face of the Mountain,Sightstone,Randuin's Omen,Knight's Vow,Ionian Boots of Lucidity,Aegis of the Legion,14767,8263,Lane.bot_lane,Role.support
+4,Arbiter22,Kha'Zix,True,Side.blue,8,3,8,5.333333333333333,147,Smite,Flash,16,False,13685,11025,Enchantment: Warrior,Hunter's Potion,Mercury's Treads,Duskblade of Draktharr,Maw of Malmortius,Ruby Crystal,4375,178514,Lane.jungle,Role.none
+5,DiHydrogenO,Caitlyn,False,Side.red,4,8,7,1.375,191,Flash,Heal,15,False,10740,10075,Infinity Edge,Doran's Blade,Runaan's Hurricane,Zeal,Kircheis Shard,Berserker's Greaves,919,121017,Lane.bot_lane,Role.carry
+6,Currian,Lux,False,Side.red,12,6,7,3.1666666666666665,215,Flash,Ghost,16,False,13508,13135,Rabadon's Deathcap,Luden's Echo,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,133304,19040,Lane.mid_lane,Role.solo
+7,Yahshi,Janna,False,Side.red,0,3,17,5.666666666666667,8,Flash,Exhaust,15,False,9202,8425,Ionian Boots of Lucidity,Eye of the Oasis,Locket of the Iron Solari,Forbidden Idol,,Redemption,7398,3705,Lane.bot_lane,Role.support
+8,Sueycide,Yasuo,False,Side.red,2,9,12,1.5555555555555556,205,Flash,Teleport,16,False,11276,11680,Infinity Edge,,Phantom Dancer,Ninja Tabi,Frozen Mallet,,39560,104677,Lane.top_lane,Role.solo
+9,vsan Touken,Gragas,False,Side.red,8,6,10,3.0,134,Flash,Smite,16,False,11197,11050,Mercury's Treads,Dead Man's Plate,Enchantment: Runic Echoes,Randuin's Omen,Spectre's Cowl,,105769,24491,Lane.jungle,Role.none

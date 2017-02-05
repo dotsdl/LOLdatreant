@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hunt,Ivern,False,Side.blue,4,5,8,2.4,68,Flash,Smite,13,False,9300,9175,Rylai's Crystal Scepter,Athene's Unholy Grail,Ionian Boots of Lucidity,Guardian Angel,,,14107,5805,Lane.jungle,Role.none
+1,Frobby,Orianna,False,Side.blue,8,8,3,1.375,191,Flash,Teleport,13,True,11757,10385,Blasting Wand,Morellonomicon,Luden's Echo,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,98065,11599,Lane.top_lane,Role.solo
+2,Flashnuk3,Sivir,False,Side.blue,4,7,1,0.7142857142857143,252,Heal,Flash,14,False,11595,9275,Doran's Blade,Statikk Shiv,Vampiric Scepter,Berserker's Greaves,Essence Reaver,,11095,138950,Lane.bot_lane,Role.carry
+3,iHDK,Katarina,False,Side.blue,3,10,7,1.0,140,Exhaust,Flash,13,False,9233,8885,Hextech Gunblade,,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,Ruby Crystal,76674,9048,Lane.mid_lane,Role.solo
+4,Marty726,Zyra,False,Side.blue,1,8,7,1.0,27,Exhaust,Flash,11,False,8179,7535,Rylai's Crystal Scepter,Boots of Mobility,Ruby Crystal,Amplifying Tome,,Eye of the Watchers,19898,3914,Lane.bot_lane,Role.support
+5,alexdeth,Vi,True,Side.red,5,3,11,5.333333333333333,123,Flash,Smite,15,False,11733,10175,Mercury's Treads,Enchantment: Warrior,Caulfield's Warhammer,Phage,Wit's End,Hexdrinker,2895,135141,Lane.jungle,Role.none
+6,100PercentOJ,Jhin,True,Side.red,10,4,10,5.0,177,Flash,Heal,14,False,12928,12130,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Maw of Malmortius,Negatron Cloak,9680,120092,Lane.bot_lane,Role.carry
+7,Morrisito,Leona,True,Side.red,6,3,18,8.0,56,Flash,Exhaust,14,False,11054,10000,Locket of the Iron Solari,Eye of the Equinox,Redemption,Boots of Mobility,Chalice of Harmony,Forbidden Idol,11045,14065,Lane.bot_lane,Role.support
+8,Zach Embrey,Nautilus,True,Side.red,3,5,14,3.4,175,Teleport,Flash,15,False,11507,10275,Corrupting Potion,Zz'Rot Portal,Warmog's Armor,Spirit Visage,Boots of Swiftness,Null-Magic Mantle,71103,32893,Lane.top_lane,Role.solo
+9,Tsui Wah ,Ryze,True,Side.red,14,5,11,5.0,214,Flash,Ghost,16,False,14799,13375,Morellonomicon,Seraph's Embrace,Guardian Angel,Ionian Boots of Lucidity,Rod of Ages,Giant's Belt,181599,7485,Lane.mid_lane,Role.solo

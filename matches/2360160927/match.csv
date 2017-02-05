@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TRUMPSSMALLHANDS,Olaf,False,Side.blue,5,5,5,2.0,125,Ghost,Smite,14,False,9263,8575,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Dead Man's Plate,Spectre's Cowl,Kindlegem,15766,86116,Lane.jungle,Role.none
+1,Yasubro,Evelynn,False,Side.blue,10,5,1,2.2,137,Ignite,Flash,13,False,9802,9300,Mejai's Soulstealer,Lich Bane,Sorcerer's Shoes,Blasting Wand,Hextech Protobelt-01,,59296,15522,Lane.top_lane,Role.solo
+2,SPACE JUNGLER X,Lux,False,Side.blue,3,3,6,3.0,123,Ghost,Flash,12,False,7814,7600,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Luden's Echo,,,69269,8747,Lane.mid_lane,Role.duo
+3,KlvA,Alistar,False,Side.blue,0,8,8,1.0,31,Exhaust,Flash,11,False,6147,5600,Ruby Sightstone,Refillable Potion,Face of the Mountain,Null-Magic Mantle,Control Ward,Boots of Mobility,9986,2510,Lane.jungle,Role.none
+4,Waifu Killer,Caitlyn,False,Side.blue,0,12,2,0.16666666666666666,152,Heal,Flash,12,False,7780,6575,Doran's Blade,Pickaxe,Berserker's Greaves,Runaan's Hurricane,Total Biscuit of Rejuvenation,Cloak of Agility,270,99790,Lane.mid_lane,Role.duo
+5,UNBAN SOJS,Malzahar,True,Side.red,7,3,8,5.0,199,Flash,Ghost,14,False,11234,8460,Doran's Ring,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Amplifying Tome,101614,25174,Lane.mid_lane,Role.solo
+6,CC MercyLM,Nami,True,Side.red,4,5,10,2.8,10,Flash,Ignite,11,False,8237,6975,Sightstone,Frost Queen's Claim,Redemption,The Dark Seal,Boots of Mobility,Ruby Crystal,10696,8553,Lane.bot_lane,Role.support
+7,CC Wolf,Ezreal,True,Side.red,11,4,7,4.5,143,Heal,Flash,13,True,12294,11250,Doran's Blade,Muramana,Blade of the Ruined King,Ionian Boots of Lucidity,Iceborn Gauntlet,Last Whisper,16072,106395,Lane.bot_lane,Role.carry
+8,Horny Pix,Warwick,True,Side.red,2,3,11,4.333333333333333,104,Flash,Smite,13,False,9010,7675,Enchantment: Cinderhulk,Blade of the Ruined King,Mercury's Treads,,,,43767,58739,Lane.jungle,Role.none
+9,Jhiu30261942347,Riven,True,Side.red,9,4,3,3.0,168,Teleport,Flash,14,False,10265,8650,The Black Cleaver,Youmuu's Ghostblade,Tiamat,Mercury's Treads,,,99,110649,Lane.top_lane,Role.solo

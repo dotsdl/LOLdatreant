@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am sol,Ekko,False,Side.blue,1,6,1,0.3333333333333333,133,Teleport,Flash,11,False,6373,6325,Abyssal Scepter,Corrupting Potion,Boots of Speed,Rod of Ages,,,56554,12223,Lane.jungle,Role.none
+1,Snackbar123,Jhin,False,Side.blue,2,4,5,1.75,130,Heal,Flash,9,False,6614,6525,Doran's Blade,Refillable Potion,Control Ward,Boots of Swiftness,Essence Reaver,Zeal,613,55447,Lane.bot_lane,Role.carry
+2,PrismaI,Lee Sin,False,Side.blue,3,8,5,1.0,114,Flash,Smite,11,False,7666,7450,Refillable Potion,Enchantment: Warrior,Titanic Hydra,,,Ninja Tabi,13769,77432,Lane.jungle,Role.none
+3,Katsa,Karma,False,Side.blue,0,2,7,3.5,7,Exhaust,Flash,9,False,4552,3850,Sightstone,Spellthief's Edge,Redemption,Boots of Speed,,,7362,2095,Lane.bot_lane,Role.support
+4,AchiIIes Heal,Wukong,False,Side.blue,3,6,0,0.5,131,Flash,Teleport,11,False,6552,6500,Corrupting Potion,The Black Cleaver,Doran's Shield,Cloth Armor,Mercury's Treads,Vampiric Scepter,1325,57754,Lane.top_lane,Role.solo
+5,Ikzencriel,Jax,True,Side.red,11,1,4,15.0,169,Teleport,Flash,14,True,11117,9233,Corrupting Potion,Trinity Force,Hextech Gunblade,Ninja Tabi,Long Sword,,26396,82234,Lane.top_lane,Role.solo
+6,Myloo,Draven,True,Side.red,3,4,2,1.25,129,Flash,Heal,10,False,8526,7300,Berserker's Greaves,Essence Reaver,Zeal,Cull,Dagger,Doran's Blade,0,71640,Lane.bot_lane,Role.duo
+7,AllAero,Syndra,True,Side.red,9,1,3,12.0,136,Flash,Ghost,13,False,9516,8400,Doran's Ring,Rylai's Crystal Scepter,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Doran's Ring,Morellonomicon,73780,7969,Lane.mid_lane,Role.solo
+8,camtheham,Ivern,True,Side.red,2,1,11,13.0,100,Smite,Flash,12,False,9099,8025,Redemption,Refillable Potion,Control Ward,Athene's Unholy Grail,Enchantment: Cinderhulk,Boots of Mobility,17117,11269,Lane.jungle,Role.none
+9,Sawyerr,Taric,True,Side.red,1,2,8,4.5,38,Ignite,Flash,9,False,6152,5125,Crystalline Bracer,Boots of Swiftness,,Crystalline Bracer,Cloth Armor,Eye of the Equinox,7118,10363,Lane.bot_lane,Role.duo

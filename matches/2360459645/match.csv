@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tsui Wah ,Riven,True,Side.blue,6,5,7,2.6,158,Flash,Teleport,13,False,10353,8975,The Black Cleaver,Tiamat,Refillable Potion,Boots of Swiftness,Maw of Malmortius,,0,95988,Lane.top_lane,Role.solo
+1,Xys,Rek'Sai,True,Side.blue,6,0,16,22.0,144,Smite,Flash,15,True,11664,10325,Titanic Hydra,Spirit Visage,Enchantment: Cinderhulk,Mercury's Treads,Refillable Potion,,46374,95129,Lane.jungle,Role.none
+2,JayEaZy,Shen,True,Side.blue,2,2,17,9.5,42,Flash,Ignite,11,False,8040,6775,,Face of the Mountain,Locket of the Iron Solari,Crystalline Bracer,Ruby Crystal,Mercury's Treads,9528,13330,Lane.bot_lane,Role.support
+3,My Kat Evolved,Katarina,True,Side.blue,17,5,5,4.4,141,Ignite,Flash,14,False,12386,11025,The Dark Seal,Rylai's Crystal Scepter,Hextech Gunblade,Void Staff,Sorcerer's Shoes,,91435,15088,Lane.mid_lane,Role.solo
+4,dog baby,Ezreal,True,Side.blue,5,2,10,7.5,186,Flash,Heal,14,False,10771,8158,Doran's Blade,Manamune,Trinity Force,Ionian Boots of Lucidity,Long Sword,,13453,90579,Lane.bot_lane,Role.carry
+5,Rip Cig,Tristana,False,Side.red,2,5,4,1.2,138,Flash,Heal,12,False,7761,6500,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Pickaxe,,18846,51301,Lane.bot_lane,Role.carry
+6,Darude GateStorm,Singed,False,Side.red,7,4,3,2.5,157,Ghost,Ignite,13,False,9265,9250,Rylai's Crystal Scepter,Corrupting Potion,Righteous Glory,Ninja Tabi,Spectre's Cowl,Ruby Crystal,87269,4660,Lane.top_lane,Role.solo
+7,Dinosaurus,Ivern,False,Side.red,1,8,8,1.125,61,Flash,Smite,12,False,7124,5675,Skirmisher's Sabre,Aegis of the Legion,Ionian Boots of Lucidity,The Dark Seal,Athene's Unholy Grail,,4618,2048,Lane.jungle,Role.none
+8,BlackFishes,Bard,False,Side.red,1,10,4,0.5,11,Ignite,Flash,9,False,5983,5175,Crystalline Bracer,,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Crystalline Bracer,8147,3847,Lane.bot_lane,Role.support
+9,UCSD Felix,Gragas,False,Side.red,3,9,4,0.7777777777777778,102,Flash,Ignite,11,False,7474,7525,Aether Wisp,Blasting Wand,Doran's Ring,Abyssal Scepter,Sheen,Ionian Boots of Lucidity,54379,10366,Lane.mid_lane,Role.solo

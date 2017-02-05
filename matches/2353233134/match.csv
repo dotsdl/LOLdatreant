@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BillyBoss1,Nautilus,True,Side.blue,6,2,6,6.0,152,Flash,Teleport,12,False,8621,7050,Corrupting Potion,Sunfire Cape,Spirit Visage,Doran's Ring,Boots of Speed,,61715,16582,Lane.top_lane,Role.solo
+1,Fox BIG,Nami,True,Side.blue,0,4,7,1.75,6,Exhaust,Flash,9,False,5498,4725,Boots of Mobility,Eye of the Watchers,Forbidden Idol,Refillable Potion,Ruby Crystal,,5889,3577,Lane.bot_lane,Role.support
+2,Ninjacrab,Ivern,True,Side.blue,3,2,12,7.5,67,Flash,Smite,12,False,7924,5650,Redemption,Refillable Potion,Ionian Boots of Lucidity,Skirmisher's Sabre,Fiendish Codex,Null-Magic Mantle,11248,7138,Lane.jungle,Role.none
+3,Archer85,Zed,True,Side.blue,12,4,3,3.75,124,Flash,Ignite,12,True,9793,9525,Long Sword,Youmuu's Ghostblade,Long Sword,Boots of Swiftness,The Black Cleaver,B. F. Sword,4386,61325,Lane.mid_lane,Role.solo
+4,Lil Cody,Caitlyn,True,Side.blue,2,2,5,3.5,207,Heal,Flash,12,False,8778,6925,B. F. Sword,Runaan's Hurricane,Pickaxe,Berserker's Greaves,Cull,Doran's Blade,1697,117025,Lane.bot_lane,Role.carry
+5,C9 Meteos,Elise,False,Side.red,7,6,2,1.5,83,Smite,Flash,11,False,7988,7400,Enchantment: Runic Echoes,Hextech Protobelt-01,Refillable Potion,Giant's Belt,,Boots of Mobility,55512,22052,Lane.jungle,Role.none
+6,Vincent Mark,Ezreal,False,Side.red,1,4,1,0.5,108,Flash,Heal,9,False,5812,5625,Manamune,,Sapphire Crystal,Ionian Boots of Lucidity,Sheen,Doran's Blade,8728,44127,Lane.bot_lane,Role.carry
+7,Wintrader Vulcan,Karma,False,Side.red,0,3,2,0.6666666666666666,10,Flash,Exhaust,8,False,4550,4175,Ionian Boots of Lucidity,Ruby Sightstone,Control Ward,Spellthief's Edge,Crystalline Bracer,,9840,5837,Lane.bot_lane,Role.support
+8,Rohammers,Kennen,False,Side.red,1,5,1,0.4,113,Teleport,Flash,11,False,6512,6135,Hextech Protobelt-01,Cull,Sorcerer's Shoes,Refillable Potion,Seeker's Armguard,Amplifying Tome,39530,13552,Lane.top_lane,Role.solo
+9,Old driver TAT,Talon,False,Side.red,5,5,2,1.4,111,Flash,Ignite,12,False,7025,6800,Corrupting Potion,Youmuu's Ghostblade,The Black Cleaver,Boots of Speed,,,1068,61165,Lane.mid_lane,Role.solo

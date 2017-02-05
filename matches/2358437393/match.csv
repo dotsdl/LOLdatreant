@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,qpreach,Shaco,True,Side.blue,9,2,6,7.5,185,Smite,Ignite,16,True,14283,11300,Ravenous Hydra,Enchantment: Bloodrazor,Berserker's Greaves,The Bloodthirster,Dagger,,27291,162879,Lane.jungle,Role.none
+1,Hanjaro,Blitzcrank,True,Side.blue,2,5,10,2.4,26,Flash,Ignite,12,False,7619,7175,Sightstone,Face of the Mountain,Boots of Mobility,,Dead Man's Plate,,6153,7055,Lane.bot_lane,Role.support
+2,Hailtothechi,Swain,True,Side.blue,8,3,10,6.0,122,Teleport,Flash,14,False,11262,8910,Doran's Ring,Rod of Ages,Seeker's Armguard,Sorcerer's Shoes,Amplifying Tome,Spirit Visage,71988,15267,Lane.mid_lane,Role.solo
+3,Necrobucher,Poppy,True,Side.blue,5,4,10,3.75,154,Flash,Teleport,14,False,11055,9120,Corrupting Potion,Iceborn Gauntlet,Mercury's Treads,Sunfire Cape,Spectre's Cowl,Negatron Cloak,11182,77842,Lane.top_lane,Role.solo
+4,4911,Ezreal,True,Side.blue,13,3,10,7.666666666666667,181,Heal,Flash,15,False,13949,13683,Blade of the Ruined King,Muramana,Trinity Force,Ionian Boots of Lucidity,Mortal Reminder,,17320,106361,Lane.bot_lane,Role.carry
+5,VK Deemo,Yasuo,False,Side.red,0,7,1,0.14285714285714285,100,Flash,Smite,11,False,6674,6425,Refillable Potion,Phantom Dancer,Ninja Tabi,,Enchantment: Bloodrazor,,17291,53472,Lane.mid_lane,Role.support
+6,Inori l Yuzuriha,Jinx,False,Side.red,3,8,7,1.25,128,Heal,Flash,12,False,8077,8000,Berserker's Greaves,Infinity Edge,,Runaan's Hurricane,,,860,60075,Lane.bot_lane,Role.duo
+7,Aspen,Thresh,False,Side.red,1,8,6,0.875,35,Flash,Ignite,10,False,6417,5875,Aegis of the Legion,Boots of Mobility,Face of the Mountain,Sightstone,Null-Magic Mantle,,10862,5100,Lane.bot_lane,Role.duo
+8,GingerSpacer,Fiora,False,Side.red,10,7,4,2.0,166,Teleport,Flash,14,False,11013,10260,Ravenous Hydra,The Black Cleaver,Ninja Tabi,Doran's Blade,Chain Vest,Giant's Belt,706,102937,Lane.top_lane,Role.solo
+9,Ballsagna,Anivia,False,Side.red,3,7,6,1.2857142857142858,178,Flash,Ignite,14,False,9198,9150,Doran's Ring,Archangel's Staff,Sorcerer's Shoes,Rod of Ages,Needlessly Large Rod,,90675,11760,Lane.mid_lane,Role.carry

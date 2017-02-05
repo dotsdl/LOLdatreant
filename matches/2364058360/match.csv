@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BmxSpecks,Janna,True,Side.blue,0,4,15,3.75,13,Flash,Exhaust,13,False,8585,8525,Locket of the Iron Solari,Redemption,Eye of the Watchers,Ruby Crystal,Ionian Boots of Lucidity,Control Ward,6555,7859,Lane.bot_lane,Role.support
+1,oopa,Vayne,True,Side.blue,3,3,6,3.0,181,Flash,Heal,14,False,10903,10650,Doran's Blade,Statikk Shiv,Control Ward,Infinity Edge,Phantom Dancer,Berserker's Greaves,20131,78352,Lane.bot_lane,Role.carry
+2,Maxtrobo,Shaco,True,Side.blue,10,1,6,16.0,169,Teleport,Ignite,16,False,12348,12625,Doran's Ring,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Lich Bane,Needlessly Large Rod,69882,29780,Lane.top_lane,Role.solo
+3,Shiphtur,Lux,True,Side.blue,10,4,12,5.5,192,Ghost,Flash,16,False,13255,9725,Needlessly Large Rod,Luden's Echo,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,130593,14164,Lane.mid_lane,Role.solo
+4,Abou222,Lee Sin,True,Side.blue,9,4,5,3.5,160,Smite,Flash,15,False,12311,9350,Tiamat,,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Serrated Dirk,16712,125463,Lane.jungle,Role.none
+5,Yami,Viktor,False,Side.red,5,9,4,1.0,149,Flash,Ghost,14,True,9440,8910,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Rylai's Crystal Scepter,Amplifying Tome,Doran's Ring,104500,9094,Lane.mid_lane,Role.solo
+6,Hi Im A Sheep,Tahm Kench,False,Side.red,2,4,4,1.5,45,Flash,Exhaust,13,False,7888,7050,Ruby Sightstone,Control Ward,Face of the Mountain,Crystalline Bracer,Aegis of the Legion,Boots of Swiftness,11585,10226,Lane.bot_lane,Role.support
+7,ApoIlo Price,Caitlyn,False,Side.red,2,4,6,2.0,250,Flash,Heal,14,False,10881,10700,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,,650,127904,Lane.bot_lane,Role.carry
+8,FrozenNight,Hecarim,False,Side.red,4,9,5,1.0,98,Ghost,Smite,12,False,9233,8958,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Trinity Force,Chain Vest,,10406,70491,Lane.jungle,Role.none
+9,Im Jonny,Riven,False,Side.red,3,6,2,0.8333333333333334,241,Flash,Teleport,15,False,10808,10100,Tiamat,Refillable Potion,Pickaxe,Maw of Malmortius,Mercury's Treads,The Black Cleaver,0,141111,Lane.top_lane,Role.solo

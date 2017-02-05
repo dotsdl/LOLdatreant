@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid Lima,Ezreal,True,Side.blue,8,4,10,4.5,126,Flash,Heal,13,False,10513,9025,Muramana,Last Whisper,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,Giant Slayer,16193,58968,Lane.bot_lane,Role.carry
+1,B00STED DRAVEN,Talon,True,Side.blue,8,5,8,3.2,109,Flash,Ignite,13,True,10727,9200,The Black Cleaver,Ionian Boots of Lucidity,Youmuu's Ghostblade,B. F. Sword,Long Sword,Long Sword,2576,93320,Lane.jungle,Role.none
+2,Donger Salesman,Karma,True,Side.blue,1,4,19,5.0,16,Exhaust,Flash,11,False,8265,6700,Forbidden Idol,Eye of the Watchers,Control Ward,Redemption,,Ionian Boots of Lucidity,17141,6154,Lane.bot_lane,Role.support
+3,KarasMai,Graves,True,Side.blue,12,2,7,9.5,196,Flash,Smite,15,False,13900,11825,Enchantment: Warrior,Long Sword,The Black Cleaver,Ninja Tabi,Phantom Dancer,Hexdrinker,5211,179837,Lane.jungle,Role.none
+4,NoxianGuiIIotine,Darius,True,Side.blue,8,5,13,4.2,136,Flash,Teleport,13,False,11086,10025,The Black Cleaver,Refillable Potion,Zz'Rot Portal,Dead Man's Plate,Mercury's Treads,,288,77994,Lane.top_lane,Role.solo
+5,schankie,Thresh,False,Side.red,1,5,10,2.2,9,Exhaust,Flash,10,False,6439,5675,Ninja Tabi,Talisman of Ascension,Sightstone,Cloth Armor,Control Ward,Ruby Crystal,6534,2772,Lane.bot_lane,Role.support
+6,Celestial Bjoece,Jarvan IV,False,Side.red,5,9,8,1.4444444444444444,116,Smite,Flash,12,False,8597,8075,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Cloth Armor,Ruby Crystal,Ninja Tabi,3969,74703,Lane.jungle,Role.none
+7,08010505,Maokai,False,Side.red,0,8,7,0.875,89,Flash,Teleport,11,False,6340,5525,Ninja Tabi,Sunfire Cape,Cloth Armor,Doran's Ring,Ruby Crystal,,45931,3970,Lane.top_lane,Role.solo
+8,Trigger Slinger ,Jhin,False,Side.red,5,5,9,2.8,147,Flash,Heal,12,False,8785,8350,Doran's Blade,Essence Reaver,Statikk Shiv,Boots of Swiftness,,,4567,80101,Lane.bot_lane,Role.carry
+9,micro dose,Ekko,False,Side.red,9,10,4,1.3,161,Flash,Ignite,13,False,9963,8750,Hextech Protobelt-01,Zhonya's Hourglass,Corrupting Potion,Needlessly Large Rod,The Dark Seal,Sorcerer's Shoes,89907,11089,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gerrard,Karma,True,Side.blue,1,1,17,18.0,8,Flash,Exhaust,10,False,6767,6050,Frostfang,Sightstone,Ionian Boots of Lucidity,Redemption,Chalice of Harmony,Control Ward,4495,4242,Lane.bot_lane,Role.support
+1,Gweiss,Poppy,True,Side.blue,6,2,8,7.0,115,Teleport,Flash,13,False,8741,7600,Sunfire Cape,Corrupting Potion,Ninja Tabi,Iceborn Gauntlet,Ruby Crystal,,28196,45325,Lane.top_lane,Role.solo
+2,retarded virgin,Hecarim,True,Side.blue,5,2,13,9.0,128,Ghost,Smite,13,False,10297,8558,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Ninja Tabi,Chain Vest,,16774,99493,Lane.jungle,Role.none
+3,cokes,Corki,True,Side.blue,13,2,5,9.0,140,Exhaust,Flash,13,False,11308,11108,Hextech Gunblade,Trinity Force,B. F. Sword,Doran's Blade,Sorcerer's Shoes,Pickaxe,66514,21741,Lane.mid_lane,Role.solo
+4,BestLucianAfrica,Twitch,True,Side.blue,7,4,7,3.5,134,Heal,Flash,11,False,9263,8450,Doran's Blade,Runaan's Hurricane,,Infinity Edge,Cull,Berserker's Greaves,0,67581,Lane.bot_lane,Role.carry
+5,CLG Darshawn,Darius,False,Side.red,2,7,2,0.5714285714285714,110,Teleport,Flash,11,False,6264,5900,,Doran's Blade,The Black Cleaver,Ninja Tabi,Doran's Blade,Cloth Armor,0,42970,Lane.top_lane,Role.solo
+6,dog deft,Ezreal,False,Side.red,6,6,1,1.1666666666666667,142,Flash,Heal,11,True,8575,8583,Ionian Boots of Lucidity,Manamune,Trinity Force,Long Sword,,Doran's Blade,7455,52226,Lane.bot_lane,Role.carry
+7,1onz,Lulu,False,Side.red,0,6,7,1.1666666666666667,6,Flash,Exhaust,9,False,5093,3825,Eye of the Watchers,,Boots of Mobility,Total Biscuit of Rejuvenation,Control Ward,,6446,2968,Lane.bot_lane,Role.support
+8,Feitan,Ahri,False,Side.red,3,7,2,0.7142857142857143,112,Ignite,Flash,11,False,6831,6135,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,Doran's Ring,,Needlessly Large Rod,29025,8098,Lane.jungle,Role.none
+9,07scaping,Rengar,False,Side.red,0,6,2,0.3333333333333333,109,Smite,Flash,11,False,6225,5900,Enchantment: Warrior,Refillable Potion,Control Ward,Chain Vest,Ninja Tabi,Giant's Belt,7511,73644,Lane.jungle,Role.none

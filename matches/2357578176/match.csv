@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gorhunter,Nunu,True,Side.blue,2,2,16,9.0,72,Smite,Flash,11,False,8503,8575,Enchantment: Runic Echoes,Refillable Potion,Sunfire Cape,Mercury's Treads,Catalyst of Aeons,,26028,23654,Lane.jungle,Role.none
+1,Sebi,Jayce,True,Side.blue,11,5,6,3.4,112,Flash,Teleport,12,True,11019,10725,Maw of Malmortius,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,,,9851,85961,Lane.top_lane,Role.solo
+2,Asyc xD ,Vayne,True,Side.blue,2,4,4,1.5,103,Heal,Flash,10,False,7378,6125,Doran's Blade,Statikk Shiv,Pickaxe,Cull,B. F. Sword,Boots of Speed,7831,35641,Lane.bot_lane,Role.carry
+3,CraacK,Vel'Koz,True,Side.blue,12,3,5,5.666666666666667,160,Flash,Heal,13,False,11590,10200,Ionian Boots of Lucidity,Needlessly Large Rod,Luden's Echo,Morellonomicon,Giant's Belt,Doran's Ring,86509,11005,Lane.mid_lane,Role.solo
+4,aphromoo,Morgana,True,Side.blue,3,4,10,3.25,6,Ignite,Flash,9,False,7310,6335,Eye of the Watchers,Redemption,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,Amplifying Tome,7866,4351,Lane.bot_lane,Role.support
+5,Apdo dogjj,Pantheon,False,Side.red,2,6,7,1.5,33,Flash,Ignite,10,False,5823,5050,Relic Shield,Edge of Night,Boots of Speed,Sightstone,Long Sword,,3488,20522,Lane.bot_lane,Role.support
+6,bvcx222,Malzahar,False,Side.red,3,3,4,2.3333333333333335,182,Flash,Ghost,13,False,8323,6775,Health Potion,Needlessly Large Rod,Doran's Ring,Blasting Wand,Morellonomicon,Sorcerer's Shoes,81673,23447,Lane.mid_lane,Role.solo
+7,Kurumz,Quinn,False,Side.red,5,9,3,0.8888888888888888,113,Teleport,Flash,11,False,7602,7225,Doran's Blade,Zeal,Youmuu's Ghostblade,Berserker's Greaves,Kircheis Shard,Long Sword,1170,58240,Lane.top_lane,Role.solo
+8,Shamoo,Amumu,False,Side.red,4,7,4,1.1428571428571428,65,Flash,Smite,11,False,6935,5975,Enchantment: Runic Echoes,Boots of Speed,Sunfire Cape,,,Refillable Potion,55287,12562,Lane.jungle,Role.none
+9,Yellow Turd,Lucian,False,Side.red,4,5,5,1.8,113,Heal,Flash,10,False,7083,6830,Doran's Blade,Essence Reaver,Cull,Boots of Speed,Zeal,Dagger,1532,49406,Lane.bot_lane,Role.carry

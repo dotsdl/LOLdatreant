@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,excuter,Twitch,True,Side.blue,1,2,5,3.0,135,Heal,Flash,10,False,7250,7350,Doran's Blade,B. F. Sword,Zeal,Berserker's Greaves,Runaan's Hurricane,,0,46042,Lane.bot_lane,Role.carry
+1,Rule Bage,Ryze,True,Side.blue,7,0,2,9.0,176,Ghost,Flash,13,True,9890,9525,Ionian Boots of Lucidity,,Seraph's Embrace,Morellonomicon,Mejai's Soulstealer,Blasting Wand,109514,8585,Lane.mid_lane,Role.solo
+2,Nykolas,Thresh,True,Side.blue,0,0,5,5.0,22,Exhaust,Flash,9,False,4874,3725,Control Ward,Targon's Brace,Sightstone,Kindlegem,Boots of Mobility,,8369,4532,Lane.bot_lane,Role.support
+3,always ham,Swain,True,Side.blue,4,0,1,5.0,132,Teleport,Flash,12,False,7763,6085,Doran's Ring,Rod of Ages,Refillable Potion,Ninja Tabi,Seeker's Armguard,Amplifying Tome,52721,16753,Lane.top_lane,Role.solo
+4,MaskedZero,Nocturne,True,Side.blue,3,0,5,8.0,121,Smite,Flash,12,False,8660,7975,Enchantment: Cinderhulk,Refillable Potion,Titanic Hydra,Ionian Boots of Lucidity,Ruby Crystal,Ruby Crystal,12508,91080,Lane.jungle,Role.none
+5,lSlepoYl,Viktor,False,Side.red,0,4,0,0.0,116,Ghost,Flash,11,False,5457,5070,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Negatron Cloak,Doran's Ring,Doran's Ring,The Hex Core mk-2,50854,7815,Lane.mid_lane,Role.solo
+6,Lose,Soraka,False,Side.red,0,1,1,1.0,7,Flash,Exhaust,8,False,4138,3750,Sightstone,Nomad's Medallion,Forbidden Idol,Boots of Speed,Ruby Crystal,Control Ward,5330,2941,Lane.bot_lane,Role.support
+7,swordstoo,Vayne,False,Side.red,1,4,0,0.25,148,Heal,Flash,10,False,6154,6175,Doran's Blade,Infinity Edge,Kircheis Shard,Dagger,Dagger,Boots of Speed,0,51149,Lane.bot_lane,Role.carry
+8,Sekune,Vi,False,Side.red,0,3,1,0.3333333333333333,112,Smite,Flash,12,False,6317,6150,Enchantment: Warrior,Health Potion,Hexdrinker,Mercury's Treads,Ruby Crystal,Long Sword,1704,102257,Lane.jungle,Role.none
+9,Saucy Sells,Yorick,False,Side.red,1,3,0,0.3333333333333333,137,Teleport,Ghost,12,False,6227,5750,Mercury's Treads,Corrupting Potion,Spirit Visage,Sheen,Cloth Armor,,9186,57389,Lane.top_lane,Role.solo

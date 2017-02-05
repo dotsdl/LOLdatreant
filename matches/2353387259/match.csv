@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Titan,Wukong,False,Side.blue,4,5,2,1.2,177,Flash,Ignite,13,False,8462,7750,Corrupting Potion,The Black Cleaver,Ravenous Hydra,Boots of Speed,Long Sword,,1942,90177,Lane.mid_lane,Role.solo
+1,Jess pls,Karma,False,Side.blue,1,6,2,0.5,10,Exhaust,Flash,9,True,5087,4335,Frost Queen's Claim,Boots of Mobility,Ruby Crystal,Amplifying Tome,,,18059,2097,Lane.bot_lane,Role.support
+2,punchypanic,Nunu,False,Side.blue,2,4,0,0.5,94,Smite,Flash,11,False,6167,6950,Enchantment: Cinderhulk,Refillable Potion,Boots of Mobility,Giant's Belt,Chain Vest,,18477,19682,Lane.jungle,Role.none
+3,Delskii,Ezreal,False,Side.blue,2,5,3,1.0,135,Heal,Flash,11,False,7085,6600,Doran's Blade,Ionian Boots of Lucidity,Phage,Sheen,Dagger,Manamune,8329,47759,Lane.bot_lane,Role.carry
+4,Bealz,Nautilus,False,Side.blue,0,7,2,0.2857142857142857,114,Teleport,Flash,11,False,6103,5575,Sunfire Cape,Corrupting Potion,,Spectre's Cowl,,Ionian Boots of Lucidity,40723,18257,Lane.top_lane,Role.solo
+5,DiaoZhaDay,Fizz,True,Side.red,11,2,5,8.0,83,Flash,Smite,13,False,10446,8825,Glacial Shroud,Refillable Potion,Sheen,Sunfire Cape,Enchantment: Runic Echoes,Mercury's Treads,53840,30996,Lane.jungle,Role.none
+6,BooOO1111,Poppy,True,Side.red,7,2,11,9.0,131,Teleport,Flash,15,False,10667,9600,Corrupting Potion,,Guardian Angel,Sunfire Cape,Mercury's Treads,Iceborn Gauntlet,26362,77398,Lane.top_lane,Role.solo
+7,Asa,Vayne,True,Side.red,5,2,6,5.5,199,Flash,Heal,14,False,11433,8600,Doran's Blade,Infinity Edge,Cull,Statikk Shiv,Berserker's Greaves,Long Sword,25638,94935,Lane.bot_lane,Role.carry
+8,sydnie,Bard,True,Side.red,1,2,14,7.5,7,Flash,Exhaust,12,False,7530,5925,Redemption,Sightstone,Ionian Boots of Lucidity,Spellthief's Edge,Aegis of the Legion,Control Ward,9326,6043,Lane.bot_lane,Role.support
+9,mingu1226,Anivia,True,Side.red,3,1,1,4.0,145,Teleport,Flash,13,False,8832,7900,Archangel's Staff,Refillable Potion,The Dark Seal,Sorcerer's Shoes,,Rod of Ages,75986,10083,Lane.jungle,Role.none

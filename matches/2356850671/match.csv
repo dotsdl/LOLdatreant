@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pallet,Jinx,False,Side.blue,1,6,4,0.8333333333333334,102,Heal,Flash,11,False,5961,6000,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,,,590,41771,Lane.bot_lane,Role.carry
+1,Sharkeshia Hoshi,Zac,False,Side.blue,4,4,1,1.25,120,Smite,Flash,12,False,7449,6850,Enchantment: Cinderhulk,Hextech Protobelt-01,Refillable Potion,Ninja Tabi,Ruby Crystal,,73991,16036,Lane.jungle,Role.none
+2,Flipmajor,Pantheon,False,Side.blue,5,5,2,1.4,71,Ignite,Flash,11,False,6103,5550,Doran's Ring,Lich Bane,Ionian Boots of Lucidity,Aether Wisp,,,15157,17916,Lane.top_lane,Role.solo
+3,Vaellrin,Ziggs,False,Side.blue,1,4,3,1.0,156,Flash,Teleport,12,False,6902,5610,Doran's Ring,Morellonomicon,Boots of Speed,Amplifying Tome,Needlessly Large Rod,,75641,5458,Lane.mid_lane,Role.solo
+4,P town Kid,Karma,False,Side.blue,0,4,1,0.25,28,Exhaust,Flash,9,False,4838,4325,Redemption,Ruby Crystal,Control Ward,,Frostfang,Boots of Speed,17265,4884,Lane.bot_lane,Role.support
+5,sengahhj,Cassiopeia,True,Side.red,4,2,4,4.0,171,Flash,Ghost,13,False,8919,7650,Morellonomicon,Tear of the Goddess,Rylai's Crystal Scepter,,,Doran's Ring,73370,6109,Lane.mid_lane,Role.solo
+6,Fastlich,Janna,True,Side.red,2,1,13,15.0,5,Flash,Exhaust,11,False,7281,5175,Ionian Boots of Lucidity,Redemption,Cloth Armor,Nomad's Medallion,,Sightstone,2837,7385,Lane.bot_lane,Role.support
+7,Rugg,Jarvan IV,True,Side.red,4,4,4,2.0,167,Flash,Teleport,13,False,9421,8125,Mercury's Treads,Locket of the Iron Solari,Titanic Hydra,Corrupting Potion,Ruby Crystal,Long Sword,2164,91180,Lane.top_lane,Role.solo
+8,ajmara2,Rengar,True,Side.red,7,4,5,3.0,126,Smite,Flash,12,True,9362,7950,The Black Cleaver,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Warrior,Serrated Dirk,,7164,102413,Lane.jungle,Role.none
+9,TRUMPSSMALLHANDS,Ezreal,True,Side.red,6,0,9,15.0,175,Flash,Heal,12,False,10277,7883,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,Sapphire Crystal,,8644,96245,Lane.bot_lane,Role.carry

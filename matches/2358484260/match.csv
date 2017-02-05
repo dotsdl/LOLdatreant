@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kinnie,Gangplank,True,Side.blue,4,3,4,2.6666666666666665,209,Flash,Teleport,15,False,12397,9883,Trinity Force,Infinity Edge,Zeal,Refillable Potion,Ninja Tabi,,6064,175738,Lane.top_lane,Role.solo
+1,Cerathe,Ezreal,True,Side.blue,12,3,7,6.333333333333333,176,Flash,Heal,14,False,13210,9975,Blade of the Ruined King,,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,Doran's Blade,14237,100989,Lane.bot_lane,Role.carry
+2,Gotta Go Fayst,Veigar,True,Side.blue,5,5,7,2.4,170,Teleport,Flash,15,False,10906,7600,,Doran's Ring,Hextech GLP-800,Doran's Ring,Banshee's Veil,Sorcerer's Shoes,90140,11578,Lane.mid_lane,Role.solo
+3,DJ Yashi,Sejuani,True,Side.blue,4,2,13,8.5,128,Smite,Flash,14,True,10502,8525,Kindlegem,Refillable Potion,Hextech Revolver,Spirit Visage,Enchantment: Cinderhulk,Ninja Tabi,75170,29526,Lane.jungle,Role.none
+4,Braums Mustache,Braum,True,Side.blue,1,3,14,5.0,46,Flash,Exhaust,12,False,8399,6750,Boots of Swiftness,Sightstone,Face of the Mountain,Knight's Vow,,,10044,9227,Lane.bot_lane,Role.support
+5,Syndaar,Ziggs,False,Side.red,8,6,1,1.5,186,Barrier,Flash,14,False,10909,10600,Sorcerer's Shoes,Luden's Echo,Needlessly Large Rod,Morellonomicon,Blasting Wand,Doran's Ring,120533,11730,Lane.mid_lane,Role.solo
+6,Memories of CCC,Caitlyn,False,Side.red,3,6,5,1.3333333333333333,202,Flash,Heal,13,False,9796,9550,Doran's Blade,Zeal,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,397,101899,Lane.bot_lane,Role.carry
+7,Tangerinezz,Zilean,False,Side.red,0,5,6,1.2,15,Exhaust,Flash,11,False,6311,5850,Eye of the Watchers,Refillable Potion,Mikael's Crucible,Ionian Boots of Lucidity,,,15932,1661,Lane.bot_lane,Role.support
+8,DoubleArts,Gnar,False,Side.red,2,4,5,1.75,180,Teleport,Flash,14,False,8968,8350,Doran's Blade,Randuin's Omen,Null-Magic Mantle,Boots of Swiftness,Frozen Mallet,Long Sword,6405,81863,Lane.top_lane,Role.solo
+9,KaNKl,Rengar,False,Side.red,3,5,3,1.2,147,Smite,Flash,13,False,9300,8725,Enchantment: Warrior,Youmuu's Ghostblade,Tiamat,Ionian Boots of Lucidity,Null-Magic Mantle,Long Sword,7285,120293,Lane.jungle,Role.none

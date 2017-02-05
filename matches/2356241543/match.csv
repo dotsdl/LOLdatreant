@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Kha'Zix,True,Side.blue,15,2,9,12.0,84,Smite,Flash,15,False,13191,9050,Hexdrinker,Youmuu's Ghostblade,Refillable Potion,Boots of Mobility,Caulfield's Warhammer,Enchantment: Warrior,5021,120674,Lane.jungle,Role.none
+1,Bobby De Niro,Jinx,True,Side.blue,4,3,2,2.0,168,Heal,Flash,13,False,10152,9675,Doran's Blade,Long Sword,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,B. F. Sword,461,102075,Lane.bot_lane,Role.carry
+2,GreatNeeD,Cassiopeia,True,Side.blue,4,3,7,3.6666666666666665,147,Ghost,Flash,13,False,9969,8635,Doran's Ring,Tear of the Goddess,Amplifying Tome,Abyssal Scepter,Rylai's Crystal Scepter,Blasting Wand,59798,12777,Lane.mid_lane,Role.solo
+3,Jukein,Yorick,True,Side.blue,7,3,9,5.333333333333333,163,Teleport,Flash,15,False,11708,10225,Corrupting Potion,Spirit Visage,Mercury's Treads,Iceborn Gauntlet,Zz'Rot Portal,Long Sword,10978,89705,Lane.top_lane,Role.solo
+4,RIP Daniel,Bard,True,Side.blue,2,4,14,4.0,16,Flash,Exhaust,12,False,8947,8850,Frost Queen's Claim,Redemption,Locket of the Iron Solari,,Boots of Mobility,Sightstone,17064,4434,Lane.bot_lane,Role.support
+5,SanKanYo,Teemo,False,Side.red,4,8,0,0.5,172,Ignite,Flash,14,True,8909,7225,Doran's Ring,Hextech Gunblade,Stinger,Sorcerer's Shoes,Fiendish Codex,,59915,28647,Lane.top_lane,Role.solo
+6,xXMasterYeeXx,Vayne,False,Side.red,6,6,2,1.3333333333333333,199,Heal,Flash,13,False,10156,8625,Doran's Blade,Infinity Edge,,Statikk Shiv,,Berserker's Greaves,30279,67995,Lane.bot_lane,Role.carry
+7,Just Alex 26,Rek'Sai,False,Side.red,1,6,4,0.8333333333333334,111,Flash,Smite,13,False,7994,7375,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,,,13428,84760,Lane.jungle,Role.none
+8,Omidash,Syndra,False,Side.red,4,8,1,0.625,155,Ghost,Flash,13,False,8380,8450,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,Tear of the Goddess,,73122,9532,Lane.mid_lane,Role.solo
+9,Playmaker Oreo,Thresh,False,Side.red,0,4,8,2.0,26,Exhaust,Flash,10,False,6512,6175,Eye of the Equinox,Locket of the Iron Solari,Boots of Mobility,Cloth Armor,Ruby Crystal,,6612,3181,Lane.bot_lane,Role.support

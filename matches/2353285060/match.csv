@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,11037,Ezreal,True,Side.blue,2,4,7,2.25,244,Heal,Flash,15,False,12187,10625,,Muramana,Iceborn Gauntlet,Statikk Shiv,B. F. Sword,Ionian Boots of Lucidity,29198,104390,Lane.bot_lane,Role.carry
+1,CLG Darshawn,Fiora,True,Side.blue,9,4,3,3.0,304,Teleport,Flash,18,False,16245,15958,Ravenous Hydra,The Bloodthirster,Guardian Angel,,Ninja Tabi,Trinity Force,1507,210473,Lane.top_lane,Role.solo
+2,Betabet,Kha'Zix,True,Side.blue,8,9,3,1.2222222222222223,140,Flash,Smite,16,True,12835,12700,Ninja Tabi,Enchantment: Warrior,Maw of Malmortius,The Black Cleaver,Guardian Angel,,5235,159450,Lane.jungle,Role.none
+3,KillerUnit,Karma,True,Side.blue,1,6,9,1.6666666666666667,35,Exhaust,Flash,13,False,9493,9375,Ardent Censer,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Aether Wisp,Control Ward,20872,2446,Lane.bot_lane,Role.support
+4,Repfix,Cassiopeia,True,Side.blue,3,5,3,1.2,277,Ghost,Flash,15,False,12640,11600,Rylai's Crystal Scepter,Morellonomicon,Needlessly Large Rod,Tear of the Goddess,,Rod of Ages,154827,8247,Lane.mid_lane,Role.solo
+5,Br0main,Vi,False,Side.red,8,5,11,3.8,183,Flash,Smite,17,False,13915,13108,Enchantment: Warrior,Guardian Angel,Ninja Tabi,Trinity Force,Sterak's Gage,Ruby Crystal,1638,173419,Lane.jungle,Role.none
+6,Shinoa,Zyra,False,Side.red,2,4,14,4.0,17,Flash,Exhaust,14,False,10598,9725,Eye of the Watchers,,,Sorcerer's Shoes,Rylai's Crystal Scepter,Haunting Guise,23983,3492,Lane.bot_lane,Role.support
+7,Tsùki,Ryze,False,Side.red,12,1,8,20.0,251,Flash,Ghost,17,False,16092,15350,Void Staff,Rod of Ages,Needlessly Large Rod,Ionian Boots of Lucidity,Morellonomicon,Seraph's Embrace,209216,11081,Lane.mid_lane,Role.solo
+8,Calvingod,Caitlyn,False,Side.red,3,5,13,3.2,276,Heal,Flash,16,False,14259,13175,B. F. Sword,Vampiric Scepter,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,2664,183653,Lane.bot_lane,Role.carry
+9,Imentice,Jayce,False,Side.red,3,8,11,1.75,212,Teleport,Flash,16,False,12820,12075,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,Doran's Blade,The Bloodthirster,,21520,129127,Lane.top_lane,Role.solo

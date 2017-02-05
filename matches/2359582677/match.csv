@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,aphromoo,Nami,True,Side.blue,9,0,3,12.0,0,Exhaust,Flash,8,False,6140,4875,Spellthief's Edge,Ruby Crystal,Rabadon's Deathcap,,,,5389,7769,Lane.bot_lane,Role.duo
+1,Never Been,Caitlyn,True,Side.blue,1,0,11,12.0,79,Flash,Heal,9,False,5884,4700,Doran's Blade,Cull,Berserker's Greaves,Runaan's Hurricane,,,102,46602,Lane.bot_lane,Role.duo
+2,TSM MeNoHaxor,Nautilus,True,Side.blue,2,0,6,8.0,86,Teleport,Flash,9,False,5867,5175,Sunfire Cape,Control Ward,Mejai's Soulstealer,Boots of Speed,,Corrupting Potion,30851,14146,Lane.top_lane,Role.solo
+3,Repfix,Vladimir,True,Side.blue,3,3,5,2.6666666666666665,47,Ghost,Flash,8,True,5807,5100,Doran's Shield,Hextech Protobelt-01,Ionian Boots of Lucidity,Spectre's Cowl,,,28840,6159,Lane.mid_lane,Role.solo
+4,HvK LiquidDiego,Lee Sin,True,Side.blue,2,2,5,3.5,51,Flash,Smite,9,False,5799,5550,Boots of Mobility,Refillable Potion,Enchantment: Warrior,Chain Vest,Giant's Belt,Control Ward,5263,39647,Lane.jungle,Role.none
+5,Yanni Tsunami,Zed,False,Side.red,3,1,1,4.0,5,Smite,Flash,6,False,3139,2100,Hunter's Machete,Refillable Potion,Boots of Mobility,Long Sword,Long Sword,,613,4199,Lane.jungle,Role.none
+6,iKryptix,Ashe,False,Side.red,0,0,3,3.0,37,Flash,Heal,7,False,2919,2550,Doran's Blade,Cull,Boots of Swiftness,Dagger,Dagger,Total Biscuit of Rejuvenation,346,20080,Lane.bot_lane,Role.duo
+7,Happy Birfdizzay,Teemo,False,Side.red,0,3,0,0.0,28,Flash,Ignite,4,False,2611,1350,Boots of Speed,,,,Doran's Ring,Doran's Ring,5065,4545,Lane.jungle,Role.none
+8,FIoopie,Lucian,False,Side.red,1,9,0,0.1111111111111111,35,Flash,Teleport,6,False,2951,2650,Doran's Blade,Tear of the Goddess,Tear of the Goddess,Sapphire Crystal,Boots of Speed,,683,9249,Lane.jungle,Role.none
+9,Lesu,Braum,False,Side.red,1,4,3,1.0,23,Exhaust,Flash,8,False,3440,3175,Face of the Mountain,Refillable Potion,Null-Magic Mantle,Boots of Speed,,,5464,3724,Lane.bot_lane,Role.duo

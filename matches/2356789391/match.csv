@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sandman07,Brand,True,Side.blue,8,2,7,7.5,154,Flash,Ignite,13,False,10278,8000,Doran's Ring,Refillable Potion,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,68276,12175,Lane.mid_lane,Role.solo
+1,AchiIIes Heal,Ezreal,True,Side.blue,6,5,7,2.6,140,Flash,Heal,11,True,9872,9658,Trinity Force,Ionian Boots of Lucidity,Manamune,Doran's Blade,Cull,Bilgewater Cutlass,8518,67249,Lane.bot_lane,Role.carry
+2,superHOT,Malphite,True,Side.blue,4,1,2,6.0,142,Flash,Teleport,12,False,8720,6850,Corrupting Potion,Spirit Visage,Bami's Cinder,Sapphire Crystal,Ninja Tabi,Glacial Shroud,40912,29322,Lane.top_lane,Role.solo
+3,popgoestheglock,Rammus,True,Side.blue,5,2,8,6.5,90,Smite,Flash,11,False,8662,6375,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Thornmail,,,43984,29014,Lane.jungle,Role.none
+4,team tsm mid,Thresh,True,Side.blue,3,3,13,5.333333333333333,23,Flash,Ignite,10,False,6678,5600,Boots of Mobility,Eye of the Equinox,Locket of the Iron Solari,,,,8866,7340,Lane.bot_lane,Role.support
+5,ul7raz,Ryze,False,Side.red,1,6,4,0.8333333333333334,93,Ghost,Flash,11,False,5699,5005,Tear of the Goddess,Rod of Ages,,Negatron Cloak,Boots of Speed,,39354,7903,Lane.mid_lane,Role.solo
+6,BigPickle11,Soraka,False,Side.red,0,4,6,1.5,17,Flash,Exhaust,9,False,4647,3650,Sightstone,,Boots of Swiftness,Kindlegem,Cloth Armor,Ancient Coin,13205,2376,Lane.bot_lane,Role.support
+7,Nguyên,Vayne,False,Side.red,6,5,2,1.6,105,Heal,Flash,10,False,7313,5825,Statikk Shiv,Doran's Blade,Berserker's Greaves,Cull,Pickaxe,,2762,34448,Lane.bot_lane,Role.carry
+8,Scorp,Kha'Zix,False,Side.red,6,8,5,1.375,27,Smite,Flash,10,False,6797,6150,Enchantment: Warrior,Ionian Boots of Lucidity,Serrated Dirk,B. F. Sword,,,2950,44949,Lane.jungle,Role.none
+9,0 K A Y B O Y S,Rumble,False,Side.red,0,3,4,1.3333333333333333,188,Flash,Teleport,12,False,7507,6260,Doran's Shield,Health Potion,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,77224,12024,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Tank Man,Karma,False,Side.blue,0,8,12,1.5,9,Flash,Exhaust,13,False,8159,7625,Eye of the Watchers,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,,,14909,3745,Lane.bot_lane,Role.support
+1,amumumu,Amumu,False,Side.blue,11,8,5,2.0,124,Flash,Smite,15,False,12399,11695,Enchantment: Runic Echoes,Chain Vest,Frozen Heart,Rylai's Crystal Scepter,Negatron Cloak,Ninja Tabi,109361,29115,Lane.jungle,Role.none
+2,ZatsMod,Caitlyn,False,Side.blue,3,9,7,1.1111111111111112,179,Flash,Heal,13,False,10191,9450,Doran's Blade,Refillable Potion,Runaan's Hurricane,Berserker's Greaves,Zeal,Infinity Edge,694,114218,Lane.bot_lane,Role.carry
+3,RF Legendary,Nautilus,False,Side.blue,1,8,7,1.0,151,Flash,Teleport,14,False,9266,8400,Corrupting Potion,Sunfire Cape,Ninja Tabi,Zz'Rot Portal,Crystalline Bracer,Doran's Ring,69463,13954,Lane.top_lane,Role.solo
+4,Despotic,Orianna,False,Side.blue,10,4,6,4.0,230,Flash,Ghost,15,False,13036,12825,Needlessly Large Rod,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Blasting Wand,126830,16757,Lane.mid_lane,Role.solo
+5,Adrian Riven,Riven,True,Side.red,12,4,6,4.5,205,Teleport,Flash,16,True,13862,12700,The Black Cleaver,Ravenous Hydra,Quicksilver Sash,Lord Dominik's Regards,Ionian Boots of Lucidity,Long Sword,0,145675,Lane.top_lane,Role.solo
+6,top banh bao,Soraka,True,Side.red,3,8,20,2.875,27,Exhaust,Flash,13,False,10296,8650,Talisman of Ascension,Refillable Potion,Redemption,Ruby Sightstone,Spectre's Cowl,Ionian Boots of Lucidity,21501,5388,Lane.bot_lane,Role.support
+7,shy asf,Hecarim,True,Side.red,10,5,5,3.0,150,Ghost,Smite,15,False,12861,10733,Enchantment: Cinderhulk,Trinity Force,Spirit Visage,Hunter's Potion,Ninja Tabi,,27026,131832,Lane.jungle,Role.none
+8,L1MITAT1ONS,Syndra,True,Side.red,5,3,8,4.333333333333333,231,Ghost,Flash,16,False,12976,11385,Doran's Ring,Sorcerer's Shoes,Void Staff,Rylai's Crystal Scepter,Morellonomicon,Amplifying Tome,141633,10878,Lane.mid_lane,Role.solo
+9,Rokí,Sivir,True,Side.red,6,5,15,4.2,181,Flash,Heal,15,False,12721,11625,Infinity Edge,Phantom Dancer,Essence Reaver,Doran's Blade,,Berserker's Greaves,0,133030,Lane.bot_lane,Role.carry

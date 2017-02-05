@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xMainZx,Yasuo,False,Side.blue,4,7,2,0.8571428571428571,164,Teleport,Flash,14,False,8101,7485,Doran's Blade,B. F. Sword,Ninja Tabi,Phantom Dancer,Pickaxe,Cloak of Agility,10068,79307,Lane.top_lane,Role.solo
+1,UnbearableBear,Zac,False,Side.blue,5,7,1,0.8571428571428571,127,Smite,Flash,12,False,7712,7325,Enchantment: Cinderhulk,Ruby Crystal,Ionian Boots of Lucidity,Control Ward,Spirit Visage,Cloth Armor,65835,14746,Lane.jungle,Role.none
+2,Samplify,Orianna,False,Side.blue,1,7,2,0.42857142857142855,122,Ghost,Flash,11,False,6336,6275,Doran's Ring,Morellonomicon,Refillable Potion,Boots of Speed,Needlessly Large Rod,Giant's Belt,54384,6378,Lane.mid_lane,Role.solo
+3,ImFLaSh,Poppy,False,Side.blue,1,4,2,0.75,19,Exhaust,Flash,6,False,4948,2850,Sightstone,Refillable Potion,Targon's Brace,Boots of Swiftness,,,294,6491,Lane.bot_lane,Role.support
+4,A Little Jenny,Vayne,False,Side.blue,2,10,4,0.6,89,Ghost,Flash,10,False,6244,5450,Doran's Blade,Rapid Firecannon,Vampiric Scepter,Berserker's Greaves,Long Sword,,2365,29839,Lane.bot_lane,Role.carry
+5,WatchThePower,Rengar,True,Side.red,9,1,10,19.0,184,Flash,Smite,15,True,13322,11325,Enchantment: Warrior,Ravenous Hydra,Ninja Tabi,Refillable Potion,Death's Dance,Null-Magic Mantle,12338,178000,Lane.jungle,Role.none
+6,destroyed oops,Fizz,True,Side.red,7,4,3,2.5,136,Flash,Ignite,13,False,10279,6925,Doran's Ring,Lich Bane,Hextech Protobelt-01,,Boots of Speed,,55666,20586,Lane.mid_lane,Role.solo
+7,lm Aron,Ezreal,True,Side.red,13,2,4,8.5,135,Flash,Heal,13,False,12313,10450,Muramana,Iceborn Gauntlet,Blade of the Ruined King,Ionian Boots of Lucidity,Doran's Blade,Cull,8797,76349,Lane.bot_lane,Role.carry
+8,Neo Restoration,Trundle,True,Side.red,3,3,3,2.0,164,Teleport,Flash,14,False,9631,7425,Ravenous Hydra,Corrupting Potion,Ninja Tabi,Doran's Blade,Giant's Belt,Chain Vest,2219,97112,Lane.top_lane,Role.solo
+9,Its MitchyBoots,Thresh,True,Side.red,3,3,15,6.0,37,Flash,Exhaust,12,False,8551,6775,Relic Shield,Knight's Vow,Boots of Mobility,Sightstone,Glacial Shroud,Warden's Mail,13819,6934,Lane.bot_lane,Role.support

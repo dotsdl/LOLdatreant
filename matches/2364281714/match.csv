@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,laughin1,Lulu,False,Side.blue,2,9,5,0.7777777777777778,107,Teleport,Flash,12,True,6734,6100,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Needlessly Large Rod,,,38776,15622,Lane.top_lane,Role.solo
+1,MrSuperstar69,Rengar,False,Side.blue,8,8,2,1.25,118,Flash,Smite,12,False,8910,8800,Long Sword,Enchantment: Warrior,Duskblade of Draktharr,Ionian Boots of Lucidity,Serrated Dirk,Long Sword,6294,82430,Lane.jungle,Role.none
+2,HelixTurnHelix,Orianna,False,Side.blue,0,5,5,1.0,127,Flash,Exhaust,12,False,6800,6325,Doran's Ring,Seeker's Armguard,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,58255,9954,Lane.mid_lane,Role.solo
+3,buff me,Zyra,False,Side.blue,3,6,5,1.3333333333333333,29,Flash,Ignite,11,False,6727,6010,Eye of the Watchers,Giant's Belt,Boots of Mobility,Needlessly Large Rod,Amplifying Tome,,24349,3746,Lane.bot_lane,Role.support
+4,Ostry,Ezreal,False,Side.blue,2,2,5,3.5,195,Flash,Heal,13,False,8241,8150,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,Doran's Blade,Bilgewater Cutlass,,12141,79353,Lane.bot_lane,Role.carry
+5,OoR4s3Ng4N4rUtOo,Jhin,True,Side.red,0,0,9,9.0,224,Flash,Heal,14,False,10080,7750,Doran's Blade,Rapid Firecannon,Boots of Swiftness,,Essence Reaver,,13137,133361,Lane.bot_lane,Role.carry
+6,XidanesHatred,Sona,True,Side.red,1,4,16,4.25,5,Exhaust,Flash,11,False,7897,6425,Spellthief's Edge,Iceborn Gauntlet,Sightstone,Mercury's Treads,Forbidden Idol,Ruby Crystal,5541,6799,Lane.bot_lane,Role.support
+7,Best Trydyr Na,Talon,True,Side.red,19,2,5,12.0,187,Smite,Flash,16,False,16373,13775,Long Sword,Youmuu's Ghostblade,Edge of Night,Boots of Mobility,Enchantment: Warrior,Maw of Malmortius,5014,203094,Lane.jungle,Role.none
+8,CaliLegend,Irelia,True,Side.red,3,5,8,2.2,149,Flash,Teleport,13,False,9802,7733,Corrupting Potion,Trinity Force,Mercury's Treads,Hexdrinker,Caulfield's Warhammer,,1741,76896,Lane.top_lane,Role.solo
+9,Isaya,Yasuo,True,Side.red,7,5,3,2.0,201,Flash,Exhaust,14,False,10904,9125,Infinity Edge,Hexdrinker,Phantom Dancer,Mercury's Treads,,,25541,97352,Lane.mid_lane,Role.solo

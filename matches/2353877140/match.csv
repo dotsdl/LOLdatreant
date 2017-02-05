@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Past God,Nami,True,Side.blue,0,1,16,16.0,7,Ignite,Flash,11,False,8290,6525,Boots of Mobility,Control Ward,Redemption,Eye of the Watchers,Sapphire Crystal,Cloth Armor,6656,8647,Lane.bot_lane,Role.support
+1,always plan ahea,Sion,True,Side.blue,7,1,4,11.0,188,Flash,Ignite,14,False,10824,8800,Zhonya's Hourglass,Morellonomicon,Ionian Boots of Lucidity,Haunting Guise,,,93375,25935,Lane.mid_lane,Role.solo
+2,Ðrąven,Draven,True,Side.blue,7,0,10,17.0,184,Heal,Flash,13,True,13929,11525,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,The Bloodthirster,,1446,145371,Lane.bot_lane,Role.carry
+3,Little Groot,Lee Sin,True,Side.blue,4,4,6,2.5,110,Heal,Flash,12,False,9609,7750,Doran's Blade,Ravenous Hydra,Boots of Speed,Dead Man's Plate,,Health Potion,19801,87943,Lane.jungle,Role.none
+4,MegaChop,Teemo,True,Side.blue,4,3,2,2.0,173,Ghost,Flash,14,False,10312,8700,Doran's Ring,Refillable Potion,Banshee's Veil,Guinsoo's Rageblade,Blasting Wand,Mercury's Treads,59339,40487,Lane.top_lane,Role.solo
+5,AlexGao,Anivia,False,Side.red,1,1,1,2.0,162,Flash,Teleport,12,False,6992,6525,Zz'Rot Portal,,Rod of Ages,Tear of the Goddess,,,66632,8996,Lane.mid_lane,Role.solo
+6,gan n1 ma,Vi,False,Side.red,1,10,3,0.4,45,Smite,Flash,10,False,5724,4925,Enchantment: Warrior,Refillable Potion,Jaurim's Fist,Boots of Speed,Long Sword,Cloth Armor,1360,46969,Lane.jungle,Role.none
+7,Jhinathan ,Janna,False,Side.red,0,3,4,1.3333333333333333,5,Exhaust,Flash,9,False,4598,3925,Sightstone,Ancient Coin,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,Total Biscuit of Rejuvenation,3372,2564,Lane.bot_lane,Role.support
+8,Mini Frapp,Orianna,False,Side.red,4,6,4,1.3333333333333333,136,Teleport,Flash,13,False,7661,6180,Doran's Ring,Morellonomicon,Boots of Speed,Amplifying Tome,Negatron Cloak,Fiendish Codex,59753,11032,Lane.top_lane,Role.solo
+9,Samcian,Ashe,False,Side.red,2,2,3,2.5,172,Flash,Heal,12,False,7664,7325,Doran's Blade,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Pickaxe,Cloak of Agility,1253,88031,Lane.bot_lane,Role.carry

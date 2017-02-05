@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PredicateName,Ekko,True,Side.blue,5,5,15,4.0,159,Teleport,Flash,16,True,12038,11000,Sorcerer's Shoes,Hextech Protobelt-01,Zhonya's Hourglass,Corrupting Potion,,Lich Bane,113506,21121,Lane.top_lane,Role.solo
+1,Kazacan,Jhin,True,Side.blue,7,7,12,2.7142857142857144,201,Flash,Heal,14,False,13204,11650,Essence Reaver,Boots of Swiftness,Infinity Edge,Rapid Firecannon,Doran's Blade,,7139,116758,Lane.bot_lane,Role.carry
+2,Hanjaro,Volibear,True,Side.blue,1,4,13,3.5,41,Flash,Exhaust,13,False,8616,8375,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Refillable Potion,Boots of Swiftness,Control Ward,8643,19738,Lane.bot_lane,Role.support
+3,Magnetik,Zed,True,Side.blue,16,7,10,3.7142857142857144,193,Ignite,Flash,17,False,15229,14250,Blade of the Ruined King,Maw of Malmortius,The Black Cleaver,Lord Dominik's Regards,Long Sword,Boots of Swiftness,9032,130327,Lane.mid_lane,Role.solo
+4,IFapToYourSister,Vi,True,Side.blue,10,3,11,7.0,157,Smite,Flash,15,False,12918,12008,Enchantment: Warrior,Randuin's Omen,Mercury's Treads,Control Ward,Trinity Force,Jaurim's Fist,2068,153025,Lane.jungle,Role.none
+5,4lone,Lee Sin,False,Side.red,9,8,7,2.0,115,Smite,Flash,14,False,10890,10750,Enchantment: Warrior,Randuin's Omen,Tiamat,Dead Man's Plate,,Boots of Mobility,16107,92776,Lane.jungle,Role.none
+6,FREELO BOYZ,Ahri,False,Side.red,6,6,8,2.3333333333333335,156,Flash,Ignite,15,False,10795,9960,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,Doran's Ring,Amplifying Tome,Blasting Wand,58166,13004,Lane.top_lane,Role.solo
+7,BladedFive,Janna,False,Side.red,3,8,12,1.875,9,Exhaust,Flash,13,False,8977,7575,Eye of the Watchers,Redemption,,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,5250,5703,Lane.bot_lane,Role.support
+8,TheNuocMam,Morgana,False,Side.red,4,12,5,0.75,170,Ignite,Flash,14,False,11722,9950,Frost Queen's Claim,Zhonya's Hourglass,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Luden's Echo,83709,15764,Lane.mid_lane,Role.solo
+9,Gorica,Caitlyn,False,Side.red,4,5,6,2.0,215,Flash,Heal,14,False,11447,11410,Doran's Blade,Runaan's Hurricane,Guardian Angel,Infinity Edge,Berserker's Greaves,Brawler's Gloves,390,135305,Lane.bot_lane,Role.carry

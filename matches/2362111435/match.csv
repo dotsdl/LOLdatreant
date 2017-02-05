@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CallMeGizmo,Lux,False,Side.blue,0,7,1,0.14285714285714285,5,Exhaust,Flash,7,False,3917,2350,Frostfang,The Dark Seal,,,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,8564,2599,Lane.bot_lane,Role.support
+1,Zoolouie,Vel'Koz,False,Side.blue,3,6,0,0.5,109,Ghost,Flash,10,False,5867,5675,Doran's Ring,Morellonomicon,Needlessly Large Rod,Ionian Boots of Lucidity,,,35627,6709,Lane.mid_lane,Role.solo
+2,DankyIsToxic,Nasus,False,Side.blue,0,3,1,0.3333333333333333,99,Teleport,Flash,9,False,5113,4295,Doran's Ring,Doran's Ring,Raptor Cloak,Negatron Cloak,Sheen,Boots of Speed,32274,10996,Lane.top_lane,Role.solo
+3,TheNotoriousDFG,Zac,False,Side.blue,5,4,0,1.25,64,Flash,Smite,11,False,6197,7475,Redemption,Refillable Potion,Ionian Boots of Lucidity,Kindlegem,Fiendish Codex,,40068,13369,Lane.jungle,Role.none
+4,Aengy,Vayne,False,Side.blue,1,5,0,0.2,78,Heal,Flash,7,False,4906,4325,Doran's Blade,B. F. Sword,Berserker's Greaves,Cull,Pickaxe,,0,26221,Lane.bot_lane,Role.carry
+5,Oyay,Gangplank,True,Side.red,2,2,5,3.5,134,Flash,Teleport,12,True,8439,6633,Doran's Ring,Trinity Force,Caulfield's Warhammer,Cull,Null-Magic Mantle,Boots of Speed,8941,82533,Lane.top_lane,Role.solo
+6,iaMsaraK,Hecarim,True,Side.red,4,0,2,6.0,109,Ghost,Smite,11,False,7392,7133,Skirmisher's Sabre,Tiamat,Refillable Potion,Trinity Force,Boots of Swiftness,,7641,66171,Lane.jungle,Role.none
+7,Anthøny,Caitlyn,True,Side.red,7,3,1,2.6666666666666665,110,Heal,Flash,10,False,7940,6450,Doran's Blade,Runaan's Hurricane,Health Potion,Kircheis Shard,B. F. Sword,Berserker's Greaves,979,56691,Lane.bot_lane,Role.carry
+8,Hi im Thalies,Katarina,True,Side.red,12,3,2,4.666666666666667,124,Ignite,Flash,12,False,9418,9000,The Dark Seal,Rabadon's Deathcap,Sorcerer's Shoes,Hextech Gunblade,,,66969,7156,Lane.mid_lane,Role.solo
+9,kt Sofm,Blitzcrank,True,Side.red,0,1,8,8.0,22,Exhaust,Flash,9,False,4935,4550,Boots of Mobility,Total Biscuit of Rejuvenation,Targon's Brace,Ruby Sightstone,Kindlegem,,5703,5319,Lane.bot_lane,Role.support

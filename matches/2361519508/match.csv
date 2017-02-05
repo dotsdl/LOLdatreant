@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NQKEAIDJF,Vayne,True,Side.blue,5,3,0,1.6666666666666667,269,Heal,Flash,14,False,13335,11550,Doran's Blade,Infinity Edge,Berserker's Greaves,Sterak's Gage,Vampiric Scepter,Statikk Shiv,47949,127516,Lane.bot_lane,Role.carry
+1,RumbleMidGGnoRE,Brand,True,Side.blue,5,4,5,2.5,172,Ignite,Flash,15,False,11172,9275,Doran's Ring,Rylai's Crystal Scepter,Doran's Ring,Liandry's Torment,Ionian Boots of Lucidity,Fiendish Codex,94056,18141,Lane.mid_lane,Role.solo
+2,SoloMeatballOnly,Fiora,True,Side.blue,1,4,4,1.25,203,Exhaust,Flash,15,False,11168,9793,Doran's Blade,Trinity Force,Ravenous Hydra,Doran's Blade,Ninja Tabi,Cloth Armor,478,134592,Lane.top_lane,Role.solo
+3,Firé,Riven,True,Side.blue,7,3,4,3.6666666666666665,185,Smite,Flash,16,False,13055,10700,Refillable Potion,Ravenous Hydra,The Black Cleaver,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,1530,179148,Lane.jungle,Role.none
+4,KarasMai,Karma,True,Side.blue,1,1,12,13.0,21,Flash,Ignite,13,False,9239,7900,,Redemption,Locket of the Iron Solari,Eye of the Watchers,Boots of Mobility,,19346,9300,Lane.bot_lane,Role.support
+5,SamppA,Bard,False,Side.red,0,1,1,1.0,0,Flash,Exhaust,4,False,5272,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,848,1000,Lane.bot_lane,Role.support
+6,Morning of Owl,Kog'Maw,False,Side.red,3,4,2,1.25,241,Ghost,Flash,16,False,10257,9900,Doran's Ring,Seraph's Embrace,Rabadon's Deathcap,Doran's Ring,Mercury's Treads,Giant's Belt,142221,11070,Lane.mid_lane,Role.solo
+7,xFSN Saber,Twitch,False,Side.red,2,5,3,1.0,232,Heal,Flash,15,False,10290,9025,Doran's Blade,Blade of the Ruined King,B. F. Sword,,Berserker's Greaves,Runaan's Hurricane,72,118987,Lane.bot_lane,Role.carry
+8,Ayo Its Jango,Trundle,False,Side.red,4,4,5,2.25,198,Teleport,Flash,15,True,10624,9250,Ravenous Hydra,Corrupting Potion,Ninja Tabi,Giant's Belt,Iceborn Gauntlet,Cloth Armor,1798,128239,Lane.top_lane,Role.solo
+9,Saamy,Shaco,False,Side.red,6,5,3,1.8,154,Ignite,Smite,15,False,10484,10200,Enchantment: Warrior,Titanic Hydra,Control Ward,Statikk Shiv,,Berserker's Greaves,28301,104859,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Révenge,Riven,True,Side.blue,7,1,6,13.0,178,Teleport,Flash,16,True,12123,11275,B. F. Sword,Doran's Blade,The Black Cleaver,Death's Dance,Ninja Tabi,Serrated Dirk,0,135372,Lane.top_lane,Role.solo
+1,Prestivent,Lee Sin,True,Side.blue,11,5,8,3.8,105,Flash,Smite,14,False,12037,11100,Randuin's Omen,Tiamat,Ninja Tabi,Control Ward,Dead Man's Plate,Enchantment: Warrior,14092,95367,Lane.jungle,Role.none
+2,Max Waldo,Janna,True,Side.blue,1,1,12,13.0,3,Flash,Exhaust,13,False,8021,6825,Sightstone,Redemption,Talisman of Ascension,Control Ward,Refillable Potion,Ionian Boots of Lucidity,1857,6206,Lane.bot_lane,Role.support
+3,Rhux,Cassiopeia,True,Side.blue,7,1,5,12.0,229,Flash,Ghost,16,False,12408,10575,Morellonomicon,Doran's Ring,Seraph's Embrace,Rylai's Crystal Scepter,Cloth Armor,Cloth Armor,136989,15597,Lane.mid_lane,Role.solo
+4,Rikara,Vayne,True,Side.blue,4,4,4,2.0,208,Flash,Heal,13,False,10978,10250,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Vampiric Scepter,B. F. Sword,26799,84704,Lane.bot_lane,Role.carry
+5,Vladfire1 BG ,Gangplank,False,Side.red,1,5,5,1.2,194,Exhaust,Flash,14,False,9508,9158,Trinity Force,Refillable Potion,Infinity Edge,Zeal,Boots of Speed,,7327,123045,Lane.mid_lane,Role.solo
+6,Abou222,Jayce,False,Side.red,0,9,1,0.1111111111111111,185,Teleport,Flash,13,False,8209,7300,The Black Cleaver,Refillable Potion,Manamune,Ninja Tabi,Long Sword,,13239,67173,Lane.top_lane,Role.solo
+7,Dardøch,Rengar,False,Side.red,8,8,1,1.125,141,Smite,Flash,14,False,10064,9975,Enchantment: Warrior,Youmuu's Ghostblade,Edge of Night,Ionian Boots of Lucidity,,Refillable Potion,11415,119949,Lane.jungle,Role.none
+8,ApoIlo Price,Ezreal,False,Side.red,2,5,0,0.4,210,Flash,Heal,12,False,9058,8650,Doran's Blade,Manamune,Iceborn Gauntlet,Recurve Bow,Ionian Boots of Lucidity,Vampiric Scepter,7589,84464,Lane.bot_lane,Role.carry
+9,Turc,Karma,False,Side.red,0,3,5,1.6666666666666667,9,Exhaust,Flash,11,False,6134,5100,Frostfang,Redemption,Sightstone,,Ionian Boots of Lucidity,,13126,3742,Lane.bot_lane,Role.support

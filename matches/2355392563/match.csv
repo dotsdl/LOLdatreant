@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,stuntopia,Ezreal,True,Side.blue,3,4,9,3.0,179,Heal,Flash,14,False,10897,9400,Muramana,Bilgewater Cutlass,Doran's Blade,,Iceborn Gauntlet,Ionian Boots of Lucidity,17124,92996,Lane.bot_lane,Role.carry
+1,Riot Meekal,Karma,True,Side.blue,1,4,14,3.75,8,Flash,Ignite,12,False,7970,6725,Frostfang,Ionian Boots of Lucidity,Null-Magic Mantle,Cloth Armor,Ruby Sightstone,Redemption,11005,5883,Lane.bot_lane,Role.support
+2,Révenge,Ryze,True,Side.blue,12,3,8,6.666666666666667,166,Ghost,Flash,15,False,12713,10410,Seraph's Embrace,Ionian Boots of Lucidity,Zhonya's Hourglass,Rod of Ages,Amplifying Tome,,124610,12734,Lane.mid_lane,Role.solo
+3,Makavéli,Lee Sin,True,Side.blue,14,3,11,8.333333333333334,124,Smite,Flash,16,False,13202,11325,Enchantment: Warrior,The Black Cleaver,Sightstone,Boots of Swiftness,Guardian Angel,Tiamat,16824,119707,Lane.jungle,Role.none
+4,Allorim,Maokai,True,Side.blue,3,2,11,7.0,170,Flash,Teleport,15,False,10505,9775,Sunfire Cape,The Dark Seal,Ninja Tabi,Sheen,Spirit Visage,Glacial Shroud,101414,16234,Lane.top_lane,Role.solo
+5,Carrots2,Soraka,False,Side.red,2,5,9,2.2,25,Flash,Exhaust,11,False,8660,8635,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Locket of the Iron Solari,,Forbidden Idol,15436,5448,Lane.bot_lane,Role.support
+6,Alex Ich 1,Vladimir,False,Side.red,1,4,5,1.5,167,Flash,Ghost,13,False,9068,8560,Doran's Shield,Spirit Visage,Hextech Protobelt-01,Giant's Belt,Mercury's Treads,Amplifying Tome,68422,13744,Lane.mid_lane,Role.solo
+7,Maxtrobo,Fiora,False,Side.red,2,7,0,0.2857142857142857,207,Flash,Teleport,13,True,9604,8375,Doran's Blade,Ravenous Hydra,The Black Cleaver,Mercury's Treads,,,2245,119994,Lane.top_lane,Role.solo
+8,windking66,Rengar,False,Side.red,5,7,4,1.2857142857142858,140,Smite,Flash,13,False,10237,10025,Refillable Potion,Enchantment: Warrior,Duskblade of Draktharr,The Black Cleaver,,Ionian Boots of Lucidity,7382,122676,Lane.jungle,Role.none
+9,Toan Tran,Lucian,False,Side.red,6,10,5,1.1,185,Flash,Heal,13,False,11088,11100,Doran's Blade,Lord Dominik's Regards,Essence Reaver,Berserker's Greaves,Statikk Shiv,,13196,109886,Lane.bot_lane,Role.carry

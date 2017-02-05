@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kandiscrub,Vi,True,Side.blue,9,3,5,4.666666666666667,97,Smite,Flash,12,False,9886,9700,Enchantment: Warrior,Edge of Night,Maw of Malmortius,Boots of Speed,Long Sword,,1148,102321,Lane.jungle,Role.none
+1,TRUMPSSMALLHANDS,Ezreal,True,Side.blue,8,3,7,5.0,115,Flash,Heal,12,True,9890,9500,Doran's Blade,Hexdrinker,Ionian Boots of Lucidity,Caulfield's Warhammer,Manamune,Iceborn Gauntlet,8505,54179,Lane.bot_lane,Role.carry
+2,Unrealseal,Viktor,True,Side.blue,5,3,5,3.3333333333333335,168,Ghost,Flash,14,False,9579,6830,Ionian Boots of Lucidity,Amplifying Tome,Perfect Hex Core,Doran's Ring,Giant's Belt,Negatron Cloak,88623,12368,Lane.mid_lane,Role.solo
+3,TextualEditorXD,Gangplank,True,Side.blue,8,1,2,10.0,146,Teleport,Flash,14,False,10809,7233,Doran's Ring,Trinity Force,Cull,Ionian Boots of Lucidity,Hexdrinker,,5326,83025,Lane.top_lane,Role.solo
+4,Nillers,Bard,True,Side.blue,2,2,12,7.0,11,Exhaust,Flash,10,False,7265,6450,Sightstone,Frost Queen's Claim,Locket of the Iron Solari,Boots of Mobility,,,10227,3713,Lane.bot_lane,Role.support
+5,Oziemaster,Ahri,False,Side.red,2,6,2,0.6666666666666666,138,Ignite,Flash,11,False,6706,6020,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Negatron Cloak,Fiendish Codex,,34151,8866,Lane.mid_lane,Role.solo
+6,Teemo The Lion,Teemo,False,Side.red,4,6,0,0.6666666666666666,111,Ghost,Flash,11,False,6726,5975,Blade of the Ruined King,Refillable Potion,Ninja Tabi,Doran's Blade,Long Sword,Ruby Crystal,25199,30495,Lane.top_lane,Role.solo
+7,TheStoneBouncer,Soraka,False,Side.red,2,4,3,1.25,17,Flash,Exhaust,9,False,5763,5375,Frost Queen's Claim,Refillable Potion,Ruby Sightstone,Ionian Boots of Lucidity,Control Ward,,10883,2675,Lane.bot_lane,Role.support
+8,Softertaco,Jhin,False,Side.red,2,8,2,0.5,109,Flash,Heal,10,False,6460,6300,Doran's Blade,Essence Reaver,Boots of Swiftness,Zeal,,,1471,52336,Lane.bot_lane,Role.carry
+9,Testificate,Rumble,False,Side.red,2,8,6,1.0,74,Flash,Smite,10,False,6458,5025,Hunter's Talisman,Refillable Potion,Rylai's Crystal Scepter,Ninja Tabi,,Control Ward,48674,11400,Lane.jungle,Role.none

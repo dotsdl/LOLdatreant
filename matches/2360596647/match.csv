@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Whisper,Jhin,False,Side.blue,9,6,4,2.1666666666666665,163,Heal,Flash,11,False,10818,10425,Doran's Blade,B. F. Sword,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Pickaxe,2718,99874,Lane.bot_lane,Role.carry
+1,Regular Mid,Janna,False,Side.blue,1,5,13,2.8,6,Flash,Exhaust,11,False,7289,6850,Eye of the Oasis,Redemption,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,,3630,3742,Lane.bot_lane,Role.support
+2,JapaneseKoreanUG,Shyvana,False,Side.blue,1,8,10,1.375,140,Exhaust,Smite,13,False,8637,8100,Titanic Hydra,Null-Magic Mantle,Ruby Crystal,Enchantment: Bloodrazor,,Boots of Swiftness,54298,58328,Lane.jungle,Role.none
+3,Rhux,Twisted Fate,False,Side.blue,14,4,3,4.25,153,Flash,Ghost,15,False,12286,11275,Rod of Ages,Doran's Ring,Zhonya's Hourglass,Blasting Wand,Lich Bane,Ionian Boots of Lucidity,100455,13613,Lane.mid_lane,Role.solo
+4,Dont Remember,Fiora,False,Side.blue,2,7,3,0.7142857142857143,162,Flash,Teleport,13,False,8830,7475,Vampiric Scepter,Doran's Blade,Tiamat,The Black Cleaver,Doran's Blade,Ninja Tabi,551,65797,Lane.top_lane,Role.solo
+5,dog maple,Kalista,True,Side.red,3,8,8,1.375,188,Heal,Flash,13,False,10481,9700,Doran's Blade,Quicksilver Sash,Blade of the Ruined King,Runaan's Hurricane,Berserker's Greaves,Long Sword,830,90038,Lane.bot_lane,Role.carry
+6,Gahlin,Evelynn,True,Side.red,11,3,13,8.0,99,Flash,Smite,15,False,12372,11225,Hextech Protobelt-01,Rylai's Crystal Scepter,Hexdrinker,Enchantment: Runic Echoes,Cloth Armor,Ionian Boots of Lucidity,76963,41190,Lane.jungle,Role.none
+7,Adrian Riven,Riven,True,Side.red,9,5,3,2.4,204,Teleport,Flash,15,True,11764,10650,Youmuu's Ghostblade,The Black Cleaver,Duskblade of Draktharr,Ninja Tabi,Long Sword,,0,144759,Lane.top_lane,Role.solo
+8,Yellow Turd,Orianna,True,Side.red,6,6,8,2.3333333333333335,172,Ghost,Flash,14,False,10636,9050,Doran's Ring,Rod of Ages,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,,80909,13809,Lane.mid_lane,Role.solo
+9,0 1 1 2 3 ,Thresh,True,Side.red,1,5,15,3.2,27,Flash,Exhaust,13,False,7473,6550,,Face of the Mountain,Sightstone,Glacial Shroud,Warden's Mail,Boots of Mobility,9384,4121,Lane.bot_lane,Role.support

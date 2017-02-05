@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Space Penis,Brand,True,Side.blue,1,4,6,1.75,23,Flash,Exhaust,9,False,6439,5350,Spellthief's Edge,Morellonomicon,Boots of Mobility,Sightstone,,,17856,5287,Lane.bot_lane,Role.support
+1,STR Tyler1,Lee Sin,True,Side.blue,5,4,6,2.75,81,Smite,Flash,11,False,8836,8325,Tiamat,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Boots of Swiftness,Long Sword,12576,64714,Lane.jungle,Role.none
+2,im karthus alot,Graves,True,Side.blue,3,4,5,2.0,140,Ghost,Flash,12,False,9180,7850,Doran's Blade,Boots of Mobility,Runaan's Hurricane,Death's Dance,,,267,89919,Lane.mid_lane,Role.solo
+3,zT ace,Yasuo,True,Side.blue,10,1,1,11.0,171,Teleport,Flash,14,False,11414,10025,Doran's Blade,Phantom Dancer,Ninja Tabi,Infinity Edge,Vampiric Scepter,B. F. Sword,21826,81044,Lane.top_lane,Role.solo
+4,CreativeRook,Caitlyn,True,Side.blue,2,1,2,4.0,159,Flash,Heal,12,False,9002,5600,Doran's Blade,Infinity Edge,Total Biscuit of Rejuvenation,Dagger,Berserker's Greaves,,103,92301,Lane.bot_lane,Role.carry
+5,RNG Mlxgod,Lucian,False,Side.red,7,6,2,1.5,107,Heal,Flash,10,False,7222,7440,Essence Reaver,Doran's Blade,Zeal,Berserker's Greaves,Cull,,1181,49075,Lane.bot_lane,Role.carry
+6,Hyun,Vi,False,Side.red,3,6,7,1.6666666666666667,75,Smite,Flash,11,False,6480,5750,Enchantment: Warrior,Refillable Potion,Phage,Boots of Speed,Sheen,Dagger,808,62005,Lane.jungle,Role.none
+7,Urglord,Urgot,False,Side.red,2,4,1,0.75,79,Flash,Ignite,9,True,5219,3125,Tear of the Goddess,Refillable Potion,Ruby Crystal,Boots of Speed,Caulfield's Warhammer,Long Sword,882,30801,Lane.mid_lane,Role.solo
+8,Little Mimo,Viktor,False,Side.red,2,3,3,1.6666666666666667,110,Flash,Ghost,11,False,5963,5775,Perfect Hex Core,Needlessly Large Rod,Ionian Boots of Lucidity,,Control Ward,,39125,6478,Lane.top_lane,Role.solo
+9,KraKen Skeleton,Karma,False,Side.red,0,2,9,4.5,13,Flash,Exhaust,9,False,4608,4025,Refillable Potion,Sightstone,Boots of Mobility,Forbidden Idol,Crystalline Bracer,Spellthief's Edge,11492,2220,Lane.bot_lane,Role.support

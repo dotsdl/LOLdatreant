@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Griffin1795,LeBlanc,True,Side.blue,7,1,8,15.0,160,Flash,Teleport,14,False,11132,9700,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,The Dark Seal,Morellonomicon,Blasting Wand,78893,13469,Lane.mid_lane,Role.solo
+1,Distasteful,Caitlyn,True,Side.blue,6,4,6,3.0,177,Flash,Heal,12,False,11115,10400,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,,726,118850,Lane.bot_lane,Role.carry
+2,bvcx222,Bard,True,Side.blue,3,5,10,2.6,6,Flash,Ignite,10,True,7938,7200,Ruby Sightstone,Forbidden Idol,Locket of the Iron Solari,Crystalline Bracer,Spellthief's Edge,Boots of Mobility,8298,3284,Lane.bot_lane,Role.support
+3,DirtyMobs,Illaoi,True,Side.blue,7,2,1,4.0,232,Flash,Teleport,15,False,12622,12400,Death's Dance,The Black Cleaver,,Sterak's Gage,Guardian Angel,,190,170968,Lane.top_lane,Role.solo
+4,MrDING,Evelynn,True,Side.blue,6,4,4,2.5,128,Ignite,Smite,14,False,10642,8625,Hextech Protobelt-01,Giant's Belt,Sorcerer's Shoes,Enchantment: Runic Echoes,,Needlessly Large Rod,72209,40791,Lane.jungle,Role.none
+5,ELISE Ya Tried,Vayne,False,Side.red,0,7,4,0.5714285714285714,127,Heal,Flash,11,False,6446,5600,Total Biscuit of Rejuvenation,Doran's Blade,Phantom Dancer,Berserker's Greaves,B. F. Sword,,0,47692,Lane.bot_lane,Role.duo
+6,Hanjaro,Lux,False,Side.red,3,8,8,1.375,46,Flash,Exhaust,11,False,6967,6560,Eye of the Watchers,The Dark Seal,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,Needlessly Large Rod,32438,3796,Lane.bot_lane,Role.duo
+7,SquirreI,Shen,False,Side.red,4,6,2,1.0,133,Flash,Teleport,12,False,6945,6225,Doran's Shield,Sunfire Cape,Refillable Potion,Spectre's Cowl,Ninja Tabi,Cloth Armor,33191,16520,Lane.top_lane,Role.solo
+8,NaVi Juan,Aatrox,False,Side.red,5,4,4,2.25,75,Smite,Flash,11,False,7384,6525,Tiamat,Refillable Potion,Maw of Malmortius,Jaurim's Fist,Hunter's Machete,Boots of Speed,15653,56488,Lane.jungle,Role.none
+9,Command Attack,Viktor,False,Side.red,3,4,2,1.25,149,Barrier,Flash,12,False,7354,7075,The Hex Core mk-2,Doran's Ring,Zz'Rot Portal,Ionian Boots of Lucidity,Long Sword,,62359,8459,Lane.mid_lane,Role.solo

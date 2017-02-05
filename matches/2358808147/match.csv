@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pond,Vayne,True,Side.blue,5,4,2,1.75,122,Heal,Flash,10,False,8414,7425,Infinity Edge,Doran's Blade,Control Ward,Berserker's Greaves,Zeal,Kircheis Shard,243,48407,Lane.bot_lane,Role.duo
+1,Sheiden,Varus,True,Side.blue,2,1,7,9.0,160,Ghost,Flash,13,False,8856,6350,Corrupting Potion,Maw of Malmortius,Tear of the Goddess,Ionian Boots of Lucidity,Pickaxe,,4164,83333,Lane.mid_lane,Role.solo
+2,McCashDollar,Shaco,True,Side.blue,10,2,4,7.0,139,Teleport,Ignite,14,False,10226,8500,Lich Bane,Hextech Protobelt-01,The Dark Seal,Doran's Ring,Ionian Boots of Lucidity,Fiendish Codex,63828,20596,Lane.top_lane,Role.solo
+3,Silas Kroeger,Zac,True,Side.blue,8,3,9,5.666666666666667,105,Smite,Flash,13,False,9524,9075,Enchantment: Cinderhulk,Boots of Speed,Rylai's Crystal Scepter,Spirit Visage,Refillable Potion,,72217,16108,Lane.jungle,Role.none
+4,Pants are Dragon,Sion,True,Side.blue,3,4,10,3.25,52,Exhaust,Flash,11,True,7594,6450,Face of the Mountain,Redemption,Sightstone,Ionian Boots of Lucidity,Refillable Potion,,18927,16866,Lane.bot_lane,Role.duo
+5,daduu,Gragas,False,Side.red,3,3,5,2.6666666666666665,106,Smite,Flash,11,False,7569,7010,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Amplifying Tome,Dead Man's Plate,,61138,19927,Lane.jungle,Role.none
+6,Turc,Karma,False,Side.red,0,6,8,1.3333333333333333,9,Exhaust,Flash,9,False,5516,4200,Frostfang,,Sightstone,Forbidden Idol,Ionian Boots of Lucidity,Control Ward,12804,4752,Lane.bot_lane,Role.support
+7,Tsùki,Twitch,False,Side.red,4,7,2,0.8571428571428571,134,Flash,Heal,10,False,7492,7050,Doran's Blade,Infinity Edge,Control Ward,Berserker's Greaves,Zeal,Dagger,0,49660,Lane.bot_lane,Role.carry
+8,Entranced,Jax,False,Side.red,1,6,0,0.16666666666666666,140,Teleport,Flash,12,False,6594,5850,Doran's Blade,Corrupting Potion,Ninja Tabi,Phage,Hexdrinker,Stinger,14949,43094,Lane.top_lane,Role.solo
+9,Shrew,LeBlanc,False,Side.red,5,6,3,1.3333333333333333,117,Flash,Teleport,11,False,7565,6725,Doran's Ring,Morellonomicon,Doran's Ring,Ruby Crystal,Sorcerer's Shoes,Needlessly Large Rod,54787,11160,Lane.mid_lane,Role.solo

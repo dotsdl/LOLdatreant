@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Canuck Eh,Graves,True,Side.blue,7,5,8,3.0,109,Smite,Flash,13,False,10431,10350,Enchantment: Warrior,Long Sword,Death's Dance,Phantom Dancer,Berserker's Greaves,,2544,107017,Lane.jungle,Role.none
+1,ricenoodleXX,Twitch,True,Side.blue,7,5,15,4.4,135,Flash,Heal,13,False,11131,9300,Total Biscuit of Rejuvenation,Doran's Blade,Runaan's Hurricane,Zeal,Berserker's Greaves,Infinity Edge,0,76063,Lane.bot_lane,Role.carry
+2,LMQ Tc Alex,Thresh,True,Side.blue,4,5,16,4.0,26,Exhaust,Flash,11,False,8537,6900,Redemption,Refillable Potion,Face of the Mountain,Sightstone,Boots of Mobility,Null-Magic Mantle,11365,4979,Lane.bot_lane,Role.support
+3,You Funny,Malphite,True,Side.blue,4,2,10,7.0,126,Teleport,Flash,14,False,9049,7350,Doran's Shield,Corrupting Potion,Ninja Tabi,Glacial Shroud,Sunfire Cape,Jaurim's Fist,55472,28220,Lane.top_lane,Role.solo
+4,Diana or gg,Diana,True,Side.blue,14,2,3,8.5,202,Flash,Ignite,15,False,13531,12050,Doran's Ring,Hextech Gunblade,Sorcerer's Shoes,Rabadon's Deathcap,Rod of Ages,Doran's Ring,127689,22990,Lane.mid_lane,Role.solo
+5,Kristy,Braum,False,Side.red,2,6,7,1.5,27,Exhaust,Flash,10,False,6565,6525,Aegis of the Legion,,Mercury's Treads,Sightstone,,Knight's Vow,6671,4141,Lane.bot_lane,Role.support
+6,The Clark,Ezreal,False,Side.red,7,6,5,2.0,172,Flash,Heal,12,False,10358,10333,Doran's Blade,Manamune,Trinity Force,Ionian Boots of Lucidity,Giant Slayer,Last Whisper,15692,80379,Lane.bot_lane,Role.carry
+7,Åmber,Ahri,False,Side.red,1,7,8,1.2857142857142858,102,Ignite,Flash,11,False,6845,5950,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Aether Wisp,,34026,8450,Lane.mid_lane,Role.solo
+8,Yo1o,Lee Sin,False,Side.red,9,9,5,1.5555555555555556,86,Smite,Flash,12,True,9498,8825,Boots of Swiftness,Titanic Hydra,Enchantment: Warrior,Refillable Potion,Hexdrinker,Long Sword,12895,55658,Lane.jungle,Role.none
+9,Frocket,Irelia,False,Side.red,0,8,0,0.0,130,Teleport,Flash,11,False,6604,5858,Doran's Blade,Trinity Force,Ninja Tabi,,,Corrupting Potion,4934,50700,Lane.top_lane,Role.solo

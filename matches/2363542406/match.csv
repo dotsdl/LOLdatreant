@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tnerual70,Karma,True,Side.blue,5,3,20,8.333333333333334,16,Flash,Exhaust,14,False,10815,9575,Ruby Sightstone,Talisman of Ascension,Redemption,Athene's Unholy Grail,Boots of Swiftness,,13865,7937,Lane.bot_lane,Role.support
+1,CentralTime,Nidalee,True,Side.blue,7,7,20,3.857142857142857,116,Flash,Smite,15,False,12203,10125,Enchantment: Runic Echoes,Refillable Potion,Spectre's Cowl,Iceborn Gauntlet,Ionian Boots of Lucidity,Guardian Angel,105418,23120,Lane.jungle,Role.none
+2,DueyDaddy,Caitlyn,True,Side.blue,8,6,11,3.1666666666666665,173,Heal,Flash,14,True,12429,9575,Infinity Edge,Zeal,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,,636,133460,Lane.bot_lane,Role.carry
+3,Nasuuna,Lux,True,Side.blue,13,3,8,7.0,190,Teleport,Flash,16,False,13386,10975,Doran's Ring,Luden's Echo,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Void Staff,113565,19438,Lane.mid_lane,Role.solo
+4,Ruannn,Riven,True,Side.blue,8,5,7,3.0,192,Flash,Teleport,16,False,12646,10770,The Black Cleaver,Negatron Cloak,Tiamat,Death's Dance,Chain Vest,Mercury's Treads,0,135167,Lane.top_lane,Role.solo
+5,Funk Me Softly,Bard,False,Side.red,1,8,6,0.875,10,Flash,Ignite,10,False,7030,6225,Frost Queen's Claim,Sightstone,Aegis of the Legion,Control Ward,Boots of Mobility,Null-Magic Mantle,6200,1814,Lane.bot_lane,Role.support
+6,Samuraí,Syndra,False,Side.red,4,9,4,0.8888888888888888,170,Flash,Ignite,14,False,9426,8575,Corrupting Potion,Morellonomicon,Doran's Ring,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,105852,7928,Lane.mid_lane,Role.solo
+7,CaliLegend,Irelia,False,Side.red,6,9,1,0.7777777777777778,161,Flash,Teleport,14,False,9914,9833,Blade of the Ruined King,Trinity Force,Ninja Tabi,Serrated Dirk,,,1803,70863,Lane.top_lane,Role.solo
+8,TRUMPSSMALLHANDS,Vayne,False,Side.red,5,8,4,1.125,134,Flash,Heal,12,False,9269,9100,Doran's Blade,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Vampiric Scepter,Long Sword,2963,67209,Lane.bot_lane,Role.carry
+9,NEACE  Eeeee,Graves,False,Side.red,7,7,7,2.0,147,Flash,Smite,14,False,10992,10100,Enchantment: Warrior,Maw of Malmortius,Berserker's Greaves,Phantom Dancer,Long Sword,,3690,126521,Lane.jungle,Role.none

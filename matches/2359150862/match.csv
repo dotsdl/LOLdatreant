@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anniestyle,Annie,False,Side.blue,4,5,3,1.4,144,Flash,Teleport,13,False,8278,7975,Zhonya's Hourglass,Blasting Wand,Abyssal Scepter,The Dark Seal,Ionian Boots of Lucidity,,74325,7879,Lane.mid_lane,Role.solo
+1,SUPERJEREMYx07x,Ezreal,False,Side.blue,5,2,7,6.0,204,Flash,Heal,14,False,10458,10350,Bilgewater Cutlass,Iceborn Gauntlet,Recurve Bow,Ionian Boots of Lucidity,Muramana,Doran's Blade,15985,94698,Lane.bot_lane,Role.carry
+2,Snip3d0wn2,Vi,False,Side.blue,3,6,8,1.8333333333333333,90,Smite,Flash,13,False,7900,7833,Enchantment: Warrior,Ninja Tabi,Trinity Force,,,,769,76776,Lane.jungle,Role.none
+3,filayy lmao,Soraka,False,Side.blue,1,4,9,2.5,16,Flash,Exhaust,12,False,6808,6575,Talisman of Ascension,Redemption,Boots of Swiftness,,,Sightstone,13351,3659,Lane.bot_lane,Role.support
+4,Kulina,Nautilus,False,Side.blue,6,6,7,2.1666666666666665,154,Flash,Teleport,14,False,9312,8900,Ninja Tabi,Zz'Rot Portal,Randuin's Omen,Doran's Ring,Glacial Shroud,Cloth Armor,61996,22888,Lane.top_lane,Role.solo
+5,Evermay,Zyra,True,Side.red,3,4,7,2.5,27,Flash,Ignite,12,False,9407,7925,Frost Queen's Claim,Sightstone,Liandry's Torment,Sorcerer's Shoes,,,33818,7121,Lane.bot_lane,Role.support
+6,Zorlas,Tryndamere,True,Side.red,6,5,5,2.2,202,Ignite,Flash,15,True,12689,12700,Phantom Dancer,Blade of the Ruined King,Statikk Shiv,Boots of Swiftness,The Black Cleaver,,28832,137589,Lane.top_lane,Role.solo
+7,KitingYeezus,Rek'Sai,True,Side.red,7,4,7,3.5,177,Flash,Smite,16,False,12770,11575,Enchantment: Cinderhulk,Titanic Hydra,Frozen Mallet,Boots of Swiftness,Cloth Armor,Giant's Belt,29390,128753,Lane.jungle,Role.none
+8,Pac0 Sanchez,Varus,True,Side.red,2,3,3,1.6666666666666667,174,Flash,Heal,13,False,9601,8500,Doran's Blade,Youmuu's Ghostblade,B. F. Sword,Ionian Boots of Lucidity,Manamune,Long Sword,6506,83031,Lane.bot_lane,Role.carry
+9,PankyOG,Ahri,True,Side.red,5,3,3,2.6666666666666665,167,Flash,Ignite,14,False,10579,9575,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Doran's Ring,Fiendish Codex,Blasting Wand,50318,15123,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Daddygoesdeep,Nautilus,True,Side.blue,2,1,4,6.0,133,Flash,Teleport,12,True,7641,7425,Corrupting Potion,Control Ward,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,,54971,18337,Lane.top_lane,Role.solo
+1,Shockader,Ahri,True,Side.blue,4,0,5,9.0,146,Flash,Ignite,12,False,8325,6900,Refillable Potion,Hextech Protobelt-01,Morellonomicon,Boots of Speed,Doran's Ring,Doran's Ring,45901,13381,Lane.mid_lane,Role.solo
+2,Legend of Korra,Karma,True,Side.blue,1,0,9,10.0,13,Exhaust,Flash,9,False,6388,5525,Eye of the Watchers,Total Biscuit of Rejuvenation,Locket of the Iron Solari,Control Ward,Ruby Crystal,Boots of Speed,14843,5250,Lane.bot_lane,Role.support
+3,vicXD,Ezreal,True,Side.blue,4,0,6,10.0,139,Flash,Heal,10,False,8221,7158,Doran's Blade,Manamune,,Boots of Speed,Trinity Force,,7681,66595,Lane.bot_lane,Role.carry
+4,Blackjaxxx,Twitch,True,Side.blue,7,2,5,6.0,113,Flash,Smite,12,False,9309,7575,Pickaxe,Boots of Mobility,Runaan's Hurricane,Long Sword,Enchantment: Bloodrazor,,1653,91371,Lane.jungle,Role.none
+5,zT ace,Yasuo,False,Side.red,0,2,0,0.0,166,Teleport,Flash,12,False,6498,6300,Doran's Blade,Refillable Potion,Phantom Dancer,Mercury's Treads,Jaurim's Fist,Cloak of Agility,23369,57100,Lane.top_lane,Role.solo
+6,Poı,Hecarim,False,Side.red,1,5,0,0.2,116,Ghost,Smite,11,False,6172,5733,Skirmisher's Sabre,Refillable Potion,Boots of Speed,Control Ward,Ruby Crystal,Trinity Force,11107,73293,Lane.jungle,Role.none
+7,1deag,Nami,False,Side.red,0,3,3,1.0,3,Exhaust,Flash,8,False,4026,3425,Spellthief's Edge,Ruby Sightstone,Control Ward,Boots of Speed,Forbidden Idol,,2137,1930,Lane.bot_lane,Role.support
+8,BigQuestionMark,Vayne,False,Side.red,1,3,1,0.6666666666666666,107,Heal,Flash,9,False,5419,5100,Doran's Blade,Refillable Potion,B. F. Sword,Berserker's Greaves,Kircheis Shard,Zeal,1268,29686,Lane.bot_lane,Role.carry
+9,SirRosicky,Cassiopeia,False,Side.red,1,5,0,0.2,91,Ghost,Flash,9,False,4951,4395,Doran's Ring,Fiendish Codex,Tear of the Goddess,Doran's Ring,Lost Chapter,Negatron Cloak,19319,6042,Lane.mid_lane,Role.solo

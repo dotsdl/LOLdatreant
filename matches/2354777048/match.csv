@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nillers,Talon,True,Side.blue,0,0,0,0.0,15,Ghost,Flash,3,False,957,500,,Corrupting Potion,,,,,0,4897,Lane.mid_lane,Role.solo
+1,Symbo,Evelynn,True,Side.blue,1,0,0,1.0,5,Smite,Flash,3,True,1339,500,Hunter's Talisman,Refillable Potion,,,,,2418,2514,Lane.jungle,Role.none
+2,Rekyn,Jarvan IV,True,Side.blue,0,0,0,0.0,11,Flash,Teleport,2,False,858,500,Cloth Armor,,,,,,26,2657,Lane.top_lane,Role.solo
+3,lIIIlllllIIIllIl,Caitlyn,True,Side.blue,0,0,0,0.0,17,Flash,Heal,2,False,994,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,51,4319,Lane.bot_lane,Role.duo
+4,Captain Ziploc,Thresh,True,Side.blue,0,0,0,0.0,3,Ignite,Flash,2,False,746,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,304,522,Lane.bot_lane,Role.duo
+5,HugU in the wind,Jhin,False,Side.red,0,0,0,0.0,6,Flash,Heal,2,False,761,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,25,2642,Lane.bot_lane,Role.duo
+6,DouYuTV Georgezz,Alistar,False,Side.red,0,0,0,0.0,2,Flash,Ignite,2,False,715,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,117,122,Lane.bot_lane,Role.duo
+7,113,LeBlanc,False,Side.red,0,0,0,0.0,0,Ignite,Flash,1,False,653,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+8,Omarut,Lee Sin,False,Side.red,0,0,0,0.0,14,Teleport,Flash,3,False,918,500,Doran's Blade,,,,,,1434,3568,Lane.top_lane,Role.solo
+9,KitingYeezus,Ivern,False,Side.red,0,1,0,0.0,11,Flash,Smite,3,False,1065,500,Hunter's Talisman,Refillable Potion,,,,,45,75,Lane.mid_lane,Role.duo

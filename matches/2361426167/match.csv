@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zentar,Yorick,False,Side.blue,0,6,0,0.0,125,Flash,Teleport,11,False,5980,5533,Doran's Blade,Trinity Force,Mercury's Treads,,,,5838,50123,Lane.top_lane,Role.solo
+1,Part The Sea,Gangplank,False,Side.blue,1,2,1,1.0,157,Flash,Teleport,12,False,7230,7243,Refillable Potion,B. F. Sword,Ionian Boots of Lucidity,Trinity Force,Cloak of Agility,,4202,91422,Lane.mid_lane,Role.solo
+2,Dirty Dps,Shaco,False,Side.blue,2,8,0,0.25,78,Flash,Smite,10,False,5844,5750,Enchantment: Runic Echoes,Refillable Potion,Tiamat,Boots of Speed,Hextech Revolver,Long Sword,26108,44443,Lane.jungle,Role.none
+3,goompa,Caitlyn,False,Side.blue,0,5,1,0.2,163,Heal,Flash,11,False,6719,6600,Berserker's Greaves,Doran's Blade,Control Ward,B. F. Sword,Runaan's Hurricane,Pickaxe,192,84626,Lane.bot_lane,Role.carry
+4,Karmix,Karma,False,Side.blue,0,6,1,0.16666666666666666,15,Exhaust,Flash,8,False,5013,4725,Frost Queen's Claim,Boots of Speed,Forbidden Idol,Ruby Crystal,Sightstone,,18041,4151,Lane.bot_lane,Role.support
+5,EnVy Nien,Elise,True,Side.red,10,0,4,14.0,104,Flash,Smite,13,True,9770,6950,Enchantment: Runic Echoes,Refillable Potion,Control Ward,Rylai's Crystal Scepter,Boots of Mobility,,75308,24559,Lane.jungle,Role.none
+6,yungELEF,Quinn,True,Side.red,8,0,5,13.0,164,Ignite,Flash,13,False,10020,9525,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Statikk Shiv,Serrated Dirk,B. F. Sword,5307,97418,Lane.top_lane,Role.solo
+7,Notice Me AOA,Lux,True,Side.red,5,3,4,3.0,151,Flash,Heal,12,False,7975,5500,Doran's Ring,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Blasting Wand,,68864,15874,Lane.mid_lane,Role.solo
+8,q1w2e3r4t5y6u7i8,Ezreal,True,Side.red,4,0,4,8.0,173,Flash,Heal,13,False,8680,6075,Manamune,Phage,Boots of Speed,Sheen,Doran's Blade,Dagger,12338,84278,Lane.bot_lane,Role.carry
+9,ejzk,Janna,True,Side.red,0,0,6,6.0,10,Exhaust,Flash,10,False,5149,3850,Nomad's Medallion,Sightstone,Refillable Potion,Forbidden Idol,Crystalline Bracer,Boots of Speed,3084,2085,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,moon o,Lee Sin,False,Side.blue,4,7,6,1.4285714285714286,62,Ignite,Flash,9,False,6974,6355,Locket of the Iron Solari,Boots of Mobility,Rejuvenation Bead,Ruby Sightstone,Doran's Blade,Doran's Blade,5381,37722,Lane.bot_lane,Role.none
+1,hashinshin,Jax,False,Side.blue,0,6,1,0.16666666666666666,175,Ghost,Teleport,12,False,8287,8058,Corrupting Potion,Mercury's Treads,Trinity Force,Pickaxe,Recurve Bow,Blasting Wand,22893,68225,Lane.top_lane,Role.solo
+2,QuickRev,Maokai,False,Side.blue,2,5,6,1.6,45,Flash,Ignite,11,False,6484,5800,Targon's Brace,Boots of Mobility,Sightstone,Ruby Crystal,Frozen Heart,,26578,5386,Lane.bot_lane,Role.none
+3,Chody Walrus,Jhin,False,Side.blue,4,5,3,1.4,97,Flash,Heal,10,True,7502,6525,Doran's Blade,Essence Reaver,Boots of Swiftness,Refillable Potion,Zeal,,3158,57868,Lane.bot_lane,Role.none
+4,bobqinXD,Ryze,False,Side.blue,5,2,5,5.0,210,Flash,Ghost,14,False,10706,8625,Tear of the Goddess,Giant's Belt,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,129497,7165,Lane.mid_lane,Role.solo
+5,KiWiKiD,Braum,True,Side.red,1,2,9,5.0,31,Flash,Ignite,10,False,7300,6725,Eye of the Equinox,Giant's Belt,Spectre's Cowl,Boots of Mobility,Warden's Mail,Control Ward,4803,5078,Lane.bot_lane,Role.support
+6,Flexo,Viktor,True,Side.red,3,8,6,1.125,132,Ghost,Flash,12,False,8999,8285,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,Total Biscuit of Rejuvenation,61942,10196,Lane.mid_lane,Role.solo
+7,Rip Cig,Graves,True,Side.red,10,2,4,7.0,181,Flash,Smite,15,False,12954,11375,Enchantment: Warrior,Long Sword,Mercury's Treads,Statikk Shiv,Maw of Malmortius,B. F. Sword,19818,152883,Lane.jungle,Role.none
+8,SKY Fear,Twitch,True,Side.red,5,2,6,5.5,154,Flash,Heal,12,False,9743,9125,Recurve Bow,Berserker's Greaves,Infinity Edge,Doran's Blade,Runaan's Hurricane,,343,66152,Lane.bot_lane,Role.carry
+9,ApoIlo Price,Kennen,True,Side.red,6,1,7,13.0,163,Flash,Teleport,14,False,10499,8710,Hextech Protobelt-01,Doran's Blade,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,58265,31312,Lane.top_lane,Role.solo

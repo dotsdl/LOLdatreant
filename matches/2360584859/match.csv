@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JapaneseKoreanUG,Jayce,True,Side.blue,5,3,6,3.6666666666666665,169,Flash,Exhaust,14,False,10797,9100,Doran's Blade,Manamune,Phage,Long Sword,Mercury's Treads,Maw of Malmortius,10776,93080,Lane.mid_lane,Role.solo
+1,never lucky help,Vayne,True,Side.blue,9,3,6,5.0,171,Heal,Flash,14,False,12192,10060,Doran's Blade,Hexdrinker,Phantom Dancer,Infinity Edge,Doran's Blade,Berserker's Greaves,0,93376,Lane.bot_lane,Role.carry
+2,DirtyMobs,Brand,True,Side.blue,7,3,8,5.0,31,Flash,Ignite,12,False,10432,9100,Eye of the Watchers,,Rylai's Crystal Scepter,,Sorcerer's Shoes,Haunting Guise,35270,5458,Lane.bot_lane,Role.support
+3,Bwas,Graves,True,Side.blue,8,2,8,8.0,161,Flash,Smite,15,True,13082,11750,Enchantment: Warrior,Vampiric Scepter,Phantom Dancer,Maw of Malmortius,Berserker's Greaves,Caulfield's Warhammer,3504,168537,Lane.jungle,Role.none
+4,Darvec,Maokai,True,Side.blue,2,3,9,3.6666666666666665,162,Teleport,Flash,14,False,10711,10025,Corrupting Potion,Spectre's Cowl,Ionian Boots of Lucidity,Iceborn Gauntlet,Ruby Crystal,Sunfire Cape,85320,21064,Lane.top_lane,Role.solo
+5,dog maple,Ezreal,False,Side.red,0,6,3,0.5,214,Heal,Flash,12,False,8667,7433,Doran's Blade,Cull,Manamune,Trinity Force,Boots of Speed,,15207,86829,Lane.bot_lane,Role.carry
+6,OpenBackpack,Fiora,False,Side.red,2,8,5,0.875,129,Flash,Teleport,12,False,7885,6950,Mercury's Treads,The Black Cleaver,Tiamat,Long Sword,Doran's Blade,Doran's Blade,636,65639,Lane.top_lane,Role.solo
+7,I Bubble You,Janna,False,Side.red,0,8,5,0.625,8,Flash,Exhaust,10,False,5791,4850,Eye of the Oasis,Boots of Swiftness,Forbidden Idol,Crystalline Bracer,Total Biscuit of Rejuvenation,,6075,5353,Lane.bot_lane,Role.support
+8,Rhux,Cassiopeia,False,Side.red,3,4,4,1.75,167,Flash,Ghost,12,False,8318,7575,Refillable Potion,Doran's Ring,Morellonomicon,Tear of the Goddess,Rylai's Crystal Scepter,,76215,7825,Lane.mid_lane,Role.solo
+9,D0NG0,LeBlanc,False,Side.red,8,5,4,2.4,103,Smite,Flash,12,False,9081,8485,Enchantment: Runic Echoes,Refillable Potion,Fiendish Codex,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,78382,18570,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Juanfucius,Graves,True,Side.blue,6,4,7,3.25,173,Smite,Flash,15,False,12655,10200,The Bloodthirster,Phantom Dancer,Refillable Potion,,Enchantment: Warrior,Berserker's Greaves,4423,167539,Lane.jungle,Role.none
+1,Lesu,Vayne,True,Side.blue,7,8,7,1.75,222,Heal,Flash,15,False,13368,11450,Statikk Shiv,Blade of the Ruined King,Infinity Edge,Doran's Blade,Berserker's Greaves,,21250,122244,Lane.bot_lane,Role.carry
+2,Sheathix,Nautilus,True,Side.blue,4,6,10,2.3333333333333335,197,Flash,Teleport,16,False,11894,10750,Corrupting Potion,Spirit Visage,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Control Ward,96231,28503,Lane.top_lane,Role.solo
+3,Poı,Syndra,True,Side.blue,8,2,12,10.0,238,Flash,Ignite,16,False,13796,11750,Doran's Ring,Luden's Echo,Morellonomicon,Blasting Wand,Sorcerer's Shoes,Zhonya's Hourglass,157607,12665,Lane.mid_lane,Role.solo
+4,Vanquisherzs,Janna,True,Side.blue,1,4,21,5.5,23,Exhaust,Flash,14,False,10134,8325,Redemption,Boots of Mobility,Talisman of Ascension,Ruby Sightstone,Chalice of Harmony,Control Ward,5416,6113,Lane.bot_lane,Role.support
+5,hi im yongseo ,Riven,False,Side.red,5,6,5,1.6666666666666667,173,Flash,Teleport,15,False,10989,10450,Tiamat,Jaurim's Fist,Mercurial Scimitar,The Black Cleaver,Ionian Boots of Lucidity,,363,121548,Lane.top_lane,Role.solo
+6,EnVy Nien,Kha'Zix,False,Side.red,13,5,3,3.2,182,Flash,Smite,15,True,13681,13300,Tiamat,Guardian Angel,Enchantment: Warrior,Boots of Mobility,Duskblade of Draktharr,Lord Dominik's Regards,4511,150285,Lane.jungle,Role.none
+7,AD Nannies Pref,Jinx,False,Side.red,4,6,11,2.5,197,Heal,Flash,14,False,11969,10925,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Phantom Dancer,,Doran's Blade,3030,144473,Lane.bot_lane,Role.carry
+8,Espir III,Lulu,False,Side.red,0,1,11,11.0,206,Flash,Ghost,15,False,10703,9075,Doran's Ring,Needlessly Large Rod,Ionian Boots of Lucidity,Doran's Ring,Morellonomicon,Abyssal Scepter,114792,18253,Lane.mid_lane,Role.solo
+9,zinxao,Leona,False,Side.red,2,8,12,1.75,36,Exhaust,Flash,12,False,8526,7750,Righteous Glory,,Sightstone,Boots of Mobility,Relic Shield,Frozen Heart,6247,5969,Lane.bot_lane,Role.support

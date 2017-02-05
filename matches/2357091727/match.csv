@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Galdrick,Nautilus,False,Side.blue,1,9,4,0.5555555555555556,21,Flash,Ignite,9,False,4901,4200,Sightstone,Face of the Mountain,Control Ward,Boots of Mobility,,,15778,3657,Lane.bot_lane,Role.support
+1,IQ is 201 ,Lulu,False,Side.blue,1,5,1,0.4,69,Flash,Ignite,8,False,4815,2500,Doran's Ring,Doran's Ring,Doran's Ring,Boots of Speed,Fiendish Codex,,21523,5541,Lane.mid_lane,Role.solo
+2,The Family Beast,Hecarim,False,Side.blue,1,6,2,0.5,58,Ghost,Smite,9,False,5111,4925,Skirmisher's Sabre,Refillable Potion,Phage,Boots of Speed,Sheen,Stinger,7274,38067,Lane.jungle,Role.none
+3,crazyicon,Wukong,False,Side.blue,0,10,1,0.1,80,Ignite,Flash,10,False,4884,3700,Refillable Potion,The Black Cleaver,Boots of Speed,,,,2032,33122,Lane.top_lane,Role.solo
+4,ChampionXVI,Caitlyn,False,Side.blue,4,9,1,0.5555555555555556,109,Flash,Heal,10,False,6777,5625,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,,,519,45162,Lane.bot_lane,Role.carry
+5,NA Top Lane Xio,Quinn,True,Side.red,9,0,3,12.0,152,Teleport,Flash,13,True,10311,8500,Berserker's Greaves,Cull,Runaan's Hurricane,,Essence Reaver,Doran's Blade,311,96368,Lane.top_lane,Role.solo
+6,aePheva,Katarina,True,Side.red,11,2,8,9.5,112,Ignite,Flash,12,False,10120,9350,Mejai's Soulstealer,Hextech Gunblade,Sorcerer's Shoes,Rylai's Crystal Scepter,,,70444,10752,Lane.mid_lane,Role.solo
+7,RNG Mlxgod,Vayne,True,Side.red,4,4,7,2.75,101,Heal,Flash,11,False,7581,5550,Doran's Blade,,Statikk Shiv,B. F. Sword,Berserker's Greaves,,5035,47258,Lane.bot_lane,Role.carry
+8,Ouchxiao,Soraka,True,Side.red,1,1,14,15.0,16,Flash,Exhaust,10,False,6573,5300,Refillable Potion,Sightstone,Redemption,Frostfang,The Dark Seal,Boots of Swiftness,8020,5359,Lane.bot_lane,Role.support
+9,suga heibai,Lee Sin,True,Side.red,14,0,5,19.0,110,Flash,Smite,13,False,10725,10275,Ninja Tabi,Refillable Potion,Enchantment: Warrior,Duskblade of Draktharr,The Black Cleaver,Ruby Crystal,20689,91110,Lane.jungle,Role.none

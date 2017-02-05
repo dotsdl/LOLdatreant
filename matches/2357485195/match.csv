@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cesuna,Bard,False,Side.blue,2,6,5,1.1666666666666667,23,Flash,Exhaust,10,False,6172,5725,Redemption,Control Ward,Eye of the Watchers,Boots of Mobility,Refillable Potion,,8172,3859,Lane.bot_lane,Role.support
+1,MongolWarrior,Twitch,False,Side.blue,6,8,5,1.375,95,Heal,Flash,11,False,7465,6825,Doran's Blade,Cull,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Pickaxe,0,46037,Lane.bot_lane,Role.carry
+2,EnVy Nien,Karma,False,Side.blue,6,6,1,1.1666666666666667,95,Flash,Ignite,12,False,7312,6350,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,,41121,7822,Lane.mid_lane,Role.solo
+3,JaySo,Jarvan IV,False,Side.blue,2,5,9,2.2,58,Smite,Flash,11,False,6701,6300,Control Ward,Refillable Potion,Locket of the Iron Solari,Enchantment: Cinderhulk,Mercury's Treads,,13547,40702,Lane.jungle,Role.none
+4,Sheiden,Kennen,False,Side.blue,2,10,1,0.3,112,Teleport,Flash,10,True,6498,9235,Runaan's Hurricane,Boots of Mobility,,Zeal,,,37928,14915,Lane.top_lane,Role.solo
+5,Årcee,Irelia,True,Side.red,3,4,3,1.5,158,Teleport,Flash,13,False,8865,7158,Corrupting Potion,Doran's Shield,Trinity Force,Hexdrinker,Mercury's Treads,,1107,62275,Lane.top_lane,Role.solo
+6,Falco Mechanic,Caitlyn,True,Side.red,7,3,11,6.0,160,Exhaust,Flash,13,False,10174,8350,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Long Sword,,740,116772,Lane.bot_lane,Role.carry
+7,BeautifulCascade,Diana,True,Side.red,10,4,6,4.0,111,Flash,Smite,13,False,10574,8575,Enchantment: Runic Echoes,Rod of Ages,Sorcerer's Shoes,Stinger,Fiendish Codex,,78488,30530,Lane.jungle,Role.none
+8,Pht,Katarina,True,Side.red,15,4,0,3.75,168,Ignite,Flash,13,False,11765,11850,The Dark Seal,Hextech Gunblade,Rylai's Crystal Scepter,Sorcerer's Shoes,Luden's Echo,,92596,15210,Lane.mid_lane,Role.solo
+9,Swkeeee,Janna,True,Side.red,0,3,22,7.333333333333333,5,Heal,Flash,11,False,7855,5875,Forbidden Idol,Eye of the Watchers,Mikael's Crucible,Ruby Crystal,Rejuvenation Bead,,3366,5115,Lane.bot_lane,Role.support

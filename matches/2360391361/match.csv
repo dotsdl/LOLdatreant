@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KlvA,Thresh,True,Side.blue,1,1,16,17.0,24,Exhaust,Flash,10,False,7038,6750,Sightstone,Knight's Vow,Face of the Mountain,,,Boots of Mobility,9415,5043,Lane.bot_lane,Role.support
+1,rainflow,Ahri,True,Side.blue,5,2,6,5.5,123,Flash,Ignite,12,False,8709,8350,,Morellonomicon,Hextech Gunblade,Doran's Ring,Doran's Ring,Sorcerer's Shoes,35477,13069,Lane.mid_lane,Role.solo
+2,CC Panzer,Graves,True,Side.blue,3,1,3,6.0,146,Smite,Flash,12,True,8943,8025,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Berserker's Greaves,Caulfield's Warhammer,Long Sword,3657,112263,Lane.jungle,Role.none
+3,Malli,Kennen,True,Side.blue,3,1,4,7.0,139,Flash,Teleport,13,False,8347,5735,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Blade,Fiendish Codex,Amplifying Tome,42122,27942,Lane.top_lane,Role.solo
+4,Based Stevens,Draven,True,Side.blue,12,1,4,16.0,207,Heal,Flash,13,False,14715,14400,Youmuu's Ghostblade,Duskblade of Draktharr,Lord Dominik's Regards,Rapid Firecannon,B. F. Sword,Berserker's Greaves,0,132809,Lane.bot_lane,Role.carry
+5,Mob Psychoe 100,Lucian,False,Side.red,0,6,1,0.16666666666666666,159,Flash,Heal,11,False,6306,5850,Dagger,,Dagger,Essence Reaver,Berserker's Greaves,Doran's Blade,2929,70295,Lane.bot_lane,Role.carry
+6,Boolt,Braum,False,Side.red,1,6,2,0.5,22,Flash,Exhaust,10,False,4566,4175,Relic Shield,Boots of Mobility,Refillable Potion,Ruby Sightstone,Kindlegem,,4756,2973,Lane.bot_lane,Role.support
+7,SPOF,Cassiopeia,False,Side.red,0,4,3,0.75,99,Ghost,Flash,9,False,5279,4810,Refillable Potion,Morellonomicon,Amplifying Tome,,Tear of the Goddess,Doran's Ring,35971,5598,Lane.mid_lane,Role.solo
+8,Instinct 4 Life,Shaco,False,Side.red,1,5,1,0.4,59,Smite,Flash,10,False,5278,4475,Enchantment: Warrior,Tiamat,,Boots of Speed,,,9760,31646,Lane.jungle,Role.none
+9,Semoponume,Darius,False,Side.red,4,3,0,1.3333333333333333,154,Ghost,Flash,12,False,7274,6275,The Black Cleaver,Kindlegem,Chain Vest,Mercury's Treads,,,133,66735,Lane.top_lane,Role.solo

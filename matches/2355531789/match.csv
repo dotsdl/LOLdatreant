@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The White Glint,Lucian,False,Side.blue,2,7,4,0.8571428571428571,161,Flash,Heal,12,False,8708,8100,Doran's Blade,Cull,Kircheis Shard,Zeal,Essence Reaver,Berserker's Greaves,2437,80767,Lane.bot_lane,Role.carry
+1,Vicktorious,Darius,False,Side.blue,4,5,1,1.0,214,Flash,Ghost,14,False,9628,9375,Titanic Hydra,The Black Cleaver,Boots of Swiftness,Giant's Belt,Cloth Armor,,481,113394,Lane.top_lane,Role.solo
+2,TwistyJuker,Orianna,False,Side.blue,7,5,5,2.4,219,Flash,Barrier,14,False,11174,10850,Control Ward,Abyssal Scepter,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,108747,16819,Lane.mid_lane,Role.solo
+3,Lesu,Braum,False,Side.blue,1,4,8,2.25,48,Heal,Flash,11,False,7104,6675,Face of the Mountain,Sightstone,Locket of the Iron Solari,,,Ionian Boots of Lucidity,10231,8631,Lane.bot_lane,Role.support
+4,aaaaaaGAYaaaaaa,Jarvan IV,False,Side.blue,4,3,10,4.666666666666667,136,Smite,Flash,14,True,9570,8825,Titanic Hydra,Control Ward,Enchantment: Cinderhulk,Ninja Tabi,Cloth Armor,Giant's Belt,23474,83886,Lane.jungle,Role.none
+5,Keisero,Sona,True,Side.red,4,5,14,3.6,24,Flash,Exhaust,14,False,10965,8525,Seraph's Embrace,Ardent Censer,Eye of the Watchers,Blasting Wand,,,21661,9898,Lane.bot_lane,Role.support
+6,megapasta,Ahri,True,Side.red,5,3,8,4.333333333333333,173,Flash,Ignite,15,False,11488,9645,Doran's Ring,Sorcerer's Shoes,Luden's Echo,Fiendish Codex,Morellonomicon,Negatron Cloak,55289,13129,Lane.mid_lane,Role.solo
+7,xSojin,Shyvana,True,Side.red,2,2,5,3.5,167,Smite,Ghost,15,False,11329,10050,Ionian Boots of Lucidity,Refillable Potion,Blade of the Ruined King,Dead Man's Plate,,Enchantment: Bloodrazor,87063,96187,Lane.jungle,Role.none
+8,J D,Vayne,True,Side.red,9,3,6,5.0,214,Heal,Flash,15,False,13943,11275,Doran's Blade,Long Sword,Phantom Dancer,Infinity Edge,Statikk Shiv,Berserker's Greaves,36000,107630,Lane.bot_lane,Role.carry
+9,FK TOP,Nasus,True,Side.red,4,5,4,1.6,246,Teleport,Flash,15,False,12673,10683,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Trinity Force,Spirit Visage,Doran's Ring,85999,53331,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Garani,Rumble,True,Side.blue,7,1,14,21.0,165,Smite,Flash,15,False,12598,10300,Enchantment: Runic Echoes,Liandry's Torment,Abyssal Scepter,Ruby Crystal,Sorcerer's Shoes,,140662,25274,Lane.jungle,Role.none
+1,RockyTSaws,Ezreal,True,Side.blue,12,2,9,10.5,167,Heal,Flash,14,True,13368,10100,Doran's Blade,Blade of the Ruined King,,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,22766,104703,Lane.bot_lane,Role.carry
+2,Once A Savior,Nami,True,Side.blue,3,2,19,11.0,8,Flash,Exhaust,13,False,10095,7375,Frostfang,Boots of Mobility,Chalice of Harmony,Ruby Sightstone,Redemption,Forbidden Idol,7571,10413,Lane.bot_lane,Role.support
+3,bvcx222,Nasus,True,Side.blue,3,4,6,2.25,206,Flash,Teleport,15,False,11795,10518,Zz'Rot Portal,Trinity Force,Doran's Ring,Spectre's Cowl,Doran's Ring,Mercury's Treads,94748,54665,Lane.top_lane,Role.solo
+4,TheNuocMam,Lux,True,Side.blue,5,5,9,2.8,163,Heal,Flash,13,False,12131,12970,Frost Queen's Claim,Sorcerer's Shoes,Doran's Ring,Mejai's Soulstealer,Void Staff,Luden's Echo,77465,13353,Lane.mid_lane,Role.solo
+5,FrostWolve,Vayne,False,Side.red,2,7,1,0.42857142857142855,213,Heal,Flash,14,False,10278,9950,Infinity Edge,Statikk Shiv,Zeal,Berserker's Greaves,Cull,Doran's Blade,22344,79578,Lane.bot_lane,Role.carry
+6,SPACE JUNGLER X,Dr. Mundo,False,Side.red,1,4,3,1.0,146,Smite,Flash,14,False,8878,8550,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Giant's Belt,Chain Vest,Mercury's Treads,72857,50943,Lane.jungle,Role.none
+7,Alex Ich 1,Kennen,False,Side.red,9,8,0,1.125,178,Flash,Ghost,15,False,10580,10160,Abyssal Scepter,Sorcerer's Shoes,Hextech Protobelt-01,Void Staff,The Dark Seal,Amplifying Tome,76147,18262,Lane.mid_lane,Role.solo
+8,xXTashaXx,Zyra,False,Side.red,0,7,1,0.14285714285714285,28,Flash,Exhaust,10,False,6577,5810,Frost Queen's Claim,Sightstone,Control Ward,Boots of Mobility,Giant's Belt,Amplifying Tome,27071,2330,Lane.bot_lane,Role.support
+9,Freeze,Anivia,False,Side.red,2,4,2,1.0,210,Flash,Teleport,14,False,9292,8310,Doran's Ring,Rod of Ages,Seraph's Embrace,Sorcerer's Shoes,Amplifying Tome,,111919,11484,Lane.top_lane,Role.solo

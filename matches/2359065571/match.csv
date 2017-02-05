@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TQS Zuardian,Nocturne,True,Side.blue,9,2,2,5.5,151,Smite,Flash,13,False,9966,8225,Refillable Potion,,Youmuu's Ghostblade,Enchantment: Warrior,Mercury's Treads,Hexdrinker,3936,123320,Lane.jungle,Role.none
+1,Zoido,Karma,True,Side.blue,0,1,11,11.0,6,Exhaust,Flash,10,False,5897,5275,Frostfang,Redemption,Boots of Mobility,,,Sightstone,7483,4365,Lane.bot_lane,Role.support
+2,KuuO,LeBlanc,True,Side.blue,3,1,3,6.0,116,Teleport,Flash,12,False,7259,6150,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Fiendish Codex,Null-Magic Mantle,48916,7420,Lane.mid_lane,Role.solo
+3,HoNSol0,Maokai,True,Side.blue,1,0,1,2.0,186,Flash,Teleport,13,False,7545,6500,Doran's Ring,Sunfire Cape,Ninja Tabi,Glacial Shroud,Warden's Mail,,77581,15390,Lane.top_lane,Role.solo
+4,Distasteful,Ezreal,True,Side.blue,7,3,3,3.3333333333333335,162,Flash,Heal,11,True,9106,7933,Doran's Blade,Trinity Force,Manamune,Ionian Boots of Lucidity,Long Sword,,12095,83904,Lane.bot_lane,Role.carry
+5,The Rory Mercury,Evelynn,False,Side.red,0,5,2,0.4,97,Flash,Smite,11,False,5944,5575,Hextech Protobelt-01,Refillable Potion,Boots of Speed,Enchantment: Runic Echoes,,,45931,29702,Lane.jungle,Role.none
+6,BluedogSs,Trundle,False,Side.red,1,1,1,2.0,178,Teleport,Flash,13,False,6811,5650,Ravenous Hydra,Corrupting Potion,Ruby Crystal,Mercury's Treads,,,1380,89944,Lane.top_lane,Role.solo
+7,Nhacvan,Cassiopeia,False,Side.red,2,4,1,0.75,111,Cleanse,Flash,11,False,5779,5570,Tear of the Goddess,Negatron Cloak,Morellonomicon,Control Ward,Refillable Potion,Doran's Ring,38465,3793,Lane.mid_lane,Role.solo
+8,SF Niffou,Poppy,False,Side.red,1,6,3,0.6666666666666666,30,Exhaust,Flash,8,False,4861,4300,Eye of the Equinox,Total Biscuit of Rejuvenation,Ruby Crystal,Cloth Armor,,Boots of Mobility,468,10356,Lane.bot_lane,Role.support
+9,Raveydemon,Lucian,False,Side.red,3,4,1,1.0,141,Heal,Flash,10,False,6873,6000,Doran's Blade,Total Biscuit of Rejuvenation,Essence Reaver,Berserker's Greaves,Brawler's Gloves,,1887,58033,Lane.bot_lane,Role.carry

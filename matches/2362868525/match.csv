@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Maokai,True,Side.blue,3,4,15,4.5,168,Teleport,Flash,15,False,11463,11125,Guardian Angel,Zz'Rot Portal,Catalyst of Aeons,Sunfire Cape,,Boots of Swiftness,75001,22934,Lane.top_lane,Role.solo
+1,Sophist Sage,Ashe,True,Side.blue,7,6,12,3.1666666666666665,169,Heal,Flash,15,False,12933,11600,Doran's Blade,,Berserker's Greaves,Infinity Edge,The Bloodthirster,Runaan's Hurricane,2183,110107,Lane.bot_lane,Role.carry
+2,Hi Im A Sheep,Tahm Kench,True,Side.blue,6,7,18,3.4285714285714284,38,Flash,Exhaust,13,False,10322,9075,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Control Ward,Raptor Cloak,Boots of Swiftness,11998,6439,Lane.bot_lane,Role.support
+3,Orbìt,Viktor,True,Side.blue,12,5,12,4.8,156,Flash,Ghost,15,False,13397,12575,Doran's Ring,Recurve Bow,Lich Bane,Perfect Hex Core,Rylai's Crystal Scepter,Ionian Boots of Lucidity,122769,12798,Lane.mid_lane,Role.solo
+4,Daarr,Olaf,True,Side.blue,10,4,11,5.25,190,Ghost,Smite,16,True,14431,12900,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Chain Vest,Spirit Visage,Dead Man's Plate,Guardian Angel,28856,120147,Lane.jungle,Role.none
+5,Flaresz,Gnar,False,Side.red,2,9,4,0.6666666666666666,168,Flash,Teleport,14,False,9472,9175,Doran's Blade,The Black Cleaver,Spirit Visage,Mercury's Treads,Jaurim's Fist,,12853,92634,Lane.top_lane,Role.solo
+6,feud999,Lee Sin,False,Side.red,8,9,4,1.3333333333333333,121,Flash,Smite,14,False,10166,9750,Enchantment: Warrior,Randuin's Omen,Dead Man's Plate,Mercury's Treads,,,19987,86488,Lane.jungle,Role.none
+7,C9 Smoothie,Thresh,False,Side.red,2,5,16,3.6,19,Flash,Ignite,12,False,7605,6750,Control Ward,Ruby Sightstone,Redemption,Relic Shield,Boots of Mobility,Aegis of the Legion,8721,5783,Lane.bot_lane,Role.support
+8,Firé,Jhin,False,Side.red,9,8,7,2.0,158,Heal,Flash,14,False,11137,10710,Doran's Blade,Rapid Firecannon,Essence Reaver,Boots of Swiftness,B. F. Sword,Cloak of Agility,2795,99288,Lane.bot_lane,Role.carry
+9,godrjsdnd,Corki,False,Side.red,5,7,11,2.2857142857142856,218,Heal,Flash,15,False,11165,9858,Doran's Blade,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,Refillable Potion,Vampiric Scepter,110988,30319,Lane.mid_lane,Role.solo

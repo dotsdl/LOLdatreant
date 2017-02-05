@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WildTurtle,Thresh,True,Side.blue,3,1,9,12.0,28,Flash,Ignite,10,False,7505,6225,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Control Ward,Relic Shield,Crystalline Bracer,8006,6660,Lane.bot_lane,Role.support
+1,qldurtms,Volibear,True,Side.blue,3,1,6,9.0,84,Ghost,Smite,12,False,8002,6700,,Enchantment: Cinderhulk,,Boots of Swiftness,Dead Man's Plate,,18370,46921,Lane.jungle,Role.none
+2,greenléaf,Rumble,True,Side.blue,6,4,6,3.0,155,Teleport,Flash,14,False,9703,9175,Doran's Shield,Refillable Potion,Zhonya's Hourglass,Sorcerer's Shoes,Liandry's Torment,Needlessly Large Rod,79629,11157,Lane.top_lane,Role.solo
+3,IKingVex,Ezreal,True,Side.blue,7,2,5,6.0,181,Heal,Flash,12,True,10943,9483,Doran's Blade,Bilgewater Cutlass,Trinity Force,Muramana,Ionian Boots of Lucidity,Dagger,9264,99220,Lane.bot_lane,Role.carry
+4,Pekin Woof,Viktor,True,Side.blue,5,1,6,11.0,179,Flash,Cleanse,13,False,10455,8710,Perfect Hex Core,Amplifying Tome,Ionian Boots of Lucidity,Doran's Ring,Lich Bane,Doran's Ring,99839,14196,Lane.mid_lane,Role.solo
+5,One Called Saint,Twitch,False,Side.red,1,7,3,0.5714285714285714,140,Flash,Heal,11,False,7632,6800,Blade of the Ruined King,Cull,Doran's Blade,Berserker's Greaves,Zeal,,70,63628,Lane.bot_lane,Role.carry
+6,The Tank Man,Janna,False,Side.red,0,4,7,1.75,13,Flash,Exhaust,9,False,5582,4825,Eye of the Oasis,Faerie Charm,Boots of Mobility,Faerie Charm,Aegis of the Legion,Null-Magic Mantle,3397,2557,Lane.bot_lane,Role.support
+7,Avi,Olaf,False,Side.red,3,4,5,2.0,119,Smite,Ghost,12,False,8691,8525,The Black Cleaver,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Spectre's Cowl,Ruby Crystal,14402,103761,Lane.jungle,Role.none
+8,Allorim,Nautilus,False,Side.red,3,4,4,1.75,123,Flash,Teleport,11,False,7387,7325,The Dark Seal,Sunfire Cape,Spirit Visage,Corrupting Potion,Ruby Crystal,Boots of Speed,47248,13376,Lane.top_lane,Role.solo
+9,Delerium,Lissandra,False,Side.red,2,5,1,0.6,109,Teleport,Flash,11,False,6771,6585,Fiendish Codex,Lost Chapter,Amplifying Tome,Rod of Ages,Ionian Boots of Lucidity,Doran's Ring,49871,6653,Lane.mid_lane,Role.solo

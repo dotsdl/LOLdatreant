@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pocket Rhino,Thresh,False,Side.blue,0,8,13,1.625,29,Flash,Ignite,12,False,6870,6475,Control Ward,Mikael's Crucible,Ruby Sightstone,Relic Shield,Boots of Mobility,Kindlegem,9202,4004,Lane.bot_lane,Role.support
+1,fallenbandit,Karma,False,Side.blue,4,5,9,2.6,153,Flash,Teleport,15,False,9412,8825,Iceborn Gauntlet,Doran's Ring,Rod of Ages,Ninja Tabi,Spectre's Cowl,Ruby Crystal,65144,21997,Lane.top_lane,Role.solo
+2,IKingVex,Tristana,False,Side.blue,8,5,6,2.8,229,Heal,Flash,15,False,12063,11510,Doran's Blade,Rapid Firecannon,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Vampiric Scepter,25174,113845,Lane.bot_lane,Role.carry
+3,LimitedExtent,Cassiopeia,False,Side.blue,6,7,4,1.4285714285714286,149,Ghost,Flash,13,False,9789,9075,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,Doran's Ring,Tear of the Goddess,Needlessly Large Rod,85206,7620,Lane.mid_lane,Role.solo
+4,An Obese Panda,Zac,False,Side.blue,1,4,10,2.75,155,Smite,Flash,14,False,9073,8550,Enchantment: Cinderhulk,Spirit Visage,Warden's Mail,Ionian Boots of Lucidity,Giant's Belt,Control Ward,96760,14088,Lane.jungle,Role.none
+5,Cris,Yasuo,True,Side.red,11,3,4,5.0,263,Flash,Teleport,16,True,16234,13550,,Guardian Angel,Frozen Mallet,Mercury's Treads,Infinity Edge,Phantom Dancer,30189,196922,Lane.top_lane,Role.solo
+6,Contractz,Lee Sin,True,Side.red,8,6,7,2.5,129,Smite,Flash,15,False,12674,12225,Null-Magic Mantle,Enchantment: Warrior,The Black Cleaver,Banshee's Veil,Guardian Angel,Ionian Boots of Lucidity,22956,111706,Lane.jungle,Role.none
+7,Abou222,Janna,True,Side.red,0,1,24,24.0,5,Exhaust,Flash,14,False,9839,7825,Locket of the Iron Solari,Control Ward,Eye of the Oasis,Ionian Boots of Lucidity,Ardent Censer,,9425,3256,Lane.bot_lane,Role.support
+8,Shrew,LeBlanc,True,Side.red,4,4,10,3.5,225,Flash,Teleport,15,False,12442,10425,Refillable Potion,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,130647,19852,Lane.mid_lane,Role.solo
+9,FZ3R0,Twitch,True,Side.red,6,5,4,2.0,242,Flash,Heal,15,False,13080,10550,Infinity Edge,Runaan's Hurricane,Phantom Dancer,Doran's Blade,Berserker's Greaves,,907,157260,Lane.bot_lane,Role.carry

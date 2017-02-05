@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rokí,Riven,False,Side.blue,5,6,9,2.3333333333333335,191,Flash,Smite,16,False,12308,11850,Enchantment: Warrior,Mercurial Scimitar,Long Sword,Death's Dance,Ionian Boots of Lucidity,,975,161617,Lane.jungle,Role.none
+1,Riesig,Jarvan IV,False,Side.blue,1,10,5,0.6,312,Flash,Teleport,17,False,13030,12925,Glacial Shroud,Ninja Tabi,Sunfire Cape,Spirit Visage,Sheen,Titanic Hydra,21109,182832,Lane.top_lane,Role.solo
+2,konkwon,Ezreal,False,Side.blue,8,3,11,6.333333333333333,203,Flash,Heal,15,True,13099,12700,Muramana,Lord Dominik's Regards,Iceborn Gauntlet,Ionian Boots of Lucidity,Maw of Malmortius,,24122,122134,Lane.bot_lane,Role.carry
+3,ZatsMod,Cassiopeia,False,Side.blue,5,7,9,2.0,228,Flash,Cleanse,15,False,12501,12260,Doran's Ring,Seraph's Embrace,Blasting Wand,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,138976,12868,Lane.mid_lane,Role.solo
+4,C9 Smoothie,Thresh,False,Side.blue,3,5,18,4.2,32,Flash,Ignite,13,False,9380,8050,Redemption,Ruby Sightstone,Locket of the Iron Solari,,Relic Shield,Boots of Mobility,11778,6489,Lane.bot_lane,Role.support
+5,SSBM Hax,Twisted Fate,True,Side.red,6,1,12,18.0,301,Flash,Ghost,18,False,16811,14900,Needlessly Large Rod,Rod of Ages,Ionian Boots of Lucidity,Zhonya's Hourglass,Lich Bane,Void Staff,206323,22952,Lane.mid_lane,Role.solo
+6,Pekin Woof,Caitlyn,True,Side.red,6,4,7,3.25,305,Flash,Heal,17,False,15290,13525,The Bloodthirster,Last Whisper,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Long Sword,2661,249597,Lane.bot_lane,Role.carry
+7,Daarr,Elise,True,Side.red,14,2,11,12.5,199,Flash,Smite,18,False,16788,14100,Enchantment: Runic Echoes,Sorcerer's Shoes,Dead Man's Plate,Rylai's Crystal Scepter,The Dark Seal,Liandry's Torment,186780,45286,Lane.jungle,Role.none
+8,Leagué,Poppy,True,Side.red,4,6,9,2.1666666666666665,171,Flash,Teleport,16,False,12350,11420,Sunfire Cape,,Negatron Cloak,Ninja Tabi,Dead Man's Plate,Spirit Visage,38931,77404,Lane.top_lane,Role.solo
+9,cute pupper irl,Nami,True,Side.red,1,9,13,1.5555555555555556,19,Flash,Exhaust,13,False,9945,7625,Crystalline Bracer,Eye of the Watchers,Crystalline Bracer,Redemption,Boots of Mobility,Control Ward,6366,8726,Lane.bot_lane,Role.support

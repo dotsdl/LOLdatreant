@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Doublelift,Ezreal,True,Side.blue,5,4,4,2.25,216,Flash,Heal,14,False,11764,9500,Muramana,Bilgewater Cutlass,Ionian Boots of Lucidity,Doran's Blade,Recurve Bow,Iceborn Gauntlet,17087,111331,Lane.bot_lane,Role.carry
+1,zlsna,Fiora,True,Side.blue,4,5,5,1.8,256,Flash,Teleport,16,False,11863,10850,Ravenous Hydra,B. F. Sword,Vampiric Scepter,The Black Cleaver,Doran's Blade,Ionian Boots of Lucidity,1884,148769,Lane.top_lane,Role.solo
+2,mandatorycloud,Ryze,True,Side.blue,7,2,5,6.0,194,Flash,Exhaust,15,False,11831,10375,Rod of Ages,Seraph's Embrace,Morellonomicon,Ninja Tabi,,,134957,12027,Lane.mid_lane,Role.solo
+3,GordanRamsey,Evelynn,True,Side.blue,3,1,2,5.0,148,Smite,Flash,15,False,10413,8375,Enchantment: Runic Echoes,The Dark Seal,Sorcerer's Shoes,Needlessly Large Rod,Hextech Protobelt-01,Ruby Crystal,103416,39906,Lane.jungle,Role.none
+4,Erry,Janna,True,Side.blue,2,3,12,4.666666666666667,14,Exhaust,Flash,13,False,8724,6400,Redemption,Sightstone,Forbidden Idol,Nomad's Medallion,Chalice of Harmony,Boots of Mobility,4386,7416,Lane.bot_lane,Role.support
+5,retarded virgin,Rek'Sai,False,Side.red,3,5,8,2.2,177,Flash,Smite,14,True,10302,9750,Enchantment: Cinderhulk,Refillable Potion,Titanic Hydra,Boots of Speed,The Black Cleaver,,32240,107784,Lane.jungle,Role.none
+6,cokes,Jhin,False,Side.red,6,4,3,2.25,195,Heal,Flash,12,False,10060,9175,Essence Reaver,Rapid Firecannon,Doran's Blade,Ionian Boots of Lucidity,B. F. Sword,,1738,94005,Lane.bot_lane,Role.carry
+7,insaníty,Fizz,False,Side.red,3,6,3,1.0,140,Flash,Ignite,13,False,8226,6645,Corrupting Potion,The Dark Seal,Lich Bane,Ionian Boots of Lucidity,Negatron Cloak,Fiendish Codex,41367,21397,Lane.mid_lane,Role.solo
+8,Lil Cody,Nasus,False,Side.red,3,1,5,8.0,248,Teleport,Flash,15,False,11265,10708,Trinity Force,Zz'Rot Portal,Kindlegem,Ninja Tabi,Glacial Shroud,Doran's Ring,90357,40975,Lane.top_lane,Role.solo
+9,Xpecial,Thresh,False,Side.red,0,5,5,1.0,24,Exhaust,Flash,10,False,5749,5050,Nomad's Medallion,Null-Magic Mantle,Ionian Boots of Lucidity,Control Ward,Aegis of the Legion,Sightstone,4587,3366,Lane.bot_lane,Role.support

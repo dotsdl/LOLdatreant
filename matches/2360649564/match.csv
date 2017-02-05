@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nixxhaha,Poppy,False,Side.blue,7,3,6,4.333333333333333,93,Flash,Smite,14,False,10208,9850,Randuin's Omen,Dead Man's Plate,Phage,Sheen,Hunter's Talisman,Ninja Tabi,5942,85730,Lane.jungle,Role.none
+1,Carnage Battle,Janna,False,Side.blue,1,3,7,2.6666666666666665,11,Exhaust,Flash,11,False,7208,6825,Talisman of Ascension,Ionian Boots of Lucidity,Forbidden Idol,Ruby Sightstone,Control Ward,Crystalline Bracer,2736,2244,Lane.bot_lane,Role.support
+2,Naktaemon,Lucian,False,Side.blue,1,9,2,0.3333333333333333,173,Heal,Flash,12,False,8313,8225,Doran's Blade,Essence Reaver,Rapid Firecannon,Berserker's Greaves,,,5562,93451,Lane.bot_lane,Role.carry
+3,The Jade Emperor,Riven,False,Side.blue,9,7,4,1.8571428571428572,177,Flash,Teleport,14,False,10945,11230,Spirit Visage,The Black Cleaver,Sterak's Gage,Long Sword,Ninja Tabi,Long Sword,3205,115179,Lane.top_lane,Role.solo
+4,NY Kabusu,Lissandra,False,Side.blue,0,9,4,0.4444444444444444,174,Flash,Teleport,12,False,8408,8285,Control Ward,Zhonya's Hourglass,Corrupting Potion,Ionian Boots of Lucidity,Abyssal Scepter,Amplifying Tome,94526,8904,Lane.mid_lane,Role.solo
+5,always plan ahea,Sion,True,Side.red,7,7,2,1.2857142857142858,240,Flash,Ignite,16,True,13637,12100,Titanic Hydra,Mercury's Treads,Frozen Mallet,Sterak's Gage,Raptor Cloak,,16974,158554,Lane.top_lane,Role.solo
+6,NVe Enzo,Rammus,True,Side.red,6,2,10,8.0,118,Smite,Flash,15,False,11497,9925,Randuin's Omen,Thornmail,Ninja Tabi,Enchantment: Cinderhulk,Chain Vest,,58904,49380,Lane.jungle,Role.none
+7,LncH,Zed,True,Side.red,9,3,8,5.666666666666667,194,Ignite,Flash,15,False,13095,11110,Youmuu's Ghostblade,Mortal Reminder,The Black Cleaver,Mercury's Treads,Caulfield's Warhammer,,7346,123417,Lane.mid_lane,Role.solo
+8,Ciraxbl,Ezreal,True,Side.red,6,2,14,10.0,176,Heal,Flash,14,False,12383,10700,Blade of the Ruined King,Long Sword,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,12066,108280,Lane.bot_lane,Role.carry
+9,Krisintina,Zyra,True,Side.red,3,4,11,3.5,27,Flash,Exhaust,13,False,10400,8385,Frost Queen's Claim,Sightstone,Amplifying Tome,Sorcerer's Shoes,Rylai's Crystal Scepter,Cloth Armor,44153,7191,Lane.bot_lane,Role.support

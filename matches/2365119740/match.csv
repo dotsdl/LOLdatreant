@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hello I am Dust,Thresh,True,Side.blue,2,4,15,4.25,22,Ignite,Flash,9,True,6606,5750,Redemption,Ruby Sightstone,Refillable Potion,Control Ward,Boots of Mobility,Relic Shield,5313,4531,Lane.bot_lane,Role.support
+1,dog maple,Jhin,True,Side.blue,5,3,11,5.333333333333333,124,Heal,Flash,11,False,8846,7750,Doran's Blade,Boots of Swiftness,Refillable Potion,Essence Reaver,Rapid Firecannon,,1405,56840,Lane.bot_lane,Role.carry
+2,sha bi,Poppy,True,Side.blue,5,1,8,13.0,143,Teleport,Flash,13,False,9169,8000,Sunfire Cape,,Corrupting Potion,Ninja Tabi,Dead Man's Plate,Null-Magic Mantle,25595,52229,Lane.top_lane,Role.solo
+3,zz cicero,Zac,True,Side.blue,7,1,8,15.0,94,Smite,Flash,12,False,8893,8025,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,56113,20604,Lane.jungle,Role.none
+4,Sheiden,Kennen,True,Side.blue,12,2,1,6.5,171,Teleport,Flash,14,False,10749,8685,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,Needlessly Large Rod,60205,24814,Lane.mid_lane,Role.solo
+5,Serilium,Karma,False,Side.red,0,8,8,1.0,20,Exhaust,Flash,9,False,5501,5375,Forbidden Idol,,Eye of the Watchers,Ionian Boots of Lucidity,Crystalline Bracer,,15598,3662,Lane.bot_lane,Role.support
+6,Tàctical,Ezreal,False,Side.red,5,7,4,1.2857142857142858,115,Flash,Heal,10,False,6922,6800,Doran's Blade,Manamune,Cull,Iceborn Gauntlet,Long Sword,Boots of Speed,5925,41573,Lane.bot_lane,Role.carry
+7,AvadaKedavra BAM,Sona,False,Side.red,2,4,3,1.25,93,Flash,Barrier,10,False,6239,6150,Frostfang,Athene's Unholy Grail,Sheen,Aether Wisp,Boots of Speed,Blasting Wand,23216,10188,Lane.mid_lane,Role.solo
+8,ShadowofSelf,Fiddlesticks,False,Side.red,2,6,4,1.0,84,Flash,Smite,11,False,6597,6250,Ionian Boots of Lucidity,Ruby Crystal,Enchantment: Runic Echoes,Fiendish Codex,Seeker's Armguard,,75575,12879,Lane.jungle,Role.none
+9,eRx,Riven,False,Side.red,2,6,0,0.3333333333333333,137,Teleport,Flash,11,False,6449,5450,Long Sword,Refillable Potion,Youmuu's Ghostblade,Ruby Crystal,Null-Magic Mantle,Ionian Boots of Lucidity,0,61710,Lane.top_lane,Role.solo

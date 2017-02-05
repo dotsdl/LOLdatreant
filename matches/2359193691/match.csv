@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Deft Pawn,LeBlanc,False,Side.blue,6,9,3,1.0,159,Ignite,Flash,13,False,9558,9350,Zhonya's Hourglass,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Doran's Ring,92923,8829,Lane.mid_lane,Role.solo
+1,i KeNNy u,Warwick,False,Side.blue,0,7,3,0.42857142857142855,116,Teleport,Flash,11,False,6541,6100,Ninja Tabi,Sunfire Cape,Spectre's Cowl,,Doran's Ring,Corrupting Potion,31765,23898,Lane.top_lane,Role.solo
+2,Årcee,Ezreal,False,Side.blue,1,9,3,0.4444444444444444,165,Heal,Flash,11,False,7863,7325,Doran's Blade,Manamune,Total Biscuit of Rejuvenation,Cull,Ionian Boots of Lucidity,Iceborn Gauntlet,9359,55875,Lane.bot_lane,Role.carry
+3,Stixxay,Lee Sin,False,Side.blue,5,7,3,1.1428571428571428,103,Smite,Flash,12,False,8339,7525,Ravenous Hydra,Enchantment: Warrior,Control Ward,Ninja Tabi,,,14064,85506,Lane.jungle,Role.none
+4,Winter is back,Nami,False,Side.blue,0,3,6,2.0,10,Flash,Exhaust,10,False,5787,5250,Frostfang,Total Biscuit of Rejuvenation,Control Ward,Sightstone,Ionian Boots of Lucidity,Redemption,5031,3460,Lane.bot_lane,Role.support
+5,fallenbandit,Sivir,True,Side.red,13,2,9,11.0,186,Flash,Heal,14,True,14126,13000,Corrupting Potion,Infinity Edge,Doran's Blade,Essence Reaver,Berserker's Greaves,Statikk Shiv,10652,138652,Lane.bot_lane,Role.carry
+6,Yassuo,Yasuo,True,Side.red,8,5,10,3.6,155,Flash,Ignite,14,False,11331,9900,Vampiric Scepter,Doran's Blade,Doran's Blade,Phantom Dancer,Mercury's Treads,Infinity Edge,25079,91800,Lane.mid_lane,Role.solo
+7,The Tank Man,Janna,True,Side.red,3,2,24,13.5,5,Flash,Exhaust,13,False,9812,8675,Eye of the Oasis,Redemption,Boots of Mobility,Ardent Censer,Forbidden Idol,Null-Magic Mantle,6023,5960,Lane.bot_lane,Role.support
+8,Liquid Lourlo,Tahm Kench,True,Side.red,7,1,9,16.0,162,Teleport,Flash,15,False,11650,10075,Sunfire Cape,Spirit Visage,Boots of Swiftness,Dead Man's Plate,Corrupting Potion,,73269,22947,Lane.top_lane,Role.solo
+9,Rhux,Hecarim,True,Side.red,4,2,9,6.5,95,Ghost,Smite,13,False,9727,8233,Boots of Swiftness,Enchantment: Cinderhulk,Trinity Force,Cloth Armor,,Null-Magic Mantle,16392,79923,Lane.jungle,Role.none

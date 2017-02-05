@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yusui,Karma,True,Side.blue,1,1,7,8.0,24,Ignite,Flash,10,False,7063,6650,Eye of the Watchers,Redemption,Null-Magic Mantle,Control Ward,Ionian Boots of Lucidity,Null-Magic Mantle,17036,4846,Lane.bot_lane,Role.support
+1,KElTHMCBRlEF,Vayne,True,Side.blue,1,1,4,5.0,181,Heal,Flash,12,True,8891,6500,Doran's Blade,Pickaxe,Phantom Dancer,Berserker's Greaves,Cull,Cloak of Agility,0,79504,Lane.bot_lane,Role.carry
+2,Entranced,Illaoi,True,Side.blue,2,0,5,7.0,224,Teleport,Flash,14,False,9666,8755,The Black Cleaver,Corrupting Potion,Caulfield's Warhammer,Boots of Speed,Sterak's Gage,Sheen,1368,132569,Lane.top_lane,Role.solo
+3,SSBM Hax,Twisted Fate,True,Side.blue,5,0,4,9.0,190,Flash,Ghost,13,False,10441,8675,Doran's Ring,Lich Bane,Ionian Boots of Lucidity,Doran's Ring,Rod of Ages,Fiendish Codex,101574,12778,Lane.mid_lane,Role.solo
+4,You all boosted,Elise,True,Side.blue,7,1,3,10.0,110,Flash,Smite,13,False,10005,10025,Enchantment: Runic Echoes,Rylai's Crystal Scepter,The Dark Seal,Boots of Mobility,Void Staff,,81779,29979,Lane.jungle,Role.none
+5,never meme,Nami,False,Side.red,0,2,0,0.0,21,Exhaust,Flash,9,False,5392,4900,Ruby Sightstone,Crystalline Bracer,Nomad's Medallion,Ionian Boots of Lucidity,Tear of the Goddess,,4834,3762,Lane.bot_lane,Role.support
+6,Gahlin,Hecarim,False,Side.red,2,5,1,0.6,118,Ghost,Smite,12,False,7554,6533,Skirmisher's Sabre,Refillable Potion,Trinity Force,Ruby Crystal,Mercury's Treads,,10310,81361,Lane.jungle,Role.none
+7,Abou222,Ryze,False,Side.red,0,1,0,0.0,188,Cleanse,Flash,12,False,7443,6900,Tear of the Goddess,Rod of Ages,Null-Magic Mantle,Needlessly Large Rod,Mercury's Treads,,86100,6840,Lane.mid_lane,Role.solo
+8,Winter is back,Nasus,False,Side.red,0,2,0,0.0,232,Flash,Teleport,12,False,7671,6925,Doran's Ring,Mercury's Treads,Zz'Rot Portal,Giant's Belt,Doran's Ring,Chain Vest,62942,18637,Lane.top_lane,Role.solo
+9,Maxtrobo,Jhin,False,Side.red,1,6,1,0.3333333333333333,148,Flash,Heal,11,False,7184,6975,Doran's Blade,Essence Reaver,Zeal,Boots of Speed,Kircheis Shard,,5008,68631,Lane.bot_lane,Role.carry

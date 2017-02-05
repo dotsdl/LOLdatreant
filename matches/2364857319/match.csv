@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UselessNihilist,Blitzcrank,False,Side.blue,1,6,6,1.1666666666666667,33,Ignite,Flash,11,False,6208,6050,Face of the Mountain,Sightstone,Forbidden Idol,Crystalline Bracer,,Boots of Swiftness,7149,5841,Lane.bot_lane,Role.support
+1,KamiyaHrc,Aurelion Sol,False,Side.blue,5,3,4,3.0,161,Exhaust,Flash,13,False,8739,7760,Boots of Swiftness,Corrupting Potion,Banshee's Veil,Amplifying Tome,Hextech GLP-800,Ruby Crystal,81995,5256,Lane.mid_lane,Role.solo
+2,zz cicero,Tristana,False,Side.blue,3,9,4,0.7777777777777778,178,Heal,Flash,13,False,8448,8000,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,17396,74845,Lane.bot_lane,Role.carry
+3,1IOrz,Trundle,False,Side.blue,4,7,3,1.0,124,Teleport,Flash,12,False,8023,7450,,Randuin's Omen,Corrupting Potion,Ninja Tabi,Thornmail,Null-Magic Mantle,5715,49228,Lane.top_lane,Role.solo
+4,iMBACHAN,Elise,False,Side.blue,2,7,2,0.5714285714285714,113,Flash,Smite,12,False,7649,6875,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,,67047,20258,Lane.jungle,Role.none
+5,Watch and Learn,Janna,True,Side.red,1,2,19,10.0,6,Flash,Exhaust,13,False,9324,7325,Refillable Potion,Locket of the Iron Solari,Redemption,Eye of the Watchers,,Boots of Speed,4374,3403,Lane.bot_lane,Role.support
+6,never negative,Nidalee,True,Side.red,8,3,10,6.0,105,Smite,Flash,14,False,11930,10425,Enchantment: Runic Echoes,Refillable Potion,Zhonya's Hourglass,Sorcerer's Shoes,Void Staff,Blasting Wand,112785,18256,Lane.jungle,Role.none
+7,foggedftw1,Tryndamere,True,Side.red,3,6,4,1.1666666666666667,203,Ignite,Flash,15,False,10894,10150,Refillable Potion,Blade of the Ruined King,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,,26840,118181,Lane.top_lane,Role.solo
+8,Dirty Dps,Syndra,True,Side.red,7,3,4,3.6666666666666665,184,Flash,Ghost,14,True,11614,10800,Doran's Ring,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Void Staff,107477,9497,Lane.mid_lane,Role.solo
+9,Liquid fabbbyyy,Vayne,True,Side.red,12,1,7,19.0,192,Flash,Heal,15,False,14218,10850,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Rapid Firecannon,,13847,124776,Lane.bot_lane,Role.carry

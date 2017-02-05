@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Siren Yoonie,Poppy,True,Side.blue,5,6,3,1.3333333333333333,127,Flash,Teleport,12,False,9119,9075,Tiamat,Corrupting Potion,Iceborn Gauntlet,Ninja Tabi,Doran's Blade,Sunfire Cape,18638,55572,Lane.top_lane,Role.solo
+1,Siren Jessica,Vi,True,Side.blue,6,3,2,2.6666666666666665,122,Flash,Smite,13,False,9571,8358,Enchantment: Warrior,Ninja Tabi,Ruby Crystal,Trinity Force,Long Sword,,1296,100655,Lane.jungle,Role.none
+2,UselessNihilist,Thresh,True,Side.blue,3,3,9,4.0,7,Ignite,Flash,11,False,7783,6850,Redemption,Sightstone,Kindlegem,Ionian Boots of Lucidity,Nomad's Medallion,Chain Vest,12648,4290,Lane.bot_lane,Role.support
+3,Stirling Archer,Caitlyn,True,Side.blue,6,4,9,3.75,140,Heal,Flash,12,True,10511,8550,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Dagger,Brawler's Gloves,,300,106865,Lane.bot_lane,Role.carry
+4,xia xia,Ziggs,True,Side.blue,4,5,4,1.6,154,Flash,Barrier,13,False,9772,7275,Doran's Ring,Morellonomicon,Blasting Wand,Sorcerer's Shoes,Needlessly Large Rod,The Dark Seal,102773,13981,Lane.mid_lane,Role.solo
+5,Papi,Syndra,False,Side.red,4,6,5,1.5,136,Flash,Ghost,12,False,7428,7100,Doran's Ring,Giant's Belt,Ionian Boots of Lucidity,Doran's Ring,Morellonomicon,Needlessly Large Rod,72225,7591,Lane.mid_lane,Role.solo
+6,Region,Twitch,False,Side.red,4,7,6,1.4285714285714286,97,Heal,Flash,12,False,6999,6150,Doran's Blade,B. F. Sword,Cull,Berserker's Greaves,Runaan's Hurricane,,0,46140,Lane.bot_lane,Role.carry
+7,CN ARESgogogo,Lee Sin,False,Side.red,7,3,8,5.0,90,Flash,Smite,12,False,8287,7225,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Null-Magic Mantle,,16603,58657,Lane.jungle,Role.none
+8,IQ is 201 ,Bard,False,Side.red,0,5,11,2.2,11,Flash,Ignite,10,False,5375,4650,Sightstone,Frostfang,Boots of Mobility,Sheen,Blasting Wand,,6482,2797,Lane.bot_lane,Role.support
+9,longdongsi1ver69,Jayce,False,Side.red,6,3,3,3.0,117,Flash,Teleport,12,False,7590,7150,Youmuu's Ghostblade,Doran's Blade,Doran's Blade,Ionian Boots of Lucidity,Caulfield's Warhammer,Phage,6494,55210,Lane.top_lane,Role.solo

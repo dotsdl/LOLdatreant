@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SSBM Hax,Twisted Fate,True,Side.blue,3,1,11,14.0,214,Flash,Ghost,15,False,11861,11275,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Zhonya's Hourglass,Lich Bane,Blasting Wand,123546,13430,Lane.mid_lane,Role.solo
+1,cute pupper irl,Karma,True,Side.blue,3,3,19,7.333333333333333,29,Flash,Exhaust,13,False,9316,8375,Locket of the Iron Solari,Eye of the Watchers,Control Ward,Redemption,Ionian Boots of Lucidity,,16854,7657,Lane.bot_lane,Role.support
+2,Rekk,Evelynn,True,Side.blue,17,3,7,8.0,105,Smite,Flash,14,True,13103,12475,Hextech Protobelt-01,Rylai's Crystal Scepter,Guardian Angel,Mercury's Treads,Enchantment: Runic Echoes,,83289,34665,Lane.jungle,Role.none
+3,Auberaun,Caitlyn,True,Side.blue,6,3,13,6.333333333333333,142,Flash,Heal,13,False,10877,9775,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Bilgewater Cutlass,Dagger,824,102182,Lane.bot_lane,Role.carry
+4,Dyr0nejk2,Renekton,True,Side.blue,5,4,5,2.5,223,Teleport,Flash,14,False,11296,10475,Tiamat,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Jaurim's Fist,Ruby Crystal,6456,141065,Lane.top_lane,Role.solo
+5,A Platypus,Zyra,False,Side.red,0,7,5,0.7142857142857143,36,Ignite,Flash,11,False,6697,6625,Eye of the Watchers,Total Biscuit of Rejuvenation,Liandry's Torment,,Boots of Speed,,23588,2836,Lane.bot_lane,Role.support
+6,Stixxay,Varus,False,Side.red,3,9,6,1.0,172,Heal,Flash,12,False,9562,8500,,Runaan's Hurricane,Cull,Infinity Edge,Berserker's Greaves,Doran's Blade,8291,83512,Lane.bot_lane,Role.carry
+7,Drowning,Graves,False,Side.red,4,6,3,1.1666666666666667,144,Flash,Smite,14,False,9639,9025,Refillable Potion,Zeal,Dagger,Mercury's Treads,Maw of Malmortius,Enchantment: Warrior,3480,115422,Lane.jungle,Role.none
+8,McCashDollar,Shaco,False,Side.red,5,6,3,1.3333333333333333,156,Teleport,Ignite,14,False,9431,9375,Tiamat,Hextech Gunblade,Dead Man's Plate,,Ionian Boots of Lucidity,Doran's Ring,43544,44820,Lane.top_lane,Role.solo
+9,Saskioo,Vladimir,False,Side.red,1,6,2,0.5,155,Flash,Ghost,12,False,8153,7710,Doran's Shield,Ionian Boots of Lucidity,Hextech Protobelt-01,Rylai's Crystal Scepter,Amplifying Tome,,73717,13984,Lane.mid_lane,Role.solo

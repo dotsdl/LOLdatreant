@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TTTToby,Kennen,True,Side.blue,4,1,7,11.0,199,Flash,Teleport,14,False,11308,11450,Hextech Protobelt-01,Zhonya's Hourglass,Rabadon's Deathcap,Sorcerer's Shoes,,,65349,35521,Lane.top_lane,Role.solo
+1,EricTamaru,Katarina,True,Side.blue,9,3,6,5.0,128,Flash,Ignite,13,False,11333,10825,Sorcerer's Shoes,Void Staff,Zhonya's Hourglass,,The Dark Seal,Rylai's Crystal Scepter,73956,6129,Lane.mid_lane,Role.solo
+2,spencerhoffman,Elise,True,Side.blue,6,1,7,13.0,173,Flash,Smite,15,False,12187,11450,Enchantment: Runic Echoes,Chain Vest,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,Giant's Belt,121663,39799,Lane.jungle,Role.none
+3,Soap tastes ok,Alistar,True,Side.blue,1,2,14,7.5,45,Flash,Ignite,12,False,8585,7600,Ruby Sightstone,Redemption,Face of the Mountain,Control Ward,,Boots of Mobility,13023,7455,Lane.bot_lane,Role.support
+4,Rashuchacha,Varus,True,Side.blue,9,8,6,1.875,142,Heal,Flash,13,True,11689,11100,Duskblade of Draktharr,Youmuu's Ghostblade,Tear of the Goddess,Statikk Shiv,Ionian Boots of Lucidity,,17954,100047,Lane.bot_lane,Role.carry
+5,herolineage,Vi,False,Side.red,5,9,1,0.6666666666666666,144,Flash,Smite,14,False,10231,9958,Enchantment: Warrior,Trinity Force,Mercury's Treads,Spectre's Cowl,Hexdrinker,,1270,128911,Lane.jungle,Role.none
+6,oSunny,Orianna,False,Side.red,4,8,2,0.75,167,Ghost,Flash,13,False,9630,8350,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,,83644,11705,Lane.mid_lane,Role.solo
+7,SP Marlins,Janna,False,Side.red,1,3,8,3.0,23,Flash,Exhaust,12,False,8441,8145,Locket of the Iron Solari,Eye of the Oasis,Redemption,Boots of Mobility,Total Biscuit of Rejuvenation,Negatron Cloak,9954,3320,Lane.bot_lane,Role.support
+8,China God 430,Caitlyn,False,Side.red,3,8,5,1.0,185,Heal,Flash,13,False,10036,9550,Doran's Blade,Doran's Blade,Infinity Edge,Runaan's Hurricane,Hexdrinker,Berserker's Greaves,873,128366,Lane.bot_lane,Role.carry
+9,stephe xd,Lee Sin,False,Side.red,2,1,1,3.0,178,Teleport,Flash,15,False,9288,8800,Doran's Shield,Maw of Malmortius,Spirit Visage,Mercury's Treads,Giant's Belt,,36757,67759,Lane.top_lane,Role.solo

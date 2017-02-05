@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ApoIlo Price,Kennen,True,Side.blue,3,5,8,2.2,269,Flash,Teleport,17,True,13912,13975,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,Pickaxe,105235,46527,Lane.top_lane,Role.solo
+1,daduu,Lulu,True,Side.blue,0,5,12,2.4,13,Flash,Exhaust,14,False,9710,8650,Ionian Boots of Lucidity,Eye of the Watchers,Locket of the Iron Solari,,Redemption,,8216,5025,Lane.bot_lane,Role.support
+2,xFSN Saber,Urgot,True,Side.blue,5,3,6,3.6666666666666665,260,Heal,Flash,16,False,14258,11400,Doran's Blade,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Muramana,Caulfield's Warhammer,2316,145322,Lane.bot_lane,Role.carry
+3,Vladfire1 BG ,Vi,True,Side.blue,7,3,5,4.0,152,Smite,Flash,17,False,13682,12225,Giant's Belt,Warden's Mail,Enchantment: Warrior,The Black Cleaver,Spirit Visage,Ninja Tabi,3022,184277,Lane.jungle,Role.none
+4,PutYourHeartsUp,Ahri,True,Side.blue,11,2,4,7.5,273,Ignite,Flash,18,False,15851,14175,Doran's Ring,Zhonya's Hourglass,Void Staff,Rylai's Crystal Scepter,Morellonomicon,Ionian Boots of Lucidity,118765,22266,Lane.mid_lane,Role.solo
+5,Fiku,Graves,False,Side.red,9,6,3,2.0,214,Flash,Smite,16,False,13932,13685,Enchantment: Warrior,Cloth Armor,Death's Dance,Maw of Malmortius,Phantom Dancer,Mercury's Treads,6289,202155,Lane.jungle,Role.none
+6,Max Waldo,Irelia,False,Side.red,5,5,8,2.6,258,Flash,Teleport,17,False,13300,12483,Corrupting Potion,Dead Man's Plate,Trinity Force,Mercury's Treads,Spirit Visage,Hexdrinker,2174,126997,Lane.top_lane,Role.solo
+7,godrjsdnd,Lux,False,Side.red,0,6,4,0.6666666666666666,284,Ghost,Flash,15,False,11903,11550,Doran's Ring,Void Staff,Morellonomicon,Ionian Boots of Lucidity,Luden's Echo,Needlessly Large Rod,164709,25873,Lane.mid_lane,Role.solo
+8,SKY Fear,Jhin,False,Side.red,2,5,8,2.0,250,Flash,Heal,15,False,12374,12375,Doran's Blade,Mercurial Scimitar,Boots of Swiftness,Cloak of Agility,Essence Reaver,Rapid Firecannon,8688,141987,Lane.bot_lane,Role.carry
+9,Aecinira,Sona,False,Side.red,2,4,7,2.25,25,Flash,Exhaust,13,False,9275,8825,Mikael's Crucible,Ruby Sightstone,Redemption,Control Ward,Ionian Boots of Lucidity,Frostfang,9399,6193,Lane.bot_lane,Role.support

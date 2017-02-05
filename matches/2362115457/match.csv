@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rqspaceinvad,Viktor,False,Side.blue,1,5,3,0.8,209,Flash,Exhaust,14,False,9853,8895,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,,Negatron Cloak,Ionian Boots of Lucidity,108479,10153,Lane.mid_lane,Role.solo
+1,SandPaperX,Trundle,False,Side.blue,1,5,4,1.0,41,Flash,Exhaust,12,False,7467,6950,Locket of the Iron Solari,Ruby Sightstone,Control Ward,Targon's Brace,Ionian Boots of Lucidity,Kindlegem,1634,12353,Lane.bot_lane,Role.support
+2,7788 ADC,Ezreal,False,Side.blue,7,12,2,0.75,128,Heal,Flash,13,False,9986,10133,Muramana,Trinity Force,Ionian Boots of Lucidity,Last Whisper,Giant Slayer,,14494,64860,Lane.bot_lane,Role.carry
+3,retarded virgin,Rek'Sai,False,Side.blue,2,8,2,0.5,133,Flash,Smite,13,True,9403,9425,Enchantment: Cinderhulk,Boots of Speed,Titanic Hydra,Caulfield's Warhammer,Phage,,26706,86194,Lane.jungle,Role.none
+4,foggedftw2,Tryndamere,False,Side.blue,5,4,4,2.25,290,Ignite,Flash,17,False,13623,12325,Pickaxe,Blade of the Ruined King,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,58443,159606,Lane.top_lane,Role.solo
+5,Sebi,Fizz,True,Side.red,11,3,9,6.666666666666667,205,Flash,Ignite,16,False,13633,13200,Zhonya's Hourglass,Abyssal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Lich Bane,Blasting Wand,93703,32258,Lane.mid_lane,Role.solo
+6,Rich Homie Jayms,Poppy,True,Side.red,5,5,7,2.4,195,Flash,Teleport,16,False,11963,10150,Sunfire Cape,Corrupting Potion,Control Ward,Iceborn Gauntlet,Spirit Visage,Mercury's Treads,46885,89692,Lane.top_lane,Role.solo
+7,lc0nic,Lee Sin,True,Side.red,8,1,11,19.0,114,Flash,Smite,15,False,12024,11250,Boots of Mobility,Locket of the Iron Solari,Enchantment: Warrior,Randuin's Omen,Guardian Angel,,21093,96451,Lane.jungle,Role.none
+8,Asrye,Lux,True,Side.red,2,5,15,3.4,40,Exhaust,Flash,14,False,10408,9975,Mejai's Soulstealer,Ionian Boots of Lucidity,Morellonomicon,Aether Wisp,Needlessly Large Rod,Eye of the Watchers,46822,8349,Lane.bot_lane,Role.support
+9,Pond,Vayne,True,Side.red,8,2,6,7.0,252,Heal,Flash,17,False,14591,14175,Infinity Edge,Statikk Shiv,Phantom Dancer,Berserker's Greaves,The Bloodthirster,Doran's Blade,33138,158160,Lane.bot_lane,Role.carry

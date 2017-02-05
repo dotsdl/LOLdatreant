@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nut Yogur,Hecarim,False,Side.blue,0,0,0,0.0,11,Flash,Smite,3,False,1046,500,Hunter's Talisman,Refillable Potion,,,,,1194,4997,Lane.jungle,Role.none
+1,Vyvie,Nasus,False,Side.blue,0,0,0,0.0,14,Flash,Teleport,3,False,940,500,Corrupting Potion,,,,,,4062,845,Lane.mid_lane,Role.duo
+2,Jeziz,Gangplank,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,648,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+3,Hyuun,Ezreal,False,Side.blue,0,0,0,0.0,8,Flash,Heal,2,False,802,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,2635,Lane.bot_lane,Role.duo
+4,TJMAS,Karma,False,Side.blue,0,0,0,0.0,1,Flash,Ignite,2,False,721,500,Ancient Coin,Refillable Potion,,,,,941,447,Lane.bot_lane,Role.duo
+5,herolineage,Soraka,True,Side.red,0,0,0,0.0,0,Flash,Exhaust,2,False,737,500,Spellthief's Edge,Refillable Potion,,,,,731,46,Lane.bot_lane,Role.duo
+6,Silver Bolted,Jhin,True,Side.red,0,0,0,0.0,13,Flash,Heal,2,False,893,500,Doran's Blade,,Total Biscuit of Rejuvenation,,,,17,2965,Lane.bot_lane,Role.duo
+7,Piggerish,Ivern,True,Side.red,0,0,0,0.0,8,Smite,Flash,3,False,960,500,Hunter's Talisman,Refillable Potion,,,,,0,0,Lane.jungle,Role.none
+8,CLG iTrackpad,Swain,True,Side.red,0,0,0,0.0,11,Ignite,Flash,3,False,878,500,Doran's Ring,Health Potion,,,,,377,1255,Lane.top_lane,Role.solo
+9,Scene,Orianna,True,Side.red,0,0,0,0.0,14,Ghost,Flash,3,False,913,500,Total Biscuit of Rejuvenation,Doran's Ring,,,,,2138,1418,Lane.mid_lane,Role.solo

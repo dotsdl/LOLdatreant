@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IQ is 201 ,Lucian,False,Side.blue,1,5,3,0.8,208,Flash,Heal,13,False,9500,9250,Infinity Edge,Doran's Blade,Cull,Berserker's Greaves,Statikk Shiv,Giant Slayer,8215,108516,Lane.bot_lane,Role.carry
+1,RlVÈN,Riven,False,Side.blue,3,7,4,1.0,202,Teleport,Flash,15,False,9369,8450,Doran's Blade,The Black Cleaver,Refillable Potion,Mercury's Treads,Maw of Malmortius,Long Sword,0,105869,Lane.top_lane,Role.solo
+2,Rènekton,Vi,False,Side.blue,4,7,3,1.0,117,Flash,Smite,13,False,8994,8308,Trinity Force,Ninja Tabi,Cloth Armor,Ruby Crystal,Enchantment: Warrior,,982,115374,Lane.jungle,Role.none
+3,Dynatrix,Viktor,False,Side.blue,1,5,0,0.2,172,Flash,Ghost,12,False,8055,7710,Perfect Hex Core,Needlessly Large Rod,Giant's Belt,Amplifying Tome,Ionian Boots of Lucidity,Doran's Ring,89700,9740,Lane.mid_lane,Role.solo
+4,Espir III,Karma,False,Side.blue,1,2,2,1.5,19,Flash,Ignite,10,False,6452,5475,Control Ward,Frost Queen's Claim,Total Biscuit of Rejuvenation,Sightstone,Ionian Boots of Lucidity,Blasting Wand,9749,5773,Lane.bot_lane,Role.support
+5,Ntz dOdObee,Maokai,True,Side.red,3,4,4,1.75,192,Teleport,Flash,15,False,10896,8800,Doran's Ring,Ninja Tabi,Doran's Ring,Sunfire Cape,Spirit Visage,Glacial Shroud,89434,19600,Lane.top_lane,Role.solo
+6,FrootCupp,Alistar,True,Side.red,0,0,14,14.0,37,Flash,Exhaust,13,False,8694,6700,Face of the Mountain,Boots of Mobility,Ruby Sightstone,Crystalline Bracer,Control Ward,Crystalline Bracer,10836,12043,Lane.bot_lane,Role.support
+7,Shanaynay,Lee Sin,True,Side.red,5,2,9,7.0,140,Smite,Flash,15,False,11200,10100,Ninja Tabi,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,The Black Cleaver,,21046,107470,Lane.jungle,Role.none
+8,Stirling Archer,Caitlyn,True,Side.red,5,3,6,3.6666666666666665,212,Heal,Flash,14,False,11995,11750,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,Rapid Firecannon,B. F. Sword,886,139869,Lane.bot_lane,Role.carry
+9,Mr Gimix,Ziggs,True,Side.red,13,2,6,9.5,203,Ignite,Flash,15,True,14303,12125,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Luden's Echo,,145316,17399,Lane.mid_lane,Role.solo

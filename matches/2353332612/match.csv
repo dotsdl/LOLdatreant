@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pht,Karma,True,Side.blue,5,4,18,5.75,68,Ignite,Flash,14,False,12330,11050,Frost Queen's Claim,Boots of Speed,Ardent Censer,Athene's Unholy Grail,Rabadon's Deathcap,,54650,12971,Lane.bot_lane,Role.support
+1,Deweyyy,Darius,True,Side.blue,8,5,10,3.6,185,Flash,Teleport,16,False,12707,11200,The Black Cleaver,Corrupting Potion,Dead Man's Plate,Spirit Visage,Giant's Belt,Boots of Swiftness,451,111483,Lane.top_lane,Role.solo
+2,Hi im Freeze,Vi,True,Side.blue,3,1,8,11.0,129,Flash,Smite,15,False,11529,9350,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Hexdrinker,The Black Cleaver,Giant's Belt,2016,140340,Lane.jungle,Role.none
+3,A Fking God,Jinx,True,Side.blue,11,6,2,2.1666666666666665,225,Heal,Flash,15,False,14877,13580,Zeal,The Bloodthirster,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,982,167240,Lane.bot_lane,Role.carry
+4,Hi I am XXOO,Annie,True,Side.blue,8,4,5,3.25,181,Ignite,Flash,15,False,12379,11110,Rylai's Crystal Scepter,Zhonya's Hourglass,Hextech Protobelt-01,Amplifying Tome,Doran's Ring,Sorcerer's Shoes,84313,16815,Lane.mid_lane,Role.solo
+5,Azerothir,Zyra,False,Side.red,4,6,10,2.3333333333333335,26,Flash,Exhaust,12,False,8323,7275,,Sorcerer's Shoes,Eye of the Watchers,Liandry's Torment,Total Biscuit of Rejuvenation,,40685,4672,Lane.bot_lane,Role.support
+6,I Serenity I,Caitlyn,False,Side.red,10,7,4,2.0,211,Flash,Heal,15,True,12710,14495,Pickaxe,,Rapid Firecannon,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,877,152655,Lane.bot_lane,Role.carry
+7,Myloo,Shen,False,Side.red,2,9,9,1.2222222222222223,112,Flash,Teleport,13,False,8200,8175,Ninja Tabi,Randuin's Omen,Control Ward,Sunfire Cape,Doran's Shield,Ruby Crystal,40728,17977,Lane.top_lane,Role.solo
+8,AllAero,Ryze,False,Side.red,3,6,5,1.3333333333333333,167,Flash,Ghost,13,False,8854,8800,Archangel's Staff,Fiendish Codex,,Rod of Ages,Lost Chapter,Ionian Boots of Lucidity,92497,6860,Lane.mid_lane,Role.solo
+9,Dexima,Graves,False,Side.red,1,7,8,1.2857142857142858,134,Flash,Smite,13,False,8684,7950,Enchantment: Warrior,Refillable Potion,Duskblade of Draktharr,Dagger,Berserker's Greaves,Dagger,3712,112824,Lane.jungle,Role.none

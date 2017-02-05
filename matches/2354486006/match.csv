@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Scóre,Rengar,True,Side.blue,5,1,4,9.0,146,Smite,Flash,13,False,9837,9250,Ravenous Hydra,Enchantment: Warrior,B. F. Sword,Long Sword,Long Sword,Ionian Boots of Lucidity,6417,132505,Lane.jungle,Role.none
+1,AsianSGpotato,Kassadin,True,Side.blue,10,1,3,13.0,143,Flash,Teleport,14,False,9944,7850,Corrupting Potion,Rod of Ages,Ionian Boots of Lucidity,Control Ward,Abyssal Scepter,Blasting Wand,51775,22051,Lane.mid_lane,Role.solo
+2,TaeYeonT,Jhin,True,Side.blue,3,2,6,4.5,141,Heal,Flash,11,True,9055,8300,Doran's Blade,Caulfield's Warhammer,Infinity Edge,Kircheis Shard,B. F. Sword,Boots of Swiftness,2850,84448,Lane.bot_lane,Role.carry
+3,SeaES TONG NICK,Brand,True,Side.blue,4,2,5,4.5,12,Flash,Exhaust,11,False,6978,6210,Giant's Belt,Needlessly Large Rod,Eye of the Watchers,Amplifying Tome,Sorcerer's Shoes,,18298,2033,Lane.bot_lane,Role.support
+4,Best Trydyr Na,Fizz,True,Side.blue,5,0,2,7.0,220,Flash,Teleport,14,False,10136,8575,Morellonomicon,Corrupting Potion,Lich Bane,Doran's Ring,Doran's Ring,Sorcerer's Shoes,73607,25745,Lane.top_lane,Role.solo
+5,MidzFTW,Viktor,False,Side.red,0,8,1,0.125,115,Ghost,Flash,11,False,5631,5375,Perfect Hex Core,The Dark Seal,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,47788,8811,Lane.mid_lane,Role.solo
+6,ReformedMeow,Anivia,False,Side.red,0,1,1,1.0,118,Teleport,Flash,10,False,5502,4575,Doran's Ring,Refillable Potion,Rod of Ages,Tear of the Goddess,Boots of Speed,,33723,6035,Lane.top_lane,Role.solo
+7,BuzzFund,Kayle,False,Side.red,3,7,3,0.8571428571428571,79,Smite,Flash,10,False,6385,6225,Enchantment: Bloodrazor,Nashor's Tooth,Boots of Speed,,Refillable Potion,,31335,29670,Lane.jungle,Role.none
+8,BackTogh,Caitlyn,False,Side.red,3,6,1,0.6666666666666666,159,Heal,Flash,10,False,7149,6575,Doran's Blade,B. F. Sword,Runaan's Hurricane,Pickaxe,Berserker's Greaves,,1239,77698,Lane.bot_lane,Role.carry
+9,iAnivia,Lulu,False,Side.red,0,6,3,0.5,3,Flash,Exhaust,9,False,3934,3060,Sightstone,Amplifying Tome,Frostfang,Doran's Ring,Boots of Speed,,4507,596,Lane.bot_lane,Role.support

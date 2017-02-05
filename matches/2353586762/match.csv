@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Galdrick,Braum,False,Side.blue,0,6,7,1.1666666666666667,48,Flash,Exhaust,12,False,7778,7425,Sightstone,Face of the Mountain,Knight's Vow,Boots of Mobility,Null-Magic Mantle,Cloth Armor,9098,5426,Lane.bot_lane,Role.support
+1,longdongsi1ver69,Lucian,False,Side.blue,3,6,2,0.8333333333333334,220,Flash,Heal,14,False,10695,9550,Doran's Blade,Essence Reaver,Infinity Edge,Berserker's Greaves,Kircheis Shard,,2186,129181,Lane.bot_lane,Role.carry
+2,Borgis123,Trundle,False,Side.blue,4,3,9,4.333333333333333,231,Teleport,Flash,16,False,11731,11250,Ravenous Hydra,Randuin's Omen,Iceborn Gauntlet,Ruby Crystal,Ninja Tabi,,2810,120408,Lane.top_lane,Role.solo
+3,World2,Evelynn,False,Side.blue,8,4,4,3.0,201,Smite,Flash,16,True,12933,12825,Hextech Protobelt-01,Liandry's Torment,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Rylai's Crystal Scepter,,124798,51377,Lane.jungle,Role.none
+4,I give BJs 4 ELO,Lux,False,Side.blue,3,4,6,2.25,194,Barrier,Flash,13,False,10183,9375,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Luden's Echo,,92888,15359,Lane.mid_lane,Role.solo
+5,EnVy Nien,Lee Sin,True,Side.red,8,2,5,6.5,135,Flash,Smite,15,False,12417,11375,Tiamat,Spectre's Cowl,Enchantment: Warrior,Boots of Mobility,Dead Man's Plate,Guardian Angel,19491,109004,Lane.jungle,Role.none
+6,Assaults,Illaoi,True,Side.red,5,7,6,1.5714285714285714,186,Teleport,Flash,16,False,12391,10275,The Black Cleaver,Corrupting Potion,Mercury's Treads,Death's Dance,Giant's Belt,Warden's Mail,2228,151492,Lane.top_lane,Role.solo
+7,Bronze IV Azir,Twisted Fate,True,Side.red,2,4,12,3.5,210,Ghost,Flash,15,False,12745,10770,Zhonya's Hourglass,Boots of Swiftness,Lich Bane,Negatron Cloak,Needlessly Large Rod,Fiendish Codex,135506,15634,Lane.mid_lane,Role.solo
+8,S Lyn,Jinx,True,Side.red,8,3,10,6.0,213,Heal,Flash,15,False,14178,12335,Zeal,Hexdrinker,Infinity Edge,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,1293,171284,Lane.bot_lane,Role.carry
+9,porkberry,Janna,True,Side.red,0,2,17,8.5,8,Exhaust,Flash,13,False,9464,7725,Redemption,Locket of the Iron Solari,Sightstone,Forbidden Idol,Ionian Boots of Lucidity,Ancient Coin,2503,5999,Lane.bot_lane,Role.support

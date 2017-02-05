@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MrMeeseeks01,Nunu,True,Side.blue,2,1,18,20.0,151,Flash,Smite,15,False,11731,10775,Enchantment: Cinderhulk,,Banner of Command,Liandry's Torment,Raptor Cloak,Mercury's Treads,54704,31445,Lane.jungle,Role.none
+1,Dominan,Karthus,True,Side.blue,12,2,11,11.5,187,Flash,Exhaust,16,False,14069,13050,Zhonya's Hourglass,Rod of Ages,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,,129042,10717,Lane.mid_lane,Role.solo
+2,KiNG Nidhogg,Jarvan IV,True,Side.blue,5,8,17,2.75,135,Teleport,Flash,14,False,11210,9950,Spectre's Cowl,Ionian Boots of Lucidity,Maw of Malmortius,Corrupting Potion,Tiamat,Randuin's Omen,4960,75209,Lane.top_lane,Role.solo
+3,Varshein,Karma,True,Side.blue,3,3,20,7.666666666666667,7,Flash,Exhaust,13,False,9635,8200,Ionian Boots of Lucidity,Ardent Censer,Control Ward,Eye of the Watchers,Needlessly Large Rod,Blasting Wand,16463,3484,Lane.bot_lane,Role.support
+4,Enthusiastic Nut,Lucian,True,Side.blue,16,3,5,7.0,239,Heal,Flash,16,False,15399,13700,Doran's Blade,Edge of Night,Infinity Edge,Statikk Shiv,Lord Dominik's Regards,Berserker's Greaves,33491,141933,Lane.bot_lane,Role.carry
+5,MrSteaIYourBuffs,Caitlyn,False,Side.red,1,7,5,0.8571428571428571,145,Heal,Flash,13,False,8768,8600,Doran's Blade,Runaan's Hurricane,Infinity Edge,Boots of Speed,Zeal,Dagger,646,97481,Lane.bot_lane,Role.carry
+6,PowaCat,Brand,False,Side.red,4,10,4,0.8,24,Ignite,Flash,11,False,8292,7875,Sightstone,Frost Queen's Claim,Liandry's Torment,,Sorcerer's Shoes,,29735,5540,Lane.bot_lane,Role.support
+7,SoProDude,Maokai,False,Side.red,4,9,6,1.1111111111111112,135,Flash,Teleport,14,False,9052,8100,Mercury's Treads,Corrupting Potion,Sunfire Cape,Spirit Visage,Doran's Ring,Cloth Armor,72884,8937,Lane.top_lane,Role.solo
+8,SoProGuy,Volibear,False,Side.red,3,5,6,1.8,98,Smite,Flash,13,True,9218,8700,Enchantment: Cinderhulk,Zz'Rot Portal,Hunter's Potion,Giant's Belt,Mercury's Treads,Chain Vest,48900,62163,Lane.jungle,Role.none
+9,Sum Dum Fk,Orianna,False,Side.red,5,7,3,1.1428571428571428,217,Flash,Heal,14,False,11075,11900,Zhonya's Hourglass,Health Potion,Control Ward,Morellonomicon,Sorcerer's Shoes,Void Staff,104576,17561,Lane.mid_lane,Role.solo

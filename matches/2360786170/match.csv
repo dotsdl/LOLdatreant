@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zT ace,Yasuo,True,Side.blue,4,2,3,3.5,116,Exhaust,Flash,11,False,7019,6000,Doran's Blade,,Berserker's Greaves,B. F. Sword,Phantom Dancer,,14908,46656,Lane.mid_lane,Role.solo
+1,ZImaras,Riven,True,Side.blue,2,2,1,1.5,108,Flash,Teleport,10,False,5906,4225,The Black Cleaver,Long Sword,Boots of Speed,Refillable Potion,Control Ward,,0,49551,Lane.top_lane,Role.solo
+2,Silver Bolted,Jhin,True,Side.blue,2,0,7,9.0,106,Flash,Heal,9,False,6705,5350,Doran's Blade,Essence Reaver,Total Biscuit of Rejuvenation,Boots of Swiftness,Control Ward,,1244,55079,Lane.bot_lane,Role.duo
+3,Yun Dal,Brand,True,Side.blue,5,0,3,8.0,12,Ignite,Flash,8,True,6060,4775,Refillable Potion,Sorcerer's Shoes,Eye of the Watchers,Needlessly Large Rod,,,16403,6902,Lane.bot_lane,Role.duo
+4,Final Hour Vayne,Elise,True,Side.blue,3,0,3,6.0,56,Smite,Flash,10,False,6185,4310,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Amplifying Tome,,,35933,21285,Lane.jungle,Role.none
+5,SjH RaiN,Alistar,False,Side.red,0,5,0,0.0,32,Flash,Exhaust,8,False,3130,1900,Relic Shield,Ruby Crystal,Boots of Mobility,,,,8159,5659,Lane.bot_lane,Role.duo
+6,King fish sauce,Rumble,False,Side.red,0,3,0,0.0,61,Smite,Flash,8,False,3878,3325,Enchantment: Runic Echoes,Hunter's Potion,,,,Boots of Speed,28747,10383,Lane.jungle,Role.none
+7,Quixezelk,Poppy,False,Side.red,2,2,0,1.0,80,Teleport,Flash,9,False,4329,3775,Sunfire Cape,Corrupting Potion,,,Boots of Speed,,5957,24674,Lane.top_lane,Role.solo
+8,Samza,Corki,False,Side.red,1,2,0,0.5,87,Exhaust,Flash,9,False,4421,2900,Sheen,Long Sword,Ruby Crystal,Corrupting Potion,Boots of Speed,Dagger,25696,9215,Lane.mid_lane,Role.solo
+9,CoreTienZ,Kalista,False,Side.red,0,4,0,0.0,56,Heal,Flash,5,False,3300,3075,Doran's Blade,Dagger,Dagger,Control Ward,Bilgewater Cutlass,Boots of Speed,221,15678,Lane.bot_lane,Role.duo

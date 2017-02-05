@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mosquito Porn,Singed,False,Side.blue,1,7,6,1.0,220,Teleport,Ghost,15,True,10512,10425,The Dark Seal,Zz'Rot Portal,Righteous Glory,Ninja Tabi,Liandry's Torment,,129635,5454,Lane.top_lane,Role.solo
+1,FreeXpHere,Corki,False,Side.blue,5,5,6,2.2,242,Flash,Heal,15,False,12193,11558,Control Ward,Corrupting Potion,Hextech Gunblade,Sorcerer's Shoes,Trinity Force,Rapid Firecannon,119875,28397,Lane.mid_lane,Role.solo
+2,Sum Dum Fk,Karma,False,Side.blue,1,2,16,8.5,24,Flash,Exhaust,13,False,9535,8250,Redemption,Locket of the Iron Solari,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,Faerie Charm,18516,4271,Lane.bot_lane,Role.support
+3,I Keep It Taco,Jhin,False,Side.blue,11,6,6,2.8333333333333335,230,Flash,Heal,14,False,13586,12200,Youmuu's Ghostblade,Zeal,Lord Dominik's Regards,Berserker's Greaves,Duskblade of Draktharr,Doran's Blade,12417,138266,Lane.bot_lane,Role.carry
+4,Rîven or Lee,Ivern,False,Side.blue,3,6,14,2.8333333333333335,63,Smite,Flash,14,False,10095,9075,Hunter's Talisman,Redemption,Chalice of Harmony,Athene's Unholy Grail,Ionian Boots of Lucidity,Guardian Angel,8392,3132,Lane.jungle,Role.none
+5,Goedkope hoer,Lee Sin,True,Side.red,10,3,6,5.333333333333333,153,Flash,Smite,16,False,14275,12410,Spectre's Cowl,Tiamat,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Dead Man's Plate,24763,154711,Lane.jungle,Role.none
+6,L3E SIN,Varus,True,Side.red,4,5,6,2.0,232,Flash,Heal,15,False,12998,11550,,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Infinity Edge,Doran's Blade,10748,146608,Lane.bot_lane,Role.carry
+7,Yuán G,Renekton,True,Side.red,5,5,7,2.4,269,Ignite,Flash,17,False,14245,12050,Titanic Hydra,Chain Vest,Spirit Visage,Mercury's Treads,The Black Cleaver,Doran's Blade,4499,197130,Lane.top_lane,Role.solo
+8,II Master II,Orianna,True,Side.red,5,4,12,4.25,203,Flash,Ghost,15,False,13327,11000,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,,Luden's Echo,Sorcerer's Shoes,122159,16028,Lane.mid_lane,Role.solo
+9,Voids,Braum,True,Side.red,2,4,10,3.0,35,Exhaust,Flash,13,False,9631,7900,Redemption,Knight's Vow,Sightstone,Boots of Mobility,Targon's Brace,Ruby Crystal,8778,10699,Lane.bot_lane,Role.support

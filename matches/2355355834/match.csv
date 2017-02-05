@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FZ3R0,Lee Sin,False,Side.blue,12,3,5,5.666666666666667,144,Flash,Smite,15,False,12313,11525,Enchantment: Warrior,Refillable Potion,Boots of Mobility,The Black Cleaver,Maw of Malmortius,Giant's Belt,30964,108717,Lane.jungle,Role.none
+1,laugh for me,Tahm Kench,False,Side.blue,1,2,9,5.0,23,Flash,Exhaust,11,False,6909,6675,Ruby Sightstone,Relic Shield,Boots of Swiftness,Locket of the Iron Solari,Crystalline Bracer,Crystalline Bracer,7544,4428,Lane.bot_lane,Role.support
+2,TwitchTV LOLFILL,Yasuo,False,Side.blue,1,6,6,1.1666666666666667,189,Teleport,Flash,14,False,8928,8120,Doran's Blade,Frozen Mallet,Refillable Potion,Ninja Tabi,Phantom Dancer,Negatron Cloak,28476,78330,Lane.top_lane,Role.solo
+3,Vincente Vu,Caitlyn,False,Side.blue,2,4,9,2.75,201,Flash,Heal,13,False,9722,9650,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,Doran's Blade,504,119463,Lane.bot_lane,Role.carry
+4,cute pupper irl,Syndra,False,Side.blue,3,6,5,1.3333333333333333,139,Flash,Ignite,13,False,8735,7260,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Ruby Crystal,Needlessly Large Rod,79622,9091,Lane.mid_lane,Role.solo
+5,Gahlin,Zac,True,Side.red,4,5,2,1.2,80,Flash,Smite,10,True,8498,7925,Enchantment: Cinderhulk,Spectre's Cowl,Randuin's Omen,,,Ionian Boots of Lucidity,66975,18168,Lane.jungle,Role.none
+6,Flaresz,Jayce,True,Side.red,5,3,4,3.0,206,Flash,Teleport,15,False,11239,11025,Doran's Blade,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,Edge of Night,Long Sword,17834,103001,Lane.top_lane,Role.solo
+7,goldenglue,Fizz,True,Side.red,11,5,1,2.4,167,Ignite,Flash,15,False,11806,10100,Zhonya's Hourglass,Blasting Wand,Lich Bane,Ionian Boots of Lucidity,The Dark Seal,Needlessly Large Rod,85447,21458,Lane.mid_lane,Role.solo
+8,ApoIlo Price,Ashe,True,Side.red,1,2,6,3.5,208,Flash,Heal,13,False,10102,8675,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Brawler's Gloves,Dagger,1405,115806,Lane.bot_lane,Role.carry
+9,blaberfish2,Karma,True,Side.red,0,4,8,2.0,28,Flash,Exhaust,11,False,7694,6850,Eye of the Watchers,Aether Wisp,Redemption,Boots of Mobility,Faerie Charm,Faerie Charm,21184,6332,Lane.bot_lane,Role.support

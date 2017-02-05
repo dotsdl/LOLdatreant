@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shiphtur,Ahri,True,Side.blue,9,4,6,3.75,162,Ignite,Flash,15,False,11655,10335,Amplifying Tome,Hextech Gunblade,Needlessly Large Rod,Morellonomicon,Doran's Ring,Sorcerer's Shoes,62069,17624,Lane.mid_lane,Role.solo
+1,AKA SIeepingDAWG,Morgana,True,Side.blue,1,4,22,5.75,13,Flash,Ignite,12,False,9581,7300,Sightstone,Redemption,Ruby Crystal,Control Ward,Boots of Mobility,Frost Queen's Claim,9571,7450,Lane.bot_lane,Role.support
+2,Do U Copy,Hecarim,True,Side.blue,7,0,5,12.0,151,Smite,Ghost,15,False,11654,9483,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Mercury's Treads,Chain Vest,Giant's Belt,19558,136276,Lane.jungle,Role.none
+3,Ablazeolive,Fiora,True,Side.blue,5,5,3,1.6,207,Flash,Teleport,15,False,11559,10975,Boots of Speed,Doran's Blade,The Black Cleaver,Corrupting Potion,Youmuu's Ghostblade,Ravenous Hydra,1257,107216,Lane.top_lane,Role.solo
+4,OUT DO YA,Varus,True,Side.blue,11,3,9,6.666666666666667,190,Flash,Heal,14,True,12996,10500,Youmuu's Ghostblade,Muramana,Duskblade of Draktharr,Doran's Blade,Long Sword,Ionian Boots of Lucidity,6279,124119,Lane.bot_lane,Role.carry
+5,Gweiss,Caitlyn,False,Side.red,3,6,0,0.5,141,Heal,Flash,12,False,8297,7750,Doran's Blade,Infinity Edge,Cull,Runaan's Hurricane,Dagger,Boots of Speed,555,74346,Lane.bot_lane,Role.carry
+6,D0NG0,Fizz,False,Side.red,3,8,4,0.875,128,Teleport,Flash,13,False,7816,6300,Corrupting Potion,Zhonya's Hourglass,The Dark Seal,Doran's Ring,Sheen,Sorcerer's Shoes,43568,21279,Lane.top_lane,Role.solo
+7,Xmithie Lite,Poppy,False,Side.red,4,4,6,2.5,120,Flash,Smite,13,False,8681,8600,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Control Ward,Iceborn Gauntlet,Kindlegem,Spectre's Cowl,25812,73720,Lane.jungle,Role.none
+8,Huhi Lite,Orianna,False,Side.red,5,9,0,0.5555555555555556,172,Ghost,Flash,13,False,8966,8975,Rabadon's Deathcap,Doran's Ring,Sorcerer's Shoes,Morellonomicon,,,87356,9505,Lane.mid_lane,Role.solo
+9,Pocket Rhino,Karma,False,Side.red,1,6,7,1.3333333333333333,19,Flash,Exhaust,11,False,6655,6575,Refillable Potion,Mikael's Crucible,Eye of the Watchers,Mercury's Treads,Crystalline Bracer,,17978,2437,Lane.bot_lane,Role.support

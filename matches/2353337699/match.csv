@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hot6 Bling,Mordekaiser,True,Side.blue,3,3,11,4.666666666666667,164,Flash,Teleport,14,False,9488,9075,Refillable Potion,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Shield,Liandry's Torment,Hextech Revolver,87946,13199,Lane.top_lane,Role.solo
+1,MICROWAVEEEE,Ezreal,True,Side.blue,4,2,4,4.0,176,Flash,Heal,12,False,9919,9308,Muramana,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Long Sword,B. F. Sword,4972,94309,Lane.bot_lane,Role.carry
+2,Aethex,Karma,True,Side.blue,4,1,13,17.0,10,Flash,Exhaust,11,False,8018,7375,Ruby Sightstone,Mikael's Crucible,Ardent Censer,Ancient Coin,Boots of Speed,Null-Magic Mantle,7994,4165,Lane.bot_lane,Role.support
+3,ZongopBongo,Fizz,True,Side.blue,8,2,7,7.5,152,Flash,Ignite,14,False,10413,8660,Doran's Ring,Zhonya's Hourglass,Amplifying Tome,Lich Bane,Ionian Boots of Lucidity,Null-Magic Mantle,55485,25909,Lane.mid_lane,Role.solo
+4,TwistyJuker,Yasuo,True,Side.blue,8,3,8,5.333333333333333,128,Flash,Smite,14,True,11135,9825,Refillable Potion,,Phantom Dancer,Mercury's Treads,Enchantment: Bloodrazor,Frozen Mallet,20868,107250,Lane.jungle,Role.none
+5,binny,Caitlyn,False,Side.red,2,6,4,1.0,180,Heal,Flash,12,False,8165,7575,Doran's Blade,B. F. Sword,Cloak of Agility,Runaan's Hurricane,Berserker's Greaves,Pickaxe,922,93317,Lane.bot_lane,Role.carry
+6,yeedam,Nautilus,False,Side.red,1,6,7,1.3333333333333333,157,Flash,Teleport,13,False,7949,6970,Negatron Cloak,Bami's Cinder,Spirit Visage,The Dark Seal,Corrupting Potion,Mercury's Treads,50210,23948,Lane.top_lane,Role.solo
+7,biblee,Hecarim,False,Side.red,6,3,2,2.6666666666666665,141,Ghost,Smite,13,False,9765,8758,Enchantment: Cinderhulk,Mercury's Treads,Giant's Belt,Refillable Potion,Trinity Force,,20399,117708,Lane.jungle,Role.none
+8,ImSoNaughty,Lux,False,Side.red,2,7,5,1.0,123,Flash,Barrier,12,False,7455,7150,Sorcerer's Shoes,Aether Wisp,Needlessly Large Rod,Morellonomicon,The Dark Seal,Doran's Ring,73262,8895,Lane.mid_lane,Role.solo
+9,1V1VP,Leona,False,Side.red,0,5,4,0.8,35,Ignite,Flash,10,False,5554,4825,Ionian Boots of Lucidity,Face of the Mountain,,Cloth Armor,,Sightstone,9422,5795,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NaVi Juan,Ziggs,True,Side.blue,11,8,3,1.75,253,Heal,Flash,17,False,15396,14050,Zhonya's Hourglass,Morellonomicon,Void Staff,Luden's Echo,,Sorcerer's Shoes,174864,17024,Lane.mid_lane,Role.solo
+1, keine Hosen,Twitch,True,Side.blue,19,6,7,4.333333333333333,244,Flash,Heal,17,True,18950,17825,The Bloodthirster,Infinity Edge,Mercurial Scimitar,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,0,211940,Lane.bot_lane,Role.carry
+2,Malya EUW ,Nasus,True,Side.blue,2,4,1,0.75,269,Flash,Teleport,17,False,13836,11150,Doran's Ring,Giant's Belt,Zz'Rot Portal,Boots of Swiftness,Spirit Visage,Iceborn Gauntlet,60596,91548,Lane.top_lane,Role.solo
+3,lvernie Sanders,Kindred,True,Side.blue,8,2,9,8.5,169,Smite,Flash,17,False,13871,12950,Enchantment: Bloodrazor,Guardian Angel,Runaan's Hurricane,Berserker's Greaves,Frozen Mallet,Vampiric Scepter,2160,185272,Lane.jungle,Role.none
+4,Nwok,Nautilus,True,Side.blue,1,8,20,2.625,29,Flash,Exhaust,14,False,10828,10000,Face of the Mountain,Locket of the Iron Solari,Redemption,,Ruby Sightstone,Boots of Mobility,15097,7423,Lane.bot_lane,Role.support
+5,TheNuocMam,Lux,False,Side.red,7,5,9,3.2,215,Heal,Flash,16,False,13776,12350,Frost Queen's Claim,Needlessly Large Rod,Void Staff,Sorcerer's Shoes,Mejai's Soulstealer,Luden's Echo,125582,15245,Lane.mid_lane,Role.solo
+6,The Broskie,Riven,False,Side.red,9,5,5,2.8,270,Teleport,Flash,17,False,13497,13075,The Black Cleaver,Ravenous Hydra,Ionian Boots of Lucidity,Warden's Mail,Guardian Angel,B. F. Sword,0,168685,Lane.top_lane,Role.solo
+7,The Brophy,Thresh,False,Side.red,2,8,9,1.375,36,Exhaust,Flash,13,False,8311,8175,Redemption,Eye of the Equinox,,Knight's Vow,,Boots of Mobility,9898,4750,Lane.bot_lane,Role.support
+8,ƒaith,Jayce,False,Side.red,4,14,6,0.7142857142857143,165,Smite,Flash,15,False,11495,11610,Duskblade of Draktharr,Youmuu's Ghostblade,Enchantment: Warrior,Pickaxe,Ninja Tabi,,37179,122379,Lane.jungle,Role.none
+9,damightywolf,Miss Fortune,False,Side.red,6,9,6,1.3333333333333333,230,Heal,Flash,15,False,13030,12100,The Black Cleaver,Berserker's Greaves,Duskblade of Draktharr,Lord Dominik's Regards,Vampiric Scepter,Doran's Blade,4158,141322,Lane.bot_lane,Role.carry

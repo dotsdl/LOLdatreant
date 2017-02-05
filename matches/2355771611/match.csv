@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GamingWithXD,Bard,True,Side.blue,0,1,8,8.0,18,Flash,Exhaust,11,False,5800,5525,Frost Queen's Claim,Ruby Sightstone,Boots of Mobility,Control Ward,Total Biscuit of Rejuvenation,Cloth Armor,6754,4227,Lane.bot_lane,Role.support
+1,TheColorOfAzure,Karthus,True,Side.blue,4,2,11,7.5,104,Flash,Exhaust,12,True,8292,6600,Rod of Ages,Sorcerer's Shoes,Giant's Belt,Needlessly Large Rod,Doran's Ring,,57964,8400,Lane.mid_lane,Role.solo
+2,IHavetheAudacity,Ashe,True,Side.blue,3,3,8,3.6666666666666665,136,Flash,Heal,12,False,8542,6300,Runaan's Hurricane,,,Cull,Berserker's Greaves,B. F. Sword,829,80586,Lane.bot_lane,Role.carry
+3,uupa,Ryze,True,Side.blue,8,3,5,4.333333333333333,178,Flash,Teleport,14,False,9756,7475,Refillable Potion,Seraph's Embrace,,Rod of Ages,Ionian Boots of Lucidity,Ruby Crystal,101926,8240,Lane.top_lane,Role.solo
+4,Rank 1 Season 7,Kha'Zix,True,Side.blue,15,3,5,6.666666666666667,140,Smite,Flash,14,False,12903,12625,Tiamat,Duskblade of Draktharr,Youmuu's Ghostblade,Ionian Boots of Lucidity,Haunting Guise,Enchantment: Warrior,5062,154435,Lane.jungle,Role.none
+5,FARMER Shu,Nidalee,False,Side.red,0,8,2,0.25,51,Smite,Flash,9,False,4875,4375,Enchantment: Runic Echoes,Hunter's Potion,Boots of Speed,Sheen,,,24756,6634,Lane.jungle,Role.none
+6,XxSuper TroIIxX,Malphite,False,Side.red,4,5,0,0.8,89,Teleport,Flash,12,False,6350,5900,Corrupting Potion,Sapphire Crystal,Abyssal Scepter,Spectre's Cowl,Boots of Speed,Kindlegem,24143,13684,Lane.top_lane,Role.solo
+7,Synchronous,Vayne,False,Side.red,2,5,2,0.8,99,Heal,Flash,10,False,6019,5800,Doran's Blade,Statikk Shiv,Cloak of Agility,Boots of Speed,,B. F. Sword,4476,32554,Lane.bot_lane,Role.carry
+8,e3343,Kayle,False,Side.red,3,8,1,0.5,89,Ignite,Flash,10,False,5879,5400,Doran's Ring,Nashor's Tooth,Recurve Bow,Boots of Speed,Health Potion,Dagger,33851,14778,Lane.mid_lane,Role.solo
+9,By the wind,Morgana,False,Side.red,2,4,6,2.0,18,Flash,Ignite,10,False,6134,5800,Eye of the Watchers,Redemption,Mercury's Treads,,,,14592,2775,Lane.bot_lane,Role.support

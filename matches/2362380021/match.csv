@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Huw,Irelia,False,Side.blue,2,7,1,0.42857142857142855,100,Teleport,Flash,10,False,5747,5993,Trinity Force,Corrupting Potion,Cloth Armor,Doran's Blade,,Boots of Speed,1691,24964,Lane.top_lane,Role.solo
+1,Voids,Braum,False,Side.blue,0,3,5,1.6666666666666667,33,Exhaust,Flash,9,False,4815,4075,Targon's Brace,Sightstone,Boots of Mobility,Crystalline Bracer,Control Ward,Cloth Armor,5744,7219,Lane.bot_lane,Role.support
+2,Mad Mandingo Man,Ezreal,False,Side.blue,3,3,1,1.3333333333333333,162,Flash,Heal,10,False,7226,5700,Doran's Blade,Manamune,Sheen,Phage,Boots of Speed,,13025,52243,Lane.bot_lane,Role.carry
+3,Cya IN THE BUSH,Rengar,False,Side.blue,2,2,3,2.5,91,Smite,Flash,10,False,6056,5275,Enchantment: Warrior,Serrated Dirk,Boots of Speed,Caulfield's Warhammer,,,6544,62554,Lane.jungle,Role.none
+4,Empyreal Peace,Syndra,False,Side.blue,0,5,0,0.0,146,Flash,Ghost,11,False,5935,5675,Morellonomicon,Giant's Belt,Doran's Ring,Sorcerer's Shoes,,,58974,8758,Lane.mid_lane,Role.solo
+5,Sìyou,Vayne,True,Side.red,5,3,1,2.0,147,Flash,Heal,11,False,8707,6350,Doran's Blade,Cull,Berserker's Greaves,Infinity Edge,Dagger,Dagger,0,61602,Lane.bot_lane,Role.carry
+6,Is That Hymn,Janna,True,Side.red,0,0,7,7.0,7,Exhaust,Flash,10,False,5747,4100,Nomad's Medallion,,Redemption,Sightstone,,,2330,5459,Lane.bot_lane,Role.support
+7,eRx,Pantheon,True,Side.red,8,1,6,14.0,110,Ignite,Flash,12,True,9167,8025,The Black Cleaver,Corrupting Potion,Duskblade of Draktharr,Mercury's Treads,Control Ward,,3906,55928,Lane.top_lane,Role.solo
+8,Cotopaco Parce,Cassiopeia,True,Side.red,5,1,6,11.0,173,Exhaust,Flash,13,False,9455,8170,Doran's Ring,Tear of the Goddess,Rylai's Crystal Scepter,Negatron Cloak,,Morellonomicon,80009,9149,Lane.mid_lane,Role.solo
+9,Grapermelon,Vi,True,Side.red,2,2,6,4.0,125,Smite,Flash,12,False,8494,7808,Boots of Swiftness,Refillable Potion,Enchantment: Warrior,Trinity Force,Ruby Crystal,,2291,116689,Lane.jungle,Role.none

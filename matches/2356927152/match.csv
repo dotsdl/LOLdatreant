@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ez Havoc ,Ashe,False,Side.blue,5,8,6,1.375,249,Heal,Flash,15,False,12800,12575,Berserker's Greaves,Doran's Blade,Infinity Edge,Statikk Shiv,The Bloodthirster,Pickaxe,22087,135854,Lane.bot_lane,Role.carry
+1,Chiri R,Rek'Sai,False,Side.blue,3,9,12,1.6666666666666667,157,Smite,Ghost,15,False,11610,11475,Ninja Tabi,Titanic Hydra,Dead Man's Plate,Spectre's Cowl,Enchantment: Cinderhulk,,34751,107673,Lane.jungle,Role.none
+2,CLG Smile,Ryze,False,Side.blue,2,12,4,0.5,226,Teleport,Flash,16,False,11895,11700,Seraph's Embrace,Control Ward,Frozen Heart,Ninja Tabi,Blasting Wand,Rod of Ages,165098,10631,Lane.jungle,Role.none
+3,iQQPurple,Cassiopeia,False,Side.blue,8,8,7,1.875,217,Cleanse,Flash,17,True,13196,12025,Seraph's Embrace,Seeker's Armguard,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,112259,10081,Lane.mid_lane,Role.solo
+4,BIGGILBERT,Sion,False,Side.blue,7,10,8,1.5,78,Flash,Exhaust,14,False,11694,11275,Kindlegem,Eye of the Equinox,Frozen Mallet,Boots of Swiftness,Frozen Heart,Spectre's Cowl,14085,37077,Lane.bot_lane,Role.support
+5,Missed Callls,Irelia,True,Side.red,9,4,7,4.0,236,Flash,Exhaust,18,False,14884,14283,Sterak's Gage,Spirit Visage,Mercury's Treads,Trinity Force,Maw of Malmortius,,5517,143948,Lane.top_lane,Role.solo
+6,MingHo,Lissandra,True,Side.red,7,7,15,3.142857142857143,199,Ignite,Flash,17,False,14151,12050,Hextech Protobelt-01,Rabadon's Deathcap,Abyssal Scepter,Sorcerer's Shoes,Doran's Ring,Lost Chapter,153345,12864,Lane.mid_lane,Role.solo
+7,Braums Mustache,Braum,True,Side.red,3,5,28,6.2,46,Flash,Exhaust,16,False,11956,11475,Boots of Swiftness,Ruby Sightstone,Face of the Mountain,Redemption,Locket of the Iron Solari,Glacial Shroud,16537,11152,Lane.bot_lane,Role.support
+8,Watarimono,Hecarim,True,Side.red,15,5,18,6.6,178,Ghost,Smite,17,False,16382,14758,Enchantment: Cinderhulk,Dead Man's Plate,Trinity Force,Mercury's Treads,Spirit Visage,Chain Vest,40187,136147,Lane.jungle,Role.none
+9,Boosted Sniper,Caitlyn,True,Side.red,13,4,13,6.5,259,Flash,Heal,17,False,16833,14975,Lord Dominik's Regards,Quicksilver Sash,Phantom Dancer,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,1220,204326,Lane.bot_lane,Role.carry

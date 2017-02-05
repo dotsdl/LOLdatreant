@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PopeJay,Morgana,True,Side.blue,3,6,14,2.8333333333333335,11,Exhaust,Flash,12,False,9245,8250,Redemption,Sightstone,Zhonya's Hourglass,Nomad's Medallion,,Boots of Mobility,17701,1775,Lane.bot_lane,Role.support
+1,AntiJenova,Ezreal,True,Side.blue,4,2,9,6.5,158,Flash,Heal,13,False,11513,11383,Control Ward,Blade of the Ruined King,Muramana,Doran's Blade,Trinity Force,Boots of Speed,13883,88889,Lane.bot_lane,Role.carry
+2,Rawr xD,Galio,True,Side.blue,7,5,9,3.2,146,Flash,Teleport,14,False,11633,12225,Spirit Visage,Hextech Protobelt-01,Abyssal Scepter,Forbidden Idol,,Mercury's Treads,93658,11732,Lane.mid_lane,Role.solo
+3,Sud83,Kha'Zix,True,Side.blue,13,1,5,18.0,225,Smite,Flash,17,True,15449,14000,Maw of Malmortius,Youmuu's Ghostblade,Tiamat,Mercury's Treads,Lord Dominik's Regards,Enchantment: Warrior,7226,210144,Lane.jungle,Role.none
+4,Arciles,Graves,True,Side.blue,2,5,8,2.0,216,Flash,Teleport,15,False,12130,11625,Berserker's Greaves,Maw of Malmortius,The Black Cleaver,Phantom Dancer,Vampiric Scepter,,697,153477,Lane.top_lane,Role.solo
+5,Rashuchacha,Syndra,False,Side.red,4,11,5,0.8181818181818182,208,Ignite,Flash,14,False,10271,9125,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Seeker's Armguard,,121386,10040,Lane.mid_lane,Role.solo
+6,Kasier,Jhin,False,Side.red,5,3,5,3.3333333333333335,209,Flash,Heal,13,False,10524,10075,Infinity Edge,Vampiric Scepter,Ionian Boots of Lucidity,Doran's Blade,Rapid Firecannon,B. F. Sword,14258,130951,Lane.bot_lane,Role.carry
+7,LogicalJerimy,Zac,False,Side.red,6,2,8,7.0,98,Flash,Smite,13,False,9899,8850,Ninja Tabi,Dead Man's Plate,Enchantment: Cinderhulk,Giant's Belt,Warden's Mail,,86421,22259,Lane.jungle,Role.none
+8,CJ Frost Sadlife,Thresh,False,Side.red,1,8,10,1.375,35,Flash,Exhaust,12,False,7076,6300,Face of the Mountain,Mikael's Crucible,Ionian Boots of Lucidity,,,Sightstone,12874,7130,Lane.bot_lane,Role.support
+9,Jaevon,Ryze,False,Side.red,3,5,4,1.4,264,Flash,Teleport,15,False,10773,10675,Morellonomicon,Tear of the Goddess,Seeker's Armguard,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Fiendish Codex,164013,8558,Lane.top_lane,Role.solo

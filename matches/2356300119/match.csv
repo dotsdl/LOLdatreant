@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yamata,Lulu,False,Side.blue,4,7,1,0.7142857142857143,103,Flash,Ghost,11,True,6564,9285,Nashor's Tooth,Dagger,Pickaxe,Boots of Speed,,,42655,14748,Lane.top_lane,Role.solo
+1,Maxspigs,Lux,False,Side.blue,1,6,5,1.0,102,Heal,Flash,10,False,5884,5585,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Blasting Wand,Amplifying Tome,,54382,8245,Lane.mid_lane,Role.solo
+2,Kobin,Vi,False,Side.blue,1,7,3,0.5714285714285714,80,Smite,Flash,10,False,5507,5075,Ninja Tabi,Refillable Potion,Cloth Armor,Ruby Crystal,Long Sword,Enchantment: Warrior,670,54057,Lane.jungle,Role.none
+3,Chum Dog,Jhin,False,Side.blue,2,4,4,1.5,144,Flash,Heal,10,False,6793,5225,Doran's Blade,Essence Reaver,,Boots of Swiftness,,,1955,58027,Lane.bot_lane,Role.carry
+4,Reymond,Soraka,False,Side.blue,1,3,6,2.3333333333333335,3,Flash,Exhaust,10,False,5328,5100,Cloth Armor,Cloth Armor,Eye of the Oasis,Ionian Boots of Lucidity,Ruby Crystal,Glacial Shroud,3933,837,Lane.bot_lane,Role.support
+5,Anthøny,Kha'Zix,True,Side.red,13,4,3,4.0,68,Smite,Flash,12,False,10271,9825,Enchantment: Warrior,Youmuu's Ghostblade,The Black Cleaver,Boots of Mobility,,,3966,84222,Lane.jungle,Role.none
+6,Bobby De Niro,Orianna,True,Side.red,6,2,10,8.0,156,Ghost,Flash,13,False,10320,9775,Doran's Ring,Rabadon's Deathcap,Sorcerer's Shoes,Morellonomicon,Blasting Wand,Doran's Ring,68335,15172,Lane.mid_lane,Role.solo
+7,Chief Sharkbait,Quinn,True,Side.red,4,2,8,6.0,126,Teleport,Flash,12,False,8498,8275,Berserker's Greaves,Essence Reaver,Doran's Blade,Giant's Belt,Jaurim's Fist,Null-Magic Mantle,180,68900,Lane.top_lane,Role.solo
+8,Eepblob,Blitzcrank,True,Side.red,2,1,8,10.0,23,Exhaust,Flash,10,False,6229,6100,Righteous Glory,Sightstone,Boots of Mobility,Relic Shield,Forbidden Idol,Ruby Crystal,6163,10067,Lane.bot_lane,Role.support
+9,titanicfiddle,Twitch,True,Side.red,2,1,3,5.0,152,Flash,Heal,12,False,7984,5175,Berserker's Greaves,Blade of the Ruined King,,,Doran's Blade,,0,63832,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Silronmen,Zyra,True,Side.blue,2,3,13,5.0,24,Flash,Ignite,11,False,8750,6525,Rylai's Crystal Scepter,,Frostfang,Haunting Guise,,Boots of Speed,36843,7525,Lane.bot_lane,Role.support
+1,am sol,Lee Sin,True,Side.blue,7,4,7,3.5,125,Smite,Flash,13,False,10491,10150,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Ionian Boots of Lucidity,Ravenous Hydra,,20409,93360,Lane.jungle,Role.none
+2,dog baby,Viktor,True,Side.blue,12,1,5,17.0,206,Flash,Ghost,15,False,13365,8875,Perfect Hex Core,Rylai's Crystal Scepter,Refillable Potion,Doran's Ring,Ionian Boots of Lucidity,Sheen,116709,16239,Lane.mid_lane,Role.solo
+3,Ez Jonn,Dr. Mundo,True,Side.blue,6,5,9,3.0,148,Ghost,Teleport,14,True,10331,8225,Doran's Shield,Sunfire Cape,Ninja Tabi,Spirit Visage,Crystalline Bracer,,55585,36942,Lane.top_lane,Role.solo
+4,KRYMER NO JUTSU,Ezreal,True,Side.blue,3,2,8,5.5,194,Flash,Heal,13,False,10204,10025,Blade of the Ruined King,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,,,16675,95268,Lane.bot_lane,Role.carry
+5,MidzFTW,Graves,False,Side.red,6,7,3,1.2857142857142858,142,Smite,Flash,13,False,9838,9225,Control Ward,Caulfield's Warhammer,Blade of the Ruined King,Enchantment: Warrior,Vampiric Scepter,Boots of Mobility,4941,115226,Lane.jungle,Role.none
+6,CC Wolf,Varus,False,Side.red,3,6,5,1.3333333333333333,205,Heal,Flash,13,False,9705,9500,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,Hexdrinker,Long Sword,9274,107646,Lane.bot_lane,Role.carry
+7,superHOT,Malphite,False,Side.red,1,5,5,1.2,144,Flash,Teleport,13,False,7488,7400,Iceborn Gauntlet,Spirit Visage,Bami's Cinder,Boots of Speed,,,45487,27321,Lane.top_lane,Role.solo
+8,Bananas R Yummy,Karma,False,Side.red,2,8,7,1.125,97,Ghost,Flash,11,False,7311,6235,Morellonomicon,Needlessly Large Rod,Blasting Wand,Amplifying Tome,Doran's Ring,Boots of Speed,48704,11538,Lane.mid_lane,Role.solo
+9,SM Minah,Sona,False,Side.red,3,4,8,2.75,25,Flash,Exhaust,11,False,7618,7375,Redemption,Eye of the Watchers,Forbidden Idol,Aether Wisp,Ionian Boots of Lucidity,,11374,4206,Lane.bot_lane,Role.support

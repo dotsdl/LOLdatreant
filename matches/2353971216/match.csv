@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l Spawn l,Olaf,True,Side.blue,9,1,11,20.0,101,Ghost,Smite,13,True,10295,8050,Righteous Glory,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Giant's Belt,Chain Vest,10612,81997,Lane.jungle,Role.none
+1,Painn,Ahri,True,Side.blue,12,4,6,4.5,139,Flash,Ignite,13,False,10844,9700,Doran's Ring,Needlessly Large Rod,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Sorcerer's Shoes,53039,10161,Lane.mid_lane,Role.solo
+2,Adrian Riven,Riven,True,Side.blue,7,5,0,1.4,157,Teleport,Flash,13,False,9335,8575,The Black Cleaver,Ravenous Hydra,Refillable Potion,Ionian Boots of Lucidity,Long Sword,Long Sword,0,94817,Lane.top_lane,Role.solo
+3,godrjsdnd,Caitlyn,True,Side.blue,4,2,3,3.5,183,Heal,Flash,12,False,9820,7100,Doran's Blade,Pickaxe,Cull,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,721,111416,Lane.bot_lane,Role.carry
+4,The Tank Man,Janna,True,Side.blue,0,0,20,20.0,2,Flash,Exhaust,12,False,6994,6200,Eye of the Oasis,Ardent Censer,Boots of Mobility,Forbidden Idol,,,4115,6072,Lane.bot_lane,Role.support
+5,TwitchChunkylol,Orianna,False,Side.red,4,7,3,1.0,114,Ghost,Flash,11,False,7061,6410,Blasting Wand,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,49613,5811,Lane.mid_lane,Role.solo
+6,Whisper,Karma,False,Side.red,0,8,3,0.375,11,Exhaust,Flash,10,False,5035,3925,,Eye of the Watchers,Ionian Boots of Lucidity,,Ruby Crystal,,14970,2503,Lane.bot_lane,Role.support
+7,Rokí,Fiora,False,Side.red,2,5,1,0.6,102,Flash,Teleport,11,False,6117,5550,Caulfield's Warhammer,Pickaxe,Tiamat,Doran's Blade,Ninja Tabi,Doran's Blade,976,47416,Lane.top_lane,Role.solo
+8,Imaqtpie,Ashe,False,Side.red,2,7,2,0.5714285714285714,136,Flash,Heal,10,False,6744,6375,Runaan's Hurricane,Long Sword,B. F. Sword,Long Sword,Doran's Blade,Berserker's Greaves,584,57611,Lane.bot_lane,Role.carry
+9,Gahlin,Trundle,False,Side.red,4,5,2,1.2,109,Flash,Smite,11,False,7615,7200,Tiamat,Enchantment: Cinderhulk,Boots of Swiftness,Warden's Mail,Glacial Shroud,Ruby Crystal,10612,80379,Lane.jungle,Role.none

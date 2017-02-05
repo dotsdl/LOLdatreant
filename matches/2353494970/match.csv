@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,God f Dreamz,Irelia,False,Side.blue,4,8,4,1.0,144,Teleport,Flash,15,False,9837,9433,Trinity Force,Corrupting Potion,Randuin's Omen,Mercury's Treads,Spectre's Cowl,,3808,67999,Lane.mid_lane,Role.carry
+1,Zv Pickle,LeBlanc,False,Side.blue,8,9,4,1.3333333333333333,176,Flash,Ignite,15,False,11836,11285,Sorcerer's Shoes,Morellonomicon,Hextech Protobelt-01,Rylai's Crystal Scepter,Blasting Wand,Amplifying Tome,125848,11042,Lane.jungle,Role.none
+2,Mercury VI,Olaf,False,Side.blue,5,12,5,0.8333333333333334,162,Flash,Smite,16,False,11931,12175,Ravenous Hydra,Locket of the Iron Solari,Enchantment: Warrior,Glacial Shroud,Mercury's Treads,Cloth Armor,9111,137792,Lane.mid_lane,Role.support
+3,Preacher,Jax,True,Side.red,11,5,13,4.8,189,Ignite,Flash,18,True,14887,13308,Pickaxe,Blade of the Ruined King,Ninja Tabi,Trinity Force,Sterak's Gage,Recurve Bow,33843,140696,Lane.mid_lane,Role.solo
+4,Sorry Bro,Urgot,True,Side.red,10,6,12,3.6666666666666665,165,Heal,Flash,17,False,13385,12175,Muramana,Pickaxe,Maw of Malmortius,The Black Cleaver,Serrated Dirk,Mercury's Treads,2317,107081,Lane.jungle,Role.none
+5,Honour,Elise,True,Side.red,8,8,9,2.125,101,Smite,Flash,16,False,11568,11375,Enchantment: Runic Echoes,Abyssal Scepter,Hextech Protobelt-01,Giant's Belt,Sorcerer's Shoes,Needlessly Large Rod,75867,19978,Lane.bot_lane,Role.solo

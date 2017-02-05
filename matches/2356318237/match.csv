@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,fallenbouse,Vel'Koz,True,Side.blue,0,1,0,0.0,1,Flash,Ignite,2,False,734,500,Spellthief's Edge,,,,,,507,167,Lane.bot_lane,Role.duo
+1,Gorhunter,Yasuo,True,Side.blue,0,0,0,0.0,17,Teleport,Flash,3,False,985,500,Doran's Blade,Health Potion,,,,,862,3047,Lane.top_lane,Role.solo
+2,WakaWakaMF,Caitlyn,True,Side.blue,0,0,0,0.0,11,Flash,Heal,2,False,852,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,3133,Lane.bot_lane,Role.duo
+3,Perrito,Kennen,True,Side.blue,0,0,0,0.0,15,Ghost,Flash,3,False,957,500,Doran's Blade,,,,,,581,2441,Lane.mid_lane,Role.solo
+4,KitingYeezus,Olaf,True,Side.blue,0,0,0,0.0,12,Ghost,Smite,4,False,1145,500,Hunter's Talisman,Refillable Potion,,,,,426,8934,Lane.jungle,Role.none
+5,BigPickle11,Ahri,False,Side.red,0,0,0,0.0,9,Flash,Exhaust,3,False,840,500,,,,,,Doran's Ring,1840,1287,Lane.mid_lane,Role.duo
+6,The Cookie,Janna,False,Side.red,0,0,1,1.0,0,Exhaust,Flash,2,False,817,500,Ancient Coin,,,,,Refillable Potion,319,640,Lane.bot_lane,Role.none
+7,Henchey,Hecarim,False,Side.red,0,0,1,1.0,6,Ghost,Smite,3,False,1036,500,Hunter's Talisman,,,,Refillable Potion,,1244,4892,Lane.bot_lane,Role.none
+8,Im Vaeth,Ezreal,False,Side.red,1,0,0,1.0,8,Heal,Flash,2,True,1201,500,Doran's Blade,,,,,,71,3385,Lane.bot_lane,Role.none
+9,Scorp,Darius,False,Side.red,0,0,0,0.0,0,Teleport,Flash,1,False,647,0,,,,,,,0,0,Lane.mid_lane,Role.duo

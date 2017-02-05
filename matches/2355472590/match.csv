@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hi Im A Sheep,Bard,False,Side.blue,0,0,0,0.0,5,Flash,Exhaust,5,False,1836,875,Control Ward,Total Biscuit of Rejuvenation,,,Spellthief's Edge,Boots of Speed,1026,2250,Lane.jungle,Role.none
+1,Alex Ich 1,Cho'Gath,False,Side.blue,0,2,0,0.0,34,Flash,Ignite,5,False,2161,1350,Doran's Ring,Doran's Ring,Refillable Potion,Boots of Speed,,,11269,3019,Lane.mid_lane,Role.solo
+2,coolkiller88,Twitch,False,Side.blue,0,4,0,0.0,22,Heal,Flash,4,False,1880,850,Doran's Blade,Total Biscuit of Rejuvenation,Dagger,,,,0,6008,Lane.bot_lane,Role.solo
+3,nice human being,Riven,False,Side.blue,0,1,0,0.0,73,Teleport,Flash,8,False,2991,1775,,Doran's Shield,Long Sword,Long Sword,Long Sword,,208,27520,Lane.top_lane,Role.solo
+4,1234569,Kha'Zix,False,Side.blue,0,2,0,0.0,23,Flash,Smite,5,False,2392,1200,Hunter's Talisman,Refillable Potion,Long Sword,Long Sword,,,909,16471,Lane.jungle,Role.none
+5,LimitedExtent,Kennen,True,Side.red,0,0,2,2.0,64,Teleport,Flash,7,False,3700,2535,Doran's Blade,B. F. Sword,Amplifying Tome,Boots of Speed,,,7190,16320,Lane.top_lane,Role.solo
+6,An Obese Panda,Gragas,True,Side.red,2,1,4,6.0,20,Smite,Flash,6,False,3896,3835,Enchantment: Runic Echoes,Hunter's Potion,Amplifying Tome,Boots of Speed,,,15844,8499,Lane.jungle,Role.none
+7,Xpecial,Thresh,True,Side.red,1,0,6,7.0,11,Exhaust,Flash,5,False,3613,2350,Relic Shield,Sheen,,,,Sightstone,4273,5828,Lane.bot_lane,Role.duo
+8,Zaganox,Lucian,True,Side.red,3,1,0,3.0,71,Heal,Flash,6,True,4802,4575,Doran's Blade,Total Biscuit of Rejuvenation,B. F. Sword,Recurve Bow,B. F. Sword,Dagger,409,28597,Lane.bot_lane,Role.duo
+9,Kurumz,Talon,True,Side.red,3,0,2,5.0,66,Ghost,Flash,7,False,4667,2925,Serrated Dirk,Refillable Potion,Boots of Mobility,Long Sword,Long Sword,,204,36529,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CARRIED BY ME,Twitch,False,Side.blue,2,6,2,0.6666666666666666,135,Flash,Heal,11,False,6979,5875,B. F. Sword,Cull,Refillable Potion,Doran's Blade,Runaan's Hurricane,Pickaxe,0,55333,Lane.bot_lane,Role.carry
+1,Ezweal,Rengar,False,Side.blue,3,5,4,1.4,111,Flash,Smite,12,False,7896,7475,Ionian Boots of Lucidity,Enchantment: Warrior,Tiamat,B. F. Sword,Serrated Dirk,,6411,84911,Lane.jungle,Role.none
+2,Stumpey,Zyra,False,Side.blue,1,4,1,0.5,8,Flash,Ignite,9,False,4993,4310,Haunting Guise,Sightstone,Total Biscuit of Rejuvenation,Amplifying Tome,Frostfang,Cloth Armor,10120,2882,Lane.bot_lane,Role.support
+3,Day after Day,Poppy,False,Side.blue,1,6,1,0.3333333333333333,132,Teleport,Flash,12,False,6841,6575,Corrupting Potion,Sunfire Cape,Ninja Tabi,Giant's Belt,Warden's Mail,,13988,51702,Lane.top_lane,Role.solo
+4,Wazabiee,Orianna,False,Side.blue,3,5,2,1.0,149,Ghost,Flash,13,True,7729,6935,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Amplifying Tome,72445,7752,Lane.mid_lane,Role.solo
+5,is that Rex,Vayne,True,Side.red,3,2,8,5.5,128,Heal,Flash,12,False,9229,5625,Doran's Blade,Cull,Pickaxe,,Statikk Shiv,Berserker's Greaves,20073,45582,Lane.bot_lane,Role.carry
+6,SoloMeatballOnly,Renekton,True,Side.red,5,1,5,10.0,155,Ignite,Flash,14,False,9350,7150,The Black Cleaver,,Titanic Hydra,,Boots of Speed,,5856,85950,Lane.top_lane,Role.solo
+7,Bw2jkcl7q1,Diana,True,Side.red,2,2,5,3.5,163,Flash,Teleport,13,False,8453,7300,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Nashor's Tooth,,,71100,14473,Lane.mid_lane,Role.solo
+8,Słave,Kha'Zix,True,Side.red,14,3,5,6.333333333333333,150,Smite,Flash,15,False,12331,11100,Youmuu's Ghostblade,Tiamat,,Ionian Boots of Lucidity,Enchantment: Warrior,Duskblade of Draktharr,5344,149369,Lane.jungle,Role.none
+9,bvcx222,Vel'Koz,True,Side.red,2,2,2,2.0,21,Flash,Exhaust,9,False,6041,5585,Eye of the Watchers,Total Biscuit of Rejuvenation,Amplifying Tome,Giant's Belt,,Sorcerer's Shoes,16130,3081,Lane.bot_lane,Role.support

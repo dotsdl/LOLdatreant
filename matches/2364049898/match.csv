@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JiizzMon,Caitlyn,True,Side.blue,6,5,5,2.2,242,Flash,Heal,15,False,13111,11800,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,B. F. Sword,Doran's Blade,Berserker's Greaves,1985,163754,Lane.bot_lane,Role.carry
+1,Darmous,Vi,True,Side.blue,11,7,5,2.2857142857142856,131,Flash,Smite,16,True,12939,11508,Trinity Force,Ninja Tabi,Enchantment: Warrior,Dead Man's Plate,Ruby Crystal,Cloth Armor,925,126036,Lane.jungle,Role.none
+2,Annie Bot,Annie,True,Side.blue,2,6,9,1.8333333333333333,24,Exhaust,Flash,14,False,9574,8175,Frost Queen's Claim,Ionian Boots of Lucidity,Sightstone,Rabadon's Deathcap,,,25471,3072,Lane.bot_lane,Role.support
+3,Prodïgy,Riven,True,Side.blue,5,6,10,2.5,206,Flash,Teleport,16,False,12985,11775,Ravenous Hydra,Ninja Tabi,Refillable Potion,Maw of Malmortius,The Black Cleaver,Cloth Armor,0,127492,Lane.top_lane,Role.solo
+4,Nëbu,Syndra,True,Side.blue,4,9,5,1.0,158,Flash,Ghost,14,False,10983,9045,Doran's Ring,Morellonomicon,Refillable Potion,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,98396,10819,Lane.mid_lane,Role.solo
+5,Happy Birfdizzay,Vel'Koz,False,Side.red,5,4,13,4.5,27,Flash,Exhaust,13,False,10291,9335,Frost Queen's Claim,Blasting Wand,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,Needlessly Large Rod,36845,4976,Lane.bot_lane,Role.support
+6,SKT Beng,Graves,False,Side.red,9,6,10,3.1666666666666665,157,Flash,Smite,16,False,13812,13175,Berserker's Greaves,Enchantment: Warrior,Death's Dance,Phantom Dancer,Maw of Malmortius,,5877,189382,Lane.jungle,Role.none
+7,milala,Vayne,False,Side.red,9,3,7,5.333333333333333,196,Flash,Heal,14,False,12889,12275,Infinity Edge,Maw of Malmortius,Vampiric Scepter,Doran's Blade,Berserker's Greaves,Statikk Shiv,16705,95498,Lane.bot_lane,Role.carry
+8,Betabet,Kled,False,Side.red,7,7,7,2.0,124,Flash,Teleport,14,False,10745,9920,Mercury's Treads,Titanic Hydra,The Black Cleaver,Negatron Cloak,Chain Vest,,0,73192,Lane.top_lane,Role.solo
+9,Fockus,Ahri,False,Side.red,3,8,12,1.875,177,Flash,Exhaust,14,False,11024,10890,Fiendish Codex,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,Negatron Cloak,The Dark Seal,69420,15476,Lane.mid_lane,Role.solo

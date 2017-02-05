@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DoubleArts,Lulu,True,Side.blue,6,2,8,7.0,110,Teleport,Flash,11,False,8494,7875,Doran's Ring,Ionian Boots of Lucidity,Needlessly Large Rod,Morellonomicon,Seeker's Armguard,Fiendish Codex,51176,9452,Lane.top_lane,Role.solo
+1,Hanjaro,Veigar,True,Side.blue,4,3,7,3.6666666666666665,19,Flash,Exhaust,9,False,7080,7000,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Control Ward,Morellonomicon,The Dark Seal,17730,3368,Lane.bot_lane,Role.support
+2,Xeran,Caitlyn,True,Side.blue,7,1,9,16.0,141,Heal,Flash,12,False,9866,8000,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,,421,99469,Lane.bot_lane,Role.carry
+3,DusKRaptor,Orianna,True,Side.blue,7,1,6,13.0,122,Flash,Ghost,12,False,8711,6260,,Giant's Belt,Morellonomicon,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,50948,11085,Lane.mid_lane,Role.solo
+4,Hate,Lee Sin,True,Side.blue,3,2,7,5.0,79,Smite,Flash,11,False,7947,7550,Ninja Tabi,Tracker's Knife,Titanic Hydra,Giant's Belt,Chain Vest,,9072,77090,Lane.jungle,Role.none
+5,lHlavoc,Vi,False,Side.red,3,4,1,1.0,104,Flash,Smite,10,True,6483,6100,Enchantment: Warrior,Ionian Boots of Lucidity,Phage,Refillable Potion,Stinger,,1344,70303,Lane.jungle,Role.none
+6,Yoreon,Syndra,False,Side.red,3,4,2,1.25,131,Flash,Ghost,11,False,6768,6385,Doran's Ring,Needlessly Large Rod,Morellonomicon,Boots of Speed,Amplifying Tome,Giant's Belt,60077,9173,Lane.mid_lane,Role.solo
+7,TdollasAKATmoney,Karma,False,Side.red,0,7,4,0.5714285714285714,9,Flash,Exhaust,8,False,4674,3675,,Ionian Boots of Lucidity,,Eye of the Watchers,Refillable Potion,,8993,2310,Lane.bot_lane,Role.support
+8,Tehpwner188,Vayne,False,Side.red,3,7,1,0.5714285714285714,105,Heal,Flash,10,False,6378,6100,Doran's Blade,Cull,Berserker's Greaves,B. F. Sword,Statikk Shiv,,15380,28365,Lane.bot_lane,Role.carry
+9,Kachu,Yasuo,False,Side.red,0,5,2,0.4,139,Teleport,Flash,11,False,6393,5625,Doran's Blade,Doran's Blade,Phantom Dancer,Boots of Speed,Jaurim's Fist,Ruby Crystal,22285,50781,Lane.top_lane,Role.solo

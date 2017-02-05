@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gweiss,Brand,True,Side.blue,5,3,6,3.6666666666666665,18,Ignite,Flash,11,True,7903,6900,Frostfang,Sorcerer's Shoes,Rylai's Crystal Scepter,Haunting Guise,,,25644,5348,Lane.bot_lane,Role.support
+1,Wizzy,Kayle,True,Side.blue,5,3,12,5.666666666666667,115,Ghost,Flash,12,False,8825,8750,The Dark Seal,Nashor's Tooth,,Guinsoo's Rageblade,Sorcerer's Shoes,Doran's Ring,38286,19358,Lane.mid_lane,Role.solo
+2,friendly eu guy,Nasus,True,Side.blue,4,0,5,9.0,165,Teleport,Flash,13,False,8928,7450,Luden's Echo,Corrupting Potion,Mejai's Soulstealer,Sorcerer's Shoes,Doran's Ring,Blasting Wand,87443,13740,Lane.top_lane,Role.solo
+3,WarrLe,Lee Sin,True,Side.blue,4,3,7,3.6666666666666665,100,Smite,Flash,11,False,8394,7950,Sightstone,Tiamat,Serrated Dirk,Ionian Boots of Lucidity,Enchantment: Warrior,Caulfield's Warhammer,11944,83373,Lane.jungle,Role.none
+4,Rïkara,Ashe,True,Side.blue,10,2,13,11.5,133,Flash,Heal,12,False,11295,11275,Doran's Blade,Essence Reaver,Runaan's Hurricane,Boots of Speed,Cull,Infinity Edge,1096,77253,Lane.bot_lane,Role.carry
+5,aphromoo,Thresh,False,Side.red,0,5,8,1.6,25,Exhaust,Flash,9,False,4713,4625,Ruby Sightstone,Total Biscuit of Rejuvenation,Boots of Mobility,Control Ward,Relic Shield,Aegis of the Legion,6145,3599,Lane.bot_lane,Role.support
+6,Imaqtpie,Ivern,False,Side.red,1,5,8,1.8,71,Flash,Smite,11,False,6306,6050,Refillable Potion,Redemption,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Null-Magic Mantle,12769,4865,Lane.jungle,Role.none
+7,zirix is seal,Zed,False,Side.red,4,7,3,1.0,89,Flash,Ignite,10,False,6201,5275,Ionian Boots of Lucidity,Refillable Potion,Youmuu's Ghostblade,Serrated Dirk,,,5766,44339,Lane.mid_lane,Role.solo
+8,Rich Homie Jayms,Vayne,False,Side.red,5,8,3,1.0,120,Flash,Heal,10,False,7583,6800,Doran's Blade,Tear of the Goddess,Berserker's Greaves,Cull,B. F. Sword,Runaan's Hurricane,642,41482,Lane.bot_lane,Role.carry
+9,The Woo Man,Teemo,False,Side.red,1,3,1,0.6666666666666666,167,Flash,Teleport,12,False,6800,6250,Doran's Blade,Boots of Swiftness,Spectre's Cowl,Corrupting Potion,Doran's Blade,Zz'Rot Portal,43447,29715,Lane.top_lane,Role.solo

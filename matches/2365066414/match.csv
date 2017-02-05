@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Auberaun,Vayne,True,Side.blue,10,8,4,1.75,230,Flash,Heal,16,False,14636,11750,Doran's Blade,Berserker's Greaves,Statikk Shiv,Infinity Edge,The Bloodthirster,,40691,112670,Lane.bot_lane,Role.carry
+1,Dyr0nejk2,Renekton,True,Side.blue,12,7,10,3.142857142857143,229,Ignite,Flash,17,False,15999,15475,Ravenous Hydra,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Phantom Dancer,Chain Vest,4541,164300,Lane.top_lane,Role.solo
+2,Vermillion2,Nocturne,True,Side.blue,3,5,11,2.8,174,Smite,Flash,16,False,12714,10825,Refillable Potion,Enchantment: Warrior,Boots of Swiftness,Dead Man's Plate,Maw of Malmortius,Giant's Belt,6462,169425,Lane.jungle,Role.none
+3,YOUMADSIS,Alistar,True,Side.blue,1,4,18,4.75,47,Exhaust,Flash,14,False,9668,8550,Redemption,Locket of the Iron Solari,Boots of Swiftness,Ruby Sightstone,Control Ward,Targon's Brace,7545,6266,Lane.bot_lane,Role.support
+4,F33dMeKills,Lux,True,Side.blue,5,7,17,3.142857142857143,197,Flash,Heal,16,False,13131,11835,Ionian Boots of Lucidity,Morellonomicon,Luden's Echo,Rabadon's Deathcap,Amplifying Tome,,130073,15318,Lane.mid_lane,Role.solo
+5,unpeudepulpe,Thresh,False,Side.red,0,3,18,6.0,14,Flash,Ignite,12,False,8278,7450,Boots of Mobility,Ruby Sightstone,Crystalline Bracer,,Face of the Mountain,Forbidden Idol,6301,5041,Lane.bot_lane,Role.support
+6,Rekk,Evelynn,False,Side.red,8,7,7,2.142857142857143,146,Smite,Flash,15,False,11866,11805,Hextech Gunblade,Enchantment: Runic Echoes,Hexdrinker,Control Ward,Iceborn Gauntlet,Ninja Tabi,91114,54803,Lane.jungle,Role.none
+7,Zahnet,Fiora,False,Side.red,13,7,3,2.2857142857142856,241,Flash,Teleport,17,False,14947,14050,Ninja Tabi,The Black Cleaver,Ravenous Hydra,Vampiric Scepter,B. F. Sword,Iceborn Gauntlet,9303,161145,Lane.top_lane,Role.solo
+8,Fake Carry,Ashe,False,Side.red,5,7,11,2.2857142857142856,218,Heal,Flash,14,True,12638,12450,Essence Reaver,Infinity Edge,Runaan's Hurricane,Pickaxe,,Berserker's Greaves,1885,143575,Lane.bot_lane,Role.carry
+9,MorningBaconBits,Morgana,False,Side.red,5,7,10,2.142857142857143,149,Flash,Ghost,14,False,10975,10700,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Rod of Ages,Luden's Echo,,89612,12706,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Carpe Diem,Riven,True,Side.blue,13,5,9,4.4,227,Teleport,Flash,17,False,15455,12950,Youmuu's Ghostblade,Ravenous Hydra,Ionian Boots of Lucidity,The Black Cleaver,Guardian Angel,,3031,167613,Lane.top_lane,Role.solo
+1,  c y1,Jhin,True,Side.blue,4,5,11,3.0,172,Flash,Heal,14,True,11489,9325,Doran's Blade,Infinity Edge,,Boots of Swiftness,Rapid Firecannon,Last Whisper,8626,98060,Lane.bot_lane,Role.carry
+2,herolineage,Twisted Fate,True,Side.blue,17,5,7,4.8,234,Flash,Ghost,16,False,17197,12175,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Luden's Echo,Morellonomicon,Needlessly Large Rod,172638,15605,Lane.mid_lane,Role.solo
+3,oSunny,Sona,True,Side.blue,3,2,21,12.0,22,Ignite,Flash,14,False,10345,8700,Ionian Boots of Lucidity,Eye of the Watchers,Aether Wisp,Lich Bane,Needlessly Large Rod,,16501,6754,Lane.bot_lane,Role.support
+4,SinVS,Xin Zhao,True,Side.blue,5,7,16,3.0,108,Smite,Flash,15,False,11626,10658,Enchantment: Bloodrazor,Trinity Force,Youmuu's Ghostblade,Mercury's Treads,,,7486,101808,Lane.jungle,Role.none
+5,Challenger 4 Xzq,Fiora,False,Side.red,4,12,3,0.5833333333333334,171,Teleport,Flash,14,False,10206,9800,Ravenous Hydra,Corrupting Potion,Ninja Tabi,The Black Cleaver,Hexdrinker,Cloth Armor,2107,96105,Lane.top_lane,Role.solo
+6,APotatoWithAGun,Hecarim,False,Side.red,5,6,8,2.1666666666666665,144,Smite,Ghost,14,False,10209,9808,Enchantment: Cinderhulk,Hunter's Potion,Giant's Belt,Ninja Tabi,Trinity Force,Chain Vest,16687,115172,Lane.jungle,Role.none
+7,Boho,Nami,False,Side.red,2,10,11,1.3,5,Flash,Exhaust,12,False,8210,8025,Locket of the Iron Solari,Ruby Sightstone,Redemption,Total Biscuit of Rejuvenation,Frostfang,Boots of Mobility,8525,2435,Lane.bot_lane,Role.support
+8,Myth VN,Lux,False,Side.red,6,7,4,1.4285714285714286,171,Flash,Cleanse,15,False,10447,9400,Doran's Ring,Morellonomicon,Luden's Echo,Needlessly Large Rod,Sorcerer's Shoes,Control Ward,85194,15049,Lane.mid_lane,Role.solo
+9,TRAPP3D,Twitch,False,Side.red,7,7,4,1.5714285714285714,203,Flash,Heal,14,False,11513,10950,Doran's Blade,Null-Magic Mantle,Infinity Edge,Berserker's Greaves,Phantom Dancer,Runaan's Hurricane,840,100122,Lane.bot_lane,Role.carry

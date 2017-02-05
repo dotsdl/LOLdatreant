@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,OjiisamaKyouma,Jhin,False,Side.blue,2,3,2,1.3333333333333333,117,Flash,Heal,10,False,6237,5200,Essence Reaver,Dagger,Boots of Speed,Doran's Blade,Brawler's Gloves,,435,55136,Lane.bot_lane,Role.carry
+1,Apdo dogjj,Pantheon,False,Side.blue,1,5,5,1.2,128,Flash,Ignite,12,False,6446,5700,Refillable Potion,Bilgewater Cutlass,The Black Cleaver,Sapphire Crystal,Dagger,Boots of Speed,1473,61621,Lane.top_lane,Role.solo
+2,C9 Nasif,Master Yi,False,Side.blue,1,8,1,0.25,75,Ghost,Smite,10,False,5614,5475,Enchantment: Bloodrazor,Boots of Speed,Recurve Bow,Refillable Potion,Vampiric Scepter,Long Sword,789,57712,Lane.jungle,Role.none
+3,sTop FarTing plz,Lux,False,Side.blue,3,9,0,0.3333333333333333,104,Ignite,Flash,11,False,6019,5675,Doran's Ring,Morellonomicon,Aether Wisp,Sorcerer's Shoes,,,45566,9341,Lane.mid_lane,Role.solo
+4,Codeluke,Bard,False,Side.blue,1,5,2,0.6,8,Exhaust,Flash,9,False,4672,4100,Spellthief's Edge,Sightstone,Forbidden Idol,Boots of Mobility,Crystalline Bracer,Refillable Potion,7629,4115,Lane.bot_lane,Role.support
+5,xMrPopox,Morgana,True,Side.red,0,1,9,9.0,21,Exhaust,Flash,10,False,6694,6050,Redemption,Bami's Cinder,Sightstone,Ionian Boots of Lucidity,Frostfang,Control Ward,14946,5935,Lane.bot_lane,Role.support
+6,R8X2010,Jinx,True,Side.red,3,1,7,10.0,161,Heal,Flash,12,False,9181,8750,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Vampiric Scepter,,132,91278,Lane.bot_lane,Role.carry
+7,HanaAckerman,Lee Sin,True,Side.red,14,2,4,9.0,97,Smite,Flash,13,False,10773,9950,Tiamat,Enchantment: Warrior,Chain Vest,Boots of Mobility,The Black Cleaver,Serrated Dirk,17419,80195,Lane.jungle,Role.none
+8,The Clark,LeBlanc,True,Side.red,9,4,4,3.25,127,Flash,Ignite,12,True,9394,8235,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,,58822,10129,Lane.mid_lane,Role.solo
+9,eldon7,Trundle,True,Side.red,4,0,8,12.0,141,Flash,Teleport,12,False,8960,8550,Corrupting Potion,Control Ward,Iceborn Gauntlet,Ninja Tabi,Sunfire Cape,Spectre's Cowl,19947,47123,Lane.top_lane,Role.solo

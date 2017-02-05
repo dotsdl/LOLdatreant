@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yuki Asuna,Nami,False,Side.blue,0,6,6,1.0,10,Exhaust,Flash,10,False,5537,5075,Frostfang,Redemption,Sightstone,Boots of Mobility,Total Biscuit of Rejuvenation,,3364,3244,Lane.bot_lane,Role.support
+1,I am Risk,Twitch,False,Side.blue,3,6,4,1.1666666666666667,151,Flash,Heal,12,False,7960,7275,Berserker's Greaves,Runaan's Hurricane,Pickaxe,Doran's Blade,B. F. Sword,Cloak of Agility,599,68552,Lane.bot_lane,Role.carry
+2,MrSuyeda,Poppy,False,Side.blue,2,8,3,0.625,155,Teleport,Flash,13,False,7710,5550,Mercury's Treads,Corrupting Potion,Sunfire Cape,Sheen,,,21888,45999,Lane.top_lane,Role.solo
+3,rhubarbs,Rengar,False,Side.blue,3,8,4,0.875,153,Smite,Flash,13,False,8583,8125,Enchantment: Warrior,Tiamat,Ionian Boots of Lucidity,Refillable Potion,Youmuu's Ghostblade,Long Sword,10993,110432,Lane.jungle,Role.none
+4,Asakura,Syndra,False,Side.blue,4,6,2,1.0,184,Ghost,Flash,13,False,8728,7430,Amplifying Tome,Giant's Belt,Negatron Cloak,Morellonomicon,Doran's Ring,Sorcerer's Shoes,98621,10507,Lane.mid_lane,Role.solo
+5,Smartcloud,Maokai,True,Side.red,3,2,18,10.5,41,Flash,Ignite,12,False,8712,6950,,,Eye of the Equinox,Redemption,Aegis of the Legion,Boots of Mobility,21413,7960,Lane.bot_lane,Role.support
+6,Garani,Rumble,True,Side.red,15,1,14,29.0,124,Smite,Flash,14,True,13709,12000,Void Staff,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Refillable Potion,Enchantment: Runic Echoes,108909,18843,Lane.jungle,Role.none
+7,GodMeru,Nautilus,True,Side.red,4,2,15,9.5,227,Flash,Teleport,15,False,11279,9225,Sunfire Cape,Zz'Rot Portal,Corrupting Potion,The Dark Seal,Ninja Tabi,Haunting Guise,92728,23296,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,5,4,10,3.75,134,Flash,Heal,12,False,10282,8275,Infinity Edge,Dagger,Runaan's Hurricane,Berserker's Greaves,Control Ward,Doran's Blade,384,91184,Lane.bot_lane,Role.carry
+9,Program,Viktor,True,Side.red,7,3,8,5.0,169,Ghost,Flash,14,False,11007,9520,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Negatron Cloak,Sheen,109554,11606,Lane.mid_lane,Role.solo

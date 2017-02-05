@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DirtyMobs,Poppy,True,Side.blue,3,7,6,1.2857142857142858,172,Flash,Teleport,16,False,11451,10150,Doran's Shield,Sunfire Cape,Iceborn Gauntlet,Guardian Angel,Ninja Tabi,Ruby Crystal,37704,68013,Lane.top_lane,Role.solo
+1,Témpest,Cassiopeia,True,Side.blue,14,3,6,6.666666666666667,208,Flash,Exhaust,17,False,14724,14525,Zhonya's Hourglass,Needlessly Large Rod,Tear of the Goddess,Morellonomicon,Void Staff,Rylai's Crystal Scepter,110551,10576,Lane.mid_lane,Role.solo
+2,godrjsdnd,Vayne,True,Side.blue,2,11,6,0.7272727272727273,202,Heal,Flash,14,False,12117,11025,Infinity Edge,Phantom Dancer,Berserker's Greaves,Doran's Blade,Cull,Statikk Shiv,22024,116643,Lane.bot_lane,Role.carry
+3,Bwas,Hecarim,True,Side.blue,21,3,9,10.0,184,Ghost,Smite,18,True,17588,16733,Enchantment: Cinderhulk,Randuin's Omen,Thornmail,Ninja Tabi,Dead Man's Plate,Trinity Force,34963,161216,Lane.jungle,Role.none
+4,Joelisboss,Karma,True,Side.blue,1,4,24,6.25,30,Exhaust,Flash,15,False,11482,10350,Redemption,Mikael's Crucible,Ruby Sightstone,Boots of Mobility,Frostfang,Zeke's Harbinger,30657,9937,Lane.bot_lane,Role.support
+5,SKY Fear,Varus,False,Side.red,2,6,6,1.3333333333333333,246,Flash,Heal,14,False,11988,11075,Essence Reaver,Runaan's Hurricane,Berserker's Greaves,Lord Dominik's Regards,Doran's Blade,,5667,130204,Lane.bot_lane,Role.carry
+6,Seoksang,Bard,False,Side.red,3,10,8,1.1,16,Flash,Ignite,13,False,8648,7925,Redemption,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,,,13889,3641,Lane.bot_lane,Role.support
+7,WT Spectator,Lee Sin,False,Side.red,11,8,7,2.25,170,Flash,Smite,16,False,13408,12275,Mercury's Treads,Ravenous Hydra,Chain Vest,Enchantment: Warrior,The Black Cleaver,Giant's Belt,20106,128910,Lane.jungle,Role.none
+8,umperor,Yasuo,False,Side.red,5,9,3,0.8888888888888888,183,Exhaust,Flash,15,False,10780,10600,Doran's Blade,Phantom Dancer,Berserker's Greaves,Infinity Edge,Lord Dominik's Regards,,28642,94596,Lane.mid_lane,Role.solo
+9,Adrian Riven,Fiora,False,Side.red,7,8,4,1.375,184,Teleport,Flash,16,False,10751,10100,Doran's Blade,Ravenous Hydra,The Black Cleaver,Mercury's Treads,Doran's Blade,Last Whisper,1336,95430,Lane.top_lane,Role.solo

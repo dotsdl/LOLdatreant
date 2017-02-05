@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,N810HO,Alistar,False,Side.blue,0,7,11,1.5714285714285714,28,Flash,Ignite,11,False,6236,5725,Relic Shield,Redemption,Sightstone,Control Ward,Ionian Boots of Lucidity,Kindlegem,11360,3688,Lane.bot_lane,Role.support
+1,Lesu,Kha'Zix,False,Side.blue,4,4,6,2.5,151,Smite,Flash,14,False,9631,9275,Enchantment: Warrior,Refillable Potion,Youmuu's Ghostblade,Phage,Ninja Tabi,Caulfield's Warhammer,3056,121800,Lane.jungle,Role.none
+2,Nob That Boglin,Jhin,False,Side.blue,9,6,5,2.3333333333333335,133,Heal,Flash,12,True,10015,9450,Doran's Blade,Cull,Boots of Swiftness,Essence Reaver,Rapid Firecannon,B. F. Sword,5135,64990,Lane.bot_lane,Role.carry
+3,Kitzuø,Lee Sin,False,Side.blue,5,10,5,1.0,104,Flash,Ignite,12,False,7854,7450,Doran's Blade,Refillable Potion,Ravenous Hydra,Youmuu's Ghostblade,Boots of Speed,,13156,44901,Lane.top_lane,Role.solo
+4,AvriI Lavigne,Ryze,False,Side.blue,4,7,3,1.0,218,Flash,Ghost,14,False,9551,9200,Needlessly Large Rod,Tear of the Goddess,Sorcerer's Shoes,The Dark Seal,Abyssal Scepter,Rod of Ages,140829,6339,Lane.jungle,Role.none
+5,Carrots2,Viktor,True,Side.red,9,3,7,5.333333333333333,223,Flash,Ghost,15,False,13421,9750,Perfect Hex Core,Needlessly Large Rod,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,145765,15437,Lane.mid_lane,Role.solo
+6,jacksparrow111,Rek'Sai,True,Side.red,9,1,9,18.0,174,Smite,Flash,14,False,12381,10575,Spectre's Cowl,Tiamat,Randuin's Omen,Enchantment: Cinderhulk,Kindlegem,Ninja Tabi,40347,100237,Lane.jungle,Role.none
+7,Tsùki,Karma,True,Side.red,1,5,18,3.8,18,Flash,Exhaust,12,False,9246,7700,Eye of the Watchers,,Redemption,Forbidden Idol,Ionian Boots of Lucidity,Aegis of the Legion,22015,7445,Lane.bot_lane,Role.support
+8,SoV NSFW,Illaoi,True,Side.red,8,6,3,1.8333333333333333,212,Flash,Teleport,14,False,12850,12800,Death's Dance,Mercury's Treads,Spectre's Cowl,Sterak's Gage,The Black Cleaver,Kindlegem,3916,167888,Lane.top_lane,Role.solo
+9,coolkiller88,Quinn,True,Side.red,7,7,9,2.2857142857142856,121,Heal,Flash,13,False,10810,9075,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,Zeal,,0,77966,Lane.bot_lane,Role.carry

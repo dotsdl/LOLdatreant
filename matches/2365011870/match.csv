@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Oh Jeeze,Yasuo,False,Side.blue,4,8,4,1.0,194,Teleport,Flash,13,True,10667,10200,Phantom Dancer,Bilgewater Cutlass,Infinity Edge,Mercury's Treads,Dagger,Dagger,24470,91170,Lane.top_lane,Role.solo
+1,Àce,Graves,False,Side.blue,7,7,5,1.7142857142857142,128,Flash,Smite,13,False,10264,10025,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Berserker's Greaves,Infinity Edge,,2648,113787,Lane.jungle,Role.none
+2,Hanjaro,Thresh,False,Side.blue,1,9,12,1.4444444444444444,30,Flash,Ignite,12,False,7053,6525,Sightstone,Face of the Mountain,Redemption,,,Ionian Boots of Lucidity,8053,3250,Lane.bot_lane,Role.support
+3,C9 Saiph,Twitch,False,Side.blue,7,7,8,2.142857142857143,188,Flash,Heal,14,False,12077,11000,Infinity Edge,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Cull,Phantom Dancer,0,111336,Lane.bot_lane,Role.carry
+4,Raveydemon,Cassiopeia,False,Side.blue,3,7,9,1.7142857142857142,163,Ghost,Flash,13,False,9574,8295,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Negatron Cloak,Tear of the Goddess,,71378,7691,Lane.mid_lane,Role.solo
+5,Destinedwithin,Draven,True,Side.red,11,5,5,3.2,171,Flash,Heal,14,False,13964,12725,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,The Bloodthirster,Serrated Dirk,17900,118001,Lane.bot_lane,Role.carry
+6,King Crown,Ivern,True,Side.red,0,5,22,4.4,94,Flash,Smite,15,False,10587,9025,Redemption,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,,33858,14266,Lane.jungle,Role.none
+7,DatFriedChicken,Lee Sin,True,Side.red,7,6,13,3.3333333333333335,159,Flash,Ignite,15,False,12151,11125,Ninja Tabi,Ravenous Hydra,The Black Cleaver,Hexdrinker,B. F. Sword,Doran's Blade,20774,98882,Lane.top_lane,Role.solo
+8,LegitKorea,Orianna,True,Side.red,18,3,9,9.0,229,Flash,Ignite,16,False,16059,12850,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Void Staff,Needlessly Large Rod,Sorcerer's Shoes,144680,16713,Lane.mid_lane,Role.solo
+9,S3 Elise,Leona,True,Side.red,2,3,23,8.333333333333334,35,Flash,Ignite,13,False,9674,7375,Boots of Mobility,Redemption,Ruby Sightstone,Relic Shield,Glacial Shroud,Warden's Mail,14636,11526,Lane.bot_lane,Role.support

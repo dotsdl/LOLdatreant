@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Honeybadger2198,Annie,True,Side.blue,0,0,0,0.0,15,Flash,Ghost,3,False,953,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1765,1108,Lane.mid_lane,Role.solo
+1,Im Not Koby,Jax,True,Side.blue,0,0,0,0.0,13,Flash,Teleport,3,False,916,500,Corrupting Potion,,,,,,38,3509,Lane.top_lane,Role.solo
+2,Japanese is SB,Jhin,True,Side.blue,0,0,1,1.0,14,Flash,Heal,2,False,994,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,39,4441,Lane.bot_lane,Role.none
+3,TooMany,Karma,True,Side.blue,0,0,1,1.0,0,Flash,Exhaust,2,False,781,500,Spellthief's Edge,,,,Total Biscuit of Rejuvenation,,279,350,Lane.bot_lane,Role.none
+4,TRUMPSSMALLHANDS,Jarvan IV,True,Side.blue,1,0,0,1.0,12,Flash,Smite,3,True,1379,500,Hunter's Machete,Refillable Potion,,,,,184,4404,Lane.bot_lane,Role.none
+5,Hanzbro,Viktor,False,Side.red,0,0,0,0.0,11,Cleanse,Flash,3,False,882,500,Prototype Hex Core,Doran's Ring,Health Potion,,,,1083,1026,Lane.mid_lane,Role.duo
+6,NephiIum,Yasuo,False,Side.red,0,0,0,0.0,0,Flash,Teleport,1,False,649,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+7,Scorp,Vel'Koz,False,Side.red,0,1,0,0.0,1,Exhaust,Flash,2,False,735,500,Spellthief's Edge,Refillable Potion,,,,,442,63,Lane.bot_lane,Role.duo
+8,Dan DrakeSword,Elise,False,Side.red,0,0,0,0.0,9,Flash,Smite,3,False,898,500,Hunter's Talisman,Refillable Potion,,,,,2669,2274,Lane.top_lane,Role.solo
+9,Majoche,Twitch,False,Side.red,0,0,0,0.0,10,Flash,Heal,2,False,837,500,Doran's Blade,,,,,,0,2003,Lane.bot_lane,Role.duo

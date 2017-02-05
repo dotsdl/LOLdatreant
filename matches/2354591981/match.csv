@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ikzencriel,Alistar,False,Side.blue,0,6,1,0.16666666666666666,20,Ignite,Flash,9,False,4785,4150,Targon's Brace,Boots of Mobility,Sightstone,Crystalline Bracer,Forbidden Idol,,5732,4065,Lane.bot_lane,Role.support
+1,Natalia Dyer,Riven,False,Side.blue,1,5,1,0.4,116,Flash,Teleport,11,False,6540,6100,Tiamat,Cull,Refillable Potion,Control Ward,Ionian Boots of Lucidity,The Black Cleaver,0,55167,Lane.top_lane,Role.solo
+2,Témpest,Yasuo,False,Side.blue,2,4,1,0.75,180,Flash,Ignite,13,False,8219,7000,Health Potion,Phantom Dancer,Pickaxe,Doran's Blade,Hexdrinker,Mercury's Treads,19981,50943,Lane.mid_lane,Role.solo
+3,OUT DO YA,Vi,False,Side.blue,2,5,0,0.4,124,Flash,Smite,12,False,7126,6975,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,,,1700,90350,Lane.jungle,Role.none
+4,Juuichi san ,Caitlyn,False,Side.blue,2,5,3,1.0,163,Heal,Flash,12,False,7659,6600,Runaan's Hurricane,Refillable Potion,B. F. Sword,Pickaxe,Berserker's Greaves,Doran's Blade,551,84074,Lane.bot_lane,Role.carry
+5,Koby,Poppy,True,Side.red,7,1,6,13.0,153,Flash,Teleport,13,True,9596,8275,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Warden's Mail,,25970,59088,Lane.top_lane,Role.solo
+6,Abou222,Ryze,True,Side.red,6,1,9,15.0,145,Exhaust,Flash,13,False,9523,8075,Seraph's Embrace,The Dark Seal,Control Ward,Sorcerer's Shoes,Rod of Ages,Cloth Armor,72420,9318,Lane.mid_lane,Role.solo
+7,tigerjjayman,Evelynn,True,Side.red,6,3,7,4.333333333333333,128,Flash,Smite,13,False,9949,7750,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Hextech Revolver,The Dark Seal,Rylai's Crystal Scepter,88337,39120,Lane.jungle,Role.none
+8,Alex Ich 1,Ezreal,True,Side.red,1,1,13,14.0,183,Flash,Heal,13,False,9627,6900,Doran's Blade,Manamune,Iceborn Gauntlet,Ionian Boots of Lucidity,Long Sword,,15659,77618,Lane.bot_lane,Role.carry
+9,PutYourHeartsUp,Taliyah,True,Side.red,5,1,15,20.0,31,Exhaust,Flash,12,False,9137,7235,Refillable Potion,Control Ward,Eye of the Watchers,Amplifying Tome,Rylai's Crystal Scepter,Ionian Boots of Lucidity,41168,5432,Lane.bot_lane,Role.support

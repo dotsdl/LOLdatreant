@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Farefars World,Jhin,False,Side.blue,1,7,3,0.5714285714285714,166,Flash,Heal,12,False,7937,7100,Doran's Blade,Essence Reaver,Boots of Swiftness,Zeal,Kircheis Shard,,1366,86581,Lane.bot_lane,Role.carry
+1,Fv Ares,Graves,False,Side.blue,1,8,4,0.625,155,Flash,Smite,13,False,8683,13935,Manamune,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,3725,119248,Lane.jungle,Role.none
+2,Báng,Yasuo,False,Side.blue,2,11,2,0.36363636363636365,103,Flash,Exhaust,12,False,7211,6925,Maw of Malmortius,Phantom Dancer,Refillable Potion,Doran's Blade,Boots of Speed,,15528,39537,Lane.top_lane,Role.solo
+3,Pawsu,Alistar,False,Side.blue,2,10,5,0.7,29,Exhaust,Flash,11,False,6743,5925,Targon's Brace,Sightstone,Locket of the Iron Solari,Boots of Mobility,Ruby Crystal,Ruby Crystal,8107,6283,Lane.bot_lane,Role.support
+4,CroatianD,Ekko,False,Side.blue,4,4,1,1.25,188,Flash,Teleport,14,False,9105,9370,Doran's Ring,Lich Bane,Sorcerer's Shoes,Negatron Cloak,Morellonomicon,,89772,14329,Lane.mid_lane,Role.solo
+5,0 K A Y B O Y S,Rumble,True,Side.red,12,1,13,25.0,200,Flash,Teleport,16,True,13317,11635,Doran's Shield,Zhonya's Hourglass,Rylai's Crystal Scepter,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,126271,16718,Lane.top_lane,Role.solo
+6,Captain Ziploc,Ezreal,True,Side.red,11,2,11,11.0,160,Heal,Flash,14,False,11996,10400,Blade of the Ruined King,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Blade,Long Sword,12893,104092,Lane.bot_lane,Role.carry
+7,DrSizzle,Karma,True,Side.red,1,2,27,14.0,12,Exhaust,Flash,13,False,9101,7500,Eye of the Watchers,Boots of Mobility,Control Ward,Aether Wisp,Forbidden Idol,Redemption,12173,5207,Lane.bot_lane,Role.support
+8,G 4 R 0 U ,Olaf,True,Side.red,8,2,10,9.0,124,Smite,Ghost,14,False,11368,10033,Guardian Angel,,Ionian Boots of Lucidity,Trinity Force,Enchantment: Cinderhulk,,19748,100164,Lane.jungle,Role.none
+9,LegendaryLime,LeBlanc,True,Side.red,7,3,10,5.666666666666667,202,Flash,Ignite,15,False,11443,9160,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Void Staff,Amplifying Tome,,113488,12194,Lane.mid_lane,Role.solo

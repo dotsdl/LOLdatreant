@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GideonJunior,Jinx,False,Side.blue,2,6,5,1.1666666666666667,157,Flash,Heal,12,False,9066,8825,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Pickaxe,,963,90949,Lane.bot_lane,Role.carry
+1,coolifornia,Sion,False,Side.blue,4,8,5,1.125,31,Exhaust,Ignite,10,True,7754,7525,Frozen Heart,Refillable Potion,Face of the Mountain,Knight's Vow,,,7024,14087,Lane.bot_lane,Role.support
+2,Shiphtur,Diana,False,Side.blue,2,4,5,1.75,253,Teleport,Flash,15,False,11359,11110,Zhonya's Hourglass,Nashor's Tooth,Amplifying Tome,Doran's Ring,Rod of Ages,Sorcerer's Shoes,140256,23102,Lane.mid_lane,Role.solo
+3,NB lucian,Kha'Zix,False,Side.blue,7,9,3,1.1111111111111112,114,Smite,Flash,12,False,9254,8500,Ravenous Hydra,Refillable Potion,Phage,Boots of Swiftness,Enchantment: Warrior,,2774,86548,Lane.jungle,Role.none
+4,Haley bb Pig,Irelia,False,Side.blue,2,3,5,2.3333333333333335,153,Teleport,Flash,13,False,9140,8833,Trinity Force,Corrupting Potion,Randuin's Omen,Doran's Shield,Ninja Tabi,,1770,59519,Lane.top_lane,Role.solo
+5,rao ni yi ming,Viktor,True,Side.red,5,3,8,4.333333333333333,190,Ghost,Flash,15,False,11321,9900,Corrupting Potion,Rylai's Crystal Scepter,Mercury's Treads,Perfect Hex Core,Sheen,,120748,13024,Lane.mid_lane,Role.solo
+6,Crey Joswick,Vi,True,Side.red,11,2,9,10.0,114,Flash,Smite,15,False,12659,12503,Enchantment: Warrior,Negatron Cloak,Randuin's Omen,Trinity Force,Mercury's Treads,Spectre's Cowl,1306,141614,Lane.jungle,Role.none
+7,BOT MING,Caitlyn,True,Side.red,7,4,7,3.5,192,Flash,Heal,13,False,12552,11280,Rapid Firecannon,Doran's Blade,,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,1629,143826,Lane.bot_lane,Role.carry
+8,DouYuTV Georgezz,Janna,True,Side.red,2,3,18,6.666666666666667,6,Flash,Exhaust,13,False,9387,7750,Talisman of Ascension,Redemption,,Ruby Sightstone,Null-Magic Mantle,Boots of Mobility,5547,4607,Lane.bot_lane,Role.support
+9,dugggyfresh,Darius,True,Side.red,5,5,6,2.2,175,Flash,Teleport,15,False,11065,9100,Refillable Potion,Ninja Tabi,Sunfire Cape,The Black Cleaver,Doran's Blade,Spectre's Cowl,18995,91871,Lane.top_lane,Role.solo

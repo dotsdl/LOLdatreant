@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,14a,Lee Sin,True,Side.blue,10,4,6,4.0,120,Smite,Flash,13,False,10818,10125,Youmuu's Ghostblade,Refillable Potion,Control Ward,Enchantment: Warrior,Duskblade of Draktharr,Boots of Swiftness,23172,100467,Lane.jungle,Role.none
+1,ZambonGG,Alistar,True,Side.blue,1,5,17,3.6,18,Flash,Exhaust,11,False,7405,6300,Refillable Potion,Mercury's Treads,Face of the Mountain,Sightstone,Crystalline Bracer,Forbidden Idol,9762,4772,Lane.bot_lane,Role.support
+2,Regular Mid,LeBlanc,True,Side.blue,11,3,8,6.333333333333333,152,Flash,Teleport,14,False,11359,10200,Abyssal Scepter,Doran's Ring,The Dark Seal,Morellonomicon,Ionian Boots of Lucidity,Void Staff,88611,14188,Lane.mid_lane,Role.solo
+3,Juuichi san ,Caitlyn,True,Side.blue,8,1,6,14.0,186,Heal,Flash,13,False,11442,8750,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,Doran's Blade,Boots of Speed,356,118973,Lane.bot_lane,Role.carry
+4,McCashDollar,Shaco,True,Side.blue,4,7,9,1.8571428571428572,122,Teleport,Ignite,14,False,9329,8750,Zhonya's Hourglass,Hextech Protobelt-01,Corrupting Potion,Doran's Ring,Ionian Boots of Lucidity,Sheen,46771,24290,Lane.top_lane,Role.solo
+5,Gorhunter,Tristana,False,Side.red,5,4,1,1.5,179,Heal,Flash,11,False,9555,9200,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Vampiric Scepter,Long Sword,20435,82844,Lane.bot_lane,Role.carry
+6,SKY Fear,Elise,False,Side.red,3,9,4,0.7777777777777778,88,Flash,Smite,11,True,7448,6960,Hextech Protobelt-01,Refillable Potion,Sorcerer's Shoes,Amplifying Tome,Enchantment: Runic Echoes,,43153,19385,Lane.jungle,Role.none
+7,Adrian Riven,Riven,False,Side.red,9,8,2,1.375,98,Teleport,Flash,13,False,8589,7925,The Black Cleaver,Tiamat,Pickaxe,Ionian Boots of Lucidity,Vampiric Scepter,Long Sword,0,73464,Lane.top_lane,Role.solo
+8,Cuckvele,Ekko,False,Side.red,3,7,4,1.0,107,Flash,Teleport,12,False,7333,7275,Corrupting Potion,The Dark Seal,Abyssal Scepter,Ninja Tabi,,Hextech Protobelt-01,57144,8500,Lane.mid_lane,Role.solo
+9,VSG VeryBitter,Janna,False,Side.red,0,6,9,1.5,13,Exhaust,Flash,10,False,6860,6300,Ruby Sightstone,Locket of the Iron Solari,Control Ward,Forbidden Idol,Ionian Boots of Lucidity,Spellthief's Edge,5053,4311,Lane.bot_lane,Role.support

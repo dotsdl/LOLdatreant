@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KozAlstonZ,Evelynn,True,Side.blue,8,1,6,14.0,73,Smite,Flash,10,True,7462,7310,Enchantment: Runic Echoes,Hextech Protobelt-01,Boots of Speed,Hunter's Potion,Sheen,Amplifying Tome,34352,20249,Lane.jungle,Role.none
+1,procberry,Ryze,True,Side.blue,3,1,3,6.0,94,Ghost,Flash,10,False,6761,5900,Tear of the Goddess,Refillable Potion,Rod of Ages,Lost Chapter,Ionian Boots of Lucidity,The Dark Seal,50482,7480,Lane.mid_lane,Role.solo
+2,ejzk,Gangplank,True,Side.blue,3,2,4,3.5,118,Teleport,Flash,10,False,7448,4858,Trinity Force,Refillable Potion,Ionian Boots of Lucidity,,,,4103,58182,Lane.top_lane,Role.solo
+3,Malli,Nautilus,True,Side.blue,1,2,14,7.5,21,Flash,Exhaust,8,False,5556,5000,Ionian Boots of Lucidity,Face of the Mountain,Refillable Potion,Sightstone,Crystalline Bracer,,6139,6801,Lane.bot_lane,Role.support
+4,1deag,Caitlyn,True,Side.blue,7,3,5,4.0,76,Heal,Flash,8,False,7221,6525,Doran's Blade,Runaan's Hurricane,Pickaxe,B. F. Sword,Boots of Speed,Cloak of Agility,291,39753,Lane.bot_lane,Role.carry
+5,123aaa789,Jax,False,Side.red,2,2,0,1.0,108,Flash,Teleport,10,False,5606,5250,Blade of the Ruined King,Corrupting Potion,Boots of Speed,Sheen,,,10174,38599,Lane.top_lane,Role.solo
+6,Icerank,Jhin,False,Side.red,0,6,2,0.3333333333333333,42,Heal,Flash,7,False,3547,2050,Doran's Blade,Total Biscuit of Rejuvenation,Caulfield's Warhammer,Boots of Speed,,,1943,16769,Lane.bot_lane,Role.duo
+7,lil Tigga ,Lee Sin,False,Side.red,5,6,2,1.1666666666666667,40,Smite,Flash,9,False,5405,4875,Enchantment: Warrior,Refillable Potion,Boots of Speed,Caulfield's Warhammer,Long Sword,Long Sword,4114,26086,Lane.jungle,Role.none
+8,goompa,Thresh,False,Side.red,0,6,4,0.6666666666666666,24,Exhaust,Flash,8,False,3862,3750,Boots of Speed,Talisman of Ascension,Sightstone,,,,4551,2330,Lane.bot_lane,Role.duo
+9,TheNotoriousDFG,Annie,False,Side.red,1,2,1,1.0,73,Flash,Teleport,8,False,4325,2800,Doran's Ring,Fiendish Codex,Doran's Ring,Ionian Boots of Lucidity,,,20040,3823,Lane.mid_lane,Role.solo

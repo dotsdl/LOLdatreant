@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KING IN DA GAME,Garen,False,Side.blue,0,6,1,0.16666666666666666,36,Flash,Ignite,9,False,3085,2850,Doran's Blade,Caulfield's Warhammer,Mercury's Treads,,,,1026,16262,Lane.mid_lane,Role.duo
+1,Lionhead,Veigar,False,Side.blue,0,7,1,0.14285714285714285,66,Flash,Exhaust,9,False,3759,3000,Doran's Ring,Doran's Ring,Tear of the Goddess,Catalyst of Aeons,Boots of Speed,,23100,5085,Lane.jungle,Role.none
+2,Lionheads,Nasus,False,Side.blue,1,6,0,0.16666666666666666,44,Smite,Flash,9,False,3870,3300,Ninja Tabi,Stalker's Blade,Chain Vest,Ruby Crystal,,,9311,24053,Lane.mid_lane,Role.duo
+3,Sarcasm Orgasm,Graves,True,Side.red,13,0,3,16.0,150,Flash,Heal,12,True,10785,8600,Death's Dance,Phantom Dancer,Hexdrinker,Berserker's Greaves,,,2621,93369,Lane.mid_lane,Role.none
+4,Calabria,Cassiopeia,True,Side.red,4,1,2,6.0,92,Flash,Ghost,11,False,6575,4885,Tear of the Goddess,Rylai's Crystal Scepter,Amplifying Tome,Cloth Armor,,,34919,9390,Lane.mid_lane,Role.none
+5,Henry Pham,Braum,True,Side.red,2,0,12,14.0,27,Ignite,Exhaust,10,False,6177,4950,Face of the Mountain,Aegis of the Legion,Giant's Belt,Rejuvenation Bead,Boots of Speed,,6545,8712,Lane.mid_lane,Role.none

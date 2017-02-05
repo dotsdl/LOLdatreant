@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dyrus,Kassadin,False,Side.blue,11,9,7,2.0,162,Teleport,Flash,15,False,11125,10250,Void Staff,Hextech Protobelt-01,,Doran's Ring,Rod of Ages,Ninja Tabi,83165,20237,Lane.top_lane,Role.solo
+1,Hi Im A Sheep,Sivir,False,Side.blue,5,7,13,2.5714285714285716,200,Flash,Heal,14,True,11359,11450,Phantom Dancer,Essence Reaver,Doran's Blade,B. F. Sword,Vampiric Scepter,Berserker's Greaves,0,122466,Lane.bot_lane,Role.carry
+2,Abou222,Thresh,False,Side.blue,3,9,16,2.111111111111111,33,Ignite,Flash,12,False,8212,7125,Redemption,Control Ward,Ruby Sightstone,Boots of Mobility,Aegis of the Legion,Targon's Brace,11419,4114,Lane.bot_lane,Role.support
+3,zlsna,Syndra,False,Side.blue,6,8,7,1.625,224,Flash,Ghost,15,False,11167,9885,Doran's Ring,Rabadon's Deathcap,Blasting Wand,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,135616,10962,Lane.mid_lane,Role.solo
+4,Pekin Woof,Lee Sin,False,Side.blue,8,8,15,2.875,119,Flash,Smite,14,False,10716,10625,Dead Man's Plate,Randuin's Omen,Enchantment: Warrior,Chain Vest,Ninja Tabi,,21634,74695,Lane.jungle,Role.none
+5,Ness Wizard,Rengar,True,Side.red,16,6,8,4.0,216,Smite,Flash,18,False,16641,18000,Ravenous Hydra,Hexdrinker,Guardian Angel,The Black Cleaver,Ninja Tabi,Enchantment: Warrior,19770,196487,Lane.jungle,Role.none
+6,ZatsMod,Orianna,True,Side.red,5,4,9,3.5,187,Flash,Ignite,15,False,11751,10485,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Amplifying Tome,Blasting Wand,106946,16465,Lane.mid_lane,Role.solo
+7,Cris,Yasuo,True,Side.red,9,8,11,2.5,228,Flash,Exhaust,16,False,13766,12400,Hexdrinker,Infinity Edge,Ninja Tabi,Frozen Mallet,Phantom Dancer,Doran's Blade,25776,141147,Lane.bot_lane,Role.duo
+8,Adrian Riven,Riven,True,Side.red,8,11,5,1.1818181818181819,134,Teleport,Flash,14,False,12007,10150,Duskblade of Draktharr,Tiamat,Ionian Boots of Lucidity,The Black Cleaver,Long Sword,Pickaxe,0,110656,Lane.top_lane,Role.solo
+9,oopa,Nautilus,True,Side.red,3,5,13,3.2,68,Flash,Exhaust,13,False,9965,8775,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,Crystalline Bracer,Forbidden Idol,Boots of Mobility,23806,12489,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,YaThatWasABanana,Lulu,False,Side.blue,1,5,2,0.6,11,Flash,Exhaust,9,False,5038,4775,Ionian Boots of Lucidity,Forbidden Idol,Refillable Potion,Eye of the Watchers,Ruby Crystal,,8440,5699,Lane.bot_lane,Role.support
+1,never negative,Graves,False,Side.blue,2,5,4,1.2,95,Smite,Flash,11,False,6878,5950,Enchantment: Warrior,Refillable Potion,Boots of Swiftness,Caulfield's Warhammer,Serrated Dirk,,2513,75264,Lane.jungle,Role.none
+2,xxxxxwwwwwwxxxxx,Poppy,False,Side.blue,1,5,0,0.2,96,Teleport,Flash,10,False,5818,4875,Ruby Crystal,Corrupting Potion,Ruby Crystal,Ruby Crystal,Spirit Visage,Boots of Speed,2052,45207,Lane.top_lane,Role.solo
+3,rtz 1,Ezreal,False,Side.blue,0,8,2,0.25,137,Flash,Heal,10,False,5884,5550,Manamune,Sheen,Stinger,,Boots of Speed,Doran's Blade,6170,49254,Lane.bot_lane,Role.carry
+4,TQS Zuardian,Cassiopeia,False,Side.blue,5,5,1,1.2,157,Ignite,Flash,12,False,7794,7100,Morellonomicon,Abyssal Scepter,,Doran's Ring,,Tear of the Goddess,70580,6049,Lane.mid_lane,Role.solo
+5,Azed,LeBlanc,True,Side.red,7,3,6,4.333333333333333,129,Flash,Teleport,13,False,8847,7050,Doran's Ring,Refillable Potion,Doran's Ring,Abyssal Scepter,Morellonomicon,Boots of Speed,61213,9149,Lane.mid_lane,Role.solo
+6,Liquid fabbbyyy,Vayne,True,Side.red,8,2,8,8.0,158,Flash,Heal,12,True,10209,9650,Quicksilver Sash,Infinity Edge,Statikk Shiv,,Berserker's Greaves,,20925,67633,Lane.bot_lane,Role.carry
+7,CloudNguyén,Maokai,True,Side.red,3,4,3,1.5,147,Teleport,Flash,13,False,8049,6735,Sapphire Crystal,Control Ward,Mercury's Treads,Sunfire Cape,Spectre's Cowl,Doran's Ring,68228,12624,Lane.top_lane,Role.solo
+8,Happo,Lee Sin,True,Side.red,7,0,4,11.0,123,Flash,Smite,13,False,8908,7925,Tiamat,Refillable Potion,Boots of Swiftness,Dead Man's Plate,Control Ward,Enchantment: Warrior,18889,80286,Lane.jungle,Role.none
+9,konkwon,Nami,True,Side.red,3,0,14,17.0,7,Flash,Ignite,11,False,7460,6300,Redemption,Boots of Swiftness,Faerie Charm,Eye of the Watchers,Control Ward,Faerie Charm,5404,7276,Lane.bot_lane,Role.support

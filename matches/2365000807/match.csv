@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Kha'Zix,False,Side.blue,13,7,6,2.7142857142857144,91,Smite,Flash,15,True,11857,10775,Refillable Potion,Youmuu's Ghostblade,Randuin's Omen,Enchantment: Warrior,Ionian Boots of Lucidity,Last Whisper,5350,103821,Lane.jungle,Role.none
+1,Hi im Thalies,Katarina,False,Side.blue,10,6,5,2.5,121,Ignite,Flash,14,False,10322,10175,Sunfire Cape,Ninja Tabi,Giant's Belt,Hextech Gunblade,Needlessly Large Rod,,84042,10464,Lane.mid_lane,Role.solo
+2,26209633,Janna,False,Side.blue,0,5,14,2.8,10,Flash,Exhaust,12,False,7637,6975,Sightstone,Redemption,Talisman of Ascension,Control Ward,Boots of Speed,Glacial Shroud,4774,2750,Lane.bot_lane,Role.support
+3,Tobias Fate,Sion,False,Side.blue,1,12,3,0.3333333333333333,185,Flash,Exhaust,14,False,9815,9375,Infinity Edge,Youmuu's Ghostblade,Doran's Ring,Doran's Ring,Cloak of Agility,Berserker's Greaves,53976,76152,Lane.top_lane,Role.solo
+4,Chewy is god,Vayne,False,Side.blue,2,5,2,0.8,203,Flash,Heal,13,False,9889,9350,Infinity Edge,Statikk Shiv,Berserker's Greaves,Vampiric Scepter,,Doran's Blade,13353,88283,Lane.bot_lane,Role.carry
+5,Lord Christo II,Nami,True,Side.red,1,3,18,6.333333333333333,13,Flash,Exhaust,12,False,8780,7375,Redemption,Ruby Sightstone,Boots of Mobility,Giant's Belt,Chain Vest,Spellthief's Edge,7314,6055,Lane.bot_lane,Role.support
+6,Fake Carry,Twitch,True,Side.red,8,6,10,3.0,150,Heal,Flash,13,False,11751,9725,Infinity Edge,Runaan's Hurricane,Zeal,,Berserker's Greaves,Doran's Blade,1969,89504,Lane.bot_lane,Role.carry
+7,d3ps,Pantheon,True,Side.red,11,8,4,1.875,125,Flash,Ignite,14,False,11459,11125,Youmuu's Ghostblade,Hexdrinker,Phage,Ionian Boots of Lucidity,Caulfield's Warhammer,Edge of Night,7262,81109,Lane.mid_lane,Role.solo
+8,KarasMai,Graves,True,Side.red,2,5,12,2.8,163,Flash,Smite,14,False,11142,11000,Enchantment: Warrior,Maw of Malmortius,Ninja Tabi,Phantom Dancer,,,4651,148185,Lane.jungle,Role.none
+9,Ayo Its Jango,Trundle,True,Side.red,13,4,7,5.0,182,Teleport,Flash,16,False,13510,11475,Ravenous Hydra,Boots of Swiftness,Corrupting Potion,Giant's Belt,Iceborn Gauntlet,Spirit Visage,3594,129307,Lane.top_lane,Role.solo

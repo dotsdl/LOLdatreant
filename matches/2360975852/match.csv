@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Winter is back,Lee Sin,False,Side.blue,2,8,3,0.625,56,Flash,Smite,10,False,5955,5800,Giant's Belt,Boots of Speed,Health Potion,Enchantment: Warrior,,Tiamat,9653,43711,Lane.jungle,Role.none
+1,Jurassiq,Ezreal,False,Side.blue,2,3,3,1.6666666666666667,123,Flash,Heal,10,False,6679,5400,Manamune,Doran's Blade,Boots of Speed,Sheen,Glacial Shroud,,6837,44979,Lane.bot_lane,Role.carry
+2,Pekin Woof,LeBlanc,False,Side.blue,3,6,2,0.8333333333333334,119,Flash,Ignite,12,False,6389,6185,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Amplifying Tome,,50754,6757,Lane.mid_lane,Role.solo
+3,Captain Kyru,Karma,False,Side.blue,2,2,2,2.0,24,Flash,Ignite,10,False,5318,4850,Crystalline Bracer,Sightstone,Ionian Boots of Lucidity,Forbidden Idol,Null-Magic Mantle,Control Ward,11402,3800,Lane.bot_lane,Role.support
+4,Poı,Darius,False,Side.blue,2,7,2,0.5714285714285714,162,Flash,Teleport,12,False,7201,6100,The Black Cleaver,Corrupting Potion,Mercury's Treads,Null-Magic Mantle,Chain Vest,,136,70317,Lane.top_lane,Role.solo
+5,Sheiden,Kennen,True,Side.red,3,1,8,11.0,19,Exhaust,Flash,11,False,7669,6225,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Cloth Armor,Null-Magic Mantle,,15389,6550,Lane.bot_lane,Role.support
+6,pilling91,Cassiopeia,True,Side.red,6,5,5,2.2,144,Ghost,Flash,12,True,9462,7610,Doran's Ring,Tear of the Goddess,Morellonomicon,Refillable Potion,Abyssal Scepter,Amplifying Tome,62111,9051,Lane.mid_lane,Role.solo
+7,Swiftah,Jax,True,Side.red,5,2,3,4.0,133,Teleport,Flash,13,False,8888,7150,Blade of the Ruined King,Doran's Blade,Doran's Blade,Boots of Speed,Phage,Sheen,17779,61750,Lane.top_lane,Role.solo
+8,C9 Meteos,Vi,True,Side.red,6,1,6,12.0,146,Smite,Flash,14,False,10395,9558,Enchantment: Warrior,Ninja Tabi,Refillable Potion,Trinity Force,Giant's Belt,Chain Vest,2204,145517,Lane.jungle,Role.none
+9,Yami,Caitlyn,True,Side.red,6,2,9,7.5,173,Flash,Heal,13,False,10822,10600,Doran's Blade,Zeal,Infinity Edge,Kircheis Shard,Berserker's Greaves,Runaan's Hurricane,937,105337,Lane.bot_lane,Role.carry

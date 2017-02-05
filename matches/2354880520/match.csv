@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Révenge,Riven,True,Side.blue,6,2,6,6.0,182,Smite,Flash,14,True,11579,9175,Tiamat,Death's Dance,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,Ruby Crystal,1114,158622,Lane.jungle,Role.none
+1,Keegun,Pantheon,True,Side.blue,6,5,6,2.4,93,Flash,Ignite,12,False,9217,7675,,Youmuu's Ghostblade,Edge of Night,Sapphire Crystal,Ninja Tabi,,3518,62780,Lane.top_lane,Role.solo
+2,Vincente Vu,Vayne,True,Side.blue,8,7,9,2.4285714285714284,113,Flash,Heal,11,False,9642,8150,Berserker's Greaves,Infinity Edge,Statikk Shiv,,,Doran's Blade,7414,62445,Lane.bot_lane,Role.carry
+3,Hi Im A Sheep,Bard,True,Side.blue,1,2,16,8.5,11,Flash,Exhaust,11,False,7408,5850,Eye of the Watchers,Locket of the Iron Solari,,,,Boots of Mobility,6842,4608,Lane.bot_lane,Role.support
+4,Yusui,Orianna,True,Side.blue,7,0,5,12.0,200,Ghost,Flash,14,False,10781,9225,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Control Ward,Needlessly Large Rod,Luden's Echo,100864,13402,Lane.mid_lane,Role.solo
+5,Pobelter,Zilean,False,Side.red,2,3,4,2.0,191,Flash,Teleport,13,False,8299,8100,Doran's Ring,Control Ward,Ionian Boots of Lucidity,Morellonomicon,Rod of Ages,Blasting Wand,81189,7991,Lane.mid_lane,Role.solo
+6,mulgokizary,Lee Sin,False,Side.red,7,3,2,3.0,100,Smite,Flash,12,False,8504,8400,Ruby Crystal,Enchantment: Warrior,Control Ward,Boots of Mobility,Spectre's Cowl,Dead Man's Plate,14048,80260,Lane.jungle,Role.none
+7,Doublelift,Jhin,False,Side.red,3,8,4,0.875,139,Flash,Heal,11,False,7729,7300,Doran's Blade,Essence Reaver,Pickaxe,B. F. Sword,Ionian Boots of Lucidity,,4231,58385,Lane.bot_lane,Role.carry
+8,cuteboy1,Brand,False,Side.red,3,10,3,0.6,20,Ignite,Flash,10,False,6020,5950,Corrupting Potion,Giant's Belt,Needlessly Large Rod,Haunting Guise,Spellthief's Edge,Sorcerer's Shoes,17653,2872,Lane.bot_lane,Role.support
+9,I Shadow I,Poppy,False,Side.red,1,4,5,1.5,155,Flash,Teleport,13,False,7670,7425,Corrupting Potion,Sunfire Cape,Chain Vest,Ninja Tabi,Giant's Belt,Sheen,19723,59562,Lane.top_lane,Role.solo

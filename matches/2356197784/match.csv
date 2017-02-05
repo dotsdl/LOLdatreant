@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Squat for Senpai,Zed,True,Side.blue,4,4,9,3.25,170,Flash,Ignite,14,False,11230,10900,Blade of the Ruined King,Youmuu's Ghostblade,Pickaxe,Ionian Boots of Lucidity,Hexdrinker,Last Whisper,6151,103893,Lane.mid_lane,Role.solo
+1,Noctildo,Darius,True,Side.blue,5,9,7,1.3333333333333333,180,Ghost,Flash,15,True,11604,11350,The Black Cleaver,Warden's Mail,Dead Man's Plate,Ninja Tabi,Spirit Visage,,424,101826,Lane.top_lane,Role.solo
+2,Axiom Verge,Vayne,True,Side.blue,8,2,4,6.0,191,Flash,Heal,15,False,12884,11800,Doran's Blade,Statikk Shiv,Blade of the Ruined King,,Berserker's Greaves,Infinity Edge,28967,104435,Lane.bot_lane,Role.carry
+3,Anthøny,Kha'Zix,True,Side.blue,13,1,5,18.0,135,Smite,Flash,15,False,13322,11170,Negatron Cloak,Youmuu's Ghostblade,Chain Vest,Enchantment: Warrior,Lord Dominik's Regards,Ionian Boots of Lucidity,6834,147386,Lane.jungle,Role.none
+4,péggy,Nami,True,Side.blue,1,1,17,18.0,13,Flash,Ignite,13,False,9563,9050,Redemption,Sightstone,Boots of Mobility,Mejai's Soulstealer,Frostfang,Ardent Censer,12087,8488,Lane.bot_lane,Role.support
+5,Xtra Kill,Riven,False,Side.red,8,10,2,1.0,250,Teleport,Flash,16,False,13172,12900,Ravenous Hydra,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,Null-Magic Mantle,Long Sword,2477,162717,Lane.top_lane,Role.solo
+6,cuzcoo,Cassiopeia,False,Side.red,4,5,1,1.0,206,Exhaust,Flash,15,False,10375,10225,Archangel's Staff,Total Biscuit of Rejuvenation,,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,108357,11082,Lane.mid_lane,Role.solo
+7,dobbersp,Soraka,False,Side.red,0,5,7,1.4,32,Exhaust,Flash,11,False,7507,6975,Talisman of Ascension,Sightstone,Corrupting Potion,Ionian Boots of Lucidity,Ardent Censer,,16239,3198,Lane.bot_lane,Role.support
+8,Gumshoos Trump,Rammus,False,Side.red,1,5,5,1.2,100,Ghost,Smite,13,False,8676,8050,Hunter's Potion,Control Ward,Randuin's Omen,Enchantment: Cinderhulk,Ninja Tabi,Chain Vest,54290,37074,Lane.jungle,Role.none
+9,TFM EZreal,Lucian,False,Side.red,4,7,2,0.8571428571428571,153,Heal,Flash,12,False,9421,9025,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,Doran's Blade,Berserker's Greaves,Kircheis Shard,3442,96081,Lane.bot_lane,Role.carry

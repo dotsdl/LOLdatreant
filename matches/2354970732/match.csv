@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MongolWarrior,Corki,True,Side.blue,14,5,9,4.6,159,Exhaust,Flash,15,False,12659,11683,Doran's Blade,Hextech Gunblade,Rapid Firecannon,Sorcerer's Shoes,Trinity Force,,82001,30167,Lane.mid_lane,Role.solo
+1,zz cicero,Poppy,True,Side.blue,7,1,10,17.0,155,Teleport,Flash,15,False,11069,9100,Sunfire Cape,Corrupting Potion,Ninja Tabi,Spirit Visage,Chain Vest,Giant's Belt,29341,71491,Lane.top_lane,Role.solo
+2,BigNick is back,Twitch,True,Side.blue,5,6,7,2.0,152,Heal,Flash,12,False,10145,9500,Berserker's Greaves,Infinity Edge,Doran's Blade,Runaan's Hurricane,Last Whisper,Long Sword,0,71657,Lane.bot_lane,Role.carry
+3,FrozenNight,Janna,True,Side.blue,0,4,20,5.0,13,Flash,Exhaust,12,False,7721,6050,Ancient Coin,Boots of Mobility,Sightstone,Redemption,Aegis of the Legion,Null-Magic Mantle,3775,4040,Lane.bot_lane,Role.support
+4,Prestivent,Zac,True,Side.blue,12,3,10,7.333333333333333,160,Flash,Smite,15,True,13421,12950,Randuin's Omen,Chain Vest,Ninja Tabi,Dead Man's Plate,Enchantment: Cinderhulk,Guardian Angel,109115,23471,Lane.jungle,Role.none
+5,MyTeamSoGOD,Graves,False,Side.red,4,6,7,1.8333333333333333,111,Smite,Flash,13,False,8857,7900,Enchantment: Warrior,Serrated Dirk,Refillable Potion,Boots of Swiftness,Long Sword,Phantom Dancer,3549,95918,Lane.jungle,Role.none
+6,Tai Draven,Draven,False,Side.red,3,12,2,0.4166666666666667,133,Flash,Exhaust,12,False,8269,6950,Doran's Blade,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,,0,75725,Lane.mid_lane,Role.solo
+7,LOD,Jhin,False,Side.red,6,6,4,1.6666666666666667,182,Flash,Heal,13,False,9813,9025,Doran's Blade,Statikk Shiv,Essence Reaver,Control Ward,Ionian Boots of Lucidity,Last Whisper,11056,83656,Lane.bot_lane,Role.carry
+8,I Usually Feed,Zyra,False,Side.red,2,5,10,2.4,21,Flash,Ignite,12,False,8233,7525,Eye of the Watchers,Liandry's Torment,Boots of Mobility,,Control Ward,Total Biscuit of Rejuvenation,32108,4943,Lane.bot_lane,Role.support
+9,Riot Meekal,Kennen,False,Side.red,4,9,1,0.5555555555555556,133,Flash,Teleport,12,False,8260,7975,Doran's Blade,Refillable Potion,Ionian Boots of Lucidity,Blasting Wand,Hextech Protobelt-01,Zhonya's Hourglass,38393,14911,Lane.top_lane,Role.solo

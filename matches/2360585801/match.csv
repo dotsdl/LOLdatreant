@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,trashcanned,Lucian,False,Side.blue,2,9,4,0.6666666666666666,122,Heal,Flash,11,False,6894,6650,Essence Reaver,Doran's Blade,Berserker's Greaves,Brawler's Gloves,Dagger,,2754,48596,Lane.bot_lane,Role.carry
+1,foggedftw1,Tryndamere,False,Side.blue,3,6,3,1.0,133,Ignite,Flash,12,False,7487,6900,Vampiric Scepter,Refillable Potion,Statikk Shiv,Ionian Boots of Lucidity,Phage,Caulfield's Warhammer,10469,61190,Lane.top_lane,Role.solo
+2,Ayukura,Braum,False,Side.blue,2,6,5,1.1666666666666667,30,Flash,Exhaust,9,False,5972,5025,Face of the Mountain,Sightstone,Boots of Speed,Crystalline Bracer,Crystalline Bracer,,6238,5694,Lane.bot_lane,Role.support
+3,Huw,Kog'Maw,False,Side.blue,6,10,1,0.7,109,Ghost,Flash,10,False,7743,7675,Doran's Ring,Luden's Echo,Needlessly Large Rod,Sorcerer's Shoes,Giant's Belt,,61550,8952,Lane.mid_lane,Role.solo
+4,Gorhunter,Ivern,False,Side.blue,1,9,7,0.8888888888888888,58,Smite,Flash,11,False,6688,6475,Skirmisher's Sabre,Locket of the Iron Solari,Boots of Mobility,Athene's Unholy Grail,Faerie Charm,,7134,3506,Lane.jungle,Role.none
+5,Tobias Fate,Twisted Fate,True,Side.red,2,4,15,4.25,8,Flash,Exhaust,9,False,6987,6850,Boots of Mobility,Redemption,Sheen,Aether Wisp,Sightstone,Fiendish Codex,11346,2629,Lane.jungle,Role.none
+6,SoloMeatballOnly,Renekton,True,Side.red,2,2,11,6.5,144,Ignite,Flash,13,False,9005,7350,Doran's Blade,Refillable Potion,Bilgewater Cutlass,The Black Cleaver,Ninja Tabi,Recurve Bow,1729,84956,Lane.top_lane,Role.solo
+7,BluedogSs,Lee Sin,True,Side.red,7,1,12,19.0,107,Smite,Flash,13,False,10660,9050,Tiamat,Randuin's Omen,Enchantment: Warrior,Ninja Tabi,Refillable Potion,Giant's Belt,18725,77401,Lane.jungle,Role.none
+8,Firé,Jhin,True,Side.red,12,5,9,4.2,120,Heal,Flash,12,False,10931,10750,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Glacial Shroud,Tear of the Goddess,Sheen,5880,80675,Lane.bot_lane,Role.solo
+9,Imentice,Syndra,True,Side.red,17,3,7,8.0,172,Ghost,Flash,13,True,13971,11250,Rabadon's Deathcap,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,Void Staff,121674,12275,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tang,Vayne,False,Side.blue,4,6,4,1.3333333333333333,156,Heal,Flash,13,False,9155,8500,Doran's Blade,Cull,Total Biscuit of Rejuvenation,Berserker's Greaves,Statikk Shiv,Infinity Edge,11103,55674,Lane.bot_lane,Role.carry
+1,rektangel,Nidalee,False,Side.blue,11,7,2,1.8571428571428572,123,Flash,Smite,15,False,11038,10375,Refillable Potion,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Banshee's Veil,Sheen,104677,14378,Lane.jungle,Role.none
+2,Nassau,Sion,False,Side.blue,2,3,5,2.3333333333333335,61,Flash,Exhaust,12,False,7346,7200,Sightstone,Face of the Mountain,Ionian Boots of Lucidity,Zz'Rot Portal,Ruby Crystal,,18622,18380,Lane.bot_lane,Role.support
+3,BabylonV,Brand,False,Side.blue,0,6,4,0.6666666666666666,198,Flash,Barrier,14,False,8398,7400,Doran's Ring,Zhonya's Hourglass,Morellonomicon,Ionian Boots of Lucidity,,,82612,16917,Lane.mid_lane,Role.solo
+4,Hi Im Jackrius,Pantheon,False,Side.blue,2,8,6,1.0,127,Teleport,Flash,12,False,8072,7800,Tiamat,Youmuu's Ghostblade,Boots of Swiftness,Phage,Caulfield's Warhammer,,4126,63358,Lane.top_lane,Role.solo
+5,nasunhawn,Jayce,True,Side.red,6,3,6,4.0,184,Flash,Teleport,14,False,11513,9450,The Black Cleaver,Youmuu's Ghostblade,B. F. Sword,Ionian Boots of Lucidity,Long Sword,Doran's Blade,17736,106623,Lane.top_lane,Role.solo
+6,Over The Limit,Fizz,True,Side.red,10,4,2,3.0,121,Flash,Smite,14,True,11467,9950,Zhonya's Hourglass,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Lich Bane,,,68094,43642,Lane.jungle,Role.none
+7,GodLikePizza,Lucian,True,Side.red,4,4,7,2.75,184,Heal,Flash,13,False,10881,10100,Doran's Blade,Phantom Dancer,Vampiric Scepter,Infinity Edge,Berserker's Greaves,B. F. Sword,1616,103268,Lane.bot_lane,Role.carry
+8,Zhonos,Bard,True,Side.red,5,3,7,4.0,11,Flash,Ignite,12,False,8504,7750,Sightstone,Sheen,Aether Wisp,Ionian Boots of Lucidity,Luden's Echo,Spellthief's Edge,22950,7889,Lane.bot_lane,Role.support
+9,herolineage,Veigar,True,Side.red,5,5,5,2.0,209,Flash,Teleport,16,False,11641,11125,Doran's Ring,Rod of Ages,Rabadon's Deathcap,Mercury's Treads,Morellonomicon,,120361,16202,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Koby,Nasus,True,Side.blue,4,2,7,5.5,182,Flash,Teleport,14,False,9997,9908,Trinity Force,Doran's Ring,Doran's Ring,Ninja Tabi,Warden's Mail,Zz'Rot Portal,67492,35499,Lane.top_lane,Role.solo
+1,SKY Fear,Twitch,True,Side.blue,10,2,8,9.0,192,Flash,Heal,13,True,12172,9575,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,0,107088,Lane.bot_lane,Role.carry
+2,Seoksang,Thresh,True,Side.blue,1,3,17,6.0,30,Flash,Exhaust,12,False,7428,5825,Face of the Mountain,Sightstone,Boots of Mobility,Crystalline Bracer,,Forbidden Idol,13066,6585,Lane.bot_lane,Role.support
+3,PSYCHOPATH909,Veigar,True,Side.blue,5,2,9,7.0,159,Flash,Exhaust,13,False,9801,6450,Zhonya's Hourglass,Refillable Potion,Lost Chapter,Doran's Ring,Fiendish Codex,Sorcerer's Shoes,68816,12674,Lane.mid_lane,Role.solo
+4,retarded virgin,Rengar,True,Side.blue,9,1,2,11.0,163,Flash,Smite,15,False,11722,11550,Ninja Tabi,Youmuu's Ghostblade,Tiamat,Enchantment: Warrior,Ruby Crystal,The Black Cleaver,10655,139821,Lane.jungle,Role.none
+5,moon o,Lee Sin,False,Side.red,2,6,4,1.0,116,Smite,Flash,11,False,7731,6725,Youmuu's Ghostblade,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Warrior,,,22368,75949,Lane.jungle,Role.none
+6,Pink Ward,Shaco,False,Side.red,2,7,2,0.5714285714285714,19,Exhaust,Ignite,9,False,5957,5645,Refillable Potion,Talisman of Ascension,Sightstone,Crystalline Bracer,Boots of Speed,Forbidden Idol,13198,2851,Lane.bot_lane,Role.support
+7,Part The Sea,Yasuo,False,Side.red,2,6,4,1.0,158,Flash,Exhaust,12,False,7915,7650,Quicksilver Sash,Phantom Dancer,B. F. Sword,Doran's Blade,Mercury's Treads,,18166,61150,Lane.mid_lane,Role.solo
+8,Flaresz,Jayce,False,Side.red,2,4,4,1.5,167,Flash,Teleport,13,False,8131,7525,Hexdrinker,The Black Cleaver,Mercury's Treads,Last Whisper,Long Sword,,9923,78567,Lane.top_lane,Role.solo
+9,OUT DO YA,Lucian,False,Side.red,2,6,1,0.5,157,Flash,Heal,11,False,7755,7608,Bilgewater Cutlass,Berserker's Greaves,Trinity Force,Dagger,Doran's Blade,Dagger,3252,69292,Lane.bot_lane,Role.carry

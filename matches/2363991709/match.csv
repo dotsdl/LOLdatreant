@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Darmous,Lucian,False,Side.blue,4,3,6,3.3333333333333335,203,Flash,Heal,13,False,9997,9400,Brawler's Gloves,Doran's Blade,Dagger,Essence Reaver,The Black Cleaver,Berserker's Greaves,3951,121397,Lane.bot_lane,Role.carry
+1,Zero Pressure xD,Thresh,False,Side.blue,0,3,13,4.333333333333333,30,Exhaust,Flash,12,False,7158,6425,Ruby Sightstone,Face of the Mountain,,Cloth Armor,Crystalline Bracer,Boots of Mobility,11242,6103,Lane.bot_lane,Role.support
+2,Jurassiq,Lee Sin,False,Side.blue,7,3,6,4.333333333333333,138,Flash,Smite,14,False,10027,9375,Enchantment: Warrior,Randuin's Omen,Giant's Belt,Hexdrinker,Ninja Tabi,Cloth Armor,17939,97954,Lane.jungle,Role.none
+3,Nëbu,Swain,False,Side.blue,2,10,1,0.3,172,Flash,Teleport,14,False,9170,8695,Negatron Cloak,Zhonya's Hourglass,Refillable Potion,Ninja Tabi,Rod of Ages,Doran's Ring,75981,13140,Lane.top_lane,Role.solo
+4,SandPaperX,Viktor,False,Side.blue,2,3,4,2.0,226,Flash,Ghost,14,False,10252,9150,Perfect Hex Core,Blasting Wand,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,141149,16189,Lane.mid_lane,Role.solo
+5,SoloMeatballOnly,Fiora,True,Side.red,4,3,9,4.333333333333333,192,Ignite,Flash,15,False,11610,11093,Mercury's Treads,Guardian Angel,Ravenous Hydra,Trinity Force,,,1516,115742,Lane.top_lane,Role.solo
+6,N810HO,Vayne,True,Side.red,5,6,1,1.0,258,Flash,Heal,15,False,13327,10725,Doran's Blade,Phantom Dancer,,Infinity Edge,Statikk Shiv,Berserker's Greaves,27514,121874,Lane.bot_lane,Role.carry
+7,Myloo,Alistar,True,Side.red,0,4,10,2.5,57,Flash,Exhaust,13,False,8969,7525,Boots of Mobility,Redemption,Eye of the Equinox,Crystalline Bracer,Crystalline Bracer,Cloth Armor,13315,10767,Lane.bot_lane,Role.support
+8,Abou222,Ekko,True,Side.red,8,0,5,13.0,238,Teleport,Flash,17,False,14116,14375,Hextech Gunblade,Lich Bane,Ionian Boots of Lucidity,Abyssal Scepter,Rylai's Crystal Scepter,,152984,23958,Lane.mid_lane,Role.solo
+9,lc0nic,Rek'Sai,True,Side.red,5,2,9,7.0,192,Flash,Smite,16,True,12921,12275,Enchantment: Cinderhulk,Dead Man's Plate,Titanic Hydra,Mercury's Treads,Spectre's Cowl,Kindlegem,43339,129876,Lane.jungle,Role.none

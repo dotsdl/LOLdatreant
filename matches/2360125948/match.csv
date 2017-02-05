@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Valkrin,Olaf,False,Side.blue,2,3,2,1.3333333333333333,114,Smite,Ghost,11,False,6704,6650,Refillable Potion,Titanic Hydra,Boots of Speed,,Enchantment: Bloodrazor,,893,83144,Lane.jungle,Role.none
+1,Xandergod,Vayne,False,Side.blue,1,9,3,0.4444444444444444,114,Flash,Heal,9,True,5850,5425,Doran's Blade,Pickaxe,Berserker's Greaves,Zeal,B. F. Sword,Dagger,0,47338,Lane.bot_lane,Role.carry
+2,FACEB00K,Maokai,False,Side.blue,1,2,2,1.5,104,Teleport,Flash,11,False,5766,5250,Cloth Armor,Doran's Shield,Sunfire Cape,,Cloth Armor,Ninja Tabi,37950,7444,Lane.top_lane,Role.solo
+3,YOUMADSIS,Karma,False,Side.blue,1,6,3,0.6666666666666666,5,Exhaust,Flash,8,False,4822,3775,Refillable Potion,Frostfang,Ionian Boots of Lucidity,Sightstone,Control Ward,Crystalline Bracer,9079,3732,Lane.bot_lane,Role.support
+4,Unmade,Ryze,False,Side.blue,3,4,0,0.75,129,Ghost,Flash,11,False,6499,6370,Control Ward,Negatron Cloak,Boots of Speed,Needlessly Large Rod,Rod of Ages,Tear of the Goddess,53978,9156,Lane.mid_lane,Role.solo
+5,rhubarbs,Ekko,True,Side.red,5,3,3,2.6666666666666665,162,Teleport,Flash,13,False,8965,6725,Doran's Ring,Hextech Protobelt-01,Lich Bane,Boots of Speed,Refillable Potion,,85902,16419,Lane.mid_lane,Role.solo
+6,Ikzencriel,Jax,True,Side.red,3,2,2,2.5,160,Teleport,Flash,12,False,7809,7053,Corrupting Potion,Trinity Force,Bilgewater Cutlass,Boots of Speed,Amplifying Tome,Amplifying Tome,14122,57224,Lane.top_lane,Role.solo
+7,Delerium,Janna,True,Side.red,3,0,15,18.0,5,Exhaust,Flash,11,False,7387,5400,Sightstone,,,Ardent Censer,Ionian Boots of Lucidity,Nomad's Medallion,6114,6725,Lane.bot_lane,Role.support
+8,IKingVex,Ezreal,True,Side.red,12,2,5,8.5,138,Heal,Flash,12,False,10557,7583,Doran's Blade,Refillable Potion,Manamune,Cull,Trinity Force,Boots of Speed,14255,72659,Lane.bot_lane,Role.carry
+9,Peach Nayeon,Rek'Sai,True,Side.red,1,1,8,9.0,125,Smite,Flash,12,False,8083,7825,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Boots of Speed,Caulfield's Warhammer,,22072,81730,Lane.jungle,Role.none

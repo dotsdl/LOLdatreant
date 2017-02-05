@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Leon4242,Karma,True,Side.blue,2,1,13,15.0,36,Flash,Exhaust,13,False,8785,7760,Spellthief's Edge,Boots of Mobility,Ruby Sightstone,Amplifying Tome,Athene's Unholy Grail,Redemption,23776,7640,Lane.bot_lane,Role.support
+1,bvcx222,Malzahar,True,Side.blue,3,2,6,4.5,224,Flash,Ghost,16,False,11381,8485,Amplifying Tome,,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,103986,34284,Lane.mid_lane,Role.solo
+2,Hyorimaru,Ezreal,True,Side.blue,7,3,7,4.666666666666667,204,Flash,Heal,13,False,12805,11533,Doran's Blade,Last Whisper,Blade of the Ruined King,Trinity Force,Ionian Boots of Lucidity,Caulfield's Warhammer,12727,113358,Lane.bot_lane,Role.carry
+3,Cuckvele,Irelia,True,Side.blue,10,4,5,3.75,170,Flash,Teleport,15,False,13134,13058,Titanic Hydra,Trinity Force,Long Sword,Ninja Tabi,Long Sword,Blade of the Ruined King,1866,103240,Lane.jungle,Role.none
+4,TheKushGuy,Lee Sin,True,Side.blue,8,3,10,6.0,104,Smite,Flash,15,True,12258,10700,Enchantment: Warrior,Hexdrinker,Boots of Swiftness,Dead Man's Plate,Guardian Angel,Long Sword,28873,117136,Lane.jungle,Role.none
+5,Wizzy,Kayle,False,Side.red,5,5,1,1.2,185,Ghost,Flash,13,False,9763,8100,The Dark Seal,Needlessly Large Rod,Stinger,Doran's Ring,Sorcerer's Shoes,Guinsoo's Rageblade,66072,30334,Lane.mid_lane,Role.solo
+6,FanatiiLt,Rek'Sai,False,Side.red,2,5,6,1.6,175,Smite,Flash,14,False,9097,8450,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Ninja Tabi,Giant's Belt,,26764,95806,Lane.jungle,Role.none
+7,yeniaR,Caitlyn,False,Side.red,2,7,4,0.8571428571428571,195,Flash,Heal,13,False,9363,8350,Berserker's Greaves,Cull,Runaan's Hurricane,Doran's Blade,Infinity Edge,,527,101995,Lane.bot_lane,Role.carry
+8,Rhux,Nautilus,False,Side.red,3,7,6,1.2857142857142858,129,Flash,Teleport,14,False,8713,7850,Corrupting Potion,Sunfire Cape,Giant's Belt,Mercury's Treads,Spectre's Cowl,Warden's Mail,63789,20378,Lane.top_lane,Role.solo
+9,rat fink boy,Zyra,False,Side.red,1,6,2,0.5,28,Exhaust,Flash,11,False,7061,6800,Eye of the Watchers,Liandry's Torment,,Boots of Mobility,,,23450,5147,Lane.bot_lane,Role.support

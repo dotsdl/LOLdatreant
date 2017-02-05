@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yu Yan Jia,Syndra,True,Side.blue,8,5,7,3.0,190,Ghost,Flash,14,False,12441,12275,Doran's Ring,Needlessly Large Rod,Void Staff,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,120548,12088,Lane.mid_lane,Role.solo
+1,Ken Shifu,Jayce,True,Side.blue,8,6,8,2.6666666666666665,132,Teleport,Flash,14,False,11234,9825,Doran's Blade,Phage,Maw of Malmortius,Manamune,Caulfield's Warhammer,Mercury's Treads,12642,77224,Lane.top_lane,Role.solo
+2,RNG Mlxgod,Evelynn,True,Side.blue,12,8,12,3.0,79,Smite,Ignite,14,False,12035,10825,The Dark Seal,Hextech Protobelt-01,Fiendish Codex,Enchantment: Runic Echoes,Sorcerer's Shoes,Lich Bane,72357,32114,Lane.jungle,Role.none
+3,Ouchxiao,Alistar,True,Side.blue,5,5,20,5.0,30,Flash,Exhaust,13,False,10203,9175,Righteous Glory,Face of the Mountain,Redemption,Sightstone,Boots of Mobility,Null-Magic Mantle,8258,6860,Lane.bot_lane,Role.support
+4,suga heibai,Jinx,True,Side.blue,12,3,12,8.0,214,Flash,Heal,15,False,14588,13150,Vampiric Scepter,Runaan's Hurricane,Statikk Shiv,Infinity Edge,Berserker's Greaves,B. F. Sword,4891,139028,Lane.bot_lane,Role.carry
+5,mid VallFire,Fizz,False,Side.red,6,10,6,1.2,110,Flash,Ignite,13,False,8828,8050,Corrupting Potion,Hextech Protobelt-01,The Dark Seal,Doran's Ring,Lich Bane,Sorcerer's Shoes,43054,13953,Lane.mid_lane,Role.solo
+6,2vn,Lee Sin,False,Side.red,9,11,3,1.0909090909090908,80,Flash,Smite,11,False,8822,8725,Enchantment: Warrior,Boots of Mobility,Maw of Malmortius,Giant's Belt,Chain Vest,,16444,48688,Lane.jungle,Role.none
+7,Vladfire1 BG ,Kennen,False,Side.red,5,6,4,1.5,158,Teleport,Flash,13,True,9285,8845,Zhonya's Hourglass,Hextech Protobelt-01,Negatron Cloak,Doran's Blade,Fiendish Codex,Sorcerer's Shoes,53391,25464,Lane.top_lane,Role.solo
+8,ThirdPoint,Thresh,False,Side.red,1,10,8,0.9,35,Exhaust,Flash,11,False,6456,6000,Control Ward,Cloth Armor,Eye of the Equinox,Redemption,,Ionian Boots of Lucidity,9365,5877,Lane.bot_lane,Role.support
+9,Nevr,Ezreal,False,Side.red,6,8,3,1.125,173,Heal,Flash,13,False,10206,8800,Blade of the Ruined King,Doran's Blade,Manamune,Ionian Boots of Lucidity,,Sheen,17041,74387,Lane.bot_lane,Role.carry

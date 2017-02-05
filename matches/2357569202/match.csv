@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l SectumSempra l,Janna,False,Side.blue,1,5,17,3.6,16,Flash,Exhaust,13,False,7810,7025,Nomad's Medallion,Redemption,Ionian Boots of Lucidity,Sightstone,Aegis of the Legion,Total Biscuit of Rejuvenation,9668,4207,Lane.bot_lane,Role.support
+1,herolineage,Ezreal,False,Side.blue,9,10,10,1.9,189,Flash,Heal,14,False,12132,11550,B. F. Sword,Blade of the Ruined King,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Long Sword,16178,105555,Lane.bot_lane,Role.carry
+2,Avä,Trundle,False,Side.blue,8,8,17,3.125,55,Flash,Smite,14,False,9573,8700,Redemption,Hunter's Potion,Knight's Vow,Enchantment: Cinderhulk,Ninja Tabi,,18678,36041,Lane.jungle,Role.none
+3,Delish,Darius,False,Side.blue,4,10,4,0.8,151,Teleport,Flash,13,False,9634,8725,The Black Cleaver,Doran's Blade,Dead Man's Plate,Doran's Blade,Ninja Tabi,Ruby Crystal,0,84632,Lane.top_lane,Role.solo
+4,TTowntitan13,Karthus,False,Side.blue,5,12,11,1.3333333333333333,193,Teleport,Flash,14,False,10764,9600,Doran's Ring,Rod of Ages,Rylai's Crystal Scepter,Boots of Speed,Zhonya's Hourglass,,150983,6009,Lane.mid_lane,Role.solo
+5,JicMooUGi,Akali,True,Side.red,14,7,6,2.857142857142857,165,Ignite,Flash,16,False,14462,13000,Rylai's Crystal Scepter,Hextech Gunblade,Lich Bane,Needlessly Large Rod,Sorcerer's Shoes,,60842,92622,Lane.mid_lane,Role.solo
+6,getsrekt,Tristana,True,Side.red,9,4,5,3.5,170,Heal,Flash,14,False,13453,13000,Doran's Blade,Berserker's Greaves,Blade of the Ruined King,Infinity Edge,Statikk Shiv,B. F. Sword,34868,119240,Lane.bot_lane,Role.carry
+7,Corporal,Lee Sin,True,Side.red,10,5,14,4.8,116,Smite,Flash,15,True,13166,12425,Guardian Angel,Enchantment: Warrior,Boots of Mobility,Banshee's Veil,Ravenous Hydra,Ruby Crystal,20800,88581,Lane.jungle,Role.none
+8,Gwiyeopda,Nautilus,True,Side.red,0,8,13,1.625,56,Flash,Exhaust,12,False,9286,8345,Face of the Mountain,Redemption,Boots of Swiftness,Negatron Cloak,Raptor Cloak,Sightstone,24371,12025,Lane.bot_lane,Role.support
+9,Handsome PAKl,Aatrox,True,Side.red,12,3,6,6.0,214,Teleport,Flash,16,False,14288,13050,Boots of Swiftness,Blade of the Ruined King,Ravenous Hydra,Spirit Visage,,Doran's Blade,41820,114828,Lane.top_lane,Role.solo

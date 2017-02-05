@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,I Am Leegend,Nasus,True,Side.blue,5,2,2,3.5,196,Teleport,Flash,15,False,11714,9908,Doran's Shield,Trinity Force,Zz'Rot Portal,Mercury's Treads,Giant's Belt,Kindlegem,42850,80550,Lane.top_lane,Role.solo
+1,Asukira,Taliyah,True,Side.blue,4,4,4,2.0,149,Teleport,Flash,14,False,10289,9295,Doran's Ring,Negatron Cloak,Rylai's Crystal Scepter,Doran's Ring,Rod of Ages,Sorcerer's Shoes,94655,10543,Lane.mid_lane,Role.solo
+2,TwistySushi,Vayne,True,Side.blue,9,5,6,3.0,172,Flash,Heal,13,False,11969,9325,Refillable Potion,Infinity Edge,Berserker's Greaves,Statikk Shiv,Zeal,Doran's Blade,14602,92182,Lane.bot_lane,Role.carry
+3,MidzFTW,Rek'Sai,True,Side.blue,5,2,8,6.5,166,Smite,Flash,15,True,11961,10400,Refillable Potion,Titanic Hydra,Enchantment: Cinderhulk,Sterak's Gage,Long Sword,Ninja Tabi,21442,122217,Lane.jungle,Role.none
+4,OneDayToChange,Janna,True,Side.blue,0,0,16,16.0,19,Flash,Exhaust,12,False,8408,7325,Talisman of Ascension,Sightstone,Redemption,Null-Magic Mantle,Boots of Mobility,,8518,8284,Lane.bot_lane,Role.support
+5,JeremySucks,Lee Sin,False,Side.red,4,3,5,3.0,146,Smite,Flash,14,False,9826,9525,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Caulfield's Warhammer,Hexdrinker,,25476,101905,Lane.jungle,Role.none
+6,Mathematix,Ezreal,False,Side.red,1,4,5,1.5,168,Flash,Heal,13,False,8747,8300,Bilgewater Cutlass,Muramana,Iceborn Gauntlet,,Doran's Blade,Ionian Boots of Lucidity,20280,79423,Lane.bot_lane,Role.carry
+7,PredicateName,Azir,False,Side.red,7,4,1,2.0,205,Barrier,Flash,15,False,10979,9760,Doran's Ring,Berserker's Greaves,Rylai's Crystal Scepter,Blasting Wand,Nashor's Tooth,Amplifying Tome,113295,16277,Lane.mid_lane,Role.solo
+8,Hanjaro,Zilean,False,Side.red,1,6,4,0.8333333333333334,9,Flash,Exhaust,11,False,6077,5925,Sightstone,Talisman of Ascension,Refillable Potion,Ionian Boots of Lucidity,Forbidden Idol,Crystalline Bracer,8863,3371,Lane.bot_lane,Role.support
+9,kT Mehjojo,Gangplank,False,Side.red,0,6,3,0.5,190,Flash,Teleport,13,False,8796,8108,Trinity Force,Corrupting Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,,,5799,101656,Lane.top_lane,Role.solo

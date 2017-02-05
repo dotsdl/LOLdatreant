@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,veng reformed,Hecarim,False,Side.blue,1,1,1,2.0,53,Smite,Ghost,7,False,4781,4000,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,4239,28357,Lane.jungle,Role.none
+1,mercykiIler,Rengar,False,Side.blue,0,9,2,0.2222222222222222,97,Flash,Ignite,10,False,5279,4600,Chain Vest,Ninja Tabi,Tiamat,Long Sword,Long Sword,,4146,41317,Lane.top_lane,Role.solo
+2,Muzy,Jhin,False,Side.blue,4,4,4,2.0,127,Flash,Heal,10,False,6988,5875,Doran's Blade,Essence Reaver,Brawler's Gloves,Dagger,,Boots of Swiftness,3572,53309,Lane.bot_lane,Role.carry
+3,ImEzreaIAsltGets,Lux,False,Side.blue,5,4,1,1.5,136,Flash,Ghost,11,False,7166,6185,Needlessly Large Rod,Doran's Ring,Boots of Speed,Doran's Ring,Morellonomicon,Amplifying Tome,58051,11256,Lane.mid_lane,Role.solo
+4,Cytosine,Blitzcrank,False,Side.blue,1,4,9,2.5,37,Ignite,Flash,10,False,5248,4600,Targon's Brace,Boots of Mobility,Sightstone,Forbidden Idol,Crystalline Bracer,,7449,5592,Lane.bot_lane,Role.support
+5,Keegun,Pantheon,True,Side.red,11,1,0,11.0,175,Flash,Ignite,13,True,10433,9535,Long Sword,Youmuu's Ghostblade,Edge of Night,Ninja Tabi,Sapphire Crystal,Last Whisper,5640,102876,Lane.top_lane,Role.solo
+6,HungBrickMan,Ekko,True,Side.red,7,0,0,7.0,157,Ignite,Flash,13,False,8859,7110,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Sheen,Amplifying Tome,Blasting Wand,75944,15275,Lane.mid_lane,Role.solo
+7,RealDarkness,Vi,True,Side.red,3,3,5,2.6666666666666665,93,Smite,Flash,11,False,8068,7683,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,,,452,94310,Lane.jungle,Role.none
+8,TFW Glory,Caitlyn,True,Side.red,0,1,4,4.0,123,Heal,Flash,11,False,7205,6750,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Pickaxe,,367,71746,Lane.bot_lane,Role.carry
+9,Swordblue,Thresh,True,Side.red,1,6,4,0.8333333333333334,8,Flash,Ignite,8,False,5777,4675,Sightstone,Total Biscuit of Rejuvenation,Boots of Speed,Kindlegem,Nomad's Medallion,Glacial Shroud,5393,4220,Lane.bot_lane,Role.support

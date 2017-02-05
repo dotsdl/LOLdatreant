@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nihayat,Gnar,False,Side.blue,1,5,0,0.2,105,Teleport,Flash,10,False,5368,4875,Doran's Blade,Frozen Mallet,Mercury's Treads,,,,4886,43143,Lane.top_lane,Role.solo
+1,Playgrounds,Caitlyn,False,Side.blue,0,6,2,0.3333333333333333,110,Flash,Heal,10,False,5327,5275,B. F. Sword,Control Ward,Cull,Doran's Blade,Berserker's Greaves,Zeal,469,52059,Lane.bot_lane,Role.carry
+2,PsiGuard,Elise,False,Side.blue,2,3,1,1.0,85,Smite,Flash,10,True,6046,5925,Enchantment: Runic Echoes,Hunter's Potion,Boots of Speed,Warden's Mail,Spectre's Cowl,Ruby Crystal,49051,20345,Lane.jungle,Role.none
+3,HotRedSteel,Kassadin,False,Side.blue,0,4,0,0.0,91,Teleport,Flash,9,False,4863,4100,Ionian Boots of Lucidity,Rod of Ages,,Corrupting Potion,,,22685,9705,Lane.mid_lane,Role.solo
+4,WeRrsome,Braum,False,Side.blue,0,4,2,0.5,22,Exhaust,Flash,8,False,3914,3875,Boots of Speed,Face of the Mountain,Control Ward,Sightstone,,,4900,3505,Lane.bot_lane,Role.support
+5,Smartcloud,Karma,True,Side.red,1,1,13,14.0,23,Flash,Exhaust,10,False,7522,6100,,Redemption,Eye of the Watchers,Null-Magic Mantle,Ionian Boots of Lucidity,,19860,7319,Lane.bot_lane,Role.support
+6,Garani,Lee Sin,True,Side.red,3,1,2,5.0,100,Smite,Flash,11,False,7941,7525,Refillable Potion,Tiamat,Enchantment: Warrior,Boots of Speed,Maw of Malmortius,,10395,66313,Lane.jungle,Role.none
+7,GodMeru,Poppy,True,Side.red,4,0,6,10.0,118,Flash,Teleport,12,False,7988,5925,Sunfire Cape,,Corrupting Potion,Spectre's Cowl,Mercury's Treads,,18732,41905,Lane.top_lane,Role.solo
+8,Toll,Jhin,True,Side.red,7,1,8,15.0,128,Flash,Heal,11,False,9500,6825,Essence Reaver,Zeal,Boots of Swiftness,Dagger,Control Ward,Doran's Blade,4211,74156,Lane.bot_lane,Role.carry
+9,Program,Viktor,True,Side.red,7,0,4,11.0,133,Ghost,Flash,11,False,9461,7875,Perfect Hex Core,Lich Bane,,Sorcerer's Shoes,,,83631,13663,Lane.mid_lane,Role.solo

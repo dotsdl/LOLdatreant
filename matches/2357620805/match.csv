@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mrs Bjerg,Karma,False,Side.blue,2,4,15,4.25,18,Exhaust,Flash,13,False,9297,8300,Eye of the Watchers,Redemption,Cloth Armor,Ionian Boots of Lucidity,Ardent Censer,,17068,4586,Lane.bot_lane,Role.support
+1,Panth Tier God,Darius,False,Side.blue,2,5,4,1.2,238,Teleport,Flash,15,False,10734,10100,Raptor Cloak,Randuin's Omen,The Black Cleaver,Ninja Tabi,Kindlegem,Ruby Crystal,0,135637,Lane.top_lane,Role.solo
+2,LGN cMurder,Trundle,False,Side.blue,1,6,9,1.6666666666666667,112,Flash,Smite,14,False,9509,9275,Tiamat,Warden's Mail,Enchantment: Cinderhulk,Mercury's Treads,Dead Man's Plate,Cloth Armor,21453,84658,Lane.jungle,Role.none
+3,420 Boosted ADC,Ashe,False,Side.blue,10,7,7,2.4285714285714284,212,Flash,Heal,14,True,13212,13620,Essence Reaver,Runaan's Hurricane,Lord Dominik's Regards,Guardian Angel,,Berserker's Greaves,1516,120862,Lane.bot_lane,Role.carry
+4,Frozon,Ahri,False,Side.blue,9,6,3,2.0,204,Flash,Ignite,15,False,11849,9750,Morellonomicon,Zhonya's Hourglass,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Blasting Wand,87422,12973,Lane.mid_lane,Role.solo
+5,hentaifu,Pantheon,True,Side.red,9,1,4,13.0,200,Ignite,Flash,16,False,13927,12375,Last Whisper,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Guardian Angel,Giant Slayer,6674,118941,Lane.top_lane,Role.solo
+6,Yuki Asuna,Lulu,True,Side.red,1,5,14,3.0,16,Exhaust,Flash,14,False,10058,8800,Locket of the Iron Solari,Redemption,Sightstone,Frost Queen's Claim,,Boots of Mobility,15728,5001,Lane.bot_lane,Role.support
+7,Chance,Zed,True,Side.red,9,5,9,3.6,177,Flash,Ignite,16,False,13476,11950,Youmuu's Ghostblade,Quicksilver Sash,Refillable Potion,The Black Cleaver,Maw of Malmortius,Mercury's Treads,8842,104918,Lane.mid_lane,Role.solo
+8,naruto kun88,Jhin,True,Side.red,4,6,11,2.5,229,Heal,Flash,16,False,13784,12775,Pickaxe,Essence Reaver,Rapid Firecannon,Boots of Swiftness,B. F. Sword,Mortal Reminder,15975,176812,Lane.bot_lane,Role.carry
+9,KlTTYSEXUAL,Hecarim,True,Side.red,5,7,10,2.142857142857143,161,Smite,Ghost,17,False,13530,12383,Kindlegem,Randuin's Omen,Spectre's Cowl,Enchantment: Cinderhulk,Trinity Force,Boots of Swiftness,29174,152477,Lane.jungle,Role.none

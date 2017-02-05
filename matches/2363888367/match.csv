@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bu he ni duo BB,Caitlyn,False,Side.blue,2,4,5,1.75,223,Heal,Flash,13,False,10038,9450,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Zeal,Dagger,610,131337,Lane.bot_lane,Role.carry
+1,123aaa789,Rek'Sai,False,Side.blue,6,7,7,1.8571428571428572,121,Flash,Smite,14,False,10044,9375,Titanic Hydra,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,Giant's Belt,Warden's Mail,29303,76227,Lane.jungle,Role.none
+2,luckyfist,Janna,False,Side.blue,1,5,6,1.4,8,Exhaust,Flash,11,False,6804,6310,Sightstone,Redemption,Boots of Mobility,Nomad's Medallion,Kindlegem,Amplifying Tome,5785,3497,Lane.bot_lane,Role.support
+3,Weeknd,Diana,False,Side.blue,4,7,3,1.0,143,Ignite,Flash,14,False,9189,8250,Doran's Ring,Zhonya's Hourglass,Lich Bane,Sorcerer's Shoes,,Doran's Ring,86135,14513,Lane.mid_lane,Role.solo
+4,Leithal,Ekko,False,Side.blue,4,6,3,1.1666666666666667,175,Flash,Teleport,14,False,9285,8500,Corrupting Potion,The Dark Seal,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Chain Vest,80551,17012,Lane.top_lane,Role.solo
+5,Slugsheep,Morgana,True,Side.red,2,2,12,7.0,19,Flash,Exhaust,12,False,8339,6985,Redemption,Amplifying Tome,Eye of the Oasis,Ionian Boots of Lucidity,The Dark Seal,Glacial Shroud,19685,6137,Lane.bot_lane,Role.support
+6,Phantóm,Jhin,True,Side.red,6,3,9,5.0,198,Flash,Heal,13,False,11444,9400,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Last Whisper,Doran's Blade,Long Sword,4432,130871,Lane.bot_lane,Role.carry
+7,Anxiity,Zac,True,Side.red,6,3,16,7.333333333333333,104,Flash,Smite,14,False,11136,10125,Enchantment: Cinderhulk,Cloth Armor,Spirit Visage,Ionian Boots of Lucidity,Thornmail,Giant's Belt,89957,22463,Lane.jungle,Role.none
+8,Yagosu,Yasuo,True,Side.red,5,5,4,1.8,206,Flash,Teleport,14,True,11195,10550,Doran's Blade,Giant's Belt,Infinity Edge,Mercury's Treads,Phantom Dancer,Jaurim's Fist,24682,112467,Lane.top_lane,Role.solo
+9, keine Hosen,Draven,True,Side.red,10,4,7,4.25,227,Flash,Ignite,15,False,15839,14125,The Bloodthirster,Phantom Dancer,Youmuu's Ghostblade,Lord Dominik's Regards,Berserker's Greaves,Null-Magic Mantle,0,185680,Lane.mid_lane,Role.solo

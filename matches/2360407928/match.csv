@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Joelisboss,Karma,True,Side.blue,1,3,15,5.333333333333333,22,Exhaust,Flash,11,False,8003,7775,,Ruby Sightstone,Frost Queen's Claim,Total Biscuit of Rejuvenation,Locket of the Iron Solari,Boots of Mobility,12785,6397,Lane.bot_lane,Role.support
+1,lc0nic,Poppy,True,Side.blue,4,2,9,6.5,147,Flash,Teleport,13,False,9319,8825,Sunfire Cape,Corrupting Potion,Randuin's Omen,Ninja Tabi,Sheen,Cloth Armor,19161,57985,Lane.top_lane,Role.solo
+2,Budded,Vel'Koz,True,Side.blue,10,3,5,5.0,158,Ghost,Flash,14,True,11621,11575,Liandry's Torment,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,,,85734,8225,Lane.mid_lane,Role.solo
+3,Contractz,Nidalee,True,Side.blue,17,2,10,13.5,123,Smite,Flash,14,False,13318,13325,Cloth Armor,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Abyssal Scepter,Void Staff,116177,17348,Lane.jungle,Role.none
+4,Jeehun,Caitlyn,True,Side.blue,4,5,7,2.2,138,Flash,Heal,10,False,9370,9175,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Cull,Infinity Edge,Kircheis Shard,651,87550,Lane.bot_lane,Role.carry
+5,Egregious King,Tryndamere,False,Side.red,2,3,1,1.0,214,Ignite,Flash,14,False,9986,8250,Statikk Shiv,Bilgewater Cutlass,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,,26528,92174,Lane.top_lane,Role.solo
+6,Ninjacrab,Twitch,False,Side.red,4,6,2,1.0,161,Flash,Heal,12,False,9097,8250,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,,,Infinity Edge,132,74914,Lane.bot_lane,Role.carry
+7,moon o,Braum,False,Side.red,0,9,5,0.5555555555555556,20,Exhaust,Flash,9,False,5529,4675,Relic Shield,Refillable Potion,Quicksilver Sash,Ruby Sightstone,Boots of Mobility,,4696,3103,Lane.bot_lane,Role.support
+8,McCashDollar,Shaco,False,Side.red,4,8,4,1.0,61,Ignite,Smite,10,False,7598,7475,Stalker's Blade,Hextech Gunblade,,Ionian Boots of Lucidity,Sheen,The Dark Seal,33797,27058,Lane.jungle,Role.none
+9,S Diana 2,Diana,False,Side.red,5,10,3,0.8,129,Ignite,Flash,12,False,8295,8200,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Doran's Ring,Nashor's Tooth,Doran's Ring,78560,12201,Lane.mid_lane,Role.solo

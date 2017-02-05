@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Danman96,Ezreal,True,Side.blue,0,0,6,6.0,84,Flash,Heal,8,False,5305,3325,Doran's Blade,Sheen,Total Biscuit of Rejuvenation,Control Ward,Ionian Boots of Lucidity,Tear of the Goddess,1137,34959,Lane.bot_lane,Role.duo
+1,BabièThug,Lee Sin,True,Side.blue,6,2,1,3.5,89,Flash,Smite,10,True,6790,6650,Boots of Mobility,Refillable Potion,Tiamat,Pickaxe,Enchantment: Warrior,Vampiric Scepter,10130,42307,Lane.jungle,Role.none
+2,Z S P I D E Rs,Quinn,True,Side.blue,4,0,1,5.0,69,Ignite,Flash,8,False,5529,4150,Youmuu's Ghostblade,Doran's Blade,Health Potion,Boots of Speed,Long Sword,,817,39033,Lane.top_lane,Role.solo
+3,PC Princiipal,Sona,True,Side.blue,1,0,6,7.0,2,Exhaust,Flash,7,False,4346,3275,Frostfang,Sightstone,Boots of Mobility,Faerie Charm,Faerie Charm,Refillable Potion,3780,6684,Lane.bot_lane,Role.duo
+4,Vanity,Taliyah,True,Side.blue,6,0,2,8.0,97,Flash,Ghost,10,False,6656,4860,Hextech Protobelt-01,,Boots of Speed,Doran's Ring,Fiendish Codex,Amplifying Tome,42089,9860,Lane.mid_lane,Role.solo
+5,TheWhiteShofu ,Kha'Zix,False,Side.red,1,3,1,0.6666666666666666,46,Smite,Flash,7,False,3955,3075,Enchantment: Warrior,Refillable Potion,,Boots of Speed,,,1701,30008,Lane.jungle,Role.none
+6,Pobeaver,Nami,False,Side.red,0,4,1,0.25,40,Exhaust,Flash,7,False,3097,2660,Boots of Speed,Fiendish Codex,,Doran's Ring,Doran's Ring,Amplifying Tome,4559,5653,Lane.mid_lane,Role.solo
+7,Slapo,Nautilus,False,Side.red,0,3,0,0.0,57,Teleport,Flash,7,False,3182,2425,Doran's Shield,Boots of Speed,Refillable Potion,Bami's Cinder,Cloth Armor,,14136,8031,Lane.top_lane,Role.solo
+8,IAmArray,Alistar,False,Side.red,1,3,0,0.3333333333333333,42,Flash,Ignite,8,False,3473,2825,Relic Shield,Refillable Potion,Boots of Mobility,Sightstone,Control Ward,Ruby Crystal,6881,4835,Lane.bot_lane,Role.duo
+9,LegitADC,Caitlyn,False,Side.red,0,4,0,0.0,56,Heal,Flash,6,False,3270,3025,Total Biscuit of Rejuvenation,Doran's Blade,Berserker's Greaves,Cull,Pickaxe,,47,15637,Lane.bot_lane,Role.duo

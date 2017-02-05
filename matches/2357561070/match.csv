@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Useless Champ,Kog'Maw,False,Side.blue,3,7,1,0.5714285714285714,75,Heal,Flash,10,False,5839,5025,Blade of the Ruined King,Cull,Pickaxe,,,,8361,30490,Lane.bot_lane,Role.duo
+1,Liquid fabbbyyy,Fizz,False,Side.blue,2,7,3,0.7142857142857143,47,Flash,Ignite,9,False,5237,4900,Lich Bane,Sorcerer's Shoes,,Doran's Ring,,,9986,9883,Lane.bot_lane,Role.duo
+2,fre3zingCold,Veigar,False,Side.blue,1,6,0,0.16666666666666666,144,Flash,Teleport,11,False,6075,5535,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,,60891,5659,Lane.mid_lane,Role.solo
+3,Makavéli,Ryze,False,Side.blue,3,3,1,1.3333333333333333,109,Smite,Flash,11,False,7240,6800,Hunter's Talisman,Lost Chapter,Ionian Boots of Lucidity,Rod of Ages,Fiendish Codex,Tear of the Goddess,66653,14994,Lane.jungle,Role.none
+4,UndefeatedOne,Riven,False,Side.blue,2,1,1,3.0,165,Teleport,Flash,12,False,7343,7200,Tiamat,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Vampiric Scepter,Pickaxe,840,79274,Lane.top_lane,Role.solo
+5,Andreuss,Twitch,True,Side.red,8,4,7,3.75,125,Flash,Heal,11,False,9132,7225,Doran's Blade,Berserker's Greaves,Pickaxe,Runaan's Hurricane,B. F. Sword,Cloak of Agility,0,61476,Lane.bot_lane,Role.carry
+6,Kebin M,Nasus,True,Side.red,1,2,6,3.5,122,Flash,Teleport,13,False,7023,5550,Corrupting Potion,Glacial Shroud,Zz'Rot Portal,,Boots of Speed,Sheen,35313,17782,Lane.top_lane,Role.solo
+7,CloudNguyén,Lee Sin,True,Side.red,6,2,0,3.0,101,Smite,Flash,12,False,8308,7225,Enchantment: Warrior,Tiamat,Hexdrinker,Long Sword,Mercury's Treads,Long Sword,11961,85085,Lane.jungle,Role.none
+8,C9 Meteos,Viktor,True,Side.red,7,0,3,10.0,194,Ghost,Flash,14,False,9978,8830,Perfect Hex Core,Doran's Ring,Negatron Cloak,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,99415,9662,Lane.mid_lane,Role.solo
+9,Kerias,Tahm Kench,True,Side.red,2,3,9,3.6666666666666665,18,Exhaust,Flash,9,True,5970,4425,Eye of the Equinox,Mercury's Treads,Null-Magic Mantle,,Cloth Armor,,6741,5204,Lane.bot_lane,Role.support

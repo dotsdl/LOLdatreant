@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shrew,Akali,False,Side.blue,3,8,1,0.5,155,Flash,Teleport,13,False,8103,7100,Hextech Gunblade,Refillable Potion,Seeker's Armguard,Fiendish Codex,Sorcerer's Shoes,The Dark Seal,23552,60007,Lane.top_lane,Role.solo
+1,goompa,Nocturne,False,Side.blue,5,6,3,1.3333333333333333,136,Smite,Flash,13,False,8995,9010,Ninja Tabi,B. F. Sword,Youmuu's Ghostblade,Dagger,Long Sword,Enchantment: Warrior,3233,106812,Lane.jungle,Role.none
+2,MST3kMantra,Zed,False,Side.blue,3,5,4,1.4,142,Flash,Ignite,12,False,7993,7700,Maw of Malmortius,,Youmuu's Ghostblade,,Mercury's Treads,,5730,73325,Lane.mid_lane,Role.solo
+3,SoloMeatballOnly,Blitzcrank,False,Side.blue,2,6,4,1.0,34,Ignite,Flash,11,False,6437,6050,Boots of Mobility,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Ruby Crystal,,10067,6837,Lane.bot_lane,Role.support
+4,Asian Pursuasion,Vayne,False,Side.blue,3,7,2,0.7142857142857143,148,Heal,Flash,12,True,8113,7425,Doran's Blade,Pickaxe,Berserker's Greaves,Statikk Shiv,B. F. Sword,Cloak of Agility,16430,49002,Lane.bot_lane,Role.carry
+5,SJC Cali,Ashe,True,Side.red,3,3,12,5.0,113,Flash,Heal,12,False,9252,8650,Doran's Blade,Dagger,Berserker's Greaves,Runaan's Hurricane,Essence Reaver,Dagger,1125,68570,Lane.bot_lane,Role.carry
+6,CloudNguyén,Brand,True,Side.red,7,5,14,4.2,45,Exhaust,Flash,13,False,10169,8575,Sightstone,Frost Queen's Claim,,Rylai's Crystal Scepter,Sorcerer's Shoes,Fiendish Codex,34865,7347,Lane.bot_lane,Role.support
+7,Témpest,Yasuo,True,Side.red,8,3,7,5.0,164,Flash,Teleport,14,False,11089,9950,Control Ward,Infinity Edge,Berserker's Greaves,Doran's Blade,Phantom Dancer,Hexdrinker,21045,78950,Lane.top_lane,Role.solo
+8,lcs jg sucks,Graves,True,Side.red,5,2,15,10.0,108,Flash,Smite,14,False,10481,9825,Enchantment: Warrior,Phantom Dancer,Control Ward,The Black Cleaver,Berserker's Greaves,,2565,115010,Lane.jungle,Role.none
+9,dadams,Ekko,True,Side.red,9,3,7,5.333333333333333,135,Flash,Teleport,13,False,10408,9425,Ninja Tabi,Luden's Echo,Zhonya's Hourglass,Sheen,Doran's Ring,Doran's Ring,75293,16018,Lane.mid_lane,Role.solo

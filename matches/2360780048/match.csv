@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cesuna,Poppy,False,Side.blue,2,6,11,2.1666666666666665,47,Flash,Ignite,13,False,8811,8325,Locket of the Iron Solari,Refillable Potion,Eye of the Equinox,Knight's Vow,,Boots of Mobility,1526,15253,Lane.bot_lane,Role.support
+1,Cuckvele,Fiora,False,Side.blue,6,4,6,3.0,227,Flash,Teleport,16,False,12852,12250,Cull,The Black Cleaver,The Bloodthirster,Ninja Tabi,Control Ward,Titanic Hydra,1362,119471,Lane.top_lane,Role.solo
+2,Fockus,Malzahar,False,Side.blue,4,4,7,2.75,188,Flash,Ghost,14,False,10382,10050,Haunting Guise,Sorcerer's Shoes,The Dark Seal,Morellonomicon,Rylai's Crystal Scepter,,89990,21142,Lane.mid_lane,Role.solo
+3,pün,Lee Sin,False,Side.blue,8,6,7,2.5,120,Smite,Flash,14,False,11016,11000,Dead Man's Plate,Null-Magic Mantle,Maw of Malmortius,Enchantment: Warrior,Ninja Tabi,Cloth Armor,18269,74710,Lane.jungle,Role.none
+4,McCashDollar,Urgot,False,Side.blue,2,9,6,0.8888888888888888,157,Flash,Heal,13,False,9473,8900,The Black Cleaver,Corrupting Potion,Muramana,Ninja Tabi,Hexdrinker,Long Sword,1845,77023,Lane.bot_lane,Role.carry
+5,Turc,Karma,True,Side.red,2,5,18,4.0,26,Exhaust,Flash,14,False,11182,8925,Frost Queen's Claim,Redemption,Mikael's Crucible,Ionian Boots of Lucidity,,Sightstone,28106,6441,Lane.bot_lane,Role.support
+6,camtheham,Vayne,True,Side.red,12,4,7,4.75,215,Heal,Flash,15,False,15219,12925,Mercurial Scimitar,Zeal,Infinity Edge,Berserker's Greaves,Statikk Shiv,Doran's Blade,31500,122855,Lane.bot_lane,Role.carry
+7,Fiku,Vi,True,Side.red,5,5,6,2.2,157,Flash,Smite,16,True,12908,11408,Enchantment: Warrior,Chain Vest,Mercury's Treads,Trinity Force,Sterak's Gage,Ruby Crystal,2025,194958,Lane.jungle,Role.none
+8,Myloo,Gangplank,True,Side.red,4,5,4,1.6,270,Flash,Teleport,16,False,14263,12408,Ninja Tabi,Trinity Force,Infinity Edge,Statikk Shiv,Pickaxe,Doran's Ring,18761,215198,Lane.top_lane,Role.solo
+9,AllAero,LeBlanc,True,Side.red,6,3,10,5.333333333333333,138,Flash,Teleport,14,False,11673,10475,Quicksilver Sash,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,Blasting Wand,75735,12708,Lane.mid_lane,Role.solo

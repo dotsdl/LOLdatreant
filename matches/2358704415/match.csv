@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,11037,Ivern,True,Side.blue,2,0,16,18.0,87,Smite,Flash,13,False,9485,7925,Hunter's Talisman,Redemption,Ionian Boots of Lucidity,Mejai's Soulstealer,Athene's Unholy Grail,Aether Wisp,17133,10646,Lane.jungle,Role.none
+1,xTc4,Sona,True,Side.blue,8,0,11,19.0,14,Flash,Exhaust,11,True,9337,8150,Tear of the Goddess,Refillable Potion,Eye of the Watchers,Hextech Revolver,Sorcerer's Shoes,Zhonya's Hourglass,16963,5647,Lane.bot_lane,Role.support
+2,Jadsbutt,Syndra,True,Side.blue,7,1,7,14.0,169,Flash,Ghost,13,False,10050,8935,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,Doran's Ring,90655,12311,Lane.mid_lane,Role.solo
+3,Nero Valentine,Jayce,True,Side.blue,8,4,7,3.75,176,Teleport,Flash,14,False,11073,10525,Doran's Blade,The Black Cleaver,Youmuu's Ghostblade,B. F. Sword,Vampiric Scepter,Boots of Swiftness,17347,95788,Lane.top_lane,Role.solo
+4,Auldrant,Vayne,True,Side.blue,6,3,9,5.0,156,Flash,Heal,12,False,10099,8850,Doran's Blade,Infinity Edge,Dagger,Berserker's Greaves,Statikk Shiv,Brawler's Gloves,4767,77723,Lane.bot_lane,Role.carry
+5,FIoopie,Caitlyn,False,Side.red,0,6,3,0.5,155,Flash,Heal,11,False,7071,5225,Doran's Blade,Refillable Potion,,Pickaxe,Runaan's Hurricane,Berserker's Greaves,770,77099,Lane.bot_lane,Role.carry
+6,Eitori,Graves,False,Side.red,4,6,1,0.8333333333333334,95,Smite,Flash,11,False,6927,7000,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Control Ward,,2356,80810,Lane.jungle,Role.none
+7,Scherb,Ryze,False,Side.red,1,6,0,0.16666666666666666,135,Flash,Ghost,11,False,6412,5950,Tear of the Goddess,Rod of Ages,Boots of Speed,Needlessly Large Rod,,,56972,8469,Lane.mid_lane,Role.solo
+8,Zorlas,Tryndamere,False,Side.red,1,7,2,0.42857142857142855,125,Teleport,Flash,12,False,6550,6250,Doran's Shield,Cull,Berserker's Greaves,Statikk Shiv,Phage,Long Sword,3477,55356,Lane.top_lane,Role.solo
+9,AvadaKedavra BAM,Janna,False,Side.red,0,6,3,0.5,10,Flash,Exhaust,9,False,5072,4600,Talisman of Ascension,Boots of Speed,Sightstone,Forbidden Idol,Rejuvenation Bead,,5428,2964,Lane.bot_lane,Role.support

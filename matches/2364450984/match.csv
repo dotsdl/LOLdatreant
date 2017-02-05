@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,unfolding89,Jhin,False,Side.blue,1,6,2,0.5,96,Flash,Heal,8,False,5426,4400,Doran's Blade,Caulfield's Warhammer,Sorcerer's Shoes,Brawler's Gloves,B. F. Sword,,2922,30850,Lane.bot_lane,Role.carry
+1,Captain Pabst,Leona,False,Side.blue,0,6,2,0.3333333333333333,50,Exhaust,Flash,9,False,4692,4050,Targon's Brace,Sightstone,Mercury's Treads,Aegis of the Legion,,,9949,5088,Lane.bot_lane,Role.support
+2,S Diana 2,Diana,False,Side.blue,1,9,3,0.4444444444444444,93,Teleport,Flash,10,False,5575,4500,Doran's Ring,Doran's Ring,Abyssal Scepter,Faerie Charm,Health Potion,Boots of Speed,49981,7651,Lane.mid_lane,Role.solo
+3,Day after Day,Poppy,False,Side.blue,1,4,0,0.25,162,Teleport,Flash,11,False,6291,8483,Trinity Force,,,Boots of Speed,,,5701,66016,Lane.top_lane,Role.solo
+4,Fuko lbuki,Vi,False,Side.blue,2,5,1,0.6,105,Flash,Smite,11,False,6314,5750,Enchantment: Warrior,Refillable Potion,Boots of Speed,Phage,Dagger,Sheen,1244,72226,Lane.jungle,Role.none
+5,Pawsu,Vayne,True,Side.red,4,1,10,14.0,131,Heal,Flash,11,False,8754,6750,Doran's Blade,Statikk Shiv,Berserker's Greaves,Pickaxe,B. F. Sword,,10786,67298,Lane.bot_lane,Role.carry
+6,DDK Drk Knigt,Lee Sin,True,Side.red,11,2,8,9.5,111,Flash,Smite,12,False,10687,8750,Refillable Potion,Ravenous Hydra,Enchantment: Warrior,Mercury's Treads,Hexdrinker,,14935,89902,Lane.jungle,Role.none
+7,Fas the Magi,LeBlanc,True,Side.red,11,2,7,9.0,118,Flash,Ignite,12,False,9663,8825,Doran's Ring,Mejai's Soulstealer,Abyssal Scepter,Sorcerer's Shoes,Void Staff,,57773,12174,Lane.mid_lane,Role.solo
+8,Frank Slade,Singed,True,Side.red,4,1,6,10.0,171,Teleport,Ghost,13,True,9487,8125,Righteous Glory,Refillable Potion,Zz'Rot Portal,Mercury's Treads,The Dark Seal,Needlessly Large Rod,76508,10442,Lane.top_lane,Role.solo
+9,123Steven0,Janna,True,Side.red,0,0,19,19.0,8,Flash,Exhaust,11,False,7145,5410,Nomad's Medallion,Mejai's Soulstealer,Forbidden Idol,Sightstone,Boots of Mobility,Amplifying Tome,5344,5322,Lane.bot_lane,Role.support

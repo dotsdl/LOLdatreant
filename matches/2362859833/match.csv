@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kerias,Nautilus,True,Side.blue,9,2,9,9.0,225,Teleport,Flash,16,False,13482,11900,Ninja Tabi,Warden's Mail,Iceborn Gauntlet,Sunfire Cape,Spirit Visage,The Dark Seal,117923,29893,Lane.top_lane,Role.solo
+1,Sophist Sage,Jhin,True,Side.blue,11,6,15,4.333333333333333,168,Heal,Flash,14,True,13696,12325,Doran's Blade,Pickaxe,Boots of Swiftness,The Bloodthirster,Essence Reaver,Rapid Firecannon,5589,113586,Lane.bot_lane,Role.carry
+2,godrjsdnd,Jayce,True,Side.blue,11,6,5,2.6666666666666665,161,Ignite,Flash,15,False,12237,9750,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,Doran's Blade,Vampiric Scepter,14593,90608,Lane.mid_lane,Role.solo
+3,Gweiss,Graves,True,Side.blue,5,3,12,5.666666666666667,152,Smite,Flash,15,False,11866,10200,Enchantment: Warrior,Refillable Potion,Ninja Tabi,The Bloodthirster,Phantom Dancer,,5130,149681,Lane.jungle,Role.none
+4,D0NG0,LeBlanc,True,Side.blue,7,5,12,3.8,36,Ignite,Flash,13,False,10606,10525,Eye of the Watchers,Zhonya's Hourglass,Void Staff,Sorcerer's Shoes,The Dark Seal,Blasting Wand,39953,4147,Lane.bot_lane,Role.support
+5,Jeehun,Galio,False,Side.red,1,10,3,0.4,138,Flash,Teleport,13,False,8033,7585,Corrupting Potion,Hextech Protobelt-01,Zhonya's Hourglass,Ninja Tabi,Amplifying Tome,,79601,7398,Lane.mid_lane,Role.solo
+6,The Tank Man,Karma,False,Side.red,2,8,12,1.75,10,Flash,Exhaust,13,False,8585,7800,Eye of the Watchers,Redemption,Ardent Censer,Ionian Boots of Lucidity,,,18654,4417,Lane.bot_lane,Role.support
+7,Kvar,Darius,False,Side.red,5,10,2,0.7,164,Flash,Ghost,13,False,9229,8825,Doran's Blade,Mercury's Treads,The Black Cleaver,Banner of Command,Giant's Belt,Chain Vest,105,92694,Lane.top_lane,Role.solo
+8,Lil Cody,Caitlyn,False,Side.red,8,11,2,0.9090909090909091,208,Heal,Flash,14,False,11589,11475,Infinity Edge,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,2591,147368,Lane.bot_lane,Role.carry
+9,Vladfire1 BG ,Kha'Zix,False,Side.red,6,4,2,2.0,147,Smite,Flash,15,False,10625,10375,Enchantment: Warrior,Refillable Potion,Duskblade of Draktharr,Ninja Tabi,The Black Cleaver,,3739,149558,Lane.jungle,Role.none

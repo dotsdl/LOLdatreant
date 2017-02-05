@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,11037,Ziggs,False,Side.blue,6,4,1,1.75,211,Barrier,Flash,15,False,10895,9890,Zhonya's Hourglass,Needlessly Large Rod,Blasting Wand,Doran's Ring,Morellonomicon,Sorcerer's Shoes,121857,10196,Lane.mid_lane,Role.solo
+1,Useless Rat,Gangplank,False,Side.blue,4,7,3,1.0,197,Flash,Teleport,14,True,11582,11483,Infinity Edge,Trinity Force,Cull,Ionian Boots of Lucidity,Zeal,Kircheis Shard,5822,154266,Lane.top_lane,Role.solo
+2,Shinoa,Janna,False,Side.blue,0,3,7,2.3333333333333335,7,Flash,Exhaust,12,False,7025,5975,Eye of the Oasis,Redemption,,,,Ionian Boots of Lucidity,2881,1799,Lane.bot_lane,Role.support
+3,Tsùki,Sivir,False,Side.blue,1,3,4,1.6666666666666667,246,Flash,Heal,14,False,10144,8825,Doran's Blade,Essence Reaver,Phantom Dancer,Berserker's Greaves,Pickaxe,Control Ward,0,134057,Lane.bot_lane,Role.carry
+4,KillerUnit,Lee Sin,False,Side.blue,3,4,7,2.5,125,Smite,Flash,15,False,9928,9375,Tiamat,Enchantment: Warrior,Randuin's Omen,Boots of Mobility,Refillable Potion,Hexdrinker,18982,101147,Lane.jungle,Role.none
+5,Henrÿ,Graves,True,Side.red,4,5,6,2.0,205,Flash,Smite,16,False,12724,11400,Berserker's Greaves,Phantom Dancer,The Black Cleaver,Enchantment: Warrior,Vampiric Scepter,Brawler's Gloves,7697,215396,Lane.jungle,Role.none
+6,Happy Birfdizzay,Zed,True,Side.red,5,2,7,6.0,241,Flash,Ignite,16,False,12807,10550,Edge of Night,Youmuu's Ghostblade,Duskblade of Draktharr,Long Sword,Boots of Speed,Long Sword,7934,137723,Lane.mid_lane,Role.solo
+7,lod,Caitlyn,True,Side.red,5,0,6,11.0,315,Flash,Heal,16,False,14268,12725,Vampiric Scepter,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,Berserker's Greaves,B. F. Sword,2967,200531,Lane.bot_lane,Role.carry
+8,GordanRamsey,Thresh,True,Side.red,0,2,8,4.0,47,Flash,Ignite,13,False,8402,6825,,Ruby Crystal,Boots of Mobility,Sightstone,Face of the Mountain,Redemption,15639,7469,Lane.bot_lane,Role.support
+9,CLG Darshawn,Rumble,True,Side.red,7,5,4,2.2,195,Teleport,Flash,16,False,12311,11450,Rabadon's Deathcap,,Liandry's Torment,Seeker's Armguard,Blasting Wand,Sorcerer's Shoes,108005,8901,Lane.top_lane,Role.solo

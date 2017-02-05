@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aboyan,Zac,True,Side.blue,3,0,19,22.0,139,Smite,Flash,15,False,11200,10150,Enchantment: Cinderhulk,Mercury's Treads,Spirit Visage,Guardian Angel,Warden's Mail,,112961,26131,Lane.jungle,Role.none
+1,Never Vote Yes,Varus,True,Side.blue,13,2,9,11.0,159,Flash,Heal,13,False,13302,10900,Doran's Blade,Edge of Night,Youmuu's Ghostblade,Duskblade of Draktharr,Ionian Boots of Lucidity,,9634,113122,Lane.bot_lane,Role.carry
+2,Nykolas,Jayce,True,Side.blue,7,3,8,5.0,191,Teleport,Flash,14,True,11725,10125,The Black Cleaver,Maw of Malmortius,B. F. Sword,Vampiric Scepter,Doran's Blade,Ionian Boots of Lucidity,11841,99996,Lane.top_lane,Role.solo
+3,ToxicDrag,Yasuo,True,Side.blue,5,4,8,3.25,203,Ignite,Flash,14,False,11398,9250,Infinity Edge,Hexdrinker,Phantom Dancer,Mercury's Treads,,,23216,98159,Lane.mid_lane,Role.solo
+4,IFapToYourSister,Nautilus,True,Side.blue,2,5,16,3.6,55,Exhaust,Flash,12,False,8807,7950,Eye of the Equinox,Locket of the Iron Solari,Redemption,,,Boots of Mobility,16864,12520,Lane.bot_lane,Role.support
+5,KT Score,Graves,False,Side.red,9,5,4,2.6,166,Smite,Flash,14,False,11481,10075,,Enchantment: Warrior,,Death's Dance,Phantom Dancer,Berserker's Greaves,3884,147104,Lane.jungle,Role.none
+6,Ayukura,Caitlyn,False,Side.red,3,9,4,0.7777777777777778,161,Flash,Heal,12,False,9388,8300,Doran's Blade,Cull,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,689,85305,Lane.bot_lane,Role.carry
+7,Sukhjot,Twisted Fate,False,Side.red,1,6,8,1.5,135,Flash,Ghost,12,False,8445,7700,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Lich Bane,,,81418,11837,Lane.mid_lane,Role.solo
+8,RATZ STAY RATZ,Maokai,False,Side.red,1,5,7,1.6,157,Teleport,Flash,13,False,8312,7225,Randuin's Omen,Corrupting Potion,Sunfire Cape,Boots of Speed,Doran's Ring,,68933,10911,Lane.top_lane,Role.solo
+9,OrderlyAnarchist,Nami,False,Side.red,0,5,9,1.8,13,Exhaust,Flash,10,False,6311,5800,Ruby Sightstone,Redemption,,Spellthief's Edge,Ionian Boots of Lucidity,,5528,2231,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SKT T1 I Faker l,Jarvan IV,False,Side.blue,1,6,1,0.3333333333333333,78,Teleport,Flash,9,False,4391,4200,Corrupting Potion,Tiamat,Cloth Armor,Ruby Crystal,Vampiric Scepter,Ionian Boots of Lucidity,1894,29641,Lane.top_lane,Role.solo
+1,ExcellXL,Viktor,False,Side.blue,2,6,2,0.6666666666666666,77,Ghost,Flash,9,False,4644,4160,The Hex Core mk-1,Sorcerer's Shoes,Amplifying Tome,,Doran's Ring,Doran's Ring,31190,5424,Lane.mid_lane,Role.solo
+2,Xarox,Draven,False,Side.blue,0,3,0,0.0,90,Flash,Heal,8,False,4230,3650,Boots of Speed,Health Potion,Serrated Dirk,Caulfield's Warhammer,Cull,Doran's Blade,0,32468,Lane.bot_lane,Role.carry
+3,Sillymanblast,Elise,False,Side.blue,1,3,1,0.6666666666666666,45,Smite,Flash,8,False,4043,3150,Enchantment: Runic Echoes,Refillable Potion,,Boots of Speed,,,20128,10251,Lane.jungle,Role.none
+4,TowheadedComet6,Thresh,False,Side.blue,1,3,0,0.3333333333333333,13,Flash,Exhaust,7,False,3223,2225,Targon's Brace,Refillable Potion,Boots of Speed,,Ruby Crystal,Cloth Armor,1854,1386,Lane.bot_lane,Role.support
+5,uupa,Ryze,True,Side.red,6,1,2,8.0,118,Flash,Ghost,11,False,7609,3675,Tear of the Goddess,Refillable Potion,,Rod of Ages,,,54797,7048,Lane.mid_lane,Role.solo
+6,Rank 1 Season 7,Kha'Zix,True,Side.red,6,1,4,10.0,118,Smite,Flash,12,False,8447,4275,Tiamat,Refillable Potion,Enchantment: Warrior,Boots of Speed,,,2393,104083,Lane.jungle,Role.none
+7,Lostlunatic,Jhin,True,Side.red,3,1,5,8.0,109,Flash,Heal,10,False,7180,4875,,Youmuu's Ghostblade,Long Sword,Boots of Swiftness,Doran's Blade,,741,62898,Lane.bot_lane,Role.carry
+8,Hachikujii,Karma,True,Side.red,1,2,3,2.0,12,Exhaust,Flash,7,False,5350,4325,Frost Queen's Claim,Refillable Potion,Sightstone,Sorcerer's Shoes,,,10651,5042,Lane.bot_lane,Role.support
+9,swordsmaster102,Jayce,True,Side.red,5,0,8,13.0,121,Flash,Teleport,11,True,7888,5675,Pickaxe,The Black Cleaver,Tear of the Goddess,Doran's Blade,Boots of Speed,,7679,55259,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,herolineage,Ashe,True,Side.blue,7,7,2,1.2857142857142858,208,Flash,Heal,15,False,12181,11400,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,1121,118058,Lane.bot_lane,Role.carry
+1,Macdrizzle510,Malzahar,True,Side.blue,9,3,4,4.333333333333333,215,Flash,Ignite,17,True,12821,11125,Rylai's Crystal Scepter,Sorcerer's Shoes,Void Staff,Morellonomicon,Ruby Crystal,Doran's Ring,112212,29000,Lane.mid_lane,Role.solo
+2,peps510,Thresh,True,Side.blue,0,1,6,6.0,31,Flash,Exhaust,13,False,7824,6625,Knight's Vow,Eye of the Equinox,Cloth Armor,Mercury's Treads,,,12373,9336,Lane.bot_lane,Role.support
+3,Garen L Katarina,Kha'Zix,True,Side.blue,8,3,4,4.0,110,Smite,Flash,14,False,11146,9475,Enchantment: Warrior,Mercury's Treads,Duskblade of Draktharr,Phage,Caulfield's Warhammer,,4789,120571,Lane.jungle,Role.none
+4,soft chocochip1,Rumble,True,Side.blue,8,0,3,11.0,236,Teleport,Flash,17,False,12836,11600,Rabadon's Deathcap,Liandry's Torment,Sorcerer's Shoes,Health Potion,Doran's Shield,Void Staff,149295,17095,Lane.top_lane,Role.solo
+5,Clone Hex,Yasuo,False,Side.red,0,8,0,0.0,163,Teleport,Flash,13,False,7964,7875,Hexdrinker,Mercury's Treads,Phantom Dancer,B. F. Sword,Pickaxe,,23738,61604,Lane.top_lane,Role.solo
+6,Sqwaaad,Graves,False,Side.red,3,7,3,0.8571428571428571,122,Smite,Flash,14,False,9414,8825,Enchantment: Warrior,B. F. Sword,Boots of Speed,Phantom Dancer,Vampiric Scepter,Long Sword,3833,113478,Lane.jungle,Role.none
+7,NaraBytes,Anivia,False,Side.red,2,9,2,0.4444444444444444,128,Flash,Ignite,14,False,8001,7050,Sorcerer's Shoes,Rod of Ages,Health Potion,Tear of the Goddess,Needlessly Large Rod,,63914,10829,Lane.mid_lane,Role.solo
+8,SHREK5GOD,Sejuani,False,Side.red,1,5,5,1.2,40,Flash,Exhaust,11,False,6675,6350,Face of the Mountain,Mercury's Treads,Warmog's Armor,,,,13189,5600,Lane.bot_lane,Role.support
+9,fundamental,Jhin,False,Side.red,6,3,2,2.6666666666666665,189,Flash,Heal,14,False,10147,9300,Boots of Swiftness,Youmuu's Ghostblade,Rapid Firecannon,Doran's Blade,Cloak of Agility,B. F. Sword,8385,109992,Lane.bot_lane,Role.carry

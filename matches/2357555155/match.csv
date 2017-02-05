@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,insaníty,Ezreal,True,Side.blue,1,1,0,1.0,1,Flash,Heal,2,True,1078,875,Doran's Blade,,Boots of Speed,,,,89,1376,Lane.mid_lane,Role.duo
+1,C9 Meteos,Bard,True,Side.blue,0,0,1,1.0,8,Exhaust,Flash,3,False,959,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,575,834,Lane.bot_lane,Role.solo
+2,11037,Ivern,True,Side.blue,0,0,0,0.0,13,Smite,Flash,4,False,1153,500,Hunter's Talisman,Refillable Potion,,,,,0,0,Lane.jungle,Role.none
+3,Rohammers,Rumble,True,Side.blue,0,0,1,1.0,14,Teleport,Flash,3,False,981,500,Doran's Shield,,,,,,4962,1400,Lane.top_lane,Role.solo
+4,Pekin Woof,Ryze,True,Side.blue,0,0,1,1.0,17,Flash,Ghost,2,False,1035,500,Sapphire Crystal,Refillable Potion,,,,,2821,1616,Lane.mid_lane,Role.duo
+5,Lil Cody,Vayne,False,Side.red,0,0,0,0.0,0,Heal,Flash,1,False,661,0,,,,,,,0,0,Lane.mid_lane,Role.none
+6,Liquid Matt,Lulu,False,Side.red,0,0,0,0.0,0,Exhaust,Flash,1,False,676,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,0,0,Lane.mid_lane,Role.none
+7,Thalies,Katarina,False,Side.red,0,0,0,0.0,5,Teleport,Flash,3,False,758,500,The Dark Seal,,,,,,1536,551,Lane.top_lane,Role.solo
+8,Ninjacrab,Vi,False,Side.red,0,1,0,0.0,7,Flash,Smite,2,False,881,500,Hunter's Machete,Refillable Potion,,,,,0,4485,Lane.jungle,Role.none
+9,Hyorimaru,Orianna,False,Side.red,1,0,0,1.0,12,Flash,Ghost,3,False,1211,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,2006,979,Lane.mid_lane,Role.none

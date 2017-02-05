@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Magicorn,Trundle,False,Side.blue,4,4,2,1.5,137,Flash,Smite,14,True,9788,9745,Refillable Potion,Blade of the Ruined King,Tiamat,Stalker's Blade,Mercury's Treads,Iceborn Gauntlet,4011,116196,Lane.jungle,Role.none
+1,Chauex,Thresh,False,Side.blue,1,5,4,1.0,29,Ignite,Flash,11,False,6159,6000,Ionian Boots of Lucidity,Sightstone,Face of the Mountain,Cloth Armor,Giant's Belt,Cloth Armor,7435,4343,Lane.bot_lane,Role.support
+2,GoldenStateYOLO,Nasus,False,Side.blue,2,5,5,1.4,176,Flash,Teleport,14,False,9288,8775,Hextech GLP-800,Spectre's Cowl,Mercury's Treads,Morellonomicon,,,93321,16523,Lane.top_lane,Role.solo
+3,Murs,Ahri,False,Side.blue,1,4,4,1.25,196,Ignite,Flash,14,False,9026,8350,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Luden's Echo,,59995,16374,Lane.mid_lane,Role.solo
+4,Etsu,Ezreal,False,Side.blue,3,6,2,0.8333333333333334,195,Heal,Flash,13,False,9388,9100,Doran's Blade,Bilgewater Cutlass,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Recurve Bow,11171,88591,Lane.bot_lane,Role.carry
+5,2Ninja4,Caitlyn,True,Side.red,6,0,4,10.0,231,Flash,Heal,14,False,12295,9900,Infinity Edge,Runaan's Hurricane,Doran's Blade,Last Whisper,Berserker's Greaves,,612,145878,Lane.bot_lane,Role.carry
+6,bigfry,Blitzcrank,True,Side.red,1,2,12,6.5,46,Ignite,Flash,12,False,8509,7900,Knight's Vow,Face of the Mountain,Sightstone,Aegis of the Legion,Boots of Mobility,,15408,11190,Lane.bot_lane,Role.support
+7,Infinite Eve,Ekko,True,Side.red,10,3,6,5.333333333333333,183,Ignite,Flash,16,False,12596,11400,Void Staff,Lich Bane,Hextech Protobelt-01,Sorcerer's Shoes,Fiendish Codex,,102659,22544,Lane.mid_lane,Role.solo
+8,Panth Tier God,Dr. Mundo,True,Side.red,4,4,5,2.25,230,Teleport,Ghost,15,False,11346,10850,Randuin's Omen,Spirit Visage,Mercury's Treads,Doran's Shield,Sunfire Cape,Ruby Crystal,99733,41075,Lane.top_lane,Role.solo
+9,LGN cMurder,Zac,True,Side.red,3,2,10,6.5,94,Flash,Smite,13,False,9934,8475,Giant's Belt,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Enchantment: Cinderhulk,Warden's Mail,75521,18475,Lane.jungle,Role.none

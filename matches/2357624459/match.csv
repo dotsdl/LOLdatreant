@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sheiden,Kennen,False,Side.blue,0,17,1,0.058823529411764705,11,Exhaust,Flash,9,False,4177,3900,Boots of Mobility,Kircheis Shard,Kircheis Shard,Recurve Bow,,,7988,3975,Lane.jungle,Role.none
+1,Strompest,Ryze,False,Side.blue,3,10,2,0.5,122,Flash,Ghost,11,False,7395,6735,Rod of Ages,Tear of the Goddess,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,Needlessly Large Rod,67727,4846,Lane.top_lane,Role.solo
+2,VeeIox,Anivia,False,Side.blue,7,7,1,1.1428571428571428,94,Heal,Flash,11,False,7563,7475,Archangel's Staff,Control Ward,Rod of Ages,Sorcerer's Shoes,Doran's Ring,,44609,7731,Lane.mid_lane,Role.solo
+3,Rositajonez,Jhin,False,Side.blue,0,6,6,1.0,127,Heal,Flash,11,False,6742,5800,Doran's Blade,Boots of Swiftness,Essence Reaver,Brawler's Gloves,Dagger,,2489,74099,Lane.bot_lane,Role.solo
+4,11037,Rek'Sai,False,Side.blue,2,5,4,1.2,88,Smite,Flash,11,False,6707,6225,Tiamat,Refillable Potion,Giant's Belt,Ninja Tabi,Enchantment: Cinderhulk,,10797,49219,Lane.jungle,Role.none
+5,a line of code,Kha'Zix,True,Side.red,18,1,4,22.0,132,Smite,Flash,14,False,11984,9500,Tiamat,Refillable Potion,Enchantment: Warrior,Duskblade of Draktharr,Boots of Mobility,Hexdrinker,5159,120415,Lane.jungle,Role.none
+6,Swifte,Thresh,True,Side.red,2,2,18,10.0,21,Flash,Exhaust,11,False,7023,5625,Ruby Sightstone,Locket of the Iron Solari,Control Ward,Relic Shield,,Boots of Mobility,12827,9001,Lane.bot_lane,Role.support
+7,Liquid fabbbyyy,Twitch,True,Side.red,8,4,9,4.25,127,Flash,Heal,12,True,10019,10145,Berserker's Greaves,Infinity Edge,Statikk Shiv,Zeal,Dagger,Doran's Blade,6796,67898,Lane.bot_lane,Role.carry
+8,1936 1948,Trundle,True,Side.red,8,1,13,21.0,139,Teleport,Flash,13,False,9298,9200,Titanic Hydra,Corrupting Potion,Mercury's Treads,Spirit Visage,Giant's Belt,Cloth Armor,1693,79344,Lane.top_lane,Role.solo
+9,MrStingYoGirl,Viktor,True,Side.red,9,4,3,3.0,149,Barrier,Flash,12,False,8666,8000,Perfect Hex Core,Rod of Ages,Blasting Wand,,Ionian Boots of Lucidity,,70813,13227,Lane.mid_lane,Role.solo

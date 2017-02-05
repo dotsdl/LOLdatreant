@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UnbearableBear,Vi,False,Side.blue,2,6,1,0.5,95,Smite,Flash,10,False,6171,5825,Enchantment: Warrior,Sheen,Mercury's Treads,Ruby Crystal,Long Sword,,994,69844,Lane.jungle,Role.none
+1,Solaria,Nami,False,Side.blue,1,5,2,0.6,7,Flash,Exhaust,9,False,4819,4725,Frostfang,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Sightstone,Forbidden Idol,Crystalline Bracer,8776,2636,Lane.bot_lane,Role.support
+2,SwórdofAL,Maokai,False,Side.blue,1,3,2,1.0,130,Teleport,Flash,12,False,6393,5950,Corrupting Potion,Sunfire Cape,,Ninja Tabi,,Giant's Belt,56148,12432,Lane.top_lane,Role.solo
+3,Pohq,Ezreal,False,Side.blue,1,6,2,0.5,115,Flash,Heal,10,False,6005,5725,Doran's Blade,Pickaxe,Tear of the Goddess,Iceborn Gauntlet,Ionian Boots of Lucidity,,3892,43698,Lane.bot_lane,Role.carry
+4,Poı,Vel'Koz,False,Side.blue,2,5,0,0.4,137,Flash,Barrier,11,False,6406,5800,Doran's Ring,Refillable Potion,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Aether Wisp,61858,6445,Lane.mid_lane,Role.solo
+5,Sînner,Riven,True,Side.red,5,1,1,6.0,164,Flash,Teleport,13,False,8891,6800,Tiamat,Refillable Potion,Mercury's Treads,Caulfield's Warhammer,The Black Cleaver,,1763,95626,Lane.top_lane,Role.solo
+6,Cash King Gucci ,Nautilus,True,Side.red,4,1,9,13.0,25,Ignite,Flash,11,False,7018,5100,Crystalline Bracer,Face of the Mountain,Sightstone,,,Boots of Mobility,8696,6442,Lane.bot_lane,Role.support
+7,Rakagan,Lee Sin,True,Side.red,3,1,6,9.0,69,Smite,Flash,10,True,7678,6125,Boots of Speed,Control Ward,Enchantment: Warrior,Dead Man's Plate,,Refillable Potion,11265,65695,Lane.jungle,Role.none
+8,Kurasamer,Syndra,True,Side.red,6,3,3,3.0,139,Ignite,Flash,13,False,8770,8650,Doran's Ring,Refillable Potion,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Blasting Wand,79788,7349,Lane.mid_lane,Role.solo
+9, keine Hosen,Draven,True,Side.red,7,2,5,6.0,188,Flash,Heal,13,False,11630,8325,Berserker's Greaves,The Bloodthirster,Youmuu's Ghostblade,Doran's Blade,,,0,115584,Lane.bot_lane,Role.carry

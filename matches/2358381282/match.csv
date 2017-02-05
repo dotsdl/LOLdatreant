@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mil,Lucian,False,Side.blue,4,14,7,0.7857142857142857,164,Flash,Heal,14,False,10031,8950,Doran's Blade,Infinity Edge,Ionian Boots of Lucidity,Rapid Firecannon,Vampiric Scepter,Long Sword,4631,100863,Lane.bot_lane,Role.duo
+1,Rampage101,Leona,False,Side.blue,3,7,10,1.8571428571428572,77,Flash,Exhaust,14,False,9530,9150,Sunfire Cape,Face of the Mountain,Sightstone,Ninja Tabi,Glacial Shroud,Warden's Mail,32065,12316,Lane.bot_lane,Role.duo
+2,IAmVip3R,Shyvana,False,Side.blue,8,9,7,1.6666666666666667,267,Smite,Exhaust,17,False,13904,13125,Enchantment: Bloodrazor,Thornmail,Ninja Tabi,Sunfire Cape,Frozen Mallet,Vampiric Scepter,144248,72478,Lane.jungle,Role.none
+3,TabloHaru,Rammus,False,Side.blue,4,8,11,1.875,133,Teleport,Flash,15,False,10037,9625,Corrupting Potion,Zz'Rot Portal,Randuin's Omen,Thornmail,,Ninja Tabi,62901,29541,Lane.top_lane,Role.solo
+4,Rip Ace,Malzahar,False,Side.blue,6,7,8,2.0,200,Ghost,Flash,16,False,11171,9350,Doran's Ring,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Liandry's Torment,Needlessly Large Rod,96227,27337,Lane.mid_lane,Role.solo
+5,Opey,Renekton,True,Side.red,1,8,16,2.125,167,Flash,Teleport,15,False,11983,11125,The Black Cleaver,Refillable Potion,Titanic Hydra,Mercury's Treads,Spirit Visage,,6615,100931,Lane.top_lane,Role.solo
+6,Druee,Bard,True,Side.red,3,6,25,4.666666666666667,14,Exhaust,Flash,15,False,12378,10800,Frost Queen's Claim,Sightstone,Redemption,Ionian Boots of Lucidity,Iceborn Gauntlet,Spectre's Cowl,25643,10275,Lane.bot_lane,Role.support
+7,fkuz,Zed,True,Side.red,17,4,13,7.5,201,Ignite,Flash,18,False,17274,13950,Youmuu's Ghostblade,Duskblade of Draktharr,The Black Cleaver,Boots of Swiftness,Lord Dominik's Regards,Pickaxe,8193,171028,Lane.jungle,Role.none
+8,Dj Sensei,Twitch,True,Side.red,13,5,9,4.4,275,Heal,Flash,17,True,17450,15700,Mercurial Scimitar,Runaan's Hurricane,Infinity Edge,Lord Dominik's Regards,Zeal,Berserker's Greaves,0,228159,Lane.bot_lane,Role.carry
+9,ZyfLa,Vi,True,Side.red,11,2,13,12.0,152,Flash,Smite,17,False,15816,14083,Guardian Angel,Dead Man's Plate,Caulfield's Warhammer,Enchantment: Cinderhulk,Trinity Force,Mercury's Treads,22399,176165,Lane.jungle,Role.none

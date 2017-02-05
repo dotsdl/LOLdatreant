@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cile,Braum,True,Side.blue,1,7,20,3.0,46,Flash,Exhaust,12,False,9237,6800,Sightstone,Boots of Mobility,Locket of the Iron Solari,Face of the Mountain,Rejuvenation Bead,Rejuvenation Bead,7731,7839,Lane.bot_lane,Role.duo
+1,im jungIe,Graves,True,Side.blue,10,1,12,22.0,191,Smite,Flash,16,False,15242,12850,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Phantom Dancer,Mercury's Treads,The Black Cleaver,4167,195265,Lane.jungle,Role.none
+2,Sînner,Riven,True,Side.blue,4,1,6,10.0,207,Flash,Teleport,15,False,11426,10450,Ravenous Hydra,Youmuu's Ghostblade,Boots of Speed,The Black Cleaver,Long Sword,,58,134645,Lane.top_lane,Role.solo
+3,IQ is 201 ,Cassiopeia,True,Side.blue,11,5,9,4.0,115,Flash,Ghost,13,False,11580,10625,Refillable Potion,Rylai's Crystal Scepter,Abyssal Scepter,Archangel's Staff,Blasting Wand,Doran's Ring,69365,8938,Lane.mid_lane,Role.solo
+4,Wolfox,Twitch,True,Side.blue,14,5,9,4.6,139,Flash,Heal,14,False,13259,10550,Infinity Edge,Statikk Shiv,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,,464,88302,Lane.bot_lane,Role.duo
+5,aphromoo,Thresh,False,Side.red,2,8,12,1.75,24,Ignite,Flash,10,True,6971,5900,Ruby Sightstone,Face of the Mountain,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,Ruby Crystal,6975,3633,Lane.bot_lane,Role.support
+6,Blaze SandHaven,Jinx,False,Side.red,7,10,9,1.6,117,Heal,Flash,11,False,9280,8800,Infinity Edge,Vampiric Scepter,Berserker's Greaves,Runaan's Hurricane,,,983,74488,Lane.bot_lane,Role.carry
+7,Weeknd,Syndra,False,Side.red,2,11,6,0.7272727272727273,135,Ghost,Flash,11,False,7953,7800,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,,,61781,9603,Lane.mid_lane,Role.solo
+8,Leithal,Poppy,False,Side.red,5,5,0,1.0,189,Flash,Teleport,14,False,9623,8450,Corrupting Potion,Sunfire Cape,Giant's Belt,Ninja Tabi,Spirit Visage,,34098,67870,Lane.top_lane,Role.solo
+9,ZealotTKO,Nunu,False,Side.red,3,6,8,1.8333333333333333,83,Flash,Smite,12,False,7847,7750,Ninja Tabi,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Warden's Mail,,25683,19138,Lane.jungle,Role.none

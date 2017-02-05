@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pekin Woof,Fizz,False,Side.blue,9,6,9,3.0,213,Flash,Teleport,17,False,14723,13375,Needlessly Large Rod,Zhonya's Hourglass,Lich Bane,Abyssal Scepter,Ionian Boots of Lucidity,,101465,34634,Lane.mid_lane,Role.solo
+1,Mi Amor Teemo,Sona,False,Side.blue,3,10,16,1.9,22,Flash,Ignite,14,False,12555,11825,Eye of the Watchers,Lich Bane,Sorcerer's Shoes,Zhonya's Hourglass,Aether Wisp,Needlessly Large Rod,30749,7123,Lane.bot_lane,Role.support
+2,Wizzy,Jayce,False,Side.blue,6,10,7,1.3,187,Teleport,Flash,15,False,13386,13750,Randuin's Omen,The Black Cleaver,Caulfield's Warhammer,Hexdrinker,Mortal Reminder,Mercury's Treads,24739,93890,Lane.top_lane,Role.solo
+3,TeddyRO,Shyvana,False,Side.blue,5,6,4,1.5,218,Flash,Smite,16,False,14561,12975,Blade of the Ruined King,Titanic Hydra,Mercury's Treads,Spectre's Cowl,Warden's Mail,Enchantment: Bloodrazor,81812,126388,Lane.jungle,Role.none
+4,809,Ezreal,False,Side.blue,4,8,12,2.0,215,Heal,Flash,16,False,13831,13938,Blade of the Ruined King,Last Whisper,Hexdrinker,Muramana,Trinity Force,Ionian Boots of Lucidity,18969,140003,Lane.bot_lane,Role.carry
+5,white cat,Thresh,True,Side.red,2,8,23,3.125,22,Flash,Exhaust,15,False,10209,8275,Locket of the Iron Solari,Sightstone,Face of the Mountain,Crystalline Bracer,Ionian Boots of Lucidity,Giant's Belt,13596,6110,Lane.bot_lane,Role.support
+6,Naeun,Karma,True,Side.red,2,6,20,3.6666666666666665,191,Teleport,Ghost,17,False,12767,11585,Redemption,Rod of Ages,Spirit Visage,Aether Wisp,Ninja Tabi,Forbidden Idol,103568,27342,Lane.top_lane,Role.solo
+7,N810HO,Caitlyn,True,Side.red,12,4,13,6.25,263,Flash,Heal,16,True,16886,14475,Berserker's Greaves,The Bloodthirster,,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,5859,241957,Lane.bot_lane,Role.carry
+8,Archhangel,Syndra,True,Side.red,3,5,10,2.6,292,Flash,Ghost,17,False,13729,12460,Sorcerer's Shoes,Morellonomicon,Void Staff,Amplifying Tome,Abyssal Scepter,Needlessly Large Rod,176390,16679,Lane.mid_lane,Role.solo
+9,C9 Meteos,Rek'Sai,True,Side.red,21,4,7,7.0,188,Smite,Flash,18,False,18559,16925,Randuin's Omen,Titanic Hydra,The Black Cleaver,Enchantment: Cinderhulk,Ninja Tabi,Guardian Angel,43757,176592,Lane.jungle,Role.none

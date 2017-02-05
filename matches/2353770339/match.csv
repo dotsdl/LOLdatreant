@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rositajonez,Diana,False,Side.blue,7,6,5,2.0,165,Smite,Flash,15,False,11166,10335,Abyssal Scepter,Boots of Speed,Enchantment: Runic Echoes,Hextech Protobelt-01,Amplifying Tome,Needlessly Large Rod,114631,30700,Lane.jungle,Role.none
+1,NoOb NeVeR trolL,Ryze,False,Side.blue,2,14,5,0.5,131,Flash,Teleport,12,False,8955,8535,Seraph's Embrace,Refillable Potion,Amplifying Tome,Ionian Boots of Lucidity,Morellonomicon,Fiendish Codex,69826,8712,Lane.mid_lane,Role.solo
+2,Sawyerr,Nautilus,False,Side.blue,1,2,6,3.5,212,Teleport,Flash,15,False,10273,9325,Zz'Rot Portal,Sunfire Cape,Ninja Tabi,Doran's Ring,Kindlegem,Spectre's Cowl,96246,32925,Lane.top_lane,Role.solo
+3,C L,Thresh,False,Side.blue,4,4,10,3.5,36,Flash,Ignite,13,True,8641,8550,Redemption,Ruby Sightstone,Locket of the Iron Solari,Chain Vest,Relic Shield,Boots of Mobility,12206,5584,Lane.bot_lane,Role.support
+4,rikarawr,Caitlyn,False,Side.blue,3,5,8,2.2,232,Flash,Heal,14,False,11400,10575,Doran's Blade,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,,1336,134407,Lane.bot_lane,Role.carry
+5,Rokí,Ekko,True,Side.red,4,2,5,4.5,186,Flash,Teleport,15,False,11746,10375,Corrupting Potion,Rod of Ages,,Mercury's Treads,Iceborn Gauntlet,Spirit Visage,101408,26186,Lane.top_lane,Role.solo
+6,ZealotTKO,Soraka,True,Side.red,1,1,12,13.0,16,Flash,Exhaust,13,False,9203,9075,Zeal,Eye of the Watchers,Locket of the Iron Solari,Redemption,Refillable Potion,Ionian Boots of Lucidity,8178,10121,Lane.bot_lane,Role.support
+7,Rip Cig,Graves,True,Side.red,5,3,4,3.0,179,Flash,Smite,16,False,12376,11325,Enchantment: Warrior,Maw of Malmortius,Mercury's Treads,Phantom Dancer,Long Sword,B. F. Sword,4047,193915,Lane.jungle,Role.none
+8,Imaqtpie,Vayne,True,Side.red,10,6,1,1.8333333333333333,186,Flash,Heal,14,False,13031,12350,Berserker's Greaves,The Bloodthirster,,Doran's Blade,Infinity Edge,Statikk Shiv,25610,89485,Lane.bot_lane,Role.carry
+9,Panunu,Gragas,True,Side.red,11,5,9,4.0,168,Ignite,Flash,16,False,12954,11910,Lich Bane,Control Ward,,Rabadon's Deathcap,Ionian Boots of Lucidity,Abyssal Scepter,130196,16063,Lane.mid_lane,Role.solo

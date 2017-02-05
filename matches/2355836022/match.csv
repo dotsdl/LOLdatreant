@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cuckvele,Janna,False,Side.blue,1,4,12,3.25,14,Flash,Exhaust,13,False,7730,7350,Redemption,Boots of Swiftness,,Frostfang,Locket of the Iron Solari,Sightstone,6388,7780,Lane.bot_lane,Role.support
+1,The13adGuy,Nasus,False,Side.blue,3,8,5,1.0,169,Teleport,Flash,15,False,10815,10855,Mercury's Treads,Giant's Belt,Iceborn Gauntlet,Spirit Visage,Raptor Cloak,Null-Magic Mantle,52221,76189,Lane.top_lane,Role.solo
+2,HaeJangGuk,Graves,False,Side.blue,12,9,6,2.0,170,Smite,Flash,15,False,13022,12625,Enchantment: Warrior,Maw of Malmortius,Phantom Dancer,Berserker's Greaves,Vampiric Scepter,B. F. Sword,4506,153002,Lane.jungle,Role.none
+3,LightDatz,Vayne,False,Side.blue,5,8,7,1.5,162,Flash,Heal,14,False,10060,9650,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Bilgewater Cutlass,Dagger,10825,64936,Lane.bot_lane,Role.carry
+4,JUAN TU TREE,Ryze,False,Side.blue,1,6,7,1.3333333333333333,216,Ghost,Flash,15,False,10319,8650,Seraph's Embrace,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Fiendish Codex,Lost Chapter,144464,7379,Lane.mid_lane,Role.solo
+5,Sheiden,Kennen,True,Side.red,5,2,9,7.0,73,Exhaust,Flash,14,False,11036,10050,Eye of the Watchers,Locket of the Iron Solari,Redemption,Sorcerer's Shoes,Needlessly Large Rod,Ruby Crystal,43831,13973,Lane.bot_lane,Role.duo
+6,Joelzzz,Caitlyn,True,Side.red,0,5,7,1.4,124,Heal,Flash,13,False,9278,8950,Doran's Blade,Infinity Edge,Runaan's Hurricane,Cull,Health Potion,Berserker's Greaves,604,89875,Lane.bot_lane,Role.duo
+7,Darvec,Hecarim,True,Side.red,13,4,4,4.25,141,Smite,Ghost,15,False,14243,12258,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,Dead Man's Plate,Spectre's Cowl,25492,139311,Lane.jungle,Role.none
+8,Sunbob,Maokai,True,Side.red,10,6,11,3.5,183,Teleport,Flash,16,True,13733,13125,Mercury's Treads,Randuin's Omen,Spirit Visage,Iceborn Gauntlet,Sunfire Cape,,100465,25568,Lane.top_lane,Role.solo
+9,JaySo,Ahri,True,Side.red,7,5,10,3.4,196,Ignite,Flash,16,False,12596,12200,Doran's Ring,Morellonomicon,Zhonya's Hourglass,Sorcerer's Shoes,Rabadon's Deathcap,Blasting Wand,84684,17444,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Braums Mustache,Taric,True,Side.blue,3,4,22,6.25,61,Flash,Exhaust,14,False,10882,9375,Boots of Mobility,Sightstone,Face of the Mountain,Locket of the Iron Solari,Frozen Heart,Cloth Armor,15546,12414,Lane.bot_lane,Role.duo
+1,Watarimono,Hecarim,True,Side.blue,12,4,6,4.5,133,Ghost,Smite,15,False,13158,12183,Enchantment: Cinderhulk,Ruby Crystal,Trinity Force,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,24268,112328,Lane.jungle,Role.none
+2,Ostry,Corki,True,Side.blue,16,4,10,6.5,205,Flash,Heal,15,False,15731,12583,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,Doran's Blade,Rapid Firecannon,Pickaxe,93832,42360,Lane.bot_lane,Role.duo
+3,Holtergeist,Kayle,True,Side.blue,2,4,13,3.75,186,Ghost,Flash,15,False,11249,9495,Negatron Cloak,Nashor's Tooth,Zhonya's Hourglass,Doran's Ring,Mercury's Treads,Recurve Bow,69443,28025,Lane.mid_lane,Role.solo
+4,nix3y,Malphite,True,Side.blue,5,7,6,1.5714285714285714,146,Teleport,Flash,15,False,10911,10750,Sunfire Cape,Corrupting Potion,Ninja Tabi,Frozen Heart,Abyssal Scepter,Chain Vest,62581,24825,Lane.top_lane,Role.solo
+5,TAGurPREGNANT69,Annie,False,Side.red,1,10,10,1.1,24,Ignite,Flash,11,False,7892,6810,Frost Queen's Claim,Locket of the Iron Solari,Sightstone,Amplifying Tome,,Boots of Mobility,23154,4593,Lane.bot_lane,Role.support
+6,Jax Blaked,Vi,False,Side.red,8,6,6,2.3333333333333335,89,Smite,Flash,13,False,10321,10153,Giant's Belt,Negatron Cloak,Chain Vest,Trinity Force,Ionian Boots of Lucidity,Enchantment: Warrior,1208,106772,Lane.jungle,Role.none
+7,phøng,Riven,False,Side.red,5,7,4,1.2857142857142858,222,Flash,Teleport,15,True,11625,11500,Tiamat,Refillable Potion,Mercury's Treads,The Black Cleaver,Lord Dominik's Regards,Youmuu's Ghostblade,1947,149220,Lane.top_lane,Role.solo
+8,Aced By Magikarp,Vayne,False,Side.red,1,11,6,0.6363636363636364,135,Flash,Heal,12,False,9150,8950,Doran's Blade,,Brawler's Gloves,Berserker's Greaves,Infinity Edge,Statikk Shiv,13693,51256,Lane.bot_lane,Role.carry
+9,RoyalPiplup,Orianna,False,Side.red,8,4,6,3.5,183,Flash,Ghost,14,False,11428,10150,Morellonomicon,Needlessly Large Rod,Blasting Wand,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,102970,17311,Lane.mid_lane,Role.solo

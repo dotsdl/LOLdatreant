@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Adisence,Twitch,True,Side.blue,6,2,12,9.0,143,Flash,Heal,13,False,11402,10875,Infinity Edge,Runaan's Hurricane,Statikk Shiv,Berserker's Greaves,Doran's Blade,Long Sword,1131,96463,Lane.bot_lane,Role.carry
+1,Hanjaro,Karma,True,Side.blue,5,2,17,11.0,26,Flash,Exhaust,12,True,10172,9650,Eye of the Watchers,Chalice of Harmony,Locket of the Iron Solari,Ardent Censer,Ionian Boots of Lucidity,Forbidden Idol,29280,8728,Lane.bot_lane,Role.support
+2,ToxicDrag,Yasuo,True,Side.blue,9,7,1,1.4285714285714286,163,Ignite,Flash,13,False,11496,10910,Infinity Edge,Hexdrinker,Phantom Dancer,Mercury's Treads,Health Potion,Giant's Belt,19571,89895,Lane.top_lane,Role.solo
+3,nine one two,Lee Sin,True,Side.blue,6,0,18,24.0,104,Smite,Flash,14,False,11726,10375,Dead Man's Plate,Ionian Boots of Lucidity,Refillable Potion,Maw of Malmortius,Enchantment: Warrior,Ruby Crystal,14954,93253,Lane.jungle,Role.none
+4,Wo Min Carry Me ,Anivia,True,Side.blue,9,1,7,16.0,152,Ignite,Flash,14,False,11623,9500,Rabadon's Deathcap,Doran's Ring,Sorcerer's Shoes,Cloth Armor,Blasting Wand,Rod of Ages,83155,11401,Lane.mid_lane,Role.solo
+5,Łayne,Olaf,False,Side.red,2,8,1,0.375,101,Ghost,Smite,11,False,6930,9282,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Boots of Swiftness,Jaurim's Fist,Ruby Crystal,8773,62375,Lane.jungle,Role.none
+6,Lord Goose,Vayne,False,Side.red,3,9,3,0.6666666666666666,155,Heal,Flash,11,False,8040,8000,Infinity Edge,Statikk Shiv,Berserker's Greaves,,,,15191,64185,Lane.bot_lane,Role.carry
+7,Rìot Faker,Soraka,False,Side.red,0,7,7,1.0,6,Flash,Exhaust,10,False,5511,4575,Nomad's Medallion,Ruby Sightstone,Ionian Boots of Lucidity,Control Ward,,Crystalline Bracer,6236,3757,Lane.bot_lane,Role.support
+8,Kazacan,Nautilus,False,Side.red,4,6,2,1.0,133,Flash,Teleport,12,False,7611,7400,Doran's Ring,Sunfire Cape,Mercury's Treads,Spirit Visage,,,50902,16999,Lane.top_lane,Role.solo
+9,Kammgefahr,Karthus,False,Side.red,3,5,4,1.4,197,Exhaust,Flash,14,False,8994,8725,Rabadon's Deathcap,Control Ward,Morellonomicon,Doran's Ring,Sorcerer's Shoes,,131334,2486,Lane.mid_lane,Role.solo

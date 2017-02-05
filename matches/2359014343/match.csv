@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Flaresz,Poppy,False,Side.blue,2,8,4,0.75,140,Flash,Teleport,13,False,7910,7050,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Boots of Swiftness,Ruby Crystal,Glacial Shroud,25028,58552,Lane.top_lane,Role.solo
+1,konkwon,Lulu,False,Side.blue,3,7,7,1.4285714285714286,17,Flash,Ignite,11,False,6870,6500,Redemption,Nomad's Medallion,Boots of Swiftness,Sightstone,Control Ward,Raptor Cloak,13075,3439,Lane.bot_lane,Role.support
+2,Deft Pawn,Ahri,False,Side.blue,3,7,7,1.4285714285714286,122,Ignite,Flash,12,False,7983,7450,Abyssal Scepter,Void Staff,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,,44421,12787,Lane.mid_lane,Role.solo
+3,Årcee,Draven,False,Side.blue,2,9,5,0.7777777777777778,148,Heal,Flash,11,False,8993,8625,Doran's Blade,Death's Dance,Berserker's Greaves,Phantom Dancer,Pickaxe,,704,85837,Lane.bot_lane,Role.carry
+4,Yusui,Lee Sin,False,Side.blue,9,7,2,1.5714285714285714,66,Smite,Flash,11,False,8680,8450,Titanic Hydra,Sightstone,Enchantment: Warrior,Control Ward,Boots of Mobility,Ruby Crystal,5638,47746,Lane.jungle,Role.none
+5,Quaal,Kassadin,True,Side.red,13,7,5,2.5714285714285716,138,Flash,Teleport,14,True,12414,11700,Blasting Wand,Zhonya's Hourglass,Ionian Boots of Lucidity,The Dark Seal,Lich Bane,Rod of Ages,74422,15123,Lane.mid_lane,Role.solo
+6,ókay,Rek'Sai,True,Side.red,2,0,14,16.0,184,Smite,Flash,15,False,11504,9125,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Spectre's Cowl,Ruby Crystal,Titanic Hydra,35024,123292,Lane.jungle,Role.none
+7,BillyBoss1,Darius,True,Side.red,10,5,3,2.6,140,Flash,Teleport,14,False,10668,9425,Corrupting Potion,Mercury's Treads,Spectre's Cowl,Dead Man's Plate,The Black Cleaver,Ruby Crystal,349,92384,Lane.top_lane,Role.solo
+8,CloudNguyén,Brand,True,Side.red,8,4,8,4.0,38,Ignite,Flash,13,False,9894,8585,Eye of the Watchers,Control Ward,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,31769,6506,Lane.bot_lane,Role.support
+9,Pekin Woof,Caitlyn,True,Side.red,5,3,12,5.666666666666667,150,Flash,Heal,13,False,10737,9600,Doran's Blade,Infinity Edge,Zeal,Runaan's Hurricane,Berserker's Greaves,Dagger,566,101191,Lane.bot_lane,Role.carry

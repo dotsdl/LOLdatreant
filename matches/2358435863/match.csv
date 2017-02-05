@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sebi,Orianna,False,Side.blue,4,6,5,1.5,198,Flash,Ghost,14,False,9982,9380,Doran's Ring,Morellonomicon,Negatron Cloak,Sorcerer's Shoes,Void Staff,Amplifying Tome,96249,16441,Lane.mid_lane,Role.solo
+1,skyWtr,Lee Sin,False,Side.blue,8,3,5,4.333333333333333,161,Smite,Flash,15,False,11607,11425,Ravenous Hydra,Enchantment: Warrior,Edge of Night,,Chain Vest,Mercury's Treads,24104,109702,Lane.jungle,Role.none
+2,Pooper Josh,Twitch,False,Side.blue,2,6,4,1.0,160,Heal,Flash,13,False,8818,7900,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,,1129,73860,Lane.bot_lane,Role.carry
+3,Treebro001,Ekko,False,Side.blue,4,5,5,1.8,172,Flash,Teleport,15,False,9390,8975,Hextech Protobelt-01,Abyssal Scepter,,Sorcerer's Shoes,Aether Wisp,Sheen,85057,21808,Lane.top_lane,Role.solo
+4,Dregin001,Nami,False,Side.blue,1,8,9,1.25,22,Exhaust,Flash,13,False,7283,6945,Eye of the Oasis,Refillable Potion,Redemption,,Aegis of the Legion,Boots of Mobility,6392,5200,Lane.bot_lane,Role.support
+5,The Eggsalad,Vel'Koz,True,Side.red,4,5,3,1.4,35,Ignite,Flash,12,True,9418,9035,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,Eye of the Watchers,Total Biscuit of Rejuvenation,Blasting Wand,28090,5467,Lane.bot_lane,Role.support
+6,GordanRamsey,Evelynn,True,Side.red,9,2,9,9.0,142,Smite,Flash,15,False,13005,11825,Enchantment: Runic Echoes,Mejai's Soulstealer,Sorcerer's Shoes,Rylai's Crystal Scepter,Hextech Protobelt-01,Blasting Wand,106461,39995,Lane.jungle,Role.none
+7,Szeto 1997,Jhin,True,Side.red,6,2,16,11.0,201,Heal,Flash,15,False,14624,13375,B. F. Sword,Rapid Firecannon,Infinity Edge,Boots of Swiftness,,Essence Reaver,8322,166741,Lane.bot_lane,Role.carry
+8,Dream Arc,Darius,True,Side.red,6,6,6,2.0,180,Teleport,Flash,15,False,11859,10350,Corrupting Potion,The Black Cleaver,Spirit Visage,Boots of Swiftness,Dead Man's Plate,,458,102408,Lane.top_lane,Role.solo
+9,Niles,LeBlanc,True,Side.red,3,4,5,2.0,223,Flash,Teleport,15,False,11381,10250,Sorcerer's Shoes,The Dark Seal,Void Staff,Morellonomicon,Abyssal Scepter,,131286,13117,Lane.mid_lane,Role.solo

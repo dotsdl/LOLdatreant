@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ókay,Lee Sin,False,Side.blue,2,5,3,1.0,155,Smite,Flash,14,True,10158,9800,Enchantment: Warrior,Control Ward,Ruby Sightstone,Dead Man's Plate,Mercury's Treads,Tiamat,17655,118811,Lane.jungle,Role.none
+1,Cat Ears,Janna,False,Side.blue,1,3,5,2.0,8,Flash,Exhaust,13,False,7399,7400,Redemption,Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Ruby Crystal,Control Ward,7736,2289,Lane.bot_lane,Role.support
+2,Stixxay,Kalista,False,Side.blue,3,4,3,1.5,289,Heal,Flash,15,False,12400,11975,Quicksilver Sash,Blade of the Ruined King,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Lord Dominik's Regards,1989,172992,Lane.bot_lane,Role.carry
+3,BoxerPete,Tryndamere,False,Side.blue,3,4,0,0.75,208,Ignite,Flash,14,False,10835,10500,Doran's Blade,Infinity Edge,Statikk Shiv,Mercury's Treads,Phantom Dancer,,37097,99665,Lane.mid_lane,Role.solo
+4,Quad Main,Maokai,False,Side.blue,0,4,1,0.25,226,Flash,Teleport,15,False,10067,9075,Doran's Ring,Glacial Shroud,Doran's Ring,Spirit Visage,Sunfire Cape,Mercury's Treads,116309,20315,Lane.top_lane,Role.solo
+5,ApoIlo Price,Ashe,True,Side.red,4,1,8,12.0,274,Flash,Heal,15,False,13983,12000,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,B. F. Sword,Lord Dominik's Regards,1211,186320,Lane.bot_lane,Role.carry
+6,top banh bao,Jax,True,Side.red,7,2,6,6.5,223,Ignite,Flash,16,False,12891,12083,Randuin's Omen,Blade of the Ruined King,Corrupting Potion,Doran's Blade,Ninja Tabi,Trinity Force,33789,106004,Lane.mid_lane,Role.solo
+7,umperor,Shyvana,True,Side.red,1,4,5,1.5,181,Smite,Flash,16,False,11990,11175,Randuin's Omen,Blade of the Ruined King,Ninja Tabi,Refillable Potion,Enchantment: Bloodrazor,Giant's Belt,86199,91391,Lane.jungle,Role.none
+8,Entago,Poppy,True,Side.red,1,1,8,9.0,51,Flash,Exhaust,13,False,8741,7950,Face of the Mountain,Redemption,Ruby Sightstone,,Boots of Swiftness,Control Ward,2468,21763,Lane.bot_lane,Role.support
+9,Rhux,Kennen,True,Side.red,6,1,6,12.0,264,Flash,Teleport,17,False,14202,13050,Sorcerer's Shoes,Doran's Blade,Hextech Protobelt-01,Zhonya's Hourglass,Rylai's Crystal Scepter,Void Staff,128736,46476,Lane.top_lane,Role.solo

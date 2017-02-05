@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,We are Ivern,Lee Sin,False,Side.blue,5,5,7,2.4,152,Smite,Flash,16,False,12933,11900,Enchantment: Warrior,Sightstone,Ionian Boots of Lucidity,Maw of Malmortius,Spectre's Cowl,Randuin's Omen,29774,129078,Lane.jungle,Role.none
+1,Wingsofdeathx,Irelia,False,Side.blue,3,4,4,1.75,292,Teleport,Flash,17,False,14118,13758,Blade of the Ruined King,Randuin's Omen,Trinity Force,Ninja Tabi,Giant's Belt,Warden's Mail,2729,151397,Lane.top_lane,Role.solo
+2,PIays With Balls,Soraka,False,Side.blue,1,5,11,2.4,22,Flash,Exhaust,13,False,10052,9675,Ardent Censer,Redemption,Eye of the Oasis,Boots of Mobility,Mikael's Crucible,,13935,3375,Lane.bot_lane,Role.support
+3,pLatina Asis,Tristana,False,Side.blue,5,2,3,4.0,288,Heal,Flash,16,False,14551,14675,Blade of the Ruined King,Runaan's Hurricane,Infinity Edge,Statikk Shiv,,Boots of Swiftness,89916,140309,Lane.bot_lane,Role.carry
+4,Grapermelon,Morgana,False,Side.blue,8,3,5,4.333333333333333,260,Ignite,Flash,17,False,14210,12750,Sorcerer's Shoes,Zhonya's Hourglass,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Blasting Wand,148386,18788,Lane.mid_lane,Role.solo
+5,Qkuzi,Gangplank,True,Side.red,7,2,7,7.0,293,Flash,Exhaust,17,True,16832,14658,Doran's Ring,Youmuu's Ghostblade,Trinity Force,Infinity Edge,Mortal Reminder,Ninja Tabi,15862,252495,Lane.top_lane,Role.solo
+6,Vankara,Caitlyn,True,Side.red,3,5,5,1.6,274,Heal,Flash,16,False,13778,11375,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,Runaan's Hurricane,,586,225436,Lane.bot_lane,Role.carry
+7,Delerium,Karma,True,Side.red,2,6,12,2.3333333333333335,29,Exhaust,Flash,14,False,11234,9425,Redemption,Eye of the Watchers,,,Ionian Boots of Lucidity,Morellonomicon,33707,6306,Lane.bot_lane,Role.support
+8,Spirited Haku,Hecarim,True,Side.red,2,6,10,2.0,153,Ghost,Smite,16,False,12261,10528,Enchantment: Cinderhulk,Raptor Cloak,Boots of Swiftness,Trinity Force,Spectre's Cowl,Negatron Cloak,21391,131264,Lane.jungle,Role.none
+9,Tsui Wah ,Ryze,True,Side.red,5,3,5,3.3333333333333335,352,Flash,Ghost,18,False,15750,14425,Void Staff,Seraph's Embrace,Null-Magic Mantle,Morellonomicon,Rod of Ages,Ionian Boots of Lucidity,287218,12476,Lane.mid_lane,Role.solo

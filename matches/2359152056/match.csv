@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Too Bad IDFC,Shyvana,False,Side.blue,2,7,8,1.4285714285714286,158,Smite,Exhaust,15,False,11218,10050,Enchantment: Bloodrazor,Wit's End,Ninja Tabi,Dead Man's Plate,Ruby Crystal,Cloth Armor,92249,79988,Lane.jungle,Role.none
+1,Dyr0nejk2,Renekton,False,Side.blue,2,9,4,0.6666666666666666,214,Ignite,Flash,15,False,11214,11620,Titanic Hydra,Chain Vest,The Black Cleaver,Mercury's Treads,Hexdrinker,Giant's Belt,10607,141224,Lane.top_lane,Role.solo
+2,Adema,Morgana,False,Side.blue,1,10,15,1.6,22,Exhaust,Flash,13,False,9942,9325,Frost Queen's Claim,Zhonya's Hourglass,Sightstone,Redemption,Boots of Mobility,,21077,3575,Lane.bot_lane,Role.support
+3,AFrogOnCroak,Draven,False,Side.blue,4,11,7,1.0,256,Flash,Heal,15,False,14121,14250,Youmuu's Ghostblade,Mercurial Scimitar,Infinity Edge,Berserker's Greaves,,Phantom Dancer,0,198281,Lane.bot_lane,Role.carry
+4,Die Young,Viktor,False,Side.blue,15,7,6,3.0,208,Ghost,Flash,16,False,14689,14005,Rylai's Crystal Scepter,Lich Bane,Sorcerer's Shoes,Void Staff,Perfect Hex Core,,144475,9996,Lane.mid_lane,Role.solo
+5,Ryan Choi,Swain,True,Side.red,13,3,9,7.333333333333333,195,Flash,Ignite,17,False,15009,14000,Rod of Ages,Liandry's Torment,Zhonya's Hourglass,Spirit Visage,Ruby Crystal,Mercury's Treads,91962,25180,Lane.top_lane,Role.solo
+6,PM ME AHRI NUDES,Jhin,True,Side.red,10,5,16,5.2,184,Heal,Flash,16,False,14792,13875,Rapid Firecannon,Infinity Edge,Lord Dominik's Regards,Maw of Malmortius,Boots of Swiftness,,10325,142585,Lane.bot_lane,Role.carry
+7,WatchThePower,Rengar,True,Side.red,18,4,14,8.0,243,Flash,Smite,18,True,18947,17225,Enchantment: Warrior,Ravenous Hydra,Ninja Tabi,Death's Dance,Spirit Visage,Guardian Angel,24224,243591,Lane.jungle,Role.none
+8,Asukira,Taliyah,True,Side.red,3,9,16,2.111111111111111,207,Teleport,Flash,16,False,13377,11700,,Blasting Wand,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,Rylai's Crystal Scepter,143335,12846,Lane.mid_lane,Role.solo
+9,Tizzleqix,Janna,True,Side.red,0,3,34,11.333333333333334,13,Exhaust,Flash,16,False,11389,10425,Talisman of Ascension,Locket of the Iron Solari,Mikael's Crucible,Ruby Sightstone,Control Ward,Boots of Swiftness,5682,6935,Lane.bot_lane,Role.support

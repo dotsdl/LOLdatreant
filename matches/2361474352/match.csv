@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sheiden,Kennen,True,Side.blue,7,1,1,8.0,114,Ghost,Flash,10,False,8050,4775,Doran's Blade,Hextech Protobelt-01,Cull,Sorcerer's Shoes,,,38451,20948,Lane.mid_lane,Role.solo
+1,IA55A55INI,Illaoi,True,Side.blue,3,0,0,3.0,138,Flash,Teleport,11,False,6689,5175,The Black Cleaver,Corrupting Potion,Boots of Speed,Raptor Cloak,,,620,77963,Lane.top_lane,Role.solo
+2,TheOddOrange,Kha'Zix,True,Side.blue,7,1,2,9.0,89,Flash,Smite,11,False,8010,4950,Enchantment: Warrior,Refillable Potion,Caulfield's Warhammer,Boots of Speed,Long Sword,Long Sword,2106,80940,Lane.jungle,Role.none
+3,O N,Alistar,True,Side.blue,0,0,3,3.0,22,Flash,Exhaust,8,False,4689,2325,Relic Shield,Boots of Mobility,Rejuvenation Bead,,Rejuvenation Bead,Ruby Crystal,6194,6449,Lane.bot_lane,Role.support
+4,I Serenity I,Ezreal,True,Side.blue,0,1,2,2.0,92,Flash,Heal,8,False,5655,4025,Pickaxe,Cull,Doran's Blade,Sheen,Tear of the Goddess,Boots of Speed,5972,32910,Lane.bot_lane,Role.carry
+5,hashinshin,Jax,False,Side.red,0,3,0,0.0,125,Ghost,Teleport,9,False,4529,3425,Corrupting Potion,Boots of Speed,Stinger,Control Ward,Sheen,Ruby Crystal,9440,24331,Lane.top_lane,Role.solo
+6,cackgod,Ekko,False,Side.red,1,3,0,0.3333333333333333,79,Teleport,Flash,9,False,4183,3375,Corrupting Potion,The Dark Seal,Cloth Armor,Boots of Speed,Hextech Revolver,Kindlegem,28085,7067,Lane.mid_lane,Role.solo
+7,ChriShin,Caitlyn,False,Side.red,2,3,1,1.0,67,Heal,Flash,7,True,4593,4075,Berserker's Greaves,Doran's Blade,Cull,Dagger,Dagger,B. F. Sword,554,22103,Lane.bot_lane,Role.carry
+8,Cat Ears,Karma,False,Side.red,0,2,2,1.0,2,Flash,Exhaust,6,False,3240,2875,Frostfang,Total Biscuit of Rejuvenation,Sightstone,Ionian Boots of Lucidity,,,4305,2430,Lane.bot_lane,Role.support
+9,Alex Ich 1,Vi,False,Side.red,0,6,0,0.0,50,Flash,Smite,7,False,3875,3300,Enchantment: Warrior,Refillable Potion,Boots of Speed,Control Ward,,,1333,38324,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,0 K A Y B O Y S,Poppy,True,Side.blue,9,2,8,8.5,185,Flash,Teleport,15,False,12612,10350,Chain Vest,Sunfire Cape,Spectre's Cowl,Ninja Tabi,Frozen Heart,Giant's Belt,35260,71202,Lane.top_lane,Role.solo
+1,Captain Ziploc,Lee Sin,True,Side.blue,11,5,11,4.4,85,Smite,Flash,13,False,12130,11675,Enchantment: Warrior,Youmuu's Ghostblade,Locket of the Iron Solari,Boots of Mobility,Dead Man's Plate,,16221,85584,Lane.jungle,Role.none
+2,Twitch JSeungWon,Ryze,True,Side.blue,7,7,10,2.4285714285714284,170,Flash,Teleport,14,False,11738,8775,Refillable Potion,Tear of the Goddess,Needlessly Large Rod,Abyssal Scepter,Morellonomicon,Ionian Boots of Lucidity,116104,6013,Lane.mid_lane,Role.solo
+3,OreBil,Jhin,True,Side.blue,5,5,10,3.0,172,Heal,Flash,13,False,11273,9350,,Doran's Blade,B. F. Sword,Ionian Boots of Lucidity,Rapid Firecannon,Essence Reaver,10266,109022,Lane.bot_lane,Role.carry
+4,Carpe Dio,Sion,True,Side.blue,4,7,18,3.142857142857143,56,Flash,Exhaust,12,False,9664,6250,Eye of the Equinox,Mercury's Treads,Frozen Heart,,,,9569,26510,Lane.bot_lane,Role.support
+5,MongolWarrior,Twitch,False,Side.red,9,7,9,2.5714285714285716,121,Heal,Flash,12,False,9763,9225,Doran's Blade,Dagger,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Vampiric Scepter,0,63303,Lane.bot_lane,Role.carry
+6,a fed child,Thresh,False,Side.red,6,11,14,1.8181818181818181,22,Ignite,Flash,11,False,7674,7175,Boots of Mobility,Eye of the Equinox,Glacial Shroud,Knight's Vow,,,5308,2747,Lane.bot_lane,Role.support
+7,Big D Darius,Karthus,False,Side.red,4,5,10,2.8,170,Flash,Exhaust,14,True,9422,7925,Hextech GLP-800,Doran's Ring,Doran's Ring,Fiendish Codex,Sorcerer's Shoes,Needlessly Large Rod,106954,5901,Lane.mid_lane,Role.solo
+8,Japanese Import,Evelynn,False,Side.red,1,7,13,2.0,54,Smite,Flash,12,False,6560,6225,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Hextech Revolver,Vampiric Scepter,Long Sword,,32982,18849,Lane.jungle,Role.none
+9,Battle Punny,Riven,False,Side.red,6,6,4,1.6666666666666667,156,Flash,Teleport,13,False,8921,8400,Refillable Potion,The Black Cleaver,Mercury's Treads,Death's Dance,Long Sword,,0,79897,Lane.top_lane,Role.solo

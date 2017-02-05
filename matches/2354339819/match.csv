@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dyrus,Gragas,True,Side.blue,6,2,9,7.5,208,Teleport,Flash,16,False,12394,10800,Doran's Ring,Corrupting Potion,Iceborn Gauntlet,Sunfire Cape,Spirit Visage,Mercury's Treads,109930,20464,Lane.top_lane,Role.solo
+1,Annie Bot,Annie,True,Side.blue,8,3,7,5.0,142,Ignite,Flash,14,False,11658,8750,Hextech Protobelt-01,Blasting Wand,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,62274,10395,Lane.mid_lane,Role.solo
+2,Carrots2,Caitlyn,True,Side.blue,7,1,9,16.0,239,Flash,Heal,16,False,13850,10900,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Cull,Rapid Firecannon,3136,184541,Lane.bot_lane,Role.carry
+3,Autumn Clouds,Thresh,True,Side.blue,1,4,12,3.25,25,Flash,Exhaust,12,False,7731,6250,Null-Magic Mantle,Redemption,Ruby Sightstone,Relic Shield,Boots of Mobility,Cloth Armor,8058,6511,Lane.bot_lane,Role.support
+4,Lil Cody,Shyvana,True,Side.blue,11,4,4,3.75,249,Smite,Flash,18,False,15446,13050,Blade of the Ruined King,Refillable Potion,Enchantment: Bloodrazor,Mercury's Treads,Dead Man's Plate,Spirit Visage,96125,123229,Lane.jungle,Role.none
+5,Sophist Sage,Jhin,False,Side.red,1,7,3,0.5714285714285714,188,Heal,Flash,13,False,8858,7850,Doran's Blade,Total Biscuit of Rejuvenation,Essence Reaver,Rapid Firecannon,Boots of Swiftness,,7511,95029,Lane.bot_lane,Role.carry
+6,Cat Ears,Shen,False,Side.red,0,5,7,1.4,40,Flash,Exhaust,11,False,6786,5925,Ionian Boots of Lucidity,Ruby Sightstone,Face of the Mountain,Cloth Armor,Null-Magic Mantle,,7666,8329,Lane.bot_lane,Role.support
+7,lc0nic,Graves,False,Side.red,8,10,3,1.1,156,Flash,Smite,14,True,10850,9825,Enchantment: Warrior,Hunter's Potion,Berserker's Greaves,Hexdrinker,The Black Cleaver,Zeal,4636,137762,Lane.jungle,Role.none
+8,Sheiden,Kennen,False,Side.red,2,7,5,1.0,206,Teleport,Flash,14,False,9343,8735,Doran's Blade,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,71596,27995,Lane.top_lane,Role.solo
+9,Vincent Mark,Viktor,False,Side.red,3,4,3,1.5,163,Flash,Cleanse,13,False,8827,8250,Perfect Hex Core,Rylai's Crystal Scepter,Sapphire Crystal,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,,69243,13918,Lane.mid_lane,Role.solo

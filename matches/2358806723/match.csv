@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anirax,Ryze,True,Side.blue,0,0,0,0.0,11,Flash,Teleport,3,False,883,500,Sapphire Crystal,Refillable Potion,,,,,2199,1540,Lane.top_lane,Role.solo
+1,JoopsaKid,Hecarim,True,Side.blue,0,0,0,0.0,11,Ghost,Smite,3,False,1063,500,Hunter's Talisman,,,,,,1251,5743,Lane.jungle,Role.none
+2,My Kat Evolved,Yasuo,True,Side.blue,0,1,0,0.0,14,Exhaust,Flash,3,False,938,500,Doran's Blade,,Health Potion,,,,571,2555,Lane.mid_lane,Role.solo
+3,DdC ThanatoZ,Lucian,True,Side.blue,0,1,0,0.0,4,Heal,Flash,2,False,728,500,Doran's Blade,,,,,,0,2506,Lane.bot_lane,Role.duo
+4,Patoy,Alistar,True,Side.blue,0,1,0,0.0,2,Exhaust,Flash,1,False,748,625,Relic Shield,Total Biscuit of Rejuvenation,Control Ward,,,,256,847,Lane.bot_lane,Role.duo
+5,Galdrick,Nautilus,False,Side.red,1,0,1,2.0,3,Flash,Ignite,3,False,1252,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,1125,489,Lane.bot_lane,Role.duo
+6,IQ is 201 ,Caitlyn,False,Side.red,1,1,0,1.0,10,Flash,Heal,2,True,1239,500,,Doran's Blade,,,,,0,4175,Lane.bot_lane,Role.duo
+7,Cat Person,Diana,False,Side.red,0,0,0,0.0,9,Teleport,Flash,3,False,819,500,Doran's Ring,Health Potion,,,,,1492,462,Lane.mid_lane,Role.duo
+8,The Rain Mang,Rek'Sai,False,Side.red,0,0,0,0.0,0,Flash,Smite,1,False,651,500,Hunter's Machete,Refillable Potion,,,,,0,0,Lane.mid_lane,Role.duo
+9,out skizzled,Riven,False,Side.red,0,0,0,0.0,9,Flash,Teleport,3,False,819,500,Long Sword,Health Potion,,,,,0,1490,Lane.top_lane,Role.solo

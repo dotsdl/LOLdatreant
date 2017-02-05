@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FlameShotzZ,Olaf,True,Side.blue,8,1,4,12.0,133,Smite,Ghost,13,True,9966,7275,Righteous Glory,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Kindlegem,Cloth Armor,12775,99530,Lane.jungle,Role.none
+1,Pumpfake,Morgana,True,Side.blue,1,2,15,8.0,15,Exhaust,Flash,10,False,7048,6325,Ruby Sightstone,Frost Queen's Claim,Refillable Potion,Boots of Mobility,Hextech Revolver,,12519,6660,Lane.bot_lane,Role.support
+2,Omnic1de,Ezreal,True,Side.blue,7,4,7,3.5,136,Flash,Heal,12,False,9595,8300,Doran's Blade,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,Cull,Hexdrinker,8146,72340,Lane.bot_lane,Role.carry
+3,MYholiday,Poppy,True,Side.blue,2,2,3,2.5,159,Teleport,Flash,14,False,8493,6025,Sunfire Cape,Corrupting Potion,Mercury's Treads,Stinger,Sapphire Crystal,,30031,56517,Lane.top_lane,Role.solo
+4,Horseie,Ekko,True,Side.blue,11,2,3,7.0,133,Ignite,Flash,13,False,9937,8575,Doran's Ring,Lich Bane,Seeker's Armguard,Sorcerer's Shoes,,Hextech Protobelt-01,69541,15314,Lane.mid_lane,Role.solo
+5,date a Iive,Veigar,False,Side.red,1,5,3,0.8,137,Exhaust,Flash,12,False,6535,5445,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Negatron Cloak,Morellonomicon,,54021,6796,Lane.mid_lane,Role.solo
+6,WatchThePower,Lee Sin,False,Side.red,7,5,1,1.6,118,Flash,Smite,12,False,8580,7950,Enchantment: Warrior,Ravenous Hydra,Ionian Boots of Lucidity,Ruby Crystal,Cloth Armor,,16760,78429,Lane.jungle,Role.none
+7,Dyr0nejk2,Renekton,False,Side.red,3,6,2,0.8333333333333334,138,Ignite,Flash,12,False,7332,6825,Tiamat,Mercury's Treads,The Black Cleaver,Pickaxe,Long Sword,,2749,70074,Lane.top_lane,Role.solo
+8,IFapToYourSister,Nautilus,False,Side.red,0,3,4,1.3333333333333333,27,Exhaust,Flash,9,False,4863,4825,Eye of the Equinox,Null-Magic Mantle,Boots of Swiftness,Crystalline Bracer,Cloth Armor,,3970,5339,Lane.bot_lane,Role.support
+9,Beginning,Jhin,False,Side.red,0,10,1,0.1,89,Flash,Heal,9,False,5179,5050,Doran's Blade,B. F. Sword,Cloak of Agility,Cull,Caulfield's Warhammer,Boots of Speed,6353,34259,Lane.bot_lane,Role.carry

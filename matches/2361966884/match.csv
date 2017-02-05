@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Morin,Caitlyn,True,Side.blue,1,1,1,2.0,119,Heal,Flash,9,True,6610,5800,Runaan's Hurricane,B. F. Sword,Pickaxe,,Boots of Speed,Doran's Blade,266,62102,Lane.jungle,Role.none
+1,ZosHa,Gnar,True,Side.blue,1,1,3,4.0,78,Flash,Teleport,9,False,5277,4575,Frozen Mallet,Boots of Swiftness,,Doran's Blade,,,2386,30954,Lane.jungle,Role.none
+2,TQS Zuardian,Graves,True,Side.blue,5,0,1,6.0,99,Smite,Flash,10,False,7562,5250,Refillable Potion,Enchantment: Warrior,,Berserker's Greaves,Zeal,,2642,87046,Lane.jungle,Role.none
+3,Joelzzz,Brand,True,Side.blue,1,2,3,2.0,6,Ignite,Flash,7,False,4840,4200,Frostfang,Total Biscuit of Rejuvenation,The Dark Seal,Sorcerer's Shoes,Haunting Guise,,8905,2169,Lane.jungle,Role.none
+4,am tham ben em,Orianna,True,Side.blue,2,1,1,3.0,119,Flash,Exhaust,10,False,6593,3800,Boots of Speed,Morellonomicon,Doran's Ring,,,,50109,11230,Lane.mid_lane,Role.solo
+5,Green Kirby,Syndra,False,Side.red,0,2,0,0.0,42,Teleport,Flash,6,False,2955,1875,Doran's Ring,Total Biscuit of Rejuvenation,Boots of Speed,Lost Chapter,,,9514,3722,Lane.mid_lane,Role.solo
+6,Dystrex,Darius,False,Side.red,1,1,1,2.0,101,Teleport,Flash,10,False,4628,3950,Doran's Shield,Raptor Cloak,Ruby Crystal,Ninja Tabi,Long Sword,Long Sword,0,45474,Lane.top_lane,Role.solo
+7,Pylonmon,Ezreal,False,Side.red,0,4,1,0.25,80,Flash,Heal,8,False,3777,3075,Doran's Blade,Tear of the Goddess,Ionian Boots of Lucidity,Pickaxe,,,1048,20324,Lane.bot_lane,Role.duo
+8,Suntail,Twitch,False,Side.red,4,1,0,4.0,84,Flash,Smite,9,False,5369,4750,Dagger,Refillable Potion,Zeal,,Enchantment: Bloodrazor,Boots of Speed,1474,46829,Lane.jungle,Role.none
+9,Rycah,Janna,False,Side.red,0,2,4,2.0,7,Flash,Exhaust,6,False,3274,2175,,Sightstone,Total Biscuit of Rejuvenation,Boots of Speed,Nomad's Medallion,,1382,1687,Lane.bot_lane,Role.duo

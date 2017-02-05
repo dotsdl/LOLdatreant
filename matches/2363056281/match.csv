@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,yangxiaoxiao,Gragas,False,Side.blue,1,11,6,0.6363636363636364,70,Flash,Smite,11,False,6847,6275,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Spectre's Cowl,Warden's Mail,Ruby Crystal,49037,14875,Lane.jungle,Role.none
+1,Annie Bot,Vayne,False,Side.blue,3,6,0,0.5,163,Heal,Flash,12,False,8137,7900,Doran's Blade,Boots of Speed,Cull,Infinity Edge,Statikk Shiv,Dagger,533,66306,Lane.bot_lane,Role.carry
+2,ACuteKoreanGirI,Yasuo,False,Side.blue,3,7,4,1.0,139,Teleport,Flash,12,False,8411,8465,B. F. Sword,Phantom Dancer,,Mercury's Treads,Cull,Hexdrinker,16078,63266,Lane.top_lane,Role.solo
+3,kàylè,Kayle,False,Side.blue,5,6,2,1.1666666666666667,166,Ignite,Flash,13,False,8828,8475,Doran's Ring,Total Biscuit of Rejuvenation,Guinsoo's Rageblade,Nashor's Tooth,,Ionian Boots of Lucidity,56527,20290,Lane.mid_lane,Role.solo
+4,CsCs Scientist,Nami,False,Side.blue,1,6,6,1.1666666666666667,4,Flash,Exhaust,10,False,6737,5850,Eye of the Watchers,Chalice of Harmony,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,,5715,3751,Lane.bot_lane,Role.support
+5,Anthøny,Kha'Zix,True,Side.red,12,4,4,4.0,125,Smite,Flash,14,False,12696,10383,Trinity Force,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,,,3556,125229,Lane.jungle,Role.none
+6,Thalies,Katarina,True,Side.red,12,3,6,6.0,131,Ignite,Flash,14,True,11844,10175,Luden's Echo,Giant's Belt,,Hextech Gunblade,Sorcerer's Shoes,The Dark Seal,79753,12628,Lane.mid_lane,Role.solo
+7,Nëbu,Swain,True,Side.red,6,3,12,6.0,109,Flash,Teleport,13,False,10006,8350,Doran's Ring,Rod of Ages,Liandry's Torment,The Dark Seal,Sorcerer's Shoes,Cloth Armor,58831,11164,Lane.top_lane,Role.solo
+8,bvcx222,Bard,True,Side.red,1,3,13,4.666666666666667,15,Flash,Exhaust,12,False,7812,7250,Sightstone,Redemption,Locket of the Iron Solari,Spellthief's Edge,Ruby Crystal,Boots of Mobility,8738,6099,Lane.bot_lane,Role.support
+9,Bo0sted Monkeys,Jhin,True,Side.red,5,0,7,12.0,172,Flash,Heal,13,False,11496,10300,Doran's Blade,Rapid Firecannon,Pickaxe,Boots of Swiftness,B. F. Sword,Essence Reaver,6477,116005,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PismoSLO,Lux,True,Side.blue,6,3,15,7.0,130,Flash,Ghost,15,False,10380,9460,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Doran's Ring,Amplifying Tome,75384,11355,Lane.mid_lane,Role.solo
+1,Cows the God,Jhin,True,Side.blue,6,4,11,4.25,132,Flash,Heal,13,True,10372,9325,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Hexdrinker,Doran's Blade,Long Sword,6908,76087,Lane.bot_lane,Role.carry
+2,Blazed Nova,Brand,True,Side.blue,7,5,13,4.0,88,Flash,Ignite,14,False,11460,9710,Frost Queen's Claim,Control Ward,Sorcerer's Shoes,,Rod of Ages,Rylai's Crystal Scepter,64374,12000,Lane.bot_lane,Role.support
+3,UO Daniel Wu,Wukong,True,Side.blue,4,4,8,3.0,114,Flash,Teleport,13,False,9757,8750,Doran's Shield,Randuin's Omen,Boots of Swiftness,Hexdrinker,The Black Cleaver,,2309,67919,Lane.top_lane,Role.solo
+4,z11  ,Elise,True,Side.blue,9,4,10,4.75,118,Flash,Smite,15,False,11715,9650,Refillable Potion,Hextech Protobelt-01,Boots of Mobility,Banshee's Veil,Chain Vest,Enchantment: Runic Echoes,93539,35153,Lane.jungle,Role.none
+5,Zv Pickle,Syndra,False,Side.red,8,7,1,1.2857142857142858,173,Flash,Ghost,13,False,10326,9585,Sorcerer's Shoes,Blasting Wand,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Amplifying Tome,103522,6778,Lane.mid_lane,Role.solo
+6,AwesomeWave,Riven,False,Side.red,5,6,3,1.3333333333333333,175,Teleport,Flash,14,False,9692,9200,The Black Cleaver,Tiamat,Youmuu's Ghostblade,Mercury's Treads,,Long Sword,0,100068,Lane.top_lane,Role.solo
+7,CaliLegend,Blitzcrank,False,Side.red,2,8,5,0.875,33,Flash,Ignite,11,False,6977,6000,Redemption,Ruby Sightstone,Ruby Crystal,Relic Shield,The Dark Seal,Boots of Mobility,10413,8695,Lane.bot_lane,Role.support
+8,LiaoLiao,Jinx,False,Side.red,2,6,5,1.1666666666666667,190,Heal,Flash,13,False,9288,8750,Doran's Blade,Infinity Edge,Dagger,Runaan's Hurricane,Berserker's Greaves,Brawler's Gloves,1669,91535,Lane.bot_lane,Role.carry
+9,Brunette Life,Lee Sin,False,Side.red,3,5,5,1.6,111,Smite,Flash,14,False,9028,8300,Control Ward,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Hexdrinker,Mercury's Treads,15157,83260,Lane.jungle,Role.none

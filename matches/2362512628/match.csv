@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0, keine Hosen,Twitch,False,Side.blue,7,9,5,1.3333333333333333,193,Flash,Heal,13,False,11496,11225,Doran's Blade,Runaan's Hurricane,Infinity Edge,Lord Dominik's Regards,Berserker's Greaves,,0,107394,Lane.bot_lane,Role.carry
+1,Yarkbeezy,Janna,False,Side.blue,2,9,10,1.3333333333333333,2,Exhaust,Flash,11,False,7292,6325,Redemption,Sightstone,Boots of Mobility,Control Ward,Aegis of the Legion,Nomad's Medallion,6868,1939,Lane.bot_lane,Role.support
+2,Asixth,Poppy,False,Side.blue,4,5,4,1.6,193,Flash,Teleport,15,False,9693,9150,Sunfire Cape,Giant's Belt,Chain Vest,Control Ward,Guardian Angel,Mercury's Treads,35693,63978,Lane.top_lane,Role.solo
+3,Forest Pref,Lee Sin,False,Side.blue,3,7,5,1.1428571428571428,98,Smite,Flash,13,False,9215,8445,Ninja Tabi,Negatron Cloak,Enchantment: Warrior,,Chain Vest,Dead Man's Plate,15967,90847,Lane.jungle,Role.none
+4,Kizeme,Viktor,False,Side.blue,2,7,4,0.8571428571428571,185,Ghost,Flash,13,False,9088,8535,Perfect Hex Core,Rylai's Crystal Scepter,Health Potion,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,85883,10027,Lane.mid_lane,Role.solo
+5,GingerSpacer,Ezreal,True,Side.red,15,3,12,9.0,209,Heal,Flash,16,True,16022,14458,Blade of the Ruined King,Trinity Force,Muramana,Lord Dominik's Regards,Doran's Blade,Berserker's Greaves,23721,157564,Lane.bot_lane,Role.carry
+6,DeeJayJay,Jarvan IV,True,Side.red,6,4,17,5.75,90,Flash,Smite,14,False,11044,8700,Titanic Hydra,Refillable Potion,,Aegis of the Legion,Enchantment: Cinderhulk,Mercury's Treads,22858,90837,Lane.jungle,Role.none
+7,HootyBootyBeans,Brand,True,Side.red,2,4,23,6.25,31,Exhaust,Flash,13,False,9967,8285,Eye of the Watchers,Rylai's Crystal Scepter,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,,37195,8955,Lane.bot_lane,Role.support
+8,popgoestheglock,Rammus,True,Side.red,8,4,10,4.5,168,Teleport,Flash,15,False,11660,10800,Doran's Shield,Giant's Belt,Sunfire Cape,Zz'Rot Portal,Thornmail,Boots of Swiftness,79072,30633,Lane.top_lane,Role.solo
+9,Irelia Carries U,Irelia,True,Side.red,5,3,6,3.6666666666666665,187,Teleport,Flash,14,False,11111,9083,Randuin's Omen,Null-Magic Mantle,Trinity Force,Mercury's Treads,Ruby Crystal,,3826,72966,Lane.mid_lane,Role.solo

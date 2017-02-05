@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fear My Croc,Hecarim,False,Side.blue,7,6,6,2.1666666666666665,108,Ghost,Smite,13,False,9843,9433,Enchantment: Cinderhulk,Refillable Potion,Boots of Swiftness,Trinity Force,Chain Vest,Giant's Belt,26117,74154,Lane.jungle,Role.none
+1,ACuteKoreanGirI,Yasuo,False,Side.blue,9,7,6,2.142857142857143,193,Teleport,Flash,15,True,11632,11625,Infinity Edge,Frozen Mallet,,Phantom Dancer,Mercury's Treads,,24703,112268,Lane.top_lane,Role.solo
+2,Autumn Clouds,Thresh,False,Side.blue,1,8,10,1.375,25,Flash,Exhaust,11,False,6537,6000,Control Ward,Locket of the Iron Solari,Ruby Sightstone,Relic Shield,Boots of Mobility,Rejuvenation Bead,9257,5119,Lane.bot_lane,Role.support
+3,Jeehun,Caitlyn,False,Side.blue,5,8,9,1.75,184,Flash,Heal,13,False,10439,10125,Doran's Blade,Infinity Edge,Berserker's Greaves,Kircheis Shard,Runaan's Hurricane,Last Whisper,1064,116106,Lane.bot_lane,Role.carry
+4,JeezyTheSnowMan,Anivia,False,Side.blue,5,6,6,1.8333333333333333,139,Teleport,Flash,14,False,9809,9750,Doran's Ring,Sorcerer's Shoes,Tear of the Goddess,Luden's Echo,Rod of Ages,Needlessly Large Rod,85496,7261,Lane.mid_lane,Role.solo
+5,Nwok,Zac,True,Side.red,3,3,18,7.0,121,Flash,Smite,15,False,11105,10250,Enchantment: Cinderhulk,Spirit Visage,Randuin's Omen,Chain Vest,Ionian Boots of Lucidity,,114342,21817,Lane.jungle,Role.none
+6,Qkuzi,Yorick,True,Side.red,14,6,7,3.5,171,Flash,Teleport,16,False,13635,12383,Spirit Visage,Randuin's Omen,Corrupting Potion,Trinity Force,Jaurim's Fist,Ninja Tabi,15819,105745,Lane.top_lane,Role.solo
+7,skcepsxmB,Graves,True,Side.red,8,7,4,1.7142857142857142,178,Flash,Heal,14,False,11922,9675,Doran's Blade,Infinity Edge,B. F. Sword,Berserker's Greaves,Phantom Dancer,Doran's Blade,1160,131480,Lane.bot_lane,Role.carry
+8,Hailtothechi,Karma,True,Side.red,0,6,21,3.5,18,Exhaust,Flash,12,False,9357,8050,Ionian Boots of Lucidity,Control Ward,Eye of the Watchers,Redemption,Ardent Censer,,16737,5215,Lane.bot_lane,Role.support
+9,Dna shockwave,Syndra,True,Side.red,10,5,5,3.0,235,Ghost,Flash,16,False,13735,12650,Doran's Ring,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,162326,13152,Lane.mid_lane,Role.solo

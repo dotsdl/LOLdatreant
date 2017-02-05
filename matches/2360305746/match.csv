@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,XenoKC,Zyra,False,Side.blue,2,5,3,1.0,19,Exhaust,Flash,10,False,6086,5625,Frostfang,Sightstone,Sorcerer's Shoes,Control Ward,Haunting Guise,Blasting Wand,18339,2854,Lane.bot_lane,Role.support
+1,bury me with it,Zac,False,Side.blue,1,6,1,0.3333333333333333,82,Ghost,Smite,11,False,6344,5150,Mercury's Treads,Refillable Potion,Enchantment: Cinderhulk,Spectre's Cowl,,,54575,13206,Lane.jungle,Role.none
+2,Comp Chaos,Syndra,False,Side.blue,3,8,0,0.375,175,Flash,Ghost,13,False,8174,8375,Sorcerer's Shoes,Rylai's Crystal Scepter,,,Morellonomicon,,91878,9902,Lane.mid_lane,Role.solo
+3,Firetheft,Jayce,False,Side.blue,0,6,3,0.5,143,Flash,Teleport,12,False,6611,6125,Doran's Blade,Refillable Potion,The Black Cleaver,Doran's Blade,Boots of Speed,Hexdrinker,9895,59227,Lane.top_lane,Role.solo
+4,IVSTITIO,Jhin,False,Side.blue,2,4,1,0.75,140,Heal,Flash,11,False,6904,6650,Doran's Blade,Essence Reaver,Zeal,Boots of Swiftness,Dagger,,4036,72207,Lane.bot_lane,Role.carry
+5,Smartcloud,Braum,True,Side.red,0,1,18,18.0,39,Flash,Exhaust,11,False,7451,6025,Control Ward,Boots of Mobility,Eye of the Equinox,,Knight's Vow,,9543,6300,Lane.bot_lane,Role.support
+6,Garani,Rek'Sai,True,Side.red,5,3,7,4.0,128,Smite,Flash,13,True,9478,8450,Enchantment: Cinderhulk,Titanic Hydra,Mercury's Treads,Giant's Belt,,,22508,76037,Lane.jungle,Role.none
+7,GodMeru,Nautilus,True,Side.red,9,1,7,16.0,177,Flash,Teleport,13,False,10822,9625,The Dark Seal,Zz'Rot Portal,Glacial Shroud,Sunfire Cape,Boots of Swiftness,Sheen,64598,21885,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,9,0,8,17.0,195,Flash,Heal,13,False,11920,9625,B. F. Sword,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Long Sword,Doran's Blade,861,127247,Lane.bot_lane,Role.carry
+9,Program,Malzahar,True,Side.red,6,3,10,5.333333333333333,143,Ghost,Flash,13,False,10049,8300,Doran's Ring,Doran's Ring,The Dark Seal,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,75090,20200,Lane.mid_lane,Role.solo

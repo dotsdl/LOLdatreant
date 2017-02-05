@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ehaldfeix,Fizz,False,Side.blue,2,9,4,0.6666666666666666,99,Flash,Ignite,12,False,6366,6410,Lich Bane,Ionian Boots of Lucidity,Doran's Ring,Seeker's Armguard,,,38195,17941,Lane.mid_lane,Role.carry
+1,Contractz,Zed,False,Side.blue,5,8,2,0.875,147,Ignite,Flash,12,False,8191,7550,Youmuu's Ghostblade,Refillable Potion,Doran's Blade,Ionian Boots of Lucidity,The Black Cleaver,,16678,80467,Lane.jungle,Role.none
+2,nice human being,Ivern,False,Side.blue,2,3,6,2.6666666666666665,82,Smite,Flash,14,True,7260,6975,Enchantment: Runic Echoes,Boots of Mobility,Chain Vest,Athene's Unholy Grail,Ruby Crystal,,18457,4979,Lane.mid_lane,Role.support
+3,Xzevz,Rengar,True,Side.red,16,2,1,8.5,127,Smite,Flash,14,False,13134,13075,Enchantment: Warrior,Duskblade of Draktharr,The Black Cleaver,Banshee's Veil,Mercury's Treads,Ruby Crystal,12180,130351,Lane.jungle,Role.none
+4,Sprusse,Graves,True,Side.red,2,2,11,6.5,138,Exhaust,Flash,13,False,9416,8700,Doran's Blade,Vampiric Scepter,Ninja Tabi,Phantom Dancer,Maw of Malmortius,Long Sword,1347,101116,Lane.jungle,Role.none
+5,Kic,Lissandra,True,Side.red,2,5,10,2.4,120,Flash,Exhaust,13,False,8332,7950,Doran's Ring,Wooglet's Witchcap,Hextech Protobelt-01,Doran's Ring,Ionian Boots of Lucidity,Refillable Potion,65037,8027,Lane.jungle,Role.none

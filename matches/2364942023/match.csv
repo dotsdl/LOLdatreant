@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dystrex,Darius,True,Side.blue,6,1,4,10.0,268,Teleport,Flash,15,True,11634,8875,The Black Cleaver,Refillable Potion,Boots of Swiftness,Giant's Belt,Zz'Rot Portal,Chain Vest,0,120675,Lane.top_lane,Role.solo
+1,Budded,Vel'Koz,True,Side.blue,6,6,10,2.6666666666666665,36,Exhaust,Flash,13,False,10266,9325,Locket of the Iron Solari,Eye of the Watchers,Control Ward,Liandry's Torment,Ruby Crystal,Ionian Boots of Lucidity,41396,6019,Lane.bot_lane,Role.support
+2,Migjiris,Riven,True,Side.blue,3,4,5,2.0,123,Smite,Flash,13,False,9719,8175,Ionian Boots of Lucidity,Tiamat,The Black Cleaver,Enchantment: Warrior,,,1158,115670,Lane.jungle,Role.none
+3,Butt Dunker,Ashe,True,Side.blue,7,3,8,5.0,167,Flash,Heal,13,False,10965,10475,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,,1534,90331,Lane.bot_lane,Role.carry
+4,Shiphtur,Syndra,True,Side.blue,5,1,4,9.0,219,Ghost,Flash,15,False,11707,10100,Needlessly Large Rod,Rylai's Crystal Scepter,Blasting Wand,Morellonomicon,Doran's Ring,Sorcerer's Shoes,128750,12673,Lane.mid_lane,Role.solo
+5,Give MiD,Viktor,False,Side.red,2,5,2,0.8,160,Barrier,Flash,13,False,7716,7675,Rylai's Crystal Scepter,Doran's Ring,The Hex Core mk-2,Doran's Ring,,Sorcerer's Shoes,70485,6015,Lane.mid_lane,Role.solo
+6,Barclay snoopy,Vayne,False,Side.red,3,8,3,0.75,134,Heal,Flash,11,False,7535,7375,Doran's Blade,B. F. Sword,Pickaxe,Statikk Shiv,Berserker's Greaves,Cloak of Agility,13166,50004,Lane.bot_lane,Role.carry
+7,2hing,Lulu,False,Side.red,3,5,6,1.8,20,Exhaust,Flash,11,False,6870,6800,Ionian Boots of Lucidity,Aegis of the Legion,Control Ward,Eye of the Watchers,Redemption,,15819,2890,Lane.bot_lane,Role.support
+8,Barclay Kaina,Olaf,False,Side.red,5,4,3,2.0,118,Ghost,Smite,13,False,8419,7925,Spectre's Cowl,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Dead Man's Plate,Enchantment: Cinderhulk,20089,74096,Lane.jungle,Role.none
+9,Thinkful,Illaoi,False,Side.red,2,5,1,0.6,203,Teleport,Flash,14,False,8285,7450,Corrupting Potion,Sterak's Gage,Mercury's Treads,,,The Black Cleaver,590,130091,Lane.top_lane,Role.solo

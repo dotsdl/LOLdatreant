@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,fwii,Braum,True,Side.blue,3,6,16,3.1666666666666665,38,Flash,Exhaust,13,False,10568,9625,Eye of the Equinox,Redemption,Randuin's Omen,Boots of Mobility,Aegis of the Legion,,8301,8419,Lane.bot_lane,Role.support
+1,TszHin OvO,Nocturne,True,Side.blue,12,4,3,3.75,172,Smite,Flash,17,False,14534,14158,Enchantment: Warrior,Youmuu's Ghostblade,Infinity Edge,Trinity Force,Ninja Tabi,,10343,179939,Lane.jungle,Role.none
+2,Sonny2o9,Lucian,True,Side.blue,9,3,7,5.333333333333333,203,Flash,Heal,15,False,13886,12785,Infinity Edge,Rapid Firecannon,Essence Reaver,Ionian Boots of Lucidity,B. F. Sword,Doran's Blade,7878,145020,Lane.bot_lane,Role.carry
+3,bobqinXD,Ryze,True,Side.blue,9,2,6,7.5,210,Flash,Ghost,16,False,13796,13175,Seraph's Embrace,Rylai's Crystal Scepter,Morellonomicon,Ionian Boots of Lucidity,Rod of Ages,,152913,11001,Lane.mid_lane,Role.solo
+4,foggedftw2,Tryndamere,True,Side.blue,6,4,1,1.75,223,Ignite,Flash,15,False,12691,12250,The Black Cleaver,Blade of the Ruined King,Statikk Shiv,Ionian Boots of Lucidity,B. F. Sword,Cloak of Agility,28265,133683,Lane.top_lane,Role.solo
+5,MythoIogy,LeBlanc,False,Side.red,9,7,4,1.8571428571428572,202,Exhaust,Flash,15,True,11850,11400,Doran's Ring,Sorcerer's Shoes,Refillable Potion,Morellonomicon,Void Staff,Rabadon's Deathcap,128207,10063,Lane.jungle,Role.none
+6,Chatless Wonder,Blitzcrank,False,Side.red,2,7,8,1.4285714285714286,35,Exhaust,Flash,13,False,7465,6775,Relic Shield,Redemption,Sightstone,Warden's Mail,Glacial Shroud,Boots of Swiftness,13946,6488,Lane.bot_lane,Role.support
+7,PhD Bunny Riven,Riven,False,Side.red,0,4,4,1.0,207,Flash,Teleport,14,False,8999,7875,Ravenous Hydra,Refillable Potion,The Black Cleaver,,Ionian Boots of Lucidity,,0,112403,Lane.top_lane,Role.solo
+8,7788 ADC,Jhin,False,Side.red,2,12,8,0.8333333333333334,150,Heal,Flash,13,False,8675,8550,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Ruby Crystal,Long Sword,,6888,72430,Lane.bot_lane,Role.carry
+9,Flaresz,Graves,False,Side.red,6,9,5,1.2222222222222223,153,Flash,Smite,14,False,10377,10025,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Berserker's Greaves,Phantom Dancer,Long Sword,5280,119981,Lane.jungle,Role.none

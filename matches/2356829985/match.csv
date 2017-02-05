@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The13adGuy,Renekton,True,Side.blue,9,2,2,5.5,241,Teleport,Flash,16,False,13661,13150,Locket of the Iron Solari,Blade of the Ruined King,The Black Cleaver,Ionian Boots of Lucidity,Maw of Malmortius,,7445,159659,Lane.top_lane,Role.solo
+1,Simply Nora,Quinn,True,Side.blue,4,5,3,1.4,112,Ghost,Smite,14,False,10428,8425,Berserker's Greaves,Blade of the Ruined King,Refillable Potion,Enchantment: Bloodrazor,Giant's Belt,,2812,121788,Lane.jungle,Role.none
+2,LynchBeaner,Cassiopeia,True,Side.blue,4,5,5,1.8,177,Ghost,Flash,14,False,10981,7675,Doran's Ring,Health Potion,Abyssal Scepter,Tear of the Goddess,Rylai's Crystal Scepter,,92270,17324,Lane.mid_lane,Role.solo
+3,Stevens 1v9,Draven,True,Side.blue,4,2,7,5.5,270,Heal,Flash,16,False,14094,11850,Blade of the Ruined King,Rapid Firecannon,Infinity Edge,Doran's Blade,Doran's Blade,Berserker's Greaves,1620,187372,Lane.bot_lane,Role.carry
+4,Delerium,Janna,True,Side.blue,0,4,11,2.75,14,Exhaust,Flash,12,False,8399,6175,Redemption,Sightstone,Aegis of the Legion,,Ionian Boots of Lucidity,Nomad's Medallion,5957,5592,Lane.bot_lane,Role.support
+5,Grande Donger,Zac,False,Side.red,1,4,2,0.75,162,Flash,Teleport,13,False,8336,8075,Doran's Shield,Randuin's Omen,Refillable Potion,Sunfire Cape,Ninja Tabi,Ruby Crystal,74687,12204,Lane.top_lane,Role.solo
+6,Rekyn,Ziggs,False,Side.red,2,4,5,1.75,143,Flash,Barrier,13,False,8673,8525,Morellonomicon,Luden's Echo,Health Potion,Doran's Ring,Doran's Ring,Sorcerer's Shoes,84718,9502,Lane.mid_lane,Role.solo
+7,never meme,Lulu,False,Side.red,5,2,8,6.5,20,Exhaust,Flash,11,False,8309,8325,Locket of the Iron Solari,Redemption,Ruby Sightstone,Spellthief's Edge,Boots of Mobility,,22512,3988,Lane.bot_lane,Role.support
+8,Hello I am Dust,Ezreal,False,Side.red,5,3,3,2.6666666666666665,229,Heal,Flash,14,True,11171,10650,Blade of the Ruined King,Doran's Blade,Cull,Berserker's Greaves,Muramana,Iceborn Gauntlet,14699,108603,Lane.bot_lane,Role.carry
+9,Lukwer,Diana,False,Side.red,4,8,1,0.625,152,Flash,Smite,13,False,9481,9260,Enchantment: Runic Echoes,Amplifying Tome,Ionian Boots of Lucidity,Nashor's Tooth,Needlessly Large Rod,Ruby Crystal,93640,27275,Lane.jungle,Role.none

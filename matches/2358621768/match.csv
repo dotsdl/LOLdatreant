@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Distasteful,Kog'Maw,True,Side.blue,9,8,8,2.125,206,Flash,Heal,15,False,13777,12733,Doran's Blade,Quicksilver Sash,Blade of the Ruined King,Lord Dominik's Regards,Berserker's Greaves,Trinity Force,45665,76705,Lane.bot_lane,Role.carry
+1,Rapidx,Riven,True,Side.blue,6,5,6,2.4,269,Flash,Teleport,17,False,13809,12725,Ravenous Hydra,The Bloodthirster,,The Black Cleaver,Last Whisper,Ionian Boots of Lucidity,0,162385,Lane.top_lane,Role.solo
+2,FanatiiLt,Elise,True,Side.blue,12,7,11,3.2857142857142856,97,Smite,Flash,15,False,13292,12750,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Sorcerer's Shoes,Guardian Angel,Liandry's Torment,,97784,31626,Lane.jungle,Role.none
+3,Hard On Donger,Yasuo,True,Side.blue,6,4,9,3.75,274,Flash,Ignite,17,False,14317,13600,Guardian Angel,Frozen Mallet,Phantom Dancer,Infinity Edge,Mercury's Treads,,30412,164633,Lane.mid_lane,Role.solo
+4,Royal Predator,Alistar,True,Side.blue,0,4,16,4.0,41,Exhaust,Flash,12,False,9178,8995,Knight's Vow,Face of the Mountain,Ruby Sightstone,Refillable Potion,Aegis of the Legion,Boots of Mobility,13208,4434,Lane.bot_lane,Role.support
+5,Dexima,Lee Sin,False,Side.red,11,6,7,3.0,189,Flash,Smite,16,False,13387,12725,The Black Cleaver,Enchantment: Warrior,Randuin's Omen,Dead Man's Plate,Boots of Mobility,,32265,124001,Lane.jungle,Role.none
+6,bvcx222,Bard,False,Side.red,1,7,15,2.2857142857142856,9,Flash,Ignite,13,True,9900,8950,Eye of the Watchers,Redemption,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,14054,5263,Lane.bot_lane,Role.support
+7,Nazagi,Ryze,False,Side.red,4,8,9,1.625,148,Flash,Exhaust,14,False,10667,10275,Seraph's Embrace,Morellonomicon,Ionian Boots of Lucidity,Rod of Ages,,Cloth Armor,108409,10351,Lane.mid_lane,Role.solo
+8,A Bottle Of,Jhin,False,Side.red,5,7,15,2.857142857142857,160,Flash,Heal,14,False,11533,10450,Doran's Blade,Pickaxe,B. F. Sword,Essence Reaver,Ionian Boots of Lucidity,Rapid Firecannon,6112,107652,Lane.bot_lane,Role.carry
+9,HannibaI Barca,Malphite,False,Side.red,7,5,5,2.4,239,Teleport,Flash,16,False,12747,12250,Zz'Rot Portal,Iceborn Gauntlet,Sunfire Cape,Ninja Tabi,Thornmail,,98638,36993,Lane.top_lane,Role.solo

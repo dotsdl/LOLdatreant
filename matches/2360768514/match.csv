@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Vayne,True,Side.blue,1,0,2,3.0,4,Flash,Heal,2,False,991,500,,Health Potion,,,Doran's Blade,,0,3220,Lane.mid_lane,Role.none
+1,The Tank Man,Nami,True,Side.blue,1,0,2,3.0,2,Flash,Exhaust,2,False,1073,500,Spellthief's Edge,,,,,,830,1334,Lane.mid_lane,Role.none
+2,one trick hehexd,Cassiopeia,True,Side.blue,1,0,3,4.0,5,Flash,Ghost,2,True,1223,500,Doran's Ring,Health Potion,,,,,1185,1742,Lane.mid_lane,Role.none
+3,Abou222,Ryze,True,Side.blue,0,0,1,1.0,1,Teleport,Flash,2,False,692,500,Sapphire Crystal,Refillable Potion,,,,,1042,711,Lane.jungle,Role.none
+4,Xmithie,Rengar,True,Side.blue,1,0,2,3.0,6,Smite,Flash,2,False,1099,500,Hunter's Talisman,Refillable Potion,,,,,108,3348,Lane.mid_lane,Role.none
+5,Sheiden,Rammus,False,Side.red,0,5,0,0.0,0,Teleport,Ghost,1,False,656,300,Boots of Speed,,,,,,79,0,Lane.mid_lane,Role.none
+6,ZatsMod,Aurelion Sol,False,Side.red,0,0,0,0.0,0,Flash,Ghost,2,False,656,500,Corrupting Potion,,,,,,959,325,Lane.top_lane,Role.solo
+7,Wolffy ,Lee Sin,False,Side.red,0,0,0,0.0,0,Smite,Flash,1,False,656,500,Hunter's Machete,Refillable Potion,,,,,0,0,Lane.mid_lane,Role.none
+8,Vainsu,Janna,False,Side.red,0,0,0,0.0,0,Exhaust,Flash,1,False,656,0,,,,,,,0,0,Lane.jungle,Role.none
+9,Nero Valentine,Jayce,False,Side.red,0,0,0,0.0,0,Teleport,Flash,1,False,656,0,,,,,,,0,0,Lane.mid_lane,Role.none

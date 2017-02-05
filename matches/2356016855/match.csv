@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Horny Pix,Morgana,False,Side.blue,1,0,0,1.0,1,Flash,Ignite,2,False,1049,500,Spellthief's Edge,,,,,,611,461,Lane.bot_lane,Role.duo
+1,IAmArray,Vi,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,1,False,646,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+2,The Rain Mang,Rumble,False,Side.blue,0,0,0,0.0,11,Flash,Ghost,3,False,860,500,Boots of Speed,Health Potion,,,,,449,1342,Lane.mid_lane,Role.duo
+3,Top Lane Retard,Darius,False,Side.blue,0,0,0,0.0,13,Teleport,Flash,3,False,888,500,Corrupting Potion,,,,,,12,3368,Lane.top_lane,Role.solo
+4,SF Niffou,Twitch,False,Side.blue,0,1,0,0.0,0,Heal,Flash,1,False,646,500,Doran's Blade,,,,,,9,504,Lane.bot_lane,Role.duo
+5,Hyosung,Yorick,True,Side.red,0,0,0,0.0,5,Teleport,Smite,3,False,932,500,Hunter's Machete,Health Potion,,,,,1111,4535,Lane.jungle,Role.none
+6,TS6,Sona,True,Side.red,1,1,0,1.0,0,Flash,Ignite,2,True,1117,850,Spellthief's Edge,Total Biscuit of Rejuvenation,Sapphire Crystal,,,,751,799,Lane.bot_lane,Role.duo
+7,Darvec,Maokai,True,Side.red,0,0,0,0.0,9,Teleport,Flash,2,False,814,500,Corrupting Potion,,,,,,2368,1026,Lane.top_lane,Role.solo
+8,TheRealVayne,Caitlyn,True,Side.red,0,0,1,1.0,9,Flash,Heal,2,False,979,500,Doran's Blade,,,,,,140,4152,Lane.bot_lane,Role.duo
+9,gneV,Brand,True,Side.red,0,0,0,0.0,19,Ghost,Flash,3,False,1024,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1025,1642,Lane.mid_lane,Role.solo

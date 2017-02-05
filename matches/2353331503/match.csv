@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ralts,Veigar,False,Side.blue,0,6,1,0.16666666666666666,29,Exhaust,Flash,10,False,5295,4175,Ionian Boots of Lucidity,Sightstone,Frost Queen's Claim,,,,18521,2545,Lane.bot_lane,Role.support
+1,NiChaolas I WJ,Jinx,False,Side.blue,2,4,3,1.25,161,Heal,Flash,11,False,7568,7175,Doran's Blade,Pickaxe,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Cloak of Agility,224,76876,Lane.bot_lane,Role.carry
+2,Klemydia,Hecarim,False,Side.blue,1,8,4,0.625,116,Smite,Ghost,12,True,7532,7208,Skirmisher's Sabre,Trinity Force,Control Ward,Ninja Tabi,Ruby Crystal,,7517,73278,Lane.jungle,Role.none
+3,IQ is 201 ,Cassiopeia,False,Side.blue,2,8,2,0.5,149,Flash,Ghost,11,False,7443,6250,Refillable Potion,Doran's Ring,Tear of the Goddess,Doran's Ring,Rylai's Crystal Scepter,Needlessly Large Rod,59828,5512,Lane.mid_lane,Role.solo
+4,longdongsi1ver69,Jayce,False,Side.blue,3,6,0,0.5,133,Flash,Teleport,12,False,7491,7550,Youmuu's Ghostblade,Duskblade of Draktharr,Ionian Boots of Lucidity,,,,6983,62595,Lane.top_lane,Role.solo
+5,Markarin,Irelia,True,Side.red,6,3,4,3.3333333333333335,176,Teleport,Flash,14,False,10600,10183,Spirit Visage,Corrupting Potion,Mercury's Treads,Phage,Trinity Force,Chain Vest,2323,88759,Lane.top_lane,Role.solo
+6,Kochenn,Ezreal,True,Side.red,7,1,9,16.0,170,Flash,Heal,14,False,11597,8800,Doran's Blade,Manamune,Iceborn Gauntlet,Bilgewater Cutlass,Berserker's Greaves,Doran's Blade,10545,103269,Lane.bot_lane,Role.carry
+7,Khristmas,Lulu,True,Side.red,1,0,13,14.0,9,Flash,Exhaust,12,False,7874,5875,Frost Queen's Claim,Sightstone,Mercury's Treads,Forbidden Idol,Ruby Crystal,,12652,6050,Lane.bot_lane,Role.support
+8,Biggity Biggims ,Lee Sin,True,Side.red,8,3,10,6.0,95,Flash,Smite,13,False,10425,8325,Mercury's Treads,The Black Cleaver,Chain Vest,Enchantment: Warrior,Refillable Potion,Ruby Crystal,17379,86853,Lane.jungle,Role.none
+9,Bryanx,Ekko,True,Side.red,10,1,5,15.0,165,Ignite,Flash,14,False,11515,9285,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Amplifying Tome,91564,17832,Lane.mid_lane,Role.solo

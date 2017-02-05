@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,greenléaf,Lee Sin,True,Side.blue,11,4,7,4.5,120,Flash,Smite,14,False,10902,10250,Refillable Potion,Mercury's Treads,Enchantment: Warrior,Maw of Malmortius,Dead Man's Plate,,19507,87859,Lane.jungle,Role.none
+1,I Shadow I,Yasuo,True,Side.blue,11,4,6,4.25,182,Flash,Teleport,15,False,11894,10525,Frozen Mallet,Bilgewater Cutlass,Phantom Dancer,Mercury's Treads,Recurve Bow,,29056,101686,Lane.top_lane,Role.solo
+2,TSM MeNoHaxor,Karma,True,Side.blue,3,3,16,6.333333333333333,17,Exhaust,Flash,12,True,8981,8100,Eye of the Watchers,Control Ward,Refillable Potion,Boots of Mobility,Ardent Censer,Redemption,12494,5879,Lane.bot_lane,Role.support
+3,Jurassiq,Ezreal,True,Side.blue,9,0,10,19.0,182,Flash,Heal,15,False,12189,10700,Blade of the Ruined King,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,Null-Magic Mantle,15198,118424,Lane.bot_lane,Role.carry
+4,Cat Ears,Ekko,True,Side.blue,6,3,9,5.0,167,Flash,Teleport,14,False,11154,10350,Sorcerer's Shoes,Lich Bane,Hextech Protobelt-01,,,Zhonya's Hourglass,92874,15201,Lane.mid_lane,Role.solo
+5,You all boosted,Graves,False,Side.red,6,3,2,2.6666666666666665,196,Flash,Smite,15,False,11358,11350,Enchantment: Warrior,Berserker's Greaves,Brawler's Gloves,Cloak of Agility,Statikk Shiv,Infinity Edge,7492,153656,Lane.jungle,Role.none
+6,I Serenity I,Caitlyn,False,Side.red,2,13,6,0.6153846153846154,129,Flash,Heal,12,False,8298,7775,Pickaxe,Cloak of Agility,Doran's Blade,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,431,67202,Lane.bot_lane,Role.carry
+7,Yanni Tsunami,Zed,False,Side.red,5,7,0,0.7142857142857143,166,Ignite,Flash,13,False,8826,8575,Duskblade of Draktharr,Edge of Night,Control Ward,Caulfield's Warhammer,Ionian Boots of Lucidity,,4788,79580,Lane.mid_lane,Role.solo
+8,Hi Im A Sheep,Nautilus,False,Side.red,1,8,4,0.625,162,Flash,Teleport,12,False,8118,6575,,Corrupting Potion,Sunfire Cape,Giant's Belt,Warden's Mail,Ninja Tabi,64603,21911,Lane.top_lane,Role.solo
+9,Kaiceytron,Zyra,False,Side.red,0,9,5,0.5555555555555556,37,Ignite,Flash,11,False,6698,6300,Frost Queen's Claim,,,Blasting Wand,Haunting Guise,Sorcerer's Shoes,42136,6622,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Valkrin,Nautilus,True,Side.blue,1,0,12,13.0,58,Flash,Ignite,12,False,8484,7775,Sightstone,Locket of the Iron Solari,Face of the Mountain,Ninja Tabi,Control Ward,Kindlegem,25463,14691,Lane.bot_lane,Role.support
+1,Révenge,LeBlanc,True,Side.blue,10,3,4,4.666666666666667,197,Ignite,Flash,16,False,12881,12425,Doran's Ring,Blasting Wand,Rylai's Crystal Scepter,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,99264,15680,Lane.mid_lane,Role.solo
+2,WT Spectator,Lee Sin,True,Side.blue,8,2,6,7.0,150,Flash,Smite,14,False,12143,11210,The Black Cleaver,Tiamat,Dead Man's Plate,Enchantment: Warrior,Mercury's Treads,,20053,131534,Lane.jungle,Role.none
+3,foggedftw1,Tryndamere,True,Side.blue,6,2,7,6.5,228,Ignite,Flash,15,True,12680,9875,Cloth Armor,Bilgewater Cutlass,The Black Cleaver,Statikk Shiv,Mercury's Treads,Recurve Bow,36837,125645,Lane.bot_lane,Role.carry
+4,Cuckvele,Yorick,True,Side.blue,2,7,4,0.8571428571428571,122,Ghost,Teleport,13,False,9580,8995,Corrupting Potion,Iceborn Gauntlet,Spirit Visage,Caulfield's Warhammer,Ninja Tabi,Negatron Cloak,9560,54412,Lane.top_lane,Role.solo
+5,O My Money,Thresh,False,Side.red,0,6,8,1.3333333333333333,51,Exhaust,Flash,12,False,6657,5350,Sightstone,Refillable Potion,Boots of Mobility,Locket of the Iron Solari,Relic Shield,Kindlegem,11148,5860,Lane.bot_lane,Role.duo
+6,Asakura,Vi,False,Side.red,2,7,2,0.5714285714285714,142,Smite,Flash,13,False,8797,8458,,Cloth Armor,Ruby Crystal,Trinity Force,Enchantment: Warrior,Ninja Tabi,1245,127432,Lane.jungle,Role.none
+7,Thalies,Katarina,False,Side.red,4,4,1,1.25,143,Ignite,Flash,12,False,8410,8000,The Dark Seal,Abyssal Scepter,,Hextech Gunblade,,Sorcerer's Shoes,78060,7800,Lane.mid_lane,Role.solo
+8,milala,Jhin,False,Side.red,2,8,6,1.0,142,Flash,Heal,12,False,8403,7345,Essence Reaver,Cull,Zeal,Ionian Boots of Lucidity,Dagger,Doran's Blade,3419,67483,Lane.bot_lane,Role.duo
+9,Entranced,Nasus,False,Side.red,6,2,6,6.0,241,Teleport,Flash,16,False,11864,10033,Zz'Rot Portal,Corrupting Potion,Spectre's Cowl,Doran's Ring,Trinity Force,Ninja Tabi,89312,52813,Lane.top_lane,Role.solo

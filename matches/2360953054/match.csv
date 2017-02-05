@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pink Ward,Shaco,True,Side.blue,4,4,0,1.0,127,Teleport,Ignite,12,False,8425,8360,Zhonya's Hourglass,Corrupting Potion,Hextech Protobelt-01,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,49439,20731,Lane.top_lane,Role.solo
+1,Baeflone,Shyvana,True,Side.blue,3,1,2,5.0,137,Smite,Ghost,13,False,9123,8050,Blade of the Ruined King,Tiamat,Boots of Speed,Refillable Potion,Enchantment: Bloodrazor,Dagger,54567,76194,Lane.jungle,Role.none
+2,TheWhiteShofu ,Draven,True,Side.blue,8,3,5,4.333333333333333,149,Heal,Flash,12,False,11591,11400,Cloak of Agility,Infinity Edge,Essence Reaver,Berserker's Greaves,Cull,B. F. Sword,990,91735,Lane.bot_lane,Role.carry
+3,Pobeaver,Lulu,True,Side.blue,3,0,11,14.0,8,Exhaust,Flash,11,False,7743,5250,Boots of Speed,Eye of the Watchers,Redemption,Control Ward,,,6240,4454,Lane.bot_lane,Role.support
+4,Roewland,Syndra,True,Side.blue,9,3,3,4.0,147,Exhaust,Flash,13,True,9833,8475,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Control Ward,Rabadon's Deathcap,,81544,9201,Lane.mid_lane,Role.solo
+5,jyjyjy,Orianna,False,Side.red,0,4,1,0.25,76,Flash,Ghost,8,False,4776,3035,Doran's Ring,Amplifying Tome,Doran's Ring,Boots of Speed,Lost Chapter,Doran's Ring,22320,6691,Lane.mid_lane,Role.solo
+6,A Platypus,Corki,False,Side.red,5,8,1,0.75,96,Heal,Flash,10,False,6711,6418,Trinity Force,Doran's Blade,Amplifying Tome,,Sorcerer's Shoes,Cull,32946,8950,Lane.bot_lane,Role.carry
+7,AchiIIes Heal,Thresh,False,Side.red,2,4,4,1.5,27,Flash,Exhaust,10,False,5198,4600,,Locket of the Iron Solari,Sightstone,Relic Shield,Boots of Mobility,,7832,4591,Lane.bot_lane,Role.support
+8,KT Score,Rengar,False,Side.red,0,6,3,0.5,87,Smite,Flash,10,False,5946,5175,Refillable Potion,Enchantment: Warrior,Long Sword,Giant's Belt,,Ionian Boots of Lucidity,6520,64263,Lane.jungle,Role.none
+9,Tyflos,Riven,False,Side.red,4,5,0,0.8,144,Teleport,Flash,12,False,7045,6425,Maw of Malmortius,Refillable Potion,Caulfield's Warhammer,Phage,Control Ward,Boots of Speed,0,78021,Lane.top_lane,Role.solo

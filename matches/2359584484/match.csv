@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,McCashDollar,Shaco,True,Side.blue,8,3,6,4.666666666666667,75,Ignite,Smite,15,True,10814,10400,Enchantment: Runic Echoes,Bilgewater Cutlass,Sheen,Ionian Boots of Lucidity,Hextech Revolver,Dead Man's Plate,47129,35228,Lane.jungle,Role.none
+1,Stiches,Caitlyn,True,Side.blue,2,1,3,5.0,245,Heal,Flash,15,False,12418,11150,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,,Berserker's Greaves,Doran's Blade,1723,192884,Lane.bot_lane,Role.carry
+2,Celend,Zyra,True,Side.blue,3,3,5,2.6666666666666665,25,Flash,Exhaust,11,False,8783,8310,Needlessly Large Rod,Giant's Belt,Eye of the Watchers,Sorcerer's Shoes,Amplifying Tome,Haunting Guise,27892,6520,Lane.bot_lane,Role.support
+3,Rohammers,Ekko,True,Side.blue,8,0,7,15.0,173,Teleport,Flash,15,False,11693,9875,Hextech Protobelt-01,Needlessly Large Rod,The Dark Seal,Mercury's Treads,Doran's Ring,Lich Bane,103594,18119,Lane.top_lane,Role.solo
+4,Haillo Kitty,Varus,True,Side.blue,7,2,6,6.5,156,Ghost,Flash,14,False,11348,10450,Manamune,Maw of Malmortius,Duskblade of Draktharr,Corrupting Potion,,Ionian Boots of Lucidity,7214,102689,Lane.mid_lane,Role.solo
+5,Pants are Dragon,Shyvana,False,Side.red,4,5,3,1.4,171,Smite,Ghost,14,False,8884,8300,Enchantment: Bloodrazor,Refillable Potion,Titanic Hydra,Mercury's Treads,Cloth Armor,Ruby Crystal,61467,51921,Lane.jungle,Role.none
+6,Biofrost ,Karma,False,Side.red,0,5,3,0.6,34,Flash,Exhaust,11,False,6137,5800,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,,,,24945,4375,Lane.bot_lane,Role.support
+7,Peng Yiliang,Vayne,False,Side.red,1,7,1,0.2857142857142857,192,Flash,Heal,13,False,8697,8400,Doran's Blade,Statikk Shiv,Cull,Infinity Edge,Berserker's Greaves,,3166,84187,Lane.bot_lane,Role.carry
+8,Maxtrobo,Trundle,False,Side.red,1,8,2,0.375,190,Flash,Teleport,13,False,8863,8550,Spirit Visage,Ravenous Hydra,Corrupting Potion,Ninja Tabi,Cloth Armor,Sapphire Crystal,1968,109142,Lane.top_lane,Role.solo
+9,Sheiden,Kennen,False,Side.red,3,3,2,1.6666666666666667,219,Teleport,Flash,13,False,9379,9225,Abyssal Scepter,Hextech Protobelt-01,Seeker's Armguard,Fiendish Codex,Sorcerer's Shoes,,89272,19348,Lane.mid_lane,Role.solo

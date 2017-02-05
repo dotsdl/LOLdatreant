@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Savagenub,Ezreal,True,Side.blue,7,3,8,5.0,188,Heal,Flash,14,True,12674,10800,Blade of the Ruined King,Muramana,Doran's Blade,Iceborn Gauntlet,Boots of Speed,Last Whisper,11862,103092,Lane.bot_lane,Role.carry
+1,Minun,Soraka,True,Side.blue,0,0,16,16.0,21,Exhaust,Flash,12,False,8675,7550,Sightstone,Control Ward,Locket of the Iron Solari,Talisman of Ascension,Ionian Boots of Lucidity,Forbidden Idol,7881,3705,Lane.bot_lane,Role.support
+2,spinx123,Poppy,True,Side.blue,4,1,7,11.0,232,Flash,Teleport,16,False,12211,11350,Crystalline Bracer,Sunfire Cape,Zz'Rot Portal,Boots of Swiftness,Randuin's Omen,Crystalline Bracer,36623,67887,Lane.top_lane,Role.solo
+3,Zt0rm,Lee Sin,True,Side.blue,7,1,13,20.0,180,Smite,Flash,16,False,13494,12025,Maw of Malmortius,Titanic Hydra,Enchantment: Warrior,Boots of Mobility,Giant's Belt,Null-Magic Mantle,27132,156402,Lane.jungle,Role.none
+4,PerfectSkill,Lux,True,Side.blue,7,0,8,15.0,222,Barrier,Flash,16,False,12895,10750,Rabadon's Deathcap,Control Ward,Morellonomicon,Mejai's Soulstealer,Ionian Boots of Lucidity,Blasting Wand,126171,20548,Lane.mid_lane,Role.solo
+5,Green CN,Riven,False,Side.red,0,7,1,0.14285714285714285,185,Flash,Teleport,13,False,8424,8175,,,Refillable Potion,The Black Cleaver,Ionian Boots of Lucidity,Maw of Malmortius,0,97146,Lane.top_lane,Role.solo
+6,Lito Rocket,Caitlyn,False,Side.red,1,4,3,1.0,233,Heal,Flash,13,False,9696,9575,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Last Whisper,Long Sword,185,152801,Lane.bot_lane,Role.carry
+7,YouOnLun9,Orianna,False,Side.red,1,5,0,0.2,222,Ghost,Flash,14,False,9170,8060,Doran's Ring,Refillable Potion,Control Ward,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,107775,13818,Lane.mid_lane,Role.solo
+8,Lito Key,Karma,False,Side.red,0,4,2,0.5,38,Exhaust,Flash,12,False,7287,6850,Eye of the Watchers,Redemption,Aegis of the Legion,,,Boots of Mobility,35009,5821,Lane.bot_lane,Role.support
+9,bu xu xiao,Gragas,False,Side.red,3,5,1,0.8,117,Smite,Flash,13,False,8637,8475,Spectre's Cowl,Control Ward,Ruby Crystal,Iceborn Gauntlet,Enchantment: Runic Echoes,Ninja Tabi,87866,32448,Lane.jungle,Role.none

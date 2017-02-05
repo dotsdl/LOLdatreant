@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,XinsertpunhereX,Orianna,True,Side.blue,9,4,4,3.25,159,Ignite,Flash,13,False,10820,9850,Refillable Potion,Rod of Ages,Sorcerer's Shoes,Morellonomicon,Void Staff,The Dark Seal,96952,16793,Lane.mid_lane,Role.solo
+1,KitingYeezus,Graves,True,Side.blue,9,2,5,7.0,126,Flash,Smite,13,True,10609,9025,Enchantment: Warrior,Zeal,Berserker's Greaves,Maw of Malmortius,Dagger,Dagger,4915,120181,Lane.jungle,Role.none
+2,TomWardTheSpook,Tahm Kench,True,Side.blue,1,6,8,1.5,37,Flash,Exhaust,11,False,7021,5925,Eye of the Equinox,Knight's Vow,Refillable Potion,Ninja Tabi,,,8791,4961,Lane.bot_lane,Role.support
+3,DdC ThanatoZ,Jayce,True,Side.blue,8,1,2,10.0,204,Teleport,Flash,14,False,11429,10375,Doran's Blade,Maw of Malmortius,Ionian Boots of Lucidity,Serrated Dirk,The Black Cleaver,B. F. Sword,13184,110272,Lane.top_lane,Role.solo
+4,TSM Jarl,Caitlyn,True,Side.blue,0,4,4,1.0,147,Heal,Flash,11,False,8342,7975,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,269,83524,Lane.bot_lane,Role.carry
+5,maso,Katarina,False,Side.red,5,9,4,1.0,64,Flash,Teleport,11,False,6575,5425,Sorcerer's Shoes,Zhonya's Hourglass,Refillable Potion,The Dark Seal,Aether Wisp,,42333,3557,Lane.top_lane,Role.solo
+6,Yarkbeezy,Ashe,False,Side.red,6,2,2,4.0,139,Heal,Flash,12,False,8317,6725,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Caulfield's Warhammer,B. F. Sword,,1332,67012,Lane.bot_lane,Role.carry
+7,Rusty Wakizashi,Veigar,False,Side.red,1,7,8,1.2857142857142858,15,Exhaust,Flash,10,False,5980,5045,Nomad's Medallion,Negatron Cloak,Sightstone,Boots of Mobility,Raptor Cloak,,14449,2980,Lane.bot_lane,Role.support
+8,lcs jg sucks,Diana,False,Side.red,1,4,1,0.5,111,Flash,Teleport,11,False,6361,4620,Doran's Ring,Corrupting Potion,Rod of Ages,Negatron Cloak,Boots of Speed,,48155,9099,Lane.mid_lane,Role.solo
+9,BlooDLaS,Sejuani,False,Side.red,4,5,5,1.8,124,Smite,Flash,13,False,8543,7625,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Dead Man's Plate,Ruby Crystal,Null-Magic Mantle,69929,20983,Lane.jungle,Role.none

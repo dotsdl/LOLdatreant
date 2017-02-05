@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bingsuu,Cassiopeia,True,Side.blue,6,2,2,4.0,180,Teleport,Flash,14,False,10259,8650,Doran's Ring,Morellonomicon,Tear of the Goddess,Rylai's Crystal Scepter,Needlessly Large Rod,,87039,6763,Lane.top_lane,Role.solo
+1,moon o,Rengar,True,Side.blue,12,0,9,21.0,191,Smite,Flash,15,True,13720,11450,Tiamat,Duskblade of Draktharr,B. F. Sword,Ionian Boots of Lucidity,Enchantment: Warrior,B. F. Sword,13034,174508,Lane.jungle,Role.none
+2,26209633,Nami,True,Side.blue,4,1,20,24.0,12,Flash,Ignite,12,False,9264,7950,Eye of the Watchers,Redemption,Control Ward,Boots of Mobility,Ardent Censer,,5914,4637,Lane.bot_lane,Role.support
+3,Kammr,Fizz,True,Side.blue,13,3,3,5.333333333333333,146,Flash,Ignite,14,False,11436,9285,Lich Bane,Sorcerer's Shoes,Abyssal Scepter,Doran's Ring,Seeker's Armguard,Amplifying Tome,59020,29662,Lane.mid_lane,Role.solo
+4,Sneaky Chickenz,Twitch,True,Side.blue,5,2,13,9.0,142,Flash,Heal,12,False,10059,8750,Infinity Edge,Brawler's Gloves,Dagger,,Berserker's Greaves,Runaan's Hurricane,355,80819,Lane.bot_lane,Role.carry
+5,Just Supp,Zyra,False,Side.red,2,11,2,0.36363636363636365,7,Ignite,Flash,9,False,5931,5400,Frostfang,Haunting Guise,Sightstone,Ionian Boots of Lucidity,,Blasting Wand,14018,748,Lane.bot_lane,Role.support
+6,Flaresz,Nasus,False,Side.red,0,4,2,0.5,181,Flash,Teleport,12,False,7777,7620,Doran's Ring,Mercury's Treads,Zz'Rot Portal,Negatron Cloak,Giant's Belt,Giant's Belt,61674,19274,Lane.top_lane,Role.solo
+7,DSDW,Lee Sin,False,Side.red,3,10,3,0.6,97,Smite,Flash,12,False,7643,7400,Long Sword,Tiamat,Chain Vest,Ninja Tabi,Enchantment: Cinderhulk,Serrated Dirk,13609,69456,Lane.jungle,Role.none
+8,Mosquito Porn,Ezreal,False,Side.red,2,7,1,0.42857142857142855,136,Heal,Flash,11,False,7295,6800,Doran's Blade,Manamune,Ninja Tabi,Iceborn Gauntlet,,,7684,45002,Lane.bot_lane,Role.carry
+9,Figurato,Kayle,False,Side.red,1,8,2,0.375,116,Flash,Ghost,11,False,6743,5725,,Berserker's Greaves,Control Ward,Doran's Ring,Stinger,Wit's End,36068,16985,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Koyori,Nami,True,Side.blue,4,2,15,9.5,4,Exhaust,Flash,11,False,7941,6625,Frost Queen's Claim,Redemption,,Sightstone,Boots of Mobility,,7571,4104,Lane.bot_lane,Role.support
+1,TNL Astatine,Jhin,True,Side.blue,9,6,8,2.8333333333333335,128,Flash,Heal,13,False,10484,7525,Zeal,Essence Reaver,Kircheis Shard,Doran's Blade,,Boots of Swiftness,1592,89816,Lane.bot_lane,Role.carry
+2,Xelverak,Nasus,True,Side.blue,2,3,2,1.3333333333333333,155,Teleport,Flash,13,False,8564,5350,Doran's Ring,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Boots of Speed,Sheen,60591,36817,Lane.top_lane,Role.solo
+3,LL Foil,Elise,True,Side.blue,9,4,8,4.25,87,Flash,Smite,12,False,10056,9775,Ionian Boots of Lucidity,Hunter's Potion,Control Ward,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Hextech Protobelt-01,64562,24447,Lane.jungle,Role.none
+4,Butler Epsilon,Ryze,True,Side.blue,4,5,6,2.0,168,Flash,Ghost,13,False,9368,7550,Archangel's Staff,,The Dark Seal,,Rod of Ages,Sorcerer's Shoes,105988,9350,Lane.mid_lane,Role.solo
+5,holygoose,Ashe,False,Side.red,3,10,5,0.8,19,Ignite,Flash,10,False,7033,7050,Sightstone,Pickaxe,Ionian Boots of Lucidity,Rapid Firecannon,B. F. Sword,,3156,22902,Lane.bot_lane,Role.support
+6,Krypt,Jinx,False,Side.red,3,6,5,1.3333333333333333,142,Flash,Heal,11,False,8780,8700,Brawler's Gloves,Infinity Edge,Runaan's Hurricane,Dagger,Doran's Blade,Berserker's Greaves,833,78174,Lane.bot_lane,Role.carry
+7,Azhi Dahaki,Shyvana,False,Side.red,3,6,3,1.0,97,Smite,Ghost,11,False,7982,7625,Enchantment: Bloodrazor,Refillable Potion,Titanic Hydra,Mercury's Treads,,,32708,47144,Lane.jungle,Role.none
+8,Happy Birfdizzay,Twitch,False,Side.red,7,3,1,2.6666666666666665,178,Flash,Heal,14,True,9854,8700,Long Sword,Runaan's Hurricane,B. F. Sword,Lord Dominik's Regards,Berserker's Greaves,Doran's Blade,0,99027,Lane.mid_lane,Role.solo
+9,Lord Gomenator,Maokai,False,Side.red,4,3,5,3.0,146,Flash,Teleport,13,False,8560,7500,Doran's Ring,Spirit Visage,Chain Vest,Doran's Ring,Mercury's Treads,Bami's Cinder,81784,9724,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ONLYPLAYKALISTA,Darius,False,Side.blue,0,3,1,0.3333333333333333,93,Teleport,Ghost,9,False,4219,3775,Corrupting Potion,Spectre's Cowl,Control Ward,Hexdrinker,Boots of Speed,Ruby Crystal,164,38916,Lane.top_lane,Role.solo
+1,Arane,Thresh,False,Side.blue,0,2,1,0.5,11,Exhaust,Flash,6,False,2900,1825,Total Biscuit of Rejuvenation,Ruby Crystal,Rejuvenation Bead,Targon's Brace,,,3206,3175,Lane.bot_lane,Role.support
+2, keine Hosen,Caitlyn,False,Side.blue,2,5,0,0.4,85,Flash,Heal,9,True,4902,4525,Doran's Blade,Dagger,B. F. Sword,Recurve Bow,Boots of Speed,Pickaxe,482,53169,Lane.bot_lane,Role.carry
+3,starfui,Zyra,False,Side.blue,0,3,0,0.0,47,Ghost,Flash,7,False,3270,1710,,,Doran's Ring,Boots of Speed,Doran's Ring,Amplifying Tome,12562,6011,Lane.mid_lane,Role.solo
+4,DONÀLD TRUMP,Vi,False,Side.blue,1,3,0,0.3333333333333333,39,Smite,Flash,6,False,3712,2625,Skirmisher's Sabre,Caulfield's Warhammer,Refillable Potion,Boots of Speed,,,78,25982,Lane.jungle,Role.none
+5,DarkWingsForSale,Janna,True,Side.red,0,1,9,9.0,6,Flash,Exhaust,9,False,5055,3135,Nomad's Medallion,Sightstone,Amplifying Tome,,Crystalline Bracer,,4814,6373,Lane.bot_lane,Role.support
+6,TEAMLUKEE,Kog'Maw,True,Side.red,7,1,1,8.0,93,Heal,Flash,9,False,6995,5100,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,,,,12793,39476,Lane.bot_lane,Role.carry
+7,Mitia Karamazov,Maokai,True,Side.red,1,1,1,2.0,100,Flash,Teleport,10,False,5532,4000,Doran's Ring,Sunfire Cape,,Boots of Speed,Control Ward,,40201,8777,Lane.top_lane,Role.solo
+8,TheNinthAmbition,Anivia,True,Side.red,6,0,2,8.0,111,Ignite,Flash,11,False,7452,5175,Doran's Ring,Rod of Ages,Tear of the Goddess,Ionian Boots of Lucidity,Control Ward,Total Biscuit of Rejuvenation,50237,8914,Lane.mid_lane,Role.solo
+9,Sasuni,Ivern,True,Side.red,2,0,8,10.0,43,Smite,Flash,9,False,5799,4325,Control Ward,Ruby Crystal,Ionian Boots of Lucidity,The Dark Seal,Hunter's Talisman,Athene's Unholy Grail,10044,4714,Lane.jungle,Role.none

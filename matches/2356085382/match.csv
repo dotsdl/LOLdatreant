@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,thekilerone,Caitlyn,False,Side.blue,2,8,2,0.5,121,Heal,Flash,11,False,6559,5675,Doran's Blade,Berserker's Greaves,Cull,Pickaxe,B. F. Sword,Zeal,472,59937,Lane.bot_lane,Role.carry
+1,Soligo,Azir,False,Side.blue,0,4,1,0.25,137,Exhaust,Flash,11,False,6322,4700,Nashor's Tooth,Doran's Ring,,Boots of Speed,Doran's Ring,Ruby Crystal,48485,9277,Lane.mid_lane,Role.solo
+2,Some Fruit,Lee Sin,False,Side.blue,4,3,1,1.6666666666666667,51,Smite,Flash,10,True,6414,6125,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Giant's Belt,Chain Vest,Null-Magic Mantle,7968,47704,Lane.jungle,Role.none
+3,Modx,Riven,False,Side.blue,1,4,3,1.0,158,Flash,Teleport,12,False,7442,6650,The Black Cleaver,Mercury's Treads,Caulfield's Warhammer,Long Sword,Long Sword,Long Sword,2541,81097,Lane.top_lane,Role.solo
+4,Just a Coach,Karma,False,Side.blue,0,5,1,0.2,5,Flash,Exhaust,9,False,4613,4025,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Ruby Crystal,,,5882,2894,Lane.bot_lane,Role.support
+5,C0nVict,Vi,True,Side.red,10,1,5,15.0,80,Flash,Smite,12,False,9682,8608,Bilgewater Cutlass,Refillable Potion,Boots of Speed,Trinity Force,Enchantment: Warrior,Dagger,1643,91332,Lane.jungle,Role.none
+6,East Berlin,Jhin,True,Side.red,2,0,5,7.0,146,Flash,Heal,10,False,8308,7825,Doran's Blade,Rapid Firecannon,Essence Reaver,Boots of Swiftness,,,3325,83105,Lane.bot_lane,Role.carry
+7,nackksi,Blitzcrank,True,Side.red,2,1,7,9.0,23,Exhaust,Flash,10,False,6408,6025,Face of the Mountain,Total Biscuit of Rejuvenation,Sightstone,Boots of Mobility,Crystalline Bracer,Forbidden Idol,7615,6808,Lane.bot_lane,Role.support
+8,t d,Ryze,True,Side.red,2,2,6,4.0,165,Ghost,Flash,12,False,8212,7910,Refillable Potion,Tear of the Goddess,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,Amplifying Tome,85748,8821,Lane.mid_lane,Role.solo
+9,KiteAzure,Akali,True,Side.red,8,3,3,3.6666666666666665,127,Flash,Teleport,13,False,8890,7825,Refillable Potion,Hextech Gunblade,Zhonya's Hourglass,Sorcerer's Shoes,,,27081,45178,Lane.top_lane,Role.solo

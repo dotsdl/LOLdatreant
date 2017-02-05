@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lanfear,Annie,False,Side.blue,5,11,5,0.9090909090909091,190,Flash,Ghost,14,False,10228,8635,Needlessly Large Rod,Ionian Boots of Lucidity,The Dark Seal,Hextech Protobelt-01,Void Staff,Amplifying Tome,99999,6663,Lane.mid_lane,Role.solo
+1,Yasuua,Yasuo,False,Side.blue,2,8,5,0.875,189,Flash,Exhaust,14,False,9524,8975,Ninja Tabi,Phantom Dancer,Giant's Belt,Infinity Edge,,,26968,99105,Lane.top_lane,Role.solo
+2,4lone,Hecarim,False,Side.blue,4,6,9,2.1666666666666665,98,Smite,Ghost,13,False,9246,8833,Enchantment: Cinderhulk,Hunter's Potion,Control Ward,Boots of Swiftness,Chain Vest,Trinity Force,15745,78878,Lane.jungle,Role.none
+3,TJMAS,Ezreal,False,Side.blue,7,4,8,3.75,165,Flash,Heal,13,False,10596,10100,Muramana,Blade of the Ruined King,Refillable Potion,Iceborn Gauntlet,Doran's Blade,Ionian Boots of Lucidity,23705,75829,Lane.bot_lane,Role.carry
+4,KlvA,Alistar,False,Side.blue,2,5,13,3.0,42,Exhaust,Flash,12,False,8298,7750,Ruby Sightstone,Face of the Mountain,Mikael's Crucible,Control Ward,Crystalline Bracer,Boots of Mobility,15552,5391,Lane.bot_lane,Role.support
+5,Wazabiee,LeBlanc,True,Side.red,11,3,9,6.666666666666667,183,Ignite,Flash,15,True,13911,13285,Rylai's Crystal Scepter,Morellonomicon,Blasting Wand,Mejai's Soulstealer,Sorcerer's Shoes,Void Staff,136027,11517,Lane.mid_lane,Role.solo
+6,TheSpagMan,Jhin,True,Side.red,3,7,9,1.7142857142857142,131,Flash,Heal,13,False,10535,9425,Total Biscuit of Rejuvenation,Boots of Swiftness,Youmuu's Ghostblade,Infinity Edge,Doran's Blade,Zeal,7751,74131,Lane.bot_lane,Role.carry
+7,Tall Brown Guy,Riven,True,Side.red,5,5,10,3.0,189,Teleport,Flash,15,False,12834,11550,Ravenous Hydra,Cloth Armor,Youmuu's Ghostblade,The Black Cleaver,Cloth Armor,Ninja Tabi,3933,157216,Lane.top_lane,Role.solo
+8,Undefeated DS,Morgana,True,Side.red,4,3,17,7.0,22,Flash,Exhaust,13,False,10828,9675,Frost Queen's Claim,Redemption,Locket of the Iron Solari,Ruby Sightstone,Boots of Mobility,Control Ward,22318,7708,Lane.bot_lane,Role.support
+9,Its MitchyBoots,Vi,True,Side.red,11,2,11,11.0,177,Flash,Smite,16,False,14803,14683,Enchantment: Warrior,Trinity Force,Ninja Tabi,Maw of Malmortius,,Randuin's Omen,1894,179526,Lane.jungle,Role.none

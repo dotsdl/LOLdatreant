@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MongolWarrior,Twitch,True,Side.blue,10,1,13,23.0,187,Heal,Flash,14,False,13585,10550,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Statikk Shiv,,3512,125986,Lane.bot_lane,Role.carry
+1,You all boosted,Kassadin,True,Side.blue,6,6,8,2.3333333333333335,192,Flash,Teleport,16,False,12318,12675,Mejai's Soulstealer,Corrupting Potion,Ionian Boots of Lucidity,Morellonomicon,Lich Bane,Rod of Ages,99318,19494,Lane.mid_lane,Role.solo
+2,QuickRev,Alistar,True,Side.blue,0,2,27,13.5,38,Flash,Ignite,14,False,9948,7975,Targon's Brace,Righteous Glory,Sightstone,Frozen Heart,,Boots of Mobility,17135,8657,Lane.bot_lane,Role.support
+3,CloudNguyén,Pantheon,True,Side.blue,12,7,7,2.7142857142857144,171,Teleport,Flash,15,True,12908,11875,Youmuu's Ghostblade,Control Ward,Chain Vest,The Black Cleaver,Ninja Tabi,Duskblade of Draktharr,9202,92877,Lane.top_lane,Role.solo
+4,7788 ADC,Kha'Zix,True,Side.blue,17,4,6,5.75,72,Smite,Flash,14,False,13005,11075,Enchantment: Warrior,Youmuu's Ghostblade,Boots of Mobility,Duskblade of Draktharr,Null-Magic Mantle,Chain Vest,4130,89616,Lane.jungle,Role.none
+5,KarasMai,Sivir,False,Side.red,3,8,4,0.875,168,Flash,Heal,13,False,9801,8625,Doran's Blade,Ionian Boots of Lucidity,Phantom Dancer,Cull,Long Sword,Essence Reaver,0,94227,Lane.bot_lane,Role.carry
+6,My Kat Evolved,Zyra,False,Side.red,3,12,5,0.6666666666666666,42,Ignite,Flash,12,False,8312,7610,Frostfang,Liandry's Torment,Sightstone,Amplifying Tome,Boots of Mobility,Giant's Belt,36934,6270,Lane.bot_lane,Role.support
+7,swoloHey,Lee Sin,False,Side.red,8,8,5,1.625,111,Flash,Smite,13,False,10075,9750,Enchantment: Warrior,Youmuu's Ghostblade,Sterak's Gage,Ninja Tabi,,Control Ward,18726,76041,Lane.jungle,Role.none
+8,Flaresz,Jarvan IV,False,Side.red,4,11,11,1.3636363636363635,131,Flash,Teleport,13,False,9476,9300,Corrupting Potion,Titanic Hydra,Ninja Tabi,Youmuu's Ghostblade,Long Sword,Pickaxe,2801,72751,Lane.top_lane,Role.solo
+9,Ifkinluvpeaches,Viktor,False,Side.red,1,6,5,1.0,167,Ghost,Flash,13,False,8600,8305,Perfect Hex Core,Ionian Boots of Lucidity,Needlessly Large Rod,Negatron Cloak,Amplifying Tome,Giant's Belt,77678,7054,Lane.mid_lane,Role.solo

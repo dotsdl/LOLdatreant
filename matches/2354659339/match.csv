@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,McCashDollar,Shaco,True,Side.blue,11,4,11,5.5,167,Teleport,Ignite,17,False,13782,11800,Zhonya's Hourglass,Hextech Protobelt-01,B. F. Sword,Ionian Boots of Lucidity,Lich Bane,The Dark Seal,102183,38792,Lane.top_lane,Role.solo
+1,You all boosted,Kindred,True,Side.blue,10,2,13,11.5,226,Flash,Smite,18,False,16527,13675,Enchantment: Bloodrazor,Mortal Reminder,Ninja Tabi,Runaan's Hurricane,Frozen Mallet,Phage,4565,285227,Lane.jungle,Role.none
+2,KarasMai,Janna,True,Side.blue,3,0,21,24.0,20,Flash,Exhaust,16,False,11903,10125,Ardent Censer,Redemption,Locket of the Iron Solari,Eye of the Oasis,,Ionian Boots of Lucidity,10904,8988,Lane.bot_lane,Role.support
+3,Sebi,Cassiopeia,True,Side.blue,3,8,7,1.25,254,Flash,Ghost,17,False,13786,10075,Seraph's Embrace,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,,,174532,8864,Lane.mid_lane,Role.solo
+4,skyWtr,Twitch,True,Side.blue,7,4,10,4.25,228,Heal,Flash,16,False,13950,12300,Lord Dominik's Regards,Bilgewater Cutlass,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,410,146583,Lane.bot_lane,Role.carry
+5,08 06 1995,Karma,False,Side.red,0,4,9,2.25,36,Exhaust,Flash,13,False,10598,9250,Eye of the Watchers,Locket of the Iron Solari,Redemption,Ionian Boots of Lucidity,Warden's Mail,,31756,6872,Lane.bot_lane,Role.support
+6,retarded virgin,Olaf,False,Side.red,9,7,2,1.5714285714285714,201,Ghost,Smite,17,True,14588,13350,Enchantment: Cinderhulk,Randuin's Omen,Titanic Hydra,Guardian Angel,Ionian Boots of Lucidity,Chain Vest,25997,152993,Lane.jungle,Role.none
+7,Paxton,Poppy,False,Side.red,2,8,5,0.875,180,Flash,Teleport,15,False,12260,12050,Sunfire Cape,Dead Man's Plate,Spectre's Cowl,Mercury's Treads,Sterak's Gage,,38979,70290,Lane.top_lane,Role.solo
+8,niko44,Ziggs,False,Side.red,4,7,5,1.2857142857142858,209,Teleport,Flash,16,False,13108,12575,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Seraph's Embrace,Void Staff,Aether Wisp,160117,10973,Lane.mid_lane,Role.solo
+9,IIlIIlIIIlllIIlI,Jhin,False,Side.red,3,8,4,0.875,242,Heal,Flash,14,False,12685,13025,Infinity Edge,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Long Sword,Pickaxe,14095,137598,Lane.bot_lane,Role.carry

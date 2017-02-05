@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ThatGuy888,Xerath,False,Side.blue,1,9,7,0.8888888888888888,194,Barrier,Flash,14,False,9922,9045,Doran's Ring,Luden's Echo,Morellonomicon,Ionian Boots of Lucidity,Amplifying Tome,Blasting Wand,128124,8888,Lane.mid_lane,Role.solo
+1,DowneyJr,Rek'Sai,False,Side.blue,2,7,6,1.1428571428571428,121,Smite,Flash,14,True,9637,8800,Titanic Hydra,Chain Vest,Ruby Crystal,Enchantment: Cinderhulk,,Ninja Tabi,24203,81202,Lane.jungle,Role.none
+2,우승자,Ezreal,False,Side.blue,4,6,7,1.8333333333333333,211,Heal,Flash,14,False,11741,11433,Blade of the Ruined King,Muramana,Cull,Ionian Boots of Lucidity,Trinity Force,Doran's Blade,11997,109176,Lane.bot_lane,Role.duo
+3,Dunkaroose,Blitzcrank,False,Side.blue,6,5,5,2.2,79,Flash,Ignite,13,False,9961,9150,Ruby Sightstone,Redemption,Face of the Mountain,Locket of the Iron Solari,Boots of Swiftness,,16955,16702,Lane.bot_lane,Role.duo
+4,Amayzing,Darius,False,Side.blue,7,4,0,1.75,241,Teleport,Flash,16,False,11973,10550,Corrupting Potion,The Black Cleaver,Mercury's Treads,Spirit Visage,Dead Man's Plate,,216,116265,Lane.top_lane,Role.solo
+5,Braums Mustache,Tahm Kench,True,Side.red,1,2,12,6.5,36,Flash,Exhaust,14,False,10063,8775,Boots of Swiftness,Sightstone,Face of the Mountain,Locket of the Iron Solari,Knight's Vow,,13372,12202,Lane.bot_lane,Role.support
+6,Koma cahn,Diana,True,Side.red,2,5,2,0.8,211,Flash,Teleport,16,False,12044,10825,,Corrupting Potion,Hextech GLP-800,Sorcerer's Shoes,Sunfire Cape,Abyssal Scepter,110679,21876,Lane.top_lane,Role.solo
+7,KosUnNatural,Caitlyn,True,Side.red,10,2,5,7.5,232,Heal,Flash,16,False,15762,14200,Doran's Blade,Infinity Edge,Mercurial Scimitar,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,3040,224673,Lane.bot_lane,Role.carry
+8,ZuiQiangWangZheJ,Ahri,True,Side.red,9,7,8,2.4285714285714284,184,Ignite,Flash,16,False,13506,11325,Morellonomicon,Luden's Echo,Void Staff,Sorcerer's Shoes,,The Dark Seal,88569,15736,Lane.mid_lane,Role.solo
+9,Bentonhell,Vi,True,Side.red,9,4,7,4.0,158,Smite,Flash,17,False,14622,11508,Ninja Tabi,Titanic Hydra,Refillable Potion,Ruby Crystal,Trinity Force,Enchantment: Warrior,1427,192496,Lane.jungle,Role.none

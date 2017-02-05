@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZTG SolidSnake,Gnar,True,Side.blue,9,10,11,2.0,164,Flash,Teleport,16,False,13559,12700,Giant's Belt,Randuin's Omen,Ninja Tabi,The Black Cleaver,Frozen Mallet,Chain Vest,11290,110266,Lane.top_lane,Role.solo
+1,all i want,Lee Sin,True,Side.blue,16,10,9,2.5,143,Flash,Smite,16,False,15108,13250,Tiamat,Enchantment: Warrior,Death's Dance,Ninja Tabi,Giant's Belt,Edge of Night,25862,143227,Lane.jungle,Role.none
+2,Vermillion2,Caitlyn,True,Side.blue,14,5,8,4.4,181,Heal,Flash,16,False,14694,12850,Mercurial Scimitar,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Zeal,437,130823,Lane.bot_lane,Role.carry
+3,HanzoSanada,Alistar,True,Side.blue,0,11,21,1.9090909090909092,33,Exhaust,Flash,14,False,9403,8275,Redemption,Knight's Vow,Eye of the Equinox,Ruby Crystal,Boots of Mobility,,13275,6606,Lane.bot_lane,Role.support
+4,UCSD Felix,Ahri,True,Side.blue,6,6,15,3.5,241,Flash,Ignite,17,False,14377,11975,Hextech GLP-800,Doran's Ring,,Rabadon's Deathcap,Lich Bane,Sorcerer's Shoes,100292,19393,Lane.mid_lane,Role.solo
+5,Joji LAN,Irelia,False,Side.red,12,10,8,2.0,173,Flash,Teleport,16,True,12974,12358,Ninja Tabi,Corrupting Potion,Trinity Force,Dead Man's Plate,Maw of Malmortius,Chain Vest,2369,91667,Lane.top_lane,Role.solo
+6,MEME MASTER XD ,Graves,False,Side.red,2,13,16,1.3846153846153846,151,Flash,Smite,15,False,11316,10025,Maw of Malmortius,Refillable Potion,,Berserker's Greaves,Statikk Shiv,Enchantment: Warrior,16499,124789,Lane.jungle,Role.none
+7,Pohq,Thresh,False,Side.red,1,8,26,3.375,28,Flash,Ignite,15,False,9656,8475,Locket of the Iron Solari,Sightstone,Face of the Mountain,Redemption,Boots of Mobility,,13671,5557,Lane.bot_lane,Role.support
+8,Poı,Malzahar,False,Side.red,11,6,11,3.6666666666666665,206,Flash,Ghost,17,False,14107,12745,Needlessly Large Rod,Liandry's Torment,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,128844,28777,Lane.mid_lane,Role.solo
+9,goompa,Jhin,False,Side.red,16,8,11,3.375,236,Heal,Flash,17,False,16744,16835,Mercury's Treads,Vampiric Scepter,Mortal Reminder,Essence Reaver,Rapid Firecannon,Infinity Edge,13461,171072,Lane.bot_lane,Role.carry

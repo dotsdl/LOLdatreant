@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KamiyaHrc,Aurelion Sol,True,Side.blue,1,0,1,2.0,18,Ghost,Flash,3,False,1336,800,Boots of Speed,Corrupting Potion,,,,,5610,1004,Lane.mid_lane,Role.solo
+1,DDefiance,Braum,True,Side.blue,0,0,1,1.0,3,Exhaust,Flash,2,False,788,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,166,948,Lane.bot_lane,Role.none
+2,IWD is a fgt,Graves,True,Side.blue,0,0,1,1.0,12,Smite,Flash,3,False,1008,500,Refillable Potion,Hunter's Machete,,,,,0,5105,Lane.bot_lane,Role.none
+3,The Broskie,Riven,True,Side.blue,0,0,1,1.0,12,Teleport,Flash,2,False,900,500,Long Sword,Health Potion,,,,,0,3111,Lane.top_lane,Role.solo
+4,herolineage,Vayne,True,Side.blue,1,0,0,1.0,16,Flash,Heal,2,True,1389,900,Doran's Blade,Total Biscuit of Rejuvenation,Long Sword,,,,20,2974,Lane.bot_lane,Role.none
+5,CC ArJay,Caitlyn,False,Side.red,0,0,0,0.0,0,Flash,Heal,1,False,653,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+6,Omgimapencil,Janna,False,Side.red,0,0,0,0.0,0,Exhaust,Flash,1,False,671,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,0,312,Lane.bot_lane,Role.solo
+7,Kakomu,Poppy,False,Side.red,0,0,0,0.0,9,Flash,Teleport,2,False,824,500,Corrupting Potion,,,,,,56,1499,Lane.top_lane,Role.solo
+8,IFapToYourSister,Vi,False,Side.red,0,1,0,0.0,6,Smite,Flash,3,False,1039,500,Hunter's Machete,Refillable Potion,,,,,0,7718,Lane.jungle,Role.none
+9,Rape Train,Vladimir,False,Side.red,0,1,0,0.0,7,Ghost,Flash,2,False,784,635,Amplifying Tome,Refillable Potion,,,,,1048,989,Lane.mid_lane,Role.duo

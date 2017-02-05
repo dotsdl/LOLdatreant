@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Klawbro,Caitlyn,False,Side.blue,3,10,4,0.7,269,Flash,Heal,14,False,12252,11450,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Lord Dominik's Regards,Null-Magic Mantle,932,174963,Lane.bot_lane,Role.carry
+1,J D,Riven,False,Side.blue,5,8,1,0.75,195,Teleport,Flash,15,False,11310,10325,Tiamat,Quicksilver Sash,,Maw of Malmortius,The Black Cleaver,Mercury's Treads,0,128576,Lane.top_lane,Role.solo
+2,aShady,Karma,False,Side.blue,0,7,9,1.2857142857142858,21,Exhaust,Flash,13,False,8562,7775,Locket of the Iron Solari,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,,16837,3112,Lane.bot_lane,Role.support
+3,Gourish,Shyvana,False,Side.blue,6,5,2,1.6,205,Smite,Ghost,16,False,12654,11650,Enchantment: Bloodrazor,Refillable Potion,Blade of the Ruined King,Frozen Mallet,Ninja Tabi,Spectre's Cowl,89091,87343,Lane.jungle,Role.none
+4,Pht,Katarina,False,Side.blue,12,8,2,1.75,223,Ignite,Flash,16,True,13694,13300,Rabadon's Deathcap,Hextech Gunblade,Quicksilver Sash,Rylai's Crystal Scepter,Sorcerer's Shoes,,130578,18818,Lane.mid_lane,Role.solo
+5,sorrymybad1,Twisted Fate,True,Side.red,8,5,15,4.6,232,Flash,Ghost,17,False,15241,14150,Abyssal Scepter,Rod of Ages,Lich Bane,Ionian Boots of Lucidity,Doran's Ring,Rabadon's Deathcap,141467,18602,Lane.mid_lane,Role.solo
+6,LearningToPIay,Olaf,True,Side.red,7,2,14,10.5,170,Ghost,Smite,16,False,13672,12100,Locket of the Iron Solari,Randuin's Omen,Spirit Visage,Ionian Boots of Lucidity,Cloth Armor,Enchantment: Cinderhulk,19793,114768,Lane.jungle,Role.none
+7,KappaSoleil,Zyra,True,Side.red,2,5,24,5.2,27,Flash,Exhaust,15,False,11629,10525,Eye of the Watchers,Liandry's Torment,Sorcerer's Shoes,Rylai's Crystal Scepter,,,38452,6327,Lane.bot_lane,Role.support
+8,Raveydemon,Jhin,True,Side.red,10,8,17,3.375,133,Heal,Flash,15,False,13511,12400,Infinity Edge,Pickaxe,Boots of Swiftness,Rapid Firecannon,Essence Reaver,,8150,102880,Lane.bot_lane,Role.carry
+9,Flaresz,Lissandra,True,Side.red,11,6,8,3.1666666666666665,253,Flash,Teleport,17,False,15541,15375,Morellonomicon,Hextech Protobelt-01,Void Staff,Zhonya's Hourglass,Sorcerer's Shoes,Blasting Wand,162448,16344,Lane.top_lane,Role.solo

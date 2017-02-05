@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NoPause,Blitzcrank,True,Side.blue,1,2,20,10.5,50,Exhaust,Flash,14,False,10163,8400,Boots of Mobility,Face of the Mountain,Redemption,Sightstone,Giant's Belt,Warden's Mail,12530,12433,Lane.bot_lane,Role.support
+1,Aerotality,Yasuo,True,Side.blue,8,5,2,2.0,226,Teleport,Flash,16,False,13128,10925,Mercury's Treads,Phantom Dancer,Refillable Potion,Infinity Edge,Dead Man's Plate,Doran's Blade,30295,115563,Lane.top_lane,Role.solo
+2,IFIWINYOUSUCKBAD,Vi,True,Side.blue,4,1,8,12.0,196,Flash,Smite,16,False,12364,11133,Enchantment: Warrior,Ninja Tabi,Trinity Force,Lord Dominik's Regards,Serrated Dirk,,1157,197876,Lane.jungle,Role.none
+3, keine Hosen,Twitch,True,Side.blue,16,8,5,2.625,207,Flash,Heal,15,True,15205,14650,Doran's Blade,Infinity Edge,Mercurial Scimitar,Runaan's Hurricane,Phantom Dancer,Berserker's Greaves,0,138601,Lane.bot_lane,Role.carry
+4,Arselan,Lux,True,Side.blue,5,3,9,4.666666666666667,228,Flash,Barrier,16,False,12570,10325,Doran's Ring,Fiendish Codex,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Mejai's Soulstealer,123692,21969,Lane.mid_lane,Role.solo
+5,SoJay,Twisted Fate,False,Side.red,4,5,2,1.2,204,Ghost,Flash,15,False,11493,11575,Lich Bane,Morellonomicon,Zhonya's Hourglass,Blasting Wand,,Boots of Swiftness,119762,14841,Lane.mid_lane,Role.solo
+6,CHEEZY DIAPER,Nautilus,False,Side.red,3,3,6,3.0,182,Teleport,Flash,15,False,9871,9400,Redemption,Corrupting Potion,Knight's Vow,Sunfire Cape,Ninja Tabi,Ruby Crystal,78606,17357,Lane.top_lane,Role.solo
+7,Dazhao Shangmiss,Caitlyn,False,Side.red,2,10,6,0.8,173,Heal,Flash,13,False,9761,8800,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,,645,109573,Lane.bot_lane,Role.carry
+8,Dank Matter,Brand,False,Side.red,4,11,7,1.0,42,Flash,Ignite,12,False,9358,9250,Frost Queen's Claim,Sightstone,Ruby Crystal,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,32941,5377,Lane.bot_lane,Role.support
+9,chasethera1nbow,Rengar,False,Side.red,6,5,6,2.4,106,Smite,Flash,14,False,10012,9825,Tiamat,Youmuu's Ghostblade,Serrated Dirk,Pickaxe,Enchantment: Warrior,Ionian Boots of Lucidity,7870,104373,Lane.jungle,Role.none

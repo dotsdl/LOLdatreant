@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Slapo,Vayne,False,Side.blue,2,9,1,0.3333333333333333,170,Heal,Flash,13,False,9092,9300,Doran's Blade,Infinity Edge,Vampiric Scepter,,Berserker's Greaves,Statikk Shiv,17448,65110,Lane.bot_lane,Role.carry
+1,sous4000,Karma,False,Side.blue,1,3,0,0.3333333333333333,176,Teleport,Flash,13,False,8175,7860,Blasting Wand,Refillable Potion,Ardent Censer,Amplifying Tome,Ionian Boots of Lucidity,Athene's Unholy Grail,75204,18645,Lane.mid_lane,Role.solo
+2,Nijijinchuuriki,Lulu,False,Side.blue,0,4,4,1.0,24,Flash,Exhaust,11,False,6595,6375,Boots of Mobility,Ardent Censer,Eye of the Watchers,Control Ward,Faerie Charm,,9274,4263,Lane.bot_lane,Role.support
+3,Témpest,Hecarim,False,Side.blue,3,4,3,1.5,160,Ghost,Smite,13,False,9528,8008,Hunter's Potion,Mercury's Treads,Enchantment: Cinderhulk,Trinity Force,,,19967,111277,Lane.jungle,Role.none
+4,Dirty Dps,Shaco,False,Side.blue,6,10,1,0.7,117,Teleport,Ignite,13,True,8771,8700,Corrupting Potion,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Aether Wisp,,38189,19754,Lane.top_lane,Role.solo
+5,TwitchTvSysnickl,Maokai,True,Side.red,4,3,8,4.0,108,Smite,Flash,13,False,9646,9425,Enchantment: Cinderhulk,Refillable Potion,Giant's Belt,Mercury's Treads,Frozen Heart,Spectre's Cowl,70511,29668,Lane.jungle,Role.none
+6,PAX Twisted Fate,Twisted Fate,True,Side.red,8,0,9,17.0,220,Ghost,Flash,16,False,13687,13100,Doran's Ring,Zhonya's Hourglass,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Abyssal Scepter,148297,16938,Lane.mid_lane,Role.solo
+7,Natalia Dyer,Riven,True,Side.red,8,7,4,1.7142857142857142,155,Flash,Teleport,14,False,10178,9475,The Black Cleaver,Refillable Potion,Maw of Malmortius,Serrated Dirk,Boots of Swiftness,Null-Magic Mantle,0,101252,Lane.top_lane,Role.solo
+8,TDK Tr4nce,Bard,True,Side.red,3,1,19,22.0,14,Flash,Exhaust,13,False,9021,8725,Ruby Sightstone,Locket of the Iron Solari,Redemption,Control Ward,Boots of Mobility,Ruby Crystal,13606,6702,Lane.bot_lane,Role.support
+9,Jummychu,Jhin,True,Side.red,7,2,8,7.5,172,Flash,Heal,13,False,11197,10850,Youmuu's Ghostblade,Rapid Firecannon,Infinity Edge,Boots of Swiftness,Doran's Blade,,3706,90856,Lane.bot_lane,Role.carry

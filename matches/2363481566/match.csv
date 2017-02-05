@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,swordstoo,Jinx,True,Side.blue,7,5,12,3.8,100,Heal,Flash,11,False,8907,7675,Doran's Blade,Runaan's Hurricane,Pickaxe,Cloak of Agility,B. F. Sword,Berserker's Greaves,877,58737,Lane.bot_lane,Role.carry
+1,Love Chi,Diana,True,Side.blue,7,1,5,12.0,113,Ignite,Flash,12,False,8362,6950,Doran's Ring,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,56663,14510,Lane.mid_lane,Role.solo
+2,TRUMPSSMALLHANDS,Jarvan IV,True,Side.blue,7,2,15,11.0,63,Flash,Smite,12,False,9076,7525,Enchantment: Warrior,Randuin's Omen,Refillable Potion,Ninja Tabi,Null-Magic Mantle,Cloth Armor,2150,66596,Lane.jungle,Role.none
+3,AbsurdDC,Fiora,True,Side.blue,7,4,6,3.25,114,Flash,Teleport,13,False,9286,7550,Ravenous Hydra,The Black Cleaver,Doran's Blade,,Boots of Speed,,894,68809,Lane.top_lane,Role.solo
+4,SPgodRESH,Thresh,True,Side.blue,3,6,11,2.3333333333333335,11,Ignite,Flash,9,False,6121,5750,Redemption,Control Ward,Ruby Sightstone,Relic Shield,Boots of Mobility,,6799,2137,Lane.bot_lane,Role.support
+5,Dunkaholic,Ivern,False,Side.red,2,5,4,1.2,62,Flash,Smite,10,False,6258,5675,Redemption,Athene's Unholy Grail,Boots of Swiftness,Hunter's Talisman,,,8852,3919,Lane.jungle,Role.none
+6,Turb,Caitlyn,False,Side.red,6,8,5,1.375,107,Flash,Heal,10,False,7803,8000,Cloak of Agility,Pickaxe,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Control Ward,1686,63777,Lane.bot_lane,Role.carry
+7,Doctor Krieger,Lux,False,Side.red,0,5,5,1.0,125,Ghost,Flash,11,False,5921,4700,Doran's Ring,Morellonomicon,Refillable Potion,Sorcerer's Shoes,,,48601,10090,Lane.mid_lane,Role.solo
+8,Anita,Zilean,False,Side.red,4,6,7,1.8333333333333333,22,Ignite,Flash,10,False,6205,6050,Frostfang,Total Biscuit of Rejuvenation,Sightstone,Sorcerer's Shoes,Rod of Ages,,17453,3588,Lane.bot_lane,Role.support
+9,Osiito,Kled,False,Side.red,6,7,3,1.2857142857142858,120,Flash,Teleport,12,True,7399,7325,The Black Cleaver,Titanic Hydra,Refillable Potion,,Boots of Speed,,360,66182,Lane.top_lane,Role.solo

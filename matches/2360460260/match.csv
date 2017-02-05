@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Captain Kat,Katarina,False,Side.blue,5,3,5,3.3333333333333335,114,Ignite,Flash,12,False,8202,7700,The Dark Seal,Refillable Potion,Sorcerer's Shoes,Sunfire Cape,Rylai's Crystal Scepter,,57087,8704,Lane.top_lane,Role.solo
+1,Progenitor,Elise,False,Side.blue,7,8,4,1.375,78,Flash,Smite,12,False,8968,7535,Enchantment: Runic Echoes,Hextech Protobelt-01,Hunter's Potion,Sorcerer's Shoes,Ruby Crystal,Amplifying Tome,52938,17993,Lane.jungle,Role.none
+2,Galdrick,Janna,False,Side.blue,0,7,7,1.0,6,Flash,Exhaust,9,False,6461,6175,Sightstone,Redemption,Control Ward,Boots of Mobility,Frostfang,Aegis of the Legion,4054,2261,Lane.bot_lane,Role.support
+3,IQ is 201 ,Yasuo,False,Side.blue,3,10,3,0.6,91,Flash,Exhaust,10,False,7136,6990,Giant's Belt,Doran's Blade,Boots of Speed,Phantom Dancer,Doran's Blade,Jaurim's Fist,11297,44534,Lane.mid_lane,Role.solo
+4,Mckenize,Ezreal,False,Side.blue,5,7,3,1.1428571428571428,95,Heal,Flash,10,False,7677,7125,Doran's Blade,Ionian Boots of Lucidity,Cull,Manamune,,Iceborn Gauntlet,8740,42602,Lane.bot_lane,Role.carry
+5,PauseNow,Jinx,True,Side.red,6,5,9,3.0,183,Heal,Flash,13,False,10833,8250,Infinity Edge,Runaan's Hurricane,,Doran's Blade,Cull,Berserker's Greaves,2454,109805,Lane.bot_lane,Role.carry
+6,Psymmitree,Poppy,True,Side.red,1,2,9,5.0,117,Teleport,Flash,13,False,7821,7450,Corrupting Potion,,,Sunfire Cape,Spirit Visage,Mercury's Treads,8036,44954,Lane.top_lane,Role.solo
+7,Boatsanhoes,Diana,True,Side.red,13,4,12,6.25,104,Teleport,Flash,12,True,10876,9345,Doran's Ring,Rylai's Crystal Scepter,Rod of Ages,Sorcerer's Shoes,Fiendish Codex,Negatron Cloak,65387,11826,Lane.mid_lane,Role.carry
+8,MyDlckCanFloat,Lee Sin,True,Side.red,13,6,12,4.166666666666667,55,Smite,Flash,12,False,10780,10400,Mercury's Treads,Enchantment: Warrior,The Black Cleaver,Sterak's Gage,Long Sword,Long Sword,13128,62221,Lane.mid_lane,Role.support
+9,Spornts,Lulu,True,Side.red,2,3,20,7.333333333333333,8,Flash,Exhaust,11,False,8512,7675,Eye of the Watchers,Aether Wisp,Ionian Boots of Lucidity,Forbidden Idol,The Dark Seal,Redemption,12655,5385,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Crememe,Jhin,False,Side.blue,3,6,5,1.3333333333333333,106,Flash,Heal,10,True,7239,6675,Doran's Blade,Zeal,Boots of Swiftness,Essence Reaver,,,2360,55799,Lane.bot_lane,Role.carry
+1,Boatsanhoes,Brand,False,Side.blue,4,7,4,1.1428571428571428,37,Flash,Ignite,10,False,7402,7160,Giant's Belt,Ionian Boots of Lucidity,Sightstone,Frost Queen's Claim,Needlessly Large Rod,Amplifying Tome,22678,3469,Lane.bot_lane,Role.support
+2,MyDlckCanFloat,Lee Sin,False,Side.blue,5,8,5,1.25,104,Smite,Flash,12,False,8053,7650,Boots of Mobility,Enchantment: Warrior,The Black Cleaver,Ruby Crystal,,,12974,66569,Lane.jungle,Role.none
+3,Asura SD,Orianna,False,Side.blue,1,5,4,1.0,143,Flash,Ghost,12,False,7329,6195,Morellonomicon,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Fiendish Codex,Doran's Ring,Negatron Cloak,67812,11049,Lane.mid_lane,Role.solo
+4,Stessy Poirier,Tryndamere,False,Side.blue,2,6,1,0.5,143,Flash,Teleport,12,False,7646,7175,Bilgewater Cutlass,Ninja Tabi,Doran's Blade,Doran's Blade,Doran's Shield,Statikk Shiv,10269,67416,Lane.top_lane,Role.solo
+5,Smartcloud,Janna,True,Side.red,2,7,15,2.4285714285714284,11,Flash,Exhaust,12,False,8557,6525,Control Ward,Redemption,Eye of the Oasis,Ionian Boots of Lucidity,Aegis of the Legion,,5365,4049,Lane.bot_lane,Role.support
+6,Garani,Shyvana,True,Side.red,3,2,12,7.5,142,Smite,Ghost,14,False,11173,9175,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Giant's Belt,Mercury's Treads,Chain Vest,76946,64856,Lane.jungle,Role.none
+7,GodMeru,Jayce,True,Side.red,10,1,6,16.0,177,Flash,Teleport,16,False,12825,10475,Doran's Blade,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,Ionian Boots of Lucidity,Muramana,23074,119345,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,6,3,5,3.6666666666666665,164,Flash,Heal,12,False,10866,10525,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,,Berserker's Greaves,,735,105741,Lane.bot_lane,Role.carry
+9,Program,Ahri,True,Side.red,11,2,4,7.5,148,Ignite,Flash,14,False,12247,9785,Hextech Gunblade,Morellonomicon,Doran's Ring,Ionian Boots of Lucidity,Needlessly Large Rod,Amplifying Tome,60596,15270,Lane.mid_lane,Role.solo

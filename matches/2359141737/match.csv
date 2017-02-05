@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WT Spectator,Lee Sin,True,Side.blue,5,3,8,4.333333333333333,137,Flash,Smite,13,False,9426,9350,Boots of Mobility,Ravenous Hydra,Long Sword,Tracker's Knife,The Black Cleaver,Long Sword,11979,101810,Lane.jungle,Role.none
+1,West Coast Carry,Jayce,True,Side.blue,8,3,5,4.333333333333333,101,Flash,Teleport,11,False,8933,8350,Doran's Blade,Youmuu's Ghostblade,Doran's Blade,Boots of Speed,Lord Dominik's Regards,Caulfield's Warhammer,9937,54049,Lane.top_lane,Role.solo
+2,aShady,Nautilus,True,Side.blue,5,3,12,5.666666666666667,17,Ignite,Flash,10,True,7289,6075,Iceborn Gauntlet,Boots of Mobility,Eye of the Equinox,,,,10638,6861,Lane.jungle,Role.none
+3,CC Hollywood,Ekko,True,Side.blue,10,2,4,7.0,146,Teleport,Flash,13,False,10402,9875,Abyssal Scepter,Corrupting Potion,Giant's Belt,Sorcerer's Shoes,Lich Bane,Needlessly Large Rod,75284,17225,Lane.mid_lane,Role.solo
+4,Henrÿ,Vayne,True,Side.blue,4,3,7,3.6666666666666665,120,Flash,Heal,11,False,9512,7175,Doran's Blade,Cull,Refillable Potion,Infinity Edge,Berserker's Greaves,Zeal,0,77728,Lane.bot_lane,Role.solo
+5,bvcx222,Bard,False,Side.red,0,8,5,0.625,10,Flash,Ignite,9,False,4912,3450,Ruby Sightstone,Total Biscuit of Rejuvenation,Spellthief's Edge,Control Ward,,Boots of Mobility,5753,3576,Lane.bot_lane,Role.support
+6,MaNDashwell,Ziggs,False,Side.red,5,6,1,1.0,108,Flash,Exhaust,11,False,7016,5600,Needlessly Large Rod,,Sorcerer's Shoes,Tear of the Goddess,Fiendish Codex,Aether Wisp,57139,6911,Lane.mid_lane,Role.solo
+7,YummiBananas,Ashe,False,Side.red,3,8,7,1.25,89,Heal,Flash,10,False,6786,5800,Essence Reaver,Refillable Potion,Berserker's Greaves,Cull,Doran's Blade,,845,39340,Lane.bot_lane,Role.carry
+8,im Dusk,Rek'Sai,False,Side.red,4,5,6,2.0,79,Smite,Flash,11,False,7277,5550,Refillable Potion,Tiamat,Control Ward,Ninja Tabi,Enchantment: Cinderhulk,Ruby Crystal,14561,52469,Lane.jungle,Role.none
+9,TheSevenLegends,Yorick,False,Side.red,2,5,1,0.6,133,Flash,Teleport,11,False,7422,4783,Trinity Force,Cloth Armor,Boots of Speed,,,,7532,63168,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,YaThatWasABanana,Soraka,False,Side.blue,1,5,10,2.2,9,Flash,Exhaust,11,False,7534,6975,Ionian Boots of Lucidity,Redemption,Refillable Potion,Eye of the Oasis,Aegis of the Legion,Null-Magic Mantle,4025,2653,Lane.bot_lane,Role.support
+1,singed420,Singed,False,Side.blue,2,8,6,1.0,159,Ghost,Teleport,14,False,9206,8050,Seraph's Embrace,Corrupting Potion,Mercury's Treads,The Dark Seal,Rod of Ages,Cloth Armor,101640,5577,Lane.top_lane,Role.solo
+2,7788 ADC,Graves,False,Side.blue,6,8,4,1.25,139,Heal,Flash,12,True,9627,8775,Death's Dance,Runaan's Hurricane,,Doran's Blade,Vampiric Scepter,Berserker's Greaves,951,82227,Lane.bot_lane,Role.carry
+3,TheOddOrange,Lee Sin,False,Side.blue,5,6,5,1.6666666666666667,189,Flash,Smite,15,False,10762,9575,Titanic Hydra,Enchantment: Warrior,Giant's Belt,Ionian Boots of Lucidity,Chain Vest,Null-Magic Mantle,28657,123313,Lane.jungle,Role.none
+4,ejzk,Gangplank,False,Side.blue,1,5,5,1.2,157,Exhaust,Flash,13,False,9194,8783,Trinity Force,Youmuu's Ghostblade,Pickaxe,Boots of Swiftness,,,4414,99485,Lane.mid_lane,Role.solo
+5,sensei cat,Xin Zhao,True,Side.red,9,2,4,6.5,164,Smite,Flash,15,False,12325,11108,Ravenous Hydra,Refillable Potion,Berserker's Greaves,Trinity Force,Enchantment: Warrior,,12579,161184,Lane.jungle,Role.none
+6,1deag,Sona,True,Side.red,2,4,19,5.25,6,Exhaust,Flash,12,False,8708,8575,Eye of the Watchers,Redemption,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,Forbidden Idol,9226,5148,Lane.bot_lane,Role.support
+7,Rohammers,Ekko,True,Side.red,7,4,10,4.25,152,Teleport,Flash,14,False,11077,9400,Hextech Protobelt-01,Corrupting Potion,Lich Bane,The Dark Seal,Mercury's Treads,Seeker's Armguard,91285,17874,Lane.top_lane,Role.solo
+8,Adrian Riven,Riven,True,Side.red,7,3,13,6.666666666666667,143,Teleport,Flash,14,False,11092,10850,Youmuu's Ghostblade,Duskblade of Draktharr,Boots of Swiftness,The Black Cleaver,Long Sword,,281,107836,Lane.jungle,Role.none
+9,Honi,Caitlyn,True,Side.red,7,2,13,10.0,201,Flash,Heal,15,False,12406,10600,Infinity Edge,Runaan's Hurricane,Control Ward,Berserker's Greaves,Rapid Firecannon,Doran's Blade,2413,152657,Lane.bot_lane,Role.carry

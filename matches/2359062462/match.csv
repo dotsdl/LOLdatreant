@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Beastr0,Jarvan IV,True,Side.blue,1,5,9,2.0,48,Exhaust,Flash,10,False,7561,6750,Sightstone,Face of the Mountain,Glacial Shroud,Warden's Mail,Control Ward,Ninja Tabi,874,28938,Lane.bot_lane,Role.support
+1,Sorye Ge T0n,Jhin,True,Side.blue,6,2,6,6.0,173,Flash,Heal,13,False,10828,9850,Doran's Blade,Essence Reaver,Cloak of Agility,Boots of Swiftness,Rapid Firecannon,B. F. Sword,8032,109724,Lane.bot_lane,Role.carry
+2,Hironsy,Ekko,True,Side.blue,0,1,4,4.0,148,Teleport,Flash,13,False,8451,8300,Ninja Tabi,Hextech Protobelt-01,Iceborn Gauntlet,Doran's Ring,Doran's Ring,Blasting Wand,67927,19113,Lane.jungle,Role.none
+3,RealTeemo,Teemo,True,Side.blue,11,5,5,3.2,172,Ignite,Flash,15,False,12214,9075,Doran's Ring,Refillable Potion,Haunting Guise,Void Staff,Nashor's Tooth,Sorcerer's Shoes,67786,32221,Lane.jungle,Role.none
+4,XinZhaoWinNhao,Master Yi,True,Side.blue,12,2,3,7.5,151,Ghost,Smite,15,False,12954,12275,,,,,,,4105,144759,Lane.jungle,Role.none
+5,CPWzzz,Graves,False,Side.red,3,6,5,1.3333333333333333,211,Teleport,Flash,13,True,9884,8800,Maw of Malmortius,Berserker's Greaves,Control Ward,Death's Dance,Dagger,Doran's Blade,1644,136291,Lane.mid_lane,Role.solo
+6,절대충성꼬봉,Lissandra,False,Side.red,3,8,2,0.625,171,Teleport,Flash,13,False,8441,8525,Zhonya's Hourglass,Hextech Protobelt-01,Ionian Boots of Lucidity,Blasting Wand,Doran's Ring,,93113,8599,Lane.top_lane,Role.solo
+7,Supercilious,Nocturne,False,Side.red,3,7,4,1.0,110,Flash,Smite,11,False,7854,7725,Enchantment: Bloodrazor,Hunter's Potion,Zz'Rot Portal,Boots of Speed,Jaurim's Fist,Long Sword,3095,84210,Lane.jungle,Role.none
+8,26209633,Braum,False,Side.red,2,3,6,2.6666666666666665,23,Flash,Ignite,10,False,6102,6000,Ruby Sightstone,Knight's Vow,Control Ward,Relic Shield,Mercury's Treads,,6131,3937,Lane.bot_lane,Role.support
+9,Japanese is SB,Ezreal,False,Side.red,4,6,2,1.0,136,Flash,Heal,12,False,8390,8000,Doran's Blade,Refillable Potion,Manamune,Vampiric Scepter,Iceborn Gauntlet,Ionian Boots of Lucidity,13353,58600,Lane.bot_lane,Role.carry

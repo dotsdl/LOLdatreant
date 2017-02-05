@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,fml kms,Lulu,True,Side.blue,3,4,14,4.25,21,Flash,Exhaust,12,False,9726,8800,Frost Queen's Claim,Redemption,Sightstone,Ardent Censer,Ionian Boots of Lucidity,,17028,6501,Lane.bot_lane,Role.support
+1,Victim Of Talent,Orianna,True,Side.blue,9,3,12,7.0,202,Ignite,Flash,16,False,13221,11650,Doran's Ring,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,,140547,17301,Lane.mid_lane,Role.solo
+2,RedCoupa,Jinx,True,Side.blue,11,1,9,20.0,190,Flash,Heal,15,True,13801,11775,Quicksilver Sash,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,Rapid Firecannon,3020,144930,Lane.bot_lane,Role.carry
+3,thecomedownx,Pantheon,True,Side.blue,7,4,5,3.0,103,Flash,Ignite,13,False,10277,9400,Corrupting Potion,Edge of Night,Control Ward,Mercury's Treads,Duskblade of Draktharr,Hexdrinker,8332,66891,Lane.top_lane,Role.solo
+4,UnbearableBear,Volibear,True,Side.blue,4,1,13,17.0,155,Smite,Flash,15,False,11242,10325,Enchantment: Cinderhulk,Spirit Visage,Control Ward,Cloth Armor,Dead Man's Plate,Mercury's Treads,46058,69279,Lane.jungle,Role.none
+5,Cotopaco Parce,Varus,False,Side.red,0,6,8,1.3333333333333333,181,Ghost,Flash,14,False,8679,7775,Manamune,Maw of Malmortius,Corrupting Potion,Ionian Boots of Lucidity,Long Sword,,5561,116042,Lane.mid_lane,Role.solo
+6,BoBsMiTh,Rumble,False,Side.red,2,9,2,0.4444444444444444,224,Teleport,Flash,14,False,9851,9060,Doran's Shield,Hextech Protobelt-01,Seeker's Armguard,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,118937,12876,Lane.top_lane,Role.solo
+7,Captain Pabst,Amumu,False,Side.red,6,6,1,1.1666666666666667,95,Smite,Flash,13,False,8749,8630,Enchantment: Cinderhulk,Negatron Cloak,Sorcerer's Shoes,Frozen Heart,Fiendish Codex,Amplifying Tome,71600,16905,Lane.jungle,Role.none
+8,Rekyn,Morgana,False,Side.red,2,7,6,1.1428571428571428,25,Flash,Exhaust,11,False,7984,7550,Frost Queen's Claim,Redemption,Sightstone,Boots of Mobility,Aegis of the Legion,,16592,4364,Lane.bot_lane,Role.support
+9,SJC Cali,Ezreal,False,Side.red,3,6,3,1.0,132,Flash,Heal,12,False,8433,7700,Doran's Blade,Refillable Potion,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,Vampiric Scepter,15738,60610,Lane.bot_lane,Role.carry

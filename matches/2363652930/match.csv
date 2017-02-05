@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lerky,Shaco,True,Side.blue,10,1,6,16.0,118,Smite,Ignite,15,False,11762,9950,Hextech Gunblade,Ruby Crystal,Tiamat,Boots of Mobility,Jaurim's Fist,Enchantment: Warrior,24149,84663,Lane.jungle,Role.none
+1,Screamer,Jhin,True,Side.blue,12,3,7,6.333333333333333,194,Heal,Flash,14,True,13953,12950,Rapid Firecannon,Ionian Boots of Lucidity,Infinity Edge,Essence Reaver,B. F. Sword,Long Sword,11933,150986,Lane.bot_lane,Role.carry
+2,TheRickestRlCK,Poppy,True,Side.blue,2,8,4,0.75,131,Flash,Teleport,13,False,9192,7675,Corrupting Potion,Sunfire Cape,Control Ward,Iceborn Gauntlet,Boots of Speed,Spectre's Cowl,19900,53249,Lane.top_lane,Role.solo
+3,Sheiden,Kennen,True,Side.blue,4,4,4,2.0,196,Teleport,Flash,14,False,11051,8325,Doran's Shield,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Seeker's Armguard,,90033,24779,Lane.mid_lane,Role.solo
+4,Philolol,Thresh,True,Side.blue,3,1,17,20.0,1,Exhaust,Flash,12,False,9230,8250,Nomad's Medallion,Knight's Vow,Ionian Boots of Lucidity,Redemption,Control Ward,Ruby Sightstone,7680,3844,Lane.bot_lane,Role.support
+5,Hyosung,Sivir,False,Side.red,0,3,1,0.3333333333333333,85,Flash,Heal,9,False,5905,5150,Doran's Blade,Essence Reaver,Boots of Speed,Cull,Dagger,,0,35270,Lane.bot_lane,Role.carry
+6,eRx,Brand,False,Side.red,0,9,4,0.4444444444444444,27,Ignite,Flash,10,False,5897,5185,Frost Queen's Claim,Sightstone,,Ruby Crystal,Amplifying Tome,Sorcerer's Shoes,11810,2778,Lane.bot_lane,Role.support
+7,Betabet,Ahri,False,Side.red,5,7,3,1.1428571428571428,145,Flash,Ignite,14,False,8743,7485,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Doran's Ring,Amplifying Tome,Blasting Wand,43762,15958,Lane.mid_lane,Role.solo
+8,Nikkone,Fiddlesticks,False,Side.red,2,7,4,0.8571428571428571,111,Flash,Smite,11,False,7285,6045,Enchantment: Runic Echoes,Boots of Speed,Needlessly Large Rod,Amplifying Tome,Amplifying Tome,Blasting Wand,66459,9292,Lane.jungle,Role.none
+9,ily and ily,Riven,False,Side.red,10,5,2,2.4,160,Flash,Teleport,14,False,10452,9950,Doran's Blade,Mercury's Treads,Death's Dance,Tiamat,The Black Cleaver,Long Sword,1959,95484,Lane.top_lane,Role.solo

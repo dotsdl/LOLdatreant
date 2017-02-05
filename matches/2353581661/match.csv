@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KiteAzure,Riven,True,Side.blue,11,2,5,8.0,178,Flash,Teleport,14,True,12443,10475,The Black Cleaver,Ravenous Hydra,Refillable Potion,Caulfield's Warhammer,Mercury's Treads,Hexdrinker,0,117553,Lane.top_lane,Role.solo
+1,starfui,Sivir,True,Side.blue,4,6,8,2.0,165,Heal,Flash,13,False,10049,9500,Essence Reaver,Infinity Edge,Berserker's Greaves,Dagger,Doran's Blade,Dagger,0,107817,Lane.bot_lane,Role.carry
+2,OpenBackpack,Syndra,True,Side.blue,13,1,5,18.0,198,Flash,Ghost,15,False,13132,11750,Rylai's Crystal Scepter,Rabadon's Deathcap,Sorcerer's Shoes,,Morellonomicon,Doran's Ring,130392,16617,Lane.mid_lane,Role.solo
+3,Unstopebble,Morgana,True,Side.blue,2,0,20,22.0,15,Flash,Exhaust,13,False,9612,8260,Eye of the Watchers,Mikael's Crucible,Redemption,,Boots of Mobility,Amplifying Tome,17407,5703,Lane.bot_lane,Role.support
+4,Glader,Zac,True,Side.blue,1,2,13,7.0,69,Flash,Smite,13,False,8459,7500,Enchantment: Cinderhulk,Refillable Potion,Cloth Armor,Spirit Visage,Cloth Armor,Mercury's Treads,51338,17732,Lane.jungle,Role.none
+5,Valarax,Alistar,False,Side.red,1,7,6,1.0,33,Exhaust,Flash,10,False,6179,5600,Face of the Mountain,Sightstone,Control Ward,Boots of Mobility,Aegis of the Legion,,10277,5436,Lane.bot_lane,Role.support
+6,vic ly,Ryze,False,Side.red,2,8,1,0.375,132,Ghost,Flash,11,False,7682,7200,Refillable Potion,Archangel's Staff,Sorcerer's Shoes,Rod of Ages,,,60871,5982,Lane.mid_lane,Role.solo
+7,LOS MECHANICOS,Jax,False,Side.red,3,5,1,0.8,166,Teleport,Flash,12,False,8718,6908,Doran's Blade,Doran's Blade,Trinity Force,Vampiric Scepter,,Boots of Speed,20671,65107,Lane.top_lane,Role.solo
+8,xSojin,Sejuani,False,Side.red,3,3,4,2.3333333333333335,130,Smite,Flash,12,False,8512,7925,Ionian Boots of Lucidity,Refillable Potion,Randuin's Omen,Spectre's Cowl,Enchantment: Cinderhulk,,73225,20562,Lane.jungle,Role.none
+9,goompa,Ashe,False,Side.red,2,8,7,1.125,188,Heal,Flash,12,False,9442,9175,Berserker's Greaves,Doran's Blade,Pickaxe,Essence Reaver,Runaan's Hurricane,Dagger,2067,105809,Lane.bot_lane,Role.carry

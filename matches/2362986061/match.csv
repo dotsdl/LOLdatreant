@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LegendaryPIayer,Annie,True,Side.blue,8,5,7,3.0,131,Ignite,Flash,14,False,11369,9000,Doran's Ring,Aether Wisp,Sorcerer's Shoes,Doran's Ring,Abyssal Scepter,Rylai's Crystal Scepter,67639,7875,Lane.top_lane,Role.solo
+1,Morgageddon,Ziggs,True,Side.blue,11,4,9,5.0,170,Flash,Ignite,15,False,12822,11150,Doran's Ring,Morellonomicon,,Rylai's Crystal Scepter,Luden's Echo,Sorcerer's Shoes,123028,10356,Lane.mid_lane,Role.solo
+2,Braums Mustache,Tahm Kench,True,Side.blue,2,1,19,21.0,67,Flash,Exhaust,13,False,10827,10110,Boots of Swiftness,Sightstone,Face of the Mountain,Dead Man's Plate,Spectre's Cowl,Kindlegem,15579,12782,Lane.bot_lane,Role.duo
+3,Lukillz,Shyvana,True,Side.blue,7,2,10,8.5,180,Flash,Smite,15,False,13700,11950,Enchantment: Bloodrazor,Titanic Hydra,Ruby Crystal,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,62534,116330,Lane.jungle,Role.none
+4,Joker comics,Jhin,True,Side.blue,7,8,12,2.375,151,Flash,Heal,14,False,11767,9925,Essence Reaver,Doran's Blade,Boots of Swiftness,Rapid Firecannon,Pickaxe,B. F. Sword,11422,107966,Lane.bot_lane,Role.duo
+5,IAmFlashy,Kennen,False,Side.red,4,7,3,1.0,179,Teleport,Flash,14,False,9362,8820,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Blade,Negatron Cloak,Fiendish Codex,76240,23050,Lane.top_lane,Role.solo
+6,samsonn,Kog'Maw,False,Side.red,7,7,5,1.7142857142857142,172,Barrier,Flash,14,False,10122,9325,Luden's Echo,Doran's Ring,Sorcerer's Shoes,Tear of the Goddess,Void Staff,Fiendish Codex,98155,12144,Lane.mid_lane,Role.solo
+7,Relidic,Janna,False,Side.red,1,4,13,3.5,15,Flash,Exhaust,11,False,7658,7225,Locket of the Iron Solari,Refillable Potion,Sightstone,Ionian Boots of Lucidity,Redemption,Frostfang,5190,2899,Lane.bot_lane,Role.support
+8,UO Daniel Wu,Lee Sin,False,Side.red,4,10,6,1.0,103,Flash,Smite,13,True,8848,8295,Boots of Mobility,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Negatron Cloak,Chain Vest,18839,76508,Lane.jungle,Role.none
+9,StayGoldPonyBoy,Jinx,False,Side.red,4,7,7,1.5714285714285714,169,Flash,Heal,13,False,9476,8875,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Pickaxe,Doran's Blade,,947,104293,Lane.bot_lane,Role.carry

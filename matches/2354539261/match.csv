@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Daltmaster,Fizz,False,Side.blue,2,6,2,0.6666666666666666,97,Smite,Flash,12,False,7690,7258,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Null-Magic Mantle,Boots of Speed,,33315,50644,Lane.jungle,Role.none
+1,lI Rome Il,Karthus,False,Side.blue,2,4,3,1.25,192,Teleport,Flash,14,False,8817,7975,Rylai's Crystal Scepter,,Rod of Ages,Sorcerer's Shoes,,Tear of the Goddess,113769,2339,Lane.mid_lane,Role.solo
+2,TaIbot,Bard,False,Side.blue,3,10,6,0.9,12,Flash,Ignite,11,False,6992,6025,Sorcerer's Shoes,Eye of the Watchers,The Dark Seal,Sheen,Blasting Wand,,17152,5139,Lane.bot_lane,Role.support
+3,Treptar,Talon,False,Side.blue,3,6,3,1.0,166,Teleport,Flash,14,False,8711,8500,Youmuu's Ghostblade,Corrupting Potion,Boots of Swiftness,The Black Cleaver,Serrated Dirk,,1817,105365,Lane.top_lane,Role.solo
+4,ƒ x,Lucian,False,Side.blue,3,8,4,0.875,188,Heal,Flash,14,True,9869,9350,Doran's Blade,B. F. Sword,Essence Reaver,Rapid Firecannon,Boots of Swiftness,,5102,117931,Lane.bot_lane,Role.carry
+5,sparkytotoro,Fiora,True,Side.red,4,3,6,3.3333333333333335,146,Teleport,Flash,14,False,10184,9008,Ravenous Hydra,Trinity Force,Boots of Speed,Doran's Blade,Ruby Crystal,Long Sword,596,84569,Lane.top_lane,Role.solo
+6,Reh23,Tahm Kench,True,Side.red,2,3,20,7.333333333333333,47,Flash,Exhaust,13,False,9906,8500,Mercury's Treads,Sightstone,Null-Magic Mantle,Face of the Mountain,Aegis of the Legion,Knight's Vow,12031,8320,Lane.bot_lane,Role.support
+7,J0ey Karate,Azir,True,Side.red,7,1,6,13.0,213,Teleport,Flash,15,False,12681,11400,Berserker's Greaves,Nashor's Tooth,Rylai's Crystal Scepter,Void Staff,Blasting Wand,Doran's Ring,128909,13108,Lane.mid_lane,Role.solo
+8,Khaotic Blade,Lee Sin,True,Side.red,13,2,7,10.0,132,Flash,Smite,15,False,13002,10775,Tiamat,Enchantment: Warrior,Boots of Mobility,Guardian Angel,The Black Cleaver,Ruby Crystal,15101,118888,Lane.jungle,Role.none
+9,always plan ahea,Jhin,True,Side.red,8,4,6,3.5,179,Flash,Ignite,14,False,12677,11400,Rapid Firecannon,Essence Reaver,Berserker's Greaves,Infinity Edge,,,11310,121746,Lane.bot_lane,Role.carry

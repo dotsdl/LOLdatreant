@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Asian GirI,Varus,True,Side.blue,7,3,3,3.3333333333333335,172,Flash,Heal,12,False,10640,10025,Doran's Blade,B. F. Sword,Rapid Firecannon,Essence Reaver,Cloak of Agility,Berserker's Greaves,6043,86202,Lane.bot_lane,Role.carry
+1,PhD Bunny Riven,Riven,True,Side.blue,6,2,2,4.0,196,Flash,Teleport,14,False,10901,10400,Ravenous Hydra,Refillable Potion,Ninja Tabi,The Black Cleaver,B. F. Sword,Caulfield's Warhammer,1850,118344,Lane.top_lane,Role.solo
+2,IM IgNar,Nami,True,Side.blue,2,1,15,17.0,8,Exhaust,Flash,11,False,7416,5175,Spellthief's Edge,Redemption,Sightstone,Boots of Mobility,Null-Magic Mantle,Cloth Armor,5234,8556,Lane.bot_lane,Role.support
+3,Libzz,LeBlanc,True,Side.blue,6,0,8,14.0,93,Flash,Ignite,13,True,9532,6750,Doran's Ring,Needlessly Large Rod,Rod of Ages,,Sorcerer's Shoes,Blasting Wand,42378,12455,Lane.mid_lane,Role.solo
+4,Vinhdo,Rengar,True,Side.blue,5,3,9,4.666666666666667,126,Flash,Smite,13,False,10457,9150,Skirmisher's Sabre,Youmuu's Ghostblade,Edge of Night,Ionian Boots of Lucidity,Control Ward,B. F. Sword,9842,121140,Lane.jungle,Role.none
+5,FourofDiamonds,Orianna,False,Side.red,4,7,2,0.8571428571428571,131,Flash,Ghost,11,False,7252,7075,Doran's Ring,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,52311,9246,Lane.mid_lane,Role.solo
+6,Strength1232,Vayne,False,Side.red,1,7,2,0.42857142857142855,92,Flash,Heal,10,False,5720,4800,Doran's Blade,Dagger,Caulfield's Warhammer,Dagger,Berserker's Greaves,B. F. Sword,449,40736,Lane.bot_lane,Role.carry
+7,Skymark,Malphite,False,Side.red,0,3,2,0.6666666666666666,98,Flash,Teleport,10,False,5552,4050,Doran's Shield,Sunfire Cape,Sapphire Crystal,Boots of Speed,,,28027,10114,Lane.top_lane,Role.solo
+8,MattDeitz,Kha'Zix,False,Side.red,3,4,1,1.0,95,Flash,Smite,11,False,6477,6375,Hexdrinker,Enchantment: Warrior,Ninja Tabi,Caulfield's Warhammer,,,2964,64519,Lane.jungle,Role.none
+9,Eddy tha God,Sona,False,Side.red,1,5,4,1.0,5,Exhaust,Flash,9,False,5406,4775,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Forbidden Idol,Crystalline Bracer,,6703,2938,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Doctus Rex,Thresh,False,Side.blue,0,7,8,1.1428571428571428,14,Exhaust,Flash,9,False,5059,4600,Sightstone,Face of the Mountain,Boots of Mobility,Cloth Armor,,,5414,3921,Lane.bot_lane,Role.support
+1,Elo Vandal,Caitlyn,False,Side.blue,2,7,5,1.0,96,Heal,Flash,9,False,5980,5125,Doran's Blade,B. F. Sword,Cull,Berserker's Greaves,Cloak of Agility,Pickaxe,421,41701,Lane.bot_lane,Role.carry
+2,Łayne,Yasuo,False,Side.blue,0,6,1,0.16666666666666666,135,Flash,Teleport,12,False,5978,5440,Phantom Dancer,Jaurim's Fist,Mercury's Treads,Cloth Armor,,,16566,41720,Lane.top_lane,Role.solo
+3,Lord Goose,Ryze,False,Side.blue,5,4,1,1.5,102,Ghost,Flash,11,False,6659,6375,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Tear of the Goddess,Lost Chapter,Fiendish Codex,43628,9187,Lane.mid_lane,Role.solo
+4,Krypt,Graves,False,Side.blue,5,7,2,1.0,115,Flash,Smite,11,False,7320,6350,Refillable Potion,Hexdrinker,Control Ward,Caulfield's Warhammer,Enchantment: Warrior,Berserker's Greaves,2595,83103,Lane.jungle,Role.none
+5,Yuki Asuna,Lulu,True,Side.red,3,3,12,5.0,6,Exhaust,Flash,11,True,7919,7225,Locket of the Iron Solari,Redemption,Sightstone,Boots of Mobility,Control Ward,Frostfang,11090,6101,Lane.bot_lane,Role.support
+6,I am Risk,Vayne,True,Side.red,10,3,6,5.333333333333333,114,Flash,Heal,11,False,9381,9075,Blade of the Ruined King,B. F. Sword,Berserker's Greaves,Doran's Blade,Phantom Dancer,,936,46215,Lane.bot_lane,Role.carry
+7,JuIius,Viktor,True,Side.red,4,0,3,7.0,184,Flash,Ghost,14,False,9711,9185,Perfect Hex Core,Amplifying Tome,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Blasting Wand,102377,14941,Lane.mid_lane,Role.solo
+8,rhubarbs,Pantheon,True,Side.red,8,3,5,4.333333333333333,145,Ignite,Flash,13,False,9843,9550,Corrupting Potion,Youmuu's Ghostblade,Ninja Tabi,Death's Dance,Serrated Dirk,Null-Magic Mantle,9232,75438,Lane.top_lane,Role.solo
+9,Asakura,Elise,True,Side.red,6,3,5,3.6666666666666665,80,Smite,Flash,12,False,9108,8920,Control Ward,Negatron Cloak,Fiendish Codex,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Sorcerer's Shoes,60138,22969,Lane.jungle,Role.none

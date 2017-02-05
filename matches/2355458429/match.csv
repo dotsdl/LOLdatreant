@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Carrots2,Gnar,True,Side.blue,5,4,1,1.5,171,Flash,Teleport,14,False,10973,9525,Doran's Shield,Warden's Mail,Ninja Tabi,Phage,Frozen Mallet,Banshee's Veil,10622,100280,Lane.top_lane,Role.solo
+1,Arcminute,Kassadin,True,Side.blue,14,3,8,7.333333333333333,182,Teleport,Flash,14,True,13247,11725,Ionian Boots of Lucidity,Corrupting Potion,Zhonya's Hourglass,Rabadon's Deathcap,Rod of Ages,Blasting Wand,85316,20065,Lane.mid_lane,Role.solo
+2,laugh for me,Thresh,True,Side.blue,2,1,14,16.0,37,Flash,Ignite,12,False,8399,6300,Ruby Sightstone,Relic Shield,Refillable Potion,Locket of the Iron Solari,Boots of Mobility,Crystalline Bracer,16258,11502,Lane.bot_lane,Role.support
+3,Making Sense,Vi,True,Side.blue,7,4,5,3.0,103,Smite,Flash,13,False,10262,10373,Mercury's Treads,Enchantment: Warrior,Trinity Force,Giant's Belt,Warden's Mail,Null-Magic Mantle,3290,113149,Lane.jungle,Role.none
+4,Projekt Yasuo,Jhin,True,Side.blue,6,2,7,6.5,201,Flash,Heal,14,False,11619,10225,Boots of Swiftness,Rapid Firecannon,Essence Reaver,Doran's Blade,B. F. Sword,Cloak of Agility,7465,126533,Lane.bot_lane,Role.carry
+5,McCashDollar,Shaco,False,Side.red,3,9,4,0.7777777777777778,48,Ignite,Smite,11,False,7870,6800,Stalker's Blade,Hextech Gunblade,Refillable Potion,The Dark Seal,Ionian Boots of Lucidity,Aether Wisp,20520,24363,Lane.jungle,Role.none
+6,TeddyRO,Caitlyn,False,Side.red,2,9,3,0.5555555555555556,133,Flash,Heal,12,False,7949,7225,Berserker's Greaves,Runaan's Hurricane,Pickaxe,B. F. Sword,Doran's Blade,Cloak of Agility,287,75797,Lane.bot_lane,Role.carry
+7,ChuYung,Jayce,False,Side.red,3,2,1,2.0,230,Teleport,Flash,14,False,10843,10850,Youmuu's Ghostblade,Caulfield's Warhammer,The Black Cleaver,Doran's Blade,Boots of Swiftness,Hexdrinker,20414,120340,Lane.top_lane,Role.solo
+8,EnVy Nien,LeBlanc,False,Side.red,6,9,4,1.1111111111111112,136,Flash,Teleport,13,False,8961,7900,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Abyssal Scepter,Morellonomicon,,66821,11318,Lane.mid_lane,Role.solo
+9,Aecinira,Bard,False,Side.red,0,5,7,1.4,10,Flash,Exhaust,11,False,6684,6025,Redemption,Eye of the Watchers,Refillable Potion,Boots of Mobility,Control Ward,,10543,3614,Lane.bot_lane,Role.support

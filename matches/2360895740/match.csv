@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,D L A N O D,Caitlyn,True,Side.blue,6,5,10,3.2,155,Heal,Flash,14,False,11502,10350,Infinity Edge,Runaan's Hurricane,Zeal,Kircheis Shard,Doran's Blade,Berserker's Greaves,1655,120250,Lane.bot_lane,Role.carry
+1,Drawing The Line,Nami,True,Side.blue,3,2,16,9.5,14,Flash,Exhaust,12,False,9671,8750,Locket of the Iron Solari,Redemption,,Eye of the Watchers,Null-Magic Mantle,Boots of Mobility,5035,5600,Lane.bot_lane,Role.support
+2,flonk the donk,Rumble,True,Side.blue,8,2,9,8.5,171,Flash,Teleport,15,False,11883,10700,Sorcerer's Shoes,Zhonya's Hourglass,Void Staff,Doran's Shield,Liandry's Torment,,99436,15027,Lane.top_lane,Role.solo
+3,KoolaidOath,Viktor,True,Side.blue,6,0,12,18.0,261,Ghost,Flash,16,False,13881,12300,Perfect Hex Core,Ionian Boots of Lucidity,Lich Bane,Doran's Ring,Rylai's Crystal Scepter,Blasting Wand,165587,16863,Lane.mid_lane,Role.solo
+4,wakefully,Zac,True,Side.blue,3,2,9,6.0,88,Flash,Smite,13,False,9721,8550,Warden's Mail,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Giant's Belt,Ionian Boots of Lucidity,56597,20788,Lane.jungle,Role.none
+5,Azerothir,Janna,False,Side.red,1,5,10,2.2,12,Flash,Exhaust,12,False,7645,6900,Redemption,Aegis of the Legion,Eye of the Oasis,Null-Magic Mantle,Ionian Boots of Lucidity,,6084,2664,Lane.bot_lane,Role.support
+6,Lyze,Twitch,False,Side.red,3,5,4,1.4,223,Heal,Flash,14,False,10724,9300,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,,Doran's Blade,388,130908,Lane.bot_lane,Role.carry
+7,Myloo,Yasuo,False,Side.red,1,5,4,1.0,214,Flash,Teleport,14,False,9780,9025,Mercury's Treads,Control Ward,Phantom Dancer,Hexdrinker,Frozen Mallet,Doran's Blade,26920,104638,Lane.top_lane,Role.solo
+8,AllAero,Orianna,False,Side.red,0,6,2,0.3333333333333333,147,Flash,Ghost,12,False,8080,7475,Sorcerer's Shoes,Morellonomicon,Refillable Potion,Doran's Ring,Needlessly Large Rod,Blasting Wand,73656,11036,Lane.mid_lane,Role.solo
+9,Dexima,Elise,False,Side.red,6,5,2,1.6,132,Flash,Smite,13,True,10341,9300,Enchantment: Runic Echoes,Sorcerer's Shoes,Spectre's Cowl,Rylai's Crystal Scepter,Kindlegem,,100235,28028,Lane.jungle,Role.none

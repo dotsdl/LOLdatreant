@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sapin,Twitch,True,Side.blue,19,5,3,4.4,187,Heal,Flash,15,True,16206,14480,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,The Bloodthirster,12423,134816,Lane.bot_lane,Role.carry
+1,Just Bad,Ryze,True,Side.blue,6,6,8,2.3333333333333335,176,Flash,Ghost,15,False,12229,10975,Blasting Wand,Seraph's Embrace,Rod of Ages,Rylai's Crystal Scepter,Ionian Boots of Lucidity,,128083,8382,Lane.mid_lane,Role.solo
+2,Zv Pickle,Jayce,True,Side.blue,9,7,8,2.4285714285714284,205,Flash,Teleport,16,False,14037,11625,Ionian Boots of Lucidity,Youmuu's Ghostblade,The Black Cleaver,Doran's Blade,Essence Reaver,,19859,133578,Lane.top_lane,Role.solo
+3,Omarut,Volibear,True,Side.blue,9,4,17,6.5,69,Smite,Ghost,14,False,12071,10875,Enchantment: Cinderhulk,Randuin's Omen,Spectre's Cowl,Dead Man's Plate,Ninja Tabi,,33449,48369,Lane.jungle,Role.none
+4,Hyades,Morgana,True,Side.blue,1,4,20,5.25,12,Exhaust,Flash,14,False,10321,8775,Sightstone,Redemption,Mikael's Crucible,Control Ward,Frost Queen's Claim,Ionian Boots of Lucidity,15122,5441,Lane.bot_lane,Role.support
+5,Oroshi,Tahm Kench,False,Side.red,5,7,7,1.7142857142857142,26,Exhaust,Flash,12,False,8340,8075,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,Cloth Armor,Eye of the Oasis,Cloth Armor,17964,4892,Lane.bot_lane,Role.support
+6,Fizzi,LeBlanc,False,Side.red,1,11,8,0.8181818181818182,139,Flash,Ignite,13,False,8652,8050,Abyssal Scepter,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,,Doran's Ring,79500,10121,Lane.mid_lane,Role.solo
+7,LiaoLiao,Vayne,False,Side.red,7,7,8,2.142857142857143,228,Heal,Flash,14,False,11926,11850,Doran's Blade,Phantom Dancer,Infinity Edge,Berserker's Greaves,Statikk Shiv,B. F. Sword,32886,92673,Lane.bot_lane,Role.carry
+8,UO Daniel Wu,Kha'Zix,False,Side.red,10,8,6,2.0,53,Flash,Smite,13,False,9720,8975,Refillable Potion,Youmuu's Ghostblade,Boots of Swiftness,Enchantment: Warrior,Serrated Dirk,B. F. Sword,3106,84715,Lane.jungle,Role.none
+9,z11  ,Jarvan IV,False,Side.red,3,11,9,1.0909090909090908,168,Flash,Teleport,14,False,9505,9705,Chain Vest,Titanic Hydra,Doran's Blade,The Black Cleaver,Ninja Tabi,,8413,88696,Lane.top_lane,Role.solo

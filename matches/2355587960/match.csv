@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mad Mandingo Man,Nami,True,Side.blue,1,0,12,13.0,8,Flash,Exhaust,10,False,5813,5050,Eye of the Watchers,Crystalline Bracer,Forbidden Idol,Boots of Mobility,Control Ward,Faerie Charm,3909,5471,Lane.bot_lane,Role.support
+1,Breakbot,Hecarim,True,Side.blue,4,0,7,11.0,118,Smite,Ghost,12,False,8050,7133,Skirmisher's Sabre,Trinity Force,Ionian Boots of Lucidity,Bami's Cinder,Hunter's Potion,,13929,97999,Lane.jungle,Role.none
+2,Cry Yeyu,Trundle,True,Side.blue,3,0,4,7.0,146,Flash,Teleport,13,False,7570,7100,Doran's Blade,Control Ward,Tiamat,Ninja Tabi,Spirit Visage,Bami's Cinder,18391,48677,Lane.top_lane,Role.solo
+3,Nintendo,Jhin,True,Side.blue,3,1,5,8.0,165,Flash,Heal,11,False,8118,7175,Zeal,Doran's Blade,Boots of Swiftness,Essence Reaver,Kircheis Shard,,1793,79971,Lane.bot_lane,Role.carry
+4,DaDieYan,LeBlanc,True,Side.blue,8,2,4,6.0,144,Flash,Ignite,12,False,8904,8275,Doran's Ring,Morellonomicon,Sorcerer's Shoes,The Dark Seal,Rylai's Crystal Scepter,Refillable Potion,69152,7752,Lane.mid_lane,Role.solo
+5,goompa,Shaco,False,Side.red,1,3,2,1.0,81,Smite,Flash,11,False,5853,5150,Ninja Tabi,Enchantment: Warrior,Tiamat,Refillable Potion,,,17005,52173,Lane.jungle,Role.none
+6,Noceur,Ahri,False,Side.red,0,6,1,0.16666666666666666,130,Ignite,Flash,11,False,5650,4535,Total Biscuit of Rejuvenation,Doran's Ring,Boots of Speed,Doran's Ring,Abyssal Scepter,Amplifying Tome,28842,10931,Lane.mid_lane,Role.solo
+7,Juvam,Janna,False,Side.red,1,5,2,0.6,5,Exhaust,Flash,8,False,4431,3925,Nomad's Medallion,Total Biscuit of Rejuvenation,Sightstone,Boots of Speed,Control Ward,Forbidden Idol,4492,1577,Lane.bot_lane,Role.support
+8,phongfrancis,Kalista,False,Side.red,1,2,1,1.0,128,Heal,Flash,9,True,6044,5575,Blade of the Ruined King,Total Biscuit of Rejuvenation,,Berserker's Greaves,Doran's Blade,Dagger,1146,45151,Lane.bot_lane,Role.carry
+9,Alchemíst,Maokai,False,Side.red,0,3,0,0.0,178,Teleport,Flash,12,False,6464,5300,Doran's Ring,Ninja Tabi,Sunfire Cape,Doran's Ring,,,73614,15789,Lane.top_lane,Role.solo

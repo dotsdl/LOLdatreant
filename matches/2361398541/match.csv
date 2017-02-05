@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hide under T bed,Malphite,True,Side.blue,3,0,5,8.0,241,Flash,Teleport,17,False,13187,9825,Corrupting Potion,Sorcerer's Shoes,Abyssal Scepter,Rod of Ages,Iceborn Gauntlet,,79934,58924,Lane.top_lane,Role.solo
+1,One way road,Bard,True,Side.blue,5,2,11,8.0,21,Flash,Ignite,14,True,11273,9450,Frost Queen's Claim,Ruby Sightstone,Redemption,Boots of Mobility,Zeke's Harbinger,,23623,6728,Lane.bot_lane,Role.support
+2,Blazinhot,Kassadin,True,Side.blue,4,2,5,4.5,193,Teleport,Flash,16,False,13210,11475,Corrupting Potion,Rod of Ages,Mercury's Treads,Morellonomicon,Lich Bane,Blasting Wand,107098,33749,Lane.mid_lane,Role.solo
+3,Anthøny,Lee Sin,True,Side.blue,11,5,7,3.6,191,Smite,Flash,17,False,15239,12225,Enchantment: Warrior,Tiamat,Youmuu's Ghostblade,Boots of Mobility,Maw of Malmortius,Spectre's Cowl,33997,172885,Lane.jungle,Role.none
+4,Puno Kasuy,Twitch,True,Side.blue,7,4,8,3.75,220,Barrier,Flash,15,False,14359,14250,Infinity Edge,Lord Dominik's Regards,Vampiric Scepter,Statikk Shiv,Berserker's Greaves,Runaan's Hurricane,10847,143146,Lane.bot_lane,Role.carry
+5,Gorki,Vladimir,False,Side.red,5,5,2,1.4,191,Flash,Ghost,14,False,10232,9975,Rylai's Crystal Scepter,Hextech Protobelt-01,Spirit Visage,Ionian Boots of Lucidity,,,101996,13370,Lane.mid_lane,Role.solo
+6,ImSuperGlue,Cho'Gath,False,Side.red,5,5,6,2.2,148,Smite,Ghost,14,False,10155,9850,Rylai's Crystal Scepter,Frozen Heart,Enchantment: Cinderhulk,Ninja Tabi,,,78206,27113,Lane.jungle,Role.none
+7,Kiwiglorious,Karma,False,Side.red,1,6,9,1.6666666666666667,23,Exhaust,Flash,12,False,7956,7475,Ardent Censer,Eye of the Watchers,Aegis of the Legion,Null-Magic Mantle,Ionian Boots of Lucidity,,15851,3504,Lane.bot_lane,Role.support
+8,CureUrDepression,Caitlyn,False,Side.red,2,9,4,0.6666666666666666,177,Heal,Flash,13,False,9867,9250,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Infinity Edge,Recurve Bow,Dagger,895,102832,Lane.bot_lane,Role.carry
+9,Bakka,Gnar,False,Side.red,0,5,2,0.4,226,Teleport,Flash,15,False,9696,8975,Spirit Visage,Frozen Mallet,Boots of Swiftness,Doran's Blade,Bami's Cinder,Cloth Armor,10759,115081,Lane.top_lane,Role.solo

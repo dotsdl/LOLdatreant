@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,amoureux de toi,Caitlyn,False,Side.blue,8,9,4,1.3333333333333333,194,Heal,Flash,12,True,11395,11350,Doran's Blade,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Long Sword,591,116757,Lane.bot_lane,Role.carry
+1,Adrian Riven,Riven,False,Side.blue,3,5,2,1.0,158,Teleport,Flash,14,False,9207,9025,Refillable Potion,Tiamat,The Black Cleaver,Mercury's Treads,Maw of Malmortius,,0,88486,Lane.top_lane,Role.solo
+2,Keegun,Pantheon,False,Side.blue,3,5,4,1.4,123,Smite,Flash,12,False,8744,8200,Enchantment: Warrior,Tiamat,Edge of Night,Long Sword,Boots of Speed,Ruby Crystal,5830,104251,Lane.jungle,Role.none
+3,The Tank Man,Janna,False,Side.blue,1,6,15,2.6666666666666665,15,Flash,Exhaust,12,False,7931,7675,Eye of the Oasis,Ardent Censer,Locket of the Iron Solari,Boots of Mobility,,,2850,3122,Lane.bot_lane,Role.support
+4,ZatsMod,Syndra,False,Side.blue,3,8,4,0.875,127,Flash,Ghost,12,False,8345,8300,Rylai's Crystal Scepter,Morellonomicon,,Doran's Ring,,Sorcerer's Shoes,77492,8959,Lane.mid_lane,Role.solo
+5,Huhi,Jayce,True,Side.red,12,3,5,5.666666666666667,218,Flash,Exhaust,16,False,13535,10825,Youmuu's Ghostblade,Edge of Night,Refillable Potion,,Duskblade of Draktharr,Ionian Boots of Lucidity,20124,131240,Lane.mid_lane,Role.solo
+6,TheOddOrange,Kha'Zix,True,Side.red,11,3,6,5.666666666666667,147,Flash,Smite,15,False,12832,11375,Tiamat,B. F. Sword,The Black Cleaver,Ionian Boots of Lucidity,Hexdrinker,Enchantment: Warrior,4337,164767,Lane.jungle,Role.none
+7,Pyrites,Lux,True,Side.red,2,4,13,3.75,28,Flash,Exhaust,12,False,9086,8175,Frost Queen's Claim,Sightstone,Luden's Echo,The Dark Seal,Ionian Boots of Lucidity,,23584,3851,Lane.bot_lane,Role.support
+8,Rhux,Kennen,True,Side.red,2,3,7,3.0,178,Flash,Teleport,14,False,10106,8575,Control Ward,Doran's Blade,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Blasting Wand,56610,30538,Lane.top_lane,Role.solo
+9,feed l0rd,Ezreal,True,Side.red,6,5,6,2.4,169,Flash,Heal,14,False,10681,9083,Vampiric Scepter,Muramana,Dagger,Doran's Blade,Ionian Boots of Lucidity,Trinity Force,20880,85243,Lane.bot_lane,Role.carry

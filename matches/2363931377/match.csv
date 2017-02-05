@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,II PH4NT0M II,Syndra,False,Side.blue,3,10,1,0.4,154,Flash,Ghost,12,False,8277,8075,Sorcerer's Shoes,Total Biscuit of Rejuvenation,The Dark Seal,Abyssal Scepter,Doran's Ring,Morellonomicon,82940,6997,Lane.mid_lane,Role.solo
+1,Strawberry Ice,Karma,False,Side.blue,0,4,8,2.0,12,Flash,Exhaust,12,False,7126,6735,Total Biscuit of Rejuvenation,Redemption,Boots of Swiftness,Forbidden Idol,Amplifying Tome,Eye of the Watchers,16032,4661,Lane.bot_lane,Role.support
+2,Lord Kuma,Darius,False,Side.blue,2,9,0,0.2222222222222222,208,Teleport,Flash,15,False,9176,8825,Doran's Shield,Refillable Potion,The Black Cleaver,Spirit Visage,Mercury's Treads,Giant's Belt,0,130591,Lane.top_lane,Role.solo
+3,Blackjaxxx,Graves,False,Side.blue,3,10,1,0.4,131,Flash,Smite,12,False,8102,7485,Enchantment: Warrior,Maw of Malmortius,Mercury's Treads,Dagger,,,5915,97998,Lane.jungle,Role.none
+4,Imaokai,Caitlyn,False,Side.blue,5,7,2,1.0,185,Heal,Flash,12,False,9949,9700,Doran's Blade,Infinity Edge,Runaan's Hurricane,Cull,Berserker's Greaves,Zeal,602,93597,Lane.bot_lane,Role.carry
+5,TG Maze,Swain,True,Side.red,15,2,6,10.5,197,Flash,Teleport,15,False,12977,10600,,Zhonya's Hourglass,Sorcerer's Shoes,Rod of Ages,Rylai's Crystal Scepter,Doran's Ring,100935,18098,Lane.top_lane,Role.solo
+6,Keon,Bard,True,Side.red,5,0,17,22.0,23,Exhaust,Flash,13,True,9585,8050,Eye of the Watchers,Redemption,Knight's Vow,Boots of Mobility,,,13071,6472,Lane.bot_lane,Role.support
+7,ecco,Twitch,True,Side.red,9,5,6,3.0,144,Heal,Flash,13,False,10900,9400,Runaan's Hurricane,Infinity Edge,Doran's Blade,Hexdrinker,Control Ward,Berserker's Greaves,1161,81082,Lane.bot_lane,Role.carry
+8,Thalies,Katarina,True,Side.red,9,4,6,3.75,172,Ignite,Flash,15,False,11463,9600,The Dark Seal,Blasting Wand,Sorcerer's Shoes,Hextech Gunblade,Rylai's Crystal Scepter,,112509,11435,Lane.mid_lane,Role.solo
+9,KT Score,Ivern,True,Side.red,2,2,17,9.5,95,Smite,Flash,14,False,10414,9275,Redemption,Hunter's Talisman,Locket of the Iron Solari,Mejai's Soulstealer,Athene's Unholy Grail,Ionian Boots of Lucidity,18592,9290,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RealTeemo,Teemo,True,Side.blue,8,1,4,12.0,163,Ignite,Flash,14,False,12104,11660,Doran's Ring,Amplifying Tome,Liandry's Torment,Morellonomicon,Nashor's Tooth,Sorcerer's Shoes,75271,37882,Lane.top_lane,Role.solo
+1,Jay Wilson Pyah,Jax,True,Side.blue,3,5,9,2.4,107,Flash,Smite,13,False,9997,8858,Enchantment: Bloodrazor,Hunter's Potion,Mercury's Treads,Trinity Force,Giant's Belt,,24213,84280,Lane.jungle,Role.none
+2,shlupy,Alistar,True,Side.blue,6,7,20,3.7142857142857144,49,Flash,Exhaust,13,True,11008,10150,Eye of the Equinox,Locket of the Iron Solari,Redemption,Knight's Vow,Control Ward,Boots of Mobility,14989,7407,Lane.bot_lane,Role.support
+3,normnormnorm,Vayne,True,Side.blue,21,6,9,5.0,194,Heal,Flash,14,False,16513,14425,Berserker's Greaves,Infinity Edge,The Bloodthirster,Statikk Shiv,Lord Dominik's Regards,,22384,131364,Lane.bot_lane,Role.carry
+4,Spooky B1ack,Karma,True,Side.blue,5,4,24,7.25,138,Flash,Exhaust,15,False,11620,11225,Needlessly Large Rod,Morellonomicon,Ionian Boots of Lucidity,Ardent Censer,Liandry's Torment,,60318,14979,Lane.mid_lane,Role.solo
+5,Reox Brightblade,Caitlyn,False,Side.red,4,11,6,0.9090909090909091,103,Flash,Heal,12,False,8055,7800,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,843,60533,Lane.bot_lane,Role.duo
+6,max677,Evelynn,False,Side.red,2,8,12,1.75,93,Smite,Ignite,13,False,8190,7600,Enchantment: Runic Echoes,Hextech Protobelt-01,Sorcerer's Shoes,Hunter's Potion,Fiendish Codex,,57743,16766,Lane.jungle,Role.none
+7,Economic Victory,Nautilus,False,Side.red,5,9,10,1.6666666666666667,56,Exhaust,Flash,13,False,8311,7825,Face of the Mountain,Knight's Vow,Sightstone,Control Ward,Boots of Mobility,Warden's Mail,28520,10289,Lane.bot_lane,Role.duo
+8,SimonmustGod,Malzahar,False,Side.red,5,7,9,2.0,173,Teleport,Flash,15,False,9961,8760,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,Ruby Crystal,88585,29453,Lane.mid_lane,Role.solo
+9,Mr Pinch,Kled,False,Side.red,6,8,5,1.375,124,Teleport,Flash,13,False,8766,7725,Doran's Blade,The Black Cleaver,Mercury's Treads,Tiamat,Hexdrinker,Long Sword,0,66164,Lane.top_lane,Role.solo

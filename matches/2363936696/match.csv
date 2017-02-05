@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pickletrout,Olaf,False,Side.blue,2,5,3,1.0,131,Ghost,Smite,12,False,8513,7775,Enchantment: Cinderhulk,Hunter's Potion,,Dead Man's Plate,Ionian Boots of Lucidity,Kindlegem,15972,78037,Lane.jungle,Role.none
+1,basaballfreak101,Caitlyn,False,Side.blue,1,5,2,0.6,169,Flash,Heal,11,False,8404,8300,Infinity Edge,Runaan's Hurricane,Cull,,Berserker's Greaves,,825,80707,Lane.bot_lane,Role.carry
+2,Skuhx,Lux,False,Side.blue,4,7,2,0.8571428571428571,162,Flash,Barrier,12,False,8566,7800,Health Potion,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Luden's Echo,,83121,12177,Lane.mid_lane,Role.solo
+3,TQS Zuardian,Trundle,False,Side.blue,6,7,2,1.1428571428571428,184,Teleport,Flash,14,True,10779,9633,Titanic Hydra,Trinity Force,Corrupting Potion,Ninja Tabi,,Chain Vest,1957,115602,Lane.top_lane,Role.solo
+4,TQS AllOutATK,Lulu,False,Side.blue,0,5,1,0.2,17,Flash,Exhaust,10,False,6039,5350,,Boots of Mobility,Redemption,Frost Queen's Claim,,,20366,2616,Lane.bot_lane,Role.support
+5,Nerf IWAY,Ivern,True,Side.red,1,2,19,10.0,16,Exhaust,Flash,12,False,7825,6300,,Sightstone,Redemption,Nomad's Medallion,Chalice of Harmony,Boots of Swiftness,9617,6249,Lane.bot_lane,Role.support
+6,JealousCloud,Kayle,True,Side.red,4,0,12,16.0,172,Ignite,Flash,15,False,10339,8408,Doran's Ring,Nashor's Tooth,Trinity Force,,,Sorcerer's Shoes,73557,38578,Lane.mid_lane,Role.solo
+7,Crey Joswick,Rengar,True,Side.red,17,1,5,22.0,145,Flash,Smite,14,False,13886,12000,Enchantment: Warrior,Tiamat,Ninja Tabi,Jaurim's Fist,Guardian Angel,The Black Cleaver,17652,139856,Lane.jungle,Role.none
+8,kys,Ezreal,True,Side.red,0,4,11,2.75,164,Flash,Heal,13,False,9469,7175,Iceborn Gauntlet,Ionian Boots of Lucidity,Refillable Potion,Cull,Doran's Blade,Manamune,15189,62660,Lane.bot_lane,Role.carry
+9,Kebin M,Riven,True,Side.red,7,6,1,1.3333333333333333,145,Flash,Teleport,14,False,10469,9175,Tiamat,Refillable Potion,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Long Sword,637,94499,Lane.top_lane,Role.solo

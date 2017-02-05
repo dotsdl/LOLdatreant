@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,on9 Team,Annie,False,Side.blue,4,3,0,1.3333333333333333,93,Teleport,Flash,9,False,5319,5225,Boots of Speed,Rylai's Crystal Scepter,,Catalyst of Aeons,,Doran's Ring,29934,7451,Lane.mid_lane,Role.solo
+1,Nroken Beck,Vayne,False,Side.blue,0,7,2,0.2857142857142857,79,Flash,Heal,7,False,4163,3125,Doran's Blade,Pickaxe,,Cull,,Berserker's Greaves,0,20446,Lane.bot_lane,Role.duo
+2,TehSinWithin,Nautilus,False,Side.blue,0,5,2,0.4,30,Flash,Exhaust,7,False,3372,3175,Boots of Speed,Eye of the Equinox,Cloth Armor,,,,7888,5089,Lane.bot_lane,Role.duo
+3,virginitythief,Aatrox,False,Side.blue,1,5,1,0.4,81,Teleport,Flash,9,False,4375,4300,Blade of the Ruined King,Doran's Shield,,Boots of Speed,,,16777,29181,Lane.top_lane,Role.solo
+4,Mi Amor Teemo,Dr. Mundo,False,Side.blue,2,3,1,1.0,65,Flash,Smite,8,False,4975,4750,Enchantment: Cinderhulk,Refillable Potion,Ruby Crystal,Ninja Tabi,Ruby Crystal,,31554,14524,Lane.jungle,Role.none
+5,Scóre,Ivern,True,Side.red,3,1,15,18.0,49,Smite,Flash,11,False,6836,5675,Refillable Potion,Hunter's Talisman,Redemption,Athene's Unholy Grail,,Ionian Boots of Lucidity,12599,8871,Lane.jungle,Role.none
+6,drink more 151,Gnar,True,Side.red,2,2,2,2.0,96,Teleport,Flash,10,False,5781,4475,Frozen Mallet,Control Ward,Total Biscuit of Rejuvenation,Doran's Blade,Boots of Speed,Ruby Crystal,2617,40722,Lane.top_lane,Role.solo
+7,RUMBLE EXPORTER,Thresh,True,Side.red,4,2,13,8.5,16,Exhaust,Flash,9,False,5916,4550,Relic Shield,Glacial Shroud,Sightstone,,Ionian Boots of Lucidity,Aegis of the Legion,5212,2754,Lane.bot_lane,Role.support
+8,Jin Wudi,Twisted Fate,True,Side.red,3,1,6,9.0,90,Ghost,Flash,10,False,6681,5420,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Negatron Cloak,,,39368,12149,Lane.mid_lane,Role.solo
+9,Lauren1,Jinx,True,Side.red,11,1,8,19.0,117,Flash,Heal,10,True,10205,8300,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,1310,92812,Lane.bot_lane,Role.carry

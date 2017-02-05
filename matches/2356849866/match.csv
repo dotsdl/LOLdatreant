@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Liquid Matt,Thresh,True,Side.blue,0,4,16,4.0,14,Exhaust,Flash,10,False,6441,5625,Relic Shield,Boots of Mobility,Ruby Sightstone,Control Ward,Redemption,,5127,3433,Lane.bot_lane,Role.support
+1,Révenge,Fizz,True,Side.blue,4,6,4,1.3333333333333333,106,Teleport,Flash,11,False,7733,6600,Corrupting Potion,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Sheen,Blasting Wand,22600,17706,Lane.top_lane,Role.solo
+2,DeaIer29,Evelynn,True,Side.blue,10,1,4,14.0,119,Smite,Flash,13,False,10243,9195,Enchantment: Runic Echoes,Hextech Protobelt-01,Fiendish Codex,Ionian Boots of Lucidity,Mejai's Soulstealer,Negatron Cloak,73079,37427,Lane.jungle,Role.none
+3,mandatorycloud,LeBlanc,True,Side.blue,5,0,7,12.0,164,Flash,Ignite,14,False,9877,8625,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Abyssal Scepter,Morellonomicon,,76494,12556,Lane.mid_lane,Role.solo
+4,IKingVex,Ezreal,True,Side.blue,6,3,9,5.0,149,Heal,Flash,13,False,9827,7675,Doran's Blade,Hexdrinker,Sheen,Muramana,Ionian Boots of Lucidity,Phage,9370,68710,Lane.bot_lane,Role.carry
+5,Adrian Riven,Alistar,False,Side.red,0,7,7,1.0,41,Exhaust,Flash,9,False,5010,4150,Face of the Mountain,Sightstone,Boots of Mobility,,,,3331,5468,Lane.bot_lane,Role.duo
+6,tardzaned,Fiddlesticks,False,Side.red,3,8,5,1.0,78,Smite,Flash,11,False,6834,6280,Enchantment: Runic Echoes,Refillable Potion,Mercury's Treads,Needlessly Large Rod,Amplifying Tome,Negatron Cloak,67409,12394,Lane.jungle,Role.none
+7,Dyrus,Aatrox,False,Side.red,6,2,2,4.0,166,Teleport,Flash,13,True,8282,6700,Doran's Blade,Spirit Visage,Phage,Doran's Blade,Long Sword,Mercury's Treads,40101,39687,Lane.top_lane,Role.solo
+8,Quad Main,Jhin,False,Side.red,1,5,4,1.0,133,Flash,Heal,11,False,6557,6325,Doran's Blade,Zeal,Dagger,,Essence Reaver,Boots of Speed,326,54751,Lane.bot_lane,Role.duo
+9,Rohammers,Kennen,False,Side.red,4,3,2,2.0,140,Teleport,Flash,12,False,7308,6975,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Control Ward,,Refillable Potion,37757,14973,Lane.mid_lane,Role.solo

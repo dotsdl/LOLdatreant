@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Infeasible,Alistar,True,Side.blue,2,6,9,1.8333333333333333,39,Exhaust,Flash,13,False,8521,6930,Boots of Mobility,Redemption,Eye of the Equinox,Doran's Shield,Crystalline Bracer,Cloth Armor,14107,6595,Lane.bot_lane,Role.support
+1,Polls,Talon,True,Side.blue,4,4,7,2.75,182,Flash,Ignite,15,False,11352,11225,Maw of Malmortius,Youmuu's Ghostblade,Long Sword,Ionian Boots of Lucidity,Mortal Reminder,Long Sword,1922,105789,Lane.mid_lane,Role.solo
+2,KT Score,Lee Sin,True,Side.blue,7,2,13,10.0,171,Smite,Flash,16,True,13787,11745,Titanic Hydra,Dead Man's Plate,Enchantment: Warrior,Negatron Cloak,Chain Vest,Boots of Swiftness,20986,151176,Lane.jungle,Role.none
+3,TeBieDeLOLJiQiao,Tryndamere,True,Side.blue,3,3,3,2.0,277,Ghost,Ignite,17,False,13217,12000,Blade of the Ruined King,Long Sword,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,48931,165089,Lane.top_lane,Role.solo
+4,woodaf,Vayne,True,Side.blue,11,3,3,4.666666666666667,198,Heal,Flash,14,False,13969,12400,B. F. Sword,Doran's Blade,Phantom Dancer,Infinity Edge,Statikk Shiv,Berserker's Greaves,14333,95135,Lane.bot_lane,Role.carry
+5,Vanity Fair,Lux,False,Side.red,4,7,6,1.4285714285714286,19,Exhaust,Flash,12,False,8835,8735,Frost Queen's Claim,Ruby Sightstone,Blasting Wand,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,24694,4098,Lane.bot_lane,Role.support
+6,Pytrigon,Katarina,False,Side.red,2,5,6,1.6,216,Ignite,Flash,15,False,10839,10500,Hextech Gunblade,Rylai's Crystal Scepter,The Dark Seal,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,113733,20723,Lane.mid_lane,Role.solo
+7,CroatianD,Kha'Zix,False,Side.red,3,6,3,1.0,146,Flash,Smite,14,False,9852,9175,Enchantment: Warrior,Ravenous Hydra,Ninja Tabi,Jaurim's Fist,Long Sword,,5672,132055,Lane.jungle,Role.none
+8,Omgimapencil,Ezreal,False,Side.red,6,4,7,3.25,212,Heal,Flash,15,False,11644,11450,Doran's Blade,Blade of the Ruined King,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,Last Whisper,22596,118426,Lane.bot_lane,Role.carry
+9,AlexAou,Darius,False,Side.red,3,5,5,1.6,218,Flash,Teleport,16,False,10800,10525,Chain Vest,The Black Cleaver,Ninja Tabi,Sterak's Gage,Raptor Cloak,Giant's Belt,473,116201,Lane.top_lane,Role.solo

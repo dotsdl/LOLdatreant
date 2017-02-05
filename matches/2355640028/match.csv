@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fàkèr  ,Ryze,False,Side.blue,7,5,4,2.2,174,Ghost,Flash,14,False,11186,11110,Rod of Ages,Seraph's Embrace,Ionian Boots of Lucidity,Morellonomicon,Blasting Wand,Amplifying Tome,108126,12085,Lane.mid_lane,Role.solo
+1,One to Beam Up,Braum,False,Side.blue,1,5,8,1.8,37,Exhaust,Flash,11,False,7742,6975,Targon's Brace,Ruby Sightstone,Mercury's Treads,Knight's Vow,Ruby Crystal,Control Ward,6723,5303,Lane.bot_lane,Role.support
+2,JusRennier,Lucian,False,Side.blue,1,5,7,1.6,219,Heal,Flash,13,False,10860,10425,Cloak of Agility,Infinity Edge,Statikk Shiv,Berserker's Greaves,B. F. Sword,Long Sword,14784,106861,Lane.bot_lane,Role.carry
+3,PessimisticPanda,Shyvana,False,Side.blue,9,6,3,2.0,180,Smite,Flash,16,False,12750,11958,Trinity Force,Ninja Tabi,Hexdrinker,Dead Man's Plate,,Enchantment: Bloodrazor,94295,78827,Lane.jungle,Role.none
+4,singed420,Singed,False,Side.blue,3,9,8,1.2222222222222223,230,Ghost,Teleport,15,False,11596,11050,Boots of Swiftness,Corrupting Potion,Rylai's Crystal Scepter,Dead Man's Plate,Spectre's Cowl,Thornmail,149578,7510,Lane.top_lane,Role.solo
+5,Pht,Katarina,True,Side.red,7,4,11,4.5,127,Ignite,Flash,14,True,11426,8970,,Liandry's Torment,Negatron Cloak,The Dark Seal,Sorcerer's Shoes,Rylai's Crystal Scepter,87289,10244,Lane.mid_lane,Role.solo
+6,i love eunha,Illaoi,True,Side.red,4,8,12,2.0,227,Flash,Teleport,16,False,12330,11050,Control Ward,Zz'Rot Portal,Corrupting Potion,The Black Cleaver,Ninja Tabi,Death's Dance,2666,167624,Lane.top_lane,Role.solo
+7,Give me hate pls,Blitzcrank,True,Side.red,0,1,14,14.0,44,Exhaust,Flash,14,False,9088,7700,Face of the Mountain,Boots of Mobility,Sightstone,Knight's Vow,Crystalline Bracer,Control Ward,11524,9127,Lane.bot_lane,Role.duo
+8,PerfectKyuubi,Graves,True,Side.red,10,3,7,5.666666666666667,217,Flash,Smite,17,False,15505,13125,Enchantment: Warrior,Phantom Dancer,Lord Dominik's Regards,The Bloodthirster,,Berserker's Greaves,4680,223500,Lane.jungle,Role.none
+9,mistress janna,Caitlyn,True,Side.red,8,5,5,2.6,194,Heal,Flash,15,False,12807,11500,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Infinity Edge,The Bloodthirster,,606,157182,Lane.bot_lane,Role.duo

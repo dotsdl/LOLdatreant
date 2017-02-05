@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MongolWarrior,Twitch,True,Side.blue,11,2,7,9.0,115,Heal,Flash,12,False,10286,7750,Berserker's Greaves,Blade of the Ruined King,Runaan's Hurricane,,Doran's Blade,,77,70759,Lane.bot_lane,Role.carry
+1,FACEB00K,Maokai,True,Side.blue,5,1,8,13.0,125,Teleport,Flash,12,False,8776,6450,Warden's Mail,Doran's Ring,Doran's Ring,Cloth Armor,Sunfire Cape,Ninja Tabi,63257,11925,Lane.top_lane,Role.solo
+2,EnVy Nien,Lux,True,Side.blue,5,3,7,4.0,129,Flash,Ghost,12,False,8589,8025,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Haunting Guise,61037,11229,Lane.mid_lane,Role.solo
+3,TszHin OvO,Thresh,True,Side.blue,3,1,12,15.0,29,Ignite,Flash,10,False,6449,5075,Redemption,Sightstone,,The Dark Seal,Relic Shield,Ionian Boots of Lucidity,11429,5349,Lane.bot_lane,Role.support
+4,Lotte,Lee Sin,True,Side.blue,6,1,6,12.0,155,Smite,Flash,13,True,10925,8850,Refillable Potion,Tiamat,Enchantment: Warrior,The Black Cleaver,Boots of Swiftness,Pickaxe,22442,112276,Lane.jungle,Role.none
+5,MITCH RAMZ,Caitlyn,False,Side.red,1,6,1,0.3333333333333333,139,Flash,Heal,10,False,6277,5225,Doran's Blade,B. F. Sword,Pickaxe,Recurve Bow,Berserker's Greaves,Dagger,286,64562,Lane.bot_lane,Role.carry
+6,damightywolf,Hecarim,False,Side.red,3,6,0,0.5,74,Smite,Ghost,11,False,5709,5383,Hunter's Talisman,Boots of Swiftness,Hunter's Potion,Trinity Force,,,6869,51412,Lane.jungle,Role.none
+7,Bonzen,Blitzcrank,False,Side.red,2,8,2,0.5,16,Flash,Ignite,8,False,4756,4425,Boots of Mobility,Eye of the Equinox,Forbidden Idol,Refillable Potion,Control Ward,,2677,4154,Lane.bot_lane,Role.support
+8,Overlord Forte,Poppy,False,Side.red,0,5,1,0.2,126,Flash,Teleport,11,False,5681,5300,Corrupting Potion,Doran's Shield,Spectre's Cowl,Bami's Cinder,,Mercury's Treads,11551,46759,Lane.top_lane,Role.solo
+9,Cotopaco Parce,Viktor,False,Side.red,1,5,1,0.4,140,Ghost,Flash,11,False,5986,4875,Perfect Hex Core,Doran's Ring,,Ionian Boots of Lucidity,,,72753,7118,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Víer,Syndra,False,Side.blue,6,6,4,1.6666666666666667,218,Flash,Ghost,15,False,11268,10975,Doran's Ring,Void Staff,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,127015,9500,Lane.mid_lane,Role.solo
+1,Turc,Zyra,False,Side.blue,0,6,11,1.8333333333333333,44,Exhaust,Flash,13,False,8760,7925,Ruby Crystal,Redemption,Eye of the Watchers,Sorcerer's Shoes,Needlessly Large Rod,,35120,4977,Lane.bot_lane,Role.support
+2,Biofrost ,Kha'Zix,False,Side.blue,5,10,3,0.8,151,Flash,Smite,13,True,10146,9825,Ionian Boots of Lucidity,Refillable Potion,Enchantment: Warrior,Youmuu's Ghostblade,Duskblade of Draktharr,,6378,121490,Lane.jungle,Role.none
+3,SKY Fear,Jhin,False,Side.blue,6,5,5,2.2,220,Flash,Heal,15,False,11575,10725,Essence Reaver,Rapid Firecannon,Last Whisper,B. F. Sword,Boots of Swiftness,Doran's Blade,5613,133404,Lane.bot_lane,Role.carry
+4,Rhux,Poppy,False,Side.blue,5,9,5,1.1111111111111112,165,Ghost,Teleport,16,False,10539,10350,Corrupting Potion,Sunfire Cape,Randuin's Omen,Ninja Tabi,Spirit Visage,,32114,73203,Lane.top_lane,Role.solo
+5,Wizzy,Jayce,True,Side.red,10,5,9,3.8,244,Teleport,Flash,17,False,15148,13800,Youmuu's Ghostblade,Doran's Blade,B. F. Sword,Ninja Tabi,The Black Cleaver,Maw of Malmortius,32029,144516,Lane.top_lane,Role.solo
+6,Jeehun,Ashe,True,Side.red,7,4,12,4.75,237,Flash,Heal,16,False,13767,11875,Doran's Blade,Infinity Edge,Null-Magic Mantle,Ionian Boots of Lucidity,Runaan's Hurricane,Essence Reaver,3712,144296,Lane.bot_lane,Role.carry
+7,Descraton,Kassadin,True,Side.red,7,5,6,2.6,185,Exhaust,Flash,16,False,13064,13025,The Dark Seal,Lich Bane,Zhonya's Hourglass,Ionian Boots of Lucidity,Abyssal Scepter,Rod of Ages,98103,27227,Lane.mid_lane,Role.solo
+8,mandatorycloud,Zac,True,Side.red,6,2,17,11.5,169,Flash,Smite,16,False,13612,12625,Enchantment: Cinderhulk,Locket of the Iron Solari,Ionian Boots of Lucidity,Dead Man's Plate,Randuin's Omen,,125449,30928,Lane.jungle,Role.none
+9,stuntopia,Miss Fortune,True,Side.red,6,6,10,2.6666666666666665,40,Exhaust,Flash,13,False,12283,11175,Eye of the Watchers,Ionian Boots of Lucidity,The Black Cleaver,Liandry's Torment,,,18985,30614,Lane.bot_lane,Role.support

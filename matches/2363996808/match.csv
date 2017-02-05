@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GKyrios,Jayce,True,Side.blue,10,2,11,10.5,199,Flash,Teleport,16,False,13195,12650,The Bloodthirster,Youmuu's Ghostblade,Null-Magic Mantle,Long Sword,Ionian Boots of Lucidity,The Black Cleaver,12804,122236,Lane.top_lane,Role.solo
+1,Manax,Lux,True,Side.blue,5,4,8,3.25,159,Flash,Ignite,15,True,11145,10050,Luden's Echo,Sorcerer's Shoes,Athene's Unholy Grail,Morellonomicon,,Doran's Ring,103951,16014,Lane.mid_lane,Role.solo
+2,Chad Reformed ,Soraka,True,Side.blue,0,5,13,2.6,23,Exhaust,Flash,13,False,8756,7950,Nomad's Medallion,Locket of the Iron Solari,Redemption,Sightstone,Ionian Boots of Lucidity,Chain Vest,18760,5385,Lane.bot_lane,Role.support
+3,Cile,Kalista,True,Side.blue,10,2,7,8.5,231,Flash,Heal,15,False,14586,12900,B. F. Sword,Berserker's Greaves,Mercurial Scimitar,Blade of the Ruined King,Runaan's Hurricane,Long Sword,5549,173478,Lane.bot_lane,Role.carry
+4,MotherMango,Fiddlesticks,True,Side.blue,4,3,14,6.0,111,Flash,Smite,15,False,11058,10535,Enchantment: Runic Echoes,Control Ward,Zhonya's Hourglass,Sorcerer's Shoes,Liandry's Torment,Amplifying Tome,100559,12698,Lane.jungle,Role.none
+5,OoR4s3Ng4N4rUtOo,Bard,False,Side.red,1,5,9,2.0,10,Flash,Exhaust,13,False,9231,8750,Redemption,Eye of the Watchers,Locket of the Iron Solari,Control Ward,Null-Magic Mantle,Boots of Mobility,15036,4843,Lane.bot_lane,Role.support
+6,SinVS,Annie,False,Side.red,4,9,4,0.8888888888888888,208,Ignite,Flash,15,False,11292,11175,The Dark Seal,Sorcerer's Shoes,Rod of Ages,Doran's Ring,Luden's Echo,Void Staff,115465,11753,Lane.mid_lane,Role.solo
+7,Macko,Poppy,False,Side.red,2,5,3,1.0,175,Flash,Teleport,15,False,10320,10075,Sunfire Cape,Mercury's Treads,Corrupting Potion,Iceborn Gauntlet,Spirit Visage,,38668,58941,Lane.top_lane,Role.solo
+8,RichiethePanda,Jhin,False,Side.red,4,5,2,1.2,232,Flash,Heal,16,False,11696,11350,Doran's Blade,Essence Reaver,Mercurial Scimitar,Rapid Firecannon,Boots of Swiftness,,11309,129727,Lane.bot_lane,Role.carry
+9,tnerual70,Rek'Sai,False,Side.red,5,5,3,1.6,163,Flash,Smite,15,False,11700,11075,Enchantment: Cinderhulk,Titanic Hydra,Dead Man's Plate,Boots of Swiftness,Ruby Crystal,Null-Magic Mantle,22142,124448,Lane.jungle,Role.none

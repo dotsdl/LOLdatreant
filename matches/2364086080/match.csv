@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kyree,Ekko,True,Side.blue,10,3,6,5.333333333333333,188,Flash,Ignite,16,False,12805,12260,Lich Bane,Luden's Echo,Hextech Gunblade,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,106936,18672,Lane.mid_lane,Role.solo
+1,IM IgNar,Karma,True,Side.blue,2,2,8,5.0,196,Teleport,Flash,16,False,11344,8575,Corrupting Potion,Hextech GLP-800,Ionian Boots of Lucidity,Needlessly Large Rod,Control Ward,Zz'Rot Portal,88065,26950,Lane.top_lane,Role.solo
+2,Penquynh,Janna,True,Side.blue,0,2,17,8.5,16,Flash,Exhaust,14,False,9635,6375,Redemption,Sightstone,,Ionian Boots of Lucidity,Aegis of the Legion,Frostfang,2902,9389,Lane.bot_lane,Role.support
+3,bileyg,Graves,True,Side.blue,11,4,7,4.5,173,Flash,Smite,16,True,13786,13450,Enchantment: Warrior,Death's Dance,Berserker's Greaves,The Black Cleaver,Phantom Dancer,Long Sword,7094,166147,Lane.jungle,Role.none
+4,OoR4s3Ng4N4rUtOo,Jhin,True,Side.blue,8,3,10,6.0,236,Flash,Heal,15,False,14410,9975,Essence Reaver,B. F. Sword,Rapid Firecannon,Cloak of Agility,Boots of Swiftness,Doran's Blade,8524,184505,Lane.bot_lane,Role.carry
+5,ShadowyFigure,Elise,False,Side.red,4,11,4,0.7272727272727273,118,Flash,Smite,13,False,9376,9075,Sorcerer's Shoes,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Spectre's Cowl,Kindlegem,,76050,30854,Lane.jungle,Role.none
+6,Mango the Magus,Syndra,False,Side.red,2,5,2,0.8,208,Flash,Ghost,14,False,9446,8380,Doran's Ring,Morellonomicon,Control Ward,Sorcerer's Shoes,Abyssal Scepter,,99529,16097,Lane.mid_lane,Role.solo
+7,Honi,Caitlyn,False,Side.red,1,5,2,0.6,216,Flash,Heal,13,False,9734,9225,Kircheis Shard,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,535,114043,Lane.bot_lane,Role.carry
+8,Swordblue,Jayce,False,Side.red,3,4,2,1.25,203,Teleport,Flash,15,False,9934,9075,Corrupting Potion,Doran's Blade,Maw of Malmortius,Manamune,Mercury's Treads,Phage,17231,95249,Lane.top_lane,Role.solo
+9,Best Morgana,Lux,False,Side.red,4,6,5,1.5,39,Exhaust,Flash,12,False,8242,7560,Frost Queen's Claim,Sightstone,Morellonomicon,Amplifying Tome,Ionian Boots of Lucidity,,24992,4186,Lane.bot_lane,Role.support

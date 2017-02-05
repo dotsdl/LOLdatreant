@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yuki Asuna,Nami,False,Side.blue,1,7,14,2.142857142857143,6,Exhaust,Flash,10,True,6768,6425,Frostfang,Redemption,Sightstone,Boots of Mobility,Aegis of the Legion,Total Biscuit of Rejuvenation,5989,5536,Lane.bot_lane,Role.support
+1,MrSuyeda,Nautilus,False,Side.blue,3,10,9,1.2,86,Teleport,Flash,12,False,7281,6575,Ninja Tabi,Corrupting Potion,Giant's Belt,Sunfire Cape,Warden's Mail,,37676,16903,Lane.top_lane,Role.solo
+2,so hung,Zed,False,Side.blue,5,9,8,1.4444444444444444,117,Flash,Ignite,11,False,8189,7000,Youmuu's Ghostblade,Refillable Potion,Hexdrinker,Phage,Boots of Speed,Caulfield's Warhammer,4669,52256,Lane.mid_lane,Role.solo
+3,Asakura,Elise,False,Side.blue,5,4,7,3.0,127,Smite,Flash,14,False,9037,8400,Refillable Potion,Giant's Belt,Cloth Armor,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Boots of Mobility,85764,28762,Lane.jungle,Role.none
+4,ChriShin,Twitch,False,Side.blue,12,9,4,1.7777777777777777,114,Heal,Flash,12,False,9875,9625,Blade of the Ruined King,Elixir of Wrath,Runaan's Hurricane,B. F. Sword,Doran's Blade,Berserker's Greaves,883,63489,Lane.bot_lane,Role.carry
+5,Perrito,LeBlanc,True,Side.red,9,5,6,3.0,133,Ignite,Flash,13,False,11088,8975,Morellonomicon,Zhonya's Hourglass,,Doran's Ring,Blasting Wand,Sorcerer's Shoes,78535,7649,Lane.mid_lane,Role.solo
+6,cùrz,Bard,True,Side.red,2,6,20,3.6666666666666665,7,Flash,Exhaust,13,False,9262,7850,Eye of the Watchers,Redemption,Mikael's Crucible,Control Ward,Boots of Mobility,,13012,6901,Lane.bot_lane,Role.support
+7,KitingYeezus,Graves,True,Side.red,6,5,12,3.6,101,Flash,Smite,13,False,10410,9175,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,Hexdrinker,Caulfield's Warhammer,Long Sword,2406,111383,Lane.jungle,Role.none
+8,Str1fe,Sivir,True,Side.red,15,9,8,2.5555555555555554,164,Flash,Heal,14,False,14018,12025,Infinity Edge,Berserker's Greaves,Essence Reaver,Rapid Firecannon,,,1284,125686,Lane.bot_lane,Role.carry
+9,Goxtry,Fiora,True,Side.red,7,2,6,6.5,178,Teleport,Flash,14,False,11250,9525,Caulfield's Warhammer,The Black Cleaver,Ravenous Hydra,Doran's Blade,Ninja Tabi,,904,106656,Lane.top_lane,Role.solo

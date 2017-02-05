@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Krab Zix,Vi,True,Side.blue,2,0,7,9.0,91,Flash,Smite,11,False,7511,5750,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Sheen,Long Sword,Ruby Crystal,9459,65251,Lane.jungle,Role.none
+1,TrungThienDo,Miss Fortune,True,Side.blue,5,1,4,9.0,132,Flash,Heal,11,False,8415,6675,B. F. Sword,Youmuu's Ghostblade,Ionian Boots of Lucidity,Cull,Doran's Blade,Long Sword,12246,50836,Lane.bot_lane,Role.carry
+2,FIoopie,Jayce,True,Side.blue,2,6,7,1.5,118,Flash,Teleport,11,False,7658,6375,Serrated Dirk,Refillable Potion,Doran's Blade,Boots of Speed,Caulfield's Warhammer,The Black Cleaver,12931,54080,Lane.top_lane,Role.solo
+3,Sebi,Cassiopeia,True,Side.blue,7,1,6,13.0,155,Flash,Ghost,12,True,9447,9175,Doran's Ring,Tear of the Goddess,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Needlessly Large Rod,80061,6234,Lane.mid_lane,Role.solo
+4,Leland T Wayne,Brand,True,Side.blue,6,4,5,2.75,16,Ignite,Flash,10,False,7424,6075,Control Ward,Refillable Potion,Eye of the Watchers,Boots of Speed,Rylai's Crystal Scepter,,14856,2482,Lane.bot_lane,Role.support
+5,Darvec,Sion,False,Side.red,3,3,2,1.6666666666666667,143,Teleport,Flash,12,False,7039,5725,Corrupting Potion,Doran's Ring,Sunfire Cape,The Dark Seal,Spectre's Cowl,Boots of Speed,45099,33543,Lane.top_lane,Role.solo
+6,Intstinctzz,Thresh,False,Side.red,1,5,5,1.2,16,Flash,Ignite,8,False,4552,4050,Control Ward,Mercury's Treads,Sightstone,Targon's Brace,Kindlegem,,4152,2615,Lane.bot_lane,Role.support
+7,HungBrickMan,Vayne,False,Side.red,3,4,4,1.75,110,Heal,Flash,11,False,6491,6000,Doran's Blade,Blade of the Ruined King,Cull,Berserker's Greaves,Dagger,Control Ward,74,28843,Lane.bot_lane,Role.carry
+8,Cat Person,Rek'Sai,False,Side.red,3,4,1,1.0,78,Smite,Flash,10,False,6045,5700,Refillable Potion,Tiamat,Ruby Crystal,Enchantment: Cinderhulk,Control Ward,Mercury's Treads,8682,42182,Lane.jungle,Role.none
+9,Jim Chen,Corki,False,Side.red,1,6,2,0.5,109,Flash,Heal,11,False,5982,5350,Doran's Blade,Refillable Potion,Hexdrinker,Phage,Sorcerer's Shoes,Sheen,33206,11489,Lane.mid_lane,Role.solo

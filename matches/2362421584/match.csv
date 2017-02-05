@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Unstopebble,Karma,False,Side.blue,0,6,7,1.1666666666666667,20,Flash,Exhaust,9,False,5993,5725,Eye of the Watchers,Redemption,Refillable Potion,,Ionian Boots of Lucidity,,15234,3753,Lane.bot_lane,Role.support
+1,Deported Nipple,Caitlyn,False,Side.blue,2,7,2,0.5714285714285714,173,Flash,Heal,11,False,8353,7975,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,319,89991,Lane.bot_lane,Role.carry
+2,Fapdo,Lee Sin,False,Side.blue,5,4,6,2.75,84,Smite,Flash,12,False,8430,7150,Enchantment: Warrior,Refillable Potion,,Boots of Mobility,Maw of Malmortius,,13511,68614,Lane.jungle,Role.none
+3,Catch the Spirit,Maokai,False,Side.blue,1,3,4,1.6666666666666667,146,Teleport,Flash,12,False,7786,7325,Ninja Tabi,Sunfire Cape,The Dark Seal,Spectre's Cowl,Kindlegem,Doran's Ring,74573,11062,Lane.top_lane,Role.solo
+4,bl0o,LeBlanc,False,Side.blue,5,5,3,1.6,184,Ignite,Flash,13,False,9219,7650,Doran's Ring,Refillable Potion,Abyssal Scepter,Morellonomicon,,Sorcerer's Shoes,74333,16417,Lane.mid_lane,Role.solo
+5,Smartcloud,Nami,True,Side.red,2,3,15,5.666666666666667,8,Flash,Exhaust,11,False,8412,8150,Control Ward,Redemption,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,,7116,7559,Lane.bot_lane,Role.support
+6,Garani,Rumble,True,Side.red,3,4,9,3.0,137,Smite,Flash,13,False,9545,7070,Stalker's Blade,Fiendish Codex,Sorcerer's Shoes,Liandry's Torment,Negatron Cloak,,89467,21163,Lane.jungle,Role.none
+7,GodMeru,Pantheon,True,Side.red,7,2,4,5.5,150,Flash,Ignite,13,False,9821,9125,Boots of Swiftness,Youmuu's Ghostblade,Dead Man's Plate,Doran's Blade,Pickaxe,Doran's Blade,3127,83429,Lane.top_lane,Role.solo
+8,Toll,Jhin,True,Side.red,9,2,9,9.0,157,Flash,Heal,13,True,11744,9075,Essence Reaver,Hexdrinker,Rapid Firecannon,Boots of Swiftness,,Doran's Blade,8142,108310,Lane.bot_lane,Role.carry
+9,Program,Syndra,True,Side.red,4,2,9,6.5,165,Ghost,Flash,13,False,9509,7875,Doran's Ring,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Morellonomicon,,91016,10331,Lane.mid_lane,Role.solo

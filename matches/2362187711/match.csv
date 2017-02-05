@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizzy,Kayle,True,Side.blue,9,4,5,3.5,256,Ghost,Flash,17,False,15034,11860,The Dark Seal,Guinsoo's Rageblade,Rylai's Crystal Scepter,Nashor's Tooth,Amplifying Tome,Ionian Boots of Lucidity,153660,49616,Lane.mid_lane,Role.solo
+1,Tobias Fate,Gangplank,True,Side.blue,9,2,8,8.5,362,Flash,Exhaust,18,False,18296,16933,Infinity Edge,Youmuu's Ghostblade,Trinity Force,Boots of Swiftness,Lord Dominik's Regards,Statikk Shiv,28247,347009,Lane.top_lane,Role.solo
+2,Annie Bot,Annie,True,Side.blue,1,4,16,4.25,27,Ignite,Flash,14,False,10495,9400,Frost Queen's Claim,Refillable Potion,Ionian Boots of Lucidity,Control Ward,Void Staff,Rylai's Crystal Scepter,26099,3690,Lane.bot_lane,Role.support
+3,moon o,Rek'Sai,True,Side.blue,6,1,14,20.0,225,Smite,Flash,17,False,14255,13200,Titanic Hydra,,Locket of the Iron Solari,Mercury's Treads,Dead Man's Plate,Enchantment: Cinderhulk,51432,138678,Lane.jungle,Role.none
+4,Turc,Jhin,True,Side.blue,3,6,12,2.5,207,Heal,Flash,15,False,12919,12000,Infinity Edge,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Null-Magic Mantle,,6234,132182,Lane.bot_lane,Role.carry
+5,SKY Fear,Ezreal,False,Side.red,10,4,4,3.5,296,Flash,Heal,17,True,16720,15758,Blade of the Ruined King,Null-Magic Mantle,The Bloodthirster,Muramana,Trinity Force,Ionian Boots of Lucidity,43818,208022,Lane.bot_lane,Role.carry
+6,Aecinira,Janna,False,Side.red,1,2,15,8.0,19,Flash,Exhaust,13,False,10511,10200,Talisman of Ascension,Ruby Sightstone,Redemption,,Ionian Boots of Lucidity,Ardent Censer,6080,4399,Lane.bot_lane,Role.support
+7,Sheiden,Hecarim,False,Side.red,4,8,3,0.875,151,Smite,Ghost,15,False,12323,11225,Spectre's Cowl,Randuin's Omen,Locket of the Iron Solari,Enchantment: Cinderhulk,Ninja Tabi,Kindlegem,45273,100562,Lane.jungle,Role.none
+8,Koby,Nasus,False,Side.red,0,11,3,0.2727272727272727,273,Flash,Teleport,15,False,12896,11400,Guardian Angel,Doran's Ring,Warden's Mail,Ninja Tabi,Spirit Visage,Zz'Rot Portal,103868,42346,Lane.top_lane,Role.solo
+9,SSBM Hax,Twisted Fate,False,Side.red,2,3,12,4.666666666666667,233,Flash,Ghost,17,False,14188,13150,Void Staff,Ionian Boots of Lucidity,Rod of Ages,Zhonya's Hourglass,,Lich Bane,190326,20490,Lane.mid_lane,Role.solo

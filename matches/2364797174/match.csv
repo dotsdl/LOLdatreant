@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZambonGG,Zac,False,Side.blue,3,8,4,0.875,173,Flash,Teleport,13,False,9332,8900,Sunfire Cape,Mercury's Treads,Spirit Visage,Haunting Guise,,,89924,8685,Lane.top_lane,Role.solo
+1,IKingVex,Twitch,False,Side.blue,6,9,1,0.7777777777777778,197,Heal,Flash,14,False,11390,11050,Doran's Blade,Infinity Edge,Cull,Berserker's Greaves,Statikk Shiv,Runaan's Hurricane,265,118255,Lane.bot_lane,Role.solo
+2,Rich Homie Lucky,Thresh,False,Side.blue,2,5,6,1.6,29,Flash,Exhaust,13,False,7246,6850,Control Ward,Ruby Sightstone,Redemption,Kindlegem,Targon's Brace,Boots of Mobility,6701,3734,Lane.jungle,Role.none
+3,Gourish,Ahri,False,Side.blue,8,8,3,1.375,152,Ignite,Flash,14,True,10295,9810,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,59121,12670,Lane.mid_lane,Role.solo
+4,Pht,Graves,False,Side.blue,5,8,3,1.0,165,Smite,Flash,15,False,10396,10225,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,The Black Cleaver,Long Sword,Long Sword,4158,132530,Lane.jungle,Role.none
+5,nilhaG,Rek'Sai,True,Side.red,10,4,6,4.0,200,Flash,Smite,16,False,14224,13450,Titanic Hydra,Enchantment: Cinderhulk,Randuin's Omen,Mercury's Treads,Spectre's Cowl,Kindlegem,38514,134461,Lane.jungle,Role.none
+6,rovex,Cassiopeia,True,Side.red,8,8,5,1.625,169,Flash,Ghost,15,False,12530,11075,Rylai's Crystal Scepter,Morellonomicon,Archangel's Staff,Control Ward,Needlessly Large Rod,,102411,7989,Lane.mid_lane,Role.solo
+7,NoahMost,Ezreal,True,Side.red,9,2,16,12.5,199,Heal,Flash,16,False,14925,12983,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Muramana,Trinity Force,Hexdrinker,17428,146508,Lane.bot_lane,Role.solo
+8,Modx,Riven,True,Side.red,6,5,6,2.4,192,Flash,Teleport,15,False,12404,11550,Youmuu's Ghostblade,Edge of Night,Control Ward,Chain Vest,Ionian Boots of Lucidity,Maw of Malmortius,0,138730,Lane.top_lane,Role.solo
+9,ily and ily,Lux,True,Side.red,5,5,21,5.2,28,Flash,Exhaust,13,False,11706,9975,Sorcerer's Shoes,Frost Queen's Claim,Morellonomicon,Mejai's Soulstealer,Sightstone,Blasting Wand,37117,7910,Lane.jungle,Role.none

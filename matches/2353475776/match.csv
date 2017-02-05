@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwitchTV LOLFILL,Hecarim,True,Side.blue,6,5,9,3.0,203,Smite,Ghost,17,False,13932,13358,Enchantment: Cinderhulk,Dead Man's Plate,Trinity Force,Mercury's Treads,Guardian Angel,,37735,160761,Lane.jungle,Role.none
+1,Shiphtur,Jarvan IV,True,Side.blue,11,9,8,2.111111111111111,175,Teleport,Flash,16,False,14133,13350,Youmuu's Ghostblade,Death's Dance,Serrated Dirk,Boots of Mobility,Duskblade of Draktharr,B. F. Sword,4301,118156,Lane.top_lane,Role.solo
+2,Never Been,Twitch,True,Side.blue,6,5,8,2.8,210,Flash,Heal,16,False,13627,12000,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,B. F. Sword,0,148229,Lane.bot_lane,Role.carry
+3,I Usually Feed,Nautilus,True,Side.blue,2,6,12,2.3333333333333335,42,Flash,Ignite,13,False,10239,9300,Knight's Vow,Ruby Sightstone,Face of the Mountain,Control Ward,Boots of Mobility,Aegis of the Legion,17754,10991,Lane.bot_lane,Role.support
+4,Pekin Woof,Ryze,True,Side.blue,9,1,9,18.0,297,Flash,Ghost,18,False,16598,14860,Seraph's Embrace,Zhonya's Hourglass,Amplifying Tome,Ionian Boots of Lucidity,Rod of Ages,Rabadon's Deathcap,256791,11171,Lane.mid_lane,Role.solo
+5,Westrice,Pantheon,False,Side.red,9,8,5,1.75,187,Ignite,Flash,15,False,12566,12700,Youmuu's Ghostblade,Guardian Angel,Ninja Tabi,The Black Cleaver,Sterak's Gage,,10462,124989,Lane.top_lane,Role.solo
+6,TeddyRO,Sion,False,Side.red,4,10,11,1.5,141,Flash,Smite,15,False,11538,10850,Refillable Potion,Enchantment: Cinderhulk,The Black Cleaver,Ninja Tabi,Spirit Visage,Giant's Belt,40061,82642,Lane.jungle,Role.none
+7,C9 Smoothie,Ezreal,False,Side.red,8,8,6,1.75,204,Flash,Heal,14,True,13054,13283,Long Sword,Muramana,Blade of the Ruined King,Trinity Force,Last Whisper,Ionian Boots of Lucidity,20055,105031,Lane.bot_lane,Role.carry
+8,The Harem King,Ahri,False,Side.red,4,4,7,2.75,272,Ignite,Flash,16,False,13134,12475,Rabadon's Deathcap,Luden's Echo,,Doran's Ring,Morellonomicon,Sorcerer's Shoes,107544,15290,Lane.mid_lane,Role.solo
+9,Liquid Painless,Karma,False,Side.red,1,4,13,3.5,13,Flash,Exhaust,13,False,9131,8600,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,The Dark Seal,,Locket of the Iron Solari,15354,3416,Lane.bot_lane,Role.support

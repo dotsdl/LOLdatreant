@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,no dad please,Lux,False,Side.blue,1,5,6,1.4,179,Barrier,Flash,14,False,9538,8860,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Amplifying Tome,,111055,13722,Lane.mid_lane,Role.solo
+1,NumberOneNA11111,Leona,False,Side.blue,4,3,7,3.6666666666666665,79,Exhaust,Flash,12,False,9174,8950,Eye of the Equinox,Bami's Cinder,Ninja Tabi,Iceborn Gauntlet,Aegis of the Legion,Null-Magic Mantle,15675,16482,Lane.bot_lane,Role.duo
+2,TeBieDeLOLJiQiao,Rumble,False,Side.blue,2,6,4,1.0,183,Flash,Teleport,14,False,9633,8925,Seeker's Armguard,Hextech Protobelt-01,Rylai's Crystal Scepter,Doran's Shield,Fiendish Codex,Boots of Speed,90298,13078,Lane.top_lane,Role.solo
+3,woodaf,Ezreal,False,Side.blue,5,4,5,2.5,200,Heal,Flash,13,True,11287,10058,Last Whisper,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,Recurve Bow,21844,100734,Lane.bot_lane,Role.duo
+4,yuhnie,Lee Sin,False,Side.blue,6,7,1,1.0,160,Smite,Flash,15,False,10914,10225,Tiamat,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Banshee's Veil,Boots of Mobility,18936,120003,Lane.jungle,Role.none
+5,space1,Shyvana,True,Side.red,2,4,12,3.5,170,Flash,Smite,15,False,10812,9560,Enchantment: Cinderhulk,,Bilgewater Cutlass,Recurve Bow,Dead Man's Plate,Mercury's Treads,92882,55501,Lane.jungle,Role.none
+6,Peng Yiliwang,Jinx,True,Side.red,6,5,5,2.2,191,Heal,Flash,15,False,12155,10680,Doran's Blade,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Vampiric Scepter,993,133954,Lane.bot_lane,Role.carry
+7,TheYoungMo,Ahri,True,Side.red,5,4,10,3.75,249,Teleport,Flash,15,False,11945,11575,Rabadon's Deathcap,,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,83255,16659,Lane.mid_lane,Role.solo
+8,MissBabyQ1,Nami,True,Side.red,1,4,11,3.0,7,Flash,Exhaust,12,False,7626,6550,Frost Queen's Claim,Sightstone,Redemption,Boots of Mobility,,,4489,2216,Lane.bot_lane,Role.support
+9,am tham ben em,Jayce,True,Side.red,11,1,6,17.0,224,Flash,Teleport,16,False,13225,10758,Ionian Boots of Lucidity,Maw of Malmortius,Doran's Blade,Trinity Force,Phage,Long Sword,23316,118939,Lane.top_lane,Role.solo

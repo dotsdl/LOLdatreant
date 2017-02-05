@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Lucian,False,Side.blue,12,8,2,1.75,214,Flash,Heal,14,False,13092,12675,Doran's Blade,Maw of Malmortius,Rapid Firecannon,Berserker's Greaves,Essence Reaver,B. F. Sword,5526,130300,Lane.bot_lane,Role.carry
+1,Ikzencriel,Nautilus,False,Side.blue,2,10,3,0.5,132,Teleport,Flash,13,False,8158,7775,Corrupting Potion,Sunfire Cape,Spirit Visage,Ninja Tabi,Control Ward,Ruby Crystal,62355,20394,Lane.top_lane,Role.solo
+2,toke dude,Rek'Sai,False,Side.blue,5,6,6,1.8333333333333333,183,Smite,Flash,15,False,11178,10725,Enchantment: Cinderhulk,The Black Cleaver,Guardian Angel,Aegis of the Legion,Ninja Tabi,,54081,97442,Lane.jungle,Role.none
+3,Liquid Painless,Braum,False,Side.blue,1,5,13,2.8,41,Flash,Exhaust,13,False,8300,7775,Face of the Mountain,Ruby Sightstone,Refillable Potion,Ninja Tabi,Control Ward,Locket of the Iron Solari,11139,6850,Lane.bot_lane,Role.support
+4,Strompest,Vladimir,False,Side.blue,0,13,5,0.38461538461538464,126,Flash,Ghost,12,False,8141,7725,Abyssal Scepter,Doran's Shield,Mercury's Treads,,The Dark Seal,Spirit Visage,57940,9029,Lane.mid_lane,Role.solo
+5,McCashDollar,Shaco,True,Side.red,4,3,18,7.333333333333333,135,Teleport,Ignite,16,False,12049,10735,Lich Bane,Hextech Protobelt-01,The Dark Seal,Doran's Ring,Void Staff,Ionian Boots of Lucidity,76048,20358,Lane.top_lane,Role.solo
+6,Galletota,Caitlyn,True,Side.red,4,4,9,3.25,203,Heal,Flash,15,False,11693,10650,Rapid Firecannon,Doran's Blade,Infinity Edge,Berserker's Greaves,,Runaan's Hurricane,1084,139692,Lane.bot_lane,Role.carry
+7,Révenge,LeBlanc,True,Side.red,17,5,9,5.2,163,Ignite,Flash,16,True,14354,13485,Rylai's Crystal Scepter,Morellonomicon,Mejai's Soulstealer,Rabadon's Deathcap,Sorcerer's Shoes,Amplifying Tome,105834,19667,Lane.mid_lane,Role.solo
+8,IIIlIIIlIIIllI,Graves,True,Side.red,14,4,3,4.25,229,Flash,Smite,16,False,15906,14925,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,Death's Dance,The Bloodthirster,B. F. Sword,4835,224360,Lane.jungle,Role.none
+9,DeaIer29,Alistar,True,Side.red,3,4,11,3.5,29,Exhaust,Flash,12,False,9456,9150,Knight's Vow,Locket of the Iron Solari,Redemption,Sightstone,Relic Shield,Boots of Mobility,11226,11701,Lane.bot_lane,Role.support

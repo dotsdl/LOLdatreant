@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kodex,Caitlyn,True,Side.blue,2,4,7,2.25,162,Heal,Flash,11,False,8179,6125,Doran's Blade,Cull,Runaan's Hurricane,B. F. Sword,Pickaxe,Boots of Speed,2227,83393,Lane.bot_lane,Role.carry
+1,GowaSan,Jax,True,Side.blue,13,2,3,8.0,199,Ignite,Flash,15,True,11998,9633,Hextech Gunblade,Trinity Force,Doran's Blade,Long Sword,Mercury's Treads,Corrupting Potion,30515,95061,Lane.top_lane,Role.solo
+2,wahpah,Fizz,True,Side.blue,9,3,5,4.666666666666667,120,Ignite,Flash,12,False,9496,8310,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Lich Bane,Amplifying Tome,,42831,21690,Lane.mid_lane,Role.solo
+3,Tonyhdtv,Ivern,True,Side.blue,6,1,11,17.0,50,Smite,Flash,12,False,8255,6050,Hunter's Talisman,Refillable Potion,Redemption,Ionian Boots of Lucidity,Athene's Unholy Grail,Null-Magic Mantle,9070,5990,Lane.jungle,Role.none
+4,MagicTeddyBears,Nami,True,Side.blue,0,3,11,3.6666666666666665,7,Exhaust,Flash,11,False,5435,4650,,,Aegis of the Legion,Spellthief's Edge,Boots of Mobility,Ruby Sightstone,3611,5967,Lane.bot_lane,Role.support
+5,Gold Seal EJuice,Zyra,False,Side.red,2,4,4,1.5,28,Exhaust,Flash,10,False,6192,5810,Sorcerer's Shoes,Haunting Guise,Amplifying Tome,Eye of the Watchers,,,27701,5885,Lane.bot_lane,Role.support
+6,Mikey00101,Vladimir,False,Side.red,1,9,1,0.2222222222222222,90,Teleport,Flash,10,False,5724,5525,Sorcerer's Shoes,Zhonya's Hourglass,Giant's Belt,,,,32497,8762,Lane.top_lane,Role.solo
+7,GeraldTheChicken,Brand,False,Side.red,3,5,4,1.4,107,Barrier,Flash,11,False,6967,6835,Amplifying Tome,Doran's Ring,Control Ward,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,51975,8463,Lane.mid_lane,Role.solo
+8,Zectec,Xin Zhao,False,Side.red,5,7,3,1.1428571428571428,88,Smite,Flash,11,False,7026,6250,Skirmisher's Sabre,Tiamat,Blasting Wand,Recurve Bow,Ninja Tabi,Pickaxe,4819,60736,Lane.jungle,Role.none
+9,Northhold,Ezreal,False,Side.red,2,5,5,1.4,121,Flash,Heal,10,False,7217,6000,Sheen,Manamune,Doran's Blade,Cull,Boots of Speed,Phage,10176,50520,Lane.bot_lane,Role.carry

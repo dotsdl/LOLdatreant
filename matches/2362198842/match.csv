@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,eRx,Riven,True,Side.blue,6,3,9,5.0,205,Teleport,Flash,15,False,11571,9550,Tiamat,Death's Dance,Youmuu's Ghostblade,Long Sword,Long Sword,Ionian Boots of Lucidity,0,124379,Lane.top_lane,Role.solo
+1,Clarizio,Janna,True,Side.blue,2,0,18,20.0,7,Flash,Exhaust,13,True,8606,5725,Forbidden Idol,Sightstone,Locket of the Iron Solari,Ancient Coin,Ionian Boots of Lucidity,,2225,5544,Lane.bot_lane,Role.support
+2,ADC Prospect,Caitlyn,True,Side.blue,5,1,8,13.0,214,Heal,Flash,13,False,11838,8150,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,,303,160014,Lane.bot_lane,Role.carry
+3,7788 ADC,Evelynn,True,Side.blue,3,6,10,2.1666666666666665,68,Smite,Flash,12,False,8552,6860,Enchantment: Runic Echoes,Hextech Protobelt-01,Hunter's Potion,Boots of Mobility,Amplifying Tome,,42265,20296,Lane.jungle,Role.none
+4,Nëbu,Swain,True,Side.blue,17,2,10,13.5,189,Flash,Teleport,15,False,14928,13375,Doran's Ring,Zhonya's Hourglass,Abyssal Scepter,Sorcerer's Shoes,Rod of Ages,Liandry's Torment,98641,16596,Lane.mid_lane,Role.solo
+5,AsianSGpøtatø,Ivern,False,Side.red,1,7,2,0.42857142857142855,28,Flash,Smite,10,False,5914,5125,Hunter's Talisman,Eye of the Oasis,Crystalline Bracer,Cloth Armor,Boots of Mobility,Forbidden Idol,3935,4324,Lane.bot_lane,Role.support
+6,Asyc xD ,Ezreal,False,Side.red,0,6,2,0.3333333333333333,152,Heal,Flash,11,False,7313,5750,Doran's Blade,Manamune,Cull,Dagger,Sheen,Ionian Boots of Lucidity,16863,61730,Lane.bot_lane,Role.carry
+7,Firé,Kha'Zix,False,Side.red,7,5,1,1.6,82,Smite,Flash,12,False,8634,8350,Youmuu's Ghostblade,Tiamat,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,5169,92557,Lane.jungle,Role.none
+8,Part The Sea,Yasuo,False,Side.red,0,7,3,0.42857142857142855,164,Flash,Exhaust,13,False,7628,7625,Refillable Potion,Frozen Mallet,Ninja Tabi,,Phantom Dancer,,19525,67246,Lane.top_lane,Role.solo
+9,Katlife,Katarina,False,Side.red,4,8,2,0.75,120,Flash,Ignite,13,False,7580,7050,Giant's Belt,Control Ward,Hextech Gunblade,The Dark Seal,Needlessly Large Rod,Boots of Speed,61060,8465,Lane.mid_lane,Role.solo

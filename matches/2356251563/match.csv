@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,godrjsdnd,Lee Sin,True,Side.blue,8,4,13,5.25,142,Smite,Flash,16,False,13010,11645,Ravenous Hydra,Enchantment: Warrior,Edge of Night,Mercury's Treads,Chain Vest,Negatron Cloak,25612,133771,Lane.jungle,Role.none
+1,Imaqtpie,Vayne,True,Side.blue,13,7,7,2.857142857142857,218,Flash,Heal,15,True,15153,23528,Guinsoo's Rageblade,Trinity Force,Berserker's Greaves,Phage,Serrated Dirk,,30795,130894,Lane.bot_lane,Role.carry
+2,ecco,Shen,True,Side.blue,3,5,8,2.2,120,Teleport,Flash,14,False,9735,8575,Doran's Shield,Spirit Visage,Sunfire Cape,Giant's Belt,,Mercury's Treads,28841,23166,Lane.top_lane,Role.solo
+3,Yarkbeezy,Janna,True,Side.blue,1,5,21,4.4,13,Exhaust,Flash,13,False,9192,7525,Redemption,Sightstone,Locket of the Iron Solari,Control Ward,Nomad's Medallion,Ionian Boots of Lucidity,5086,3770,Lane.bot_lane,Role.support
+4,Wizzy,Kayle,True,Side.blue,12,3,5,5.666666666666667,225,Ghost,Flash,16,False,14500,12850,The Dark Seal,Guinsoo's Rageblade,Rabadon's Deathcap,Doran's Ring,Nashor's Tooth,Sorcerer's Shoes,113527,43562,Lane.mid_lane,Role.solo
+5,PutYourHeartsUp,Taliyah,False,Side.red,8,7,12,2.857142857142857,48,Exhaust,Flash,13,False,10403,9950,Rylai's Crystal Scepter,,Eye of the Watchers,,Morellonomicon,Ionian Boots of Lucidity,46482,3559,Lane.bot_lane,Role.support
+6,Jinoa,Sivir,False,Side.red,4,10,7,1.1,159,Heal,Flash,13,False,9670,9325,Doran's Blade,Essence Reaver,Berserker's Greaves,Statikk Shiv,Last Whisper,,5849,100905,Lane.bot_lane,Role.carry
+7,BmxSpecks,Riven,False,Side.red,6,8,8,1.75,111,Flash,Smite,14,False,9674,8700,Enchantment: Warrior,Refillable Potion,Sterak's Gage,Ionian Boots of Lucidity,Phage,Caulfield's Warhammer,1223,98099,Lane.jungle,Role.none
+8,IHateD2Players,Ahri,False,Side.red,4,4,9,3.25,171,Flash,Ignite,14,False,10030,9455,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Blasting Wand,61045,15277,Lane.mid_lane,Role.solo
+9,DoombringerEX,Kennen,False,Side.red,2,8,10,1.5,125,Flash,Teleport,13,False,8844,7660,Sorcerer's Shoes,Haunting Guise,Hextech Protobelt-01,Giant's Belt,Amplifying Tome,Refillable Potion,54044,12591,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Brian Griffin,Poppy,True,Side.blue,3,2,7,5.0,131,Teleport,Flash,13,True,8758,6400,Corrupting Potion,Spirit Visage,Mercury's Treads,Giant's Belt,Warden's Mail,,2977,60740,Lane.top_lane,Role.solo
+1,coolkiller88,Lux,True,Side.blue,10,3,7,5.666666666666667,147,Heal,Flash,13,False,10711,9250,Doran's Ring,Morellonomicon,Luden's Echo,Mejai's Soulstealer,Ionian Boots of Lucidity,,71735,14942,Lane.mid_lane,Role.solo
+2,Sophist Sage,Sivir,True,Side.blue,3,1,7,10.0,190,Heal,Flash,12,False,9737,6650,Doran's Blade,,Berserker's Greaves,Essence Reaver,B. F. Sword,,126,97513,Lane.bot_lane,Role.carry
+3,COSTA RlCA,Braum,True,Side.blue,1,2,9,5.0,32,Exhaust,Flash,10,False,6431,4200,Face of the Mountain,Refillable Potion,Ionian Boots of Lucidity,Sightstone,,,5821,5696,Lane.bot_lane,Role.support
+4,Acerola LAN,Kha'Zix,True,Side.blue,13,2,6,9.5,85,Smite,Flash,13,False,11087,10975,Long Sword,Ravenous Hydra,Youmuu's Ghostblade,Mercury's Treads,Enchantment: Warrior,Long Sword,5561,113387,Lane.jungle,Role.none
+5,TEAMLUKEE,Caitlyn,False,Side.red,0,7,3,0.42857142857142855,101,Heal,Flash,9,False,5585,3975,Doran's Blade,Cull,Berserker's Greaves,Pickaxe,Recurve Bow,,490,36712,Lane.bot_lane,Role.carry
+6,Espir III,Jhin,False,Side.red,2,4,2,1.0,16,Flash,Exhaust,9,False,4939,3800,Control Ward,Frost Queen's Claim,Total Biscuit of Rejuvenation,Sightstone,Boots of Speed,,3432,15453,Lane.bot_lane,Role.support
+7,Shamwwow,Nasus,False,Side.red,3,5,0,0.6,120,Flash,Teleport,11,False,6712,6730,Zz'Rot Portal,Doran's Ring,Doran's Ring,Corrupting Potion,Ninja Tabi,Phage,38560,13191,Lane.top_lane,Role.solo
+8,Hyorimaru,Lee Sin,False,Side.red,2,9,5,0.7777777777777778,69,Flash,Smite,10,False,5897,4875,Enchantment: Warrior,Refillable Potion,Sightstone,Boots of Mobility,Ruby Crystal,,8768,38506,Lane.jungle,Role.none
+9,Lukwer,Ryze,False,Side.red,3,5,3,1.2,165,Flash,Ghost,13,False,7704,6950,Tear of the Goddess,Fiendish Codex,Ionian Boots of Lucidity,The Dark Seal,Rod of Ages,Lost Chapter,83055,8335,Lane.mid_lane,Role.solo

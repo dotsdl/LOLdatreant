@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pnacea,Nami,True,Side.blue,0,4,14,3.5,6,Exhaust,Flash,9,False,7100,5725,Chalice of Harmony,Sightstone,Redemption,Boots of Swiftness,,Frostfang,5319,3580,Lane.bot_lane,Role.support
+1,Mateusz,Nasus,True,Side.blue,4,0,7,11.0,155,Teleport,Flash,13,False,10344,9075,Phage,Corrupting Potion,Zz'Rot Portal,Boots of Speed,Spirit Visage,Sheen,62170,37741,Lane.top_lane,Role.solo
+2,mid VallFire,Ahri,True,Side.blue,1,1,10,11.0,159,Flash,Ignite,12,False,9091,8025,Doran's Ring,Sorcerer's Shoes,Zhonya's Hourglass,Morellonomicon,Doran's Ring,,55856,10943,Lane.mid_lane,Role.solo
+3,2vn,Jinx,True,Side.blue,9,4,7,4.0,119,Flash,Heal,11,False,10153,8600,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Brawler's Gloves,Doran's Blade,Dagger,1801,79287,Lane.bot_lane,Role.carry
+4,Vladfire1 BG ,Lee Sin,True,Side.blue,17,2,6,11.5,92,Smite,Flash,13,False,12405,10700,Youmuu's Ghostblade,Sightstone,Enchantment: Warrior,Boots of Swiftness,Maw of Malmortius,Refillable Potion,19674,85078,Lane.jungle,Role.none
+5,Yuki Asuna,Soraka,False,Side.red,1,4,4,1.25,9,Exhaust,Flash,10,False,5215,5075,Nomad's Medallion,Redemption,Sightstone,Ionian Boots of Lucidity,Control Ward,,10532,3028,Lane.bot_lane,Role.support
+6,MrSuyeda,Tahm Kench,False,Side.red,1,7,4,0.7142857142857143,70,Teleport,Flash,10,False,5405,5100,Mercury's Treads,Corrupting Potion,Bami's Cinder,Chain Vest,Spectre's Cowl,Ruby Crystal,16457,11790,Lane.top_lane,Role.solo
+7,so hung,Varus,False,Side.red,3,5,5,1.6,123,Flash,Heal,10,False,7240,6900,Doran's Blade,Essence Reaver,Berserker's Greaves,Zeal,Dagger,,3940,62698,Lane.bot_lane,Role.carry
+8,rhubarbs,Ekko,False,Side.red,1,9,5,0.6666666666666666,109,Teleport,Flash,10,False,5980,5735,Doran's Ring,Hextech Protobelt-01,Refillable Potion,Mercury's Treads,Amplifying Tome,Sheen,56755,7666,Lane.mid_lane,Role.solo
+9,Asakura,Elise,False,Side.red,5,6,4,1.5,82,Smite,Flash,11,True,7660,7350,Hunter's Potion,Rylai's Crystal Scepter,Control Ward,,Enchantment: Runic Echoes,Boots of Mobility,54882,17365,Lane.jungle,Role.none

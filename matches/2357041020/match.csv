@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwTv Kinoscorpia,Jayce,False,Side.blue,4,6,3,1.1666666666666667,131,Ignite,Flash,12,False,7319,6500,Doran's Blade,Maw of Malmortius,Caulfield's Warhammer,Serrated Dirk,,Boots of Speed,9311,42945,Lane.top_lane,Role.solo
+1,Pants are Dragon,Nidalee,False,Side.blue,7,4,6,3.25,99,Smite,Flash,12,True,8432,7960,Enchantment: Runic Echoes,Refillable Potion,Rylai's Crystal Scepter,Ninja Tabi,Amplifying Tome,Control Ward,62710,10576,Lane.bot_lane,Role.none
+2,Turkish Coffee,Caitlyn,False,Side.blue,2,9,4,0.6666666666666666,99,Heal,Flash,10,False,7119,6100,,Runaan's Hurricane,B. F. Sword,Cull,Berserker's Greaves,Doran's Blade,418,44738,Lane.bot_lane,Role.none
+3,C9 Lemon,Lulu,False,Side.blue,1,9,7,0.8888888888888888,23,Exhaust,Flash,10,False,5801,5625,Spellthief's Edge,Aegis of the Legion,Redemption,Sightstone,Boots of Mobility,Refillable Potion,11852,4702,Lane.bot_lane,Role.none
+4,1936 1948,Karma,False,Side.blue,2,7,3,0.7142857142857143,117,Ignite,Flash,11,False,6578,5875,Doran's Ring,Athene's Unholy Grail,Boots of Speed,Needlessly Large Rod,Forbidden Idol,Aether Wisp,37788,11452,Lane.mid_lane,Role.solo
+5,LÌn,Thresh,True,Side.red,2,4,21,5.75,28,Exhaust,Flash,11,False,7893,7550,Control Ward,Eye of the Equinox,Null-Magic Mantle,Aegis of the Legion,Knight's Vow,Boots of Mobility,11340,5709,Lane.bot_lane,Role.support
+6,Emilia Is Love,Vayne,True,Side.red,9,6,10,3.1666666666666665,138,Flash,Heal,11,False,11081,11230,Berserker's Greaves,Statikk Shiv,,Infinity Edge,Phantom Dancer,,1560,75231,Lane.bot_lane,Role.carry
+7,Daarr,Lee Sin,True,Side.red,14,1,3,17.0,148,Flash,Smite,15,False,12515,8600,Boots of Swiftness,Enchantment: Warrior,Tiamat,Refillable Potion,Ruby Crystal,Maw of Malmortius,18774,131406,Lane.jungle,Role.none
+8,Pekin Woof,Fizz,True,Side.red,4,3,5,3.0,152,Flash,Teleport,12,False,8911,6275,Abyssal Scepter,Corrupting Potion,Control Ward,Ionian Boots of Lucidity,Aether Wisp,Sheen,49948,22142,Lane.mid_lane,Role.solo
+9,Riesig,Lissandra,True,Side.red,5,2,7,6.0,227,Flash,Teleport,14,False,11008,8500,Morellonomicon,Hextech GLP-800,Doran's Ring,Blasting Wand,Sorcerer's Shoes,,125924,11465,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MadLyfe,Maokai,False,Side.blue,1,3,13,4.666666666666667,119,Teleport,Flash,13,False,8341,8250,Sunfire Cape,,Doran's Shield,Mercury's Treads,Frozen Heart,Doran's Ring,57084,12325,Lane.top_lane,Role.solo
+1,Vantar,Syndra,False,Side.blue,8,7,10,2.5714285714285716,190,Flash,Ghost,14,False,10993,10725,,,,,,,95550,13336,Lane.mid_lane,Role.solo
+2,Crey Joswick,Vi,False,Side.blue,9,8,6,1.875,129,Flash,Smite,13,False,10751,9558,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Giant's Belt,Chain Vest,865,108416,Lane.jungle,Role.none
+3,Boatsanhoes,Varus,False,Side.blue,10,6,7,2.8333333333333335,206,Heal,Flash,14,False,12221,11550,Quicksilver Sash,B. F. Sword,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Pickaxe,13308,106569,Lane.bot_lane,Role.carry
+4,MyDlckCanFloat,Thresh,False,Side.blue,0,4,21,5.25,34,Ignite,Flash,12,False,7239,6850,Face of the Mountain,Sightstone,Locket of the Iron Solari,Control Ward,,Boots of Mobility,12220,7584,Lane.bot_lane,Role.support
+5,Smartcloud,Gragas,True,Side.red,1,9,10,1.2222222222222223,53,Flash,Exhaust,13,False,8953,6625,Cloth Armor,,Eye of the Equinox,Redemption,Boots of Mobility,Null-Magic Mantle,22656,7461,Lane.bot_lane,Role.support
+6,Garani,Shyvana,True,Side.red,10,4,10,5.0,178,Smite,Ghost,16,False,14140,12275,Enchantment: Cinderhulk,Titanic Hydra,Dead Man's Plate,Mercury's Treads,Spectre's Cowl,Kindlegem,85735,88223,Lane.jungle,Role.none
+7,GodMeru,Yasuo,True,Side.red,4,5,7,2.2,243,Flash,Teleport,16,False,12917,9855,Doran's Blade,Ruby Crystal,Maw of Malmortius,Berserker's Greaves,B. F. Sword,Phantom Dancer,29938,128351,Lane.top_lane,Role.solo
+8,Toll,Ashe,True,Side.red,4,5,11,3.0,193,Flash,Heal,14,True,12398,9400,B. F. Sword,Essence Reaver,Runaan's Hurricane,Berserker's Greaves,,Doran's Blade,2333,121938,Lane.bot_lane,Role.carry
+9,Program,Veigar,True,Side.red,9,5,11,4.0,168,Ghost,Flash,16,False,13311,8970,Rod of Ages,Negatron Cloak,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Needlessly Large Rod,108692,13034,Lane.mid_lane,Role.solo

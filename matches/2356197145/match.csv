@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TearingHeavenly,Zed,False,Side.blue,4,1,3,7.0,180,Ignite,Flash,13,False,8756,8025,Youmuu's Ghostblade,Control Ward,The Black Cleaver,Mercury's Treads,Long Sword,,4423,85846,Lane.mid_lane,Role.solo
+1,Touph,Blitzcrank,False,Side.blue,4,6,4,1.3333333333333333,35,Flash,Ignite,10,False,6378,6200,Face of the Mountain,Sheen,Sightstone,Glacial Shroud,,Boots of Mobility,11172,6207,Lane.bot_lane,Role.support
+2,thomasb1215,Malphite,False,Side.blue,1,5,5,1.2,163,Flash,Teleport,12,False,7914,7600,Mercury's Treads,Iceborn Gauntlet,Sunfire Cape,Ruby Crystal,,,59404,25914,Lane.top_lane,Role.solo
+3,Sam72,Draven,False,Side.blue,1,9,5,0.6666666666666666,129,Flash,Heal,11,False,7442,7050,Doran's Blade,Infinity Edge,Phantom Dancer,Dagger,,,0,78559,Lane.bot_lane,Role.carry
+4,Yifan Ace,Vayne,False,Side.blue,6,6,3,1.5,57,Flash,Smite,11,False,7457,7175,Cloak of Agility,Hunter's Machete,Berserker's Greaves,Statikk Shiv,Pickaxe,B. F. Sword,2795,39422,Lane.jungle,Role.none
+5,Abcixi,LeBlanc,True,Side.red,5,6,1,1.0,116,Ignite,Flash,12,False,8057,6825,Zhonya's Hourglass,Doran's Ring,Refillable Potion,Morellonomicon,Boots of Speed,,46403,8751,Lane.mid_lane,Role.solo
+6,Makio,Gangplank,True,Side.red,2,2,4,3.0,218,Flash,Teleport,14,False,10626,8283,Essence Reaver,Control Ward,Corrupting Potion,,Trinity Force,Boots of Speed,5223,123897,Lane.top_lane,Role.solo
+7,Heaven Arbiter,Lee Sin,True,Side.red,5,2,3,4.0,59,Smite,Flash,11,False,7769,7200,Edge of Night,Refillable Potion,Enchantment: Warrior,Boots of Swiftness,,,10893,62452,Lane.jungle,Role.none
+8,herolineage,Ezreal,True,Side.red,8,4,7,3.75,157,Flash,Heal,13,True,10680,9383,Doran's Blade,Bilgewater Cutlass,Trinity Force,Ionian Boots of Lucidity,Muramana,Dagger,8267,74950,Lane.bot_lane,Role.carry
+9,DynamicQuartet,Alistar,True,Side.red,7,2,9,8.0,49,Flash,Exhaust,11,False,8469,7675,Boots of Mobility,Face of the Mountain,Thornmail,Crystalline Bracer,Total Biscuit of Rejuvenation,Sightstone,13164,8451,Lane.bot_lane,Role.support

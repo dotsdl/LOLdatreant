@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vote No,Riven,True,Side.blue,0,7,7,1.0,179,Teleport,Flash,14,False,10669,9945,Doran's Blade,Ninja Tabi,Death's Dance,Negatron Cloak,The Black Cleaver,Chain Vest,0,113942,Lane.top_lane,Role.solo
+1,Drowning,Graves,True,Side.blue,6,3,9,5.0,152,Flash,Smite,14,False,12060,11525,Refillable Potion,Pickaxe,Ninja Tabi,Enchantment: Warrior,Phantom Dancer,Death's Dance,3744,132517,Lane.jungle,Role.none
+2,Arcminute,Viktor,True,Side.blue,16,0,7,23.0,266,Exhaust,Flash,17,False,17244,14600,Ionian Boots of Lucidity,Perfect Hex Core,Rylai's Crystal Scepter,Rabadon's Deathcap,Doran's Ring,Void Staff,197518,14221,Lane.mid_lane,Role.solo
+3,ShadowofSelf,Zyra,True,Side.blue,2,8,14,2.0,42,Flash,Exhaust,13,False,10586,8860,Sorcerer's Shoes,Eye of the Watchers,Liandry's Torment,Null-Magic Mantle,Fiendish Codex,Amplifying Tome,36638,5150,Lane.bot_lane,Role.support
+4,goompa,Twitch,True,Side.blue,7,5,9,3.2,231,Heal,Flash,15,False,13601,11300,Berserker's Greaves,Doran's Blade,Long Sword,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,1539,130377,Lane.bot_lane,Role.carry
+5,simple is best,Irelia,False,Side.red,1,7,2,0.42857142857142855,191,Teleport,Flash,14,False,8777,7908,Doran's Blade,Corrupting Potion,Trinity Force,Ninja Tabi,Spectre's Cowl,Kindlegem,2662,73680,Lane.top_lane,Role.solo
+6,umperor,Fizz,False,Side.red,11,10,0,1.1,126,Ignite,Flash,15,False,10171,10085,The Dark Seal,Rabadon's Deathcap,Lich Bane,Ionian Boots of Lucidity,Fiendish Codex,Amplifying Tome,64763,20432,Lane.mid_lane,Role.solo
+7,Auldrant,Ezreal,False,Side.red,4,4,4,2.0,230,Flash,Heal,14,False,10264,9833,Doran's Blade,Bilgewater Cutlass,Ionian Boots of Lucidity,Trinity Force,Muramana,Dagger,18002,92283,Lane.bot_lane,Role.carry
+8,Jadsbutt,Janna,False,Side.red,0,7,8,1.1428571428571428,16,Flash,Exhaust,11,False,6467,6225,Redemption,Sightstone,Nomad's Medallion,Ionian Boots of Lucidity,Aegis of the Legion,,3591,3429,Lane.bot_lane,Role.support
+9,Nero Valentine,Lee Sin,False,Side.red,7,3,5,4.0,152,Smite,Flash,15,True,11270,10700,Enchantment: Warrior,Tiamat,Guardian Angel,Boots of Swiftness,Dead Man's Plate,Null-Magic Mantle,19570,129832,Lane.jungle,Role.none

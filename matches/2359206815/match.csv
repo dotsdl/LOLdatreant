@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jhené Aiko,Nocturne,False,Side.blue,6,5,7,2.6,153,Flash,Smite,14,False,11521,10625,Enchantment: Warrior,Ruby Crystal,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Long Sword,4290,146097,Lane.jungle,Role.none
+1,Grande Donger,Taric,False,Side.blue,2,5,11,2.6,36,Flash,Exhaust,12,False,8622,7925,Eye of the Equinox,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Control Ward,,8348,6076,Lane.bot_lane,Role.support
+2,Turb,Poppy,False,Side.blue,2,9,2,0.4444444444444444,159,Flash,Teleport,13,False,8975,8675,Corrupting Potion,Spirit Visage,Sunfire Cape,Mercury's Treads,Warden's Mail,,20242,68048,Lane.top_lane,Role.solo
+3,Nillers,Vayne,False,Side.blue,6,6,4,1.6666666666666667,221,Heal,Flash,15,False,11475,10175,Statikk Shiv,Infinity Edge,Berserker's Greaves,Doran's Blade,Vampiric Scepter,Last Whisper,47114,95224,Lane.bot_lane,Role.carry
+4,Lanfear,Annie,False,Side.blue,10,6,4,2.3333333333333335,205,Flash,Ghost,14,False,12268,12000,Rylai's Crystal Scepter,Blasting Wand,Ionian Boots of Lucidity,Hextech Protobelt-01,Needlessly Large Rod,Void Staff,115149,9462,Lane.mid_lane,Role.solo
+5,Henchey,Jhin,True,Side.red,7,6,12,3.1666666666666665,175,Heal,Flash,14,False,11927,9575,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Null-Magic Mantle,Last Whisper,7233,126408,Lane.bot_lane,Role.carry
+6,Kuan,Vi,True,Side.red,6,6,16,3.6666666666666665,119,Smite,Flash,15,False,11721,9975,Randuin's Omen,Mercury's Treads,Banshee's Veil,Enchantment: Warrior,Ruby Crystal,Long Sword,1703,113465,Lane.jungle,Role.none
+7,King Crown,Soraka,True,Side.red,2,7,17,2.7142857142857144,11,Flash,Exhaust,13,False,9004,7625,Frost Queen's Claim,Sightstone,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,,14638,5141,Lane.bot_lane,Role.support
+8,DiamondDave,Ryze,True,Side.red,5,5,9,2.8,212,Flash,Ghost,16,False,12110,9900,Morellonomicon,,,Ionian Boots of Lucidity,Rod of Ages,Seraph's Embrace,140516,18250,Lane.mid_lane,Role.solo
+9,Harry Ward,Nautilus,True,Side.red,11,2,13,12.0,228,Flash,Teleport,16,True,14913,14200,Banshee's Veil,Zz'Rot Portal,Randuin's Omen,Mercury's Treads,Sunfire Cape,Giant's Belt,109982,27180,Lane.top_lane,Role.solo

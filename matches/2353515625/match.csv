@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Orbt,Brand,False,Side.blue,5,11,9,1.2727272727272727,57,Flash,Ignite,12,False,9612,9325,Eye of the Watchers,Blasting Wand,Haunting Guise,,Rylai's Crystal Scepter,Sorcerer's Shoes,54500,5862,Lane.jungle,Role.none
+1,TheRickestRlCK,Jhin,False,Side.blue,5,8,8,1.625,179,Flash,Heal,14,False,10477,10225,Doran's Blade,Quicksilver Sash,Rapid Firecannon,Essence Reaver,Berserker's Greaves,Pickaxe,1987,127459,Lane.bot_lane,Role.solo
+2,OpenBackpack,Ryze,False,Side.blue,3,6,7,1.6666666666666667,213,Flash,Ghost,15,False,10461,9550,Seraph's Embrace,Control Ward,Quicksilver Sash,Rod of Ages,Ionian Boots of Lucidity,Needlessly Large Rod,148259,10672,Lane.mid_lane,Role.solo
+3,Fire Editorial,Rammus,False,Side.blue,7,8,9,2.0,145,Flash,Teleport,14,True,10508,10000,Sunfire Cape,Ninja Tabi,Thornmail,Guardian Angel,,,73191,20865,Lane.top_lane,Role.solo
+4,Lovechemist,Lee Sin,False,Side.blue,4,5,10,2.8,120,Smite,Flash,14,False,10084,9650,Control Ward,Enchantment: Warrior,Ninja Tabi,Warden's Mail,The Black Cleaver,Giant's Belt,19718,102624,Lane.jungle,Role.none
+5,vìper,Riven,True,Side.red,18,6,3,3.5,257,Flash,Teleport,17,False,16860,14775,Lord Dominik's Regards,Ravenous Hydra,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Pickaxe,334,196433,Lane.top_lane,Role.solo
+6,Pocket Size,Janna,True,Side.red,1,5,26,5.4,12,Flash,Exhaust,14,False,9952,8450,Mejai's Soulstealer,Eye of the Oasis,Crystalline Bracer,Ardent Censer,Boots of Mobility,Forbidden Idol,10273,6064,Lane.bot_lane,Role.support
+7,Tangularx,Ashe,True,Side.red,4,7,14,2.5714285714285716,190,Heal,Flash,14,False,12116,10575,Essence Reaver,Runaan's Hurricane,Last Whisper,Doran's Blade,Vampiric Scepter,Berserker's Greaves,1321,113149,Lane.bot_lane,Role.carry
+8,Discrete,Kindred,True,Side.red,7,4,11,4.5,93,Smite,Flash,14,False,11509,9975,Frozen Mallet,Refillable Potion,Null-Magic Mantle,Phantom Dancer,Enchantment: Bloodrazor,Mercury's Treads,2308,112334,Lane.jungle,Role.none
+9,Poı,Malzahar,True,Side.red,8,2,12,10.0,195,Flash,Ghost,16,False,13352,11460,Doran's Ring,Liandry's Torment,Ionian Boots of Lucidity,Amplifying Tome,Morellonomicon,Rylai's Crystal Scepter,113047,32324,Lane.mid_lane,Role.solo

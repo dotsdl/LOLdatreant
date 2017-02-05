@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Àce,Ezreal,True,Side.blue,7,4,8,3.75,130,Flash,Heal,12,False,10439,8550,Bilgewater Cutlass,Muramana,Cull,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Blade,13017,69498,Lane.bot_lane,Role.carry
+1,O N,Blitzcrank,True,Side.blue,1,1,14,15.0,22,Flash,Ignite,11,False,7521,6800,Crystalline Bracer,Boots of Mobility,Crystalline Bracer,Face of the Mountain,Ruby Sightstone,Cloth Armor,7767,8630,Lane.bot_lane,Role.support
+2,IQ is 201 ,Lee Sin,True,Side.blue,11,5,9,4.0,91,Flash,Smite,13,False,11066,9347,Enchantment: Warrior,Tiamat,Refillable Potion,Dead Man's Plate,Boots of Mobility,Phage,14062,86030,Lane.jungle,Role.none
+3,scarraCANNON,Riven,True,Side.blue,2,5,10,2.4,129,Flash,Teleport,13,False,9419,7800,The Black Cleaver,Ionian Boots of Lucidity,Vampiric Scepter,Tiamat,Hexdrinker,,0,78595,Lane.top_lane,Role.solo
+4,Pianist,Twisted Fate,True,Side.blue,12,1,11,23.0,156,Flash,Ghost,14,False,13542,11950,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Lich Bane,Rabadon's Deathcap,Blasting Wand,121557,14985,Lane.mid_lane,Role.solo
+5,herolineage,Twitch,False,Side.red,4,7,4,1.1428571428571428,135,Flash,Heal,11,False,8003,7300,Doran's Blade,Runaan's Hurricane,Infinity Edge,Dagger,Boots of Speed,,0,64966,Lane.bot_lane,Role.carry
+6,Sunae,Morgana,False,Side.red,1,4,4,1.25,149,Ghost,Flash,13,False,7292,6300,Doran's Ring,Aether Wisp,Boots of Swiftness,Rod of Ages,Needlessly Large Rod,,72004,11139,Lane.mid_lane,Role.solo
+7,Sìyou,Kennen,False,Side.red,7,7,4,1.5714285714285714,140,Flash,Teleport,13,True,9183,8435,Hextech Protobelt-01,Needlessly Large Rod,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,Amplifying Tome,55794,19710,Lane.top_lane,Role.solo
+8,7788 ADC,Graves,False,Side.red,3,10,7,1.0,128,Smite,Flash,12,False,8348,8025,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Berserker's Greaves,Serrated Dirk,,2243,103229,Lane.jungle,Role.none
+9,Dregin001,Alistar,False,Side.red,1,5,10,2.2,29,Exhaust,Flash,11,False,6153,5350,Face of the Mountain,Crystalline Bracer,Boots of Mobility,Sightstone,Control Ward,Cloth Armor,6615,4864,Lane.bot_lane,Role.support

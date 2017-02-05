@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Babolat,Shyvana,False,Side.blue,3,8,3,0.75,123,Smite,Flash,13,False,8586,7900,Titanic Hydra,Refillable Potion,Mercury's Treads,Null-Magic Mantle,Enchantment: Bloodrazor,,52214,51415,Lane.jungle,Role.none
+1,tabby,Janna,False,Side.blue,0,4,7,1.75,6,Exhaust,Flash,11,False,6294,5850,Redemption,Eye of the Watchers,Null-Magic Mantle,,,Boots of Swiftness,4044,3058,Lane.bot_lane,Role.support
+2,Precipitate,Vayne,False,Side.blue,4,8,3,0.875,185,Flash,Heal,13,False,9574,8725,Statikk Shiv,Berserker's Greaves,Doran's Blade,Infinity Edge,Brawler's Gloves,Dagger,18295,76110,Lane.bot_lane,Role.carry
+3,cedou234,Kennen,False,Side.blue,3,5,7,2.0,100,Teleport,Flash,13,False,8064,7610,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Blade,Amplifying Tome,,37781,13487,Lane.top_lane,Role.solo
+4,galou001,Azir,False,Side.blue,4,10,3,0.7,144,Flash,Heal,13,False,8601,8350,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Nashor's Tooth,Ruby Crystal,73812,13122,Lane.mid_lane,Role.solo
+5,Atychi,Lucian,True,Side.red,12,3,7,6.333333333333333,165,Flash,Heal,14,False,12569,9225,Doran's Blade,Phantom Dancer,Essence Reaver,Berserker's Greaves,B. F. Sword,,3636,106709,Lane.bot_lane,Role.carry
+6,asdfghjklSPOF,Lee Sin,True,Side.red,7,2,13,10.0,105,Smite,Flash,14,True,11362,10550,Enchantment: Warrior,Randuin's Omen,Control Ward,Guardian Angel,Spectre's Cowl,Boots of Mobility,15176,75104,Lane.jungle,Role.none
+7,ACuteKoreanGirI,Yasuo,True,Side.red,7,5,7,2.8,193,Exhaust,Flash,15,False,12055,10625,Phage,Boots of Speed,Phantom Dancer,Hexdrinker,Infinity Edge,Vampiric Scepter,26298,115560,Lane.top_lane,Role.solo
+8,Zv Pickle,Syndra,True,Side.red,9,2,5,7.0,208,Flash,Ghost,15,False,12345,10725,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Void Staff,,131833,8970,Lane.mid_lane,Role.solo
+9,Slurk,Alistar,True,Side.red,0,2,15,7.5,29,Exhaust,Flash,11,False,7652,7000,Relic Shield,Redemption,Knight's Vow,Boots of Mobility,,Sightstone,12316,7422,Lane.bot_lane,Role.support

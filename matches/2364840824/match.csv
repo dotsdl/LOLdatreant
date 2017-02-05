@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Decro,Riven,False,Side.blue,2,8,3,0.625,180,Flash,Ignite,14,False,9809,9100,The Black Cleaver,Tiamat,Ionian Boots of Lucidity,Chain Vest,Spirit Visage,,0,108801,Lane.top_lane,Role.solo
+1,Wizikz,Lee Sin,False,Side.blue,6,11,5,1.0,114,Smite,Flash,12,False,9721,9400,Titanic Hydra,Enchantment: Warrior,Long Sword,Ninja Tabi,Phage,Long Sword,12817,82411,Lane.jungle,Role.none
+2,loveyen,Syndra,False,Side.blue,6,7,1,1.0,158,Flash,Ghost,13,False,9505,9410,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,79659,4660,Lane.mid_lane,Role.solo
+3,Salted Shaker,Tristana,False,Side.blue,4,7,2,0.8571428571428571,187,Flash,Heal,12,False,10038,9725,Doran's Blade,Runaan's Hurricane,Zeal,Berserker's Greaves,Cull,Infinity Edge,22821,88570,Lane.bot_lane,Role.carry
+4,Blown by Joanna,Sona,False,Side.blue,1,7,10,1.5714285714285714,7,Exhaust,Flash,12,False,7370,6450,Sheen,Ionian Boots of Lucidity,Eye of the Watchers,Control Ward,Aether Wisp,The Dark Seal,9323,4522,Lane.bot_lane,Role.support
+5,Shinon,Renekton,True,Side.red,7,1,9,16.0,216,Flash,Teleport,16,False,12727,12075,Doran's Blade,The Black Cleaver,Titanic Hydra,Sterak's Gage,Caulfield's Warhammer,Mercury's Treads,2680,129487,Lane.top_lane,Role.solo
+6,Vultix,Shaco,True,Side.red,17,3,7,8.0,107,Flash,Smite,16,False,14137,10975,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Statikk Shiv,Infinity Edge,Vampiric Scepter,44702,97658,Lane.jungle,Role.none
+7,barcodeslaYer,Twitch,True,Side.red,5,5,9,2.8,167,Heal,Flash,14,False,10719,8650,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,Cull,1123,95527,Lane.bot_lane,Role.carry
+8,s7ylish,Nami,True,Side.red,1,5,20,4.2,8,Exhaust,Flash,13,False,8607,7985,Frost Queen's Claim,Redemption,Sightstone,Glacial Shroud,Amplifying Tome,Ionian Boots of Lucidity,9980,4697,Lane.bot_lane,Role.support
+9,Izzled,Katarina,True,Side.red,10,5,7,3.4,207,Ignite,Flash,15,True,12485,11150,Void Staff,Hextech Gunblade,The Dark Seal,Sorcerer's Shoes,Rylai's Crystal Scepter,,116093,21907,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Azerothir,Nami,False,Side.blue,3,7,12,2.142857142857143,15,Flash,Exhaust,13,False,10304,9100,Control Ward,Locket of the Iron Solari,Eye of the Watchers,Redemption,Chalice of Harmony,Boots of Mobility,6281,7884,Lane.bot_lane,Role.support
+1,I Serenity I,Ezreal,False,Side.blue,6,7,5,1.5714285714285714,281,Flash,Heal,16,True,14623,14463,Hexdrinker,Blade of the Ruined King,,Muramana,Trinity Force,Ionian Boots of Lucidity,24203,161291,Lane.bot_lane,Role.carry
+2,Boz,Lee Sin,False,Side.blue,5,6,10,2.5,197,Flash,Smite,18,False,13375,12575,Edge of Night,Enchantment: Warrior,Ionian Boots of Lucidity,Maw of Malmortius,Dead Man's Plate,,46336,136957,Lane.jungle,Role.none
+3,Myloo,Poppy,False,Side.blue,6,4,8,3.5,234,Flash,Teleport,18,False,13346,13175,Mercury's Treads,Corrupting Potion,Randuin's Omen,Sunfire Cape,Spirit Visage,Dead Man's Plate,35428,111061,Lane.top_lane,Role.solo
+4,AllAero,Cassiopeia,False,Side.blue,6,5,9,3.0,271,Flash,Ghost,17,False,13737,12650,Seraph's Embrace,Rylai's Crystal Scepter,Doran's Ring,,Abyssal Scepter,Morellonomicon,138632,10915,Lane.mid_lane,Role.solo
+5,JoDa Fucking Pen,Swain,True,Side.red,2,5,13,3.0,226,Teleport,Flash,17,False,12864,12275,Needlessly Large Rod,Rod of Ages,Zhonya's Hourglass,Sorcerer's Shoes,Abyssal Scepter,Giant's Belt,103548,19390,Lane.top_lane,Role.solo
+6,cùrz,Taric,True,Side.red,3,4,18,5.25,64,Flash,Ignite,16,False,12030,10125,Ruby Sightstone,Face of the Mountain,Redemption,Knight's Vow,Mercury's Treads,Control Ward,9471,12366,Lane.bot_lane,Role.support
+7,Stessy Poirier,Zyra,True,Side.red,3,9,7,1.1111111111111112,187,Flash,Ignite,16,False,12250,11535,Void Staff,Sorcerer's Shoes,Morellonomicon,Liandry's Torment,Amplifying Tome,Ruby Crystal,88673,19066,Lane.mid_lane,Role.solo
+8,KitingYeezus,Kha'Zix,True,Side.red,6,4,6,3.0,189,Flash,Smite,17,False,13738,13650,Edge of Night,Tiamat,Haunting Guise,Duskblade of Draktharr,Enchantment: Warrior,Boots of Swiftness,4501,179151,Lane.jungle,Role.none
+9,Goxtry,Sivir,True,Side.red,15,4,8,5.75,349,Heal,Flash,18,False,20513,17850,Lord Dominik's Regards,Essence Reaver,Mercurial Scimitar,Phantom Dancer,Infinity Edge,Berserker's Greaves,0,319087,Lane.bot_lane,Role.carry

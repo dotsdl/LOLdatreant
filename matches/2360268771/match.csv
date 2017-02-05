@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Regular Mid,Ryze,False,Side.blue,6,4,8,3.5,177,Flash,Ghost,15,False,10859,10225,Refillable Potion,,Seraph's Embrace,Void Staff,Rod of Ages,Ionian Boots of Lucidity,122597,8320,Lane.mid_lane,Role.solo
+1,WalaDANG,Jayce,False,Side.blue,4,7,4,1.1428571428571428,175,Flash,Teleport,14,True,10390,9400,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Ninja Tabi,Chain Vest,Giant's Belt,12047,95471,Lane.top_lane,Role.solo
+2,AchiIIes Heal,Blitzcrank,False,Side.blue,3,6,13,2.6666666666666665,28,Flash,Ignite,11,False,8346,7700,Catalyst of Aeons,Crystalline Bracer,Ruby Sightstone,Relic Shield,Boots of Mobility,Iceborn Gauntlet,10885,6325,Lane.bot_lane,Role.support
+3,SquirreI,Twitch,False,Side.blue,10,6,3,2.1666666666666665,209,Flash,Heal,15,False,12497,12100,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Infinity Edge,Runaan's Hurricane,B. F. Sword,1141,117857,Lane.bot_lane,Role.carry
+4,NaVi Juan,Graves,False,Side.blue,4,5,9,2.6,127,Smite,Flash,14,False,10280,9700,Zeal,Dagger,Dagger,The Bloodthirster,Enchantment: Warrior,Mercury's Treads,6538,137854,Lane.jungle,Role.none
+5,Cat Person,Janna,True,Side.red,1,5,20,4.2,8,Flash,Heal,13,False,8436,7625,Redemption,Sightstone,Locket of the Iron Solari,Control Ward,Frostfang,Ninja Tabi,2474,4156,Lane.bot_lane,Role.support
+6,Falco Mechanic,Jinx,True,Side.red,16,8,4,2.5,229,Exhaust,Flash,15,False,14889,13925,Doran's Blade,Infinity Edge,Berserker's Greaves,The Bloodthirster,Runaan's Hurricane,Pickaxe,152,187469,Lane.bot_lane,Role.carry
+7,Andybendy,Lee Sin,True,Side.red,2,4,6,2.0,104,Flash,Smite,14,False,9380,7200,Enchantment: Warrior,Randuin's Omen,Refillable Potion,Ionian Boots of Lucidity,Ruby Crystal,Control Ward,14539,81466,Lane.jungle,Role.none
+8,MEMEME670,Xerath,True,Side.red,3,7,14,2.4285714285714284,163,Flash,Heal,14,False,10265,9600,Morellonomicon,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Luden's Echo,Needlessly Large Rod,99725,8983,Lane.mid_lane,Role.solo
+9,Carrots2,Gangplank,True,Side.red,6,3,13,6.333333333333333,223,Flash,Exhaust,16,False,13735,13318,Phantom Dancer,Boots of Swiftness,Trinity Force,Cull,Infinity Edge,Zeal,10283,181374,Lane.top_lane,Role.solo

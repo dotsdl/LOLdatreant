@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ceophd,Quinn,False,Side.blue,11,8,7,2.25,179,Flash,Heal,15,False,12940,12150,Duskblade of Draktharr,Quicksilver Sash,Boots of Swiftness,Statikk Shiv,Lord Dominik's Regards,Cloak of Agility,18043,121454,Lane.bot_lane,Role.carry
+1,I Starboy l,Jayce,False,Side.blue,0,7,5,0.7142857142857143,168,Teleport,Flash,13,False,9705,9375,Doran's Blade,Pickaxe,Mercury's Treads,The Black Cleaver,Maw of Malmortius,Long Sword,10395,91874,Lane.top_lane,Role.solo
+2,Bruce the Moose,Vi,False,Side.blue,5,10,6,1.1,124,Smite,Flash,14,False,10296,9700,Enchantment: Warrior,Boots of Speed,Youmuu's Ghostblade,Maw of Malmortius,Ruby Crystal,,684,122737,Lane.jungle,Role.none
+3,MarkusSharkus,Morgana,False,Side.blue,5,7,13,2.5714285714285716,25,Flash,Exhaust,12,False,10368,9650,Abyssal Scepter,Eye of the Watchers,Zhonya's Hourglass,Sorcerer's Shoes,,,26043,4202,Lane.bot_lane,Role.support
+4,YuBabbi,Lux,False,Side.blue,6,8,8,1.75,168,Ghost,Flash,14,False,11192,11075,Sorcerer's Shoes,Morellonomicon,Void Staff,Luden's Echo,Doran's Ring,Doran's Ring,98236,17020,Lane.mid_lane,Role.solo
+5,Kno one,Maokai,True,Side.red,9,4,11,5.0,151,Flash,Smite,17,True,13777,11575,Locket of the Iron Solari,Refillable Potion,Boots of Mobility,Enchantment: Cinderhulk,Dead Man's Plate,Spirit Visage,101806,41471,Lane.jungle,Role.none
+6,Yasuo20Verse28,Sion,True,Side.red,7,5,10,3.4,174,Teleport,Flash,16,False,12710,10775,Sunfire Cape,Corrupting Potion,Ninja Tabi,Iceborn Gauntlet,Zz'Rot Portal,Chain Vest,51562,68650,Lane.top_lane,Role.solo
+7,THE RING BEARER,Draven,True,Side.red,1,3,0,0.3333333333333333,66,Heal,Flash,8,False,8200,3400,Doran's Blade,Vampiric Scepter,B. F. Sword,Long Sword,Dagger,,0,29570,Lane.bot_lane,Role.duo
+8,ShadowyFigure,Bard,True,Side.red,6,7,17,3.2857142857142856,64,Flash,Exhaust,16,False,12634,9075,Ionian Boots of Lucidity,Redemption,Spirit Visage,Ruby Crystal,Cloth Armor,Eye of the Watchers,34878,14392,Lane.bot_lane,Role.duo
+9,RealTeemo,Teemo,True,Side.red,17,8,12,3.625,150,Ignite,Flash,17,False,15803,13625,Doran's Ring,Morellonomicon,Nashor's Tooth,Void Staff,Luden's Echo,Sorcerer's Shoes,115426,33985,Lane.mid_lane,Role.solo

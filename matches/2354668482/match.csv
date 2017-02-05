@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,I Shadow I,Lee Sin,False,Side.blue,9,10,12,2.1,156,Flash,Smite,16,False,13631,13350,Enchantment: Warrior,Ravenous Hydra,Mercury's Treads,The Black Cleaver,Spirit Visage,,36792,127491,Lane.jungle,Role.none
+1,TLG solo,Orianna,False,Side.blue,12,9,5,1.8888888888888888,248,Flash,Ghost,17,False,15265,14935,Luden's Echo,Morellonomicon,Rylai's Crystal Scepter,Void Staff,Sorcerer's Shoes,Doran's Ring,195860,17616,Lane.mid_lane,Role.solo
+2,RiddlerShen,Shen,False,Side.blue,6,2,15,10.5,180,Flash,Ignite,16,False,12840,12200,Locket of the Iron Solari,Redemption,Sunfire Cape,Mercury's Treads,Zz'Rot Portal,Ruby Crystal,88233,35298,Lane.top_lane,Role.solo
+3,pan and cake,Sivir,False,Side.blue,3,6,14,2.8333333333333335,285,Flash,Heal,16,False,13565,12450,Doran's Blade,Berserker's Greaves,Phantom Dancer,Infinity Edge,Vampiric Scepter,Essence Reaver,74,207511,Lane.bot_lane,Role.carry
+4,Gunsae,Janna,False,Side.blue,1,11,22,2.090909090909091,14,Flash,Exhaust,12,False,10416,9980,Ardent Censer,Redemption,Eye of the Watchers,Mercury's Treads,Raptor Cloak,Null-Magic Mantle,15291,5622,Lane.bot_lane,Role.support
+5,Fierce Mushy,Ekko,True,Side.red,13,6,5,3.0,225,Teleport,Flash,16,False,15450,13750,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Lich Bane,Doran's Ring,Void Staff,175434,25325,Lane.mid_lane,Role.solo
+6,Tschussi,Nautilus,True,Side.red,7,5,14,4.2,205,Flash,Teleport,16,False,13544,13100,Sunfire Cape,Null-Magic Mantle,Ninja Tabi,Frozen Heart,Warmog's Armor,Guardian Angel,114103,27288,Lane.top_lane,Role.solo
+7,Candymang,Corki,True,Side.red,6,7,16,3.142857142857143,181,Flash,Heal,15,False,12993,11483,Hextech Gunblade,Trinity Force,Rapid Firecannon,Sorcerer's Shoes,Doran's Blade,,90390,42402,Lane.bot_lane,Role.carry
+8,Xyd ,Nami,True,Side.red,3,6,26,4.833333333333333,11,Flash,Exhaust,14,True,12370,10800,Frost Queen's Claim,Zeke's Harbinger,Boots of Mobility,Sightstone,Redemption,Mejai's Soulstealer,15170,8126,Lane.bot_lane,Role.support
+9,The Solo King P,Rengar,True,Side.red,9,7,7,2.2857142857142856,147,Flash,Smite,16,False,14207,10800,Enchantment: Warrior,Serrated Dirk,Ninja Tabi,Dead Man's Plate,Spirit Visage,,26904,147282,Lane.jungle,Role.none

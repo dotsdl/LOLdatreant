@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JDaddyMelink,Caitlyn,False,Side.blue,4,4,4,2.0,199,Flash,Heal,12,False,9770,9250,Doran's Blade,Berserker's Greaves,Cull,Runaan's Hurricane,Infinity Edge,Giant Slayer,1318,107914,Lane.bot_lane,Role.carry
+1,MaskedZero,Lee Sin,False,Side.blue,5,9,2,0.7777777777777778,94,Smite,Flash,12,False,7952,7895,Ionian Boots of Lucidity,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Negatron Cloak,Ruby Crystal,11456,77312,Lane.jungle,Role.none
+2,iBeebo,Leona,False,Side.blue,2,6,6,1.3333333333333333,29,Exhaust,Flash,10,False,5993,5650,Cloth Armor,Mercury's Treads,Control Ward,Spectre's Cowl,Eye of the Equinox,,4185,6223,Lane.bot_lane,Role.support
+3,Gayzuo,Ryze,False,Side.blue,0,6,7,1.1666666666666667,132,Ghost,Flash,13,False,7510,5550,Tear of the Goddess,,Rod of Ages,Ionian Boots of Lucidity,,Lost Chapter,66625,6950,Lane.mid_lane,Role.solo
+4,Dank Cub,Nasus,False,Side.blue,2,2,0,1.0,159,Flash,Teleport,12,False,7624,6795,Doran's Ring,Spirit Visage,Corrupting Potion,Mercury's Treads,Raptor Cloak,Negatron Cloak,58114,21554,Lane.top_lane,Role.solo
+5,zinxao,Jinx,True,Side.red,4,4,7,2.75,112,Heal,Flash,11,True,9055,8500,Runaan's Hurricane,Berserker's Greaves,Long Sword,Infinity Edge,Doran's Blade,Long Sword,1069,64636,Lane.bot_lane,Role.carry
+6,Grande Donger,Taric,True,Side.red,1,2,16,8.5,36,Flash,Exhaust,12,False,8404,7200,Eye of the Equinox,Locket of the Iron Solari,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,,12122,10441,Lane.bot_lane,Role.support
+7,Leithal,Ekko,True,Side.red,6,2,6,6.0,159,Flash,Teleport,14,False,10140,8650,Corrupting Potion,Hextech Protobelt-01,The Dark Seal,Sorcerer's Shoes,Blasting Wand,Lich Bane,88956,16025,Lane.top_lane,Role.solo
+8,FlameShotzZ,Hecarim,True,Side.red,10,2,4,7.0,134,Smite,Ghost,14,False,11124,9708,Enchantment: Cinderhulk,Dead Man's Plate,Trinity Force,Boots of Speed,,,22783,104581,Lane.jungle,Role.none
+9,DrunkCatalyst,Viktor,True,Side.red,6,3,6,4.0,186,Flash,Ghost,14,False,10919,8810,Rylai's Crystal Scepter,Amplifying Tome,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,87587,12339,Lane.mid_lane,Role.solo

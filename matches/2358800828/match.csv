@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Perrito,Ahri,True,Side.blue,8,4,11,4.75,149,Ignite,Flash,15,False,11475,11400,Rylai's Crystal Scepter,Zhonya's Hourglass,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Control Ward,48891,15822,Lane.mid_lane,Role.solo
+1,cùrz,Taric,True,Side.blue,3,6,24,4.5,40,Flash,Exhaust,14,False,10414,7650,Sightstone,Face of the Mountain,Frozen Heart,Ruby Crystal,Ninja Tabi,,12877,11084,Lane.bot_lane,Role.support
+2,0 K A Y B O Y S,Nasus,True,Side.blue,5,3,6,3.6666666666666665,222,Flash,Teleport,16,False,12461,10725,Corrupting Potion,Zz'Rot Portal,The Dark Seal,Dead Man's Plate,Ninja Tabi,Iceborn Gauntlet,70311,70838,Lane.top_lane,Role.solo
+3,KitingYeezus,Nocturne,True,Side.blue,7,6,13,3.3333333333333335,110,Flash,Smite,15,False,11101,10975,Enchantment: Warrior,Randuin's Omen,Ninja Tabi,Frozen Mallet,Refillable Potion,Caulfield's Warhammer,5688,96700,Lane.jungle,Role.none
+4,Str1fe,Caitlyn,True,Side.blue,12,7,9,3.0,199,Flash,Heal,15,False,14271,11900,Doran's Blade,Infinity Edge,Vampiric Scepter,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,726,159039,Lane.bot_lane,Role.carry
+5,OmarGod,Alistar,False,Side.red,3,6,11,2.3333333333333335,23,Flash,Ignite,12,False,7650,5500,Eye of the Equinox,Boots of Mobility,Redemption,,,Refillable Potion,10371,4985,Lane.bot_lane,Role.support
+6,Snackbar123,Zed,False,Side.red,7,6,8,2.5,204,Ignite,Flash,14,True,12105,11175,The Black Cleaver,Refillable Potion,Mercury's Treads,Ravenous Hydra,Lord Dominik's Regards,Long Sword,8011,140466,Lane.mid_lane,Role.solo
+7,deftIy,Yasuo,False,Side.red,4,5,6,2.0,251,Flash,Teleport,15,False,11601,11200,Phantom Dancer,Doran's Blade,Frozen Mallet,Boots of Swiftness,Lord Dominik's Regards,B. F. Sword,46915,102402,Lane.top_lane,Role.solo
+8,Licorice,Lucian,False,Side.red,6,10,4,1.0,161,Flash,Heal,12,False,10459,9850,Cloak of Agility,Essence Reaver,Ionian Boots of Lucidity,Doran's Blade,Rapid Firecannon,B. F. Sword,4428,94940,Lane.bot_lane,Role.carry
+9,Tuesdayy,Lee Sin,False,Side.red,6,8,9,1.875,123,Smite,Flash,14,False,10767,10200,Tiamat,Enchantment: Warrior,Youmuu's Ghostblade,Boots of Swiftness,Phage,Caulfield's Warhammer,19100,97737,Lane.jungle,Role.none

@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Golden Frieza,Kayle,False,Side.blue,2,12,9,0.9166666666666666,65,Smite,Ghost,11,False,6100,5375,Refillable Potion,Enchantment: Bloodrazor,Fiendish Codex,Boots of Speed,Stinger,Dagger,23280,15139,Lane.jungle,Role.none
+1,Vegeta the God,Lux,False,Side.blue,5,7,5,1.4285714285714286,68,Heal,Flash,11,False,6495,5800,Wooglet's Witchcap,,Doran's Ring,Doran's Ring,Sorcerer's Shoes,,32282,7800,Lane.mid_lane,Role.duo
+2,Recklessmike,Jax,False,Side.blue,6,8,7,1.625,58,Flash,Ignite,11,False,6859,6483,Vampiric Scepter,Berserker's Greaves,Trinity Force,Long Sword,,,6324,28794,Lane.mid_lane,Role.duo
+3,Abou222,Graves,True,Side.red,9,4,8,4.25,118,Smite,Flash,14,True,11374,11225,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,The Bloodthirster,Caulfield's Warhammer,3584,118123,Lane.jungle,Role.none
+4,K0nundrum,Jayce,True,Side.red,8,4,8,4.0,106,Ignite,Flash,12,False,9411,7775,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Pickaxe,Boots of Speed,,8138,55030,Lane.mid_lane,Role.solo
+5,QquiiRedBest,Kassadin,True,Side.red,10,5,7,3.4,71,Flash,Ignite,13,False,9078,6550,Doran's Ring,Doran's Ring,Rod of Ages,Sorcerer's Shoes,Sheen,Aether Wisp,39406,15610,Lane.jungle,Role.none

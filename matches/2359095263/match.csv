@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Adrian Riven,Riven,False,Side.blue,7,2,5,6.0,182,Teleport,Flash,15,False,11058,11050,The Black Cleaver,Tiamat,Pickaxe,Death's Dance,Doran's Shield,Ninja Tabi,223,117318,Lane.top_lane,Role.solo
+1,SKY Fear,Vayne,False,Side.blue,3,4,8,2.75,275,Flash,Heal,15,False,12940,12350,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Phantom Dancer,B. F. Sword,2971,143346,Lane.bot_lane,Role.carry
+2,Seoksang,Skarner,False,Side.blue,2,5,5,1.4,124,Smite,Flash,14,False,9689,9195,Enchantment: Cinderhulk,Dead Man's Plate,Sheen,Mercury's Treads,Null-Magic Mantle,Control Ward,42042,61647,Lane.jungle,Role.none
+3,Gerrard,Lulu,False,Side.blue,2,4,7,2.25,16,Flash,Exhaust,12,False,8203,7725,Ruby Sightstone,Redemption,Ionian Boots of Lucidity,Forbidden Idol,Frostfang,Aether Wisp,11161,3347,Lane.bot_lane,Role.support
+4,Mordio,Graves,False,Side.blue,3,10,2,0.5,282,Exhaust,Flash,15,False,12154,12200,Phantom Dancer,Death's Dance,The Bloodthirster,Berserker's Greaves,Long Sword,Ruby Crystal,3669,205402,Lane.jungle,Role.none
+5,Annie Bot,Janna,True,Side.red,1,1,9,10.0,16,Heal,Flash,13,False,10074,7600,Redemption,Refillable Potion,Eye of the Oasis,Mejai's Soulstealer,Ionian Boots of Lucidity,Blasting Wand,6305,6501,Lane.bot_lane,Role.support
+6,my bad team,Ziggs,True,Side.red,9,3,6,5.0,218,Flash,Ghost,16,True,14332,12725,Doran's Ring,Rabadon's Deathcap,Blasting Wand,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,170809,17459,Lane.mid_lane,Role.solo
+7,Témpest,Yasuo,True,Side.red,6,3,6,4.0,171,Flash,Teleport,15,False,12605,12150,Phantom Dancer,Frozen Mallet,Infinity Edge,Doran's Blade,Boots of Speed,Giant's Belt,20116,106557,Lane.top_lane,Role.solo
+8,Falco Mechanic,Lucian,True,Side.red,5,4,7,3.0,236,Exhaust,Flash,14,False,13869,11000,Quicksilver Sash,Doran's Blade,Essence Reaver,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,4222,168057,Lane.bot_lane,Role.carry
+9,iOddOrange,Lee Sin,True,Side.red,4,6,12,2.6666666666666665,170,Flash,Smite,16,False,13212,10900,Randuin's Omen,Enchantment: Warrior,Chain Vest,Ninja Tabi,Control Ward,The Black Cleaver,41647,137611,Lane.jungle,Role.none

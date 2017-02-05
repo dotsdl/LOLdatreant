@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rosaiend,Ezreal,True,Side.blue,7,10,18,2.5,199,Heal,Flash,15,False,13473,13080,Caulfield's Warhammer,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Hexdrinker,Iceborn Gauntlet,21724,95720,Lane.bot_lane,Role.carry
+1,Outclass,Jayce,True,Side.blue,8,3,7,5.0,272,Teleport,Flash,18,False,14729,13895,Ninja Tabi,Last Whisper,Duskblade of Draktharr,The Black Cleaver,The Bloodthirster,Negatron Cloak,26185,157073,Lane.top_lane,Role.solo
+2,patsup,Trundle,True,Side.blue,1,3,22,7.666666666666667,54,Exhaust,Flash,15,False,9647,8825,Targon's Brace,Randuin's Omen,Ninja Tabi,Spirit Visage,Sightstone,,2252,21692,Lane.bot_lane,Role.support
+3,FkingA BaiHeJie,Karthus,True,Side.blue,11,6,14,4.166666666666667,270,Flash,Teleport,17,False,15642,14600,Sorcerer's Shoes,Zhonya's Hourglass,Abyssal Scepter,Rod of Ages,Rabadon's Deathcap,Blasting Wand,175084,7046,Lane.mid_lane,Role.solo
+4,Zojuu,Hecarim,True,Side.blue,14,6,19,5.5,139,Ghost,Smite,17,False,15959,14358,Enchantment: Cinderhulk,Randuin's Omen,Ninja Tabi,Trinity Force,Spirit Visage,Cloth Armor,33693,130261,Lane.jungle,Role.none
+5,bladeless,Yasuo,False,Side.red,4,8,4,1.0,283,Flash,Teleport,17,False,13796,13475,The Bloodthirster,Infinity Edge,Warden's Mail,Phantom Dancer,Ninja Tabi,Ruby Crystal,30319,163645,Lane.top_lane,Role.solo
+6,FourofDiamonds,Shaco,False,Side.red,11,4,5,4.0,154,Smite,Ignite,17,True,13811,12950,Tiamat,Hextech Gunblade,Ionian Boots of Lucidity,Lich Bane,Enchantment: Runic Echoes,Needlessly Large Rod,61529,101025,Lane.jungle,Role.none
+7,ˆ ª ˆ  ,Vayne,False,Side.red,7,9,4,1.2222222222222223,277,Flash,Heal,16,False,14657,14200,Doran's Blade,The Bloodthirster,Statikk Shiv,Infinity Edge,Berserker's Greaves,Phantom Dancer,54050,132890,Lane.bot_lane,Role.carry
+8,Nomeh,Zyra,False,Side.red,2,6,11,2.1666666666666665,30,Ignite,Flash,14,False,10293,10200,Eye of the Watchers,Liandry's Torment,Rylai's Crystal Scepter,,Sorcerer's Shoes,,33805,6314,Lane.bot_lane,Role.support
+9,EloTerrorist69,Corki,False,Side.red,4,14,8,0.8571428571428571,153,Flash,Exhaust,14,False,11837,10383,Doran's Blade,Hextech Gunblade,Sorcerer's Shoes,Trinity Force,Hexdrinker,Long Sword,83206,23713,Lane.mid_lane,Role.solo

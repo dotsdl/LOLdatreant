@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Virgiñ,Blitzcrank,False,Side.blue,0,7,5,0.7142857142857143,34,Flash,Exhaust,10,False,6165,5200,Sightstone,Redemption,Ninja Tabi,Targon's Brace,,,9849,6075,Lane.bot_lane,Role.support
+1,Kurumz,Twisted Fate,False,Side.blue,3,6,3,1.0,144,Ghost,Flash,12,False,8458,8135,Doran's Ring,Rod of Ages,Doran's Ring,Lich Bane,Ionian Boots of Lucidity,Amplifying Tome,72418,10063,Lane.jungle,Role.none
+2,CloudNguyén,Lee Sin,False,Side.blue,2,5,3,1.0,141,Smite,Flash,12,False,8499,7625,Enchantment: Warrior,Tiamat,Caulfield's Warhammer,,Mercury's Treads,Hexdrinker,15084,93000,Lane.jungle,Role.none
+3,Riesig,Yorick,False,Side.blue,4,4,2,1.5,201,Flash,Teleport,14,True,10405,9008,Corrupting Potion,Trinity Force,Boots of Swiftness,Caulfield's Warhammer,Zz'Rot Portal,,15006,112058,Lane.top_lane,Role.solo
+4,AsianSGpøtatø,Caitlyn,False,Side.blue,1,7,0,0.14285714285714285,195,Flash,Heal,12,False,8666,8450,Doran's Blade,Infinity Edge,,Berserker's Greaves,Cull,Runaan's Hurricane,328,103927,Lane.bot_lane,Role.carry
+5,You all boosted,Kassadin,True,Side.red,2,4,4,1.5,153,Flash,Teleport,13,False,8861,8010,The Dark Seal,Corrupting Potion,Morellonomicon,Amplifying Tome,Ionian Boots of Lucidity,Rod of Ages,49330,18262,Lane.mid_lane,Role.solo
+6,fatelin,Jhin,True,Side.red,15,1,6,21.0,193,Flash,Heal,14,False,14009,11675,Essence Reaver,Doran's Blade,Rapid Firecannon,Ionian Boots of Lucidity,Infinity Edge,Long Sword,9465,148228,Lane.bot_lane,Role.carry
+7,retarded virgin,Elise,True,Side.red,8,0,10,18.0,92,Flash,Smite,14,False,10941,8900,Enchantment: Runic Echoes,Refillable Potion,Rylai's Crystal Scepter,Boots of Mobility,Giant's Belt,Chain Vest,81541,28850,Lane.jungle,Role.none
+8,Grigne,Thresh,True,Side.red,3,0,20,23.0,13,Flash,Ignite,12,False,7935,6125,Targon's Brace,Sightstone,Locket of the Iron Solari,Control Ward,Boots of Mobility,Crystalline Bracer,9938,8213,Lane.bot_lane,Role.support
+9,Drutagan,Rumble,True,Side.red,1,5,8,1.8,185,Flash,Teleport,14,False,9579,6585,Doran's Shield,Refillable Potion,Liandry's Torment,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,105900,11664,Lane.top_lane,Role.solo

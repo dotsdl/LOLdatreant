@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sorry Ur Noob,Poppy,True,Side.blue,7,2,18,12.5,173,Flash,Teleport,16,False,12825,12375,Giant's Belt,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Chain Vest,Spirit Visage,30872,70899,Lane.top_lane,Role.solo
+1,fnfn,Rammus,True,Side.blue,9,1,17,26.0,158,Smite,Flash,16,False,12962,12125,Randuin's Omen,Banshee's Veil,Thornmail,Enchantment: Cinderhulk,Ruby Crystal,Ninja Tabi,78267,52842,Lane.jungle,Role.none
+2,Cpt Squirtle,Kalista,True,Side.blue,12,8,10,2.75,202,Heal,Flash,15,False,14046,14000,Mortal Reminder,Blade of the Ruined King,Mercurial Scimitar,Runaan's Hurricane,Boots of Swiftness,Control Ward,976,142669,Lane.bot_lane,Role.carry
+3,Candymang,Kennen,True,Side.blue,8,8,18,3.25,32,Flash,Ignite,14,True,12233,12125,Hextech Protobelt-01,Frost Queen's Claim,Fiendish Codex,Sorcerer's Shoes,Rylai's Crystal Scepter,Seeker's Armguard,47981,6840,Lane.bot_lane,Role.support
+4,Lucito,Viktor,True,Side.blue,11,10,7,1.8,193,Flash,Exhaust,15,False,13598,12000,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Void Staff,Sheen,124760,11306,Lane.mid_lane,Role.solo
+5,BlackChutney,Zac,False,Side.red,2,9,8,1.1111111111111112,203,Teleport,Flash,15,False,10748,10075,Sunfire Cape,Thornmail,Mercury's Treads,Kindlegem,Blasting Wand,Haunting Guise,93318,15166,Lane.top_lane,Role.solo
+6,Qing Tian,Ezreal,False,Side.red,11,8,7,2.25,200,Flash,Heal,15,False,12820,12000,,Blade of the Ruined King,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,Last Whisper,16602,116076,Lane.bot_lane,Role.carry
+7,ShadowyFigure,Zyra,False,Side.red,2,12,12,1.1666666666666667,21,Flash,Exhaust,12,False,8986,8725,Ionian Boots of Lucidity,Redemption,Liandry's Torment,,,Eye of the Watchers,31707,3653,Lane.bot_lane,Role.support
+8,Olympiens,Yasuo,False,Side.red,5,9,8,1.4444444444444444,223,Flash,Ignite,14,False,11687,11400,Infinity Edge,Hexdrinker,Ninja Tabi,Statikk Shiv,Vampiric Scepter,Recurve Bow,66554,89030,Lane.mid_lane,Role.solo
+9,Cz Geezus Krayst,Graves,False,Side.red,9,9,11,2.2222222222222223,116,Smite,Flash,15,False,11833,11750,Enchantment: Warrior,Death's Dance,Berserker's Greaves,Phantom Dancer,Null-Magic Mantle,Quicksilver Sash,3410,114581,Lane.jungle,Role.none

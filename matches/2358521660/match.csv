@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,kàylè,Kayle,True,Side.blue,4,4,2,1.5,161,Ghost,Flash,12,False,8507,8325,Doran's Ring,Recurve Bow,Ionian Boots of Lucidity,Nashor's Tooth,Wit's End,,54816,26420,Lane.mid_lane,Role.solo
+1,FREELO BOYZ,Ahri,True,Side.blue,8,1,9,17.0,141,Flash,Ignite,13,True,10200,7600,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Doran's Ring,,,42934,11913,Lane.top_lane,Role.solo
+2,hi im yongseo ,Blitzcrank,True,Side.blue,1,2,12,6.5,5,Flash,Exhaust,10,False,6888,6295,Eye of the Oasis,Negatron Cloak,Redemption,Boots of Swiftness,,The Dark Seal,6554,3476,Lane.bot_lane,Role.support
+3,TheRickestRlCK,Ezreal,True,Side.blue,11,3,2,4.333333333333333,163,Flash,Heal,13,False,11421,7883,Doran's Blade,Manamune,,Trinity Force,Berserker's Greaves,,8375,87280,Lane.bot_lane,Role.carry
+4,Skadanton,Shaco,True,Side.blue,4,0,5,9.0,50,Ignite,Smite,11,False,7566,5160,Bilgewater Cutlass,Refillable Potion,Enchantment: Runic Echoes,Amplifying Tome,,Boots of Speed,24829,32391,Lane.jungle,Role.none
+5,Urgotten,Urgot,False,Side.red,0,6,1,0.16666666666666666,151,Flash,Teleport,12,False,6354,6025,Caulfield's Warhammer,Righteous Glory,Corrupting Potion,Tear of the Goddess,Boots of Speed,Pickaxe,1345,58192,Lane.top_lane,Role.solo
+6,Zv Pickle,Syndra,False,Side.red,5,4,0,1.25,161,Flash,Ghost,12,False,7956,6910,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Doran's Ring,Amplifying Tome,Needlessly Large Rod,74384,8215,Lane.mid_lane,Role.solo
+7,Barranco Coma,Jhin,False,Side.red,3,6,3,1.0,130,Flash,Heal,11,False,7020,5975,Youmuu's Ghostblade,Refillable Potion,Kircheis Shard,Doran's Blade,Zeal,Boots of Speed,2546,62728,Lane.bot_lane,Role.carry
+8,FlameShotzZ,Nidalee,False,Side.red,1,6,3,0.6666666666666666,103,Smite,Flash,12,False,6697,5610,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Giant's Belt,The Dark Seal,Amplifying Tome,74292,15391,Lane.jungle,Role.none
+9,xRamee,Karma,False,Side.red,1,6,4,0.8333333333333334,8,Exhaust,Flash,9,False,5127,3525,Eye of the Watchers,,Forbidden Idol,Boots of Speed,,,8357,3944,Lane.bot_lane,Role.support

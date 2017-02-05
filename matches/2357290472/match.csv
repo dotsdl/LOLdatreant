@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Imaokai,Caitlyn,True,Side.blue,1,4,6,1.75,163,Heal,Flash,12,False,8996,7900,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,1052,115340,Lane.bot_lane,Role.carry
+1,Ari Kingu,Lulu,True,Side.blue,2,4,10,3.0,9,Exhaust,Flash,11,False,6914,5375,Spellthief's Edge,Sightstone,Redemption,Boots of Mobility,Forbidden Idol,,7948,4754,Lane.bot_lane,Role.support
+2,Thalies,Katarina,True,Side.blue,16,7,6,3.142857142857143,117,Ignite,Flash,13,False,11490,10900,The Dark Seal,Void Staff,Sorcerer's Shoes,Hextech Gunblade,,Zhonya's Hourglass,79982,8265,Lane.jungle,Role.none
+3,retarded virgin,Hecarim,True,Side.blue,9,2,6,7.5,92,Ghost,Smite,13,True,9732,8458,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Mercury's Treads,Ruby Crystal,Cloth Armor,9973,89271,Lane.jungle,Role.none
+4,GladeGleamBright,Rammus,True,Side.blue,1,0,2,3.0,169,Teleport,Flash,13,False,8034,7350,Sunfire Cape,Mercury's Treads,Thornmail,Ruby Crystal,,Doran's Shield,53613,24204,Lane.top_lane,Role.solo
+5,Wintrader Vulcan,Bard,False,Side.red,4,4,9,3.25,22,Flash,Exhaust,11,False,6830,5850,Spellthief's Edge,Ruby Sightstone,Redemption,,Boots of Mobility,Null-Magic Mantle,9924,4910,Lane.bot_lane,Role.support
+6,TQS Zuardian,Jhin,False,Side.red,4,7,7,1.5714285714285714,147,Heal,Flash,12,False,7693,7275,Rapid Firecannon,Doran's Blade,Essence Reaver,,Boots of Speed,,4183,70356,Lane.bot_lane,Role.carry
+7,Ikzencriel,Poppy,False,Side.red,0,2,2,1.0,147,Teleport,Flash,12,False,6512,5575,Corrupting Potion,Bami's Cinder,Spirit Visage,Boots of Speed,Control Ward,Chain Vest,14837,42740,Lane.top_lane,Role.solo
+8,godrjsdnd,Viktor,False,Side.red,5,9,3,0.8888888888888888,141,Ghost,Flash,12,False,7736,6520,Perfect Hex Core,Refillable Potion,Doran's Ring,Negatron Cloak,Ionian Boots of Lucidity,Needlessly Large Rod,57553,8241,Lane.mid_lane,Role.solo
+9,iOddOrange,Lee Sin,False,Side.red,4,7,8,1.7142857142857142,96,Flash,Smite,11,False,7501,6725,Tiamat,Enchantment: Warrior,Hexdrinker,Refillable Potion,Ionian Boots of Lucidity,Ruby Crystal,11346,70689,Lane.jungle,Role.none

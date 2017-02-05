@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sylus,Janna,True,Side.blue,0,4,25,6.25,8,Flash,Exhaust,12,False,8195,7100,Talisman of Ascension,Redemption,Sightstone,Control Ward,Boots of Mobility,Ruby Crystal,3393,4806,Lane.bot_lane,Role.support
+1,Sunspeed,Malzahar,True,Side.blue,8,5,17,5.0,104,Flash,Ghost,13,False,10489,7725,Rylai's Crystal Scepter,Refillable Potion,Morellonomicon,Ionian Boots of Lucidity,,,52341,21793,Lane.mid_lane,Role.solo
+2,IllAxeYouNicely,Darius,True,Side.blue,14,3,10,8.0,185,Flash,Teleport,14,False,13856,12550,Corrupting Potion,Thornmail,The Black Cleaver,Spirit Visage,Zz'Rot Portal,Mercury's Treads,2005,110072,Lane.top_lane,Role.solo
+3,6IIII9,Olaf,True,Side.blue,7,4,12,4.75,126,Ghost,Smite,14,False,11043,10525,Enchantment: Cinderhulk,Righteous Glory,Ionian Boots of Lucidity,Dead Man's Plate,Hunter's Potion,Spectre's Cowl,13588,96888,Lane.jungle,Role.none
+4,swordstoo,Caitlyn,True,Side.blue,11,3,11,7.333333333333333,156,Heal,Flash,13,False,11875,9900,Doran's Blade,Infinity Edge,Berserker's Greaves,Long Sword,B. F. Sword,Runaan's Hurricane,759,119232,Lane.bot_lane,Role.carry
+5,biglimefs1490,Fiora,False,Side.red,5,8,2,0.875,162,Teleport,Flash,13,False,9502,8775,Long Sword,Ravenous Hydra,The Black Cleaver,Ninja Tabi,Doran's Blade,,442,83397,Lane.top_lane,Role.solo
+6,SaintKilianv2,Ekko,False,Side.red,4,10,8,1.2,95,Smite,Flash,12,False,8882,8200,Refillable Potion,Enchantment: Runic Echoes,The Dark Seal,Ninja Tabi,Iceborn Gauntlet,Spectre's Cowl,60342,27944,Lane.jungle,Role.none
+7,Cotopaco Parce,Ryze,False,Side.red,5,5,5,2.0,183,Ghost,Flash,14,True,9805,9000,Tear of the Goddess,Morellonomicon,Quicksilver Sash,Rod of Ages,Ionian Boots of Lucidity,,117009,8293,Lane.mid_lane,Role.solo
+8,SnowfaII,Nautilus,False,Side.red,1,7,8,1.2857142857142858,43,Ignite,Flash,11,False,6496,6225,Aegis of the Legion,Ruby Sightstone,Face of the Mountain,Control Ward,Boots of Mobility,,14854,7925,Lane.bot_lane,Role.support
+9,Will Schleicher,Miss Fortune,False,Side.red,3,10,5,0.8,143,Flash,Heal,11,False,8437,8000,Duskblade of Draktharr,Youmuu's Ghostblade,Boots of Swiftness,Doran's Blade,Long Sword,,8095,59649,Lane.bot_lane,Role.carry

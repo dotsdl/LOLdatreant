@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,emV,Ziggs,False,Side.blue,3,3,1,1.3333333333333333,196,Flash,Barrier,13,False,8527,7105,Doran's Ring,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Negatron Cloak,111362,6823,Lane.mid_lane,Role.solo
+1,Ugu,Vayne,False,Side.blue,2,4,5,1.75,167,Heal,Flash,12,False,7977,7150,Cull,Doran's Blade,Infinity Edge,Zeal,,Berserker's Greaves,2095,72098,Lane.bot_lane,Role.carry
+2,Míya,Nami,False,Side.blue,0,3,8,2.6666666666666665,13,Exhaust,Flash,11,False,6158,5425,Boots of Mobility,Frost Queen's Claim,Sightstone,Forbidden Idol,Faerie Charm,Faerie Charm,9402,3504,Lane.bot_lane,Role.support
+3,FACEB00K,Maokai,False,Side.blue,0,9,2,0.2222222222222222,95,Teleport,Flash,11,False,6002,5800,Health Potion,Doran's Shield,Mercury's Treads,Warden's Mail,,Sunfire Cape,44625,6445,Lane.top_lane,Role.solo
+4,GangstahSwerve,Ivern,False,Side.blue,4,4,3,1.75,80,Smite,Flash,12,False,8018,6775,Ionian Boots of Lucidity,Redemption,Refillable Potion,Athene's Unholy Grail,Hunter's Talisman,Aegis of the Legion,9153,4169,Lane.jungle,Role.none
+5,Celend,Syndra,True,Side.red,10,0,4,14.0,196,Flash,Ghost,14,False,12485,10650,Abyssal Scepter,Morellonomicon,,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,120990,15418,Lane.mid_lane,Role.solo
+6,Virus,Draven,True,Side.red,3,1,8,11.0,192,Heal,Flash,14,False,12121,10575,Doran's Blade,B. F. Sword,Infinity Edge,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,0,150153,Lane.bot_lane,Role.carry
+7,Cuckvele,Fiora,True,Side.red,4,3,1,1.6666666666666667,218,Flash,Teleport,15,False,11515,11125,Doran's Blade,The Black Cleaver,Vampiric Scepter,Ninja Tabi,Quicksilver Sash,Titanic Hydra,385,111589,Lane.top_lane,Role.solo
+8,Filly,Morgana,True,Side.red,1,4,12,3.25,11,Flash,Exhaust,11,False,7746,6225,Frostfang,,Ruby Sightstone,Redemption,,Ionian Boots of Lucidity,14924,3879,Lane.bot_lane,Role.support
+9,Snow Day Singed,Zac,True,Side.red,5,1,10,15.0,101,Smite,Flash,13,True,10038,8475,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Giant's Belt,Warden's Mail,81200,17392,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,II Master II,Ivern,True,Side.blue,4,1,7,11.0,61,Flash,Smite,13,False,7612,7050,Hunter's Talisman,Refillable Potion,Ionian Boots of Lucidity,Athene's Unholy Grail,Rylai's Crystal Scepter,The Dark Seal,9784,3913,Lane.jungle,Role.none
+1,KaneKi521,Lucian,True,Side.blue,4,2,7,5.5,167,Flash,Heal,12,False,8862,6700,,Doran's Blade,Zeal,,Essence Reaver,Berserker's Greaves,2336,80366,Lane.bot_lane,Role.carry
+2,69 Fetish,Karma,True,Side.blue,3,1,6,9.0,10,Flash,Exhaust,10,False,5931,4900,Eye of the Watchers,Redemption,Refillable Potion,,,Boots of Speed,15081,3504,Lane.bot_lane,Role.support
+3,Chennnn,Viktor,True,Side.blue,7,3,1,2.6666666666666665,163,Flash,Ghost,12,False,8471,6325,Perfect Hex Core,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Control Ward,72648,13971,Lane.mid_lane,Role.solo
+4,SolarEnergy,Malphite,True,Side.blue,2,1,5,7.0,162,Flash,Teleport,12,True,7950,6500,Corrupting Potion,Sunfire Cape,Ninja Tabi,Glacial Shroud,Warden's Mail,,52723,23515,Lane.top_lane,Role.solo
+5,thekilerone,Ashe,False,Side.red,1,4,3,1.0,135,Heal,Flash,10,False,6168,5550,Doran's Blade,Long Sword,Boots of Speed,B. F. Sword,Runaan's Hurricane,Long Sword,444,65040,Lane.bot_lane,Role.carry
+6,CopyAndPaste,Zilean,False,Side.red,1,7,3,0.5714285714285714,128,Flash,Teleport,11,False,5932,5850,Rod of Ages,Fiendish Codex,Tear of the Goddess,Doran's Ring,Boots of Speed,,60013,9710,Lane.mid_lane,Role.solo
+7,Toukey,Janna,False,Side.red,0,3,4,1.3333333333333333,11,Exhaust,Flash,10,False,4408,3450,Eye of the Oasis,,Control Ward,Ionian Boots of Lucidity,,,1918,2455,Lane.bot_lane,Role.support
+8,John LeCoky,Yasuo,False,Side.red,0,3,3,1.0,130,Flash,Teleport,12,False,5937,4850,Doran's Blade,Refillable Potion,Phantom Dancer,Null-Magic Mantle,Ninja Tabi,,18675,32838,Lane.top_lane,Role.solo
+9,FreeXpHere,Nocturne,False,Side.red,5,3,0,1.6666666666666667,102,Flash,Smite,11,False,6965,6050,,Refillable Potion,Youmuu's Ghostblade,,Boots of Speed,Enchantment: Warrior,3938,77471,Lane.jungle,Role.none

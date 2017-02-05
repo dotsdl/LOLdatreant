@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,raptorx,Caitlyn,True,Side.blue,14,4,14,7.0,178,Heal,Flash,14,True,13734,11575,Infinity Edge,Rapid Firecannon,Vampiric Scepter,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,2781,152747,Lane.bot_lane,Role.carry
+1,ZyriteX,Kha'Zix,True,Side.blue,12,5,4,3.2,94,Smite,Flash,13,False,11122,11075,Ravenous Hydra,Enchantment: Warrior,Duskblade of Draktharr,Boots of Speed,Caulfield's Warhammer,,4196,93298,Lane.jungle,Role.none
+2,herolineage,Twisted Fate,True,Side.blue,5,6,16,3.5,113,Flash,Ghost,13,False,10240,8600,Lich Bane,Seeker's Armguard,Rod of Ages,,Ionian Boots of Lucidity,,70318,10294,Lane.mid_lane,Role.solo
+3,Krakoah,Taric,True,Side.blue,3,3,27,10.0,25,Exhaust,Flash,12,False,9082,7475,Sightstone,Chain Vest,Ninja Tabi,Frozen Heart,Relic Shield,Bami's Cinder,12634,10749,Lane.bot_lane,Role.support
+4,Xaanthaar,Nasus,True,Side.blue,4,7,5,1.2857142857142858,150,Flash,Teleport,13,False,9903,8925,Corrupting Potion,Phage,Control Ward,Frozen Heart,Sheen,Spirit Visage,23263,67325,Lane.top_lane,Role.solo
+5,nactyx,Yorick,False,Side.red,5,8,5,1.25,67,Flash,Teleport,11,False,7579,7333,Corrupting Potion,Trinity Force,Raptor Cloak,Ninja Tabi,Cloth Armor,,15948,35986,Lane.top_lane,Role.solo
+6,Dominic Johnson,Poppy,False,Side.red,0,13,11,0.8461538461538461,56,Flash,Exhaust,11,False,6714,6350,Face of the Mountain,Randuin's Omen,,,,Ninja Tabi,2547,26384,Lane.bot_lane,Role.duo
+7,Junuary,Vayne,False,Side.red,6,7,6,1.7142857142857142,121,Flash,Heal,12,False,9131,8350,Doran's Blade,Cull,Berserker's Greaves,Statikk Shiv,Infinity Edge,,9125,38754,Lane.bot_lane,Role.duo
+8,xNoblesseObligex,Talon,False,Side.red,9,6,8,2.8333333333333335,146,Ignite,Flash,13,False,10193,10025,The Black Cleaver,Refillable Potion,Mercury's Treads,Mortal Reminder,Youmuu's Ghostblade,,7843,87700,Lane.mid_lane,Role.solo
+9,HowDoIEver,Ivern,False,Side.red,5,4,14,4.75,77,Flash,Smite,13,False,9097,8325,Redemption,Refillable Potion,Cloth Armor,Athene's Unholy Grail,Boots of Mobility,Enchantment: Runic Echoes,17435,6293,Lane.jungle,Role.none

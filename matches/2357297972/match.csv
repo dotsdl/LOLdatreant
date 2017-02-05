@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sebi,Viktor,True,Side.blue,5,2,6,5.5,170,Flash,Cleanse,13,False,10623,10250,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,86363,10914,Lane.mid_lane,Role.solo
+1,skyWtr,Vi,True,Side.blue,10,2,7,8.5,164,Smite,Flash,15,True,12284,11858,,Spectre's Cowl,Sunfire Cape,Trinity Force,Mercury's Treads,Enchantment: Warrior,7688,150526,Lane.jungle,Role.none
+2,iOddOrange,Lee Sin,True,Side.blue,8,6,2,1.6666666666666667,157,Flash,Teleport,13,False,10153,8550,Ravenous Hydra,Doran's Blade,Doran's Shield,Boots of Speed,Maw of Malmortius,,19825,82731,Lane.top_lane,Role.solo
+3,CraacK,Karma,True,Side.blue,0,2,15,7.5,16,Flash,Exhaust,11,False,7711,6075,Boots of Speed,Redemption,Eye of the Watchers,Aegis of the Legion,,,20083,7589,Lane.bot_lane,Role.support
+4,SKY Fear,Jhin,True,Side.blue,4,1,9,13.0,172,Flash,Heal,12,False,10154,8100,Rapid Firecannon,,Boots of Swiftness,,,Essence Reaver,2231,104335,Lane.bot_lane,Role.carry
+5,Asyc xD ,Janna,False,Side.red,0,6,9,1.5,6,Exhaust,Flash,10,False,5716,5200,Nomad's Medallion,Sightstone,Boots of Mobility,Redemption,Control Ward,,3686,2432,Lane.bot_lane,Role.support
+6,Firé,Olaf,False,Side.red,3,5,3,1.2,80,Smite,Ghost,12,False,6816,5500,Ionian Boots of Lucidity,Refillable Potion,Enchantment: Cinderhulk,Warden's Mail,Ruby Crystal,Sapphire Crystal,9486,53908,Lane.jungle,Role.none
+7,Drowning,Annie,False,Side.red,3,5,3,1.2,130,Flash,Ignite,12,False,7381,7450,Total Biscuit of Rejuvenation,Rylai's Crystal Scepter,Ionian Boots of Lucidity,,Rod of Ages,,47367,10457,Lane.mid_lane,Role.solo
+8,Str1fe,Caitlyn,False,Side.red,6,4,3,2.25,166,Flash,Heal,11,False,8729,8675,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Dagger,Brawler's Gloves,274,87124,Lane.bot_lane,Role.carry
+9,Sheiden,Kennen,False,Side.red,1,7,4,0.7142857142857143,173,Teleport,Flash,13,False,7557,6735,Doran's Blade,Hextech Protobelt-01,Seeker's Armguard,Sorcerer's Shoes,Fiendish Codex,Amplifying Tome,69158,18013,Lane.top_lane,Role.solo

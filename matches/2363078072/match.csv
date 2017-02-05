@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cute pupper irl,Ivern,False,Side.blue,1,11,10,1.0,11,Flash,Ignite,12,False,7246,6925,Ionian Boots of Lucidity,Eye of the Watchers,Athene's Unholy Grail,Forbidden Idol,,Control Ward,4741,4059,Lane.bot_lane,Role.support
+1,1936 1948,Shaco,False,Side.blue,8,8,6,1.75,128,Smite,Ignite,14,False,10674,10250,Tiamat,Enchantment: Warrior,Hextech Gunblade,Pickaxe,Serrated Dirk,Boots of Mobility,26803,78857,Lane.jungle,Role.none
+2,Hi Im A Sheep,Malphite,False,Side.blue,4,9,8,1.3333333333333333,152,Flash,Teleport,14,False,9870,9150,,Giant's Belt,Chain Vest,Sunfire Cape,Frozen Heart,Ninja Tabi,71546,25927,Lane.top_lane,Role.solo
+3,Huhi Lite,Ryze,False,Side.blue,5,7,9,2.0,172,Ghost,Flash,14,False,10620,10200,Seraph's Embrace,Rylai's Crystal Scepter,Rod of Ages,,Control Ward,Ionian Boots of Lucidity,117407,8810,Lane.mid_lane,Role.solo
+4,FIoopie,Caitlyn,False,Side.blue,6,8,8,1.75,154,Flash,Heal,14,False,10257,8850,Runaan's Hurricane,Refillable Potion,Doran's Blade,Vampiric Scepter,Infinity Edge,Berserker's Greaves,2029,97876,Lane.bot_lane,Role.carry
+5,feed l0rd,Ezreal,True,Side.red,18,5,11,5.8,200,Flash,Heal,15,False,16438,15158,Mercurial Scimitar,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,,Trinity Force,18852,129870,Lane.bot_lane,Role.carry
+6,Yassuo,Yasuo,True,Side.red,11,7,9,2.857142857142857,140,Flash,Smite,15,False,12274,10950,Infinity Edge,Phantom Dancer,Mercury's Treads,Enchantment: Bloodrazor,Long Sword,,19437,122184,Lane.jungle,Role.none
+7,Natalia Dyer,Fiora,True,Side.red,12,6,6,3.0,118,Flash,Teleport,14,True,11214,8575,Ravenous Hydra,Doran's Blade,Refillable Potion,Mercury's Treads,The Black Cleaver,,1284,82690,Lane.top_lane,Role.solo
+8,friendly eu guy,Nasus,True,Side.red,1,4,6,1.75,240,Ghost,Flash,15,False,11294,10475,Void Staff,Frost Queen's Claim,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Luden's Echo,116718,25696,Lane.mid_lane,Role.solo
+9,Pocket Rhino,Nami,True,Side.red,1,2,28,14.5,11,Flash,Exhaust,13,False,9894,8425,Redemption,Locket of the Iron Solari,Eye of the Watchers,,Boots of Swiftness,Cloth Armor,11939,5570,Lane.bot_lane,Role.support

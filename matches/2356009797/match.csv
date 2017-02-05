@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TszHin OvO,Viktor,False,Side.blue,1,2,2,1.5,182,Heal,Flash,13,False,7187,6200,Perfect Hex Core,Doran's Ring,Lost Chapter,Ionian Boots of Lucidity,The Dark Seal,Doran's Ring,88442,11099,Lane.mid_lane,Role.solo
+1,A Cute Momo,Sona,False,Side.blue,0,4,5,1.25,9,Ignite,Flash,9,False,4771,4250,Sightstone,Frost Queen's Claim,The Dark Seal,Control Ward,Boots of Speed,,8665,2515,Lane.bot_lane,Role.support
+2,Shupian,Teemo,False,Side.blue,0,6,1,0.16666666666666666,134,Flash,Ignite,12,False,6129,5900,Doran's Ring,Nashor's Tooth,Berserker's Greaves,Dagger,Doran's Ring,Dagger,48508,21378,Lane.top_lane,Role.solo
+3,Lee Ji Eun IU,Olaf,False,Side.blue,3,2,0,1.5,115,Smite,Ghost,11,False,6954,6275,Refillable Potion,Enchantment: Cinderhulk,Kindlegem,Cloth Armor,Spectre's Cowl,Ionian Boots of Lucidity,9919,68789,Lane.jungle,Role.none
+4,skmasamune,Jhin,False,Side.blue,2,3,2,1.3333333333333333,119,Heal,Flash,10,False,6243,5850,Doran's Blade,Zeal,Infinity Edge,,Boots of Speed,,1122,62193,Lane.bot_lane,Role.carry
+5,Modx,Veigar,True,Side.red,0,1,6,6.0,65,Flash,Ghost,10,False,6659,4950,Eye of the Watchers,Ionian Boots of Lucidity,,Catalyst of Aeons,The Dark Seal,,35383,6307,Lane.bot_lane,Role.support
+6,Edit,Lucian,True,Side.red,4,3,5,3.0,130,Heal,Flash,11,False,8401,7850,Doran's Blade,Cull,Infinity Edge,Zeal,Berserker's Greaves,Kircheis Shard,1329,66391,Lane.bot_lane,Role.carry
+7,kyŠ,Gangplank,True,Side.red,6,1,2,8.0,171,Flash,Teleport,13,True,10167,9058,Trinity Force,Refillable Potion,Ionian Boots of Lucidity,Maw of Malmortius,Cloak of Agility,,4442,138213,Lane.top_lane,Role.solo
+8,LimitedExtent,Ahri,True,Side.red,2,1,1,3.0,146,Ignite,Flash,12,False,7823,7675,Doran's Ring,Control Ward,Doran's Ring,Boots of Speed,Morellonomicon,Rylai's Crystal Scepter,38344,14942,Lane.mid_lane,Role.solo
+9,An Obese Panda,Gragas,True,Side.red,5,0,8,13.0,58,Smite,Flash,12,False,8312,7575,Enchantment: Runic Echoes,,Dead Man's Plate,Null-Magic Mantle,Ruby Crystal,Ionian Boots of Lucidity,53075,18893,Lane.jungle,Role.none

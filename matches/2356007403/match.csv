@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am sol,Thresh,True,Side.blue,2,3,13,5.0,42,Ignite,Flash,14,False,9157,7650,Sightstone,Chalice of Harmony,Face of the Mountain,Ionian Boots of Lucidity,Redemption,Faerie Charm,19042,9542,Lane.bot_lane,Role.support
+1,Stevens 1v9,Jax,True,Side.blue,11,7,3,2.0,278,Teleport,Flash,18,False,16077,14233,Hextech Gunblade,Trinity Force,Guardian Angel,Frozen Mallet,Mercury's Treads,,57845,164372,Lane.top_lane,Role.solo
+2,Bentonhell,Vi,True,Side.blue,6,6,10,2.6666666666666665,172,Smite,Flash,16,True,12973,11258,Mercury's Treads,Refillable Potion,Ruby Crystal,Maw of Malmortius,Trinity Force,Enchantment: Warrior,1708,158776,Lane.jungle,Role.none
+3,Azed,LeBlanc,True,Side.blue,12,4,4,4.0,173,Flash,Teleport,15,False,12907,11850,Needlessly Large Rod,Void Staff,Abyssal Scepter,Doran's Ring,Morellonomicon,Sorcerer's Shoes,88933,14420,Lane.mid_lane,Role.solo
+4,bive,Ezreal,True,Side.blue,5,4,11,4.0,153,Flash,Heal,14,False,11582,11508,Muramana,Maw of Malmortius,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Long Sword,19876,65886,Lane.bot_lane,Role.carry
+5,Evangelion,Poppy,False,Side.red,5,9,2,0.7777777777777778,140,Flash,Teleport,13,False,9862,8850,Corrupting Potion,Doran's Shield,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Spectre's Cowl,25442,52747,Lane.top_lane,Role.solo
+6,FarmVilles,Annie,False,Side.red,4,8,5,1.125,136,Ignite,Flash,13,False,9697,9275,Doran's Ring,Blasting Wand,Doran's Ring,Luden's Echo,Abyssal Scepter,Sorcerer's Shoes,60099,9917,Lane.mid_lane,Role.solo
+7,Istibok,Miss Fortune,False,Side.red,5,6,6,1.8333333333333333,58,Flash,Exhaust,12,False,10079,9450,Eye of the Watchers,Mortal Reminder,Doran's Blade,,Ionian Boots of Lucidity,The Black Cleaver,25233,33298,Lane.bot_lane,Role.duo
+8,PIay Naizi,Jhin,False,Side.red,3,8,8,1.375,185,Heal,Flash,14,False,10576,10350,Youmuu's Ghostblade,Maw of Malmortius,Rapid Firecannon,Boots of Swiftness,Doran's Blade,,5900,123442,Lane.bot_lane,Role.duo
+9,MythoIogy,Diana,False,Side.red,7,5,6,2.6,201,Smite,Flash,17,False,13533,12100,Needlessly Large Rod,Blasting Wand,Zhonya's Hourglass,Sorcerer's Shoes,Nashor's Tooth,Enchantment: Runic Echoes,149896,36256,Lane.jungle,Role.none

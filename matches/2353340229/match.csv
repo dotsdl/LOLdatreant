@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cotopaco Parce,Lucian,False,Side.blue,3,6,2,0.8333333333333334,109,Heal,Flash,10,False,6344,5975,Doran's Blade,Berserker's Greaves,Total Biscuit of Rejuvenation,Caulfield's Warhammer,,Youmuu's Ghostblade,2333,56165,Lane.bot_lane,Role.carry
+1,Kic,Malzahar,False,Side.blue,2,5,2,0.8,113,Flash,Ghost,11,False,6203,4775,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,,,39373,16526,Lane.mid_lane,Role.solo
+2,Twocutz,Thresh,False,Side.blue,2,5,6,1.6,24,Exhaust,Flash,9,False,5270,4750,Refillable Potion,Sightstone,Face of the Mountain,Control Ward,Crystalline Bracer,Boots of Speed,8381,3747,Lane.bot_lane,Role.support
+3,procberry,Kennen,False,Side.blue,3,5,1,0.8,150,Teleport,Flash,12,False,7101,6710,Doran's Blade,Fiendish Codex,Amplifying Tome,Rylai's Crystal Scepter,Sorcerer's Shoes,Cloth Armor,40330,23182,Lane.top_lane,Role.solo
+4,Seoksang,Gragas,False,Side.blue,5,5,3,1.6,95,Smite,Flash,12,False,7444,7250,Enchantment: Runic Echoes,Dead Man's Plate,Mercury's Treads,Ruby Crystal,,,68484,21135,Lane.jungle,Role.none
+5,JaySo,Twisted Fate,True,Side.red,4,3,9,4.333333333333333,158,Ghost,Flash,13,False,9823,8100,Doran's Ring,Morellonomicon,Refillable Potion,Ionian Boots of Lucidity,Lich Bane,Cloth Armor,84120,13103,Lane.mid_lane,Role.solo
+6,Silars,Bard,True,Side.red,2,6,15,2.8333333333333335,21,Flash,Exhaust,11,False,7474,5375,Frost Queen's Claim,Total Biscuit of Rejuvenation,Aegis of the Legion,Sightstone,,Ionian Boots of Lucidity,10932,5315,Lane.bot_lane,Role.support
+7,MongolWarrior,Caitlyn,True,Side.red,8,2,8,8.0,136,Heal,Flash,12,False,10627,7900,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,292,104858,Lane.bot_lane,Role.carry
+8,zz cicero,Poppy,True,Side.red,5,1,13,18.0,99,Smite,Flash,12,False,9223,6808,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Boots of Speed,,,7524,80695,Lane.jungle,Role.none
+9,TroIl King,Sion,True,Side.red,7,3,2,3.0,157,Flash,Teleport,13,True,9777,7750,Corrupting Potion,Control Ward,Sunfire Cape,Spirit Visage,Mercury's Treads,Cloth Armor,50841,40402,Lane.top_lane,Role.solo

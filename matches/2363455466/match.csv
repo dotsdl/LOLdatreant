@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,binny,Ezreal,True,Side.blue,12,6,19,5.166666666666667,207,Heal,Flash,16,False,14483,12233,Pickaxe,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Trinity Force,,26999,132331,Lane.bot_lane,Role.carry
+1,t d,Katarina,True,Side.blue,11,7,12,3.2857142857142856,169,Ignite,Flash,15,False,12440,10550,Hextech Gunblade,Mejai's Soulstealer,Needlessly Large Rod,Sorcerer's Shoes,,Abyssal Scepter,119598,8261,Lane.mid_lane,Role.solo
+2,Snôw,Nami,True,Side.blue,5,4,29,8.5,11,Exhaust,Flash,14,False,11548,9425,Ionian Boots of Lucidity,Mikael's Crucible,Redemption,Aegis of the Legion,Frost Queen's Claim,Sightstone,11965,8491,Lane.bot_lane,Role.support
+3,Winter is back,Lee Sin,True,Side.blue,12,6,14,4.333333333333333,98,Flash,Smite,15,False,12797,12650,Boots of Swiftness,Maw of Malmortius,Dead Man's Plate,Enchantment: Warrior,Spectre's Cowl,Tiamat,21478,97591,Lane.jungle,Role.none
+4,Elimis,Jayce,True,Side.blue,9,7,12,3.0,212,Flash,Teleport,15,False,13074,11525,Youmuu's Ghostblade,The Black Cleaver,Ionian Boots of Lucidity,Doran's Blade,The Bloodthirster,,20670,130056,Lane.top_lane,Role.solo
+5,TSM PantherOfSex,Yorick,False,Side.red,7,10,6,1.3,145,Teleport,Flash,14,False,11693,10933,Trinity Force,Mercury's Treads,Randuin's Omen,Zz'Rot Portal,Corrupting Potion,,11252,83877,Lane.top_lane,Role.solo
+6,Litoman,Nautilus,False,Side.red,3,10,15,1.8,42,Exhaust,Flash,13,False,9506,8350,Face of the Mountain,Ruby Sightstone,Boots of Mobility,Zz'Rot Portal,,,26379,8525,Lane.bot_lane,Role.support
+7,NoahMost,Teemo,False,Side.red,8,13,8,1.2307692307692308,146,Ignite,Flash,14,True,11799,10900,Zz'Rot Portal,Hextech Gunblade,Sorcerer's Shoes,Nashor's Tooth,,Doran's Ring,54735,23875,Lane.mid_lane,Role.solo
+8,Andy Sensei,Lucian,False,Side.red,8,9,2,1.1111111111111112,226,Flash,Heal,15,False,13602,12750,Doran's Blade,Essence Reaver,Phantom Dancer,Ionian Boots of Lucidity,Infinity Edge,Last Whisper,5091,145586,Lane.bot_lane,Role.carry
+9,11037,Ivern,False,Side.red,4,7,14,2.5714285714285716,90,Smite,Flash,14,False,10822,10025,Redemption,Ardent Censer,Mejai's Soulstealer,Ionian Boots of Lucidity,Skirmisher's Sabre,Athene's Unholy Grail,20709,8610,Lane.jungle,Role.none

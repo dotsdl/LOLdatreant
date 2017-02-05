@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Grell Carry U,Gragas,False,Side.blue,4,6,5,1.5,115,Flash,Smite,12,False,8304,7450,Enchantment: Runic Echoes,Dead Man's Plate,Ionian Boots of Lucidity,Ruby Crystal,Ruby Crystal,,73954,27723,Lane.jungle,Role.none
+1,QuickRev,Alistar,False,Side.blue,0,6,11,1.8333333333333333,43,Flash,Ignite,11,False,6517,6200,Targon's Brace,Boots of Mobility,Sightstone,Frozen Heart,Kindlegem,,12832,6781,Lane.jungle,Role.none
+2,Myloo,Swain,False,Side.blue,2,5,0,0.4,144,Flash,Teleport,12,False,7943,7725,Ionian Boots of Lucidity,Zhonya's Hourglass,Rod of Ages,Doran's Ring,Doran's Ring,,49516,13759,Lane.top_lane,Role.solo
+3,Str1fe,Caitlyn,False,Side.blue,2,6,4,1.0,171,Flash,Heal,12,False,8313,8075,Doran's Blade,Infinity Edge,Runaan's Hurricane,,Berserker's Greaves,,390,93843,Lane.bot_lane,Role.solo
+4,I Serenity I,Ezreal,False,Side.blue,4,7,2,0.8571428571428571,189,Flash,Exhaust,12,True,10222,9830,Recurve Bow,Bilgewater Cutlass,Doran's Blade,Iceborn Gauntlet,Muramana,Ionian Boots of Lucidity,13253,78788,Lane.mid_lane,Role.solo
+5,No Speak Inglish,Zed,True,Side.red,4,1,10,14.0,207,Teleport,Flash,15,False,11073,8475,,Refillable Potion,The Black Cleaver,Youmuu's Ghostblade,Mercury's Treads,,9356,114877,Lane.top_lane,Role.solo
+6,BukZacH,Vayne,True,Side.red,8,3,6,4.666666666666667,154,Flash,Heal,13,False,11159,8325,Doran's Blade,Berserker's Greaves,Statikk Shiv,Long Sword,Infinity Edge,,5877,90908,Lane.bot_lane,Role.carry
+7,aShady,Lulu,True,Side.red,3,1,21,24.0,18,Ignite,Flash,12,False,8887,6825,Refillable Potion,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Aegis of the Legion,Control Ward,11815,6939,Lane.bot_lane,Role.support
+8,SKY Fear,Twisted Fate,True,Side.red,9,3,13,7.333333333333333,194,Flash,Ghost,15,False,13159,10175,Lich Bane,Rod of Ages,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,Doran's Ring,127519,19347,Lane.mid_lane,Role.solo
+9,Veautiful,Lee Sin,True,Side.red,6,4,15,5.25,120,Smite,Flash,14,False,10664,8575,Enchantment: Warrior,Long Sword,Hexdrinker,,Dead Man's Plate,Mercury's Treads,19826,99198,Lane.jungle,Role.none

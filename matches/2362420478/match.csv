@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xwo,Lee Sin,True,Side.blue,4,4,5,2.25,76,Flash,Smite,11,False,7513,6425,Mercury's Treads,Hexdrinker,Control Ward,Enchantment: Warrior,Caulfield's Warhammer,Refillable Potion,13859,54335,Lane.jungle,Role.none
+1,Nëbu,Swain,True,Side.blue,9,1,6,15.0,131,Flash,Teleport,13,False,9360,9150,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Rod of Ages,The Dark Seal,Haunting Guise,53924,15450,Lane.top_lane,Role.solo
+2,Serilium,Karma,True,Side.blue,3,2,17,10.0,16,Exhaust,Flash,11,False,7978,5125,Ionian Boots of Lucidity,Crystalline Bracer,Eye of the Watchers,Forbidden Idol,,,12159,6427,Lane.bot_lane,Role.support
+3,Tàctical,Ashe,True,Side.blue,9,4,10,4.75,128,Flash,Heal,13,False,10167,7950,Doran's Blade,Essence Reaver,Runaan's Hurricane,,Berserker's Greaves,,2590,73290,Lane.bot_lane,Role.carry
+4,Cat Person,LeBlanc,True,Side.blue,7,3,3,3.3333333333333335,127,Flash,Ignite,12,False,8582,8475,Doran's Ring,,Health Potion,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,52576,11861,Lane.mid_lane,Role.solo
+5,Green Awakening,Elise,False,Side.red,2,5,3,1.0,96,Flash,Smite,11,False,6652,6005,Refillable Potion,Fiendish Codex,Amplifying Tome,Sorcerer's Shoes,Negatron Cloak,Enchantment: Runic Echoes,50567,25165,Lane.jungle,Role.none
+6,Shroudedd,Cassiopeia,False,Side.red,5,9,2,0.7777777777777778,116,Ghost,Flash,11,True,7441,6245,Doran's Ring,The Dark Seal,Negatron Cloak,Morellonomicon,Tear of the Goddess,Fiendish Codex,42863,6482,Lane.mid_lane,Role.solo
+7,foggedftw2,Tryndamere,False,Side.red,2,4,2,1.0,159,Ignite,Flash,13,False,7368,6900,Vampiric Scepter,Refillable Potion,Statikk Shiv,Ionian Boots of Lucidity,Phage,Caulfield's Warhammer,16931,64703,Lane.top_lane,Role.solo
+8,A Platypus,Corki,False,Side.red,3,5,6,1.8,121,Heal,Flash,11,False,7029,6383,Total Biscuit of Rejuvenation,Doran's Blade,Sorcerer's Shoes,Trinity Force,Long Sword,Long Sword,44143,11518,Lane.bot_lane,Role.carry
+9,Archer85,Thresh,False,Side.red,2,9,7,1.0,15,Flash,Exhaust,8,False,4978,4475,Face of the Mountain,Sightstone,Control Ward,Boots of Mobility,,,8937,3813,Lane.bot_lane,Role.support

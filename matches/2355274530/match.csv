@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,vìper,Riven,True,Side.blue,4,0,1,5.0,155,Flash,Teleport,11,False,8068,6675,The Black Cleaver,Refillable Potion,Youmuu's Ghostblade,,,,190,89125,Lane.top_lane,Role.solo
+1,Pocket Size,Nami,True,Side.blue,2,0,5,7.0,1,Flash,Exhaust,9,True,6282,4625,Frostfang,Sightstone,The Dark Seal,Boots of Speed,Redemption,,5525,5517,Lane.bot_lane,Role.support
+2,Extreme Person,Shaco,True,Side.blue,4,2,3,3.5,79,Ignite,Smite,11,False,7477,6825,Enchantment: Runic Echoes,Sheen,,The Dark Seal,Hextech Protobelt-01,,36019,37579,Lane.jungle,Role.none
+3,Ranullf,Annie,True,Side.blue,0,1,3,3.0,122,Ghost,Flash,11,False,6605,5500,Corrupting Potion,Rod of Ages,Ionian Boots of Lucidity,Fiendish Codex,,Spellthief's Edge,32371,11598,Lane.mid_lane,Role.solo
+4,no good,Sivir,True,Side.blue,2,0,3,5.0,132,Flash,Heal,10,False,7202,5750,Essence Reaver,Doran's Blade,Berserker's Greaves,Dagger,,,1078,80530,Lane.bot_lane,Role.carry
+5,Lil Soligo,Ryze,False,Side.red,1,2,1,1.0,107,Ghost,Flash,10,False,5118,4650,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,,Tear of the Goddess,,33792,6814,Lane.mid_lane,Role.solo
+6,Error No Name,Vayne,False,Side.red,1,2,0,0.5,110,Flash,Heal,9,False,5027,4375,,Dagger,Zeal,Doran's Blade,Berserker's Greaves,Pickaxe,0,34219,Lane.bot_lane,Role.carry
+7,Butthole Sniffer,Thresh,False,Side.red,0,2,1,0.5,20,Ignite,Flash,8,False,3472,3100,Sightstone,Total Biscuit of Rejuvenation,Boots of Speed,Kindlegem,Targon's Brace,,4220,3168,Lane.bot_lane,Role.support
+8,TheSevenLegends,Amumu,False,Side.red,1,2,1,1.0,76,Flash,Smite,9,False,4855,4275,Refillable Potion,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Cloth Armor,Cloth Armor,,35853,12651,Lane.jungle,Role.none
+9,Neoseanster,Maokai,False,Side.red,0,4,1,0.25,84,Teleport,Flash,10,False,4454,4000,Corrupting Potion,Sunfire Cape,Cloth Armor,Boots of Speed,,,34425,10115,Lane.top_lane,Role.solo

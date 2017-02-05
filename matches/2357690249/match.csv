@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cute pupper irl,Vayne,False,Side.blue,3,10,7,1.0,214,Flash,Heal,15,False,11882,11575,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Phantom Dancer,Vampiric Scepter,5166,110270,Lane.bot_lane,Role.carry
+1,Abou222,LeBlanc,False,Side.blue,15,6,6,3.5,184,Ignite,Flash,16,False,14010,13770,Needlessly Large Rod,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Blasting Wand,Void Staff,113615,11591,Lane.mid_lane,Role.solo
+2,Riesig,Sion,False,Side.blue,3,6,7,1.6666666666666667,268,Flash,Teleport,17,False,12152,11520,Negatron Cloak,Frozen Heart,Sunfire Cape,Ninja Tabi,Spirit Visage,Chain Vest,136908,63891,Lane.top_lane,Role.solo
+3,a line of code,Lee Sin,False,Side.blue,8,8,8,2.0,166,Smite,Flash,16,False,12387,11300,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,Dead Man's Plate,Spectre's Cowl,28610,141456,Lane.jungle,Role.none
+4,Pocket Rhino,Bard,False,Side.blue,1,5,12,2.6,18,Flash,Exhaust,13,False,8505,8050,,Mikael's Crucible,Eye of the Watchers,Redemption,Boots of Mobility,Refillable Potion,14737,4780,Lane.bot_lane,Role.support
+5,ZatsMod,Viktor,True,Side.red,6,8,9,1.875,210,Flash,Ghost,17,False,13618,11150,Doran's Ring,Lich Bane,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,148027,14240,Lane.mid_lane,Role.solo
+6,Dhokla,Jayce,True,Side.red,14,3,3,5.666666666666667,313,Flash,Teleport,18,True,17766,16250,Edge of Night,Lord Dominik's Regards,The Bloodthirster,The Black Cleaver,Mercury's Treads,B. F. Sword,32547,199786,Lane.top_lane,Role.solo
+7,FZ3R0,Twitch,True,Side.red,8,5,14,4.4,213,Flash,Heal,17,False,14538,11900,Phantom Dancer,B. F. Sword,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Doran's Blade,0,141821,Lane.bot_lane,Role.carry
+8,C9 Meteos,Morgana,True,Side.red,2,6,10,2.0,17,Exhaust,Flash,14,False,10722,10350,Zhonya's Hourglass,Frost Queen's Claim,Redemption,Ruby Sightstone,,Ionian Boots of Lucidity,18657,2999,Lane.bot_lane,Role.support
+9,Strompest,Graves,True,Side.red,5,8,11,2.0,207,Flash,Smite,17,False,14534,13775,Rapid Firecannon,Enchantment: Warrior,Berserker's Greaves,Lord Dominik's Regards,Maw of Malmortius,Vampiric Scepter,9813,200361,Lane.jungle,Role.none

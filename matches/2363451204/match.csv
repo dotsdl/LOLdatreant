@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,0 K A Y B O Y S,Rumble,True,Side.blue,5,1,7,12.0,157,Flash,Teleport,13,False,9823,8735,Doran's Shield,Health Potion,Rylai's Crystal Scepter,Sorcerer's Shoes,Liandry's Torment,Amplifying Tome,76922,9751,Lane.top_lane,Role.solo
+1,Daddygoesdeep,Rek'Sai,True,Side.blue,4,0,10,14.0,101,Flash,Smite,12,True,8618,7850,Refillable Potion,Enchantment: Warrior,Tiamat,Boots of Swiftness,Dead Man's Plate,,8546,77502,Lane.jungle,Role.none
+2,Get Good Le Bad,Ezreal,True,Side.blue,7,1,4,11.0,162,Heal,Flash,12,False,9562,8000,Iceborn Gauntlet,Doran's Blade,Muramana,Ionian Boots of Lucidity,Recurve Bow,Long Sword,8016,74506,Lane.bot_lane,Role.carry
+3,BIack3,Twisted Fate,True,Side.blue,4,0,2,6.0,157,Flash,Ghost,13,False,9221,8850,Doran's Ring,Refillable Potion,Lich Bane,Needlessly Large Rod,Ionian Boots of Lucidity,Rod of Ages,88142,14550,Lane.mid_lane,Role.solo
+4,Mata dog,Thresh,True,Side.blue,0,3,11,3.6666666666666665,16,Flash,Exhaust,9,False,5364,4900,Ruby Sightstone,Total Biscuit of Rejuvenation,Control Ward,Targon's Brace,Boots of Mobility,Kindlegem,5837,4096,Lane.bot_lane,Role.support
+5,Clarizio,Karma,False,Side.red,0,3,4,1.3333333333333333,10,Flash,Exhaust,8,False,4138,4075,Forbidden Idol,Sightstone,Control Ward,Spellthief's Edge,Ruby Crystal,Boots of Mobility,10939,2455,Lane.bot_lane,Role.support
+6,ADC Prospect,Caitlyn,False,Side.red,0,4,3,0.75,131,Heal,Flash,9,False,6062,5450,Doran's Blade,Cull,Pickaxe,Berserker's Greaves,B. F. Sword,Recurve Bow,425,54959,Lane.bot_lane,Role.carry
+7,lc0nic,Lee Sin,False,Side.red,3,4,0,0.75,117,Flash,Smite,12,False,6758,5275,Boots of Mobility,Refillable Potion,Enchantment: Warrior,Spectre's Cowl,Ruby Crystal,,13003,69620,Lane.jungle,Role.none
+8,PieCakeLord,Irelia,False,Side.red,0,4,1,0.25,148,Teleport,Flash,12,False,6027,5733,Corrupting Potion,Trinity Force,Null-Magic Mantle,Doran's Blade,Boots of Speed,Control Ward,1724,51215,Lane.top_lane,Role.solo
+9,Dziarmaga,Orianna,False,Side.red,2,5,2,0.8,158,Flash,Ghost,11,False,6739,5975,Doran's Ring,Sorcerer's Shoes,,Morellonomicon,The Dark Seal,Aether Wisp,62111,10657,Lane.mid_lane,Role.solo

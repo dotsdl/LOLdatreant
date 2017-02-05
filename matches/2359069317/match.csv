@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rïkara,Caitlyn,True,Side.blue,10,3,3,4.333333333333333,231,Flash,Heal,14,False,13875,14000,Doran's Blade,Infinity Edge,Phantom Dancer,Statikk Shiv,Runaan's Hurricane,Berserker's Greaves,9313,141287,Lane.bot_lane,Role.carry
+1,Rhux,Kennen,True,Side.blue,5,5,5,2.0,175,Flash,Teleport,15,False,10328,9735,Needlessly Large Rod,Doran's Blade,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Giant's Belt,62876,26758,Lane.top_lane,Role.solo
+2,Riesig,Thresh,True,Side.blue,1,1,17,18.0,27,Flash,Ignite,14,False,8612,7100,Eye of the Equinox,Redemption,Null-Magic Mantle,Ionian Boots of Lucidity,Control Ward,Aegis of the Legion,13410,6902,Lane.bot_lane,Role.support
+3,Rokí,Riven,True,Side.blue,11,2,5,8.0,169,Flash,Smite,15,True,13415,12075,Enchantment: Warrior,Giant's Belt,Ravenous Hydra,Death's Dance,Ionian Boots of Lucidity,,1533,163543,Lane.jungle,Role.none
+4,Regular Mid,Viktor,True,Side.blue,4,4,6,2.5,147,Flash,Ghost,15,False,10374,8925,Abyssal Scepter,Giant's Belt,Perfect Hex Core,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,89786,14118,Lane.mid_lane,Role.solo
+5,Abou222,Syndra,False,Side.red,5,5,0,1.0,173,Ghost,Flash,14,False,9239,9050,Needlessly Large Rod,Morellonomicon,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,,72219,12834,Lane.mid_lane,Role.solo
+6,WhiteYoshi,Vi,False,Side.red,6,7,3,1.2857142857142858,105,Smite,Flash,14,False,9365,9008,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Warden's Mail,Ruby Crystal,1759,101270,Lane.jungle,Role.none
+7,Stixxay,Kalista,False,Side.red,2,8,5,0.875,207,Heal,Flash,13,False,9538,9075,Pickaxe,Blade of the Ruined King,Runaan's Hurricane,Long Sword,Doran's Blade,Berserker's Greaves,2294,105351,Lane.bot_lane,Role.carry
+8,ApoIlo Price,Karma,False,Side.red,0,4,6,1.5,36,Flash,Exhaust,11,False,7037,6225,Redemption,Eye of the Watchers,Boots of Mobility,Null-Magic Mantle,Control Ward,,17017,7226,Lane.bot_lane,Role.support
+9,amumumu,Dr. Mundo,False,Side.red,1,8,2,0.375,224,Flash,Teleport,14,False,9744,9370,Doran's Shield,Negatron Cloak,Spirit Visage,Ninja Tabi,Sunfire Cape,Raptor Cloak,92291,34826,Lane.top_lane,Role.solo

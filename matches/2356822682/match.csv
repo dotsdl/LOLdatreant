@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Źyra,Zyra,False,Side.blue,0,4,2,0.5,1,Flash,Exhaust,4,False,2393,1300,Frostfang,Boots of Speed,,,,,3316,884,Lane.bot_lane,Role.duo
+1,KT Score,Olaf,False,Side.blue,1,4,0,0.25,45,Smite,Ghost,7,False,3406,3150,Refillable Potion,Stalker's Blade,Bami's Cinder,Ionian Boots of Lucidity,,,1308,26329,Lane.jungle,Role.none
+2,MyPetTurtle,Ryze,False,Side.blue,2,0,0,2.0,52,Flash,Ghost,7,False,3455,2735,Refillable Potion,Tear of the Goddess,Catalyst of Aeons,Boots of Speed,Amplifying Tome,,9620,6007,Lane.mid_lane,Role.solo
+3,Garani,Ezreal,False,Side.blue,0,7,1,0.14285714285714285,47,Heal,Flash,6,False,2820,3425,Tear of the Goddess,Health Potion,Tear of the Goddess,,,,3590,11764,Lane.bot_lane,Role.duo
+4,Evangelion,Swain,False,Side.blue,0,4,1,0.25,45,Flash,Teleport,7,False,2873,1700,Doran's Ring,Catalyst of Aeons,,,,,9184,3751,Lane.top_lane,Role.solo
+5,Just hasagi,Yasuo,True,Side.red,2,1,5,7.0,83,Teleport,Flash,10,False,5969,3300,,Doran's Shield,,Dagger,Berserker's Greaves,Hexdrinker,12528,36134,Lane.top_lane,Role.solo
+6,Larri,Karma,True,Side.red,1,1,8,9.0,6,Exhaust,Flash,7,False,4764,2600,Nomad's Medallion,Sightstone,Boots of Speed,The Dark Seal,,,8968,6376,Lane.bot_lane,Role.duo
+7,Cya IN THE BUSH,Draven,True,Side.red,8,0,2,10.0,96,Flash,Heal,9,True,8167,6300,Berserker's Greaves,Youmuu's Ghostblade,Zeal,Doran's Blade,Cull,,0,49999,Lane.bot_lane,Role.duo
+8,Im Vaeth,Lee Sin,True,Side.red,1,1,3,4.0,76,Smite,Flash,8,False,5395,3150,Boots of Speed,Refillable Potion,Enchantment: Warrior,,,,8156,43907,Lane.jungle,Role.none
+9,Hentai Kami Sama,Aurelion Sol,True,Side.red,7,0,4,11.0,80,Exhaust,Flash,9,False,7003,3000,Corrupting Potion,,Boots of Swiftness,Catalyst of Aeons,The Dark Seal,,35138,7403,Lane.jungle,Role.none

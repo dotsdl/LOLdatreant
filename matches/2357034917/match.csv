@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BoBo Zang,Talon,False,Side.blue,8,12,9,1.4166666666666667,107,Ignite,Flash,12,False,8958,8425,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,Ionian Boots of Lucidity,Pickaxe,Long Sword,1939,68597,Lane.mid_lane,Role.solo
+1,Betterflame,Maokai,False,Side.blue,2,7,11,1.8571428571428572,89,Flash,Teleport,11,False,7120,6000,Spirit Visage,Boots of Speed,Bami's Cinder,Doran's Ring,Chain Vest,Cloth Armor,46261,7215,Lane.top_lane,Role.solo
+2,Fairy tale yoyo,Leona,False,Side.blue,2,10,11,1.3,24,Exhaust,Flash,11,False,5975,5825,Face of the Mountain,Sightstone,Giant's Belt,Boots of Mobility,Cloth Armor,Cloth Armor,11602,4401,Lane.bot_lane,Role.support
+3,liutaonever,Lucian,False,Side.blue,5,6,9,2.3333333333333335,106,Flash,Heal,12,False,8339,7550,Youmuu's Ghostblade,Cull,Boots of Speed,Doran's Blade,The Black Cleaver,Dagger,2379,59099,Lane.bot_lane,Role.carry
+4,nnnnnash,Lee Sin,False,Side.blue,9,10,7,1.6,90,Flash,Smite,12,False,8656,8150,Ninja Tabi,Serrated Dirk,Enchantment: Warrior,The Black Cleaver,,,17735,47547,Lane.jungle,Role.none
+5,Maxtrobo,Karma,True,Side.red,7,4,15,5.5,90,Flash,Teleport,13,False,10216,9550,Athene's Unholy Grail,Redemption,Locket of the Iron Solari,Doran's Ring,Boots of Mobility,Needlessly Large Rod,44882,10248,Lane.top_lane,Role.solo
+6,PrismaI,Jax,True,Side.red,6,6,9,2.5,115,Flash,Smite,14,True,11167,9908,Enchantment: Bloodrazor,Refillable Potion,Boots of Swiftness,Trinity Force,Zeal,Hextech Revolver,23502,99211,Lane.jungle,Role.none
+7,fallenbandit,Nasus,True,Side.red,8,4,22,7.5,120,Flash,Teleport,13,False,12734,11100,Frost Queen's Claim,Corrupting Potion,Doran's Ring,Sorcerer's Shoes,Luden's Echo,Liandry's Torment,92904,18881,Lane.jungle,Role.none
+8,deftIy,Vayne,True,Side.red,19,5,13,6.4,116,Flash,Heal,14,False,14799,12600,Quicksilver Sash,Vampiric Scepter,Berserker's Greaves,Statikk Shiv,Phantom Dancer,Infinity Edge,8640,87529,Lane.bot_lane,Role.carry
+9,Zeyzal,Brand,True,Side.red,5,7,20,3.5714285714285716,24,Flash,Exhaust,12,False,10252,9960,Eye of the Watchers,Boots of Mobility,Void Staff,Liandry's Torment,Amplifying Tome,,32144,6659,Lane.bot_lane,Role.support

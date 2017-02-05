@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rohammers,Ekko,True,Side.blue,8,3,5,4.333333333333333,183,Teleport,Flash,15,False,11679,11275,Hextech Protobelt-01,Zhonya's Hourglass,,The Dark Seal,Lich Bane,Mercury's Treads,103818,20229,Lane.top_lane,Role.solo
+1,Link,Ahri,True,Side.blue,5,3,8,4.333333333333333,141,Flash,Teleport,14,False,10474,9825,Abyssal Scepter,Hextech Gunblade,Corrupting Potion,The Dark Seal,Needlessly Large Rod,Sorcerer's Shoes,47414,15146,Lane.mid_lane,Role.solo
+2,windking66,Jinx,True,Side.blue,6,3,6,4.0,205,Heal,Flash,14,False,11500,10375,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,Guardian Angel,Doran's Blade,216,131421,Lane.bot_lane,Role.carry
+3,WT Spectator,Graves,True,Side.blue,8,5,10,3.6,112,Flash,Smite,14,True,11484,10860,Enchantment: Warrior,Brawler's Gloves,Youmuu's Ghostblade,Berserker's Greaves,Duskblade of Draktharr,Dagger,4473,124918,Lane.jungle,Role.none
+4,Shrew,Soraka,True,Side.blue,0,3,13,4.333333333333333,14,Flash,Exhaust,12,False,7782,6850,Redemption,Eye of the Oasis,Ionian Boots of Lucidity,Forbidden Idol,Aether Wisp,,4900,3308,Lane.bot_lane,Role.support
+5,FIoopie,Ezreal,False,Side.red,0,5,5,1.0,160,Flash,Heal,11,False,7816,7450,Doran's Blade,Manamune,Cull,Iceborn Gauntlet,Long Sword,Ionian Boots of Lucidity,12577,52138,Lane.bot_lane,Role.carry
+6,Loc Tran,Lulu,False,Side.red,0,8,10,1.25,13,Flash,Exhaust,9,False,5931,5625,Redemption,Eye of the Watchers,,Ionian Boots of Lucidity,Refillable Potion,,7813,2866,Lane.bot_lane,Role.support
+7,NI9HT,Kassadin,False,Side.red,7,2,1,4.0,167,Teleport,Flash,14,False,9380,8880,Hextech GLP-800,Seraph's Embrace,Corrupting Potion,Negatron Cloak,Amplifying Tome,Ionian Boots of Lucidity,67791,19062,Lane.mid_lane,Role.solo
+8,tardzaned,Zac,False,Side.red,2,5,6,1.6,119,Smite,Flash,12,False,7828,7525,Enchantment: Cinderhulk,,Ionian Boots of Lucidity,Spirit Visage,Warden's Mail,,87898,19977,Lane.jungle,Role.none
+9,Révenge,Yasuo,False,Side.red,8,7,2,1.4285714285714286,153,Teleport,Flash,13,False,9208,8483,Doran's Blade,Doran's Blade,Trinity Force,Phantom Dancer,,Mercury's Treads,30267,74248,Lane.top_lane,Role.solo

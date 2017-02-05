@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,oopa,Ryze,True,Side.blue,3,2,3,3.0,159,Flash,Ghost,12,False,7600,7075,Archangel's Staff,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rod of Ages,,80964,5749,Lane.mid_lane,Role.solo
+1,Nhock,Skarner,True,Side.blue,1,1,9,10.0,89,Smite,Flash,11,False,7212,6250,Refillable Potion,Mercury's Treads,Phage,Enchantment: Cinderhulk,Sheen,,30394,45152,Lane.jungle,Role.none
+2,tehgameguy,Janna,True,Side.blue,2,3,12,4.666666666666667,8,Flash,Exhaust,10,False,6356,5950,Redemption,Forbidden Idol,Sightstone,Nomad's Medallion,Control Ward,Ionian Boots of Lucidity,5826,5032,Lane.bot_lane,Role.support
+3,zz cicero,Poppy,True,Side.blue,4,3,3,2.3333333333333335,112,Teleport,Flash,11,False,7089,6300,Sunfire Cape,Corrupting Potion,Ninja Tabi,Chain Vest,Giant's Belt,,15815,42989,Lane.top_lane,Role.solo
+4,Bes,Jhin,True,Side.blue,8,2,6,7.0,122,Heal,Flash,11,False,8671,6825,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Zeal,Dagger,,1564,76242,Lane.bot_lane,Role.carry
+5,Imaokai,Caitlyn,False,Side.red,1,4,3,1.0,133,Heal,Flash,11,False,6847,5225,Doran's Blade,Refillable Potion,B. F. Sword,Berserker's Greaves,Pickaxe,Zeal,479,55406,Lane.bot_lane,Role.carry
+6,insaníty,Lee Sin,False,Side.red,4,5,4,1.6,97,Flash,Smite,11,True,7728,6750,Refillable Potion,Tiamat,Enchantment: Warrior,Mercury's Treads,Hexdrinker,Control Ward,9903,78143,Lane.jungle,Role.none
+7,Ikzencriel,Jayce,False,Side.red,2,3,3,1.6666666666666667,142,Teleport,Flash,12,False,7151,6200,Doran's Blade,Refillable Potion,The Black Cleaver,Mercury's Treads,Giant Slayer,Long Sword,10807,51716,Lane.top_lane,Role.solo
+8,GamerXz,Viktor,False,Side.red,2,2,3,2.5,142,Flash,Cleanse,12,False,7134,6785,Perfect Hex Core,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,Ruby Crystal,Needlessly Large Rod,64605,10864,Lane.mid_lane,Role.solo
+9,DirtyMobs,Brand,False,Side.red,2,4,2,1.0,9,Flash,Ignite,9,False,5465,4685,Sightstone,Refillable Potion,Sorcerer's Shoes,Frostfang,Amplifying Tome,Giant's Belt,16657,2190,Lane.bot_lane,Role.support

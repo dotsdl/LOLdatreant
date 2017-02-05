@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lilium,LeBlanc,False,Side.blue,0,5,2,0.4,113,Teleport,Flash,11,False,6736,5950,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Aether Wisp,,46849,10836,Lane.mid_lane,Role.solo
+1,Jezus,Elise,False,Side.blue,3,4,3,1.5,112,Smite,Flash,12,False,8224,7875,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Boots of Mobility,Giant's Belt,,,78003,28215,Lane.jungle,Role.none
+2,CNTinyBurt,Darius,False,Side.blue,4,2,4,4.0,129,Flash,Ghost,12,False,8587,8375,Dead Man's Plate,Ruby Crystal,Ninja Tabi,Doran's Blade,The Black Cleaver,,534,73969,Lane.top_lane,Role.solo
+3,Baig,Draven,False,Side.blue,2,7,1,0.42857142857142855,167,Heal,Flash,11,False,8767,8200,Doran's Blade,Youmuu's Ghostblade,Mercurial Scimitar,Berserker's Greaves,,,0,85027,Lane.bot_lane,Role.carry
+4,ShadowRupture,Janna,False,Side.blue,0,5,4,0.8,9,Flash,Exhaust,10,False,6162,5350,Boots of Mobility,Redemption,Eye of the Watchers,Total Biscuit of Rejuvenation,,,9005,4041,Lane.bot_lane,Role.support
+5,ioan,Vladimir,True,Side.red,1,3,7,2.6666666666666665,166,Flash,Ghost,14,False,9102,7735,Hextech Protobelt-01,Amplifying Tome,Spirit Visage,Blasting Wand,Boots of Speed,Doran's Shield,75833,15962,Lane.mid_lane,Role.solo
+6,Enrique2pe,Jinx,True,Side.red,13,1,3,16.0,186,Flash,Heal,13,True,13598,12800,Vampiric Scepter,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Rapid Firecannon,B. F. Sword,5277,131528,Lane.bot_lane,Role.carry
+7,Silviu,Lulu,True,Side.red,0,0,19,19.0,4,Flash,Exhaust,12,False,7923,7550,Ardent Censer,Frost Queen's Claim,Boots of Mobility,Ruby Sightstone,Control Ward,,8661,7843,Lane.bot_lane,Role.support
+8,FlREFLY,Sejuani,True,Side.red,5,2,8,6.5,78,Smite,Flash,12,False,9196,8775,Kindlegem,Ninja Tabi,Sightstone,Enchantment: Cinderhulk,Frozen Heart,Null-Magic Mantle,47460,34657,Lane.jungle,Role.none
+9,Autumn Clouds,Poppy,True,Side.red,4,3,3,2.3333333333333335,157,Teleport,Flash,14,False,9527,9425,Ninja Tabi,Corrupting Potion,Sheen,Spirit Visage,Sunfire Cape,Glacial Shroud,21328,59214,Lane.top_lane,Role.solo

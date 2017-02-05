@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Just hasagi,Yasuo,False,Side.blue,7,7,4,1.5714285714285714,174,Exhaust,Flash,13,False,9895,9075,Bilgewater Cutlass,Refillable Potion,Berserker's Greaves,Frozen Mallet,Phantom Dancer,Doran's Shield,25429,64925,Lane.mid_lane,Role.solo
+1,Àce,Morgana,False,Side.blue,1,7,7,1.1428571428571428,35,Flash,Exhaust,10,False,6712,5750,Frost Queen's Claim,Ionian Boots of Lucidity,Seeker's Armguard,Sightstone,,,18322,5896,Lane.bot_lane,Role.support
+2,UnbearableBear,Zac,False,Side.blue,2,4,6,2.0,139,Smite,Flash,13,False,8435,8000,Enchantment: Cinderhulk,Randuin's Omen,Control Ward,Ionian Boots of Lucidity,Kindlegem,Ruby Crystal,86988,20702,Lane.jungle,Role.none
+3,Coal Tier 6,Hecarim,False,Side.blue,3,7,5,1.1428571428571428,137,Ghost,Teleport,12,False,8341,8033,Corrupting Potion,Boots of Swiftness,Trinity Force,Dead Man's Plate,,,12675,61007,Lane.top_lane,Role.solo
+4,MASTER ROSHl,Sivir,False,Side.blue,2,7,6,1.1428571428571428,153,Flash,Heal,12,True,8527,8000,Doran's Blade,Essence Reaver,Boots of Speed,Statikk Shiv,Dagger,Cull,141,84564,Lane.bot_lane,Role.carry
+5,SteamyMenos,Vi,True,Side.red,10,4,10,5.0,103,Flash,Smite,13,False,10933,9058,Enchantment: Warrior,Refillable Potion,Trinity Force,Ninja Tabi,Giant's Belt,Cloth Armor,1339,105335,Lane.jungle,Role.none
+6,Teh Xiae,Ahri,True,Side.red,2,3,15,5.666666666666667,140,Flash,Ignite,14,False,9839,7950,Luden's Echo,Sorcerer's Shoes,,Doran's Ring,Morellonomicon,,56882,15981,Lane.mid_lane,Role.solo
+7,only grab grills,Nautilus,True,Side.red,4,1,8,12.0,176,Teleport,Flash,15,False,10826,9800,Corrupting Potion,Zz'Rot Portal,Locket of the Iron Solari,Sunfire Cape,Ninja Tabi,Ruby Crystal,74890,27861,Lane.top_lane,Role.solo
+8,KaNKl,Vayne,True,Side.red,15,4,6,5.25,190,Heal,Flash,13,False,13563,10875,Refillable Potion,Doran's Blade,Statikk Shiv,Infinity Edge,Phantom Dancer,Berserker's Greaves,28619,103942,Lane.bot_lane,Role.carry
+9,W Yuè,Janna,True,Side.red,1,3,22,7.666666666666667,9,Flash,Exhaust,12,False,8262,6750,Redemption,Eye of the Watchers,Aegis of the Legion,Ionian Boots of Lucidity,Refillable Potion,Control Ward,5747,8542,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Gun,Vayne,True,Side.blue,5,0,6,11.0,166,Flash,Heal,12,True,10115,7975,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,,,10219,85899,Lane.bot_lane,Role.carry
+1,eihtooms,Thresh,True,Side.blue,1,0,10,11.0,14,Flash,Exhaust,9,False,6107,3900,,Ruby Sightstone,,Relic Shield,Boots of Mobility,Cloth Armor,5081,3824,Lane.bot_lane,Role.support
+2,Br0main,Nasus,True,Side.blue,5,4,5,2.5,153,Flash,Teleport,13,False,9637,9343,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Trinity Force,Doran's Ring,Amplifying Tome,59248,39089,Lane.top_lane,Role.solo
+3,rqspaceinvad,Cassiopeia,True,Side.blue,4,1,5,9.0,143,Flash,Ghost,12,False,8957,7075,Doran's Ring,,Morellonomicon,Abyssal Scepter,Tear of the Goddess,,59286,10844,Lane.mid_lane,Role.solo
+4,Danman96,Lee Sin,True,Side.blue,4,2,5,4.5,97,Flash,Smite,11,False,8840,6800,Long Sword,Tiamat,Enchantment: Warrior,,Hexdrinker,Ninja Tabi,10235,74799,Lane.jungle,Role.none
+5,Falco Mechanic,Jarvan IV,False,Side.red,4,4,2,1.5,75,Smite,Flash,10,False,6388,5800,Enchantment: Cinderhulk,Ninja Tabi,Warden's Mail,Ruby Crystal,,,14403,36730,Lane.jungle,Role.none
+6,never meme,Lulu,False,Side.red,0,3,2,0.6666666666666666,9,Exhaust,Flash,9,False,4068,3550,Ruby Sightstone,Total Biscuit of Rejuvenation,Spellthief's Edge,Boots of Mobility,Ruby Crystal,,16935,2024,Lane.bot_lane,Role.support
+7,Unstopebble,Orianna,False,Side.red,0,2,2,1.0,131,Flash,Ghost,11,False,5903,5685,Sorcerer's Shoes,Amplifying Tome,Ruby Crystal,Doran's Ring,Morellonomicon,,56268,8968,Lane.mid_lane,Role.solo
+8,Nuk3,Jayce,False,Side.red,2,7,3,0.7142857142857143,101,Flash,Teleport,10,False,5901,5250,Doran's Blade,The Black Cleaver,Last Whisper,Boots of Speed,,,5016,44515,Lane.top_lane,Role.solo
+9,NayvadiusWilburn,Corki,False,Side.red,1,3,1,0.6666666666666666,147,Flash,Heal,10,False,6260,6033,Doran's Blade,Bilgewater Cutlass,Boots of Speed,Trinity Force,,,42454,16431,Lane.bot_lane,Role.carry

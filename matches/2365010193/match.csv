@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Link,Sivir,True,Side.blue,2,0,3,5.0,196,Flash,Ghost,14,False,8977,8975,Essence Reaver,Boots of Speed,Hexdrinker,Statikk Shiv,Cull,Doran's Blade,18240,94428,Lane.mid_lane,Role.solo
+1,Shiphtur,Ziggs,True,Side.blue,5,1,5,10.0,164,Heal,Flash,12,True,9220,8025,Needlessly Large Rod,Sorcerer's Shoes,Aether Wisp,Doran's Ring,Morellonomicon,Sheen,81972,10961,Lane.bot_lane,Role.carry
+2,Wintrader Vulcan,Zyra,True,Side.blue,3,3,6,3.0,11,Flash,Exhaust,10,False,6568,6375,Elixir of Sorcery,Eye of the Watchers,Control Ward,Boots of Mobility,Haunting Guise,,10411,5335,Lane.bot_lane,Role.support
+3,Vainsu,Elise,True,Side.blue,3,4,6,2.25,103,Smite,Flash,13,False,8090,7775,Hextech Protobelt-01,Refillable Potion,Needlessly Large Rod,Enchantment: Runic Echoes,Sorcerer's Shoes,,64129,22845,Lane.jungle,Role.none
+4,Rhux,Shyvana,True,Side.blue,2,3,2,1.3333333333333333,150,Teleport,Smite,12,False,7726,7300,Refillable Potion,Enchantment: Cinderhulk,Locket of the Iron Solari,Giant's Belt,Ninja Tabi,,64560,27612,Lane.top_lane,Role.solo
+5,Fragas,Viktor,False,Side.red,1,4,2,0.75,127,Flash,Ghost,11,False,6666,6405,The Hex Core mk-2,Doran's Ring,Fiendish Codex,Sorcerer's Shoes,Amplifying Tome,Negatron Cloak,61999,9050,Lane.mid_lane,Role.solo
+6,lc0nic,Graves,False,Side.red,6,2,1,3.5,146,Flash,Smite,13,False,9240,8575,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Maw of Malmortius,Zeal,,3713,124590,Lane.jungle,Role.none
+7,Koby,Karma,False,Side.red,0,4,4,1.0,8,Flash,Exhaust,9,False,4898,4400,Sightstone,Frostfang,Control Ward,Boots of Mobility,Forbidden Idol,Ruby Crystal,6938,1845,Lane.bot_lane,Role.support
+8,FIoopie,Vayne,False,Side.red,1,2,1,1.0,171,Flash,Heal,12,False,7297,6950,Doran's Blade,Refillable Potion,Berserker's Greaves,Infinity Edge,Zeal,Dagger,0,61806,Lane.bot_lane,Role.carry
+9,Entranced,Shaco,False,Side.red,3,3,4,2.3333333333333335,146,Teleport,Ignite,12,False,7725,6025,Hextech Protobelt-01,Corrupting Potion,Doran's Ring,Ionian Boots of Lucidity,The Dark Seal,Seeker's Armguard,49101,24027,Lane.top_lane,Role.solo

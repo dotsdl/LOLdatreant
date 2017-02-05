@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aixedos,Zed,False,Side.blue,2,8,4,0.75,81,Ignite,Flash,10,False,5608,4950,Youmuu's Ghostblade,Hexdrinker,,,Boots of Speed,,6005,40575,Lane.mid_lane,Role.solo
+1,Laka,Ivern,False,Side.blue,2,4,4,1.5,63,Smite,Flash,11,False,5978,5600,Boots of Mobility,Redemption,Athene's Unholy Grail,Hunter's Talisman,,,13410,2686,Lane.jungle,Role.none
+2,Lunk,Corki,False,Side.blue,4,2,2,3.0,164,Flash,Heal,11,False,7736,6933,Doran's Blade,Bilgewater Cutlass,Refillable Potion,Trinity Force,Hextech Revolver,,45973,13964,Lane.bot_lane,Role.carry
+3,Kytou,Volibear,False,Side.blue,0,2,5,2.5,33,Flash,Exhaust,9,False,4889,4275,Boots of Swiftness,Ruby Crystal,Control Ward,Eye of the Equinox,,,9481,5060,Lane.bot_lane,Role.support
+4,DowneyJr,Irelia,False,Side.blue,1,8,1,0.25,96,Teleport,Flash,10,False,5558,4575,Corrupting Potion,Control Ward,Doran's Blade,Ninja Tabi,Phage,Sheen,1677,25033,Lane.top_lane,Role.solo
+5,CC Hollywood,Ekko,True,Side.red,5,4,5,2.5,150,Teleport,Flash,12,False,9171,8900,Sorcerer's Shoes,Corrupting Potion,The Dark Seal,Lich Bane,Zhonya's Hourglass,Blasting Wand,72576,16153,Lane.mid_lane,Role.solo
+6,CC Dean,Janna,True,Side.red,0,1,5,5.0,7,Exhaust,Flash,9,False,5545,5300,Nomad's Medallion,Sightstone,,Ardent Censer,Boots of Mobility,,2868,4576,Lane.bot_lane,Role.support
+7,Stumpey,Trundle,True,Side.red,7,1,6,13.0,162,Flash,Teleport,13,True,10117,9358,Cloth Armor,Refillable Potion,Ravenous Hydra,Mercury's Treads,Doran's Blade,Trinity Force,1213,83778,Lane.top_lane,Role.solo
+8,CC ArJay,Vi,True,Side.red,8,2,6,7.0,96,Flash,Smite,13,False,9184,8908,Enchantment: Warrior,Refillable Potion,Trinity Force,Ninja Tabi,Giant's Belt,Cloth Armor,865,96220,Lane.jungle,Role.none
+9,CC Artemis,Twitch,True,Side.red,4,1,2,6.0,174,Flash,Heal,11,False,8976,8625,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,Dagger,15,85962,Lane.bot_lane,Role.carry

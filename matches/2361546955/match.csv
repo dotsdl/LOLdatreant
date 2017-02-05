@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dopas doge ,Graves,True,Side.blue,1,1,6,7.0,54,Smite,Flash,7,False,4724,2325,Refillable Potion,Caulfield's Warhammer,Skirmisher's Sabre,,,,664,33695,Lane.jungle,Role.none
+1,Kammgefahr,Jhin,True,Side.blue,1,1,7,8.0,55,Heal,Flash,7,False,4472,3125,Total Biscuit of Rejuvenation,Doran's Blade,Boots of Speed,B. F. Sword,Pickaxe,,1957,30296,Lane.bot_lane,Role.duo
+2,bu xiang fangqi,LeBlanc,True,Side.blue,6,0,5,11.0,60,Flash,Ignite,8,True,6066,4375,Abyssal Scepter,Doran's Ring,Control Ward,The Dark Seal,The Dark Seal,Boots of Speed,24579,5823,Lane.jungle,Role.none
+3,Tsui Wah ,Veigar,True,Side.blue,3,2,7,5.0,10,Flash,Ghost,7,False,4579,4150,Boots of Speed,Eye of the Watchers,Cloth Armor,Cloth Armor,Cloth Armor,Cloth Armor,13932,3944,Lane.bot_lane,Role.duo
+4,IIIlIIIlIIlIIllI,Jax,True,Side.blue,5,1,1,6.0,72,Flash,Teleport,8,False,5442,3925,Corrupting Potion,Sheen,Dagger,Dagger,Phage,Doran's Blade,4869,33152,Lane.top_lane,Role.solo
+5,Arane,Soraka,False,Side.red,0,3,0,0.0,3,Exhaust,Flash,4,False,2023,1150,Faerie Charm,Ancient Coin,Ruby Crystal,Faerie Charm,,,1385,685,Lane.bot_lane,Role.duo
+6,NEACE  Eeeee,Rengar,False,Side.red,2,5,0,0.4,48,Flash,Ignite,6,False,3257,1775,Caulfield's Warhammer,Refillable Potion,Boots of Speed,,,,1769,17294,Lane.top_lane,Role.solo
+7,Hanjaro,Caitlyn,False,Side.red,0,4,1,0.25,40,Flash,Heal,6,False,2629,1350,Doran's Blade,Boots of Speed,,Cull,,,214,16794,Lane.bot_lane,Role.duo
+8,Asyc xD ,Elise,False,Side.red,3,3,2,1.6666666666666667,16,Smite,Flash,6,False,3650,3225,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,,,,12852,7265,Lane.jungle,Role.none
+9,CHEEZY DIAPER,Ziggs,False,Side.red,0,1,0,0.0,63,Barrier,Flash,7,False,3123,2650,Total Biscuit of Rejuvenation,Lost Chapter,Doran's Ring,Fiendish Codex,Boots of Speed,,18106,3549,Lane.mid_lane,Role.solo

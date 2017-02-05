@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,aShady,Vi,False,Side.blue,8,7,8,2.2857142857142856,90,Smite,Flash,14,False,10631,10458,Enchantment: Warrior,Dead Man's Plate,Ionian Boots of Lucidity,Trinity Force,Control Ward,,1073,107715,Lane.jungle,Role.none
+1,2nd Time 2nd,Ryze,False,Side.blue,4,5,4,1.6,221,Flash,Ghost,14,False,11156,10735,Seraph's Embrace,Rod of Ages,Abyssal Scepter,Amplifying Tome,Ruby Crystal,Ionian Boots of Lucidity,140307,14100,Lane.mid_lane,Role.solo
+2,SucDo,Pantheon,False,Side.blue,6,9,3,1.0,100,Flash,Teleport,12,False,9368,8550,Corrupting Potion,Boots of Swiftness,The Black Cleaver,Hexdrinker,Guardian Angel,Long Sword,6476,58266,Lane.top_lane,Role.solo
+3,daduu,Thresh,False,Side.blue,0,6,13,2.1666666666666665,29,Flash,Exhaust,11,False,7102,6925,Boots of Mobility,Ruby Sightstone,Locket of the Iron Solari,Targon's Brace,Control Ward,,8542,3542,Lane.bot_lane,Role.support
+4,Sophist Sage,Ezreal,False,Side.blue,6,6,7,2.1666666666666665,221,Heal,Flash,15,False,11664,11550,Blade of the Ruined King,Doran's Blade,Muramana,Iceborn Gauntlet,Berserker's Greaves,Last Whisper,12434,109387,Lane.bot_lane,Role.carry
+5,Kurumz,Twisted Fate,True,Side.red,5,4,18,5.75,171,Ghost,Flash,14,False,12570,12425,Blasting Wand,Needlessly Large Rod,Zhonya's Hourglass,Ionian Boots of Lucidity,Rod of Ages,Lich Bane,108952,12857,Lane.mid_lane,Role.solo
+6,rat fink boy,Sivir,True,Side.red,11,4,14,6.25,206,Heal,Flash,15,False,13973,11500,Essence Reaver,Statikk Shiv,Infinity Edge,Berserker's Greaves,Doran's Blade,,13321,148194,Lane.bot_lane,Role.carry
+7,Ikzencriel,Nautilus,True,Side.red,7,4,15,5.5,145,Teleport,Flash,15,False,11773,9500,Corrupting Potion,Sunfire Cape,Locket of the Iron Solari,Spirit Visage,Ninja Tabi,,75212,19372,Lane.top_lane,Role.solo
+8,Źyra,Zyra,True,Side.red,4,8,15,2.375,22,Flash,Ignite,12,True,10190,8950,Eye of the Watchers,Control Ward,Liandry's Torment,Seeker's Armguard,Boots of Mobility,Fiendish Codex,32001,6365,Lane.bot_lane,Role.support
+9,FIoopie,Rek'Sai,True,Side.red,6,5,19,5.0,140,Flash,Smite,15,False,12025,9450,Refillable Potion,Titanic Hydra,Mercury's Treads,Spectre's Cowl,Enchantment: Cinderhulk,Kindlegem,31077,88595,Lane.jungle,Role.none

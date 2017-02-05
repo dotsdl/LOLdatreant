@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BulletSafety,Malphite,False,Side.blue,2,8,3,0.625,73,Flash,Teleport,11,False,6262,5725,Abyssal Scepter,Corrupting Potion,Ninja Tabi,Control Ward,Giant's Belt,Cloth Armor,18180,9655,Lane.top_lane,Role.solo
+1,harr0w,Orianna,False,Side.blue,4,6,1,0.8333333333333334,184,Flash,Ghost,12,False,8342,8025,Doran's Ring,Rylai's Crystal Scepter,,Morellonomicon,Sorcerer's Shoes,,73594,12825,Lane.mid_lane,Role.solo
+2,My Stick,Thresh,False,Side.blue,3,9,3,0.6666666666666666,31,Flash,Ignite,10,False,5947,5500,Redemption,Refillable Potion,Eye of the Equinox,Ionian Boots of Lucidity,,,9532,4441,Lane.bot_lane,Role.support
+3,TSM Lemio,Varus,False,Side.blue,2,6,4,1.0,192,Heal,Flash,13,False,8523,8475,Essence Reaver,Rapid Firecannon,B. F. Sword,Doran's Blade,Boots of Speed,,8344,101035,Lane.bot_lane,Role.carry
+4,herolineage,Vi,False,Side.blue,4,7,4,1.1428571428571428,100,Flash,Smite,12,False,7612,7208,Enchantment: Warrior,Trinity Force,Boots of Speed,Ruby Crystal,,,985,80453,Lane.jungle,Role.none
+5,MoXiGeRen,Ashe,True,Side.red,5,3,10,5.0,128,Heal,Flash,12,True,10287,9225,Statikk Shiv,Berserker's Greaves,Cull,Kircheis Shard,Doran's Blade,Infinity Edge,6392,79390,Lane.bot_lane,Role.carry
+6,Good Lee xd,Graves,True,Side.red,14,2,7,10.5,115,Smite,Flash,15,False,12955,10425,Enchantment: Warrior,Boots of Swiftness,Refillable Potion,The Bloodthirster,Phantom Dancer,Long Sword,3537,139007,Lane.jungle,Role.none
+7,Ult f4,Sona,True,Side.red,1,2,17,9.0,37,Exhaust,Flash,11,False,9104,7900,Spellthief's Edge,Refillable Potion,Zz'Rot Portal,Ruby Sightstone,Banner of Command,Boots of Mobility,9996,12128,Lane.bot_lane,Role.support
+8,Rènekton,Karma,True,Side.red,7,4,9,4.0,101,Flash,Teleport,12,False,9445,9445,Zz'Rot Portal,Ardent Censer,Amplifying Tome,Ionian Boots of Lucidity,Athene's Unholy Grail,Amplifying Tome,49804,11298,Lane.mid_lane,Role.solo
+9,Garude Sandstorm,Kennen,True,Side.red,9,4,5,3.5,171,Teleport,Flash,14,False,11246,11275,Blasting Wand,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Rylai's Crystal Scepter,Doran's Blade,77153,25968,Lane.top_lane,Role.solo

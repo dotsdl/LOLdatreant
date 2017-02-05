@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Green Awakening,Zed,True,Side.blue,7,6,3,1.6666666666666667,148,Flash,Ignite,13,False,10532,9200,Youmuu's Ghostblade,Long Sword,,Mercury's Treads,Hexdrinker,Duskblade of Draktharr,5671,81896,Lane.mid_lane,Role.solo
+1,umperor,Fiora,True,Side.blue,5,8,5,1.25,169,Teleport,Flash,14,True,10863,9000,Ninja Tabi,Ravenous Hydra,Refillable Potion,The Black Cleaver,Vampiric Scepter,,1347,112365,Lane.top_lane,Role.solo
+2,Vicinus,Karma,True,Side.blue,1,4,21,5.5,24,Flash,Exhaust,13,False,9910,7350,Redemption,Mejai's Soulstealer,Ionian Boots of Lucidity,Null-Magic Mantle,Control Ward,Eye of the Watchers,27826,6213,Lane.bot_lane,Role.support
+3,Arcade AHRl,Vayne,True,Side.blue,10,2,10,10.0,139,Flash,Heal,13,False,11714,9250,Doran's Blade,Refillable Potion,Infinity Edge,Berserker's Greaves,Statikk Shiv,Zeal,3282,86207,Lane.bot_lane,Role.carry
+4,Drowning,Graves,True,Side.blue,9,1,8,17.0,183,Flash,Smite,16,False,13571,11725,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Hexdrinker,Phantom Dancer,Death's Dance,3925,183484,Lane.jungle,Role.none
+5,Aerodactyl,Thresh,False,Side.red,0,5,9,1.8,21,Flash,Exhaust,10,False,6744,6275,Ancient Coin,Redemption,Sightstone,Null-Magic Mantle,Aegis of the Legion,Boots of Mobility,6666,4898,Lane.jungle,Role.none
+6,12 02 2016,Corki,False,Side.red,1,11,2,0.2727272727272727,126,Flash,Heal,11,False,7951,7558,Doran's Blade,Trinity Force,Sorcerer's Shoes,B. F. Sword,Pickaxe,,53732,17373,Lane.bot_lane,Role.solo
+7,foggedftw1,Kled,False,Side.red,6,6,4,1.6666666666666667,147,Ignite,Flash,13,False,9517,9150,Titanic Hydra,Long Sword,Doran's Blade,Ninja Tabi,The Black Cleaver,,0,83791,Lane.top_lane,Role.solo
+8,Ifkinluvpeaches,Lee Sin,False,Side.red,10,3,2,4.0,169,Smite,Flash,14,False,11570,10950,Enchantment: Warrior,Tiamat,Youmuu's Ghostblade,Dead Man's Plate,,Ninja Tabi,32804,113339,Lane.jungle,Role.none
+9,Henrÿ,Lux,False,Side.red,4,7,5,1.2857142857142858,123,Flash,Exhaust,12,False,8595,8375,Sorcerer's Shoes,Morellonomicon,Luden's Echo,The Dark Seal,,Doran's Ring,50883,13848,Lane.mid_lane,Role.solo

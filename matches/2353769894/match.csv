@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hit GirI,Morgana,False,Side.blue,3,8,5,1.0,21,Flash,Ignite,13,False,8641,8075,Frost Queen's Claim,Redemption,Forbidden Idol,Sightstone,Ionian Boots of Lucidity,Chalice of Harmony,23923,4855,Lane.bot_lane,Role.support
+1,Tahon,Riven,False,Side.blue,5,7,4,1.2857142857142858,138,Smite,Flash,15,False,10422,9875,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Hexdrinker,B. F. Sword,2425,133171,Lane.jungle,Role.none
+2,Pixee,Ahri,False,Side.blue,2,7,5,1.0,154,Ignite,Flash,14,False,9444,8010,Doran's Ring,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,Control Ward,49001,12596,Lane.mid_lane,Role.solo
+3,ButtRaider,Singed,False,Side.blue,6,9,5,1.2222222222222223,165,Ghost,Teleport,15,False,10464,10375,The Dark Seal,Corrupting Potion,Ninja Tabi,Rylai's Crystal Scepter,Thornmail,Spirit Visage,89307,10437,Lane.top_lane,Role.solo
+4,Apexy,Jhin,False,Side.blue,4,9,3,0.7777777777777778,204,Flash,Heal,15,False,11021,11050,Caulfield's Warhammer,Essence Reaver,Ionian Boots of Lucidity,Rapid Firecannon,,Hexdrinker,3631,113216,Lane.bot_lane,Role.carry
+5,Quantum Fizzics,Akali,True,Side.red,14,3,8,7.333333333333333,248,Flash,Teleport,18,False,16005,14425,Rabadon's Deathcap,Sorcerer's Shoes,Hextech Gunblade,Zhonya's Hourglass,Void Staff,,59509,117814,Lane.mid_lane,Role.solo
+6,12 02 2016,Shyvana,True,Side.red,5,5,7,2.4,131,Ghost,Smite,15,False,12109,11500,Enchantment: Bloodrazor,Chain Vest,Titanic Hydra,Frozen Mallet,Mercury's Treads,,65622,82327,Lane.jungle,Role.none
+7,foggedftw1,Tryndamere,True,Side.red,7,5,4,2.2,261,Ignite,Flash,17,True,14334,13750,Infinity Edge,Blade of the Ruined King,Statikk Shiv,The Black Cleaver,Ionian Boots of Lucidity,,25448,168881,Lane.top_lane,Role.solo
+8,MrGetRigHt,Thresh,True,Side.red,3,3,19,7.333333333333333,35,Flash,Ignite,15,False,10067,9000,Face of the Mountain,Locket of the Iron Solari,Sightstone,Boots of Mobility,Knight's Vow,,15826,8435,Lane.bot_lane,Role.support
+9,Honi,Vayne,True,Side.red,11,4,3,3.5,265,Flash,Heal,17,False,14981,14650,Null-Magic Mantle,The Bloodthirster,Phantom Dancer,Statikk Shiv,Infinity Edge,Berserker's Greaves,25005,143079,Lane.bot_lane,Role.carry

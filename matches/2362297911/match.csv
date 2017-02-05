@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am tham ben em,LeBlanc,True,Side.blue,8,3,6,4.666666666666667,151,Flash,Ignite,13,False,10089,9050,Boots of Speed,Doran's Ring,Morellonomicon,Doran's Ring,Luden's Echo,Needlessly Large Rod,87187,7837,Lane.mid_lane,Role.solo
+1,Xwo,Alistar,True,Side.blue,2,1,11,13.0,31,Flash,Exhaust,10,False,7116,6750,Kindlegem,Boots of Mobility,Control Ward,Eye of the Equinox,,Redemption,9667,4456,Lane.bot_lane,Role.support
+2,I Serenity I,Jhin,True,Side.blue,5,4,3,2.0,165,Flash,Heal,11,False,9319,8175,Total Biscuit of Rejuvenation,,Doran's Blade,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,1435,84002,Lane.bot_lane,Role.carry
+3,Extreme Person,Shaco,True,Side.blue,8,5,3,2.2,120,Ignite,Smite,14,False,10072,9475,Enchantment: Bloodrazor,The Black Cleaver,Berserker's Greaves,Refillable Potion,Bilgewater Cutlass,Recurve Bow,30738,89930,Lane.jungle,Role.none
+4,JuanCarlosFist,Nasus,True,Side.blue,1,3,3,1.3333333333333333,205,Teleport,Flash,13,False,9350,8775,Corrupting Potion,Mercury's Treads,Zz'Rot Portal,Spirit Visage,Phage,Sapphire Crystal,58745,32765,Lane.top_lane,Role.solo
+5,FIoopie,Ezreal,False,Side.red,1,6,1,0.3333333333333333,81,Flash,Heal,9,False,6016,5600,Sheen,Boots of Speed,Phage,Manamune,Doran's Blade,,7147,26896,Lane.bot_lane,Role.duo
+6,Celestial Bjoece,Jarvan IV,False,Side.red,8,1,4,12.0,156,Smite,Flash,14,True,10975,10475,Titanic Hydra,Refillable Potion,,The Black Cleaver,Enchantment: Cinderhulk,Ninja Tabi,11838,116813,Lane.jungle,Role.none
+7,08010505,Maokai,False,Side.red,2,2,4,3.0,220,Flash,Teleport,14,False,8908,8600,Zz'Rot Portal,Doran's Ring,Mercury's Treads,Spectre's Cowl,Sunfire Cape,,90529,11352,Lane.top_lane,Role.solo
+8,F33dMeKills,Vel'Koz,False,Side.red,4,9,5,1.0,133,Flash,Heal,12,False,8091,6985,Doran's Ring,Morellonomicon,Amplifying Tome,Ionian Boots of Lucidity,Blasting Wand,Needlessly Large Rod,60408,6806,Lane.mid_lane,Role.solo
+9,aShady,Nautilus,False,Side.red,1,6,5,1.0,52,Exhaust,Flash,10,False,6237,6175,Boots of Swiftness,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Control Ward,Ruby Crystal,21915,9499,Lane.bot_lane,Role.duo

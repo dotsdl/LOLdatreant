@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,My Lovely Bae,Rengar,False,Side.blue,11,6,0,1.8333333333333333,105,Flash,Smite,11,False,9199,8275,Refillable Potion,Ravenous Hydra,Youmuu's Ghostblade,Ionian Boots of Lucidity,Hunter's Machete,Brawler's Gloves,8723,68008,Lane.jungle,Role.none
+1, dooux,Soraka,False,Side.blue,1,7,7,1.1428571428571428,7,Flash,Exhaust,9,False,5469,4600,Refillable Potion,Control Ward,Ruby Sightstone,Nomad's Medallion,Kindlegem,Ionian Boots of Lucidity,5207,2636,Lane.bot_lane,Role.support
+2, Eat a Mochi ,Viktor,False,Side.blue,1,5,5,1.2,101,Flash,Ghost,11,False,6403,5425,The Hex Core mk-2,Doran's Ring,Doran's Ring,Control Ward,Ionian Boots of Lucidity,Needlessly Large Rod,43608,5912,Lane.mid_lane,Role.solo
+3,snakeenthusiast,Darius,False,Side.blue,0,9,4,0.4444444444444444,128,Ghost,Flash,11,False,6537,5900,Boots of Speed,The Black Cleaver,Spectre's Cowl,Null-Magic Mantle,Long Sword,Doran's Blade,0,57162,Lane.top_lane,Role.solo
+4,Her xiaodi,Vayne,False,Side.blue,5,8,4,1.125,108,Heal,Flash,11,False,7667,7575,Zeal,Blade of the Ruined King,Cull,Doran's Blade,Dagger,Berserker's Greaves,75,43822,Lane.bot_lane,Role.carry
+5,MorningBaconBits,Blitzcrank,True,Side.red,3,6,8,1.8333333333333333,14,Flash,Ignite,10,False,7777,7575,Frost Queen's Claim,Boots of Mobility,Zz'Rot Portal,Sightstone,The Dark Seal,,6369,5761,Lane.bot_lane,Role.support
+6,ioan,Ziggs,True,Side.red,5,4,7,3.0,162,Flash,Ghost,13,False,10271,8600,Luden's Echo,Blasting Wand,Ionian Boots of Lucidity,Doran's Ring,Morellonomicon,,97789,10979,Lane.mid_lane,Role.solo
+7,Enrique2pe,Sivir,True,Side.red,9,4,6,3.75,144,Flash,Heal,12,True,10903,8025,Doran's Blade,Essence Reaver,Berserker's Greaves,Phantom Dancer,,,0,98567,Lane.bot_lane,Role.carry
+8,RobbyBob,Mordekaiser,True,Side.red,11,3,1,4.0,168,Flash,Teleport,14,False,10869,10250,Boots of Swiftness,Zhonya's Hourglass,Hextech Gunblade,Giant's Belt,Needlessly Large Rod,Doran's Shield,105283,18041,Lane.top_lane,Role.solo
+9,FlREFLY,Lee Sin,True,Side.red,7,2,7,7.0,56,Smite,Flash,12,False,9506,6250,Refillable Potion,Boots of Mobility,Enchantment: Warrior,Giant's Belt,Ruby Crystal,Caulfield's Warhammer,9081,71551,Lane.jungle,Role.none

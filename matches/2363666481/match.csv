@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dardøch,Lee Sin,False,Side.blue,1,9,1,0.2222222222222222,44,Smite,Flash,9,False,5401,4500,Boots of Mobility,Refillable Potion,Enchantment: Warrior,Ruby Crystal,Long Sword,Control Ward,4273,39214,Lane.jungle,Role.none
+1,Liquid Pain,Karma,False,Side.blue,1,6,3,0.6666666666666666,8,Flash,Ignite,9,False,5074,4600,Null-Magic Mantle,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Cloth Armor,Control Ward,8447,2146,Lane.bot_lane,Role.support
+2,Washing Dishes,Jayce,False,Side.blue,7,3,0,2.3333333333333335,165,Teleport,Flash,13,False,8768,8875,Manamune,The Black Cleaver,Long Sword,Ionian Boots of Lucidity,Pickaxe,Long Sword,13312,82266,Lane.top_lane,Role.solo
+3,ZatsMod,Viktor,False,Side.blue,0,7,2,0.2857142857142857,99,Flash,Ghost,10,False,5467,5185,Perfect Hex Core,,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,,47774,6644,Lane.mid_lane,Role.solo
+4,OUT DO YA,Varus,False,Side.blue,0,5,1,0.2,131,Flash,Heal,10,False,6096,5250,Youmuu's Ghostblade,,Tear of the Goddess,Ionian Boots of Lucidity,Doran's Blade,,3203,58187,Lane.bot_lane,Role.carry
+5,Rohammers,Ekko,True,Side.red,1,4,5,1.5,112,Teleport,Flash,12,False,7446,6125,Hextech Protobelt-01,Corrupting Potion,Seeker's Armguard,Doran's Ring,Ninja Tabi,Sapphire Crystal,68852,12521,Lane.top_lane,Role.solo
+6,Lil Cody,Rek'Sai,True,Side.red,8,0,11,19.0,135,Smite,Flash,13,False,10196,8000,,Tiamat,Phantom Dancer,Ninja Tabi,Cloth Armor,Enchantment: Cinderhulk,21109,80855,Lane.jungle,Role.none
+7,Stiches,Caitlyn,True,Side.red,10,3,7,5.666666666666667,174,Heal,Flash,12,False,11959,11350,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Vampiric Scepter,Berserker's Greaves,Doran's Blade,1286,126681,Lane.bot_lane,Role.carry
+8,Hakuho,Morgana,True,Side.red,6,2,15,10.5,18,Exhaust,Flash,11,False,8733,6375,Eye of the Watchers,Redemption,,Forbidden Idol,Ionian Boots of Lucidity,,13433,2660,Lane.bot_lane,Role.support
+9,Mr Gimix,Ziggs,True,Side.red,5,0,7,12.0,159,Ignite,Flash,13,True,9328,8625,Doran's Ring,Doran's Ring,Luden's Echo,Lich Bane,Refillable Potion,Sorcerer's Shoes,90102,9763,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,amgod1,Syndra,True,Side.blue,3,1,10,13.0,169,Ghost,Flash,14,False,10036,8550,Doran's Ring,Refillable Potion,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,93024,14196,Lane.mid_lane,Role.solo
+1,Hyperiun,Caitlyn,True,Side.blue,3,5,7,2.0,128,Heal,Flash,11,False,9044,7200,Infinity Edge,Dagger,Zeal,Berserker's Greaves,Dagger,Doran's Blade,350,79027,Lane.bot_lane,Role.carry
+2,never negative,Kennen,True,Side.blue,2,7,11,1.8571428571428572,14,Exhaust,Flash,10,False,7966,6775,Frost Queen's Claim,Hextech Protobelt-01,Ionian Boots of Lucidity,Sightstone,,,11146,6657,Lane.bot_lane,Role.support
+3,nine one two,Lee Sin,True,Side.blue,15,4,6,5.25,67,Smite,Flash,12,True,11564,9000,Ionian Boots of Lucidity,Phage,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,Caulfield's Warhammer,11810,68581,Lane.jungle,Role.none
+4,Kitzuø,Ryze,True,Side.blue,7,5,5,2.4,128,Flash,Teleport,13,False,9911,8725,Archangel's Staff,Ionian Boots of Lucidity,Rod of Ages,Refillable Potion,Fiendish Codex,Lost Chapter,92378,6842,Lane.top_lane,Role.solo
+5,Zero Nostalgia,Vi,False,Side.red,7,4,9,4.0,73,Smite,Flash,12,False,7966,7600,Mercury's Treads,Enchantment: Warrior,Maw of Malmortius,Refillable Potion,Ruby Crystal,,1036,60778,Lane.jungle,Role.none
+6,daduu,Bard,False,Side.red,1,6,15,2.6666666666666665,11,Flash,Exhaust,10,False,6281,5350,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,Control Ward,Eye of the Watchers,,11738,2853,Lane.bot_lane,Role.support
+7,Ntz dOdObee,Irelia,False,Side.red,1,7,4,0.7142857142857143,116,Teleport,Flash,11,False,6424,6283,Hexdrinker,Corrupting Potion,Doran's Blade,Trinity Force,Boots of Speed,,1388,44725,Lane.top_lane,Role.solo
+8,Hârken,Draven,False,Side.red,12,4,2,3.5,127,Flash,Heal,12,False,10967,10100,Doran's Blade,Berserker's Greaves,Infinity Edge,Phantom Dancer,Vampiric Scepter,Hexdrinker,0,71389,Lane.bot_lane,Role.carry
+9,Dallidas,Viktor,False,Side.red,1,9,5,0.6666666666666666,113,Ghost,Flash,11,False,6536,6000,Perfect Hex Core,Needlessly Large Rod,Doran's Ring,Doran's Ring,Boots of Speed,Ruby Crystal,61978,6849,Lane.mid_lane,Role.solo

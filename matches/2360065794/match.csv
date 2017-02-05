@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Chennnn,Nunu,True,Side.blue,9,4,17,6.5,89,Smite,Flash,14,True,12475,12150,Dead Man's Plate,Knight's Vow,Enchantment: Cinderhulk,Ninja Tabi,Chain Vest,Redemption,32053,25573,Lane.jungle,Role.none
+1,Hyungteo,Lucian,True,Side.blue,10,5,11,4.2,214,Heal,Flash,15,False,14064,13100,Mercurial Scimitar,B. F. Sword,Essence Reaver,Berserker's Greaves,Statikk Shiv,Doran's Blade,21431,146684,Lane.bot_lane,Role.carry
+2,am tham ben em,Orianna,True,Side.blue,8,5,19,5.4,199,Flash,Exhaust,15,False,13742,12375,Ionian Boots of Lucidity,Needlessly Large Rod,Zhonya's Hourglass,Doran's Ring,Morellonomicon,Luden's Echo,123657,14913,Lane.mid_lane,Role.solo
+3,Goooshlrific,Jax,True,Side.blue,5,11,10,1.3636363636363635,116,Ignite,Flash,15,False,11453,11000,Corrupting Potion,Randuin's Omen,Blade of the Ruined King,Iceborn Gauntlet,Ninja Tabi,Ruby Crystal,17540,70630,Lane.top_lane,Role.solo
+4,MrMagoo35,Morgana,True,Side.blue,5,3,22,9.0,54,Ignite,Flash,14,False,12303,10575,Frost Queen's Claim,Zhonya's Hourglass,Locket of the Iron Solari,Sightstone,Forbidden Idol,Sorcerer's Shoes,45743,8448,Lane.bot_lane,Role.support
+5,Nick Diaz,Rammus,False,Side.red,1,10,14,1.5,123,Flash,Smite,13,False,9322,9060,Enchantment: Cinderhulk,Zz'Rot Portal,Thornmail,Mercury's Treads,,,66322,32300,Lane.jungle,Role.none
+6,Atrial,Vayne,False,Side.red,9,8,3,1.5,189,Flash,Heal,15,False,11743,11300,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,Doran's Blade,Phantom Dancer,,1636,92158,Lane.bot_lane,Role.carry
+7,Nevr,Zed,False,Side.red,10,8,4,1.75,166,Ignite,Flash,14,False,11166,10875,Youmuu's Ghostblade,Hexdrinker,Mercury's Treads,The Black Cleaver,Last Whisper,Pickaxe,6238,100931,Lane.mid_lane,Role.solo
+8,08 18 2015,Pantheon,False,Side.red,8,6,10,3.0,146,Flash,Ignite,15,False,10884,10925,Youmuu's Ghostblade,Maw of Malmortius,Ninja Tabi,The Black Cleaver,,,9281,83841,Lane.top_lane,Role.solo
+9,dily mul,Ivern,False,Side.red,0,5,15,3.0,45,Smite,Flash,13,False,7968,7850,Ruby Sightstone,Bami's Cinder,Skirmisher's Sabre,Targon's Brace,Athene's Unholy Grail,Ionian Boots of Lucidity,10222,4170,Lane.bot_lane,Role.support

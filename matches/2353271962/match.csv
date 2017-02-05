@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xDD,Zac,True,Side.blue,4,1,16,20.0,114,Flash,Smite,13,False,8791,7775,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Giant's Belt,Cloth Armor,83992,18994,Lane.jungle,Role.none
+1,Swàin,Swain,True,Side.blue,5,3,7,4.0,170,Ignite,Flash,13,False,8834,7870,Zhonya's Hourglass,Ruby Crystal,Boots of Speed,Rod of Ages,Doran's Ring,Negatron Cloak,64357,11411,Lane.mid_lane,Role.solo
+2,Stevens 1v9,Draven,True,Side.blue,11,2,5,8.0,172,Heal,Flash,12,False,12061,10500,Essence Reaver,Infinity Edge,Zeal,Doran's Blade,Long Sword,Berserker's Greaves,0,114317,Lane.bot_lane,Role.carry
+3,Ohgi,Irelia,True,Side.blue,5,4,2,1.75,110,Flash,Teleport,11,False,7544,5333,Corrupting Potion,Ninja Tabi,Trinity Force,,,,2486,40571,Lane.top_lane,Role.solo
+4,TSC Alternity,Thresh,True,Side.blue,1,4,16,4.25,16,Flash,Ignite,11,False,6050,6000,Ionian Boots of Lucidity,Eye of the Equinox,Redemption,Control Ward,,,7036,5464,Lane.bot_lane,Role.support
+5,EmarD,Janna,False,Side.red,1,5,7,1.6,4,Flash,Heal,10,False,5661,5175,Redemption,Eye of the Oasis,Boots of Mobility,,,,4596,3529,Lane.bot_lane,Role.support
+6,Liquid Lima,Evelynn,False,Side.red,5,5,5,2.0,90,Flash,Smite,11,True,7758,7250,Hextech Protobelt-01,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Haunting Guise,,47008,27070,Lane.jungle,Role.none
+7,FatMiku,Fiora,False,Side.red,1,4,2,0.75,136,Flash,Teleport,12,False,7380,6825,Ravenous Hydra,Ninja Tabi,Refillable Potion,Cull,Caulfield's Warhammer,Ruby Crystal,1384,64662,Lane.top_lane,Role.solo
+8,Cat Person,Diana,False,Side.red,4,5,3,1.4,116,Teleport,Flash,11,False,7006,5935,Doran's Ring,Rod of Ages,,Blasting Wand,Amplifying Tome,Sorcerer's Shoes,48765,9686,Lane.mid_lane,Role.solo
+9,Falco Mechanic,Caitlyn,False,Side.red,3,7,2,0.7142857142857143,167,Exhaust,Flash,10,False,7604,7050,Doran's Blade,Infinity Edge,Zeal,Doran's Blade,Berserker's Greaves,,522,88256,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arthin,Leona,False,Side.blue,4,4,2,1.5,38,Flash,Exhaust,10,False,5698,5575,Targon's Brace,Refillable Potion,Stinger,Phage,Sheen,Mercury's Treads,10443,9223,Lane.bot_lane,Role.support
+1,Besaid,Karma,False,Side.blue,0,3,0,0.0,41,Flash,Teleport,8,False,4038,1635,Doran's Ring,,Doran's Ring,Amplifying Tome,Boots of Speed,,7907,3275,Lane.top_lane,Role.solo
+2,Love Dont Exist,Diana,False,Side.blue,3,8,0,0.375,117,Flash,Teleport,11,False,6275,4900,Doran's Ring,Needlessly Large Rod,Boots of Speed,Abyssal Scepter,,,46441,10207,Lane.mid_lane,Role.solo
+3,dopas doge ,Graves,False,Side.blue,1,7,1,0.2857142857142857,58,Smite,Flash,9,False,5103,4450,Skirmisher's Sabre,Refillable Potion,Berserker's Greaves,Caulfield's Warhammer,Caulfield's Warhammer,,923,42141,Lane.jungle,Role.none
+4,SinKittyCat,Jhin,False,Side.blue,0,6,3,0.5,112,Heal,Flash,10,False,5676,5350,Doran's Blade,Essence Reaver,Doran's Blade,Long Sword,,Boots of Speed,4283,55332,Lane.bot_lane,Role.carry
+5,Hyosung,Ivern,True,Side.red,3,2,11,7.0,76,Flash,Smite,12,True,8549,6875,Hunter's Talisman,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Mejai's Soulstealer,Fiendish Codex,,23717,6091,Lane.jungle,Role.none
+6,lost in thoughts,Ryze,True,Side.red,12,1,5,17.0,144,Flash,Ghost,13,False,11063,6450,Tear of the Goddess,Refillable Potion,Rod of Ages,Fiendish Codex,Ionian Boots of Lucidity,Lost Chapter,85160,9779,Lane.mid_lane,Role.solo
+7,starfui,Janna,True,Side.red,1,2,13,7.0,2,Exhaust,Flash,10,False,6244,4975,Control Ward,Refillable Potion,Needlessly Large Rod,Eye of the Oasis,Ionian Boots of Lucidity,The Dark Seal,5229,2803,Lane.bot_lane,Role.support
+8,BlackFoxxx,Ezreal,True,Side.red,2,2,8,5.0,123,Flash,Heal,10,False,7804,6900,Doran's Blade,Ionian Boots of Lucidity,The Dark Seal,Manamune,Iceborn Gauntlet,,8394,48343,Lane.bot_lane,Role.carry
+9,OpenBackpack,Nasus,True,Side.red,10,2,6,8.0,137,Flash,Ghost,13,False,11051,9108,Corrupting Potion,Control Ward,Tiamat,Boots of Swiftness,Trinity Force,Zz'Rot Portal,47998,38543,Lane.top_lane,Role.solo

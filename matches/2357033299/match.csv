@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GoldenStateYOLO,Kennen,True,Side.blue,0,0,6,6.0,116,Flash,Teleport,12,False,6554,6650,Hextech Protobelt-01,Refillable Potion,Rylai's Crystal Scepter,,,Boots of Speed,36797,17953,Lane.mid_lane,Role.solo
+1,BoxerPete,Xin Zhao,True,Side.blue,2,1,2,4.0,157,Teleport,Flash,12,False,7810,6950,Doran's Shield,Ravenous Hydra,Ninja Tabi,Dagger,Dagger,Phage,1009,79283,Lane.top_lane,Role.solo
+2,Hi im Freeze,Lee Sin,True,Side.blue,9,2,5,7.0,103,Flash,Smite,13,False,9377,6450,Tiamat,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Giant's Belt,Cloth Armor,12284,87653,Lane.jungle,Role.none
+3,Jummychu,Jhin,True,Side.blue,8,0,3,11.0,166,Flash,Heal,12,False,9135,8125,Doran's Blade,,Control Ward,Ionian Boots of Lucidity,Essence Reaver,Statikk Shiv,3782,87212,Lane.bot_lane,Role.carry
+4,Aecinira,Bard,True,Side.blue,1,2,13,7.0,5,Flash,Exhaust,10,False,6137,5800,Refillable Potion,Eye of the Watchers,,Glacial Shroud,Ionian Boots of Lucidity,Aegis of the Legion,8372,3788,Lane.bot_lane,Role.support
+5,Mr Pinch,Graves,False,Side.red,0,4,2,0.5,103,Smite,Flash,11,False,6129,5325,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Serrated Dirk,Long Sword,,2122,85966,Lane.jungle,Role.none
+6,Panna,Draven,False,Side.red,1,6,0,0.16666666666666666,121,Heal,Flash,10,False,6145,5325,Doran's Blade,Infinity Edge,Refillable Potion,Boots of Speed,Dagger,Brawler's Gloves,0,62447,Lane.bot_lane,Role.carry
+7,Splaash,Gangplank,False,Side.red,4,3,0,1.3333333333333333,170,Flash,Exhaust,13,True,8763,8693,Boots of Speed,Trinity Force,Infinity Edge,Doran's Ring,,,4163,113851,Lane.top_lane,Role.solo
+8,Code,Janna,False,Side.red,0,3,1,0.3333333333333333,20,Exhaust,Flash,8,False,4471,3800,Crystalline Bracer,Sightstone,Boots of Speed,Nomad's Medallion,Forbidden Idol,,6112,3886,Lane.bot_lane,Role.support
+9,Linsanityy,Cassiopeia,False,Side.red,0,4,0,0.0,160,Flash,Ghost,11,False,6344,6020,Fiendish Codex,Doran's Ring,,Morellonomicon,Tear of the Goddess,Negatron Cloak,65722,8094,Lane.mid_lane,Role.solo

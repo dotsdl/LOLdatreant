@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UCSD Felix,LeBlanc,False,Side.blue,10,4,7,4.25,195,Flash,Teleport,15,False,12632,12500,Zhonya's Hourglass,Doran's Ring,Blasting Wand,Rylai's Crystal Scepter,Abyssal Scepter,Sorcerer's Shoes,107996,12007,Lane.top_lane,Role.solo
+1,Sneaky Arab,Vayne,False,Side.blue,1,9,6,0.7777777777777778,177,Flash,Heal,12,False,9978,9400,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,Zeal,Dagger,6971,82137,Lane.bot_lane,Role.carry
+2,Y8Y,Nautilus,False,Side.blue,2,7,9,1.5714285714285714,36,Flash,Exhaust,13,False,8276,7900,Eye of the Equinox,Redemption,Control Ward,Giant's Belt,Boots of Mobility,Warden's Mail,13520,6836,Lane.bot_lane,Role.support
+3,Sebi,Viktor,False,Side.blue,3,9,7,1.1111111111111112,199,Flash,Exhaust,15,False,10867,9600,Perfect Hex Core,Doran's Ring,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Seeker's Armguard,127655,11254,Lane.mid_lane,Role.solo
+4,Airsoftslayer,Vi,False,Side.blue,7,6,4,1.8333333333333333,97,Smite,Flash,13,False,10269,9408,Enchantment: Warrior,Ninja Tabi,Refillable Potion,Trinity Force,Giant's Belt,Chain Vest,1188,105050,Lane.jungle,Role.none
+5,TheRickestRlCK,Miss Fortune,True,Side.red,6,5,12,3.6,204,Flash,Heal,15,False,12062,9350,Youmuu's Ghostblade,Duskblade of Draktharr,Serrated Dirk,Ionian Boots of Lucidity,Doran's Blade,Null-Magic Mantle,6570,109771,Lane.bot_lane,Role.carry
+6,FourofDiamonds,Shaco,True,Side.red,12,5,13,5.0,122,Smite,Ignite,16,False,13541,11550,Tiamat,Hextech Gunblade,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Lich Bane,,50478,87574,Lane.jungle,Role.none
+7,badseed31,Sona,True,Side.red,1,7,20,3.0,12,Flash,Exhaust,13,False,8615,7725,Eye of the Watchers,Redemption,Control Ward,Boots of Mobility,Athene's Unholy Grail,,8408,3417,Lane.bot_lane,Role.support
+8,Susuki,Teemo,True,Side.red,6,2,5,5.5,209,Ignite,Flash,15,False,12105,9900,Doran's Ring,Nashor's Tooth,Zhonya's Hourglass,Abyssal Scepter,,Boots of Speed,89948,36892,Lane.top_lane,Role.solo
+9,Pooper Josh,Zed,True,Side.red,10,4,13,5.75,162,Ignite,Flash,15,True,12290,11575,Youmuu's Ghostblade,B. F. Sword,Refillable Potion,Maw of Malmortius,Boots of Speed,The Black Cleaver,5884,111806,Lane.mid_lane,Role.solo

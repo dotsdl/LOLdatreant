@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rekaf nesgrejb,Lissandra,True,Side.blue,4,3,8,4.0,129,Flash,Ignite,12,False,8998,8035,Hextech GLP-800,Morellonomicon,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,,81359,11021,Lane.mid_lane,Role.solo
+1,Japanese is SB,Ashe,True,Side.blue,10,4,7,4.25,140,Flash,Heal,12,False,10978,9250,Refillable Potion,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Doran's Blade,546,82494,Lane.bot_lane,Role.carry
+2,Wehrli,Zyra,True,Side.blue,3,2,12,7.5,25,Exhaust,Flash,11,False,8263,6950,Eye of the Watchers,,Control Ward,Sorcerer's Shoes,Liandry's Torment,,26508,8728,Lane.bot_lane,Role.support
+3,Diamond l Khazix,Kha'Zix,True,Side.blue,7,3,6,4.333333333333333,73,Flash,Smite,12,False,9386,9300,Enchantment: Warrior,Boots of Speed,Youmuu's Ghostblade,Duskblade of Draktharr,,,3369,74802,Lane.jungle,Role.none
+4,JOEMAMAMAD,LeBlanc,True,Side.blue,16,1,3,19.0,166,Flash,Teleport,14,False,13103,11575,Void Staff,Morellonomicon,Fiendish Codex,The Dark Seal,Boots of Speed,Rabadon's Deathcap,101235,14747,Lane.top_lane,Role.solo
+5,Whadicol,Yasuo,False,Side.red,5,10,1,0.6,106,Exhaust,Flash,11,False,6868,6425,Doran's Blade,Mercury's Treads,Phantom Dancer,Cloak of Agility,B. F. Sword,,14094,39033,Lane.mid_lane,Role.solo
+6,We are Ivern,Ivern,False,Side.red,1,7,3,0.5714285714285714,75,Smite,Flash,11,False,5917,4650,Hunter's Talisman,Refillable Potion,The Dark Seal,Ionian Boots of Lucidity,Chain Vest,Athene's Unholy Grail,15765,6184,Lane.jungle,Role.none
+7,TurntAF,Nautilus,False,Side.red,3,7,3,0.8571428571428571,34,Flash,Exhaust,10,False,5479,5375,Tear of the Goddess,Boots of Swiftness,Eye of the Equinox,Pickaxe,,,14659,5175,Lane.bot_lane,Role.support
+8,daluvin,Fiora,False,Side.red,1,7,1,0.2857142857142857,86,Flash,Teleport,10,False,5436,4150,Doran's Blade,Corrupting Potion,Doran's Blade,Hexdrinker,Mercury's Treads,Long Sword,1576,24085,Lane.top_lane,Role.solo
+9,Barranco Coma,Jhin,False,Side.red,2,9,5,0.7777777777777778,108,Flash,Heal,10,True,6528,5975,Youmuu's Ghostblade,Dagger,Boots of Swiftness,Brawler's Gloves,Kircheis Shard,Doran's Blade,2763,39582,Lane.bot_lane,Role.carry

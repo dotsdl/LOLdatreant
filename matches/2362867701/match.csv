@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Snuffuluffagus,Vel'Koz,True,Side.blue,3,5,15,3.6,36,Ignite,Flash,14,False,11433,9675,Frost Queen's Claim,Total Biscuit of Rejuvenation,Ruby Sightstone,Morellonomicon,Sorcerer's Shoes,Mejai's Soulstealer,35766,3992,Lane.bot_lane,Role.support
+1,SHIVinyourANUS,Shaco,True,Side.blue,13,5,5,3.6,206,Teleport,Ignite,17,False,14912,12810,Blasting Wand,Hextech Protobelt-01,Luden's Echo,Sorcerer's Shoes,Lich Bane,Needlessly Large Rod,98715,46682,Lane.top_lane,Role.solo
+2,herolineage,Jax,True,Side.blue,7,3,3,3.3333333333333335,154,Flash,Smite,17,False,13717,12608,Enchantment: Bloodrazor,Tiamat,Trinity Force,Jaurim's Fist,Ninja Tabi,Sterak's Gage,25061,147809,Lane.jungle,Role.none
+3,TEAMLUKEE,Ashe,True,Side.blue,8,9,10,2.0,224,Heal,Flash,16,False,15054,13250,Doran's Blade,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,Infinity Edge,Last Whisper,4058,156983,Lane.bot_lane,Role.carry
+4,Viet Sama,Veigar,True,Side.blue,7,2,10,8.5,280,Flash,Ghost,18,False,15657,14350,Doran's Ring,Rabadon's Deathcap,Dead Man's Plate,Sorcerer's Shoes,Morellonomicon,Void Staff,221477,16492,Lane.mid_lane,Role.solo
+5,Jenlain,Twitch,False,Side.red,8,13,4,0.9230769230769231,175,Flash,Heal,14,False,11967,11025,Infinity Edge,Berserker's Greaves,Quicksilver Sash,Runaan's Hurricane,Vampiric Scepter,Long Sword,0,105370,Lane.bot_lane,Role.carry
+6,Ysls,Rek'Sai,False,Side.red,6,5,7,2.6,179,Smite,Flash,16,False,12243,11983,Tiamat,Edge of Night,Trinity Force,Enchantment: Warrior,Ninja Tabi,,20700,150194,Lane.jungle,Role.none
+7,Cubbyx,Poppy,False,Side.red,6,6,3,1.5,226,Flash,Teleport,17,True,12796,12745,Sunfire Cape,Spirit Visage,Negatron Cloak,Iceborn Gauntlet,Mercury's Treads,Chain Vest,46323,102405,Lane.top_lane,Role.solo
+8,laughin1,Janna,False,Side.red,2,11,11,1.1818181818181819,7,Exhaust,Flash,13,False,9330,8950,Frost Queen's Claim,Boots of Mobility,Sightstone,Locket of the Iron Solari,Redemption,Control Ward,11326,7148,Lane.bot_lane,Role.support
+9,Unrealseal,Viktor,False,Side.red,2,3,7,3.0,283,Cleanse,Flash,17,False,12826,12435,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Rabadon's Deathcap,Amplifying Tome,190323,15583,Lane.mid_lane,Role.solo

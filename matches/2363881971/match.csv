@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Multikill,Ashe,True,Side.blue,8,3,7,5.0,199,Flash,Heal,15,False,13553,10475,Doran's Blade,Caulfield's Warhammer,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,1257,138237,Lane.bot_lane,Role.carry
+1,GowaSan,Jax,True,Side.blue,17,3,5,7.333333333333333,243,Ignite,Flash,17,False,16066,13433,Hextech Gunblade,Trinity Force,Frozen Mallet,Doran's Blade,Chain Vest,Mercury's Treads,42818,130473,Lane.top_lane,Role.solo
+2,clown0979,Nasus,True,Side.blue,2,6,10,2.0,202,Ghost,Flash,15,False,11512,10350,Void Staff,Refillable Potion,Rod of Ages,Sorcerer's Shoes,Liandry's Torment,,94223,32189,Lane.mid_lane,Role.solo
+3,Rownan,Lee Sin,True,Side.blue,9,6,8,2.8333333333333335,130,Flash,Smite,16,False,12706,10475,Mercury's Treads,,Enchantment: Warrior,The Black Cleaver,Dead Man's Plate,Null-Magic Mantle,25203,116131,Lane.jungle,Role.none
+4,Z3NEC,Lux,True,Side.blue,2,7,13,2.142857142857143,29,Exhaust,Flash,13,False,9565,9000,Eye of the Watchers,Ionian Boots of Lucidity,Morellonomicon,Aether Wisp,Needlessly Large Rod,The Dark Seal,29041,5404,Lane.bot_lane,Role.support
+5,ChumpLee,Zyra,False,Side.red,2,6,10,2.0,48,Flash,Exhaust,13,False,9046,8635,Amplifying Tome,Liandry's Torment,Needlessly Large Rod,Sorcerer's Shoes,,Eye of the Watchers,37416,7069,Lane.bot_lane,Role.support
+6,Cheesecube77,Twitch,False,Side.red,5,8,4,1.125,106,Heal,Flash,12,False,8825,9410,Doran's Blade,Infinity Edge,Berserker's Greaves,Dagger,Runaan's Hurricane,,0,55493,Lane.bot_lane,Role.carry
+7,KoalaBaby,Diana,False,Side.red,4,5,2,1.2,131,Smite,Flash,13,False,9441,8525,Dagger,Enchantment: Bloodrazor,Luden's Echo,Blasting Wand,,Sorcerer's Shoes,72465,38034,Lane.jungle,Role.none
+8,Tålly Mark,Yasuo,False,Side.red,10,11,3,1.1818181818181819,187,Flash,Ignite,14,True,11463,10175,Quicksilver Sash,Ninja Tabi,Infinity Edge,Doran's Blade,Phantom Dancer,Vampiric Scepter,30633,106255,Lane.mid_lane,Role.solo
+9,LegendaryJDairy,Maokai,False,Side.red,4,9,4,0.8888888888888888,144,Teleport,Flash,14,False,9095,8000,Doran's Ring,Randuin's Omen,Ninja Tabi,Frozen Heart,Doran's Ring,Ruby Crystal,84831,10026,Lane.top_lane,Role.solo

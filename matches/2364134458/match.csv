@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Saskioo,Elise,True,Side.blue,5,2,4,4.5,117,Smite,Flash,13,False,10597,10135,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Hextech Protobelt-01,Boots of Mobility,Amplifying Tome,,98355,35958,Lane.jungle,Role.none
+1,Dna shockwave,Ahri,True,Side.blue,2,4,5,1.75,199,Ignite,Flash,14,False,10086,8300,Doran's Ring,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Morellonomicon,,66964,15395,Lane.mid_lane,Role.solo
+2,TheOddOrange,Nasus,True,Side.blue,4,1,2,6.0,268,Flash,Teleport,16,False,12145,11275,Zz'Rot Portal,Corrupting Potion,Ionian Boots of Lucidity,Guardian Angel,Iceborn Gauntlet,Spectre's Cowl,79698,85315,Lane.top_lane,Role.solo
+3,cokes,Jhin,True,Side.blue,7,1,5,12.0,163,Heal,Flash,13,True,10973,9225,Essence Reaver,Doran's Blade,Ionian Boots of Lucidity,Rapid Firecannon,,B. F. Sword,3823,101708,Lane.bot_lane,Role.carry
+4,TDK Tr4nce,Janna,True,Side.blue,0,2,13,6.5,18,Flash,Exhaust,11,False,7683,7450,Ruby Sightstone,Redemption,Forbidden Idol,Aether Wisp,Boots of Mobility,Ancient Coin,1744,2649,Lane.bot_lane,Role.support
+5,LimitedExtent,Gragas,False,Side.red,2,2,3,2.5,87,Smite,Flash,12,False,7736,7350,Enchantment: Runic Echoes,Spirit Visage,Cloth Armor,,Mercury's Treads,Cloth Armor,64128,21581,Lane.jungle,Role.none
+6,Linsanityy,Ryze,False,Side.red,5,0,1,6.0,271,Flash,Ghost,15,False,10960,10325,Refillable Potion,Seraph's Embrace,Control Ward,Mercury's Treads,Rod of Ages,Morellonomicon,167272,9140,Lane.mid_lane,Role.solo
+7,Zaganox,Jayce,False,Side.red,1,7,1,0.2857142857142857,190,Teleport,Flash,12,False,8422,7475,Doran's Blade,The Black Cleaver,Ionian Boots of Lucidity,Manamune,Long Sword,,10895,84559,Lane.top_lane,Role.solo
+8,Erry,Twitch,False,Side.red,0,5,4,0.8,197,Heal,Flash,12,False,8640,8425,Total Biscuit of Rejuvenation,Control Ward,Infinity Edge,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,0,84106,Lane.bot_lane,Role.carry
+9,daduu,Bard,False,Side.red,2,4,5,1.75,17,Flash,Exhaust,11,False,6720,6525,Boots of Mobility,Redemption,Eye of the Watchers,Null-Magic Mantle,Control Ward,,12608,4504,Lane.bot_lane,Role.support

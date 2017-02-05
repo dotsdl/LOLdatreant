@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Isya Boy,Jhin,True,Side.blue,8,4,9,4.25,184,Heal,Flash,15,False,12731,11375,Doran's Blade,Essence Reaver,Rapid Firecannon,Infinity Edge,Boots of Swiftness,,3340,110187,Lane.bot_lane,Role.carry
+1,Hi I am Zack,Brand,True,Side.blue,10,2,13,11.5,26,Ignite,Flash,13,False,11368,9635,Eye of the Watchers,Blasting Wand,Amplifying Tome,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Haunting Guise,39675,6592,Lane.bot_lane,Role.support
+2,PonderousSeaLion,Kha'Zix,True,Side.blue,11,5,6,3.4,135,Flash,Smite,15,False,12948,10625,Ravenous Hydra,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Duskblade of Draktharr,,4881,145421,Lane.jungle,Role.none
+3,I am Fatal,Viktor,True,Side.blue,2,4,10,3.0,192,Ghost,Flash,14,False,11211,9050,Ionian Boots of Lucidity,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,Doran's Ring,115716,14048,Lane.mid_lane,Role.solo
+4,CHEEZY DIAPER,Nautilus,True,Side.blue,0,4,9,2.25,189,Teleport,Flash,13,False,9754,8050,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Sunfire Cape,Null-Magic Mantle,Ruby Crystal,49563,16581,Lane.top_lane,Role.solo
+5,Bao Bao,Bard,False,Side.red,0,3,7,2.3333333333333335,184,Teleport,Flash,13,False,8394,7908,Trinity Force,,Zz'Rot Portal,Ionian Boots of Lucidity,,,26738,23786,Lane.top_lane,Role.solo
+6,Dong Oppa,Vayne,False,Side.red,0,7,1,0.14285714285714285,170,Flash,Heal,12,False,7932,7450,Doran's Blade,Infinity Edge,Total Biscuit of Rejuvenation,Statikk Shiv,Dagger,Boots of Speed,13522,62787,Lane.bot_lane,Role.carry
+7,KitingYeezus,Lee Sin,False,Side.red,11,8,0,1.375,111,Flash,Smite,13,False,10017,9175,Ruby Crystal,Enchantment: Warrior,Ninja Tabi,The Black Cleaver,Chain Vest,Giant's Belt,21732,76822,Lane.jungle,Role.none
+8,DoubleArts,Braum,False,Side.red,2,7,7,1.2857142857142858,40,Exhaust,Flash,11,False,6788,6075,Eye of the Equinox,Control Ward,Locket of the Iron Solari,Ruby Crystal,Boots of Mobility,,7238,5910,Lane.bot_lane,Role.support
+9,Twitch FateFalls,Ryze,False,Side.red,5,6,2,1.1666666666666667,208,Flash,Ghost,14,True,10114,9950,Archangel's Staff,,,Ionian Boots of Lucidity,Morellonomicon,Rod of Ages,129656,7455,Lane.mid_lane,Role.solo

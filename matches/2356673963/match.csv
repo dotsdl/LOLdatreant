@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Peach Nayeon,Jhin,True,Side.blue,6,2,8,7.0,142,Heal,Flash,13,False,10695,8850,Youmuu's Ghostblade,Hexdrinker,Infinity Edge,Doran's Blade,Boots of Speed,,5897,95659,Lane.bot_lane,Role.carry
+1,COSTA RlCA,Janna,True,Side.blue,0,1,19,19.0,13,Exhaust,Flash,12,False,8292,6325,Redemption,Aegis of the Legion,Nomad's Medallion,Sightstone,Ionian Boots of Lucidity,The Dark Seal,6296,5727,Lane.bot_lane,Role.support
+2,NA Top Lane Xio,Quinn,True,Side.blue,12,4,5,4.25,160,Exhaust,Flash,14,False,11828,10675,Berserker's Greaves,Essence Reaver,B. F. Sword,Runaan's Hurricane,Pickaxe,Doran's Blade,1007,119395,Lane.top_lane,Role.solo
+3,Samsung Surge,Vi,True,Side.blue,8,5,6,2.8,116,Smite,Flash,14,False,10485,10433,Cloth Armor,Refillable Potion,Banshee's Veil,Trinity Force,Enchantment: Warrior,Ninja Tabi,3712,119467,Lane.jungle,Role.none
+4,Vanity,Cassiopeia,True,Side.blue,5,4,9,3.5,141,Flash,Ghost,13,True,10612,8550,Tear of the Goddess,Needlessly Large Rod,Doran's Ring,,Abyssal Scepter,Morellonomicon,85303,9453,Lane.mid_lane,Role.solo
+5,churros,Blitzcrank,False,Side.red,3,3,2,1.6666666666666667,28,Flash,Exhaust,10,False,6421,5800,Control Ward,Face of the Mountain,Ruby Sightstone,Null-Magic Mantle,Boots of Swiftness,,2969,4059,Lane.bot_lane,Role.support
+6,lost in thoughts,Rengar,False,Side.red,0,9,1,0.1111111111111111,113,Flash,Smite,11,False,7210,6550,Enchantment: Warrior,Refillable Potion,Duskblade of Draktharr,Boots of Speed,,,6838,78711,Lane.jungle,Role.none
+7,hello now,Jayce,False,Side.red,3,10,3,0.6,130,Teleport,Flash,12,False,8161,6950,Youmuu's Ghostblade,Refillable Potion,Doran's Blade,Phage,Caulfield's Warhammer,Ionian Boots of Lucidity,6314,54116,Lane.top_lane,Role.solo
+8,Hopa,Vayne,False,Side.red,1,2,2,1.5,165,Flash,Heal,12,False,8450,8350,Doran's Blade,Infinity Edge,,Statikk Shiv,Berserker's Greaves,,14710,53092,Lane.bot_lane,Role.carry
+9,Yanni Tsunami,Katarina,False,Side.red,9,7,5,2.0,173,Ignite,Flash,14,False,10689,10525,Hextech Gunblade,Seeker's Armguard,Sorcerer's Shoes,Luden's Echo,Fiendish Codex,The Dark Seal,97167,15968,Lane.mid_lane,Role.solo

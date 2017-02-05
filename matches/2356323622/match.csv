@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Imaqtpie,Caitlyn,False,Side.blue,1,2,1,1.0,7,Flash,Heal,1,True,1233,950,Cull,Doran's Blade,,,,,0,2405,Lane.bot_lane,Role.none
+1,godrjsdnd,Gangplank,False,Side.blue,0,0,0,0.0,17,Teleport,Flash,3,False,1043,500,Corrupting Potion,,,,,,41,4452,Lane.mid_lane,Role.duo
+2,Whisper,Bard,False,Side.blue,1,0,3,4.0,1,Exhaust,Flash,2,False,1365,500,Spellthief's Edge,,,,,,479,1040,Lane.bot_lane,Role.none
+3,Ðad,Lee Sin,False,Side.blue,2,0,2,4.0,2,Smite,Flash,2,False,1461,1275,Hunter's Machete,Refillable Potion,Control Ward,Long Sword,Long Sword,,346,2928,Lane.bot_lane,Role.none
+4,NA Rumble,Rumble,False,Side.blue,0,0,0,0.0,0,Teleport,Flash,1,False,651,500,Doran's Shield,Health Potion,,,,,0,0,Lane.mid_lane,Role.duo
+5,Pink Ward,Shaco,True,Side.red,0,0,0,0.0,18,Teleport,Ignite,3,False,1038,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,2362,1661,Lane.top_lane,Role.solo
+6,fallenbandit,Nautilus,True,Side.red,0,1,1,1.0,0,Flash,Ignite,1,False,912,625,Control Ward,Total Biscuit of Rejuvenation,Relic Shield,,,,89,701,Lane.bot_lane,Role.duo
+7,Rhux,Viktor,True,Side.red,0,1,0,0.0,8,Flash,Ghost,2,False,824,500,,Prototype Hex Core,Doran's Ring,,,,1589,992,Lane.mid_lane,Role.solo
+8,InfernalRebirth,Evelynn,True,Side.red,1,1,0,1.0,6,Smite,Exhaust,2,False,1063,800,Refillable Potion,Boots of Speed,,Hunter's Talisman,,,2511,1199,Lane.jungle,Role.none
+9,Vincente Vu,Twitch,True,Side.red,1,1,0,1.0,0,Flash,Heal,1,False,951,550,Total Biscuit of Rejuvenation,,,,,Doran's Blade,0,931,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HARUHI S3 PLS,Twisted Fate,False,Side.blue,0,7,0,0.0,67,Exhaust,Flash,8,False,3839,3920,Doran's Ring,Sorcerer's Shoes,Aether Wisp,Tear of the Goddess,,,29651,5905,Lane.jungle,Role.none
+1,thecomedownx,Pantheon,False,Side.blue,1,4,1,0.5,36,Flash,Ignite,7,False,3331,2200,Long Sword,Corrupting Potion,Long Sword,Long Sword,Long Sword,Boots of Speed,4313,11313,Lane.jungle,Role.none
+2,CopyCat,Ekko,False,Side.blue,1,3,0,0.3333333333333333,62,Smite,Flash,9,False,4086,3975,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Fiendish Codex,,,30156,14645,Lane.jungle,Role.none
+3,Foreplay,Bard,False,Side.blue,1,6,2,0.5,5,Flash,Ignite,6,False,3525,3260,Ionian Boots of Lucidity,Frostfang,Amplifying Tome,,Sightstone,Control Ward,3009,1710,Lane.bot_lane,Role.support
+4,okey,Ezreal,False,Side.blue,0,3,2,0.6666666666666666,63,Flash,Heal,7,False,3618,2300,Doran's Blade,Sheen,Tear of the Goddess,,,,605,16351,Lane.bot_lane,Role.carry
+5,asianaffliter,Syndra,True,Side.red,5,0,3,8.0,121,Flash,Ghost,10,True,7799,7700,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,,,61980,13535,Lane.mid_lane,Role.solo
+6,am sol,Yasuo,True,Side.red,1,1,2,3.0,99,Teleport,Flash,10,False,6085,5025,,Refillable Potion,Statikk Shiv,Ninja Tabi,Vampiric Scepter,,15422,36368,Lane.top_lane,Role.solo
+7,BMGreenleaf,Jhin,True,Side.red,6,0,7,13.0,80,Heal,Flash,9,False,6774,6275,Doran's Blade,Youmuu's Ghostblade,Ionian Boots of Lucidity,B. F. Sword,Brawler's Gloves,Total Biscuit of Rejuvenation,705,45314,Lane.bot_lane,Role.carry
+8,50ShadesOfKappa,Janna,True,Side.red,1,1,12,13.0,7,Ignite,Flash,9,False,5171,5475,Hextech Gunblade,Boots of Speed,,,,,3089,2581,Lane.bot_lane,Role.support
+9,back to back,Olaf,True,Side.red,10,1,3,13.0,81,Ghost,Smite,11,False,8510,6925,Ionian Boots of Lucidity,Enchantment: Cinderhulk,The Black Cleaver,Refillable Potion,Control Ward,,8052,62151,Lane.jungle,Role.none

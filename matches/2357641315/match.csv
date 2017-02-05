@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rekyn,Vayne,False,Side.blue,2,9,2,0.4444444444444444,155,Flash,Heal,13,False,8412,8250,Doran's Blade,Zeal,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Kircheis Shard,271,62134,Lane.bot_lane,Role.carry
+1,Stephen M Ross,Viktor,False,Side.blue,5,6,7,2.0,184,Flash,Ghost,14,False,10067,9085,Perfect Hex Core,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,Amplifying Tome,106633,13108,Lane.mid_lane,Role.solo
+2,Fake Dragon,Janna,False,Side.blue,0,8,7,0.875,32,Exhaust,Flash,11,False,6858,6425,Redemption,Sightstone,Talisman of Ascension,Total Biscuit of Rejuvenation,Control Ward,Boots of Mobility,2043,5170,Lane.bot_lane,Role.support
+3,FourofDiamonds,Shaco,False,Side.blue,10,6,7,2.8333333333333335,105,Smite,Ignite,15,False,11165,11075,Ravenous Hydra,Hextech Gunblade,Mercury's Treads,Enchantment: Warrior,,Refillable Potion,28853,78220,Lane.jungle,Role.none
+4,Ifkinluvpeaches,Yasuo,False,Side.blue,5,8,3,1.0,202,Teleport,Flash,15,False,10030,9645,Doran's Blade,Phantom Dancer,Blade of the Ruined King,Ninja Tabi,Chain Vest,Negatron Cloak,33787,93004,Lane.top_lane,Role.solo
+5,SoV NSFW,Illaoi,True,Side.red,4,6,8,2.0,160,Flash,Teleport,14,False,11202,9650,Death's Dance,Ninja Tabi,Corrupting Potion,Sterak's Gage,Kindlegem,Giant's Belt,1235,123571,Lane.top_lane,Role.solo
+6,Gweiss,Graves,True,Side.red,11,3,10,7.0,193,Smite,Flash,15,True,14353,13175,,Youmuu's Ghostblade,Ninja Tabi,The Bloodthirster,Phantom Dancer,Enchantment: Warrior,3180,180061,Lane.jungle,Role.none
+7,Zoido,Ryze,True,Side.red,9,5,10,3.8,209,Ghost,Flash,16,False,12951,11475,Seraph's Embrace,Morellonomicon,Ionian Boots of Lucidity,Rod of Ages,Ruby Crystal,Needlessly Large Rod,156909,8455,Lane.mid_lane,Role.solo
+8,xDD,Alistar,True,Side.red,2,3,19,7.0,30,Flash,Exhaust,12,False,8542,7325,Control Ward,Redemption,Eye of the Equinox,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,11190,8794,Lane.bot_lane,Role.support
+9,Juanfucius,Jhin,True,Side.red,11,5,9,4.0,161,Heal,Flash,14,False,12717,11450,Essence Reaver,Rapid Firecannon,Infinity Edge,,,Boots of Swiftness,11257,113431,Lane.bot_lane,Role.carry

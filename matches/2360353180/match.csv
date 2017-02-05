@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ranked tears,Ashe,True,Side.blue,9,7,19,4.0,192,Flash,Heal,16,False,14597,12470,Mercurial Scimitar,Negatron Cloak,Essence Reaver,Doran's Blade,Berserker's Greaves,Phantom Dancer,3323,130734,Lane.bot_lane,Role.carry
+1,monsterbbg,Lux,True,Side.blue,11,4,11,5.5,216,Barrier,Flash,17,False,14964,12535,Rabadon's Deathcap,Blasting Wand,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,144433,20961,Lane.mid_lane,Role.solo
+2,Tomelette,Olaf,True,Side.blue,5,7,11,2.2857142857142856,118,Ghost,Smite,15,True,12276,10825,Enchantment: Cinderhulk,Cloth Armor,Ionian Boots of Lucidity,Spirit Visage,Dead Man's Plate,Giant's Belt,20395,90127,Lane.jungle,Role.none
+3,Aurath,Zilean,True,Side.blue,8,5,20,5.6,30,Exhaust,Flash,15,False,12597,9525,Seraph's Embrace,Morellonomicon,Sightstone,Spellthief's Edge,Ionian Boots of Lucidity,Needlessly Large Rod,43374,5439,Lane.bot_lane,Role.support
+4,BlackChutney,Ryze,True,Side.blue,6,5,3,1.8,305,Ghost,Flash,17,False,13310,11860,Rod of Ages,Seraph's Embrace,Void Staff,Needlessly Large Rod,Sorcerer's Shoes,Amplifying Tome,207654,10105,Lane.top_lane,Role.solo
+5,II Master II,LeBlanc,False,Side.red,11,8,9,2.5,153,Flash,Ignite,15,False,11959,11775,Luden's Echo,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,,,80172,10187,Lane.mid_lane,Role.solo
+6,East Berlin,Zac,False,Side.red,5,5,8,2.6,125,Flash,Smite,14,False,10573,10295,Enchantment: Cinderhulk,Ruby Crystal,Mercury's Treads,Spirit Visage,Thornmail,Negatron Cloak,86091,21563,Lane.jungle,Role.none
+7,cXem,Alistar,False,Side.red,2,9,15,1.8888888888888888,42,Flash,Exhaust,13,False,8807,8775,Face of the Mountain,Frozen Heart,Sightstone,Control Ward,Aegis of the Legion,Boots of Swiftness,16588,6940,Lane.bot_lane,Role.support
+8,D3lori,Jhin,False,Side.red,7,9,5,1.3333333333333333,192,Heal,Flash,14,False,11638,11590,Doran's Blade,Infinity Edge,B. F. Sword,Rapid Firecannon,Boots of Swiftness,Last Whisper,9418,98063,Lane.bot_lane,Role.carry
+9,psycho Therapy,Nasus,False,Side.red,3,8,3,0.75,281,Flash,Teleport,15,False,12290,12050,Frozen Heart,Giant's Belt,Zz'Rot Portal,Doran's Ring,Mercury's Treads,Spirit Visage,94926,43485,Lane.top_lane,Role.solo

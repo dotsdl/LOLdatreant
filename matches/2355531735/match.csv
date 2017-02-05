@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthora,Jhin,False,Side.blue,7,5,5,2.4,173,Flash,Heal,13,False,9922,8625,Doran's Blade,Infinity Edge,Phantom Dancer,Boots of Swiftness,Giant Slayer,,3920,92072,Lane.bot_lane,Role.carry
+1,ahChu,Riven,False,Side.blue,7,4,3,2.5,233,Teleport,Flash,15,False,11214,11400,Giant Slayer,Maw of Malmortius,Tiamat,Last Whisper,Boots of Swiftness,The Black Cleaver,0,136680,Lane.top_lane,Role.solo
+2,GodSohyang,Karma,False,Side.blue,2,6,13,2.5,14,Exhaust,Flash,11,False,7404,6675,Eye of the Watchers,Redemption,Fiendish Codex,Sorcerer's Shoes,,,19309,3866,Lane.bot_lane,Role.support
+3,Jo nOms,Ryze,False,Side.blue,5,6,8,2.1666666666666665,177,Ghost,Flash,15,False,9809,9325,Seraph's Embrace,Corrupting Potion,Void Staff,Rod of Ages,,Boots of Speed,99146,10346,Lane.mid_lane,Role.solo
+4,Goedkope hoer,Lee Sin,False,Side.blue,3,7,5,1.1428571428571428,94,Flash,Smite,12,False,8126,7975,Refillable Potion,Tiamat,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,,13423,70050,Lane.jungle,Role.none
+5,Nebilheim,Brand,True,Side.red,3,5,11,2.8,16,Flash,Exhaust,12,False,8699,8600,Frostfang,Sightstone,Rylai's Crystal Scepter,Blasting Wand,Boots of Mobility,Haunting Guise,24871,3277,Lane.bot_lane,Role.support
+6,FourofDiamonds,Orianna,True,Side.red,6,6,7,2.1666666666666665,157,Flash,Ghost,14,False,10955,9600,Doran's Ring,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,92894,12882,Lane.mid_lane,Role.solo
+7,Barbaric Bonobo,Rek'Sai,True,Side.red,6,9,4,1.1111111111111112,136,Flash,Smite,14,False,10493,9375,Tiamat,Jaurim's Fist,Ninja Tabi,Enchantment: Warrior,The Black Cleaver,,15985,84615,Lane.jungle,Role.none
+8,Gym Rat,Miss Fortune,True,Side.red,6,1,6,12.0,148,Flash,Heal,13,False,10928,8850,Youmuu's Ghostblade,Phage,Duskblade of Draktharr,Doran's Blade,Long Sword,Long Sword,2021,90532,Lane.bot_lane,Role.carry
+9,Mosquito Porn,Singed,True,Side.red,7,3,5,4.0,180,Teleport,Ghost,14,True,11248,10350,The Dark Seal,Righteous Glory,Zz'Rot Portal,Mercury's Treads,Liandry's Torment,,96338,5611,Lane.top_lane,Role.solo

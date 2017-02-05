@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RNG Mlxgod,Lee Sin,False,Side.blue,5,13,9,1.0769230769230769,46,Smite,Flash,12,False,8765,8725,Ruby Crystal,Tiamat,,The Black Cleaver,Mercury's Treads,Enchantment: Warrior,13065,58433,Lane.top_lane,Role.support
+1,ERE56R,Twitch,False,Side.blue,6,10,6,1.2,151,Flash,Heal,13,False,10158,9525,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,Pickaxe,Cloak of Agility,368,89049,Lane.bot_lane,Role.carry
+2,Ouchxiao,Poppy,False,Side.blue,7,6,9,2.6666666666666665,153,Flash,Teleport,13,True,10392,10000,Corrupting Potion,Spirit Visage,Mercury's Treads,Sunfire Cape,Iceborn Gauntlet,,22405,73183,Lane.top_lane,Role.carry
+3,scott LongHui,Braum,False,Side.blue,0,8,11,1.375,29,Ignite,Flash,11,False,6943,6575,Locket of the Iron Solari,Face of the Mountain,Sightstone,Boots of Mobility,,,10734,4604,Lane.bot_lane,Role.support
+4,suga heibai,Ahri,False,Side.blue,8,12,6,1.1666666666666667,115,Flash,Ignite,13,False,9704,9150,Doran's Ring,Giant's Belt,Morellonomicon,Sorcerer's Shoes,Luden's Echo,,39544,10625,Lane.mid_lane,Role.solo
+5,MorningBaconBits,Soraka,True,Side.red,2,4,31,8.25,5,Flash,Exhaust,14,False,11035,9025,Mikael's Crucible,,Aegis of the Legion,Eye of the Watchers,Ionian Boots of Lucidity,Mejai's Soulstealer,12821,7464,Lane.bot_lane,Role.support
+6,ioan,Rumble,True,Side.red,7,8,14,2.625,158,Flash,Teleport,15,False,12194,11635,Hextech Protobelt-01,Zhonya's Hourglass,Amplifying Tome,Blasting Wand,Liandry's Torment,Sorcerer's Shoes,88416,10625,Lane.top_lane,Role.solo
+7,Enrique2pe,Sivir,True,Side.red,14,4,12,6.5,186,Flash,Heal,15,False,14775,13725,Vampiric Scepter,Essence Reaver,Phantom Dancer,Berserker's Greaves,Infinity Edge,B. F. Sword,0,143632,Lane.bot_lane,Role.carry
+8,RobbyBob,Pantheon,True,Side.red,21,7,5,3.7142857142857144,111,Flash,Ignite,15,False,14311,12800,The Black Cleaver,Corrupting Potion,Youmuu's Ghostblade,Duskblade of Draktharr,Mercury's Treads,Serrated Dirk,11848,82186,Lane.mid_lane,Role.solo
+9,FlREFLY,Sejuani,True,Side.red,5,3,23,9.333333333333334,116,Smite,Flash,15,False,11969,9625,Boots of Swiftness,Enchantment: Cinderhulk,Spirit Visage,Cloth Armor,,Frozen Heart,75318,41611,Lane.jungle,Role.none

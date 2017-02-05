@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Aviator,Lee Sin,False,Side.blue,5,5,4,1.8,126,Flash,Smite,13,False,8951,8475,Refillable Potion,Maw of Malmortius,Tiamat,Enchantment: Warrior,Mercury's Treads,,16828,92453,Lane.jungle,Role.none
+1,7120327,Wukong,False,Side.blue,5,5,3,1.6,175,Flash,Teleport,13,False,9408,8150,Corrupting Potion,Ravenous Hydra,Boots of Speed,The Black Cleaver,Null-Magic Mantle,Cloth Armor,2003,92226,Lane.top_lane,Role.solo
+2,zlsna,Orianna,False,Side.blue,3,7,3,0.8571428571428571,187,Flash,Ghost,14,False,9395,8235,Doran's Ring,Abyssal Scepter,Doran's Ring,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,98264,12544,Lane.mid_lane,Role.solo
+3,Erry,Jhin,False,Side.blue,1,2,4,2.5,245,Heal,Flash,13,False,10007,9425,Rapid Firecannon,Doran's Blade,Last Whisper,Boots of Swiftness,Cull,Essence Reaver,5655,121880,Lane.bot_lane,Role.carry
+4,Teesum,Soraka,False,Side.blue,0,2,6,3.0,11,Exhaust,Flash,11,False,6269,5525,Nomad's Medallion,Sightstone,Ionian Boots of Lucidity,Redemption,Ruby Crystal,Control Ward,3689,2493,Lane.bot_lane,Role.support
+5,Jurassiq,Vi,True,Side.red,5,7,7,1.7142857142857142,118,Flash,Smite,14,False,11109,10958,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,Trinity Force,Thornmail,Giant's Belt,25034,98325,Lane.jungle,Role.none
+6,NoahMost,Malphite,True,Side.red,1,1,9,10.0,226,Teleport,Flash,16,False,12003,11000,Zz'Rot Portal,Corrupting Potion,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,Null-Magic Mantle,74630,48338,Lane.top_lane,Role.solo
+7,Professor Melyn,Zyra,True,Side.red,3,2,4,3.5,19,Flash,Ignite,12,False,8372,5325,Haunting Guise,Refillable Potion,Boots of Speed,Control Ward,Eye of the Watchers,Blasting Wand,27492,4562,Lane.bot_lane,Role.support
+8,insaníty,Ryze,True,Side.red,9,2,6,7.5,203,Flash,Ghost,15,True,13493,13325,Rod of Ages,Void Staff,Seraph's Embrace,Ionian Boots of Lucidity,Morellonomicon,Blasting Wand,158140,14902,Lane.mid_lane,Role.solo
+9,Pond,Ezreal,True,Side.red,3,2,1,2.0,192,Heal,Flash,12,False,10469,9883,Bilgewater Cutlass,Trinity Force,Manamune,Ionian Boots of Lucidity,,Doran's Blade,8082,72721,Lane.bot_lane,Role.carry

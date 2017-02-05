@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Adrian Riven,Riven,False,Side.blue,2,4,2,1.0,135,Ignite,Flash,12,False,6970,6650,Maw of Malmortius,Boots of Swiftness,Caulfield's Warhammer,Serrated Dirk,,,0,64838,Lane.mid_lane,Role.solo
+1,Keegun,Pantheon,False,Side.blue,1,6,0,0.16666666666666666,87,Smite,Flash,11,False,6303,5650,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Mobility,Long Sword,Long Sword,5604,73166,Lane.jungle,Role.none
+2,BukZacH,Ezreal,False,Side.blue,2,3,1,1.0,142,Flash,Heal,10,False,6743,6000,Doran's Blade,Sheen,Muramana,Ionian Boots of Lucidity,Glacial Shroud,,7034,49777,Lane.bot_lane,Role.carry
+3,xRequiem,Blitzcrank,False,Side.blue,1,5,3,0.8,40,Exhaust,Flash,9,False,5419,5000,Sightstone,Face of the Mountain,Boots of Mobility,Crystalline Bracer,Faerie Charm,Faerie Charm,8372,6610,Lane.bot_lane,Role.support
+4,Dyrus,Gnar,False,Side.blue,0,0,0,0.0,184,Teleport,Flash,12,False,6797,5650,Doran's Blade,Giant's Belt,Phage,Doran's Blade,Mercury's Treads,Spectre's Cowl,6758,82054,Lane.top_lane,Role.solo
+5,Rïkara,Kalista,True,Side.red,7,1,3,10.0,174,Flash,Heal,12,False,10616,10375,Blade of the Ruined King,Vampiric Scepter,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,B. F. Sword,642,85943,Lane.bot_lane,Role.carry
+6,PutYourHeartsUp,Shaco,True,Side.red,0,0,3,3.0,157,Ignite,Teleport,13,False,7344,6700,Hextech Gunblade,Corrupting Potion,Dagger,Phage,The Dark Seal,Ionian Boots of Lucidity,27322,29643,Lane.top_lane,Role.solo
+7,Abou222,Lee Sin,True,Side.red,6,1,5,11.0,127,Smite,Flash,13,False,9241,9155,Tiamat,Dead Man's Plate,Enchantment: Cinderhulk,Giant's Belt,Ninja Tabi,,27714,78677,Lane.jungle,Role.none
+8,mandatorycloud,LeBlanc,True,Side.red,4,3,4,2.6666666666666665,141,Flash,Teleport,13,False,7959,7450,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Fiendish Codex,Seeker's Armguard,63786,10224,Lane.mid_lane,Role.solo
+9,TwitchTV LOLFILL,Alistar,True,Side.red,1,1,9,10.0,30,Exhaust,Flash,10,True,6486,6325,Face of the Mountain,Crystalline Bracer,Boots of Mobility,Ruby Crystal,Control Ward,Ruby Sightstone,7665,5181,Lane.bot_lane,Role.support

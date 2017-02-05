@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dinden,Jinx,True,Side.blue,1,2,4,2.5,197,Heal,Flash,13,False,9114,7275,,Doran's Blade,Boots of Speed,Infinity Edge,Runaan's Hurricane,,590,109219,Lane.bot_lane,Role.carry
+1,IaKat,Vi,True,Side.blue,4,2,2,3.0,140,Smite,Flash,13,False,9702,8208,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Trinity Force,Chain Vest,,1500,135514,Lane.jungle,Role.none
+2,Tangerinezz,Janna,True,Side.blue,0,1,7,7.0,17,Exhaust,Flash,10,False,6370,4850,Eye of the Oasis,Null-Magic Mantle,Forbidden Idol,Ionian Boots of Lucidity,Ruby Crystal,,2872,3871,Lane.bot_lane,Role.support
+3,Tangerinez,Twisted Fate,True,Side.blue,4,4,6,2.5,159,Flash,Ghost,14,False,10148,9225,Doran's Ring,Lich Bane,Doran's Ring,Ionian Boots of Lucidity,Void Staff,Zeal,86171,18551,Lane.mid_lane,Role.solo
+4,Semoponume,Darius,True,Side.blue,9,1,5,14.0,192,Ghost,Flash,15,False,10983,9000,The Black Cleaver,Dead Man's Plate,Mercury's Treads,Spectre's Cowl,Ruby Crystal,,0,96695,Lane.top_lane,Role.solo
+5,We Win Late Game,Karma,False,Side.red,0,2,5,2.5,11,Flash,Exhaust,10,False,5617,5425,Eye of the Watchers,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,Control Ward,,9167,3247,Lane.bot_lane,Role.support
+6,SouIero,Jhin,False,Side.red,5,0,1,6.0,175,Flash,Heal,12,False,8756,7875,Rapid Firecannon,,Boots of Swiftness,Doran's Blade,,Essence Reaver,7296,87373,Lane.bot_lane,Role.carry
+7,Poppys Hammer,Trundle,False,Side.red,0,3,2,0.6666666666666666,139,Flash,Teleport,13,False,7125,6500,Corrupting Potion,The Black Cleaver,Mercury's Treads,Giant's Belt,Chain Vest,,1672,50488,Lane.top_lane,Role.solo
+8,Bhikku,Evelynn,False,Side.red,3,7,4,1.0,99,Smite,Flash,12,False,7482,7385,Enchantment: Runic Echoes,Hextech Protobelt-01,Hunter's Potion,Sheen,Boots of Speed,Amplifying Tome,57500,24550,Lane.jungle,Role.none
+9,Hirai Momo,Ekko,False,Side.red,2,6,0,0.3333333333333333,165,Flash,Teleport,12,True,7726,7100,Sorcerer's Shoes,Corrupting Potion,Morellonomicon,Seeker's Armguard,The Dark Seal,Fiendish Codex,68813,14790,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bolo,Gnar,True,Side.blue,3,4,6,2.25,197,Teleport,Flash,16,False,11081,10375,The Black Cleaver,Giant's Belt,Doran's Blade,Warden's Mail,Frozen Mallet,Ninja Tabi,7658,105465,Lane.top_lane,Role.solo
+1,Vibrato,Hecarim,True,Side.blue,8,3,8,5.333333333333333,187,Ghost,Smite,16,False,12961,10308,Enchantment: Cinderhulk,Dead Man's Plate,Trinity Force,Boots of Swiftness,,,26373,153464,Lane.jungle,Role.none
+2,Nîck,LeBlanc,True,Side.blue,10,3,5,5.0,197,Flash,Ignite,16,False,12150,10000,Doran's Ring,Morellonomicon,Blasting Wand,Void Staff,Sorcerer's Shoes,Needlessly Large Rod,103836,14948,Lane.mid_lane,Role.solo
+3,bvcx222,Bard,True,Side.blue,5,3,11,5.333333333333333,26,Flash,Ignite,13,False,9512,8225,Ruby Sightstone,Redemption,Locket of the Iron Solari,Control Ward,Spellthief's Edge,Boots of Mobility,10888,6438,Lane.bot_lane,Role.support
+4,ChiralX,Jinx,True,Side.blue,5,6,6,1.8333333333333333,195,Heal,Flash,14,False,11653,9600,Doran's Blade,B. F. Sword,Long Sword,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,869,146015,Lane.bot_lane,Role.carry
+5,mediumships41,Cassiopeia,False,Side.red,0,5,0,0.0,192,Flash,Ghost,13,False,8551,8020,Seraph's Embrace,Refillable Potion,Rylai's Crystal Scepter,Negatron Cloak,,Doran's Ring,85488,10562,Lane.mid_lane,Role.solo
+6,Barranco Coma,Lee Sin,False,Side.red,9,7,6,2.142857142857143,137,Flash,Smite,15,False,11558,10145,Ravenous Hydra,Enchantment: Warrior,Chain Vest,Boots of Mobility,Hexdrinker,Negatron Cloak,20854,104619,Lane.jungle,Role.none
+7,Smartcloud,Karma,False,Side.red,4,8,6,1.25,27,Flash,Exhaust,12,True,8695,8050,Mikael's Crucible,Redemption,Eye of the Watchers,,Ionian Boots of Lucidity,,19398,4802,Lane.bot_lane,Role.support
+8,Frederick II,Caitlyn,False,Side.red,4,5,4,1.6,165,Flash,Heal,13,False,9169,8325,Doran's Blade,Infinity Edge,Runaan's Hurricane,Control Ward,Berserker's Greaves,Brawler's Gloves,234,112991,Lane.bot_lane,Role.carry
+9,Malli,Fiora,False,Side.red,2,6,3,0.8333333333333334,185,Flash,Teleport,14,False,8854,8450,The Black Cleaver,Ravenous Hydra,Ionian Boots of Lucidity,,,,889,100092,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SKY Fear,Vayne,False,Side.blue,5,5,5,2.0,211,Flash,Heal,15,False,12084,12000,Vampiric Scepter,Berserker's Greaves,Phantom Dancer,Rapid Firecannon,Infinity Edge,Doran's Blade,54,101003,Lane.bot_lane,Role.carry
+1,Aecinira,Alistar,False,Side.blue,0,4,12,3.0,48,Flash,Exhaust,13,False,8503,7960,Locket of the Iron Solari,Ruby Sightstone,Face of the Mountain,Refillable Potion,Ruby Crystal,Boots of Mobility,9842,7384,Lane.bot_lane,Role.support
+2,Hi Im A Sheep,Nautilus,False,Side.blue,1,7,8,1.2857142857142858,235,Flash,Teleport,16,False,10981,10800,,Sunfire Cape,Spirit Visage,Guardian Angel,Cloth Armor,Mercury's Treads,133960,25518,Lane.top_lane,Role.solo
+3,Rhux,Viktor,False,Side.blue,6,8,7,1.625,195,Flash,Ghost,15,False,11914,11925,Rylai's Crystal Scepter,Sheen,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Void Staff,131938,11622,Lane.mid_lane,Role.solo
+4,Huhi,Shyvana,False,Side.blue,9,6,6,2.5,191,Flash,Smite,17,False,13739,13400,Blade of the Ruined King,Titanic Hydra,Refillable Potion,Guardian Angel,Enchantment: Cinderhulk,Ninja Tabi,112175,92156,Lane.jungle,Role.none
+5,West Coast Carry,Fiora,True,Side.red,6,5,8,2.8,185,Flash,Teleport,16,False,13035,12720,Maw of Malmortius,Ravenous Hydra,The Black Cleaver,Mercury's Treads,,,3377,132676,Lane.top_lane,Role.solo
+6,PutYourHeartsUp,Lulu,True,Side.red,3,3,16,6.333333333333333,9,Exhaust,Flash,14,False,11333,9850,Redemption,Null-Magic Mantle,Eye of the Watchers,Aegis of the Legion,Ardent Censer,Ionian Boots of Lucidity,14880,6128,Lane.bot_lane,Role.support
+7,Abou222,Lee Sin,True,Side.red,4,5,14,3.6,154,Smite,Flash,16,False,12883,11625,Tiamat,Spirit Visage,Enchantment: Cinderhulk,Mercury's Treads,The Black Cleaver,Cloth Armor,31570,104461,Lane.jungle,Role.none
+8,Doublelift,Twitch,True,Side.red,7,5,8,3.0,250,Flash,Heal,16,True,15090,13450,Doran's Blade,Infinity Edge,Guardian Angel,Berserker's Greaves,Runaan's Hurricane,Lord Dominik's Regards,2733,158642,Lane.bot_lane,Role.carry
+9,mandatorycloud,Orianna,True,Side.red,10,3,11,7.0,235,Flash,Ghost,17,False,16022,15000,Rabadon's Deathcap,,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,Void Staff,172626,18077,Lane.mid_lane,Role.solo

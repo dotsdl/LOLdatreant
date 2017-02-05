@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gorhunter,Katarina,False,Side.blue,3,4,2,1.25,151,Ignite,Flash,13,False,8335,7925,The Dark Seal,Refillable Potion,Zhonya's Hourglass,Rylai's Crystal Scepter,Sorcerer's Shoes,,72944,7601,Lane.mid_lane,Role.solo
+1,Silent Reaper,Leona,False,Side.blue,0,2,8,4.0,35,Flash,Exhaust,10,False,6029,5800,Face of the Mountain,Sightstone,Cloth Armor,Ionian Boots of Lucidity,Crystalline Bracer,Crystalline Bracer,6166,6357,Lane.bot_lane,Role.support
+2,Henchey,Vi,False,Side.blue,3,3,5,2.6666666666666665,138,Smite,Flash,13,False,8769,8400,Enchantment: Warrior,Ninja Tabi,Jaurim's Fist,Dead Man's Plate,Refillable Potion,Long Sword,2368,109526,Lane.jungle,Role.none
+3,sottomizer,Ezreal,False,Side.blue,5,4,6,2.75,160,Heal,Flash,13,False,9235,8525,Iceborn Gauntlet,Doran's Blade,Muramana,Bilgewater Cutlass,Ionian Boots of Lucidity,Cull,12683,77613,Lane.bot_lane,Role.carry
+4,0nLy 1,Jarvan IV,False,Side.blue,6,3,5,3.6666666666666665,171,Flash,Teleport,14,False,10328,9625,Ninja Tabi,The Black Cleaver,Tiamat,Dead Man's Plate,Serrated Dirk,,4352,96941,Lane.top_lane,Role.solo
+5,zmanawesome,Riven,True,Side.red,5,6,6,1.8333333333333333,192,Flash,Teleport,14,True,10900,9650,The Black Cleaver,Titanic Hydra,Caulfield's Warhammer,Ionian Boots of Lucidity,Vampiric Scepter,,0,122536,Lane.top_lane,Role.solo
+6,6IIII9,Olaf,True,Side.red,3,4,4,1.75,104,Ghost,Smite,13,False,9309,7425,Hunter's Potion,Righteous Glory,Ionian Boots of Lucidity,Warden's Mail,Enchantment: Cinderhulk,,7966,85656,Lane.jungle,Role.none
+7,SKT T1 FalseHope,Zed,True,Side.red,3,2,4,3.5,187,Ignite,Flash,14,False,9895,7925,Hexdrinker,Youmuu's Ghostblade,Mercury's Treads,Serrated Dirk,Caulfield's Warhammer,,5805,102798,Lane.mid_lane,Role.solo
+8,Cat Person,Lulu,True,Side.red,0,2,11,5.5,6,Flash,Heal,11,False,7235,5950,Redemption,Sightstone,Null-Magic Mantle,Frostfang,Ionian Boots of Lucidity,Cloth Armor,5042,5456,Lane.bot_lane,Role.support
+9,Falco Mechanic,Corki,True,Side.red,5,4,7,3.0,201,Exhaust,Flash,13,False,11122,9218,Hextech Gunblade,Sorcerer's Shoes,Trinity Force,Doran's Blade,Amplifying Tome,,89308,34790,Lane.bot_lane,Role.carry

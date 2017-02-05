@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Celend,Zyra,False,Side.blue,1,7,5,0.8571428571428571,18,Flash,Exhaust,10,False,6803,6585,Refillable Potion,Needlessly Large Rod,Eye of the Watchers,Sorcerer's Shoes,Amplifying Tome,Giant's Belt,29237,3891,Lane.bot_lane,Role.support
+1,MongolWarrior,Twitch,False,Side.blue,6,7,4,1.4285714285714286,139,Heal,Flash,13,False,8846,7700,Doran's Blade,Blade of the Ruined King,Runaan's Hurricane,Berserker's Greaves,,,154,62032,Lane.bot_lane,Role.carry
+2,PutYourHeartsUp,Ahri,False,Side.blue,6,9,3,1.0,134,Ignite,Flash,13,False,8573,8360,Amplifying Tome,,Doran's Ring,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,41836,10217,Lane.mid_lane,Role.solo
+3,SKY Fear,Graves,False,Side.blue,2,6,3,0.8333333333333334,110,Flash,Smite,12,False,7766,7675,Serrated Dirk,Refillable Potion,Ninja Tabi,Phantom Dancer,Enchantment: Warrior,,2717,84940,Lane.jungle,Role.none
+4,TwitchTV LOLFILL,Yasuo,False,Side.blue,2,5,4,1.2,201,Teleport,Flash,15,False,9057,8450,Doran's Blade,,Doran's Blade,Phantom Dancer,Ninja Tabi,The Bloodthirster,31594,86787,Lane.top_lane,Role.solo
+5,Abou222,LeBlanc,True,Side.red,10,4,4,3.5,151,Ignite,Flash,15,False,11356,9000,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Rod of Ages,Needlessly Large Rod,66971,14377,Lane.mid_lane,Role.solo
+6,Nazagi,Vayne,True,Side.red,12,4,5,4.25,167,Flash,Heal,14,False,12823,10775,Doran's Blade,Statikk Shiv,Infinity Edge,Runaan's Hurricane,,Berserker's Greaves,23910,96101,Lane.bot_lane,Role.carry
+7,One Called Saint,Xin Zhao,True,Side.red,3,3,8,3.6666666666666665,127,Flash,Smite,14,False,11042,9358,Giant's Belt,Cloth Armor,Cloth Armor,Trinity Force,Enchantment: Bloodrazor,Mercury's Treads,23868,108153,Lane.jungle,Role.none
+8,Rokí,Soraka,True,Side.red,2,3,14,5.333333333333333,33,Flash,Exhaust,12,False,9501,9075,Mikael's Crucible,Redemption,Eye of the Watchers,Blasting Wand,,Ionian Boots of Lucidity,20770,7240,Lane.bot_lane,Role.support
+9,Adrian Riven,Riven,True,Side.red,7,3,1,2.6666666666666665,180,Teleport,Flash,15,True,11252,8575,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,Serrated Dirk,,,0,116468,Lane.top_lane,Role.solo

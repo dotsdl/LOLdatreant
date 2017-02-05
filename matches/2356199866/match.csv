@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BOOMSELECTA,Lee Sin,True,Side.blue,3,5,9,2.4,95,Smite,Flash,13,False,10196,7425,Serrated Dirk,Tiamat,Enchantment: Warrior,Ionian Boots of Lucidity,Giant's Belt,Chain Vest,12198,81509,Lane.jungle,Role.none
+1,Aosuki,Jhin,True,Side.blue,8,2,9,8.5,185,Heal,Flash,13,False,12725,11475,Infinity Edge,Boots of Swiftness,Essence Reaver,,,Rapid Firecannon,5120,122503,Lane.bot_lane,Role.carry
+2,Gnoh,Jayce,True,Side.blue,6,1,7,13.0,200,Flash,Teleport,15,False,11672,10950,Doran's Blade,Duskblade of Draktharr,Refillable Potion,Muramana,The Black Cleaver,Mercury's Treads,19795,114938,Lane.top_lane,Role.solo
+3,HelisK,Xerath,True,Side.blue,6,2,12,9.0,18,Ghost,Flash,13,False,9756,8200,Frostfang,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,,46667,5368,Lane.bot_lane,Role.support
+4,Pirean,Cassiopeia,True,Side.blue,8,3,6,4.666666666666667,137,Ghost,Flash,13,True,10890,9120,Mejai's Soulstealer,Refillable Potion,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,Negatron Cloak,60156,16189,Lane.mid_lane,Role.solo
+5,Mr Boar,Jinx,False,Side.red,4,5,5,1.8,115,Heal,Flash,12,False,8017,8050,The Bloodthirster,Berserker's Greaves,,Runaan's Hurricane,,,521,59893,Lane.bot_lane,Role.carry
+6,uupa,Ryze,False,Side.red,3,8,4,0.875,167,Flash,Ghost,13,False,8698,8360,Refillable Potion,Seraph's Embrace,Ionian Boots of Lucidity,Blasting Wand,Rod of Ages,Amplifying Tome,97761,5311,Lane.mid_lane,Role.solo
+7,Rank 1 Season 7,Kha'Zix,False,Side.red,6,7,2,1.1428571428571428,153,Smite,Flash,14,False,10121,10075,Tiamat,Giant Slayer,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,Last Whisper,2867,140004,Lane.jungle,Role.none
+8,Branch,Cho'Gath,False,Side.red,0,6,1,0.16666666666666666,171,Flash,Teleport,13,False,7702,7150,Doran's Ring,Rod of Ages,Ninja Tabi,Frozen Heart,,,74056,13792,Lane.top_lane,Role.solo
+9,Painkiller990,Nami,False,Side.red,0,5,5,1.0,10,Flash,Exhaust,10,False,5602,5350,Eye of the Watchers,Boots of Mobility,,Redemption,,,7387,1561,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mitia Karamazov,Skarner,True,Side.blue,5,3,16,7.0,124,Flash,Smite,15,False,12060,10958,Enchantment: Cinderhulk,Locket of the Iron Solari,Trinity Force,Mercury's Treads,Ruby Crystal,,40040,77949,Lane.jungle,Role.none
+1,BestLucianAfrica,Alistar,True,Side.blue,2,4,16,4.5,51,Exhaust,Flash,14,False,10459,9525,Face of the Mountain,Ruby Sightstone,,Boots of Mobility,Raptor Cloak,Knight's Vow,13566,6875,Lane.bot_lane,Role.support
+2,Fire Editorial,Riven,True,Side.blue,4,6,12,2.6666666666666665,179,Flash,Teleport,16,False,12088,10600,Tiamat,The Black Cleaver,Ionian Boots of Lucidity,Vampiric Scepter,Maw of Malmortius,Pickaxe,0,127572,Lane.top_lane,Role.solo
+3,Ugu,Vayne,True,Side.blue,6,4,15,5.25,302,Heal,Flash,17,False,15568,14250,Mercurial Scimitar,Phantom Dancer,Statikk Shiv,Infinity Edge,,Berserker's Greaves,71158,160871,Lane.bot_lane,Role.carry
+4,You all boosted,Kassadin,True,Side.blue,16,3,6,7.333333333333333,202,Flash,Teleport,17,False,16309,14775,Needlessly Large Rod,Zhonya's Hourglass,Ionian Boots of Lucidity,Morellonomicon,Rod of Ages,Void Staff,122343,23496,Lane.mid_lane,Role.solo
+5,xFSN Saber,Corki,False,Side.red,4,10,4,0.8,211,Heal,Flash,14,False,11799,11513,B. F. Sword,Hextech Gunblade,Sorcerer's Shoes,Trinity Force,Vampiric Scepter,Long Sword,96585,32022,Lane.bot_lane,Role.carry
+6,Swifte,Thresh,False,Side.red,1,7,11,1.7142857142857142,25,Flash,Ignite,12,False,8576,8175,Redemption,Ruby Sightstone,Locket of the Iron Solari,Control Ward,Boots of Mobility,Relic Shield,10418,4914,Lane.bot_lane,Role.support
+7,AvriI Lavigne,Syndra,False,Side.red,5,6,7,2.0,288,Flash,Ghost,16,False,14010,12925,Rabadon's Deathcap,Blasting Wand,The Dark Seal,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,199107,10550,Lane.mid_lane,Role.solo
+8,ArmsofSilver,Vi,False,Side.red,4,7,8,1.7142857142857142,97,Flash,Smite,14,False,10739,10300,Randuin's Omen,Hunter's Potion,Dead Man's Plate,Enchantment: Warrior,Mercury's Treads,,1272,105695,Lane.jungle,Role.none
+9,ZambonGG,Poppy,False,Side.red,6,3,6,4.0,236,Flash,Teleport,16,True,13309,13125,Sunfire Cape,Spirit Visage,Randuin's Omen,Iceborn Gauntlet,Ninja Tabi,,48223,103428,Lane.top_lane,Role.solo

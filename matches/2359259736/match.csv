@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Vayne,False,Side.blue,2,8,7,1.125,205,Flash,Heal,14,False,11332,10140,Refillable Potion,Bilgewater Cutlass,Berserker's Greaves,Statikk Shiv,Infinity Edge,Doran's Blade,23592,84861,Lane.bot_lane,Role.carry
+1,Feitan,Lee Sin,False,Side.blue,11,8,4,1.875,140,Smite,Flash,14,False,12268,11550,Mercury's Treads,Dead Man's Plate,Cloth Armor,Enchantment: Warrior,Maw of Malmortius,Giant's Belt,21636,112618,Lane.jungle,Role.none
+2,Below Zero,Maokai,False,Side.blue,3,7,9,1.7142857142857142,181,Teleport,Flash,14,False,10483,10575,,Spirit Visage,Sunfire Cape,Ninja Tabi,Corrupting Potion,Locket of the Iron Solari,98033,14603,Lane.top_lane,Role.solo
+3,Biofrost ,Miss Fortune,False,Side.blue,2,9,9,1.2222222222222223,69,Flash,Exhaust,12,False,10032,9475,Eye of the Watchers,Boots of Mobility,The Black Cleaver,Mortal Reminder,,,32663,25465,Lane.bot_lane,Role.support
+4,Pornstar Hecarim,Annie,False,Side.blue,9,11,6,1.3636363636363635,127,Ignite,Flash,14,False,11059,10000,Doran's Ring,Rylai's Crystal Scepter,Mercury's Treads,Doran's Ring,Needlessly Large Rod,Abyssal Scepter,65483,7910,Lane.mid_lane,Role.solo
+5,Cris,Jayce,True,Side.red,13,4,7,5.0,278,Flash,Teleport,17,False,15501,13985,Edge of Night,,Maw of Malmortius,Mortal Reminder,The Black Cleaver,Mercury's Treads,37062,160805,Lane.top_lane,Role.solo
+6,Mykie,Ezreal,True,Side.red,9,5,11,4.0,208,Flash,Heal,15,False,14147,12683,Pickaxe,Muramana,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Trinity Force,22823,105946,Lane.bot_lane,Role.carry
+7,Zib Nibbler,Zyra,True,Side.red,4,9,20,2.6666666666666665,14,Flash,Ignite,12,False,10349,9175,Liandry's Torment,Boots of Mobility,Frost Queen's Claim,Ruby Sightstone,Control Ward,Ruby Crystal,26575,6772,Lane.bot_lane,Role.support
+8,FanatiiLt,Zac,True,Side.red,3,1,17,20.0,113,Smite,Flash,15,False,10608,10250,Spirit Visage,Randuin's Omen,Chain Vest,Ionian Boots of Lucidity,Enchantment: Cinderhulk,,79214,19524,Lane.jungle,Role.none
+9,yeniaR,Syndra,True,Side.red,14,8,6,2.5,181,Flash,Barrier,15,True,14157,11435,Blasting Wand,Void Staff,Abyssal Scepter,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,116020,8229,Lane.mid_lane,Role.solo

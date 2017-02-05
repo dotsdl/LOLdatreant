@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cést la vie,Twisted Fate,True,Side.blue,3,1,7,10.0,150,Flash,Ghost,12,False,8737,8450,Doran's Ring,Refillable Potion,Lich Bane,Blasting Wand,Rod of Ages,Ionian Boots of Lucidity,71717,11703,Lane.mid_lane,Role.solo
+1,BlackYellowBee,Lee Sin,True,Side.blue,5,3,5,3.3333333333333335,64,Smite,Flash,11,False,7461,6405,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Chain Vest,Giant's Belt,Negatron Cloak,7486,56656,Lane.jungle,Role.none
+2,2PM Looks,Kennen,True,Side.blue,5,1,3,8.0,134,Flash,Smite,13,False,8029,7450,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Blade,Ruby Crystal,,37894,20391,Lane.top_lane,Role.solo
+3,YahooDotCom,Sona,True,Side.blue,6,2,10,8.0,10,Flash,Ignite,11,False,8029,6210,Frost Queen's Claim,Boots of Swiftness,Needlessly Large Rod,Sheen,Amplifying Tome,,15516,8586,Lane.bot_lane,Role.support
+4,Seulbee,Caitlyn,True,Side.blue,8,3,9,5.666666666666667,162,Flash,Heal,12,False,10687,10400,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,Kircheis Shard,Doran's Blade,805,92520,Lane.bot_lane,Role.carry
+5,II Master II,Janna,False,Side.red,0,8,5,0.625,7,Flash,Exhaust,8,False,4585,4325,Redemption,Boots of Speed,Sightstone,Ancient Coin,Null-Magic Mantle,,1794,2483,Lane.bot_lane,Role.support
+6,KaneKi521,Lucian,False,Side.red,2,8,2,0.5,95,Flash,Heal,10,False,6045,5900,Essence Reaver,Doran's Blade,,Cull,,Berserker's Greaves,1281,36690,Lane.bot_lane,Role.carry
+7,Acelolz,Kayle,False,Side.red,3,2,0,1.5,160,Teleport,Flash,13,False,7544,6675,Berserker's Greaves,Refillable Potion,Nashor's Tooth,Blasting Wand,Doran's Ring,Recurve Bow,54362,26037,Lane.top_lane,Role.solo
+8,BuzzFund,Shyvana,False,Side.red,4,4,2,1.5,89,Smite,Flash,11,True,7403,7100,Titanic Hydra,Null-Magic Mantle,Refillable Potion,Boots of Speed,Enchantment: Bloodrazor,,33619,42057,Lane.jungle,Role.none
+9,Gordon,Azir,False,Side.red,1,6,3,0.6666666666666666,121,Flash,Heal,11,False,6149,5485,Doran's Ring,Nashor's Tooth,Ruby Crystal,Sorcerer's Shoes,,Amplifying Tome,51096,10188,Lane.mid_lane,Role.solo

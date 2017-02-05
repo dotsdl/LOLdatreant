@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KeepOnHiding,Zilean,True,Side.blue,4,3,15,6.333333333333333,22,Flash,Exhaust,14,False,10692,9100,Frost Queen's Claim,Redemption,Sightstone,Control Ward,Ionian Boots of Lucidity,Knight's Vow,28468,5466,Lane.bot_lane,Role.support
+1,pokimane,Lux,True,Side.blue,8,6,14,3.6666666666666665,151,Barrier,Flash,16,False,12462,10950,Void Staff,Zhonya's Hourglass,,Sorcerer's Shoes,Doran's Ring,Morellonomicon,94752,13243,Lane.mid_lane,Role.solo
+2,FobAsian,Ezreal,True,Side.blue,4,4,15,4.75,222,Flash,Heal,16,False,12731,10150,Mortal Reminder,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,Vampiric Scepter,Doran's Blade,26381,134518,Lane.bot_lane,Role.carry
+3,SageShogun,Irelia,True,Side.blue,6,6,10,2.6666666666666665,202,Teleport,Flash,16,False,12583,10908,Doran's Blade,Trinity Force,Randuin's Omen,Ninja Tabi,Sterak's Gage,,3416,91213,Lane.top_lane,Role.solo
+4,DlAMOND,Lee Sin,True,Side.blue,13,6,13,4.333333333333333,125,Flash,Smite,16,False,14440,14100,Ninja Tabi,Ravenous Hydra,Dead Man's Plate,Aegis of the Legion,Thornmail,Enchantment: Warrior,22497,96545,Lane.jungle,Role.none
+5,Wazabiee,Zed,False,Side.red,10,8,4,1.75,238,Ignite,Flash,16,False,13833,11500,Youmuu's Ghostblade,Bilgewater Cutlass,Edge of Night,Mercury's Treads,Hexdrinker,B. F. Sword,9543,149917,Lane.mid_lane,Role.solo
+6,Vooldo,Nami,False,Side.red,2,3,12,4.666666666666667,9,Exhaust,Flash,12,False,9420,9275,Frost Queen's Claim,Ruby Sightstone,Boots of Mobility,Locket of the Iron Solari,,Redemption,9026,3410,Lane.bot_lane,Role.support
+7,Mofta,Elise,False,Side.red,4,10,5,0.9,123,Smite,Flash,14,True,11236,10900,Refillable Potion,Enchantment: Runic Echoes,Liandry's Torment,Sorcerer's Shoes,Rylai's Crystal Scepter,Ruby Crystal,96844,28463,Lane.jungle,Role.none
+8,ElKarl,Maokai,False,Side.red,2,9,10,1.3333333333333333,217,Flash,Teleport,15,False,11647,11075,Sunfire Cape,Mercury's Treads,Corrupting Potion,Spirit Visage,Iceborn Gauntlet,Giant's Belt,128946,19736,Lane.top_lane,Role.solo
+9,JabaTheHat,Vayne,False,Side.red,7,5,4,2.2,229,Flash,Heal,15,False,12940,11825,Quicksilver Sash,The Bloodthirster,Statikk Shiv,Doran's Blade,Berserker's Greaves,Phantom Dancer,36074,90723,Lane.bot_lane,Role.carry

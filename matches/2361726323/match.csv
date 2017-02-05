@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,F33dMeKills,Jinx,False,Side.blue,4,5,4,1.6,174,Flash,Heal,12,False,8605,7725,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Long Sword,Pickaxe,Vampiric Scepter,830,85338,Lane.bot_lane,Role.carry
+1,SirRosicky,Twisted Fate,False,Side.blue,3,7,4,1.0,111,Exhaust,Flash,12,False,7481,6825,Aether Wisp,Ionian Boots of Lucidity,Zhonya's Hourglass,Doran's Ring,Doran's Ring,Sheen,54900,10041,Lane.mid_lane,Role.solo
+2,jiayibingding,Lee Sin,False,Side.blue,8,4,4,3.0,74,Smite,Flash,12,False,8260,7775,Refillable Potion,Enchantment: Warrior,Warden's Mail,Ninja Tabi,Dead Man's Plate,,12869,55178,Lane.jungle,Role.none
+3,Wazabiee,Poppy,False,Side.blue,0,5,3,0.6,123,Teleport,Flash,11,False,6322,6000,Corrupting Potion,Ninja Tabi,Cloth Armor,Sunfire Cape,,Sheen,7533,47486,Lane.top_lane,Role.solo
+4,Wynaan,Alistar,False,Side.blue,1,2,8,4.5,24,Exhaust,Flash,10,False,5987,5400,Eye of the Equinox,,Crystalline Bracer,Boots of Swiftness,Crystalline Bracer,Cloth Armor,3858,3922,Lane.bot_lane,Role.support
+5,VegetableVelkoz,Vel'Koz,True,Side.red,0,5,5,1.0,31,Exhaust,Flash,10,False,5733,4275,Doran's Ring,Boots of Swiftness,Sightstone,Haunting Guise,,,19042,3839,Lane.bot_lane,Role.support
+6,Ozakii,Yasuo,True,Side.red,5,4,6,2.75,182,Ignite,Flash,13,True,10083,7625,Statikk Shiv,Doran's Blade,Frozen Mallet,,Berserker's Greaves,,42919,75337,Lane.mid_lane,Role.solo
+7,Celestial Bjoece,Jarvan IV,True,Side.red,7,3,7,4.666666666666667,86,Smite,Flash,13,False,10313,8625,Titanic Hydra,Refillable Potion,,Ninja Tabi,Enchantment: Cinderhulk,Phage,13877,93338,Lane.jungle,Role.none
+8,08010505,Caitlyn,True,Side.red,1,2,6,3.5,155,Flash,Heal,13,False,8941,7350,Runaan's Hurricane,Berserker's Greaves,Pickaxe,Cloak of Agility,B. F. Sword,Doran's Blade,583,91414,Lane.bot_lane,Role.carry
+9,Tyflos,Riven,True,Side.red,10,2,1,5.5,195,Teleport,Flash,15,False,11460,10100,Doran's Blade,The Black Cleaver,Death's Dance,Jaurim's Fist,Tiamat,Boots of Speed,0,123369,Lane.top_lane,Role.solo

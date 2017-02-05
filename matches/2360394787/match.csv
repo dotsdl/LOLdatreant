@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ACuteKoreanGirI,Yasuo,True,Side.blue,2,5,0,0.4,178,Teleport,Flash,14,False,9437,9525,Cloak of Agility,Phantom Dancer,Frozen Mallet,Hexdrinker,,Mercury's Treads,22499,95129,Lane.top_lane,Role.solo
+1,Shamoo,Ashe,True,Side.blue,4,4,3,1.75,162,Flash,Heal,12,True,9874,9350,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Cull,Doran's Blade,Vampiric Scepter,1736,83277,Lane.bot_lane,Role.carry
+2,Locke Lamora,Orianna,True,Side.blue,4,2,1,2.5,248,Ghost,Flash,14,False,10947,10010,Rabadon's Deathcap,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,131770,20139,Lane.mid_lane,Role.solo
+3,Darvec,Hecarim,True,Side.blue,5,3,5,3.3333333333333335,144,Smite,Ghost,14,False,10719,9658,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,Spectre's Cowl,Kindlegem,16515,114444,Lane.jungle,Role.none
+4,Calvingod,Janna,True,Side.blue,0,4,9,2.25,19,Exhaust,Flash,10,False,7231,6750,Eye of the Watchers,Redemption,Aegis of the Legion,Boots of Mobility,Control Ward,,4431,4297,Lane.bot_lane,Role.support
+5,LegendaryLime,Karma,False,Side.red,3,0,7,10.0,195,Flash,Teleport,15,False,9402,8625,Forbidden Idol,Rod of Ages,Mercury's Treads,Iceborn Gauntlet,Doran's Ring,Crystalline Bracer,82194,24163,Lane.top_lane,Role.solo
+6,QuickRev,Maokai,False,Side.red,3,1,11,14.0,43,Flash,Ignite,11,False,7509,7000,Targon's Brace,Boots of Mobility,Sightstone,Spectre's Cowl,Frozen Heart,Ruby Crystal,22011,5612,Lane.jungle,Role.none
+7,Riot Kobe,Shyvana,False,Side.red,2,4,3,1.25,146,Exhaust,Smite,13,False,8549,8408,Enchantment: Bloodrazor,Refillable Potion,Boots of Swiftness,Trinity Force,Warden's Mail,,62365,58389,Lane.jungle,Role.none
+8,AD Nannies Pref,Jinx,False,Side.red,6,6,3,1.5,168,Heal,Flash,13,False,9446,8600,Control Ward,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Brawler's Gloves,Doran's Blade,452,85884,Lane.bot_lane,Role.solo
+9,Phooka,Vel'Koz,False,Side.red,4,4,4,2.0,195,Ghost,Flash,14,False,9326,8485,Rylai's Crystal Scepter,Morellonomicon,Ruby Crystal,Amplifying Tome,Doran's Ring,Ionian Boots of Lucidity,98060,9152,Lane.mid_lane,Role.solo

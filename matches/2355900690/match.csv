@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JetLiiiiiii,Singed,True,Side.blue,6,5,6,2.4,253,Ghost,Teleport,16,False,12482,10200,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,Rylai's Crystal Scepter,The Dark Seal,Thornmail,140343,12387,Lane.jungle,Role.none
+1,Lining,Thresh,True,Side.blue,0,2,18,9.0,19,Exhaust,Flash,12,False,8647,7575,Face of the Mountain,Glacial Shroud,Ionian Boots of Lucidity,Forbidden Idol,Ruby Crystal,Ruby Sightstone,12478,8767,Lane.bot_lane,Role.support
+2,Lozenge,Lissandra,True,Side.blue,4,2,9,6.5,151,Teleport,Flash,14,False,11245,10675,Sorcerer's Shoes,Hextech Protobelt-01,Abyssal Scepter,Doran's Ring,Doran's Ring,Zhonya's Hourglass,97941,13933,Lane.mid_lane,Role.solo
+3,Exilium,Lucian,True,Side.blue,17,2,7,12.0,168,Heal,Flash,15,False,14691,12650,Doran's Blade,Essence Reaver,Boots of Swiftness,Phantom Dancer,Infinity Edge,Vampiric Scepter,2985,154324,Lane.bot_lane,Role.carry
+4,plotz,Hecarim,True,Side.blue,9,7,10,2.7142857142857144,93,Smite,Ghost,14,True,11923,10383,Refillable Potion,Enchantment: Cinderhulk,Boots of Swiftness,Trinity Force,Dead Man's Plate,,21724,89674,Lane.jungle,Role.none
+5,GoldenMonkey,Lee Sin,False,Side.red,3,8,5,1.0,86,Flash,Smite,13,False,8462,8275,Mercury's Treads,The Black Cleaver,Giant's Belt,Cloth Armor,,Enchantment: Warrior,11419,73926,Lane.jungle,Role.none
+6,IronJaguar,Syndra,False,Side.red,6,8,3,1.125,214,Flash,Cleanse,15,False,10792,10975,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,Void Staff,The Dark Seal,,137544,14848,Lane.mid_lane,Role.solo
+7,Jurassiq,Draven,False,Side.red,3,9,5,0.8888888888888888,176,Flash,Heal,13,False,10083,9650,The Bloodthirster,Doran's Blade,Berserker's Greaves,Zeal,Lord Dominik's Regards,,3025,119193,Lane.bot_lane,Role.carry
+8,Lycheeeeeeee,Nami,False,Side.red,2,7,8,1.4285714285714286,9,Exhaust,Flash,12,False,7207,6650,Sightstone,Redemption,Aegis of the Legion,Frostfang,Ionian Boots of Lucidity,Null-Magic Mantle,8773,3349,Lane.bot_lane,Role.support
+9,Adam Krol,Maokai,False,Side.red,1,4,4,1.25,240,Teleport,Flash,15,False,9789,8650,Corrupting Potion,The Dark Seal,Mercury's Treads,Sunfire Cape,Spirit Visage,Glacial Shroud,134181,19118,Lane.top_lane,Role.solo

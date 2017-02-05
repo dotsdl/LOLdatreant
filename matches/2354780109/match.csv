@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cute pupper irl,Bard,False,Side.blue,1,3,7,2.6666666666666665,16,Flash,Ignite,10,False,6009,5700,Boots of Mobility,Eye of the Watchers,Refillable Potion,Control Ward,Aegis of the Legion,Null-Magic Mantle,9126,4310,Lane.bot_lane,Role.support
+1,Liquid Yusan,Zac,False,Side.blue,2,5,5,1.4,117,Flash,Smite,12,False,7496,7425,Null-Magic Mantle,Randuin's Omen,Refillable Potion,Ruby Crystal,Enchantment: Cinderhulk,Ionian Boots of Lucidity,79400,15707,Lane.jungle,Role.none
+2,IKingVex,Vayne,False,Side.blue,0,8,2,0.25,119,Heal,Flash,10,False,6755,5675,Doran's Blade,Cull,Refillable Potion,Pickaxe,Berserker's Greaves,Statikk Shiv,4736,32548,Lane.bot_lane,Role.carry
+3,goldenglue,Poppy,False,Side.blue,2,5,0,0.4,166,Teleport,Flash,13,False,7673,6425,Corrupting Potion,Sunfire Cape,Ninja Tabi,Spectre's Cowl,Cloth Armor,Sapphire Crystal,27825,58976,Lane.top_lane,Role.solo
+4,Second of Arc,Xerath,False,Side.blue,4,3,0,1.3333333333333333,206,Ghost,Flash,13,False,8848,8425,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,,Doran's Ring,Doran's Ring,99573,8804,Lane.mid_lane,Role.solo
+5,Celend,Viktor,True,Side.red,3,1,5,8.0,227,Flash,Ghost,14,False,9916,9025,Needlessly Large Rod,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,Abyssal Scepter,116534,12574,Lane.mid_lane,Role.solo
+6,TwTv Kinoscorpia,Thresh,True,Side.red,1,2,7,4.0,40,Ignite,Flash,11,False,6488,6075,Banner of Command,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,,Control Ward,Eye of the Equinox,9960,4674,Lane.bot_lane,Role.support
+7,mulgokizary,Lee Sin,True,Side.red,12,3,4,5.333333333333333,131,Smite,Flash,14,True,11674,10825,,Enchantment: Warrior,The Black Cleaver,Refillable Potion,Maw of Malmortius,Boots of Mobility,23726,111027,Lane.jungle,Role.none
+8,Doublelift,Twitch,True,Side.red,6,3,8,4.666666666666667,186,Flash,Heal,13,False,10151,9375,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Hexdrinker,Control Ward,0,78695,Lane.bot_lane,Role.carry
+9,Rokí,Fiora,True,Side.red,2,0,2,4.0,183,Flash,Teleport,14,False,9098,8525,Null-Magic Mantle,Boots of Speed,Ravenous Hydra,Doran's Blade,Doran's Blade,The Black Cleaver,1172,87484,Lane.top_lane,Role.solo

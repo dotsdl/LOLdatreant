@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Potluck,Zac,True,Side.blue,5,1,12,17.0,145,Smite,Flash,15,False,12189,11800,Enchantment: Cinderhulk,Warden's Mail,Ninja Tabi,Warmog's Armor,Spirit Visage,Raptor Cloak,106798,27957,Lane.jungle,Role.none
+1,Meowwwwwww,Brand,True,Side.blue,14,4,9,5.75,30,Flash,Ignite,14,False,12744,11675,Control Ward,Mejai's Soulstealer,Eye of the Watchers,Sorcerer's Shoes,Liandry's Torment,Rylai's Crystal Scepter,49536,5136,Lane.bot_lane,Role.support
+2,SlCA,Xerath,True,Side.blue,10,7,11,3.0,169,Ghost,Flash,16,False,12777,12235,Rabadon's Deathcap,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,Morellonomicon,,114974,12208,Lane.mid_lane,Role.solo
+3,CoreTienZ,Lucian,True,Side.blue,7,6,12,3.1666666666666665,173,Heal,Flash,14,True,13188,12030,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Essence Reaver,,17648,122072,Lane.bot_lane,Role.carry
+4,Rekyn,Jarvan IV,True,Side.blue,5,6,13,3.0,112,Flash,Teleport,14,False,11105,10395,Negatron Cloak,Dead Man's Plate,Tiamat,The Black Cleaver,Mercury's Treads,Chain Vest,5942,61383,Lane.top_lane,Role.solo
+5,Sona Milk,Lulu,False,Side.red,3,9,10,1.4444444444444444,35,Flash,Ignite,13,False,8972,8575,Redemption,Zz'Rot Portal,Eye of the Watchers,Boots of Mobility,,The Dark Seal,20389,5527,Lane.bot_lane,Role.support
+6,Blaze SandHaven,Caitlyn,False,Side.red,4,9,3,0.7777777777777778,179,Heal,Flash,12,False,9965,9450,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Last Whisper,Long Sword,2914,103146,Lane.bot_lane,Role.carry
+7,Catch the Spirit,Poppy,False,Side.red,10,6,10,3.3333333333333335,194,Teleport,Flash,16,False,12329,12300,Ninja Tabi,Spirit Visage,Iceborn Gauntlet,Sunfire Cape,Hexdrinker,Long Sword,37429,81617,Lane.top_lane,Role.solo
+8,Cotopaco Parce,Viktor,False,Side.red,2,8,4,0.75,164,Ghost,Flash,13,False,9451,9225,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Needlessly Large Rod,Ionian Boots of Lucidity,,104724,11977,Lane.mid_lane,Role.solo
+9,emV,Lee Sin,False,Side.red,5,9,8,1.4444444444444444,88,Flash,Smite,13,False,9339,8495,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Mercury's Treads,Negatron Cloak,Chain Vest,12561,66859,Lane.jungle,Role.none

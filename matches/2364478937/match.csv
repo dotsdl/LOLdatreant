@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mr Gimix,Ziggs,True,Side.blue,5,1,1,6.0,115,Ignite,Flash,11,False,7473,2760,Doran's Ring,Doran's Ring,Boots of Speed,Fiendish Codex,Refillable Potion,Amplifying Tome,55463,11098,Lane.mid_lane,Role.solo
+1,Shamwwow,Mordekaiser,True,Side.blue,4,2,4,4.0,102,Flash,Teleport,11,False,7248,4875,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Refillable Potion,,,57755,11229,Lane.top_lane,Role.solo
+2,ApoIlo Price,Vayne,True,Side.blue,0,2,4,2.0,111,Flash,Heal,9,False,6670,4675,Doran's Blade,B. F. Sword,Berserker's Greaves,Zeal,Dagger,,84,38829,Lane.bot_lane,Role.carry
+3,wiggily420,Graves,True,Side.blue,7,1,0,7.0,125,Flash,Smite,12,False,8927,8650,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Berserker's Greaves,Serrated Dirk,Long Sword,3711,102750,Lane.jungle,Role.none
+4,GangstahSwerve,Thresh,True,Side.blue,0,1,3,3.0,11,Exhaust,Flash,7,False,4607,4350,Sightstone,Face of the Mountain,Boots of Mobility,,Control Ward,,4061,3220,Lane.bot_lane,Role.support
+5,The Tank Man,Janna,False,Side.red,1,2,1,1.0,7,Flash,Exhaust,8,False,3616,3075,Eye of the Oasis,Faerie Charm,Boots of Mobility,,,,1335,2317,Lane.bot_lane,Role.support
+6,Rohammers,Ekko,False,Side.red,2,4,1,0.75,76,Teleport,Flash,9,False,4602,3650,Hextech Protobelt-01,Corrupting Potion,The Dark Seal,,Boots of Speed,,30339,5792,Lane.top_lane,Role.solo
+7,Allorim,Jhin,False,Side.red,1,2,2,1.5,93,Flash,Heal,8,False,4757,2800,Doran's Blade,Caulfield's Warhammer,Cloak of Agility,Total Biscuit of Rejuvenation,Boots of Speed,,2639,36391,Lane.bot_lane,Role.carry
+8,LL Stylish,Zed,False,Side.red,1,5,1,0.4,90,Ignite,Flash,10,False,4593,4200,Long Sword,Edge of Night,Refillable Potion,,Boots of Speed,,2700,31078,Lane.mid_lane,Role.solo
+9,Darvec,Hecarim,False,Side.red,2,3,2,1.3333333333333333,54,Smite,Ghost,9,True,4802,4425,Skirmisher's Sabre,Refillable Potion,Sheen,Ionian Boots of Lucidity,Phage,,4354,35691,Lane.jungle,Role.none

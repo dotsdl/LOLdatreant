@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xxxVOLIBEARxx,Morgana,True,Side.blue,0,2,12,6.0,13,Flash,Exhaust,12,False,7716,7535,Frost Queen's Claim,Redemption,Ruby Sightstone,Boots of Mobility,Refillable Potion,Amplifying Tome,10234,5186,Lane.bot_lane,Role.support
+1,SKY Fear,Jhin,True,Side.blue,5,1,7,12.0,187,Flash,Heal,13,False,10454,10175,Doran's Blade,Rapid Firecannon,,Last Whisper,Essence Reaver,Boots of Swiftness,3219,100343,Lane.bot_lane,Role.carry
+2,VAGRANTVIRUS,Riven,True,Side.blue,2,1,6,8.0,122,Flash,Smite,13,False,9626,9400,Skirmisher's Sabre,Ravenous Hydra,Ionian Boots of Lucidity,The Black Cleaver,Ruby Crystal,Long Sword,0,121107,Lane.jungle,Role.none
+3,Olympiens,Yasuo,True,Side.blue,5,4,5,2.5,220,Flash,Ignite,15,False,11064,9325,,Hexdrinker,Ninja Tabi,Statikk Shiv,Infinity Edge,Doran's Blade,58369,82606,Lane.mid_lane,Role.solo
+4,hashmeerlol ,Ekko,True,Side.blue,8,4,5,3.25,165,Flash,Teleport,15,False,10924,10300,Hextech Protobelt-01,Ionian Boots of Lucidity,Zhonya's Hourglass,Doran's Ring,Abyssal Scepter,The Dark Seal,86547,19464,Lane.top_lane,Role.solo
+5,Zaganox,Lee Sin,False,Side.red,6,4,4,2.5,115,Smite,Flash,13,False,9597,8725,Enchantment: Warrior,,Ruby Crystal,Tiamat,Ninja Tabi,Dead Man's Plate,17652,87667,Lane.jungle,Role.none
+6,AsianSGpøtatø,Ezreal,False,Side.red,1,1,1,2.0,233,Flash,Heal,13,False,9236,8475,Doran's Blade,Bilgewater Cutlass,Dagger,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,13036,99383,Lane.bot_lane,Role.carry
+7,SoloMeatballOnly,Ahri,False,Side.red,2,4,2,1.0,176,Exhaust,Flash,13,False,8747,8200,Doran's Ring,Morellonomicon,Luden's Echo,Doran's Ring,Sorcerer's Shoes,,47232,13287,Lane.mid_lane,Role.solo
+8,IKingVex,Alistar,False,Side.red,1,4,6,1.75,35,Ignite,Flash,11,False,6527,6450,Ruby Sightstone,Face of the Mountain,Ruby Crystal,Cloth Armor,Crystalline Bracer,Ionian Boots of Lucidity,8391,7623,Lane.bot_lane,Role.support
+9,Lyxical,Mordekaiser,False,Side.red,2,7,1,0.42857142857142855,162,Teleport,Flash,13,True,8369,9145,Rylai's Crystal Scepter,Hextech Gunblade,,Ninja Tabi,,,85728,17130,Lane.top_lane,Role.solo

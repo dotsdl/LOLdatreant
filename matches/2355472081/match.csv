@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arcminute,Hecarim,True,Side.blue,7,3,11,6.0,104,Smite,Ghost,14,False,9922,8533,Mercury's Treads,Refillable Potion,Trinity Force,Enchantment: Cinderhulk,Ruby Crystal,Null-Magic Mantle,12004,84498,Lane.jungle,Role.none
+1,Révenge,Yasuo,True,Side.blue,14,3,6,6.666666666666667,150,Teleport,Flash,13,True,12321,9858,Doran's Blade,Doran's Blade,Quicksilver Sash,Phantom Dancer,Mercury's Treads,Trinity Force,26843,81115,Lane.top_lane,Role.solo
+2,Carrots2,Caitlyn,True,Side.blue,2,4,12,3.5,188,Flash,Heal,13,False,9847,7900,Doran's Blade,Runaan's Hurricane,Cull,Infinity Edge,Dagger,Boots of Speed,613,115865,Lane.bot_lane,Role.carry
+3,pilling91,Cassiopeia,True,Side.blue,4,3,10,4.666666666666667,158,Ghost,Flash,13,False,9437,7825,Doran's Ring,Tear of the Goddess,Morellonomicon,Quicksilver Sash,Giant's Belt,Needlessly Large Rod,67271,8603,Lane.mid_lane,Role.solo
+4,laugh for me,Soraka,True,Side.blue,1,4,19,5.0,20,Flash,Exhaust,11,False,7143,5750,Sightstone,Nomad's Medallion,Boots of Mobility,Redemption,,Forbidden Idol,8335,3873,Lane.bot_lane,Role.support
+5,TwTv Kinoscorpia,Ezreal,False,Side.red,4,7,5,1.2857142857142858,132,Heal,Flash,11,False,7826,7483,Doran's Blade,Total Biscuit of Rejuvenation,Trinity Force,Muramana,Dagger,Boots of Speed,6033,57359,Lane.bot_lane,Role.carry
+6,Flaresz,Poppy,False,Side.red,1,5,1,0.4,151,Flash,Teleport,12,False,7453,7150,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Ninja Tabi,Sheen,Ruby Crystal,20013,55163,Lane.top_lane,Role.solo
+7,Poı,Malzahar,False,Side.red,3,2,3,3.0,133,Flash,Ghost,12,False,7706,6685,Doran's Ring,Needlessly Large Rod,Morellonomicon,Ruby Crystal,Amplifying Tome,Ionian Boots of Lucidity,56549,17469,Lane.jungle,Role.none
+8,You all boosted,Elise,False,Side.red,6,6,2,1.3333333333333333,90,Flash,Smite,12,False,8228,7660,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,,67309,25681,Lane.jungle,Role.none
+9,CloudNguyén,Brand,False,Side.red,3,8,4,0.875,24,Ignite,Flash,9,False,6342,5160,Eye of the Watchers,Control Ward,Giant's Belt,Sorcerer's Shoes,Amplifying Tome,,20669,3216,Lane.bot_lane,Role.support

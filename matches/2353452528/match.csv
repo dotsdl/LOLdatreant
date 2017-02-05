@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bardly Trying,Bard,True,Side.blue,4,3,18,7.333333333333333,18,Ignite,Flash,14,False,10318,8850,Frost Queen's Claim,Locket of the Iron Solari,Sightstone,Redemption,,Boots of Mobility,14091,6540,Lane.bot_lane,Role.support
+1,IreliaCarriesMe,Twitch,True,Side.blue,8,2,8,8.0,195,Heal,Flash,15,False,12750,10700,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Statikk Shiv,Cloth Armor,9077,113632,Lane.bot_lane,Role.carry
+2,The Broskie,Katarina,True,Side.blue,9,7,8,2.4285714285714284,160,Ignite,Flash,15,False,11956,10450,The Dark Seal,Abyssal Scepter,Luden's Echo,Refillable Potion,Sorcerer's Shoes,Void Staff,98202,5576,Lane.mid_lane,Role.solo
+3,The Brophy,Graves,True,Side.blue,6,2,11,8.5,179,Smite,Flash,16,False,12506,9975,Berserker's Greaves,Pickaxe,Enchantment: Warrior,Phantom Dancer,Hexdrinker,Vampiric Scepter,4087,147386,Lane.jungle,Role.none
+4,Influxive,Fiora,True,Side.blue,2,5,3,1.0,159,Teleport,Flash,15,False,9715,8800,Mercury's Treads,Ravenous Hydra,Corrupting Potion,The Black Cleaver,Doran's Blade,,1277,76968,Lane.top_lane,Role.solo
+5,Suebegedei,Twisted Fate,False,Side.red,9,7,1,1.4285714285714286,101,Smite,Flash,14,True,11364,10975,Runaan's Hurricane,Enchantment: Bloodrazor,Boots of Swiftness,Blade of the Ruined King,B. F. Sword,,33832,77721,Lane.jungle,Role.none
+6,iiSly,Caitlyn,False,Side.red,0,8,4,0.5,162,Heal,Flash,12,False,8451,8100,Doran's Blade,,,Rapid Firecannon,Infinity Edge,Berserker's Greaves,429,80323,Lane.bot_lane,Role.carry
+7,Unstopebble,Malphite,False,Side.red,4,3,4,2.6666666666666665,198,Flash,Teleport,16,False,10249,10050,Corrupting Potion,Zz'Rot Portal,Frozen Heart,Ninja Tabi,Sunfire Cape,,79707,29487,Lane.top_lane,Role.solo
+8,LunaticSupp,Janna,False,Side.red,1,5,5,1.2,2,Exhaust,Flash,11,False,6618,5325,Control Ward,Locket of the Iron Solari,Sightstone,Nomad's Medallion,Boots of Swiftness,,3211,3183,Lane.bot_lane,Role.support
+9,Viscount Vince,Syndra,False,Side.red,5,6,4,1.5,186,Flash,Ghost,14,False,10386,9650,Doran's Ring,Morellonomicon,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Needlessly Large Rod,105748,12973,Lane.mid_lane,Role.solo

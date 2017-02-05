@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LL Stylish,Zed,True,Side.blue,19,3,5,8.0,239,Ignite,Flash,17,False,18227,16525,Ninja Tabi,Duskblade of Draktharr,Youmuu's Ghostblade,The Black Cleaver,Zeal,Titanic Hydra,13352,186828,Lane.mid_lane,Role.solo
+1,TeddyRO,Malzahar,True,Side.blue,2,7,7,1.2857142857142858,215,Flash,Teleport,16,False,12915,10875,Rod of Ages,Boots of Speed,Liandry's Torment,Doran's Ring,Rylai's Crystal Scepter,Blasting Wand,106294,34603,Lane.top_lane,Role.solo
+2,BIind Goat,Janna,True,Side.blue,1,2,21,11.0,7,Exhaust,Flash,14,False,11168,9150,Redemption,Ruby Sightstone,Ninja Tabi,Ruby Crystal,Talisman of Ascension,Aegis of the Legion,4162,5542,Lane.bot_lane,Role.support
+3,feud999,Ashe,True,Side.blue,6,6,11,2.8333333333333335,251,Flash,Heal,16,False,14250,11775,Infinity Edge,Essence Reaver,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,,1548,164492,Lane.bot_lane,Role.carry
+4,1234569,Lee Sin,True,Side.blue,8,5,7,3.0,208,Flash,Smite,17,False,15337,14425,Tiamat,Enchantment: Warrior,Blade of the Ruined King,Ninja Tabi,Dead Man's Plate,Randuin's Omen,41695,169359,Lane.jungle,Role.none
+5,MattyMooo,Graves,False,Side.red,5,9,5,1.1111111111111112,144,Smite,Flash,15,True,11310,9625,Enchantment: Warrior,Last Whisper,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,Giant Slayer,6247,142808,Lane.jungle,Role.none
+6,Zenoncas,Karma,False,Side.red,1,6,11,2.0,25,Exhaust,Flash,13,False,9460,9075,,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Forbidden Idol,Eye of the Watchers,28445,4015,Lane.bot_lane,Role.support
+7,Erry,Vayne,False,Side.red,7,9,4,1.2222222222222223,237,Heal,Flash,15,False,12633,11575,Mortal Reminder,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,Vampiric Scepter,26398,117952,Lane.bot_lane,Role.carry
+8,Paxton,Poppy,False,Side.red,5,4,5,2.5,248,Flash,Teleport,16,False,12751,11300,Spirit Visage,Corrupting Potion,Zz'Rot Portal,Mercury's Treads,Sunfire Cape,Last Whisper,19929,95209,Lane.top_lane,Role.solo
+9,Maxcorsa,Jayce,False,Side.red,5,8,4,1.125,210,Flash,Exhaust,15,False,11822,11200,The Black Cleaver,Muramana,Ionian Boots of Lucidity,Youmuu's Ghostblade,Last Whisper,Long Sword,19089,139096,Lane.mid_lane,Role.solo

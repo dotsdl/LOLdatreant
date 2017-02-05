@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vasilii,Ezreal,False,Side.blue,1,1,1,2.0,287,Heal,Flash,14,False,10808,10500,Muramana,Iceborn Gauntlet,Lord Dominik's Regards,Hexdrinker,Ionian Boots of Lucidity,Doran's Blade,19757,143129,Lane.bot_lane,Role.carry
+1,This is Yuty,Zyra,False,Side.blue,2,7,3,0.7142857142857143,17,Flash,Exhaust,12,False,7751,7500,Frostfang,Liandry's Torment,Sorcerer's Shoes,Needlessly Large Rod,Sightstone,,30677,5587,Lane.bot_lane,Role.support
+2,TheLonelyChoGath,Cho'Gath,False,Side.blue,3,4,3,1.5,236,Flash,Teleport,16,False,11073,10475,Doran's Ring,Rylai's Crystal Scepter,Rod of Ages,Ninja Tabi,Sunfire Cape,,125909,19081,Lane.top_lane,Role.solo
+3,BlackAfroNinja,Zed,False,Side.blue,0,8,3,0.375,143,Flash,Ignite,12,False,7986,6325,Maw of Malmortius,Boots of Speed,Refillable Potion,Serrated Dirk,,B. F. Sword,4446,55715,Lane.mid_lane,Role.solo
+4,LuisHappened,Vi,False,Side.blue,5,8,4,1.125,144,Flash,Smite,14,False,9953,9125,Randuin's Omen,Refillable Potion,Hexdrinker,Boots of Mobility,Caulfield's Warhammer,Enchantment: Warrior,1905,123488,Lane.jungle,Role.none
+5,Straw Hat Bink,Twitch,True,Side.red,7,1,7,14.0,249,Heal,Flash,16,False,14152,13275,Doran's Blade,Blade of the Ruined King,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,0,150702,Lane.bot_lane,Role.carry
+6,Straw Hat Ace,Shaco,True,Side.red,3,4,7,2.5,172,Teleport,Ignite,16,False,11551,10475,The Dark Seal,Hextech Protobelt-01,Sorcerer's Shoes,Morellonomicon,Luden's Echo,,68211,27855,Lane.top_lane,Role.solo
+7,US Great Again,Morgana,True,Side.red,6,2,3,4.5,224,Flash,Ignite,16,False,12430,11950,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Rod of Ages,Rylai's Crystal Scepter,Haunting Guise,101548,21657,Lane.mid_lane,Role.solo
+8,Hazzium,Blitzcrank,True,Side.red,3,3,12,5.0,48,Exhaust,Flash,14,False,9627,8525,Face of the Mountain,Redemption,Ruby Sightstone,Boots of Swiftness,Glacial Shroud,Cloth Armor,12016,11802,Lane.bot_lane,Role.support
+9,Sud83,Xin Zhao,True,Side.red,9,1,3,12.0,215,Smite,Flash,17,True,15033,13208,Enchantment: Bloodrazor,Blade of the Ruined King,Tiamat,Ninja Tabi,Trinity Force,Giant's Belt,11611,218480,Lane.jungle,Role.none

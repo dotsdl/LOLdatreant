@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tsùki,Jayce,False,Side.blue,1,8,6,0.875,236,Flash,Teleport,15,False,10975,10725,Doran's Blade,Ionian Boots of Lucidity,Sterak's Gage,The Black Cleaver,Long Sword,Youmuu's Ghostblade,19788,126893,Lane.top_lane,Role.solo
+1,Stiches,Sivir,False,Side.blue,5,7,1,0.8571428571428571,300,Heal,Flash,15,True,13422,13025,Infinity Edge,Essence Reaver,Phantom Dancer,Pickaxe,Doran's Blade,Berserker's Greaves,0,200265,Lane.bot_lane,Role.carry
+2,Link,Warwick,False,Side.blue,5,10,5,1.0,133,Flash,Smite,14,False,10718,10085,Giant's Belt,Blade of the Ruined King,Kindlegem,Warden's Mail,Ionian Boots of Lucidity,Enchantment: Bloodrazor,22508,85548,Lane.jungle,Role.none
+3,Morton Salt,Alistar,False,Side.blue,0,9,9,1.0,45,Ignite,Flash,12,False,8036,7900,Kindlegem,Redemption,Eye of the Equinox,Giant's Belt,Boots of Mobility,Ruby Crystal,9787,5408,Lane.bot_lane,Role.support
+4,TeddyRO,Lux,False,Side.blue,4,7,7,1.5714285714285714,210,Flash,Ghost,15,False,11109,9725,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Doran's Ring,Blasting Wand,133710,16766,Lane.mid_lane,Role.solo
+5,Japanese Import,Hecarim,True,Side.red,6,6,17,3.8333333333333335,119,Smite,Ghost,15,False,12253,10858,Mercury's Treads,Trinity Force,Enchantment: Cinderhulk,Dead Man's Plate,,Cloth Armor,15186,96748,Lane.jungle,Role.none
+6,Katlife,Blitzcrank,True,Side.red,4,2,17,10.5,41,Flash,Ignite,14,False,10037,9425,Control Ward,Eye of the Equinox,Locket of the Iron Solari,Zeke's Harbinger,Boots of Swiftness,Warden's Mail,7925,7159,Lane.bot_lane,Role.support
+7,Espir III,Twisted Fate,True,Side.red,7,3,20,9.0,202,Flash,Ghost,17,False,14191,13575,Abyssal Scepter,,Boots of Swiftness,Zhonya's Hourglass,Lich Bane,Rod of Ages,127653,18134,Lane.mid_lane,Role.solo
+8,C9 Sneaky,Jhin,True,Side.red,17,2,13,15.0,227,Flash,Heal,17,False,17149,15875,Boots of Swiftness,Mercurial Scimitar,Youmuu's Ghostblade,Rapid Firecannon,B. F. Sword,Infinity Edge,9985,181810,Lane.bot_lane,Role.carry
+9,Aerodactyl,Graves,True,Side.red,7,2,13,10.0,270,Flash,Teleport,17,False,14411,13475,Long Sword,Death's Dance,Quicksilver Sash,The Bloodthirster,Phantom Dancer,Berserker's Greaves,1637,200722,Lane.top_lane,Role.solo

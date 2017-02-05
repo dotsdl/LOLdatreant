@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iPav999,Renekton,True,Side.blue,4,2,4,4.0,187,Teleport,Flash,14,False,10170,7650,The Black Cleaver,Refillable Potion,Control Ward,Spirit Visage,Ninja Tabi,Long Sword,2058,100381,Lane.top_lane,Role.solo
+1,TQS Zuardian,Evelynn,True,Side.blue,16,3,6,7.333333333333333,203,Smite,Flash,17,False,15097,11495,Hextech Protobelt-01,Mejai's Soulstealer,Amplifying Tome,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Lich Bane,154566,46666,Lane.jungle,Role.none
+2,Bes,Vayne,True,Side.blue,8,8,5,1.625,147,Heal,Flash,13,False,10886,10175,Doran's Blade,Berserker's Greaves,Statikk Shiv,Infinity Edge,B. F. Sword,Vampiric Scepter,17567,66912,Lane.bot_lane,Role.carry
+3,iFrames,Yasuo,True,Side.blue,1,7,6,1.0,138,Exhaust,Flash,13,False,8840,8580,The Bloodthirster,Mercury's Treads,,,,Phantom Dancer,18766,71968,Lane.mid_lane,Role.solo
+4,IAmArray,Alistar,True,Side.blue,1,3,15,5.333333333333333,30,Flash,Exhaust,12,False,7646,6650,Targon's Brace,Refillable Potion,Boots of Mobility,Sightstone,Kindlegem,Frozen Heart,9438,4791,Lane.bot_lane,Role.support
+5,never negative,Janna,False,Side.red,2,7,11,1.8571428571428572,5,Exhaust,Flash,11,False,7258,6350,Frostfang,Locket of the Iron Solari,Sightstone,Boots of Mobility,Control Ward,Forbidden Idol,6704,5760,Lane.bot_lane,Role.support
+6,1IOrz,Ekko,False,Side.red,1,4,8,2.25,178,Teleport,Flash,14,False,8867,8450,Doran's Ring,Doran's Ring,Hextech Protobelt-01,Boots of Speed,Lich Bane,Needlessly Large Rod,91728,14993,Lane.top_lane,Role.solo
+7,iMBACHAN,Zed,False,Side.red,10,7,6,2.2857142857142856,122,Flash,Ignite,13,True,9747,8950,Ninja Tabi,B. F. Sword,Youmuu's Ghostblade,Serrated Dirk,Phage,Caulfield's Warhammer,3897,71605,Lane.mid_lane,Role.solo
+8,Drowning,Rek'Sai,False,Side.red,6,4,8,3.5,142,Flash,Smite,13,False,9477,9400,Titanic Hydra,Enchantment: Cinderhulk,Phage,Long Sword,Ninja Tabi,Long Sword,33136,71960,Lane.jungle,Role.none
+9,colourkevin,Twitch,False,Side.red,4,8,6,1.25,104,Heal,Flash,11,False,8054,6775,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,Pickaxe,B. F. Sword,Statikk Shiv,53,47281,Lane.bot_lane,Role.carry

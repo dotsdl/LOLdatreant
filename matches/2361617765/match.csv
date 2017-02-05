@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xpecial,Nautilus,True,Side.blue,8,4,14,5.5,157,Teleport,Flash,15,True,12891,11675,Iceborn Gauntlet,Sunfire Cape,Mercury's Treads,Giant's Belt,Banshee's Veil,Kindlegem,94988,26725,Lane.top_lane,Role.solo
+1,SKY Fear,Varus,True,Side.blue,13,6,10,3.8333333333333335,209,Flash,Heal,15,False,15125,12650,Doran's Blade,Lord Dominik's Regards,Berserker's Greaves,Runaan's Hurricane,Essence Reaver,B. F. Sword,9608,147578,Lane.bot_lane,Role.carry
+2,Aecinira,Janna,True,Side.blue,0,1,27,27.0,14,Flash,Exhaust,15,False,10523,9150,Ruby Sightstone,Redemption,Talisman of Ascension,,Mejai's Soulstealer,Boots of Mobility,5475,6196,Lane.bot_lane,Role.support
+3,cute pupper irl,Skarner,True,Side.blue,8,3,9,5.666666666666667,166,Flash,Smite,15,False,13455,12758,Enchantment: Warrior,Hunter's Potion,Mercury's Treads,Trinity Force,Dead Man's Plate,Pickaxe,37153,125874,Lane.jungle,Role.none
+4,Str1fe,Morgana,True,Side.blue,9,3,14,7.666666666666667,222,Flash,Teleport,17,False,15070,14825,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,,140527,25267,Lane.mid_lane,Role.solo
+5,Doublelift,Bard,False,Side.red,1,8,5,0.75,23,Flash,Exhaust,13,False,8022,7700,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,,,Eye of the Watchers,15256,4586,Lane.bot_lane,Role.support
+6,l For You l,Hecarim,False,Side.red,2,8,7,1.125,138,Flash,Smite,14,False,9253,9218,Hunter's Potion,Enchantment: Cinderhulk,Mercury's Treads,Trinity Force,Spectre's Cowl,,18167,86656,Lane.jungle,Role.none
+7,Huhi Lite,Zilean,False,Side.red,4,7,9,1.8571428571428572,175,Teleport,Flash,15,False,9920,8250,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Morellonomicon,Doran's Ring,Blasting Wand,90905,15563,Lane.mid_lane,Role.solo
+8,mandatorycloud,Jhin,False,Side.red,8,7,5,1.8571428571428572,184,Flash,Heal,14,False,11414,10775,B. F. Sword,Essence Reaver,Boots of Swiftness,Zeal,Last Whisper,Pickaxe,13118,108073,Lane.bot_lane,Role.carry
+9,TheOddOrange,Rammus,False,Side.red,2,8,9,1.375,104,Flash,Teleport,13,False,8326,7875,Doran's Shield,Spectre's Cowl,Mercury's Treads,Sunfire Cape,Chain Vest,Kindlegem,49335,20668,Lane.top_lane,Role.solo

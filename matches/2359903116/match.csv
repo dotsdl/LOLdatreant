@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sasuni,Kha'Zix,True,Side.blue,7,4,9,4.0,118,Smite,Flash,15,False,11328,10250,Youmuu's Ghostblade,Duskblade of Draktharr,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,,4859,116561,Lane.jungle,Role.none
+1,CaptainWish,Caitlyn,True,Side.blue,4,4,7,2.75,146,Heal,Flash,13,False,10288,9600,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Runaan's Hurricane,,206,86318,Lane.bot_lane,Role.carry
+2,Kuga,Katarina,True,Side.blue,17,5,2,3.8,123,Flash,Ignite,14,False,12215,11950,The Dark Seal,Luden's Echo,Rabadon's Deathcap,Void Staff,Cloth Armor,Sorcerer's Shoes,84570,6514,Lane.jungle,Role.none
+3,vancouver cC,Alistar,True,Side.blue,0,6,12,2.0,30,Flash,Exhaust,11,False,6971,6675,Locket of the Iron Solari,Boots of Swiftness,Eye of the Equinox,Crystalline Bracer,Faerie Charm,Faerie Charm,4684,7594,Lane.bot_lane,Role.support
+4,xKiWi,Tryndamere,True,Side.blue,1,5,7,1.6,194,Ghost,Ignite,14,False,10073,9850,Infinity Edge,Phantom Dancer,Doran's Blade,Berserker's Greaves,B. F. Sword,Long Sword,502,124345,Lane.top_lane,Role.solo
+5,Slothcrates,Fizz,False,Side.red,4,5,5,1.8,108,Flash,Teleport,12,True,7941,7475,Corrupting Potion,Iceborn Gauntlet,Zhonya's Hourglass,Ionian Boots of Lucidity,,Doran's Ring,36105,21003,Lane.top_lane,Role.solo
+6,tiritits,Zed,False,Side.red,12,8,4,2.0,140,Flash,Ignite,12,False,10880,10425,Blade of the Ruined King,Edge of Night,Ninja Tabi,Caulfield's Warhammer,Phage,,6034,81477,Lane.jungle,Role.none
+7,mawima,Jhin,False,Side.red,6,6,8,2.3333333333333335,141,Heal,Flash,12,False,9196,7925,,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,1859,83587,Lane.bot_lane,Role.carry
+8,Anthøny,Graves,False,Side.red,1,6,9,1.6666666666666667,111,Smite,Flash,12,False,7710,6775,Refillable Potion,Youmuu's Ghostblade,Berserker's Greaves,Enchantment: Warrior,,,3558,84950,Lane.jungle,Role.none
+9,Sue,Janna,False,Side.red,1,4,16,4.25,12,Exhaust,Flash,11,False,7394,7325,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Aegis of the Legion,Null-Magic Mantle,,3726,4427,Lane.bot_lane,Role.support

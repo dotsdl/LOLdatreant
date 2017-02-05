@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SanaSana,Caitlyn,True,Side.blue,4,1,6,10.0,184,Heal,Flash,12,False,10168,7050,Doran's Blade,Infinity Edge,Runaan's Hurricane,Boots of Speed,,,852,113979,Lane.bot_lane,Role.carry
+1,Vote No,Riven,True,Side.blue,7,4,4,2.75,133,Teleport,Flash,13,False,8973,7440,Doran's Blade,Caulfield's Warhammer,Tiamat,Mercury's Treads,The Black Cleaver,,23,76329,Lane.top_lane,Role.solo
+2,Drowning,Rek'Sai,True,Side.blue,8,2,9,8.5,113,Flash,Smite,13,False,10500,8025,Refillable Potion,Long Sword,Mercury's Treads,Titanic Hydra,Enchantment: Warrior,,11772,97022,Lane.jungle,Role.none
+3,Im The Puppeteer,Fizz,True,Side.blue,4,3,3,2.3333333333333335,105,Flash,Teleport,11,False,8012,6500,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Sapphire Crystal,Seeker's Armguard,,39636,14648,Lane.mid_lane,Role.solo
+4,TheNuocMam,Nami,True,Side.blue,6,0,6,12.0,9,Ignite,Flash,11,False,7927,6075,Refillable Potion,Redemption,Eye of the Watchers,Ninja Tabi,,Null-Magic Mantle,7589,4943,Lane.bot_lane,Role.support
+5,Nero Valentine,Elise,False,Side.red,2,4,2,1.0,99,Smite,Flash,11,False,6673,5510,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,Needlessly Large Rod,Amplifying Tome,,54153,22842,Lane.jungle,Role.none
+6,Synotic,Thresh,False,Side.red,0,6,5,0.8333333333333334,20,Exhaust,Flash,9,False,4455,4050,Targon's Brace,Sightstone,Boots of Swiftness,Forbidden Idol,Ruby Crystal,Rejuvenation Bead,5254,3885,Lane.bot_lane,Role.support
+7,Wazabiee,LeBlanc,False,Side.red,5,4,3,2.0,118,Ignite,Flash,11,True,7255,6360,Amplifying Tome,Morellonomicon,The Dark Seal,Blasting Wand,Sorcerer's Shoes,Doran's Ring,51990,6860,Lane.mid_lane,Role.solo
+8,cat and bird,Pantheon,False,Side.red,2,7,3,0.7142857142857143,109,Ignite,Flash,11,False,6273,5825,Youmuu's Ghostblade,Corrupting Potion,Control Ward,Boots of Mobility,Serrated Dirk,Long Sword,11504,43894,Lane.top_lane,Role.solo
+9,Ben9813,Vayne,False,Side.red,1,8,4,0.625,99,Heal,Flash,10,False,5864,5600,Doran's Blade,Statikk Shiv,Vampiric Scepter,,,Berserker's Greaves,2215,32124,Lane.bot_lane,Role.carry

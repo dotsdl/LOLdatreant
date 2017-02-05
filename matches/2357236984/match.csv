@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GcYoshi13,Sion,True,Side.blue,9,7,8,2.4285714285714284,160,Flash,Teleport,15,False,12185,10000,Corrupting Potion,Spirit Visage,Mercury's Treads,Sunfire Cape,Iceborn Gauntlet,,40542,66763,Lane.top_lane,Role.solo
+1,TF x Nightmare,Orianna,True,Side.blue,2,3,12,4.666666666666667,193,Flash,Ghost,15,False,11675,9785,Doran's Ring,Amplifying Tome,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,108407,16684,Lane.mid_lane,Role.solo
+2,2Ninja4,Kha'Zix,True,Side.blue,15,2,4,9.5,127,Flash,Smite,15,False,13680,11995,Ravenous Hydra,Mercury's Treads,Enchantment: Warrior,The Black Cleaver,Chain Vest,Negatron Cloak,2970,145079,Lane.jungle,Role.none
+3,Mehjab,Nautilus,True,Side.blue,0,4,15,3.75,52,Exhaust,Flash,12,False,9065,7500,Sightstone,Face of the Mountain,Redemption,Aegis of the Legion,,Boots of Mobility,19977,8561,Lane.bot_lane,Role.support
+4,MoonLightRice,Jhin,True,Side.blue,7,3,7,4.666666666666667,174,Flash,Heal,14,False,12392,10450,B. F. Sword,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Pickaxe,Rapid Firecannon,7219,110144,Lane.bot_lane,Role.carry
+5,IQ is 201 ,Ryze,False,Side.red,5,8,8,1.625,140,Flash,Teleport,14,False,9444,8650,Refillable Potion,Seraph's Embrace,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,Ruby Crystal,89854,9213,Lane.top_lane,Role.solo
+6,JG Eddie in NA,Master Yi,False,Side.red,12,9,2,1.5555555555555556,133,Smite,Exhaust,14,True,11920,11000,Enchantment: Bloodrazor,Frozen Mallet,Phantom Dancer,Berserker's Greaves,Ruby Crystal,Warden's Mail,1201,128977,Lane.jungle,Role.none
+7,WiId Totodile,Ahri,False,Side.red,1,1,6,7.0,154,Flash,Ignite,14,False,8375,7685,Rod of Ages,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,,47234,12502,Lane.mid_lane,Role.solo
+8,Rairichu,Jinx,False,Side.red,0,6,7,1.1666666666666667,176,Flash,Heal,12,False,8596,8100,Doran's Blade,Health Potion,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,438,96562,Lane.bot_lane,Role.carry
+9,Pendent,Morgana,False,Side.red,1,9,4,0.5555555555555556,8,Flash,Exhaust,11,False,7126,7050,Eye of the Watchers,Redemption,Boots of Swiftness,Giant's Belt,Cloth Armor,Ruby Crystal,16562,4097,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fingertips,Alistar,False,Side.blue,0,6,8,1.3333333333333333,19,Exhaust,Flash,9,False,4565,3000,Relic Shield,Refillable Potion,Sightstone,Ionian Boots of Lucidity,Crystalline Bracer,Control Ward,4896,3591,Lane.bot_lane,Role.support
+1,Fachizzle,Rengar,False,Side.blue,3,8,3,0.75,106,Ignite,Flash,10,True,6687,6375,Control Ward,Doran's Blade,The Black Cleaver,Ionian Boots of Lucidity,Spectre's Cowl,Doran's Blade,8100,48766,Lane.top_lane,Role.solo
+2,StrangerToLife,Nunu,False,Side.blue,5,3,6,3.6666666666666665,110,Flash,Smite,12,False,7896,7425,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Frozen Heart,Ruby Crystal,Null-Magic Mantle,35874,27345,Lane.jungle,Role.none
+3,Optimus Hon,Jhin,False,Side.blue,1,6,6,1.1666666666666667,106,Heal,Flash,10,False,6040,5775,Cull,Doran's Blade,Essence Reaver,Boots of Speed,Dagger,Brawler's Gloves,1181,36659,Lane.bot_lane,Role.carry
+4,sockpoop,Ryze,False,Side.blue,4,5,2,1.2,143,Flash,Ghost,11,False,7009,7300,Tear of the Goddess,Ionian Boots of Lucidity,,Fiendish Codex,Rod of Ages,,68023,7328,Lane.mid_lane,Role.solo
+5,cùrz,Taric,True,Side.red,1,1,21,22.0,28,Flash,Exhaust,11,False,7413,5800,Ruby Sightstone,Face of the Mountain,Control Ward,Forbidden Idol,Ionian Boots of Lucidity,,7893,8516,Lane.bot_lane,Role.support
+6,Stessy Poirier,Mordekaiser,True,Side.red,7,4,8,3.75,139,Flash,Teleport,13,False,9794,7200,Kindlegem,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Cloth Armor,Hextech Revolver,59302,17899,Lane.top_lane,Role.solo
+7,KitingYeezus,Graves,True,Side.red,9,2,13,11.0,115,Flash,Smite,13,False,10762,8425,Enchantment: Warrior,B. F. Sword,Berserker's Greaves,Phantom Dancer,Long Sword,Long Sword,4328,106452,Lane.jungle,Role.none
+8,Str1fe,Nasus,True,Side.red,2,4,8,2.5,166,Flash,Teleport,12,False,8959,7825,Doran's Ring,Zz'Rot Portal,Spirit Visage,Doran's Ring,Ionian Boots of Lucidity,,64770,24530,Lane.mid_lane,Role.solo
+9,Goxtry,Twitch,True,Side.red,9,2,7,8.0,154,Heal,Flash,13,False,11298,8600,Doran's Blade,Infinity Edge,Berserker's Greaves,Long Sword,Runaan's Hurricane,Long Sword,0,94903,Lane.bot_lane,Role.carry

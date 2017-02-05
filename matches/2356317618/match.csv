@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Egregious King,Tryndamere,False,Side.blue,1,7,1,0.2857142857142857,92,Ignite,Flash,10,False,5794,5400,Ninja Tabi,Blade of the Ruined King,Refillable Potion,Dagger,Dagger,,71,39970,Lane.top_lane,Role.solo
+1,Silas Kroeger,Zac,False,Side.blue,6,4,4,2.5,119,Smite,Flash,12,False,8423,8050,Enchantment: Cinderhulk,Ninja Tabi,Spirit Visage,Giant's Belt,Cloth Armor,,71116,16448,Lane.jungle,Role.none
+2,Zaganox,Thresh,False,Side.blue,4,5,5,1.8,24,Ignite,Flash,9,False,5811,5200,,Face of the Mountain,Boots of Mobility,Sightstone,Crystalline Bracer,Faerie Charm,7878,3317,Lane.bot_lane,Role.support
+3,IIlIIlIIIlllIIlI,Jhin,False,Side.blue,3,6,8,1.8333333333333333,146,Heal,Flash,11,False,8559,8200,Doran's Blade,Cull,Boots of Swiftness,Essence Reaver,Rapid Firecannon,,6476,69549,Lane.bot_lane,Role.carry
+4,Alex Ich 1,Orianna,False,Side.blue,4,5,4,1.6,130,Flash,Heal,12,False,7676,7025,Doran's Ring,Morellonomicon,Refillable Potion,Sorcerer's Shoes,Giant's Belt,Needlessly Large Rod,50597,9432,Lane.mid_lane,Role.solo
+5,SHA BI NA ADC,Ezreal,True,Side.red,1,6,11,2.0,107,Flash,Heal,10,False,7568,6400,Doran's Blade,Manamune,Cull,Ionian Boots of Lucidity,Sheen,Glacial Shroud,8091,50251,Lane.bot_lane,Role.carry
+6,Dhokla,Jayce,True,Side.red,10,3,3,4.333333333333333,170,Flash,Teleport,13,False,10975,9300,The Bloodthirster,Refillable Potion,The Black Cleaver,Boots of Swiftness,Doran's Blade,Pickaxe,19060,104946,Lane.top_lane,Role.solo
+7,Erry,Karma,True,Side.red,1,2,10,5.5,17,Exhaust,Flash,9,False,6523,5035,Eye of the Watchers,,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,Faerie Charm,10560,4584,Lane.bot_lane,Role.support
+8,Révenge,LeBlanc,True,Side.red,12,4,3,3.75,124,Ignite,Flash,12,True,10389,9200,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,Blasting Wand,68839,13304,Lane.mid_lane,Role.solo
+9,goldenglue,Poppy,True,Side.red,3,3,10,4.333333333333333,102,Smite,Flash,12,False,8681,7775,Refillable Potion,Control Ward,Dead Man's Plate,Ionian Boots of Lucidity,Sheen,Enchantment: Cinderhulk,17892,61196,Lane.jungle,Role.none

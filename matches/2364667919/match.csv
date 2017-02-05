@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bluepancake69,Darius,True,Side.blue,4,2,3,3.5,162,Teleport,Flash,14,False,8929,8075,The Black Cleaver,Corrupting Potion,,Dead Man's Plate,Ruby Crystal,Mercury's Treads,1371,75617,Lane.top_lane,Role.solo
+1,rqspaceinvad,Viktor,True,Side.blue,9,2,2,5.5,185,Flash,Ghost,13,False,10400,9725,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,Sheen,101512,9327,Lane.mid_lane,Role.solo
+2,Danman96,Vayne,True,Side.blue,9,5,8,3.4,137,Flash,Heal,12,False,10322,8250,Doran's Blade,Infinity Edge,Berserker's Greaves,Dagger,Statikk Shiv,,12098,60255,Lane.bot_lane,Role.carry
+3,Sorry Ur Noob,Lee Sin,True,Side.blue,7,2,11,9.0,89,Flash,Smite,13,True,9980,8375,Enchantment: Warrior,,Boots of Mobility,Hexdrinker,The Black Cleaver,,16102,76818,Lane.jungle,Role.none
+4,fnfn,Leona,True,Side.blue,4,2,19,11.5,41,Exhaust,Flash,12,False,8610,8310,Righteous Glory,Eye of the Equinox,Locket of the Iron Solari,Control Ward,Refillable Potion,Boots of Mobility,11296,8540,Lane.bot_lane,Role.support
+5,am tham ben em,Orianna,False,Side.red,6,6,2,1.3333333333333333,126,Flash,Ghost,12,False,8090,7000,Sorcerer's Shoes,Doran's Ring,,Needlessly Large Rod,Aether Wisp,Morellonomicon,59834,7605,Lane.mid_lane,Role.solo
+6,Nitrodium,Jhin,False,Side.red,2,8,4,0.75,111,Flash,Heal,11,False,7207,6875,Doran's Blade,Infinity Edge,Boots of Swiftness,B. F. Sword,Long Sword,,3213,47100,Lane.bot_lane,Role.carry
+7,Perrito,Bard,False,Side.red,1,7,4,0.7142857142857143,12,Ignite,Flash,10,False,5842,5025,Forbidden Idol,,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,Crystalline Bracer,6710,2553,Lane.bot_lane,Role.support
+8,KitingYeezus,Graves,False,Side.red,3,8,1,0.5,72,Flash,Smite,11,False,7372,6775,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Long Sword,,3167,72949,Lane.jungle,Role.none
+9,Str1fe,Nasus,False,Side.red,1,4,0,0.25,179,Flash,Teleport,13,False,8556,6683,Trinity Force,Corrupting Potion,Chain Vest,Ruby Crystal,Mercury's Treads,,48991,44833,Lane.top_lane,Role.solo

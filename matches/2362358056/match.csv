@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Klawbro,Tahm Kench,False,Side.blue,2,9,11,1.4444444444444444,51,Flash,Exhaust,11,False,7651,7100,Boots of Swiftness,Redemption,Face of the Mountain,Ruby Sightstone,,Control Ward,13813,6985,Lane.bot_lane,Role.duo
+1,MongolWarrior,Twitch,False,Side.blue,8,8,4,1.5,131,Heal,Flash,12,False,9346,9050,Berserker's Greaves,Blade of the Ruined King,Runaan's Hurricane,Doran's Blade,B. F. Sword,,78,61420,Lane.bot_lane,Role.duo
+2,rekaf nesgrejb,Syndra,False,Side.blue,7,7,7,2.0,120,Flash,Ignite,13,False,9361,9225,Needlessly Large Rod,Abyssal Scepter,Sorcerer's Shoes,Doran's Ring,,Morellonomicon,70961,9292,Lane.mid_lane,Role.solo
+3,popgoestheglock,Rammus,False,Side.blue,3,5,10,2.6,119,Smite,Flash,12,False,8648,7975,Enchantment: Cinderhulk,Refillable Potion,Thornmail,Mercury's Treads,Spectre's Cowl,Ruby Crystal,51436,28528,Lane.jungle,Role.none
+4,TheNuocMam,Nautilus,False,Side.blue,1,11,0,0.09090909090909091,186,Ignite,Flash,13,False,8933,7883,Corrupting Potion,Trinity Force,Ninja Tabi,Phantom Dancer,,,41908,45880,Lane.top_lane,Role.solo
+5,Madlifes Baby,Lulu,True,Side.red,2,4,23,6.25,23,Exhaust,Flash,13,False,10463,8435,Redemption,Locket of the Iron Solari,Eye of the Watchers,Boots of Speed,Amplifying Tome,Forbidden Idol,21533,5597,Lane.bot_lane,Role.support
+6,Dr Saline PhD,Ryze,True,Side.red,12,5,4,3.2,148,Ghost,Flash,15,False,12470,10600,Rod of Ages,Mercury's Treads,Abyssal Scepter,Cloth Armor,The Dark Seal,Seraph's Embrace,136300,8117,Lane.mid_lane,Role.solo
+7,Cotopaco Parce,Ezreal,True,Side.red,10,4,12,5.5,198,Heal,Flash,15,True,12862,9400,Doran's Blade,Muramana,Ionian Boots of Lucidity,Hexdrinker,Caulfield's Warhammer,Iceborn Gauntlet,27710,118535,Lane.bot_lane,Role.carry
+8,4911,Lee Sin,True,Side.red,5,6,10,2.5,72,Smite,Flash,13,False,10283,9150,Mercury's Treads,Refillable Potion,Enchantment: Warrior,Spirit Visage,Caulfield's Warhammer,Hexdrinker,12450,74778,Lane.jungle,Role.none
+9,Waifu Killer,Trundle,True,Side.red,11,2,13,12.0,187,Teleport,Flash,16,False,13592,9650,Ravenous Hydra,Corrupting Potion,Iceborn Gauntlet,Mercury's Treads,Spectre's Cowl,Control Ward,6320,112531,Lane.top_lane,Role.solo

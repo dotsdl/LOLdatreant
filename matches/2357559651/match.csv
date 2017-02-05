@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nwok,Alistar,True,Side.blue,0,0,0,0.0,3,Flash,Exhaust,2,False,735,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,451,329,Lane.bot_lane,Role.duo
+1,NorthQuab,Yasuo,True,Side.blue,0,0,0,0.0,18,Flash,Teleport,3,False,1014,500,Doran's Blade,Health Potion,,,,,1861,2919,Lane.top_lane,Role.solo
+2,z11  ,Lee Sin,True,Side.blue,0,0,0,0.0,7,Flash,Smite,3,False,1109,500,Hunter's Machete,Refillable Potion,,,,,133,7088,Lane.jungle,Role.none
+3,Xycik,Ezreal,True,Side.blue,0,0,0,0.0,10,Heal,Flash,2,False,847,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,50,1780,Lane.bot_lane,Role.duo
+4,Azed,Cassiopeia,True,Side.blue,0,0,0,0.0,16,Flash,Ghost,3,False,971,500,Doran's Ring,Health Potion,,,,,1907,915,Lane.mid_lane,Role.solo
+5,ZTG SolidSnake,Kha'Zix,False,Side.red,0,0,0,0.0,0,Flash,Smite,1,False,653,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+6,rushnguy,Thresh,False,Side.red,0,0,0,0.0,1,Flash,Exhaust,2,False,687,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,347,104,Lane.bot_lane,Role.duo
+7,Zynogre,Caitlyn,False,Side.red,0,0,0,0.0,14,Heal,Flash,2,False,940,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,75,2068,Lane.bot_lane,Role.duo
+8,yoko,Kog'Maw,False,Side.red,0,0,0,0.0,10,Flash,Ghost,2,False,841,625,Total Biscuit of Rejuvenation,Doran's Ring,Faerie Charm,,,,960,889,Lane.mid_lane,Role.duo
+9,Vultix,Ekko,False,Side.red,0,0,0,0.0,8,Flash,Teleport,3,False,807,500,Doran's Ring,,,,,,2054,905,Lane.top_lane,Role.solo

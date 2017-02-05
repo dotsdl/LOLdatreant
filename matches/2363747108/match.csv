@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Champion Mage,Kayle,True,Side.blue,2,0,10,12.0,133,Smite,Flash,13,False,9745,8510,Fiendish Codex,Berserker's Greaves,Nashor's Tooth,Enchantment: Bloodrazor,Amplifying Tome,Cloth Armor,64674,63744,Lane.jungle,Role.none
+1,Pwsjas,LeBlanc,True,Side.blue,6,0,3,9.0,155,Flash,Teleport,12,False,9484,9050,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Doran's Ring,Needlessly Large Rod,,70258,13147,Lane.mid_lane,Role.solo
+2,Aisonu,Poppy,True,Side.blue,7,2,2,4.5,159,Flash,Teleport,13,True,10099,9475,Sunfire Cape,Corrupting Potion,Iceborn Gauntlet,Boots of Swiftness,Guardian Angel,,31400,59607,Lane.top_lane,Role.solo
+3,Philolol,Thresh,True,Side.blue,1,1,10,11.0,8,Exhaust,Flash,11,False,7193,6800,Nomad's Medallion,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Redemption,Kindlegem,Ruby Sightstone,9137,4707,Lane.bot_lane,Role.support
+4,Ysuri,Tristana,True,Side.blue,6,1,5,11.0,173,Flash,Heal,12,False,9956,9600,Doran's Blade,Infinity Edge,Boots of Speed,Runaan's Hurricane,Phantom Dancer,,18466,84361,Lane.bot_lane,Role.carry
+5,Asdadarf,Nasus,False,Side.red,0,6,0,0.0,118,Teleport,Flash,11,False,6088,5710,Zz'Rot Portal,Glacial Shroud,Boots of Swiftness,Ruby Crystal,,,20210,25985,Lane.top_lane,Role.solo
+6,Penquynh,Janna,False,Side.red,0,3,4,1.3333333333333333,4,Flash,Exhaust,10,False,4885,4525,Redemption,Sightstone,Control Ward,Boots of Speed,Frostfang,Total Biscuit of Rejuvenation,5210,4364,Lane.bot_lane,Role.support
+7,OoR4s3Ng4N4rUtOo,Vayne,False,Side.red,4,4,0,1.0,108,Flash,Heal,10,False,6599,5575,Doran's Blade,B. F. Sword,Cull,Berserker's Greaves,Pickaxe,Zeal,0,39103,Lane.bot_lane,Role.carry
+8,Asc Intercourse,Cassiopeia,False,Side.red,0,4,2,0.5,165,Flash,Ghost,12,False,6571,5200,Giant's Belt,,,Abyssal Scepter,Tear of the Goddess,Doran's Ring,59643,9117,Lane.mid_lane,Role.solo
+9,EXflax,Jarvan IV,False,Side.red,0,5,1,0.2,96,Smite,Flash,11,False,5888,5575,Enchantment: Warrior,Mercury's Treads,Tiamat,Ruby Crystal,,,7135,74686,Lane.jungle,Role.none

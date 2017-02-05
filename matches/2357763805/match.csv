@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FourofDiamonds,Shaco,True,Side.blue,10,4,9,4.75,75,Smite,Ignite,12,False,10637,8700,Tiamat,Hextech Gunblade,Enchantment: Runic Echoes,Sapphire Crystal,Ionian Boots of Lucidity,,31462,60826,Lane.jungle,Role.none
+1,TF x Nightmare,Orianna,True,Side.blue,5,3,12,5.666666666666667,165,Flash,Ghost,13,False,10427,8725,Doran's Ring,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,94584,11554,Lane.jungle,Role.none
+2,Dicey,Ezreal,True,Side.blue,10,4,12,5.5,124,Heal,Flash,12,False,11324,9100,Bilgewater Cutlass,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,Recurve Bow,15551,81741,Lane.bot_lane,Role.carry
+3,Puhb,Karma,True,Side.blue,4,1,23,27.0,19,Flash,Exhaust,11,False,9428,7375,,Aether Wisp,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,Redemption,10311,7466,Lane.bot_lane,Role.support
+4,RiddlerShen,Shen,True,Side.blue,8,3,18,8.666666666666666,119,Flash,Teleport,13,False,10658,9200,Thornmail,Redemption,Ninja Tabi,Sunfire Cape,,,53624,26153,Lane.jungle,Role.none
+5,0wnedbychris,Leona,False,Side.red,2,7,7,1.2857142857142858,24,Exhaust,Flash,9,False,6768,5975,,Eye of the Equinox,Locket of the Iron Solari,Control Ward,,Mercury's Treads,4984,4804,Lane.bot_lane,Role.solo
+6,Javiaero,Fiora,False,Side.red,4,5,2,1.2,164,Flash,Teleport,13,False,9116,8725,Ravenous Hydra,Doran's Blade,The Black Cleaver,Mercury's Treads,Null-Magic Mantle,,1284,97604,Lane.top_lane,Role.solo
+7,waçk,Vi,False,Side.red,1,8,3,0.5,61,Smite,Flash,11,False,6579,6450,Enchantment: Warrior,Phage,Refillable Potion,Mercury's Treads,Caulfield's Warhammer,,2054,62605,Lane.jungle,Role.none
+8,BigCakes,Xerath,False,Side.red,3,8,5,1.0,127,Teleport,Flash,12,False,7659,7575,Doran's Ring,Doran's Ring,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Aether Wisp,73027,4636,Lane.jungle,Role.none
+9,Xenoncas,Kalista,False,Side.red,5,10,2,0.7,146,Heal,Flash,11,True,8968,8785,Null-Magic Mantle,,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,1046,69794,Lane.jungle,Role.none

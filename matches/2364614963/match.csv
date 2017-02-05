@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Clarizio,Alistar,True,Side.blue,0,7,17,2.4285714285714284,21,Flash,Exhaust,12,False,7857,6375,Relic Shield,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Control Ward,,9852,4906,Lane.bot_lane,Role.support
+1,ADC Prospect,Vayne,True,Side.blue,12,3,6,6.0,175,Heal,Flash,14,True,13033,9200,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,Zeal,,21403,97107,Lane.bot_lane,Role.carry
+2,Lesu,Sejuani,True,Side.blue,3,8,10,1.625,101,Smite,Flash,13,False,9586,7850,Enchantment: Cinderhulk,Refillable Potion,Dead Man's Plate,Mercury's Treads,Ruby Crystal,Null-Magic Mantle,69733,23945,Lane.jungle,Role.none
+3,PieCakeLord,Irelia,True,Side.blue,10,4,11,5.25,186,Teleport,Flash,15,False,13138,10783,Randuin's Omen,Corrupting Potion,Mercury's Treads,Trinity Force,Hexdrinker,Caulfield's Warhammer,6076,88299,Lane.top_lane,Role.solo
+4,Dziarmaga,Ryze,True,Side.blue,2,2,11,6.5,207,Flash,Cleanse,15,False,10840,7825,Tear of the Goddess,Refillable Potion,Rod of Ages,Morellonomicon,Mercury's Treads,,142564,12810,Lane.mid_lane,Role.solo
+5,JayJ,Janna,False,Side.red,3,5,14,3.4,11,Exhaust,Flash,11,False,8301,7625,Redemption,Boots of Mobility,Ruby Sightstone,Control Ward,Ancient Coin,Mikael's Crucible,4260,7490,Lane.bot_lane,Role.support
+6,Gaow Gaiy,Jax,False,Side.red,10,7,6,2.2857142857142856,149,Flash,Teleport,13,False,11284,10308,Corrupting Potion,Frozen Mallet,Trinity Force,Ninja Tabi,Chain Vest,Giant's Belt,23673,71747,Lane.top_lane,Role.solo
+7,Erry,Jhin,False,Side.red,5,5,8,2.6,162,Heal,Flash,12,False,10957,9575,Total Biscuit of Rejuvenation,Rapid Firecannon,Zeal,Boots of Swiftness,Essence Reaver,Doran's Blade,7276,102516,Lane.bot_lane,Role.carry
+8,YummiBananas,Ivern,False,Side.red,3,6,12,2.5,89,Smite,Flash,13,False,9696,8600,Redemption,Forbidden Idol,Locket of the Iron Solari,Athene's Unholy Grail,Hunter's Talisman,Ionian Boots of Lucidity,23963,9182,Lane.jungle,Role.none
+9,jhEEsh,Orianna,False,Side.red,3,4,5,2.0,188,Flash,Ghost,13,False,10212,9800,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Blasting Wand,Sorcerer's Shoes,,98688,15470,Lane.mid_lane,Role.solo

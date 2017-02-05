@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RockyTSaws,Lee Sin,False,Side.blue,5,6,4,1.5,88,Smite,Flash,12,False,7825,6850,Refillable Potion,Tiamat,Enchantment: Warrior,Mercury's Treads,Giant's Belt,,12391,62815,Lane.jungle,Role.none
+1,Distasteful,Varus,False,Side.blue,1,6,2,0.5,141,Flash,Heal,10,False,6945,6450,Doran's Blade,Essence Reaver,Zeal,Boots of Speed,Kircheis Shard,,5553,70952,Lane.bot_lane,Role.carry
+2,Carkyn,Fiora,False,Side.blue,3,4,4,1.75,123,Flash,Teleport,12,False,7406,7050,Doran's Blade,Ninja Tabi,Ravenous Hydra,Caulfield's Warhammer,Ruby Crystal,Long Sword,892,65829,Lane.top_lane,Role.solo
+3,Hungry Sama,Taric,False,Side.blue,0,5,5,1.0,31,Flash,Exhaust,10,False,5263,4525,Sightstone,Iceborn Gauntlet,Relic Shield,Boots of Speed,,,5068,8171,Lane.bot_lane,Role.support
+4,iKryptix,Katarina,False,Side.blue,1,8,4,0.625,109,Flash,Ignite,11,False,6302,5635,Doran's Shield,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,,,56637,5246,Lane.mid_lane,Role.solo
+5,Tzaphkiel,LeBlanc,True,Side.red,9,2,3,6.0,143,Ignite,Flash,13,False,10233,9900,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,83782,15615,Lane.mid_lane,Role.solo
+6,Empress Bee,Janna,True,Side.red,1,1,13,14.0,9,Exhaust,Flash,10,False,7303,6200,Frostfang,Redemption,Sightstone,Boots of Swiftness,Control Ward,Aegis of the Legion,4738,6671,Lane.bot_lane,Role.support
+7,IA55A55INI,Kled,True,Side.red,2,4,3,1.25,142,Flash,Teleport,12,True,8765,6050,Refillable Potion,Titanic Hydra,Doran's Shield,Phage,Long Sword,Boots of Speed,0,82207,Lane.jungle,Role.none
+8,TechSheep,Jinx,True,Side.red,7,2,4,5.5,129,Flash,Heal,11,False,9270,9150,Doran's Blade,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,Zeal,,193,77461,Lane.bot_lane,Role.carry
+9,Darvec,Hecarim,True,Side.red,10,1,3,13.0,94,Smite,Ghost,12,False,9846,9433,Stalker's Blade,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,Dead Man's Plate,,11592,84091,Lane.jungle,Role.none

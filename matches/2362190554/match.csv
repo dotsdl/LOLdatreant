@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ACuteKoreanGirI,Yasuo,False,Side.blue,3,8,2,0.625,194,Exhaust,Flash,14,False,9121,9100,Infinity Edge,Long Sword,,Phantom Dancer,Ninja Tabi,Ruby Crystal,22038,103488,Lane.top_lane,Role.solo
+1,Sexually Active,Karma,False,Side.blue,0,5,4,0.8,17,Exhaust,Flash,11,False,6512,6150,Refillable Potion,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,,17800,4428,Lane.bot_lane,Role.support
+2,Slush,Vayne,False,Side.blue,2,7,2,0.5714285714285714,188,Flash,Heal,12,False,9352,8925,Kircheis Shard,Control Ward,Berserker's Greaves,Phantom Dancer,Doran's Blade,Infinity Edge,109,84810,Lane.bot_lane,Role.carry
+3,Grell Carry U,Poppy,False,Side.blue,6,4,5,2.75,112,Flash,Smite,13,False,9224,8175,Enchantment: Cinderhulk,Refillable Potion,Boots of Swiftness,Dead Man's Plate,Phage,Sapphire Crystal,23197,77467,Lane.jungle,Role.none
+4,Nash,Lux,False,Side.blue,7,5,5,2.4,219,Ghost,Flash,14,False,11158,10850,Rabadon's Deathcap,Mejai's Soulstealer,Morellonomicon,Aether Wisp,,Ionian Boots of Lucidity,126651,11911,Lane.mid_lane,Role.solo
+5,Cant Kilean ,Zilean,True,Side.red,2,2,12,7.0,18,Exhaust,Flash,14,False,9537,7625,Locket of the Iron Solari,Redemption,Ionian Boots of Lucidity,Eye of the Oasis,Cloth Armor,,3458,4775,Lane.bot_lane,Role.support
+6,Call Me Mr Han,Jhin,True,Side.red,4,5,8,2.4,184,Heal,Flash,13,False,11746,11780,Quicksilver Sash,B. F. Sword,Cloak of Agility,Boots of Swiftness,Essence Reaver,Rapid Firecannon,2712,121597,Lane.bot_lane,Role.carry
+7,eRx,Kassadin,True,Side.red,7,3,6,4.333333333333333,125,Ignite,Flash,14,False,11240,10910,Rod of Ages,Lich Bane,The Dark Seal,Abyssal Scepter,Amplifying Tome,Ionian Boots of Lucidity,53865,18834,Lane.mid_lane,Role.solo
+8,Cya IN THE BUSH,Lee Sin,True,Side.red,5,5,7,2.4,90,Smite,Flash,13,False,10367,9275,Mercury's Treads,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Hexdrinker,Giant's Belt,20412,84514,Lane.jungle,Role.none
+9,foggedftw2,Tryndamere,True,Side.red,11,3,1,4.0,294,Ignite,Flash,18,True,16337,13750,Infinity Edge,Blade of the Ruined King,Statikk Shiv,The Black Cleaver,Ionian Boots of Lucidity,,53517,212731,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MadLyfe,Rammus,False,Side.blue,3,5,8,2.2,130,Teleport,Flash,14,False,9814,9900,Locket of the Iron Solari,Randuin's Omen,Control Ward,Ninja Tabi,Sunfire Cape,,51935,21417,Lane.jungle,Role.none
+1,Vantar,Vayne,False,Side.blue,12,6,4,2.6666666666666665,209,Flash,Heal,15,False,13842,13950,Infinity Edge,Bilgewater Cutlass,Phantom Dancer,Berserker's Greaves,Statikk Shiv,Recurve Bow,33120,102936,Lane.bot_lane,Role.carry
+2,Zeg Prime,Sejuani,False,Side.blue,3,7,7,1.4285714285714286,162,Smite,Flash,14,False,9826,9625,Refillable Potion,Randuin's Omen,Ninja Tabi,Enchantment: Cinderhulk,Frozen Heart,,85360,30765,Lane.jungle,Role.none
+3,Skymark,Viktor,False,Side.blue,5,13,6,0.8461538461538461,192,Flash,Barrier,15,False,10696,10050,Perfect Hex Core,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Sheen,Aether Wisp,Doran's Ring,123739,8730,Lane.mid_lane,Role.solo
+4,SmoKeMoNKeY93,Janna,False,Side.blue,1,6,11,2.0,20,Exhaust,Flash,13,False,8173,7250,Talisman of Ascension,Locket of the Iron Solari,Crystalline Bracer,Control Ward,Ionian Boots of Lucidity,Sightstone,6909,5557,Lane.bot_lane,Role.support
+5,aePheva,Katarina,True,Side.red,16,7,7,3.2857142857142856,235,Ignite,Flash,17,False,17198,15875,Sorcerer's Shoes,Hextech Gunblade,Zhonya's Hourglass,Rylai's Crystal Scepter,Void Staff,Blasting Wand,171613,26206,Lane.mid_lane,Role.solo
+6,Tomoebi,Yasuo,True,Side.red,1,5,7,1.6,226,Flash,Teleport,15,False,12215,11675,Infinity Edge,Doran's Blade,Phantom Dancer,The Bloodthirster,,Mercury's Treads,17544,118105,Lane.top_lane,Role.solo
+7,coblsobr,Jhin,True,Side.red,3,4,16,4.75,199,Flash,Heal,15,False,12770,11625,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Infinity Edge,,7439,129851,Lane.bot_lane,Role.carry
+8,Sìyou,Thresh,True,Side.red,3,5,22,5.0,21,Flash,Ignite,15,False,10694,8325,Control Ward,Eye of the Equinox,Redemption,Locket of the Iron Solari,Boots of Mobility,,11632,3687,Lane.bot_lane,Role.support
+9,adc feng lft,Lee Sin,True,Side.red,14,4,8,5.5,180,Smite,Flash,17,True,16804,13700,Ravenous Hydra,Edge of Night,Chain Vest,Boots of Mobility,Enchantment: Warrior,Dead Man's Plate,39014,166862,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vincent Mark,Ezreal,False,Side.blue,5,5,4,1.8,166,Flash,Heal,12,False,9473,9350,Bilgewater Cutlass,Recurve Bow,Iceborn Gauntlet,Doran's Blade,Muramana,Ionian Boots of Lucidity,13396,75265,Lane.bot_lane,Role.carry
+1,1936 1948,Blitzcrank,False,Side.blue,3,5,10,2.6,24,Ignite,Flash,11,False,7536,6375,Relic Shield,Kindlegem,Ruby Sightstone,Control Ward,Redemption,Boots of Mobility,4760,6054,Lane.bot_lane,Role.support
+2,Liquid Yusan,Elise,False,Side.blue,4,5,6,2.0,132,Flash,Smite,13,False,9090,8400,Boots of Mobility,Hextech Protobelt-01,Refillable Potion,Giant's Belt,Enchantment: Runic Echoes,Warden's Mail,78841,26560,Lane.jungle,Role.none
+3,RF Legendary,Shyvana,False,Side.blue,2,7,3,0.7142857142857143,214,Flash,Teleport,14,False,9314,8900,Titanic Hydra,Bilgewater Cutlass,Recurve Bow,Ninja Tabi,Giant's Belt,Doran's Blade,59200,63737,Lane.top_lane,Role.solo
+4,DeaIer29,Cassiopeia,False,Side.blue,3,6,3,1.0,171,Ghost,Flash,13,False,9277,8010,Doran's Ring,Tear of the Goddess,Morellonomicon,Health Potion,Rylai's Crystal Scepter,Amplifying Tome,83347,8683,Lane.mid_lane,Role.solo
+5,Quad Main,Irelia,True,Side.red,2,3,9,3.6666666666666665,172,Flash,Teleport,14,False,10335,8683,Corrupting Potion,,,Dead Man's Plate,Trinity Force,Mercury's Treads,2964,72282,Lane.top_lane,Role.solo
+6,Liquid Painless,Karma,True,Side.red,5,1,11,16.0,201,Flash,Ghost,15,False,11519,9400,Doran's Ring,Athene's Unholy Grail,Ionian Boots of Lucidity,Ardent Censer,,Luden's Echo,101154,19020,Lane.mid_lane,Role.solo
+7,CloudNguyén,Lee Sin,True,Side.red,7,4,12,4.75,138,Smite,Flash,14,False,12052,9945,Enchantment: Warrior,Tiamat,Chain Vest,Maw of Malmortius,Boots of Swiftness,Negatron Cloak,22126,126143,Lane.jungle,Role.none
+8,C9 Lemon,Lulu,True,Side.red,0,4,17,4.25,14,Ignite,Flash,12,False,8617,6750,Boots of Mobility,Refillable Potion,Locket of the Iron Solari,Eye of the Watchers,Crystalline Bracer,Faerie Charm,17439,7357,Lane.bot_lane,Role.support
+9,IIIlIIIlIIIllI,Vayne,True,Side.red,14,5,4,3.6,266,Flash,Heal,16,True,16015,13425,Hexdrinker,Infinity Edge,Mercurial Scimitar,Berserker's Greaves,Statikk Shiv,,57938,146769,Lane.bot_lane,Role.carry

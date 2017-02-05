@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Malya EUW ,Ryze,True,Side.blue,6,4,6,3.0,202,Flash,Ghost,15,False,11532,10585,Rylai's Crystal Scepter,Rod of Ages,Archangel's Staff,Ionian Boots of Lucidity,Amplifying Tome,,123080,11360,Lane.mid_lane,Role.solo
+1,camtheham,Karma,True,Side.blue,2,1,17,19.0,20,Exhaust,Flash,12,True,9017,8025,Eye of the Watchers,Control Ward,Redemption,Boots of Mobility,Ardent Censer,,14446,6232,Lane.bot_lane,Role.support
+2,WINNER Jinwoo,Draven,True,Side.blue,14,1,6,20.0,196,Heal,Flash,14,False,15346,13900,Blade of the Ruined King,B. F. Sword,Infinity Edge,Cloak of Agility,Berserker's Greaves,Rapid Firecannon,2222,168060,Lane.bot_lane,Role.carry
+3,KoreaBread,Jayce,True,Side.blue,7,3,1,2.6666666666666665,141,Flash,Teleport,14,False,10056,9475,The Black Cleaver,Refillable Potion,Lord Dominik's Regards,Hexdrinker,Ionian Boots of Lucidity,Caulfield's Warhammer,10616,88093,Lane.top_lane,Role.solo
+4,Nykolas,Zac,True,Side.blue,3,1,11,14.0,86,Smite,Flash,13,False,9115,8550,Enchantment: Cinderhulk,Giant's Belt,Ionian Boots of Lucidity,Spirit Visage,,Warden's Mail,64204,16985,Lane.jungle,Role.none
+5,TUCANA DOGANA,Ezreal,False,Side.red,4,3,2,2.0,149,Heal,Flash,12,False,8536,7750,Doran's Blade,Muramana,Iceborn Gauntlet,Long Sword,Ionian Boots of Lucidity,Long Sword,11963,65184,Lane.bot_lane,Role.carry
+6,KarasMai,Graves,False,Side.red,4,7,4,1.1428571428571428,179,Flash,Smite,14,False,10011,9825,Enchantment: Warrior,Maw of Malmortius,Mercury's Treads,Phantom Dancer,,,4711,143693,Lane.jungle,Role.none
+7,RumbleMidGGnoRE,Rumble,False,Side.red,2,7,1,0.42857142857142855,154,Ignite,Flash,13,False,7712,6950,Hextech Protobelt-01,Doran's Shield,Sorcerer's Shoes,Haunting Guise,Blasting Wand,,72779,7405,Lane.mid_lane,Role.solo
+8,Peridot,Ekko,False,Side.red,0,6,2,0.3333333333333333,170,Teleport,Flash,12,False,7492,6975,Doran's Ring,Glacial Shroud,Doran's Ring,Ninja Tabi,Rod of Ages,Sheen,81499,13014,Lane.top_lane,Role.solo
+9,BaconSeeker,Brand,False,Side.red,0,9,3,0.3333333333333333,14,Ignite,Flash,10,False,5769,5285,Amplifying Tome,Eye of the Watchers,Sorcerer's Shoes,Control Ward,Refillable Potion,Giant's Belt,22234,3349,Lane.bot_lane,Role.support

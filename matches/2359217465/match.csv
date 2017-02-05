@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Coldshroom,Singed,False,Side.blue,0,4,0,0.0,1,Ignite,Cleanse,2,False,1347,0,,,,,,,185,592,Lane.mid_lane,Role.solo
+1,dfist,Sivir,False,Side.blue,0,0,0,0.0,1,Flash,Heal,2,False,1347,800,Doran's Blade,Boots of Speed,Total Biscuit of Rejuvenation,,,,0,703,Lane.jungle,Role.none
+2,ZTG SolidSnake,Olaf,False,Side.blue,1,0,0,1.0,1,Ghost,Smite,2,False,1727,500,Hunter's Talisman,Refillable Potion,,,,,71,1017,Lane.jungle,Role.none
+3,TheBolvar,Poppy,False,Side.blue,0,1,0,0.0,0,Flash,Teleport,1,False,1347,500,Corrupting Potion,,,,,,67,1311,Lane.top_lane,Role.solo
+4,Fàkèr  ,Twisted Fate,False,Side.blue,0,0,0,0.0,0,Ghost,Flash,1,False,1327,1300,Ruby Crystal,Ruby Crystal,,,,,0,0,Lane.jungle,Role.none
+5,Cya IN THE BUSH,Graves,True,Side.red,1,0,1,2.0,40,Smite,Flash,6,False,3373,1800,Zeal,Refillable Potion,Hunter's Machete,,,,1088,26650,Lane.mid_lane,Role.none
+6,MyTeamSoGOD,Blitzcrank,True,Side.red,0,0,3,3.0,2,Flash,Ignite,4,False,2716,1900,Nomad's Medallion,Refillable Potion,Boots of Mobility,,,,59,7038,Lane.mid_lane,Role.none
+7,Firé,Jayce,True,Side.red,1,0,3,4.0,22,Teleport,Flash,4,False,2848,3360,,,Dagger,Boots of Mobility,Dagger,Dagger,547,11016,Lane.mid_lane,Role.none
+8,Rahman Noodles,Ezreal,True,Side.red,0,0,2,2.0,40,Heal,Flash,5,False,2796,1900,Doran's Blade,,Long Sword,Long Sword,Long Sword,Long Sword,107,19057,Lane.jungle,Role.none
+9,datvu deformed,Lux,True,Side.red,3,2,0,1.5,30,Ghost,Flash,5,True,3448,2200,Doran's Ring,Doran's Ring,Total Biscuit of Rejuvenation,Zeal,,,12849,7947,Lane.mid_lane,Role.none

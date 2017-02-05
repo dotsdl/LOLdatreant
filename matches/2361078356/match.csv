@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LucifeDiven,Renekton,False,Side.blue,9,8,7,2.0,213,Flash,Teleport,15,False,13149,12550,Titanic Hydra,The Black Cleaver,Death's Dance,Ninja Tabi,Long Sword,Doran's Blade,5899,153400,Lane.top_lane,Role.solo
+1,MorningBaconBits,Soraka,False,Side.blue,1,9,24,2.7777777777777777,10,Flash,Exhaust,13,False,10081,8575,Mikael's Crucible,Total Biscuit of Rejuvenation,Aegis of the Legion,Eye of the Watchers,Ionian Boots of Lucidity,The Dark Seal,9255,2997,Lane.bot_lane,Role.support
+2,Enrique4pe,Twitch,False,Side.blue,9,7,13,3.142857142857143,160,Flash,Heal,14,True,12424,11775,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,B. F. Sword,0,103020,Lane.bot_lane,Role.carry
+3,am sol,LeBlanc,False,Side.blue,13,9,9,2.4444444444444446,158,Ignite,Flash,15,False,13181,11875,Abyssal Scepter,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Blasting Wand,102107,12372,Lane.mid_lane,Role.solo
+4,Shamoo,Amumu,False,Side.blue,4,8,8,1.5,136,Flash,Smite,14,False,11407,11175,Mercury's Treads,Enchantment: Runic Echoes,Sunfire Cape,Abyssal Scepter,Spectre's Cowl,Null-Magic Mantle,104254,21829,Lane.jungle,Role.none
+5,JeezyTheSnowMan,Morgana,True,Side.red,0,11,21,1.9090909090909092,13,Ignite,Flash,13,False,9725,9625,Frost Queen's Claim,Sightstone,Redemption,Locket of the Iron Solari,Boots of Mobility,Fiendish Codex,17520,4314,Lane.bot_lane,Role.support
+6,Arane,Vayne,True,Side.red,7,10,16,2.3,153,Heal,Flash,15,False,13247,11800,Berserker's Greaves,Dagger,Infinity Edge,Zeal,Statikk Shiv,Hexdrinker,19075,97450,Lane.bot_lane,Role.carry
+7,Carpe Dio,Zac,True,Side.red,2,4,25,6.75,146,Flash,Smite,16,False,12279,10125,Enchantment: Cinderhulk,Spirit Visage,Ruby Crystal,Mercury's Treads,Dead Man's Plate,,100672,18697,Lane.jungle,Role.none
+8,Modx,Riven,True,Side.red,13,5,8,4.2,205,Flash,Teleport,16,False,15720,14550,Death's Dance,Ravenous Hydra,Guardian Angel,Mercury's Treads,The Black Cleaver,,0,163368,Lane.top_lane,Role.solo
+9,Pirean,Cassiopeia,True,Side.red,19,6,11,5.0,175,Ghost,Flash,16,False,16334,16350,Zhonya's Hourglass,Seraph's Embrace,Luden's Echo,Morellonomicon,Rylai's Crystal Scepter,,118199,8339,Lane.mid_lane,Role.solo

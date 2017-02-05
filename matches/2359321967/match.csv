@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tower of God,Riven,False,Side.blue,5,8,2,0.875,196,Flash,Teleport,14,False,9623,9270,,Long Sword,Ravenous Hydra,Ionian Boots of Lucidity,,The Black Cleaver,0,106695,Lane.top_lane,Role.solo
+1,damightywolf,Miss Fortune,False,Side.blue,7,6,4,1.8333333333333333,180,Heal,Flash,13,False,10686,10905,Berserker's Greaves,Youmuu's Ghostblade,Duskblade of Draktharr,Vampiric Scepter,Giant Slayer,Pickaxe,3035,84738,Lane.bot_lane,Role.carry
+2,Kandiscrub,Vi,False,Side.blue,4,8,3,0.875,103,Smite,Flash,13,False,8339,8225,Enchantment: Warrior,Phage,Ninja Tabi,Banshee's Veil,Cloth Armor,Cloth Armor,1481,85447,Lane.jungle,Role.none
+3,Sourpatchkids,Blitzcrank,False,Side.blue,2,8,8,1.25,26,Flash,Ignite,11,True,7032,6450,,,Locket of the Iron Solari,Sightstone,Boots of Mobility,Face of the Mountain,10120,5746,Lane.bot_lane,Role.support
+4,bvcx222,Malzahar,False,Side.blue,3,9,7,1.1111111111111112,132,Flash,Ghost,13,False,8315,8070,Abyssal Scepter,Morellonomicon,Amplifying Tome,,Doran's Ring,Sorcerer's Shoes,63408,19114,Lane.mid_lane,Role.solo
+5,Command Attack,Orianna,True,Side.red,13,5,9,4.4,204,Ghost,Flash,16,False,14544,13200,Rabadon's Deathcap,Zhonya's Hourglass,Morellonomicon,Blasting Wand,Doran's Ring,Sorcerer's Shoes,134283,17752,Lane.mid_lane,Role.solo
+6,Rekyn,Swain,True,Side.red,8,4,11,4.75,132,Flash,Teleport,15,False,11603,10475,Zhonya's Hourglass,Rod of Ages,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,,62322,13541,Lane.top_lane,Role.solo
+7,Sn4cky,Bard,True,Side.red,0,3,21,7.0,16,Flash,Exhaust,13,False,8664,7975,Redemption,Locket of the Iron Solari,Ruby Sightstone,Frostfang,,Boots of Mobility,12287,5374,Lane.bot_lane,Role.support
+8,xSojin,Shyvana,True,Side.red,12,2,10,11.0,189,Smite,Ghost,16,False,15070,11783,Mercury's Treads,Refillable Potion,Enchantment: Bloodrazor,Trinity Force,Dead Man's Plate,Spectre's Cowl,97578,99614,Lane.jungle,Role.none
+9,J D,Vayne,True,Side.red,6,7,6,1.7142857142857142,158,Heal,Flash,14,False,11587,11250,Long Sword,Doran's Blade,Phantom Dancer,Infinity Edge,Statikk Shiv,Berserker's Greaves,19188,71515,Lane.bot_lane,Role.carry

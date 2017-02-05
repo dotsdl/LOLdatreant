@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cant Kilean ,Zilean,False,Side.blue,2,5,4,1.2,146,Exhaust,Flash,13,False,7569,7225,Rod of Ages,Abyssal Scepter,Sorcerer's Shoes,,Doran's Ring,,67903,8388,Lane.mid_lane,Role.solo
+1,FirstTimeCaitlyn,Caitlyn,False,Side.blue,8,7,1,1.2857142857142858,188,Heal,Flash,12,False,10781,9700,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,,1124,108821,Lane.bot_lane,Role.carry
+2,KarnoffeL,Jarvan IV,False,Side.blue,1,7,8,1.2857142857142858,103,Teleport,Flash,12,False,7053,6500,Sunfire Cape,Spectre's Cowl,Ninja Tabi,Kindlegem,,,19728,32298,Lane.top_lane,Role.solo
+3,D18 Highsmith,Leona,False,Side.blue,0,6,6,1.0,51,Ignite,Flash,10,False,6728,6475,Zz'Rot Portal,Null-Magic Mantle,Boots of Speed,Face of the Mountain,Null-Magic Mantle,Cloth Armor,7425,7636,Lane.bot_lane,Role.support
+4,KT Score,Lee Sin,False,Side.blue,6,4,5,2.75,156,Smite,Flash,14,True,10019,9575,Tiamat,Enchantment: Warrior,Randuin's Omen,Spectre's Cowl,Null-Magic Mantle,Boots of Swiftness,14806,105307,Lane.jungle,Role.none
+5,Anthøny,Kha'Zix,True,Side.red,6,4,8,3.5,130,Smite,Flash,14,False,11435,10150,Caulfield's Warhammer,Youmuu's Ghostblade,Ionian Boots of Lucidity,,Enchantment: Warrior,Guardian Angel,5060,129743,Lane.jungle,Role.none
+6,Hi im Thalies,Katarina,True,Side.red,11,5,5,3.2,157,Ignite,Flash,15,False,12319,11275,Rylai's Crystal Scepter,,The Dark Seal,Hextech Gunblade,Sorcerer's Shoes,Void Staff,98165,9726,Lane.mid_lane,Role.solo
+7,data88,Nasus,True,Side.red,5,1,6,11.0,210,Teleport,Flash,15,False,12702,10925,Iceborn Gauntlet,Zz'Rot Portal,Spirit Visage,Chain Vest,Ninja Tabi,Cloth Armor,31288,120943,Lane.top_lane,Role.solo
+8,Logicke,Alistar,True,Side.red,1,3,13,4.666666666666667,48,Flash,Exhaust,13,False,8862,7725,Face of the Mountain,Sightstone,Knight's Vow,Boots of Mobility,Forbidden Idol,Ruby Crystal,10718,7982,Lane.bot_lane,Role.support
+9,NiceTwig,Twitch,True,Side.red,6,4,11,4.25,140,Flash,Heal,13,False,11433,10975,Doran's Blade,,Berserker's Greaves,Infinity Edge,Phantom Dancer,Runaan's Hurricane,0,86933,Lane.bot_lane,Role.carry

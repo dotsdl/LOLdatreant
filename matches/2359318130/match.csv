@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tangerinezz,Thresh,True,Side.blue,5,3,21,8.666666666666666,32,Exhaust,Flash,14,False,10187,8925,Ruby Sightstone,Locket of the Iron Solari,Relic Shield,Boots of Mobility,Crystalline Bracer,Frozen Heart,14677,10699,Lane.bot_lane,Role.support
+1,Tangerinez,Karma,True,Side.blue,15,3,10,8.333333333333334,209,Flash,Teleport,16,False,15113,13575,Doran's Ring,Athene's Unholy Grail,Sorcerer's Shoes,Rabadon's Deathcap,Void Staff,Luden's Echo,128891,23909,Lane.jungle,Role.none
+2,Jhinathan ,Vayne,True,Side.blue,8,4,9,4.25,197,Heal,Flash,15,False,12420,10100,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Vampiric Scepter,B. F. Sword,25952,107924,Lane.bot_lane,Role.carry
+3,WatchThePower,Rengar,True,Side.blue,13,7,7,2.857142857142857,170,Flash,Smite,16,True,14163,12275,Enchantment: Warrior,Titanic Hydra,Death's Dance,Pickaxe,Ninja Tabi,Null-Magic Mantle,19140,171737,Lane.jungle,Role.none
+4,Dyr0nejk2,Renekton,True,Side.blue,2,8,13,1.875,200,Teleport,Flash,15,False,11873,9850,Titanic Hydra,The Black Cleaver,Ninja Tabi,Warden's Mail,Giant's Belt,,6208,128040,Lane.top_lane,Role.solo
+5,Breakbot,Sivir,False,Side.red,2,8,7,1.125,238,Heal,Flash,15,False,11538,10675,Doran's Blade,Statikk Shiv,Essence Reaver,Berserker's Greaves,Pickaxe,B. F. Sword,13646,133603,Lane.bot_lane,Role.carry
+6,WaterOcean,Lee Sin,False,Side.red,6,6,13,3.1666666666666665,119,Flash,Smite,16,False,10668,10225,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,Ninja Tabi,Spirit Visage,Long Sword,17330,82344,Lane.jungle,Role.none
+7,HaksaL,Irelia,False,Side.red,9,9,5,1.5555555555555556,182,Teleport,Flash,16,False,11821,11483,Spirit Visage,Youmuu's Ghostblade,Trinity Force,Ninja Tabi,Doran's Blade,,3834,91030,Lane.top_lane,Role.solo
+8,asianaffliter,LeBlanc,False,Side.red,8,8,2,1.25,178,Flash,Ignite,16,False,11260,10665,Rabadon's Deathcap,Sorcerer's Shoes,Morellonomicon,Negatron Cloak,Fiendish Codex,Amplifying Tome,85089,17480,Lane.mid_lane,Role.solo
+9,CaPnCaVeMaN07,Blitzcrank,False,Side.red,0,12,5,0.4166666666666667,36,Ignite,Flash,13,False,6878,6350,Warden's Mail,Face of the Mountain,Sightstone,Glacial Shroud,Boots of Mobility,,9625,8724,Lane.bot_lane,Role.support

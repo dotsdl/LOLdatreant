@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pwnerness,Jayce,False,Side.blue,8,6,2,1.6666666666666667,160,Teleport,Flash,13,False,10162,9625,Youmuu's Ghostblade,Ionian Boots of Lucidity,Duskblade of Draktharr,Last Whisper,Long Sword,,14696,80465,Lane.top_lane,Role.solo
+1,Its MitchyBoots,Lucian,False,Side.blue,3,4,2,1.25,182,Flash,Heal,12,False,8890,8300,Doran's Blade,Essence Reaver,Cull,Statikk Shiv,Berserker's Greaves,,10517,76348,Lane.bot_lane,Role.carry
+2,Toony,Janna,False,Side.blue,0,2,4,2.0,1,Exhaust,Flash,10,False,5435,5050,Forbidden Idol,The Dark Seal,Eye of the Oasis,Refillable Potion,Ionian Boots of Lucidity,Crystalline Bracer,2965,1015,Lane.bot_lane,Role.support
+3,N04H,Nidalee,False,Side.blue,4,8,5,1.125,81,Flash,Smite,12,True,8302,7605,Enchantment: Runic Echoes,Rod of Ages,Refillable Potion,Negatron Cloak,Fiendish Codex,Amplifying Tome,69172,11560,Lane.jungle,Role.none
+4,Slush,Yasuo,False,Side.blue,3,10,4,0.7,141,Flash,Exhaust,12,False,8061,11100,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,4257,74924,Lane.mid_lane,Role.solo
+5,Imentice,Zyra,True,Side.red,3,5,11,2.8,17,Exhaust,Flash,11,False,9301,8325,Frost Queen's Claim,Morellonomicon,Ionian Boots of Lucidity,Sightstone,Giant's Belt,Control Ward,30711,8043,Lane.bot_lane,Role.support
+6,Bolting,Irelia,True,Side.red,4,5,5,1.8,127,Flash,Exhaust,14,False,9559,8833,Bilgewater Cutlass,Corrupting Potion,Trinity Force,Ninja Tabi,Warden's Mail,Giant's Belt,3356,52838,Lane.mid_lane,Role.solo
+7,Hareulya,Lee Sin,True,Side.red,8,3,8,5.333333333333333,97,Smite,Flash,14,False,10577,9375,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Hexdrinker,Caulfield's Warhammer,,14036,73991,Lane.jungle,Role.none
+8,GazXX,Twitch,True,Side.red,3,2,6,4.5,159,Flash,Heal,12,False,10794,10205,Doran's Blade,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,Berserker's Greaves,0,103834,Lane.bot_lane,Role.carry
+9,Gube,Fizz,True,Side.red,11,3,3,4.666666666666667,159,Flash,Teleport,14,False,11809,11560,Mejai's Soulstealer,Kindlegem,Hextech Gunblade,Ionian Boots of Lucidity,Lich Bane,Spectre's Cowl,48755,35720,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,im gr8 m8,Lee Sin,False,Side.blue,9,8,3,1.5,120,Flash,Smite,15,True,10822,10775,Enchantment: Warrior,Refillable Potion,Randuin's Omen,Dead Man's Plate,Ionian Boots of Lucidity,Hexdrinker,15729,91070,Lane.jungle,Role.none
+1,Rìot Gámes,Soraka,False,Side.blue,0,5,1,0.2,3,Flash,Exhaust,9,False,5340,5075,Ruby Sightstone,Boots of Swiftness,Forbidden Idol,Crystalline Bracer,Nomad's Medallion,,4623,895,Lane.bot_lane,Role.support
+2,F B,Varus,False,Side.blue,1,5,1,0.4,165,Heal,Flash,13,False,8166,7850,Essence Reaver,Doran's Blade,Berserker's Greaves,Rapid Firecannon,,,3143,88670,Lane.bot_lane,Role.carry
+3,QuantumElement,Poppy,False,Side.blue,3,1,0,3.0,215,Flash,Teleport,15,False,9621,8850,Corrupting Potion,Spirit Visage,Ninja Tabi,Sunfire Cape,Glacial Shroud,Ruby Crystal,28481,75969,Lane.top_lane,Role.solo
+4,kingleauge,Zed,False,Side.blue,5,10,5,1.0,134,Flash,Ignite,13,False,8970,8900,Youmuu's Ghostblade,Long Sword,Boots of Speed,Hexdrinker,The Black Cleaver,Long Sword,4420,62012,Lane.mid_lane,Role.solo
+5,herolineage,Karthus,True,Side.red,7,7,8,2.142857142857143,235,Flash,Teleport,15,False,12249,11250,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Morellonomicon,Rylai's Crystal Scepter,Blasting Wand,141242,3447,Lane.mid_lane,Role.solo
+6,Byuntae 0ppa,Blitzcrank,True,Side.red,4,0,13,17.0,53,Flash,Ignite,13,False,8821,8275,Sightstone,Face of the Mountain,Redemption,Boots of Mobility,Glacial Shroud,Sheen,15427,12938,Lane.bot_lane,Role.support
+7,Novecember,Teemo,True,Side.red,1,3,2,1.0,156,Teleport,Flash,14,False,8793,7600,Doran's Shield,Blade of the Ruined King,Frozen Mallet,Boots of Speed,Dagger,,45392,41832,Lane.top_lane,Role.solo
+8,Yokan,Vayne,True,Side.red,12,4,3,3.75,209,Flash,Heal,14,False,12874,11450,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,Phantom Dancer,Vampiric Scepter,22036,92117,Lane.bot_lane,Role.carry
+9,PeytonWillis,Wukong,True,Side.red,5,4,7,3.0,103,Flash,Smite,14,False,9494,8475,Mercury's Treads,Enchantment: Warrior,The Black Cleaver,Pickaxe,Rejuvenation Bead,,7102,116063,Lane.jungle,Role.none

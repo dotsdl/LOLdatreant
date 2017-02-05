@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NA Rumble,Rumble,False,Side.blue,5,5,5,2.0,155,Teleport,Flash,13,False,8532,7750,Doran's Shield,Zhonya's Hourglass,Sorcerer's Shoes,Liandry's Torment,,,63008,6806,Lane.top_lane,Role.solo
+1,insaníty,LeBlanc,False,Side.blue,6,9,3,1.0,124,Flash,Ignite,11,False,8337,7825,Doran's Ring,The Dark Seal,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,65609,9129,Lane.mid_lane,Role.solo
+2,Imaokai,Twitch,False,Side.blue,7,8,7,1.75,77,Ignite,Smite,11,False,8091,8000,Infinity Edge,Brawler's Gloves,Boots of Mobility,Runaan's Hurricane,,,0,56062,Lane.jungle,Role.none
+3,Rapidx,Caitlyn,False,Side.blue,3,7,4,1.0,171,Flash,Heal,11,True,8086,7225,Doran's Blade,B. F. Sword,Berserker's Greaves,Pickaxe,Runaan's Hurricane,Cloak of Agility,444,89491,Lane.bot_lane,Role.carry
+4,L1MITAT1ONS,Alistar,False,Side.blue,0,5,8,1.6,23,Exhaust,Flash,10,False,5484,4975,Sightstone,Redemption,Boots of Mobility,Relic Shield,Null-Magic Mantle,,10139,4482,Lane.bot_lane,Role.support
+5,Ballsagna,Brand,True,Side.red,6,4,11,4.25,27,Flash,Ignite,11,False,8929,9430,Frost Queen's Claim,Redemption,Sightstone,Control Ward,Sorcerer's Shoes,Giant's Belt,26281,5175,Lane.bot_lane,Role.support
+6,Stevens 1v9,Draven,True,Side.red,7,3,7,4.666666666666667,162,Heal,Flash,13,False,11894,11625,Blade of the Ruined King,Rapid Firecannon,Infinity Edge,Doran's Blade,Long Sword,Berserker's Greaves,275,105366,Lane.bot_lane,Role.carry
+7,WJNA,Jayce,True,Side.red,4,3,9,4.333333333333333,155,Flash,Teleport,13,False,9262,8750,Hunter's Potion,Youmuu's Ghostblade,The Black Cleaver,Boots of Swiftness,Hexdrinker,,11281,78622,Lane.top_lane,Role.solo
+8,tardzaned,Elise,True,Side.red,15,3,5,6.666666666666667,134,Smite,Flash,14,False,12387,11625,Enchantment: Runic Echoes,Giant's Belt,Mercury's Treads,Abyssal Scepter,Rylai's Crystal Scepter,Chain Vest,98816,32333,Lane.jungle,Role.none
+9,Témpest,Katarina,True,Side.red,2,8,9,1.375,80,Flash,Ignite,11,False,7187,6320,Hextech Gunblade,Negatron Cloak,The Dark Seal,Sorcerer's Shoes,Ruby Crystal,,37091,8441,Lane.mid_lane,Role.solo

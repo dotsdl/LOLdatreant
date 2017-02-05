@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iracke,Hecarim,True,Side.blue,7,4,10,4.25,165,Smite,Ghost,15,False,12077,11758,Trinity Force,Hunter's Potion,Chain Vest,Mercury's Treads,Enchantment: Cinderhulk,Spirit Visage,21326,133324,Lane.jungle,Role.none
+1,Xinthus,Jhin,True,Side.blue,7,1,13,20.0,174,Heal,Flash,13,False,11504,9800,Giant Slayer,Rapid Firecannon,Ionian Boots of Lucidity,Pickaxe,Doran's Blade,Essence Reaver,6301,93053,Lane.bot_lane,Role.carry
+2,Harajuku Barbie,Ryze,True,Side.blue,5,5,9,2.8,160,Flash,Teleport,14,True,10927,10110,Abyssal Scepter,Rod of Ages,Seraph's Embrace,Amplifying Tome,,Ionian Boots of Lucidity,106386,9234,Lane.top_lane,Role.solo
+3,Kevin Loves You,Sion,True,Side.blue,3,1,13,16.0,67,Exhaust,Flash,13,False,9153,7975,Sightstone,Face of the Mountain,Mercury's Treads,Locket of the Iron Solari,Crystalline Bracer,Crystalline Bracer,32609,17036,Lane.bot_lane,Role.support
+4,Edge Lord ADC,Ezreal,True,Side.blue,7,0,12,19.0,192,Flash,Heal,15,False,12130,10250,Blade of the Ruined King,Muramana,Control Ward,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Blade,18449,96882,Lane.mid_lane,Role.solo
+5,Ledatic,Caitlyn,False,Side.red,1,5,4,1.0,182,Flash,Heal,12,False,8533,8025,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,440,89838,Lane.bot_lane,Role.carry
+6,IAmArray,Alistar,False,Side.red,1,6,6,1.1666666666666667,33,Flash,Exhaust,11,False,6338,6000,Locket of the Iron Solari,Refillable Potion,Boots of Mobility,Sightstone,Kindlegem,Targon's Brace,9859,4763,Lane.bot_lane,Role.support
+7,rekaf nesgrejb,Karma,False,Side.red,4,5,4,1.6,189,Flash,Heal,14,False,11120,10175,Frost Queen's Claim,Morellonomicon,Sorcerer's Shoes,Luden's Echo,The Dark Seal,,93008,17778,Lane.mid_lane,Role.solo
+8,bigfatlp,Diana,False,Side.red,2,6,3,0.8333333333333334,172,Smite,Flash,14,False,9267,8975,Hextech GLP-800,Zhonya's Hourglass,Refillable Potion,Boots of Speed,Enchantment: Runic Echoes,,105565,27358,Lane.jungle,Role.none
+9,Laur Voldemort,Nautilus,False,Side.red,3,7,5,1.1428571428571428,100,Teleport,Flash,13,False,7930,7200,Spirit Visage,Refillable Potion,Ninja Tabi,Sunfire Cape,,,22548,21079,Lane.top_lane,Role.solo

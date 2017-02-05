@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mr Carbon,Swain,True,Side.blue,5,4,8,3.25,235,Ignite,Flash,16,False,12691,11725,Spirit Visage,Doran's Ring,Hextech GLP-800,Zhonya's Hourglass,Sorcerer's Shoes,Needlessly Large Rod,119737,17998,Lane.mid_lane,Role.solo
+1,ProjectPanda,Nautilus,True,Side.blue,0,2,13,6.5,187,Teleport,Flash,15,False,11282,9750,Corrupting Potion,Warden's Mail,Ninja Tabi,Giant's Belt,Spirit Visage,Sunfire Cape,75374,20649,Lane.top_lane,Role.solo
+2,Wednesday Addams,Jinx,True,Side.blue,11,4,9,5.0,216,Flash,Heal,15,True,14722,12400,B. F. Sword,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Doran's Blade,3899,145507,Lane.bot_lane,Role.carry
+3,Braums Mustache,Taric,True,Side.blue,0,2,20,10.0,51,Flash,Exhaust,14,False,9692,8250,Ninja Tabi,Sightstone,Face of the Mountain,Knight's Vow,Warden's Mail,Cloth Armor,6037,10847,Lane.bot_lane,Role.support
+4,Lukillz,Kha'Zix,True,Side.blue,8,5,11,3.8,181,Flash,Smite,16,False,13348,11745,Negatron Cloak,Ravenous Hydra,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Chain Vest,5566,169853,Lane.jungle,Role.none
+5,iubanana,Twitch,False,Side.red,4,4,5,2.25,184,Flash,Heal,13,False,10742,10325,Blade of the Ruined King,B. F. Sword,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Pickaxe,0,81262,Lane.bot_lane,Role.carry
+6,ChaosMoon KL,Alistar,False,Side.red,0,5,10,2.0,65,Flash,Exhaust,12,False,7959,7300,Eye of the Equinox,Knight's Vow,Aegis of the Legion,,,Mercury's Treads,9855,13241,Lane.bot_lane,Role.support
+7,Silbor,Ryze,False,Side.red,4,6,4,1.3333333333333333,226,Flash,Teleport,14,False,11390,11100,Ionian Boots of Lucidity,Rod of Ages,Seraph's Embrace,Abyssal Scepter,Seeker's Armguard,,132379,16711,Lane.mid_lane,Role.solo
+8,xHotGuy6Pack,Jayce,False,Side.red,1,4,5,1.5,226,Flash,Teleport,14,False,10618,10125,Doran's Blade,,Ionian Boots of Lucidity,Maw of Malmortius,B. F. Sword,The Black Cleaver,18445,94614,Lane.top_lane,Role.solo
+9,Last Bréath,Vi,False,Side.red,8,5,3,2.2,139,Flash,Smite,14,False,12222,10908,Locket of the Iron Solari,Refillable Potion,Trinity Force,Boots of Swiftness,Enchantment: Warrior,Chain Vest,471,165508,Lane.jungle,Role.none

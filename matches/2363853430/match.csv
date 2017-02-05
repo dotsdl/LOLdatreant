@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,scarraCANNON,Riven,True,Side.blue,4,1,7,11.0,192,Flash,Teleport,14,False,10478,8300,Null-Magic Mantle,Ionian Boots of Lucidity,The Black Cleaver,Ravenous Hydra,,,1498,112676,Lane.top_lane,Role.solo
+1,herolineage,Ashe,True,Side.blue,4,2,4,4.0,175,Flash,Heal,11,False,8814,7925,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,,,928,81233,Lane.bot_lane,Role.carry
+2,Sunae,Janna,True,Side.blue,0,1,10,10.0,9,Exhaust,Flash,11,False,6137,5825,Boots of Mobility,Eye of the Oasis,Redemption,Cloth Armor,,The Dark Seal,7086,2743,Lane.bot_lane,Role.support
+3,RATIRLonNA,Twitch,True,Side.blue,13,2,4,8.5,134,Flash,Smite,14,True,11870,12350,Blade of the Ruined King,Refillable Potion,B. F. Sword,Runaan's Hurricane,Enchantment: Bloodrazor,Ninja Tabi,2051,113835,Lane.jungle,Role.none
+4,LegitKorea,Ahri,True,Side.blue,4,1,3,7.0,122,Flash,Ignite,12,False,7552,7185,Doran's Ring,Abyssal Scepter,Refillable Potion,Morellonomicon,Boots of Speed,Amplifying Tome,31221,11764,Lane.mid_lane,Role.solo
+5,Espir Ill,Jhin,False,Side.red,0,3,3,1.0,120,Flash,Heal,10,False,5899,4875,Essence Reaver,Control Ward,Boots of Speed,Doran's Blade,,,1909,49283,Lane.bot_lane,Role.carry
+6,Koma cahn,Nasus,False,Side.red,1,8,0,0.125,110,Ghost,Teleport,11,False,5980,4450,Doran's Ring,Corrupting Potion,Doran's Ring,Zz'Rot Portal,Boots of Speed,Control Ward,41213,9151,Lane.top_lane,Role.solo
+7,Youuuuuuuuuuuuu,Graves,False,Side.red,5,6,2,1.1666666666666667,121,Smite,Flash,12,False,7773,7575,Enchantment: Warrior,Youmuu's Ghostblade,Serrated Dirk,Boots of Speed,Long Sword,,2538,88702,Lane.jungle,Role.none
+8,Aecinira,Karma,False,Side.red,0,2,2,1.0,21,Flash,Exhaust,9,False,4612,3875,Boots of Mobility,Ruby Sightstone,Control Ward,Spellthief's Edge,Ruby Crystal,,8690,3266,Lane.bot_lane,Role.support
+9,Arselan,LeBlanc,False,Side.red,1,6,1,0.3333333333333333,120,Flash,Ignite,12,False,6021,5560,The Dark Seal,Doran's Ring,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,52450,8233,Lane.mid_lane,Role.solo

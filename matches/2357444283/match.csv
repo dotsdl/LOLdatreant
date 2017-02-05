@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AllstarChamp,Thresh,False,Side.blue,2,4,15,4.25,13,Exhaust,Flash,12,False,7363,6500,Nomad's Medallion,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Chain Vest,,10390,5849,Lane.bot_lane,Role.support
+1,Cooldamalley,Gnar,False,Side.blue,8,5,3,2.2,167,Teleport,Flash,13,False,9884,9375,Frozen Mallet,Doran's Blade,Mercury's Treads,Hexdrinker,The Black Cleaver,,5250,80476,Lane.top_lane,Role.solo
+2,Soapy Duck,Kassadin,False,Side.blue,7,7,6,1.8571428571428572,135,Teleport,Flash,14,False,9376,8650,The Dark Seal,Doran's Ring,Zhonya's Hourglass,Rod of Ages,Sorcerer's Shoes,Sheen,49162,20597,Lane.mid_lane,Role.solo
+3,iBayyo,Vayne,False,Side.blue,3,6,9,2.0,171,Heal,Flash,12,False,9373,8900,Infinity Edge,Doran's Blade,Cull,Statikk Shiv,Berserker's Greaves,Null-Magic Mantle,3872,82904,Lane.bot_lane,Role.carry
+4,thanks lori,Vi,False,Side.blue,9,6,8,2.8333333333333335,150,Smite,Flash,14,True,10812,10475,Enchantment: Warrior,Titanic Hydra,,The Black Cleaver,,Ninja Tabi,1627,139685,Lane.jungle,Role.none
+5,Sorá,Braum,True,Side.red,1,7,17,2.5714285714285716,30,Ignite,Flash,13,False,8232,7125,Frozen Heart,Ruby Crystal,Control Ward,Eye of the Equinox,,Mercury's Treads,7874,5008,Lane.bot_lane,Role.support
+6,JeezyTheSnowMan,Lissandra,True,Side.red,3,6,12,2.5,153,Teleport,Flash,14,False,10440,9410,Blasting Wand,Hextech Protobelt-01,Fiendish Codex,Rod of Ages,Amplifying Tome,Sorcerer's Shoes,93089,8270,Lane.top_lane,Role.solo
+7,Challenger For X,Fizz,True,Side.red,6,5,5,2.2,117,Flash,Ignite,13,False,10010,8600,Hextech Protobelt-01,Corrupting Potion,Doran's Ring,Sorcerer's Shoes,Lich Bane,Fiendish Codex,58589,18019,Lane.mid_lane,Role.solo
+8,KyuB,Master Yi,True,Side.red,10,5,4,2.8,168,Smite,Exhaust,16,False,12782,11825,Blade of the Ruined King,Refillable Potion,Enchantment: Bloodrazor,Ninja Tabi,The Black Cleaver,Hexdrinker,987,154592,Lane.jungle,Role.none
+9,Final Eclipse,Jinx,True,Side.red,8,6,9,2.8333333333333335,181,Flash,Heal,14,False,12481,9700,Doran's Blade,Berserker's Greaves,Infinity Edge,Cull,Zeal,Runaan's Hurricane,900,108280,Lane.bot_lane,Role.carry

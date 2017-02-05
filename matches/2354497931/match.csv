@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Megalomaniacal,Olaf,False,Side.blue,1,3,0,0.3333333333333333,141,Flash,Ignite,11,False,6768,6300,Corrupting Potion,The Black Cleaver,Control Ward,Ionian Boots of Lucidity,Long Sword,Hexdrinker,149,70564,Lane.top_lane,Role.solo
+1,Shockader,Brand,False,Side.blue,3,9,2,0.5555555555555556,16,Flash,Ignite,8,False,5648,5385,Amplifying Tome,Sightstone,Frost Queen's Claim,Boots of Mobility,Ruby Crystal,,10551,2118,Lane.bot_lane,Role.support
+2,StrobeDarkness,Jhin,False,Side.blue,1,3,3,1.3333333333333333,123,Flash,Heal,10,False,6329,5250,Doran's Blade,Essence Reaver,Boots of Speed,Dagger,Brawler's Gloves,,454,51452,Lane.bot_lane,Role.carry
+3,TheRickestRlCK,Viktor,False,Side.blue,1,4,1,0.5,154,Flash,Exhaust,11,False,6734,6400,Perfect Hex Core,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,,64314,9560,Lane.mid_lane,Role.solo
+4,FourofDiamonds,Shaco,False,Side.blue,4,4,2,1.5,86,Smite,Ignite,11,False,6799,5975,Tiamat,Refillable Potion,Enchantment: Bloodrazor,Mercury's Treads,Vampiric Scepter,,16624,59756,Lane.jungle,Role.none
+5,IWDFridge,Shyvana,True,Side.red,10,1,2,12.0,147,Smite,Flash,13,False,10569,8383,Enchantment: Bloodrazor,Refillable Potion,Trinity Force,Mercury's Treads,Ruby Crystal,Cloth Armor,64441,61391,Lane.jungle,Role.none
+6,Wizzy,Ezreal,True,Side.red,4,2,4,4.0,167,Heal,Flash,11,True,8933,8000,Doran's Blade,Vampiric Scepter,Cull,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,7912,66515,Lane.bot_lane,Role.carry
+7,DoombringerEX,Kennen,True,Side.red,3,1,1,4.0,153,Flash,Teleport,13,False,7979,6375,The Dark Seal,Giant's Belt,Corrupting Potion,Liandry's Torment,Sorcerer's Shoes,Control Ward,54887,16474,Lane.top_lane,Role.solo
+8,megapasta,Ahri,True,Side.red,5,2,3,4.0,143,Flash,Ignite,12,False,8025,6535,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Doran's Ring,Amplifying Tome,Needlessly Large Rod,41022,9907,Lane.mid_lane,Role.solo
+9,YlKES,Nami,True,Side.red,1,4,12,3.25,8,Exhaust,Flash,10,False,6239,5350,Sightstone,Redemption,,The Dark Seal,Frostfang,Boots of Mobility,4106,3299,Lane.bot_lane,Role.support

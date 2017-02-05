@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LegitKorea,Ahri,False,Side.blue,5,8,3,1.0,157,Flash,Ignite,13,True,9041,7860,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,,Morellonomicon,55111,11679,Lane.mid_lane,Role.solo
+1,Desaltifier,Bard,False,Side.blue,3,6,7,1.6666666666666667,4,Flash,Exhaust,11,False,7285,7200,Null-Magic Mantle,Redemption,Frost Queen's Claim,Sightstone,Boots of Mobility,Cloth Armor,8241,3650,Lane.bot_lane,Role.support
+2,Rabun,Ashe,False,Side.blue,3,6,5,1.3333333333333333,192,Heal,Flash,13,False,10204,9775,B. F. Sword,Cull,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,1468,121232,Lane.bot_lane,Role.carry
+3,p I u s s 6,Nasus,False,Side.blue,4,10,2,0.6,168,Flash,Teleport,13,False,9146,8625,Banner of Command,Spirit Visage,Corrupting Potion,Doran's Ring,Mercury's Treads,Sheen,66692,26580,Lane.top_lane,Role.solo
+4,Arcade AHRl,Udyr,False,Side.blue,0,6,3,0.5,126,Flash,Smite,12,False,7804,6900,Enchantment: Cinderhulk,Hunter's Potion,Zz'Rot Portal,Mercury's Treads,,,58320,30625,Lane.jungle,Role.none
+5,Outclass,Syndra,True,Side.red,7,5,8,3.0,198,Ghost,Flash,14,False,11795,11600,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,Blasting Wand,104883,16142,Lane.mid_lane,Role.solo
+6,KarasMai,Karma,True,Side.red,0,2,27,13.5,28,Flash,Ignite,14,False,9738,8175,Control Ward,Redemption,Locket of the Iron Solari,Eye of the Watchers,Boots of Mobility,,18208,7734,Lane.bot_lane,Role.support
+7,0 K A Y B O Y S,Rumble,True,Side.red,16,0,10,26.0,221,Flash,Teleport,16,False,15705,14150,Doran's Shield,Void Staff,Rylai's Crystal Scepter,Luden's Echo,Sorcerer's Shoes,Liandry's Torment,133660,18673,Lane.top_lane,Role.solo
+8,Captain Ziploc,Vi,True,Side.red,9,4,10,4.75,125,Smite,Flash,15,False,12477,11883,Youmuu's Ghostblade,Enchantment: Warrior,Trinity Force,Berserker's Greaves,Refillable Potion,B. F. Sword,949,148689,Lane.jungle,Role.none
+9,Flexo,Vayne,True,Side.red,4,4,6,2.5,168,Heal,Flash,14,False,10971,8600,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,Brawler's Gloves,Dagger,5703,90477,Lane.bot_lane,Role.carry

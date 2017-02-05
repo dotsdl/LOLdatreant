@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,always plan ahea,Karthus,True,Side.blue,2,1,3,5.0,167,Flash,Exhaust,13,False,8353,8000,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Rabadon's Deathcap,,,85376,7431,Lane.mid_lane,Role.solo
+1,Yogurt3,Evelynn,True,Side.blue,9,3,4,4.333333333333333,86,Ignite,Smite,12,True,8954,7575,Enchantment: Runic Echoes,Refillable Potion,Hextech Protobelt-01,The Dark Seal,Ionian Boots of Lucidity,Sheen,56637,30280,Lane.jungle,Role.none
+2,belovedL,Darius,True,Side.blue,8,2,8,8.0,136,Teleport,Flash,13,False,9674,9050,Cloth Armor,Doran's Blade,Ninja Tabi,The Black Cleaver,Spirit Visage,Bami's Cinder,1895,79210,Lane.top_lane,Role.solo
+3,Leg,Karma,True,Side.blue,0,1,6,6.0,7,Flash,Exhaust,9,False,5639,5075,Control Ward,,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,Crystalline Bracer,8804,4876,Lane.bot_lane,Role.support
+4,allawesome,Caitlyn,True,Side.blue,4,0,3,7.0,141,Heal,Flash,11,False,8346,8275,,,Infinity Edge,Doran's Blade,Rapid Firecannon,Berserker's Greaves,1293,72548,Lane.bot_lane,Role.carry
+5,ArtofApocalypse,Brand,False,Side.red,1,4,0,0.25,133,Flash,Ignite,11,False,5938,5675,Doran's Ring,Rod of Ages,Needlessly Large Rod,Boots of Speed,Blasting Wand,,46260,11559,Lane.mid_lane,Role.solo
+6,King Karp,Vayne,False,Side.red,1,5,0,0.2,99,Heal,Flash,9,False,5393,5300,Phantom Dancer,Berserker's Greaves,Recurve Bow,,,Doran's Blade,0,30513,Lane.bot_lane,Role.carry
+7,VectorViper,Shyvana,False,Side.red,3,5,2,1.0,126,Smite,Flash,11,False,7269,6875,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Boots of Speed,Cloth Armor,,57799,38327,Lane.jungle,Role.none
+8,Rookie The Pro,Nasus,False,Side.red,2,8,0,0.25,103,Teleport,Flash,11,False,5582,4100,Cloth Armor,Phage,Doran's Ring,Doran's Ring,Boots of Speed,Sheen,33940,20760,Lane.top_lane,Role.solo
+9,Jessichu,Janna,False,Side.red,0,1,0,0.0,9,Exhaust,Flash,9,False,4205,3825,Faerie Charm,Sightstone,Crystalline Bracer,,Nomad's Medallion,Boots of Mobility,1808,2421,Lane.bot_lane,Role.support

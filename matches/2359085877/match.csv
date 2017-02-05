@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Suntail,Twitch,False,Side.blue,9,6,6,2.5,220,Flash,Smite,16,True,13149,11325,Long Sword,Vampiric Scepter,Infinity Edge,Runaan's Hurricane,Enchantment: Bloodrazor,Berserker's Greaves,3039,172960,Lane.jungle,Role.none
+1,Sky Rizzo,Sona,False,Side.blue,0,5,11,2.2,8,Exhaust,Flash,12,False,7457,6475,Ruby Sightstone,Athene's Unholy Grail,Ruby Crystal,Tear of the Goddess,Ionian Boots of Lucidity,Spellthief's Edge,11893,3257,Lane.bot_lane,Role.support
+2,Mateusz,Ezreal,False,Side.blue,3,3,2,1.6666666666666667,179,Heal,Flash,13,False,10484,10030,Doran's Blade,Blade of the Ruined King,Muramana,,Boots of Speed,Iceborn Gauntlet,14980,80432,Lane.bot_lane,Role.carry
+3,GettinNerfed,Shen,False,Side.blue,3,8,7,1.25,173,Flash,Teleport,14,False,10279,10400,Doran's Shield,Sunfire Cape,Zz'Rot Portal,Mercury's Treads,Thornmail,Cloth Armor,57347,29810,Lane.top_lane,Role.solo
+4,FreeDemoye2K16,Ryze,False,Side.blue,5,4,7,3.0,214,Ghost,Flash,15,False,11595,11575,Seraph's Embrace,Refillable Potion,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Needlessly Large Rod,151889,9319,Lane.mid_lane,Role.solo
+5,Riot Wittrock,Talon,True,Side.red,12,6,6,3.0,190,Flash,Teleport,16,False,13570,12125,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,Guardian Angel,Pickaxe,1738,119071,Lane.top_lane,Role.solo
+6,Dallidas,Gragas,True,Side.red,2,5,8,2.0,106,Smite,Flash,14,False,10189,8350,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,Sheen,Enchantment: Runic Echoes,Aether Wisp,90570,28398,Lane.jungle,Role.none
+7,Snaffs,Soraka,True,Side.red,0,2,15,7.5,13,Exhaust,Flash,13,False,8209,6925,Ruby Sightstone,Redemption,Nomad's Medallion,Chain Vest,Boots of Swiftness,,9305,6570,Lane.bot_lane,Role.support
+8,iHDK,Vel'Koz,True,Side.red,4,5,6,2.0,197,Ghost,Flash,16,False,10837,9825,Refillable Potion,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Needlessly Large Rod,Aether Wisp,100388,10391,Lane.mid_lane,Role.solo
+9, keine Hosen,Kalista,True,Side.red,7,2,4,5.5,236,Flash,Heal,15,False,12846,11250,Runaan's Hurricane,Blade of the Ruined King,Mercurial Scimitar,Berserker's Greaves,Doran's Blade,,2277,150904,Lane.bot_lane,Role.carry

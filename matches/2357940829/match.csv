@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cindy bot,Janna,False,Side.blue,0,4,12,3.0,13,Exhaust,Flash,12,False,6853,6300,Sightstone,Redemption,Aegis of the Legion,Boots of Mobility,Nomad's Medallion,Control Ward,8715,3601,Lane.bot_lane,Role.support
+1,Sandwitch,Vi,False,Side.blue,6,6,8,2.3333333333333335,88,Flash,Smite,13,False,8564,8008,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,Ruby Crystal,,1658,89103,Lane.jungle,Role.none
+2,Lukulos,Jarvan IV,False,Side.blue,3,8,7,1.25,155,Flash,Teleport,13,False,8440,8100,Titanic Hydra,Corrupting Potion,Ninja Tabi,Frozen Heart,Cloth Armor,,1942,86442,Lane.top_lane,Role.solo
+3,FreeXpHere,Corki,False,Side.blue,6,6,2,1.3333333333333333,148,Flash,Heal,13,False,9291,8533,Doran's Blade,Hextech Gunblade,,Trinity Force,Doran's Blade,Boots of Speed,63989,20296,Lane.bot_lane,Role.carry
+4,Please Fade,Malzahar,False,Side.blue,5,4,6,2.75,187,Ghost,Flash,15,False,9888,8875,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Morellonomicon,Blasting Wand,90324,23005,Lane.mid_lane,Role.solo
+5,chi hai wu,Ekko,True,Side.red,3,3,5,2.6666666666666665,236,Flash,Teleport,16,False,12540,12525,Hextech Protobelt-01,Corrupting Potion,Rabadon's Deathcap,Sorcerer's Shoes,The Dark Seal,Lich Bane,148565,28763,Lane.mid_lane,Role.solo
+6,dog deft,Vayne,True,Side.red,1,5,7,1.6,178,Flash,Heal,13,False,10987,9675,Berserker's Greaves,Infinity Edge,Statikk Shiv,Zeal,Dagger,Doran's Blade,16226,83679,Lane.bot_lane,Role.carry
+7,Godrneru,Lee Sin,True,Side.red,18,3,5,7.666666666666667,140,Flash,Smite,15,False,15764,14608,Enchantment: Warrior,Boots of Swiftness,Edge of Night,Trinity Force,Dead Man's Plate,Spectre's Cowl,28146,124883,Lane.jungle,Role.none
+8,1onz,Lulu,True,Side.red,1,3,14,5.0,15,Flash,Exhaust,12,False,9638,9045,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Ardent Censer,Negatron Cloak,Control Ward,13953,7228,Lane.bot_lane,Role.support
+9,Zoido,Yasuo,True,Side.red,5,6,6,1.8333333333333333,196,Teleport,Flash,14,True,12425,11600,Doran's Blade,Guardian Angel,Frozen Mallet,Phantom Dancer,Ninja Tabi,B. F. Sword,30698,80615,Lane.top_lane,Role.solo

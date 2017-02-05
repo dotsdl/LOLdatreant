@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,LeBlanc,True,Side.blue,12,1,5,17.0,192,Flash,Ignite,16,False,13631,11375,Morellonomicon,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Abyssal Scepter,Void Staff,124876,14617,Lane.mid_lane,Role.solo
+1,KarasMai,Graves,True,Side.blue,9,5,8,3.4,167,Flash,Smite,15,False,12927,11425,Enchantment: Warrior,Phage,Phantom Dancer,Long Sword,Maw of Malmortius,Mercury's Treads,5242,164469,Lane.jungle,Role.none
+2,MyTimeIsNow,Taliyah,True,Side.blue,7,8,12,2.375,44,Ignite,Flash,12,False,10597,9075,Frost Queen's Claim,Sightstone,Haunting Guise,Ionian Boots of Lucidity,Morellonomicon,Control Ward,43384,3869,Lane.bot_lane,Role.support
+3,yltfed,Ezreal,True,Side.blue,4,5,11,3.0,190,Flash,Heal,14,False,11314,9333,Bilgewater Cutlass,Muramana,Trinity Force,Control Ward,Doran's Blade,Ionian Boots of Lucidity,12564,103538,Lane.bot_lane,Role.carry
+4,Dyrus,Ashe,True,Side.blue,6,8,10,2.0,187,Teleport,Flash,15,False,11680,11750,Maw of Malmortius,,Ionian Boots of Lucidity,Runaan's Hurricane,Doran's Blade,The Black Cleaver,1154,122278,Lane.top_lane,Role.solo
+5,NoahMost,Lulu,False,Side.red,1,9,13,1.5555555555555556,11,Exhaust,Flash,12,False,7734,6575,Sightstone,Locket of the Iron Solari,Frost Queen's Claim,Refillable Potion,Ionian Boots of Lucidity,,6932,4380,Lane.bot_lane,Role.support
+6,Koby,Nasus,False,Side.red,9,5,4,2.6,228,Flash,Teleport,16,False,12473,11708,Zz'Rot Portal,Trinity Force,Spirit Visage,,Ninja Tabi,,86049,41136,Lane.top_lane,Role.solo
+7,Myloo,Zac,False,Side.red,7,4,7,3.5,137,Flash,Smite,14,False,9988,9725,Ninja Tabi,Randuin's Omen,Enchantment: Cinderhulk,Spirit Visage,,,87850,17804,Lane.jungle,Role.none
+8,TeddyRO,Twitch,False,Side.red,6,10,3,0.9,140,Flash,Heal,13,True,9681,9050,Blade of the Ruined King,Berserker's Greaves,Infinity Edge,Doran's Blade,Brawler's Gloves,,1155,67707,Lane.bot_lane,Role.carry
+9,You all boosted,Kassadin,False,Side.red,4,10,5,0.9,144,Flash,Teleport,13,False,9566,8820,The Dark Seal,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,Fiendish Codex,Negatron Cloak,52424,16063,Lane.mid_lane,Role.solo

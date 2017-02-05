@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AlfredXillia,Malphite,False,Side.blue,5,4,6,2.75,178,Flash,Teleport,15,False,10136,9275,Corrupting Potion,Giant's Belt,Spectre's Cowl,Ninja Tabi,Sunfire Cape,Thornmail,72421,31167,Lane.top_lane,Role.solo
+1,Valkrin,Nocturne,False,Side.blue,3,5,10,2.6,162,Smite,Flash,14,False,9735,8100,Iceborn Gauntlet,Refillable Potion,Giant's Belt,Enchantment: Bloodrazor,Ninja Tabi,Cloth Armor,3313,122769,Lane.jungle,Role.none
+2,LL Stylish,Katarina,False,Side.blue,10,8,5,1.875,157,Ignite,Flash,14,False,10619,10685,Hextech Gunblade,Blasting Wand,Sorcerer's Shoes,The Dark Seal,Luden's Echo,Needlessly Large Rod,89597,8119,Lane.mid_lane,Role.solo
+3,HvK Enatsu,Nautilus,False,Side.blue,0,6,6,1.0,33,Flash,Exhaust,11,False,6280,5925,Refillable Potion,Face of the Mountain,Ninja Tabi,Crystalline Bracer,Sightstone,Crystalline Bracer,9581,6730,Lane.bot_lane,Role.support
+4,MrFluffy631,Vayne,False,Side.blue,4,4,1,1.25,202,Flash,Heal,12,False,10021,9825,Infinity Edge,Statikk Shiv,Zeal,Berserker's Greaves,Dagger,Dagger,21531,76161,Lane.bot_lane,Role.carry
+5,QSS To Lane,Darius,True,Side.red,10,4,5,3.75,205,Flash,Ignite,16,False,12573,10575,Doran's Blade,The Black Cleaver,Dead Man's Plate,Mercury's Treads,Spirit Visage,,0,128204,Lane.top_lane,Role.solo
+6,ddwaeji,Janna,True,Side.red,1,4,11,3.0,7,Flash,Exhaust,12,False,7773,6650,Sightstone,Redemption,Nomad's Medallion,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,2640,5617,Lane.bot_lane,Role.support
+7,d3ps,Lee Sin,True,Side.red,12,3,10,7.333333333333333,142,Flash,Smite,15,True,13199,12100,Tiamat,Enchantment: Warrior,Chain Vest,Ninja Tabi,Dead Man's Plate,Maw of Malmortius,21049,118721,Lane.jungle,Role.none
+8,Regular Mid,Jinx,True,Side.red,2,6,11,2.1666666666666665,176,Flash,Heal,13,False,10011,9250,Refillable Potion,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,990,109830,Lane.bot_lane,Role.carry
+9,JaySo,Orianna,True,Side.red,2,5,12,2.8,142,Ghost,Flash,14,False,9650,8560,Abyssal Scepter,Rabadon's Deathcap,Amplifying Tome,Doran's Ring,Doran's Ring,Boots of Speed,75196,12894,Lane.mid_lane,Role.solo

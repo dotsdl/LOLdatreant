@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Darude GateStorm,Singed,False,Side.blue,2,2,6,4.0,163,Ghost,Ignite,14,False,8022,6775,The Dark Seal,Corrupting Potion,Righteous Glory,Ninja Tabi,Needlessly Large Rod,Giant's Belt,90154,4475,Lane.top_lane,Role.solo
+1,PlFF,Miss Fortune,False,Side.blue,2,8,7,1.125,35,Exhaust,Flash,11,False,6944,5800,Frostfang,Refillable Potion,Sightstone,Ionian Boots of Lucidity,The Black Cleaver,,13829,15465,Lane.bot_lane,Role.support
+2,Rabun,Jhin,False,Side.blue,4,6,4,1.3333333333333333,121,Heal,Flash,11,False,7265,6450,Essence Reaver,Ionian Boots of Lucidity,Zeal,Doran's Blade,,,1145,54462,Lane.bot_lane,Role.carry
+3,Rycah,Amumu,False,Side.blue,1,5,4,1.0,61,Flash,Smite,12,False,6585,5870,Ninja Tabi,Refillable Potion,Enchantment: Cinderhulk,Negatron Cloak,Raptor Cloak,,47547,19642,Lane.jungle,Role.none
+4,Yanni Tsunami,Zed,False,Side.blue,5,7,3,1.1428571428571428,156,Ignite,Flash,12,False,8347,7950,Duskblade of Draktharr,Edge of Night,Ionian Boots of Lucidity,Long Sword,,,4742,70894,Lane.mid_lane,Role.solo
+5,IIKairosII,Renekton,True,Side.red,4,2,4,4.0,169,Flash,Teleport,14,False,9509,7025,The Black Cleaver,Refillable Potion,Pickaxe,Doran's Blade,Ninja Tabi,Giant's Belt,2898,93363,Lane.top_lane,Role.solo
+6,TeddyRO,Shyvana,True,Side.red,14,2,6,10.0,171,Flash,Smite,15,True,13734,13475,Blade of the Ruined King,Refillable Potion,Titanic Hydra,Mercury's Treads,Enchantment: Bloodrazor,Zz'Rot Portal,63579,117325,Lane.jungle,Role.none
+7,Cat Ears,Janna,True,Side.red,0,1,21,21.0,6,Flash,Exhaust,12,False,8054,6675,Locket of the Iron Solari,Sightstone,Redemption,Ionian Boots of Lucidity,Spellthief's Edge,,4252,4348,Lane.bot_lane,Role.support
+8,UCSD Felix,Viktor,True,Side.red,4,5,2,1.2,130,Flash,Ghost,12,False,8740,8300,Refillable Potion,Rylai's Crystal Scepter,Doran's Ring,,Perfect Hex Core,Ionian Boots of Lucidity,65222,8069,Lane.mid_lane,Role.solo
+9,Watch and Learn,Ashe,True,Side.red,6,4,9,3.75,142,Flash,Heal,13,False,10523,9000,,Runaan's Hurricane,Control Ward,Infinity Edge,Doran's Blade,Berserker's Greaves,1230,86494,Lane.bot_lane,Role.carry

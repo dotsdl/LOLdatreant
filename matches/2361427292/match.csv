@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Top Schlong,Shaco,True,Side.blue,1,1,4,5.0,158,Teleport,Flash,12,False,7622,6625,Doran's Blade,Blade of the Ruined King,Boots of Swiftness,Hexdrinker,,The Dark Seal,12567,54734,Lane.top_lane,Role.solo
+1,q1w2e3r4t5y6u7i8,Ezreal,True,Side.blue,5,1,2,7.0,161,Flash,Heal,11,False,9447,9358,Trinity Force,Vampiric Scepter,Berserker's Greaves,,Doran's Blade,Manamune,6516,77691,Lane.bot_lane,Role.carry
+2,TheOddOrange,Fizz,True,Side.blue,8,1,7,15.0,149,Flash,Ignite,13,False,10244,9410,Corrupting Potion,Zhonya's Hourglass,Mejai's Soulstealer,Lich Bane,Ionian Boots of Lucidity,Amplifying Tome,68734,18116,Lane.mid_lane,Role.solo
+3,Kenny Thai Le,Evelynn,True,Side.blue,10,2,9,9.5,96,Smite,Flash,12,True,9876,9450,Hextech Protobelt-01,Refillable Potion,Enchantment: Runic Echoes,Rylai's Crystal Scepter,,Ionian Boots of Lucidity,62153,30763,Lane.jungle,Role.none
+4,YaThatWasABanana,Lulu,True,Side.blue,1,1,9,10.0,5,Flash,Exhaust,9,False,6081,5650,,Redemption,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,,4558,3646,Lane.bot_lane,Role.support
+5,Miajima,Zed,False,Side.red,1,4,2,0.75,139,Flash,Ignite,11,False,6688,6200,Maw of Malmortius,Boots of Speed,Serrated Dirk,Caulfield's Warhammer,,,5718,72984,Lane.mid_lane,Role.solo
+6,7788 ADC,Jhin,False,Side.red,0,4,2,0.5,133,Heal,Flash,10,False,6178,5700,Doran's Blade,Essence Reaver,Dagger,Boots of Swiftness,Dagger,,2051,58882,Lane.bot_lane,Role.carry
+7,kt Sofm,Karma,False,Side.red,0,6,3,0.5,35,Exhaust,Flash,9,False,4860,4200,Boots of Mobility,Total Biscuit of Rejuvenation,Fiendish Codex,Eye of the Watchers,,,17440,2996,Lane.bot_lane,Role.support
+8,sensei cat,Singed,False,Side.red,1,6,0,0.16666666666666666,170,Teleport,Ghost,12,False,6816,5960,Zz'Rot Portal,Corrupting Potion,Boots of Swiftness,The Dark Seal,Giant's Belt,Amplifying Tome,87335,6461,Lane.top_lane,Role.solo
+9,HoNSol0,Hecarim,False,Side.red,3,5,0,0.6,134,Ghost,Smite,12,False,7438,7258,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Null-Magic Mantle,Boots of Speed,,11771,98919,Lane.jungle,Role.none

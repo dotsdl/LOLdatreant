@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tallwhitebro,Corki,False,Side.blue,5,5,8,2.6,258,Flash,Heal,16,False,12405,11633,Doran's Blade,Hextech Gunblade,Rapid Firecannon,Sorcerer's Shoes,Trinity Force,,136103,41831,Lane.mid_lane,Role.solo
+1,TszHin OvO,Thresh,False,Side.blue,0,7,13,1.8571428571428572,35,Ignite,Flash,12,False,7948,6625,Redemption,Ruby Sightstone,Boots of Mobility,The Dark Seal,Relic Shield,Lost Chapter,12421,3805,Lane.bot_lane,Role.support
+2,Distasteful,Hecarim,False,Side.blue,6,8,1,0.875,146,Ghost,Smite,14,True,11040,10508,Enchantment: Cinderhulk,Trinity Force,Ninja Tabi,Dead Man's Plate,,,24547,120331,Lane.jungle,Role.none
+3,Indivisible,Irelia,False,Side.blue,1,9,5,0.6666666666666666,175,Flash,Teleport,14,False,9989,9808,Randuin's Omen,Corrupting Potion,Trinity Force,Ninja Tabi,Doran's Shield,Recurve Bow,5246,66033,Lane.top_lane,Role.solo
+4,Tai Draven,Draven,False,Side.blue,8,8,2,1.25,257,Flash,Heal,15,False,15841,16030,The Bloodthirster,Infinity Edge,Hexdrinker,Mortal Reminder,Phantom Dancer,Berserker's Greaves,0,211355,Lane.bot_lane,Role.carry
+5,blue suede,Viktor,True,Side.red,9,3,7,5.333333333333333,248,Flash,Ghost,17,False,14704,13350,Lich Bane,Zhonya's Hourglass,Needlessly Large Rod,Giant's Belt,Perfect Hex Core,Ionian Boots of Lucidity,171213,14281,Lane.mid_lane,Role.solo
+6,Frogsuo,Morgana,True,Side.red,2,4,20,5.5,25,Flash,Ignite,14,False,11572,9810,Boots of Mobility,Ruby Sightstone,Frost Queen's Claim,Redemption,Locket of the Iron Solari,Amplifying Tome,23434,7633,Lane.bot_lane,Role.support
+7,ZTG SolidSnake,Lee Sin,True,Side.red,13,4,6,4.75,192,Flash,Smite,16,False,14898,12275,Ravenous Hydra,Enchantment: Warrior,Ninja Tabi,The Black Cleaver,Giant's Belt,Chain Vest,41597,138091,Lane.jungle,Role.none
+8,TheBolvar,Ezreal,True,Side.red,2,5,9,2.2,164,Flash,Heal,14,False,11536,11125,Doran's Blade,Blade of the Ruined King,Mortal Reminder,Ionian Boots of Lucidity,Long Sword,Iceborn Gauntlet,16727,87925,Lane.bot_lane,Role.carry
+9,Dhokla,Jayce,True,Side.red,11,5,9,4.0,255,Flash,Teleport,17,False,15632,13925,Lord Dominik's Regards,Serrated Dirk,The Black Cleaver,Pickaxe,Mercury's Treads,The Bloodthirster,41897,178370,Lane.top_lane,Role.solo

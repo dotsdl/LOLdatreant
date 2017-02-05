@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZeroBlaze,Fizz,False,Side.blue,1,4,2,0.75,100,Flash,Teleport,11,False,6038,5350,Doran's Ring,Boots of Speed,The Dark Seal,Abyssal Scepter,Sheen,Corrupting Potion,27099,12720,Lane.mid_lane,Role.solo
+1,Rycah,Darius,False,Side.blue,3,5,4,1.4,154,Flash,Teleport,13,False,7804,6775,Mercury's Treads,The Black Cleaver,Corrupting Potion,Spectre's Cowl,Kindlegem,,106,79777,Lane.top_lane,Role.solo
+2,Suna Shogun Sama,Soraka,False,Side.blue,2,4,5,1.75,15,Flash,Exhaust,9,False,5281,4800,Redemption,Nomad's Medallion,Sightstone,Ionian Boots of Lucidity,,,8548,4008,Lane.bot_lane,Role.support
+3,RockyTSaws,Ezreal,False,Side.blue,1,4,3,1.0,98,Heal,Flash,9,False,5794,5100,Doran's Blade,Sheen,,Manamune,Ionian Boots of Lucidity,,4938,39665,Lane.bot_lane,Role.carry
+4,Eric1,Shyvana,False,Side.blue,6,7,1,1.0,106,Smite,Ghost,11,False,8213,7975,Tiamat,Randuin's Omen,Enchantment: Bloodrazor,Ninja Tabi,,,41765,41403,Lane.jungle,Role.none
+5,cùrz,Taric,True,Side.red,0,3,14,4.666666666666667,26,Flash,Exhaust,10,False,6197,5825,Ruby Sightstone,Face of the Mountain,Control Ward,Forbidden Idol,Ionian Boots of Lucidity,,6557,7571,Lane.bot_lane,Role.support
+6,Stessy Poirier,Mordekaiser,True,Side.red,4,5,8,2.4,121,Flash,Teleport,12,False,8631,8135,Hextech Protobelt-01,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Ruby Crystal,68096,14499,Lane.top_lane,Role.solo
+7,KitingYeezus,Twitch,True,Side.red,13,3,3,5.333333333333333,115,Flash,Smite,13,True,11067,10075,Enchantment: Bloodrazor,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,3261,86919,Lane.jungle,Role.none
+8,Str1fe,Orianna,True,Side.red,3,0,7,10.0,163,Flash,Exhaust,13,False,9126,9030,Doran's Ring,Negatron Cloak,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,71905,16847,Lane.mid_lane,Role.solo
+9,Goxtry,Caitlyn,True,Side.red,4,2,7,5.5,142,Heal,Flash,11,False,8529,8150,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,,360,88845,Lane.bot_lane,Role.carry

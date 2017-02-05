@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ChocolateRane,Zyra,False,Side.blue,0,0,0,0.0,0,Exhaust,Flash,1,False,663,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+1,Quiggems X,Talon,False,Side.blue,0,0,0,0.0,11,Flash,Smite,3,False,1075,500,,,,,,Hunter's Machete,0,7835,Lane.jungle,Role.none
+2,Pearidot,Sona,False,Side.blue,0,0,0,0.0,13,Flash,Exhaust,3,False,944,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,550,1351,Lane.mid_lane,Role.duo
+3,Trekib,Maokai,False,Side.blue,1,0,0,1.0,14,Teleport,Flash,3,False,1253,500,Corrupting Potion,,,,,,2556,1328,Lane.top_lane,Role.solo
+4,herolineage,Sivir,False,Side.blue,1,0,0,1.0,10,Flash,Heal,3,True,1271,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,5694,Lane.bot_lane,Role.solo
+5,Mang3 moi Lcap,Kog'Maw,True,Side.red,0,0,0,0.0,14,Flash,Heal,2,False,942,500,Cull,Total Biscuit of Rejuvenation,,,,,180,2862,Lane.bot_lane,Role.duo
+6,Àce,Soraka,True,Side.red,0,1,0,0.0,0,Flash,Exhaust,2,False,731,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,1083,736,Lane.bot_lane,Role.duo
+7,iBearWithYou,Xerath,True,Side.red,0,0,0,0.0,12,Flash,Teleport,3,False,885,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1898,1205,Lane.mid_lane,Role.solo
+8,Anando,Hecarim,True,Side.red,0,0,0,0.0,9,Smite,Ghost,3,False,1061,500,Hunter's Talisman,Refillable Potion,,,,,1181,5766,Lane.jungle,Role.none
+9,Flame0n,Gragas,True,Side.red,0,1,0,0.0,12,Teleport,Flash,2,False,885,500,Doran's Ring,Health Potion,,,,,1166,2088,Lane.top_lane,Role.solo

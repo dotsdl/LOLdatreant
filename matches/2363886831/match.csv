@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Kha'Zix,False,Side.blue,6,4,4,2.5,96,Smite,Flash,13,True,10104,7075,Refillable Potion,Youmuu's Ghostblade,Control Ward,Enchantment: Warrior,Long Sword,Ionian Boots of Lucidity,4186,98661,Lane.jungle,Role.none
+1,Thalies,Katarina,False,Side.blue,5,7,2,1.0,185,Ignite,Flash,14,False,10049,9875,Rylai's Crystal Scepter,Sorcerer's Shoes,,Hextech Gunblade,The Dark Seal,Quicksilver Sash,89085,11175,Lane.mid_lane,Role.solo
+2,The Eradicator,Vel'Koz,False,Side.blue,0,5,4,0.8,26,Flash,Exhaust,12,False,7381,7175,Sorcerer's Shoes,Eye of the Watchers,Haunting Guise,Refillable Potion,Fiendish Codex,Blasting Wand,25662,6096,Lane.bot_lane,Role.support
+3,Miracle Kid,Caitlyn,False,Side.blue,3,4,5,2.0,235,Heal,Flash,14,False,10916,10175,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,B. F. Sword,Vampiric Scepter,962,134299,Lane.bot_lane,Role.carry
+4,Moon Diana,Diana,False,Side.blue,2,6,5,1.1666666666666667,174,Flash,Teleport,14,False,9980,9620,Doran's Ring,Nashor's Tooth,Rod of Ages,Negatron Cloak,Sorcerer's Shoes,Chain Vest,85629,16621,Lane.top_lane,Role.solo
+5,Thecrimsonrage,Janna,True,Side.red,1,2,15,8.0,10,Flash,Exhaust,13,False,8524,8050,Eye of the Watchers,Redemption,,Mercury's Treads,,Ardent Censer,7805,5732,Lane.bot_lane,Role.support
+6,Wazabiee,Jhin,True,Side.red,6,4,7,3.25,221,Heal,Flash,14,False,12122,11300,Rapid Firecannon,B. F. Sword,Vampiric Scepter,Essence Reaver,Pickaxe,Long Sword,8213,149284,Lane.bot_lane,Role.carry
+7,Yarkbeezy,Malzahar,True,Side.red,5,3,9,4.666666666666667,186,Ghost,Flash,15,False,11384,10725,Morellonomicon,Doran's Ring,Blasting Wand,Haunting Guise,Ionian Boots of Lucidity,Rylai's Crystal Scepter,99277,27648,Lane.mid_lane,Role.solo
+8,Anxiity,Lee Sin,True,Side.red,7,4,7,3.5,148,Flash,Smite,15,False,12091,11225,Tiamat,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Mercury's Treads,Dead Man's Plate,23257,140224,Lane.jungle,Role.none
+9,Cile,Maokai,True,Side.red,7,3,9,5.333333333333333,190,Flash,Teleport,15,False,11588,11150,Spirit Visage,Mercury's Treads,Sunfire Cape,Iceborn Gauntlet,Warden's Mail,,86417,27926,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Danny Cute Body,Caitlyn,False,Side.blue,2,6,5,1.1666666666666667,210,Heal,Flash,13,False,9459,8925,Refillable Potion,Infinity Edge,Doran's Blade,Berserker's Greaves,Vampiric Scepter,Runaan's Hurricane,1264,106189,Lane.bot_lane,Role.carry
+1,FlyingPenguinz,Shyvana,False,Side.blue,3,7,3,0.8571428571428571,134,Heal,Smite,13,False,8611,8350,Enchantment: Bloodrazor,Blade of the Ruined King,,Jaurim's Fist,Boots of Swiftness,,63033,49878,Lane.jungle,Role.none
+2,Oh Xxx,Sona,False,Side.blue,2,8,5,0.875,11,Flash,Exhaust,11,False,7250,6960,Redemption,Eye of the Watchers,Boots of Mobility,Giant's Belt,Amplifying Tome,,9419,3453,Lane.bot_lane,Role.support
+3,Mattew,Lux,False,Side.blue,3,5,5,1.6,157,Flash,Ignite,13,False,8912,8535,Doran's Ring,Morellonomicon,Sorcerer's Shoes,The Dark Seal,Luden's Echo,Amplifying Tome,85181,13601,Lane.mid_lane,Role.solo
+4,Oh Ooo,Nasus,False,Side.blue,1,5,0,0.2,253,Teleport,Flash,14,False,9216,8983,Refillable Potion,Zz'Rot Portal,Doran's Ring,Trinity Force,Mercury's Treads,Ruby Crystal,100772,35145,Lane.top_lane,Role.solo
+5,Diestrex,Darius,True,Side.red,7,1,3,10.0,275,Teleport,Flash,16,False,12508,10625,The Black Cleaver,Refillable Potion,Zz'Rot Portal,Boots of Swiftness,Dead Man's Plate,Kindlegem,1194,144587,Lane.top_lane,Role.solo
+6,KT Score,Ivern,True,Side.red,5,1,12,17.0,97,Smite,Flash,14,False,10728,8810,Mejai's Soulstealer,Hunter's Talisman,Redemption,Athene's Unholy Grail,Aegis of the Legion,Ionian Boots of Lucidity,27484,9334,Lane.jungle,Role.none
+7,Ayukura,Ahri,True,Side.red,12,2,7,9.5,185,Flash,Ignite,14,True,12568,9685,Needlessly Large Rod,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Doran's Ring,78516,20930,Lane.mid_lane,Role.solo
+8,Jeffotic,Karma,True,Side.red,3,2,15,9.0,33,Ignite,Flash,12,False,9145,7835,Frost Queen's Claim,Locket of the Iron Solari,Sightstone,Sorcerer's Shoes,Forbidden Idol,Amplifying Tome,24449,5000,Lane.bot_lane,Role.support
+9,GMun,Vayne,True,Side.red,4,5,5,1.8,182,Flash,Heal,14,False,10644,9650,Quicksilver Sash,Infinity Edge,Statikk Shiv,Berserker's Greaves,Doran's Blade,Doran's Blade,14545,102166,Lane.bot_lane,Role.carry

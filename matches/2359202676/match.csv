@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Great Mishka,Alistar,True,Side.blue,2,5,16,3.6,50,Exhaust,Flash,13,False,8754,6675,Eye of the Equinox,Locket of the Iron Solari,,Catalyst of Aeons,Boots of Speed,,11074,9116,Lane.bot_lane,Role.support
+1,lost in thoughts,Syndra,True,Side.blue,11,5,4,3.0,172,Flash,Ghost,14,False,12495,11675,Doran's Ring,Morellonomicon,Mejai's Soulstealer,Quicksilver Sash,Sorcerer's Shoes,Rabadon's Deathcap,101432,11193,Lane.mid_lane,Role.solo
+2,gniK efiL oN,Vladimir,True,Side.blue,4,5,7,2.2,146,Ghost,Flash,14,False,10071,7600,Doran's Shield,Hextech Protobelt-01,Zhonya's Hourglass,Kindlegem,,Ionian Boots of Lucidity,73015,11581,Lane.top_lane,Role.solo
+3,CopyCat,Vi,True,Side.blue,15,2,8,11.5,217,Smite,Flash,17,False,16139,14553,Maw of Malmortius,Randuin's Omen,Trinity Force,Mercury's Treads,Enchantment: Warrior,Negatron Cloak,3391,213850,Lane.jungle,Role.none
+4,Keyboard Romeo,Kog'Maw,True,Side.blue,5,8,9,1.75,154,Flash,Heal,14,False,10965,9333,Berserker's Greaves,Blade of the Ruined King,Trinity Force,,Cull,Doran's Blade,30234,45833,Lane.bot_lane,Role.carry
+5,I Am Faceless,Yasuo,False,Side.red,4,4,3,1.75,181,Flash,Teleport,14,False,9420,8925,Mercury's Treads,Infinity Edge,Doran's Blade,Phantom Dancer,Giant's Belt,,22875,87607,Lane.top_lane,Role.solo
+6,A Platypus,Viktor,False,Side.red,6,9,5,1.2222222222222223,145,Ghost,Flash,13,False,9415,8175,,Perfect Hex Core,Control Ward,Doran's Ring,Abyssal Scepter,Ionian Boots of Lucidity,76474,8002,Lane.mid_lane,Role.solo
+7,3A3Y 3OY,Caitlyn,False,Side.red,8,8,3,1.375,138,Heal,Flash,13,True,9895,8850,Doran's Blade,Infinity Edge,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,657,94108,Lane.bot_lane,Role.carry
+8,Redsaturn,Graves,False,Side.red,3,8,2,0.625,86,Flash,Smite,12,False,7951,7750,Enchantment: Warrior,Phantom Dancer,Vampiric Scepter,Berserker's Greaves,Long Sword,,2344,85889,Lane.jungle,Role.none
+9,Radara,Morgana,False,Side.red,4,8,13,2.125,25,Ignite,Flash,11,False,9271,8700,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Banner of Command,Blasting Wand,,20335,4223,Lane.bot_lane,Role.support

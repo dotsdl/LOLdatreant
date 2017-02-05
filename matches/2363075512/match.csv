@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,InF Akari ,Ezreal,True,Side.blue,10,2,7,8.5,140,Heal,Flash,12,False,10805,9558,Ionian Boots of Lucidity,Manamune,Bilgewater Cutlass,Cull,Doran's Blade,Trinity Force,9442,76939,Lane.bot_lane,Role.carry
+1,less       Fear,Nautilus,True,Side.blue,2,1,13,15.0,31,Exhaust,Flash,10,False,7404,6825,Eye of the Equinox,Knight's Vow,Crystalline Bracer,Total Biscuit of Rejuvenation,,Boots of Swiftness,15546,6931,Lane.bot_lane,Role.support
+2,The Stifler,Poppy,True,Side.blue,0,1,10,10.0,112,Teleport,Flash,13,False,7219,6725,Corrupting Potion,Mercury's Treads,Spirit Visage,Bami's Cinder,Sapphire Crystal,Chain Vest,4265,52238,Lane.top_lane,Role.solo
+3,MrDING,Evelynn,True,Side.blue,8,5,9,3.4,144,Ignite,Smite,13,False,10319,8060,Hextech Protobelt-01,Refillable Potion,Sorcerer's Shoes,Enchantment: Runic Echoes,Amplifying Tome,Needlessly Large Rod,83192,38021,Lane.jungle,Role.none
+4,youtube Raskia,Akali,True,Side.blue,8,2,3,5.5,116,Flash,Ignite,13,True,8854,8600,Hextech Gunblade,Sorcerer's Shoes,Guardian Angel,Sheen,,,22192,44969,Lane.jungle,Role.none
+5,SacredStrike,Karma,False,Side.red,2,5,0,0.4,137,Flash,Teleport,12,False,6592,5825,Null-Magic Mantle,Refillable Potion,Fiendish Codex,Rod of Ages,Doran's Ring,Ionian Boots of Lucidity,46760,14776,Lane.top_lane,Role.solo
+6,Grande Donger,Taric,False,Side.red,0,7,5,0.7142857142857143,39,Flash,Exhaust,9,False,5569,4850,Eye of the Equinox,Aegis of the Legion,,Ionian Boots of Lucidity,Faerie Charm,,10207,5790,Lane.bot_lane,Role.support
+7,Griffin1795,LeBlanc,False,Side.red,1,4,1,0.5,134,Flash,Teleport,11,False,6327,5970,Doran's Ring,Negatron Cloak,Sorcerer's Shoes,Morellonomicon,Ruby Crystal,,45162,8628,Lane.mid_lane,Role.solo
+8,RockyTSaws,Ivern,False,Side.red,2,5,1,0.6,81,Smite,Flash,11,False,6393,6025,Skirmisher's Sabre,Forbidden Idol,Athene's Unholy Grail,Ionian Boots of Lucidity,The Dark Seal,Crystalline Bracer,14655,5138,Lane.jungle,Role.none
+9,Zoolouie,Caitlyn,False,Side.red,5,7,2,1.0,150,Heal,Flash,11,False,7966,7800,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,1129,78721,Lane.bot_lane,Role.carry

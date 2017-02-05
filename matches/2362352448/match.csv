@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keegun,Pantheon,False,Side.blue,4,10,5,0.9,37,Flash,Ignite,11,False,7588,7275,Relic Shield,Youmuu's Ghostblade,Edge of Night,Boots of Speed,Ruby Crystal,,3738,25912,Lane.bot_lane,Role.support
+1,fallenbandit,Nasus,False,Side.blue,1,6,2,0.5,182,Flash,Teleport,12,False,9052,7875,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Doran's Ring,Ninja Tabi,Iceborn Gauntlet,62280,21551,Lane.top_lane,Role.solo
+2,TheOddOrange,Lee Sin,False,Side.blue,7,4,3,2.5,156,Flash,Smite,14,False,10153,9650,Titanic Hydra,Enchantment: Warrior,Hexdrinker,,Ionian Boots of Lucidity,Caulfield's Warhammer,21006,106810,Lane.jungle,Role.none
+3,CloudNguyén,Ashe,False,Side.blue,5,8,3,1.0,130,Heal,Flash,11,False,8368,8175,Doran's Blade,Boots of Swiftness,Infinity Edge,Runaan's Hurricane,Long Sword,,948,61785,Lane.bot_lane,Role.carry
+4,Abou222,Syndra,False,Side.blue,1,7,1,0.2857142857142857,161,Ghost,Flash,12,False,8112,7335,Doran's Ring,Needlessly Large Rod,Blasting Wand,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,79286,10321,Lane.mid_lane,Role.solo
+5,Pekin Woof,Kha'Zix,True,Side.red,7,5,6,2.6,113,Flash,Smite,14,False,9933,9775,Long Sword,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,Serrated Dirk,Phage,4971,109474,Lane.jungle,Role.none
+6,Lil Cody,Jhin,True,Side.red,11,3,11,7.333333333333333,180,Heal,Flash,14,True,12800,10575,Essence Reaver,Rapid Firecannon,B. F. Sword,Ionian Boots of Lucidity,Pickaxe,Doran's Blade,2643,112200,Lane.bot_lane,Role.carry
+7,zlsna,Vladimir,True,Side.red,4,3,9,4.333333333333333,166,Flash,Ghost,14,False,9618,8500,Hextech Protobelt-01,Refillable Potion,Rylai's Crystal Scepter,Fiendish Codex,Cloth Armor,Mercury's Treads,74063,15003,Lane.mid_lane,Role.solo
+8,Rohammers,Poppy,True,Side.red,11,2,5,8.0,152,Teleport,Flash,14,False,11038,8625,Corrupting Potion,,Mercury's Treads,Iceborn Gauntlet,Spectre's Cowl,Sunfire Cape,34562,62413,Lane.top_lane,Role.solo
+9,Hakuho,Thresh,True,Side.red,2,5,23,5.0,26,Exhaust,Flash,13,False,8422,6425,Ruby Sightstone,Locket of the Iron Solari,,Relic Shield,Kindlegem,Boots of Mobility,10249,5435,Lane.bot_lane,Role.support

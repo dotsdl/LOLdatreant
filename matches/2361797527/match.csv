@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,admirable potato,Nautilus,True,Side.blue,1,4,6,1.75,220,Flash,Teleport,15,False,10892,9850,Corrupting Potion,Spirit Visage,Locket of the Iron Solari,Zz'Rot Portal,Ruby Crystal,Ninja Tabi,51496,27715,Lane.top_lane,Role.solo
+1,kingoftomatoes,Twitch,True,Side.blue,12,1,5,17.0,257,Flash,Heal,16,False,16060,13575,Phantom Dancer,Lord Dominik's Regards,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,0,199747,Lane.bot_lane,Role.carry
+2,dhk0819,Ryze,True,Side.blue,3,4,6,2.25,184,Ghost,Flash,14,True,10943,9325,Abyssal Scepter,Lost Chapter,Fiendish Codex,Rod of Ages,Tear of the Goddess,Mercury's Treads,127580,12047,Lane.mid_lane,Role.solo
+3,SL Challenge,Janna,True,Side.blue,0,1,16,16.0,12,Ignite,Flash,13,False,9170,7850,Mikael's Crucible,Eye of the Oasis,Boots of Mobility,Redemption,Null-Magic Mantle,,7163,4413,Lane.bot_lane,Role.support
+4,SL Shine,Graves,True,Side.blue,6,3,4,3.3333333333333335,154,Smite,Flash,15,False,11906,9800,Youmuu's Ghostblade,Hunter's Potion,Enchantment: Warrior,Berserker's Greaves,Hexdrinker,Caulfield's Warhammer,3392,152274,Lane.jungle,Role.none
+5,Contractz,Thresh,False,Side.red,0,6,7,1.1666666666666667,40,Ignite,Flash,11,False,6293,5725,Control Ward,Eye of the Equinox,Boots of Mobility,Aegis of the Legion,Ruby Crystal,Null-Magic Mantle,7669,5213,Lane.bot_lane,Role.support
+6,5tunt,LeBlanc,False,Side.red,1,7,6,1.0,187,Ignite,Flash,13,False,8706,8635,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,79360,14843,Lane.jungle,Role.none
+7,Jynthe,Sivir,False,Side.red,1,3,6,2.3333333333333335,254,Flash,Heal,14,False,9828,8850,Doran's Blade,Essence Reaver,Pickaxe,Statikk Shiv,Berserker's Greaves,,9624,129776,Lane.bot_lane,Role.carry
+8,Dearest,Sona,False,Side.red,7,1,6,13.0,160,Ignite,Flash,14,False,9917,9575,Lich Bane,Sorcerer's Shoes,Void Staff,Hextech Revolver,Doran's Ring,Lost Chapter,50417,20604,Lane.top_lane,Role.solo
+9,Merrik,Vi,False,Side.red,4,5,3,1.4,132,Smite,Flash,14,False,9395,9058,Ninja Tabi,Trinity Force,Enchantment: Cinderhulk,Aegis of the Legion,,,6490,126803,Lane.jungle,Role.none

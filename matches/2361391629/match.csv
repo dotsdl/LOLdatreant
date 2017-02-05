@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ownsaurus,Amumu,True,Side.blue,12,7,10,3.142857142857143,161,Flash,Smite,16,True,14329,13225,Enchantment: Runic Echoes,Banshee's Veil,Sunfire Cape,Mercury's Treads,Liandry's Torment,Kindlegem,124631,21194,Lane.jungle,Role.none
+1,ThumbInHisButt,Diana,True,Side.blue,5,4,4,2.25,222,Teleport,Flash,16,False,12930,11085,Doran's Ring,Doran's Ring,Luden's Echo,Abyssal Scepter,Mercury's Treads,Void Staff,129644,16122,Lane.mid_lane,Role.solo
+2,Kanyes Smurf,Nasus,True,Side.blue,3,2,7,5.0,307,Teleport,Flash,17,False,13889,12200,Phage,Zz'Rot Portal,Sheen,Mercury's Treads,Spirit Visage,Thornmail,105440,55605,Lane.top_lane,Role.solo
+3,M PiKaChu,Ezreal,True,Side.blue,10,2,10,10.0,216,Heal,Flash,16,False,14147,11975,Blade of the Ruined King,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,Last Whisper,14029,144568,Lane.bot_lane,Role.carry
+4,NikuNikuNii,Janna,True,Side.blue,1,8,14,1.875,10,Exhaust,Flash,12,False,9220,8825,Sightstone,Talisman of Ascension,Redemption,Locket of the Iron Solari,Null-Magic Mantle,,4455,3809,Lane.bot_lane,Role.support
+5,LiHOHO,Ryze,False,Side.red,11,4,5,4.0,284,Teleport,Flash,17,False,15238,14075,Morellonomicon,Void Staff,Seraph's Embrace,Boots of Swiftness,Abyssal Scepter,Mejai's Soulstealer,255267,11278,Lane.mid_lane,Role.solo
+6,MarceIIo,Evelynn,False,Side.red,6,8,7,1.625,106,Flash,Smite,14,False,10698,9575,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,Enchantment: Runic Echoes,,75127,38265,Lane.jungle,Role.none
+7,BrandinNavi,Lux,False,Side.red,1,6,7,1.3333333333333333,58,Exhaust,Flash,12,False,9163,8310,Eye of the Watchers,,Amplifying Tome,Sorcerer's Shoes,Morellonomicon,Blasting Wand,49523,4695,Lane.bot_lane,Role.support
+8,RealTeemo,Teemo,False,Side.red,2,7,4,0.8571428571428571,236,Ignite,Flash,15,False,11014,10225,Doran's Ring,Void Staff,Zz'Rot Portal,Nashor's Tooth,,Mercury's Treads,87212,39575,Lane.top_lane,Role.solo
+9,Jaood303,Jhin,False,Side.red,3,6,4,1.1666666666666667,233,Flash,Heal,15,False,10899,10200,Essence Reaver,Boots of Swiftness,Rapid Firecannon,B. F. Sword,Doran's Blade,Pickaxe,14705,111888,Lane.bot_lane,Role.carry

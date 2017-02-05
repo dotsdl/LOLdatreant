@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZuZus Bakery,Poppy,False,Side.blue,6,3,3,3.0,92,Flash,Teleport,12,True,7225,6575,Sunfire Cape,Ninja Tabi,Corrupting Potion,Spectre's Cowl,Kindlegem,,21281,32627,Lane.top_lane,Role.solo
+1,i like chiIdren,Lucian,False,Side.blue,3,8,3,0.75,108,Flash,Heal,9,False,6332,5475,Doran's Blade,Essence Reaver,Boots of Speed,Pickaxe,Total Biscuit of Rejuvenation,,1529,41275,Lane.bot_lane,Role.carry
+2,Queenmountain,Orianna,False,Side.blue,1,7,3,0.5714285714285714,99,Flash,Ghost,11,False,5954,5300,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Total Biscuit of Rejuvenation,,41893,7266,Lane.mid_lane,Role.solo
+3,STFU 0R GTFO,Malphite,False,Side.blue,4,9,3,0.7777777777777778,58,Flash,Smite,10,False,6237,5625,Refillable Potion,Glacial Shroud,,Kindlegem,Enchantment: Cinderhulk,Ionian Boots of Lucidity,18854,21343,Lane.jungle,Role.none
+4,NortoriousBiG,Braum,False,Side.blue,0,6,6,1.0,24,Flash,Exhaust,9,False,4647,4500,Face of the Mountain,Sightstone,Boots of Swiftness,Total Biscuit of Rejuvenation,,,4010,2819,Lane.bot_lane,Role.support
+5,Bwas,Jayce,True,Side.red,4,5,3,1.4,148,Flash,Teleport,12,False,8147,6350,Doran's Blade,Refillable Potion,Tear of the Goddess,The Black Cleaver,Boots of Swiftness,Pickaxe,11966,64750,Lane.top_lane,Role.solo
+6,EnVy Nien,Syndra,True,Side.red,9,1,5,14.0,146,Flash,Exhaust,13,False,9951,9860,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Mejai's Soulstealer,Amplifying Tome,80933,9188,Lane.mid_lane,Role.solo
+7,Hi im Freeze,Lee Sin,True,Side.red,8,2,7,7.5,100,Flash,Smite,12,False,9241,7500,Tiamat,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Phage,Caulfield's Warhammer,12197,79122,Lane.jungle,Role.none
+8,Jummychu,Jhin,True,Side.red,7,3,13,6.666666666666667,124,Flash,Heal,12,False,10031,8575,Youmuu's Ghostblade,Duskblade of Draktharr,Serrated Dirk,Cull,Boots of Speed,Doran's Blade,1915,67362,Lane.bot_lane,Role.carry
+9,Aecinira,Zyra,True,Side.red,5,3,11,5.333333333333333,24,Flash,Ignite,11,False,8404,7535,Frostfang,Rylai's Crystal Scepter,,Amplifying Tome,Sorcerer's Shoes,Mejai's Soulstealer,24434,5125,Lane.bot_lane,Role.support

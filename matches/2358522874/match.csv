@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,QuickRev,Maokai,False,Side.blue,3,6,14,2.8333333333333335,45,Flash,Ignite,12,False,8281,6925,Ninja Tabi,Spirit Visage,Eye of the Equinox,Cloth Armor,Cloth Armor,,23472,7325,Lane.bot_lane,Role.support
+1,Ikzencriel,Jayce,False,Side.blue,11,9,9,2.2222222222222223,130,Teleport,Flash,14,False,10652,9350,Doran's Blade,Long Sword,Ninja Tabi,Maw of Malmortius,The Black Cleaver,Vampiric Scepter,11677,61543,Lane.top_lane,Role.solo
+2,SquirreI,Twitch,False,Side.blue,9,6,6,2.5,172,Flash,Heal,13,True,11078,9900,Infinity Edge,Berserker's Greaves,Vampiric Scepter,Doran's Blade,Runaan's Hurricane,Pickaxe,0,80137,Lane.bot_lane,Role.carry
+3,Juanfucius,Graves,False,Side.blue,4,8,13,2.125,124,Smite,Flash,13,False,9387,8950,Zeal,Dagger,Dagger,The Black Cleaver,Enchantment: Warrior,Ninja Tabi,5085,99031,Lane.jungle,Role.none
+4,Uzumaki,Syndra,False,Side.blue,4,6,7,1.8333333333333333,151,Ghost,Flash,13,False,8794,8100,Doran's Ring,Morellonomicon,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,,73549,7251,Lane.mid_lane,Role.solo
+5,Xandergod,Vi,True,Side.red,7,7,11,2.5714285714285716,99,Flash,Smite,14,False,11364,9100,Enchantment: Warrior,Randuin's Omen,Control Ward,Hexdrinker,Chain Vest,Ninja Tabi,989,107253,Lane.jungle,Role.none
+6,Asyc xD ,Caitlyn,True,Side.red,13,2,9,11.0,179,Heal,Flash,15,False,13934,8750,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Cull,Dagger,1037,138486,Lane.bot_lane,Role.carry
+7,CraacK,Vel'Koz,True,Side.red,10,6,8,3.0,188,Flash,Heal,15,False,12857,10350,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,108372,9760,Lane.mid_lane,Role.solo
+8,Perrito,Bard,True,Side.red,2,8,20,2.75,11,Ignite,Flash,13,False,9436,8875,Locket of the Iron Solari,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Crystalline Bracer,11550,6140,Lane.bot_lane,Role.support
+9,Str1fe,Nasus,True,Side.red,3,8,6,1.125,198,Flash,Teleport,14,False,11476,8700,Doran's Ring,Zz'Rot Portal,Doran's Ring,Iceborn Gauntlet,Mercury's Treads,Kindlegem,54151,52038,Lane.top_lane,Role.solo

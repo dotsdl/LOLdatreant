@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Huw,Evelynn,False,Side.blue,9,11,7,1.4545454545454546,67,Smite,Flash,12,True,9502,8854,Enchantment: Runic Echoes,Hextech Protobelt-01,Giant's Belt,Sorcerer's Shoes,Amplifying Tome,Amplifying Tome,53320,21607,Lane.jungle,Role.none
+1,FaR007,Caitlyn,False,Side.blue,5,9,2,0.7777777777777778,207,Heal,Flash,12,False,9917,9470,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Chain Vest,Doran's Blade,Negatron Cloak,1567,107444,Lane.bot_lane,Role.carry
+2,Horny Pix,Lulu,False,Side.blue,0,3,5,1.6666666666666667,17,Flash,Exhaust,10,False,6124,5550,Ruby Crystal,Locket of the Iron Solari,Sightstone,Boots of Mobility,Spellthief's Edge,Total Biscuit of Rejuvenation,4986,2977,Lane.bot_lane,Role.support
+3,Prodïgy,Riven,False,Side.blue,4,5,5,1.8,257,Flash,Teleport,15,False,10548,10200,Tiamat,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,Refillable Potion,Pickaxe,0,128815,Lane.top_lane,Role.solo
+4,iIIusionist,Orianna,False,Side.blue,5,4,5,2.5,168,Flash,Ghost,14,False,9464,8800,Rod of Ages,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Giant's Belt,85901,11824,Lane.mid_lane,Role.solo
+5,Neoseanster,Illaoi,True,Side.red,2,8,1,0.375,155,Teleport,Flash,14,False,9322,8000,Corrupting Potion,The Black Cleaver,Sterak's Gage,Ninja Tabi,Ruby Crystal,Cloth Armor,656,120547,Lane.top_lane,Role.solo
+6,BooBiird,Ezreal,True,Side.red,2,4,5,1.75,174,Heal,Flash,13,False,9530,8500,Doran's Blade,Manamune,Iceborn Gauntlet,Hexdrinker,Ionian Boots of Lucidity,Long Sword,15918,86711,Lane.bot_lane,Role.carry
+7,Gweiss,Viktor,True,Side.red,13,4,5,4.5,195,Ghost,Flash,16,False,13711,11550,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,Rabadon's Deathcap,,128126,13157,Lane.mid_lane,Role.solo
+8,retarded virgin,Kha'Zix,True,Side.red,14,4,7,5.25,93,Flash,Smite,15,False,12849,12375,Boots of Swiftness,Youmuu's Ghostblade,Tiamat,Enchantment: Warrior,Maw of Malmortius,Jaurim's Fist,6865,119971,Lane.jungle,Role.none
+9,Kebin M,Karma,True,Side.red,1,3,7,2.6666666666666665,30,Flash,Exhaust,12,False,8060,6950,Eye of the Watchers,Redemption,Fiendish Codex,Ionian Boots of Lucidity,Null-Magic Mantle,,27404,5900,Lane.bot_lane,Role.support

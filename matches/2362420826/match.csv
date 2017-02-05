@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Trieuly,Singed,True,Side.blue,4,4,14,4.5,260,Teleport,Ghost,17,False,13598,12975,Zz'Rot Portal,Randuin's Omen,,Rylai's Crystal Scepter,Boots of Swiftness,Thornmail,116820,13122,Lane.top_lane,Role.solo
+1,iTroll,Sona,True,Side.blue,6,3,19,8.333333333333334,16,Exhaust,Flash,14,False,12385,11025,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Eye of the Watchers,Lich Bane,,18429,10302,Lane.bot_lane,Role.support
+2,Yekim,Vayne,True,Side.blue,4,4,9,3.25,198,Heal,Flash,15,False,12499,11125,Maw of Malmortius,Infinity Edge,Berserker's Greaves,Statikk Shiv,Doran's Blade,,20822,126748,Lane.bot_lane,Role.carry
+3,SuuushiBoy,Olaf,True,Side.blue,1,2,14,7.5,139,Smite,Ghost,16,False,11733,11000,Enchantment: Cinderhulk,Hunter's Potion,Randuin's Omen,Dead Man's Plate,Spectre's Cowl,Ionian Boots of Lucidity,22060,124133,Lane.jungle,Role.none
+4,Pewster,Viktor,True,Side.blue,13,3,5,6.0,202,Ghost,Flash,16,False,14542,12610,Perfect Hex Core,Lich Bane,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,150873,16175,Lane.mid_lane,Role.solo
+5,KaNKl,Lee Sin,False,Side.red,5,3,8,4.333333333333333,220,Smite,Flash,16,True,12385,12100,Giant's Belt,Enchantment: Warrior,Tiamat,Boots of Mobility,Dead Man's Plate,Maw of Malmortius,40110,133442,Lane.jungle,Role.none
+6,UNBAN SOJS,Vladimir,False,Side.red,3,5,8,2.2,245,Flash,Ghost,16,False,11431,11060,Ionian Boots of Lucidity,Spirit Visage,Rylai's Crystal Scepter,Hextech Protobelt-01,Amplifying Tome,Blasting Wand,146449,15533,Lane.mid_lane,Role.solo
+7,Peter Brown,Alistar,False,Side.red,3,5,6,1.8,39,Flash,Smite,13,False,7628,7150,Redemption,Sightstone,Ionian Boots of Lucidity,Relic Shield,Knight's Vow,Control Ward,18820,7801,Lane.bot_lane,Role.support
+8,1T Yasuo,Yasuo,False,Side.red,1,7,5,0.8571428571428571,284,Flash,Teleport,15,False,10902,10175,Doran's Blade,Infinity Edge,Phantom Dancer,Hexdrinker,Mercury's Treads,Vampiric Scepter,33248,124715,Lane.top_lane,Role.solo
+9, keine Hosen,Caitlyn,False,Side.red,4,8,2,0.75,260,Flash,Heal,15,False,12360,11350,Doran's Blade,Infinity Edge,Dagger,Berserker's Greaves,Runaan's Hurricane,Lord Dominik's Regards,433,186298,Lane.bot_lane,Role.carry

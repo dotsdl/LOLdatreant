@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sînner,Renekton,True,Side.blue,1,1,11,12.0,171,Flash,Teleport,13,False,8527,7625,Titanic Hydra,Refillable Potion,The Black Cleaver,,Boots of Speed,Doran's Blade,1404,95736,Lane.top_lane,Role.solo
+1,NayvadiusWilburn,Ryze,True,Side.blue,7,5,9,3.2,96,Flash,Cleanse,11,False,8293,7150,Doran's Ring,Fiendish Codex,Rod of Ages,Ionian Boots of Lucidity,Needlessly Large Rod,Tear of the Goddess,50060,8998,Lane.mid_lane,Role.solo
+2,TDK Tr4nce,Bard,True,Side.blue,4,2,24,14.0,2,Flash,Exhaust,10,False,7806,7050,Kindlegem,Redemption,Eye of the Watchers,Boots of Mobility,Null-Magic Mantle,,8256,4698,Lane.bot_lane,Role.support
+3,Ninjacrab,Graves,True,Side.blue,12,3,13,8.333333333333334,114,Flash,Smite,13,False,10662,9025,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Hexdrinker,Phantom Dancer,B. F. Sword,3350,103112,Lane.jungle,Role.none
+4,FIoopie,Jhin,True,Side.blue,14,2,13,13.5,138,Flash,Heal,13,True,11526,9125,Refillable Potion,Quicksilver Sash,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,4606,85126,Lane.bot_lane,Role.carry
+5,Taehwan1,Ezreal,False,Side.red,3,7,6,1.2857142857142858,110,Flash,Heal,10,False,7183,6933,Manamune,Doran's Blade,Boots of Speed,Trinity Force,,,13345,45114,Lane.bot_lane,Role.carry
+6,amumumu,Amumu,False,Side.red,0,8,2,0.25,101,Flash,Smite,11,False,6705,5645,Enchantment: Cinderhulk,Hunter's Potion,Ninja Tabi,Chain Vest,Negatron Cloak,,70080,24026,Lane.jungle,Role.none
+7,Rich Homie Lucky,Thresh,False,Side.red,1,8,9,1.25,15,Flash,Ignite,9,False,5504,5375,Control Ward,Ruby Sightstone,Face of the Mountain,Total Biscuit of Rejuvenation,Ruby Crystal,Ionian Boots of Lucidity,5259,3790,Lane.bot_lane,Role.support
+8,Natalia Dyer,Riven,False,Side.red,5,6,0,0.8333333333333334,129,Flash,Teleport,12,False,7602,6825,The Black Cleaver,Ninja Tabi,Refillable Potion,Control Ward,Caulfield's Warhammer,Vampiric Scepter,0,66057,Lane.top_lane,Role.solo
+9,Huhi Lite,Cassiopeia,False,Side.red,4,9,5,1.0,130,Ghost,Flash,12,False,7739,7750,Doran's Ring,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,,,58789,8927,Lane.mid_lane,Role.solo

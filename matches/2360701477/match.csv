@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,Twisted Fate,True,Side.blue,0,4,11,2.75,195,Flash,Cleanse,14,False,11325,10300,Abyssal Scepter,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Lich Bane,,105208,13149,Lane.mid_lane,Role.solo
+1,Liquid fabbbyyy,Alistar,True,Side.blue,2,8,6,1.0,18,Flash,Exhaust,10,False,7195,7200,Redemption,Locket of the Iron Solari,Sightstone,Boots of Mobility,Cloth Armor,Cloth Armor,11068,4701,Lane.bot_lane,Role.support
+2,Santa Quas,Nasus,True,Side.blue,8,2,14,11.0,157,Teleport,Flash,15,False,12234,11533,Doran's Ring,Corrupting Potion,Sterak's Gage,Mercury's Treads,Trinity Force,Spirit Visage,58679,49369,Lane.top_lane,Role.solo
+3,LimitedExtent,Jhin,True,Side.blue,8,5,6,2.8,160,Heal,Flash,12,False,11044,9925,Doran's Blade,Rapid Firecannon,Boots of Swiftness,Pickaxe,Essence Reaver,B. F. Sword,2205,97700,Lane.bot_lane,Role.carry
+4,An Obese Panda,Elise,True,Side.blue,16,2,5,10.5,97,Smite,Flash,14,True,13136,12350,Banshee's Veil,Hextech Protobelt-01,Boots of Mobility,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Cloth Armor,81875,23772,Lane.jungle,Role.none
+5,FZ3R0,Ryze,False,Side.red,4,8,2,0.75,151,Flash,Teleport,12,False,8334,7860,Ionian Boots of Lucidity,Refillable Potion,Seraph's Embrace,Rod of Ages,Amplifying Tome,,70783,6985,Lane.top_lane,Role.solo
+6,Mr Gimix,Ziggs,False,Side.red,7,4,1,2.0,198,Ignite,Flash,14,False,9877,8950,Doran's Ring,Lost Chapter,Sorcerer's Shoes,Luden's Echo,Lich Bane,,108088,15106,Lane.mid_lane,Role.solo
+7,Doublelift,Lee Sin,False,Side.red,3,7,4,1.0,131,Flash,Smite,13,False,8468,8125,Tiamat,Mercury's Treads,Enchantment: Warrior,Dead Man's Plate,,,14409,92499,Lane.jungle,Role.none
+8,Turc,Ashe,False,Side.red,5,9,4,1.0,138,Heal,Flash,11,False,8927,8400,Doran's Blade,Zeal,Recurve Bow,Cull,Berserker's Greaves,Essence Reaver,2020,65290,Lane.bot_lane,Role.carry
+9,JayJ,Karma,False,Side.red,1,6,14,2.5,18,Exhaust,Flash,11,False,7766,6800,Redemption,Boots of Mobility,Ruby Sightstone,Frostfang,Forbidden Idol,,15439,6035,Lane.bot_lane,Role.support

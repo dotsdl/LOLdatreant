@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xaxifer,Draven,False,Side.blue,6,6,9,2.5,259,Flash,Heal,15,False,15600,15500,Quicksilver Sash,Last Whisper,Phantom Dancer,The Bloodthirster,Infinity Edge,Berserker's Greaves,3346,193217,Lane.bot_lane,Role.carry
+1,herolineage,Syndra,False,Side.blue,12,8,9,2.625,196,Flash,Ignite,16,True,14584,14325,Rylai's Crystal Scepter,Morellonomicon,Void Staff,Sorcerer's Shoes,Rabadon's Deathcap,,135474,8617,Lane.mid_lane,Role.solo
+2,Sunae,Lulu,False,Side.blue,1,6,16,2.8333333333333335,9,Exhaust,Flash,14,False,10104,9520,Locket of the Iron Solari,Eye of the Watchers,Redemption,Boots of Mobility,Raptor Cloak,Negatron Cloak,9113,3737,Lane.bot_lane,Role.support
+3,ahein,Trundle,False,Side.blue,6,7,5,1.5714285714285714,213,Flash,Ignite,17,False,13629,13725,Phage,Blade of the Ruined King,Ravenous Hydra,Ninja Tabi,Stinger,Frozen Heart,5143,140652,Lane.top_lane,Role.solo
+4,I nostradamus I,Graves,False,Side.blue,8,9,8,1.7777777777777777,189,Flash,Smite,16,False,14483,13225,Lord Dominik's Regards,Youmuu's Ghostblade,Vampiric Scepter,Ninja Tabi,Enchantment: Warrior,Phantom Dancer,4975,203272,Lane.jungle,Role.none
+5,Invernable Wang,Renekton,True,Side.red,3,8,8,1.375,227,Teleport,Flash,17,False,13201,12355,The Black Cleaver,Ravenous Hydra,Ninja Tabi,Spirit Visage,,Warden's Mail,2120,150945,Lane.top_lane,Role.solo
+6,StoneW0lf,Blitzcrank,True,Side.red,1,7,16,2.4285714285714284,52,Exhaust,Flash,14,False,10672,9100,Face of the Mountain,,Aegis of the Legion,Ruby Sightstone,Knight's Vow,Ninja Tabi,15140,13363,Lane.bot_lane,Role.support
+7,Opposed,Rek'Sai,True,Side.red,9,1,15,24.0,159,Smite,Flash,17,False,14923,13375,Warden's Mail,Titanic Hydra,Enchantment: Cinderhulk,Ninja Tabi,Sterak's Gage,Guardian Angel,35350,125359,Lane.jungle,Role.none
+8,TurntAF,Twitch,True,Side.red,16,9,10,2.888888888888889,176,Flash,Heal,16,False,15776,12600,,Runaan's Hurricane,Phantom Dancer,Infinity Edge,Berserker's Greaves,Vampiric Scepter,0,133851,Lane.bot_lane,Role.carry
+9,hunf,Twisted Fate,True,Side.red,7,8,11,2.25,243,Exhaust,Flash,18,False,16097,14250,Doran's Ring,Mercury's Treads,Abyssal Scepter,Lich Bane,Rabadon's Deathcap,Void Staff,186936,22723,Lane.mid_lane,Role.solo

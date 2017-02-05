@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cuddly Camel,Annie,True,Side.blue,11,8,10,2.625,127,Flash,Ignite,14,False,12286,11000,Morellonomicon,Void Staff,Blasting Wand,Sorcerer's Shoes,Abyssal Scepter,,63860,9127,Lane.bot_lane,Role.carry
+1,Folklord,Braum,True,Side.blue,5,2,22,13.5,45,Exhaust,Flash,15,False,10828,9150,Knight's Vow,Ninja Tabi,Eye of the Equinox,Frozen Heart,Cloth Armor,,10907,12943,Lane.bot_lane,Role.support
+2,Winged100,Vi,True,Side.blue,10,6,14,4.0,142,Smite,Flash,15,True,13513,11858,Enchantment: Warrior,Refillable Potion,Randuin's Omen,Mercury's Treads,Trinity Force,Jaurim's Fist,1519,147281,Lane.jungle,Role.none
+3,cookies4santa,Jayce,True,Side.blue,7,4,11,4.5,227,Teleport,Flash,16,False,13586,11025,The Black Cleaver,Youmuu's Ghostblade,Ninja Tabi,Mortal Reminder,Null-Magic Mantle,Long Sword,20592,129444,Lane.top_lane,Role.solo
+4,Screaming,Veigar,True,Side.blue,7,4,13,5.0,203,Ghost,Flash,16,False,12793,11100,Ionian Boots of Lucidity,Rabadon's Deathcap,Banshee's Veil,,Morellonomicon,,124340,10773,Lane.mid_lane,Role.solo
+5,II Master II,Vayne,False,Side.red,10,11,1,1.0,150,Flash,Heal,13,False,10965,10850,Infinity Edge,Statikk Shiv,Hexdrinker,Berserker's Greaves,Serrated Dirk,Null-Magic Mantle,22431,61419,Lane.bot_lane,Role.carry
+6,TF Demon King,Hecarim,False,Side.red,7,6,8,2.5,99,Smite,Ghost,14,False,10481,9958,Skirmisher's Sabre,Mercury's Treads,Spirit Visage,Control Ward,Chain Vest,Trinity Force,9768,97785,Lane.jungle,Role.none
+7,KaneKi521,Yasuo,False,Side.red,2,6,7,1.5,222,Flash,Teleport,15,False,10923,9780,B. F. Sword,Doran's Blade,Phantom Dancer,Frozen Mallet,Cloak of Agility,Mercury's Treads,31687,104766,Lane.top_lane,Role.solo
+8,Skymark,Karma,False,Side.red,0,9,10,1.1111111111111112,16,Flash,Exhaust,11,False,7746,7200,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Aegis of the Legion,Null-Magic Mantle,,12827,2983,Lane.bot_lane,Role.support
+9,Laura Fuentes,Malzahar,False,Side.red,5,8,7,1.5,168,Ghost,Flash,14,False,10708,10250,Morellonomicon,Abyssal Scepter,Rylai's Crystal Scepter,Doran's Ring,,Ionian Boots of Lucidity,69178,25408,Lane.mid_lane,Role.solo

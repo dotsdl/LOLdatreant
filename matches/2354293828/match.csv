@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Swifte,Thresh,False,Side.blue,2,6,19,3.5,18,Flash,Exhaust,13,False,7859,7175,Locket of the Iron Solari,Ruby Sightstone,Kindlegem,Ionian Boots of Lucidity,Targon's Brace,Ruby Crystal,10936,4428,Lane.bot_lane,Role.support
+1,xFSN Saber,Twitch,False,Side.blue,8,7,12,2.857142857142857,216,Heal,Flash,15,False,12885,12430,Doran's Blade,Blade of the Ruined King,Infinity Edge,Brawler's Gloves,Runaan's Hurricane,Berserker's Greaves,318,129275,Lane.bot_lane,Role.carry
+2,Stumpey,Fiora,False,Side.blue,3,11,6,0.8181818181818182,145,Flash,Teleport,14,False,9725,9175,Ninja Tabi,Doran's Blade,Ravenous Hydra,Cloth Armor,,The Black Cleaver,1004,78603,Lane.top_lane,Role.solo
+3,CC Wolf,Zac,False,Side.blue,7,8,12,2.375,146,Smite,Flash,15,False,10440,9475,Refillable Potion,Randuin's Omen,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Dead Man's Plate,,96234,21345,Lane.jungle,Role.none
+4,Get Good Le Bad,Syndra,False,Side.blue,8,6,4,2.0,219,Ghost,Flash,15,False,11826,11900,Rabadon's Deathcap,,Sorcerer's Shoes,,Morellonomicon,Void Staff,162814,9834,Lane.mid_lane,Role.solo
+5,Mister Wubz,Ezreal,True,Side.red,8,4,12,5.0,167,Flash,Heal,14,True,12746,12033,Muramana,Blade of the Ruined King,Pickaxe,Trinity Force,Ionian Boots of Lucidity,Doran's Blade,20295,114047,Lane.bot_lane,Role.carry
+6,Weeaboo Riven,Riven,True,Side.red,9,6,9,3.0,179,Flash,Teleport,15,False,12676,12850,The Black Cleaver,Zhonya's Hourglass,,Doran's Blade,Ionian Boots of Lucidity,Ravenous Hydra,4340,122602,Lane.top_lane,Role.solo
+7,Kind Fate,Lee Sin,True,Side.red,9,4,14,5.75,111,Smite,Flash,14,False,13075,11925,Banshee's Veil,Tiamat,Enchantment: Warrior,Dead Man's Plate,Long Sword,Mercury's Treads,19789,118318,Lane.jungle,Role.none
+8,smurfsare4kids,Orianna,True,Side.red,11,6,5,2.6666666666666665,156,Flash,Ghost,14,False,13044,13000,Needlessly Large Rod,Zhonya's Hourglass,Rabadon's Deathcap,Sorcerer's Shoes,Morellonomicon,Doran's Ring,101033,15020,Lane.mid_lane,Role.solo
+9,Neoseanster,Leona,True,Side.red,1,8,22,2.875,46,Ignite,Flash,13,False,10141,9000,Face of the Mountain,Sightstone,Knight's Vow,Boots of Mobility,Locket of the Iron Solari,Cloth Armor,13687,11747,Lane.bot_lane,Role.support

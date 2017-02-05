@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tomoebi,Ahri,True,Side.blue,7,4,6,3.25,175,Flash,Ignite,15,False,12727,11450,Needlessly Large Rod,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,Void Staff,Doran's Ring,62252,16939,Lane.mid_lane,Role.solo
+1,Metrothexual,Zyra,True,Side.blue,4,5,7,2.2,39,Flash,Ignite,13,False,10582,10175,Total Biscuit of Rejuvenation,Eye of the Watchers,Needlessly Large Rod,Liandry's Torment,Giant's Belt,Sorcerer's Shoes,34833,3695,Lane.bot_lane,Role.support
+2,SAI guanxi CN ,Sivir,True,Side.blue,6,4,10,4.0,231,Heal,Flash,15,False,14168,12250,,Phantom Dancer,Essence Reaver,Dagger,Infinity Edge,Berserker's Greaves,0,168659,Lane.bot_lane,Role.carry
+3,Stessy Poirier,Tryndamere,True,Side.blue,4,2,5,4.5,243,Flash,Teleport,17,False,13574,12100,Blade of the Ruined King,Infinity Edge,Mercury's Treads,Doran's Blade,Statikk Shiv,Long Sword,41870,150102,Lane.top_lane,Role.solo
+4,Andy Sensei,Lee Sin,True,Side.blue,9,4,15,6.0,122,Smite,Flash,16,False,13633,11525,Enchantment: Warrior,Tiamat,Spirit Visage,Mercury's Treads,Maw of Malmortius,Ruby Crystal,19730,102784,Lane.jungle,Role.none
+5,Ganad0s,Amumu,False,Side.red,3,6,6,1.5,103,Smite,Flash,13,False,9231,8450,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Mercury's Treads,Spectre's Cowl,Ruby Crystal,76310,16846,Lane.jungle,Role.none
+6,TranK,Viktor,False,Side.red,3,6,7,1.6666666666666667,247,Cleanse,Flash,15,False,11653,11000,Perfect Hex Core,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,Doran's Ring,,144367,14890,Lane.mid_lane,Role.solo
+7,Pros,Ryze,False,Side.red,9,4,1,2.5,187,Flash,Teleport,15,False,11391,10485,Rod of Ages,Seraph's Embrace,Morellonomicon,,Ionian Boots of Lucidity,Amplifying Tome,121690,10034,Lane.top_lane,Role.solo
+8,Snôw,Caitlyn,False,Side.red,2,8,4,0.75,171,Heal,Flash,12,False,9412,8825,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,,Doran's Blade,526,98118,Lane.bot_lane,Role.carry
+9,Winter is back,Veigar,False,Side.red,2,6,5,1.1666666666666667,43,Flash,Ignite,12,True,8652,7960,Sorcerer's Shoes,The Dark Seal,Abyssal Scepter,Eye of the Watchers,Amplifying Tome,Ruby Crystal,39640,5988,Lane.bot_lane,Role.support

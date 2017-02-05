@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DumPooPoo,Alistar,True,Side.blue,3,6,5,1.3333333333333333,33,Exhaust,Flash,12,False,8134,7875,Redemption,Locket of the Iron Solari,Eye of the Equinox,Control Ward,Boots of Mobility,,8275,8562,Lane.bot_lane,Role.support
+1,Hyosung,Caitlyn,True,Side.blue,10,6,8,3.0,218,Flash,Heal,15,False,13598,10350,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,Kircheis Shard,1199,144281,Lane.bot_lane,Role.carry
+2,Sheiden,Kennen,True,Side.blue,7,5,9,3.2,213,Teleport,Flash,16,False,12820,10660,Zhonya's Hourglass,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,,88063,28175,Lane.top_lane,Role.solo
+3,Hi I am Zack,Orianna,True,Side.blue,7,3,11,6.0,196,Ghost,Flash,16,False,12899,10610,Rylai's Crystal Scepter,Needlessly Large Rod,Sorcerer's Shoes,Amplifying Tome,Morellonomicon,Blasting Wand,112920,15332,Lane.mid_lane,Role.solo
+4,06 24 1998,Vi,True,Side.blue,4,3,7,3.6666666666666665,127,Smite,Flash,15,False,11179,10208,Enchantment: Warrior,Hexdrinker,Long Sword,Trinity Force,Boots of Swiftness,Giant's Belt,714,145551,Lane.jungle,Role.none
+5,Fiku,Elise,False,Side.red,8,8,7,1.875,109,Flash,Smite,14,True,10277,10125,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Abyssal Scepter,,Boots of Mobility,,81029,29485,Lane.jungle,Role.none
+6,Ikzencriel,Twitch,False,Side.red,5,7,6,1.5714285714285714,175,Heal,Flash,12,False,9266,7950,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,0,82926,Lane.bot_lane,Role.carry
+7,Mitia Karamazov,Kassadin,False,Side.red,3,5,7,2.0,140,Flash,Teleport,13,False,8387,7710,The Dark Seal,Corrupting Potion,Rod of Ages,Abyssal Scepter,Fiendish Codex,Amplifying Tome,68095,15042,Lane.mid_lane,Role.solo
+8,ShadowofSelf,Karma,False,Side.red,2,4,13,3.75,17,Flash,Exhaust,12,False,8013,7875,Redemption,Eye of the Watchers,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,,19803,5035,Lane.bot_lane,Role.support
+9,ily and ily,Riven,False,Side.red,5,7,1,0.8571428571428571,183,Flash,Teleport,14,False,9374,8950,Maw of Malmortius,Mercury's Treads,Refillable Potion,Tiamat,The Black Cleaver,,1014,94145,Lane.top_lane,Role.solo

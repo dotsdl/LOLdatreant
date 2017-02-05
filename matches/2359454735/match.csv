@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dna shockwave,LeBlanc,False,Side.blue,6,7,5,1.5714285714285714,127,Ignite,Flash,12,False,8379,8225,Doran's Ring,Sorcerer's Shoes,Void Staff,The Dark Seal,Morellonomicon,Doran's Ring,53437,10384,Lane.mid_lane,Role.solo
+1,Str1fe,Vayne,False,Side.blue,0,5,2,0.4,109,Flash,Heal,10,False,6034,5475,Doran's Blade,Pickaxe,Berserker's Greaves,B. F. Sword,Zeal,Dagger,0,38655,Lane.bot_lane,Role.carry
+2,Wizzy,Kayle,False,Side.blue,1,5,2,0.6,38,Ignite,Flash,9,False,5631,3925,Frostfang,Pickaxe,Doran's Ring,Doran's Ring,Boots of Speed,Blasting Wand,18125,6495,Lane.bot_lane,Role.support
+3,Daarr,Nidalee,False,Side.blue,6,3,8,4.666666666666667,144,Flash,Smite,14,False,10293,9775,Mercury's Treads,Enchantment: Runic Echoes,Refillable Potion,Iceborn Gauntlet,The Dark Seal,Rod of Ages,101630,25974,Lane.jungle,Role.none
+4,HoNSol0,Maokai,False,Side.blue,3,5,8,2.2,147,Flash,Teleport,13,False,8347,7750,Doran's Ring,Refillable Potion,Sunfire Cape,Frozen Heart,Mercury's Treads,Ruby Crystal,66472,13599,Lane.top_lane,Role.solo
+5,dog2,Veigar,True,Side.red,5,3,9,4.666666666666667,168,Flash,Teleport,14,False,9892,7550,Abyssal Scepter,Sorcerer's Shoes,Banshee's Veil,Doran's Ring,Doran's Ring,,86397,12728,Lane.mid_lane,Role.solo
+6,Max Waldo,Irelia,True,Side.red,5,3,4,3.0,192,Flash,Teleport,13,False,9647,8083,Corrupting Potion,Hexdrinker,Mercury's Treads,Trinity Force,Giant's Belt,Cloth Armor,1675,76920,Lane.top_lane,Role.solo
+7,Biofrost ,Thresh,True,Side.red,2,3,9,3.6666666666666665,24,Flash,Ignite,11,False,6675,5925,Ruby Sightstone,Relic Shield,Boots of Mobility,Redemption,Control Ward,Null-Magic Mantle,11215,5117,Lane.bot_lane,Role.support
+8,Peng Yiliang,Twitch,True,Side.red,4,3,4,2.6666666666666665,187,Flash,Heal,12,False,9850,7900,Doran's Blade,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Hexdrinker,Pickaxe,0,80777,Lane.bot_lane,Role.carry
+9,toke dude,Poppy,True,Side.red,9,4,8,4.25,101,Smite,Flash,13,True,10012,8050,Enchantment: Cinderhulk,Hunter's Potion,Locket of the Iron Solari,Mercury's Treads,Spectre's Cowl,Null-Magic Mantle,25341,69390,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nwok,Braum,True,Side.blue,3,1,16,19.0,30,Flash,Exhaust,13,False,9114,8600,Face of the Mountain,Redemption,Ruby Sightstone,Control Ward,Boots of Mobility,Aegis of the Legion,8196,6645,Lane.bot_lane,Role.support
+1,Rekyn,LeBlanc,True,Side.blue,6,4,7,3.25,143,Flash,Ignite,14,False,10738,10350,Luden's Echo,Morellonomicon,Abyssal Scepter,Doran's Ring,Boots of Speed,Doran's Ring,78336,10878,Lane.mid_lane,Role.solo
+2,C9 TOXIC BONOBO,Yasuo,True,Side.blue,11,2,1,6.0,214,Teleport,Flash,15,True,13270,11425,Doran's Blade,Phantom Dancer,Infinity Edge,Mercury's Treads,Frozen Mallet,Ruby Crystal,27340,126549,Lane.top_lane,Role.solo
+3,Voilez,Twitch,True,Side.blue,6,4,9,3.75,184,Heal,Flash,13,False,11863,11000,Infinity Edge,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Last Whisper,494,110427,Lane.bot_lane,Role.carry
+4,Yura Yin,Lee Sin,True,Side.blue,6,2,6,6.0,177,Flash,Smite,15,False,12216,10685,Ravenous Hydra,Refillable Potion,Control Ward,Enchantment: Warrior,The Black Cleaver,Mercury's Treads,27852,143905,Lane.jungle,Role.none
+5,TheNuocMam,Lux,False,Side.red,5,3,1,2.0,229,Heal,Flash,15,False,10560,8350,Mejai's Soulstealer,Blasting Wand,Doran's Ring,Sorcerer's Shoes,Luden's Echo,Needlessly Large Rod,120167,11709,Lane.mid_lane,Role.solo
+6,Tallwhitebro,Janna,False,Side.red,1,5,6,1.4,7,Flash,Exhaust,11,False,6435,5725,Frostfang,Sightstone,Redemption,Boots of Mobility,Ruby Crystal,Null-Magic Mantle,4898,4575,Lane.bot_lane,Role.support
+7,Nintendo,Kha'Zix,False,Side.red,5,9,2,0.7777777777777778,93,Smite,Flash,12,False,8792,8150,Refillable Potion,The Black Cleaver,Ninja Tabi,Enchantment: Warrior,Serrated Dirk,,4197,85516,Lane.jungle,Role.none
+8,Omnic1de,Ezreal,False,Side.red,2,10,4,0.6,164,Flash,Heal,12,False,8864,7850,Cull,Muramana,Ionian Boots of Lucidity,Doran's Blade,Iceborn Gauntlet,Vampiric Scepter,12288,77218,Lane.bot_lane,Role.carry
+9,E1ectrik,Nautilus,False,Side.red,0,5,4,0.8,160,Flash,Teleport,13,False,7746,6925,Doran's Ring,Sunfire Cape,Kindlegem,Ninja Tabi,Chain Vest,Cloth Armor,57032,22517,Lane.top_lane,Role.solo

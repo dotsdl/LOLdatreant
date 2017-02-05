@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MindCalm,Cassiopeia,True,Side.blue,4,1,4,8.0,185,Flash,Ghost,14,False,10647,8510,Seraph's Embrace,Refillable Potion,Blasting Wand,Rylai's Crystal Scepter,Amplifying Tome,,88395,13767,Lane.mid_lane,Role.solo
+1,The Rain Mang,Rek'Sai,True,Side.blue,10,1,12,22.0,152,Flash,Smite,16,False,13206,11885,Enchantment: Warrior,Titanic Hydra,Ninja Tabi,Chain Vest,The Black Cleaver,Ruby Crystal,18319,134114,Lane.jungle,Role.none
+2,Modx,Riven,True,Side.blue,3,2,1,2.0,238,Flash,Teleport,15,False,10944,10325,The Black Cleaver,Ravenous Hydra,Caulfield's Warhammer,Mercury's Treads,Long Sword,Pickaxe,140,145792,Lane.top_lane,Role.solo
+3,Carrots2,Soraka,True,Side.blue,1,3,15,5.333333333333333,11,Flash,Exhaust,11,False,7966,7430,Sightstone,Redemption,Ionian Boots of Lucidity,Ardent Censer,Control Ward,Frostfang,8232,3852,Lane.bot_lane,Role.support
+4,MongolWarrior,Twitch,True,Side.blue,13,5,8,4.2,155,Heal,Flash,14,True,13072,10575,Doran's Blade,Bilgewater Cutlass,Recurve Bow,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,282,103449,Lane.bot_lane,Role.carry
+5,SuperButtBlast,Nasus,False,Side.red,0,3,2,0.6666666666666666,194,Flash,Teleport,13,False,8610,8000,Doran's Ring,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,Doran's Ring,Dead Man's Plate,55252,31525,Lane.top_lane,Role.solo
+6,IWDFridge,Shyvana,False,Side.red,3,8,1,0.5,137,Smite,Flash,12,False,8464,8100,Blade of the Ruined King,Control Ward,Enchantment: Bloodrazor,Boots of Speed,Warden's Mail,Ruby Crystal,55231,55793,Lane.jungle,Role.none
+7,Applum,Karma,False,Side.red,2,5,5,1.4,172,Flash,Ghost,13,False,8503,8435,Luden's Echo,Amplifying Tome,,Morellonomicon,Sorcerer's Shoes,Doran's Ring,76960,10888,Lane.mid_lane,Role.solo
+8,Cat Person,Janna,False,Side.red,0,5,7,1.4,10,Flash,Heal,10,False,6304,5925,Redemption,Sightstone,,Spellthief's Edge,Aegis of the Legion,Ionian Boots of Lucidity,3891,3210,Lane.bot_lane,Role.support
+9,Falco Mechanic,Vayne,False,Side.red,7,10,3,1.0,159,Exhaust,Flash,12,False,9601,8700,Doran's Blade,Berserker's Greaves,Infinity Edge,Phantom Dancer,Doran's Blade,Long Sword,0,98516,Lane.bot_lane,Role.carry

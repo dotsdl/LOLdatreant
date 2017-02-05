@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Naeun,Nidalee,True,Side.blue,4,5,9,2.6,130,Smite,Flash,14,False,11133,9850,Spirit Visage,Enchantment: Runic Echoes,Ruby Crystal,Iceborn Gauntlet,Mercury's Treads,,109494,32576,Lane.jungle,Role.none
+1,camtheham,Vayne,True,Side.blue,5,3,6,3.6666666666666665,153,Heal,Flash,13,False,10539,8350,Infinity Edge,Control Ward,Statikk Shiv,Doran's Blade,Berserker's Greaves,Dagger,8416,80597,Lane.bot_lane,Role.solo
+2,LL Stylish,Zed,True,Side.blue,17,2,7,12.0,178,Cleanse,Flash,15,False,14706,13350,Jaurim's Fist,Edge of Night,The Black Cleaver,Duskblade of Draktharr,Boots of Swiftness,Tiamat,9396,124330,Lane.mid_lane,Role.solo
+3,LimitedExtent,Poppy,True,Side.blue,1,1,6,7.0,146,Teleport,Flash,14,False,8884,7600,Sunfire Cape,Corrupting Potion,Spirit Visage,Mercury's Treads,Cloth Armor,,19343,49817,Lane.top_lane,Role.solo
+4,An Obese Panda,Brand,True,Side.blue,4,4,6,2.5,50,Flash,Ignite,11,False,9198,7775,Frost Queen's Claim,Sightstone,Control Ward,Liandry's Torment,Boots of Mobility,,38799,8236,Lane.jungle,Role.none
+5,SSBM Hax,Twisted Fate,False,Side.red,4,7,9,1.8571428571428572,116,Flash,Exhaust,12,False,7819,7525,Seeker's Armguard,Rod of Ages,Sheen,Aether Wisp,Ionian Boots of Lucidity,Doran's Ring,54143,7566,Lane.mid_lane,Role.solo
+6,JayJ,Thresh,False,Side.red,2,10,9,1.1,23,Exhaust,Flash,10,False,5784,5325,Targon's Brace,Boots of Mobility,Ruby Sightstone,Aegis of the Legion,Ruby Crystal,,7603,3302,Lane.bot_lane,Role.support
+7,mandatorycloud,Rek'Sai,False,Side.red,3,5,7,2.0,115,Flash,Smite,12,False,7713,7100,Enchantment: Cinderhulk,Tiamat,Refillable Potion,Ninja Tabi,Giant's Belt,Chain Vest,11901,70113,Lane.jungle,Role.none
+8,Regular Mid,Jinx,False,Side.red,5,4,6,2.75,144,Flash,Heal,11,False,8098,7950,Control Ward,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Doran's Blade,,196,77662,Lane.bot_lane,Role.carry
+9,Myloo,Rumble,False,Side.red,1,5,1,0.4,182,Flash,Teleport,13,True,7568,6535,Sorcerer's Shoes,Refillable Potion,Liandry's Torment,Doran's Shield,Giant's Belt,Amplifying Tome,85156,11928,Lane.top_lane,Role.solo

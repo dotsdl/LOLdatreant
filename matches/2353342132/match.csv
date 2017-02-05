@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Im 15,Maokai,True,Side.blue,2,1,5,7.0,174,Flash,Teleport,14,False,8952,8325,Doran's Ring,Frozen Heart,Ninja Tabi,Null-Magic Mantle,Sunfire Cape,Ruby Crystal,72335,15371,Lane.top_lane,Role.solo
+1,itwerkforsatan,Lissandra,True,Side.blue,8,5,6,2.8,140,Ignite,Flash,14,False,9744,8200,Doran's Ring,Refillable Potion,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Seeker's Armguard,72820,9192,Lane.mid_lane,Role.solo
+2,Tricycle,Vayne,True,Side.blue,3,4,9,3.0,148,Heal,Flash,12,False,8744,6550,Doran's Blade,Statikk Shiv,B. F. Sword,Pickaxe,Berserker's Greaves,,12976,53466,Lane.bot_lane,Role.carry
+3,WaffIes,Alistar,True,Side.blue,2,4,11,3.25,36,Exhaust,Flash,11,False,6753,5650,Targon's Brace,Knight's Vow,Sightstone,Boots of Mobility,,,8231,5789,Lane.bot_lane,Role.support
+4,DeathrunnerWC,Kha'Zix,True,Side.blue,14,3,4,6.0,135,Smite,Flash,14,False,11493,8610,Enchantment: Warrior,Long Sword,Control Ward,Duskblade of Draktharr,Ionian Boots of Lucidity,Tiamat,4461,130964,Lane.jungle,Role.none
+5,Scóre,Graves,False,Side.red,8,5,3,2.2,139,Smite,Flash,13,False,10399,9725,Enchantment: Warrior,Phantom Dancer,Control Ward,Mortal Reminder,Null-Magic Mantle,Berserker's Greaves,2534,116498,Lane.jungle,Role.none
+6,AnnieTopOnly,Annie,False,Side.red,4,7,3,1.0,123,Flash,Ignite,12,True,7722,5975,Doran's Ring,Doran's Ring,The Dark Seal,Abyssal Scepter,Ionian Boots of Lucidity,Blasting Wand,46963,5844,Lane.mid_lane,Role.solo
+7,Liquid Lima,Jhin,False,Side.red,2,6,5,1.1666666666666667,111,Flash,Heal,11,False,7458,7050,Youmuu's Ghostblade,Doran's Blade,Duskblade of Draktharr,Boots of Speed,,,4178,58780,Lane.bot_lane,Role.carry
+8,Figurato,Tryndamere,False,Side.red,3,7,0,0.42857142857142855,160,Flash,Teleport,12,False,8280,7700,Blade of the Ruined King,Health Potion,Control Ward,Berserker's Greaves,Statikk Shiv,,11603,78237,Lane.top_lane,Role.solo
+9,dog baby,Karma,False,Side.red,0,5,10,2.0,10,Flash,Exhaust,10,False,6337,5875,Total Biscuit of Rejuvenation,Redemption,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,,8472,2955,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LL Stylish,Zed,True,Side.blue,5,4,10,3.75,133,Ignite,Flash,13,False,9403,8225,Boots of Swiftness,Duskblade of Draktharr,Youmuu's Ghostblade,Long Sword,Long Sword,,4608,70573,Lane.mid_lane,Role.solo
+1,CloudNguyén,Jax,True,Side.blue,10,1,8,18.0,140,Teleport,Flash,14,False,11470,10283,Blade of the Ruined King,Corrupting Potion,Mercury's Treads,Doran's Blade,Trinity Force,Chain Vest,25183,77197,Lane.top_lane,Role.solo
+2,ShörterACE,Lee Sin,True,Side.blue,8,4,10,4.5,77,Flash,Smite,12,True,9649,8650,Tiamat,Randuin's Omen,Ninja Tabi,Enchantment: Warrior,,Null-Magic Mantle,9884,70546,Lane.jungle,Role.none
+3,Liquid fabbbyyy,Vayne,True,Side.blue,12,2,7,9.5,191,Flash,Heal,13,False,12765,10600,,Berserker's Greaves,Infinity Edge,Doran's Blade,Rapid Firecannon,Statikk Shiv,24295,90429,Lane.bot_lane,Role.carry
+4,Winter is back,Lulu,True,Side.blue,2,2,17,9.5,7,Flash,Exhaust,11,False,8353,8300,Ardent Censer,Boots of Swiftness,Chalice of Harmony,Sightstone,Fiendish Codex,Frost Queen's Claim,8255,6148,Lane.bot_lane,Role.support
+5,S Diana 2,Diana,False,Side.red,3,9,6,1.0,100,Teleport,Flash,11,False,6933,6150,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Doran's Ring,Needlessly Large Rod,,56471,8373,Lane.top_lane,Role.solo
+6,Xmithie,Ivern,False,Side.red,2,6,6,1.3333333333333333,82,Smite,Flash,11,False,6948,6750,Locket of the Iron Solari,Redemption,Ionian Boots of Lucidity,Hunter's Talisman,Fiendish Codex,,7868,1860,Lane.jungle,Role.none
+7,Vincente Vu,Twitch,False,Side.red,4,5,3,1.4,106,Flash,Heal,11,False,7250,6250,Berserker's Greaves,B. F. Sword,Pickaxe,Recurve Bow,Zeal,Doran's Blade,0,40025,Lane.bot_lane,Role.carry
+8,cesuna,Talon,False,Side.red,2,8,4,0.75,157,Flash,Ignite,12,False,7409,6000,Youmuu's Ghostblade,Corrupting Potion,Phage,Ionian Boots of Lucidity,,Cloth Armor,631,82519,Lane.mid_lane,Role.solo
+9,TeddyRO,Miss Fortune,False,Side.red,2,9,7,1.0,16,Flash,Exhaust,10,False,6082,5750,Eye of the Watchers,Refillable Potion,Boots of Speed,The Black Cleaver,,,10410,9556,Lane.bot_lane,Role.support

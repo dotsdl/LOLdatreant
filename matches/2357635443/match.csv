@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vyvie,Trundle,True,Side.blue,2,1,6,8.0,195,Flash,Teleport,14,False,9067,9000,Ravenous Hydra,Corrupting Potion,,Cloth Armor,Spirit Visage,Mercury's Treads,1246,99549,Lane.top_lane,Role.solo
+1,WindWallAndChill,Yasuo,True,Side.blue,5,3,8,4.333333333333333,143,Exhaust,Flash,13,False,9226,7900,Doran's Blade,Phantom Dancer,Infinity Edge,Mercury's Treads,,,19318,54008,Lane.mid_lane,Role.solo
+2,ChexMex,Twitch,True,Side.blue,5,2,7,6.0,117,Flash,Heal,12,False,8618,6550,Doran's Blade,Blade of the Ruined King,Control Ward,Berserker's Greaves,Recurve Bow,Dagger,69,59809,Lane.bot_lane,Role.carry
+3,Vicktorious,Taliyah,True,Side.blue,7,3,7,4.666666666666667,46,Flash,Ignite,10,False,8839,7425,Rylai's Crystal Scepter,Frostfang,Sightstone,Blasting Wand,Ruby Crystal,Sorcerer's Shoes,41219,5314,Lane.bot_lane,Role.support
+4,Momo NicoNicoNii,Rumble,True,Side.blue,14,4,7,5.25,110,Smite,Flash,13,True,11669,11275,Refillable Potion,Enchantment: Runic Echoes,Boots of Swiftness,Rylai's Crystal Scepter,Liandry's Torment,Seeker's Armguard,85947,17219,Lane.jungle,Role.none
+5,bvcx222,Malzahar,False,Side.red,2,5,1,0.6,135,Flash,Ghost,12,False,7096,6325,Zhonya's Hourglass,Refillable Potion,Catalyst of Aeons,Doran's Ring,Lost Chapter,Boots of Speed,47267,19445,Lane.mid_lane,Role.solo
+6,J P,Caitlyn,False,Side.red,7,7,1,1.1428571428571428,123,Flash,Heal,11,False,8307,7900,Doran's Blade,Infinity Edge,Runaan's Hurricane,,Berserker's Greaves,,1611,59201,Lane.bot_lane,Role.carry
+7,Krab Zix,Talon,False,Side.red,2,8,4,0.75,84,Flash,Smite,11,False,6964,7000,Enchantment: Warrior,Youmuu's Ghostblade,Boots of Swiftness,Long Sword,,,1565,64062,Lane.jungle,Role.none
+8,BloodOak,Leona,False,Side.red,0,7,6,0.8571428571428571,27,Exhaust,Flash,9,False,5793,5550,Targon's Brace,Sightstone,Locket of the Iron Solari,Ruby Crystal,,Ninja Tabi,7228,5662,Lane.bot_lane,Role.support
+9,always ham,Swain,False,Side.red,2,6,0,0.3333333333333333,137,Teleport,Flash,11,False,6824,6400,Doran's Ring,Rod of Ages,Ninja Tabi,Seeker's Armguard,Fiendish Codex,,51070,10786,Lane.top_lane,Role.solo

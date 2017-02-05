@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ShadowofSelf,Elise,True,Side.blue,8,1,2,10.0,132,Flash,Smite,14,False,11224,9400,Enchantment: Runic Echoes,Seeker's Armguard,Sorcerer's Shoes,,Fiendish Codex,Rylai's Crystal Scepter,99791,30155,Lane.jungle,Role.none
+1,Pekin Woof,Ryze,True,Side.blue,4,1,5,9.0,184,Flash,Ghost,14,False,9634,7075,Seraph's Embrace,Refillable Potion,Rod of Ages,,Ionian Boots of Lucidity,,108664,9748,Lane.jungle,Role.none
+2,Sìyou,Ezreal,True,Side.blue,3,2,9,6.0,148,Flash,Heal,13,False,8964,7550,Muramana,Total Biscuit of Rejuvenation,Iceborn Gauntlet,Berserker's Greaves,Long Sword,Doran's Blade,9672,78403,Lane.bot_lane,Role.carry
+3,Anita,Zilean,True,Side.blue,7,2,6,6.5,34,Ignite,Flash,12,False,8552,6385,,,Eye of the Watchers,Amplifying Tome,Rod of Ages,Boots of Speed,32488,4027,Lane.bot_lane,Role.support
+4,out skizzled,Riven,True,Side.blue,3,3,4,2.3333333333333335,201,Flash,Teleport,14,False,9455,8350,Doran's Blade,,Ninja Tabi,The Black Cleaver,,Ravenous Hydra,0,110732,Lane.top_lane,Role.solo
+5,Cotopaco Parce,Orianna,False,Side.red,3,5,2,1.0,166,Ghost,Flash,12,False,7636,6950,Doran's Ring,Morellonomicon,Aether Wisp,Sorcerer's Shoes,Needlessly Large Rod,,77424,12459,Lane.mid_lane,Role.solo
+6,Kebin M,Poppy,False,Side.red,1,6,2,0.5,123,Flash,Teleport,11,False,6416,6070,Corrupting Potion,Mercury's Treads,Sunfire Cape,Negatron Cloak,Ruby Crystal,Null-Magic Mantle,16927,42373,Lane.top_lane,Role.solo
+7,Gerrard,Thresh,False,Side.red,1,5,5,1.2,22,Flash,Exhaust,9,False,5095,4550,Eye of the Equinox,,,Crystalline Bracer,Boots of Mobility,,6261,2923,Lane.bot_lane,Role.support
+8,Gweiss,Graves,False,Side.red,1,3,5,2.0,123,Smite,Flash,12,False,7035,6275,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Hexdrinker,Caulfield's Warhammer,,2911,83951,Lane.jungle,Role.none
+9,MongolWarrior,Twitch,False,Side.red,3,6,3,1.0,142,Heal,Flash,11,True,7408,7325,Doran's Blade,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Pickaxe,Cloak of Agility,0,65786,Lane.bot_lane,Role.carry

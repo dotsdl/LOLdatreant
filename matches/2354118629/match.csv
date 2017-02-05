@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Korean Pig,Kog'Maw,True,Side.blue,10,3,6,5.333333333333333,225,Ghost,Flash,16,False,13761,11685,Seraph's Embrace,Corrupting Potion,Sorcerer's Shoes,Luden's Echo,Liandry's Torment,Amplifying Tome,163108,11800,Lane.mid_lane,Role.solo
+1,Ehdy,Graves,True,Side.blue,1,5,6,1.4,149,Smite,Flash,15,False,10645,9825,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Ninja Tabi,,Phantom Dancer,6345,147946,Lane.jungle,Role.none
+2,mackenzee,Vayne,True,Side.blue,6,1,3,9.0,298,Heal,Flash,16,False,13818,12550,B. F. Sword,Berserker's Greaves,Infinity Edge,Phantom Dancer,Statikk Shiv,Vampiric Scepter,47298,121579,Lane.bot_lane,Role.carry
+3,Zsukie,Riven,True,Side.blue,2,5,5,1.4,220,Teleport,Flash,16,False,11246,9525,Doran's Shield,Refillable Potion,Tiamat,Ninja Tabi,The Black Cleaver,Maw of Malmortius,0,130606,Lane.top_lane,Role.solo
+4,is trevor strong,Braum,True,Side.blue,2,1,11,13.0,54,Exhaust,Flash,15,False,9851,8500,Knight's Vow,Boots of Mobility,Ruby Sightstone,Aegis of the Legion,,Face of the Mountain,9033,8994,Lane.bot_lane,Role.support
+5,godtd,Maokai,False,Side.red,2,5,5,1.4,229,Teleport,Flash,15,False,10959,10685,Ninja Tabi,Corrupting Potion,Iceborn Gauntlet,Sunfire Cape,Chain Vest,Giant's Belt,113789,20397,Lane.top_lane,Role.solo
+6,DoJeon,Janna,False,Side.red,0,3,6,2.0,11,Ignite,Flash,13,False,7357,6850,Mikael's Crucible,Eye of the Oasis,Forbidden Idol,Boots of Mobility,Aether Wisp,,7277,6104,Lane.bot_lane,Role.support
+7,Holy Troll,Ezreal,False,Side.red,1,4,4,1.25,242,Heal,Flash,13,False,10318,9900,Blade of the Ruined King,Manamune,Iceborn Gauntlet,Ionian Boots of Lucidity,,Doran's Blade,8985,101273,Lane.bot_lane,Role.carry
+8,EnVy Nien,Lee Sin,False,Side.red,9,3,3,4.0,161,Flash,Smite,15,True,11753,13833,Tiamat,Phage,Sightstone,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,16977,122267,Lane.jungle,Role.none
+9,JaySo,Xerath,False,Side.red,3,6,3,1.0,206,Ghost,Flash,15,False,10533,10410,Giant's Belt,Morellonomicon,Luden's Echo,Needlessly Large Rod,Ionian Boots of Lucidity,Amplifying Tome,129514,11185,Lane.mid_lane,Role.solo

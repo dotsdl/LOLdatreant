@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GalileoGalilley,Graves,True,Side.blue,5,7,5,1.4285714285714286,162,Flash,Heal,12,False,9689,9400,Doran's Blade,Death's Dance,Doran's Blade,Phantom Dancer,Mercury's Treads,B. F. Sword,1386,104968,Lane.bot_lane,Role.carry
+1,W1NTERHOWL,Rengar,True,Side.blue,14,1,12,26.0,170,Exhaust,Flash,14,False,13191,9350,Doran's Blade,Spirit Visage,Tiamat,Mercury's Treads,Long Sword,The Black Cleaver,14215,121997,Lane.jungle,Role.none
+2,iloveanything,Quinn,True,Side.blue,12,3,14,8.666666666666666,91,Flash,Ignite,13,False,10246,8895,Hexdrinker,Duskblade of Draktharr,Serrated Dirk,Boots of Mobility,Caulfield's Warhammer,,2893,64535,Lane.jungle,Role.none
+3,PuppyKing,Lee Sin,True,Side.blue,5,3,10,5.0,117,Smite,Flash,13,True,9560,8675,Enchantment: Warrior,Tiamat,Refillable Potion,The Black Cleaver,Hexdrinker,Boots of Speed,19439,86227,Lane.jungle,Role.none
+4,Zyko,Nami,True,Side.blue,3,2,24,13.5,6,Exhaust,Flash,11,False,8020,6925,Redemption,Sightstone,Aegis of the Legion,Frostfang,Boots of Mobility,Null-Magic Mantle,8148,3925,Lane.bot_lane,Role.support
+5,MST3kMantra,Ivern,False,Side.red,1,9,7,0.8888888888888888,66,Flash,Smite,11,False,6717,6550,Refillable Potion,Tracker's Knife,Ninja Tabi,Frozen Heart,Ruby Crystal,Cloth Armor,10555,4913,Lane.jungle,Role.none
+6,Based Stevens,Shaco,False,Side.red,4,7,6,1.4285714285714286,19,Heal,Flash,10,False,6631,6400,Hextech Gunblade,Frostfang,Serrated Dirk,Ionian Boots of Lucidity,Refillable Potion,,19026,7576,Lane.bot_lane,Role.support
+7,Bentonhell,Ashe,False,Side.red,2,8,4,0.75,117,Heal,Flash,10,False,6690,6650,Berserker's Greaves,Brawler's Gloves,,Doran's Blade,Recurve Bow,Infinity Edge,1053,56817,Lane.bot_lane,Role.carry
+8,Crack Woman,Sion,False,Side.red,4,6,0,0.6666666666666666,158,Teleport,Flash,12,False,7829,6500,Sunfire Cape,Corrupting Potion,Ninja Tabi,Warden's Mail,Glacial Shroud,,33857,61782,Lane.top_lane,Role.solo
+9,Zojuu,Cassiopeia,False,Side.red,5,9,2,0.7777777777777778,124,Flash,Exhaust,11,False,7568,6950,Doran's Ring,Zhonya's Hourglass,Tear of the Goddess,Doran's Ring,Needlessly Large Rod,Giant's Belt,58038,6835,Lane.mid_lane,Role.solo

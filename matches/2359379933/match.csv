@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizzy,Kayle,True,Side.blue,12,3,3,5.0,237,Heal,Flash,15,False,15142,14025,Mejai's Soulstealer,Nashor's Tooth,Rabadon's Deathcap,Ionian Boots of Lucidity,Guinsoo's Rageblade,Doran's Ring,110029,48039,Lane.bot_lane,Role.carry
+1,zT ace,Lee Sin,True,Side.blue,8,2,6,7.0,130,Smite,Flash,15,True,12452,11525,Boots of Swiftness,Enchantment: Warrior,Tiamat,Maw of Malmortius,Dead Man's Plate,,18716,110699,Lane.jungle,Role.none
+2,Kyree,Gangplank,True,Side.blue,2,8,12,1.75,148,Flash,Exhaust,14,False,11739,11003,Trinity Force,Ionian Boots of Lucidity,Corrupting Potion,Infinity Edge,Zeal,Dagger,13645,155573,Lane.top_lane,Role.solo
+3,Hyorimaru,Anivia,True,Side.blue,4,4,10,3.5,29,Flash,Ignite,13,False,10253,8825,Zz'Rot Portal,Sightstone,Frost Queen's Claim,Aegis of the Legion,Boots of Mobility,Tear of the Goddess,21402,3748,Lane.bot_lane,Role.support
+4,Kaiceytron,Zyra,True,Side.blue,4,3,10,4.666666666666667,146,Ignite,Flash,15,False,11352,9800,Doran's Ring,Doran's Ring,Blasting Wand,Luden's Echo,Liandry's Torment,Sorcerer's Shoes,87310,18654,Lane.mid_lane,Role.solo
+5,MyPetRicky,Janna,False,Side.red,1,5,7,1.6,11,Exhaust,Flash,13,False,7321,6650,Redemption,Aegis of the Legion,Sightstone,Null-Magic Mantle,Nomad's Medallion,Ionian Boots of Lucidity,5554,2254,Lane.bot_lane,Role.support
+6,Ghostxpure,Miss Fortune,False,Side.red,5,5,2,1.4,206,Heal,Flash,14,False,10450,9050,Infinity Edge,Essence Reaver,Berserker's Greaves,,Doran's Blade,,8329,107769,Lane.bot_lane,Role.carry
+7,Ikzencriel,Irelia,False,Side.red,9,11,1,0.9090909090909091,188,Teleport,Flash,14,False,11043,10383,Trinity Force,Doran's Blade,Blade of the Ruined King,Spectre's Cowl,Mercury's Treads,,5469,90960,Lane.top_lane,Role.solo
+8,one trick hehexd,Orianna,False,Side.red,5,5,5,2.0,188,Flash,Ghost,14,False,9947,8760,Sorcerer's Shoes,Abyssal Scepter,Morellonomicon,The Dark Seal,Amplifying Tome,Giant's Belt,109370,14809,Lane.mid_lane,Role.solo
+9,BaIance,Ivern,False,Side.red,0,4,10,2.5,80,Smite,Flash,13,False,8727,7875,Hunter's Talisman,Locket of the Iron Solari,Redemption,Ionian Boots of Lucidity,Athene's Unholy Grail,,6681,3624,Lane.jungle,Role.none

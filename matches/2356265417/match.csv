@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IIlIIlIIIlllIIlI,Viktor,False,Side.blue,5,8,4,1.125,223,Ghost,Flash,15,False,11283,11310,Perfect Hex Core,Void Staff,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,,135356,12178,Lane.mid_lane,Role.solo
+1,Bw2jkcl7q1,Illaoi,False,Side.blue,3,8,2,0.625,211,Flash,Teleport,15,False,11092,10925,The Black Cleaver,Youmuu's Ghostblade,Dead Man's Plate,Mercury's Treads,Long Sword,,305,141522,Lane.top_lane,Role.solo
+2,Day after Day,Varus,False,Side.blue,1,8,8,1.125,212,Heal,Flash,13,False,10162,9125,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Doran's Blade,Long Sword,Cloak of Agility,5926,110427,Lane.bot_lane,Role.carry
+3,Słave,Zac,False,Side.blue,3,8,4,0.875,132,Smite,Flash,13,False,9730,8475,Spirit Visage,Warden's Mail,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Giant's Belt,92401,20175,Lane.jungle,Role.none
+4,bvcx222,Blitzcrank,False,Side.blue,3,6,7,1.6666666666666667,39,Flash,Exhaust,12,False,8479,7925,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Control Ward,,Boots of Mobility,6691,7260,Lane.bot_lane,Role.support
+5,Abou222,Caitlyn,True,Side.red,9,2,11,10.0,237,Heal,Flash,16,False,14278,13200,Lord Dominik's Regards,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,2594,177260,Lane.bot_lane,Role.carry
+6,Sìyou,Karma,True,Side.red,6,3,15,7.0,48,Flash,Ignite,14,False,11859,9900,Sorcerer's Shoes,Eye of the Watchers,Athene's Unholy Grail,Mejai's Soulstealer,Needlessly Large Rod,Blasting Wand,39116,6888,Lane.bot_lane,Role.support
+7,Wazabiee,Cassiopeia,True,Side.red,10,4,13,5.75,219,Ghost,Flash,16,False,14563,12500,Seraph's Embrace,Void Staff,,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,150038,6439,Lane.mid_lane,Role.solo
+8,is that Rex,Lee Sin,True,Side.red,10,4,9,4.75,122,Smite,Flash,16,True,12845,11775,Titanic Hydra,The Black Cleaver,Enchantment: Cinderhulk,Hexdrinker,,Mercury's Treads,29503,93958,Lane.jungle,Role.none
+9,SoloMeatballOnly,Renekton,True,Side.red,3,2,9,6.0,235,Ignite,Flash,16,False,12213,11150,Refillable Potion,Locket of the Iron Solari,Titanic Hydra,Ninja Tabi,The Black Cleaver,Vampiric Scepter,5311,133620,Lane.top_lane,Role.solo

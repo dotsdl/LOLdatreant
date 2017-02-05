@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,XJ10,Kog'Maw,False,Side.blue,2,12,7,0.75,245,Barrier,Flash,15,False,12039,11710,Seraph's Embrace,Zz'Rot Portal,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,,140134,15039,Lane.mid_lane,Role.solo
+1,GoSuPoTaTo,Nasus,False,Side.blue,6,4,6,3.0,266,Teleport,Flash,17,False,14240,14333,Chain Vest,Spirit Visage,Trinity Force,Ionian Boots of Lucidity,Dead Man's Plate,Lord Dominik's Regards,25814,217398,Lane.top_lane,Role.solo
+2,Stanatic,Rek'Sai,False,Side.blue,7,8,8,1.875,165,Flash,Smite,16,False,12846,12350,Hexdrinker,Titanic Hydra,Enchantment: Cinderhulk,Caulfield's Warhammer,Boots of Swiftness,Zz'Rot Portal,33682,115509,Lane.jungle,Role.none
+3,Horny Pix,Morgana,False,Side.blue,3,6,11,2.3333333333333335,31,Flash,Ignite,13,True,10302,9200,Frost Queen's Claim,Ruby Sightstone,Control Ward,Luden's Echo,Boots of Mobility,Crystalline Bracer,25305,5490,Lane.bot_lane,Role.support
+4,Xyrul,Caitlyn,False,Side.blue,4,5,7,2.2,237,Flash,Heal,14,False,12428,11300,Vampiric Scepter,Infinity Edge,Runaan's Hurricane,Quicksilver Sash,Last Whisper,Berserker's Greaves,685,161437,Lane.bot_lane,Role.carry
+5,AvadaKedavra BAM,Sona,True,Side.red,2,5,20,4.4,170,Flash,Barrier,16,False,11702,9435,Doran's Ring,Athene's Unholy Grail,Boots of Speed,Lich Bane,Morellonomicon,Amplifying Tome,64705,21470,Lane.mid_lane,Role.solo
+6,FaR007,Bard,True,Side.red,3,5,20,4.6,26,Ignite,Flash,15,False,11107,8250,Frost Queen's Claim,Ruby Sightstone,Redemption,Boots of Mobility,Glacial Shroud,,23646,9440,Lane.bot_lane,Role.support
+7,Al Palladini,Ivern,True,Side.red,5,3,19,8.0,98,Smite,Flash,17,False,12652,11050,Redemption,Locket of the Iron Solari,Zz'Rot Portal,Enchantment: Runic Echoes,Ionian Boots of Lucidity,,26023,12121,Lane.jungle,Role.none
+8,Koreanism,Rammus,True,Side.red,9,4,8,4.25,273,Flash,Teleport,18,False,14257,13520,Sunfire Cape,Dead Man's Plate,Randuin's Omen,Thornmail,Ninja Tabi,Negatron Cloak,141443,50002,Lane.top_lane,Role.solo
+9,Tehpwner188,Vayne,True,Side.red,16,5,7,4.6,267,Heal,Flash,17,False,17740,14030,Quicksilver Sash,Bilgewater Cutlass,Phantom Dancer,Infinity Edge,Statikk Shiv,Berserker's Greaves,59298,179065,Lane.bot_lane,Role.carry

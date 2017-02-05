@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,W Yuè,Karma,False,Side.blue,0,5,11,2.2,24,Flash,Exhaust,13,False,8360,8000,Eye of the Watchers,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Refillable Potion,,22411,5340,Lane.bot_lane,Role.support
+1,PhD Bunny Riven,Riven,False,Side.blue,3,4,3,1.5,203,Flash,Teleport,14,False,10112,9575,Tiamat,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Vampiric Scepter,,0,106929,Lane.top_lane,Role.solo
+2,iaMsaraK,Graves,False,Side.blue,9,5,6,3.0,204,Flash,Smite,16,True,13876,13675,Enchantment: Warrior,Phantom Dancer,Mercury's Treads,Maw of Malmortius,The Black Cleaver,Vampiric Scepter,7092,177522,Lane.jungle,Role.none
+3,hashinshin,Talon,False,Side.blue,4,8,3,0.875,177,Flash,Teleport,13,False,9893,9225,Tiamat,Maw of Malmortius,Mercury's Treads,Corrupting Potion,Edge of Night,,1176,99914,Lane.mid_lane,Role.solo
+4,BlinkingBuzzard,Ezreal,False,Side.blue,4,7,5,1.2857142857142858,184,Flash,Heal,14,False,10772,10250,Doran's Blade,Muramana,Blade of the Ruined King,,Ionian Boots of Lucidity,Iceborn Gauntlet,16833,92404,Lane.bot_lane,Role.carry
+5,bvcx222,Bard,True,Side.red,4,5,11,3.0,14,Flash,Ignite,13,False,9772,7050,Ruby Sightstone,,Locket of the Iron Solari,Warden's Mail,Spellthief's Edge,Boots of Mobility,10667,8955,Lane.bot_lane,Role.support
+6,simple is best,Cassiopeia,True,Side.red,7,3,9,5.333333333333333,259,Exhaust,Flash,17,False,14272,11025,Doran's Ring,Seraph's Embrace,Rylai's Crystal Scepter,Cloth Armor,Morellonomicon,Blasting Wand,155401,9395,Lane.mid_lane,Role.solo
+7,effortlessly,Shyvana,True,Side.red,4,5,5,1.8,188,Smite,Ghost,15,False,12407,12938,Long Sword,Titanic Hydra,Refillable Potion,Trinity Force,Boots of Swiftness,Enchantment: Bloodrazor,95731,94264,Lane.jungle,Role.none
+8,Pooper Josh,Vayne,True,Side.red,9,6,12,3.5,214,Heal,Flash,16,False,13853,11400,Infinity Edge,Phantom Dancer,Doran's Blade,Berserker's Greaves,Statikk Shiv,Vampiric Scepter,41604,116914,Lane.bot_lane,Role.carry
+9,quante,Nautilus,True,Side.red,5,3,6,3.6666666666666665,204,Teleport,Flash,16,False,12349,10575,Iceborn Gauntlet,Sunfire Cape,Ninja Tabi,Ruby Crystal,Corrupting Potion,Randuin's Omen,90057,30357,Lane.top_lane,Role.solo

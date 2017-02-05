@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SnowBunnyOfLove,Morgana,False,Side.blue,0,6,6,1.0,12,Exhaust,Flash,9,False,5156,3660,Frostfang,,Sightstone,Ionian Boots of Lucidity,The Dark Seal,Amplifying Tome,14467,2500,Lane.bot_lane,Role.support
+1,Gorhunter,Tristana,False,Side.blue,5,6,0,0.8333333333333334,141,Heal,Flash,10,False,7256,7050,Doran's Blade,Recurve Bow,Infinity Edge,Berserker's Greaves,Brawler's Gloves,Dagger,15607,55357,Lane.bot_lane,Role.carry
+2,Flluxi,Lee Sin,False,Side.blue,2,7,1,0.42857142857142855,47,Flash,Smite,10,False,5585,5400,Enchantment: Warrior,Control Ward,Refillable Potion,Mercury's Treads,Hexdrinker,,6943,40440,Lane.jungle,Role.none
+3,Gladator,Nasus,False,Side.blue,4,7,2,0.8571428571428571,91,Teleport,Flash,12,False,6338,5525,Frozen Heart,Ninja Tabi,,,Giant's Belt,,10929,30807,Lane.top_lane,Role.solo
+4,Weed Panda,Ryze,False,Side.blue,3,7,0,0.42857142857142855,98,Flash,Ghost,10,False,5995,5150,Tear of the Goddess,Refillable Potion,Rod of Ages,Boots of Speed,Needlessly Large Rod,,43381,5526,Lane.mid_lane,Role.solo
+5,2342563463634,Riven,True,Side.red,5,6,1,1.0,124,Teleport,Flash,12,True,8160,8000,The Black Cleaver,Lord Dominik's Regards,Boots of Speed,Caulfield's Warhammer,Long Sword,,0,72028,Lane.top_lane,Role.solo
+6,Bichey,Ezreal,True,Side.red,7,3,7,4.666666666666667,153,Heal,Flash,12,False,10278,7400,Iceborn Gauntlet,Manamune,Ionian Boots of Lucidity,Doran's Blade,Cull,Long Sword,11657,70383,Lane.bot_lane,Role.carry
+7,rank 2,Thresh,True,Side.red,1,4,9,2.5,20,Flash,Exhaust,10,False,5788,4450,Face of the Mountain,Boots of Mobility,Sightstone,,Control Ward,,4860,3303,Lane.bot_lane,Role.support
+8,popgoestheglock,Rammus,True,Side.red,4,2,9,6.5,96,Smite,Flash,11,False,8632,7100,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Thornmail,Kindlegem,,46187,28806,Lane.jungle,Role.none
+9,am sol,LeBlanc,True,Side.red,16,0,5,21.0,171,Ignite,Flash,14,False,12698,10850,Abyssal Scepter,Rylai's Crystal Scepter,Sorcerer's Shoes,,Morellonomicon,Doran's Ring,89555,13428,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Źyra,Zyra,False,Side.blue,2,6,2,0.6666666666666666,97,Flash,Teleport,11,False,6745,5100,Zhonya's Hourglass,Doran's Ring,Sorcerer's Shoes,Doran's Ring,,,42293,9145,Lane.mid_lane,Role.solo
+1,Scóre,Rumble,False,Side.blue,1,3,3,1.3333333333333333,128,Teleport,Flash,11,False,7134,7050,Doran's Shield,Liandry's Torment,Seeker's Armguard,Fiendish Codex,,Sorcerer's Shoes,53584,10608,Lane.top_lane,Role.solo
+2,gabzpiano,Xin Zhao,False,Side.blue,3,8,2,0.625,105,Flash,Smite,12,False,8017,7725,Enchantment: Bloodrazor,Mercury's Treads,Dead Man's Plate,Kindlegem,Dagger,,7827,81638,Lane.jungle,Role.none
+3,Never Mechanical,Vayne,False,Side.blue,3,7,2,0.7142857142857143,139,Flash,Heal,11,False,7701,6950,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Zeal,Dagger,Dagger,201,52694,Lane.bot_lane,Role.carry
+4,TSC Alternity,Thresh,False,Side.blue,3,4,3,1.5,29,Flash,Exhaust,10,False,6397,5525,Ionian Boots of Lucidity,Ruby Sightstone,Face of the Mountain,Ruby Crystal,,,7933,6452,Lane.bot_lane,Role.support
+5,Venusaur,Jhin,True,Side.red,3,2,11,7.0,163,Heal,Flash,12,False,10159,8150,Doran's Blade,Boots of Swiftness,Essence Reaver,Cull,Rapid Firecannon,,3284,91147,Lane.bot_lane,Role.carry
+6,I Starboy l,Hecarim,True,Side.red,6,4,7,3.25,63,Smite,Ghost,12,True,9418,8183,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Boots of Swiftness,Ruby Crystal,Cloth Armor,10044,60325,Lane.jungle,Role.none
+7,Hirai Momo,Ekko,True,Side.red,12,4,5,4.25,174,Flash,Teleport,14,False,12566,11780,Mejai's Soulstealer,Needlessly Large Rod,Sorcerer's Shoes,Negatron Cloak,Morellonomicon,Lich Bane,105808,17979,Lane.mid_lane,Role.solo
+8,Megalomaniacal,Olaf,True,Side.red,4,0,7,11.0,132,Flash,Ignite,13,False,8996,8195,Negatron Cloak,The Black Cleaver,Ionian Boots of Lucidity,,,Randuin's Omen,73,74226,Lane.top_lane,Role.solo
+9,Sniper430,Soraka,True,Side.red,3,2,13,8.0,8,Flash,Exhaust,12,False,8072,6775,Talisman of Ascension,Redemption,Sightstone,Control Ward,Boots of Mobility,,14905,4372,Lane.bot_lane,Role.support

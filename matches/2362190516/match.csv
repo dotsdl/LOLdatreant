@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Melting Rain,Caitlyn,True,Side.blue,7,8,12,2.375,191,Heal,Flash,14,False,13325,12225,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,Infinity Edge,Last Whisper,3267,148123,Lane.bot_lane,Role.carry
+1,GooseLife,Karma,True,Side.blue,0,1,24,24.0,17,Flash,Exhaust,13,False,9432,8250,Frostfang,Sightstone,Athene's Unholy Grail,Ardent Censer,Forbidden Idol,Boots of Mobility,22715,5425,Lane.bot_lane,Role.support
+2,0nLy 1,Hecarim,True,Side.blue,15,0,10,25.0,181,Smite,Ghost,17,False,15892,14433,Serrated Dirk,Enchantment: Cinderhulk,Trinity Force,Boots of Swiftness,Dead Man's Plate,Spirit Visage,35748,167826,Lane.jungle,Role.none
+3,IQ is 201 ,Yasuo,True,Side.blue,11,8,5,2.0,192,Flash,Ignite,15,False,12915,11975,Titanic Hydra,,Phantom Dancer,Mercury's Treads,Doran's Blade,Infinity Edge,21884,116394,Lane.mid_lane,Role.solo
+4,longdongsi1ver69,Rumble,True,Side.blue,12,4,5,4.25,207,Flash,Teleport,16,False,13390,12075,Abyssal Scepter,Liandry's Torment,Sorcerer's Shoes,Rylai's Crystal Scepter,Needlessly Large Rod,,124005,15379,Lane.top_lane,Role.solo
+5,Asukira,Taliyah,False,Side.red,7,10,7,1.4,42,Exhaust,Flash,13,True,9617,8900,Rylai's Crystal Scepter,Eye of the Watchers,Sorcerer's Shoes,Lost Chapter,Fiendish Codex,,51717,3362,Lane.bot_lane,Role.support
+6,BlazingCake,Ryze,False,Side.red,4,9,6,1.1111111111111112,175,Flash,Ghost,14,False,9598,9625,Morellonomicon,Rod of Ages,Tear of the Goddess,Sorcerer's Shoes,Needlessly Large Rod,,101374,13329,Lane.mid_lane,Role.solo
+7,Sight,Malphite,False,Side.red,3,5,11,2.8,207,Flash,Teleport,16,False,10476,10100,Corrupting Potion,Sunfire Cape,Ninja Tabi,Zz'Rot Portal,Randuin's Omen,,86043,21662,Lane.top_lane,Role.solo
+8,CN ARESgogogo,Lee Sin,False,Side.red,5,9,7,1.3333333333333333,65,Flash,Smite,13,False,8500,7475,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Ruby Crystal,Cloth Armor,13208,52378,Lane.jungle,Role.none
+9,xia xia,Ashe,False,Side.red,2,12,5,0.5833333333333334,145,Flash,Heal,12,False,8514,8350,Doran's Blade,Total Biscuit of Rejuvenation,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,1351,74647,Lane.bot_lane,Role.carry

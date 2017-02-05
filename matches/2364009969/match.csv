@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bo0sted Monkeys,Orianna,False,Side.blue,0,1,1,1.0,122,Flash,Ghost,11,False,5491,4425,Doran's Ring,Refillable Potion,Boots of Speed,Doran's Ring,Morellonomicon,,52949,8738,Lane.mid_lane,Role.solo
+1,Fake Carry,Twitch,False,Side.blue,5,5,1,1.2,119,Heal,Flash,10,False,6944,6775,Infinity Edge,Zeal,,,Berserker's Greaves,Doran's Blade,0,40980,Lane.bot_lane,Role.carry
+2,Ginormous Noob,Zyra,False,Side.blue,0,3,4,1.3333333333333333,27,Flash,Ignite,9,False,4923,4485,Amplifying Tome,Boots of Mobility,Eye of the Watchers,Control Ward,Ruby Crystal,,20630,4489,Lane.bot_lane,Role.support
+3,Natalia Dyer,Riven,False,Side.blue,2,6,0,0.3333333333333333,118,Flash,Teleport,11,False,6011,5075,Doran's Shield,Refillable Potion,Youmuu's Ghostblade,Control Ward,Boots of Swiftness,Ruby Crystal,0,54460,Lane.top_lane,Role.solo
+4,TwitchTvSysnickl,Maokai,False,Side.blue,0,7,4,0.5714285714285714,90,Smite,Flash,10,False,5506,5250,Enchantment: Cinderhulk,Refillable Potion,Giant's Belt,Mercury's Treads,Cloth Armor,,44353,20547,Lane.jungle,Role.none
+5,CC Wolf,Ezreal,True,Side.red,4,4,5,2.25,142,Heal,Flash,11,True,8643,7900,Doran's Blade,Cull,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,Vampiric Scepter,14113,61480,Lane.bot_lane,Role.carry
+6,PAX Twisted Fate,Twisted Fate,True,Side.red,2,0,8,10.0,143,Ghost,Flash,12,False,8532,6275,Doran's Ring,Refillable Potion,Rod of Ages,Sheen,Ionian Boots of Lucidity,Blasting Wand,80942,13595,Lane.mid_lane,Role.solo
+7,kàylè,Kayle,True,Side.red,4,1,1,5.0,192,Smite,Flash,14,False,9371,9100,Doran's Ring,Control Ward,Berserker's Greaves,Enchantment: Bloodrazor,Guinsoo's Rageblade,Stinger,55794,49918,Lane.top_lane,Role.solo
+8,moon o,Graves,True,Side.red,9,0,3,12.0,96,Smite,Flash,11,False,8937,7700,Enchantment: Warrior,Refillable Potion,Control Ward,Maw of Malmortius,Long Sword,Berserker's Greaves,4056,93337,Lane.jungle,Role.none
+9,aShady,Bard,True,Side.red,3,2,12,7.5,16,Exhaust,Flash,10,False,7097,6950,Refillable Potion,Redemption,Eye of the Watchers,Boots of Mobility,,Aegis of the Legion,7229,3355,Lane.bot_lane,Role.support

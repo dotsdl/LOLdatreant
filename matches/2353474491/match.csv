@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iubanana,Syndra,False,Side.blue,5,5,3,1.6,175,Flash,Ghost,13,True,9487,8325,Refillable Potion,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Doran's Ring,87296,11433,Lane.mid_lane,Role.solo
+1,Epixs,Soraka,False,Side.blue,1,7,7,1.1428571428571428,13,Flash,Exhaust,10,False,6535,6125,Redemption,Ionian Boots of Lucidity,Sightstone,Nomad's Medallion,Raptor Cloak,,8916,2380,Lane.bot_lane,Role.support
+2,GentleFalcon,Graves,False,Side.blue,5,7,4,1.2857142857142858,138,Flash,Smite,15,False,9599,9025,Enchantment: Warrior,Refillable Potion,Quicksilver Sash,Phantom Dancer,Last Whisper,Berserker's Greaves,4892,120394,Lane.jungle,Role.none
+3,Ruannn,Riven,False,Side.blue,4,3,1,1.6666666666666667,182,Flash,Teleport,14,False,9342,8950,The Black Cleaver,Death's Dance,Mercury's Treads,Cloth Armor,,Doran's Blade,0,94415,Lane.top_lane,Role.solo
+4,FishHolic,Lucian,False,Side.blue,5,6,3,1.3333333333333333,193,Flash,Heal,12,False,9843,8700,Phantom Dancer,Infinity Edge,B. F. Sword,Boots of Speed,Doran's Blade,Dagger,2605,118780,Lane.bot_lane,Role.carry
+5,Mp3,Malzahar,True,Side.red,3,1,14,17.0,100,Smite,Flash,14,False,10306,8510,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Seeker's Armguard,Amplifying Tome,,65318,36705,Lane.jungle,Role.none
+6,HatersWantToBeMe,Ezreal,True,Side.red,13,4,7,5.0,199,Heal,Flash,14,False,14162,11483,Doran's Blade,Blade of the Ruined King,Muramana,Cull,Ionian Boots of Lucidity,Trinity Force,6738,124459,Lane.bot_lane,Role.carry
+7,Galdrick,Brand,True,Side.red,6,9,12,2.0,25,Flash,Ignite,11,False,10267,9450,Eye of the Watchers,Haunting Guise,Sorcerer's Shoes,Control Ward,Rylai's Crystal Scepter,Blasting Wand,31868,4927,Lane.bot_lane,Role.support
+8,IQ is 201 ,Ryze,True,Side.red,3,5,11,2.8,173,Flash,Ghost,14,False,10413,8885,Seraph's Embrace,Amplifying Tome,Needlessly Large Rod,Mercury's Treads,Rod of Ages,,101799,9516,Lane.mid_lane,Role.solo
+9,longdongsi1ver69,Poppy,True,Side.red,3,1,4,7.0,177,Flash,Teleport,15,False,10719,9200,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Spectre's Cowl,Kindlegem,34683,72743,Lane.top_lane,Role.solo

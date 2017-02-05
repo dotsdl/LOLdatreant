@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bubbledotjpg,Malphite,True,Side.blue,2,4,11,3.25,235,Flash,Teleport,17,False,12501,11300,Iceborn Gauntlet,Abyssal Scepter,Sunfire Cape,Chain Vest,Mercury's Treads,Cloth Armor,99684,49467,Lane.top_lane,Role.solo
+1,Anthøny,Kha'Zix,True,Side.blue,19,2,3,11.0,159,Smite,Flash,17,True,16839,13600,Guardian Angel,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Maw of Malmortius,Last Whisper,5935,194894,Lane.jungle,Role.none
+2,Purrpurr,Janna,True,Side.blue,0,0,18,18.0,17,Exhaust,Flash,14,False,10028,8385,Redemption,Eye of the Oasis,,Amplifying Tome,Ionian Boots of Lucidity,Locket of the Iron Solari,4824,7415,Lane.bot_lane,Role.support
+3,Sedrixx,Miss Fortune,True,Side.blue,4,2,10,7.0,190,Flash,Heal,15,False,12848,11550,Lord Dominik's Regards,The Black Cleaver,Essence Reaver,Ionian Boots of Lucidity,Long Sword,Long Sword,8830,133115,Lane.bot_lane,Role.carry
+4,Last Bréath,Yasuo,True,Side.blue,4,4,8,3.0,298,Flash,Exhaust,17,False,14359,12675,Blade of the Ruined King,Mercury's Treads,Long Sword,Infinity Edge,Refillable Potion,Phantom Dancer,33167,191137,Lane.mid_lane,Role.solo
+5,M3IKO,Karma,False,Side.red,0,4,2,0.5,6,Flash,Exhaust,7,False,6768,4075,Ionian Boots of Lucidity,Refillable Potion,Eye of the Watchers,Ruby Crystal,Faerie Charm,Control Ward,4761,2214,Lane.bot_lane,Role.support
+6,Alan Senpai,Lux,False,Side.red,1,4,6,1.75,224,Flash,Ghost,16,False,10643,10275,Zhonya's Hourglass,Morellonomicon,Ardent Censer,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,141480,17160,Lane.mid_lane,Role.solo
+7,Høpü,Teemo,False,Side.red,4,4,4,2.0,245,Smite,Flash,17,False,13447,12000,Enchantment: Bloodrazor,Stinger,Sorcerer's Shoes,Zz'Rot Portal,Fiendish Codex,Liandry's Torment,114104,89692,Lane.jungle,Role.none
+8,Jordanian Sniper,Jhin,False,Side.red,2,8,4,0.75,193,Flash,Heal,14,False,10257,9950,Essence Reaver,Rapid Firecannon,Boots of Speed,Doran's Blade,Last Whisper,Dagger,9728,104098,Lane.bot_lane,Role.carry
+9,Chad Reformed ,Renekton,False,Side.red,5,9,1,0.6666666666666666,272,Ghost,Flash,16,False,12913,12860,The Black Cleaver,Randuin's Omen,Titanic Hydra,Ninja Tabi,,Chain Vest,5870,178777,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,camtheham,Caitlyn,False,Side.blue,4,6,10,2.3333333333333335,201,Heal,Flash,14,True,10138,9775,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Doran's Blade,Long Sword,Infinity Edge,665,106994,Lane.bot_lane,Role.carry
+1,GordanRamsey,Evelynn,False,Side.blue,8,5,7,3.0,88,Smite,Flash,13,False,9395,7725,Enchantment: Runic Echoes,The Dark Seal,Giant's Belt,Sorcerer's Shoes,Hextech Protobelt-01,Refillable Potion,66413,21954,Lane.jungle,Role.none
+2,Niles,Viktor,False,Side.blue,10,6,5,2.5,178,Flash,Ghost,14,False,11260,10550,Rylai's Crystal Scepter,Void Staff,Doran's Ring,Perfect Hex Core,Ionian Boots of Lucidity,,97068,10328,Lane.jungle,Role.none
+3,tommy1,Gangplank,False,Side.blue,2,9,10,1.3333333333333333,138,Teleport,Flash,14,False,9645,9033,Corrupting Potion,Trinity Force,Ionian Boots of Lucidity,Statikk Shiv,B. F. Sword,,9246,105845,Lane.top_lane,Role.solo
+4,TszHin OvO,Thresh,False,Side.blue,3,5,12,3.0,38,Ignite,Flash,12,False,7384,6550,Redemption,Eye of the Equinox,Ninja Tabi,The Dark Seal,,Ruby Crystal,13572,4257,Lane.bot_lane,Role.support
+5,CloudNguyén,Irelia,True,Side.red,12,5,10,4.4,174,Teleport,Flash,16,False,13705,12633,Blade of the Ruined King,Control Ward,Spirit Visage,Mercury's Treads,Trinity Force,Chain Vest,3882,96731,Lane.top_lane,Role.solo
+6,Wizzy,Kayle,True,Side.red,10,3,2,4.0,194,Ghost,Flash,15,False,12973,13050,Abyssal Scepter,Blasting Wand,Guinsoo's Rageblade,Ionian Boots of Lucidity,Nashor's Tooth,Needlessly Large Rod,103982,40904,Lane.mid_lane,Role.solo
+7,Natalia Dyer,Ezreal,True,Side.red,4,8,9,1.625,110,Flash,Heal,12,False,9384,8808,Doran's Blade,Muramana,Vampiric Scepter,Control Ward,Berserker's Greaves,Trinity Force,7974,49036,Lane.bot_lane,Role.carry
+8,Ikzencriel,Lee Sin,True,Side.red,1,7,10,1.5714285714285714,94,Smite,Flash,13,False,9130,8350,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Giant's Belt,Cloth Armor,14564,68083,Lane.jungle,Role.none
+9,Micester,Karma,True,Side.red,4,4,6,2.5,32,Exhaust,Flash,12,False,8981,8650,Redemption,Sightstone,Frost Queen's Claim,Mikael's Crucible,,Boots of Mobility,17845,5875,Lane.bot_lane,Role.support

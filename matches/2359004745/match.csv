@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Albahtross,Zac,True,Side.blue,3,1,8,11.0,163,Flash,Teleport,14,False,9965,8900,Sunfire Cape,Spirit Visage,Haunting Guise,,,Mercury's Treads,82548,12874,Lane.top_lane,Role.solo
+1,senor squid,Vel'Koz,True,Side.blue,5,1,4,9.0,194,Flash,Ghost,15,False,11045,9575,Doran's Ring,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,108586,13199,Lane.mid_lane,Role.solo
+2,URMOMBLEEDING,Graves,True,Side.blue,7,0,3,10.0,128,Smite,Flash,13,False,10533,9125,B. F. Sword,Enchantment: Warrior,Berserker's Greaves,The Black Cleaver,Pickaxe,,4851,115826,Lane.jungle,Role.none
+3,Iockett,Soraka,True,Side.blue,0,0,10,10.0,3,Exhaust,Flash,12,False,7373,7250,Talisman of Ascension,Sightstone,Boots of Mobility,Locket of the Iron Solari,Ruby Crystal,,3144,2723,Lane.bot_lane,Role.support
+4,Prayrs,Draven,True,Side.blue,4,0,4,8.0,226,Flash,Heal,14,False,12970,12375,Berserker's Greaves,The Bloodthirster,Rapid Firecannon,Doran's Blade,Infinity Edge,Dagger,3405,151562,Lane.bot_lane,Role.carry
+5,Missed Callls,Caitlyn,False,Side.red,0,3,0,0.0,125,Flash,Heal,10,False,6351,5650,Doran's Blade,Total Biscuit of Rejuvenation,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,,567,67062,Lane.bot_lane,Role.carry
+6,APotatoWithAGun,Janna,False,Side.red,0,2,0,0.0,8,Exhaust,Flash,10,False,4970,4450,,Redemption,Sightstone,Ancient Coin,Boots of Mobility,,1130,1140,Lane.bot_lane,Role.support
+7,Flacodac,Master Yi,False,Side.red,1,6,0,0.16666666666666666,163,Ghost,Smite,13,False,7982,7875,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Serrated Dirk,,Youmuu's Ghostblade,1633,131535,Lane.jungle,Role.none
+8,EnVy Nien,Ryze,False,Side.red,1,5,0,0.2,184,Flash,Ghost,12,True,7996,7445,Tear of the Goddess,Lost Chapter,Fiendish Codex,Sorcerer's Shoes,Negatron Cloak,Rod of Ages,86886,11354,Lane.mid_lane,Role.solo
+9,ruruoni kenshi,Maokai,False,Side.red,0,3,0,0.0,169,Flash,Teleport,13,False,7141,6400,Doran's Ring,Mercury's Treads,Doran's Ring,Doran's Ring,Spirit Visage,Warden's Mail,83570,13616,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Madlifes Baby,Karma,True,Side.blue,2,4,11,3.25,8,Exhaust,Flash,11,True,7503,7375,Crystalline Bracer,Locket of the Iron Solari,Sightstone,Boots of Speed,Frostfang,Ardent Censer,10514,4374,Lane.bot_lane,Role.support
+1,Moon Diana,Diana,True,Side.blue,2,2,11,6.5,148,Flash,Teleport,12,False,9063,9025,Rod of Ages,Rabadon's Deathcap,Fiendish Codex,Doran's Ring,Doran's Ring,Boots of Speed,72715,13090,Lane.mid_lane,Role.solo
+2,never negative,Graves,True,Side.blue,7,3,1,2.6666666666666665,115,Smite,Flash,13,False,9678,9600,Enchantment: Warrior,Phantom Dancer,Hunter's Potion,Boots of Swiftness,Youmuu's Ghostblade,Control Ward,2473,124265,Lane.jungle,Role.none
+3,Fakierush,Jhin,True,Side.blue,5,2,4,4.5,182,Flash,Heal,12,False,10428,10325,B. F. Sword,Total Biscuit of Rejuvenation,Rapid Firecannon,Boots of Swiftness,Pickaxe,Essence Reaver,5601,96497,Lane.bot_lane,Role.carry
+4,am tham ben em,LeBlanc,True,Side.blue,11,1,2,13.0,183,Flash,Ignite,14,False,11275,8460,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Amplifying Tome,Doran's Ring,,97134,11680,Lane.top_lane,Role.solo
+5,HonyakuEn,Viktor,False,Side.red,3,5,3,1.2,138,Ghost,Flash,12,False,7151,7035,The Hex Core mk-2,Abyssal Scepter,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,,62847,7540,Lane.mid_lane,Role.solo
+6,CsCs Scientist,Blitzcrank,False,Side.red,0,6,6,1.0,26,Flash,Exhaust,10,False,5132,4825,Eye of the Equinox,Ruby Crystal,Boots of Swiftness,Null-Magic Mantle,Cloth Armor,Cloth Armor,5713,5215,Lane.bot_lane,Role.support
+7,gabzpiano,Xin Zhao,False,Side.red,3,5,2,1.0,93,Flash,Smite,11,False,6800,5925,Enchantment: Bloodrazor,Mercury's Treads,Chain Vest,Warden's Mail,Ruby Crystal,,4427,66262,Lane.jungle,Role.none
+8,Guereca,Lucian,False,Side.red,3,4,0,0.75,156,Heal,Flash,11,False,7685,6850,Doran's Blade,Refillable Potion,Dagger,Infinity Edge,Berserker's Greaves,Kircheis Shard,1742,67979,Lane.bot_lane,Role.carry
+9,Dyr0nejk2,Renekton,False,Side.red,3,7,0,0.42857142857142855,128,Ghost,Flash,12,False,6844,6700,Doran's Blade,Phage,Doran's Blade,Maw of Malmortius,Mercury's Treads,,1573,61524,Lane.top_lane,Role.solo

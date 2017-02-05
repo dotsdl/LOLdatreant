@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JewAvenger,Lulu,True,Side.blue,1,4,11,3.0,18,Flash,Exhaust,13,False,9309,8100,Locket of the Iron Solari,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,,12647,7203,Lane.bot_lane,Role.support
+1,Fledge,Katarina,True,Side.blue,18,7,3,3.0,158,Ignite,Flash,16,True,14463,11675,The Dark Seal,Zhonya's Hourglass,Void Staff,Sorcerer's Shoes,Luden's Echo,Blasting Wand,119764,13559,Lane.mid_lane,Role.solo
+2,Sud83,Xin Zhao,True,Side.blue,9,0,2,11.0,265,Smite,Flash,17,False,15541,13083,Enchantment: Bloodrazor,Blade of the Ruined King,Tiamat,Berserker's Greaves,Trinity Force,Pickaxe,18366,241388,Lane.jungle,Role.none
+3,iLeon,Jayce,True,Side.blue,2,4,3,1.25,183,Ignite,Flash,14,False,10379,8200,Manamune,Long Sword,The Black Cleaver,Last Whisper,,Ionian Boots of Lucidity,11251,86296,Lane.top_lane,Role.solo
+4,Snagg57,Caitlyn,True,Side.blue,7,5,3,2.0,168,Heal,Flash,13,False,11383,10125,Zeal,Berserker's Greaves,Kircheis Shard,Doran's Blade,Infinity Edge,Runaan's Hurricane,1167,111852,Lane.bot_lane,Role.carry
+5,Nsbo,Vayne,False,Side.red,3,8,9,1.5,132,Heal,Flash,13,False,9170,8800,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Null-Magic Mantle,Dagger,24927,48250,Lane.bot_lane,Role.carry
+6,Dragonite LvL 99,Malphite,False,Side.red,4,4,3,1.75,210,Flash,Teleport,15,False,10118,9325,Iceborn Gauntlet,Spectre's Cowl,Sunfire Cape,Ninja Tabi,Kindlegem,,66416,31295,Lane.top_lane,Role.solo
+7,TiltMan2DMax,Rengar,False,Side.red,8,9,2,1.1111111111111112,141,Smite,Flash,13,False,10850,10600,Enchantment: Warrior,The Black Cleaver,Duskblade of Draktharr,Mercury's Treads,Cloth Armor,,12431,108389,Lane.jungle,Role.none
+8,AoyeK,Syndra,False,Side.red,4,10,4,0.8,124,Flash,Exhaust,12,False,8597,7875,Doran's Ring,Morellonomicon,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,,69821,8682,Lane.mid_lane,Role.solo
+9,Take me to Milan,Braum,False,Side.red,1,6,10,1.8333333333333333,39,Flash,Ignite,12,False,7281,6925,Control Ward,Eye of the Equinox,Refillable Potion,Boots of Mobility,Warden's Mail,Locket of the Iron Solari,6503,5491,Lane.bot_lane,Role.support

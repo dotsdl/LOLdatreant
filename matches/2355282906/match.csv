@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KitingYeezus,Kha'Zix,False,Side.blue,7,8,3,1.25,101,Flash,Smite,13,False,9748,9475,Enchantment: Warrior,Tiamat,Boots of Swiftness,Duskblade of Draktharr,Giant's Belt,,4528,99826,Lane.jungle,Role.none
+1,simple is best,Orianna,False,Side.blue,4,5,4,1.6,227,Ghost,Flash,15,False,10937,10850,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Blasting Wand,Morellonomicon,Luden's Echo,125719,16909,Lane.mid_lane,Role.solo
+2,Olov,Thresh,False,Side.blue,1,5,9,2.0,17,Flash,Exhaust,11,False,7004,6540,Talisman of Ascension,Sightstone,Glacial Shroud,Forbidden Idol,,Ionian Boots of Lucidity,8684,3692,Lane.bot_lane,Role.support
+3,master fizz,Fizz,False,Side.blue,10,9,3,1.4444444444444444,188,Flash,Ignite,15,False,11656,11475,Ionian Boots of Lucidity,Zhonya's Hourglass,Lich Bane,Void Staff,Corrupting Potion,Blasting Wand,88593,24949,Lane.top_lane,Role.solo
+4,rainflow,Jhin,False,Side.blue,2,5,5,1.4,159,Flash,Heal,14,False,9343,9050,Essence Reaver,Last Whisper,Rapid Firecannon,Doran's Blade,,Boots of Swiftness,5803,90651,Lane.bot_lane,Role.carry
+5,Is That Sony,Ahri,True,Side.red,9,3,6,5.0,218,Ignite,Flash,16,False,13119,9900,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Needlessly Large Rod,Blasting Wand,Ionian Boots of Lucidity,74373,17483,Lane.mid_lane,Role.solo
+6,GunshyMonkey,Lee Sin,True,Side.red,8,6,13,3.5,180,Smite,Flash,16,False,13684,12500,Titanic Hydra,Enchantment: Warrior,Mercury's Treads,Chain Vest,Maw of Malmortius,Giant's Belt,39452,129711,Lane.jungle,Role.none
+7,Raytastic,Twitch,True,Side.red,7,7,9,2.2857142857142856,170,Flash,Heal,14,False,13348,12025,Doran's Blade,Runaan's Hurricane,Maw of Malmortius,Infinity Edge,Berserker's Greaves,Long Sword,651,127423,Lane.bot_lane,Role.carry
+8,Hermoso Peralta,Jax,True,Side.red,4,3,8,4.0,175,Teleport,Flash,16,False,11656,9933,Trinity Force,Corrupting Potion,Ninja Tabi,Banshee's Veil,Giant's Belt,Warden's Mail,17294,83883,Lane.top_lane,Role.solo
+9,Arane,Karma,True,Side.red,4,5,17,4.2,28,Ignite,Flash,13,True,10623,9125,Redemption,Aegis of the Legion,Eye of the Watchers,Ardent Censer,Ionian Boots of Lucidity,,27614,9794,Lane.bot_lane,Role.support

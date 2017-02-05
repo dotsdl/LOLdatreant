@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bo0sted Monkeys,Ivern,True,Side.blue,4,4,10,3.5,67,Flash,Smite,13,False,8935,8450,Locket of the Iron Solari,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,Stalker's Blade,Refillable Potion,11095,9627,Lane.jungle,Role.none
+1,QuickRev,Zilean,True,Side.blue,2,3,10,4.0,91,Flash,Exhaust,13,False,8519,8185,Lost Chapter,Ionian Boots of Lucidity,Eye of the Watchers,Rod of Ages,Fiendish Codex,Amplifying Tome,50123,8035,Lane.bot_lane,Role.duo
+2,Donmat,Twisted Fate,True,Side.blue,5,2,11,8.0,147,Ghost,Flash,14,False,10425,8535,Ionian Boots of Lucidity,Lich Bane,Doran's Ring,Doran's Ring,Zhonya's Hourglass,Amplifying Tome,97599,16663,Lane.mid_lane,Role.solo
+3,Bes,Vayne,True,Side.blue,2,6,5,1.1666666666666667,106,Heal,Flash,11,False,7926,7875,Doran's Blade,Berserker's Greaves,Blade of the Ruined King,Last Whisper,Giant Slayer,,385,48882,Lane.bot_lane,Role.duo
+4,PieCakeLord,Fiora,True,Side.blue,18,3,5,7.666666666666667,170,Teleport,Flash,15,False,14498,10725,Titanic Hydra,Quicksilver Sash,Corrupting Potion,Vampiric Scepter,Ionian Boots of Lucidity,The Black Cleaver,2524,122161,Lane.top_lane,Role.solo
+5,SamppA,Rek'Sai,False,Side.red,6,4,6,3.0,122,Flash,Smite,12,False,8856,7450,Enchantment: Cinderhulk,Control Ward,Giant's Belt,Warden's Mail,Tiamat,Ninja Tabi,22416,72352,Lane.jungle,Role.none
+6,TwitchChunkylol,Lissandra,False,Side.red,5,6,4,1.5,165,Cleanse,Flash,13,False,9012,8850,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Doran's Ring,Blasting Wand,84696,7148,Lane.mid_lane,Role.solo
+7,aShady,Ezreal,False,Side.red,0,6,5,0.8333333333333334,144,Heal,Flash,11,False,7401,6925,Doran's Blade,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,Long Sword,,11141,68859,Lane.bot_lane,Role.carry
+8,Nëbu,Morgana,False,Side.red,4,4,8,3.0,17,Flash,Ignite,10,False,7119,5785,Boots of Mobility,Redemption,Sightstone,Spellthief's Edge,Fiendish Codex,Amplifying Tome,15507,3883,Lane.bot_lane,Role.support
+9,amumumu,Illaoi,False,Side.red,3,11,0,0.2727272727272727,152,Flash,Teleport,12,True,7838,7475,Doran's Blade,Mercury's Treads,The Black Cleaver,Sterak's Gage,,,0,91062,Lane.top_lane,Role.solo

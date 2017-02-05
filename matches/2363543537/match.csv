@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yarnello,Illaoi,True,Side.blue,7,0,6,13.0,175,Flash,Teleport,13,True,10198,9375,Corrupting Potion,The Black Cleaver,Death's Dance,Serrated Dirk,Mercury's Treads,,508,124610,Lane.top_lane,Role.solo
+1,FrozenNight,Janna,True,Side.blue,0,0,11,11.0,6,Flash,Exhaust,10,False,6210,5625,Ancient Coin,,Sightstone,Redemption,Needlessly Large Rod,Blasting Wand,1193,6319,Lane.bot_lane,Role.support
+2,eThug,Zac,True,Side.blue,7,0,9,16.0,117,Flash,Smite,12,False,9635,7975,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Spirit Visage,Giant's Belt,Cloth Armor,72867,19833,Lane.jungle,Role.none
+3,CloudNguyén,Kennen,True,Side.blue,6,2,8,7.0,119,Teleport,Flash,12,False,8850,8225,Hextech Protobelt-01,Refillable Potion,Control Ward,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,49873,22809,Lane.mid_lane,Role.solo
+4,Liquid Jynthe,Ashe,True,Side.blue,3,1,9,12.0,147,Flash,Heal,11,False,8685,7675,Doran's Blade,Essence Reaver,Control Ward,Berserker's Greaves,Recurve Bow,Zeal,705,81883,Lane.bot_lane,Role.carry
+5,ZambonGG,Maokai,False,Side.red,0,7,0,0.0,97,Flash,Teleport,9,False,4635,5170,Boots of Mobility,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,34335,4337,Lane.top_lane,Role.solo
+6,Imaokai,Caitlyn,False,Side.red,1,4,0,0.25,167,Heal,Flash,10,False,6392,6000,Doran's Blade,Infinity Edge,Boots of Speed,Zeal,Dagger,,931,66876,Lane.bot_lane,Role.carry
+7,Pocket Rhino,Alistar,False,Side.red,0,4,3,0.75,21,Flash,Ignite,8,False,4192,4100,Boots of Mobility,Refillable Potion,Sightstone,Relic Shield,Chalice of Harmony,Forbidden Idol,7739,2273,Lane.bot_lane,Role.support
+8,zlsna,Ryze,False,Side.red,1,7,0,0.14285714285714285,131,Flash,Ghost,11,False,5672,5475,Refillable Potion,Tear of the Goddess,Rod of Ages,Fiendish Codex,,Ionian Boots of Lucidity,59032,6287,Lane.mid_lane,Role.solo
+9,Alex Ich 1,Shyvana,False,Side.red,1,1,1,2.0,97,Ghost,Smite,10,False,5516,5275,Enchantment: Bloodrazor,Refillable Potion,Jaurim's Fist,Boots of Speed,Giant's Belt,,36043,33270,Lane.jungle,Role.none

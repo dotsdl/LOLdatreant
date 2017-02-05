@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Nidalee,False,Side.blue,0,2,1,0.5,40,Smite,Flash,7,False,4578,4975,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,The Dark Seal,,,19596,6364,Lane.jungle,Role.none
+1,péggy,Karma,False,Side.blue,0,7,2,0.2857142857142857,16,Flash,Exhaust,9,False,4696,4650,Boots of Speed,Sightstone,Locket of the Iron Solari,Frostfang,,,16533,2713,Lane.bot_lane,Role.support
+2,Midnightice,Jhin,False,Side.blue,1,5,1,0.4,148,Flash,Heal,10,False,6988,5600,Doran's Blade,Essence Reaver,Cull,Refillable Potion,Boots of Swiftness,,4145,58754,Lane.bot_lane,Role.carry
+3,Zyra owo,Ahri,False,Side.blue,1,6,0,0.16666666666666666,97,Flash,Ignite,11,False,5425,5150,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Doran's Ring,,,26684,9316,Lane.mid_lane,Role.solo
+4,URMOMBLEEDING,Irelia,False,Side.blue,1,5,0,0.2,140,Teleport,Flash,11,False,6289,5708,The Dark Seal,Doran's Blade,The Dark Seal,Trinity Force,Boots of Speed,The Dark Seal,1923,52674,Lane.top_lane,Role.solo
+5,Deleted,Lee Sin,True,Side.red,8,1,7,15.0,81,Flash,Smite,11,True,9933,9425,Enchantment: Warrior,Refillable Potion,Tiamat,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,17740,69638,Lane.jungle,Role.none
+6,jaime sucks,Lux,True,Side.red,4,0,8,12.0,143,Barrier,Flash,13,False,9032,6725,Doran's Ring,,Abyssal Scepter,Boots of Speed,Morellonomicon,,63767,17892,Lane.mid_lane,Role.solo
+7,MisterBizzaroid,Kled,True,Side.red,3,0,3,6.0,144,Flash,Teleport,13,False,8943,8800,Doran's Blade,Caulfield's Warhammer,,Sunfire Cape,The Black Cleaver,Mercury's Treads,3352,64749,Lane.top_lane,Role.solo
+8,Smartypantz,Brand,True,Side.red,5,2,9,7.0,19,Ignite,Flash,11,False,8070,7685,Sorcerer's Shoes,Rylai's Crystal Scepter,Eye of the Watchers,Amplifying Tome,Ruby Crystal,,21170,6082,Lane.bot_lane,Role.support
+9,ImJayceKidding,Twitch,True,Side.red,5,0,7,12.0,160,Heal,Flash,12,False,9958,9600,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,Dagger,0,95888,Lane.bot_lane,Role.carry

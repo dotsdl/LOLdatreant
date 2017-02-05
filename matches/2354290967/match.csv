@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mushkip,Miss Fortune,False,Side.blue,3,4,8,2.75,179,Heal,Flash,13,False,9766,9025,Doran's Blade,Essence Reaver,Infinity Edge,Control Ward,Berserker's Greaves,,5851,96152,Lane.bot_lane,Role.carry
+1,A53 Carry Top,Jayce,False,Side.blue,4,4,7,2.75,227,Teleport,Flash,15,True,10743,10800,Doran's Blade,Quicksilver Sash,Maw of Malmortius,The Black Cleaver,Ionian Boots of Lucidity,Last Whisper,15511,111578,Lane.top_lane,Role.solo
+2,Noob Ad Carry,Yasuo,False,Side.blue,3,7,5,1.1428571428571428,152,Ignite,Flash,12,False,8763,8475,Infinity Edge,,,Mercury's Treads,Phantom Dancer,,21612,65993,Lane.mid_lane,Role.solo
+3,12yrsaMetaSlave,Janna,False,Side.blue,0,5,13,2.6,6,Exhaust,Flash,11,False,6911,6530,Control Ward,Eye of the Watchers,Redemption,Chalice of Harmony,Boots of Mobility,Faerie Charm,4801,3968,Lane.bot_lane,Role.support
+4,Klng Adam,Evelynn,False,Side.blue,11,5,4,3.0,94,Smite,Flash,13,False,10884,10325,Enchantment: Runic Echoes,Hextech Protobelt-01,Ionian Boots of Lucidity,Mejai's Soulstealer,Abyssal Scepter,,77948,37594,Lane.jungle,Role.none
+5,Nuxe,Anivia,True,Side.red,6,1,9,15.0,209,Flash,Teleport,15,False,11734,10050,Morellonomicon,Seraph's Embrace,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,,108143,10830,Lane.mid_lane,Role.solo
+6,Asc Intercourse,Vayne,True,Side.red,6,6,6,2.0,201,Flash,Heal,14,False,11680,10500,B. F. Sword,Blade of the Ruined King,,Hexdrinker,Phantom Dancer,Berserker's Greaves,71,102556,Lane.bot_lane,Role.carry
+7,jacksparrow111,Shyvana,True,Side.red,5,3,9,4.666666666666667,135,Smite,Flash,14,False,10719,9775,Randuin's Omen,Tiamat,Control Ward,Ninja Tabi,Enchantment: Cinderhulk,Spectre's Cowl,71362,63091,Lane.jungle,Role.none
+8,purpleninja0,Malphite,True,Side.red,3,7,11,2.0,148,Teleport,Flash,14,False,9802,9550,Corrupting Potion,Sunfire Cape,Ninja Tabi,Frozen Heart,Thornmail,,54413,27029,Lane.top_lane,Role.solo
+9,EmperorOfGaySex,Bard,True,Side.red,5,4,11,4.0,17,Flash,Ignite,12,False,8978,8550,Frost Queen's Claim,Locket of the Iron Solari,Sightstone,Warden's Mail,Boots of Mobility,Glacial Shroud,9091,4237,Lane.bot_lane,Role.support

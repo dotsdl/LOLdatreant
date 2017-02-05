@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ily and ily,Riven,False,Side.blue,10,7,3,1.8571428571428572,227,Flash,Teleport,15,True,12481,11800,Doran's Blade,Ionian Boots of Lucidity,Chain Vest,Ravenous Hydra,The Black Cleaver,Lord Dominik's Regards,0,140852,Lane.top_lane,Role.solo
+1,Instakill3290,Lux,False,Side.blue,5,9,6,1.2222222222222223,141,Flash,Barrier,13,False,9623,9275,Rabadon's Deathcap,,Morellonomicon,Sorcerer's Shoes,The Dark Seal,,74140,13319,Lane.mid_lane,Role.solo
+2,Stahp Doing That,Janna,False,Side.blue,0,4,15,3.75,12,Exhaust,Flash,12,False,7474,7150,Nomad's Medallion,Redemption,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,Ruby Sightstone,4680,3846,Lane.bot_lane,Role.support
+3,TRUMPSSMALLHANDS,Hecarim,False,Side.blue,5,7,9,2.0,99,Ghost,Smite,13,False,9760,9433,Hunter's Talisman,Refillable Potion,Trinity Force,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,9997,93167,Lane.jungle,Role.none
+4,Region,Ezreal,False,Side.blue,5,4,8,3.25,187,Heal,Flash,13,False,10247,9750,Doran's Blade,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,Mortal Reminder,,19858,85469,Lane.bot_lane,Role.carry
+5,Waifu Killer,Shyvana,True,Side.red,11,4,9,5.0,166,Smite,Ghost,16,False,14895,11075,Titanic Hydra,Ninja Tabi,Enchantment: Bloodrazor,Dead Man's Plate,Null-Magic Mantle,,73161,116521,Lane.jungle,Role.none
+6,FREELO BOYZ,Irelia,True,Side.red,5,6,6,1.8333333333333333,196,Flash,Teleport,16,False,12592,10363,Ninja Tabi,Blade of the Ruined King,Doran's Shield,Trinity Force,Warden's Mail,Null-Magic Mantle,4419,106283,Lane.top_lane,Role.solo
+7,DRRRRRRRRRRRAVEN,Draven,True,Side.red,9,4,9,4.5,175,Flash,Heal,15,False,13965,13850,Mercurial Scimitar,The Bloodthirster,Last Whisper,Berserker's Greaves,Phantom Dancer,Giant Slayer,0,113210,Lane.bot_lane,Role.carry
+8,NeddyNelson,Brand,True,Side.red,3,6,10,2.1666666666666665,18,Exhaust,Flash,13,False,9978,7860,Rylai's Crystal Scepter,Eye of the Watchers,,Ruby Crystal,Sorcerer's Shoes,Amplifying Tome,35237,6396,Lane.bot_lane,Role.support
+9,ubernewbz,Morgana,True,Side.red,3,5,14,3.4,127,Flash,Exhaust,14,False,10998,8200,Doran's Ring,Abyssal Scepter,Zhonya's Hourglass,Sorcerer's Shoes,Blasting Wand,,57696,13631,Lane.mid_lane,Role.solo

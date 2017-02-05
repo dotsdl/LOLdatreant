@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,S Lyn,Vayne,True,Side.blue,7,1,4,11.0,228,Heal,Flash,14,False,12852,10450,Health Potion,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Phantom Dancer,28554,127431,Lane.bot_lane,Role.carry
+1,porkberry,Janna,True,Side.blue,1,0,13,14.0,8,Exhaust,Flash,12,False,8102,6125,Redemption,Sightstone,Aegis of the Legion,Ancient Coin,Ionian Boots of Lucidity,Null-Magic Mantle,2947,7554,Lane.bot_lane,Role.support
+2,ShadowyFigure,Lee Sin,True,Side.blue,2,4,9,2.75,122,Flash,Smite,13,False,9940,9975,Mercury's Treads,Enchantment: Warrior,Tiamat,The Black Cleaver,Giant's Belt,Chain Vest,17585,124689,Lane.jungle,Role.none
+3,Pherix,Gnar,True,Side.blue,2,7,4,0.8571428571428571,99,Flash,Teleport,12,False,8396,7000,Doran's Blade,Mercury's Treads,Ruby Crystal,The Black Cleaver,Doran's Blade,Jaurim's Fist,4052,45722,Lane.top_lane,Role.solo
+4,Please Fade,LeBlanc,True,Side.blue,9,2,6,7.5,148,Ignite,Flash,14,True,11219,8985,Refillable Potion,Sorcerer's Shoes,Rabadon's Deathcap,The Dark Seal,Morellonomicon,Doran's Ring,81570,14264,Lane.mid_lane,Role.solo
+5,IQ is 201 ,Yasuo,False,Side.red,0,5,1,0.2,142,Flash,Exhaust,12,False,6563,5600,Refillable Potion,Doran's Blade,Hexdrinker,Phantom Dancer,Berserker's Greaves,,11805,44658,Lane.mid_lane,Role.solo
+6,Speers,Zac,False,Side.red,2,4,5,1.75,79,Flash,Smite,13,False,6994,5875,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Warden's Mail,Giant's Belt,,59426,16034,Lane.jungle,Role.none
+7,Eiyo,Malphite,False,Side.red,7,3,4,3.6666666666666665,151,Teleport,Flash,15,False,9532,8920,Iceborn Gauntlet,Ninja Tabi,Sunfire Cape,Fiendish Codex,Doran's Shield,Negatron Cloak,56843,31452,Lane.top_lane,Role.solo
+8,Wo Xihuan Hanguo,Lulu,False,Side.red,0,4,4,1.0,4,Flash,Exhaust,10,False,5463,4900,Frost Queen's Claim,Sightstone,Boots of Mobility,Control Ward,Total Biscuit of Rejuvenation,,4745,2472,Lane.bot_lane,Role.support
+9,Yuán G,Jinx,False,Side.red,4,5,1,1.0,220,Heal,Flash,12,False,9871,9650,Doran's Blade,Infinity Edge,Runaan's Hurricane,Zeal,Berserker's Greaves,,2336,108761,Lane.bot_lane,Role.carry

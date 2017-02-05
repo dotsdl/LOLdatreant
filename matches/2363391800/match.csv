@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog deft,Twitch,False,Side.blue,2,6,0,0.3333333333333333,70,Flash,Heal,8,False,4670,4025,Berserker's Greaves,Pickaxe,Recurve Bow,Health Potion,Cull,Doran's Blade,42,25629,Lane.bot_lane,Role.carry
+1,1onz,Lulu,False,Side.blue,0,4,0,0.0,12,Flash,Exhaust,4,False,3198,1900,Spellthief's Edge,Sightstone,Total Biscuit of Rejuvenation,Control Ward,Boots of Speed,,2359,2088,Lane.bot_lane,Role.support
+2,Lose is improved,Nautilus,False,Side.blue,2,5,1,0.6,99,Teleport,Flash,11,False,5133,4475,Spirit Visage,Corrupting Potion,,,,Mercury's Treads,33901,12571,Lane.top_lane,Role.solo
+3,Vladfire1 BG ,Yasuo,False,Side.blue,3,9,2,0.5555555555555556,101,Exhaust,Flash,10,False,5787,5675,Phantom Dancer,,Berserker's Greaves,Hexdrinker,,Doran's Blade,14587,40256,Lane.mid_lane,Role.solo
+4,Pocket Rhino,Zac,False,Side.blue,1,5,3,0.8,53,Flash,Smite,8,False,4499,4150,Enchantment: Cinderhulk,Ionian Boots of Lucidity,,Ruby Crystal,,,24141,6491,Lane.jungle,Role.none
+5,SKY Fear,Jhin,True,Side.red,9,0,9,18.0,141,Flash,Heal,12,False,10712,7125,Doran's Blade,Essence Reaver,Boots of Swiftness,,Cull,Zeal,3924,82275,Lane.bot_lane,Role.carry
+6,GangstahSwerve,Ivern,True,Side.red,1,1,13,14.0,57,Smite,Flash,12,False,7723,5750,Hunter's Talisman,Redemption,Refillable Potion,Athene's Unholy Grail,Ionian Boots of Lucidity,Control Ward,9342,8260,Lane.jungle,Role.none
+7,LL Stylish,Karma,True,Side.red,11,0,13,24.0,24,Ignite,Flash,10,True,10289,6900,Eye of the Watchers,Mejai's Soulstealer,Ionian Boots of Lucidity,Athene's Unholy Grail,,,29303,7655,Lane.bot_lane,Role.support
+8,Best Akali FL,Akali,True,Side.red,3,3,0,1.0,169,Flash,Teleport,12,False,8656,5135,Sorcerer's Shoes,Hextech Gunblade,Amplifying Tome,,,,29787,57758,Lane.top_lane,Role.solo
+9,Shiphtur,LeBlanc,True,Side.red,5,4,8,3.25,95,Ignite,Flash,10,False,7723,6485,,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Needlessly Large Rod,44335,6369,Lane.mid_lane,Role.solo

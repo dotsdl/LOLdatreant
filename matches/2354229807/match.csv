@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,King Sarcazm,Olaf,True,Side.blue,3,4,8,2.75,85,Smite,Ghost,11,False,7777,5100,Enchantment: Cinderhulk,Refillable Potion,Spectre's Cowl,Ionian Boots of Lucidity,,,8862,58530,Lane.jungle,Role.none
+1,Ginormous Noob,Karma,True,Side.blue,2,0,14,16.0,17,Flash,Exhaust,10,False,7442,5950,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,,Faerie Charm,Faerie Charm,12467,8080,Lane.bot_lane,Role.support
+2,Swàin,Swain,True,Side.blue,0,3,5,1.6666666666666667,108,Ignite,Flash,11,False,6781,5675,Rod of Ages,Doran's Ring,Cloth Armor,Seeker's Armguard,Doran's Ring,Boots of Speed,42475,8689,Lane.top_lane,Role.solo
+3,zT ace,Yasuo,True,Side.blue,10,4,4,3.5,137,Exhaust,Flash,12,False,10111,7975,Doran's Blade,Refillable Potion,Phantom Dancer,Infinity Edge,Ninja Tabi,,21290,63308,Lane.mid_lane,Role.solo
+4,R Hyun,Jhin,True,Side.blue,10,1,4,14.0,104,Heal,Flash,10,False,9390,7825,Rapid Firecannon,Doran's Blade,,,Essence Reaver,Boots of Swiftness,3681,73395,Lane.bot_lane,Role.carry
+5,Painn,Orianna,False,Side.red,5,6,3,1.3333333333333333,66,Flash,Ghost,10,False,6142,5360,Doran's Ring,Refillable Potion,Morellonomicon,Boots of Speed,Amplifying Tome,Giant's Belt,26168,5537,Lane.mid_lane,Role.solo
+6,HungBrickMan,Caitlyn,False,Side.red,0,1,1,1.0,125,Heal,Flash,10,False,6348,6025,Doran's Blade,B. F. Sword,Cull,Berserker's Greaves,Runaan's Hurricane,,448,58057,Lane.bot_lane,Role.carry
+7,lIIIlIlIlIlIllI,Graves,False,Side.red,2,6,3,0.8333333333333334,86,Smite,Flash,11,False,6715,6225,Enchantment: Warrior,Boots of Mobility,Phantom Dancer,,,,2206,67872,Lane.jungle,Role.none
+8,The13adGuy,Renekton,False,Side.red,1,4,5,1.5,113,Teleport,Flash,11,True,6586,6225,Ninja Tabi,Refillable Potion,Tiamat,The Black Cleaver,Ruby Crystal,,2657,57780,Lane.top_lane,Role.solo
+9,MongolWarrior,Brand,False,Side.red,4,8,1,0.625,2,Ignite,Flash,7,False,5436,4135,Sorcerer's Shoes,Eye of the Watchers,Amplifying Tome,,,,9899,1298,Lane.bot_lane,Role.support

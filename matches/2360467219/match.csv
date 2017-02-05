@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ityyy,Katarina,True,Side.blue,8,5,10,3.6,145,Flash,Ignite,14,False,10630,8750,The Dark Seal,Refillable Potion,Control Ward,Hextech Gunblade,Rylai's Crystal Scepter,Sorcerer's Shoes,83818,15125,Lane.mid_lane,Role.solo
+1,Frosay,Karma,True,Side.blue,2,5,22,4.8,7,Flash,Exhaust,12,True,9026,7375,Ardent Censer,Aegis of the Legion,Ionian Boots of Lucidity,Eye of the Watchers,Null-Magic Mantle,Control Ward,9953,4147,Lane.bot_lane,Role.support
+2,Wehrli,Ezreal,True,Side.blue,11,3,11,7.333333333333333,148,Heal,Flash,13,False,12042,9383,Doran's Blade,Bilgewater Cutlass,Ionian Boots of Lucidity,,Trinity Force,Muramana,12269,85935,Lane.bot_lane,Role.carry
+3,T M T Eden ,Jarvan IV,True,Side.blue,12,5,9,4.2,145,Smite,Flash,15,False,14177,12200,Titanic Hydra,Pickaxe,Boots of Mobility,Enchantment: Warrior,Dead Man's Plate,Phage,9116,128226,Lane.jungle,Role.none
+4,KDX18ss,Darius,True,Side.blue,4,9,14,2.0,109,Flash,Teleport,13,False,9699,7750,Refillable Potion,,Doran's Blade,Ninja Tabi,The Black Cleaver,Dead Man's Plate,524,65010,Lane.top_lane,Role.solo
+5,WatchThePower,Riven,False,Side.red,14,8,4,2.25,154,Flash,Teleport,14,False,11960,11795,The Black Cleaver,Ravenous Hydra,Ninja Tabi,Lord Dominik's Regards,Cloth Armor,Negatron Cloak,418,110874,Lane.top_lane,Role.solo
+6,KinXMSG,Ahri,False,Side.red,2,10,12,1.4,135,Flash,Ghost,13,False,8254,8035,Doran's Ring,Rod of Ages,Abyssal Scepter,Amplifying Tome,,Sorcerer's Shoes,43844,11031,Lane.mid_lane,Role.solo
+7,Bearzy,Zac,False,Side.red,7,4,10,4.25,101,Smite,Flash,13,False,9914,8350,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Chain Vest,Giant's Belt,78819,18320,Lane.jungle,Role.none
+8,Daft Spünk,Lucian,False,Side.red,1,7,3,0.5714285714285714,145,Heal,Flash,12,False,7893,7275,Control Ward,Youmuu's Ghostblade,Doran's Blade,The Black Cleaver,,Boots of Speed,2707,72621,Lane.bot_lane,Role.carry
+9,Tangerinezz,Nami,False,Side.red,3,8,12,1.875,2,Exhaust,Flash,11,False,7188,6875,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Redemption,Forbidden Idol,Null-Magic Mantle,4626,2249,Lane.bot_lane,Role.support

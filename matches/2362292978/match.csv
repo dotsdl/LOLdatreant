@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,retarded virgin,Hecarim,False,Side.blue,10,5,8,3.6,147,Ghost,Smite,15,False,13011,12943,Enchantment: Cinderhulk,Youmuu's Ghostblade,Mercury's Treads,Trinity Force,Giant's Belt,Chain Vest,21096,134604,Lane.jungle,Role.none
+1,Ari Kingu,Lulu,False,Side.blue,2,5,13,3.0,22,Exhaust,Flash,13,False,9252,8325,Frostfang,Aegis of the Legion,Redemption,Sightstone,Boots of Mobility,Ardent Censer,12008,4250,Lane.bot_lane,Role.support
+2,06 24 1998,Lucian,False,Side.blue,7,8,8,1.875,237,Heal,Flash,15,False,13599,13500,Quicksilver Sash,Essence Reaver,Long Sword,Ionian Boots of Lucidity,Phantom Dancer,Infinity Edge,8043,152440,Lane.bot_lane,Role.carry
+3,Donmat,Fizz,False,Side.blue,4,8,5,1.125,217,Teleport,Flash,15,False,11667,11425,Corrupting Potion,Hextech Protobelt-01,Lich Bane,Void Staff,Blasting Wand,Ionian Boots of Lucidity,97896,25562,Lane.mid_lane,Role.solo
+4,US Economy,Riven,False,Side.blue,2,11,5,0.6363636363636364,254,Teleport,Flash,16,False,12294,10500,Ionian Boots of Lucidity,The Black Cleaver,Guardian Angel,Ravenous Hydra,,,502,181614,Lane.top_lane,Role.solo
+5,New Experience,Jayce,True,Side.red,13,5,4,3.4,314,Flash,Teleport,18,True,18365,16200,Youmuu's Ghostblade,The Bloodthirster,The Black Cleaver,Lord Dominik's Regards,Jaurim's Fist,Ninja Tabi,35774,215757,Lane.top_lane,Role.solo
+6,7788 ADC,Kha'Zix,True,Side.red,8,7,5,1.8571428571428572,102,Smite,Flash,16,False,12188,11525,Enchantment: Warrior,Youmuu's Ghostblade,Boots of Mobility,Guardian Angel,Serrated Dirk,B. F. Sword,5515,111043,Lane.jungle,Role.none
+7,AsianGoneWild,Bard,True,Side.red,4,3,17,7.0,28,Exhaust,Flash,15,False,11390,9775,Redemption,Knight's Vow,Eye of the Watchers,Kindlegem,Boots of Mobility,Hextech Revolver,24837,8390,Lane.bot_lane,Role.support
+8,Pond,Jhin,True,Side.red,6,7,12,2.5714285714285716,199,Heal,Flash,15,False,13852,12330,Essence Reaver,Doran's Blade,Infinity Edge,Rapid Firecannon,Boots of Swiftness,Brawler's Gloves,6072,142305,Lane.bot_lane,Role.carry
+9,Overlord Forte,Syndra,True,Side.red,5,3,7,4.0,190,Flash,Exhaust,15,False,13164,11750,Doran's Ring,Zhonya's Hourglass,Hextech GLP-800,Morellonomicon,Doran's Ring,Sorcerer's Shoes,146711,8968,Lane.mid_lane,Role.solo

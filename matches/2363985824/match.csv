@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SkulIzee,Yasuo,True,Side.blue,11,13,9,1.5384615384615385,202,Flash,Heal,16,False,14636,12450,Randuin's Omen,Bilgewater Cutlass,Berserker's Greaves,Infinity Edge,Statikk Shiv,Dagger,53527,124874,Lane.mid_lane,Role.carry
+1,devinnz,Ekko,True,Side.blue,18,7,10,4.0,152,Flash,Smite,17,False,15631,12225,Enchantment: Runic Echoes,Sorcerer's Shoes,Lich Bane,Void Staff,Needlessly Large Rod,Seeker's Armguard,138823,22395,Lane.mid_lane,Role.support
+2,Skullzee,Malphite,True,Side.blue,3,10,15,1.8,49,Flash,Ghost,15,False,8973,10350,Dead Man's Plate,Ionian Boots of Lucidity,Randuin's Omen,,,,25530,14435,Lane.jungle,Role.none
+3,TQS Zuardian,Kled,False,Side.red,8,11,10,1.6363636363636365,167,Exhaust,Flash,15,False,12192,11420,Titanic Hydra,Doran's Blade,Thornmail,Ninja Tabi,The Black Cleaver,Negatron Cloak,1745,113123,Lane.mid_lane,Role.carry
+4,TQS AllOutATK,Jarvan IV,False,Side.red,8,12,14,1.8333333333333333,82,Flash,Smite,14,True,11325,11725,Enchantment: Warrior,Mercury's Treads,Youmuu's Ghostblade,The Black Cleaver,Long Sword,,5845,80932,Lane.mid_lane,Role.support
+5,Still at War,Cho'Gath,False,Side.red,14,9,6,2.2222222222222223,120,Flash,Smite,15,False,13468,13100,Thornmail,Fiendish Codex,Wit's End,Berserker's Greaves,Spirit Visage,Statikk Shiv,71734,32612,Lane.jungle,Role.none

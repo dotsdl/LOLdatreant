@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MrJsian,Jhin,False,Side.blue,3,6,2,0.8333333333333334,168,Heal,Flash,11,False,8375,7875,,Control Ward,Boots of Swiftness,Doran's Blade,Rapid Firecannon,Essence Reaver,11326,89785,Lane.bot_lane,Role.carry
+1,Wizikz,Zac,False,Side.blue,1,10,5,0.6,70,Smite,Flash,11,False,6528,5925,,,,Control Ward,Giant's Belt,,51481,10855,Lane.jungle,Role.none
+2,loveyen,Jayce,False,Side.blue,4,8,3,0.875,113,Flash,Teleport,12,False,7490,7050,Caulfield's Warhammer,Phage,Edge of Night,Boots of Speed,Pickaxe,,7943,55537,Lane.top_lane,Role.solo
+3,Kuderic,Syndra,False,Side.blue,5,7,1,0.8571428571428571,175,Ghost,Flash,13,False,8949,8600,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Aether Wisp,Sorcerer's Shoes,,87472,12298,Lane.mid_lane,Role.solo
+4,PM ME AHRI NUDES,Janna,False,Side.blue,0,6,6,1.0,16,Exhaust,Flash,10,False,5819,5400,Redemption,Control Ward,Eye of the Oasis,Ionian Boots of Lucidity,,,4597,3060,Lane.bot_lane,Role.support
+5,Agnus Laritheous,Lux,True,Side.red,1,4,19,5.0,23,Flash,Exhaust,11,False,7797,6775,Sorcerer's Shoes,Frost Queen's Claim,Sightstone,Redemption,,Control Ward,21460,3451,Lane.bot_lane,Role.support
+6,SPACE ENABLED,Renekton,True,Side.red,8,2,7,7.5,129,Teleport,Flash,13,False,10343,9300,Doran's Shield,Ninja Tabi,Titanic Hydra,The Black Cleaver,Doran's Blade,Ruby Crystal,3231,71247,Lane.top_lane,Role.solo
+7,Ostry,Ezreal,True,Side.red,13,0,13,26.0,165,Flash,Heal,14,True,12995,11650,Doran's Blade,Muramana,Ionian Boots of Lucidity,Last Whisper,Iceborn Gauntlet,Blade of the Ruined King,18903,73923,Lane.bot_lane,Role.carry
+8,Dan chan,Twisted Fate,True,Side.red,7,3,10,5.666666666666667,142,Flash,Ghost,13,False,11195,11095,Doran's Ring,Hextech Protobelt-01,Negatron Cloak,Rapid Firecannon,Ionian Boots of Lucidity,Lich Bane,82517,17269,Lane.mid_lane,Role.solo
+9,Scary LMZ,Hecarim,True,Side.red,8,4,9,4.25,112,Ghost,Smite,13,False,10832,10983,Enchantment: Runic Echoes,Youmuu's Ghostblade,Boots of Swiftness,Trinity Force,,,17003,103825,Lane.jungle,Role.none

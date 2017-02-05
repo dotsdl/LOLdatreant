@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,20150314,Kennen,False,Side.blue,3,8,3,0.75,148,Flash,Teleport,14,False,8569,8150,Hextech Protobelt-01,Doran's Blade,Zhonya's Hourglass,Sorcerer's Shoes,Giant's Belt,,69928,17426,Lane.top_lane,Role.solo
+1,Dogtuggingmofo,Kog'Maw,False,Side.blue,4,2,5,4.5,211,Flash,Heal,14,False,10414,10973,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Recurve Bow,,Trinity Force,78676,39987,Lane.bot_lane,Role.carry
+2,dodgerduck,Nautilus,False,Side.blue,1,10,10,1.1,46,Exhaust,Flash,13,False,7235,6075,Face of the Mountain,Sightstone,Boots of Speed,Knight's Vow,,,26390,5184,Lane.bot_lane,Role.support
+3,NOT LIKE THISSS,Lee Sin,False,Side.blue,11,6,6,2.8333333333333335,99,Flash,Smite,14,True,10705,8950,Refillable Potion,Enchantment: Warrior,Tiamat,Ninja Tabi,Dead Man's Plate,Vampiric Scepter,15547,79175,Lane.jungle,Role.none
+4,SoughWind,Karma,False,Side.blue,4,6,9,2.1666666666666665,132,Teleport,Flash,14,False,9022,8555,Morellonomicon,Zhonya's Hourglass,Spellthief's Edge,Mercury's Treads,Negatron Cloak,Amplifying Tome,62666,12684,Lane.mid_lane,Role.solo
+5,Carlos D ,Twisted Fate,True,Side.red,7,4,9,4.0,165,Ignite,Flash,16,False,12821,11500,Luden's Echo,Rabadon's Deathcap,Boots of Speed,Doran's Ring,Rylai's Crystal Scepter,,114157,15232,Lane.mid_lane,Role.solo
+6,uupa,Jayce,True,Side.red,11,3,8,6.333333333333333,201,Flash,Teleport,16,False,14015,12455,Youmuu's Ghostblade,Maw of Malmortius,Chain Vest,Ionian Boots of Lucidity,Muramana,Vampiric Scepter,15570,130749,Lane.top_lane,Role.solo
+7,Rank 1 Season 7,Master Yi,True,Side.red,4,5,6,2.0,187,Smite,Flash,16,False,12316,12025,Blade of the Ruined King,Ninja Tabi,Serrated Dirk,Enchantment: Bloodrazor,Phantom Dancer,Caulfield's Warhammer,2251,180079,Lane.jungle,Role.none
+8,NiuNiuRu,Miss Fortune,True,Side.red,4,6,12,2.6666666666666665,139,Heal,Flash,14,False,11451,11250,Zeal,Youmuu's Ghostblade,Edge of Night,The Black Cleaver,,Dagger,6138,86036,Lane.bot_lane,Role.carry
+9,L0ve Is Blue,Morgana,True,Side.red,6,5,11,3.4,28,Flash,Exhaust,13,False,11725,10600,Frost Queen's Claim,Zhonya's Hourglass,Sorcerer's Shoes,Luden's Echo,Blasting Wand,,32620,7228,Lane.bot_lane,Role.support

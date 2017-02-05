@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arane,Thresh,True,Side.blue,2,2,12,7.0,28,Exhaust,Flash,11,False,6607,4975,Eye of the Equinox,Boots of Mobility,Crystalline Bracer,,Forbidden Idol,,10246,6659,Lane.bot_lane,Role.support
+1,nine one two,Lee Sin,True,Side.blue,10,3,5,5.0,86,Smite,Flash,12,False,10616,9175,Ionian Boots of Lucidity,Doran's Blade,Chain Vest,The Black Cleaver,Enchantment: Warrior,Giant's Belt,14901,73052,Lane.jungle,Role.none
+2,Terrorist Ziggs,Ziggs,True,Side.blue,5,3,11,5.333333333333333,172,Flash,Teleport,13,False,10486,7075,Doran's Ring,Lost Chapter,Seraph's Embrace,Fiendish Codex,Sorcerer's Shoes,The Dark Seal,109658,10258,Lane.mid_lane,Role.solo
+3,Horrible Player,Poppy,True,Side.blue,5,1,3,8.0,161,Teleport,Flash,13,False,9773,8425,Sunfire Cape,Corrupting Potion,,Iceborn Gauntlet,Boots of Swiftness,Spectre's Cowl,28303,62063,Lane.top_lane,Role.solo
+4,Chocolate Chip,Caitlyn,True,Side.blue,6,1,4,10.0,134,Heal,Flash,11,False,9484,6700,Runaan's Hurricane,Doran's Blade,,B. F. Sword,Pickaxe,Berserker's Greaves,212,73480,Lane.bot_lane,Role.carry
+5,Vankara,Sivir,False,Side.red,1,2,2,1.5,177,Heal,Flash,11,False,7648,7250,Doran's Blade,Cull,Essence Reaver,Berserker's Greaves,Zeal,,0,86767,Lane.bot_lane,Role.carry
+6,Delerium,Karma,False,Side.red,1,5,4,1.0,5,Exhaust,Flash,10,False,5057,4200,Eye of the Watchers,Control Ward,Ruby Crystal,,Ionian Boots of Lucidity,,12984,2451,Lane.bot_lane,Role.support
+7,Barranco Coma,Shaco,False,Side.red,1,8,4,0.625,63,Exhaust,Smite,10,False,5648,5130,Redemption,,Cloth Armor,Skirmisher's Sabre,Bami's Cinder,Boots of Speed,17767,26569,Lane.jungle,Role.none
+8,WatchThePower,Rengar,False,Side.red,1,5,2,0.6,126,Flash,Ignite,11,True,6241,5750,The Black Cleaver,Ninja Tabi,Rejuvenation Bead,Refillable Potion,Caulfield's Warhammer,,9846,56566,Lane.top_lane,Role.solo
+9,Cozign,Brand,False,Side.red,6,8,0,0.75,118,Ignite,Flash,11,False,7184,6500,Needlessly Large Rod,Morellonomicon,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Ruby Crystal,51790,10927,Lane.mid_lane,Role.solo

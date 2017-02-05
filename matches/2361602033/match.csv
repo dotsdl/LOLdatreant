@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Koby,Poppy,True,Side.blue,5,1,9,14.0,133,Flash,Teleport,14,False,10600,9400,Corrupting Potion,Spectre's Cowl,Ninja Tabi,Sunfire Cape,Chain Vest,Randuin's Omen,15437,62881,Lane.top_lane,Role.solo
+1,Celend,Zyra,True,Side.blue,3,4,15,4.5,16,Flash,Exhaust,13,False,9672,8385,Refillable Potion,Blasting Wand,Eye of the Watchers,Sorcerer's Shoes,Amplifying Tome,Rylai's Crystal Scepter,29132,7497,Lane.bot_lane,Role.support
+2,Virus,Twitch,True,Side.blue,11,7,5,2.2857142857142856,182,Heal,Flash,15,False,13940,12125,B. F. Sword,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,Long Sword,223,141979,Lane.bot_lane,Role.carry
+3,ApoIlo Price,Syndra,True,Side.blue,5,4,7,3.0,204,Flash,Ghost,14,False,11844,10285,Doran's Ring,Void Staff,Morellonomicon,Boots of Speed,Rylai's Crystal Scepter,Control Ward,115188,12455,Lane.mid_lane,Role.solo
+4,SwÍft,Olaf,True,Side.blue,9,7,7,2.2857142857142856,123,Smite,Ghost,14,False,11494,11475,Tear of the Goddess,Enchantment: Cinderhulk,Randuin's Omen,Dead Man's Plate,Tear of the Goddess,Ninja Tabi,16691,81674,Lane.jungle,Role.none
+5,feud999,Caitlyn,False,Side.red,5,7,5,1.4285714285714286,189,Flash,Heal,13,False,10461,9800,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Last Whisper,Doran's Blade,Cull,647,119847,Lane.bot_lane,Role.carry
+6,Pond,Zed,False,Side.red,5,7,4,1.2857142857142858,171,Ignite,Flash,13,False,9909,9450,Serrated Dirk,Maw of Malmortius,Edge of Night,Mercury's Treads,Long Sword,,6600,96839,Lane.mid_lane,Role.solo
+7,TheOddOrange,Kha'Zix,False,Side.red,11,8,4,1.875,109,Flash,Smite,13,True,11033,10700,Enchantment: Warrior,Last Whisper,Hexdrinker,Duskblade of Draktharr,Ionian Boots of Lucidity,Serrated Dirk,4449,111729,Lane.jungle,Role.none
+8,camtheham,Janna,False,Side.red,0,6,17,2.8333333333333335,11,Exhaust,Flash,12,False,7342,6075,Eye of the Oasis,Redemption,Control Ward,Null-Magic Mantle,Boots of Mobility,,3960,3293,Lane.bot_lane,Role.support
+9,PieCakeLord,Nautilus,False,Side.red,2,5,5,1.4,163,Teleport,Flash,14,False,8828,8575,Corrupting Potion,Sunfire Cape,Mercury's Treads,Spirit Visage,Sheen,,69199,26265,Lane.top_lane,Role.solo

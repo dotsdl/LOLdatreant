@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Atif,Nautilus,False,Side.blue,3,3,3,2.0,176,Flash,Teleport,12,False,8699,8050,Zz'Rot Portal,Locket of the Iron Solari,Corrupting Potion,Ninja Tabi,Bami's Cinder,Cloth Armor,52745,20135,Lane.top_lane,Role.solo
+1,Dhokla,Jhin,False,Side.blue,4,8,5,1.125,189,Flash,Heal,12,True,9743,8700,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Doran's Blade,Pickaxe,,6296,115853,Lane.bot_lane,Role.carry
+2,Kalyanji,Karma,False,Side.blue,3,10,7,1.0,27,Exhaust,Flash,10,False,7282,6675,Locket of the Iron Solari,Sightstone,Frost Queen's Claim,Ionian Boots of Lucidity,,Control Ward,20819,5846,Lane.bot_lane,Role.support
+3,Tetsion,Sona,False,Side.blue,1,7,5,0.8571428571428571,97,Ignite,Flash,12,False,6944,5900,Rod of Ages,Refillable Potion,Boots of Speed,Sheen,Aether Wisp,Blasting Wand,33630,19995,Lane.mid_lane,Role.solo
+4,Dicey,Shaco,False,Side.blue,2,5,4,1.2,95,Smite,Ignite,12,False,7693,7075,Enchantment: Runic Echoes,Tiamat,Hunter's Potion,Ionian Boots of Lucidity,Hextech Revolver,Vampiric Scepter,31211,50560,Lane.jungle,Role.none
+5,3in1warrior,Poppy,True,Side.red,5,2,10,7.5,200,Flash,Teleport,15,False,11233,10225,Corrupting Potion,Sunfire Cape,Mercury's Treads,Spirit Visage,Iceborn Gauntlet,,38952,68925,Lane.top_lane,Role.solo
+6,Ensign Ledo,Nami,True,Side.red,2,3,19,7.0,17,Flash,Exhaust,12,False,9552,6975,Redemption,,Control Ward,Eye of the Watchers,Glacial Shroud,Ionian Boots of Lucidity,8267,8646,Lane.bot_lane,Role.support
+7,Shorthop,Ashe,True,Side.red,10,3,11,7.0,212,Flash,Heal,14,False,13290,10650,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Caulfield's Warhammer,4543,148573,Lane.bot_lane,Role.carry
+8,Yeremy,Kassadin,True,Side.red,11,3,12,7.666666666666667,187,Teleport,Flash,15,False,12929,10575,Zhonya's Hourglass,Lich Bane,Hextech GLP-800,Ionian Boots of Lucidity,Corrupting Potion,,75785,21497,Lane.mid_lane,Role.solo
+9,Eric1,Ivern,True,Side.red,5,2,19,12.0,96,Smite,Flash,14,False,10917,9450,Enchantment: Cinderhulk,Athene's Unholy Grail,Locket of the Iron Solari,Mejai's Soulstealer,Ionian Boots of Lucidity,,38673,15755,Lane.jungle,Role.none

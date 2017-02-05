@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BabièThug,Lee Sin,False,Side.blue,7,9,7,1.5555555555555556,109,Flash,Smite,13,False,10507,10175,Control Ward,Kindlegem,Randuin's Omen,Mercury's Treads,Enchantment: Warrior,Banshee's Veil,18054,81036,Lane.jungle,Role.none
+1,TSM MeNoHaxor,Karma,False,Side.blue,2,9,10,1.3333333333333333,15,Exhaust,Flash,12,False,8462,7875,Eye of the Watchers,Boots of Mobility,Mikael's Crucible,,Control Ward,Redemption,17411,3184,Lane.bot_lane,Role.support
+2,Jeehun,Jhin,False,Side.blue,7,5,8,3.0,197,Flash,Heal,14,False,11796,11700,Doran's Blade,Youmuu's Ghostblade,Infinity Edge,Boots of Swiftness,Essence Reaver,,3919,121172,Lane.bot_lane,Role.carry
+3,Overlord Forte,Xerath,False,Side.blue,4,6,11,2.5,176,Flash,Ghost,15,False,10581,8800,Doran's Ring,Morellonomicon,,Sorcerer's Shoes,Blasting Wand,Luden's Echo,121152,5275,Lane.mid_lane,Role.solo
+4,Shamwwow,Poppy,False,Side.blue,2,7,11,1.8571428571428572,158,Flash,Teleport,14,True,10035,9500,Iceborn Gauntlet,Sunfire Cape,Mercury's Treads,Control Ward,Kindlegem,Spectre's Cowl,37176,62896,Lane.top_lane,Role.solo
+5,Pond,Vayne,True,Side.red,11,5,7,3.6,215,Heal,Flash,14,False,14008,11825,Infinity Edge,Phantom Dancer,Quicksilver Sash,Berserker's Greaves,Doran's Blade,Statikk Shiv,22550,108752,Lane.bot_lane,Role.carry
+6,Valkrin,Olaf,True,Side.red,7,4,13,5.0,178,Smite,Flash,16,False,12919,12575,Control Ward,Titanic Hydra,Righteous Glory,Ninja Tabi,Guardian Angel,Enchantment: Cinderhulk,15667,141590,Lane.jungle,Role.none
+7,Fiku,Nautilus,True,Side.red,6,5,12,3.6,193,Flash,Teleport,15,False,12489,11550,Ninja Tabi,Kindlegem,Banner of Command,Iceborn Gauntlet,Spectre's Cowl,Sunfire Cape,95638,31564,Lane.top_lane,Role.solo
+8,camtheham,Sona,True,Side.red,4,1,20,24.0,12,Exhaust,Flash,14,False,10550,9525,Redemption,Eye of the Watchers,Mikael's Crucible,Boots of Mobility,Glacial Shroud,Forbidden Idol,13017,9228,Lane.bot_lane,Role.support
+9,cesuna,Veigar,True,Side.red,8,7,5,1.8571428571428572,210,Flash,Teleport,15,False,12648,12325,Corrupting Potion,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,Void Staff,Morellonomicon,117152,9606,Lane.mid_lane,Role.solo

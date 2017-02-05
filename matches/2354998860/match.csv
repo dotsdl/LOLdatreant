@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Br0main,Vi,False,Side.blue,5,6,6,1.8333333333333333,146,Flash,Smite,15,False,10300,10158,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Trinity Force,Hexdrinker,Caulfield's Warhammer,1426,144166,Lane.jungle,Role.none
+1,FaR007,Bard,False,Side.blue,1,6,8,1.5,6,Ignite,Flash,10,False,6714,5775,Boots of Mobility,Ruby Sightstone,Redemption,Frostfang,,,6569,2993,Lane.bot_lane,Role.support
+2,Diu La Sing,Viktor,False,Side.blue,5,6,8,2.1666666666666665,190,Ghost,Flash,15,False,10406,10135,Perfect Hex Core,Total Biscuit of Rejuvenation,Blasting Wand,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,119865,10003,Lane.mid_lane,Role.solo
+3,Henryrocks,Ashe,False,Side.blue,6,7,9,2.142857142857143,157,Heal,Flash,13,False,10254,10150,Doran's Blade,B. F. Sword,Berserker's Greaves,,Essence Reaver,Runaan's Hurricane,1488,98405,Lane.bot_lane,Role.carry
+4,Atif,Nautilus,False,Side.blue,2,8,7,1.125,182,Flash,Teleport,14,False,9714,8475,Zz'Rot Portal,Corrupting Potion,Ninja Tabi,Sunfire Cape,Spectre's Cowl,,79652,18904,Lane.top_lane,Role.solo
+5,1ncomparabIe,Rek'Sai,True,Side.red,6,4,11,4.25,155,Smite,Flash,16,False,12918,10025,Titanic Hydra,Berserker's Greaves,Spectre's Cowl,Enchantment: Cinderhulk,Giant's Belt,Cloth Armor,31765,120560,Lane.jungle,Role.none
+6,LÌn,Thresh,True,Side.red,3,5,15,3.6,33,Ignite,Flash,13,False,9517,7750,Knight's Vow,Eye of the Equinox,,Null-Magic Mantle,Aegis of the Legion,Boots of Mobility,9703,6857,Lane.bot_lane,Role.support
+7,Ken Shifu,Darius,True,Side.red,8,4,7,3.75,192,Teleport,Flash,16,False,13137,13565,Doran's Blade,Guardian Angel,The Black Cleaver,Mercury's Treads,Spirit Visage,Sterak's Gage,641,111563,Lane.top_lane,Role.solo
+8,Mennonite,Taliyah,True,Side.red,11,0,8,19.0,208,Flash,Ghost,16,True,14581,12285,Doran's Ring,Rabadon's Deathcap,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,145172,14718,Lane.mid_lane,Role.solo
+9,MrFluffy631,Lucian,True,Side.red,5,6,8,2.1666666666666665,264,Flash,Heal,15,False,13950,12050,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Infinity Edge,Statikk Shiv,,22122,148386,Lane.bot_lane,Role.carry

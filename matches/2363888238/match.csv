@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ogrecompensating,Sivir,False,Side.blue,0,4,1,0.25,96,Flash,Heal,8,False,4309,3600,Doran's Blade,B. F. Sword,Boots of Speed,Total Biscuit of Rejuvenation,Caulfield's Warhammer,Dagger,0,40400,Lane.bot_lane,Role.carry
+1,EliteAsianNation,Xin Zhao,False,Side.blue,1,5,0,0.2,58,Teleport,Flash,8,False,3726,2775,Doran's Blade,Refillable Potion,Warden's Mail,Doran's Blade,Boots of Speed,Cloth Armor,1204,18705,Lane.top_lane,Role.solo
+2,JuanRodriguez,Lee Sin,False,Side.blue,1,3,0,0.3333333333333333,55,Flash,Smite,9,False,4197,3850,Enchantment: Warrior,Refillable Potion,Long Sword,Long Sword,Boots of Speed,,6060,35091,Lane.jungle,Role.none
+3,Needed,Ryze,False,Side.blue,1,1,0,1.0,107,Ghost,Flash,10,False,4596,3250,Tear of the Goddess,Catalyst of Aeons,Sorcerer's Shoes,,,,38528,7055,Lane.mid_lane,Role.solo
+4,FaR007,Karma,False,Side.blue,0,0,0,0.0,13,Exhaust,Flash,7,False,3191,2775,Ionian Boots of Lucidity,Sightstone,Spellthief's Edge,Ruby Crystal,Total Biscuit of Rejuvenation,,6538,1776,Lane.bot_lane,Role.support
+5,Gracile Marksman,Twitch,True,Side.red,2,0,3,5.0,105,Flash,Heal,9,False,6740,5450,Doran's Blade,B. F. Sword,Cull,Runaan's Hurricane,Boots of Speed,Dagger,0,52565,Lane.bot_lane,Role.carry
+6,LoLVeXeD,Janna,True,Side.red,0,0,3,3.0,5,Flash,Exhaust,7,False,4219,3125,Total Biscuit of Rejuvenation,Faerie Charm,Eye of the Oasis,Control Ward,Boots of Speed,The Dark Seal,1714,4827,Lane.bot_lane,Role.support
+7,Foxlooo,Fiora,True,Side.red,3,2,2,2.5,98,Ignite,Flash,10,True,6283,5900,The Black Cleaver,Doran's Blade,Tiamat,Mercury's Treads,,,867,27760,Lane.top_lane,Role.solo
+8,I Affinity l,Aurelion Sol,True,Side.red,4,0,0,4.0,120,Exhaust,Flash,10,False,6655,4825,Hextech GLP-800,The Dark Seal,Corrupting Potion,Boots of Swiftness,,,61167,6856,Lane.mid_lane,Role.solo
+9,CS3Shigeo,Pantheon,True,Side.red,4,1,3,7.0,54,Flash,Smite,9,False,6296,4525,Refillable Potion,Enchantment: Warrior,,Boots of Speed,Long Sword,Serrated Dirk,5428,49259,Lane.jungle,Role.none

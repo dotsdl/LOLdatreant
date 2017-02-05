@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ApoIlo Price,Syndra,True,Side.blue,6,4,4,2.5,122,Flash,Ghost,11,False,8434,7310,Doran's Ring,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Amplifying Tome,Giant's Belt,59201,8896,Lane.mid_lane,Role.solo
+1,SKY Fear,Twitch,True,Side.blue,1,1,10,11.0,130,Flash,Heal,11,False,8281,8250,Pickaxe,B. F. Sword,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Zeal,988,63552,Lane.bot_lane,Role.carry
+2,Révenge,Jayce,True,Side.blue,9,6,8,2.8333333333333335,124,Teleport,Flash,12,False,9367,9050,Doran's Blade,Doran's Blade,Mercury's Treads,The Black Cleaver,Maw of Malmortius,Ruby Crystal,13135,70072,Lane.top_lane,Role.solo
+3,The Tank Man,Janna,True,Side.blue,1,0,12,13.0,2,Flash,Exhaust,9,True,6314,6125,Eye of the Oasis,Ardent Censer,Boots of Mobility,Forbidden Idol,,,1777,4202,Lane.bot_lane,Role.support
+4,Godrneru,Rengar,True,Side.blue,16,1,4,20.0,134,Flash,Smite,14,False,12347,11950,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Duskblade of Draktharr,Serrated Dirk,Pickaxe,10475,131468,Lane.jungle,Role.none
+5,Rhux,Poppy,False,Side.red,2,7,2,0.5714285714285714,124,Flash,Teleport,11,False,6528,6000,Corrupting Potion,Ninja Tabi,Sunfire Cape,Spectre's Cowl,Cloth Armor,,16865,48449,Lane.top_lane,Role.carry
+6,Maxtrobo,Jarvan IV,False,Side.red,0,8,3,0.375,34,Flash,Exhaust,9,False,4395,4075,Targon's Brace,Sightstone,Ninja Tabi,Ruby Crystal,,,1040,14015,Lane.bot_lane,Role.support
+7,Zaganox,Jhin,False,Side.red,2,7,3,0.7142857142857143,111,Heal,Flash,9,False,6194,5850,Doran's Blade,Zeal,Essence Reaver,,Boots of Speed,,491,47094,Lane.bot_lane,Role.carry
+8,Stiches,Lee Sin,False,Side.red,6,7,3,1.2857142857142858,82,Smite,Flash,11,False,7516,7525,Tiamat,Ionian Boots of Lucidity,Long Sword,Enchantment: Warrior,Long Sword,B. F. Sword,8384,50885,Lane.top_lane,Role.support
+9,Santa Quas,Swain,False,Side.red,2,4,5,1.75,134,Teleport,Flash,11,False,6747,6020,Doran's Ring,Refillable Potion,Rod of Ages,Ninja Tabi,The Dark Seal,Negatron Cloak,42324,9407,Lane.mid_lane,Role.solo

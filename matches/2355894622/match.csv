@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DeaIer29,Cassiopeia,True,Side.blue,9,5,9,3.6,175,Cleanse,Flash,16,False,13394,10360,Doran's Ring,Seraph's Embrace,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,,102970,9049,Lane.mid_lane,Role.solo
+1,Turkish Coffee,Ivern,True,Side.blue,4,2,29,16.5,25,Smite,Flash,15,False,12817,11400,Talisman of Ascension,Ruby Sightstone,Redemption,Needlessly Large Rod,Frozen Heart,Boots of Mobility,14114,8845,Lane.bot_lane,Role.support
+2,WhiteYoshi,Vi,True,Side.blue,13,2,10,11.5,168,Smite,Flash,16,False,14340,11858,Refillable Potion,Randuin's Omen,Trinity Force,Enchantment: Warrior,Mercury's Treads,Spectre's Cowl,3590,168216,Lane.jungle,Role.none
+3,Frogsuo,Jhin,True,Side.blue,8,6,10,3.0,198,Flash,Heal,15,True,13677,12825,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Infinity Edge,Zeal,Doran's Blade,17011,133835,Lane.bot_lane,Role.carry
+4,Mr Gimix,Kennen,True,Side.blue,9,4,9,4.5,212,Teleport,Flash,16,False,13563,13650,Rylai's Crystal Scepter,,Sorcerer's Shoes,Zhonya's Hourglass,Hextech Protobelt-01,Void Staff,101433,23913,Lane.top_lane,Role.solo
+5,blaberfish2,Karma,False,Side.red,1,11,8,0.8181818181818182,17,Flash,Exhaust,12,False,8395,8150,Redemption,Ionian Boots of Lucidity,Eye of the Watchers,,Ardent Censer,,18210,4919,Lane.bot_lane,Role.support
+6,SSBM Hax,Twisted Fate,False,Side.red,2,7,4,0.8571428571428571,187,Flash,Ghost,14,False,10758,10225,Doran's Ring,Lich Bane,Ionian Boots of Lucidity,Seeker's Armguard,Rod of Ages,Fiendish Codex,113245,11376,Lane.mid_lane,Role.solo
+7,amoureux de toi,Lucian,False,Side.red,2,8,4,0.75,210,Heal,Flash,13,False,10256,10125,Doran's Blade,Pickaxe,Essence Reaver,Berserker's Greaves,Statikk Shiv,B. F. Sword,16634,107964,Lane.bot_lane,Role.carry
+8,l For You l,Lee Sin,False,Side.red,9,11,5,1.2727272727272727,141,Flash,Smite,15,False,11899,12495,Tiamat,Enchantment: Warrior,Elixir of Wrath,The Black Cleaver,Boots of Mobility,Maw of Malmortius,32494,95321,Lane.jungle,Role.none
+9,NiMura,Gangplank,False,Side.red,5,6,4,1.5,276,Flash,Teleport,16,False,14210,13883,Statikk Shiv,Trinity Force,Pickaxe,Ionian Boots of Lucidity,Infinity Edge,Zeal,18671,210400,Lane.top_lane,Role.solo

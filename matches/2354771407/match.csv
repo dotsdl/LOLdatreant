@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CLEVER SLEAZOID,Katarina,True,Side.blue,17,7,6,3.2857142857142856,170,Flash,Ignite,17,False,15143,14950,Rylai's Crystal Scepter,Void Staff,Needlessly Large Rod,Zhonya's Hourglass,Hextech Gunblade,Sorcerer's Shoes,125044,11101,Lane.mid_lane,Role.solo
+1,Inazur,Karma,True,Side.blue,0,5,21,4.2,27,Exhaust,Flash,14,False,10966,10035,Eye of the Watchers,Redemption,Mikael's Crucible,Total Biscuit of Rejuvenation,Raptor Cloak,Boots of Mobility,29846,8376,Lane.bot_lane,Role.support
+2,XinGod,Xin Zhao,True,Side.blue,8,3,7,5.0,142,Flash,Smite,16,False,13232,12400,Blade of the Ruined King,Randuin's Omen,Mercury's Treads,Enchantment: Bloodrazor,Phage,Sheen,25495,131844,Lane.jungle,Role.none
+3,KaNKl,Caitlyn,True,Side.blue,7,5,12,3.8,242,Heal,Flash,16,False,15231,13375,Berserker's Greaves,Vampiric Scepter,Quicksilver Sash,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,3527,185829,Lane.bot_lane,Role.carry
+4,Samsung Surge,Poppy,True,Side.blue,5,5,13,3.6,141,Teleport,Flash,15,False,12304,11725,,Randuin's Omen,Chain Vest,Spirit Visage,Sunfire Cape,Ninja Tabi,26768,69245,Lane.top_lane,Role.solo
+5,Not Easy Indeed,Janna,False,Side.red,0,6,19,3.1666666666666665,9,Flash,Exhaust,13,False,8520,7550,Nomad's Medallion,Boots of Mobility,Sightstone,Redemption,Locket of the Iron Solari,Cloth Armor,5861,6096,Lane.bot_lane,Role.support
+6,Tobias Fate,Gangplank,False,Side.red,8,6,7,2.5,221,Flash,Exhaust,15,True,14575,14458,Doran's Ring,Youmuu's Ghostblade,Statikk Shiv,Trinity Force,Infinity Edge,,19270,200054,Lane.top_lane,Role.solo
+7,Dchango,Jhin,False,Side.red,1,7,11,1.7142857142857142,173,Heal,Flash,14,False,9964,9125,Youmuu's Ghostblade,Doran's Blade,Maw of Malmortius,Boots of Swiftness,Kircheis Shard,Dagger,8548,91789,Lane.bot_lane,Role.carry
+8,FishAreFriends,Shyvana,False,Side.red,7,8,7,1.75,132,Smite,Ghost,15,False,11444,10800,Enchantment: Bloodrazor,Ruby Crystal,Frozen Mallet,Mercury's Treads,Dead Man's Plate,Null-Magic Mantle,72640,65392,Lane.jungle,Role.none
+9,QcDrew,Ahri,False,Side.red,9,10,6,1.5,167,Ignite,Flash,14,False,11519,10900,Doran's Ring,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Void Staff,Sorcerer's Shoes,64364,12828,Lane.mid_lane,Role.solo

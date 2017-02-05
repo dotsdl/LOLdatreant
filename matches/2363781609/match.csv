@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,mid VallFire,Varus,False,Side.blue,7,8,7,1.75,168,Flash,Heal,13,False,10896,10375,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Infinity Edge,Zeal,Recurve Bow,9887,99580,Lane.bot_lane,Role.carry
+1,2vn,Riven,False,Side.blue,3,11,4,0.6363636363636364,168,Flash,Teleport,13,True,9630,7850,Ravenous Hydra,The Black Cleaver,Ionian Boots of Lucidity,,,,1122,90037,Lane.top_lane,Role.solo
+2,Vladfire1 BG ,Nidalee,False,Side.blue,6,10,7,1.3,121,Smite,Flash,15,False,10500,10000,Ninja Tabi,Refillable Potion,Rod of Ages,Enchantment: Runic Echoes,Lich Bane,,113678,21196,Lane.jungle,Role.none
+3,Immortal Poro,Vel'Koz,False,Side.blue,6,4,2,2.0,209,Ghost,Flash,14,False,10624,10250,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Luden's Echo,Haunting Guise,Blasting Wand,104837,7924,Lane.mid_lane,Role.solo
+4,Formic Mind,Nami,False,Side.blue,2,5,16,3.6,11,Flash,Exhaust,12,False,8411,7425,Locket of the Iron Solari,Sightstone,Redemption,Control Ward,Frostfang,Ionian Boots of Lucidity,8871,3271,Lane.bot_lane,Role.support
+5,RNG Mlxgod,Lee Sin,True,Side.red,11,6,3,2.3333333333333335,120,Smite,Flash,15,False,13194,12083,Hexdrinker,Enchantment: Warrior,,The Black Cleaver,Ninja Tabi,Trinity Force,19758,129461,Lane.jungle,Role.none
+6,Ouchxiao,Fiora,True,Side.red,7,5,7,2.8,186,Flash,Teleport,16,False,13462,12833,Corrupting Potion,Guardian Angel,Ravenous Hydra,Caulfield's Warhammer,Trinity Force,Ninja Tabi,7008,131311,Lane.top_lane,Role.solo
+7,suga heibai,Lux,True,Side.red,6,6,9,2.5,48,Flash,Exhaust,14,False,11143,8750,Frostfang,Luden's Echo,Morellonomicon,The Dark Seal,Sorcerer's Shoes,,50205,7816,Lane.bot_lane,Role.support
+8,MizulD,Ryze,True,Side.red,8,2,3,5.5,248,Flash,Ghost,17,False,14027,14000,Needlessly Large Rod,Seraph's Embrace,Sorcerer's Shoes,Void Staff,Rod of Ages,Abyssal Scepter,185747,14439,Lane.mid_lane,Role.solo
+9,Ugu,Draven,True,Side.red,6,5,9,3.0,201,Heal,Flash,16,False,14288,10300,Infinity Edge,Doran's Blade,Phantom Dancer,B. F. Sword,Vampiric Scepter,Berserker's Greaves,0,149069,Lane.bot_lane,Role.carry

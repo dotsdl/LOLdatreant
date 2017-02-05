@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,Bard,False,Side.blue,1,7,0,0.14285714285714285,29,Flash,Ignite,8,False,4595,4150,Eye of the Watchers,Boots of Mobility,Blasting Wand,,,,13119,7776,Lane.bot_lane,Role.support
+1,Adrian Riven,Riven,False,Side.blue,4,4,2,1.5,105,Teleport,Flash,12,False,6570,6200,Youmuu's Ghostblade,Refillable Potion,Boots of Speed,Serrated Dirk,Phage,Long Sword,0,54608,Lane.top_lane,Role.solo
+2,Témpest,Katarina,False,Side.blue,6,9,4,1.1111111111111112,74,Flash,Ignite,11,False,6799,6135,Hextech Gunblade,Sorcerer's Shoes,Ruby Crystal,The Dark Seal,Amplifying Tome,,38238,6480,Lane.mid_lane,Role.solo
+3,McCashDollar,Shaco,False,Side.blue,1,5,2,0.6,30,Ignite,Smite,9,False,4897,3875,Stalker's Blade,Refillable Potion,Serrated Dirk,Cloth Armor,The Dark Seal,Ionian Boots of Lucidity,18211,18566,Lane.jungle,Role.none
+4,Dna shockwave,Ezreal,False,Side.blue,3,11,1,0.36363636363636365,88,Heal,Flash,10,False,5837,5400,Doran's Blade,Sheen,Cull,Manamune,Boots of Speed,Long Sword,6224,29545,Lane.bot_lane,Role.carry
+5,Keegun,Pantheon,True,Side.red,5,2,14,9.5,32,Flash,Ignite,12,False,8345,6900,Relic Shield,Edge of Night,Ninja Tabi,Serrated Dirk,Caulfield's Warhammer,,2891,26815,Lane.bot_lane,Role.support
+6,pilling91,Cassiopeia,True,Side.red,4,6,6,1.6666666666666667,136,Ghost,Flash,12,False,8448,6245,Doran's Ring,The Dark Seal,Morellonomicon,Fiendish Codex,Tear of the Goddess,Negatron Cloak,60585,5773,Lane.mid_lane,Role.solo
+7,Doublelift,Vayne,True,Side.red,11,1,3,14.0,205,Flash,Heal,13,True,12236,9775,Doran's Blade,Statikk Shiv,Cull,Infinity Edge,Hexdrinker,Berserker's Greaves,28303,94031,Lane.bot_lane,Role.carry
+8,FIoopie,Lee Sin,True,Side.red,12,1,4,16.0,128,Flash,Smite,13,False,10754,9935,Refillable Potion,Edge of Night,,Enchantment: Warrior,The Black Cleaver,Boots of Swiftness,20065,87417,Lane.jungle,Role.none
+9,Tai Draven,Draven,True,Side.red,4,5,1,1.0,118,Flash,Exhaust,11,False,7767,7225,Ninja Tabi,Blade of the Ruined King,Pickaxe,Long Sword,B. F. Sword,,154,58548,Lane.top_lane,Role.solo

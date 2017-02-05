@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,lost in thoughts,Talon,False,Side.blue,6,5,1,1.4,132,Flash,Ghost,11,False,8111,6825,Youmuu's Ghostblade,Refillable Potion,Tiamat,Phage,Ionian Boots of Lucidity,Long Sword,160,76941,Lane.mid_lane,Role.solo
+1,NoOb NeVeR trolL,Ryze,False,Side.blue,2,4,5,1.75,167,Flash,Teleport,13,False,7971,6925,Tear of the Goddess,Refillable Potion,Morellonomicon,Ionian Boots of Lucidity,Fiendish Codex,Needlessly Large Rod,89442,8681,Lane.top_lane,Role.solo
+2,Snik,Leona,False,Side.blue,0,6,2,0.3333333333333333,15,Ignite,Flash,7,False,4541,3800,Relic Shield,Sightstone,Boots of Mobility,Total Biscuit of Rejuvenation,Control Ward,Aegis of the Legion,3037,4793,Lane.jungle,Role.none
+3,Zib Nibbler,Caitlyn,False,Side.blue,0,4,2,0.5,140,Flash,Heal,11,False,6683,5800,Doran's Blade,Pickaxe,Zeal,Cull,B. F. Sword,Berserker's Greaves,454,70218,Lane.bot_lane,Role.solo
+4,Solodaboss,Zac,False,Side.blue,2,4,3,1.25,73,Smite,Flash,10,False,6182,5275,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spectre's Cowl,Ruby Crystal,,44068,13870,Lane.jungle,Role.none
+5,ScrubNoob,Soraka,True,Side.red,0,2,14,7.0,12,Exhaust,Flash,10,False,6838,5625,Eye of the Oasis,Redemption,Faerie Charm,Faerie Charm,Faerie Charm,Ionian Boots of Lucidity,5343,5670,Lane.bot_lane,Role.support
+6,Xzevz,Lee Sin,True,Side.red,4,4,8,3.0,71,Smite,Flash,12,False,8622,6675,Boots of Speed,Dead Man's Plate,Refillable Potion,Long Sword,Enchantment: Warrior,Long Sword,12252,74405,Lane.jungle,Role.none
+7,bvcx222,Renekton,True,Side.red,4,3,8,4.0,114,Flash,Teleport,13,False,8539,7195,Refillable Potion,Chain Vest,Bami's Cinder,Negatron Cloak,Maw of Malmortius,Mercury's Treads,4047,52455,Lane.top_lane,Role.solo
+8,Imentice,Orianna,True,Side.red,10,0,5,15.0,186,Ghost,Flash,14,False,11209,9075,Rabadon's Deathcap,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,,101311,17256,Lane.mid_lane,Role.solo
+9,TheIntenseMango,Ashe,True,Side.red,5,1,8,13.0,165,Flash,Heal,12,True,10611,9175,,Infinity Edge,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Doran's Blade,752,96536,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WatchThePower,Riven,True,Side.blue,8,3,5,4.333333333333333,132,Flash,Teleport,12,False,9614,8850,The Black Cleaver,Ravenous Hydra,Ionian Boots of Lucidity,Refillable Potion,Pickaxe,,0,78115,Lane.top_lane,Role.solo
+1,Hugh jj,Jhin,True,Side.blue,10,2,6,8.0,128,Heal,Flash,11,True,10006,6800,,Zeal,Dagger,Boots of Swiftness,Essence Reaver,Doran's Blade,3371,76032,Lane.bot_lane,Role.carry
+2,Dont Keng Wo,Evelynn,True,Side.blue,7,3,10,5.666666666666667,101,Smite,Flash,12,False,9687,8425,Hextech Protobelt-01,Aether Wisp,Ionian Boots of Lucidity,The Dark Seal,Enchantment: Runic Echoes,Sheen,66232,25725,Lane.jungle,Role.none
+3,Sungmin Kim,Thresh,True,Side.blue,2,7,17,2.7142857142857144,20,Exhaust,Flash,10,False,7086,6925,Eye of the Equinox,Locket of the Iron Solari,Control Ward,Boots of Mobility,Crystalline Bracer,Cloth Armor,10687,3007,Lane.bot_lane,Role.support
+4,procberry,Ryze,True,Side.blue,10,4,11,5.25,143,Cleanse,Flash,13,False,11492,11025,Tear of the Goddess,Morellonomicon,Rod of Ages,The Dark Seal,Ionian Boots of Lucidity,Rylai's Crystal Scepter,92310,6896,Lane.jungle,Role.none
+5,Sympothix,Caitlyn,False,Side.red,3,6,4,1.1666666666666667,91,Flash,Heal,9,False,6549,5650,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,,,480,47130,Lane.bot_lane,Role.carry
+6,Freljord Lux,Lux,False,Side.red,6,6,5,1.8333333333333333,102,Flash,Barrier,12,False,8037,7100,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Aether Wisp,Needlessly Large Rod,57768,8475,Lane.mid_lane,Role.solo
+7,never lucky help,Nautilus,False,Side.red,1,7,6,1.0,26,Exhaust,Flash,9,False,5595,4550,Targon's Brace,Crystalline Bracer,Sightstone,Boots of Mobility,Forbidden Idol,,8690,4868,Lane.bot_lane,Role.support
+8,Alangatorz,Shaco,False,Side.red,5,9,2,0.7777777777777778,86,Smite,Ignite,10,False,7578,6950,Tiamat,Refillable Potion,Enchantment: Bloodrazor,Berserker's Greaves,Recurve Bow,Pickaxe,13649,56249,Lane.jungle,Role.none
+9,whywhywhywhywhy,Pantheon,False,Side.red,4,9,6,1.1111111111111112,75,Flash,Ignite,10,False,6641,6450,Corrupting Potion,The Black Cleaver,Chain Vest,Ionian Boots of Lucidity,Giant's Belt,,3870,31849,Lane.top_lane,Role.solo

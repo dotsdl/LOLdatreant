@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am sol,Lee Sin,True,Side.blue,10,5,11,4.2,96,Smite,Flash,14,False,11574,11425,Enchantment: Warrior,Giant's Belt,Control Ward,The Black Cleaver,Ravenous Hydra,Ionian Boots of Lucidity,19898,88037,Lane.jungle,Role.none
+1,Nillers,Ahri,True,Side.blue,9,5,5,2.8,145,Ignite,Flash,14,True,11090,8075,Morellonomicon,Sorcerer's Shoes,Mejai's Soulstealer,Needlessly Large Rod,Aether Wisp,Doran's Ring,61639,13800,Lane.mid_lane,Role.solo
+2,Lamar Moodie,Leona,True,Side.blue,2,3,15,5.666666666666667,34,Ignite,Flash,12,False,8705,7200,Knight's Vow,Eye of the Equinox,Boots of Mobility,Total Biscuit of Rejuvenation,Aegis of the Legion,,4458,11675,Lane.bot_lane,Role.support
+3,Jayden Park,Lucian,True,Side.blue,7,1,9,16.0,175,Flash,Heal,13,False,11649,10200,Doran's Blade,Pickaxe,B. F. Sword,Phantom Dancer,Essence Reaver,Ionian Boots of Lucidity,4351,115570,Lane.bot_lane,Role.carry
+4,Rhaby,Twisted Fate,True,Side.blue,4,5,8,2.4,93,Flash,Ghost,13,False,9254,8150,Doran's Ring,Zz'Rot Portal,Ionian Boots of Lucidity,Lich Bane,Aether Wisp,,40780,12344,Lane.top_lane,Role.solo
+5, ARRRmandotl v3,Rengar,False,Side.red,4,6,7,1.8333333333333333,95,Smite,Flash,11,False,8816,7875,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Serrated Dirk,,9120,85217,Lane.jungle,Role.none
+6,EdiWeasley,Ashe,False,Side.red,1,8,5,0.75,104,Heal,Flash,10,False,7344,7100,Doran's Blade,Essence Reaver,Zeal,Berserker's Greaves,Dagger,Dagger,1449,43973,Lane.bot_lane,Role.carry
+7,iTroll,Karma,False,Side.red,1,6,7,1.3333333333333333,19,Exhaust,Flash,10,False,7129,6300,Redemption,Ionian Boots of Lucidity,Null-Magic Mantle,Eye of the Watchers,Control Ward,,15885,5009,Lane.bot_lane,Role.support
+8,Damage Divers1on,Nautilus,False,Side.red,6,5,2,1.6,178,Teleport,Flash,13,False,9888,9500,Sunfire Cape,The Dark Seal,Spirit Visage,Doran's Ring,Mercury's Treads,Chain Vest,71418,17203,Lane.top_lane,Role.solo
+9,Taste The Wind,Yasuo,False,Side.red,7,7,2,1.2857142857142858,179,Flash,Ignite,13,False,9703,9250,Doran's Blade,Phantom Dancer,Mercury's Treads,Infinity Edge,Doran's Blade,Giant's Belt,26634,71125,Lane.mid_lane,Role.solo

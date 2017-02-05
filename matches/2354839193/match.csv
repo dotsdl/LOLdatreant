@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,General Gatsby,Jayce,False,Side.blue,3,9,0,0.3333333333333333,193,Flash,Teleport,13,False,8863,8650,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Boots of Speed,Tear of the Goddess,Pickaxe,17521,93379,Lane.top_lane,Role.solo
+1,Zorlas,Vladimir,False,Side.blue,7,5,6,2.6,175,Ghost,Flash,14,False,10356,9360,Ionian Boots of Lucidity,Hextech Protobelt-01,Rylai's Crystal Scepter,Needlessly Large Rod,Amplifying Tome,Blasting Wand,100838,11759,Lane.mid_lane,Role.solo
+2,FIoopie,Caitlyn,False,Side.blue,2,6,3,0.8333333333333334,164,Flash,Heal,12,False,8877,8400,Doran's Blade,Refillable Potion,,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,639,97639,Lane.bot_lane,Role.carry
+3,daduu,Alistar,False,Side.blue,1,7,10,1.5714285714285714,22,Flash,Exhaust,10,False,6239,5400,Boots of Mobility,Ruby Sightstone,Control Ward,Crystalline Bracer,Forbidden Idol,Relic Shield,9253,3777,Lane.bot_lane,Role.support
+4,Shroudedd,Lee Sin,False,Side.blue,5,8,5,1.25,117,Smite,Flash,13,False,9009,8375,Refillable Potion,Mercury's Treads,Enchantment: Warrior,Tiamat,Dead Man's Plate,Ruby Crystal,15774,82257,Lane.jungle,Role.none
+5,Saskioo,Rek'Sai,True,Side.red,10,1,20,30.0,142,Smite,Flash,15,False,13751,13275,Titanic Hydra,Null-Magic Mantle,Randuin's Omen,Mercury's Treads,Enchantment: Cinderhulk,Guardian Angel,28274,114241,Lane.jungle,Role.none
+6,Fake Carry,Sivir,True,Side.red,6,5,11,3.4,190,Heal,Flash,14,False,11853,11650,Essence Reaver,Statikk Shiv,Infinity Edge,Control Ward,Berserker's Greaves,Doran's Blade,4921,113521,Lane.bot_lane,Role.carry
+7,Grande Donger,Taric,True,Side.red,3,5,15,3.6,40,Flash,Exhaust,12,False,9649,7200,Eye of the Equinox,Redemption,Null-Magic Mantle,Ionian Boots of Lucidity,Aegis of the Legion,,10594,10199,Lane.bot_lane,Role.support
+8,11037,Zac,True,Side.red,7,1,5,12.0,212,Teleport,Flash,15,True,12170,11450,Zz'Rot Portal,Doran's Shield,Sunfire Cape,Ninja Tabi,Warmog's Armor,Spectre's Cowl,90290,13239,Lane.top_lane,Role.solo
+9,Painn,Orianna,True,Side.red,9,6,14,3.8333333333333335,153,Flash,Ghost,14,False,12541,11275,Doran's Ring,Rylai's Crystal Scepter,Void Staff,Morellonomicon,Doran's Ring,Sorcerer's Shoes,106412,13479,Lane.mid_lane,Role.solo

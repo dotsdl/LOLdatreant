@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FourofDiamonds,Lux,True,Side.blue,4,1,11,15.0,173,Flash,Barrier,13,False,8896,7150,Doran's Ring,Morellonomicon,Boots of Speed,Luden's Echo,,,85028,14366,Lane.mid_lane,Role.solo
+1,CedR1CK GOD,Hecarim,True,Side.blue,7,2,9,8.0,129,Ghost,Smite,13,False,10221,9683,Trinity Force,Mercury's Treads,Warden's Mail,Enchantment: Cinderhulk,Giant's Belt,,17620,108332,Lane.jungle,Role.none
+2,Daddygoesdeep,Nautilus,True,Side.blue,2,1,6,8.0,90,Flash,Teleport,12,False,7074,6125,Corrupting Potion,The Dark Seal,Mercury's Treads,Spectre's Cowl,Sunfire Cape,,37890,18271,Lane.top_lane,Role.solo
+3,Get Good Le Bad,Twitch,True,Side.blue,8,1,7,15.0,187,Heal,Flash,12,True,11399,9700,Runaan's Hurricane,Infinity Edge,Cull,Doran's Blade,Berserker's Greaves,Zeal,0,114950,Lane.bot_lane,Role.carry
+4,Lucidity,Thresh,True,Side.blue,3,1,15,18.0,32,Flash,Ignite,11,False,7373,5825,Relic Shield,Locket of the Iron Solari,Ruby Sightstone,Refillable Potion,Boots of Mobility,Ruby Crystal,7819,4260,Lane.bot_lane,Role.support
+5,Annie Bot,Annie,False,Side.red,1,2,0,0.5,176,Exhaust,Flash,12,False,7341,6110,Doran's Ring,Refillable Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Amplifying Tome,Blasting Wand,60820,10959,Lane.mid_lane,Role.solo
+6,Nëbu,Ekko,False,Side.red,0,2,1,0.5,131,Flash,Teleport,12,False,6730,5925,Doran's Ring,Corrupting Potion,Hextech Protobelt-01,The Dark Seal,Mercury's Treads,Giant's Belt,68450,14733,Lane.top_lane,Role.solo
+7,B4ng Ga ,Jhin,False,Side.red,3,5,0,0.6,145,Heal,Flash,11,False,7284,6700,Doran's Blade,Essence Reaver,B. F. Sword,Boots of Swiftness,Control Ward,,4361,59342,Lane.bot_lane,Role.carry
+8,Happo,Lee Sin,False,Side.red,2,6,2,0.6666666666666666,102,Flash,Smite,11,False,7093,5950,Refillable Potion,Boots of Mobility,Giant's Belt,,Tiamat,Enchantment: Warrior,10955,67723,Lane.jungle,Role.none
+9,ZambonGG,Karma,False,Side.red,0,9,2,0.2222222222222222,12,Flash,Exhaust,9,False,5342,5275,Boots of Mobility,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,12474,1414,Lane.bot_lane,Role.support

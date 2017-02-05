@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kaiceytron,Zyra,True,Side.blue,4,2,8,6.0,146,Teleport,Flash,13,False,9102,7675,Doran's Ring,Aether Wisp,Needlessly Large Rod,Doran's Ring,Liandry's Torment,Sorcerer's Shoes,69616,16373,Lane.top_lane,Role.solo
+1,Haru Tenshi,Vayne,True,Side.blue,9,4,4,3.25,152,Flash,Heal,12,True,10783,9250,Doran's Blade,Infinity Edge,Refillable Potion,Berserker's Greaves,Statikk Shiv,Zeal,20086,79217,Lane.bot_lane,Role.carry
+2,Rich Homie Lucky,Thresh,True,Side.blue,3,1,13,16.0,27,Flash,Exhaust,11,False,7094,5725,Control Ward,Eye of the Equinox,Redemption,,,Boots of Mobility,9112,5845,Lane.bot_lane,Role.support
+3,Xzevz,Jax,True,Side.blue,7,1,8,15.0,121,Smite,Flash,13,False,9924,8308,Boots of Speed,Enchantment: Bloodrazor,Trinity Force,Refillable Potion,Bilgewater Cutlass,,26369,85017,Lane.jungle,Role.none
+4,Kic,Twisted Fate,True,Side.blue,3,0,9,12.0,141,Flash,Ghost,14,False,9756,8025,Doran's Ring,Ionian Boots of Lucidity,Rod of Ages,Doran's Ring,Lich Bane,,90484,13845,Lane.mid_lane,Role.solo
+5,bolo,Jinx,False,Side.red,2,5,2,0.8,144,Heal,Flash,10,False,6988,6725,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,,Pickaxe,B. F. Sword,2620,57982,Lane.bot_lane,Role.carry
+6,Cotopaco Parce,Viktor,False,Side.red,4,2,0,2.0,160,Cleanse,Flash,13,False,8079,7560,Perfect Hex Core,Doran's Ring,Giant's Belt,Amplifying Tome,Ionian Boots of Lucidity,Needlessly Large Rod,76757,10549,Lane.mid_lane,Role.solo
+7,MITCH RAMZ,Nami,False,Side.red,1,5,4,1.0,13,Flash,Exhaust,10,False,5490,4775,Forbidden Idol,Crystalline Bracer,,Eye of the Watchers,,Ionian Boots of Lucidity,4451,2508,Lane.bot_lane,Role.support
+8,Alchemíst,Nunu,False,Side.red,1,7,2,0.42857142857142855,113,Smite,Flash,11,False,7095,6250,Spectre's Cowl,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,,Kindlegem,29294,32409,Lane.jungle,Role.none
+9,Firé,Tryndamere,False,Side.red,0,7,1,0.14285714285714285,147,Ignite,Flash,12,False,6730,6075,Mercury's Treads,Refillable Potion,Statikk Shiv,Vampiric Scepter,Phage,,16651,63598,Lane.top_lane,Role.solo

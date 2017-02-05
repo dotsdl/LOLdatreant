@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wizzy,Kayle,True,Side.blue,8,2,5,6.5,220,Ghost,Flash,14,False,12428,10250,The Dark Seal,Guinsoo's Rageblade,Needlessly Large Rod,Doran's Ring,Nashor's Tooth,Ionian Boots of Lucidity,94696,41273,Lane.mid_lane,Role.solo
+1,Doublelift,Lee Sin,True,Side.blue,5,4,8,3.25,117,Flash,Smite,13,False,10203,8750,Tiamat,Dead Man's Plate,Enchantment: Warrior,Mercury's Treads,Ruby Crystal,Cloth Armor,15377,102504,Lane.jungle,Role.none
+2,Liquid fabbbyyy,Twitch,True,Side.blue,6,6,4,1.6666666666666667,157,Flash,Heal,13,False,10116,8975,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,Dagger,Brawler's Gloves,269,87032,Lane.bot_lane,Role.carry
+3,And JuIy,Sona,True,Side.blue,0,4,14,3.5,14,Flash,Exhaust,11,False,7412,6025,Spellthief's Edge,Redemption,Ninja Tabi,Sightstone,Aegis of the Legion,,6447,4347,Lane.bot_lane,Role.support
+4,Abou222,Ryze,True,Side.blue,2,1,5,7.0,163,Teleport,Flash,13,False,9280,8310,Archangel's Staff,Cloth Armor,Ruby Crystal,Mercury's Treads,The Dark Seal,Rod of Ages,80117,8655,Lane.top_lane,Role.solo
+5,Keegun,Pantheon,False,Side.red,5,8,7,1.5,127,Flash,Ignite,12,False,8819,8425,Corrupting Potion,Youmuu's Ghostblade,Edge of Night,Ninja Tabi,Long Sword,Ruby Crystal,3585,66125,Lane.mid_lane,Role.solo
+6,SKY Fear,Jhin,False,Side.red,3,2,6,4.5,214,Flash,Heal,12,False,10761,10275,Doran's Blade,Boots of Swiftness,Essence Reaver,B. F. Sword,Pickaxe,Rapid Firecannon,4120,123828,Lane.bot_lane,Role.solo
+7,Rhux,Trundle,False,Side.red,3,4,1,1.0,187,Flash,Teleport,13,False,9647,9233,Corrupting Potion,Mercury's Treads,Ravenous Hydra,Trinity Force,Ruby Crystal,,1586,111144,Lane.top_lane,Role.solo
+8,Xpecial,Thresh,False,Side.red,1,3,7,2.6666666666666665,25,Exhaust,Flash,10,False,7234,7375,Nomad's Medallion,Locket of the Iron Solari,Chain Vest,,Boots of Mobility,Ruby Sightstone,6005,4983,Lane.jungle,Role.none
+9,McCashDollar,Shaco,False,Side.red,5,4,1,1.5,76,Ignite,Smite,12,True,8790,7800,Giant's Belt,Hextech Gunblade,Aether Wisp,The Dark Seal,Ionian Boots of Lucidity,Stalker's Blade,38216,35431,Lane.jungle,Role.none

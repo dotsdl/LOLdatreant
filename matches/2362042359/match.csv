@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Swirl,Viktor,False,Side.blue,0,0,0,0.0,45,Ghost,Flash,6,False,2666,1450,Prototype Hex Core,Total Biscuit of Rejuvenation,Lost Chapter,Doran's Ring,,,7195,4546,Lane.mid_lane,Role.solo
+1,SKT T1 K,Lee Sin,False,Side.blue,1,6,0,0.16666666666666666,51,Smite,Flash,7,False,3405,3050,Refillable Potion,Boots of Speed,Tiamat,Hunter's Machete,Vampiric Scepter,,3172,25977,Lane.jungle,Role.none
+2,OVERusedPLAYtoy,Twitch,False,Side.blue,0,0,0,0.0,24,Flash,Heal,4,False,2295,1375,Doran's Blade,Pickaxe,,,,,0,5378,Lane.bot_lane,Role.duo
+3,Michelle Okarma,Azir,False,Side.blue,0,4,0,0.0,16,Flash,Exhaust,6,False,2440,1000,Frostfang,Total Biscuit of Rejuvenation,,,,,6062,3807,Lane.bot_lane,Role.duo
+4,EzPzCarryz,Maokai,False,Side.blue,0,3,1,0.3333333333333333,35,Teleport,Flash,7,False,2656,2075,Control Ward,Spectre's Cowl,Boots of Speed,Corrupting Potion,,,9174,4179,Lane.top_lane,Role.solo
+5,valtraz,Lux,True,Side.red,2,0,2,4.0,74,Flash,Barrier,9,False,4730,1335,Doran's Ring,Doran's Ring,Amplifying Tome,,,,27179,11178,Lane.mid_lane,Role.solo
+6,Anthøny,Kha'Zix,True,Side.red,8,0,1,9.0,48,Smite,Flash,9,False,6124,3150,Enchantment: Warrior,Refillable Potion,Boots of Speed,,,,1792,51315,Lane.jungle,Role.none
+7,Hi im Thalies,Katarina,True,Side.red,2,1,2,4.0,83,Teleport,Flash,9,True,4987,2050,The Dark Seal,,Hextech Revolver,Long Sword,,,36464,7029,Lane.top_lane,Role.solo
+8,NB lucian,Jhin,True,Side.red,1,0,3,4.0,88,Heal,Flash,8,False,5014,3350,Refillable Potion,Doran's Blade,B. F. Sword,Caulfield's Warhammer,Boots of Speed,,228,38470,Lane.bot_lane,Role.duo
+9,EXIA LJN,Soraka,True,Side.red,0,0,5,5.0,2,Exhaust,Flash,7,False,4008,2325,Ancient Coin,Sightstone,,Ionian Boots of Lucidity,,,2852,4238,Lane.bot_lane,Role.duo

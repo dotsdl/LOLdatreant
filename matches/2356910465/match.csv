@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TRUMPSSMALLHANDS,Zac,True,Side.blue,8,0,6,14.0,120,Flash,Smite,14,False,9981,7475,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ionian Boots of Lucidity,Giant's Belt,,77821,23817,Lane.jungle,Role.none
+1,dadams,LeBlanc,True,Side.blue,3,3,3,2.0,131,Flash,Ignite,13,False,7683,7675,Ionian Boots of Lucidity,Morellonomicon,Void Staff,Doran's Ring,,,69669,10335,Lane.mid_lane,Role.solo
+2,MusicalNotes,Ezreal,True,Side.blue,4,2,3,3.5,136,Flash,Heal,10,False,7555,6850,Doran's Blade,Iceborn Gauntlet,Manamune,Ionian Boots of Lucidity,Long Sword,,3861,54770,Lane.bot_lane,Role.carry
+3,racecar3112,Olaf,True,Side.blue,11,4,1,3.0,137,Ghost,Teleport,13,True,10282,8695,Corrupting Potion,The Black Cleaver,Ninja Tabi,Randuin's Omen,Negatron Cloak,Cloth Armor,2102,83849,Lane.top_lane,Role.solo
+4,A Lewd Mugi,Karma,True,Side.blue,0,1,8,8.0,42,Flash,Exhaust,10,False,6248,5575,Sightstone,Frost Queen's Claim,Crystalline Bracer,Ionian Boots of Lucidity,Forbidden Idol,,21711,7386,Lane.bot_lane,Role.support
+5,UdonBdon,Draven,False,Side.red,3,6,1,0.6666666666666666,121,Heal,Flash,10,False,6957,6900,Doran's Blade,Berserker's Greaves,Zeal,Infinity Edge,,,0,53771,Lane.bot_lane,Role.carry
+6,ln7ense,Elise,False,Side.red,3,5,3,1.2,73,Flash,Smite,10,False,6212,6080,Sorcerer's Shoes,Enchantment: Runic Echoes,Negatron Cloak,Refillable Potion,Fiendish Codex,Amplifying Tome,37161,15398,Lane.jungle,Role.none
+7,Arcadelt,Zyra,False,Side.red,0,5,5,1.0,14,Exhaust,Flash,9,False,5101,3775,Frostfang,Sightstone,Sorcerer's Shoes,Ruby Crystal,,,15777,2445,Lane.bot_lane,Role.support
+8,Koma cahn,Renekton,False,Side.red,3,7,0,0.42857142857142855,173,Flash,Teleport,12,False,7702,7400,Doran's Blade,Warden's Mail,Boots of Speed,The Black Cleaver,Giant's Belt,Tiamat,3472,81199,Lane.top_lane,Role.solo
+9,Kurowsk,Galio,False,Side.red,0,3,0,0.0,119,Teleport,Flash,11,False,5834,5755,Mercury's Treads,Rod of Ages,Doran's Ring,Negatron Cloak,Amplifying Tome,,53864,8642,Lane.mid_lane,Role.solo

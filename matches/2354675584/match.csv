@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DRRRRRRRRRRRAVEN,Draven,True,Side.blue,10,4,13,5.75,208,Flash,Heal,15,False,15696,15310,Mercurial Scimitar,Lord Dominik's Regards,Berserker's Greaves,Pickaxe,The Bloodthirster,Phantom Dancer,0,155226,Lane.bot_lane,Role.carry
+1,NightStealth,Alistar,True,Side.blue,6,2,12,9.0,29,Exhaust,Flash,12,False,9257,9225,Locket of the Iron Solari,Redemption,Ruby Sightstone,Face of the Mountain,,Boots of Mobility,8289,6308,Lane.bot_lane,Role.support
+2,DeathInitive,Katarina,True,Side.blue,2,3,6,2.6666666666666665,144,Ignite,Flash,14,True,9880,9560,Zhonya's Hourglass,Needlessly Large Rod,,Sorcerer's Shoes,Amplifying Tome,Rylai's Crystal Scepter,83596,12754,Lane.mid_lane,Role.solo
+3,Finesse Jungler,Riven,True,Side.blue,8,4,9,4.25,207,Teleport,Flash,16,False,13105,12225,Ravenous Hydra,Youmuu's Ghostblade,Doran's Blade,Ninja Tabi,The Black Cleaver,Chain Vest,0,145190,Lane.top_lane,Role.solo
+4,Hi im Freeze,Hecarim,True,Side.blue,16,4,8,6.0,144,Ghost,Smite,16,False,14173,12533,Youmuu's Ghostblade,Enchantment: Cinderhulk,Boots of Swiftness,Trinity Force,Giant's Belt,Warden's Mail,24267,142151,Lane.jungle,Role.none
+5,always plan ahea,Kled,False,Side.red,9,12,0,0.75,175,Flash,Ignite,16,False,11398,13350,Titanic Hydra,Sterak's Gage,Ionian Boots of Lucidity,Jaurim's Fist,Giant's Belt,,163,127314,Lane.top_lane,Role.solo
+6,Supercilious,Nocturne,False,Side.red,3,6,6,1.5,127,Flash,Smite,13,False,9206,9025,Skirmisher's Sabre,Randuin's Omen,Youmuu's Ghostblade,Ninja Tabi,Hunter's Potion,,4323,101385,Lane.jungle,Role.none
+7,D Gemini,Ahri,False,Side.red,2,8,5,0.875,171,Ignite,Flash,14,False,9295,8660,Boots of Speed,Morellonomicon,Luden's Echo,Doran's Ring,Amplifying Tome,Needlessly Large Rod,61217,13828,Lane.mid_lane,Role.solo
+8,Lego King,Janna,False,Side.red,0,9,7,0.7777777777777778,8,Flash,Exhaust,10,False,6901,5925,Nomad's Medallion,Redemption,Boots of Swiftness,Chain Vest,,Sightstone,5340,2056,Lane.bot_lane,Role.support
+9,WontTrustAnyMore,Ezreal,False,Side.red,3,7,6,1.2857142857142858,155,Heal,Flash,13,False,9287,9083,Doran's Blade,Bilgewater Cutlass,Muramana,Trinity Force,Ionian Boots of Lucidity,,8296,72201,Lane.bot_lane,Role.carry

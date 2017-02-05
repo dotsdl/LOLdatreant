@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheHiddenMist,Twitch,True,Side.blue,3,2,6,4.5,139,Flash,Heal,10,False,8620,7950,Doran's Blade,Infinity Edge,Runaan's Hurricane,Control Ward,,Berserker's Greaves,0,71217,Lane.bot_lane,Role.carry
+1,SpiocsaAtma,Jax,True,Side.blue,2,2,2,2.0,148,Ghost,Teleport,12,False,9233,6783,Doran's Shield,Bilgewater Cutlass,Refillable Potion,Trinity Force,Boots of Swiftness,,19081,68448,Lane.top_lane,Role.solo
+2,PRoHAppyCAmper,Xerath,True,Side.blue,5,2,7,6.0,159,Cleanse,Flash,13,False,9680,9600,Refillable Potion,Haunting Guise,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,83000,8973,Lane.mid_lane,Role.solo
+3,SuperJimmy,Lee Sin,True,Side.blue,9,2,4,6.5,123,Flash,Smite,13,True,10376,9225,,Sightstone,Ravenous Hydra,Enchantment: Warrior,Phage,Ionian Boots of Lucidity,18394,84526,Lane.jungle,Role.none
+4,The Great Mishka,Janna,True,Side.blue,0,2,8,4.0,8,Exhaust,Flash,10,False,6384,5000,Eye of the Oasis,Mikael's Crucible,Control Ward,,Boots of Speed,,3014,5198,Lane.bot_lane,Role.support
+5,KaNKl,Ezreal,False,Side.red,3,3,1,1.3333333333333333,127,Heal,Flash,10,False,6766,6300,Refillable Potion,Doran's Blade,Phage,Sheen,Manamune,Ionian Boots of Lucidity,4588,46432,Lane.bot_lane,Role.carry
+6,l am Gundam,Rammus,False,Side.red,0,4,3,0.75,18,Exhaust,Flash,10,False,5299,4350,Sightstone,Corrupting Potion,Boots of Swiftness,Nomad's Medallion,Crystalline Bracer,Crystalline Bracer,5370,6449,Lane.bot_lane,Role.support
+7,Astral Vagabond,Kha'Zix,False,Side.red,3,4,0,0.75,55,Flash,Smite,10,False,5855,5625,Enchantment: Warrior,B. F. Sword,Refillable Potion,Serrated Dirk,Boots of Speed,,3224,54481,Lane.jungle,Role.none
+8,Báng,Ekko,False,Side.red,3,5,1,0.8,94,Flash,Teleport,11,False,6239,8350,Corrupting Potion,Hextech Protobelt-01,Ionian Boots of Lucidity,Bami's Cinder,,,32357,9743,Lane.top_lane,Role.solo
+9,Cristal,Orianna,False,Side.red,1,3,2,1.0,136,Heal,Flash,11,False,6384,5610,Doran's Ring,Morellonomicon,,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,50662,8505,Lane.mid_lane,Role.solo

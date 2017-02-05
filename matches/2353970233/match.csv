@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,chenyunq1,Jhin,False,Side.blue,5,11,3,0.7272727272727273,144,Heal,Flash,11,False,8736,8250,Essence Reaver,Doran's Blade,Cull,Rapid Firecannon,,Boots of Swiftness,8893,67069,Lane.bot_lane,Role.duo
+1,Aloa,Yasuo,False,Side.blue,5,6,8,2.1666666666666665,226,Flash,Teleport,14,False,10071,9650,Ninja Tabi,Phantom Dancer,Frozen Mallet,Doran's Blade,Pickaxe,B. F. Sword,36083,101752,Lane.top_lane,Role.solo
+2,WatchThePower,Thresh,False,Side.blue,1,9,9,1.1111111111111112,44,Flash,Exhaust,11,False,6349,6125,Targon's Brace,Sightstone,Boots of Mobility,Redemption,Warden's Mail,,15454,7112,Lane.bot_lane,Role.duo
+3,DreadXaeon,Orianna,False,Side.blue,5,8,1,0.75,132,Flash,Ghost,12,True,7948,7250,Doran's Ring,Doran's Ring,Morellonomicon,Needlessly Large Rod,Blasting Wand,Sorcerer's Shoes,73531,7545,Lane.mid_lane,Role.solo
+4,manthejim,Ivern,False,Side.blue,2,8,8,1.25,61,Smite,Flash,12,False,7479,6700,Hunter's Talisman,Redemption,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Refillable Potion,,17611,5501,Lane.jungle,Role.none
+5,BernieJewSanders,Jax,True,Side.red,13,3,8,7.0,124,Ghost,Smite,15,False,13170,11008,Enchantment: Bloodrazor,Blade of the Ruined King,Ninja Tabi,Trinity Force,,,26968,111179,Lane.jungle,Role.none
+6,Hatsunemiku233,Nasus,True,Side.red,4,6,8,2.0,164,Ghost,Teleport,15,False,11086,10033,Corrupting Potion,Zz'Rot Portal,Trinity Force,Ninja Tabi,Spectre's Cowl,Kindlegem,49290,38425,Lane.top_lane,Role.solo
+7,Boosted bot,Twitch,True,Side.red,15,3,10,8.333333333333334,138,Flash,Heal,14,False,13281,11850,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Refillable Potion,Runaan's Hurricane,Guinsoo's Rageblade,736,94345,Lane.bot_lane,Role.carry
+8,Senjogahara,Maokai,True,Side.red,7,2,17,12.0,39,Flash,Exhaust,13,False,10140,8750,Face of the Mountain,Sightstone,Redemption,Boots of Swiftness,Knight's Vow,,21178,9511,Lane.bot_lane,Role.support
+9,Lexi Belle,Viktor,True,Side.red,2,4,6,2.0,150,Ghost,Flash,13,False,9438,8950,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Sheen,,69962,11147,Lane.mid_lane,Role.solo

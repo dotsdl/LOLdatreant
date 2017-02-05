@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IQ is 201 ,Yasuo,True,Side.blue,4,2,0,2.0,121,Flash,Exhaust,10,True,7087,4800,Refillable Potion,Doran's Blade,Phantom Dancer,B. F. Sword,Boots of Speed,,14690,51942,Lane.mid_lane,Role.solo
+1,Abraham,Thresh,True,Side.blue,1,0,4,5.0,8,Flash,Ignite,7,False,4632,2900,Boots of Mobility,Relic Shield,Ruby Crystal,,Sightstone,Cloth Armor,2760,2723,Lane.bot_lane,Role.duo
+2,Dexima,Vi,True,Side.blue,3,1,2,5.0,86,Flash,Smite,10,False,7031,4683,Hunter's Machete,Refillable Potion,Control Ward,Trinity Force,Boots of Speed,,0,73740,Lane.jungle,Role.none
+3,Mi Amor Teemo,Nasus,True,Side.blue,4,2,4,4.0,119,Flash,Teleport,11,False,7134,4975,Corrupting Potion,Doran's Ring,Zz'Rot Portal,Boots of Swiftness,Doran's Ring,Control Ward,39282,21141,Lane.top_lane,Role.solo
+4,ily and ily,Ezreal,True,Side.blue,0,0,2,2.0,116,Flash,Heal,9,False,6876,5405,Doran's Blade,Manamune,Ionian Boots of Lucidity,Cull,Control Ward,Sheen,8331,49843,Lane.bot_lane,Role.duo
+5,IA55A55INI,Talon,False,Side.red,1,2,1,1.0,48,Flash,Ignite,8,False,3654,2700,Serrated Dirk,Caulfield's Warhammer,,Boots of Speed,,,267,24323,Lane.mid_lane,Role.duo
+6,OmegaB,Jhin,False,Side.red,0,0,0,0.0,0,Flash,Heal,2,False,2211,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,0,Lane.mid_lane,Role.duo
+7,yoko,Nocturne,False,Side.red,3,1,0,3.0,69,Smite,Flash,9,False,4777,4425,Enchantment: Warrior,B. F. Sword,Long Sword,,,,1054,39585,Lane.jungle,Role.none
+8,SWKM,Zac,False,Side.red,1,8,1,0.25,66,Ignite,Flash,8,False,3798,3400,Doran's Shield,Hextech Revolver,Bilgewater Cutlass,Boots of Speed,,,24372,4720,Lane.top_lane,Role.solo
+9,never meme,Lulu,False,Side.red,0,1,0,0.0,32,Exhaust,Flash,7,False,3069,2475,,Total Biscuit of Rejuvenation,Boots of Speed,,,,7667,1757,Lane.bot_lane,Role.solo

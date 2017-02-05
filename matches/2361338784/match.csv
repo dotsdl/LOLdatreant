@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xmithie Lite,Hecarim,True,Side.blue,9,1,6,15.0,136,Ghost,Smite,13,False,10133,9033,Enchantment: Cinderhulk,Trinity Force,Caulfield's Warhammer,Mercury's Treads,,Hunter's Potion,14129,93503,Lane.jungle,Role.none
+1,jamican banana,Orianna,True,Side.blue,5,1,6,11.0,159,Ghost,Flash,12,False,8670,6825,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Doran's Ring,Giant's Belt,,69817,11530,Lane.mid_lane,Role.solo
+2,Donde Esta Santa,Yasuo,True,Side.blue,2,1,9,11.0,125,Ignite,Flash,11,False,7441,6050,Doran's Blade,Refillable Potion,Mercury's Treads,Cloak of Agility,Phantom Dancer,Chain Vest,16842,50427,Lane.bot_lane,Role.carry
+3,Smartcloud,Braum,True,Side.blue,3,1,8,11.0,32,Flash,Exhaust,9,False,6112,4600,,Crystalline Bracer,Eye of the Equinox,Boots of Mobility,Faerie Charm,Faerie Charm,5015,4920,Lane.bot_lane,Role.support
+4,cat and bird,Maokai,True,Side.blue,2,4,7,2.25,132,Teleport,Flash,12,False,7281,5550,Corrupting Potion,Rod of Ages,Ninja Tabi,Null-Magic Mantle,Chain Vest,,57008,11780,Lane.top_lane,Role.solo
+5,You all boosted,Elise,False,Side.red,5,5,3,1.6,50,Flash,Smite,10,True,6503,6225,Enchantment: Runic Echoes,Refillable Potion,Hextech Revolver,The Dark Seal,Kindlegem,Sorcerer's Shoes,40077,14685,Lane.jungle,Role.none
+6,Alex Ich 1,Ryze,False,Side.red,3,4,0,0.75,146,Flash,Ghost,11,False,6932,6450,Tear of the Goddess,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Fiendish Codex,Lost Chapter,69444,8695,Lane.mid_lane,Role.solo
+7,Aecinira,Ezreal,False,Side.red,0,3,2,0.6666666666666666,132,Flash,Heal,10,False,6323,5250,Doran's Blade,Tear of the Goddess,Iceborn Gauntlet,,Long Sword,Ionian Boots of Lucidity,10536,43844,Lane.bot_lane,Role.carry
+8,C9 Smoothie,Karma,False,Side.red,0,4,3,0.75,12,Flash,Exhaust,8,False,4365,3825,Total Biscuit of Rejuvenation,Eye of the Watchers,Control Ward,Boots of Mobility,,,8916,2487,Lane.bot_lane,Role.support
+9,KayBee,Pantheon,False,Side.red,0,5,1,0.2,124,Teleport,Flash,11,False,6016,5900,Corrupting Potion,The Black Cleaver,Mercury's Treads,Long Sword,Long Sword,Long Sword,7441,47236,Lane.top_lane,Role.solo

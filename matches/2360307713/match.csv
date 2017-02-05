@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rudeclaw,Thresh,True,Side.blue,1,6,16,2.8333333333333335,22,Flash,Exhaust,11,True,7633,7350,Face of the Mountain,Redemption,,Ruby Sightstone,Ionian Boots of Lucidity,Control Ward,10224,8288,Lane.bot_lane,Role.support
+1,Oldthebest,Orianna,True,Side.blue,10,4,4,3.5,138,Flash,Exhaust,12,False,10792,6825,Refillable Potion,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,71426,9516,Lane.mid_lane,Role.solo
+2,ToldYaSo,Urgot,True,Side.blue,4,4,4,2.0,133,Heal,Flash,11,False,9208,8250,Manamune,Serrated Dirk,Ninja Tabi,Doran's Blade,The Black Cleaver,,1818,57677,Lane.bot_lane,Role.carry
+3,KT Score,Ivern,True,Side.blue,3,2,16,9.5,85,Smite,Flash,13,False,9982,9275,Redemption,Hunter's Talisman,Locket of the Iron Solari,Mejai's Soulstealer,Athene's Unholy Grail,Ionian Boots of Lucidity,20361,7647,Lane.jungle,Role.none
+4,Tyflos,Riven,True,Side.blue,8,4,5,3.25,206,Teleport,Flash,14,False,12021,10075,Doran's Shield,The Black Cleaver,Death's Dance,Ruby Crystal,Tiamat,Ninja Tabi,7425,125888,Lane.top_lane,Role.solo
+5,Beskytter,Alistar,False,Side.red,1,4,9,2.5,21,Exhaust,Flash,10,False,5805,5450,Redemption,Sightstone,Control Ward,Relic Shield,Glacial Shroud,Boots of Mobility,9496,3573,Lane.bot_lane,Role.support
+6,iSpoopy,Evelynn,False,Side.red,3,6,12,2.5,59,Flash,Smite,11,False,7383,6710,Refillable Potion,Mercury's Treads,Enchantment: Runic Echoes,Giant's Belt,Amplifying Tome,Needlessly Large Rod,28195,15899,Lane.jungle,Role.none
+7,CptRageMoar,Yasuo,False,Side.red,2,6,9,1.8333333333333333,156,Flash,Teleport,13,False,8019,6825,Doran's Blade,Doran's Blade,Phantom Dancer,B. F. Sword,Berserker's Greaves,Cloak of Agility,22040,76573,Lane.top_lane,Role.solo
+8,Kebin M,Zed,False,Side.red,4,6,8,2.0,121,Flash,Ignite,12,False,7756,7700,Refillable Potion,Serrated Dirk,Youmuu's Ghostblade,Boots of Speed,The Black Cleaver,,4482,58009,Lane.mid_lane,Role.solo
+9,Henchey,Jhin,False,Side.red,10,4,6,4.0,132,Heal,Flash,11,False,9839,9025,Essence Reaver,Doran's Blade,Boots of Swiftness,Rapid Firecannon,Total Biscuit of Rejuvenation,B. F. Sword,11780,82060,Lane.bot_lane,Role.carry

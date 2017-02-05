@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Meteos,Olaf,True,Side.blue,7,1,6,13.0,144,Smite,Ghost,13,False,9928,7450,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Hunter's Potion,,Dead Man's Plate,Ruby Crystal,16073,107604,Lane.jungle,Role.none
+1,Riot Meekal,Blitzcrank,True,Side.blue,2,4,8,2.5,21,Flash,Exhaust,10,False,6133,4925,Relic Shield,Boots of Mobility,Refillable Potion,,Sightstone,Locket of the Iron Solari,3394,7052,Lane.bot_lane,Role.support
+2,Maxtrobo,Vayne,True,Side.blue,4,4,8,3.0,165,Flash,Heal,13,True,9287,8850,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Brawler's Gloves,Dagger,226,73790,Lane.bot_lane,Role.carry
+3,im Dusk,Poppy,True,Side.blue,1,3,5,2.0,115,Flash,Teleport,12,False,6985,6700,Sunfire Cape,Corrupting Potion,Glacial Shroud,Ninja Tabi,Sheen,,13238,46338,Lane.top_lane,Role.solo
+4,oopa,Cassiopeia,True,Side.blue,4,1,5,9.0,148,Flash,Ghost,12,False,8358,5960,Doran's Ring,Refillable Potion,Giant's Belt,Tear of the Goddess,Amplifying Tome,Morellonomicon,61987,8289,Lane.mid_lane,Role.solo
+5,SSBM Hax,Twisted Fate,False,Side.red,1,2,3,2.0,185,Flash,Ghost,13,False,8596,8110,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Amplifying Tome,,81813,10525,Lane.mid_lane,Role.solo
+6,moon o,Evelynn,False,Side.red,5,2,3,4.0,104,Smite,Flash,11,False,8371,8000,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Hextech Revolver,,60144,28832,Lane.jungle,Role.none
+7,Erry,Twitch,False,Side.red,5,3,4,3.0,154,Heal,Flash,11,False,8836,7100,Bilgewater Cutlass,Total Biscuit of Rejuvenation,Berserker's Greaves,B. F. Sword,Doran's Blade,Runaan's Hurricane,0,68460,Lane.bot_lane,Role.carry
+8,daduu,Bard,False,Side.red,0,7,9,1.2857142857142858,10,Flash,Exhaust,9,False,5952,4425,Boots of Mobility,Crystalline Bracer,,,Eye of the Watchers,,8649,3528,Lane.bot_lane,Role.support
+9,Carrots2,Tryndamere,False,Side.red,2,4,1,0.75,179,Flash,Ignite,13,False,8387,7500,The Black Cleaver,,Ionian Boots of Lucidity,Phantom Dancer,Long Sword,Dagger,0,109957,Lane.top_lane,Role.solo

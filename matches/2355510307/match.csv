@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,This is hell,Malphite,True,Side.blue,4,5,11,3.0,41,Exhaust,Flash,12,False,8946,8350,Randuin's Omen,Iceborn Gauntlet,Relic Shield,Ninja Tabi,Chain Vest,Cloth Armor,19160,16940,Lane.bot_lane,Role.support
+1,Flowers YL,Garen,True,Side.blue,4,1,4,8.0,96,Teleport,Flash,13,False,9113,7575,Randuin's Omen,The Black Cleaver,Boots of Swiftness,,,,1346,76545,Lane.top_lane,Role.solo
+2,SageLotus,Lee Sin,True,Side.blue,8,6,1,1.5,102,Smite,Flash,13,True,10491,8425,The Black Cleaver,Hexdrinker,Long Sword,Enchantment: Warrior,Boots of Mobility,,15722,77310,Lane.jungle,Role.none
+3,XxSickBoyxX,Katarina,True,Side.blue,4,6,6,1.6666666666666667,109,Ignite,Flash,12,False,9106,8550,Hextech Gunblade,Rylai's Crystal Scepter,The Dark Seal,Sorcerer's Shoes,,,62643,6297,Lane.mid_lane,Role.solo
+4,herolineage,Ezreal,True,Side.blue,12,3,3,5.0,178,Flash,Heal,12,False,12970,12533,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,The Bloodthirster,B. F. Sword,10087,120586,Lane.bot_lane,Role.carry
+5,Zaffii,Vayne,False,Side.red,1,6,6,1.1666666666666667,112,Flash,Heal,12,False,6817,6475,Health Potion,Pickaxe,Cloak of Agility,Doran's Blade,Statikk Shiv,Berserker's Greaves,20117,36372,Lane.bot_lane,Role.solo
+6,ayoaustino,Cassiopeia,False,Side.red,1,8,7,1.0,31,Flash,Exhaust,10,False,6265,5725,Tear of the Goddess,Frostfang,Abyssal Scepter,Needlessly Large Rod,,,33392,2911,Lane.jungle,Role.none
+7,AsianNinja8,Jhin,False,Side.red,11,5,6,3.4,110,Exhaust,Flash,14,False,9811,9250,Long Sword,Hexdrinker,Youmuu's Ghostblade,Berserker's Greaves,Rapid Firecannon,Long Sword,12588,70264,Lane.mid_lane,Role.solo
+8,lambchopzz,Jax,False,Side.red,0,6,0,0.0,77,Flash,Teleport,10,False,5322,4350,Phage,Bilgewater Cutlass,Boots of Speed,Hextech Revolver,,,5191,26802,Lane.top_lane,Role.solo
+9,ButtersMD,Vi,False,Side.red,8,7,3,1.5714285714285714,90,Flash,Smite,13,False,8426,7233,Stalker's Blade,Mercury's Treads,Trinity Force,Caulfield's Warhammer,,,961,66750,Lane.jungle,Role.none

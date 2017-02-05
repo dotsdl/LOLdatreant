@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Myloo,Rumble,True,Side.blue,11,4,10,5.25,196,Flash,Teleport,16,False,13664,12500,Sorcerer's Shoes,Zhonya's Hourglass,Liandry's Torment,Rylai's Crystal Scepter,Blasting Wand,Doran's Shield,109456,15131,Lane.top_lane,Role.solo
+1,Štarboy,Ivern,True,Side.blue,5,5,24,5.8,58,Smite,Flash,14,True,11357,10375,Enchantment: Runic Echoes,Locket of the Iron Solari,Redemption,Athene's Unholy Grail,,Ionian Boots of Lucidity,23438,9802,Lane.jungle,Role.none
+2,Daarr,Caitlyn,True,Side.blue,15,6,7,3.6666666666666665,228,Flash,Heal,16,False,15847,12750,B. F. Sword,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Vampiric Scepter,2415,179305,Lane.bot_lane,Role.carry
+3,Wiggily,Braum,True,Side.blue,1,7,26,3.857142857142857,47,Flash,Exhaust,13,False,10000,8875,Face of the Mountain,,Sightstone,Zz'Rot Portal,Bami's Cinder,Boots of Mobility,11890,8741,Lane.bot_lane,Role.support
+4,Linsanityy,Corki,True,Side.blue,11,4,13,6.0,265,Flash,Heal,16,False,15381,14213,Sorcerer's Shoes,Hextech Gunblade,Trinity Force,Cloak of Agility,B. F. Sword,Rapid Firecannon,137158,40435,Lane.mid_lane,Role.solo
+5,fallenbandit,Jayce,False,Side.red,6,7,4,1.4285714285714286,223,Flash,Teleport,15,False,12152,11575,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,Doran's Blade,,Maw of Malmortius,19028,124101,Lane.top_lane,Role.solo
+6,Gahlin,Trundle,False,Side.red,3,7,11,2.0,55,Flash,Exhaust,13,False,9140,8850,Locket of the Iron Solari,Mercury's Treads,Eye of the Equinox,Spirit Visage,,,2031,19735,Lane.bot_lane,Role.support
+7,IKingVex,Ezreal,False,Side.red,4,9,8,1.3333333333333333,191,Heal,Flash,13,False,11079,10358,Doran's Blade,B. F. Sword,Ionian Boots of Lucidity,Muramana,Trinity Force,Hexdrinker,14347,95444,Lane.bot_lane,Role.carry
+8,moon o,Lee Sin,False,Side.red,7,10,5,1.2,130,Smite,Flash,14,False,10709,9875,Tiamat,Refillable Potion,Boots of Swiftness,Enchantment: Warrior,Poacher's Dirk,The Black Cleaver,15889,87950,Lane.jungle,Role.none
+9,Huhi Lite,Viktor,False,Side.red,6,10,1,0.7,207,Ghost,Flash,14,False,11342,11350,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Rylai's Crystal Scepter,Lich Bane,119841,10372,Lane.mid_lane,Role.solo

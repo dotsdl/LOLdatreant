@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ghost puppet  ,Graves,False,Side.blue,4,5,8,2.4,157,Smite,Flash,14,False,10447,9925,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Death's Dance,Phantom Dancer,,5561,129614,Lane.jungle,Role.none
+1,Sickabro,Ahri,False,Side.blue,7,4,6,3.25,155,Ignite,Flash,13,False,10112,9310,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,Morellonomicon,Amplifying Tome,57303,15875,Lane.mid_lane,Role.solo
+2,911 was setup ,Thresh,False,Side.blue,2,7,8,1.4285714285714286,20,Flash,Exhaust,11,True,6569,6125,Face of the Mountain,Ionian Boots of Lucidity,Sightstone,Crystalline Bracer,Crystalline Bracer,Cloth Armor,6590,3494,Lane.bot_lane,Role.support
+3,jsfD,Jinx,False,Side.blue,2,7,8,1.4285714285714286,190,Flash,Heal,13,False,10236,9225,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Pickaxe,,1409,103691,Lane.bot_lane,Role.carry
+4,LaserBeam,Nautilus,False,Side.blue,3,4,9,3.0,135,Teleport,Flash,13,False,9172,8525,Corrupting Potion,Chain Vest,Cloth Armor,Zz'Rot Portal,Sunfire Cape,Ninja Tabi,41335,12538,Lane.top_lane,Role.solo
+5,Live Lavish,Yasuo,True,Side.red,4,4,5,2.25,180,Flash,Ignite,15,False,10866,9650,Doran's Blade,Phantom Dancer,Long Sword,Berserker's Greaves,Infinity Edge,B. F. Sword,13161,113363,Lane.mid_lane,Role.solo
+6,aPropensity,Hecarim,True,Side.red,3,6,5,1.3333333333333333,142,Smite,Ghost,14,False,11020,8983,Enchantment: Cinderhulk,Refillable Potion,Spectre's Cowl,Boots of Swiftness,Control Ward,Trinity Force,19938,108639,Lane.jungle,Role.none
+7,l SectumSempra l,Nami,True,Side.red,0,2,20,10.0,16,Flash,Exhaust,13,False,9458,7625,Redemption,Sightstone,Ionian Boots of Lucidity,Frostfang,Ardent Censer,,7023,6905,Lane.bot_lane,Role.support
+8,herolineage,Vayne,True,Side.red,19,3,5,8.0,245,Flash,Heal,16,False,17731,14550,Doran's Blade,Infinity Edge,Phantom Dancer,Statikk Shiv,Berserker's Greaves,The Bloodthirster,54629,157973,Lane.bot_lane,Role.carry
+9,Yamata,Lulu,True,Side.red,1,3,12,4.333333333333333,136,Flash,Teleport,14,False,10023,9025,Doran's Ring,Giant's Belt,,Rod of Ages,Athene's Unholy Grail,Ionian Boots of Lucidity,63009,15451,Lane.top_lane,Role.solo

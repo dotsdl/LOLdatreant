@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DorkLS,Zyra,True,Side.blue,3,3,6,3.0,26,Teleport,Flash,10,False,7155,7000,Doran's Ring,Sorcerer's Shoes,Frostfang,Needlessly Large Rod,Liandry's Torment,,33379,4773,Lane.bot_lane,Role.support
+1,always plan ahea,Singed,True,Side.blue,6,3,3,3.0,139,Ghost,Teleport,14,False,8973,8910,Hextech GLP-800,Corrupting Potion,Boots of Speed,Mejai's Soulstealer,Rylai's Crystal Scepter,Amplifying Tome,76910,7920,Lane.top_lane,Role.solo
+2,Miajima,Jhin,True,Side.blue,2,2,7,4.5,131,Flash,Heal,11,False,8251,8200,Doran's Blade,Boots of Swiftness,Youmuu's Ghostblade,Rapid Firecannon,Brawler's Gloves,Cloak of Agility,1380,74573,Lane.bot_lane,Role.carry
+3,No HandleBards ,Kha'Zix,True,Side.blue,6,3,5,3.6666666666666665,120,Smite,Flash,12,False,9398,8925,Refillable Potion,Ravenous Hydra,Phage,Enchantment: Warrior,Long Sword,Ionian Boots of Lucidity,3139,113453,Lane.jungle,Role.none
+4,Mi Amor Teemo,Nasus,True,Side.blue,4,1,5,9.0,232,Flash,Teleport,15,False,10601,8708,Doran's Ring,The Dark Seal,Zz'Rot Portal,Trinity Force,Boots of Swiftness,,82364,41671,Lane.mid_lane,Role.solo
+5,Vortexum,Janna,False,Side.red,0,4,4,1.0,2,Flash,Exhaust,10,False,4954,3725,Sightstone,Redemption,Ancient Coin,,Faerie Charm,Faerie Charm,3198,1324,Lane.bot_lane,Role.support
+6,EggPain001,Orianna,False,Side.red,0,4,1,0.25,159,Flash,Ghost,11,False,6471,5225,Morellonomicon,Refillable Potion,Doran's Ring,Doran's Ring,,Sorcerer's Shoes,67744,12765,Lane.mid_lane,Role.solo
+7,Nghia An,Lee Sin,False,Side.red,7,3,0,2.3333333333333335,102,Smite,Flash,12,True,8318,7475,Refillable Potion,Tiamat,Enchantment: Warrior,Mercury's Treads,Hexdrinker,Caulfield's Warhammer,14495,75461,Lane.jungle,Role.none
+8,Rainy Snow,Caitlyn,False,Side.red,2,3,4,2.0,155,Heal,Flash,11,False,7241,5925,Long Sword,Doran's Blade,,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,488,72314,Lane.bot_lane,Role.carry
+9,Steel Inertia,Darius,False,Side.red,3,7,3,0.8571428571428571,141,Flash,Teleport,12,False,7335,6295,Boots of Speed,The Black Cleaver,Ruby Crystal,Raptor Cloak,Negatron Cloak,Doran's Blade,0,70242,Lane.top_lane,Role.solo

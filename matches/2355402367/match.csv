@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Haestro,Vayne,False,Side.blue,14,7,7,3.0,316,Heal,Flash,18,False,18633,17025,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Phantom Dancer,Berserker's Greaves,Guardian Angel,81041,173055,Lane.bot_lane,Role.carry
+1,Tsunamì,Ahri,False,Side.blue,8,3,12,6.666666666666667,256,Flash,Ignite,18,False,15831,15100,Sorcerer's Shoes,Zhonya's Hourglass,Morellonomicon,Abyssal Scepter,Luden's Echo,Blasting Wand,114853,23620,Lane.mid_lane,Role.solo
+2,DennyTheNOOB,Shen,False,Side.blue,4,5,18,4.4,291,Teleport,Flash,18,False,15410,14575,Giant's Belt,Sunfire Cape,Titanic Hydra,Zz'Rot Portal,Spirit Visage,Ninja Tabi,80672,128305,Lane.top_lane,Role.solo
+3,LOLFinest,Lee Sin,False,Side.blue,6,4,18,6.0,142,Flash,Smite,17,True,13692,12950,Mercury's Treads,Randuin's Omen,Enchantment: Warrior,Banshee's Veil,,Dead Man's Plate,26918,95762,Lane.jungle,Role.none
+4,chube1234567,Leona,False,Side.blue,2,7,25,3.857142857142857,60,Exhaust,Flash,16,False,12013,11675,Locket of the Iron Solari,Randuin's Omen,Ruby Sightstone,Boots of Mobility,Spectre's Cowl,Face of the Mountain,13798,11203,Lane.bot_lane,Role.support
+5,Anthøny,Kha'Zix,True,Side.red,7,7,7,2.0,230,Smite,Flash,18,False,17990,17000,Youmuu's Ghostblade,Ravenous Hydra,Enchantment: Warrior,Mercury's Treads,Lord Dominik's Regards,Guardian Angel,6544,254445,Lane.jungle,Role.none
+6,péggy,Janna,True,Side.red,1,10,16,1.7,18,Flash,Exhaust,15,False,13106,11550,Talisman of Ascension,Sightstone,Locket of the Iron Solari,Redemption,Boots of Mobility,Ardent Censer,5398,5210,Lane.bot_lane,Role.support
+7,Shiro Nai,Varus,True,Side.red,3,8,9,1.5,310,Flash,Heal,17,False,17298,16475,Quicksilver Sash,Lord Dominik's Regards,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Essence Reaver,15167,221872,Lane.bot_lane,Role.carry
+8,ogdard,Nasus,True,Side.red,5,5,14,3.8,334,Teleport,Flash,18,False,18693,15433,Spirit Visage,Trinity Force,Frozen Heart,Jaurim's Fist,Mercury's Treads,Dead Man's Plate,43460,293901,Lane.top_lane,Role.solo
+9,Dote,Ryze,True,Side.red,10,4,9,4.75,266,Flash,Ghost,18,False,18608,15695,Mercury's Treads,Seraph's Embrace,Rod of Ages,Morellonomicon,Rabadon's Deathcap,Negatron Cloak,266887,14128,Lane.mid_lane,Role.solo

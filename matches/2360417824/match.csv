@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vchee,Katarina,True,Side.blue,8,1,9,17.0,176,Teleport,Flash,15,False,11609,10275,Sorcerer's Shoes,Void Staff,,Hextech Gunblade,,Zhonya's Hourglass,103125,14165,Lane.mid_lane,Role.solo
+1,GangstahSwerve,Ivern,True,Side.blue,5,3,14,6.333333333333333,78,Smite,Flash,14,True,10522,9260,Redemption,Locket of the Iron Solari,Needlessly Large Rod,Athene's Unholy Grail,Hunter's Talisman,Ionian Boots of Lucidity,14981,8590,Lane.jungle,Role.none
+2,Hello I am Dust,Janna,True,Side.blue,1,1,19,20.0,13,Exhaust,Flash,13,False,9083,7625,Redemption,Eye of the Watchers,Aegis of the Legion,,Null-Magic Mantle,Ionian Boots of Lucidity,5355,7034,Lane.bot_lane,Role.support
+3,yltfed,Vayne,True,Side.blue,3,4,7,2.5,194,Flash,Heal,13,False,10942,9955,Control Ward,Doran's Blade,Zeal,Infinity Edge,Statikk Shiv,Berserker's Greaves,20255,101637,Lane.bot_lane,Role.carry
+4,Rokí,Riven,True,Side.blue,9,3,4,4.333333333333333,207,Flash,Teleport,15,False,12653,9400,Doran's Blade,Refillable Potion,The Black Cleaver,Mercury's Treads,Death's Dance,Vampiric Scepter,2051,126870,Lane.top_lane,Role.solo
+5,Ðad,Singed,False,Side.red,2,5,3,1.0,289,Teleport,Ghost,15,False,10862,10800,Zz'Rot Portal,Corrupting Potion,Randuin's Omen,Dead Man's Plate,Ninja Tabi,The Dark Seal,151810,6579,Lane.top_lane,Role.solo
+6,The Tank Man,Karma,False,Side.red,1,5,3,0.8,17,Flash,Exhaust,10,False,7028,6125,Eye of the Watchers,Ardent Censer,Null-Magic Mantle,Ionian Boots of Lucidity,,,17614,5057,Lane.bot_lane,Role.support
+7,WildTurtle,Twitch,False,Side.red,0,6,7,1.1666666666666667,175,Flash,Heal,12,False,8896,8075,Infinity Edge,Runaan's Hurricane,,Berserker's Greaves,Doran's Blade,,586,89925,Lane.bot_lane,Role.carry
+8,qldurtms,Lee Sin,False,Side.red,6,7,2,1.1428571428571428,105,Flash,Smite,12,False,8961,8025,Long Sword,Mercury's Treads,Control Ward,Enchantment: Warrior,Edge of Night,Ruby Crystal,14900,68809,Lane.jungle,Role.none
+9,TwitchChunkylol,Kled,False,Side.red,3,5,5,1.6,135,Ignite,Flash,11,False,8898,8625,Ravenous Hydra,Ninja Tabi,The Black Cleaver,Long Sword,Long Sword,,33,77292,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lucas Gu,Yasuo,False,Side.blue,9,10,6,1.5,294,Ignite,Flash,18,False,15244,14950,Blade of the Ruined King,Berserker's Greaves,Last Whisper,Phantom Dancer,Infinity Edge,Guardian Angel,35684,210007,Lane.mid_lane,Role.solo
+1,Sparksen,Caitlyn,False,Side.blue,4,4,6,2.5,312,Flash,Heal,16,False,13906,13150,Infinity Edge,Berserker's Greaves,Last Whisper,Statikk Shiv,Runaan's Hurricane,Vampiric Scepter,20063,177703,Lane.bot_lane,Role.carry
+2,Drunk Friend,Thresh,False,Side.blue,1,2,9,5.0,31,Ignite,Flash,13,False,8589,7800,Knight's Vow,Sightstone,Zeke's Harbinger,,Targon's Brace,Boots of Mobility,9334,4526,Lane.bot_lane,Role.support
+3,Cbw,Kennen,False,Side.blue,2,10,5,0.7,194,Flash,Teleport,15,False,10514,10385,Hextech Protobelt-01,Zhonya's Hourglass,Needlessly Large Rod,Amplifying Tome,Sorcerer's Shoes,Giant's Belt,73740,35302,Lane.top_lane,Role.solo
+4,Boostinks,Ivern,False,Side.blue,2,6,10,2.0,93,Smite,Flash,15,False,10326,9125,Redemption,Hunter's Potion,Boots of Mobility,Enchantment: Runic Echoes,Athene's Unholy Grail,Giant's Belt,16030,5994,Lane.jungle,Role.none
+5,Stupid Mid,Twisted Fate,True,Side.red,7,8,4,1.375,227,Ghost,Flash,17,False,15427,14225,Ionian Boots of Lucidity,Zhonya's Hourglass,Rabadon's Deathcap,Doran's Ring,Lich Bane,Rod of Ages,171214,15967,Lane.mid_lane,Role.solo
+6,Legend Caitlyn,Janna,True,Side.red,1,2,9,5.0,17,Flash,Exhaust,13,False,9888,9250,,Redemption,Frost Queen's Claim,Sightstone,Boots of Mobility,Locket of the Iron Solari,4687,4504,Lane.bot_lane,Role.support
+7,FourofDiamonds,Shaco,True,Side.red,13,4,14,6.75,224,Smite,Ignite,18,True,17698,15958,Tiamat,Hextech Gunblade,Enchantment: Runic Echoes,Berserker's Greaves,Infinity Edge,Trinity Force,63316,176953,Lane.jungle,Role.none
+8,Strength1232,Twitch,True,Side.red,6,2,7,6.5,303,Flash,Heal,17,False,15801,14575,Doran's Blade,Mercurial Scimitar,Lord Dominik's Regards,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,0,216384,Lane.bot_lane,Role.carry
+9,PowUrDead,Malphite,True,Side.red,5,2,11,8.0,209,Flash,Teleport,18,False,14642,13875,Warden's Mail,Dead Man's Plate,Spirit Visage,Thornmail,Abyssal Scepter,Mercury's Treads,74664,48093,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DatFriedChicken,Gragas,True,Side.blue,5,5,15,4.0,88,Flash,Smite,14,False,10411,9800,Frozen Heart,Hunter's Potion,Ninja Tabi,Dead Man's Plate,,Enchantment: Runic Echoes,66107,21603,Lane.jungle,Role.none
+1,Xcution,Alistar,True,Side.blue,0,3,19,6.333333333333333,40,Exhaust,Flash,13,False,9126,7275,Face of the Mountain,Locket of the Iron Solari,Refillable Potion,Ruby Sightstone,Boots of Mobility,,19038,8842,Lane.bot_lane,Role.support
+2,that808gamer,Ryze,True,Side.blue,15,6,7,3.6666666666666665,151,Flash,Exhaust,14,False,13258,12050,Seraph's Embrace,Frozen Heart,Fiendish Codex,Ionian Boots of Lucidity,Rod of Ages,Seeker's Armguard,124359,9449,Lane.mid_lane,Role.solo
+3,Camlann,Yasuo,True,Side.blue,15,4,13,7.0,180,Exhaust,Flash,15,False,14585,11325,Doran's Blade,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,Statikk Shiv,,35915,110085,Lane.bot_lane,Role.carry
+4,Nathanael1997,Elise,True,Side.blue,2,6,13,2.5,122,Flash,Teleport,14,False,9661,9680,Dead Man's Plate,Iceborn Gauntlet,,Boots of Swiftness,,Hextech Protobelt-01,39783,24673,Lane.top_lane,Role.solo
+5,Braums Mustache,Braum,False,Side.red,0,5,11,2.2,30,Flash,Exhaust,11,False,6709,6200,Boots of Mobility,Sightstone,Face of the Mountain,Aegis of the Legion,Cloth Armor,Null-Magic Mantle,9484,5690,Lane.bot_lane,Role.support
+6,ONYX DlVlSION,Riven,False,Side.red,11,10,3,1.4,139,Flash,Ignite,13,False,10757,9850,Last Whisper,Doran's Blade,Doran's Blade,Maw of Malmortius,The Black Cleaver,Mercury's Treads,145,91728,Lane.top_lane,Role.solo
+7,2loney,Irelia,False,Side.red,3,9,7,1.1111111111111112,164,Ignite,Flash,13,False,9388,8758,Randuin's Omen,Corrupting Potion,Trinity Force,Doran's Blade,Ninja Tabi,,2636,68070,Lane.mid_lane,Role.solo
+8,YellowSSW,Ezreal,False,Side.red,3,8,11,1.75,128,Heal,Flash,13,True,8991,8400,Bilgewater Cutlass,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,Dagger,14063,61999,Lane.bot_lane,Role.carry
+9,B Solo Lane B,Rek'Sai,False,Side.red,6,5,7,2.6,170,Flash,Smite,14,False,10611,10175,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Ninja Tabi,Spirit Visage,,26749,110502,Lane.jungle,Role.none

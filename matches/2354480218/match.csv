@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,7788 ADC,Karma,False,Side.blue,0,8,7,0.875,18,Exhaust,Flash,11,False,5516,5350,Redemption,Sightstone,Fiendish Codex,Frostfang,Boots of Speed,,16939,2635,Lane.bot_lane,Role.support
+1,grnlefboy,Miss Fortune,False,Side.blue,2,9,3,0.5555555555555556,177,Heal,Flash,12,False,7772,7550,Doran's Blade,Boots of Speed,Edge of Night,The Black Cleaver,Long Sword,,2751,78273,Lane.bot_lane,Role.carry
+2,goldenglue,Poppy,False,Side.blue,2,4,2,1.0,163,Teleport,Flash,13,False,7466,7300,Corrupting Potion,Sunfire Cape,Ninja Tabi,Spirit Visage,,,31788,57525,Lane.top_lane,Role.solo
+3,CloudNguyén,Lee Sin,False,Side.blue,4,9,4,0.8888888888888888,98,Smite,Flash,12,False,7497,6350,Tracker's Knife,Tiamat,Caulfield's Warhammer,Mercury's Treads,Hexdrinker,Long Sword,11105,70273,Lane.jungle,Role.none
+4,Ablazeolive,Syndra,False,Side.blue,3,8,2,0.625,167,Flash,Ghost,12,False,7900,6160,Doran's Ring,Morellonomicon,Amplifying Tome,Refillable Potion,Giant's Belt,Sorcerer's Shoes,84433,8433,Lane.mid_lane,Role.solo
+5,Grigne,Elise,True,Side.red,14,0,10,24.0,110,Flash,Smite,15,True,13594,11950,Enchantment: Runic Echoes,Boots of Mobility,Void Staff,Aegis of the Legion,Rylai's Crystal Scepter,The Dark Seal,106034,30390,Lane.jungle,Role.none
+6,Riesig,Thresh,True,Side.red,1,1,18,19.0,28,Flash,Ignite,13,False,8524,7100,Eye of the Equinox,Redemption,Aegis of the Legion,Control Ward,Boots of Mobility,Null-Magic Mantle,11879,7047,Lane.bot_lane,Role.support
+7,Ikzencriel,Jax,True,Side.red,5,3,3,2.6666666666666665,169,Teleport,Flash,15,False,10492,8458,Corrupting Potion,Trinity Force,Blade of the Ruined King,Dagger,Boots of Speed,,21042,76352,Lane.top_lane,Role.solo
+8,Rapidx,Vayne,True,Side.red,6,6,9,2.5,155,Flash,Heal,13,False,10755,10400,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,Phantom Dancer,,10188,72996,Lane.bot_lane,Role.carry
+9,Peridot,Ekko,True,Side.red,12,1,2,14.0,222,Teleport,Flash,16,False,13827,11925,Doran's Ring,Hextech Protobelt-01,Abyssal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Lich Bane,136619,24261,Lane.mid_lane,Role.solo

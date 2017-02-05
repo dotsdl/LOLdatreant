@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Unmade,Fizz,True,Side.blue,7,3,6,4.333333333333333,128,Teleport,Flash,12,False,9420,8650,Corrupting Potion,Zhonya's Hourglass,Needlessly Large Rod,Lich Bane,,Boots of Speed,47781,16218,Lane.mid_lane,Role.solo
+1,dog deft,Caitlyn,True,Side.blue,10,4,9,4.75,130,Flash,Heal,12,False,11193,10050,Boots of Speed,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Dagger,Doran's Blade,675,109577,Lane.bot_lane,Role.carry
+2,1onz,Janna,True,Side.blue,4,1,15,19.0,7,Flash,Exhaust,11,False,8062,7325,Talisman of Ascension,Boots of Speed,Sightstone,Redemption,Aegis of the Legion,,5356,4687,Lane.bot_lane,Role.support
+3,Bo0sted Monkeys,Ivern,True,Side.blue,2,2,9,5.5,90,Flash,Smite,13,False,9320,7225,Redemption,Locket of the Iron Solari,Refillable Potion,Ionian Boots of Lucidity,Stalker's Blade,Chalice of Harmony,6628,3850,Lane.jungle,Role.none
+4,BoBsMiTh,Maokai,True,Side.blue,4,3,9,4.333333333333333,154,Teleport,Flash,13,True,9181,8575,Doran's Ring,Rod of Ages,Zz'Rot Portal,Mercury's Treads,Kindlegem,Cloth Armor,78452,17315,Lane.top_lane,Role.solo
+5,Feitan,Lux,False,Side.red,2,4,4,1.5,122,Ghost,Flash,11,False,7235,6225,Doran's Ring,Morellonomicon,Sorcerer's Shoes,The Dark Seal,Needlessly Large Rod,,61753,10145,Lane.mid_lane,Role.solo
+6,Below Zero,Trundle,False,Side.red,0,7,4,0.5714285714285714,184,Teleport,Flash,13,False,8137,7150,Mercury's Treads,Sheen,Glacial Shroud,,Corrupting Potion,Ravenous Hydra,2189,96644,Lane.top_lane,Role.solo
+7,Indivisible,Jhin,False,Side.red,5,4,2,1.75,151,Flash,Heal,12,False,8391,7800,Total Biscuit of Rejuvenation,Boots of Swiftness,Doran's Blade,Rapid Firecannon,,Essence Reaver,4248,86746,Lane.bot_lane,Role.carry
+8,Fiku,Vi,False,Side.red,5,5,4,1.8,96,Flash,Smite,12,False,8239,8158,Enchantment: Warrior,Refillable Potion,Trinity Force,Long Sword,Boots of Swiftness,Ruby Crystal,1882,97030,Lane.jungle,Role.none
+9,Winter is back,Bard,False,Side.red,1,7,9,1.4285714285714286,15,Flash,Exhaust,10,False,6253,6025,Control Ward,,Total Biscuit of Rejuvenation,Eye of the Watchers,Boots of Mobility,Redemption,9244,4228,Lane.bot_lane,Role.support

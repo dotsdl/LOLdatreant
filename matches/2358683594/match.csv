@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Carrots2,Vayne,False,Side.blue,4,6,2,1.0,268,Flash,Heal,15,False,10981,10150,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Vampiric Scepter,Zeal,16662,128174,Lane.bot_lane,Role.carry
+1,Thalies,Irelia,False,Side.blue,1,4,2,0.75,184,Teleport,Flash,14,False,8934,8808,Ninja Tabi,Corrupting Potion,Trinity Force,,Doran's Shield,Randuin's Omen,1319,69320,Lane.top_lane,Role.solo
+2,Cat Ears,Thresh,False,Side.blue,1,8,6,0.875,21,Flash,Ignite,12,False,6398,5950,Crystalline Bracer,Crystalline Bracer,Eye of the Equinox,Boots of Mobility,Aegis of the Legion,,7823,3071,Lane.bot_lane,Role.support
+3,Vchee,Lee Sin,False,Side.blue,3,7,3,0.8571428571428571,161,Smite,Flash,14,False,9361,9225,Boots of Mobility,Serrated Dirk,B. F. Sword,Enchantment: Warrior,,Ravenous Hydra,23139,104542,Lane.jungle,Role.none
+4,Strompest,LeBlanc,False,Side.blue,7,8,4,1.375,196,Flash,Ignite,14,True,10935,10935,Blasting Wand,The Dark Seal,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,113290,8521,Lane.mid_lane,Role.solo
+5,ApoIlo Price,Jayce,True,Side.red,8,3,10,6.0,243,Flash,Teleport,16,False,14233,13500,Youmuu's Ghostblade,Guardian Angel,Mercury's Treads,The Black Cleaver,Maw of Malmortius,,10542,142739,Lane.top_lane,Role.solo
+6,EnVy LOD,Kennen,True,Side.red,14,2,5,9.5,207,Flash,Ignite,16,False,14626,12225,Needlessly Large Rod,Zhonya's Hourglass,Abyssal Scepter,Void Staff,Sorcerer's Shoes,Aether Wisp,109126,30197,Lane.mid_lane,Role.solo
+7,NaVi Squirty,Twitch,True,Side.red,4,3,15,6.333333333333333,187,Flash,Heal,15,False,11890,9400,Doran's Blade,Runaan's Hurricane,Refillable Potion,Berserker's Greaves,Infinity Edge,Hexdrinker,1592,115190,Lane.bot_lane,Role.carry
+8,NaVi Juan,Hecarim,True,Side.red,5,4,14,4.75,130,Smite,Ghost,15,False,11944,10808,Dead Man's Plate,Refillable Potion,,Trinity Force,Enchantment: Cinderhulk,Ninja Tabi,26659,113953,Lane.jungle,Role.none
+9,cute pupper irl,Nami,True,Side.red,2,4,24,6.5,19,Flash,Exhaust,14,False,9944,7650,Control Ward,Eye of the Watchers,Boots of Mobility,Redemption,Aegis of the Legion,Null-Magic Mantle,10958,11666,Lane.bot_lane,Role.support

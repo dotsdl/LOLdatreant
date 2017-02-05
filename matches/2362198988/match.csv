@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pygwyn,Leona,False,Side.blue,0,0,0,0.0,2,Ignite,Flash,2,False,725,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,21,309,Lane.bot_lane,Role.duo
+1,Twisted Fate Boy,Twisted Fate,False,Side.blue,0,0,0,0.0,10,Ghost,Flash,3,False,919,500,Doran's Ring,Health Potion,,,,,1898,456,Lane.mid_lane,Role.solo
+2,Bo0sted Monkeys,Olaf,False,Side.blue,0,0,0,0.0,3,Ghost,Smite,2,False,775,500,Hunter's Talisman,Refillable Potion,,,,,145,2558,Lane.jungle,Role.none
+3,ily and ily,Riven,False,Side.blue,0,0,0,0.0,7,Flash,Teleport,3,False,789,500,Doran's Blade,,,,,,0,2283,Lane.top_lane,Role.solo
+4,FaR007,Lucian,False,Side.blue,0,0,0,0.0,1,Heal,Flash,1,False,675,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,330,Lane.bot_lane,Role.duo
+5,3A3Y 3OY,Caitlyn,True,Side.red,0,0,0,0.0,16,Heal,Flash,2,False,979,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,3017,Lane.bot_lane,Role.duo
+6,bvcx222,Bard,True,Side.red,0,0,0,0.0,0,Flash,Ignite,2,False,734,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,74,207,Lane.bot_lane,Role.duo
+7,Aisonu,Ivern,True,Side.red,0,0,0,0.0,3,Flash,Smite,2,False,835,500,Hunter's Talisman,Refillable Potion,,,,,178,128,Lane.jungle,Role.none
+8,Hibyeman,Darius,True,Side.red,0,0,0,0.0,13,Flash,Teleport,3,False,897,500,Doran's Shield,Health Potion,,,,,0,3244,Lane.top_lane,Role.solo
+9,Cya IN THE BUSH,Zed,True,Side.red,0,0,0,0.0,13,Flash,Ignite,3,False,922,500,Long Sword,Health Potion,,,,,402,2837,Lane.mid_lane,Role.solo

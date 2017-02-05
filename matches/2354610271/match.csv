@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sinisterbot 7900,Thresh,True,Side.blue,2,2,9,5.5,29,Ignite,Flash,10,False,6419,5800,Sightstone,Locket of the Iron Solari,Tear of the Goddess,Relic Shield,Boots of Mobility,Cloth Armor,9679,4168,Lane.bot_lane,Role.support
+1,QcDrew,Ahri,True,Side.blue,4,3,7,3.6666666666666665,153,Ignite,Flash,12,False,8872,8225,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,48035,12718,Lane.mid_lane,Role.solo
+2,am sol,Lee Sin,True,Side.blue,11,0,7,18.0,96,Smite,Flash,13,False,10509,9125,Enchantment: Warrior,Refillable Potion,Giant's Belt,Ionian Boots of Lucidity,Ravenous Hydra,Chain Vest,16661,94057,Lane.jungle,Role.none
+3,GazXX,Lucian,True,Side.blue,3,4,5,2.0,179,Flash,Heal,12,False,9361,8130,Rapid Firecannon,Boots of Speed,Doran's Blade,Essence Reaver,Dagger,,2924,92693,Lane.bot_lane,Role.carry
+4,Harkonenn,Swain,True,Side.blue,1,2,1,1.0,157,Teleport,Flash,13,False,7811,6700,Doran's Ring,Rod of Ages,Zhonya's Hourglass,Boots of Speed,Cloth Armor,,53168,15974,Lane.top_lane,Role.solo
+5,Tetanic,Draven,False,Side.red,5,5,2,1.4,153,Flash,Heal,11,True,8995,8600,Doran's Blade,Essence Reaver,Statikk Shiv,Long Sword,Refillable Potion,Last Whisper,10558,87490,Lane.bot_lane,Role.carry
+6,Shalesh,Sejuani,False,Side.red,1,4,1,0.5,100,Smite,Flash,11,False,5956,5825,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Chain Vest,Giant's Belt,,45202,21283,Lane.jungle,Role.none
+7,I urgot about it,Janna,False,Side.red,1,4,5,1.5,7,Exhaust,Flash,9,False,5506,4975,Talisman of Ascension,Faerie Charm,Ruby Sightstone,Boots of Speed,,Faerie Charm,4531,3251,Lane.bot_lane,Role.support
+8,Arcaeum,Lux,False,Side.red,0,5,3,0.6,106,Barrier,Flash,11,False,5795,5350,Boots of Speed,Refillable Potion,Morellonomicon,Needlessly Large Rod,Doran's Ring,,44010,11543,Lane.mid_lane,Role.solo
+9,Vanilla Chan,Tryndamere,False,Side.red,4,3,0,1.3333333333333333,164,Flash,Ignite,13,False,7751,7350,Blade of the Ruined King,,,,Phantom Dancer,Berserker's Greaves,156,92690,Lane.top_lane,Role.solo

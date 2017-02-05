@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,sb gank me,Maokai,False,Side.blue,5,5,7,2.4,23,Flash,Exhaust,11,False,7232,7125,Face of the Mountain,Refillable Potion,Redemption,Sightstone,Catalyst of Aeons,Ruby Crystal,14674,4241,Lane.bot_lane,Role.support
+1,Mr Pinch,Graves,False,Side.blue,2,7,6,1.1428571428571428,135,Smite,Flash,13,False,8477,7825,Enchantment: Warrior,Long Sword,Maw of Malmortius,Berserker's Greaves,Long Sword,,3457,109140,Lane.jungle,Role.none
+2,CruelBI,Trundle,False,Side.blue,4,8,4,1.0,131,Flash,Ignite,12,True,7954,7900,Doran's Blade,Iceborn Gauntlet,Ravenous Hydra,Boots of Speed,Kindlegem,,2048,57338,Lane.top_lane,Role.solo
+3,Please Fade,Malzahar,False,Side.blue,4,5,5,1.8,129,Ghost,Flash,13,False,8055,7975,,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,58444,16945,Lane.mid_lane,Role.solo
+4,thekilerone,Jinx,False,Side.blue,5,6,4,1.5,168,Heal,Flash,12,False,9368,9300,Doran's Blade,Zeal,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,673,90795,Lane.bot_lane,Role.carry
+5,SuperMaxPhelps,Nasus,True,Side.red,5,3,13,6.0,165,Teleport,Flash,14,False,10444,9550,Corrupting Potion,Kindlegem,Zz'Rot Portal,Ninja Tabi,Frozen Heart,Spectre's Cowl,64438,24675,Lane.top_lane,Role.solo
+6,Dunkaroose,Lee Sin,True,Side.red,7,7,7,2.0,120,Flash,Smite,14,False,10858,9125,Enchantment: Warrior,Sightstone,Null-Magic Mantle,The Black Cleaver,Boots of Swiftness,Caulfield's Warhammer,21910,92248,Lane.jungle,Role.none
+7,Amayzing,Ekko,True,Side.red,9,3,7,5.333333333333333,161,Ignite,Flash,14,False,10880,9475,Doran's Ring,Rod of Ages,Morellonomicon,Sorcerer's Shoes,Sheen,Blasting Wand,86589,14949,Lane.mid_lane,Role.solo
+8,The Tank Man,Lulu,True,Side.red,2,2,16,9.0,9,Flash,Exhaust,11,False,8115,7150,Eye of the Watchers,Ardent Censer,Ionian Boots of Lucidity,Forbidden Idol,Crystalline Bracer,,16705,5737,Lane.bot_lane,Role.support
+9,Imaokai,Caitlyn,True,Side.red,8,5,9,3.4,173,Heal,Flash,12,False,11389,9550,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Runaan's Hurricane,Dagger,4350,107669,Lane.bot_lane,Role.carry

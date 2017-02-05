@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Erry,Caitlyn,True,Side.blue,2,0,0,2.0,131,Heal,Flash,9,False,7092,4950,Cull,Doran's Blade,B. F. Sword,Berserker's Greaves,Zeal,Dagger,171,68681,Lane.bot_lane,Role.duo
+1,daduu,Zyra,True,Side.blue,0,0,2,2.0,5,Flash,Exhaust,7,False,4246,2700,Boots of Speed,,,,Eye of the Watchers,,9133,5766,Lane.bot_lane,Role.duo
+2,mandatorycloud,LeBlanc,True,Side.blue,4,0,1,5.0,117,Flash,Teleport,11,False,6800,5495,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Negatron Cloak,Control Ward,,51800,10622,Lane.jungle,Role.none
+3,Silas Kroeger,Lee Sin,True,Side.blue,1,0,0,1.0,104,Smite,Flash,10,False,5996,2550,Boots of Speed,Refillable Potion,Tracker's Knife,Caulfield's Warhammer,,,9041,63822,Lane.jungle,Role.none
+4,ApoIlo Price,Kennen,True,Side.blue,2,2,3,2.5,112,Flash,Teleport,10,False,6318,5425,Hextech Protobelt-01,Doran's Blade,Sorcerer's Shoes,Blasting Wand,Cloth Armor,,21303,18135,Lane.top_lane,Role.solo
+5,Sebi,Jayce,False,Side.red,0,3,2,0.6666666666666666,87,Flash,Teleport,8,False,4212,3350,Corrupting Potion,Serrated Dirk,Hexdrinker,Boots of Speed,Control Ward,,3638,27380,Lane.top_lane,Role.solo
+6,COME BACK STRONG,Elise,False,Side.red,2,2,0,1.0,59,Smite,Flash,8,True,4455,3825,,Refillable Potion,,,Boots of Mobility,Enchantment: Runic Echoes,24694,12013,Lane.jungle,Role.none
+7,Kerias,Ashe,False,Side.red,0,1,0,0.0,84,Heal,Flash,8,False,3921,3150,B. F. Sword,Dagger,Dagger,Cull,Boots of Speed,Doran's Blade,114,24600,Lane.bot_lane,Role.solo
+8,Rhux,Orianna,False,Side.red,0,2,0,0.0,97,Flash,Ghost,9,False,4032,3980,Sorcerer's Shoes,Doran's Ring,Negatron Cloak,Lost Chapter,Amplifying Tome,,30173,7064,Lane.mid_lane,Role.solo
+9,moon o,Thresh,False,Side.red,0,1,0,0.0,5,Exhaust,Flash,3,False,2442,950,Relic Shield,Boots of Speed,Refillable Potion,,,,1428,1303,Lane.jungle,Role.none

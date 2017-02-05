@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hashinshin,Jax,False,Side.blue,6,10,3,0.9,209,Ghost,Teleport,16,False,12631,10558,Guinsoo's Rageblade,Doran's Blade,Trinity Force,Doran's Blade,Mercury's Treads,Vampiric Scepter,38787,110322,Lane.top_lane,Role.solo
+1,Valkrin,Nocturne,False,Side.blue,3,6,6,1.5,196,Smite,Flash,15,False,11801,10808,Guardian Angel,,,Mercury's Treads,Trinity Force,Enchantment: Bloodrazor,2936,159178,Lane.jungle,Role.none
+2,Rokí,Fizz,False,Side.blue,7,10,7,1.4,161,Flash,Teleport,14,False,11308,10170,Corrupting Potion,Zhonya's Hourglass,Negatron Cloak,Lich Bane,Fiendish Codex,Sorcerer's Shoes,77675,22482,Lane.mid_lane,Role.solo
+3,Stixxay,Draven,False,Side.blue,7,9,5,1.3333333333333333,244,Heal,Flash,14,False,14015,14100,Pickaxe,The Bloodthirster,Berserker's Greaves,Statikk Shiv,,Infinity Edge,23094,132624,Lane.bot_lane,Role.carry
+4,Riesig,Sion,False,Side.blue,2,10,9,1.1,57,Flash,Ignite,12,False,9110,8825,Eye of the Equinox,Locket of the Iron Solari,Ionian Boots of Lucidity,Knight's Vow,Crystalline Bracer,,24422,24180,Lane.bot_lane,Role.support
+5,Gahlin,Evelynn,True,Side.red,14,4,15,7.25,159,Flash,Smite,17,True,15196,13225,Hextech Protobelt-01,Liandry's Torment,The Dark Seal,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rylai's Crystal Scepter,130693,60405,Lane.jungle,Role.none
+6,one trick hehexd,Ezreal,True,Side.red,7,7,9,2.2857142857142856,199,Flash,Heal,15,False,12432,12433,Mercurial Scimitar,Muramana,Trinity Force,Ionian Boots of Lucidity,,Last Whisper,24205,113527,Lane.bot_lane,Role.carry
+7,BaIance,Nami,True,Side.red,1,3,28,9.666666666666666,14,Exhaust,Flash,15,False,9713,7950,Ruby Sightstone,Redemption,Locket of the Iron Solari,Spellthief's Edge,Ionian Boots of Lucidity,,7104,5449,Lane.bot_lane,Role.support
+8,Entranced,Swain,True,Side.red,9,3,18,9.0,297,Teleport,Flash,18,False,15690,14825,Zhonya's Hourglass,Rabadon's Deathcap,Rod of Ages,Abyssal Scepter,The Dark Seal,Ninja Tabi,183498,21203,Lane.top_lane,Role.solo
+9,Adrian Riven,Jayce,True,Side.red,13,8,13,3.25,168,Ignite,Flash,15,False,13823,13350,Maw of Malmortius,The Black Cleaver,Ninja Tabi,Duskblade of Draktharr,B. F. Sword,Vampiric Scepter,23255,105653,Lane.mid_lane,Role.solo

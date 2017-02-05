@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sawyerr,Leona,True,Side.blue,3,2,19,11.0,42,Exhaust,Flash,13,False,8592,6975,Boots of Mobility,Knight's Vow,Control Ward,,Face of the Mountain,Sightstone,14398,11786,Lane.bot_lane,Role.support
+1,Eric1,Ivern,True,Side.blue,5,2,19,12.0,65,Smite,Flash,14,False,9936,7375,Hunter's Talisman,Guardian Angel,Ionian Boots of Lucidity,Mejai's Soulstealer,Athene's Unholy Grail,,12325,8590,Lane.jungle,Role.none
+2,Rhux,Poppy,True,Side.blue,10,3,10,6.666666666666667,159,Flash,Teleport,14,False,11355,11000,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Spirit Visage,Giant's Belt,44413,66170,Lane.top_lane,Role.solo
+3,my bad team,Ryze,True,Side.blue,9,3,10,6.333333333333333,196,Flash,Ghost,14,False,12194,11950,Seraph's Embrace,Morellonomicon,Control Ward,Void Staff,Rod of Ages,Boots of Speed,104100,13023,Lane.mid_lane,Role.solo
+4,dog2,Twitch,True,Side.blue,8,3,9,5.666666666666667,189,Flash,Heal,13,False,12225,10950,Doran's Blade,Statikk Shiv,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,,4819,103770,Lane.bot_lane,Role.carry
+5,Acerola LAN,Yasuo,False,Side.red,1,8,2,0.375,154,Teleport,Flash,12,False,7915,6650,Doran's Blade,Ninja Tabi,Jaurim's Fist,Giant's Belt,Phantom Dancer,,12210,71876,Lane.top_lane,Role.solo
+6,Regular Mid,Ahri,False,Side.red,4,6,7,1.8333333333333333,171,Flash,Ignite,14,False,9581,8310,Refillable Potion,Luden's Echo,Morellonomicon,Doran's Ring,Ionian Boots of Lucidity,Amplifying Tome,61078,16775,Lane.mid_lane,Role.solo
+7,Doublelift,Jhin,False,Side.red,2,6,2,0.6666666666666666,171,Flash,Heal,12,True,8493,8250,Doran's Blade,Infinity Edge,Rapid Firecannon,Ionian Boots of Lucidity,,,4636,78568,Lane.bot_lane,Role.carry
+8,Haki,Lee Sin,False,Side.red,3,7,5,1.1428571428571428,119,Smite,Flash,12,False,8349,7910,Tiamat,The Black Cleaver,Tracker's Knife,Giant's Belt,Mercury's Treads,,9928,78297,Lane.jungle,Role.none
+9,PutYourHeartsUp,Karma,False,Side.red,3,8,5,1.0,18,Exhaust,Flash,11,False,7657,7225,Redemption,Control Ward,Eye of the Watchers,Aegis of the Legion,,Boots of Swiftness,13770,2852,Lane.bot_lane,Role.support

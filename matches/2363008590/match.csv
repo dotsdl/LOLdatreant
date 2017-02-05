@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WarBortles,Nocturne,False,Side.blue,2,8,4,0.75,102,Smite,Flash,11,False,6627,6225,Ravenous Hydra,Refillable Potion,Skirmisher's Sabre,Ninja Tabi,Ruby Crystal,,1297,71739,Lane.jungle,Role.none
+1,life is belief,Twitch,False,Side.blue,3,4,1,1.0,138,Flash,Heal,11,False,7062,6600,Doran's Blade,Total Biscuit of Rejuvenation,Pickaxe,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,0,55381,Lane.bot_lane,Role.carry
+2,TheGingerBen,Karma,False,Side.blue,1,4,4,1.25,18,Flash,Exhaust,9,False,5576,4850,Boots of Mobility,Forbidden Idol,Crystalline Bracer,,Eye of the Watchers,,14204,1597,Lane.bot_lane,Role.support
+3,Necriz,Ekko,False,Side.blue,1,10,0,0.1,111,Teleport,Flash,11,False,6143,5875,Corrupting Potion,Doran's Ring,Zz'Rot Portal,Bami's Cinder,Boots of Speed,Chain Vest,39189,11859,Lane.top_lane,Role.solo
+4,Daktao,Viktor,False,Side.blue,1,4,1,0.5,145,Ghost,Flash,12,False,6606,6135,The Hex Core mk-1,Morellonomicon,Ionian Boots of Lucidity,Amplifying Tome,,,69682,7924,Lane.mid_lane,Role.solo
+5,GowaSan,Jax,True,Side.red,16,0,2,18.0,204,Ignite,Flash,15,True,13547,13208,Hextech Gunblade,Trinity Force,Frozen Mallet,Doran's Blade,Chain Vest,Mercury's Treads,38393,122651,Lane.top_lane,Role.solo
+6,Whippin Waves,Kennen,True,Side.red,3,3,6,3.0,139,Flash,Teleport,12,False,8668,6960,Doran's Blade,Hextech Protobelt-01,Boots of Speed,Zhonya's Hourglass,Refillable Potion,Amplifying Tome,48563,16286,Lane.mid_lane,Role.solo
+7,Jayce God,Vel'Koz,True,Side.red,1,3,6,2.3333333333333335,33,Exhaust,Flash,10,False,7123,6900,Frostfang,Boots of Speed,Morellonomicon,Giant's Belt,Needlessly Large Rod,,27088,7832,Lane.bot_lane,Role.support
+8,Originals7,Lee Sin,True,Side.red,4,2,5,4.5,79,Flash,Smite,11,False,8679,6075,Refillable Potion,The Black Cleaver,Boots of Swiftness,Stalker's Blade,Long Sword,Long Sword,12012,65002,Lane.jungle,Role.none
+9,like100ninjas,Jhin,True,Side.red,6,1,6,12.0,164,Heal,Flash,12,False,10597,8725,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Vampiric Scepter,Doran's Blade,,6134,103462,Lane.bot_lane,Role.carry

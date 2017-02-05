@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ShukriChiu,Fiora,False,Side.blue,5,7,4,1.2857142857142858,200,Ghost,Teleport,16,False,11936,11428,Ravenous Hydra,Trinity Force,Ninja Tabi,Doran's Blade,Raptor Cloak,Negatron Cloak,1258,115612,Lane.top_lane,Role.solo
+1,dfist,Jinx,False,Side.blue,9,11,10,1.7272727272727273,211,Flash,Heal,15,False,12860,12125,Doran's Blade,Infinity Edge,The Bloodthirster,Long Sword,Runaan's Hurricane,Berserker's Greaves,1392,136627,Lane.bot_lane,Role.carry
+2,Chaelin,Blitzcrank,False,Side.blue,2,8,15,2.125,35,Flash,Exhaust,13,False,9095,8625,Aegis of the Legion,Face of the Mountain,Sightstone,Knight's Vow,Boots of Swiftness,Ruby Crystal,11069,7370,Lane.bot_lane,Role.support
+3,omgwing,Orianna,False,Side.blue,4,10,11,1.5,197,Flash,Ghost,14,False,11109,10685,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Void Staff,Amplifying Tome,102836,11161,Lane.mid_lane,Role.solo
+4,CMU Thebestcarry,Kha'Zix,False,Side.blue,9,10,5,1.4,64,Smite,Flash,13,False,10262,9375,B. F. Sword,Enchantment: Warrior,Ninja Tabi,Serrated Dirk,The Black Cleaver,,3057,58260,Lane.jungle,Role.none
+5,Camlann,Riven,True,Side.red,8,8,11,2.375,233,Teleport,Flash,17,False,14091,13975,Doran's Shield,Ravenous Hydra,The Black Cleaver,Ionian Boots of Lucidity,Mortal Reminder,Edge of Night,0,157398,Lane.top_lane,Role.solo
+6,Wehrli,Janna,True,Side.red,1,5,27,5.6,13,Exhaust,Flash,15,False,10871,8325,Talisman of Ascension,Sightstone,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,9593,9298,Lane.bot_lane,Role.support
+7,am sol,Lee Sin,True,Side.red,11,5,18,5.8,165,Smite,Flash,17,True,15783,12975,Enchantment: Warrior,Guardian Angel,Ionian Boots of Lucidity,The Black Cleaver,Maw of Malmortius,Ruby Crystal,39009,153705,Lane.jungle,Role.none
+8,N04H,Fizz,True,Side.red,11,6,12,3.8333333333333335,155,Flash,Teleport,16,False,14013,11850,Doran's Ring,Zhonya's Hourglass,Hextech Protobelt-01,Ionian Boots of Lucidity,Lich Bane,Blasting Wand,80664,34000,Lane.mid_lane,Role.solo
+9,Slush,Vayne,True,Side.red,15,5,8,4.6,197,Flash,Heal,16,False,15894,14975,Pickaxe,Infinity Edge,Berserker's Greaves,Phantom Dancer,Statikk Shiv,The Bloodthirster,15188,141045,Lane.bot_lane,Role.carry

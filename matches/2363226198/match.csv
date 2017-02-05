@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PutYourHeartsUp,Ahri,True,Side.blue,14,1,3,17.0,161,Ignite,Flash,15,False,11780,10750,,Zhonya's Hourglass,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Ionian Boots of Lucidity,55720,12576,Lane.mid_lane,Role.solo
+1,Abou222,Graves,True,Side.blue,5,1,2,7.0,155,Smite,Flash,14,False,9947,7750,Enchantment: Warrior,Control Ward,Ninja Tabi,Phantom Dancer,Vampiric Scepter,Long Sword,3062,119311,Lane.jungle,Role.none
+2,BaIance,Nami,True,Side.blue,1,4,10,2.75,10,Exhaust,Flash,10,False,6070,5600,Aegis of the Legion,Redemption,Sightstone,Spellthief's Edge,Boots of Speed,Null-Magic Mantle,5840,3595,Lane.bot_lane,Role.support
+3,Rich Homie Jayms,Ezreal,True,Side.blue,2,4,7,2.25,167,Flash,Heal,12,False,8596,7525,Doran's Blade,Muramana,Vampiric Scepter,Iceborn Gauntlet,Ionian Boots of Lucidity,,11935,66516,Lane.bot_lane,Role.carry
+4,Rohammers,Rumble,True,Side.blue,6,2,5,5.5,173,Teleport,Flash,14,False,9481,8025,Doran's Shield,Seeker's Armguard,Liandry's Torment,Needlessly Large Rod,Sorcerer's Shoes,Ruby Crystal,100888,11590,Lane.top_lane,Role.solo
+5,VSG VeryBitter,Bard,False,Side.red,3,6,4,1.1666666666666667,4,Ignite,Flash,10,True,6799,6175,Eye of the Watchers,Redemption,Refillable Potion,Null-Magic Mantle,Boots of Mobility,,8527,4475,Lane.bot_lane,Role.support
+6,Årcee,Lucian,False,Side.red,1,5,4,1.0,178,Heal,Flash,11,False,7936,7475,Doran's Blade,Blade of the Ruined King,The Black Cleaver,Boots of Speed,,,2380,74050,Lane.bot_lane,Role.carry
+7,zlsna,Gangplank,False,Side.red,1,6,3,0.6666666666666666,211,Flash,Teleport,14,False,9669,9208,Corrupting Potion,Trinity Force,Youmuu's Ghostblade,Serrated Dirk,,Ionian Boots of Lucidity,8976,130919,Lane.top_lane,Role.solo
+8,Hyorimaru,Anivia,False,Side.red,3,5,3,1.2,152,Flash,Ghost,12,False,7906,6250,Doran's Ring,Boots of Mobility,Rod of Ages,Doran's Ring,Tear of the Goddess,Blasting Wand,70016,7104,Lane.mid_lane,Role.solo
+9,TheOddOrange,Kha'Zix,False,Side.red,4,6,2,1.0,116,Flash,Smite,12,False,8355,7950,Enchantment: Warrior,Duskblade of Draktharr,Ionian Boots of Lucidity,,Long Sword,Null-Magic Mantle,4250,110775,Lane.jungle,Role.none

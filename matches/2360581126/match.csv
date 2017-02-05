@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Winged100,Vel'Koz,False,Side.blue,1,9,6,0.7777777777777778,58,Exhaust,Flash,13,False,7745,6925,Total Biscuit of Rejuvenation,Sightstone,Frost Queen's Claim,Sorcerer's Shoes,Haunting Guise,Blasting Wand,37836,3427,Lane.bot_lane,Role.support
+1,xBlotter,Teemo,False,Side.blue,4,4,3,1.75,185,Ignite,Flash,14,False,9719,9475,Doran's Ring,Nashor's Tooth,Morellonomicon,Haunting Guise,,Sorcerer's Shoes,81540,29393,Lane.top_lane,Role.solo
+2,KaneKi521,Yasuo,False,Side.blue,3,7,4,1.0,172,Flash,Exhaust,14,False,9141,8350,Refillable Potion,Doran's Blade,Phantom Dancer,Infinity Edge,Cloth Armor,Mercury's Treads,28855,62429,Lane.mid_lane,Role.solo
+3,AutoLock Saber,Caitlyn,False,Side.blue,5,7,2,1.0,172,Flash,Heal,14,False,9173,8200,Infinity Edge,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Long Sword,,760,90759,Lane.bot_lane,Role.carry
+4,moon o,Kha'Zix,False,Side.blue,3,8,1,0.5,86,Smite,Flash,12,False,7714,6725,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Ionian Boots of Lucidity,,,3240,71441,Lane.jungle,Role.none
+5,impling,Viktor,True,Side.red,8,1,5,13.0,200,Flash,Ghost,15,True,12570,11050,Control Ward,Lich Bane,Rylai's Crystal Scepter,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,135905,14947,Lane.mid_lane,Role.solo
+6,sensei cat,Singed,True,Side.red,2,5,6,1.6,196,Teleport,Ghost,15,False,11238,8725,The Dark Seal,Corrupting Potion,Boots of Swiftness,Zz'Rot Portal,Rylai's Crystal Scepter,Giant's Belt,112961,7483,Lane.top_lane,Role.solo
+7,FeeIsBoostedMan,Rek'Sai,True,Side.red,7,3,12,6.333333333333333,183,Smite,Flash,16,False,13654,12850,Titanic Hydra,Spectre's Cowl,Enchantment: Cinderhulk,Ninja Tabi,Dead Man's Plate,Kindlegem,33264,134417,Lane.jungle,Role.none
+8,clg imaqtpie69,Vayne,True,Side.red,13,5,6,3.8,193,Flash,Heal,15,False,14137,12900,Doran's Blade,Berserker's Greaves,Statikk Shiv,The Bloodthirster,Infinity Edge,Zeal,17115,108222,Lane.bot_lane,Role.carry
+9,Baenana,Zyra,True,Side.red,5,3,15,6.666666666666667,17,Flash,Exhaust,13,False,10295,9435,Liandry's Torment,Sorcerer's Shoes,Refillable Potion,Eye of the Watchers,Needlessly Large Rod,Giant's Belt,23341,7990,Lane.bot_lane,Role.support

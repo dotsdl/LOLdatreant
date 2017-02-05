@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RabidWombats,Nasus,False,Side.blue,7,9,7,1.5555555555555556,151,Flash,Teleport,15,False,10590,9433,Corrupting Potion,Dead Man's Plate,Kindlegem,Ninja Tabi,Trinity Force,Ruby Crystal,10798,85280,Lane.top_lane,Role.solo
+1,Dragonet25,Shyvana,False,Side.blue,3,7,6,1.2857142857142858,103,Flash,Smite,13,False,9223,8825,Enchantment: Bloodrazor,Spirit Visage,Boots of Swiftness,Chain Vest,Control Ward,Giant's Belt,51440,52419,Lane.jungle,Role.none
+2,Gosu Piglet,Twitch,False,Side.blue,3,9,6,1.0,167,Flash,Heal,13,False,9269,8575,Doran's Blade,Brawler's Gloves,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Dagger,0,67400,Lane.bot_lane,Role.carry
+3,ts5795354,Miss Fortune,False,Side.blue,1,9,10,1.2222222222222223,68,Flash,Exhaust,14,False,9327,8775,Frostfang,Pickaxe,Essence Reaver,Boots of Swiftness,B. F. Sword,Cloak of Agility,29796,42451,Lane.bot_lane,Role.support
+4,Juilliard,Ahri,False,Side.blue,8,10,5,1.3,127,Ignite,Flash,14,True,9951,9210,Morellonomicon,Rylai's Crystal Scepter,Needlessly Large Rod,Doran's Ring,Boots of Speed,Amplifying Tome,47230,13958,Lane.mid_lane,Role.solo
+5,Manofonebase,Vayne,True,Side.red,12,3,8,6.666666666666667,180,Flash,Heal,15,False,14091,9700,Quicksilver Sash,Infinity Edge,Cull,Doran's Blade,Berserker's Greaves,Statikk Shiv,25825,103156,Lane.bot_lane,Role.carry
+6,Young Simon,Zac,True,Side.red,11,4,15,6.5,96,Flash,Smite,15,False,12074,10050,Locket of the Iron Solari,Giant's Belt,Spirit Visage,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Cloth Armor,85440,21842,Lane.jungle,Role.none
+7,Sud83,Kha'Zix,True,Side.red,8,5,10,3.6,210,Ignite,Flash,16,False,13612,12250,Death's Dance,Youmuu's Ghostblade,Tiamat,Ionian Boots of Lucidity,Duskblade of Draktharr,,6489,157317,Lane.top_lane,Role.solo
+8,Arciles,Nami,True,Side.red,1,4,24,6.25,11,Flash,Exhaust,13,False,8989,6775,Mikael's Crucible,Redemption,Sightstone,Spellthief's Edge,Ionian Boots of Lucidity,Cloth Armor,6839,6883,Lane.bot_lane,Role.support
+9,ll DarkJak ll,Orianna,True,Side.red,12,6,9,3.5,177,Ghost,Flash,15,False,12966,9935,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,Blasting Wand,Amplifying Tome,105157,13981,Lane.mid_lane,Role.solo

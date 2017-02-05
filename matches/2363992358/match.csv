@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Røgue,Lee Sin,True,Side.blue,10,4,11,5.25,128,Flash,Smite,15,False,12158,11350,Enchantment: Warrior,Dead Man's Plate,The Black Cleaver,Boots of Mobility,Hexdrinker,,26196,113502,Lane.jungle,Role.none
+1,9213dog,Ezreal,True,Side.blue,13,1,11,24.0,223,Flash,Heal,16,True,14521,10875,Doran's Blade,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Blade of the Ruined King,Pickaxe,18485,149538,Lane.bot_lane,Role.carry
+2,Ðivinity,Soraka,True,Side.blue,1,3,27,9.333333333333334,12,Flash,Exhaust,13,False,9477,8550,Eye of the Oasis,Redemption,Control Ward,,Spirit Visage,Boots of Swiftness,5057,2729,Lane.bot_lane,Role.support
+3,Jun,Maokai,True,Side.blue,2,0,15,17.0,203,Flash,Teleport,16,False,11422,9475,Corrupting Potion,Mejai's Soulstealer,Sunfire Cape,Mercury's Treads,Spirit Visage,Cloth Armor,112777,20056,Lane.top_lane,Role.solo
+4,SirSnoopy,Ekko,True,Side.blue,8,1,9,17.0,178,Ignite,Flash,15,False,12027,10935,Zhonya's Hourglass,Hextech Protobelt-01,Corrupting Potion,Sorcerer's Shoes,Amplifying Tome,Lich Bane,107201,22506,Lane.mid_lane,Role.solo
+5,Smartcloud,Karma,False,Side.red,2,10,6,0.8,32,Flash,Exhaust,12,False,8453,7700,,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,Aegis of the Legion,18354,6583,Lane.bot_lane,Role.support
+6,Garani,Shyvana,False,Side.red,4,7,2,0.8571428571428571,191,Smite,Ghost,14,False,10645,9250,Enchantment: Cinderhulk,Titanic Hydra,Giant's Belt,Ninja Tabi,Chain Vest,,85903,74884,Lane.jungle,Role.none
+7,GodMeru,Nautilus,False,Side.red,0,3,4,1.3333333333333333,222,Flash,Teleport,14,False,9771,9200,Spirit Visage,Sunfire Cape,Corrupting Potion,Raptor Cloak,Boots of Swiftness,Doran's Ring,95347,28576,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,False,Side.red,2,8,4,0.75,191,Flash,Heal,13,False,10424,10575,Infinity Edge,Last Whisper,Runaan's Hurricane,Berserker's Greaves,,Doran's Blade,306,120320,Lane.bot_lane,Role.carry
+9,Program,Ahri,False,Side.red,1,6,3,0.6666666666666666,169,Ignite,Flash,13,False,9438,8885,Hextech Gunblade,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,51966,16253,Lane.mid_lane,Role.solo

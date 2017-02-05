@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,moon o,LeBlanc,True,Side.blue,12,4,6,4.5,124,Ignite,Flash,14,False,10630,8800,Doran's Ring,Rod of Ages,Fiendish Codex,The Dark Seal,Morellonomicon,Sorcerer's Shoes,56396,9350,Lane.jungle,Role.none
+1,Koby,Nami,True,Side.blue,0,5,14,2.8,4,Flash,Exhaust,11,False,6567,5150,Eye of the Watchers,Boots of Mobility,Forbidden Idol,Control Ward,Crystalline Bracer,,4592,1971,Lane.bot_lane,Role.support
+2,Pond,Vayne,True,Side.blue,6,4,7,3.25,155,Heal,Flash,12,False,9545,8700,Infinity Edge,Statikk Shiv,Dagger,Dagger,Berserker's Greaves,Doran's Blade,3725,69274,Lane.bot_lane,Role.carry
+3,Cris,Poppy,True,Side.blue,2,1,8,10.0,171,Flash,Teleport,14,False,9513,8350,Corrupting Potion,,Boots of Swiftness,Sunfire Cape,Spectre's Cowl,Iceborn Gauntlet,25695,68181,Lane.top_lane,Role.solo
+4,Štarboy,Graves,True,Side.blue,13,1,6,19.0,133,Smite,Flash,14,False,11959,11350,Enchantment: Warrior,Duskblade of Draktharr,Control Ward,Berserker's Greaves,Vampiric Scepter,The Black Cleaver,5491,127399,Lane.jungle,Role.none
+5,TheOddOrange,Lee Sin,False,Side.red,7,6,2,1.5,99,Flash,Smite,13,False,8522,8350,Tiamat,Enchantment: Warrior,Giant's Belt,Ninja Tabi,Jaurim's Fist,Warden's Mail,16846,77881,Lane.jungle,Role.none
+6,zlsna,Ekko,False,Side.red,0,5,1,0.2,191,Flash,Teleport,13,False,7339,5975,Hextech Protobelt-01,Doran's Ring,The Dark Seal,Corrupting Potion,Sheen,Ninja Tabi,88558,17592,Lane.top_lane,Role.solo
+7,Shiphtur,Ezreal,False,Side.red,4,8,4,1.0,132,Heal,Flash,11,True,7902,7200,,Iceborn Gauntlet,Cull,Ionian Boots of Lucidity,Doran's Blade,Manamune,9618,41704,Lane.bot_lane,Role.carry
+8,OUT DO YA,Viktor,False,Side.red,1,7,1,0.2857142857142857,139,Flash,Ghost,11,False,6771,6685,Perfect Hex Core,Doran's Ring,Amplifying Tome,Boots of Speed,Needlessly Large Rod,Giant's Belt,55138,7745,Lane.mid_lane,Role.solo
+9,Keegun,Pantheon,False,Side.red,3,7,5,1.1428571428571428,44,Flash,Ignite,10,False,6591,6100,Relic Shield,Edge of Night,Boots of Speed,Serrated Dirk,Caulfield's Warhammer,,2878,19771,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keramon,Maokai,False,Side.blue,0,7,1,0.14285714285714285,147,Teleport,Flash,12,False,7007,6150,Doran's Ring,Frozen Heart,Boots of Speed,,Righteous Glory,Refillable Potion,56861,15091,Lane.top_lane,Role.solo
+1,SBU Dralistreal ,Ezreal,False,Side.blue,3,5,2,1.0,193,Flash,Heal,12,False,9112,8600,Bilgewater Cutlass,Muramana,Cull,Doran's Blade,Ionian Boots of Lucidity,Iceborn Gauntlet,11241,74288,Lane.bot_lane,Role.carry
+2,Zv Pickle,Syndra,False,Side.blue,4,5,2,1.2,173,Flash,Ghost,13,False,8568,8135,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Abyssal Scepter,Amplifying Tome,,81054,7296,Lane.mid_lane,Role.solo
+3,PonderousSeaLion,Vi,False,Side.blue,3,7,4,1.0,119,Flash,Smite,12,False,7760,7375,Refillable Potion,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Ruby Crystal,,1458,84746,Lane.jungle,Role.none
+4,Oatmeeal,Alistar,False,Side.blue,0,5,4,0.8,26,Flash,Exhaust,10,False,5434,4800,Relic Shield,Ruby Sightstone,Boots of Mobility,Crystalline Bracer,Crystalline Bracer,Control Ward,6191,4294,Lane.bot_lane,Role.support
+5,IceCreamQAQ,Lulu,True,Side.red,2,2,6,4.0,178,Flash,Ignite,14,False,9381,9160,Sorcerer's Shoes,Amplifying Tome,Banshee's Veil,Mejai's Soulstealer,Morellonomicon,Doran's Ring,75237,16355,Lane.mid_lane,Role.solo
+6,Alangatorz,Shaco,True,Side.red,7,1,5,12.0,105,Smite,Ignite,13,False,9984,7675,Titanic Hydra,Refillable Potion,Enchantment: Bloodrazor,Berserker's Greaves,Cloth Armor,,23862,104542,Lane.jungle,Role.none
+7,Draven or Draven,Jax,True,Side.red,10,3,3,4.333333333333333,186,Flash,Teleport,15,True,12120,12300,Nashor's Tooth,Titanic Hydra,Hextech Gunblade,Doran's Blade,,Boots of Mobility,21176,104758,Lane.top_lane,Role.solo
+8,BeautifulCascade,Jhin,True,Side.red,8,3,5,4.333333333333333,177,Flash,Heal,13,False,10600,10450,Doran's Blade,Berserker's Greaves,Essence Reaver,Infinity Edge,Zeal,Dagger,6147,102375,Lane.bot_lane,Role.carry
+9,DivineSight,Karma,True,Side.red,0,1,11,11.0,18,Exhaust,Flash,12,False,6606,6475,Redemption,Ruby Sightstone,Control Ward,Spellthief's Edge,Ionian Boots of Lucidity,Aegis of the Legion,11906,6949,Lane.bot_lane,Role.support

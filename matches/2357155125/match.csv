@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,N810HO,Viktor,False,Side.blue,8,7,2,1.4285714285714286,200,Flash,Ghost,14,False,11047,10300,Perfect Hex Core,Doran's Ring,Control Ward,Abyssal Scepter,Ionian Boots of Lucidity,Void Staff,122374,9830,Lane.mid_lane,Role.solo
+1,laugh for me,Thresh,False,Side.blue,1,7,9,1.4285714285714286,45,Flash,Ignite,12,False,7311,6475,Ruby Sightstone,Relic Shield,Boots of Mobility,Control Ward,Redemption,Aegis of the Legion,18055,7393,Lane.bot_lane,Role.support
+2,colourkevin,Twitch,False,Side.blue,5,6,4,1.5,205,Heal,Flash,14,False,10534,9950,Doran's Blade,Last Whisper,Berserker's Greaves,Runaan's Hurricane,Control Ward,Infinity Edge,0,102466,Lane.bot_lane,Role.carry
+3,Bilog,Ryze,False,Side.blue,0,5,6,1.2,177,Flash,Teleport,14,False,8736,7600,Tear of the Goddess,Refillable Potion,Rod of Ages,Mercury's Treads,Abyssal Scepter,,91873,8410,Lane.top_lane,Role.solo
+4,Eludo,Zac,False,Side.blue,2,5,8,2.0,111,Flash,Smite,13,False,8763,7850,Refillable Potion,Giant's Belt,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Spirit Visage,,77314,23043,Lane.jungle,Role.none
+5,owowowowowowowo,Jhin,True,Side.red,7,1,13,20.0,225,Heal,Flash,14,False,12827,11900,Doran's Blade,Infinity Edge,Long Sword,Rapid Firecannon,Boots of Swiftness,Essence Reaver,11121,128403,Lane.bot_lane,Role.carry
+6,TheKushGuy,Nidalee,True,Side.red,12,3,13,8.333333333333334,166,Smite,Flash,16,True,14304,12860,Spirit Visage,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Abyssal Scepter,Rylai's Crystal Scepter,Amplifying Tome,176755,21846,Lane.jungle,Role.none
+7,Rekyn,Kog'Maw,True,Side.red,5,6,11,2.6666666666666665,177,Flash,Ghost,14,False,10987,10300,Doran's Ring,Rylai's Crystal Scepter,Needlessly Large Rod,Sorcerer's Shoes,Tear of the Goddess,Luden's Echo,108370,14001,Lane.mid_lane,Role.solo
+8,Tsui Wah ,Rammus,True,Side.red,4,5,6,2.0,163,Flash,Teleport,14,False,10346,10300,Mercury's Treads,Zz'Rot Portal,Sunfire Cape,,Spirit Visage,,53073,26673,Lane.top_lane,Role.solo
+9,KayBee,Nautilus,True,Side.red,2,1,19,21.0,51,Ignite,Flash,13,False,9040,8075,Face of the Mountain,Locket of the Iron Solari,Sightstone,Ninja Tabi,Crystalline Bracer,Forbidden Idol,17446,10135,Lane.bot_lane,Role.support

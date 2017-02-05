@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,megapasta,Bard,False,Side.blue,2,5,7,1.8,21,Flash,Ignite,10,False,7049,6500,Ruby Sightstone,Refillable Potion,Frost Queen's Claim,Ionian Boots of Lucidity,Glacial Shroud,Cloth Armor,12793,3746,Lane.bot_lane,Role.support
+1,Liquid Yusan,Kha'Zix,False,Side.blue,6,8,2,1.0,103,Flash,Smite,12,False,8723,8575,B. F. Sword,Youmuu's Ghostblade,Refillable Potion,Long Sword,Enchantment: Warrior,Ninja Tabi,4085,87245,Lane.jungle,Role.none
+2,  Wukong Boost U,Heimerdinger,False,Side.blue,3,11,0,0.2727272727272727,124,Flash,Teleport,12,False,7483,7185,Morellonomicon,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,Ruby Crystal,63363,11885,Lane.top_lane,Role.solo
+3,Klng Adam,Ashe,False,Side.blue,0,7,6,0.8571428571428571,129,Heal,Flash,11,False,7511,6850,Doran's Blade,Essence Reaver,Berserker's Greaves,Zeal,Dagger,,714,60520,Lane.bot_lane,Role.carry
+4,bobqinXD,Viktor,False,Side.blue,3,2,1,2.0,209,Flash,Exhaust,14,False,9191,8185,Zhonya's Hourglass,Perfect Hex Core,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,108950,9455,Lane.mid_lane,Role.solo
+5,LimitedExtent,Varus,True,Side.red,5,2,8,6.5,203,Heal,Flash,14,False,11234,10325,Doran's Blade,Pickaxe,Essence Reaver,Rapid Firecannon,Berserker's Greaves,B. F. Sword,6403,109911,Lane.bot_lane,Role.carry
+6,An Obese Panda,Karma,True,Side.red,1,4,16,4.25,18,Flash,Exhaust,12,False,8710,8175,Eye of the Watchers,Redemption,Aegis of the Legion,Kindlegem,Ionian Boots of Lucidity,Ruby Crystal,17222,6648,Lane.bot_lane,Role.support
+7,Kazaa,Lee Sin,True,Side.red,10,5,8,3.6,157,Flash,Smite,15,True,12649,12575,Ravenous Hydra,Enchantment: Warrior,Hexdrinker,Dead Man's Plate,Ninja Tabi,Long Sword,25098,115684,Lane.top_lane,Role.support
+8,Dream8,Rumble,True,Side.red,4,2,5,4.5,180,Teleport,Flash,14,False,10388,10200,Liandry's Torment,Void Staff,Sorcerer's Shoes,,,Abyssal Scepter,96190,10160,Lane.top_lane,Role.carry
+9,Happy Birfdizzay,Zed,True,Side.red,13,1,3,16.0,189,Flash,Ignite,15,False,13451,12250,Serrated Dirk,Youmuu's Ghostblade,The Black Cleaver,Duskblade of Draktharr,Boots of Speed,Hexdrinker,7498,126291,Lane.mid_lane,Role.solo

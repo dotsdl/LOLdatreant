@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PurposeKRY,Kennen,False,Side.blue,7,6,6,2.1666666666666665,224,Flash,Teleport,15,False,11936,11500,Abyssal Scepter,Needlessly Large Rod,Hextech Protobelt-01,Rylai's Crystal Scepter,,Sorcerer's Shoes,92224,22265,Lane.top_lane,Role.solo
+1,C9 Saiph,Twitch,False,Side.blue,3,9,8,1.2222222222222223,251,Flash,Heal,15,False,12646,12400,Chain Vest,Null-Magic Mantle,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Phantom Dancer,0,151359,Lane.bot_lane,Role.carry
+2,Fatchicks r us,Riven,False,Side.blue,8,4,3,2.75,177,Smite,Flash,15,False,12047,10900,Enchantment: Warrior,Ionian Boots of Lucidity,The Black Cleaver,Maw of Malmortius,Chain Vest,,4712,143514,Lane.jungle,Role.none
+3,BlueBoomBoom,Karma,False,Side.blue,1,5,9,2.0,43,Flash,Exhaust,13,False,9308,9100,Frost Queen's Claim,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,28798,7989,Lane.bot_lane,Role.support
+4,TankofGod,Galio,False,Side.blue,1,6,10,1.8333333333333333,209,Flash,Teleport,15,False,10666,9850,Rod of Ages,Doran's Ring,Mercury's Treads,Abyssal Scepter,Spirit Visage,,119923,14234,Lane.mid_lane,Role.solo
+5,IQ is 201 ,Orianna,True,Side.red,5,5,14,3.8,323,Flash,Ghost,18,True,16043,15200,Quicksilver Sash,Morellonomicon,Mercury's Treads,Abyssal Scepter,Rylai's Crystal Scepter,Void Staff,217123,22207,Lane.mid_lane,Role.solo
+6,Mckenize,Poppy,True,Side.red,7,2,11,9.0,199,Teleport,Flash,17,False,13358,12000,Spirit Visage,Warden's Mail,Glacial Shroud,Mercury's Treads,Sunfire Cape,Guardian Angel,23625,100846,Lane.jungle,Role.none
+7,Vortexum,Janna,True,Side.red,0,5,22,4.4,15,Flash,Exhaust,14,False,9786,7675,Ruby Sightstone,Redemption,Locket of the Iron Solari,Ancient Coin,Ionian Boots of Lucidity,Cloth Armor,2942,3715,Lane.bot_lane,Role.support
+8,BOT MING,Vayne,True,Side.red,9,6,6,2.5,190,Flash,Heal,15,False,14255,12250,Infinity Edge,,Statikk Shiv,Doran's Blade,The Bloodthirster,Berserker's Greaves,26684,125998,Lane.bot_lane,Role.carry
+9,DouYuTV Georgezz,Nocturne,True,Side.red,9,2,11,10.0,169,Smite,Flash,16,False,14477,11250,Youmuu's Ghostblade,Tiamat,Chain Vest,Enchantment: Warrior,Ionian Boots of Lucidity,Statikk Shiv,7956,187612,Lane.jungle,Role.none

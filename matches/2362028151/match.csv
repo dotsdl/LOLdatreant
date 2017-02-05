@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Quest and K0,Vi,True,Side.blue,4,1,1,5.0,98,Flash,Smite,11,False,7974,7633,Enchantment: Warrior,Refillable Potion,Boots of Swiftness,Trinity Force,,,452,89482,Lane.jungle,Role.none
+1,never lucky help,Jayce,True,Side.blue,5,2,1,3.0,147,Teleport,Flash,12,False,8572,8375,Doran's Blade,Youmuu's Ghostblade,Ionian Boots of Lucidity,Long Sword,Long Sword,The Black Cleaver,6952,67106,Lane.top_lane,Role.solo
+2,Hyperiun,Karma,True,Side.blue,1,1,10,11.0,6,Exhaust,Flash,10,False,6121,5925,Redemption,Mercury's Treads,Eye of the Watchers,Control Ward,,,7478,4856,Lane.bot_lane,Role.support
+3,xFSN Saber,Twitch,True,Side.blue,5,1,6,11.0,144,Heal,Flash,10,False,8968,4675,Doran's Blade,Zeal,B. F. Sword,Pickaxe,Boots of Speed,Dagger,75,67411,Lane.bot_lane,Role.carry
+4,Nexevis,Ahri,True,Side.blue,4,2,3,3.5,116,Flash,Teleport,11,False,7329,4950,Morellonomicon,Ionian Boots of Lucidity,Doran's Ring,Control Ward,Doran's Ring,,33205,12590,Lane.mid_lane,Role.solo
+5,Nijijinchuuriki,Morgana,False,Side.red,1,3,1,0.6666666666666666,6,Flash,Exhaust,8,False,3577,3225,Frostfang,Total Biscuit of Rejuvenation,Sightstone,,,Boots of Mobility,5022,2018,Lane.bot_lane,Role.support
+6,Pink Ward,Shaco,False,Side.red,3,8,1,0.5,59,Teleport,Ignite,9,True,4721,4825,Doran's Ring,Corrupting Potion,Hextech Protobelt-01,Ionian Boots of Lucidity,,,16421,7664,Lane.jungle,Role.none
+7,Baeflone,Shyvana,False,Side.red,0,3,1,0.3333333333333333,63,Smite,Ghost,8,False,4176,3075,Enchantment: Bloodrazor,Refillable Potion,,Boots of Speed,,,21974,20296,Lane.jungle,Role.none
+8,WJNA,Lulu,False,Side.red,2,2,0,1.0,83,Flash,Ignite,9,False,4709,4260,Refillable Potion,Control Ward,Athene's Unholy Grail,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,20616,7889,Lane.mid_lane,Role.solo
+9,Destinedwithin,Vayne,False,Side.red,0,3,1,0.3333333333333333,77,Flash,Heal,9,False,4205,3475,Doran's Blade,Pickaxe,B. F. Sword,Cull,Boots of Speed,,156,19789,Lane.bot_lane,Role.carry

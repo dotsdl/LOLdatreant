@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FourofDiamonds,Karma,True,Side.blue,0,4,7,1.75,16,Flash,Exhaust,10,False,6248,5875,Frostfang,Ruby Sightstone,Ionian Boots of Lucidity,Redemption,,,11243,3207,Lane.bot_lane,Role.support
+1,IWDFridge,Shyvana,True,Side.blue,13,1,2,15.0,203,Smite,Flash,15,False,13300,9650,Blade of the Ruined King,Refillable Potion,Mercury's Treads,Enchantment: Bloodrazor,Phage,Sheen,80220,84001,Lane.jungle,Role.none
+2,ThePadzQC,Jhin,True,Side.blue,0,4,5,1.25,119,Heal,Flash,10,False,6906,6775,Essence Reaver,Zeal,Dagger,Boots of Swiftness,,Doran's Blade,3811,45562,Lane.bot_lane,Role.carry
+3,Hard On Donger,Yasuo,True,Side.blue,3,6,3,1.0,124,Flash,Ignite,12,False,7476,5775,Doran's Blade,Cloak of Agility,Doran's Blade,Pickaxe,Phantom Dancer,Boots of Speed,22250,46519,Lane.mid_lane,Role.solo
+4,Best Fiormere NA,Fiora,True,Side.blue,8,3,6,4.666666666666667,126,Teleport,Flash,13,True,10061,9050,Doran's Blade,Ravenous Hydra,Ninja Tabi,The Black Cleaver,Null-Magic Mantle,Long Sword,549,64869,Lane.top_lane,Role.solo
+5,ZambonGG,Poppy,False,Side.red,2,9,4,0.6666666666666666,111,Flash,Teleport,11,False,6278,6000,Sunfire Cape,Cloth Armor,Corrupting Potion,Sheen,Ninja Tabi,,11674,35050,Lane.top_lane,Role.solo
+6,SanaSana,Viktor,False,Side.red,5,5,2,1.4,118,Ghost,Flash,12,False,6889,5670,Perfect Hex Core,Doran's Ring,Amplifying Tome,Doran's Ring,Ionian Boots of Lucidity,Amplifying Tome,46356,8863,Lane.mid_lane,Role.solo
+7,gneV,Zac,False,Side.red,6,2,4,5.0,95,Smite,Flash,12,False,7759,6775,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Ninja Tabi,,,65327,17973,Lane.jungle,Role.none
+8,PC Princiipal,Janna,False,Side.red,1,4,9,2.5,12,Exhaust,Flash,10,False,5426,4625,Refillable Potion,Sightstone,Boots of Mobility,Control Ward,,Talisman of Ascension,3538,3124,Lane.bot_lane,Role.support
+9,Vanity,Miss Fortune,False,Side.red,4,4,4,2.0,144,Flash,Heal,11,False,7331,6075,Doran's Blade,Infinity Edge,Zeal,Boots of Speed,Dagger,Control Ward,2590,65748,Lane.bot_lane,Role.carry

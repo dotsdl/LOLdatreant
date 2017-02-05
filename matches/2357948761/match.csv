@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vchee,Kennen,True,Side.blue,4,4,4,2.0,162,Teleport,Flash,13,False,10759,9150,Doran's Blade,Void Staff,Sorcerer's Shoes,Hextech Protobelt-01,Needlessly Large Rod,Giant's Belt,70893,23016,Lane.top_lane,Role.solo
+1,An Obese Panda,Brand,True,Side.blue,6,4,11,4.25,15,Flash,Ignite,12,False,10683,8210,Blasting Wand,Eye of the Watchers,Liandry's Torment,,Boots of Mobility,Amplifying Tome,27294,6433,Lane.bot_lane,Role.support
+2,WildTurtle,Caitlyn,True,Side.blue,9,4,11,5.0,235,Flash,Heal,15,False,14242,11950,B. F. Sword,Statikk Shiv,Infinity Edge,Berserker's Greaves,Doran's Blade,Rapid Firecannon,25548,139100,Lane.bot_lane,Role.carry
+3,qldurtms,Jayce,True,Side.blue,10,3,13,7.666666666666667,144,Flash,Exhaust,14,True,12772,11925,The Black Cleaver,Lord Dominik's Regards,Maw of Malmortius,,Serrated Dirk,Ionian Boots of Lucidity,14689,90071,Lane.mid_lane,Role.solo
+4,Daarr,Rek'Sai,True,Side.blue,5,3,13,6.0,163,Flash,Smite,15,False,11805,7925,Enchantment: Cinderhulk,Mercury's Treads,Titanic Hydra,Refillable Potion,,Ruby Crystal,26516,124323,Lane.jungle,Role.none
+5,Yusui,Katarina,False,Side.red,8,12,3,0.9166666666666666,95,Ignite,Flash,12,False,8723,8610,Hextech Gunblade,Zhonya's Hourglass,Amplifying Tome,Sorcerer's Shoes,The Dark Seal,,46171,6967,Lane.mid_lane,Role.solo
+6,RF Legendary,Poppy,False,Side.red,4,2,5,4.5,164,Flash,Teleport,14,False,9030,8825,Corrupting Potion,Spirit Visage,Ninja Tabi,Sunfire Cape,Giant's Belt,Cloth Armor,28071,59235,Lane.top_lane,Role.solo
+7,Liquid fabbbyyy,Ashe,False,Side.red,0,7,6,0.8571428571428571,201,Flash,Heal,13,False,9073,8600,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Infinity Edge,Dagger,,1432,103138,Lane.bot_lane,Role.carry
+8,CloudNguyén,Lee Sin,False,Side.red,6,5,6,2.4,128,Smite,Flash,14,False,9744,9150,Enchantment: Warrior,Tiamat,Control Ward,Guardian Angel,Ninja Tabi,Hexdrinker,18700,90539,Lane.jungle,Role.none
+9,Hi Im A Sheep,Zyra,False,Side.red,0,8,6,0.75,27,Flash,Ignite,11,False,6604,6250,Eye of the Watchers,,,,Haunting Guise,Sorcerer's Shoes,24485,3973,Lane.bot_lane,Role.support

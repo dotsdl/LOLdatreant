@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hard On Donger,Yasuo,False,Side.blue,12,8,5,2.125,260,Flash,Ignite,17,False,14531,14450,Doran's Blade,Infinity Edge,Spirit Visage,Maw of Malmortius,Phantom Dancer,Mercury's Treads,35278,189612,Lane.mid_lane,Role.solo
+1,ZosHa,Lee Sin,False,Side.blue,2,14,2,0.2857142857142857,73,Flash,Smite,11,False,8048,7550,Enchantment: Warrior,Spectre's Cowl,Boots of Mobility,,Vampiric Scepter,Pickaxe,11080,50999,Lane.jungle,Role.none
+2,26209633,Nami,False,Side.blue,1,11,12,1.1818181818181819,17,Flash,Ignite,13,False,8794,8360,Eye of the Watchers,Redemption,Locket of the Iron Solari,Amplifying Tome,Boots of Mobility,,11824,3757,Lane.bot_lane,Role.support
+3,Shamwwow,Kayle,False,Side.blue,0,11,6,0.5454545454545454,149,Flash,Teleport,14,False,8816,8500,Doran's Ring,Berserker's Greaves,Nashor's Tooth,Guinsoo's Rageblade,,,53597,23120,Lane.top_lane,Role.solo
+4,Happy Birfdizzay,Teemo,False,Side.blue,8,6,6,2.3333333333333335,246,Flash,Heal,17,False,13434,12550,Hextech Gunblade,Nashor's Tooth,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,Doran's Ring,136912,52568,Lane.bot_lane,Role.carry
+5,cesuna,Jhin,True,Side.red,6,6,14,3.3333333333333335,159,Flash,Heal,15,False,13123,11800,Rapid Firecannon,Infinity Edge,Essence Reaver,Long Sword,Boots of Swiftness,Doran's Blade,8816,118909,Lane.bot_lane,Role.carry
+6,Asukira,Taliyah,True,Side.red,6,4,9,3.75,54,Exhaust,Flash,13,False,11994,10350,Eye of the Watchers,,,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,45081,4147,Lane.bot_lane,Role.support
+7,WHOOPS CAPS,Mordekaiser,True,Side.red,15,3,5,6.666666666666667,231,Flash,Teleport,18,True,16814,15350,Hextech Gunblade,Boots of Swiftness,Rylai's Crystal Scepter,The Dark Seal,Liandry's Torment,Nashor's Tooth,181052,33375,Lane.top_lane,Role.solo
+8,d3ps,Rek'Sai,True,Side.red,12,4,15,6.75,193,Flash,Smite,17,False,16595,14600,Titanic Hydra,Banshee's Veil,Enchantment: Cinderhulk,Ninja Tabi,Randuin's Omen,Hexdrinker,45592,145133,Lane.jungle,Role.none
+9,S Diana 2,Diana,True,Side.red,11,6,4,2.5,186,Ignite,Flash,17,False,14569,13600,Sheen,Zeal,Nashor's Tooth,Berserker's Greaves,Guinsoo's Rageblade,Wit's End,149566,33231,Lane.mid_lane,Role.solo

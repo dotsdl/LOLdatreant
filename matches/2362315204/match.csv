@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZeroBlaze,Yasuo,False,Side.blue,3,7,4,1.0,198,Flash,Teleport,14,False,10482,10000,Doran's Blade,Phantom Dancer,Mercury's Treads,Frozen Mallet,Hexdrinker,Last Whisper,31034,107225,Lane.top_lane,Role.solo
+1,Eric1,Hecarim,False,Side.blue,5,5,7,2.4,153,Smite,Ghost,14,False,10658,10108,Enchantment: Cinderhulk,Hunter's Potion,Ionian Boots of Lucidity,Trinity Force,Hexdrinker,Giant's Belt,23968,117091,Lane.jungle,Role.none
+2,zaqwsxcde,Lux,False,Side.blue,7,6,2,1.5,198,Flash,Teleport,14,False,11033,9100,Doran's Ring,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Luden's Echo,Blasting Wand,128110,10364,Lane.mid_lane,Role.solo
+3,Fuko lbuki,Thresh,False,Side.blue,0,8,10,1.25,9,Flash,Ignite,10,False,6722,6325,Face of the Mountain,Ruby Sightstone,Boots of Mobility,Forbidden Idol,,,6171,3474,Lane.bot_lane,Role.support
+4,Snowfly,Caitlyn,False,Side.blue,4,9,4,0.8888888888888888,168,Flash,Heal,13,True,10283,8850,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Brawler's Gloves,Dagger,480,104635,Lane.bot_lane,Role.carry
+5,ShadowofSelf,Poppy,True,Side.red,6,3,9,5.0,200,Flash,Teleport,17,False,12823,11225,Warmog's Armor,Sunfire Cape,Iceborn Gauntlet,Mercury's Treads,Chain Vest,Cloth Armor,40194,84793,Lane.top_lane,Role.solo
+6,WaterOcean,Nidalee,True,Side.red,4,5,10,2.8,156,Flash,Smite,16,False,13042,11125,Refillable Potion,Enchantment: Runic Echoes,Iceborn Gauntlet,Rylai's Crystal Scepter,Needlessly Large Rod,Ionian Boots of Lucidity,155326,26450,Lane.jungle,Role.none
+7,procberry,Karma,True,Side.red,6,4,17,5.75,41,Exhaust,Flash,14,False,12053,10650,Mikael's Crucible,Redemption,Eye of the Watchers,Righteous Glory,The Dark Seal,Ionian Boots of Lucidity,35181,9607,Lane.bot_lane,Role.support
+8,MongolWarrior,Twitch,True,Side.red,15,4,9,6.0,169,Heal,Flash,15,False,14643,12725,Pickaxe,Quicksilver Sash,Runaan's Hurricane,Berserker's Greaves,Statikk Shiv,Infinity Edge,13922,130179,Lane.bot_lane,Role.carry
+9,Cotopaco Parce,Vladimir,True,Side.red,4,3,9,4.333333333333333,232,Ghost,Flash,16,False,12750,11700,Needlessly Large Rod,Spirit Visage,Rylai's Crystal Scepter,Mercury's Treads,Void Staff,,139791,19252,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ginormous Noob,Karma,False,Side.blue,3,5,11,2.8,13,Flash,Exhaust,11,False,8739,8300,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,Ardent Censer,Cloth Armor,,20509,3429,Lane.bot_lane,Role.support
+1,PhD Wumbologist,Vayne,False,Side.blue,9,8,4,1.625,190,Flash,Heal,14,False,11578,11475,Refillable Potion,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Statikk Shiv,Phantom Dancer,29248,82876,Lane.bot_lane,Role.carry
+2,NayvadiusWilburn,Rek'Sai,False,Side.blue,4,8,4,1.0,148,Flash,Smite,13,False,10147,9975,Tiamat,Enchantment: Warrior,Ninja Tabi,Chain Vest,The Black Cleaver,Giant's Belt,11003,109182,Lane.jungle,Role.none
+3,Nero Valentine,Talon,False,Side.blue,11,8,5,2.0,155,Ignite,Flash,14,True,11478,11400,The Black Cleaver,Refillable Potion,Youmuu's Ghostblade,Pickaxe,Ionian Boots of Lucidity,Duskblade of Draktharr,2151,97425,Lane.mid_lane,Role.solo
+4,Carrots2,Gangplank,False,Side.blue,2,10,6,0.8,182,Flash,Exhaust,14,False,11266,11408,Infinity Edge,Cull,Trinity Force,Brawler's Gloves,Last Whisper,Boots of Swiftness,18710,137238,Lane.top_lane,Role.solo
+5,shy asf,Alistar,True,Side.red,2,6,28,5.0,27,Flash,Exhaust,14,False,9042,8900,Eye of the Equinox,Locket of the Iron Solari,Knight's Vow,Cloth Armor,Ninja Tabi,,14966,7838,Lane.bot_lane,Role.support
+6,L1MITAT1ONS,Jayce,True,Side.red,12,5,8,4.0,190,Teleport,Flash,16,False,13863,13300,Youmuu's Ghostblade,The Bloodthirster,The Black Cleaver,Ninja Tabi,Last Whisper,,23229,111187,Lane.top_lane,Role.solo
+7,Making Sense,Ezreal,True,Side.red,9,6,10,3.1666666666666665,191,Flash,Heal,15,False,12400,11775,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,The Bloodthirster,Last Whisper,Doran's Blade,12632,103388,Lane.bot_lane,Role.carry
+8,Mr Pinch,Ivern,True,Side.red,3,7,19,3.142857142857143,98,Smite,Flash,15,False,10230,9020,Hunter's Talisman,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Chain Vest,Negatron Cloak,47296,16435,Lane.mid_lane,Role.solo
+9,LearningToPIay,Olaf,True,Side.red,13,5,14,5.4,125,Ghost,Smite,14,False,13131,13075,Dead Man's Plate,Randuin's Omen,Thornmail,Enchantment: Cinderhulk,Catalyst of Aeons,Ionian Boots of Lucidity,25309,85683,Lane.jungle,Role.none

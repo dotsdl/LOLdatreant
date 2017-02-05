@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pond,Vayne,False,Side.blue,4,7,5,1.2857142857142858,189,Heal,Flash,14,False,11290,11280,B. F. Sword,Doran's Blade,Quicksilver Sash,Berserker's Greaves,Statikk Shiv,Infinity Edge,18300,79142,Lane.bot_lane,Role.carry
+1,emV,Nasus,False,Side.blue,4,7,4,1.1428571428571428,205,Flash,Teleport,16,False,11225,11250,Frozen Heart,Randuin's Omen,Ninja Tabi,Zz'Rot Portal,,Sheen,87006,40172,Lane.top_lane,Role.solo
+2,TheOddOrange,Rek'Sai,False,Side.blue,3,5,7,2.0,187,Flash,Smite,16,False,11588,11025,Titanic Hydra,Enchantment: Cinderhulk,Dead Man's Plate,Ninja Tabi,Null-Magic Mantle,Control Ward,35081,124911,Lane.jungle,Role.none
+3,Finna Lit,Karma,False,Side.blue,10,6,7,2.8333333333333335,201,Teleport,Flash,16,False,12984,12910,Rabadon's Deathcap,Morellonomicon,Amplifying Tome,Rod of Ages,Sorcerer's Shoes,Blasting Wand,128216,15484,Lane.mid_lane,Role.solo
+4,QuickRev,Janna,False,Side.blue,0,8,11,1.375,17,Flash,Exhaust,13,False,7501,6250,Spellthief's Edge,Ardent Censer,Sightstone,Blasting Wand,Ionian Boots of Lucidity,Blasting Wand,8889,3544,Lane.bot_lane,Role.support
+5,Erry,Caitlyn,True,Side.red,11,5,9,4.0,240,Heal,Flash,15,False,15008,13675,Long Sword,Lord Dominik's Regards,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,2525,167409,Lane.bot_lane,Role.carry
+6,daduu,Brand,True,Side.red,5,4,16,5.25,41,Flash,Ignite,14,False,11651,9585,Sorcerer's Shoes,Liandry's Torment,Giant's Belt,Amplifying Tome,Eye of the Watchers,The Dark Seal,68357,6657,Lane.bot_lane,Role.support
+7,FourofDiamonds,Shyvana,True,Side.red,0,7,10,1.4285714285714286,173,Smite,Flash,15,False,10859,10350,Titanic Hydra,Dead Man's Plate,Mercury's Treads,Enchantment: Bloodrazor,,,72035,78617,Lane.jungle,Role.none
+8,Vchee,Orianna,True,Side.red,6,2,12,9.0,182,Ghost,Flash,15,False,12481,10835,Doran's Ring,Athene's Unholy Grail,Rabadon's Deathcap,Sorcerer's Shoes,Void Staff,Amplifying Tome,110267,17518,Lane.mid_lane,Role.solo
+9,Natalia Dyer,Yasuo,True,Side.red,11,3,5,5.333333333333333,194,Flash,Teleport,15,True,13529,12725,Doran's Blade,Infinity Edge,Blade of the Ruined King,Jaurim's Fist,Ninja Tabi,Phantom Dancer,28128,114437,Lane.top_lane,Role.solo

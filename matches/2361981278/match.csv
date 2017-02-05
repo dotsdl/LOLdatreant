@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arane,Thresh,False,Side.blue,0,5,3,0.6,31,Exhaust,Flash,10,False,5069,4625,Face of the Mountain,Sightstone,Boots of Mobility,Rejuvenation Bead,Rejuvenation Bead,,9321,5484,Lane.bot_lane,Role.support
+1,Get Good Le Bad,Ezreal,False,Side.blue,3,5,0,0.6,195,Heal,Flash,12,True,8619,8500,Iceborn Gauntlet,Vampiric Scepter,Ionian Boots of Lucidity,Doran's Blade,Muramana,Recurve Bow,17894,84986,Lane.bot_lane,Role.carry
+2,Mata dog,Viktor,False,Side.blue,0,7,1,0.14285714285714285,159,Flash,Ghost,12,False,7024,5750,Blasting Wand,Doran's Ring,Prototype Hex Core,Morellonomicon,Doran's Ring,Ionian Boots of Lucidity,58380,11836,Lane.mid_lane,Role.solo
+3,HappyEasterXbox,Poppy,False,Side.blue,0,4,1,0.25,135,Flash,Teleport,12,False,6632,6200,Mercury's Treads,Corrupting Potion,Sunfire Cape,Sheen,Cloth Armor,Sapphire Crystal,13429,39653,Lane.top_lane,Role.solo
+4,BestDumptruckBR,Lee Sin,False,Side.blue,2,3,1,1.0,116,Flash,Smite,12,False,7059,6350,Refillable Potion,Enchantment: Warrior,Boots of Speed,Dead Man's Plate,,Cloth Armor,17733,77693,Lane.jungle,Role.none
+5,zinxao,Pantheon,True,Side.red,9,1,5,14.0,160,Ignite,Flash,14,False,10060,8350,Youmuu's Ghostblade,Corrupting Potion,Edge of Night,,Phage,Boots of Speed,5099,83971,Lane.top_lane,Role.carry
+6,am tham ben em,Orianna,True,Side.red,5,0,8,13.0,233,Flash,Ghost,15,False,11144,9310,Sorcerer's Shoes,Doran's Ring,Luden's Echo,Morellonomicon,Amplifying Tome,Blasting Wand,123589,12761,Lane.mid_lane,Role.solo
+7,Little Mimo,Jhin,True,Side.red,4,2,5,4.5,162,Flash,Heal,12,False,9330,8350,Control Ward,,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,1531,86296,Lane.bot_lane,Role.carry
+8,Cant Kilean ,Zilean,True,Side.red,2,0,12,14.0,12,Exhaust,Flash,13,False,7414,6100,Locket of the Iron Solari,Redemption,Boots of Speed,Sightstone,Ancient Coin,Faerie Charm,2525,3110,Lane.bot_lane,Role.support
+9,excuter,Twitch,True,Side.red,4,2,4,4.0,108,Flash,Smite,13,False,8980,7775,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,,B. F. Sword,2060,88457,Lane.top_lane,Role.support

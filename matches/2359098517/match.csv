@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,goompa,Caitlyn,True,Side.blue,21,6,9,5.0,222,Heal,Flash,17,False,19098,18450,Berserker's Greaves,The Bloodthirster,Maw of Malmortius,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,5502,223601,Lane.bot_lane,Role.carry
+1,J D,Brand,True,Side.blue,6,10,21,2.7,59,Exhaust,Flash,16,False,14074,12975,,Hextech Revolver,,,,,51273,6460,Lane.bot_lane,Role.support
+2,Young Seal,Viktor,True,Side.blue,18,8,13,3.875,164,Flash,Ghost,17,False,16715,15050,Perfect Hex Core,Rabadon's Deathcap,Ionian Boots of Lucidity,,Rylai's Crystal Scepter,Lich Bane,130652,11057,Lane.mid_lane,Role.solo
+3,Soulaid,Graves,True,Side.blue,5,9,12,1.8888888888888888,130,Flash,Smite,16,False,12460,11050,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Duskblade of Draktharr,Phantom Dancer,Pickaxe,4282,117752,Lane.jungle,Role.none
+4,singed420,Singed,True,Side.blue,3,8,8,1.375,308,Ghost,Smite,17,False,14243,13375,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,Enchantment: Cinderhulk,Rylai's Crystal Scepter,Dead Man's Plate,184017,8788,Lane.top_lane,Role.solo
+5,starfui,Janna,False,Side.red,1,7,20,3.0,17,Exhaust,Flash,15,False,9658,9745,Ionian Boots of Lucidity,Raptor Cloak,Redemption,Eye of the Oasis,Banner of Command,Negatron Cloak,9151,2692,Lane.bot_lane,Role.support
+6,Rìot Faker,Twitch,False,Side.red,3,11,14,1.5454545454545454,169,Flash,Heal,15,False,12205,10850,Doran's Blade,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,1602,114795,Lane.bot_lane,Role.carry
+7,Captain Ziploc,Elise,False,Side.red,13,14,8,1.5,86,Smite,Flash,15,True,12962,12325,Hextech Protobelt-01,Zhonya's Hourglass,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Banshee's Veil,Chain Vest,93448,19460,Lane.jungle,Role.none
+8,weeman100,Yasuo,False,Side.red,7,14,8,1.0714285714285714,252,Flash,Exhaust,17,False,13941,13450,B. F. Sword,Blade of the Ruined King,Ninja Tabi,Infinity Edge,Vampiric Scepter,Statikk Shiv,73470,116121,Lane.mid_lane,Role.solo
+9,SaintKilianv2,Ekko,False,Side.red,15,7,7,3.142857142857143,251,Teleport,Flash,17,False,15951,14950,Rabadon's Deathcap,Hextech Gunblade,Ionian Boots of Lucidity,Lich Bane,Void Staff,,171426,28447,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ItsYourChoice,Akali,True,Side.blue,9,2,6,7.5,137,Flash,Ignite,13,False,10757,9310,Sorcerer's Shoes,Hextech Gunblade,Abyssal Scepter,Amplifying Tome,Giant's Belt,,36431,64366,Lane.mid_lane,Role.solo
+1,D0NG0,Fizz,True,Side.blue,5,3,3,2.6666666666666665,138,Teleport,Flash,13,False,9721,8325,Corrupting Potion,Zhonya's Hourglass,The Dark Seal,Doran's Ring,Lich Bane,Ionian Boots of Lucidity,50513,26834,Lane.top_lane,Role.solo
+2,Ugu,Twitch,True,Side.blue,4,2,8,6.0,167,Heal,Flash,12,False,10588,9650,Quicksilver Sash,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,,646,82240,Lane.bot_lane,Role.carry
+3,1onz,Lulu,True,Side.blue,5,2,12,8.5,12,Flash,Ignite,11,True,8140,6975,Redemption,Locket of the Iron Solari,Sightstone,Boots of Mobility,Spellthief's Edge,Control Ward,6927,5914,Lane.bot_lane,Role.support
+4,nilhaG,Rek'Sai,True,Side.blue,3,5,9,2.4,168,Flash,Smite,13,False,9999,7925,Titanic Hydra,Refillable Potion,,Mercury's Treads,Enchantment: Cinderhulk,Ruby Crystal,25466,96653,Lane.jungle,Role.none
+5,Destinedwithin,Vayne,False,Side.red,3,3,2,1.6666666666666667,167,Flash,Heal,12,False,9166,7850,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,,,8354,62915,Lane.bot_lane,Role.carry
+6,Cat Person,Jax,False,Side.red,2,1,0,2.0,143,Teleport,Flash,12,False,8062,7758,Caulfield's Warhammer,Corrupting Potion,,Hexdrinker,Trinity Force,Boots of Swiftness,20220,54277,Lane.top_lane,Role.solo
+7,Wazabiee,Cassiopeia,False,Side.red,2,8,3,0.625,158,Ghost,Flash,12,False,8178,7860,Refillable Potion,Amplifying Tome,Abyssal Scepter,Tear of the Goddess,Doran's Ring,Morellonomicon,77476,3412,Lane.mid_lane,Role.solo
+8,Huhi,Lee Sin,False,Side.red,4,6,3,1.1666666666666667,107,Flash,Smite,13,False,9413,9100,Sightstone,Caulfield's Warhammer,,The Black Cleaver,Enchantment: Warrior,Mercury's Treads,27025,90947,Lane.jungle,Role.none
+9,AvadaKedavra BAM,Sona,False,Side.red,1,8,3,0.5,11,Flash,Exhaust,9,False,6275,5850,Frostfang,Locket of the Iron Solari,Sightstone,Mercury's Treads,Tear of the Goddess,,8747,2900,Lane.bot_lane,Role.support

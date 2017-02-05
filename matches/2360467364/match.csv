@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Symbo,Graves,True,Side.blue,8,3,7,5.0,217,Smite,Flash,16,False,13797,11750,Vampiric Scepter,Enchantment: Warrior,Berserker's Greaves,Maw of Malmortius,Phantom Dancer,Caulfield's Warhammer,6784,189367,Lane.jungle,Role.none
+1,EmbersBite,Soraka,True,Side.blue,0,6,15,2.5,9,Exhaust,Flash,12,False,8377,7975,Eye of the Oasis,Locket of the Iron Solari,Ardent Censer,Mercury's Treads,,,11493,1706,Lane.bot_lane,Role.support
+2,Anthøny,LeBlanc,True,Side.blue,15,4,6,5.25,160,Ignite,Flash,16,False,13509,11075,Doran's Ring,Luden's Echo,Void Staff,Abyssal Scepter,Sorcerer's Shoes,Doran's Ring,95045,16124,Lane.mid_lane,Role.solo
+3,AD MAlN,Vayne,True,Side.blue,6,4,10,4.0,199,Heal,Flash,15,True,13245,11200,Doran's Blade,Berserker's Greaves,Phantom Dancer,Statikk Shiv,Infinity Edge,Long Sword,42652,91167,Lane.bot_lane,Role.carry
+4,sukblazemin,Riven,True,Side.blue,5,3,12,5.666666666666667,192,Teleport,Flash,16,False,12625,11025,The Black Cleaver,Ravenous Hydra,Doran's Blade,Ionian Boots of Lucidity,Vampiric Scepter,B. F. Sword,0,139265,Lane.top_lane,Role.solo
+5,eatbananaeachday,Wukong,False,Side.red,2,7,2,0.5714285714285714,162,Flash,Ignite,13,False,8925,7050,Cloth Armor,Tiamat,The Black Cleaver,Hexdrinker,Doran's Blade,Boots of Speed,2093,77830,Lane.top_lane,Role.solo
+6,Chuffy,Katarina,False,Side.red,6,6,7,2.1666666666666665,197,Ignite,Flash,15,False,10858,9610,Rylai's Crystal Scepter,Sorcerer's Shoes,Hextech Gunblade,Amplifying Tome,The Dark Seal,Blasting Wand,111968,12282,Lane.mid_lane,Role.solo
+7,nukeforlots,Miss Fortune,False,Side.red,6,7,6,1.7142857142857142,197,Flash,Heal,13,False,11665,11080,Youmuu's Ghostblade,Doran's Blade,Cull,Infinity Edge,Boots of Speed,The Black Cleaver,2147,96107,Lane.bot_lane,Role.carry
+8,superzzzz,Nami,False,Side.red,2,7,11,1.8571428571428572,9,Teleport,Flash,13,False,8254,7750,Control Ward,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Zeke's Harbinger,,15563,5766,Lane.bot_lane,Role.support
+9,Hi im Freeze,Lee Sin,False,Side.red,4,7,4,1.1428571428571428,121,Flash,Smite,13,False,9237,9200,Tiamat,Randuin's Omen,Enchantment: Warrior,Long Sword,Ninja Tabi,Chain Vest,13856,102068,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Outline,Vel'Koz,True,Side.blue,1,1,5,6.0,23,Flash,Heal,11,False,6512,5625,Sightstone,,Morellonomicon,Doran's Ring,,Sorcerer's Shoes,25015,3619,Lane.bot_lane,Role.support
+1,Sarcasm Orgasm,Lee Sin,True,Side.blue,8,3,4,4.0,128,Flash,Smite,14,True,11437,10275,Refillable Potion,Titanic Hydra,Randuin's Omen,Enchantment: Warrior,,Ninja Tabi,20441,123779,Lane.jungle,Role.none
+2,Ari Kingu,Caitlyn,True,Side.blue,7,1,2,9.0,242,Heal,Flash,14,False,12232,9475,Doran's Blade,Zeal,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,494,180446,Lane.bot_lane,Role.carry
+3,Sum Dum Fk,Darius,True,Side.blue,0,5,4,0.8,173,Flash,Teleport,14,False,9344,8275,Randuin's Omen,Corrupting Potion,Dead Man's Plate,Mercury's Treads,Null-Magic Mantle,Long Sword,17,92899,Lane.top_lane,Role.solo
+4,Willro,Lux,True,Side.blue,4,0,8,12.0,182,Barrier,Flash,15,False,10798,9450,Morellonomicon,Luden's Echo,,Sorcerer's Shoes,Needlessly Large Rod,,109085,14310,Lane.mid_lane,Role.solo
+5,Atif,Blitzcrank,False,Side.red,1,1,3,4.0,53,Flash,Ignite,10,False,6427,5500,Targon's Brace,Boots of Mobility,Sightstone,Knight's Vow,,,6858,7606,Lane.bot_lane,Role.duo
+6,Susice,Orianna,False,Side.red,2,5,1,0.6,199,Ghost,Flash,13,False,8830,8335,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Amplifying Tome,Rylai's Crystal Scepter,96410,12111,Lane.mid_lane,Role.solo
+7,Shilliew,Lucian,False,Side.red,0,6,2,0.3333333333333333,175,Heal,Flash,12,False,8848,8350,Essence Reaver,Cull,Berserker's Greaves,Doran's Blade,Phantom Dancer,,2924,86810,Lane.bot_lane,Role.duo
+8,Erased by Jayce,Jayce,False,Side.red,4,4,4,2.0,153,Flash,Ignite,13,False,9053,8600,Edge of Night,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Vampiric Scepter,Null-Magic Mantle,13818,69183,Lane.top_lane,Role.solo
+9,InvertedComposer,Yorick,False,Side.red,3,4,2,1.25,122,Flash,Smite,12,False,8874,8758,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,Trinity Force,Kindlegem,Giant's Belt,29452,84808,Lane.jungle,Role.none

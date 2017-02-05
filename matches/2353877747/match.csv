@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tan Llama,Viktor,False,Side.blue,4,8,4,1.0,166,Ghost,Flash,14,False,9010,8750,Perfect Hex Core,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,Doran's Ring,,94519,8795,Lane.mid_lane,Role.solo
+1,Spiering,Janna,False,Side.blue,1,5,4,1.0,9,Exhaust,Flash,11,False,6769,5125,Nomad's Medallion,Redemption,Boots of Mobility,Sightstone,,,4308,2021,Lane.bot_lane,Role.support
+2,Bilb0Swaggens,Vi,False,Side.blue,2,10,6,0.8,90,Smite,Flash,14,False,8367,7783,Stalker's Blade,Refillable Potion,Ninja Tabi,Trinity Force,Chain Vest,Giant's Belt,2272,95133,Lane.jungle,Role.none
+3,UnyieldingDeath,Rumble,False,Side.blue,7,6,2,1.5,142,Teleport,Flash,14,False,9414,8250,Liandry's Torment,Ninja Tabi,Hextech Protobelt-01,Giant's Belt,,,73997,10028,Lane.top_lane,Role.solo
+4,CallMeBigChina,Draven,False,Side.blue,0,6,4,0.6666666666666666,175,Flash,Heal,13,False,8289,8150,,Berserker's Greaves,Vampiric Scepter,Duskblade of Draktharr,Kircheis Shard,Zeal,1083,90473,Lane.bot_lane,Role.carry
+5,Aizhur,Yasuo,True,Side.red,5,4,4,2.25,118,Flash,Exhaust,12,False,9681,9250,Statikk Shiv,Infinity Edge,Berserker's Greaves,Doran's Blade,Vampiric Scepter,Long Sword,18382,46549,Lane.mid_lane,Role.solo
+6,Anthøny,Kha'Zix,True,Side.red,18,4,5,5.75,135,Smite,Flash,16,True,14703,12000,Youmuu's Ghostblade,Ravenous Hydra,Last Whisper,Enchantment: Warrior,Mercury's Treads,Long Sword,5930,165156,Lane.jungle,Role.none
+7,Bobby De Niro,Alistar,True,Side.red,0,2,16,8.0,34,Exhaust,Flash,13,False,8998,7345,Raptor Cloak,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Relic Shield,Negatron Cloak,10006,10415,Lane.bot_lane,Role.support
+8,Clear Image,Poppy,True,Side.red,1,2,12,6.5,180,Teleport,Flash,15,False,10578,10275,Sunfire Cape,Randuin's Omen,Corrupting Potion,Spirit Visage,Mercury's Treads,,37025,65685,Lane.top_lane,Role.solo
+9,Last Cherry Pie,Jhin,True,Side.red,11,2,7,9.0,228,Flash,Heal,16,False,14426,11350,Doran's Blade,Rapid Firecannon,Boots of Swiftness,Essence Reaver,Maw of Malmortius,Long Sword,7627,171889,Lane.bot_lane,Role.carry

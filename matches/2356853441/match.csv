@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dr BoJangles PhD,Singed,False,Side.blue,0,8,2,0.25,171,Teleport,Ghost,13,False,7384,6000,The Dark Seal,Righteous Glory,Boots of Speed,Zz'Rot Portal,Refillable Potion,,92079,8525,Lane.top_lane,Role.solo
+1,tLag,Lee Sin,False,Side.blue,7,7,4,1.5714285714285714,70,Smite,Flash,11,False,8000,7625,Refillable Potion,Enchantment: Warrior,Boots of Mobility,The Black Cleaver,Ruby Crystal,Cloth Armor,9316,55661,Lane.jungle,Role.none
+2,IKingVex,Lucian,False,Side.blue,3,4,4,1.75,194,Heal,Flash,12,True,8738,7650,Doran's Blade,Zeal,Ionian Boots of Lucidity,Dagger,Essence Reaver,Vampiric Scepter,1399,84252,Lane.bot_lane,Role.carry
+3,Hopachai,Thresh,False,Side.blue,1,4,7,2.0,37,Exhaust,Flash,10,False,5992,5100,Sightstone,Face of the Mountain,Total Biscuit of Rejuvenation,Boots of Mobility,Null-Magic Mantle,Cloth Armor,9395,4425,Lane.bot_lane,Role.support
+4,h4zy,Fizz,False,Side.blue,3,6,2,0.8333333333333334,117,Exhaust,Flash,12,False,6994,6300,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Seeker's Armguard,,33918,23111,Lane.mid_lane,Role.solo
+5,bac,Hecarim,True,Side.red,6,5,11,3.4,152,Ghost,Smite,15,False,11463,10708,Enchantment: Cinderhulk,Trinity Force,Refillable Potion,Boots of Swiftness,Dead Man's Plate,Ruby Crystal,17019,124017,Lane.jungle,Role.none
+6,Banshee Rush,Soraka,True,Side.red,0,2,14,7.0,6,Exhaust,Flash,12,False,7541,5575,Nomad's Medallion,Sightstone,Redemption,,Null-Magic Mantle,Ionian Boots of Lucidity,5731,7226,Lane.bot_lane,Role.support
+7,gLucy,Viktor,True,Side.red,5,4,2,1.75,169,Flash,Ghost,14,False,9522,8620,Perfect Hex Core,Doran's Ring,Refillable Potion,Negatron Cloak,Ionian Boots of Lucidity,Rylai's Crystal Scepter,87918,12243,Lane.mid_lane,Role.solo
+8,TheGodlyGale,Ezreal,True,Side.red,0,2,4,2.0,154,Flash,Heal,11,False,7952,5950,Doran's Blade,Iceborn Gauntlet,Manamune,Boots of Speed,,,3994,65867,Lane.bot_lane,Role.carry
+9,TwistyJuker,Yasuo,True,Side.red,18,1,4,22.0,175,Flash,Teleport,15,False,14126,10275,Infinity Edge,Frozen Mallet,Boots of Speed,,Phantom Dancer,Doran's Blade,22474,119546,Lane.top_lane,Role.solo

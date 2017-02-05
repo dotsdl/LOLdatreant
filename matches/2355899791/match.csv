@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Swifte,Thresh,True,Side.blue,2,2,19,10.5,22,Flash,Ignite,13,False,8271,8025,Face of the Mountain,Ruby Sightstone,Redemption,,Boots of Mobility,Forbidden Idol,13690,6411,Lane.bot_lane,Role.support
+1,NiMura,Jhin,True,Side.blue,9,3,12,7.0,167,Flash,Heal,14,False,12451,12300,Pickaxe,Mercurial Scimitar,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,9047,116927,Lane.bot_lane,Role.carry
+2,Sebi,Jayce,True,Side.blue,6,5,8,2.8,165,Flash,Teleport,14,False,10941,10675,Lord Dominik's Regards,Youmuu's Ghostblade,Maw of Malmortius,Mercury's Treads,,,12876,95102,Lane.top_lane,Role.solo
+3,Trigger me Sebi,Elise,True,Side.blue,7,5,5,2.4,139,Smite,Flash,14,False,11787,11275,Haunting Guise,Refillable Potion,Dead Man's Plate,Abyssal Scepter,Sorcerer's Shoes,Enchantment: Runic Echoes,104615,34293,Lane.jungle,Role.none
+4,Dna shockwave,Vladimir,True,Side.blue,3,5,10,2.6,159,Ghost,Flash,13,False,10012,9400,Doran's Shield,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Abyssal Scepter,Blasting Wand,Fiendish Codex,88047,10593,Lane.mid_lane,Role.solo
+5,Shroudedd,Ezreal,False,Side.red,2,7,9,1.5714285714285714,150,Heal,Flash,13,False,9020,8150,Doran's Blade,Muramana,Bilgewater Cutlass,Refillable Potion,Iceborn Gauntlet,Ionian Boots of Lucidity,17470,74416,Lane.bot_lane,Role.carry
+6,JaySo,Janna,False,Side.red,0,8,7,0.875,9,Exhaust,Flash,11,False,6413,6075,Nomad's Medallion,Sightstone,Redemption,Refillable Potion,Chain Vest,Boots of Mobility,9755,2536,Lane.bot_lane,Role.support
+7,Darvec,Rek'Sai,False,Side.red,9,8,6,1.875,136,Smite,Flash,14,True,10885,10450,Titanic Hydra,Giant's Belt,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Warden's Mail,Spectre's Cowl,16400,88553,Lane.jungle,Role.none
+8,TheBolvar,Kennen,False,Side.red,4,3,8,4.0,195,Flash,Teleport,15,False,10251,9060,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Blade,Amplifying Tome,Blasting Wand,66813,26039,Lane.top_lane,Role.solo
+9,Pobelter,Ryze,False,Side.red,5,1,3,8.0,210,Flash,Ghost,14,False,10437,9975,Refillable Potion,Seraph's Embrace,Morellonomicon,Ionian Boots of Lucidity,,Rod of Ages,134717,11171,Lane.mid_lane,Role.solo

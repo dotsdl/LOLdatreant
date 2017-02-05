@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MrDING,Katarina,True,Side.blue,11,3,11,7.333333333333333,149,Ignite,Flash,15,True,11622,10400,Mejai's Soulstealer,Rylai's Crystal Scepter,Luden's Echo,Sorcerer's Shoes,Seeker's Armguard,,99604,8789,Lane.mid_lane,Role.solo
+1,Derazzle,Caitlyn,True,Side.blue,13,1,9,22.0,200,Heal,Flash,14,False,13905,12100,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,The Bloodthirster,Null-Magic Mantle,430,158591,Lane.bot_lane,Role.carry
+2,MrCharIes,Maokai,True,Side.blue,1,2,13,7.0,136,Teleport,Flash,14,False,9178,8100,Spirit Visage,Corrupting Potion,Randuin's Omen,Mercury's Treads,Forbidden Idol,,55052,15667,Lane.top_lane,Role.solo
+3,SuuushiBoy,Jarvan IV,True,Side.blue,6,4,10,4.0,109,Smite,Flash,14,False,10452,8275,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Hexdrinker,,8839,101233,Lane.jungle,Role.none
+4,Threldor,Morgana,True,Side.blue,1,4,17,4.5,14,Flash,Exhaust,12,False,8210,7000,Locket of the Iron Solari,Sightstone,Redemption,Ionian Boots of Lucidity,Frostfang,,14114,8028,Lane.bot_lane,Role.support
+5,OoR4s3Ng4N4rUtOo,Lee Sin,False,Side.red,6,7,5,1.5714285714285714,73,Smite,Flash,12,False,8396,7925,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Mercury's Treads,Long Sword,Null-Magic Mantle,12509,63893,Lane.jungle,Role.none
+6,Chief Bandit,Ryze,False,Side.red,1,10,5,0.6,95,Ghost,Flash,11,False,7106,5900,Refillable Potion,,Tear of the Goddess,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,43247,10030,Lane.mid_lane,Role.solo
+7,Horny Pix,Lulu,False,Side.red,2,5,11,2.6,11,Flash,Ignite,11,False,7626,6420,Sightstone,Locket of the Iron Solari,Ruby Crystal,Boots of Mobility,Negatron Cloak,Frostfang,13681,6129,Lane.bot_lane,Role.support
+8,NeverQuitting,Lissandra,False,Side.red,2,5,3,1.0,194,Flash,Teleport,13,False,8878,8200,Doran's Ring,Zhonya's Hourglass,Hextech Protobelt-01,Lost Chapter,Sorcerer's Shoes,,103510,10521,Lane.top_lane,Role.solo
+9,Isaya,Vayne,False,Side.red,3,5,3,1.2,199,Flash,Heal,13,False,10085,9600,Infinity Edge,Zeal,Berserker's Greaves,Doran's Blade,Statikk Shiv,Dagger,34418,84007,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Samuraí,Master Yi,False,Side.blue,4,9,2,0.6666666666666666,112,Flash,Smite,12,True,8824,8350,Blade of the Ruined King,Enchantment: Bloodrazor,Ninja Tabi,Recurve Bow,,,1876,91004,Lane.jungle,Role.none
+1,Thìef,Yasuo,False,Side.blue,4,5,5,1.8,195,Flash,Teleport,13,False,9842,9283,Phantom Dancer,Doran's Blade,Trinity Force,Boots of Speed,Cloak of Agility,B. F. Sword,29785,83036,Lane.top_lane,Role.solo
+2,Falling Savior,Thresh,False,Side.blue,1,7,6,1.0,25,Ignite,Flash,11,False,6644,5350,Face of the Mountain,Sightstone,Refillable Potion,Ionian Boots of Lucidity,Control Ward,Glacial Shroud,9142,2796,Lane.bot_lane,Role.support
+3,Victør,Draven,False,Side.blue,2,4,6,2.0,207,Heal,Flash,13,False,9995,9700,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,B. F. Sword,Long Sword,13866,104767,Lane.bot_lane,Role.carry
+4,Imentice,Viktor,False,Side.blue,3,4,6,2.25,193,Ghost,Flash,14,False,9747,8860,Perfect Hex Core,Rylai's Crystal Scepter,Amplifying Tome,Doran's Ring,Ionian Boots of Lucidity,Control Ward,111208,10763,Lane.mid_lane,Role.solo
+5,1Tracked,Zac,True,Side.red,8,3,14,7.333333333333333,151,Smite,Flash,14,False,12784,10850,Randuin's Omen,Null-Magic Mantle,Chain Vest,Spirit Visage,Enchantment: Cinderhulk,Ionian Boots of Lucidity,125762,28843,Lane.jungle,Role.none
+6,Muzy,Caitlyn,True,Side.red,5,3,7,4.0,227,Flash,Heal,13,False,12268,10575,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,1750,167161,Lane.bot_lane,Role.carry
+7,Javiaero,Fiora,True,Side.red,8,4,7,3.75,195,Flash,Teleport,16,False,12684,9650,Ravenous Hydra,Doran's Blade,Refillable Potion,Ninja Tabi,The Black Cleaver,B. F. Sword,6546,133349,Lane.top_lane,Role.solo
+8,Mmaghei,Jayce,True,Side.red,5,3,8,4.333333333333333,152,Flash,Ghost,14,False,10664,9150,The Black Cleaver,Vampiric Scepter,Ninja Tabi,Maw of Malmortius,Doran's Blade,,13519,83933,Lane.mid_lane,Role.solo
+9,Rìot Faker,Soraka,True,Side.red,2,1,16,18.0,10,Flash,Exhaust,12,False,8815,7275,Nomad's Medallion,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Mejai's Soulstealer,,8144,5338,Lane.bot_lane,Role.support

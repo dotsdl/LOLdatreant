@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cpt Squirtle,Vayne,False,Side.blue,2,2,1,1.5,98,Heal,Flash,9,False,5119,4650,Doran's Blade,B. F. Sword,Zeal,Berserker's Greaves,Dagger,,0,30853,Lane.bot_lane,Role.duo
+1,Candymang,Lee Sin,False,Side.blue,0,4,1,0.25,49,Flash,Smite,7,False,3492,3150,Refillable Potion,Skirmisher's Sabre,Caulfield's Warhammer,Boots of Mobility,,,3665,22879,Lane.jungle,Role.none
+2,Asian GirI,Zyra,False,Side.blue,3,2,0,1.5,4,Flash,Ignite,7,False,3678,2825,Eye of the Watchers,Boots of Speed,,,,,8447,2243,Lane.bot_lane,Role.duo
+3,Outclass,Cassiopeia,False,Side.blue,0,2,0,0.0,66,Ghost,Flash,7,False,3463,2270,Doran's Ring,Refillable Potion,,Negatron Cloak,Tear of the Goddess,,15968,3769,Lane.mid_lane,Role.solo
+4,PhD Bunny Riven,Riven,False,Side.blue,2,0,0,2.0,78,Flash,Teleport,9,False,4310,2575,Refillable Potion,,Caulfield's Warhammer,Ninja Tabi,,,0,18440,Lane.top_lane,Role.solo
+5,W Yuè,Nami,True,Side.red,2,3,4,2.0,2,Flash,Exhaust,7,False,4113,2675,Refillable Potion,Control Ward,Sightstone,Forbidden Idol,Frostfang,,2579,3947,Lane.bot_lane,Role.duo
+6,TszHin OvO,Nocturne,True,Side.red,5,1,0,5.0,77,Smite,Flash,10,True,6567,5300,Enchantment: Warrior,Caulfield's Warhammer,Refillable Potion,Boots of Speed,Sheen,,4102,56750,Lane.jungle,Role.none
+7,AsianSGpotato,Viktor,True,Side.red,2,0,1,3.0,114,Flash,Ghost,10,False,6132,3625,The Hex Core mk-2,Boots of Speed,,Doran's Ring,Doran's Ring,,44010,11195,Lane.mid_lane,Role.solo
+8,Kustumzz,Yasuo,True,Side.red,0,2,0,0.0,69,Flash,Teleport,8,False,4177,2500,Dagger,Doran's Blade,Dagger,Dagger,Doran's Blade,Dagger,5316,24285,Lane.top_lane,Role.solo
+9,Lauren1,Jinx,True,Side.red,1,1,5,6.0,65,Flash,Heal,7,False,4562,3400,Doran's Blade,B. F. Sword,Boots of Speed,Recurve Bow,Dagger,,639,33698,Lane.bot_lane,Role.duo

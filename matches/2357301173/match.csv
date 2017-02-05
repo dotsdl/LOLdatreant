@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zemnai,Viktor,True,Side.blue,7,2,0,3.5,239,Ghost,Flash,16,False,13295,11125,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,141493,17663,Lane.mid_lane,Role.solo
+1,Luuuurking,Caitlyn,True,Side.blue,4,4,6,2.5,239,Flash,Heal,15,False,13325,11500,Doran's Blade,Infinity Edge,The Bloodthirster,,Runaan's Hurricane,Berserker's Greaves,671,194437,Lane.bot_lane,Role.carry
+2,TRUMPSSMALLHANDS,Rengar,True,Side.blue,11,4,5,4.0,159,Flash,Smite,16,False,14117,12400,Enchantment: Warrior,Tiamat,Maw of Malmortius,Mercury's Treads,The Black Cleaver,Vampiric Scepter,18877,167585,Lane.jungle,Role.none
+3,Zythorus,Riven,True,Side.blue,0,5,5,1.0,237,Teleport,Flash,16,False,12314,10950,Vampiric Scepter,Quicksilver Sash,Tiamat,Ionian Boots of Lucidity,The Black Cleaver,Sterak's Gage,1130,126813,Lane.top_lane,Role.solo
+4,giants0401,Janna,True,Side.blue,2,1,12,14.0,11,Flash,Exhaust,13,True,9777,7375,Redemption,Talisman of Ascension,Ruby Sightstone,Ionian Boots of Lucidity,,,4148,6485,Lane.bot_lane,Role.support
+5,Jared King1,Graves,False,Side.red,1,7,2,0.42857142857142855,173,Flash,Smite,14,False,9773,8975,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Serrated Dirk,Phantom Dancer,B. F. Sword,3619,144704,Lane.jungle,Role.none
+6,lnjection,Orianna,False,Side.red,4,3,3,2.3333333333333335,222,Ghost,Flash,16,False,10307,9725,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Blasting Wand,93760,18303,Lane.mid_lane,Role.solo
+7,Sakuya Yureii,Akali,False,Side.red,6,4,5,2.75,182,Flash,Teleport,15,False,10398,9895,Fiendish Codex,Zhonya's Hourglass,Hextech Gunblade,Ninja Tabi,Negatron Cloak,Doran's Shield,33604,73677,Lane.top_lane,Role.solo
+8,Katherine x Zed,Draven,False,Side.red,4,5,3,1.4,155,Flash,Heal,13,False,9915,8900,,Mercurial Scimitar,Berserker's Greaves,,,Infinity Edge,59,75860,Lane.bot_lane,Role.duo
+9,Best Fiddle NA,Fiddlesticks,False,Side.red,1,5,4,1.0,53,Ignite,Flash,12,False,7761,6575,Zhonya's Hourglass,Eye of the Watchers,Sorcerer's Shoes,,,,43622,2483,Lane.bot_lane,Role.duo

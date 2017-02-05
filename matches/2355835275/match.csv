@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TEAMLUKEE,Blitzcrank,True,Side.blue,6,3,18,8.0,41,Ignite,Flash,14,False,10380,9250,Luden's Echo,Eye of the Equinox,Aether Wisp,Boots of Mobility,Hextech Revolver,Kindlegem,20921,7235,Lane.bot_lane,Role.support
+1,Koby,Nasus,True,Side.blue,4,6,14,3.0,218,Flash,Teleport,16,False,12432,9908,Corrupting Potion,Trinity Force,Ninja Tabi,Doran's Ring,Giant's Belt,Zz'Rot Portal,72354,50314,Lane.top_lane,Role.solo
+2,cesuna,Talon,True,Side.blue,22,3,7,9.666666666666666,175,Flash,Ghost,16,False,15330,13200,Youmuu's Ghostblade,Control Ward,Duskblade of Draktharr,The Black Cleaver,Ionian Boots of Lucidity,Guardian Angel,204,127450,Lane.mid_lane,Role.solo
+3,LimitedExtent,Jhin,True,Side.blue,8,1,23,31.0,180,Heal,Flash,15,False,13835,11300,Pickaxe,Rapid Firecannon,Essence Reaver,B. F. Sword,Hexdrinker,Boots of Swiftness,5329,149776,Lane.bot_lane,Role.carry
+4,An Obese Panda,Gragas,True,Side.blue,7,2,28,17.5,118,Smite,Flash,16,True,12255,10220,Ionian Boots of Lucidity,Negatron Cloak,Dead Man's Plate,Enchantment: Runic Echoes,Guardian Angel,Cloth Armor,90424,28040,Lane.jungle,Role.none
+5,fear my love,Draven,False,Side.red,2,8,3,0.625,203,Heal,Flash,14,False,9898,9675,Pickaxe,Infinity Edge,Berserker's Greaves,Doran's Blade,Phantom Dancer,Vampiric Scepter,0,124910,Lane.bot_lane,Role.carry
+6,Sebi,Orianna,False,Side.red,6,8,4,1.25,180,Flash,Ghost,13,False,10206,9075,Zhonya's Hourglass,Doran's Ring,Doran's Ring,Morellonomicon,Blasting Wand,Sorcerer's Shoes,89358,11552,Lane.mid_lane,Role.solo
+7,Trigger me Sebi,Lee Sin,False,Side.red,3,6,5,1.3333333333333333,152,Teleport,Flash,13,False,9153,9025,Ninja Tabi,Ravenous Hydra,The Black Cleaver,,,Doran's Blade,17590,70354,Lane.top_lane,Role.solo
+8,Naeun,Nidalee,False,Side.red,4,13,4,0.6153846153846154,111,Smite,Flash,13,False,9153,8730,Hextech GLP-800,Giant's Belt,Amplifying Tome,Ionian Boots of Lucidity,The Dark Seal,Enchantment: Runic Echoes,96908,16896,Lane.jungle,Role.none
+9,HazardFP,Karma,False,Side.red,0,12,10,0.8333333333333334,26,Exhaust,Flash,11,False,7032,6275,Sightstone,Redemption,Locket of the Iron Solari,Control Ward,Boots of Speed,Spellthief's Edge,21065,3335,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mr Gimix,Ziggs,False,Side.blue,4,4,1,1.25,40,Exhaust,Flash,10,False,6580,6375,Frostfang,Sorcerer's Shoes,Luden's Echo,,Sightstone,,35090,4306,Lane.bot_lane,Role.support
+1,You all boosted,Graves,False,Side.blue,3,11,1,0.36363636363636365,64,Flash,Smite,10,False,6513,5185,Enchantment: Warrior,Refillable Potion,Cloak of Agility,Boots of Speed,Pickaxe,Dagger,2356,61449,Lane.jungle,Role.none
+2,Vsionz,Irelia,False,Side.blue,1,6,2,0.5,120,Flash,Teleport,11,False,6488,5908,Corrupting Potion,Doran's Blade,Trinity Force,Cloth Armor,Ruby Crystal,Boots of Speed,1340,50293,Lane.top_lane,Role.solo
+3,WINNER Jinwoo,Viktor,False,Side.blue,2,6,4,1.0,111,Ghost,Flash,11,False,6546,6525,Doran's Ring,Ionian Boots of Lucidity,The Hex Core mk-2,Needlessly Large Rod,Giant's Belt,Doran's Ring,45749,6785,Lane.mid_lane,Role.solo
+4,DZG Cobra,Miss Fortune,False,Side.blue,2,8,6,1.0,119,Flash,Heal,10,False,6991,6500,Doran's Blade,Duskblade of Draktharr,Caulfield's Warhammer,Boots of Speed,Phage,,10434,36652,Lane.bot_lane,Role.carry
+5,TheOddOrange,Ezreal,True,Side.red,9,2,6,7.5,150,Flash,Heal,12,False,10409,9283,Ionian Boots of Lucidity,Bilgewater Cutlass,,Doran's Blade,Muramana,Trinity Force,16849,79225,Lane.bot_lane,Role.carry
+6,RF Legendary,Jayce,True,Side.red,4,4,7,2.75,161,Flash,Teleport,13,False,9592,8700,Refillable Potion,The Black Cleaver,Edge of Night,Doran's Blade,Ionian Boots of Lucidity,,15139,77306,Lane.mid_lane,Role.solo
+7,Pink Ward,Shaco,True,Side.red,9,3,12,7.0,75,Teleport,Ignite,13,True,9824,9750,Sheen,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,The Dark Seal,Aether Wisp,38510,17218,Lane.top_lane,Role.solo
+8,biglimefs1490,Shyvana,True,Side.red,12,3,3,5.0,122,Smite,Ghost,13,False,10701,8875,Blade of the Ruined King,Tiamat,Enchantment: Bloodrazor,Boots of Speed,Refillable Potion,Jaurim's Fist,46187,71477,Lane.jungle,Role.none
+9,YaThatWasABanana,Lulu,True,Side.red,1,0,16,17.0,12,Flash,Exhaust,11,False,7703,6725,,Forbidden Idol,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Ardent Censer,9190,5070,Lane.bot_lane,Role.support

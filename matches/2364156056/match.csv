@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,trickkyy01,Jayce,True,Side.blue,11,4,6,4.25,247,Flash,Teleport,16,False,14920,12550,Quicksilver Sash,Youmuu's Ghostblade,The Black Cleaver,Ionian Boots of Lucidity,Hexdrinker,Muramana,21132,167538,Lane.top_lane,Role.solo
+1,GuitarGuyGG,Skarner,True,Side.blue,3,6,9,2.0,80,Smite,Flash,12,False,10105,8308,Mercury's Treads,Refillable Potion,Long Sword,Enchantment: Cinderhulk,Trinity Force,Long Sword,26922,69161,Lane.jungle,Role.none
+2,King Khai,Blitzcrank,True,Side.blue,2,5,17,3.8,13,Flash,Ignite,12,False,9249,7725,Talisman of Ascension,Sightstone,Redemption,Boots of Mobility,Crystalline Bracer,Crystalline Bracer,6311,6193,Lane.bot_lane,Role.support
+3,Phoenix0z0,Malzahar,True,Side.blue,9,4,9,4.5,171,Flash,Ignite,14,False,12673,11100,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Void Staff,Blasting Wand,77168,29779,Lane.mid_lane,Role.solo
+4,Pan The Panda,Ezreal,True,Side.blue,12,3,11,7.666666666666667,166,Heal,Flash,14,False,13451,8833,Doran's Blade,Manamune,Ionian Boots of Lucidity,Trinity Force,B. F. Sword,,19700,92752,Lane.bot_lane,Role.carry
+5,Soos,Lux,False,Side.red,7,5,6,2.6,141,Flash,Ignite,14,False,9864,9685,Morellonomicon,Rylai's Crystal Scepter,Sheen,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,91266,10801,Lane.mid_lane,Role.solo
+6,l MiMo l,Jhin,False,Side.red,9,6,9,3.0,143,Heal,Flash,13,False,10765,10700,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Pickaxe,B. F. Sword,Doran's Blade,10680,73547,Lane.bot_lane,Role.carry
+7,Clumsie,Morgana,False,Side.red,3,9,12,1.6666666666666667,7,Exhaust,Flash,11,True,7959,7750,Redemption,Mikael's Crucible,,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,12656,2905,Lane.bot_lane,Role.support
+8,easymoney123,Fizz,False,Side.red,3,9,3,0.6666666666666666,154,Flash,Ignite,13,False,8718,7850,Zhonya's Hourglass,Lich Bane,Refillable Potion,Sorcerer's Shoes,Doran's Ring,,54119,21676,Lane.top_lane,Role.solo
+9,Robyshow,Rammus,False,Side.red,0,8,10,1.25,65,Flash,Smite,11,False,6991,7450,Enchantment: Cinderhulk,Mercury's Treads,Thornmail,,,,37804,23425,Lane.jungle,Role.none

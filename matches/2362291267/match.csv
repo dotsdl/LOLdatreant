@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Clarizio,Zyra,True,Side.blue,2,0,5,7.0,19,Flash,Exhaust,10,False,6639,4485,Boots of Mobility,Eye of the Watchers,Control Ward,Ruby Crystal,Amplifying Tome,,23440,4733,Lane.bot_lane,Role.support
+1,ADC Prospect,Jhin,True,Side.blue,2,1,4,6.0,142,Heal,Flash,11,False,8153,4650,Doran's Blade,Essence Reaver,,,Total Biscuit of Rejuvenation,Boots of Speed,6579,77389,Lane.bot_lane,Role.carry
+2,Fàkèr  ,Syndra,True,Side.blue,7,1,4,11.0,154,Ghost,Flash,12,False,9238,8485,Morellonomicon,Boots of Speed,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,Amplifying Tome,64967,7701,Lane.mid_lane,Role.solo
+3,Shimatora,Riven,True,Side.blue,3,2,2,2.5,117,Teleport,Flash,12,False,7504,7400,Control Ward,Refillable Potion,Null-Magic Mantle,The Black Cleaver,Boots of Speed,Maw of Malmortius,0,55695,Lane.top_lane,Role.solo
+4,Dont Keng Wo,Kha'Zix,True,Side.blue,5,0,3,8.0,65,Smite,Flash,11,False,8236,4600,Refillable Potion,Long Sword,Boots of Speed,Enchantment: Warrior,Serrated Dirk,,1595,78019,Lane.jungle,Role.none
+5,Hyz,Twitch,False,Side.red,2,4,2,1.0,66,Smite,Flash,9,True,5431,4550,Recurve Bow,Dagger,Refillable Potion,Enchantment: Bloodrazor,Brawler's Gloves,,959,38986,Lane.jungle,Role.none
+6,G y,Ezreal,False,Side.red,0,5,1,0.2,126,Flash,Heal,9,False,5248,4400,Doran's Blade,,Iceborn Gauntlet,Boots of Speed,Tear of the Goddess,,6549,30590,Lane.bot_lane,Role.carry
+7,IIKairosII,Akali,False,Side.red,2,3,1,1.0,113,Flash,Teleport,11,False,5487,4650,Doran's Shield,Hextech Gunblade,Refillable Potion,Boots of Speed,,Cloth Armor,11243,25642,Lane.top_lane,Role.solo
+8,bvcx222,Malzahar,False,Side.red,0,5,2,0.4,70,Flash,Ghost,9,False,4288,3675,Abyssal Scepter,,Doran's Ring,,,Boots of Speed,19056,10458,Lane.mid_lane,Role.solo
+9,Arane,Braum,False,Side.red,0,2,3,1.5,27,Exhaust,Flash,8,False,3855,2875,Sightstone,Ruby Crystal,Faerie Charm,Faerie Charm,Targon's Brace,Boots of Speed,2639,2927,Lane.bot_lane,Role.support

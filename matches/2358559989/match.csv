@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HvK LiquidDiego,Lee Sin,True,Side.blue,7,3,7,4.666666666666667,71,Flash,Smite,11,False,7777,6650,Refillable Potion,Control Ward,Enchantment: Warrior,Mercury's Treads,Phage,Hexdrinker,11209,64536,Lane.jungle,Role.none
+1,cute pupper irl,Janna,True,Side.blue,1,0,17,18.0,3,Flash,Exhaust,11,False,6068,5700,Control Ward,Eye of the Oasis,Ionian Boots of Lucidity,Redemption,Total Biscuit of Rejuvenation,,2414,4816,Lane.bot_lane,Role.support
+2,PrismaI,Vayne,True,Side.blue,8,2,6,7.0,140,Flash,Heal,11,False,9137,8650,Berserker's Greaves,Infinity Edge,Statikk Shiv,Dagger,Doran's Blade,Brawler's Gloves,9299,53837,Lane.bot_lane,Role.carry
+3,Yusui,Orianna,True,Side.blue,9,2,9,9.0,150,Ghost,Flash,13,False,9196,8435,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,,78860,10148,Lane.mid_lane,Role.solo
+4,Cris,Trundle,True,Side.blue,3,4,10,3.25,135,Flash,Teleport,13,False,8324,7675,Titanic Hydra,Corrupting Potion,Glacial Shroud,Cull,Sheen,Ninja Tabi,2048,75124,Lane.top_lane,Role.solo
+5,Just Lampost,Poppy,False,Side.red,4,6,0,0.6666666666666666,128,Teleport,Flash,11,True,7405,6925,Warden's Mail,Corrupting Potion,Spectre's Cowl,,Ninja Tabi,Sunfire Cape,19402,52879,Lane.top_lane,Role.solo
+6,godrjsdnd,Corki,False,Side.red,5,6,0,0.8333333333333334,155,Heal,Flash,12,False,8116,7433,Doran's Blade,Refillable Potion,Trinity Force,Hextech Revolver,Sorcerer's Shoes,Vampiric Scepter,60821,20150,Lane.mid_lane,Role.solo
+7,TeddyRO,Caitlyn,False,Side.red,1,5,0,0.2,110,Flash,Heal,9,False,6114,5625,Doran's Blade,Pickaxe,Runaan's Hurricane,Boots of Speed,B. F. Sword,,425,50761,Lane.bot_lane,Role.carry
+8,OPW,Soraka,False,Side.red,1,6,3,0.6666666666666666,16,Exhaust,Flash,9,False,5462,5275,Talisman of Ascension,Refillable Potion,Sightstone,Ionian Boots of Lucidity,Crystalline Bracer,Faerie Charm,14022,2925,Lane.bot_lane,Role.support
+9,Soligo,Elise,False,Side.red,0,5,3,0.6,98,Smite,Flash,10,False,6223,5460,Refillable Potion,Sorcerer's Shoes,Enchantment: Runic Echoes,Giant's Belt,Amplifying Tome,,49201,22435,Lane.jungle,Role.none

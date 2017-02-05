@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WildTurtle,Caitlyn,False,Side.blue,4,4,3,1.75,221,Flash,Heal,13,True,10650,9725,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Cull,Zeal,20851,117590,Lane.bot_lane,Role.carry
+1,qldurtms,LeBlanc,False,Side.blue,5,5,1,1.2,171,Flash,Teleport,13,False,9209,8970,Rylai's Crystal Scepter,Doran's Ring,,Negatron Cloak,Sorcerer's Shoes,Morellonomicon,76771,13415,Lane.mid_lane,Role.solo
+2,21 Sheepage,Braum,False,Side.blue,0,5,6,1.2,40,Flash,Exhaust,11,False,6292,6175,Ruby Sightstone,Control Ward,Face of the Mountain,Cloth Armor,Null-Magic Mantle,Boots of Mobility,5019,6118,Lane.bot_lane,Role.support
+3,swoloHey,Lee Sin,False,Side.blue,4,5,2,1.2,128,Flash,Smite,13,False,8704,8575,Enchantment: Warrior,The Black Cleaver,Mercury's Treads,Giant's Belt,Cloth Armor,,18602,93395,Lane.jungle,Role.none
+4,Pekin Woof,Gnar,False,Side.blue,0,6,4,0.6666666666666666,187,Flash,Teleport,13,False,8485,7775,Doran's Blade,Refillable Potion,Frozen Mallet,Boots of Speed,,The Black Cleaver,8621,98140,Lane.top_lane,Role.solo
+5,Stiches,Sivir,True,Side.red,8,1,5,13.0,255,Heal,Flash,15,False,13267,11800,Infinity Edge,Statikk Shiv,The Bloodthirster,,Berserker's Greaves,Doran's Blade,19082,169265,Lane.bot_lane,Role.carry
+6,Link,Viktor,True,Side.red,4,0,9,13.0,168,Flash,Ghost,15,False,10869,10650,,Rylai's Crystal Scepter,Perfect Hex Core,Abyssal Scepter,Ionian Boots of Lucidity,Doran's Ring,95214,13135,Lane.mid_lane,Role.solo
+7,Auberaun,Poppy,True,Side.red,9,2,6,7.5,188,Flash,Teleport,15,False,12600,11020,Doran's Shield,Spirit Visage,Ninja Tabi,Iceborn Gauntlet,Negatron Cloak,Sunfire Cape,33591,73650,Lane.top_lane,Role.solo
+8,ZatsMod,Morgana,True,Side.red,2,5,15,3.4,9,Flash,Exhaust,11,False,8725,8050,Refillable Potion,Zhonya's Hourglass,Eye of the Watchers,Ionian Boots of Lucidity,Ruby Crystal,Aegis of the Legion,15973,3361,Lane.bot_lane,Role.support
+9,moon o,Rek'Sai,True,Side.red,2,5,9,2.2,111,Smite,Flash,14,False,9732,9450,Locket of the Iron Solari,Ninja Tabi,Randuin's Omen,Enchantment: Cinderhulk,,Ruby Crystal,33127,66301,Lane.jungle,Role.none

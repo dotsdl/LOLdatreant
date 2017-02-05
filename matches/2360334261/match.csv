@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Omgimapencil,Leona,False,Side.blue,2,8,13,1.875,68,Exhaust,Flash,14,True,11936,10825,Boots of Mobility,Face of the Mountain,Cloth Armor,Ruby Sightstone,Zz'Rot Portal,Knight's Vow,14344,11307,Lane.bot_lane,Role.duo
+1,Donkey Superstar,Kog'Maw,False,Side.blue,15,9,3,2.0,211,Ghost,Flash,16,False,15839,14600,Void Staff,,Seraph's Embrace,Rylai's Crystal Scepter,Morellonomicon,Ionian Boots of Lucidity,173945,15688,Lane.mid_lane,Role.solo
+2,DoctorIdiot,Nunu,False,Side.blue,2,6,16,3.0,171,Flash,Smite,15,False,13456,12175,Enchantment: Cinderhulk,Thornmail,Mercury's Treads,Spirit Visage,Zz'Rot Portal,,56769,36672,Lane.jungle,Role.none
+3,Norm,Tryndamere,False,Side.blue,6,7,2,1.1428571428571428,274,Flash,Ignite,17,False,15239,14700,Blade of the Ruined King,Lord Dominik's Regards,Statikk Shiv,Doran's Blade,Mercury's Treads,Infinity Edge,47125,175013,Lane.top_lane,Role.solo
+4,CK Apple Jacks,Morgana,False,Side.blue,7,4,16,5.75,135,Ignite,Flash,16,False,14258,13625,Redemption,Void Staff,Zhonya's Hourglass,,Rabadon's Deathcap,Sorcerer's Shoes,63737,17244,Lane.bot_lane,Role.duo
+5,kT Mehjojo,Gragas,True,Side.red,1,4,13,3.5,220,Flash,Smite,17,False,14195,13650,Enchantment: Cinderhulk,Iceborn Gauntlet,Locket of the Iron Solari,Spirit Visage,Health Potion,Boots of Swiftness,158077,46255,Lane.jungle,Role.none
+6,Nwok,Taric,True,Side.red,6,4,22,7.0,43,Flash,Exhaust,15,False,12912,9975,Face of the Mountain,Redemption,Locket of the Iron Solari,Boots of Swiftness,Ruby Sightstone,,15882,12409,Lane.bot_lane,Role.support
+7,Wasi Dopa,Caitlyn,True,Side.red,3,9,14,1.8888888888888888,295,Heal,Flash,18,False,15859,12350,Rapid Firecannon,Infinity Edge,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Long Sword,5099,214253,Lane.bot_lane,Role.carry
+8,Say Wut Again,Yasuo,True,Side.red,10,8,8,2.25,264,Ignite,Flash,18,False,15817,15685,Infinity Edge,Phantom Dancer,Quicksilver Sash,The Bloodthirster,Guardian Angel,Boots of Swiftness,29611,207236,Lane.mid_lane,Role.solo
+9,BurninBullet,Darius,True,Side.red,14,7,6,2.857142857142857,200,Teleport,Flash,17,False,16088,13850,Frozen Heart,Zz'Rot Portal,Frozen Mallet,Mercury's Treads,,The Black Cleaver,0,146099,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vchee,Ryze,False,Side.blue,2,4,0,0.5,109,Teleport,Flash,10,False,5734,5295,Tear of the Goddess,Rod of Ages,Negatron Cloak,Refillable Potion,Ionian Boots of Lucidity,,42887,11085,Lane.top_lane,Role.solo
+1,Asyc xD ,Caitlyn,False,Side.blue,4,6,3,1.1666666666666667,116,Heal,Flash,9,False,6615,5275,Doran's Blade,Cull,B. F. Sword,Recurve Bow,Pickaxe,Berserker's Greaves,448,41298,Lane.bot_lane,Role.carry
+2,CraacK,Blitzcrank,False,Side.blue,0,7,10,1.4285714285714286,26,Flash,Exhaust,9,False,4959,4525,Boots of Speed,Face of the Mountain,Ruby Sightstone,,,,6363,7488,Lane.bot_lane,Role.support
+3,TwitchChunkylol,Kled,False,Side.blue,3,4,1,1.0,115,Ignite,Flash,11,False,6013,5450,Tiamat,Boots of Speed,Hexdrinker,Phage,Caulfield's Warhammer,,0,46734,Lane.mid_lane,Role.solo
+4,TheSevenLegends,Amumu,False,Side.blue,3,6,4,1.1666666666666667,80,Flash,Smite,10,False,5860,4875,Refillable Potion,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Spectre's Cowl,,,36762,11510,Lane.jungle,Role.none
+5,Koby,Nasus,True,Side.red,2,0,2,4.0,164,Flash,Teleport,12,False,8563,6150,Corrupting Potion,Doran's Ring,Doran's Ring,Sheen,Mercury's Treads,Zz'Rot Portal,53780,31841,Lane.top_lane,Role.solo
+6,You all boosted,Elise,True,Side.red,6,3,3,3.0,80,Flash,Smite,12,False,8808,6425,Enchantment: Runic Echoes,Haunting Guise,Control Ward,Giant's Belt,Boots of Mobility,,67017,23463,Lane.jungle,Role.none
+7,Thalies,Katarina,True,Side.red,16,2,5,10.5,137,Ignite,Flash,13,True,12639,11100,The Dark Seal,Refillable Potion,Sorcerer's Shoes,Hextech Gunblade,Luden's Echo,Void Staff,89113,10003,Lane.mid_lane,Role.solo
+8,Iley,Alistar,True,Side.red,0,3,13,4.333333333333333,30,Ignite,Flash,10,False,6492,5325,Crystalline Bracer,Ionian Boots of Lucidity,Eye of the Equinox,Crystalline Bracer,Cloth Armor,Cloth Armor,9759,6920,Lane.bot_lane,Role.support
+9,Falco Mechanic,Vayne,True,Side.red,3,4,6,2.25,99,Exhaust,Flash,9,False,7741,6050,Doran's Blade,B. F. Sword,Berserker's Greaves,Doran's Blade,Health Potion,Phantom Dancer,0,43763,Lane.bot_lane,Role.carry

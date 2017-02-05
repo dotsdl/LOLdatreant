@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ennie,Annie,True,Side.blue,9,2,6,7.5,170,Flash,Ignite,14,False,12137,10235,Doran's Ring,Hextech Protobelt-01,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Void Staff,Amplifying Tome,86584,10045,Lane.mid_lane,Role.solo
+1,Down We Dive,Hecarim,True,Side.blue,9,3,10,6.333333333333333,137,Smite,Ghost,14,True,11954,10633,Boots of Swiftness,Trinity Force,Dead Man's Plate,Hunter's Potion,,Enchantment: Cinderhulk,23581,121635,Lane.jungle,Role.none
+2,Aethex,Irelia,True,Side.blue,8,4,2,2.5,171,Flash,Teleport,14,False,11329,9133,Corrupting Potion,Guinsoo's Rageblade,Boots of Speed,Trinity Force,Giant's Belt,,7486,76699,Lane.top_lane,Role.solo
+3,ZongopBongo,Ezreal,True,Side.blue,0,2,3,1.5,201,Flash,Heal,13,False,9424,7833,Doran's Blade,Muramana,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Trinity Force,10204,95885,Lane.bot_lane,Role.carry
+4,Gurp,Janna,True,Side.blue,0,1,8,8.0,11,Exhaust,Flash,11,False,6916,5475,Ruby Crystal,Frost Queen's Claim,Sightstone,Forbidden Idol,Boots of Mobility,,4185,3151,Lane.bot_lane,Role.support
+5,MechanicalReapr,Malphite,False,Side.red,1,3,1,0.6666666666666666,176,Flash,Teleport,14,False,8152,7900,Sunfire Cape,Iceborn Gauntlet,Corrupting Potion,Fiendish Codex,Boots of Speed,Null-Magic Mantle,57792,30310,Lane.top_lane,Role.solo
+6,luchalibre51,Karma,False,Side.red,1,4,7,2.0,15,Exhaust,Flash,11,False,6618,6300,Spellthief's Edge,Ruby Sightstone,Locket of the Iron Solari,Forbidden Idol,,Ionian Boots of Lucidity,16157,2231,Lane.bot_lane,Role.support
+7,killerbeesting,Lee Sin,False,Side.red,4,5,4,1.6,91,Flash,Smite,12,False,8360,8025,Phage,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,,17602,72934,Lane.jungle,Role.none
+8,rstylez,Viktor,False,Side.red,2,8,3,0.625,144,Flash,Ghost,12,False,8150,7775,Perfect Hex Core,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Abyssal Scepter,Refillable Potion,73494,8992,Lane.mid_lane,Role.solo
+9,adc feng lft,Jhin,False,Side.red,3,6,6,1.5,202,Heal,Flash,13,False,10208,9900,B. F. Sword,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Pickaxe,Doran's Blade,8374,108910,Lane.bot_lane,Role.carry

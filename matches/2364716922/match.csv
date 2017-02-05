@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HoNSol0,Karma,True,Side.blue,0,5,24,4.8,23,Flash,Exhaust,13,False,8762,7350,Boots of Speed,Refillable Potion,Redemption,Eye of the Watchers,,Ardent Censer,18446,8275,Lane.bot_lane,Role.support
+1,Flaresz,Kennen,True,Side.blue,4,6,12,2.6666666666666665,164,Flash,Teleport,14,False,10383,9425,Doran's Blade,Sorcerer's Shoes,Zhonya's Hourglass,Void Staff,Needlessly Large Rod,Control Ward,59121,26373,Lane.top_lane,Role.solo
+2,Xmithie Lite,Lee Sin,True,Side.blue,11,2,11,11.0,130,Flash,Smite,14,False,11985,10200,Enchantment: Warrior,Dead Man's Plate,Boots of Swiftness,The Black Cleaver,Null-Magic Mantle,Refillable Potion,17717,86012,Lane.jungle,Role.none
+3,Huhi Lite,Syndra,True,Side.blue,4,4,16,5.0,228,Ghost,Flash,15,False,11886,10830,Rylai's Crystal Scepter,Morellonomicon,Void Staff,Control Ward,Sorcerer's Shoes,Doran's Ring,134264,11175,Lane.mid_lane,Role.solo
+4,Zaganox,Vayne,True,Side.blue,15,5,9,4.8,174,Heal,Flash,14,True,13873,12025,Doran's Blade,Total Biscuit of Rejuvenation,The Bloodthirster,Infinity Edge,Berserker's Greaves,Statikk Shiv,13988,114363,Lane.bot_lane,Role.carry
+5,Smartcloud,Maokai,False,Side.red,3,8,11,1.75,47,Flash,Exhaust,11,False,8498,8350,Control Ward,Redemption,Eye of the Equinox,Locket of the Iron Solari,Cloth Armor,Boots of Mobility,19456,6533,Lane.bot_lane,Role.support
+6,Stiches,Twitch,False,Side.red,5,7,6,1.5714285714285714,219,Heal,Flash,14,False,11675,11200,Infinity Edge,Statikk Shiv,Lord Dominik's Regards,Brawler's Gloves,Doran's Blade,Berserker's Greaves,14797,120351,Lane.bot_lane,Role.carry
+7,Cris,Jayce,False,Side.red,5,8,5,1.25,226,Flash,Teleport,15,False,11622,10450,Refillable Potion,,Mercury's Treads,The Black Cleaver,Mortal Reminder,Maw of Malmortius,21461,131549,Lane.top_lane,Role.solo
+8,D0NG0,Ryze,False,Side.red,2,5,7,1.8,161,Ghost,Flash,13,False,9478,7875,Tear of the Goddess,Abyssal Scepter,The Dark Seal,Rod of Ages,,Mercury's Treads,85942,7889,Lane.mid_lane,Role.solo
+9,PutYourHeartsUp,Vi,False,Side.red,7,6,4,1.8333333333333333,109,Flash,Smite,14,False,10504,10233,,Cloth Armor,Banshee's Veil,Trinity Force,Enchantment: Warrior,Ionian Boots of Lucidity,1251,125048,Lane.jungle,Role.none

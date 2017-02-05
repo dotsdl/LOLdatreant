@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sunae,Orianna,False,Side.blue,2,7,5,1.0,153,Ghost,Flash,13,False,8757,8450,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,,,77328,11828,Lane.mid_lane,Role.solo
+1,Magnitude,Ashe,False,Side.blue,2,6,7,1.5,207,Heal,Flash,14,False,9651,8750,Doran's Blade,Infinity Edge,Runaan's Hurricane,,Berserker's Greaves,,1931,107713,Lane.bot_lane,Role.carry
+2,Zeithe,Zyra,False,Side.blue,2,3,6,2.6666666666666665,19,Ignite,Flash,11,False,6996,6600,Frostfang,Liandry's Torment,Sightstone,Sorcerer's Shoes,,,23296,2804,Lane.bot_lane,Role.support
+3,DonaldJCarry,Lee Sin,False,Side.blue,5,6,3,1.3333333333333333,125,Smite,Flash,13,False,8761,8400,Enchantment: Warrior,Giant's Belt,The Black Cleaver,Ninja Tabi,,Cloth Armor,23604,75398,Lane.jungle,Role.none
+4,Monkey D Artanis,Fiora,False,Side.blue,5,8,2,0.875,182,Teleport,Flash,14,False,9792,9550,Corrupting Potion,Ravenous Hydra,Doran's Blade,Mercury's Treads,The Black Cleaver,Vampiric Scepter,1598,110645,Lane.top_lane,Role.solo
+5,WatchThePower,Rengar,True,Side.red,14,4,10,6.0,186,Flash,Smite,16,True,15537,14250,Enchantment: Warrior,Ravenous Hydra,Control Ward,Spirit Visage,Death's Dance,Ninja Tabi,23237,180619,Lane.jungle,Role.none
+6,Dyr0nejk2,Renekton,True,Side.red,3,3,9,4.0,198,Ignite,Flash,15,False,12112,12050,Titanic Hydra,Vampiric Scepter,Mercury's Treads,The Black Cleaver,Caulfield's Warhammer,Hexdrinker,2295,137327,Lane.mid_lane,Role.solo
+7,went,Swain,True,Side.red,8,2,7,7.5,190,Teleport,Flash,15,False,12311,10960,Sorcerer's Shoes,Zhonya's Hourglass,Refillable Potion,Rod of Ages,Liandry's Torment,The Dark Seal,105482,13551,Lane.top_lane,Role.solo
+8,Ozmister,Jhin,True,Side.red,5,5,12,3.4,160,Heal,Flash,13,False,11387,10175,Doran's Blade,B. F. Sword,Cloak of Agility,Rapid Firecannon,Boots of Swiftness,Essence Reaver,6893,103854,Lane.bot_lane,Role.carry
+9,Carnage Battle,Janna,True,Side.red,0,2,18,9.0,16,Exhaust,Flash,13,False,8646,5980,Nomad's Medallion,Redemption,Ionian Boots of Lucidity,Ruby Sightstone,,Rejuvenation Bead,2361,6010,Lane.bot_lane,Role.support

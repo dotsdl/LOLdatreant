@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ImbaDreaMeR,Karma,False,Side.blue,0,8,5,0.625,31,Flash,Exhaust,11,False,7775,6525,Redemption,Eye of the Watchers,Boots of Speed,Refillable Potion,Aegis of the Legion,Null-Magic Mantle,19999,4108,Lane.bot_lane,Role.support
+1,TwoShotsofJin,Darius,False,Side.blue,1,5,1,0.4,189,Teleport,Flash,13,False,8354,7600,Corrupting Potion,Mercury's Treads,Randuin's Omen,The Black Cleaver,,,249,73482,Lane.top_lane,Role.solo
+2,Lord Goose,Ezreal,False,Side.blue,5,6,2,1.1666666666666667,176,Heal,Flash,12,False,9822,9150,Bilgewater Cutlass,Ionian Boots of Lucidity,Doran's Blade,Iceborn Gauntlet,Recurve Bow,Muramana,13329,96082,Lane.bot_lane,Role.carry
+3,Hoplite,Lee Sin,False,Side.blue,1,8,4,0.625,94,Flash,Smite,12,False,7920,7500,Enchantment: Warrior,Hunter's Potion,The Black Cleaver,Giant's Belt,Boots of Speed,,14437,63147,Lane.jungle,Role.none
+4,  Ran God Sy,Ekko,False,Side.blue,0,6,2,0.3333333333333333,234,Teleport,Flash,14,False,10083,9375,Corrupting Potion,Mejai's Soulstealer,Morellonomicon,Rabadon's Deathcap,Boots of Speed,,122462,16472,Lane.mid_lane,Role.solo
+5,Sliacen,Caitlyn,True,Side.red,13,1,6,19.0,196,Flash,Heal,14,False,14325,12775,,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Last Whisper,2384,158101,Lane.bot_lane,Role.carry
+6,Godzheroes,Thresh,True,Side.red,1,2,12,6.5,33,Exhaust,Flash,12,False,8370,7250,Face of the Mountain,Sightstone,Knight's Vow,Cloth Armor,Ionian Boots of Lucidity,Cloth Armor,11270,5719,Lane.bot_lane,Role.support
+7,Kolayr,Illaoi,True,Side.red,8,2,3,5.5,298,Teleport,Flash,18,True,15568,13825,Corrupting Potion,The Black Cleaver,Death's Dance,Sterak's Gage,Mercury's Treads,Spirit Visage,1626,249931,Lane.top_lane,Role.solo
+8,Autumn Charm,Orianna,True,Side.red,9,1,5,14.0,223,Ghost,Flash,16,False,13227,10450,Doran's Ring,Abyssal Scepter,Mejai's Soulstealer,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,120166,22724,Lane.mid_lane,Role.solo
+9,Angrymeatball,Jarvan IV,True,Side.red,2,1,14,16.0,105,Flash,Smite,14,False,10570,8850,Enchantment: Cinderhulk,The Black Cleaver,Refillable Potion,Chain Vest,Giant's Belt,Mercury's Treads,21874,72874,Lane.jungle,Role.none

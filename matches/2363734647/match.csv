@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Smoothie,Thresh,False,Side.blue,1,3,8,3.0,20,Flash,Ignite,11,False,7407,6500,,Ruby Sightstone,Redemption,Boots of Mobility,Relic Shield,Null-Magic Mantle,5401,3109,Lane.bot_lane,Role.support
+1,MRTONERBONER,Trundle,False,Side.blue,0,8,3,0.375,197,Teleport,Flash,14,False,10271,9575,Ninja Tabi,Titanic Hydra,Sunfire Cape,Spectre's Cowl,Corrupting Potion,,7428,117214,Lane.top_lane,Role.solo
+2,godrjsdnd,Kog'Maw,False,Side.blue,6,4,0,1.5,241,Ghost,Flash,15,False,12013,11685,Refillable Potion,Seraph's Embrace,Luden's Echo,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,133983,17967,Lane.mid_lane,Role.solo
+3,Ablazeolive,Caitlyn,False,Side.blue,3,4,4,1.75,275,Flash,Heal,15,False,12338,11150,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,Lord Dominik's Regards,Infinity Edge,Long Sword,608,166206,Lane.bot_lane,Role.carry
+4,HairyZary,Kha'Zix,False,Side.blue,3,4,4,1.75,145,Flash,Smite,14,False,10165,10075,Enchantment: Warrior,Mortal Reminder,The Black Cleaver,Ninja Tabi,,,5342,149383,Lane.jungle,Role.none
+5,Riesig,Lee Sin,True,Side.red,6,3,8,4.666666666666667,171,Flash,Smite,16,False,12656,12525,Boots of Swiftness,Enchantment: Warrior,Dead Man's Plate,Maw of Malmortius,Guardian Angel,,30065,138465,Lane.jungle,Role.none
+6,Leagué,Poppy,True,Side.red,7,2,11,9.0,218,Flash,Teleport,17,True,14262,13975,Sunfire Cape,Spirit Visage,Guardian Angel,Dead Man's Plate,Giant's Belt,Mercury's Treads,53251,101641,Lane.top_lane,Role.solo
+7,Søren Bjerg,Orianna,True,Side.red,10,2,6,8.0,271,Flash,Ghost,17,False,15234,12485,Luden's Echo,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,188306,16900,Lane.mid_lane,Role.solo
+8,zz cicero,Janna,True,Side.red,0,4,10,2.5,16,Exhaust,Flash,13,False,8779,7000,,Redemption,Eye of the Watchers,Aegis of the Legion,Boots of Mobility,,5848,4300,Lane.bot_lane,Role.support
+9,SKY Fear,Jhin,True,Side.red,0,2,6,3.0,227,Flash,Heal,15,False,12181,10200,Doran's Blade,Last Whisper,Essence Reaver,Boots of Swiftness,Pickaxe,Rapid Firecannon,6269,142447,Lane.bot_lane,Role.carry

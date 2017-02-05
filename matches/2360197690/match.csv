@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ily and ily,Riven,True,Side.blue,5,0,2,7.0,186,Flash,Teleport,13,False,9657,6275,Doran's Shield,Ionian Boots of Lucidity,Refillable Potion,Tiamat,The Black Cleaver,Long Sword,43,91415,Lane.top_lane,Role.solo
+1,XinsertpunhereX,Orianna,True,Side.blue,6,5,5,2.2,99,Ignite,Flash,11,False,8048,6100,Refillable Potion,Sorcerer's Shoes,Lost Chapter,Fiendish Codex,Rod of Ages,The Dark Seal,47667,10449,Lane.mid_lane,Role.solo
+2,TRUMPSSMALLHANDS,Jarvan IV,True,Side.blue,8,1,3,11.0,85,Flash,Smite,11,False,8615,8250,Enchantment: Warrior,Refillable Potion,Ravenous Hydra,Mercury's Treads,Pickaxe,,3352,78796,Lane.jungle,Role.none
+3,Region,Twitch,True,Side.blue,11,2,4,7.5,83,Heal,Flash,10,False,8219,4600,Doran's Blade,B. F. Sword,Berserker's Greaves,Zeal,,Dagger,1423,49809,Lane.bot_lane,Role.carry
+4,Omgimapencil,Leona,True,Side.blue,1,3,14,5.0,23,Exhaust,Flash,10,False,6500,3800,Boots of Mobility,Targon's Brace,Kindlegem,Sightstone,,,5575,8645,Lane.bot_lane,Role.support
+5,DRRRRRRRRRRRAVEN,Draven,False,Side.red,5,6,1,1.0,82,Flash,Heal,9,False,6343,5525,Doran's Blade,Refillable Potion,The Bloodthirster,Berserker's Greaves,,,0,29157,Lane.bot_lane,Role.carry
+6,Smurf Prodigy 97,LeBlanc,False,Side.red,3,5,2,1.0,55,Flash,Ignite,9,True,5033,4410,Morellonomicon,Amplifying Tome,,Boots of Speed,Doran's Ring,,19088,4888,Lane.mid_lane,Role.solo
+7,Its MitchyBoots,Thresh,False,Side.red,1,8,3,0.5,8,Flash,Exhaust,7,False,3868,2075,Targon's Brace,Boots of Mobility,,,,,4372,2485,Lane.bot_lane,Role.support
+8,Instakill3290,Shyvana,False,Side.red,1,6,0,0.16666666666666666,57,Smite,Exhaust,9,False,4643,3500,Enchantment: Bloodrazor,Refillable Potion,Long Sword,Boots of Speed,,,24937,20356,Lane.jungle,Role.none
+9, Zed Tempest ,Yasuo,False,Side.red,0,6,0,0.0,94,Flash,Teleport,9,False,4646,3825,Zeal,Health Potion,Dagger,Dagger,Doran's Blade,Ninja Tabi,10606,32870,Lane.top_lane,Role.solo

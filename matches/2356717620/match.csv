@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,One Called Saint,Sejuani,True,Side.blue,6,6,13,3.1666666666666665,147,Flash,Smite,16,False,12501,10375,Enchantment: Cinderhulk,Zz'Rot Portal,Ninja Tabi,Kindlegem,Warmog's Armor,,97533,35389,Lane.jungle,Role.none
+1,O My Money,Thresh,True,Side.blue,1,7,20,3.0,27,Exhaust,Flash,14,False,9013,7625,Sightstone,Redemption,Face of the Mountain,Aegis of the Legion,,Boots of Mobility,11239,5151,Lane.bot_lane,Role.support
+2,EternalShock,Xerath,True,Side.blue,13,3,10,7.666666666666667,209,Flash,Ghost,17,False,14782,11885,Doran's Ring,Void Staff,Rylai's Crystal Scepter,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,159328,12953,Lane.mid_lane,Role.solo
+3,rat fink boy,Caitlyn,True,Side.blue,7,5,10,3.4,218,Heal,Flash,15,False,13176,9550,Runaan's Hurricane,Infinity Edge,Zeal,Berserker's Greaves,Doran's Blade,Dagger,215,132049,Lane.bot_lane,Role.carry
+4,Stumpey,Yasuo,True,Side.blue,2,7,12,2.0,261,Flash,Teleport,17,False,12922,10900,Doran's Blade,Frozen Mallet,Mercury's Treads,Phantom Dancer,Infinity Edge,,43195,135228,Lane.top_lane,Role.solo
+5,Hyorimaru,Anivia,False,Side.red,8,6,7,2.5,195,Flash,Ghost,14,False,11977,11285,Doran's Ring,Boots of Mobility,Zhonya's Hourglass,Morellonomicon,Liandry's Torment,Amplifying Tome,133028,7065,Lane.mid_lane,Role.solo
+6,Von Bon,Shen,False,Side.red,2,6,12,2.3333333333333335,183,Teleport,Flash,14,False,10185,9980,Warmog's Armor,Sunfire Cape,Doran's Shield,Mercury's Treads,Thornmail,,60733,25749,Lane.top_lane,Role.solo
+7,Hello I am Dust,Lulu,False,Side.red,1,4,20,5.25,18,Exhaust,Flash,12,False,8732,8250,Mikael's Crucible,Redemption,Eye of the Watchers,Control Ward,Boots of Mobility,,7068,3748,Lane.bot_lane,Role.support
+8,dog maple,Kog'Maw,False,Side.red,5,6,7,2.0,191,Heal,Flash,14,True,10973,10708,,Quicksilver Sash,Blade of the Ruined King,Berserker's Greaves,Trinity Force,Doran's Blade,54932,68010,Lane.bot_lane,Role.carry
+9,l For You l,Lee Sin,False,Side.red,12,7,9,3.0,145,Flash,Smite,15,False,12777,11975,Tiamat,Enchantment: Warrior,Caulfield's Warhammer,Boots of Mobility,The Black Cleaver,Dead Man's Plate,31519,114095,Lane.jungle,Role.none

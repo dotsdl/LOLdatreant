@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,gneV,Zac,True,Side.blue,9,1,11,20.0,149,Smite,Flash,15,False,12604,9675,Enchantment: Cinderhulk,Cloth Armor,Randuin's Omen,Spirit Visage,Ionian Boots of Lucidity,,110449,22922,Lane.jungle,Role.none
+1,Voglia,Zed,True,Side.blue,11,1,2,13.0,214,Ignite,Flash,15,False,13132,11250,Blade of the Ruined King,Youmuu's Ghostblade,Phage,Boots of Speed,Edge of Night,Refillable Potion,8925,129901,Lane.mid_lane,Role.solo
+2,D Rensus,Ezreal,True,Side.blue,1,4,11,3.0,174,Flash,Heal,13,False,10306,9133,Doran's Blade,Total Biscuit of Rejuvenation,Vampiric Scepter,Trinity Force,Muramana,Recurve Bow,16403,74466,Lane.bot_lane,Role.carry
+3,Challenger 4 Xzq,Irelia,True,Side.blue,3,6,7,1.6666666666666667,160,Teleport,Flash,14,False,10219,8758,Corrupting Potion,Randuin's Omen,Ninja Tabi,Trinity Force,Null-Magic Mantle,,4067,59554,Lane.top_lane,Role.solo
+4,  Ran God Sy,Alistar,True,Side.blue,1,5,11,2.4,60,Exhaust,Flash,12,False,8128,6175,,Sightstone,Face of the Mountain,Warden's Mail,Boots of Mobility,Giant's Belt,16312,7271,Lane.bot_lane,Role.support
+5,AzeroC,Jhin,False,Side.red,4,3,3,2.3333333333333335,178,Flash,Heal,12,False,10042,8025,Doran's Blade,,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Long Sword,5235,89268,Lane.bot_lane,Role.carry
+6,t0912398031,Zyra,False,Side.red,1,5,4,1.0,47,Exhaust,Flash,11,False,7674,7325,Boots of Speed,Morellonomicon,Sightstone,Frostfang,Giant's Belt,Needlessly Large Rod,45387,5977,Lane.bot_lane,Role.support
+7,dadams,Ahri,False,Side.red,2,5,3,1.0,151,Flash,Ignite,13,False,8575,8460,Sorcerer's Shoes,Morellonomicon,Zhonya's Hourglass,Amplifying Tome,Doran's Ring,Doran's Ring,46317,13487,Lane.mid_lane,Role.solo
+8,Retrogressed,Twitch,False,Side.red,3,7,6,1.2857142857142858,127,Smite,Flash,13,False,9458,8800,Enchantment: Bloodrazor,Cloak of Agility,Last Whisper,Runaan's Hurricane,Boots of Mobility,Health Potion,2524,98434,Lane.jungle,Role.none
+9,Fluffigans,Renekton,False,Side.red,7,6,1,1.3333333333333333,181,Flash,Ignite,14,True,10462,9875,Titanic Hydra,Dead Man's Plate,Mercury's Treads,Hexdrinker,Long Sword,,4466,119216,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,D0NG0,LeBlanc,True,Side.blue,14,1,9,23.0,130,Ignite,Flash,14,False,11870,10825,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,The Dark Seal,Rylai's Crystal Scepter,Void Staff,76735,9320,Lane.mid_lane,Role.solo
+1,Asyc xD ,Jhin,True,Side.blue,12,5,12,4.8,172,Heal,Flash,14,False,13046,12700,Doran's Blade,Rapid Firecannon,Boots of Swiftness,Essence Reaver,Infinity Edge,Hexdrinker,6285,112266,Lane.bot_lane,Role.carry
+2,Farefars World,Brand,True,Side.blue,2,4,16,4.5,26,Flash,Ignite,12,False,8958,8100,Frost Queen's Claim,Rylai's Crystal Scepter,Sorcerer's Shoes,Ruby Crystal,Blasting Wand,,31934,5063,Lane.bot_lane,Role.support
+3,DOUCHEBAG MID,Renekton,True,Side.blue,5,3,10,5.0,159,Teleport,Flash,14,False,10391,7775,Tiamat,Jaurim's Fist,Doran's Blade,Ninja Tabi,Doran's Blade,The Black Cleaver,3014,89542,Lane.top_lane,Role.solo
+4,CedR1CK GOD,Lee Sin,True,Side.blue,8,5,7,3.0,78,Smite,Flash,13,False,9855,7725,Refillable Potion,,Enchantment: Warrior,Randuin's Omen,Chain Vest,Mercury's Treads,12561,64757,Lane.jungle,Role.none
+5,Feitan,Syndra,False,Side.red,3,10,3,0.6,139,Ghost,Flash,12,False,7657,7175,Sorcerer's Shoes,Morellonomicon,Aether Wisp,Doran's Ring,Doran's Ring,Needlessly Large Rod,78909,6994,Lane.mid_lane,Role.solo
+6,Below Zero,Twitch,False,Side.red,7,8,2,1.125,133,Heal,Flash,13,False,8675,7900,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,0,66191,Lane.bot_lane,Role.carry
+7,Qkuzi,Poppy,False,Side.red,2,5,4,1.2,141,Flash,Teleport,13,False,7657,6875,Spectre's Cowl,Corrupting Potion,,Sunfire Cape,Kindlegem,Mercury's Treads,24175,49912,Lane.top_lane,Role.solo
+8,dopas doge ,Nocturne,False,Side.red,6,10,1,0.7,87,Smite,Flash,12,True,8023,7500,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,Serrated Dirk,Boots of Speed,,2477,75119,Lane.jungle,Role.none
+9,LegitADC,Janna,False,Side.red,0,8,6,0.75,11,Exhaust,Flash,10,False,5731,5375,Redemption,Eye of the Oasis,,Boots of Mobility,,Faerie Charm,4153,2901,Lane.bot_lane,Role.support

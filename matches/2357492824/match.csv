@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,jìmmy,Katarina,False,Side.blue,9,5,3,2.4,149,Ignite,Flash,13,False,10186,9285,Hextech Gunblade,Amplifying Tome,,Blasting Wand,Rylai's Crystal Scepter,Boots of Swiftness,77647,8796,Lane.mid_lane,Role.solo
+1,SoV NSFW,Malphite,False,Side.blue,4,5,10,2.8,132,Flash,Teleport,14,False,9406,9120,Doran's Shield,Sunfire Cape,Frozen Heart,Fiendish Codex,Mercury's Treads,Negatron Cloak,54422,19746,Lane.top_lane,Role.solo
+2,TQS Zuardian,Evelynn,False,Side.blue,8,6,6,2.3333333333333335,218,Smite,Flash,15,True,12903,12600,Hextech Protobelt-01,Enchantment: Runic Echoes,Void Staff,Lich Bane,Ionian Boots of Lucidity,,135495,43011,Lane.jungle,Role.none
+3,yoko,Sion,False,Side.blue,1,8,8,1.125,36,Flash,Exhaust,11,False,7348,6950,Face of the Mountain,Control Ward,Ninja Tabi,Ruby Sightstone,Crystalline Bracer,Crystalline Bracer,11182,14789,Lane.bot_lane,Role.support
+4,BestLucianAfrica,Jhin,False,Side.blue,5,10,2,0.7,176,Heal,Flash,12,False,9691,9100,Doran's Blade,Rapid Firecannon,Control Ward,Essence Reaver,Boots of Swiftness,Hexdrinker,4060,92864,Lane.bot_lane,Role.carry
+5,FIoopie,Lucian,True,Side.red,7,4,12,4.75,208,Flash,Heal,15,False,13678,11500,Doran's Blade,Berserker's Greaves,Rapid Firecannon,Maw of Malmortius,Essence Reaver,Long Sword,7120,133909,Lane.bot_lane,Role.carry
+6,Never Been,Gnar,True,Side.red,4,11,8,1.0909090909090908,125,Flash,Teleport,13,False,9985,8250,Giant's Belt,The Black Cleaver,Spectre's Cowl,Mercury's Treads,Warden's Mail,,6065,66740,Lane.top_lane,Role.solo
+7,ZTG SolidSnake,Rumble,True,Side.red,17,8,13,3.75,131,Flash,Smite,16,False,15091,13175,Enchantment: Runic Echoes,Hextech Protobelt-01,Rylai's Crystal Scepter,Abyssal Scepter,Mercury's Treads,Blasting Wand,121854,24630,Lane.jungle,Role.none
+8,never meme,Lulu,True,Side.red,3,2,16,9.5,15,Exhaust,Flash,13,False,8965,7725,Locket of the Iron Solari,Redemption,Ruby Sightstone,Boots of Mobility,Cloth Armor,Spellthief's Edge,19766,4910,Lane.bot_lane,Role.support
+9,Tobias Fate,Gangplank,True,Side.red,3,2,11,7.0,205,Flash,Exhaust,15,False,12312,10233,Doran's Ring,Youmuu's Ghostblade,Trinity Force,B. F. Sword,Corrupting Potion,Cloak of Agility,8924,152155,Lane.mid_lane,Role.solo

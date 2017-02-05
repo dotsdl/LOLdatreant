@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FORG1VENRE,Ashe,True,Side.blue,2,0,5,7.0,133,Heal,Flash,10,False,7380,5400,Berserker's Greaves,,Essence Reaver,,,Doran's Blade,872,63597,Lane.bot_lane,Role.carry
+1,Kamajii,Tahm Kench,True,Side.blue,4,0,4,8.0,23,Flash,Exhaust,9,False,6279,4650,Face of the Mountain,Refillable Potion,Boots of Swiftness,Control Ward,Cloth Armor,Sightstone,6589,6529,Lane.bot_lane,Role.support
+2,RNG Mlxgod,Twisted Fate,True,Side.blue,8,3,5,4.333333333333333,107,Ghost,Flash,12,False,9017,7700,,Refillable Potion,The Dark Seal,Lich Bane,Ionian Boots of Lucidity,Abyssal Scepter,55407,10086,Lane.mid_lane,Role.solo
+3,Ouchxiao,Poppy,True,Side.blue,4,4,4,2.0,88,Flash,Teleport,11,False,7108,5225,Corrupting Potion,Ninja Tabi,,The Black Cleaver,Doran's Shield,,2666,50575,Lane.top_lane,Role.solo
+4,Satsui No Hado,Shyvana,True,Side.blue,2,0,3,5.0,111,Smite,Flash,11,True,7826,6975,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,Frozen Mallet,,,49374,46483,Lane.jungle,Role.none
+5,CookiesOP,Trundle,False,Side.red,3,3,1,1.3333333333333333,93,Flash,Teleport,10,False,5314,8120,Glacial Shroud,Kindlegem,Corrupting Potion,Sheen,,,11401,23102,Lane.top_lane,Role.solo
+6,Sourpatchkids,Rengar,False,Side.red,1,4,2,0.75,68,Flash,Smite,9,False,4824,7600,Tear of the Goddess,Sapphire Crystal,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,2350,45708,Lane.jungle,Role.none
+7,bvcx222,Bard,False,Side.red,0,3,0,0.0,4,Flash,Ignite,6,False,3146,3900,Tear of the Goddess,Tear of the Goddess,Faerie Charm,,,,4399,1939,Lane.bot_lane,Role.support
+8,zaqwsxcde,Lux,False,Side.red,3,6,2,0.8333333333333334,115,Flash,Teleport,11,False,5802,5100,Doran's Ring,Morellonomicon,Boots of Swiftness,The Dark Seal,Doran's Ring,,54154,9020,Lane.mid_lane,Role.solo
+9,Betabet,Vayne,False,Side.red,0,5,1,0.2,50,Flash,Heal,7,False,3599,4825,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,,,0,17574,Lane.bot_lane,Role.carry

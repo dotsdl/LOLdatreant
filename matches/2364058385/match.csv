@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KKL,Gangplank,False,Side.blue,4,5,6,2.0,108,Teleport,Flash,13,False,8415,7025,Corrupting Potion,Spirit Visage,Dagger,Ionian Boots of Lucidity,Sheen,Phage,12483,49216,Lane.top_lane,Role.solo
+1,Wazabiee,Vayne,False,Side.blue,8,6,2,1.6666666666666667,172,Heal,Flash,12,False,9970,7625,Cloak of Agility,Pickaxe,Berserker's Greaves,Doran's Blade,Statikk Shiv,B. F. Sword,24700,61185,Lane.bot_lane,Role.carry
+2,Vooldo,Viktor,False,Side.blue,1,7,1,0.2857142857142857,178,Ghost,Flash,12,False,7867,6700,Perfect Hex Core,Doran's Ring,Needlessly Large Rod,Health Potion,Boots of Speed,Giant's Belt,80781,13121,Lane.mid_lane,Role.solo
+3,Wynaan,Nami,False,Side.blue,0,8,9,1.125,7,Exhaust,Flash,11,False,6250,4725,Eye of the Watchers,Boots of Swiftness,Aether Wisp,Faerie Charm,Faerie Charm,,7156,3529,Lane.bot_lane,Role.support
+4,NWMack,Ivern,False,Side.blue,1,5,7,1.6,69,Flash,Smite,12,False,7397,6650,Refillable Potion,Skirmisher's Sabre,Athene's Unholy Grail,Redemption,Ionian Boots of Lucidity,Ruby Crystal,10889,6062,Lane.jungle,Role.none
+5,Apdo I,Vi,True,Side.red,1,1,10,11.0,143,Smite,Flash,13,False,9373,8775,Enchantment: Warrior,Refillable Potion,Ninja Tabi,The Black Cleaver,Giant's Belt,Chain Vest,1916,143700,Lane.jungle,Role.none
+6,Myndia,Lux,True,Side.red,5,3,16,7.0,29,Flash,Exhaust,12,True,9382,9000,Total Biscuit of Rejuvenation,Eye of the Watchers,Morellonomicon,Needlessly Large Rod,Giant's Belt,Ionian Boots of Lucidity,29755,5403,Lane.bot_lane,Role.support
+7,KayleisKlNG,Kayle,True,Side.red,4,5,8,2.4,159,Flash,Teleport,13,False,10449,9900,Nashor's Tooth,Doran's Ring,Berserker's Greaves,Stinger,Rylai's Crystal Scepter,Recurve Bow,66247,27578,Lane.top_lane,Role.solo
+8,OUG iSo,Jayce,True,Side.red,16,4,9,6.25,165,Flash,Teleport,14,False,13299,12300,Youmuu's Ghostblade,Maw of Malmortius,The Black Cleaver,Doran's Blade,Last Whisper,Ionian Boots of Lucidity,15736,103369,Lane.mid_lane,Role.solo
+9,Dimensional,Jhin,True,Side.red,4,1,14,18.0,118,Flash,Heal,12,False,9399,8950,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,B. F. Sword,,3281,63817,Lane.bot_lane,Role.carry

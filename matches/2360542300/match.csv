@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,EnVy LOD,Ryze,True,Side.blue,12,5,12,4.8,179,Ghost,Flash,16,False,14691,13725,Seraph's Embrace,Luden's Echo,Ionian Boots of Lucidity,Rod of Ages,Null-Magic Mantle,Void Staff,132351,10647,Lane.mid_lane,Role.solo
+1,Kled Gosu,Alistar,True,Side.blue,2,6,18,3.3333333333333335,36,Exhaust,Flash,13,False,10135,8400,Boots of Mobility,Locket of the Iron Solari,Face of the Mountain,Control Ward,Forbidden Idol,Ruby Sightstone,14587,8188,Lane.jungle,Role.none
+2,Ninjacrab,Vi,True,Side.blue,15,8,8,2.875,102,Flash,Smite,15,False,14135,13058,Enchantment: Warrior,Trinity Force,Ninja Tabi,Dead Man's Plate,Guardian Angel,,1127,123049,Lane.jungle,Role.none
+3,weaslbee,Maokai,True,Side.blue,5,7,14,2.7142857142857144,195,Teleport,Flash,16,False,12810,11750,Doran's Ring,Zz'Rot Portal,Fiendish Codex,Sunfire Cape,Frozen Heart,Mercury's Treads,96227,15861,Lane.top_lane,Role.solo
+4,Kituld,Sivir,True,Side.blue,7,3,13,6.666666666666667,228,Flash,Heal,16,False,15092,14015,Zeal,Infinity Edge,The Bloodthirster,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,0,182437,Lane.bot_lane,Role.solo
+5,Vincent Mark,Syndra,False,Side.red,6,7,10,2.2857142857142856,175,Flash,Ghost,14,False,11081,10775,Void Staff,Rylai's Crystal Scepter,,,Sorcerer's Shoes,Morellonomicon,94730,10084,Lane.mid_lane,Role.carry
+6,You all boosted,Graves,False,Side.red,5,10,13,1.8,140,Flash,Smite,15,False,11219,10650,Enchantment: Warrior,Edge of Night,The Black Cleaver,Berserker's Greaves,Dagger,,3510,146220,Lane.mid_lane,Role.support
+7,Longanimity,Jhin,False,Side.red,7,7,9,2.2857142857142856,153,Flash,Heal,14,True,11736,10425,Doran's Blade,Rapid Firecannon,Essence Reaver,Pickaxe,Boots of Swiftness,B. F. Sword,9696,90666,Lane.bot_lane,Role.carry
+8,Cris,Trundle,False,Side.red,9,8,5,1.75,259,Flash,Teleport,17,False,14139,13888,Ravenous Hydra,Blade of the Ruined King,Corrupting Potion,Null-Magic Mantle,Trinity Force,Berserker's Greaves,2513,170057,Lane.top_lane,Role.solo
+9,Malya EUW ,Yasuo,False,Side.red,2,9,6,0.8888888888888888,122,Flash,Exhaust,13,False,9175,8925,Phantom Dancer,Pickaxe,Sightstone,Frozen Mallet,Mercury's Treads,,11826,71136,Lane.bot_lane,Role.support

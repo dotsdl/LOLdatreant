@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dexima,Lee Sin,True,Side.blue,1,0,0,1.0,14,Flash,Smite,3,True,1434,500,Hunter's Machete,Refillable Potion,,,,,275,6352,Lane.bot_lane,Role.none
+1,Rip To My Cigar,Graves,True,Side.blue,0,0,1,1.0,14,Flash,Exhaust,2,False,1008,500,Doran's Blade,,,,,,10,4008,Lane.bot_lane,Role.none
+2,Xinthus,Jayce,True,Side.blue,0,0,0,0.0,14,Teleport,Flash,2,False,910,500,Doran's Blade,Health Potion,,,,,0,2067,Lane.top_lane,Role.solo
+3,bvcx222,Malzahar,True,Side.blue,0,0,0,0.0,13,Flash,Ghost,3,False,912,500,Doran's Ring,Health Potion,,,,,1678,2470,Lane.mid_lane,Role.solo
+4,QuickRev,Maokai,True,Side.blue,0,0,1,1.0,4,Flash,Heal,2,False,819,500,Relic Shield,Health Potion,,,,,1448,1338,Lane.bot_lane,Role.none
+5,Empress Bee,Janna,False,Side.red,0,0,0,0.0,1,Exhaust,Flash,2,False,778,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,195,658,Lane.bot_lane,Role.duo
+6,Bes,Jhin,False,Side.red,0,1,0,0.0,5,Heal,Flash,1,False,739,550,Doran's Blade,Total Biscuit of Rejuvenation,,,,,27,2627,Lane.bot_lane,Role.duo
+7,Cotopaco Parce,Varus,False,Side.red,0,0,0,0.0,0,Ghost,Flash,1,False,648,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+8,The Coldshroom,Teemo,False,Side.red,0,0,0,0.0,12,Ignite,Flash,3,False,901,500,Total Biscuit of Rejuvenation,Doran's Ring,,,,,1165,1971,Lane.top_lane,Role.solo
+9,I Starboy l,Vi,False,Side.red,0,0,0,0.0,11,Smite,Flash,3,False,1060,500,Hunter's Machete,Refillable Potion,,,,,0,7771,Lane.jungle,Role.none

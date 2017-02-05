@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hate,Lee Sin,True,Side.blue,15,2,15,15.0,115,Smite,Flash,16,False,15083,13150,Ninja Tabi,Enchantment: Warrior,Titanic Hydra,Dead Man's Plate,Spirit Visage,,17759,124510,Lane.jungle,Role.none
+1,MisterOrgasm,Karma,True,Side.blue,0,1,19,19.0,5,Exhaust,Flash,14,False,9209,8375,Eye of the Watchers,Refillable Potion,Athene's Unholy Grail,Boots of Swiftness,Ardent Censer,,11701,7475,Lane.bot_lane,Role.support
+2,ELE Boxer,Jhin,True,Side.blue,12,3,10,7.333333333333333,166,Heal,Flash,14,False,13724,12600,Ionian Boots of Lucidity,Last Whisper,Youmuu's Ghostblade,Rapid Firecannon,Duskblade of Draktharr,,6716,107552,Lane.bot_lane,Role.carry
+3,RumbleMidGGnoRE,Rumble,True,Side.blue,5,4,11,4.0,189,Ignite,Flash,15,False,12213,11075,Hextech Protobelt-01,Liandry's Torment,Luden's Echo,Doran's Shield,Control Ward,Sorcerer's Shoes,132178,9692,Lane.mid_lane,Role.solo
+4,FatMiku,Fiora,True,Side.blue,4,5,7,2.2,203,Flash,Teleport,16,False,12608,10575,Ravenous Hydra,Corrupting Potion,The Black Cleaver,Ninja Tabi,Giant's Belt,B. F. Sword,2610,126793,Lane.top_lane,Role.solo
+5,IA55A55INI,Malzahar,False,Side.red,3,8,4,0.875,192,Flash,Ignite,14,False,9246,8685,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Rod of Ages,Giant's Belt,Amplifying Tome,89196,26297,Lane.mid_lane,Role.solo
+6,Jadochori,Janna,False,Side.red,0,6,4,0.6666666666666666,9,Exhaust,Flash,11,False,6148,5875,Nomad's Medallion,Ruby Sightstone,Ionian Boots of Lucidity,,Redemption,Control Ward,3188,2285,Lane.bot_lane,Role.support
+7,Stevens 1v9,Jax,False,Side.red,7,7,1,1.1428571428571428,202,Ignite,Flash,15,True,10669,10593,Hextech Gunblade,Trinity Force,Jaurim's Fist,Doran's Blade,Ruby Crystal,Mercury's Treads,29131,84849,Lane.top_lane,Role.solo
+8,GunshyMonkey,Graves,False,Side.red,5,8,2,0.875,202,Smite,Flash,16,False,10860,10350,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Death's Dance,Long Sword,5422,179896,Lane.jungle,Role.none
+9,Adgineer,Ezreal,False,Side.red,0,8,2,0.25,172,Heal,Flash,12,False,8998,8075,Iceborn Gauntlet,Control Ward,Muramana,Ionian Boots of Lucidity,Vampiric Scepter,Doran's Blade,9450,80418,Lane.bot_lane,Role.carry

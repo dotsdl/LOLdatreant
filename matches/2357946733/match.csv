@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UO Daniel Wu,Riven,False,Side.blue,5,3,2,2.3333333333333335,111,Flash,Teleport,12,False,6904,6550,The Black Cleaver,Youmuu's Ghostblade,Boots of Speed,,,,0,56856,Lane.top_lane,Role.solo
+1,z11  ,Vayne,False,Side.blue,0,4,3,0.75,142,Flash,Heal,11,False,6369,6025,Doran's Blade,B. F. Sword,Statikk Shiv,Pickaxe,Boots of Speed,Dagger,7313,47764,Lane.bot_lane,Role.carry
+2,Ascheen,Nami,False,Side.blue,0,3,2,0.6666666666666666,5,Exhaust,Flash,9,False,4420,3700,Frostfang,Sightstone,,Forbidden Idol,Crystalline Bracer,,5694,2555,Lane.bot_lane,Role.support
+3,0nLy 1,Viktor,False,Side.blue,2,6,0,0.3333333333333333,130,Flash,Ghost,11,False,6289,5475,Perfect Hex Core,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,,62166,5903,Lane.mid_lane,Role.solo
+4,Legendary Brad,Shyvana,False,Side.blue,1,6,0,0.16666666666666666,106,Smite,Flash,11,False,6250,5950,Tiamat,Refillable Potion,Enchantment: Bloodrazor,Jaurim's Fist,Ruby Crystal,Boots of Speed,42457,45017,Lane.jungle,Role.none
+5,Zv Pickle,Orianna,True,Side.red,10,2,1,5.5,142,Flash,Ghost,14,False,10586,10150,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Aether Wisp,Needlessly Large Rod,77205,9973,Lane.mid_lane,Role.solo
+6,JDaddyMelink,Fiora,True,Side.red,3,2,3,3.0,143,Flash,Teleport,12,False,8455,8400,Doran's Blade,Mercury's Treads,Ravenous Hydra,The Black Cleaver,,,2127,67041,Lane.top_lane,Role.solo
+7,plotz,Brand,True,Side.red,4,3,3,2.3333333333333335,23,Ignite,Flash,11,False,7828,7475,Frost Queen's Claim,Rylai's Crystal Scepter,Needlessly Large Rod,,Boots of Speed,,23857,4367,Lane.bot_lane,Role.support
+8,Requite,Lucian,True,Side.red,1,0,1,2.0,160,Flash,Heal,11,False,8173,7725,Statikk Shiv,Dagger,Doran's Blade,Essence Reaver,Boots of Speed,Dagger,4815,73219,Lane.bot_lane,Role.carry
+9,KINKY LORD,Graves,True,Side.red,4,1,3,7.0,92,Smite,Flash,12,True,8994,8450,Youmuu's Ghostblade,Refillable Potion,Zeal,Dagger,Berserker's Greaves,Enchantment: Warrior,2582,100334,Lane.jungle,Role.none

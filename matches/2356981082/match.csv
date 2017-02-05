@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Faerie Sovereign,Sona,True,Side.blue,6,4,16,5.5,41,Flash,Heal,13,False,10998,8575,Spellthief's Edge,Tear of the Goddess,Lich Bane,Needlessly Large Rod,Athene's Unholy Grail,Blasting Wand,37847,11901,Lane.bot_lane,Role.support
+1,Patented Jax ,Kindred,True,Side.blue,5,5,9,2.8,112,Smite,Flash,14,False,10989,9483,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Trinity Force,Bilgewater Cutlass,Dagger,2236,120767,Lane.jungle,Role.none
+2,AshtonKing,Vayne,True,Side.blue,1,5,11,2.4,108,Ghost,Flash,11,False,9228,9175,Doran's Blade,Cull,Statikk Shiv,Berserker's Greaves,Infinity Edge,Cloak of Agility,5990,46853,Lane.bot_lane,Role.carry
+3,simple is best,Irelia,True,Side.blue,9,4,7,4.0,198,Teleport,Flash,15,True,12860,11508,Doran's Blade,Guardian Angel,Trinity Force,Maw of Malmortius,Mercury's Treads,,6529,106131,Lane.top_lane,Role.solo
+4,Twitch FateFalls,Ahri,True,Side.blue,12,1,5,17.0,163,Flash,Ignite,15,False,12780,10550,Morellonomicon,Rylai's Crystal Scepter,,Abyssal Scepter,Ionian Boots of Lucidity,Doran's Ring,78235,15077,Lane.jungle,Role.none
+5,dogling,Syndra,False,Side.red,4,9,3,0.7777777777777778,164,Flash,Ignite,13,False,8993,7760,Doran's Ring,Blasting Wand,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,98198,8856,Lane.mid_lane,Role.solo
+6,iggleee,Kayle,False,Side.red,2,8,4,0.75,161,Flash,Exhaust,12,False,8195,6950,Doran's Ring,Pickaxe,Recurve Bow,Nashor's Tooth,,Berserker's Greaves,61448,26062,Lane.top_lane,Role.solo
+7,Quibblez,Thresh,False,Side.red,1,6,7,1.3333333333333333,31,Exhaust,Flash,11,False,6358,5550,Boots of Mobility,Redemption,Eye of the Equinox,Total Biscuit of Rejuvenation,,,8632,3348,Lane.bot_lane,Role.support
+8,l MiMo l,Ezreal,False,Side.red,7,7,6,1.8571428571428572,145,Heal,Flash,12,False,9831,8550,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,Doran's Blade,Cull,Hexdrinker,22034,62462,Lane.bot_lane,Role.carry
+9,Bombardiere,Rammus,False,Side.red,5,4,4,2.25,138,Smite,Flash,13,False,9437,8975,Enchantment: Cinderhulk,Refillable Potion,Thornmail,Ruby Sightstone,Ninja Tabi,Giant's Belt,62570,39525,Lane.jungle,Role.none

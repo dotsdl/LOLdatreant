@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pick me jhin ty,Talon,True,Side.blue,15,2,7,11.0,210,Ignite,Flash,16,False,14820,12850,Youmuu's Ghostblade,Boots of Mobility,Vampiric Scepter,Edge of Night,Duskblade of Draktharr,B. F. Sword,4593,156313,Lane.mid_lane,Role.solo
+1,EDG ShanJi,Nautilus,True,Side.blue,2,4,8,2.5,155,Teleport,Flash,14,False,10374,9400,Warmog's Armor,Ninja Tabi,Kindlegem,Sunfire Cape,,Giant's Belt,71322,18937,Lane.top_lane,Role.solo
+2,FLOWmyGOD,Ivern,True,Side.blue,3,0,12,15.0,162,Smite,Flash,16,False,12558,10525,Needlessly Large Rod,Redemption,Athene's Unholy Grail,Mejai's Soulstealer,Ionian Boots of Lucidity,Locket of the Iron Solari,36855,9374,Lane.jungle,Role.none
+3,01charlie10,Brand,True,Side.blue,6,3,7,4.333333333333333,31,Flash,Ignite,13,False,10732,9050,Ionian Boots of Lucidity,Eye of the Watchers,Control Ward,The Dark Seal,Rylai's Crystal Scepter,Haunting Guise,40189,7564,Lane.bot_lane,Role.support
+4,The Clark,Jhin,True,Side.blue,1,6,14,2.5,221,Flash,Heal,15,False,11521,9875,Doran's Blade,Infinity Edge,Dagger,Kircheis Shard,Essence Reaver,Boots of Swiftness,14403,143201,Lane.bot_lane,Role.carry
+5,IBullzEye,Gragas,False,Side.red,3,4,4,1.75,148,Flash,Smite,14,True,10198,10000,Enchantment: Cinderhulk,Iceborn Gauntlet,Mercury's Treads,Giant's Belt,Spectre's Cowl,Kindlegem,87270,34418,Lane.jungle,Role.none
+6,Kr4k 4 J4Ck,Renekton,False,Side.red,2,7,4,0.8571428571428571,182,Flash,Teleport,14,False,10051,9600,The Black Cleaver,Mercury's Treads,Long Sword,B. F. Sword,,Blade of the Ruined King,4671,122238,Lane.top_lane,Role.solo
+7,H3ckt1k,Ryze,False,Side.red,5,6,1,1.0,195,Ghost,Flash,15,False,10613,10050,Refillable Potion,Seraph's Embrace,Rod of Ages,Morellonomicon,Ionian Boots of Lucidity,,109842,10372,Lane.mid_lane,Role.solo
+8,SL Challenge,Soraka,False,Side.red,0,4,8,2.0,3,Ignite,Flash,11,False,7234,6500,Athene's Unholy Grail,Eye of the Oasis,Forbidden Idol,Boots of Mobility,,,4998,2082,Lane.bot_lane,Role.support
+9,SL Shine,Sivir,False,Side.red,5,7,1,0.8571428571428571,240,Heal,Flash,14,False,11535,11300,Berserker's Greaves,Kircheis Shard,Essence Reaver,Infinity Edge,Zeal,Doran's Blade,0,169025,Lane.bot_lane,Role.carry

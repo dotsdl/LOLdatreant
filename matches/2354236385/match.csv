@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zaganox,Vayne,False,Side.blue,1,7,4,0.7142857142857143,166,Heal,Flash,12,False,8444,8100,Doran's Blade,Total Biscuit of Rejuvenation,,Berserker's Greaves,Infinity Edge,Statikk Shiv,17776,61453,Lane.bot_lane,Role.carry
+1,Wintrader Vulcan,Karma,False,Side.blue,2,3,4,2.0,24,Flash,Exhaust,11,False,6713,6075,Redemption,Ruby Sightstone,,Ionian Boots of Lucidity,Spellthief's Edge,Null-Magic Mantle,16941,6405,Lane.bot_lane,Role.support
+2,FIoopie,Orianna,False,Side.blue,3,7,2,0.7142857142857143,174,Flash,Ghost,13,False,8594,7560,Amplifying Tome,Blasting Wand,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Morellonomicon,90832,12286,Lane.mid_lane,Role.solo
+3,1936 1948,Lee Sin,False,Side.blue,5,8,3,1.0,118,Smite,Flash,12,False,8917,8775,Tiamat,Mercury's Treads,Sightstone,Randuin's Omen,,Enchantment: Warrior,14270,85986,Lane.jungle,Role.none
+4,Egregious King,Tryndamere,False,Side.blue,5,5,1,1.2,214,Ignite,Flash,14,False,10874,9450,Doran's Blade,Statikk Shiv,Berserker's Greaves,The Bloodthirster,Jaurim's Fist,Long Sword,32658,103655,Lane.top_lane,Role.solo
+5,Turc,Alistar,True,Side.red,1,3,12,4.333333333333333,27,Exhaust,Flash,11,False,7203,6775,Face of the Mountain,Redemption,Sightstone,,Boots of Mobility,Control Ward,7874,6459,Lane.bot_lane,Role.support
+6,blaberfish2,Elise,True,Side.red,12,4,10,5.5,93,Flash,Smite,15,False,12195,11410,Enchantment: Runic Echoes,Amplifying Tome,Zhonya's Hourglass,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,94818,23501,Lane.jungle,Role.none
+7,Sheiden,Hecarim,True,Side.red,2,4,7,2.25,164,Smite,Ghost,14,False,9601,8325,Enchantment: Cinderhulk,Redemption,Locket of the Iron Solari,Ninja Tabi,,,31916,67204,Lane.jungle,Role.none
+8,BillyBoss1,Nautilus,True,Side.red,7,2,6,6.5,184,Flash,Teleport,15,False,11170,10700,Randuin's Omen,Corrupting Potion,Ninja Tabi,Sunfire Cape,The Dark Seal,Spirit Visage,97117,22181,Lane.jungle,Role.none
+9,Doublelift,Twitch,True,Side.red,8,3,8,5.333333333333333,170,Flash,Heal,14,True,11703,10500,Doran's Blade,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,,123,106511,Lane.bot_lane,Role.carry

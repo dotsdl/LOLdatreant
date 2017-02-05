@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,nackksi,Malphite,True,Side.blue,5,3,7,4.0,103,Smite,Flash,14,False,9922,8325,Refillable Potion,Spirit Visage,Enchantment: Cinderhulk,Mercury's Treads,Sheen,Cloth Armor,47077,61858,Lane.mid_lane,Role.support
+1,t d,Yasuo,True,Side.blue,6,5,9,3.0,204,Exhaust,Flash,15,False,11486,9550,Infinity Edge,Berserker's Greaves,Phantom Dancer,B. F. Sword,Long Sword,Doran's Blade,30444,109050,Lane.mid_lane,Role.carry
+2,Geranìmo,Vayne,True,Side.blue,3,2,7,5.0,165,Flash,Heal,13,False,9626,8350,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,Long Sword,,16625,80815,Lane.bot_lane,Role.carry
+3,JUST9N,Bard,True,Side.blue,0,2,13,6.5,6,Flash,Exhaust,12,False,7475,5975,Sightstone,Locket of the Iron Solari,Boots of Mobility,Frostfang,Crystalline Bracer,Cloth Armor,8930,3866,Lane.bot_lane,Role.support
+4,Kammr,Fizz,True,Side.blue,7,6,4,1.8333333333333333,175,Flash,Ignite,14,False,10434,8970,Doran's Ring,Zhonya's Hourglass,Lich Bane,Sorcerer's Shoes,Doran's Ring,Negatron Cloak,59772,29527,Lane.top_lane,Role.solo
+5,Jintea,Cassiopeia,False,Side.red,4,8,6,1.25,160,Flash,Exhaust,13,False,9446,9200,Rylai's Crystal Scepter,Morellonomicon,Tear of the Goddess,Doran's Ring,Doran's Ring,Needlessly Large Rod,68966,9023,Lane.mid_lane,Role.solo
+6,Lucky of Legends,Amumu,False,Side.red,2,4,4,1.5,137,Flash,Smite,14,False,8927,8260,Enchantment: Cinderhulk,Hunter's Potion,Zz'Rot Portal,Ninja Tabi,Giant's Belt,Amplifying Tome,90510,22695,Lane.jungle,Role.none
+7,Slugsheep,Zyra,False,Side.red,1,3,6,2.3333333333333335,45,Flash,Exhaust,12,False,7765,7025,Liandry's Torment,,Eye of the Watchers,Ionian Boots of Lucidity,,The Dark Seal,41897,8957,Lane.bot_lane,Role.support
+8,PhantomFire31,Ezreal,False,Side.red,2,2,0,1.0,137,Flash,Heal,9,False,7833,5783,Doran's Blade,Total Biscuit of Rejuvenation,Cull,Trinity Force,Tear of the Goddess,Boots of Speed,3977,40595,Lane.bot_lane,Role.carry
+9,TwistyJuker,Riven,False,Side.red,9,4,5,3.5,230,Flash,Teleport,16,True,12698,11775,,The Black Cleaver,Death's Dance,Mercury's Treads,Maw of Malmortius,Doran's Blade,0,143114,Lane.top_lane,Role.solo

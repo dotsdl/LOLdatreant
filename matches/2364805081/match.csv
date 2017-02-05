@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,N810HO,Viktor,False,Side.blue,5,6,3,1.3333333333333333,166,Flash,Ghost,14,False,9456,8850,Doran's Ring,Perfect Hex Core,Control Ward,Blasting Wand,Ionian Boots of Lucidity,Rylai's Crystal Scepter,92544,8488,Lane.mid_lane,Role.solo
+1,skyWtr,Elise,False,Side.blue,3,5,6,1.8,119,Smite,Flash,13,False,8783,8475,,Hextech Protobelt-01,Giant's Belt,Warden's Mail,Boots of Mobility,Enchantment: Runic Echoes,75226,23049,Lane.jungle,Role.none
+2,DumPooPoo,Lucian,False,Side.blue,7,8,4,1.375,174,Heal,Flash,12,False,10329,9700,Doran's Blade,Infinity Edge,Long Sword,Phage,Berserker's Greaves,Rapid Firecannon,2731,99714,Lane.bot_lane,Role.carry
+3,xBuGaBoo,Karma,False,Side.blue,1,5,12,2.6,18,Exhaust,Flash,11,False,8031,7475,Frostfang,Ruby Sightstone,Redemption,Boots of Mobility,Aegis of the Legion,,8285,4123,Lane.bot_lane,Role.support
+4,WJNA,Jayce,False,Side.blue,3,8,4,0.875,167,Flash,Teleport,13,False,9098,8325,Refillable Potion,Youmuu's Ghostblade,The Black Cleaver,Boots of Speed,Doran's Blade,B. F. Sword,15468,75109,Lane.top_lane,Role.solo
+5,QuickRev,Alistar,True,Side.red,3,3,16,6.333333333333333,52,Flash,Exhaust,13,False,9255,7100,Targon's Brace,Knight's Vow,Sightstone,Boots of Mobility,Spectre's Cowl,Kindlegem,17216,9351,Lane.bot_lane,Role.duo
+6,WHOOPS CAPS,Yasuo,True,Side.red,6,3,5,3.6666666666666665,229,Flash,Teleport,15,False,12618,9050,Blade of the Ruined King,Phantom Dancer,Ninja Tabi,Cloak of Agility,Doran's Blade,Doran's Blade,30235,112681,Lane.top_lane,Role.solo
+7,all i want,Graves,True,Side.red,11,5,4,3.0,175,Flash,Smite,15,True,13482,11375,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Mercury's Treads,Death's Dance,Hexdrinker,4569,171375,Lane.jungle,Role.none
+8,andtheknee,Jinx,True,Side.red,2,5,12,2.8,172,Heal,Flash,13,False,11412,9825,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Doran's Blade,Pickaxe,B. F. Sword,1668,115500,Lane.bot_lane,Role.duo
+9,MRTONERBONER,Orianna,True,Side.red,10,3,8,6.0,198,Teleport,Flash,15,False,12734,10235,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Seeker's Armguard,Amplifying Tome,115688,15208,Lane.mid_lane,Role.solo

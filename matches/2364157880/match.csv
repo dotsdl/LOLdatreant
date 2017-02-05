@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,aShady,Nautilus,False,Side.blue,2,7,12,2.0,46,Exhaust,Flash,12,False,8516,7575,Ionian Boots of Lucidity,Zz'Rot Portal,Eye of the Equinox,Aegis of the Legion,Cloth Armor,,23091,9232,Lane.bot_lane,Role.support
+1,Gweiss,Jayce,False,Side.blue,5,11,5,0.9090909090909091,168,Ignite,Flash,14,False,9641,9050,Doran's Blade,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Serrated Dirk,,12932,83800,Lane.mid_lane,Role.solo
+2,Donmat,Maokai,False,Side.blue,7,8,4,1.375,162,Teleport,Flash,14,False,9863,8600,Corrupting Potion,Sunfire Cape,Ninja Tabi,Zz'Rot Portal,Giant's Belt,Ruby Crystal,94073,13894,Lane.top_lane,Role.solo
+3,SamppA,Lee Sin,False,Side.blue,4,9,6,1.1111111111111112,120,Flash,Smite,13,True,9084,8100,Mercury's Treads,Control Ward,Enchantment: Warrior,Randuin's Omen,Refillable Potion,Aegis of the Legion,16771,64818,Lane.jungle,Role.none
+4,Bo0sted Monkeys,Jhin,False,Side.blue,10,5,9,3.8,154,Flash,Heal,13,False,11643,11600,Doran's Blade,Essence Reaver,Null-Magic Mantle,Rapid Firecannon,Infinity Edge,Boots of Speed,10033,97419,Lane.bot_lane,Role.carry
+5,Bes,Caitlyn,True,Side.red,6,7,8,2.0,143,Heal,Flash,13,False,11241,10550,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Mortal Reminder,,848,111024,Lane.bot_lane,Role.duo
+6,PieCakeLord,Irelia,True,Side.red,15,2,7,11.0,172,Teleport,Flash,16,False,14610,13533,Blade of the Ruined King,Corrupting Potion,Dead Man's Plate,Trinity Force,Mercury's Treads,Hexdrinker,5992,109706,Lane.top_lane,Role.solo
+7,QuickRev,Zilean,True,Side.red,4,7,17,3.0,83,Flash,Exhaust,14,False,10950,9720,Eye of the Watchers,Rod of Ages,Amplifying Tome,Ionian Boots of Lucidity,Morellonomicon,Amplifying Tome,57907,6828,Lane.bot_lane,Role.duo
+8,amumumu,Amumu,True,Side.red,6,4,13,4.75,173,Flash,Smite,16,False,13273,10875,Enchantment: Runic Echoes,Hunter's Potion,Ninja Tabi,Frozen Heart,Rylai's Crystal Scepter,Blasting Wand,157325,38592,Lane.jungle,Role.none
+9,Nëbu,Fizz,True,Side.red,9,8,10,2.375,116,Flash,Teleport,13,False,11453,11100,Void Staff,Zhonya's Hourglass,Corrupting Potion,Lich Bane,Sorcerer's Shoes,The Dark Seal,55182,16341,Lane.mid_lane,Role.solo

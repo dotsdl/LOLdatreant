@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Makavéli,Rengar,True,Side.blue,14,1,8,22.0,148,Smite,Flash,14,False,13173,10400,Enchantment: Warrior,Youmuu's Ghostblade,Pickaxe,Ionian Boots of Lucidity,Serrated Dirk,Tiamat,10272,140411,Lane.jungle,Role.none
+1,Vladfire1 BG ,Lulu,True,Side.blue,0,4,17,4.25,18,Exhaust,Flash,11,False,7282,5625,Redemption,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,,,10636,7998,Lane.bot_lane,Role.support
+2,cokes,Zilean,True,Side.blue,0,1,15,15.0,121,Teleport,Flash,13,False,7907,6800,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Aether Wisp,Needlessly Large Rod,,58442,10322,Lane.mid_lane,Role.solo
+3,Based Envy,Jayce,True,Side.blue,12,7,4,2.2857142857142856,107,Teleport,Flash,12,True,10768,9125,Refillable Potion,Youmuu's Ghostblade,Doran's Blade,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,13374,68050,Lane.top_lane,Role.solo
+4,Vincente Vu,Twitch,True,Side.blue,6,2,4,5.0,138,Flash,Heal,12,False,9017,6950,Berserker's Greaves,Infinity Edge,Brawler's Gloves,Recurve Bow,Dagger,Doran's Blade,1541,61416,Lane.bot_lane,Role.carry
+5,Liquid fabbbyyy,Vayne,False,Side.red,1,3,1,0.6666666666666666,129,Flash,Heal,10,False,6252,5700,Berserker's Greaves,Pickaxe,B. F. Sword,Doran's Blade,Cull,Zeal,0,39335,Lane.bot_lane,Role.carry
+6,Xpecial,Thresh,False,Side.red,0,4,3,0.75,25,Exhaust,Flash,8,False,4482,3975,Nomad's Medallion,Refillable Potion,Ruby Crystal,Control Ward,Ionian Boots of Lucidity,Sightstone,5231,3508,Lane.bot_lane,Role.support
+7,Révenge,Talon,False,Side.red,2,10,4,0.6,105,Teleport,Flash,12,False,6345,5675,Boots of Speed,Phage,Youmuu's Ghostblade,Health Potion,Long Sword,Cloth Armor,1446,54037,Lane.top_lane,Role.carry
+8,GamerXz,Orianna,False,Side.red,2,8,3,0.625,134,Flash,Ghost,11,False,6709,5825,Doran's Ring,Morellonomicon,Seeker's Armguard,Sorcerer's Shoes,,,46135,10480,Lane.mid_lane,Role.solo
+9,Pobelter,Lee Sin,False,Side.red,9,7,2,1.5714285714285714,100,Flash,Smite,12,False,8304,7925,Refillable Potion,Enchantment: Warrior,Control Ward,Ninja Tabi,Giant's Belt,Dead Man's Plate,11201,55517,Lane.top_lane,Role.support

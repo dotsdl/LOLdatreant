@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SilentSpider,Lux,True,Side.blue,1,4,5,1.5,209,Flash,Ignite,15,False,10877,10125,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Needlessly Large Rod,,Doran's Ring,101928,24671,Lane.mid_lane,Role.solo
+1,OxO  l  4Evr,Thresh,True,Side.blue,2,4,10,3.0,12,Exhaust,Flash,12,False,9187,8300,Eye of the Oasis,Total Biscuit of Rejuvenation,Knight's Vow,Frozen Heart,Boots of Speed,,13258,5820,Lane.bot_lane,Role.support
+2,Lovingyeonsu,Lucian,True,Side.blue,10,6,5,2.5,186,Heal,Flash,14,False,12939,11125,Youmuu's Ghostblade,Long Sword,Long Sword,Phantom Dancer,The Black Cleaver,Ionian Boots of Lucidity,2524,123687,Lane.bot_lane,Role.carry
+3,herolineage,Jax,True,Side.blue,12,6,7,3.1666666666666665,221,Flash,Teleport,17,True,15437,14283,Dead Man's Plate,Titanic Hydra,Zz'Rot Portal,Boots of Swiftness,Trinity Force,,28147,145200,Lane.top_lane,Role.solo
+4,Makahtac069,Nocturne,True,Side.blue,8,1,9,17.0,75,Flash,Smite,14,False,11303,10400,Enchantment: Warrior,Dead Man's Plate,Boots of Mobility,Banshee's Veil,Glacial Shroud,Cloth Armor,6285,72037,Lane.jungle,Role.none
+5,iamLinHan,Poppy,False,Side.red,3,7,3,0.8571428571428571,193,Teleport,Flash,16,False,9941,9550,Corrupting Potion,Sunfire Cape,Iceborn Gauntlet,Phage,Caulfield's Warhammer,Ninja Tabi,38147,90966,Lane.top_lane,Role.solo
+6,Honey peach Tea,Orianna,False,Side.red,3,4,4,1.75,198,Ghost,Flash,14,False,9774,8635,Luden's Echo,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,Morellonomicon,,101218,13691,Lane.mid_lane,Role.solo
+7,Jaycé,Shyvana,False,Side.red,5,10,2,0.7,137,Ghost,Smite,14,False,9903,9875,Enchantment: Bloodrazor,Mercury's Treads,Titanic Hydra,Bilgewater Cutlass,Recurve Bow,,57521,89366,Lane.jungle,Role.none
+8,Prime Time,Janna,False,Side.red,1,5,12,2.6,15,Flash,Exhaust,13,False,8240,6675,Eye of the Oasis,Ionian Boots of Lucidity,Redemption,Aegis of the Legion,,,7317,5912,Lane.bot_lane,Role.support
+9,2Tilt,Vayne,False,Side.red,9,7,5,2.0,139,Flash,Heal,14,False,10887,9830,Doran's Blade,Cull,Phantom Dancer,Berserker's Greaves,Zeal,Infinity Edge,0,84255,Lane.bot_lane,Role.carry

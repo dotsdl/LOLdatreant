@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Suntail,Shyvana,False,Side.blue,12,4,3,3.75,193,Exhaust,Smite,16,False,13313,12883,Spectre's Cowl,Blade of the Ruined King,Chain Vest,Trinity Force,Enchantment: Bloodrazor,Boots of Swiftness,83058,95076,Lane.jungle,Role.none
+1,Thinkful,Kennen,False,Side.blue,5,9,4,1.0,204,Teleport,Flash,14,False,9909,9700,Doran's Blade,Hextech Protobelt-01,Rylai's Crystal Scepter,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,78804,25197,Lane.top_lane,Role.solo
+2,Joelzzz,Ryze,False,Side.blue,4,5,9,2.6,178,Ghost,Flash,14,False,9850,9675,Rod of Ages,Refillable Potion,Ionian Boots of Lucidity,Archangel's Staff,Abyssal Scepter,,118534,7614,Lane.mid_lane,Role.solo
+3,Slugsheep,Janna,False,Side.blue,0,4,12,3.0,22,Flash,Exhaust,12,False,6925,6325,Redemption,Control Ward,Ruby Sightstone,The Dark Seal,Nomad's Medallion,Ionian Boots of Lucidity,12903,5552,Lane.bot_lane,Role.support
+4,Phantóm,Ezreal,False,Side.blue,1,6,5,1.0,191,Flash,Heal,13,False,9349,8925,Ionian Boots of Lucidity,Bilgewater Cutlass,Iceborn Gauntlet,Muramana,Dagger,Doran's Blade,22781,78227,Lane.bot_lane,Role.carry
+5,La LecheMasDulce,Bard,True,Side.red,1,4,9,2.5,13,Flash,Exhaust,13,False,8843,7275,Refillable Potion,Boots of Mobility,Redemption,Eye of the Watchers,Aegis of the Legion,Null-Magic Mantle,11362,5462,Lane.bot_lane,Role.support
+6,am tham ben em,LeBlanc,True,Side.red,14,1,2,16.0,249,Flash,Ignite,17,False,15772,13275,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Abyssal Scepter,Void Staff,,166505,14138,Lane.mid_lane,Role.solo
+7,Hicchan,Lee Sin,True,Side.red,4,6,6,1.6666666666666667,111,Flash,Smite,14,False,10986,9175,Refillable Potion,Sightstone,Hexdrinker,Enchantment: Warrior,The Black Cleaver,Boots of Mobility,19358,113622,Lane.jungle,Role.none
+8,Im Not Impressed,Lucian,True,Side.red,3,4,7,2.5,197,Flash,Heal,14,False,11245,9525,Rapid Firecannon,Essence Reaver,B. F. Sword,Berserker's Greaves,Doran's Blade,,4764,119510,Lane.bot_lane,Role.carry
+9,Dystrex,Darius,True,Side.red,6,7,6,1.7142857142857142,204,Teleport,Flash,16,True,12765,11250,The Black Cleaver,Randuin's Omen,,Mercury's Treads,Zz'Rot Portal,Null-Magic Mantle,0,109789,Lane.top_lane,Role.solo

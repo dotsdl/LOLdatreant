@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rene Storm,Renekton,False,Side.blue,1,7,0,0.14285714285714285,103,Flash,Ignite,10,True,6372,5650,Doran's Shield,Boots of Speed,Refillable Potion,Frozen Mallet,Jaurim's Fist,Ruby Crystal,2336,51245,Lane.top_lane,Role.solo
+1,Sumoh,Vi,False,Side.blue,0,3,1,0.3333333333333333,101,Flash,Smite,11,False,6385,6050,Mercury's Treads,Refillable Potion,Enchantment: Warrior,Phage,Long Sword,Long Sword,2013,76253,Lane.jungle,Role.none
+2,Vicktorious,Lux,False,Side.blue,2,5,1,0.6,175,Flash,Barrier,12,False,7605,7050,Doran's Ring,Morellonomicon,Aether Wisp,The Dark Seal,Sorcerer's Shoes,Needlessly Large Rod,74639,13009,Lane.mid_lane,Role.solo
+3,Braums Mustache,Tahm Kench,False,Side.blue,2,2,0,1.0,39,Flash,Exhaust,10,False,5906,5125,Boots of Swiftness,Sightstone,Face of the Mountain,Crystalline Bracer,Cloth Armor,,8755,5198,Lane.bot_lane,Role.support
+4,Lukillz,Jhin,False,Side.blue,0,2,1,0.5,181,Flash,Heal,11,False,7248,7050,Doran's Blade,Infinity Edge,Boots of Swiftness,Kircheis Shard,Zeal,,4006,72961,Lane.bot_lane,Role.carry
+5,NoobestNoob2,Nami,True,Side.red,1,1,5,6.0,3,Flash,Exhaust,11,False,6544,5400,Control Ward,Sightstone,Talisman of Ascension,,Ionian Boots of Lucidity,Forbidden Idol,3559,4490,Lane.bot_lane,Role.support
+6,ERE56R,Pantheon,True,Side.red,4,3,8,4.0,142,Flash,Ignite,13,False,9122,8300,Youmuu's Ghostblade,Ninja Tabi,Corrupting Potion,The Black Cleaver,Long Sword,Long Sword,5482,78756,Lane.top_lane,Role.solo
+7,sunshinecheng,Elise,True,Side.red,9,1,5,14.0,67,Flash,Smite,13,False,9160,7685,Hextech Protobelt-01,Refillable Potion,Giant's Belt,Boots of Mobility,Enchantment: Runic Echoes,Amplifying Tome,61023,23061,Lane.jungle,Role.none
+8,LilTuffGuy,Vayne,True,Side.red,1,0,3,4.0,153,Flash,Heal,11,False,8240,6800,Doran's Blade,B. F. Sword,Statikk Shiv,Berserker's Greaves,Pickaxe,,7456,59378,Lane.bot_lane,Role.carry
+9,Sumilidon,Ziggs,True,Side.red,4,0,4,8.0,196,Barrier,Flash,14,False,9443,7750,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Control Ward,,Zhonya's Hourglass,87503,10092,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rudeclaw,Bard,False,Side.blue,0,5,4,0.8,2,Flash,Exhaust,10,False,4198,4125,Cloth Armor,Null-Magic Mantle,,Eye of the Watchers,Ionian Boots of Lucidity,,8114,2263,Lane.bot_lane,Role.support
+1,Jospinz,Riven,False,Side.blue,2,8,3,0.625,68,Teleport,Flash,10,False,5414,4825,Ninja Tabi,Doran's Shield,Caulfield's Warhammer,,Phage,,0,25952,Lane.top_lane,Role.solo
+2,Ichinomiya,Rengar,False,Side.blue,4,11,2,0.5454545454545454,79,Flash,Smite,10,False,6209,6075,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Serrated Dirk,Caulfield's Warhammer,,7453,53105,Lane.jungle,Role.none
+3,Wehrli,Caitlyn,False,Side.blue,1,6,3,0.6666666666666666,103,Heal,Flash,10,False,5658,4625,Doran's Blade,Berserker's Greaves,,B. F. Sword,Zeal,Dagger,426,42567,Lane.bot_lane,Role.carry
+4,Easley Pale,Veigar,False,Side.blue,2,2,0,1.0,98,Flash,Teleport,11,False,5506,5250,Doran's Ring,Zhonya's Hourglass,Doran's Ring,Boots of Speed,Lost Chapter,,38249,5047,Lane.mid_lane,Role.solo
+5,TSM Galad,Renekton,True,Side.red,5,4,6,2.75,140,Flash,Ignite,12,False,9166,8725,Doran's Blade,The Black Cleaver,Sterak's Gage,Tiamat,Ninja Tabi,,3238,88526,Lane.top_lane,Role.solo
+6,PancakeKojo,Zed,True,Side.red,9,4,3,3.0,120,Ignite,Flash,12,False,8986,8800,Maw of Malmortius,Phage,Youmuu's Ghostblade,Long Sword,,Boots of Swiftness,4596,55248,Lane.mid_lane,Role.solo
+7,ZelegendaryZ,Sona,True,Side.red,2,0,19,21.0,6,Exhaust,Flash,11,False,7569,6525,Eye of the Watchers,Athene's Unholy Grail,Forbidden Idol,Boots of Mobility,,Control Ward,10350,7437,Lane.bot_lane,Role.support
+8,Yuppyboy,Ezreal,True,Side.red,7,0,13,20.0,141,Flash,Heal,12,False,9836,9225,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,Recurve Bow,,Bilgewater Cutlass,12254,67380,Lane.bot_lane,Role.carry
+9,KarasMai,Kha'Zix,True,Side.red,9,1,3,12.0,109,Flash,Smite,13,True,10710,10225,Enchantment: Warrior,Ravenous Hydra,Youmuu's Ghostblade,Ionian Boots of Lucidity,Refillable Potion,,4206,118584,Lane.jungle,Role.none

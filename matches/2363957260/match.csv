@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nëbu,Swain,False,Side.blue,1,4,1,0.5,183,Flash,Teleport,13,False,7967,7500,Doran's Ring,Zhonya's Hourglass,Refillable Potion,Sorcerer's Shoes,,Rod of Ages,67432,15406,Lane.mid_lane,Role.solo
+1,Årcee,Sivir,False,Side.blue,0,6,1,0.16666666666666666,144,Heal,Flash,11,False,7440,6570,Essence Reaver,Total Biscuit of Rejuvenation,Cull,Berserker's Greaves,Doran's Blade,Cloak of Agility,0,64290,Lane.bot_lane,Role.carry
+2,goompa,Vi,False,Side.blue,1,5,0,0.2,115,Smite,Flash,12,False,7494,7175,Mercury's Treads,Enchantment: Warrior,Hexdrinker,Phage,Dagger,Dagger,621,99855,Lane.jungle,Role.none
+3,GamerXz,Fiora,False,Side.blue,1,2,1,1.0,158,Flash,Teleport,13,False,7451,6950,Corrupting Potion,Tiamat,Maw of Malmortius,Mercury's Treads,Vampiric Scepter,,4192,60578,Lane.top_lane,Role.solo
+4,Darmous,Bard,False,Side.blue,1,6,2,0.5,5,Flash,Ignite,9,False,5638,5350,Frost Queen's Claim,Ruby Sightstone,,Ionian Boots of Lucidity,,,8293,3590,Lane.bot_lane,Role.support
+5,OUT DO YA,Vayne,True,Side.red,8,0,7,15.0,199,Flash,Heal,14,False,10791,9600,Statikk Shiv,Doran's Blade,Zeal,Dagger,Berserker's Greaves,Infinity Edge,23712,92189,Lane.bot_lane,Role.carry
+6,dustycat,Kennen,True,Side.red,4,2,4,4.0,154,Flash,Teleport,13,False,8493,7660,Zhonya's Hourglass,Hextech Protobelt-01,Doran's Blade,Boots of Speed,Blasting Wand,Amplifying Tome,40397,22710,Lane.top_lane,Role.solo
+7,Lucidity,Janna,True,Side.red,3,0,14,17.0,3,Exhaust,Flash,12,False,7506,6975,Talisman of Ascension,Sightstone,Ionian Boots of Lucidity,Refillable Potion,Redemption,Ruby Crystal,3643,2829,Lane.bot_lane,Role.support
+8,SSBM Hax,Twisted Fate,True,Side.red,5,0,2,7.0,201,Flash,Ghost,14,True,10357,8475,Doran's Ring,Rod of Ages,Lich Bane,Fiendish Codex,Ionian Boots of Lucidity,Control Ward,89247,11565,Lane.mid_lane,Role.solo
+9,KiNG Nidhogg,Ryze,True,Side.red,3,2,3,3.0,145,Smite,Flash,13,False,9085,6810,Stalker's Blade,Tear of the Goddess,Boots of Swiftness,Rod of Ages,Amplifying Tome,Pickaxe,108336,22592,Lane.jungle,Role.none

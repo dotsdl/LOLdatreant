@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iTranscend,Ryze,True,Side.blue,4,6,2,1.0,171,Flash,Ghost,13,False,10729,11025,Seraph's Embrace,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,112174,11926,Lane.mid_lane,Role.solo
+1,Dazhao Shangmiss,Caitlyn,True,Side.blue,9,5,6,3.0,194,Heal,Flash,14,True,12993,11800,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,The Bloodthirster,,1557,140568,Lane.bot_lane,Role.carry
+2,Pet Cherry,Nami,True,Side.blue,3,4,15,4.5,12,Exhaust,Flash,12,False,9855,8150,Redemption,Control Ward,Ruby Sightstone,Frost Queen's Claim,Boots of Mobility,Forbidden Idol,11133,7433,Lane.bot_lane,Role.support
+3,KT Score,Ivern,True,Side.blue,2,2,17,9.5,78,Smite,Flash,15,False,10614,9775,Redemption,Skirmisher's Sabre,Locket of the Iron Solari,Athene's Unholy Grail,Needlessly Large Rod,Ionian Boots of Lucidity,19393,8820,Lane.jungle,Role.none
+4,Tyflos,Riven,True,Side.blue,10,2,4,7.0,208,Teleport,Flash,15,False,13350,12325,The Black Cleaver,Death's Dance,Jaurim's Fist,Long Sword,Titanic Hydra,Boots of Speed,3153,124032,Lane.top_lane,Role.solo
+5,thedeen17,Lucian,False,Side.red,7,7,5,1.7142857142857142,167,Flash,Heal,12,False,10191,9740,Doran's Blade,Cloak of Agility,Pickaxe,Essence Reaver,Ionian Boots of Lucidity,Rapid Firecannon,3586,94077,Lane.bot_lane,Role.carry
+6,TCoffee,Taliyah,False,Side.red,4,6,4,1.3333333333333333,145,Ghost,Flash,12,False,8967,8300,Hextech Protobelt-01,Refillable Potion,Blasting Wand,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,84347,9933,Lane.mid_lane,Role.solo
+7,TheBonerMachine,Trundle,False,Side.red,5,3,4,3.0,219,Flash,Teleport,15,False,10697,8850,Corrupting Potion,Zz'Rot Portal,Titanic Hydra,Sheen,,Ninja Tabi,2891,101717,Lane.top_lane,Role.solo
+8,Captain Ziploc,Lee Sin,False,Side.red,3,10,4,0.7,98,Smite,Flash,11,False,8401,7875,Enchantment: Warrior,Youmuu's Ghostblade,Ionian Boots of Lucidity,Refillable Potion,Giant's Belt,Cloth Armor,20016,78700,Lane.jungle,Role.none
+9,6IIII9,Lulu,False,Side.red,0,3,11,3.6666666666666665,16,Exhaust,Flash,12,False,7146,6550,Boots of Mobility,Eye of the Watchers,Forbidden Idol,Refillable Potion,Locket of the Iron Solari,,12130,4433,Lane.bot_lane,Role.support

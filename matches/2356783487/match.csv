@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Makavéli,Ryze,False,Side.blue,5,5,4,1.8,112,Smite,Flash,12,False,8392,7900,Hunter's Talisman,Tear of the Goddess,Rod of Ages,Morellonomicon,,Ionian Boots of Lucidity,79587,15023,Lane.jungle,Role.none
+1,Liquid fabbbyyy,Twitch,False,Side.blue,7,8,1,1.0,98,Flash,Heal,10,False,7227,6475,Berserker's Greaves,Pickaxe,Doran's Blade,Runaan's Hurricane,B. F. Sword,,1360,42546,Lane.bot_lane,Role.carry
+2,Xpecial,Lulu,False,Side.blue,1,4,9,2.5,22,Exhaust,Flash,10,False,6116,5100,Spellthief's Edge,Null-Magic Mantle,Boots of Mobility,,Redemption,Sightstone,8236,4899,Lane.bot_lane,Role.support
+3,Vincente Vu,Vayne,False,Side.blue,0,8,2,0.25,108,Flash,Teleport,11,False,5894,5150,Berserker's Greaves,Frozen Mallet,,Health Potion,Control Ward,Doran's Blade,0,30366,Lane.top_lane,Role.solo
+4,ZatsMod,Cassiopeia,False,Side.blue,2,7,0,0.2857142857142857,148,Flash,Ghost,11,False,6805,5860,Doran's Ring,Giant's Belt,Morellonomicon,Tear of the Goddess,Amplifying Tome,,57620,7530,Lane.mid_lane,Role.solo
+5,The Tank Man,Karma,True,Side.red,3,6,14,2.8333333333333335,8,Flash,Exhaust,10,False,7490,4625,Eye of the Watchers,Faerie Charm,Ionian Boots of Lucidity,Aegis of the Legion,,,12675,4282,Lane.bot_lane,Role.support
+6,Révenge,Talon,True,Side.red,12,4,8,5.0,147,Teleport,Flash,13,True,10740,10425,Ninja Tabi,The Black Cleaver,Youmuu's Ghostblade,Sterak's Gage,Refillable Potion,Long Sword,1139,91451,Lane.top_lane,Role.solo
+7,cokes,Jhin,True,Side.red,5,4,9,3.5,99,Heal,Flash,11,False,8173,5725,Essence Reaver,Cull,Doran's Blade,,,Boots of Swiftness,1135,56493,Lane.bot_lane,Role.carry
+8,Based Envy,Xerath,True,Side.red,5,0,8,13.0,157,Ghost,Flash,13,False,9160,8310,Sorcerer's Shoes,Luden's Echo,Morellonomicon,Doran's Ring,Amplifying Tome,,81547,12614,Lane.jungle,Role.none
+9,Silas Kroeger,Zac,True,Side.red,7,1,13,20.0,131,Smite,Flash,13,False,10001,8350,Enchantment: Cinderhulk,Boots of Speed,Refillable Potion,Spirit Visage,Guardian Angel,,90636,18929,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,greenléaf,Vayne,True,Side.blue,0,3,6,2.0,155,Heal,Flash,12,False,8374,6700,Doran's Blade,Berserker's Greaves,Infinity Edge,,Zeal,,0,76055,Lane.bot_lane,Role.carry
+1,THC Big,Janna,True,Side.blue,0,2,13,6.5,6,Exhaust,Flash,11,False,7245,5925,Ionian Boots of Lucidity,Locket of the Iron Solari,Eye of the Oasis,Faerie Charm,Faerie Charm,Control Ward,1517,4676,Lane.bot_lane,Role.support
+2,Iing,Kennen,True,Side.blue,2,4,9,2.75,149,Flash,Teleport,13,False,9068,8800,Ionian Boots of Lucidity,Hextech Protobelt-01,Zhonya's Hourglass,Giant's Belt,Needlessly Large Rod,,67510,15023,Lane.top_lane,Role.solo
+3,My Kat Evolved,Katarina,True,Side.blue,23,3,3,8.666666666666666,171,Ignite,Flash,14,True,14876,12525,Sorcerer's Shoes,Liandry's Torment,Hextech Gunblade,Rylai's Crystal Scepter,Blasting Wand,The Dark Seal,121301,14382,Lane.jungle,Role.none
+4,Remagi,Hecarim,True,Side.blue,4,2,5,4.5,130,Ghost,Smite,13,False,9619,8383,Stalker's Blade,Ruby Crystal,Mercury's Treads,Trinity Force,Spectre's Cowl,Chain Vest,8396,103297,Lane.jungle,Role.none
+5,Fajisel,Jhin,False,Side.red,2,5,3,1.0,115,Flash,Heal,10,False,6744,6175,Doran's Blade,Essence Reaver,Dagger,Brawler's Gloves,Dagger,Boots of Swiftness,2161,52828,Lane.bot_lane,Role.carry
+6,Xinthus,Zilean,False,Side.red,0,7,3,0.42857142857142855,137,Teleport,Flash,12,False,6827,5550,Doran's Ring,Doran's Ring,Rod of Ages,Tear of the Goddess,Ionian Boots of Lucidity,,54855,7839,Lane.mid_lane,Role.solo
+7,FanatiiLt,Olaf,False,Side.red,6,5,6,2.4,126,Smite,Ghost,13,False,9277,8950,Enchantment: Cinderhulk,Guardian Angel,Ionian Boots of Lucidity,Spirit Visage,,,17361,79098,Lane.jungle,Role.none
+8,Filly,Brand,False,Side.red,2,9,8,1.1111111111111112,12,Flash,Exhaust,10,False,6549,6075,,Ruby Crystal,Eye of the Watchers,Haunting Guise,,Sorcerer's Shoes,17397,1627,Lane.bot_lane,Role.support
+9,Kënnen,Ekko,False,Side.red,4,3,0,1.3333333333333333,120,Teleport,Flash,12,False,7514,5925,Corrupting Potion,Hextech Protobelt-01,Sorcerer's Shoes,Kindlegem,Doran's Ring,Ruby Crystal,63917,10464,Lane.top_lane,Role.solo

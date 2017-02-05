@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xxBAROOxx,Renekton,False,Side.blue,1,6,3,0.6666666666666666,122,Teleport,Flash,12,False,7669,7500,Sunfire Cape,Ninja Tabi,The Black Cleaver,,,,17716,54801,Lane.top_lane,Role.solo
+1,Its Zemuda ,Katarina,False,Side.blue,2,9,4,0.6666666666666666,175,Flash,Ghost,13,False,8263,7625,The Dark Seal,Refillable Potion,Sorcerer's Shoes,Needlessly Large Rod,Hextech Gunblade,Giant's Belt,90565,10897,Lane.mid_lane,Role.solo
+2,Aethex,Braum,False,Side.blue,0,5,9,1.8,34,Flash,Exhaust,11,False,6388,5625,Ruby Sightstone,Locket of the Iron Solari,,Total Biscuit of Rejuvenation,Relic Shield,Boots of Mobility,5945,4904,Lane.bot_lane,Role.support
+3,ZongopBongo,Varus,False,Side.blue,4,4,4,2.0,181,Flash,Heal,12,True,9374,7975,Doran's Blade,Essence Reaver,Refillable Potion,Phantom Dancer,,Berserker's Greaves,5677,79506,Lane.bot_lane,Role.carry
+4,xxxVOLIBEARxx,Volibear,False,Side.blue,9,6,2,1.8333333333333333,169,Flash,Smite,15,False,11580,10225,Zz'Rot Portal,Titanic Hydra,Control Ward,Mercury's Treads,,Enchantment: Cinderhulk,23988,116357,Lane.jungle,Role.none
+5,Mrs Bjerg,Janna,True,Side.red,0,3,14,4.666666666666667,8,Exhaust,Flash,12,False,7170,6110,Nomad's Medallion,Redemption,Sightstone,Amplifying Tome,Forbidden Idol,Ionian Boots of Lucidity,4865,5568,Lane.bot_lane,Role.support
+6,Panth Tier God,Pantheon,True,Side.red,6,3,13,6.333333333333333,169,Ignite,Flash,14,False,10964,9325,Death's Dance,,Doran's Blade,The Black Cleaver,Ionian Boots of Lucidity,,6036,102312,Lane.top_lane,Role.solo
+7,Mastology,Caitlyn,True,Side.red,4,3,6,3.3333333333333335,228,Flash,Heal,13,False,10863,9450,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,Dagger,374,142622,Lane.bot_lane,Role.carry
+8,Newbert,Vel'Koz,True,Side.red,6,5,16,4.4,152,Heal,Flash,15,False,11034,10625,Total Biscuit of Rejuvenation,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Void Staff,83632,7630,Lane.mid_lane,Role.solo
+9,DarkL3g3nd,Kha'Zix,True,Side.red,14,2,4,9.0,95,Flash,Smite,14,False,12531,11400,Enchantment: Warrior,Ionian Boots of Lucidity,Refillable Potion,Duskblade of Draktharr,The Black Cleaver,Hexdrinker,5178,113805,Lane.jungle,Role.none

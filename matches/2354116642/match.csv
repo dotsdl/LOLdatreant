@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CARRIED BY ME,Vayne,True,Side.blue,0,2,2,1.0,160,Flash,Heal,11,False,7872,7300,Doran's Blade,Infinity Edge,Statikk Shiv,Boots of Speed,,Dagger,960,65239,Lane.bot_lane,Role.carry
+1,SoV NSFW,Poppy,True,Side.blue,5,1,8,13.0,118,Flash,Teleport,12,False,8308,7850,Sunfire Cape,Spectre's Cowl,Corrupting Potion,Mercury's Treads,Stinger,Sheen,17714,48436,Lane.top_lane,Role.solo
+2,Grande Donger,Taric,True,Side.blue,0,3,14,4.666666666666667,27,Flash,Exhaust,10,False,6509,5675,Eye of the Equinox,Locket of the Iron Solari,Control Ward,Ionian Boots of Lucidity,,,10952,6834,Lane.bot_lane,Role.support
+3,Sebi,Viktor,True,Side.blue,9,3,5,4.666666666666667,143,Flash,Ghost,12,False,9990,8950,The Hex Core mk-2,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Needlessly Large Rod,70151,9341,Lane.mid_lane,Role.solo
+4,skyWtr,Sejuani,True,Side.blue,9,0,6,15.0,101,Smite,Flash,12,True,9870,8025,,Refillable Potion,Kindlegem,Liandry's Torment,Mercury's Treads,Enchantment: Cinderhulk,60924,25701,Lane.jungle,Role.none
+5,Dardòch,Maokai,False,Side.red,0,6,0,0.0,116,Flash,Teleport,10,False,5640,5525,Doran's Ring,Null-Magic Mantle,Ruby Crystal,Mercury's Treads,Sunfire Cape,,47257,8923,Lane.top_lane,Role.solo
+6,Swifte,Nami,False,Side.red,1,2,3,2.0,4,Flash,Ignite,8,False,5309,5000,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Crystalline Bracer,Forbidden Idol,3995,4830,Lane.bot_lane,Role.support
+7,GoSuPoTaTo,Kennen,False,Side.red,3,6,2,0.8333333333333334,86,Teleport,Flash,10,False,6003,5585,Hextech Protobelt-01,Fiendish Codex,Doran's Blade,Refillable Potion,Sorcerer's Shoes,Amplifying Tome,30490,11606,Lane.mid_lane,Role.solo
+8,Loc Tran,Rengar,False,Side.red,1,4,2,0.75,77,Smite,Flash,10,False,5918,4925,Enchantment: Warrior,Refillable Potion,Control Ward,Serrated Dirk,Ionian Boots of Lucidity,,7871,60235,Lane.jungle,Role.none
+9,BestLucianAfrica,Twitch,False,Side.red,4,5,3,1.4,131,Heal,Flash,11,False,7655,6525,Doran's Blade,Runaan's Hurricane,Pickaxe,Berserker's Greaves,B. F. Sword,,1188,61517,Lane.bot_lane,Role.carry

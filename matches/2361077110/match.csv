@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AchiIIes Heal,Ahri,False,Side.blue,3,10,6,0.9,130,Flash,Ignite,12,False,8763,8500,,Control Ward,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,43130,11003,Lane.mid_lane,Role.solo
+1,TheDankWithinUs,Janna,False,Side.blue,1,3,14,5.0,16,Flash,Exhaust,11,False,8493,8000,Talisman of Ascension,Redemption,Sightstone,Zeke's Harbinger,Boots of Speed,,7153,6773,Lane.bot_lane,Role.support
+2,4911,Ezreal,False,Side.blue,8,7,5,1.8571428571428572,143,Heal,Flash,12,False,11228,11483,Blade of the Ruined King,Muramana,Trinity Force,,Ionian Boots of Lucidity,,15814,84885,Lane.bot_lane,Role.carry
+3,Paulguin,Renekton,False,Side.blue,4,12,4,0.6666666666666666,209,Teleport,Ghost,13,True,11061,10750,Mercury's Treads,Tiamat,Dead Man's Plate,Zeal,Kircheis Shard,The Black Cleaver,4676,129137,Lane.top_lane,Role.solo
+4,Drowning,Rek'Sai,False,Side.blue,6,8,8,1.75,144,Flash,Smite,14,False,11200,10500,Randuin's Omen,Refillable Potion,Control Ward,Titanic Hydra,Ninja Tabi,Enchantment: Warrior,14744,116727,Lane.jungle,Role.none
+5,Nwok,Zac,True,Side.red,11,2,14,12.5,101,Flash,Smite,16,False,13200,10250,Enchantment: Cinderhulk,Randuin's Omen,Ruby Crystal,Kindlegem,Ionian Boots of Lucidity,Guardian Angel,110644,20142,Lane.jungle,Role.none
+6,S3 Elise,Thresh,True,Side.red,1,9,11,1.3333333333333333,29,Flash,Ignite,12,False,8172,9250,Ruby Crystal,Zhonya's Hourglass,Ruby Sightstone,,,Boots of Mobility,8792,6111,Lane.bot_lane,Role.support
+7,Lyxical,Kha'Zix,True,Side.red,9,5,7,3.2,144,Teleport,Flash,15,False,11867,9800,Corrupting Potion,Tiamat,,Maw of Malmortius,Ninja Tabi,The Black Cleaver,4538,105012,Lane.top_lane,Role.solo
+8,No Speak Inglish,Caitlyn,True,Side.red,16,3,9,8.333333333333334,231,Heal,Flash,17,False,16669,12000,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,The Bloodthirster,,28292,172520,Lane.bot_lane,Role.carry
+9,QuickRev,Zilean,True,Side.red,3,3,17,6.666666666666667,170,Flash,Teleport,16,False,11519,8685,Doran's Ring,Rod of Ages,Blasting Wand,Ionian Boots of Lucidity,Morellonomicon,Amplifying Tome,98050,12580,Lane.mid_lane,Role.solo

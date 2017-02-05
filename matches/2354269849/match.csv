@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pond,Vayne,True,Side.blue,0,0,0,0.0,15,Heal,Flash,2,False,942,500,,Doran's Blade,,,,,0,3436,Lane.bot_lane,Role.duo
+1,NiMura,Ryze,True,Side.blue,0,0,0,0.0,16,Flash,Ghost,3,False,987,500,Sapphire Crystal,Refillable Potion,,,,,950,1589,Lane.mid_lane,Role.solo
+2,TaeYeonT,Karma,True,Side.blue,0,0,0,0.0,0,Exhaust,Flash,2,False,783,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,1335,528,Lane.bot_lane,Role.duo
+3,MooseHater,Zac,True,Side.blue,0,0,0,0.0,11,Flash,Smite,3,False,1058,500,Hunter's Talisman,Refillable Potion,,,,,6299,2608,Lane.jungle,Role.none
+4,Kuiiiiiiiiiiiii,Yasuo,True,Side.blue,1,0,0,1.0,13,Teleport,Flash,3,True,1330,500,Doran's Shield,,,,,,871,4482,Lane.top_lane,Role.solo
+5,Natalia Dyer,Riven,False,Side.red,0,0,0,0.0,0,Flash,Teleport,1,False,660,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+6,08 06 1995,Janna,False,Side.red,0,0,0,0.0,0,Exhaust,Flash,2,False,767,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,105,992,Lane.bot_lane,Role.duo
+7,Swàin,Swain,False,Side.red,0,0,0,0.0,13,Ignite,Flash,3,False,921,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,2066,1007,Lane.mid_lane,Role.duo
+8,Grell Carry U,Lee Sin,False,Side.red,0,1,0,0.0,16,Flash,Smite,3,False,1011,500,Hunter's Machete,Refillable Potion,,,,,1024,5925,Lane.top_lane,Role.solo
+9,zaqwsxcde,Caitlyn,False,Side.red,0,0,0,0.0,10,Flash,Heal,2,False,876,500,Doran's Blade,,,,,,75,3644,Lane.bot_lane,Role.duo

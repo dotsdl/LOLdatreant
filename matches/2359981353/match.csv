@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,I Awoken I,Renekton,False,Side.blue,5,7,3,1.1428571428571428,171,Ignite,Flash,14,False,9605,9050,Tiamat,Cloth Armor,Cloth Armor,The Black Cleaver,Mercury's Treads,Spirit Visage,2049,94694,Lane.top_lane,Role.solo
+1,Yasuo dont care,Gangplank,False,Side.blue,2,5,4,1.2,167,Flash,Exhaust,13,False,9084,8733,Trinity Force,Essence Reaver,Pickaxe,,Boots of Speed,,5884,105392,Lane.mid_lane,Role.solo
+2,Vikiking,Janna,False,Side.blue,0,10,7,0.7,7,Flash,Exhaust,10,False,6323,6150,Boots of Swiftness,Redemption,Eye of the Oasis,Aether Wisp,,,4066,1694,Lane.bot_lane,Role.support
+3,feed l0rd,Lee Sin,False,Side.blue,4,7,3,1.0,142,Flash,Smite,14,False,9207,7850,Tiamat,Youmuu's Ghostblade,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Warrior,,17427,97006,Lane.jungle,Role.none
+4,I Have Dominated,Vayne,False,Side.blue,2,11,2,0.36363636363636365,130,Flash,Heal,11,False,8080,7100,Doran's Blade,Cull,Pickaxe,Statikk Shiv,Berserker's Greaves,B. F. Sword,5388,43206,Lane.bot_lane,Role.carry
+5,TF Demon King,Twisted Fate,True,Side.red,12,1,7,19.0,181,Ghost,Flash,15,False,13964,11775,Doran's Ring,Zhonya's Hourglass,Mejai's Soulstealer,Void Staff,Ionian Boots of Lucidity,Lich Bane,126743,14014,Lane.jungle,Role.none
+6,max677,Sejuani,True,Side.red,2,2,15,8.5,113,Smite,Flash,13,False,9572,8955,Enchantment: Cinderhulk,Righteous Glory,Ninja Tabi,Warden's Mail,Giant's Belt,Control Ward,64131,25147,Lane.jungle,Role.none
+7,HopOffMyDonger,Morgana,True,Side.red,3,3,23,8.666666666666666,13,Exhaust,Flash,12,False,9586,8035,Seeker's Armguard,Frost Queen's Claim,Sightstone,Redemption,Ionian Boots of Lucidity,Amplifying Tome,20142,6431,Lane.bot_lane,Role.support
+8,II Master II,Ezreal,True,Side.red,12,3,16,9.333333333333334,151,Flash,Heal,14,False,12710,12708,Trinity Force,Manamune,B. F. Sword,Lord Dominik's Regards,Ionian Boots of Lucidity,Vampiric Scepter,17049,86494,Lane.bot_lane,Role.carry
+9,KaneKi521,Yasuo,True,Side.red,11,4,6,4.25,208,Flash,Teleport,14,True,12875,11125,Refillable Potion,Frozen Mallet,Phantom Dancer,Doran's Blade,Infinity Edge,Ninja Tabi,31664,107043,Lane.top_lane,Role.solo

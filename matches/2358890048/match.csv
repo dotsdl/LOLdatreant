@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aurath,Twitch,True,Side.blue,8,3,8,5.333333333333333,120,Smite,Flash,14,False,11736,10225,Blade of the Ruined King,Ninja Tabi,Control Ward,Enchantment: Bloodrazor,Spirit Visage,,3237,113834,Lane.jungle,Role.none
+1,BMoreScoots,Renekton,True,Side.blue,2,5,2,0.8,189,Teleport,Flash,13,False,10026,9925,The Black Cleaver,Titanic Hydra,Mercury's Treads,Refillable Potion,Kindlegem,Spectre's Cowl,3116,106101,Lane.top_lane,Role.solo
+2,Fierce Mushy,Ekko,True,Side.blue,4,2,2,3.0,151,Teleport,Flash,14,False,10059,8310,Doran's Ring,Hextech Protobelt-01,Lich Bane,Sorcerer's Shoes,Amplifying Tome,Control Ward,93344,19740,Lane.mid_lane,Role.solo
+3,Ginormous Noob,Thresh,True,Side.blue,3,4,8,2.75,34,Flash,Exhaust,12,False,8556,8400,Face of the Mountain,Redemption,Ruby Sightstone,Control Ward,Boots of Mobility,Glacial Shroud,8669,4519,Lane.bot_lane,Role.support
+4,Kic,Ezreal,True,Side.blue,5,2,8,6.5,180,Flash,Heal,13,True,11969,10425,Doran's Blade,Iceborn Gauntlet,Blade of the Ruined King,Cull,Ionian Boots of Lucidity,Muramana,11619,90228,Lane.bot_lane,Role.carry
+5,Penquynh,Lulu,False,Side.red,2,4,7,2.25,11,Flash,Exhaust,10,False,6286,5750,Redemption,Sightstone,Control Ward,Frostfang,Ionian Boots of Lucidity,Null-Magic Mantle,5914,2736,Lane.bot_lane,Role.support
+6,bileyg,Rengar,False,Side.red,3,4,4,1.75,113,Flash,Smite,12,False,7955,7550,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Long Sword,Long Sword,8998,88967,Lane.jungle,Role.none
+7,OoR4s3Ng4N4rUtOo,Jhin,False,Side.red,4,6,8,2.0,117,Flash,Heal,11,False,8207,7200,Essence Reaver,Zeal,Boots of Swiftness,Doran's Blade,Dagger,Cull,9757,64309,Lane.bot_lane,Role.carry
+8,BONGR1PS,Ryze,False,Side.red,1,5,7,1.6,168,Flash,Ghost,14,False,8392,7400,Tear of the Goddess,Refillable Potion,Ionian Boots of Lucidity,Abyssal Scepter,,Rod of Ages,89468,8619,Lane.mid_lane,Role.solo
+9,Linnu,Kennen,False,Side.red,6,3,2,2.6666666666666665,204,Teleport,Flash,15,False,9891,9900,Frozen Mallet,Runaan's Hurricane,Blade of the Ruined King,,,Doran's Blade,27203,62607,Lane.top_lane,Role.solo

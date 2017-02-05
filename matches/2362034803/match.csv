@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LPL S6Champion,Alistar,False,Side.blue,1,5,7,1.6,24,Exhaust,Flash,9,False,5365,4850,Face of the Mountain,Sightstone,Control Ward,Total Biscuit of Rejuvenation,Boots of Mobility,Crystalline Bracer,6442,3813,Lane.bot_lane,Role.support
+1,Je suis Mak,Nasus,False,Side.blue,2,6,2,0.6666666666666666,121,Flash,Teleport,12,False,6872,6375,Corrupting Potion,Iceborn Gauntlet,Ninja Tabi,Kindlegem,Spectre's Cowl,,17696,45933,Lane.top_lane,Role.solo
+2,1101010,Sivir,False,Side.blue,2,6,2,0.6666666666666666,164,Heal,Flash,11,False,7231,6650,Boots of Speed,Kircheis Shard,Essence Reaver,Zeal,Doran's Blade,,124,68502,Lane.bot_lane,Role.carry
+3,ChriShin,Elise,False,Side.blue,8,8,0,1.0,73,Smite,Flash,11,False,7447,7360,Hextech Protobelt-01,Refillable Potion,Enchantment: Runic Echoes,Sorcerer's Shoes,Amplifying Tome,Ruby Crystal,42257,14428,Lane.jungle,Role.none
+4,Scammerz,Taliyah,False,Side.blue,1,6,4,0.8333333333333334,119,Flash,Ghost,11,True,6430,6155,Doran's Ring,Lost Chapter,Negatron Cloak,Rylai's Crystal Scepter,Boots of Speed,Amplifying Tome,52457,9818,Lane.mid_lane,Role.solo
+5,Emonster,Tryndamere,True,Side.red,7,3,2,3.0,177,Flash,Teleport,13,False,10230,9860,Nashor's Tooth,Ionian Boots of Lucidity,Lich Bane,Needlessly Large Rod,Blasting Wand,Amplifying Tome,11767,96599,Lane.top_lane,Role.solo
+6,Oh Justino,Janna,True,Side.red,1,4,10,2.75,8,Flash,Exhaust,9,False,6257,6125,Boots of Mobility,Eye of the Oasis,Redemption,Null-Magic Mantle,Control Ward,Cloth Armor,2318,3835,Lane.bot_lane,Role.support
+7,Yun Dal,Twitch,True,Side.red,4,1,8,12.0,115,Heal,Flash,11,False,8125,6800,Pickaxe,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Dagger,0,58894,Lane.bot_lane,Role.carry
+8,Anthøny,Kha'Zix,True,Side.red,7,3,6,4.333333333333333,78,Smite,Flash,12,False,9117,8300,Ionian Boots of Lucidity,Youmuu's Ghostblade,Refillable Potion,Hexdrinker,Enchantment: Warrior,Long Sword,3885,88846,Lane.jungle,Role.none
+9,Hi im Thalies,Katarina,True,Side.red,12,4,6,4.5,134,Ignite,Flash,13,False,10808,10100,The Dark Seal,Void Staff,Aether Wisp,Hextech Gunblade,Sorcerer's Shoes,Needlessly Large Rod,73340,8678,Lane.mid_lane,Role.solo

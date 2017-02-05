@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UnderDeeTree ,Renekton,False,Side.blue,0,10,4,0.4,140,Ignite,Flash,12,False,7535,7100,Locket of the Iron Solari,Refillable Potion,Ninja Tabi,The Black Cleaver,Long Sword,,2006,80319,Lane.top_lane,Role.solo
+1,dillie,Lulu,False,Side.blue,2,3,10,4.0,55,Exhaust,Flash,12,False,8520,8350,Sightstone,Ardent Censer,Crystalline Bracer,Ionian Boots of Lucidity,Forbidden Idol,Frost Queen's Claim,34674,5116,Lane.bot_lane,Role.support
+2,bananawarrior,Jhin,False,Side.blue,4,6,6,1.6666666666666667,156,Heal,Flash,12,False,9125,8875,Essence Reaver,Infinity Edge,Boots of Swiftness,Control Ward,Dagger,,3043,102089,Lane.bot_lane,Role.carry
+3,Poxiel,Hecarim,False,Side.blue,8,6,5,2.1666666666666665,138,Smite,Ghost,14,False,10546,9658,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Trinity Force,Chain Vest,Giant's Belt,21537,106644,Lane.jungle,Role.none
+4,NathanDrake321,Katarina,False,Side.blue,6,8,5,1.375,127,Ignite,Flash,14,False,9262,9075,Hextech Gunblade,Mejai's Soulstealer,Abyssal Scepter,Aether Wisp,,Boots of Speed,73705,10762,Lane.mid_lane,Role.solo
+5,tehgameguy,Janna,True,Side.red,1,3,15,5.333333333333333,14,Flash,Exhaust,13,False,8270,5975,Redemption,Refillable Potion,Ruby Sightstone,Ancient Coin,Ionian Boots of Lucidity,Forbidden Idol,5192,5488,Lane.bot_lane,Role.support
+6,Mrs Bjerg,Jinx,True,Side.red,6,4,6,3.0,149,Heal,Flash,13,False,10703,8550,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Dagger,Brawler's Gloves,425,90890,Lane.bot_lane,Role.carry
+7,Panth Tier God,Darius,True,Side.red,6,4,4,2.5,201,Teleport,Flash,15,False,11738,10750,,The Black Cleaver,Sunfire Cape,Mercury's Treads,,Spirit Visage,14896,115048,Lane.top_lane,Role.solo
+8,Mango the Magus,LeBlanc,True,Side.red,5,6,10,2.5,138,Exhaust,Flash,13,True,10188,10655,Needlessly Large Rod,Morellonomicon,Giant's Belt,The Dark Seal,Sorcerer's Shoes,Void Staff,70297,10928,Lane.mid_lane,Role.solo
+9,Code,Lee Sin,True,Side.red,13,3,7,6.666666666666667,140,Smite,Flash,16,False,13632,11270,Negatron Cloak,Enchantment: Warrior,Duskblade of Draktharr,Mercury's Treads,Dead Man's Plate,Chain Vest,25811,121492,Lane.jungle,Role.none

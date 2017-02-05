@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheNuocMam,Lux,True,Side.blue,5,0,7,12.0,139,Ignite,Flash,12,False,9080,7650,Frost Queen's Claim,Refillable Potion,Mejai's Soulstealer,Doran's Ring,Boots of Speed,Luden's Echo,51732,14127,Lane.mid_lane,Role.solo
+1,Strawberry Ice,Karma,True,Side.blue,0,0,9,9.0,3,Flash,Exhaust,9,False,5096,3975,,Boots of Speed,Ruby Crystal,Control Ward,Forbidden Idol,Eye of the Watchers,7198,6432,Lane.bot_lane,Role.support
+2,DiaBROo,Twitch,True,Side.blue,12,0,2,14.0,92,Flash,Smite,11,True,9719,8475,Enchantment: Bloodrazor,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,Recurve Bow,,1574,68343,Lane.jungle,Role.none
+3,LegitADC,Caitlyn,True,Side.blue,1,3,6,2.3333333333333335,107,Heal,Flash,9,False,6701,5875,Refillable Potion,Control Ward,Cull,Infinity Edge,Berserker's Greaves,Doran's Blade,344,46637,Lane.bot_lane,Role.carry
+4,A Torin Asol,Nasus,True,Side.blue,2,1,5,7.0,136,Flash,Teleport,12,False,8291,5575,Doran's Ring,Zz'Rot Portal,Corrupting Potion,Ninja Tabi,Ruby Crystal,Doran's Ring,54353,22131,Lane.top_lane,Role.solo
+5,GoldenMile,Trundle,False,Side.red,1,5,0,0.2,108,Teleport,Flash,9,False,4749,4475,Titanic Hydra,,Boots of Speed,Doran's Blade,,,368,38946,Lane.top_lane,Role.solo
+6,Dat Boiiiiiiiii,Ezreal,False,Side.red,2,5,1,0.6,87,Flash,Heal,9,False,4992,4525,Doran's Blade,Tear of the Goddess,Sheen,Phage,Ionian Boots of Lucidity,,4752,35745,Lane.bot_lane,Role.carry
+7,Hècarim,Hecarim,False,Side.red,0,2,1,0.5,60,Smite,Ghost,8,False,4281,3525,Skirmisher's Sabre,Hunter's Potion,Control Ward,Boots of Speed,Phage,Sapphire Crystal,5679,40039,Lane.jungle,Role.none
+8,FaR007,Bard,False,Side.red,1,2,2,1.5,4,Ignite,Flash,8,False,3719,3625,Spellthief's Edge,Sightstone,Boots of Mobility,Forbidden Idol,,Ruby Crystal,3983,2510,Lane.bot_lane,Role.support
+9,Qkuzi,Kassadin,False,Side.red,0,6,0,0.0,101,Flash,Teleport,9,False,4426,4075,The Dark Seal,Corrupting Potion,Control Ward,Boots of Speed,Rod of Ages,,19751,12165,Lane.mid_lane,Role.solo

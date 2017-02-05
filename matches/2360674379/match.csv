@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Blitzcrank,False,Side.blue,1,4,8,2.25,51,Flash,Ignite,12,False,7578,7050,Sightstone,Face of the Mountain,Knight's Vow,Total Biscuit of Rejuvenation,,Boots of Mobility,7422,9611,Lane.bot_lane,Role.support
+1,Modx,Riven,False,Side.blue,5,7,4,1.2857142857142858,191,Flash,Teleport,14,False,9724,9750,Death's Dance,Tiamat,Ruby Crystal,Mercury's Treads,The Black Cleaver,,0,100505,Lane.top_lane,Role.solo
+2,Pirean,Ryze,False,Side.blue,7,3,2,3.0,188,Ghost,Flash,14,True,10665,9850,Seraph's Embrace,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Frozen Heart,Cloth Armor,106552,13593,Lane.mid_lane,Role.solo
+3,Asyc xD ,Vi,False,Side.blue,0,6,1,0.16666666666666666,127,Heal,Flash,12,False,7852,7525,Hunter's Potion,Bilgewater Cutlass,Randuin's Omen,Mercury's Treads,Poacher's Dirk,Kindlegem,217,94611,Lane.jungle,Role.none
+4,Je Suis Saskio,Jhin,False,Side.blue,1,4,3,1.0,207,Flash,Heal,13,False,9354,9500,Doran's Blade,Rapid Firecannon,Ionian Boots of Lucidity,Last Whisper,,Essence Reaver,6444,114928,Lane.bot_lane,Role.carry
+5,Nash,Lux,True,Side.red,3,4,9,3.0,218,Ghost,Flash,15,False,11573,9950,Doran's Ring,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Needlessly Large Rod,Sorcerer's Shoes,132272,15107,Lane.mid_lane,Role.solo
+6,DirtyMobs,Illaoi,True,Side.red,8,2,5,6.5,231,Flash,Teleport,16,False,13750,12650,Guardian Angel,Spirit Visage,Sterak's Gage,The Black Cleaver,Mercury's Treads,,260,173320,Lane.top_lane,Role.solo
+7,LL Stylish,Zed,True,Side.red,9,2,2,5.5,163,Smite,Flash,15,False,12979,12525,Enchantment: Warrior,Phage,Youmuu's Ghostblade,Mercury's Treads,Duskblade of Draktharr,Caulfield's Warhammer,12902,154276,Lane.jungle,Role.none
+8,Azerothir,Zilean,True,Side.red,0,3,9,3.0,11,Flash,Exhaust,12,False,8449,7060,Redemption,Glacial Shroud,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Amplifying Tome,12419,4878,Lane.bot_lane,Role.support
+9,Àce,Twitch,True,Side.red,4,3,4,2.6666666666666665,164,Flash,Heal,13,False,11003,9900,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,Kircheis Shard,246,104229,Lane.bot_lane,Role.carry

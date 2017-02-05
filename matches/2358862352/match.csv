@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheIntenseMango,Syndra,False,Side.blue,4,8,3,0.875,172,Flash,Ghost,13,False,9441,8795,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,,92113,8576,Lane.mid_lane,Role.solo
+1,Drowning,Rek'Sai,False,Side.blue,9,5,3,2.4,158,Flash,Smite,14,True,11725,11225,Null-Magic Mantle,Mercury's Treads,Maw of Malmortius,Titanic Hydra,Enchantment: Warrior,,14918,118223,Lane.jungle,Role.none
+2,Rositajonez,Caitlyn,False,Side.blue,0,10,7,0.7,183,Heal,Flash,13,False,9562,9075,Doran's Blade,Infinity Edge,Kircheis Shard,Runaan's Hurricane,Dagger,Berserker's Greaves,624,123554,Lane.bot_lane,Role.duo
+3,UCSD Felix,Nasus,False,Side.blue,1,7,1,0.2857142857142857,156,Flash,Teleport,12,False,8608,8733,Corrupting Potion,Trinity Force,,,Zz'Rot Portal,Ionian Boots of Lucidity,62857,18469,Lane.top_lane,Role.solo
+4,An Obese Panda,Brand,False,Side.blue,4,7,5,1.2857142857142858,46,Flash,Exhaust,12,False,8814,7935,Eye of the Watchers,Control Ward,Blasting Wand,Boots of Mobility,Amplifying Tome,Liandry's Torment,43043,9236,Lane.bot_lane,Role.duo
+5,Auldrant,Vayne,True,Side.red,10,4,2,3.0,171,Flash,Heal,14,False,12189,9750,Doran's Blade,Infinity Edge,Statikk Shiv,B. F. Sword,Berserker's Greaves,Long Sword,5225,112035,Lane.bot_lane,Role.carry
+6,D0NG0,Fizz,True,Side.red,11,2,4,7.5,174,Teleport,Flash,15,False,12396,11925,Corrupting Potion,Zhonya's Hourglass,The Dark Seal,Sorcerer's Shoes,Lich Bane,Rabadon's Deathcap,82651,24664,Lane.top_lane,Role.solo
+7,Doctor Flambe,Janna,True,Side.red,3,4,16,4.75,11,Exhaust,Flash,13,False,9513,8520,Redemption,Eye of the Watchers,Ardent Censer,Amplifying Tome,Ionian Boots of Lucidity,Refillable Potion,9916,6066,Lane.bot_lane,Role.support
+8,bobqinXD,Viktor,True,Side.red,5,5,10,3.0,218,Flash,Cleanse,15,False,12080,12250,Sheen,Rylai's Crystal Scepter,Abyssal Scepter,Doran's Ring,Ionian Boots of Lucidity,Perfect Hex Core,124959,14341,Lane.mid_lane,Role.solo
+9,Prisml,Shaco,True,Side.red,8,3,12,6.666666666666667,190,Smite,Ignite,17,False,13289,11875,Titanic Hydra,Enchantment: Warrior,Hextech Gunblade,B. F. Sword,Boots of Mobility,,34923,144436,Lane.jungle,Role.none

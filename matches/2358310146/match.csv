@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Na Kirby,Karma,True,Side.blue,2,0,14,16.0,20,Exhaust,Flash,11,False,8479,7275,Eye of the Watchers,Redemption,Control Ward,Ionian Boots of Lucidity,Null-Magic Mantle,Aegis of the Legion,11881,5627,Lane.bot_lane,Role.support
+1,Zyko,Ryze,True,Side.blue,6,0,2,8.0,178,Ghost,Flash,13,False,10506,8075,,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Rod of Ages,,Tear of the Goddess,88218,14987,Lane.mid_lane,Role.solo
+2,Roewland,Twitch,True,Side.blue,5,3,7,4.0,220,Heal,Flash,14,False,12251,12050,Doran's Blade,Infinity Edge,Cloak of Agility,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,0,132147,Lane.bot_lane,Role.carry
+3,Edgeism,Rengar,True,Side.blue,7,3,6,4.333333333333333,172,Smite,Flash,15,False,11707,9795,Chain Vest,Tiamat,The Black Cleaver,Negatron Cloak,Enchantment: Warrior,Ionian Boots of Lucidity,13352,155206,Lane.jungle,Role.none
+4,TextualEditorXD,Gangplank,True,Side.blue,3,4,5,2.0,177,Teleport,Flash,14,False,10561,8633,Doran's Ring,Trinity Force,Ninja Tabi,B. F. Sword,Chain Vest,Cloak of Agility,7826,102647,Lane.top_lane,Role.solo
+5,KINKY LORD,Hecarim,False,Side.red,4,5,3,1.4,106,Smite,Ghost,13,True,8459,8258,Hunter's Potion,Trinity Force,Mercury's Treads,Enchantment: Cinderhulk,Ruby Crystal,,16436,86048,Lane.jungle,Role.none
+6,ubernewbz,Bard,False,Side.red,0,2,4,2.0,14,Flash,Exhaust,10,False,5536,4475,Frost Queen's Claim,Sightstone,Boots of Mobility,,,,13078,3368,Lane.bot_lane,Role.support
+7,2342563463634,Ezreal,False,Side.red,3,6,3,1.0,142,Heal,Flash,11,False,7625,7505,Manamune,Iceborn Gauntlet,Long Sword,Doran's Blade,Ionian Boots of Lucidity,Long Sword,10265,65909,Lane.bot_lane,Role.carry
+8,will win,Orianna,False,Side.red,0,3,3,1.0,191,Flash,Ghost,13,False,7612,7510,Doran's Ring,Amplifying Tome,Needlessly Large Rod,Blasting Wand,Morellonomicon,Sorcerer's Shoes,81265,10687,Lane.mid_lane,Role.solo
+9,Firé,Riven,False,Side.red,2,7,1,0.42857142857142855,144,Teleport,Flash,12,False,7626,7225,Refillable Potion,Tiamat,The Black Cleaver,Ionian Boots of Lucidity,Hexdrinker,Long Sword,64,69643,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vultix,Zac,False,Side.blue,3,2,4,3.5,112,Flash,Smite,13,False,8243,7850,Enchantment: Cinderhulk,Dead Man's Plate,Kindlegem,Refillable Potion,Ionian Boots of Lucidity,Ruby Crystal,76944,15998,Lane.jungle,Role.none
+1,Souf,Nami,False,Side.blue,0,2,1,0.5,2,Exhaust,Flash,9,False,5455,5050,Boots of Swiftness,Total Biscuit of Rejuvenation,Eye of the Watchers,Crystalline Bracer,Forbidden Idol,,2683,2008,Lane.bot_lane,Role.support
+2,StarySummoner,Irelia,False,Side.blue,7,6,5,2.0,195,Flash,Teleport,15,False,10638,9853,Corrupting Potion,Trinity Force,Ninja Tabi,Frozen Heart,Aegis of the Legion,Negatron Cloak,1796,84151,Lane.top_lane,Role.solo
+3,Jesus 2017,Jayce,False,Side.blue,5,3,1,2.0,201,Flash,Ghost,14,False,9620,8900,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Long Sword,Doran's Blade,Long Sword,11596,92037,Lane.mid_lane,Role.solo
+4,Lombz,Vayne,False,Side.blue,1,5,2,0.6,218,Flash,Heal,13,False,9182,8050,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,,,23086,81850,Lane.bot_lane,Role.carry
+5,Faded,Caitlyn,True,Side.red,5,2,3,4.0,219,Flash,Heal,14,False,11542,11525,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,Giant Slayer,509,137322,Lane.bot_lane,Role.carry
+6,Skybolts,Viktor,True,Side.red,8,2,7,7.5,211,Flash,Teleport,16,False,12947,10500,Ionian Boots of Lucidity,Morellonomicon,Perfect Hex Core,Rylai's Crystal Scepter,,,131363,14581,Lane.mid_lane,Role.solo
+7,Shuffz,Malphite,True,Side.red,0,6,5,0.8333333333333334,137,Flash,Teleport,13,False,8412,7845,Negatron Cloak,Bami's Cinder,Dead Man's Plate,Chain Vest,Ninja Tabi,Doran's Shield,32036,26928,Lane.top_lane,Role.solo
+8,Worth A Shot,Morgana,True,Side.red,0,3,9,3.0,19,Flash,Exhaust,12,False,7661,7225,Boots of Mobility,Eye of the Watchers,Aegis of the Legion,Redemption,Null-Magic Mantle,,11884,5349,Lane.bot_lane,Role.support
+9,WatchThePower,Rek'Sai,True,Side.red,5,3,8,4.333333333333333,150,Flash,Smite,15,True,11208,10500,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Ninja Tabi,Control Ward,Randuin's Omen,32792,107050,Lane.jungle,Role.none

@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FireBirdDestroyr,Nidalee,False,Side.blue,11,8,10,2.625,212,Smite,Flash,18,False,19781,18225,Enchantment: Runic Echoes,Wooglet's Witchcap,Rylai's Crystal Scepter,Sorcerer's Shoes,Lich Bane,Void Staff,283215,31796,Lane.mid_lane,Role.support
+1,Gankr,Ryze,False,Side.blue,9,12,6,1.25,287,Flash,Ghost,18,True,17980,17750,Seraph's Embrace,Wooglet's Witchcap,Morellonomicon,Ionian Boots of Lucidity,Void Staff,Rod of Ages,309262,12894,Lane.jungle,Role.none
+2,YOLQ Sord928,Jayce,False,Side.blue,9,7,6,2.142857142857143,286,Flash,Exhaust,18,False,17548,16550,Ionian Boots of Lucidity,Youmuu's Ghostblade,The Bloodthirster,The Black Cleaver,Mortal Reminder,Phantom Dancer,19704,206065,Lane.mid_lane,Role.carry
+3,Classyguy,Dr. Mundo,True,Side.red,12,7,10,3.142857142857143,346,Flash,Ignite,18,False,20422,18150,Randuin's Omen,Sunfire Cape,Dead Man's Plate,Spirit Visage,Warmog's Armor,Banshee's Veil,190981,92940,Lane.mid_lane,Role.solo
+4,happyfreek,Warwick,True,Side.red,4,13,5,0.6923076923076923,101,Flash,Smite,18,False,11648,12425,Blade of the Ruined King,Health Potion,Enchantment: Bloodrazor,Spirit Visage,Elixir of Iron,Giant's Belt,21173,76418,Lane.bot_lane,Role.solo
+5,THE 9UARDIAN,Zyra,True,Side.red,11,9,13,2.6666666666666665,179,Flash,Heal,18,False,16202,14950,Void Staff,Needlessly Large Rod,Luden's Echo,Sorcerer's Shoes,Lich Bane,Rod of Ages,153127,20897,Lane.jungle,Role.none

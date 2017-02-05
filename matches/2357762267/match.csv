@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jadrian,Vayne,False,Side.blue,7,16,7,0.875,76,Heal,Flash,11,False,8585,8350,Doran's Blade,Blade of the Ruined King,Quicksilver Sash,Berserker's Greaves,Long Sword,Zeal,814,39928,Lane.bot_lane,Role.carry
+1,Fargo,Maokai,False,Side.blue,0,4,5,1.25,174,Flash,Teleport,14,False,8589,8375,Spirit Visage,Sunfire Cape,Chain Vest,Mercury's Treads,Doran's Ring,,86530,16537,Lane.top_lane,Role.solo
+2,Kozen,Anivia,False,Side.blue,5,12,8,1.0833333333333333,146,Flash,Teleport,14,False,9446,9325,Ionian Boots of Lucidity,Rod of Ages,Archangel's Staff,Control Ward,Haunting Guise,,83521,8558,Lane.mid_lane,Role.solo
+3,BarbaricDictator,Rek'Sai,False,Side.blue,8,7,6,2.0,128,Smite,Flash,14,True,10589,10400,Enchantment: Cinderhulk,Titanic Hydra,Randuin's Omen,Mercury's Treads,,,18192,100269,Lane.jungle,Role.none
+4,TRZ Oblivious,Nami,False,Side.blue,2,6,14,2.6666666666666665,18,Exhaust,Flash,12,False,8230,7375,Frost Queen's Claim,Redemption,Sightstone,Chalice of Harmony,Boots of Mobility,Faerie Charm,10333,3361,Lane.bot_lane,Role.support
+5,A Cute Momo,Janna,True,Side.red,0,3,27,9.0,13,Exhaust,Flash,12,False,9617,8100,Eye of the Oasis,Redemption,Ionian Boots of Lucidity,Needlessly Large Rod,Mejai's Soulstealer,Control Ward,8156,3519,Lane.bot_lane,Role.support
+6,Shupian,Twitch,True,Side.red,16,7,11,3.857142857142857,147,Flash,Heal,14,False,15140,11775,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,Pickaxe,Runaan's Hurricane,0,131343,Lane.bot_lane,Role.carry
+7,Sorá,Kennen,True,Side.red,20,2,9,14.5,174,Ignite,Flash,15,False,15872,14500,Rylai's Crystal Scepter,Zhonya's Hourglass,Void Staff,Hextech Protobelt-01,Needlessly Large Rod,Sorcerer's Shoes,114135,26339,Lane.mid_lane,Role.solo
+8,dlwod,Hecarim,True,Side.red,6,7,12,2.5714285714285716,134,Smite,Ghost,15,False,11935,10708,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Mercury's Treads,Spirit Visage,Cloth Armor,21588,119736,Lane.jungle,Role.none
+9,JeezyTheSnowMan,Lissandra,True,Side.red,3,3,8,3.6666666666666665,224,Teleport,Flash,15,False,12025,10150,Doran's Ring,Zhonya's Hourglass,Sorcerer's Shoes,Rod of Ages,Abyssal Scepter,,129855,15008,Lane.top_lane,Role.solo

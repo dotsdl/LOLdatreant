@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NA Ghostie,Anivia,False,Side.blue,1,9,4,0.5555555555555556,96,Flash,Teleport,11,False,6014,5980,Doran's Ring,Total Biscuit of Rejuvenation,Negatron Cloak,Rod of Ages,Ionian Boots of Lucidity,Amplifying Tome,39820,7474,Lane.mid_lane,Role.solo
+1,JoDa Fucking Pen,Vi,False,Side.blue,1,7,1,0.2857142857142857,90,Smite,Flash,11,False,5812,5375,Enchantment: Warrior,Refillable Potion,Boots of Speed,Phage,Sheen,,1302,63556,Lane.jungle,Role.none
+2,cùrz,Nami,False,Side.blue,1,7,8,1.2857142857142858,2,Flash,Exhaust,10,False,5644,4175,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,Forbidden Idol,,,5793,2982,Lane.bot_lane,Role.support
+3,Goxtry,Vayne,False,Side.blue,7,7,4,1.5714285714285714,134,Heal,Flash,11,False,8320,7875,Berserker's Greaves,Infinity Edge,Phantom Dancer,,,Doran's Blade,888,55586,Lane.bot_lane,Role.carry
+4,AlfredXillia,Malphite,False,Side.blue,5,4,1,1.5,131,Flash,Teleport,13,False,7505,7250,Corrupting Potion,Giant's Belt,Sunfire Cape,Mercury's Treads,Spectre's Cowl,Ruby Crystal,54506,21380,Lane.top_lane,Role.solo
+5,CitizenErase,Twitch,True,Side.red,2,3,7,3.0,115,Flash,Heal,11,False,7997,6575,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Pickaxe,Total Biscuit of Rejuvenation,142,52773,Lane.bot_lane,Role.carry
+6,Modx,Veigar,True,Side.red,4,4,7,2.75,31,Flash,Ghost,10,False,7885,7675,Eye of the Watchers,Refillable Potion,Control Ward,Morellonomicon,Blasting Wand,Sorcerer's Shoes,27670,6503,Lane.bot_lane,Role.support
+7,1ncomparabIe,Lee Sin,True,Side.red,6,3,8,4.666666666666667,68,Smite,Flash,12,False,8669,8600,Ruby Crystal,Sightstone,Duskblade of Draktharr,Enchantment: Warrior,Boots of Mobility,Ruby Crystal,10430,67809,Lane.jungle,Role.none
+8,LÌn,LeBlanc,True,Side.red,16,2,5,10.5,142,Ignite,Flash,14,True,11817,12110,,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,89313,13678,Lane.mid_lane,Role.solo
+9,adc feng lft,Yasuo,True,Side.red,6,3,4,3.3333333333333335,194,Teleport,Flash,14,False,10002,9950,Frozen Mallet,Phantom Dancer,Berserker's Greaves,B. F. Sword,Cloak of Agility,Doran's Blade,29354,85418,Lane.top_lane,Role.solo

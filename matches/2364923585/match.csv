@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vathyrn,Riven,True,Side.blue,4,4,2,1.5,188,Flash,Exhaust,14,False,11296,11275,The Black Cleaver,Lord Dominik's Regards,Ravenous Hydra,Refillable Potion,Long Sword,Ionian Boots of Lucidity,0,115958,Lane.mid_lane,Role.solo
+1,You all boosted,Elise,True,Side.blue,6,3,4,3.3333333333333335,164,Flash,Smite,15,False,11946,9475,Enchantment: Runic Echoes,Hextech Protobelt-01,Abyssal Scepter,,Ruby Crystal,Boots of Mobility,120264,35449,Lane.jungle,Role.none
+2,Rulesofgods,Bard,True,Side.blue,1,2,7,4.0,31,Ignite,Flash,12,False,8035,6675,Eye of the Watchers,Redemption,Boots of Mobility,Catalyst of Aeons,,,16449,5013,Lane.bot_lane,Role.support
+3,data88,Nasus,True,Side.blue,2,2,3,2.5,221,Teleport,Flash,15,False,11451,10003,Spirit Visage,Mercury's Treads,Trinity Force,Raptor Cloak,Negatron Cloak,,26335,141457,Lane.top_lane,Role.solo
+4,CC Wolf,Ezreal,True,Side.blue,3,3,4,2.3333333333333335,235,Heal,Flash,15,False,11725,10075,Doran's Blade,Muramana,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,,27498,125930,Lane.bot_lane,Role.carry
+5,LilIie,Lee Sin,False,Side.red,0,7,4,0.5714285714285714,84,Flash,Smite,12,False,7248,6750,Refillable Potion,Enchantment: Cinderhulk,Tiamat,Boots of Swiftness,Chain Vest,Giant's Belt,17896,72337,Lane.jungle,Role.none
+6,KarasMai,Karma,False,Side.red,3,1,4,7.0,89,Flash,Ignite,13,True,8145,7975,Aegis of the Legion,Redemption,Aether Wisp,Eye of the Watchers,The Dark Seal,Ionian Boots of Lucidity,43972,8578,Lane.bot_lane,Role.support
+7,O BURNNN,Maokai,False,Side.red,4,4,2,1.5,207,Teleport,Flash,15,False,9308,9225,Frozen Heart,Rod of Ages,Ninja Tabi,Corrupting Potion,Spectre's Cowl,Kindlegem,106605,17433,Lane.top_lane,Role.solo
+8,Jordanian Sniper,Jhin,False,Side.red,0,1,3,3.0,85,Flash,Heal,9,False,6266,5725,Youmuu's Ghostblade,Refillable Potion,,Kircheis Shard,Doran's Blade,Zeal,2136,30838,Lane.bot_lane,Role.carry
+9,Part The Sea,Ryze,False,Side.red,6,3,2,2.6666666666666665,224,Flash,Ghost,15,False,10738,10800,Tear of the Goddess,Needlessly Large Rod,Ionian Boots of Lucidity,Fiendish Codex,Rylai's Crystal Scepter,Rod of Ages,157134,6112,Lane.mid_lane,Role.solo

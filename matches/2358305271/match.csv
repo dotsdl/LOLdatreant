@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Borgis123,Zilean,False,Side.blue,1,7,7,1.1428571428571428,21,Exhaust,Flash,11,False,6479,6000,Locket of the Iron Solari,Ionian Boots of Lucidity,Eye of the Watchers,Control Ward,,,17967,4109,Lane.bot_lane,Role.support
+1,World2,Evelynn,False,Side.blue,13,9,8,2.3333333333333335,83,Smite,Flash,13,False,10593,9975,Hextech Protobelt-01,Hunter's Potion,The Dark Seal,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rylai's Crystal Scepter,53052,23518,Lane.jungle,Role.none
+2,I give BJs 4 ELO,Jhin,False,Side.blue,4,9,12,1.7777777777777777,102,Heal,Flash,12,True,8306,8125,Doran's Blade,Control Ward,Boots of Swiftness,Essence Reaver,Rapid Firecannon,,4877,52483,Lane.bot_lane,Role.carry
+3,Please Fade,Twisted Fate,False,Side.blue,7,8,5,1.5,101,Ghost,Flash,13,False,8945,8400,Luden's Echo,Control Ward,Lich Bane,Ionian Boots of Lucidity,The Dark Seal,Doran's Ring,74839,7570,Lane.mid_lane,Role.solo
+4,GcYoshi13,Sion,False,Side.blue,3,5,8,2.2,129,Flash,Teleport,13,False,8305,7475,Corrupting Potion,Spirit Visage,Mercury's Treads,Iceborn Gauntlet,Cloth Armor,Control Ward,19717,52581,Lane.top_lane,Role.solo
+5,Godrneru,Lee Sin,True,Side.red,10,6,9,3.1666666666666665,79,Flash,Smite,14,False,11307,10950,Enchantment: Warrior,The Black Cleaver,Pickaxe,Boots of Swiftness,Giant's Belt,Serrated Dirk,15238,83607,Lane.jungle,Role.none
+6,1onz,Karma,True,Side.red,2,4,14,4.0,123,Flash,Teleport,14,False,9931,8725,Doran's Ring,Rod of Ages,Spirit Visage,Mercury's Treads,Glacial Shroud,Cloth Armor,59068,20022,Lane.top_lane,Role.solo
+7,Zoido,Morgana,True,Side.red,1,7,16,2.4285714285714284,12,Exhaust,Flash,11,False,8471,8168,Trinity Force,Amplifying Tome,Cloth Armor,Boots of Mobility,,Eye of the Watchers,14469,5654,Lane.bot_lane,Role.support
+8,MyTimeIsNow,Orianna,True,Side.red,12,5,7,3.8,215,Cleanse,Flash,15,False,13724,12075,Doran's Ring,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,129063,17523,Lane.mid_lane,Role.solo
+9,yltfed,Vayne,True,Side.red,13,6,2,2.5,217,Flash,Heal,14,False,13776,10100,Quicksilver Sash,Statikk Shiv,Berserker's Greaves,Infinity Edge,Doran's Blade,Vampiric Scepter,26911,103696,Lane.bot_lane,Role.carry

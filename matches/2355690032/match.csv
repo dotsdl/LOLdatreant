@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CrazyMentalLoon,Yasuo,True,Side.blue,3,5,5,1.6,240,Flash,Teleport,15,False,11211,9033,Trinity Force,,Vampiric Scepter,Mercury's Treads,Doran's Blade,Statikk Shiv,64084,90978,Lane.top_lane,Role.solo
+1,rtz 1,Ahri,True,Side.blue,16,6,3,3.1666666666666665,230,Flash,Ignite,18,False,15534,12800,Luden's Echo,Hextech Gunblade,Morellonomicon,Sorcerer's Shoes,The Dark Seal,Sheen,114281,29510,Lane.mid_lane,Role.solo
+2,Piikaachuu,Lee Sin,True,Side.blue,7,6,8,2.5,102,Flash,Smite,15,False,11060,9595,Enchantment: Warrior,Hexdrinker,Boots of Mobility,The Black Cleaver,Chain Vest,Negatron Cloak,30563,84532,Lane.jungle,Role.none
+3,s7ylish,Thresh,True,Side.blue,4,2,10,7.0,38,Exhaust,Flash,12,False,8707,6650,Face of the Mountain,Crystalline Bracer,Ruby Sightstone,Cloth Armor,Boots of Mobility,Rejuvenation Bead,14994,7106,Lane.bot_lane,Role.support
+4,TRUMPSSMALLHANDS,Ezreal,True,Side.blue,4,2,8,6.0,186,Flash,Heal,14,False,11198,9500,Doran's Blade,Bilgewater Cutlass,Recurve Bow,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,12231,100075,Lane.bot_lane,Role.carry
+5,Durpeh,Vayne,False,Side.red,3,9,2,0.5555555555555556,182,Flash,Heal,13,False,9366,8675,Doran's Blade,Infinity Edge,Berserker's Greaves,Doran's Blade,Statikk Shiv,Control Ward,30164,67433,Lane.bot_lane,Role.carry
+6,hohohohoking,Rengar,False,Side.red,9,8,1,1.25,144,Smite,Flash,15,False,11186,11100,Youmuu's Ghostblade,Edge of Night,Enchantment: Warrior,Ionian Boots of Lucidity,,Tiamat,11508,127285,Lane.jungle,Role.none
+7,weeeb,Blitzcrank,False,Side.red,1,1,3,4.0,54,Flash,Exhaust,11,False,7541,5750,Targon's Brace,Sightstone,Knight's Vow,Boots of Swiftness,Ruby Crystal,,9203,8290,Lane.bot_lane,Role.support
+8,Marthan,Maokai,False,Side.red,1,5,5,1.2,182,Teleport,Flash,14,False,9374,9150,Doran's Ring,Spirit Visage,Glacial Shroud,Doran's Ring,Ninja Tabi,Sunfire Cape,98104,16646,Lane.top_lane,Role.solo
+9,Hey Im Nza,Cassiopeia,False,Side.red,7,11,0,0.6363636363636364,181,Ghost,Flash,14,True,10279,10435,Giant's Belt,Amplifying Tome,Needlessly Large Rod,Tear of the Goddess,Abyssal Scepter,Morellonomicon,99428,7666,Lane.mid_lane,Role.solo

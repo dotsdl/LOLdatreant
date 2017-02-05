@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l dont gank,Jinx,False,Side.blue,2,5,9,2.2,195,Flash,Heal,14,False,9866,9650,Doran's Blade,Infinity Edge,Boots of Speed,Runaan's Hurricane,Rapid Firecannon,,2603,115060,Lane.bot_lane,Role.carry
+1,IHateD2Players,Lee Sin,False,Side.blue,9,8,3,1.5,120,Smite,Flash,13,False,10403,9475,Tiamat,Enchantment: Warrior,Sightstone,Mercury's Treads,Maw of Malmortius,Long Sword,16173,89084,Lane.jungle,Role.none
+2,LPL S6Champion,Leona,False,Side.blue,1,8,9,1.25,32,Exhaust,Flash,12,False,7353,6900,Sightstone,Knight's Vow,Face of the Mountain,,Control Ward,Boots of Swiftness,6351,5835,Lane.bot_lane,Role.support
+3,platinum piggy,Gangplank,False,Side.blue,5,8,4,1.125,169,Teleport,Flash,14,True,10751,10208,Trinity Force,Corrupting Potion,Youmuu's Ghostblade,Mercury's Treads,Serrated Dirk,Pickaxe,11404,128901,Lane.top_lane,Role.solo
+4,ul7raz,Ryze,False,Side.blue,2,9,6,0.8888888888888888,141,Ghost,Flash,13,False,8506,7750,Tear of the Goddess,Rod of Ages,Sorcerer's Shoes,Abyssal Scepter,Refillable Potion,,65131,7818,Lane.mid_lane,Role.solo
+5,3A3Y 3OY,Thresh,True,Side.red,4,4,16,5.0,26,Ignite,Flash,13,False,9613,8200,Redemption,Eye of the Equinox,Righteous Glory,Total Biscuit of Rejuvenation,Boots of Mobility,,11840,6738,Lane.bot_lane,Role.support
+6,BOT MING,Ezreal,True,Side.red,5,5,15,4.0,172,Flash,Heal,14,False,13385,13358,The Bloodthirster,Quicksilver Sash,Muramana,Trinity Force,Doran's Blade,Berserker's Greaves,17153,104772,Lane.bot_lane,Role.carry
+7,Moldypear,Shyvana,True,Side.red,9,1,14,23.0,160,Flash,Smite,16,False,13780,10400,Enchantment: Bloodrazor,Frozen Mallet,Refillable Potion,Cloth Armor,Randuin's Omen,Mercury's Treads,81389,81769,Lane.jungle,Role.none
+8,The Coldshroom,Teemo,True,Side.red,12,5,6,3.6,173,Ignite,Flash,15,False,13344,11425,Sorcerer's Shoes,Hextech Protobelt-01,Nashor's Tooth,Doran's Ring,Void Staff,Needlessly Large Rod,89805,27809,Lane.top_lane,Role.solo
+9,Wazabiee,Cassiopeia,True,Side.red,8,4,12,5.0,207,Ghost,Flash,16,False,13941,11835,Seraph's Embrace,Needlessly Large Rod,Amplifying Tome,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,138356,11502,Lane.mid_lane,Role.solo

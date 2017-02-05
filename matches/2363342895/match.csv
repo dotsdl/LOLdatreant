@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wardrium,Orianna,True,Side.blue,13,1,9,22.0,184,Flash,Ghost,15,False,13244,9900,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Needlessly Large Rod,Blasting Wand,119363,16113,Lane.mid_lane,Role.solo
+1,Cotopaco Parce,Gangplank,True,Side.blue,3,4,9,3.0,144,Teleport,Flash,14,False,10073,7583,Trinity Force,Corrupting Potion,Youmuu's Ghostblade,Boots of Speed,,,3021,111605,Lane.top_lane,Role.solo
+2,TheRickestRlCK,Jhin,True,Side.blue,1,0,12,13.0,203,Flash,Heal,14,False,10928,9050,Doran's Blade,Essence Reaver,B. F. Sword,Rapid Firecannon,Boots of Swiftness,,8515,129138,Lane.bot_lane,Role.carry
+3,XRivhX,Thresh,True,Side.blue,1,1,14,15.0,12,Ignite,Flash,12,False,6876,6025,Sightstone,Forbidden Idol,Face of the Mountain,Cloth Armor,Ionian Boots of Lucidity,Crystalline Bracer,7093,4428,Lane.bot_lane,Role.support
+4,Mang3 moi Lcap,Nocturne,True,Side.blue,11,3,5,5.333333333333333,149,Flash,Smite,14,False,12065,11625,Youmuu's Ghostblade,Giant's Belt,Boots of Mobility,Enchantment: Warrior,Duskblade of Draktharr,Chain Vest,5035,147889,Lane.jungle,Role.none
+5,Zàddy,Tahm Kench,False,Side.red,2,3,2,1.3333333333333333,159,Flash,Teleport,14,False,8039,7300,Sunfire Cape,Ninja Tabi,Spirit Visage,,,Corrupting Potion,63696,15221,Lane.top_lane,Role.solo
+6,Ninja Shen,Janna,False,Side.red,1,7,4,0.7142857142857143,4,Flash,Exhaust,10,False,5898,5025,Nomad's Medallion,Refillable Potion,Sightstone,Redemption,Ionian Boots of Lucidity,Control Ward,1457,988,Lane.bot_lane,Role.support
+7,rekaf nesgrejb,Lux,False,Side.red,2,8,2,0.5,167,Flash,Ghost,12,True,8060,7025,Doran's Ring,Needlessly Large Rod,Ionian Boots of Lucidity,Morellonomicon,Aether Wisp,The Dark Seal,87133,14429,Lane.jungle,Role.none
+8,Kritsu,Vayne,False,Side.red,4,3,0,1.3333333333333333,190,Heal,Flash,13,False,8819,8500,Infinity Edge,Doran's Blade,Statikk Shiv,Dagger,Berserker's Greaves,Dagger,13492,70758,Lane.bot_lane,Role.carry
+9,am Juicy,Rengar,False,Side.red,0,9,0,0.0,107,Flash,Smite,11,False,6919,10610,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,9016,70703,Lane.jungle,Role.none

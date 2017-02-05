@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WatchThePower,Rek'Sai,False,Side.blue,3,4,4,1.75,114,Flash,Smite,12,False,7866,7375,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Ninja Tabi,,,15956,70780,Lane.jungle,Role.none
+1,KlvA,Thresh,False,Side.blue,1,7,3,0.5714285714285714,21,Exhaust,Flash,11,False,5626,5000,Sightstone,Knight's Vow,,,Relic Shield,Boots of Mobility,7697,4358,Lane.bot_lane,Role.support
+2,micro dose,Draven,False,Side.blue,2,4,2,1.0,201,Flash,Heal,13,False,10416,9600,Infinity Edge,Rapid Firecannon,Vampiric Scepter,Doran's Blade,Long Sword,Berserker's Greaves,3354,102430,Lane.bot_lane,Role.carry
+3,Will Schleicher,Poppy,False,Side.blue,3,4,0,0.75,166,Flash,Teleport,13,False,8701,8600,Corrupting Potion,The Black Cleaver,Spectre's Cowl,Boots of Swiftness,Sunfire Cape,,5176,71430,Lane.top_lane,Role.solo
+4,Aideren,Katarina,False,Side.blue,3,6,5,1.3333333333333333,162,Flash,Ignite,13,False,8282,8275,Hextech Gunblade,Giant's Belt,Cloth Armor,Needlessly Large Rod,The Dark Seal,Sorcerer's Shoes,88670,11503,Lane.mid_lane,Role.solo
+5,Tytykiller,Akali,True,Side.red,1,3,2,1.0,191,Teleport,Flash,14,False,10161,9700,Sunfire Cape,Tiamat,Sterak's Gage,Ruby Crystal,Jaurim's Fist,Ninja Tabi,55128,54402,Lane.top_lane,Role.solo
+6,ponies r kute,Riven,True,Side.red,5,5,8,2.6,165,Flash,Ignite,14,True,11046,8425,The Black Cleaver,Maw of Malmortius,Boots of Swiftness,Long Sword,Ruby Crystal,,0,108638,Lane.mid_lane,Role.solo
+7,iDontCareX,Miss Fortune,True,Side.red,9,1,5,14.0,175,Heal,Flash,14,False,12750,11320,Youmuu's Ghostblade,Ninja Tabi,Maw of Malmortius,Phage,Caulfield's Warhammer,Negatron Cloak,5006,123368,Lane.bot_lane,Role.carry
+8,Senjogahara,Nidalee,True,Side.red,6,3,9,5.0,151,Flash,Smite,15,False,11966,11350,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Lich Bane,Spectre's Cowl,134887,20708,Lane.jungle,Role.none
+9,sharpier22,Alistar,True,Side.red,4,0,14,18.0,47,Exhaust,Flash,12,False,9867,8675,Ruby Sightstone,Face of the Mountain,,Null-Magic Mantle,Frozen Heart,Ionian Boots of Lucidity,10905,11338,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Scary3,Rammus,True,Side.blue,0,2,4,2.0,41,Flash,Smite,7,False,4716,4425,Cloth Armor,Cloth Armor,Cloth Armor,Cloth Armor,Boots of Speed,Enchantment: Cinderhulk,15159,15897,Lane.jungle,Role.none
+1,ArcsBiggestFan,Caitlyn,True,Side.blue,1,0,2,3.0,97,Flash,Heal,8,False,5454,2900,Doran's Blade,B. F. Sword,Dagger,Brawler's Gloves,Boots of Speed,,242,50603,Lane.bot_lane,Role.carry
+2,3 1415926535897,Karma,True,Side.blue,0,2,3,1.5,5,Flash,Exhaust,8,False,3823,2635,Sightstone,,Amplifying Tome,Frostfang,,Boots of Speed,5901,3684,Lane.bot_lane,Role.support
+3,MrCharIes,Poppy,True,Side.blue,3,1,0,3.0,81,Teleport,Flash,10,False,5320,4300,Sunfire Cape,Corrupting Potion,Boots of Swiftness,,,,9433,30339,Lane.top_lane,Role.solo
+4,am tham ben em,LeBlanc,True,Side.blue,6,1,0,6.0,101,Flash,Ignite,11,True,7036,4350,Doran's Ring,Lost Chapter,Abyssal Scepter,,,,46867,12115,Lane.mid_lane,Role.solo
+5,Undefeated DS,Nami,False,Side.red,1,2,2,1.5,2,Flash,Exhaust,7,False,3575,2825,Ionian Boots of Lucidity,Sightstone,,Frostfang,,,2768,1522,Lane.bot_lane,Role.support
+6,nosuna,Jhin,False,Side.red,3,2,1,2.0,99,Flash,Heal,9,False,5145,4450,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,,,,3670,38095,Lane.bot_lane,Role.carry
+7,Killik,Malzahar,False,Side.red,1,3,1,0.6666666666666666,68,Flash,Ghost,8,False,3948,2905,,,,,,,18282,9573,Lane.mid_lane,Role.solo
+8,50ShadesOfKappa,Gangplank,False,Side.red,1,3,1,0.6666666666666666,86,Teleport,Flash,10,False,4841,6750,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,,3147,31041,Lane.top_lane,Role.solo
+9,Lamar Moodie,Lee Sin,False,Side.red,0,2,1,0.5,16,Smite,Flash,5,False,3196,1225,,Tracker's Knife,,Refillable Potion,,,2553,14217,Lane.jungle,Role.none

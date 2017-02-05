@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheOddOrange,Kha'Zix,True,Side.blue,18,4,5,5.75,110,Flash,Smite,14,True,12938,11875,Tiamat,Youmuu's Ghostblade,Hexdrinker,Duskblade of Draktharr,Boots of Speed,Enchantment: Warrior,5271,117833,Lane.jungle,Role.none
+1,fallenbandit,Swain,True,Side.blue,6,3,7,4.333333333333333,139,Flash,Teleport,13,False,9625,9000,Refillable Potion,Rod of Ages,Sorcerer's Shoes,Doran's Ring,Liandry's Torment,Seeker's Armguard,57900,14337,Lane.top_lane,Role.solo
+2,Xmithie Lite,Blitzcrank,True,Side.blue,3,2,15,9.0,33,Flash,Ignite,11,False,7719,4450,Eye of the Equinox,Crystalline Bracer,Control Ward,Boots of Mobility,Cloth Armor,,7003,10068,Lane.bot_lane,Role.support
+3,Zaganox,Tristana,True,Side.blue,8,4,7,3.75,137,Heal,Flash,12,False,9772,6600,Doran's Blade,Infinity Edge,Doran's Blade,Zeal,Boots of Speed,Dagger,14956,67538,Lane.bot_lane,Role.carry
+4,Huhi Lite,Syndra,True,Side.blue,7,4,11,4.5,144,Ghost,Flash,13,False,10249,10155,Rabadon's Deathcap,Negatron Cloak,Morellonomicon,Refillable Potion,Blasting Wand,Sorcerer's Shoes,76476,10132,Lane.mid_lane,Role.solo
+5,mandatorycloud,Brand,False,Side.red,7,7,3,1.4285714285714286,122,Flash,Ignite,13,False,8417,8100,Doran's Ring,Doran's Ring,Rylai's Crystal Scepter,Void Staff,Control Ward,Sorcerer's Shoes,51946,8271,Lane.mid_lane,Role.solo
+6,bulgarian jg  ,Gangplank,False,Side.red,2,10,0,0.2,133,Teleport,Flash,12,False,7536,6458,Trinity Force,Refillable Potion,Serrated Dirk,Control Ward,Caulfield's Warhammer,Boots of Speed,2643,82489,Lane.top_lane,Role.solo
+7,Pocket Rhino,Alistar,False,Side.red,1,8,6,0.875,16,Flash,Exhaust,9,False,5439,5300,Refillable Potion,Face of the Mountain,Ruby Sightstone,,Ionian Boots of Lucidity,Rejuvenation Bead,6649,3169,Lane.bot_lane,Role.support
+8,TwitchTV LOLFILL,Jhin,False,Side.red,5,5,5,2.0,139,Heal,Flash,11,False,8102,7575,Doran's Blade,Essence Reaver,Boots of Swiftness,,Zeal,Long Sword,5676,60814,Lane.bot_lane,Role.carry
+9,Wiggily,Nidalee,False,Side.red,2,12,4,0.5,72,Flash,Smite,10,False,6454,6000,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Catalyst of Aeons,Chain Vest,The Dark Seal,49254,9371,Lane.jungle,Role.none

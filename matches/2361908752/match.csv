@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,I am Rob,Kalista,False,Side.blue,3,15,2,0.3333333333333333,80,Smite,Cleanse,11,False,7492,6300,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Recurve Bow,Dagger,,401,48566,Lane.top_lane,Role.solo
+1,Im Axiom,Zilean,False,Side.blue,5,9,6,1.2222222222222223,70,Flash,Ignite,13,False,9154,7710,Frost Queen's Claim,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,,65914,6312,Lane.bot_lane,Role.duo
+2,am sol,Twitch,False,Side.blue,10,10,2,1.2,83,Smite,Flash,12,False,10100,9200,Infinity Edge,Berserker's Greaves,Recurve Bow,,Enchantment: Bloodrazor,Brawler's Gloves,747,65629,Lane.jungle,Role.none
+3,ReginaId,Caitlyn,False,Side.blue,1,10,7,0.8,175,Flash,Heal,13,False,9954,9600,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,Last Whisper,1277,107681,Lane.bot_lane,Role.duo
+4,Liquid LiQuiD112,Morgana,False,Side.blue,4,10,4,0.8,105,Ignite,Flash,13,False,9226,8875,Spellthief's Edge,Rabadon's Deathcap,Sorcerer's Shoes,,Doran's Ring,Zhonya's Hourglass,47629,7231,Lane.mid_lane,Role.solo
+5,Kitachi,Jhin,True,Side.red,10,8,10,2.5,119,Heal,Flash,13,False,11217,7675,Doran's Blade,Essence Reaver,Boots of Swiftness,Zeal,Long Sword,Kircheis Shard,3522,90371,Lane.bot_lane,Role.duo
+6,auzy911,Leona,True,Side.red,0,4,26,6.5,37,Exhaust,Flash,14,False,8989,7875,Crystalline Bracer,Ruby Sightstone,Boots of Swiftness,Face of the Mountain,Locket of the Iron Solari,Control Ward,7330,9104,Lane.bot_lane,Role.duo
+7,Trap King Levy,Fizz,True,Side.red,16,5,2,3.6,170,Teleport,Flash,14,False,13092,12050,Zhonya's Hourglass,The Dark Seal,Lich Bane,Sorcerer's Shoes,Abyssal Scepter,Blasting Wand,70881,26961,Lane.mid_lane,Role.solo
+8,Amzer,Lee Sin,True,Side.red,18,2,10,14.0,131,Smite,Flash,16,False,14957,15025,Ravenous Hydra,Enchantment: Warrior,Maw of Malmortius,Cloth Armor,Ninja Tabi,The Black Cleaver,17320,120509,Lane.jungle,Role.none
+9,USub,Poppy,True,Side.red,10,4,18,7.0,152,Teleport,Flash,15,True,13135,11775,Ninja Tabi,Corrupting Potion,Randuin's Omen,Iceborn Gauntlet,Sunfire Cape,Aegis of the Legion,33788,64545,Lane.top_lane,Role.solo

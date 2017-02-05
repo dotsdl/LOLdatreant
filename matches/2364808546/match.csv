@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,feud999,Vayne,False,Side.blue,9,8,6,1.875,246,Flash,Heal,14,True,13450,13400,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Zeal,Berserker's Greaves,Doran's Blade,50571,107593,Lane.bot_lane,Role.carry
+1,SKY Fear,Nautilus,False,Side.blue,3,7,2,0.7142857142857143,176,Flash,Teleport,14,False,10086,10075,Kindlegem,Sunfire Cape,Doran's Ring,Ninja Tabi,Spectre's Cowl,Iceborn Gauntlet,80766,23199,Lane.top_lane,Role.solo
+2,jamican banana,Veigar,False,Side.blue,3,6,5,1.3333333333333333,172,Ghost,Flash,14,False,10061,9725,Sorcerer's Shoes,Morellonomicon,Banshee's Veil,Void Staff,,,102446,10986,Lane.mid_lane,Role.solo
+3,Fiku,Evelynn,False,Side.blue,9,7,7,2.2857142857142856,139,Flash,Smite,15,False,12036,11875,Enchantment: Runic Echoes,Abyssal Scepter,Sheen,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Blasting Wand,88186,45824,Lane.jungle,Role.none
+4,Hârken,Alistar,False,Side.blue,1,6,13,2.3333333333333335,51,Flash,Exhaust,13,False,8766,8370,Face of the Mountain,Boots of Mobility,Knight's Vow,Sightstone,Chain Vest,Negatron Cloak,10796,7760,Lane.bot_lane,Role.support
+5,You all boosted,Ashe,True,Side.red,2,9,9,1.2222222222222223,159,Flash,Heal,13,False,11646,11310,B. F. Sword,Berserker's Greaves,Ruby Crystal,Essence Reaver,Statikk Shiv,Cloak of Agility,10022,83460,Lane.bot_lane,Role.carry
+6,Riot Kobe,Vi,True,Side.red,8,3,10,6.0,190,Flash,Smite,17,False,14371,12028,Enchantment: Warrior,Negatron Cloak,Trinity Force,Boots of Swiftness,Sterak's Gage,Chain Vest,1261,195511,Lane.jungle,Role.none
+7,Rycah,Jayce,True,Side.red,9,4,7,4.0,225,Flash,Teleport,16,False,14524,13675,Ionian Boots of Lucidity,The Black Cleaver,The Bloodthirster,Guardian Angel,Mortal Reminder,,15905,127554,Lane.top_lane,Role.solo
+8,andtheknee,Brand,True,Side.red,6,5,12,3.6,27,Exhaust,Flash,14,False,11075,9575,Eye of the Watchers,Giant's Belt,,Liandry's Torment,Needlessly Large Rod,Sorcerer's Shoes,36211,4325,Lane.bot_lane,Role.support
+9,friendly eu guy,Nasus,True,Side.red,9,4,8,4.25,260,Ghost,Flash,17,False,16310,14485,Frost Queen's Claim,Needlessly Large Rod,Luden's Echo,Void Staff,Mejai's Soulstealer,Sorcerer's Shoes,145301,39848,Lane.mid_lane,Role.solo

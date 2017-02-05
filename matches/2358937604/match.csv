@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Curious Gengar,Jarvan IV,True,Side.blue,9,0,9,18.0,159,Flash,Smite,14,True,12149,10225,Ravenous Hydra,Refillable Potion,Randuin's Omen,Ionian Boots of Lucidity,,Enchantment: Warrior,13945,125359,Lane.jungle,Role.none
+1,AlfredXillia,Malphite,True,Side.blue,3,0,5,8.0,175,Flash,Teleport,13,False,9436,8025,Corrupting Potion,Spirit Visage,Ninja Tabi,Sapphire Crystal,Cloth Armor,Sunfire Cape,62653,33123,Lane.top_lane,Role.solo
+2,Lasthawk,Janna,True,Side.blue,2,2,15,8.5,8,Ignite,Flash,10,False,7718,6300,Ionian Boots of Lucidity,Chalice of Harmony,Refillable Potion,Redemption,Eye of the Oasis,Control Ward,6170,3348,Lane.bot_lane,Role.support
+3,Å ö Å,Ezreal,True,Side.blue,9,1,8,17.0,149,Flash,Heal,13,False,10299,8808,Vampiric Scepter,,Ionian Boots of Lucidity,Muramana,,Trinity Force,11377,86191,Lane.bot_lane,Role.carry
+4,noob maple,Ahri,True,Side.blue,5,3,7,4.0,138,Ignite,Flash,13,False,9127,7375,Doran's Ring,Morellonomicon,,Luden's Echo,Boots of Speed,Doran's Ring,48809,15113,Lane.mid_lane,Role.solo
+5,Sìyou,Thresh,False,Side.red,0,5,4,0.8,25,Flash,Ignite,10,False,4980,4625,Ruby Crystal,Eye of the Equinox,Control Ward,Cloth Armor,Boots of Mobility,Cloth Armor,5827,3240,Lane.bot_lane,Role.support
+6,adc feng lft,Caitlyn,False,Side.red,2,6,1,0.5,152,Heal,Flash,10,False,7004,6525,Cloak of Agility,B. F. Sword,Boots of Speed,Runaan's Hurricane,Pickaxe,Doran's Blade,145,83670,Lane.bot_lane,Role.carry
+7,CleanedNWashedUp,Kassadin,False,Side.red,2,7,0,0.2857142857142857,122,Flash,Ignite,11,False,6224,5800,Corrupting Potion,Hextech GLP-800,Aether Wisp,Ionian Boots of Lucidity,Doran's Ring,,40143,14525,Lane.mid_lane,Role.solo
+8,Dicey,Rammus,False,Side.red,1,5,3,0.8,53,Smite,Flash,10,False,5613,5425,Enchantment: Cinderhulk,Refillable Potion,Thornmail,Boots of Speed,,,24348,22581,Lane.jungle,Role.none
+9,Mosquito Porn,Yasuo,False,Side.red,1,5,0,0.2,176,Teleport,Flash,12,False,7145,6000,Doran's Shield,Phantom Dancer,Mercury's Treads,Long Sword,B. F. Sword,Refillable Potion,26935,64322,Lane.top_lane,Role.solo

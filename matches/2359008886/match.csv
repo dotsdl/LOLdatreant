@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Kha'Zix,True,Side.blue,15,3,3,6.0,109,Smite,Flash,14,True,13845,11050,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,The Black Cleaver,Last Whisper,8216,159113,Lane.jungle,Role.none
+1,Sue,Nami,True,Side.blue,2,1,15,17.0,17,Exhaust,Flash,13,False,9698,6300,Eye of the Watchers,Redemption,,Control Ward,Ionian Boots of Lucidity,Null-Magic Mantle,9312,11069,Lane.bot_lane,Role.support
+2,pattyville,Jhin,True,Side.blue,3,4,9,3.0,180,Heal,Flash,13,False,10772,7900,,Refillable Potion,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,9365,127818,Lane.bot_lane,Role.carry
+3,Toxic boy Miker,Poppy,True,Side.blue,3,8,8,1.375,175,Teleport,Flash,14,False,10782,9600,Corrupting Potion,Sunfire Cape,Spirit Visage,Ninja Tabi,Phage,Sheen,41632,83797,Lane.top_lane,Role.solo
+4,Catiyst,Lissandra,True,Side.blue,5,2,10,7.5,173,Flash,Ignite,14,False,11745,8200,Doran's Ring,Abyssal Scepter,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Fiendish Codex,116137,13113,Lane.mid_lane,Role.solo
+5,LEE GOD,Lee Sin,False,Side.red,7,7,3,1.4285714285714286,101,Flash,Smite,13,False,9170,8200,Ruby Crystal,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Sunfire Cape,Chain Vest,22606,70418,Lane.jungle,Role.none
+6,122333,Trundle,False,Side.red,4,5,7,2.2,155,Flash,Teleport,15,False,9111,8750,Vampiric Scepter,Tiamat,Mercury's Treads,Spectre's Cowl,Dead Man's Plate,Pickaxe,4040,92227,Lane.top_lane,Role.solo
+7,stupid supp0rt,Orianna,False,Side.red,3,6,7,1.6666666666666667,165,Flash,Cleanse,13,False,9255,6700,Needlessly Large Rod,Morellonomicon,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Doran's Ring,91739,8792,Lane.mid_lane,Role.solo
+8,23oTbtx5y1planet,Caitlyn,False,Side.red,3,6,2,0.8333333333333334,165,Flash,Heal,12,False,8883,8575,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Dagger,Dagger,484,103097,Lane.bot_lane,Role.carry
+9,xwwwwwk,Thresh,False,Side.red,1,4,7,2.0,34,Exhaust,Flash,11,False,6715,5950,Mercury's Treads,Face of the Mountain,Sightstone,Crystalline Bracer,Crystalline Bracer,Cloth Armor,13411,4294,Lane.bot_lane,Role.support

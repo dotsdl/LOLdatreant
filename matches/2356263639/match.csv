@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DoombringerEX,Kennen,True,Side.blue,8,2,10,9.0,178,Flash,Teleport,15,False,12349,11025,Zhonya's Hourglass,Void Staff,Hextech Protobelt-01,,Sorcerer's Shoes,Blasting Wand,93854,20117,Lane.top_lane,Role.solo
+1,Dø Nøt Chase,Alistar,True,Side.blue,4,5,12,3.2,57,Exhaust,Flash,12,False,9633,8850,Ruby Sightstone,Face of the Mountain,Banner of Command,Ruby Crystal,Ninja Tabi,Control Ward,16366,8007,Lane.bot_lane,Role.support
+2,DZG Doomtrobo,Lee Sin,True,Side.blue,15,4,9,6.0,139,Smite,Flash,15,True,14142,11775,Tiamat,Jaurim's Fist,Enchantment: Cinderhulk,Duskblade of Draktharr,Ninja Tabi,Sterak's Gage,31934,112341,Lane.jungle,Role.none
+3,MythoIogy,LeBlanc,True,Side.blue,5,7,7,1.7142857142857142,180,Exhaust,Flash,14,False,11493,10850,The Dark Seal,Sorcerer's Shoes,Refillable Potion,Rylai's Crystal Scepter,Morellonomicon,Void Staff,106999,11681,Lane.mid_lane,Role.solo
+4,Wizzy,Ezreal,True,Side.blue,5,5,14,3.8,171,Heal,Flash,15,False,12215,10333,B. F. Sword,Trinity Force,Muramana,Cull,Ionian Boots of Lucidity,Vampiric Scepter,22895,90273,Lane.bot_lane,Role.carry
+5,Grande Donger,Karma,False,Side.red,2,12,11,1.0833333333333333,107,Flash,Teleport,13,False,8412,8235,Doran's Ring,Ardent Censer,Sorcerer's Shoes,Morellonomicon,Aether Wisp,Amplifying Tome,55426,16005,Lane.mid_lane,Role.solo
+6,Bes,Jhin,False,Side.red,5,7,9,2.0,132,Heal,Flash,12,False,9585,8625,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Rapid Firecannon,Pickaxe,,3595,95759,Lane.bot_lane,Role.carry
+7,is that Rex,Shyvana,False,Side.red,9,6,4,2.1666666666666665,149,Smite,Ghost,14,False,11437,11775,Tiamat,Dead Man's Plate,Spirit Visage,,Enchantment: Cinderhulk,Mercury's Treads,80937,47911,Lane.jungle,Role.none
+8,Kebin M,Riven,False,Side.red,2,6,6,1.3333333333333333,189,Flash,Teleport,14,False,9530,8525,Mercury's Treads,Maw of Malmortius,Long Sword,The Black Cleaver,,Doran's Shield,284,106805,Lane.top_lane,Role.solo
+9,Gerrard,Lulu,False,Side.red,4,6,11,2.5,16,Flash,Ignite,12,False,8709,8200,Eye of the Watchers,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Ruby Crystal,Control Ward,27492,5431,Lane.bot_lane,Role.support

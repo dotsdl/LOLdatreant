@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BigNick is back,Ezreal,False,Side.blue,3,8,4,0.875,175,Heal,Flash,13,False,9430,9000,Giant Slayer,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,Last Whisper,18903,77603,Lane.bot_lane,Role.carry
+1,Jte Pew ds lanus,Renekton,False,Side.blue,2,5,0,0.4,201,Flash,Teleport,14,False,9301,9280,Dead Man's Plate,Tiamat,,Ninja Tabi,The Black Cleaver,Doran's Shield,4205,102068,Lane.top_lane,Role.solo
+2,alexdeth,Vi,False,Side.blue,5,8,4,1.125,148,Flash,Smite,14,False,9923,9283,Enchantment: Warrior,Giant's Belt,Trinity Force,Mercury's Treads,Cloth Armor,Cloth Armor,1242,121346,Lane.jungle,Role.none
+3,ThirdPoint,Thresh,False,Side.blue,0,6,7,1.1666666666666667,27,Exhaust,Flash,12,False,6440,5975,,,Eye of the Equinox,Redemption,Cloth Armor,Ionian Boots of Lucidity,11830,5034,Lane.bot_lane,Role.support
+4,Thats Hymn,Riven,False,Side.blue,7,6,1,1.3333333333333333,176,Flash,Ignite,14,True,10745,10025,Maw of Malmortius,The Black Cleaver,Tiamat,Ionian Boots of Lucidity,Vampiric Scepter,,1106,104932,Lane.mid_lane,Role.solo
+5,Silronmen,Janna,True,Side.red,0,3,14,4.666666666666667,8,Flash,Exhaust,12,False,8107,7700,Locket of the Iron Solari,Redemption,Eye of the Oasis,Control Ward,Boots of Swiftness,,3822,5228,Lane.bot_lane,Role.support
+6,Yasuua,Shaco,True,Side.red,9,1,11,20.0,121,Ignite,Smite,16,False,12893,11233,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Tiamat,Trinity Force,Hextech Revolver,Bilgewater Cutlass,57113,66789,Lane.jungle,Role.none
+7,Katlife,Katarina,True,Side.red,17,4,6,5.75,147,Flash,Ignite,15,False,13533,12675,Blasting Wand,Needlessly Large Rod,Rylai's Crystal Scepter,Sorcerer's Shoes,Sunfire Cape,Void Staff,90245,12835,Lane.mid_lane,Role.solo
+8,daytonasaurous,Tryndamere,True,Side.red,7,3,5,4.0,237,Teleport,Flash,16,False,12642,9950,Bilgewater Cutlass,Doran's Blade,Recurve Bow,Statikk Shiv,Mercury's Treads,The Black Cleaver,21300,138159,Lane.top_lane,Role.solo
+9,Hanjaro,Graves,True,Side.red,0,6,9,1.5,158,Flash,Heal,12,False,9600,9270,Doran's Blade,Berserker's Greaves,Death's Dance,Phantom Dancer,Chain Vest,Negatron Cloak,1341,117617,Lane.bot_lane,Role.carry

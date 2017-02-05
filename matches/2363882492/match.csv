@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sharpshoe,Elise,False,Side.blue,5,4,5,2.5,149,Smite,Flash,14,False,11029,10350,Hextech Protobelt-01,Refillable Potion,Needlessly Large Rod,Void Staff,Enchantment: Runic Echoes,Sorcerer's Shoes,93979,31550,Lane.jungle,Role.none
+1,iO Juice,Morgana,False,Side.blue,1,8,7,1.0,9,Flash,Exhaust,10,False,7486,6875,Sightstone,Frost Queen's Claim,Giant's Belt,Needlessly Large Rod,Boots of Swiftness,Control Ward,16570,1807,Lane.bot_lane,Role.support
+2,Rip Ace,Caitlyn,False,Side.blue,2,7,4,0.8571428571428571,150,Heal,Flash,12,False,9647,9550,Doran's Blade,Cull,Quicksilver Sash,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,493,108682,Lane.bot_lane,Role.carry
+3,NeedMorePrestige,Ahri,False,Side.blue,5,6,1,1.0,175,Flash,Ignite,13,False,9818,9200,Quicksilver Sash,Luden's Echo,Doran's Ring,Morellonomicon,Boots of Speed,Blasting Wand,56160,12159,Lane.mid_lane,Role.solo
+4,RenameToClimb,Katarina,False,Side.blue,7,4,1,2.0,214,Teleport,Flash,15,False,10604,9570,Hextech Gunblade,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,Amplifying Tome,117699,17611,Lane.top_lane,Role.solo
+5,Anski,Shyvana,True,Side.red,9,3,4,4.333333333333333,157,Flash,Smite,15,False,12320,10083,Enchantment: Bloodrazor,Tiamat,Trinity Force,Jaurim's Fist,Mercury's Treads,,77709,90424,Lane.jungle,Role.none
+6,Espir Ill,Malzahar,True,Side.red,5,4,8,3.25,169,Flash,Ghost,15,False,11169,8425,Doran's Ring,Control Ward,,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,84489,22246,Lane.mid_lane,Role.solo
+7,Koma cahn,Nasus,True,Side.red,3,6,10,2.1666666666666665,209,Ghost,Teleport,15,False,11514,8050,Doran's Ring,Corrupting Potion,Doran's Ring,Zz'Rot Portal,Spirit Visage,Mercury's Treads,71677,36572,Lane.top_lane,Role.solo
+8,herolineage,Ezreal,True,Side.red,9,6,12,3.5,154,Flash,Heal,14,True,12540,9983,Doran's Blade,Muramana,Ionian Boots of Lucidity,Trinity Force,Hexdrinker,Caulfield's Warhammer,11553,106981,Lane.bot_lane,Role.carry
+9,Sunae,Janna,True,Side.red,3,1,23,26.0,10,Exhaust,Flash,14,False,10559,8050,Locket of the Iron Solari,Eye of the Oasis,Redemption,Boots of Mobility,The Dark Seal,Null-Magic Mantle,12202,4386,Lane.bot_lane,Role.support

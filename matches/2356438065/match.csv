@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vervaxamas,Cassiopeia,True,Side.blue,4,2,3,3.5,204,Flash,Ghost,13,False,9757,6675,Doran's Ring,Needlessly Large Rod,Giant's Belt,Morellonomicon,Tear of the Goddess,,85853,9184,Lane.mid_lane,Role.solo
+1,3ve,Evelynn,True,Side.blue,9,3,4,4.333333333333333,126,Smite,Flash,13,False,10393,10010,Amplifying Tome,Refillable Potion,Hextech Protobelt-01,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Sorcerer's Shoes,72611,41846,Lane.jungle,Role.none
+2,Vespeh,Janna,True,Side.blue,2,2,14,8.0,13,Flash,Exhaust,11,False,7460,6175,Boots of Mobility,Ancient Coin,Chain Vest,Redemption,Control Ward,Ruby Sightstone,5924,3182,Lane.bot_lane,Role.support
+3,L0LJesus,Darius,True,Side.blue,4,3,4,2.6666666666666665,168,Flash,Teleport,13,True,9984,7575,Ninja Tabi,The Black Cleaver,Spirit Visage,,,Corrupting Potion,463,90738,Lane.top_lane,Role.solo
+4,Hanjaro,Jhin,True,Side.blue,4,3,10,4.666666666666667,151,Flash,Heal,12,False,9407,8450,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Cloak of Agility,,,2903,103184,Lane.bot_lane,Role.carry
+5,okichoboi,Renekton,False,Side.red,4,4,0,1.0,145,Teleport,Flash,13,False,7625,7450,Sterak's Gage,The Black Cleaver,Doran's Blade,,Ionian Boots of Lucidity,,1841,66868,Lane.top_lane,Role.solo
+6,fahter123,Thresh,False,Side.red,2,10,3,0.5,3,Flash,Ignite,9,False,5695,5000,Boots of Mobility,Cloth Armor,Eye of the Oasis,Cloth Armor,Crystalline Bracer,Crystalline Bracer,4939,1697,Lane.bot_lane,Role.support
+7,Macko,Lee Sin,False,Side.red,3,3,2,1.6666666666666667,99,Flash,Smite,12,False,7546,6400,Maw of Malmortius,Refillable Potion,Enchantment: Warrior,,Boots of Speed,,12906,74899,Lane.jungle,Role.none
+8,RichiethePanda,Lucian,False,Side.red,2,3,3,1.6666666666666667,151,Flash,Heal,11,False,7621,7400,Doran's Blade,Essence Reaver,Zeal,Berserker's Greaves,Kircheis Shard,,925,67462,Lane.bot_lane,Role.carry
+9,Yoreon,Viktor,False,Side.red,2,3,3,1.6666666666666667,182,Flash,Ghost,13,False,8270,7935,Perfect Hex Core,Ionian Boots of Lucidity,Morellonomicon,Doran's Ring,Amplifying Tome,,87600,10524,Lane.mid_lane,Role.solo

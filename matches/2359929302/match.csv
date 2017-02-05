@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Raveydemon,Morgana,False,Side.blue,0,0,1,1.0,170,Exhaust,Flash,12,False,6518,5445,Doran's Ring,Refillable Potion,Control Ward,Negatron Cloak,Morellonomicon,Sorcerer's Shoes,68135,14385,Lane.mid_lane,Role.solo
+1,Breakbot,Ezreal,False,Side.blue,3,3,2,1.6666666666666667,149,Heal,Flash,10,False,7077,6200,Doran's Blade,Manamune,Iceborn Gauntlet,Boots of Speed,,Total Biscuit of Rejuvenation,13386,44180,Lane.bot_lane,Role.carry
+2,Nydix,Nasus,False,Side.blue,0,6,0,0.0,114,Teleport,Ghost,10,False,5502,5125,Doran's Ring,Zz'Rot Portal,Boots of Swiftness,Doran's Ring,Long Sword,,34899,14276,Lane.top_lane,Role.solo
+3,Abbong,Skarner,False,Side.blue,3,3,2,1.6666666666666667,96,Flash,Smite,11,False,6774,6275,Enchantment: Cinderhulk,Hunter's Potion,Spectre's Cowl,Boots of Mobility,Glacial Shroud,,31846,42608,Lane.jungle,Role.none
+4,sous4000,Braum,False,Side.blue,0,4,3,0.75,26,Exhaust,Flash,9,False,4517,4275,Targon's Brace,Refillable Potion,Ruby Sightstone,Control Ward,Mercury's Treads,,3815,2495,Lane.bot_lane,Role.support
+5,iaMsaraK,Hecarim,True,Side.red,6,1,6,12.0,100,Ghost,Smite,12,True,8949,8458,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Ruby Crystal,Cloth Armor,Mercury's Treads,12411,80310,Lane.jungle,Role.none
+6,jiayibingding,Thresh,True,Side.red,0,2,8,4.0,35,Exhaust,Flash,10,False,5276,5125,Face of the Mountain,Sightstone,,Boots of Mobility,Null-Magic Mantle,Cloth Armor,6290,3351,Lane.bot_lane,Role.support
+7,Icerank,Twitch,True,Side.red,2,2,6,4.0,117,Heal,Flash,10,False,7049,6800,Doran's Blade,Total Biscuit of Rejuvenation,Boots of Speed,Zeal,Recurve Bow,Infinity Edge,0,35332,Lane.bot_lane,Role.carry
+8,Koma cahn,Trundle,True,Side.red,1,0,6,7.0,163,Flash,Teleport,13,False,8177,6775,Giant's Belt,Corrupting Potion,Boots of Swiftness,Chain Vest,,Titanic Hydra,1238,75652,Lane.top_lane,Role.solo
+9,S Diana 2,Diana,True,Side.red,7,1,5,12.0,155,Teleport,Flash,12,False,8691,8250,Doran's Ring,Doran's Ring,Health Potion,Morellonomicon,Lich Bane,Sorcerer's Shoes,72530,13660,Lane.mid_lane,Role.solo

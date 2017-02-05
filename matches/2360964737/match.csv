@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Maxtrobo,Jayce,True,Side.blue,8,8,7,1.875,281,Flash,Teleport,18,False,15810,14175,Pickaxe,The Black Cleaver,Maw of Malmortius,Ninja Tabi,Duskblade of Draktharr,Serrated Dirk,32315,165295,Lane.top_lane,Role.solo
+1,PutYourHeartsUp,Lulu,True,Side.blue,1,5,17,3.6,14,Exhaust,Flash,14,False,10797,9400,Redemption,,Eye of the Watchers,Aegis of the Legion,Ardent Censer,Ionian Boots of Lucidity,12789,5821,Lane.bot_lane,Role.support
+2,Abou222,Katarina,True,Side.blue,7,7,7,2.0,239,Ignite,Flash,17,False,14099,13025,Hextech Gunblade,Zhonya's Hourglass,Boots of Speed,The Dark Seal,Rylai's Crystal Scepter,Guardian Angel,139096,16155,Lane.mid_lane,Role.solo
+3,Burp,Olaf,True,Side.blue,4,4,13,4.25,156,Ghost,Smite,16,False,12981,11775,Guardian Angel,Thornmail,Dead Man's Plate,Ionian Boots of Lucidity,Cloth Armor,Enchantment: Cinderhulk,34584,123231,Lane.jungle,Role.none
+4,Max Waldo,Ezreal,True,Side.blue,9,4,5,3.5,246,Flash,Heal,16,False,15441,14200,The Bloodthirster,Blade of the Ruined King,Ionian Boots of Lucidity,Muramana,Doran's Blade,Iceborn Gauntlet,21191,161274,Lane.bot_lane,Role.carry
+5,Dyrus,Fizz,False,Side.red,4,11,4,0.7272727272727273,136,Teleport,Ignite,15,False,9978,9300,Seeker's Armguard,Hextech Protobelt-01,Lich Bane,Doran's Ring,Doran's Ring,Sorcerer's Shoes,54233,26347,Lane.top_lane,Role.solo
+6,Tobias Fate,Gangplank,False,Side.red,9,5,7,3.2,269,Flash,Exhaust,17,False,14772,14508,Last Whisper,Youmuu's Ghostblade,Trinity Force,Boots of Swiftness,Infinity Edge,Zeal,14358,244995,Lane.mid_lane,Role.solo
+7,Rip Cig,Graves,False,Side.red,7,5,5,2.4,208,Flash,Smite,16,True,13188,12775,Enchantment: Warrior,Long Sword,Mercury's Treads,Statikk Shiv,Maw of Malmortius,Lord Dominik's Regards,23291,186784,Lane.jungle,Role.none
+8,konkwon,Thresh,False,Side.red,1,3,15,5.333333333333333,42,Flash,Ignite,13,False,8531,8250,Face of the Mountain,Redemption,Boots of Mobility,Ruby Sightstone,,Control Ward,12172,7477,Lane.bot_lane,Role.support
+9,Renger cat,Vayne,False,Side.red,7,5,9,3.2,267,Heal,Flash,17,False,14030,14275,Infinity Edge,Statikk Shiv,The Bloodthirster,Berserker's Greaves,Last Whisper,,31509,144923,Lane.bot_lane,Role.carry

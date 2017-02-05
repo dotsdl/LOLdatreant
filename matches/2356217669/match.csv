@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cweamyapants ,Gragas,True,Side.blue,6,0,8,14.0,77,Flash,Smite,11,False,7174,7110,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Spirit Visage,Amplifying Tome,,50755,18669,Lane.mid_lane,Role.support
+1,Sarcasm Orgasm,Brand,True,Side.blue,8,1,6,14.0,99,Flash,Ghost,11,True,7588,7500,Rylai's Crystal Scepter,Liandry's Torment,,,,Sorcerer's Shoes,43483,12694,Lane.jungle,Role.none
+2,tibs2,Poppy,True,Side.blue,5,1,5,10.0,81,Exhaust,Flash,11,False,6514,6450,Corrupting Potion,Boots of Speed,Spirit Visage,Banshee's Veil,Ruby Crystal,,1570,37036,Lane.mid_lane,Role.carry
+3,ierd,Vladimir,False,Side.red,1,4,0,0.25,72,Flash,Ghost,9,False,4414,3720,Seeker's Armguard,Boots of Speed,Health Potion,Ruby Crystal,Negatron Cloak,Fiendish Codex,23112,4538,Lane.jungle,Role.none
+4,Dong Fuu Yo,Cho'Gath,False,Side.red,0,8,1,0.125,56,Flash,Ignite,9,False,3788,2950,Doran's Ring,Doran's Ring,Boots of Speed,Catalyst of Aeons,Cloth Armor,Ruby Crystal,26750,5435,Lane.jungle,Role.none
+5,babooms,Zac,False,Side.red,1,7,1,0.2857142857142857,46,Flash,Smite,9,False,4416,3875,Enchantment: Cinderhulk,Mercury's Treads,Refillable Potion,,,,23510,11112,Lane.jungle,Role.none

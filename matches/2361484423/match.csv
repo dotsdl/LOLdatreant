@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cotopaco Parce,Ryze,True,Side.blue,11,1,4,15.0,99,Exhaust,Flash,12,False,9428,7075,Archangel's Staff,Rod of Ages,Refillable Potion,Ionian Boots of Lucidity,,Control Ward,65388,8831,Lane.mid_lane,Role.solo
+1,fortitude of 300,Alistar,True,Side.blue,4,2,16,10.0,29,Flash,Ignite,10,False,7548,4750,Boots of Mobility,Face of the Mountain,Crystalline Bracer,Ruby Crystal,Cloth Armor,Rejuvenation Bead,6458,7182,Lane.bot_lane,Role.support
+2,SIMBASIMBA,Twitch,True,Side.blue,8,4,7,3.75,112,Flash,Heal,10,False,9305,13025,Boots of Swiftness,Ionian Boots of Lucidity,Mercury's Treads,Ninja Tabi,Boots of Mobility,Berserker's Greaves,195,54130,Lane.bot_lane,Role.carry
+3,Bao Bao,Poppy,True,Side.blue,4,2,7,5.5,89,Teleport,Flash,12,False,7108,4975,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Boots of Speed,,,18547,36023,Lane.top_lane,Role.solo
+4,that808gamer,Lee Sin,True,Side.blue,2,3,5,2.3333333333333335,69,Flash,Smite,10,True,6724,5975,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Hexdrinker,Giant's Belt,,9412,46008,Lane.jungle,Role.none
+5,amgod1,Syndra,False,Side.red,2,4,1,0.75,76,Ghost,Flash,9,False,4946,2760,Doran's Ring,Refillable Potion,Boots of Speed,Doran's Ring,Lost Chapter,Amplifying Tome,29054,4329,Lane.mid_lane,Role.solo
+6,kt Sofm,Ekko,False,Side.red,3,5,0,0.6,92,Teleport,Flash,10,False,5445,4200,Ninja Tabi,Corrupting Potion,Giant's Belt,Chain Vest,Doran's Ring,Doran's Ring,31896,9099,Lane.top_lane,Role.solo
+7,chillfish,Annie,False,Side.red,3,10,6,0.9,27,Exhaust,Flash,9,False,5861,5050,Frost Queen's Claim,Sorcerer's Shoes,Blasting Wand,Ruby Crystal,Sapphire Crystal,,15875,2770,Lane.bot_lane,Role.support
+8,0 K A Y B O Y S,Vi,False,Side.red,0,4,2,0.5,77,Flash,Smite,10,False,5006,2700,Skirmisher's Sabre,Refillable Potion,Control Ward,Caulfield's Warhammer,,Boots of Speed,895,51954,Lane.jungle,Role.none
+9,AshtonKing,Caitlyn,False,Side.red,4,6,3,1.1666666666666667,98,Heal,Flash,10,False,6325,5525,Doran's Blade,Berserker's Greaves,Cull,B. F. Sword,Zeal,Pickaxe,396,42446,Lane.bot_lane,Role.carry

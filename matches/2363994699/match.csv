@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kareem Pies,Lux,True,Side.blue,6,1,6,12.0,117,Teleport,Flash,12,False,9070,6275,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Haunting Guise,,,70530,12383,Lane.mid_lane,Role.solo
+1,pidil,Karma,True,Side.blue,1,1,18,19.0,21,Flash,Exhaust,12,False,9129,6225,Frost Queen's Claim,Sightstone,Refillable Potion,Athene's Unholy Grail,Boots of Swiftness,,23954,12469,Lane.bot_lane,Role.support
+2,jNAdothedishes,Caitlyn,True,Side.blue,12,3,4,5.333333333333333,184,Flash,Heal,12,True,12733,8550,Brawler's Gloves,Dagger,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,247,140661,Lane.bot_lane,Role.carry
+3,Rïcky,Lee Sin,True,Side.blue,6,1,7,13.0,94,Smite,Flash,13,False,9548,9300,Refillable Potion,Control Ward,Enchantment: Warrior,Maw of Malmortius,Dead Man's Plate,Boots of Speed,16739,69903,Lane.jungle,Role.none
+4,Junkrat Bot,Darius,True,Side.blue,1,5,4,1.0,133,Teleport,Flash,12,False,8417,6600,Doran's Blade,Crystalline Bracer,The Black Cleaver,Mercury's Treads,Spectre's Cowl,,469,81841,Lane.top_lane,Role.solo
+5,Blunt Smoker,Renekton,False,Side.red,3,5,1,0.8,131,Ignite,Flash,12,False,6854,10225,Manamune,Glacial Shroud,Sheen,,,,4499,69584,Lane.top_lane,Role.solo
+6,Da Best Bl22l,Shyvana,False,Side.red,1,4,2,0.75,55,Flash,Smite,9,False,5477,3075,Enchantment: Bloodrazor,Refillable Potion,Boots of Speed,,,,20932,20970,Lane.jungle,Role.none
+7,NCS Cute Girl,Janna,False,Side.red,0,5,4,0.8,18,Flash,Exhaust,9,False,5175,4550,Talisman of Ascension,Total Biscuit of Rejuvenation,Sightstone,Control Ward,Crystalline Bracer,Boots of Speed,4953,1372,Lane.bot_lane,Role.support
+8,Wazabiee,Ryze,False,Side.red,4,6,1,0.8333333333333334,128,Ghost,Flash,12,False,7358,6275,Refillable Potion,Rod of Ages,Tear of the Goddess,Boots of Speed,Needlessly Large Rod,Fiendish Codex,67630,3981,Lane.mid_lane,Role.solo
+9,Vooldo,Jhin,False,Side.red,2,6,1,0.5,115,Heal,Flash,11,False,6359,5850,Doran's Blade,Kircheis Shard,Boots of Swiftness,Essence Reaver,,,4645,54790,Lane.bot_lane,Role.carry

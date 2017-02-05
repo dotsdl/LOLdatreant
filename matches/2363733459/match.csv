@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dj0u,Morgana,True,Side.blue,2,1,11,13.0,12,Exhaust,Flash,11,False,6602,5600,Locket of the Iron Solari,,Sightstone,Control Ward,Frostfang,Ionian Boots of Lucidity,8632,3798,Lane.bot_lane,Role.support
+1,Glory IX,Ekko,True,Side.blue,3,1,8,11.0,180,Teleport,Flash,14,False,9548,9100,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Sheen,Aether Wisp,Doran's Ring,87151,17950,Lane.mid_lane,Role.solo
+2,boy,Jhin,True,Side.blue,2,0,9,11.0,198,Heal,Flash,13,False,9046,7350,Doran's Blade,Refillable Potion,Zeal,Essence Reaver,Boots of Swiftness,Kircheis Shard,2450,98968,Lane.bot_lane,Role.carry
+3,DumPooPoo,Malphite,True,Side.blue,3,6,6,1.5,94,Teleport,Flash,12,False,7411,6475,Corrupting Potion,Abyssal Scepter,,Chain Vest,Bami's Cinder,Mercury's Treads,24331,18187,Lane.top_lane,Role.solo
+4,CedR1CK GOD,Kha'Zix,True,Side.blue,18,1,2,20.0,99,Flash,Smite,14,True,12247,10175,Youmuu's Ghostblade,Maw of Malmortius,,Mercury's Treads,Enchantment: Warrior,,7671,121615,Lane.jungle,Role.none
+5,Spirited Haku,Orianna,False,Side.red,1,5,1,0.4,156,Flash,Ghost,12,False,6966,7135,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Morellonomicon,Amplifying Tome,Ruby Crystal,63642,9749,Lane.mid_lane,Role.solo
+6,Swifte,Sivir,False,Side.red,0,5,2,0.4,144,Flash,Heal,11,False,6827,6300,Refillable Potion,Essence Reaver,Berserker's Greaves,Doran's Blade,Pickaxe,,0,64419,Lane.bot_lane,Role.carry
+7,AvriI Lavigne,Cassiopeia,False,Side.red,3,7,1,0.5714285714285714,144,Flash,Teleport,12,False,7904,7735,Void Staff,Doran's Ring,Tear of the Goddess,The Dark Seal,Morellonomicon,Amplifying Tome,72046,9334,Lane.top_lane,Role.solo
+8,Toomin22,Brand,False,Side.red,2,4,1,0.75,19,Flash,Ignite,10,False,5528,4785,Ruby Crystal,Spellthief's Edge,Sightstone,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,13081,3568,Lane.bot_lane,Role.support
+9,AchiIIes Heal,Kindred,False,Side.red,3,7,1,0.5714285714285714,101,Flash,Smite,12,False,7233,6975,Health Potion,Control Ward,Berserker's Greaves,Enchantment: Bloodrazor,Runaan's Hurricane,,2037,79447,Lane.jungle,Role.none

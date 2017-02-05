@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NA Mechanics,Twitch,False,Side.blue,3,9,8,1.2222222222222223,224,Heal,Flash,14,False,9993,9600,Doran's Blade,Bilgewater Cutlass,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Dagger,56,120122,Lane.bot_lane,Role.carry
+1,team tsm mid,Jayce,False,Side.blue,4,7,1,0.7142857142857143,151,Flash,Ghost,13,True,8685,7600,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Boots of Speed,Long Sword,Long Sword,10830,73099,Lane.top_lane,Role.solo
+2,XJ10,Rek'Sai,False,Side.blue,5,5,7,2.4,159,Smite,Flash,14,False,10281,10145,Refillable Potion,Tiamat,Redemption,Zz'Rot Portal,Enchantment: Cinderhulk,Ninja Tabi,20986,96154,Lane.jungle,Role.none
+3,Selkie,Orianna,False,Side.blue,4,5,3,1.4,191,Flash,Heal,14,False,9442,9250,Doran's Ring,Morellonomicon,Luden's Echo,Sorcerer's Shoes,Needlessly Large Rod,,97416,12021,Lane.mid_lane,Role.solo
+4,TooMany,Janna,False,Side.blue,0,3,10,3.3333333333333335,13,Flash,Exhaust,13,False,6634,5600,Ancient Coin,Sightstone,Control Ward,Null-Magic Mantle,Redemption,Ionian Boots of Lucidity,11494,2205,Lane.bot_lane,Role.support
+5,I Am Leegend,Tryndamere,True,Side.red,11,3,3,4.666666666666667,237,Ignite,Flash,17,False,15121,14950,Phantom Dancer,Phage,Boots of Swiftness,Blade of the Ruined King,Statikk Shiv,Infinity Edge,45396,164244,Lane.top_lane,Role.solo
+6,BlackAndBluePain,Zyra,True,Side.red,0,6,8,1.3333333333333333,34,Flash,Ignite,13,False,9054,8400,Rylai's Crystal Scepter,Refillable Potion,Frost Queen's Claim,Sorcerer's Shoes,Haunting Guise,,27475,6826,Lane.bot_lane,Role.support
+7,Wingsofdeathx,Lee Sin,True,Side.red,3,4,3,1.5,141,Smite,Flash,14,False,10953,10450,Tiamat,Guardian Angel,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Control Ward,17011,115029,Lane.jungle,Role.none
+8,Coukies,Ziggs,True,Side.red,5,0,4,9.0,284,Flash,Heal,16,False,13541,13310,Rabadon's Deathcap,Luden's Echo,Blasting Wand,Sorcerer's Shoes,Rod of Ages,Amplifying Tome,168352,15564,Lane.mid_lane,Role.solo
+9,KT Score,Varus,True,Side.red,10,3,2,4.0,238,Heal,Flash,15,False,14069,13625,Essence Reaver,Rapid Firecannon,Infinity Edge,B. F. Sword,Vampiric Scepter,Boots of Swiftness,12673,158080,Lane.bot_lane,Role.carry

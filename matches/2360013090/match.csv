@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Témpest,Yorick,True,Side.blue,4,3,3,2.3333333333333335,87,Flash,Teleport,10,False,6654,3750,Refillable Potion,Doran's Shield,Ninja Tabi,Warden's Mail,Giant's Belt,,3878,37985,Lane.top_lane,Role.solo
+1,iaMsaraK,Hecarim,True,Side.blue,6,1,3,9.0,59,Ghost,Smite,9,False,6441,6058,Skirmisher's Sabre,Refillable Potion,Trinity Force,Control Ward,,Ninja Tabi,6597,43028,Lane.jungle,Role.none
+2,Nexevis,Ahri,True,Side.blue,5,0,3,8.0,104,Flash,Teleport,10,False,6466,3350,Doran's Ring,Doran's Ring,Cloth Armor,Lost Chapter,Fiendish Codex,Boots of Speed,30403,12812,Lane.mid_lane,Role.solo
+3,A Bottle Of,Jhin,True,Side.blue,1,0,3,4.0,105,Flash,Heal,8,False,5778,2825,Doran's Blade,B. F. Sword,Pickaxe,Refillable Potion,,,1451,42765,Lane.bot_lane,Role.duo
+4,ejzk,Janna,True,Side.blue,0,0,8,8.0,1,Exhaust,Flash,9,False,4476,1825,Ancient Coin,Sightstone,Boots of Speed,,Refillable Potion,,1933,3117,Lane.bot_lane,Role.duo
+5,Pooper Josh,Twitch,False,Side.red,0,1,0,0.0,53,Heal,Flash,5,False,3131,2200,Doran's Blade,B. F. Sword,Dagger,Total Biscuit of Rejuvenation,,,0,8295,Lane.bot_lane,Role.duo
+6,FIoopie,Jayce,False,Side.red,3,4,0,0.75,62,Flash,Teleport,8,True,4435,2925,Doran's Blade,Refillable Potion,Ruby Crystal,Caulfield's Warhammer,Long Sword,Boots of Speed,6951,25287,Lane.top_lane,Role.solo
+7,Vyas,Elise,False,Side.red,0,5,1,0.2,53,Flash,Smite,8,False,3983,3400,Enchantment: Runic Echoes,Hunter's Potion,,,Boots of Speed,,25218,15387,Lane.jungle,Role.none
+8,NorthQuab,Yasuo,False,Side.red,0,4,0,0.0,70,Flash,Ignite,7,False,3413,2250,Doran's Blade,Brawler's Gloves,Pickaxe,,Boots of Speed,,9441,15914,Lane.mid_lane,Role.solo
+9,Zib Nibbler,Soraka,False,Side.red,1,2,0,0.5,3,Flash,Exhaust,7,False,2793,2425,Ancient Coin,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Sightstone,Control Ward,,3779,1221,Lane.bot_lane,Role.duo

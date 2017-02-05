@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AvriI Lavigne,Orianna,False,Side.blue,7,4,6,3.25,235,Flash,Ghost,15,False,12097,11725,Refillable Potion,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Rabadon's Deathcap,Sorcerer's Shoes,145318,14554,Lane.mid_lane,Role.solo
+1,quinc,Irelia,False,Side.blue,2,5,3,1.0,242,Teleport,Flash,15,False,10653,9583,Blade of the Ruined King,Corrupting Potion,Ruby Crystal,Trinity Force,Ninja Tabi,Cloth Armor,3176,88603,Lane.top_lane,Role.solo
+2,Soulo Q,Shyvana,False,Side.blue,4,6,3,1.1666666666666667,184,Smite,Flash,14,False,10458,9483,Refillable Potion,Enchantment: Bloodrazor,Trinity Force,Mercury's Treads,Giant's Belt,Chain Vest,69157,73400,Lane.jungle,Role.none
+3,MongolWarrior,Lucian,False,Side.blue,5,7,5,1.4285714285714286,206,Heal,Flash,13,True,11364,11200,Infinity Edge,Death's Dance,Berserker's Greaves,Hexdrinker,Pickaxe,,3161,120917,Lane.bot_lane,Role.carry
+4,zz cicero,Poppy,False,Side.blue,4,4,6,2.5,40,Ignite,Flash,11,False,8546,8100,Aegis of the Legion,Eye of the Equinox,Boots of Mobility,Dead Man's Plate,Null-Magic Mantle,,1634,25379,Lane.bot_lane,Role.support
+5,Nëbu,Ekko,True,Side.red,4,3,13,5.666666666666667,195,Flash,Ignite,15,False,12018,10625,Corrupting Potion,Zhonya's Hourglass,Hextech Protobelt-01,Mercury's Treads,Lich Bane,The Dark Seal,117803,17246,Lane.mid_lane,Role.solo
+6,Orbt,Vayne,True,Side.red,3,5,6,1.8,128,Flash,Heal,14,False,10768,10750,Vampiric Scepter,B. F. Sword,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,9822,67277,Lane.bot_lane,Role.carry
+7,DirtyMobs,Illaoi,True,Side.red,9,3,5,4.666666666666667,271,Flash,Teleport,17,False,14853,13500,Guardian Angel,Death's Dance,Control Ward,The Black Cleaver,Sterak's Gage,Ninja Tabi,265,210401,Lane.top_lane,Role.solo
+8,Ifkinluvpeaches,Alistar,True,Side.red,1,8,12,1.625,19,Ignite,Flash,12,False,8123,7200,Face of the Mountain,Sightstone,Locket of the Iron Solari,Kindlegem,Boots of Mobility,,6513,5310,Lane.bot_lane,Role.support
+9,Rank2 Banana,Elise,True,Side.red,9,4,9,4.5,143,Flash,Smite,16,False,13069,11325,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Hextech Protobelt-01,Haunting Guise,,Sorcerer's Shoes,108879,34734,Lane.jungle,Role.none

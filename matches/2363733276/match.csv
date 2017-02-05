@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bo0sted Monkeys,Ezreal,True,Side.blue,11,6,9,3.3333333333333335,173,Flash,Heal,15,False,13638,11450,Doran's Blade,Blade of the Ruined King,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,Hexdrinker,24193,114397,Lane.bot_lane,Role.carry
+1,The Tank Man,Janna,True,Side.blue,1,5,23,4.8,11,Flash,Exhaust,14,False,10549,9025,Eye of the Oasis,Redemption,Boots of Mobility,Mikael's Crucible,Forbidden Idol,Aether Wisp,5162,4709,Lane.bot_lane,Role.support
+2,ZatsMod,Morgana,True,Side.blue,7,5,17,4.8,175,Flash,Teleport,16,False,13086,11650,Fiendish Codex,Zhonya's Hourglass,Hextech Protobelt-01,Ionian Boots of Lucidity,Liandry's Torment,,112508,18563,Lane.jungle,Role.none
+3,Firé,Yasuo,True,Side.blue,6,8,9,1.875,228,Ignite,Flash,17,False,13402,11635,Mercury's Treads,Phantom Dancer,Infinity Edge,Vampiric Scepter,B. F. Sword,Hexdrinker,26915,156071,Lane.top_lane,Role.solo
+4,Jurassiq,Vi,True,Side.blue,11,6,9,3.3333333333333335,186,Flash,Smite,17,False,14274,13533,Dead Man's Plate,Spirit Visage,Ninja Tabi,Enchantment: Warrior,Trinity Force,,1678,179971,Lane.jungle,Role.none
+5,Rohammers,Ekko,False,Side.red,1,7,5,0.8571428571428571,242,Teleport,Flash,17,False,12812,11525,Hextech Protobelt-01,Zhonya's Hourglass,Doran's Ring,Blasting Wand,Ninja Tabi,Lich Bane,151097,22467,Lane.top_lane,Role.solo
+6,RATIRLonNA,Twitch,False,Side.red,8,7,6,2.0,234,Flash,Smite,18,False,15758,14875,Blade of the Ruined King,B. F. Sword,Lord Dominik's Regards,Runaan's Hurricane,Enchantment: Bloodrazor,Ninja Tabi,2899,208943,Lane.jungle,Role.none
+7,D0NG0,Fizz,False,Side.red,15,9,2,1.8888888888888888,139,Ignite,Flash,15,True,13791,12775,Blasting Wand,Zhonya's Hourglass,Lich Bane,The Dark Seal,Rabadon's Deathcap,Sorcerer's Shoes,72378,23924,Lane.mid_lane,Role.solo
+8,Grnlefboy2,Varus,False,Side.red,3,6,10,2.1666666666666665,197,Heal,Flash,15,False,12698,11950,Doran's Blade,Essence Reaver,Infinity Edge,Berserker's Greaves,,Rapid Firecannon,11209,136863,Lane.bot_lane,Role.carry
+9,QuickRev,Zilean,False,Side.red,3,8,7,1.25,78,Flash,Exhaust,14,False,10790,10250,Spellthief's Edge,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,Luden's Echo,,58598,6947,Lane.bot_lane,Role.support

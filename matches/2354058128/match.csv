@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,This Name Though,Zed,False,Side.blue,8,4,0,2.0,148,Flash,Ignite,13,False,9466,8950,Duskblade of Draktharr,Youmuu's Ghostblade,Refillable Potion,Boots of Swiftness,Phage,Long Sword,4887,85216,Lane.mid_lane,Role.solo
+1,Sir Wolverine,Ashe,False,Side.blue,2,7,0,0.2857142857142857,155,Heal,Flash,11,False,7633,6950,Zeal,Infinity Edge,Berserker's Greaves,Doran's Blade,,Long Sword,611,67357,Lane.bot_lane,Role.carry
+2,Sweet Vivian QAQ,Soraka,False,Side.blue,0,6,2,0.3333333333333333,4,Exhaust,Flash,9,False,5564,5125,Eye of the Oasis,Mikael's Crucible,,Ionian Boots of Lucidity,,,8666,1427,Lane.bot_lane,Role.support
+3,GlommY,Fiora,False,Side.blue,2,7,1,0.42857142857142855,157,Teleport,Flash,13,True,8631,8500,Corrupting Potion,Ninja Tabi,The Black Cleaver,Cloth Armor,Ravenous Hydra,,1119,87284,Lane.top_lane,Role.solo
+4,FlipyourPancake,Elise,False,Side.blue,1,6,5,1.0,83,Flash,Smite,12,False,7460,7325,Boots of Mobility,Hextech Protobelt-01,Refillable Potion,Enchantment: Runic Echoes,Giant's Belt,,57771,19884,Lane.jungle,Role.none
+5,Byeontay,Janna,True,Side.red,1,3,12,4.333333333333333,9,Flash,Exhaust,11,False,7290,6300,Ancient Coin,Ruby Sightstone,Redemption,Ninja Tabi,Chain Vest,,2923,5571,Lane.bot_lane,Role.support
+6,Kannibale,Urgot,True,Side.red,7,4,2,2.25,147,Ghost,Flash,13,False,9628,8775,Corrupting Potion,Ionian Boots of Lucidity,B. F. Sword,,Youmuu's Ghostblade,Edge of Night,1657,78495,Lane.mid_lane,Role.solo
+7,GSP9,Tristana,True,Side.red,11,2,2,6.5,198,Flash,Heal,13,False,12645,10575,Runaan's Hurricane,Rapid Firecannon,Infinity Edge,Berserker's Greaves,Doran's Blade,,23524,120026,Lane.bot_lane,Role.carry
+8,WatchThePower,Rengar,True,Side.red,8,1,7,15.0,191,Flash,Smite,15,False,12077,11350,Enchantment: Warrior,Ravenous Hydra,Ninja Tabi,Death's Dance,Ruby Crystal,,20953,151128,Lane.jungle,Role.none
+9,bigeban,Jarvan IV,True,Side.red,3,3,7,3.3333333333333335,115,Ignite,Flash,13,False,8851,7700,Tiamat,Phage,Doran's Blade,Ninja Tabi,Thornmail,Caulfield's Warhammer,5585,69802,Lane.top_lane,Role.solo

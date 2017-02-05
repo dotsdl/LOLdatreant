@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Influxive,Fiora,False,Side.blue,2,6,1,0.5,109,Teleport,Flash,11,False,5808,5200,Control Ward,Ravenous Hydra,Cloth Armor,Doran's Blade,,Boots of Speed,1026,46203,Lane.top_lane,Role.solo
+1,Acerola LAN,Lee Sin,False,Side.blue,1,6,0,0.16666666666666666,61,Smite,Flash,9,False,5067,4725,Long Sword,Refillable Potion,Boots of Mobility,Long Sword,Long Sword,Enchantment: Warrior,7736,42060,Lane.jungle,Role.none
+2,OnlyKeoo,Karma,False,Side.blue,0,4,1,0.25,8,Flash,Exhaust,8,False,3796,2925,Spellthief's Edge,Ionian Boots of Lucidity,,Sightstone,Null-Magic Mantle,Faerie Charm,7220,1032,Lane.bot_lane,Role.support
+3,gabzpiano,Xin Zhao,False,Side.blue,0,4,0,0.0,102,Flash,Ghost,9,False,5096,4000,Refillable Potion,Mercury's Treads,Phage,Stinger,Cloth Armor,,2503,40296,Lane.mid_lane,Role.solo
+4,Valarax,Twitch,False,Side.blue,0,2,1,0.5,131,Heal,Flash,10,False,5846,4800,Doran's Blade,Berserker's Greaves,B. F. Sword,Zeal,Dagger,Dagger,0,44198,Lane.bot_lane,Role.carry
+5,GoSuPoTaTo,Amumu,True,Side.red,6,0,6,12.0,94,Smite,Flash,11,False,8527,8425,Randuin's Omen,Sapphire Crystal,Ninja Tabi,Enchantment: Cinderhulk,Warden's Mail,Cloth Armor,59963,19887,Lane.jungle,Role.none
+6,11037,Ziggs,True,Side.red,4,0,6,10.0,156,Ghost,Flash,12,False,9410,7235,Doran's Ring,Giant's Belt,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,84056,13605,Lane.mid_lane,Role.solo
+7,rainflow,Vayne,True,Side.red,5,1,6,11.0,147,Flash,Heal,12,False,8864,7950,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,,,14773,54597,Lane.bot_lane,Role.carry
+8,IGravityI,Wukong,True,Side.red,3,2,7,5.0,135,Teleport,Flash,12,False,7900,6275,Corrupting Potion,Doran's Blade,Serrated Dirk,Boots of Speed,Ravenous Hydra,Long Sword,2046,76522,Lane.top_lane,Role.solo
+9,08 06 1995,Nami,True,Side.red,4,0,10,14.0,4,Ignite,Flash,11,True,6889,5175,Spellthief's Edge,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,,,3245,8072,Lane.bot_lane,Role.support

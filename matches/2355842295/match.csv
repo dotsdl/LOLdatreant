@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Boosted Sniper,Caitlyn,False,Side.blue,2,6,1,0.5,179,Flash,Heal,12,False,7785,7300,Doran's Blade,Runaan's Hurricane,Infinity Edge,Boots of Speed,,Total Biscuit of Rejuvenation,578,88502,Lane.bot_lane,Role.carry
+1,SilentGale,Jarvan IV,False,Side.blue,1,3,1,0.6666666666666666,140,Ghost,Exhaust,13,False,6860,6450,Mercury's Treads,Frozen Heart,Corrupting Potion,Sheen,Stinger,,2083,59249,Lane.top_lane,Role.solo
+2,The Tilt King,Sejuani,False,Side.blue,0,6,3,0.5,87,Flash,Smite,11,False,6515,5685,Enchantment: Cinderhulk,Mercury's Treads,Amplifying Tome,Giant's Belt,Cloth Armor,,49540,17936,Lane.jungle,Role.none
+3,noff,Blitzcrank,False,Side.blue,2,3,3,1.6666666666666667,35,Exhaust,Flash,9,False,6284,5950,Eye of the Equinox,Redemption,Boots of Swiftness,Control Ward,Total Biscuit of Rejuvenation,,7466,6044,Lane.bot_lane,Role.support
+4,Liquid Srkenji,LeBlanc,False,Side.blue,3,7,1,0.5714285714285714,116,Flash,Ghost,11,False,6945,6050,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,The Dark Seal,,59053,5865,Lane.jungle,Role.none
+5,laughin1,Nami,True,Side.red,2,2,21,11.5,11,Exhaust,Flash,12,False,8129,6575,Eye of the Watchers,Boots of Mobility,Null-Magic Mantle,Redemption,Cloth Armor,,9179,8517,Lane.bot_lane,Role.support
+6,Kayvinh,Vayne,True,Side.red,15,3,5,6.666666666666667,149,Flash,Heal,12,True,12474,10450,Statikk Shiv,Doran's Blade,Berserker's Greaves,Infinity Edge,Phantom Dancer,,27732,80147,Lane.bot_lane,Role.carry
+7,Istibok,Kennen,True,Side.red,2,1,1,3.0,212,Flash,Teleport,14,False,9046,7600,Hextech Gunblade,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,,,31545,64493,Lane.top_lane,Role.solo
+8,Braums Mustache,Poppy,True,Side.red,2,2,11,6.5,73,Flash,Smite,11,False,7748,5475,Boots of Mobility,Enchantment: Cinderhulk,Glacial Shroud,Cloth Armor,Cloth Armor,,8747,55994,Lane.jungle,Role.none
+9,aiglatson,Lissandra,True,Side.red,4,0,9,13.0,197,Flash,Teleport,14,False,9957,9500,Doran's Ring,Hextech Protobelt-01,Seeker's Armguard,Fiendish Codex,Sorcerer's Shoes,Abyssal Scepter,114424,8841,Lane.mid_lane,Role.solo

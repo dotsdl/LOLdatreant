@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dadams,Jinx,True,Side.blue,3,1,2,5.0,90,Flash,Heal,8,False,6259,4550,Berserker's Greaves,B. F. Sword,Total Biscuit of Rejuvenation,Zeal,Dagger,Doran's Blade,1409,45996,Lane.bot_lane,Role.duo
+1,FORG1VENRE,Thresh,True,Side.blue,0,1,4,4.0,18,Exhaust,Flash,7,False,3942,3700,Targon's Brace,Ruby Sightstone,Boots of Mobility,Total Biscuit of Rejuvenation,,,4293,5576,Lane.bot_lane,Role.duo
+2,Xzevz,Lee Sin,True,Side.blue,4,0,2,6.0,48,Smite,Flash,8,True,5734,4075,Boots of Mobility,Ruby Crystal,,Refillable Potion,Enchantment: Warrior,,6356,30755,Lane.jungle,Role.none
+3,Kic,Twisted Fate,True,Side.blue,1,1,3,4.0,78,Flash,Ghost,9,False,5451,3970,Doran's Ring,The Dark Seal,Negatron Cloak,Blasting Wand,Ionian Boots of Lucidity,Ruby Crystal,35572,6965,Lane.mid_lane,Role.solo
+4,MaNDashwell,Gangplank,True,Side.blue,4,1,0,4.0,72,Flash,Teleport,9,False,5937,4283,Trinity Force,,,,,,3176,45809,Lane.top_lane,Role.solo
+5,is that Rex,Vi,False,Side.red,0,3,1,0.3333333333333333,37,Smite,Flash,6,False,3221,2625,Stalker's Blade,Refillable Potion,Bami's Cinder,Control Ward,Boots of Speed,,645,26968,Lane.jungle,Role.none
+6,bvcx222,Blitzcrank,False,Side.red,1,1,0,1.0,9,Flash,Exhaust,6,False,2734,1950,Sightstone,,Control Ward,Relic Shield,,Boots of Speed,2300,2902,Lane.bot_lane,Role.duo
+7,Haamil,Twitch,False,Side.red,0,2,1,0.5,67,Flash,Heal,6,False,3413,3000,Doran's Blade,B. F. Sword,Total Biscuit of Rejuvenation,Berserker's Greaves,,,0,17176,Lane.bot_lane,Role.duo
+8,zaqwsxcde,Morgana,False,Side.red,1,3,0,0.3333333333333333,73,Flash,Teleport,8,False,3649,2450,Lost Chapter,Doran's Ring,Fiendish Codex,Total Biscuit of Rejuvenation,,,24823,6895,Lane.top_lane,Role.solo
+9,Stephen M Ross,Viktor,False,Side.red,1,3,0,0.3333333333333333,62,Flash,Ghost,7,False,3439,2825,The Hex Core mk-2,Doran's Ring,Health Potion,,,,13717,4771,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ioku,Vayne,True,Side.blue,7,1,3,10.0,164,Flash,Heal,12,True,10434,8825,Infinity Edge,Berserker's Greaves,Long Sword,Cull,Statikk Shiv,Doran's Blade,22645,67570,Lane.bot_lane,Role.carry
+1,King of the Hill,Kled,True,Side.blue,6,2,7,6.5,159,Flash,Teleport,14,False,10243,9000,Titanic Hydra,The Black Cleaver,Doran's Blade,Mercury's Treads,Null-Magic Mantle,Long Sword,0,80382,Lane.top_lane,Role.solo
+2,Imae1,Ezreal,True,Side.blue,3,1,7,10.0,124,Barrier,Flash,13,False,8351,6650,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Aether Wisp,Sheen,23422,41236,Lane.mid_lane,Role.solo
+3,Bilbo Fett,Thresh,True,Side.blue,1,3,18,6.333333333333333,23,Flash,Exhaust,11,False,7228,5935,Targon's Brace,Sightstone,Locket of the Iron Solari,Boots of Mobility,Control Ward,Crystalline Bracer,8077,7178,Lane.bot_lane,Role.support
+4,Ktownyy,Elise,True,Side.blue,16,3,5,7.0,82,Flash,Smite,13,False,11463,10680,Boots of Mobility,Hextech Protobelt-01,Negatron Cloak,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Amplifying Tome,70092,21956,Lane.jungle,Role.none
+5,Xilixir,Jhin,False,Side.red,0,5,0,0.0,87,Heal,Flash,9,False,5193,5000,Doran's Blade,Boots of Swiftness,Essence Reaver,,,,556,33074,Lane.bot_lane,Role.carry
+6,racecar3112,Olaf,False,Side.red,5,8,3,1.0,95,Ghost,Teleport,13,False,6992,6050,Corrupting Potion,The Black Cleaver,Ninja Tabi,Spectre's Cowl,Control Ward,,1929,55985,Lane.top_lane,Role.solo
+7,Murphstunna,Karma,False,Side.red,1,4,1,0.5,57,Flash,Exhaust,10,False,5654,5225,Ardent Censer,Eye of the Watchers,,,,Boots of Speed,27767,5781,Lane.bot_lane,Role.support
+8,TRUMPSSMALLHANDS,Rengar,False,Side.red,0,6,2,0.3333333333333333,77,Flash,Smite,10,False,5589,4875,Enchantment: Warrior,Refillable Potion,Serrated Dirk,Boots of Speed,Long Sword,Long Sword,3883,57080,Lane.jungle,Role.none
+9,Liquid Srkenji,LeBlanc,False,Side.red,4,10,4,0.8,88,Flash,Ghost,11,False,6549,5775,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,Control Ward,,40803,4296,Lane.mid_lane,Role.solo

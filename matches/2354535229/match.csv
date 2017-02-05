@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dallidas,Viktor,False,Side.blue,1,5,1,0.4,149,Ghost,Flash,12,False,6214,5200,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,Ruby Crystal,,66850,8877,Lane.mid_lane,Role.solo
+1,Katherine x Zed,Yasuo,False,Side.blue,1,4,0,0.25,147,Flash,Exhaust,11,False,5958,3950,Vampiric Scepter,,,,Phantom Dancer,Doran's Blade,19674,44115,Lane.top_lane,Role.solo
+2,sangy1,Udyr,False,Side.blue,1,3,1,0.6666666666666666,92,Ghost,Smite,11,False,5852,5550,Enchantment: Bloodrazor,Refillable Potion,Boots of Swiftness,Giant's Belt,Chain Vest,,35524,34027,Lane.jungle,Role.none
+3,Give me hate pls,Braum,False,Side.blue,0,0,0,0.0,20,Exhaust,Flash,7,False,3886,2875,Targon's Brace,Boots of Mobility,Sightstone,Total Biscuit of Rejuvenation,Control Ward,,2008,2947,Lane.bot_lane,Role.support
+4,Yarzen,Caitlyn,False,Side.blue,0,1,0,0.0,69,Heal,Flash,6,False,4430,4000,Doran's Blade,Cull,B. F. Sword,Zeal,Boots of Speed,,329,21170,Lane.bot_lane,Role.carry
+5,WatchThePower,Rengar,True,Side.red,7,0,3,10.0,151,Flash,Smite,14,False,10562,4575,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Long Sword,Long Sword,,18958,111095,Lane.jungle,Role.none
+6,fishyfoodguy,Ezreal,True,Side.red,2,0,1,3.0,145,Flash,Heal,11,False,8875,5675,Doran's Blade,Caulfield's Warhammer,Manamune,Berserker's Greaves,Sapphire Crystal,,7276,73206,Lane.bot_lane,Role.carry
+7,HappyEasterXbox,Nasus,True,Side.red,0,1,4,4.0,153,Flash,Teleport,12,False,8304,7350,Doran's Ring,Corrupting Potion,Zz'Rot Portal,Banner of Command,Doran's Ring,Boots of Swiftness,53181,23246,Lane.top_lane,Role.solo
+8,Ninji,Alistar,True,Side.red,0,1,4,4.0,26,Exhaust,Flash,9,False,5848,4075,Targon's Brace,Boots of Mobility,Sightstone,Total Biscuit of Rejuvenation,Aegis of the Legion,Control Ward,4502,6105,Lane.bot_lane,Role.support
+9,Meister Chief,Kog'Maw,True,Side.red,4,1,4,8.0,162,Ghost,Flash,12,True,9240,7900,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,,,75120,15897,Lane.mid_lane,Role.solo

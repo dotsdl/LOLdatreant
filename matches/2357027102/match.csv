@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kawaii Kitsune,Lulu,False,Side.blue,2,5,8,2.0,17,Flash,Ignite,11,False,7979,7600,Eye of the Oasis,Locket of the Iron Solari,Redemption,Ninja Tabi,Refillable Potion,,14689,3869,Lane.bot_lane,Role.support
+1,ThirdPoint,Morgana,False,Side.blue,0,5,6,1.2,128,Ignite,Flash,12,False,8297,7695,Zhonya's Hourglass,Sorcerer's Shoes,Health Potion,Doran's Ring,,Morellonomicon,69260,8624,Lane.mid_lane,Role.solo
+2,Akaabz,Lucian,False,Side.blue,5,3,7,4.0,176,Heal,Flash,13,False,11105,11100,Doran's Blade,Rapid Firecannon,Lord Dominik's Regards,Essence Reaver,Berserker's Greaves,,5019,101900,Lane.bot_lane,Role.carry
+3,ShadowyFigure,Lee Sin,False,Side.blue,5,8,7,1.5,150,Flash,Smite,13,False,10268,9975,Ionian Boots of Lucidity,Enchantment: Warrior,Tiamat,Hexdrinker,Spirit Visage,Giant's Belt,20060,98831,Lane.jungle,Role.none
+4,aePheva,Katarina,False,Side.blue,5,6,0,0.8333333333333334,173,Teleport,Flash,13,False,9461,9305,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Sunfire Cape,Negatron Cloak,Amplifying Tome,87820,11949,Lane.top_lane,Role.solo
+5,APEC AA,Graves,True,Side.red,3,3,6,3.0,93,Flash,Smite,13,True,9926,7950,Control Ward,Refillable Potion,Phantom Dancer,Berserker's Greaves,Hexdrinker,Enchantment: Bloodrazor,2890,92729,Lane.jungle,Role.none
+6,A Fking God,Caitlyn,True,Side.red,7,4,8,3.75,238,Heal,Flash,16,False,13663,11850,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Zeal,Runaan's Hurricane,Last Whisper,622,173708,Lane.bot_lane,Role.carry
+7,Soligo,Orianna,True,Side.red,14,2,4,9.0,203,Ghost,Flash,15,False,14108,12400,Void Staff,Doran's Ring,Fiendish Codex,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,134978,15367,Lane.mid_lane,Role.solo
+8,Some Fruit,Bard,True,Side.red,1,5,15,3.2,10,Ignite,Flash,12,False,8424,7200,Aegis of the Legion,Ruby Sightstone,Redemption,Mercury's Treads,Ruby Crystal,Spellthief's Edge,7637,4064,Lane.bot_lane,Role.support
+9,UberSorcerer,Poppy,True,Side.red,2,3,11,4.333333333333333,144,Flash,Teleport,14,False,9665,8650,Spirit Visage,Mercury's Treads,Corrupting Potion,Sunfire Cape,Glacial Shroud,Sapphire Crystal,12105,64092,Lane.top_lane,Role.solo

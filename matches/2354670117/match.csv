@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hentai Kami Sama,Aurelion Sol,True,Side.blue,12,0,8,20.0,180,Exhaust,Flash,14,False,12478,9625,Hextech GLP-800,Corrupting Potion,Boots of Swiftness,Rylai's Crystal Scepter,The Dark Seal,Haunting Guise,119739,7099,Lane.mid_lane,Role.solo
+1,Pht,Darius,True,Side.blue,3,4,4,1.75,119,Teleport,Flash,12,True,8161,6000,Boots of Swiftness,Corrupting Potion,The Black Cleaver,Spectre's Cowl,Cloth Armor,,305,62916,Lane.top_lane,Role.solo
+2,Cheng Liu,Lucian,True,Side.blue,6,1,6,12.0,181,Heal,Flash,12,False,10577,8975,Refillable Potion,Doran's Blade,Berserker's Greaves,Pickaxe,Statikk Shiv,Essence Reaver,3892,87587,Lane.bot_lane,Role.carry
+3,0 K A Y B O Y S,Vi,True,Side.blue,8,2,6,7.0,119,Flash,Smite,13,False,10690,10658,Enchantment: Warrior,Youmuu's Ghostblade,Control Ward,Trinity Force,Mercury's Treads,,1458,116203,Lane.jungle,Role.none
+4,IA55A55INI,Taric,True,Side.blue,0,0,12,12.0,29,Flash,Exhaust,10,False,6784,5800,Face of the Mountain,Ruby Sightstone,Ionian Boots of Lucidity,Crystalline Bracer,,,7130,10531,Lane.bot_lane,Role.support
+5,Hi Im Wolfwood,Graves,False,Side.red,1,7,2,0.42857142857142855,87,Flash,Smite,10,False,5934,5550,Berserker's Greaves,Refillable Potion,Enchantment: Warrior,Zeal,Dagger,,2868,60193,Lane.jungle,Role.none
+6,Crows Before Hos,Swain,False,Side.red,4,9,3,0.7777777777777778,94,Ignite,Flash,11,False,6175,5675,Rod of Ages,Mercury's Treads,Null-Magic Mantle,Doran's Ring,Tear of the Goddess,,38961,6620,Lane.mid_lane,Role.solo
+7,AvadaKedavra BAM,Sona,False,Side.red,1,5,3,0.8,13,Flash,Exhaust,10,False,5169,4950,Frostfang,Tear of the Goddess,Sightstone,Boots of Speed,Redemption,,11130,4292,Lane.bot_lane,Role.support
+8,SJC Cali,Ashe,False,Side.red,1,6,2,0.5,121,Flash,Heal,10,False,6088,6025,Doran's Blade,Essence Reaver,Refillable Potion,Berserker's Greaves,Dagger,Dagger,1417,54546,Lane.bot_lane,Role.carry
+9,Koby,Nasus,False,Side.red,0,2,4,2.0,130,Flash,Teleport,12,False,6440,5500,Corrupting Potion,Zz'Rot Portal,Ninja Tabi,Doran's Ring,Doran's Ring,Ruby Crystal,58135,14365,Lane.top_lane,Role.solo

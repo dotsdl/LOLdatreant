@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Snackbar123,Lucian,False,Side.blue,7,6,7,2.3333333333333335,216,Heal,Flash,14,False,11457,11175,Doran's Blade,Control Ward,Rapid Firecannon,Berserker's Greaves,Death's Dance,The Black Cleaver,3250,121076,Lane.bot_lane,Role.carry
+1,Kurumz,Twisted Fate,False,Side.blue,6,5,4,2.0,194,Ghost,Flash,14,False,11164,10735,Doran's Ring,Rod of Ages,Zhonya's Hourglass,Ionian Boots of Lucidity,Lich Bane,Amplifying Tome,89419,12998,Lane.mid_lane,Role.solo
+2,Hello I am Dust,Zyra,False,Side.blue,3,7,9,1.7142857142857142,33,Exhaust,Flash,10,False,8084,7075,Total Biscuit of Rejuvenation,Eye of the Watchers,Control Ward,Liandry's Torment,Sorcerer's Shoes,,30079,5037,Lane.bot_lane,Role.support
+3,rat fink boy,Lee Sin,False,Side.blue,4,7,6,1.4285714285714286,101,Smite,Flash,12,True,8805,8175,Enchantment: Warrior,Titanic Hydra,Refillable Potion,Mercury's Treads,Kindlegem,,14857,79914,Lane.jungle,Role.none
+4,Xpecial,Nautilus,False,Side.blue,1,5,8,1.8,145,Teleport,Flash,13,False,8622,7875,Corrupting Potion,Sunfire Cape,Mercury's Treads,,Frozen Heart,Null-Magic Mantle,71959,19123,Lane.top_lane,Role.solo
+5,grnlefboy,Nasus,True,Side.red,7,3,11,6.0,205,Teleport,Flash,15,False,12014,9708,Corrupting Potion,Zz'Rot Portal,Tiamat,Boots of Speed,Jaurim's Fist,Trinity Force,63317,44443,Lane.top_lane,Role.solo
+6,Liquid fabbbyyy,Vayne,True,Side.red,13,5,8,4.2,155,Flash,Heal,14,False,12096,10450,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Doran's Blade,Statikk Shiv,Zeal,8464,80024,Lane.bot_lane,Role.carry
+7,Smoothie,Thresh,True,Side.red,1,6,18,3.1666666666666665,25,Flash,Ignite,12,False,6855,6475,Control Ward,Ruby Sightstone,Locket of the Iron Solari,Relic Shield,Boots of Mobility,Ruby Crystal,7407,4039,Lane.bot_lane,Role.support
+8,Crackadon,Kennen,True,Side.red,5,5,11,3.2,148,Teleport,Flash,14,False,9945,8485,Doran's Blade,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,54083,24123,Lane.mid_lane,Role.solo
+9,im Dusk,Zac,True,Side.red,4,2,19,11.5,139,Smite,Flash,14,False,10711,10050,Enchantment: Cinderhulk,Randuin's Omen,Control Ward,Ionian Boots of Lucidity,Null-Magic Mantle,Spirit Visage,99633,17511,Lane.jungle,Role.none

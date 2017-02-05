@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,its a snow kitty,Karma,False,Side.blue,1,3,10,3.6666666666666665,2,Exhaust,Flash,11,False,7323,6700,Redemption,Faerie Charm,Control Ward,Eye of the Watchers,Chalice of Harmony,Ionian Boots of Lucidity,8902,3254,Lane.bot_lane,Role.support
+1,Kinnie,Renekton,False,Side.blue,2,5,3,1.0,212,Flash,Teleport,15,False,9770,9650,Doran's Blade,The Black Cleaver,Giant's Belt,Ravenous Hydra,Mercury's Treads,Cloth Armor,1834,125706,Lane.top_lane,Role.solo
+2,Keegun,Pantheon,False,Side.blue,11,7,6,2.4285714285714284,141,Smite,Flash,14,True,12007,13850,The Black Cleaver,Edge of Night,Last Whisper,Enchantment: Warrior,,Boots of Mobility,14143,128025,Lane.jungle,Role.none
+3,HungBrickMan,Vayne,False,Side.blue,5,4,3,2.0,180,Heal,Flash,13,False,9983,9650,Doran's Blade,Doran's Blade,Berserker's Greaves,Infinity Edge,Phantom Dancer,Hexdrinker,0,83395,Lane.bot_lane,Role.carry
+4,VeeIox,Orianna,False,Side.blue,4,8,8,1.5,144,Ghost,Flash,13,False,9621,9435,Sorcerer's Shoes,Rabadon's Deathcap,Doran's Ring,Amplifying Tome,Morellonomicon,,82130,12439,Lane.mid_lane,Role.solo
+5,Oombadu,Shyvana,True,Side.red,6,3,6,4.0,237,Flash,Teleport,16,False,12441,10075,Ninja Tabi,Sunfire Cape,Giant's Belt,Doran's Shield,Blade of the Ruined King,Warden's Mail,106405,32635,Lane.top_lane,Role.solo
+6,hi im ming,Caitlyn,True,Side.red,10,4,6,4.0,221,Heal,Flash,15,False,14205,11875,Rapid Firecannon,Infinity Edge,Last Whisper,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,1695,158580,Lane.bot_lane,Role.carry
+7,TFW Glory,Wukong,True,Side.red,3,4,10,3.25,110,Smite,Flash,15,False,10506,9075,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Chain Vest,Mercury's Treads,Giant's Belt,7042,97055,Lane.mid_lane,Role.support
+8,HvK Enatsu,Nautilus,True,Side.red,1,6,13,2.3333333333333335,27,Flash,Exhaust,13,False,8679,7260,Refillable Potion,Redemption,Sightstone,Ninja Tabi,Knight's Vow,Relic Shield,13526,7204,Lane.bot_lane,Role.support
+9,FuZioN GraTaTa,Cassiopeia,True,Side.red,7,6,3,1.6666666666666667,199,Flash,Ignite,16,False,12711,10300,Doran's Ring,Tear of the Goddess,,Rylai's Crystal Scepter,Morellonomicon,Abyssal Scepter,134292,10677,Lane.mid_lane,Role.carry

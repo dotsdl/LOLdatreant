@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DarkL3g3nd,Miss Fortune,False,Side.blue,6,7,7,1.8571428571428572,138,Flash,Heal,12,False,9614,9300,Youmuu's Ghostblade,Berserker's Greaves,Duskblade of Draktharr,Doran's Blade,Phage,,4549,67492,Lane.bot_lane,Role.carry
+1,Fàkèr  ,Yasuo,False,Side.blue,5,5,9,2.8,94,Smite,Flash,13,False,9015,8975,Ninja Tabi,Jaurim's Fist,Phantom Dancer,Skirmisher's Sabre,,Randuin's Omen,16434,59491,Lane.jungle,Role.none
+2,Micester,Poppy,False,Side.blue,4,7,5,1.2857142857142858,151,Teleport,Flash,13,False,8982,8875,Corrupting Potion,Sunfire Cape,Boots of Swiftness,Iceborn Gauntlet,Chain Vest,Giant's Belt,27134,59006,Lane.top_lane,Role.solo
+3,BIind Goat,Corki,False,Side.blue,6,8,7,1.625,160,Exhaust,Flash,13,False,10066,8908,Trinity Force,Boots of Speed,Corrupting Potion,Kircheis Shard,Hextech Gunblade,,74123,18706,Lane.mid_lane,Role.solo
+4,fumi,Zyra,False,Side.blue,3,8,9,1.5,62,Flash,Exhaust,12,False,8671,8550,Eye of the Watchers,Refillable Potion,Redemption,Ionian Boots of Lucidity,Locket of the Iron Solari,Giant's Belt,41649,5068,Lane.bot_lane,Role.support
+5,Repfix,Lee Sin,True,Side.red,17,5,4,4.2,149,Smite,Flash,15,True,14298,12620,Enchantment: Warrior,Tiamat,Jaurim's Fist,Dead Man's Plate,Ninja Tabi,The Black Cleaver,21984,115184,Lane.jungle,Role.none
+6, Casely,Vel'Koz,True,Side.red,10,5,9,3.8,124,Flash,Ghost,14,False,11259,11010,Rabadon's Deathcap,Morellonomicon,Blasting Wand,Ionian Boots of Lucidity,Mejai's Soulstealer,Amplifying Tome,69617,8725,Lane.mid_lane,Role.solo
+7,Aint Random,Renekton,True,Side.red,2,5,2,0.8,215,Flash,Ignite,14,False,11262,11350,Locket of the Iron Solari,Titanic Hydra,Ninja Tabi,The Black Cleaver,Long Sword,Long Sword,4557,125779,Lane.top_lane,Role.solo
+8,TemptingCash,Karma,True,Side.red,1,6,12,2.1666666666666665,12,Flash,Ignite,11,False,8129,7950,Zeke's Harbinger,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,,,12962,3447,Lane.bot_lane,Role.support
+9,Stumpey,Caitlyn,True,Side.red,5,3,14,6.333333333333333,191,Flash,Heal,15,False,12393,10050,Doran's Blade,Zeal,Berserker's Greaves,Runaan's Hurricane,Kircheis Shard,Infinity Edge,987,129253,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vicktorious,Vayne,False,Side.blue,2,6,1,0.5,168,Flash,Exhaust,13,False,9007,8850,Doran's Blade,Doran's Blade,,Infinity Edge,Statikk Shiv,Berserker's Greaves,21464,58246,Lane.top_lane,Role.solo
+1,Xys,Olaf,False,Side.blue,4,5,3,1.4,104,Smite,Ghost,12,False,8655,8050,Righteous Glory,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Refillable Potion,Giant's Belt,Chain Vest,11895,70448,Lane.jungle,Role.none
+2,TextualEditorXD,Bard,False,Side.blue,5,3,6,3.6666666666666665,18,Exhaust,Flash,9,False,7533,7375,Boots of Swiftness,Locket of the Iron Solari,Frost Queen's Claim,Sightstone,Ruby Crystal,Control Ward,10453,4015,Lane.bot_lane,Role.support
+3,herolineage,Sivir,False,Side.blue,3,5,3,1.2,168,Flash,Heal,12,True,9144,8275,Doran's Blade,Phantom Dancer,Essence Reaver,Boots of Speed,Pickaxe,,0,103289,Lane.bot_lane,Role.carry
+4,AeiKay,Twisted Fate,False,Side.blue,3,5,6,1.8,149,Ghost,Flash,13,False,9612,8400,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Lich Bane,Aether Wisp,,78811,11166,Lane.mid_lane,Role.solo
+5,LoveLive Banzaai,Morgana,True,Side.red,1,3,7,2.6666666666666665,12,Flash,Exhaust,11,False,6838,6550,Eye of the Watchers,Redemption,Boots of Mobility,Glacial Shroud,Control Ward,,7160,4972,Lane.bot_lane,Role.support
+6,xBlotter,Ashe,True,Side.red,3,5,6,1.8,140,Heal,Flash,13,False,8997,8850,Doran's Blade,Pickaxe,,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,2594,83661,Lane.bot_lane,Role.carry
+7,Prideful King,Katarina,True,Side.red,8,3,3,3.6666666666666665,130,Flash,Ignite,13,False,9707,9625,Rylai's Crystal Scepter,Refillable Potion,Hextech Gunblade,Sorcerer's Shoes,Blasting Wand,Aether Wisp,75996,12104,Lane.jungle,Role.none
+8,Thinkful,Jayce,True,Side.red,10,1,4,14.0,181,Teleport,Flash,14,False,12125,11475,Doran's Blade,Youmuu's Ghostblade,The Black Cleaver,Null-Magic Mantle,Ionian Boots of Lucidity,Duskblade of Draktharr,16537,103673,Lane.top_lane,Role.solo
+9,Sorye Ge T0n,Lee Sin,True,Side.red,2,5,12,2.8,82,Flash,Smite,13,False,8833,8075,The Black Cleaver,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Chain Vest,Cloth Armor,11018,74239,Lane.jungle,Role.none

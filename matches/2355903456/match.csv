@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cat Person,Karma,False,Side.blue,0,2,4,2.0,15,Flash,Heal,10,False,5104,4700,Frost Queen's Claim,Sightstone,,Ruby Crystal,Null-Magic Mantle,Boots of Speed,7954,2838,Lane.bot_lane,Role.support
+1,Falco Mechanic,Vayne,False,Side.blue,2,3,0,0.6666666666666666,98,Exhaust,Flash,8,False,5724,4625,Doran's Blade,Pickaxe,B. F. Sword,Berserker's Greaves,Cloak of Agility,,0,34052,Lane.bot_lane,Role.carry
+2,bae af,Zac,False,Side.blue,2,2,2,2.0,83,Smite,Flash,12,False,6279,5675,Spectre's Cowl,Kindlegem,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Cinderhulk,,59547,16081,Lane.jungle,Role.none
+3,DarkL3g3nd,Veigar,False,Side.blue,1,9,0,0.1111111111111111,137,Flash,Ghost,11,False,6358,5900,Tear of the Goddess,Boots of Speed,Doran's Ring,Morellonomicon,Total Biscuit of Rejuvenation,Needlessly Large Rod,54566,8240,Lane.mid_lane,Role.solo
+4,Lose is improve,Rammus,False,Side.blue,1,4,1,0.5,140,Teleport,Flash,12,False,6409,6050,Sunfire Cape,Corrupting Potion,Thornmail,Boots of Speed,,,58014,17012,Lane.top_lane,Role.solo
+5,Hyorimaru,Anivia,True,Side.red,7,2,2,4.5,178,Flash,Ghost,13,False,9580,8225,Doran's Ring,Doran's Ring,Rod of Ages,Boots of Mobility,Tear of the Goddess,Abyssal Scepter,92868,7857,Lane.mid_lane,Role.solo
+6,1IOrz,Lee Sin,True,Side.red,9,1,2,11.0,130,Smite,Flash,13,True,9819,8750,The Black Cleaver,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Last Whisper,Ruby Crystal,19621,95381,Lane.jungle,Role.none
+7,NI9HT,Fiora,True,Side.red,3,1,1,4.0,165,Teleport,Flash,13,False,8041,6850,Ravenous Hydra,Corrupting Potion,,Mercury's Treads,Phage,Long Sword,1074,79800,Lane.top_lane,Role.solo
+8,Hello I am Dust,Janna,True,Side.red,0,0,6,6.0,8,Exhaust,Flash,11,False,5618,5000,Total Biscuit of Rejuvenation,Eye of the Watchers,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,Control Ward,2360,5591,Lane.bot_lane,Role.support
+9,dog maple,Lucian,True,Side.red,1,2,3,2.0,172,Heal,Flash,10,False,7985,6850,Doran's Blade,Cull,Control Ward,Berserker's Greaves,Death's Dance,Caulfield's Warhammer,1684,80722,Lane.bot_lane,Role.carry

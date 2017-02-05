@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vinhdo,Kha'Zix,False,Side.blue,3,8,4,0.875,278,Flash,Smite,18,False,15295,14575,Edge of Night,Youmuu's Ghostblade,Maw of Malmortius,Serrated Dirk,Enchantment: Warrior,Ionian Boots of Lucidity,6980,262132,Lane.jungle,Role.none
+1,Scammerz,Fizz,False,Side.blue,7,10,2,0.9,188,Flash,Ignite,16,False,13732,12750,Doran's Ring,Abyssal Scepter,Lich Bane,Rabadon's Deathcap,Blasting Wand,Sorcerer's Shoes,110303,31538,Lane.mid_lane,Role.solo
+2,Secillia,Riven,False,Side.blue,7,10,4,1.1,262,Teleport,Flash,17,True,14921,15225,Ravenous Hydra,Death's Dance,Ninja Tabi,The Black Cleaver,Guardian Angel,,590,205927,Lane.top_lane,Role.solo
+3,Kappa desu,Lulu,False,Side.blue,4,4,9,3.25,8,Flash,Exhaust,15,False,11642,10720,Locket of the Iron Solari,Eye of the Watchers,Redemption,Negatron Cloak,Athene's Unholy Grail,Boots of Mobility,16485,4620,Lane.bot_lane,Role.support
+4,Dis396,Draven,False,Side.blue,6,8,5,1.375,272,Flash,Heal,17,False,16166,15775,Long Sword,The Bloodthirster,Mortal Reminder,Infinity Edge,Phantom Dancer,Berserker's Greaves,2025,218459,Lane.bot_lane,Role.carry
+5,bvcx222,Bard,True,Side.red,6,5,19,5.0,20,Flash,Ignite,17,False,13009,11750,Ruby Sightstone,Locket of the Iron Solari,Null-Magic Mantle,Warmog's Armor,Knight's Vow,Boots of Mobility,16845,7594,Lane.bot_lane,Role.support
+6,MyBloodIsVodka,LeBlanc,True,Side.red,3,11,8,1.0,179,Flash,Teleport,15,False,12988,12375,Fiendish Codex,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,Void Staff,Seeker's Armguard,131886,11578,Lane.mid_lane,Role.solo
+7,racecar3112,Darius,True,Side.red,10,4,11,5.25,283,Flash,Teleport,18,False,17445,14775,Titanic Hydra,Randuin's Omen,Ninja Tabi,Guardian Angel,The Black Cleaver,Spectre's Cowl,270,190982,Lane.top_lane,Role.solo
+8,Hatsunemiku233,Caitlyn,True,Side.red,16,6,16,5.333333333333333,255,Flash,Heal,18,False,19191,15450,Quicksilver Sash,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,The Bloodthirster,6145,235632,Lane.bot_lane,Role.carry
+9,Slapo,Zac,True,Side.red,5,1,23,28.0,155,Smite,Flash,18,False,14497,13025,Spirit Visage,Randuin's Omen,Chain Vest,Enchantment: Cinderhulk,Ninja Tabi,Thornmail,133226,31830,Lane.jungle,Role.none

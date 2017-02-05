@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WatchThePower,Kha'Zix,True,Side.blue,1,1,3,4.0,134,Flash,Smite,11,False,7746,6400,Refillable Potion,Tiamat,Enchantment: Warrior,B. F. Sword,Ionian Boots of Lucidity,Control Ward,1931,100740,Lane.jungle,Role.none
+1,Legendary Riven,Riven,True,Side.blue,9,3,0,3.0,96,Teleport,Flash,11,False,8160,6500,The Black Cleaver,Mercury's Treads,Caulfield's Warhammer,Pickaxe,,,0,63251,Lane.top_lane,Role.solo
+2,I Affinity l,Aurelion Sol,True,Side.blue,0,0,4,4.0,106,Exhaust,Flash,10,False,6511,4825,Hextech GLP-800,Corrupting Potion,Boots of Swiftness,The Dark Seal,,,51931,5518,Lane.mid_lane,Role.solo
+3,Gaku Yashiro,Janna,True,Side.blue,0,0,4,4.0,4,Flash,Exhaust,8,False,5138,3875,Aegis of the Legion,Boots of Speed,Eye of the Watchers,,,,5072,6154,Lane.bot_lane,Role.support
+4,Never Vote Yes,Lucian,True,Side.blue,3,1,1,4.0,134,Flash,Heal,10,False,7514,6250,Doran's Blade,Berserker's Greaves,Youmuu's Ghostblade,Caulfield's Warhammer,Long Sword,Dagger,605,70565,Lane.bot_lane,Role.carry
+5,Sir hooks a Iot,Bard,False,Side.red,0,3,0,0.0,2,Ignite,Flash,6,False,2985,2200,Frostfang,Sightstone,Total Biscuit of Rejuvenation,,,,1836,1197,Lane.bot_lane,Role.support
+6,OIaf,Olaf,False,Side.red,2,5,0,0.4,53,Flash,Teleport,7,True,4195,3625,Sheen,Phage,Cloth Armor,Boots of Speed,Corrupting Potion,Control Ward,190,22149,Lane.top_lane,Role.solo
+7,clearyt,Ezreal,False,Side.red,0,1,1,1.0,58,Heal,Flash,7,False,3828,3150,Doran's Blade,Sheen,Tear of the Goddess,Long Sword,Ruby Crystal,,2475,16868,Lane.bot_lane,Role.carry
+8,Guanggege,Lux,False,Side.red,1,1,1,2.0,91,Exhaust,Flash,10,False,4659,4600,Doran's Ring,Morellonomicon,Blasting Wand,,,,31816,9009,Lane.mid_lane,Role.solo
+9,Follow Mohamed,Trundle,False,Side.red,2,3,1,1.0,57,Smite,Flash,9,False,4937,4325,Hunter's Machete,Tiamat,Refillable Potion,Berserker's Greaves,Stinger,Long Sword,954,46691,Lane.jungle,Role.none

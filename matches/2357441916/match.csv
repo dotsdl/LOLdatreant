@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AznSenpaiX,Riven,True,Side.blue,8,8,3,1.375,215,Flash,Teleport,16,True,13368,11750,Youmuu's Ghostblade,Ravenous Hydra,Maw of Malmortius,Ionian Boots of Lucidity,,,1790,141586,Lane.top_lane,Role.solo
+1,Jeziz,Poppy,True,Side.blue,5,6,13,3.0,114,Flash,Smite,15,False,11111,10025,Ruby Crystal,Enchantment: Cinderhulk,Null-Magic Mantle,Dead Man's Plate,Banshee's Veil,Boots of Swiftness,21011,81213,Lane.jungle,Role.none
+2,Competition,Janna,True,Side.blue,0,3,18,6.0,18,Exhaust,Flash,13,False,9654,8925,Locket of the Iron Solari,Talisman of Ascension,Sightstone,Redemption,,Ionian Boots of Lucidity,4731,10776,Lane.bot_lane,Role.support
+3,Najosk,Ahri,True,Side.blue,6,6,12,3.0,115,Ignite,Flash,15,False,11373,10425,Hextech Protobelt-01,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Luden's Echo,,48121,21081,Lane.mid_lane,Role.solo
+4,da ye BABA,Kalista,True,Side.blue,16,5,4,4.0,222,Heal,Flash,15,False,15854,14450,Doran's Blade,Blade of the Ruined King,Mercurial Scimitar,Berserker's Greaves,Runaan's Hurricane,Sterak's Gage,6214,174074,Lane.bot_lane,Role.carry
+5,Beserk97,LeBlanc,False,Side.red,7,8,5,1.5,170,Flash,Ignite,15,False,11109,10285,Blasting Wand,Abyssal Scepter,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,102566,12577,Lane.mid_lane,Role.solo
+6,Tuga,Jhin,False,Side.red,4,10,10,1.4,159,Heal,Flash,13,False,10428,10300,Rapid Firecannon,Duskblade of Draktharr,Control Ward,Youmuu's Ghostblade,Boots of Swiftness,,6934,104936,Lane.bot_lane,Role.carry
+7,Outline,Vel'Koz,False,Side.red,8,7,8,2.2857142857142856,206,Flash,Heal,16,False,13120,12510,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Luden's Echo,Sorcerer's Shoes,Amplifying Tome,120755,13656,Lane.top_lane,Role.solo
+8,Souvie,Sona,False,Side.red,1,6,16,2.8333333333333335,14,Flash,Exhaust,13,False,8839,8600,Frostfang,Ruby Sightstone,Ionian Boots of Lucidity,Frozen Heart,Redemption,,11310,7671,Lane.bot_lane,Role.support
+9,WatchThePower,Rek'Sai,False,Side.red,8,4,11,4.75,224,Flash,Smite,17,False,13961,13650,Enchantment: Cinderhulk,Titanic Hydra,Randuin's Omen,Mercury's Treads,Dead Man's Plate,Ruby Crystal,50707,157309,Lane.jungle,Role.none

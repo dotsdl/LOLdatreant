@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,pilling91,Viktor,False,Side.blue,1,3,0,0.3333333333333333,112,Ghost,Flash,10,False,5143,4660,The Hex Core mk-2,,,,,,36774,9285,Lane.mid_lane,Role.solo
+1,3in1warrior,Renekton,False,Side.blue,2,4,1,0.75,79,Flash,Exhaust,10,False,5126,6125,Redemption,,,,,,2005,37531,Lane.top_lane,Role.solo
+2,TwTv Kinoscorpia,Thresh,False,Side.blue,0,1,2,2.0,15,Exhaust,Flash,7,False,3693,2900,Relic Shield,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Ruby Crystal,,Sightstone,2865,2432,Lane.bot_lane,Role.support
+3,Sînner,Vayne,False,Side.blue,0,1,0,0.0,83,Flash,Heal,8,False,4295,5800,Redemption,,,,,,0,19748,Lane.bot_lane,Role.carry
+4,Veerski,Rengar,False,Side.blue,1,4,0,0.25,75,Flash,Smite,8,False,4645,6635,Redemption,Amplifying Tome,The Dark Seal,,,,6084,35589,Lane.jungle,Role.none
+5,Distasteful,Twitch,True,Side.red,2,0,1,3.0,136,Flash,Heal,10,False,7812,6375,Doran's Blade,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Cloak of Agility,,0,61929,Lane.bot_lane,Role.carry
+6,kàylè,Kayle,True,Side.red,1,2,1,1.0,122,Ghost,Flash,10,False,7121,5300,Doran's Ring,Total Biscuit of Rejuvenation,Control Ward,Ionian Boots of Lucidity,Nashor's Tooth,Dagger,33549,21436,Lane.top_lane,Role.solo
+7,Fockus,Karma,True,Side.red,2,0,5,7.0,16,Flash,Exhaust,9,False,6608,5150,Total Biscuit of Rejuvenation,Boots of Speed,Redemption,,,Eye of the Watchers,16552,6545,Lane.bot_lane,Role.support
+8,S Diana 2,Diana,True,Side.red,3,2,3,3.0,111,Ignite,Flash,11,False,7119,5925,Doran's Ring,Doran's Ring,Lich Bane,Boots of Speed,Needlessly Large Rod,,56552,12581,Lane.mid_lane,Role.solo
+9,FIoopie,Rek'Sai,True,Side.red,5,0,3,8.0,147,Flash,Smite,12,True,9392,5550,Refillable Potion,Tiamat,,Enchantment: Cinderhulk,Jaurim's Fist,Boots of Speed,28997,82482,Lane.jungle,Role.none

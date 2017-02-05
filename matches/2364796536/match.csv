@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Is That Hymn,Viktor,True,Side.blue,8,4,4,3.0,193,Ghost,Flash,15,False,12329,11600,Perfect Hex Core,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,,114056,11777,Lane.mid_lane,Role.solo
+1,Get Good Le Bad,Vayne,True,Side.blue,10,5,8,3.6,174,Heal,Flash,15,False,12697,12600,Blade of the Ruined King,Phantom Dancer,Doran's Blade,Berserker's Greaves,Infinity Edge,Zeal,617,101072,Lane.bot_lane,Role.carry
+2,General Gatsby,Graves,True,Side.blue,14,7,6,2.857142857142857,128,Flash,Smite,15,False,14175,13925,Enchantment: Warrior,Youmuu's Ghostblade,Phantom Dancer,Berserker's Greaves,Jaurim's Fist,Duskblade of Draktharr,4229,145819,Lane.jungle,Role.none
+3,Zorlas,Gragas,True,Side.blue,6,0,11,17.0,206,Teleport,Flash,16,False,12781,11000,Doran's Ring,Sunfire Cape,Iceborn Gauntlet,Mercury's Treads,Spirit Visage,Giant's Belt,108512,21725,Lane.top_lane,Role.solo
+4,DrSizzle,Braum,True,Side.blue,2,3,26,9.333333333333334,49,Exhaust,Flash,14,False,10307,10050,Ruby Sightstone,Knight's Vow,Control Ward,Boots of Mobility,Banner of Command,Face of the Mountain,9757,7117,Lane.bot_lane,Role.support
+5,        sadhguru,Wukong,False,Side.red,6,8,3,1.125,120,Flash,Smite,13,True,9864,9175,Hexdrinker,Enchantment: Warrior,Boots of Swiftness,The Black Cleaver,Caulfield's Warhammer,,6016,103558,Lane.jungle,Role.none
+6,Niles,Kalista,False,Side.red,4,9,8,1.3333333333333333,174,Flash,Heal,13,False,10189,10150,Berserker's Greaves,Blade of the Ruined King,Runaan's Hurricane,Doran's Blade,Vampiric Scepter,B. F. Sword,537,99208,Lane.bot_lane,Role.carry
+7,Ranksexual,Gangplank,False,Side.red,1,10,3,0.4,199,Flash,Teleport,13,False,9894,9558,Corrupting Potion,Trinity Force,Youmuu's Ghostblade,Ionian Boots of Lucidity,Last Whisper,,3090,127233,Lane.top_lane,Role.solo
+8,Oh Jeeze,Blitzcrank,False,Side.red,6,8,7,1.625,33,Ignite,Flash,12,False,8856,9550,Sightstone,Face of the Mountain,Rabadon's Deathcap,Sorcerer's Shoes,,,16310,7749,Lane.bot_lane,Role.support
+9,bvcx222,Malzahar,False,Side.red,2,5,3,1.0,199,Flash,Ghost,15,False,9575,9060,Liandry's Torment,Ruby Crystal,Morellonomicon,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,94857,26639,Lane.mid_lane,Role.solo

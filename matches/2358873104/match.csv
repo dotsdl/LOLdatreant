@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KT Score,Lee Sin,True,Side.blue,10,1,6,16.0,162,Smite,Flash,15,False,12482,10975,Tiamat,,Enchantment: Warrior,Dead Man's Plate,Randuin's Omen,Boots of Swiftness,18739,130277,Lane.jungle,Role.none
+1,Camlann,Ezreal,True,Side.blue,2,6,3,0.8333333333333334,137,Heal,Flash,11,False,8736,7750,Doran's Blade,Vampiric Scepter,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,Long Sword,7132,71892,Lane.bot_lane,Role.carry
+2,l am Gundam,Rammus,True,Side.blue,1,2,9,5.0,12,Exhaust,Flash,10,False,7169,6400,Sightstone,Knight's Vow,Corrupting Potion,Nomad's Medallion,Boots of Swiftness,Chain Vest,8085,7956,Lane.bot_lane,Role.support
+3,D Rensus,LeBlanc,True,Side.blue,5,1,6,11.0,160,Flash,Ignite,13,False,9827,8775,Morellonomicon,Refillable Potion,Abyssal Scepter,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,79594,14202,Lane.mid_lane,Role.solo
+4,ONYX DlVlSION,Yasuo,True,Side.blue,12,4,5,4.25,172,Flash,Ignite,15,False,12035,9675,Pickaxe,Doran's Blade,Phantom Dancer,Frozen Mallet,Mercury's Treads,B. F. Sword,25506,101639,Lane.top_lane,Role.solo
+5,InventDestiny,Nasus,False,Side.red,1,8,1,0.25,115,Teleport,Flash,12,False,6563,6300,Ninja Tabi,Frozen Heart,Sheen,Phage,,,9154,43333,Lane.top_lane,Role.solo
+6,Horny Pix,Lulu,False,Side.red,4,5,2,1.2,15,Flash,Ignite,9,True,6622,6225,Locket of the Iron Solari,Eye of the Watchers,,,,Boots of Mobility,13988,4174,Lane.bot_lane,Role.support
+7,The Hand,Jhin,False,Side.red,3,2,4,3.5,177,Heal,Flash,12,False,8729,7700,Doran's Blade,Rapid Firecannon,Boots of Swiftness,Essence Reaver,,,2235,96980,Lane.bot_lane,Role.carry
+8,WalkingDead1441,Graves,False,Side.red,3,9,3,0.6666666666666666,110,Flash,Smite,12,False,7854,7600,Enchantment: Warrior,Refillable Potion,Youmuu's Ghostblade,Dagger,Dagger,Berserker's Greaves,4954,99768,Lane.jungle,Role.none
+9,pIs dont tilt,Kennen,False,Side.red,3,6,1,0.6666666666666666,120,Flash,Teleport,12,False,6935,6350,Doran's Blade,Abyssal Scepter,Refillable Potion,Sorcerer's Shoes,Kindlegem,Hextech Revolver,37423,17759,Lane.mid_lane,Role.solo

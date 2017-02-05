@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dad of Allan,Leona,True,Side.blue,0,0,7,7.0,32,Flash,Ignite,9,False,5975,5000,,Eye of the Equinox,Crystalline Bracer,Boots of Swiftness,Crystalline Bracer,Cloth Armor,4549,4928,Lane.bot_lane,Role.support
+1,l Was Hiding,Twitch,True,Side.blue,11,1,0,11.0,159,Heal,Flash,11,False,9862,9625,Doran's Blade,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,Zeal,Dagger,929,62427,Lane.bot_lane,Role.carry
+2,Supremefiasco,Fizz,True,Side.blue,1,0,3,4.0,130,Ignite,Flash,12,False,7535,5900,The Dark Seal,Corrupting Potion,Rod of Ages,Ionian Boots of Lucidity,Hextech Revolver,Ruby Crystal,38435,18658,Lane.mid_lane,Role.solo
+3,Chanceroni,Lee Sin,True,Side.blue,2,0,4,6.0,78,Smite,Flash,12,True,7418,5975,Tiamat,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Vampiric Scepter,,14162,74744,Lane.jungle,Role.none
+4,N0bunaga,Poppy,True,Side.blue,2,1,2,4.0,160,Flash,Teleport,12,False,8007,6700,Corrupting Potion,Ninja Tabi,Sunfire Cape,Glacial Shroud,Sheen,,22581,58365,Lane.top_lane,Role.solo
+5,Vagueday,Hecarim,False,Side.red,2,3,0,0.6666666666666666,91,Smite,Ghost,10,False,6066,5025,Hunter's Potion,Enchantment: Cinderhulk,Boots of Swiftness,Caulfield's Warhammer,,,16126,66255,Lane.jungle,Role.none
+6,The Skitty Cat,Orianna,False,Side.red,0,0,2,2.0,140,Flash,Cleanse,12,False,5986,5025,Doran's Ring,Boots of Speed,Rod of Ages,Total Biscuit of Rejuvenation,Needlessly Large Rod,,42039,11909,Lane.mid_lane,Role.solo
+7,Babytrog,Caitlyn,False,Side.red,0,5,1,0.2,142,Flash,Heal,10,False,6355,6050,Doran's Blade,Total Biscuit of Rejuvenation,Cull,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,140,53881,Lane.bot_lane,Role.carry
+8,Newbië,Blitzcrank,False,Side.red,0,4,2,0.5,30,Ignite,Flash,9,False,4649,4225,Crystalline Bracer,Forbidden Idol,Boots of Mobility,Targon's Brace,Sightstone,,5765,4781,Lane.bot_lane,Role.support
+9,GowaSan,Jax,False,Side.red,0,4,0,0.0,80,Ignite,Flash,9,False,4729,4550,Hextech Gunblade,Long Sword,Boots of Speed,Corrupting Potion,,,8067,26701,Lane.top_lane,Role.solo

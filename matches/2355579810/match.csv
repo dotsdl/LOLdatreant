@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BlindingTempest,Jhin,True,Side.blue,6,2,3,4.5,211,Heal,Flash,13,True,10464,9150,Quicksilver Sash,Doran's Blade,Rapid Firecannon,Boots of Swiftness,,Essence Reaver,1329,109480,Lane.bot_lane,Role.carry
+1,DWeezyGG,Brand,True,Side.blue,6,2,2,4.0,187,Teleport,Flash,14,False,9988,8960,Rylai's Crystal Scepter,Blasting Wand,Ionian Boots of Lucidity,Rod of Ages,Doran's Ring,Amplifying Tome,88536,15763,Lane.mid_lane,Role.solo
+2,Vanilla Chan,Tryndamere,True,Side.blue,2,3,1,1.0,215,Flash,Ignite,14,False,9922,9050,Bilgewater Cutlass,Recurve Bow,Control Ward,Statikk Shiv,Phantom Dancer,Berserker's Greaves,9412,111597,Lane.top_lane,Role.solo
+3,paganpolygon,Rammus,True,Side.blue,1,2,12,6.5,121,Flash,Smite,12,False,8322,7950,Enchantment: Cinderhulk,Refillable Potion,Thornmail,Mercury's Treads,Spectre's Cowl,Null-Magic Mantle,55453,32168,Lane.jungle,Role.none
+4,Colorro,Thresh,True,Side.blue,4,0,9,13.0,38,Flash,Exhaust,11,False,7420,6950,Ionian Boots of Lucidity,Ruby Crystal,Redemption,Face of the Mountain,Sightstone,Control Ward,9991,4893,Lane.bot_lane,Role.support
+5,johnnose,Amumu,False,Side.red,1,3,3,1.3333333333333333,121,Smite,Flash,13,False,7632,7110,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Frozen Heart,Fiendish Codex,Amplifying Tome,78825,21303,Lane.jungle,Role.none
+6,WatchThePower,Riven,False,Side.red,3,2,5,4.0,215,Flash,Teleport,15,False,10239,8150,The Black Cleaver,Ravenous Hydra,Refillable Potion,Mercury's Treads,,,0,116736,Lane.top_lane,Role.solo
+7,MAMA DO,Zyra,False,Side.red,0,5,3,0.6,22,Ignite,Flash,10,False,5732,5350,Frostfang,Refillable Potion,Sightstone,Ruby Crystal,Sorcerer's Shoes,Haunting Guise,21585,3101,Lane.bot_lane,Role.support
+8,Muse,Ashe,False,Side.red,3,4,0,0.75,189,Flash,Heal,11,False,8418,8200,Doran's Blade,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,Long Sword,,588,78697,Lane.bot_lane,Role.carry
+9,Asphyxiasian,Vel'Koz,False,Side.red,2,5,1,0.6,193,Flash,Exhaust,13,False,8179,8085,Doran's Ring,Amplifying Tome,Zhonya's Hourglass,,Morellonomicon,Sorcerer's Shoes,88175,9947,Lane.mid_lane,Role.solo

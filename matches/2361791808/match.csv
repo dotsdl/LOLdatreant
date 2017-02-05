@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BIG lDlOT,Nasus,True,Side.blue,5,5,13,3.6,147,Flash,Teleport,14,False,11603,10050,Zz'Rot Portal,Corrupting Potion,Randuin's Omen,Ninja Tabi,Frozen Heart,,61939,34344,Lane.top_lane,Role.solo
+1,DIRTY WEEABOO,Nidalee,True,Side.blue,10,3,10,6.666666666666667,120,Smite,Flash,14,False,12590,11145,Enchantment: Runic Echoes,Lich Bane,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,Amplifying Tome,123596,18759,Lane.jungle,Role.none
+2,vvallabeebeatles,Sona,True,Side.blue,0,7,13,1.8571428571428572,12,Exhaust,Flash,11,False,7889,7000,Frost Queen's Claim,Redemption,Sightstone,Boots of Mobility,Chalice of Harmony,,11412,5580,Lane.bot_lane,Role.support
+3,TQS Zuardian,Lux,True,Side.blue,8,4,10,4.5,143,Ignite,Flash,14,False,11057,10225,Mejai's Soulstealer,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Needlessly Large Rod,Luden's Echo,81572,12719,Lane.mid_lane,Role.solo
+4,TQS AllOutATK,Jhin,True,Side.blue,10,2,9,9.5,206,Flash,Heal,14,False,13333,10550,Doran's Blade,Duskblade of Draktharr,Youmuu's Ghostblade,Infinity Edge,Boots of Speed,,2521,135396,Lane.bot_lane,Role.carry
+5,Tomoebi,Ahri,False,Side.red,6,6,5,1.8333333333333333,140,Flash,Ignite,14,False,9121,8375,Doran's Ring,Abyssal Scepter,Morellonomicon,Doran's Ring,,Sorcerer's Shoes,59170,14292,Lane.mid_lane,Role.solo
+6,C2Beats,Jayce,False,Side.red,3,7,5,1.1428571428571428,139,Teleport,Flash,12,False,7968,6850,Doran's Blade,Doran's Blade,The Black Cleaver,Serrated Dirk,Mercury's Treads,Long Sword,9055,59768,Lane.top_lane,Role.solo
+7,OveroVerovEroveR,Graves,False,Side.red,6,7,7,1.8571428571428572,159,Flash,Smite,14,True,10179,9825,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Maw of Malmortius,Phantom Dancer,Control Ward,3805,132851,Lane.jungle,Role.none
+8,admirable potato,Thresh,False,Side.red,0,7,11,1.5714285714285714,16,Flash,Exhaust,11,False,6349,5775,Nomad's Medallion,Sightstone,Chain Vest,Kindlegem,Glacial Shroud,Ionian Boots of Lucidity,6683,1572,Lane.bot_lane,Role.support
+9,kingoftomatoes,Twitch,False,Side.red,6,6,5,1.8333333333333333,158,Flash,Heal,13,False,9688,9650,Zeal,Cull,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,0,85330,Lane.bot_lane,Role.carry

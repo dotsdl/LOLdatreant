@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Azerothir,Lulu,False,Side.blue,0,4,2,0.5,3,Flash,Exhaust,8,False,3470,2575,Boots of Mobility,Spellthief's Edge,Sightstone,Total Biscuit of Rejuvenation,,,5875,1870,Lane.bot_lane,Role.support
+1,I Serenity I,Sivir,False,Side.blue,0,6,1,0.16666666666666666,87,Flash,Heal,8,False,4452,6770,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,,410,41749,Lane.bot_lane,Role.carry
+2,Myloo,Poppy,False,Side.blue,2,8,1,0.375,92,Flash,Teleport,10,False,5019,4975,Ninja Tabi,Corrupting Potion,Sunfire Cape,Ruby Crystal,,,10631,35179,Lane.top_lane,Role.solo
+3,AllAero,Cassiopeia,False,Side.blue,0,4,1,0.25,103,Flash,Ghost,9,False,4634,4225,Abyssal Scepter,Refillable Potion,Tear of the Goddess,Doran's Ring,,,32771,6806,Lane.mid_lane,Role.solo
+4,Dexima,Shyvana,False,Side.blue,1,5,1,0.4,78,Flash,Smite,9,False,4993,4725,Enchantment: Bloodrazor,Refillable Potion,Boots of Swiftness,Dagger,Dagger,Dagger,30722,25984,Lane.jungle,Role.none
+5,Go Next,Janna,True,Side.red,2,0,19,21.0,2,Flash,Exhaust,10,False,7146,5100,Forbidden Idol,Ruby Sightstone,Control Ward,Nomad's Medallion,Ionian Boots of Lucidity,Ruby Crystal,2372,7028,Lane.jungle,Role.none
+6,OmarGod,Olaf,True,Side.red,10,0,9,19.0,95,Ghost,Smite,12,False,10171,5875,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Control Ward,Giant's Belt,Chain Vest,Hunter's Potion,12625,70655,Lane.jungle,Role.none
+7,chi hai wu,Fiora,True,Side.red,8,1,7,15.0,99,Flash,Teleport,12,False,8347,6800,Ravenous Hydra,Corrupting Potion,Phage,Caulfield's Warhammer,Boots of Speed,,760,54200,Lane.top_lane,Role.solo
+8,Zaganox,Jinx,True,Side.red,4,2,9,6.5,133,Heal,Flash,10,True,8833,8425,Doran's Blade,Refillable Potion,Infinity Edge,Brawler's Gloves,Berserker's Greaves,Runaan's Hurricane,613,86265,Lane.jungle,Role.none
+9,MyTimeIsNow,Ryze,True,Side.red,3,0,8,11.0,143,Ghost,Flash,12,False,8363,4575,Tear of the Goddess,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,,,69805,10164,Lane.mid_lane,Role.solo

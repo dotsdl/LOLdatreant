@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JDaddyMelink,Lux,True,Side.blue,9,3,8,5.666666666666667,160,Flash,Barrier,13,False,11179,9950,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Needlessly Large Rod,Blasting Wand,77728,16659,Lane.mid_lane,Role.solo
+1,SucDo,Pantheon,True,Side.blue,1,7,7,1.1428571428571428,108,Flash,Teleport,12,False,7820,7250,Corrupting Potion,The Black Cleaver,Guardian Angel,Mercury's Treads,Control Ward,,10845,50941,Lane.top_lane,Role.solo
+2,BabièThug,Lee Sin,True,Side.blue,11,4,10,5.25,71,Flash,Smite,11,True,10737,9750,Banshee's Veil,Phage,Tiamat,Boots of Mobility,Enchantment: Warrior,Caulfield's Warhammer,10792,63050,Lane.jungle,Role.none
+3,21 Sheepage,Thresh,True,Side.blue,0,1,16,16.0,21,Flash,Ignite,10,False,6613,5750,Ruby Sightstone,Face of the Mountain,Refillable Potion,Control Ward,Null-Magic Mantle,Boots of Mobility,7352,5666,Lane.bot_lane,Role.support
+4,Peng Yiliang,Vayne,True,Side.blue,10,1,7,17.0,210,Flash,Heal,13,False,12662,12025,Maw of Malmortius,Infinity Edge,Berserker's Greaves,Statikk Shiv,Doran's Blade,Pickaxe,25001,96989,Lane.bot_lane,Role.carry
+5,COSTA RlCA,Zyra,False,Side.red,3,4,6,2.25,19,Ignite,Flash,10,False,6662,6450,Spellthief's Edge,Sorcerer's Shoes,Liandry's Torment,Sightstone,,Blasting Wand,19865,2771,Lane.bot_lane,Role.support
+6,Acerola LAN,Shyvana,False,Side.red,2,7,5,1.0,108,Smite,Ghost,11,False,7650,7275,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Ruby Crystal,Boots of Speed,Cloth Armor,48771,35243,Lane.jungle,Role.none
+7,boldeagle3,Ezreal,False,Side.red,1,8,3,0.5,67,Heal,Flash,10,False,5858,5383,Doran's Blade,Tear of the Goddess,Trinity Force,Boots of Speed,,,3895,25225,Lane.bot_lane,Role.carry
+8,zz cicero,Poppy,False,Side.red,2,4,5,1.75,120,Teleport,Flash,13,False,7074,6300,Ninja Tabi,Corrupting Potion,Sunfire Cape,Chain Vest,Giant's Belt,,18971,49711,Lane.top_lane,Role.solo
+9,Futureway,Katarina,False,Side.red,8,9,4,1.3333333333333333,117,Ignite,Flash,12,False,8703,8035,Sorcerer's Shoes,Hextech Gunblade,Mejai's Soulstealer,Refillable Potion,Needlessly Large Rod,Amplifying Tome,65208,6925,Lane.mid_lane,Role.solo

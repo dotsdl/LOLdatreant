@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nightwake,Morgana,False,Side.blue,2,2,4,3.0,259,Flash,Teleport,15,False,11630,10950,Liandry's Torment,Zz'Rot Portal,Banner of Command,Doran's Ring,,Ionian Boots of Lucidity,106872,16940,Lane.mid_lane,Role.solo
+1,Pink Floyd,Nocturne,False,Side.blue,6,3,0,2.0,202,Ignite,Flash,15,True,11869,11075,Duskblade of Draktharr,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Ionian Boots of Lucidity,Long Sword,3166,148633,Lane.top_lane,Role.solo
+2,paganpolygon,Zilean,False,Side.blue,0,8,8,1.0,31,Flash,Exhaust,12,False,8715,7160,Eye of the Watchers,Boots of Mobility,Morellonomicon,,Amplifying Tome,,34874,3508,Lane.bot_lane,Role.support
+3,Superstar Dilly,Shyvana,False,Side.blue,2,3,5,2.3333333333333335,179,Flash,Smite,15,False,11541,10725,Enchantment: Bloodrazor,Ninja Tabi,Titanic Hydra,Dead Man's Plate,Cloth Armor,,75595,95009,Lane.jungle,Role.none
+4,Jurassiq,Draven,False,Side.blue,4,8,4,1.0,244,Flash,Heal,16,False,13139,12850,The Bloodthirster,Doran's Blade,Berserker's Greaves,Infinity Edge,Phantom Dancer,B. F. Sword,0,167869,Lane.bot_lane,Role.carry
+5,emV,Gangplank,True,Side.red,5,3,3,2.6666666666666665,343,Flash,Exhaust,17,False,16108,14883,Trinity Force,Youmuu's Ghostblade,Ninja Tabi,Lord Dominik's Regards,Sterak's Gage,Zeal,16446,270883,Lane.top_lane,Role.solo
+6,AlphaCake,Janna,True,Side.red,0,2,19,9.5,12,Exhaust,Flash,14,False,10496,8635,Eye of the Oasis,Redemption,Locket of the Iron Solari,Amplifying Tome,Forbidden Idol,Ionian Boots of Lucidity,3613,6588,Lane.bot_lane,Role.support
+7,Hey its Marrow,Sivir,True,Side.red,14,5,6,4.0,291,Heal,Flash,16,False,16755,13800,The Bloodthirster,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Phantom Dancer,Last Whisper,0,236688,Lane.bot_lane,Role.carry
+8,Guess da number,Trundle,True,Side.red,2,0,12,14.0,133,Ghost,Smite,15,False,10782,9625,Enchantment: Cinderhulk,Hunter's Potion,Ninja Tabi,Frozen Heart,Spirit Visage,,27080,88290,Lane.jungle,Role.none
+9,Javiaero,Ahri,True,Side.red,3,4,10,3.25,203,Flash,Ignite,15,False,11429,9850,Zhonya's Hourglass,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Giant's Belt,70912,22881,Lane.mid_lane,Role.solo

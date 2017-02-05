@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Icerank,Vayne,True,Side.blue,6,2,7,6.5,138,Heal,Flash,11,False,9589,7925,Doran's Blade,Infinity Edge,Control Ward,Berserker's Greaves,Statikk Shiv,,8961,67524,Lane.bot_lane,Role.carry
+1,UNBAN SOJS,Vladimir,True,Side.blue,8,1,6,14.0,197,Flash,Ghost,13,False,10700,7525,Ionian Boots of Lucidity,Spirit Visage,Hextech Protobelt-01,Giant's Belt,Control Ward,,93925,13507,Lane.mid_lane,Role.solo
+2,Thecrimsonrage,Janna,True,Side.blue,2,2,13,7.5,5,Flash,Exhaust,11,False,7528,5400,Eye of the Watchers,Faerie Charm,Ardent Censer,Boots of Speed,Faerie Charm,,8927,8859,Lane.bot_lane,Role.support
+3,JeremySucks,Maokai,True,Side.blue,2,3,9,3.6666666666666665,133,Teleport,Flash,12,False,8401,8250,Refillable Potion,Sunfire Cape,Ninja Tabi,Doran's Shield,Spirit Visage,Kindlegem,46489,18240,Lane.top_lane,Role.solo
+4,Richest LiuShao,Lee Sin,True,Side.blue,9,2,7,8.0,87,Smite,Flash,13,True,10024,7275,Boots of Speed,Refillable Potion,Enchantment: Warrior,Hexdrinker,Dead Man's Plate,,14008,85386,Lane.jungle,Role.none
+5,Essann,Gnar,False,Side.red,1,8,3,0.5,98,Flash,Teleport,11,False,5863,5200,Doran's Shield,Health Potion,Mercury's Treads,Phage,Caulfield's Warhammer,Giant's Belt,2087,36573,Lane.top_lane,Role.solo
+6,Ðrk,Ezreal,False,Side.red,2,5,2,0.8,110,Heal,Flash,10,False,6169,5225,Doran's Blade,Manamune,Long Sword,Boots of Speed,Sheen,Ruby Crystal,8470,40043,Lane.bot_lane,Role.carry
+7,KinXMSG,Karma,False,Side.red,1,5,2,0.6,15,Flash,Exhaust,9,False,5077,4510,Eye of the Watchers,Total Biscuit of Rejuvenation,Boots of Speed,Amplifying Tome,Blasting Wand,Ruby Crystal,10618,3922,Lane.bot_lane,Role.support
+8,Nexevis,Vi,False,Side.red,2,5,2,0.8,66,Smite,Flash,11,False,5905,5425,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Phage,Long Sword,,105,56308,Lane.jungle,Role.none
+9,Kammgefahr,Karthus,False,Side.red,4,4,1,1.25,146,Exhaust,Flash,12,False,7421,6075,Total Biscuit of Rejuvenation,Boots of Speed,Morellonomicon,Needlessly Large Rod,Doran's Ring,Blasting Wand,81058,2061,Lane.mid_lane,Role.solo

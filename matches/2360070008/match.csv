@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cotopaco Parce,Ryze,False,Side.blue,3,4,1,1.0,133,Ghost,Flash,11,False,6707,6050,Tear of the Goddess,Ionian Boots of Lucidity,Refillable Potion,Rod of Ages,Needlessly Large Rod,,63913,9341,Lane.mid_lane,Role.solo
+1,PhD Bunny Riven,Riven,False,Side.blue,0,5,1,0.2,108,Flash,Teleport,10,False,5526,5150,Refillable Potion,Doran's Shield,The Black Cleaver,Boots of Speed,Caulfield's Warhammer,,0,45896,Lane.top_lane,Role.solo
+2,DumPooPoo,Alistar,False,Side.blue,1,7,2,0.42857142857142855,23,Exhaust,Flash,8,True,4647,3950,Relic Shield,Crystalline Bracer,Sightstone,Control Ward,Boots of Mobility,Forbidden Idol,3326,5028,Lane.bot_lane,Role.support
+3,Royal Predator,Graves,False,Side.blue,1,6,2,0.5,127,Smite,Flash,12,False,6671,6275,Hexdrinker,Refillable Potion,Caulfield's Warhammer,Berserker's Greaves,Enchantment: Warrior,,1884,92226,Lane.jungle,Role.none
+4,Distasteful,Caitlyn,False,Side.blue,1,4,1,0.5,153,Flash,Heal,11,False,7076,6825,Doran's Blade,B. F. Sword,Runaan's Hurricane,Pickaxe,Berserker's Greaves,,280,74063,Lane.bot_lane,Role.carry
+5,Barclay snoopy,Orianna,True,Side.red,4,1,10,14.0,131,Ghost,Flash,13,False,7974,6900,Doran's Ring,Needlessly Large Rod,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Blasting Wand,64900,11942,Lane.mid_lane,Role.solo
+6,Thinkful,Jayce,True,Side.red,7,1,8,15.0,140,Teleport,Flash,13,False,9758,8925,Ionian Boots of Lucidity,Youmuu's Ghostblade,Pickaxe,The Black Cleaver,Doran's Blade,Doran's Blade,10662,86785,Lane.top_lane,Role.solo
+7,Firé,Vayne,True,Side.red,4,2,5,4.5,147,Heal,Flash,12,False,8162,6175,,,Dagger,Infinity Edge,Doran's Blade,Berserker's Greaves,0,66580,Lane.bot_lane,Role.carry
+8,Kebin M,Karma,True,Side.red,1,1,14,15.0,17,Flash,Exhaust,11,False,6592,5725,,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Faerie Charm,,8807,5698,Lane.bot_lane,Role.support
+9,Grell Carry U,Poppy,True,Side.red,10,1,6,16.0,124,Flash,Smite,13,False,10050,9283,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Giant's Belt,Boots of Swiftness,Chain Vest,19652,83893,Lane.jungle,Role.none

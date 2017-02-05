@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BoY counter,Nasus,False,Side.blue,9,6,7,2.6666666666666665,237,Flash,Teleport,16,False,13685,11510,Zz'Rot Portal,Ninja Tabi,Doran's Shield,Dead Man's Plate,Spirit Visage,Doran's Ring,89433,39597,Lane.top_lane,Role.solo
+1,ZHEN CI JI,Twitch,False,Side.blue,8,10,4,1.2,139,Smite,Flash,14,False,11155,10500,Bilgewater Cutlass,Giant's Belt,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Enchantment: Bloodrazor,2471,109804,Lane.jungle,Role.none
+2,NibbaXD,Cassiopeia,False,Side.blue,2,5,4,1.2,198,Ghost,Flash,14,False,10178,9925,Doran's Ring,Seraph's Embrace,Rylai's Crystal Scepter,Morellonomicon,,,77698,9401,Lane.mid_lane,Role.solo
+3,Dank Cub,Janna,False,Side.blue,1,5,13,2.8,4,Flash,Exhaust,12,False,8344,7225,Ruby Sightstone,Aegis of the Legion,Redemption,Refillable Potion,Ionian Boots of Lucidity,Nomad's Medallion,5323,3786,Lane.bot_lane,Role.support
+4,Kureo,Caitlyn,False,Side.blue,6,8,6,1.5,208,Flash,Heal,14,False,12160,11600,Infinity Edge,The Bloodthirster,Runaan's Hurricane,Berserker's Greaves,,Doran's Blade,392,136728,Lane.bot_lane,Role.carry
+5,Źyra,Zyra,True,Side.red,7,5,12,3.8,37,Flash,Ignite,14,False,11835,10035,Eye of the Watchers,Liandry's Torment,Sorcerer's Shoes,Void Staff,Amplifying Tome,,48990,6657,Lane.bot_lane,Role.support
+6,Sanctus,Yasuo,True,Side.red,4,6,6,1.6666666666666667,268,Flash,Teleport,16,False,12712,11300,Doran's Blade,Frozen Mallet,Control Ward,Mercury's Treads,Infinity Edge,Phantom Dancer,26733,137670,Lane.top_lane,Role.solo
+7,Scóre,Rengar,True,Side.red,10,5,11,4.2,145,Smite,Flash,16,False,14331,11875,Tiamat,,Youmuu's Ghostblade,Enchantment: Warrior,Infinity Edge,Ionian Boots of Lucidity,8157,154866,Lane.jungle,Role.none
+8,cjrcool,Jhin,True,Side.red,2,5,11,2.6,177,Heal,Flash,14,False,12131,10275,Doran's Blade,Essence Reaver,Boots of Swiftness,Pickaxe,Rapid Firecannon,B. F. Sword,7892,108912,Lane.bot_lane,Role.carry
+9,Omfg Op,Ziggs,True,Side.red,11,5,9,4.0,164,Barrier,Flash,15,True,13687,10625,Sorcerer's Shoes,Blasting Wand,Luden's Echo,Doran's Ring,Morellonomicon,Needlessly Large Rod,120322,15684,Lane.mid_lane,Role.solo

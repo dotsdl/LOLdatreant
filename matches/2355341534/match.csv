@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kurowsk,Alistar,False,Side.blue,0,7,5,0.7142857142857143,29,Exhaust,Flash,10,False,6263,5275,Boots of Mobility,Crystalline Bracer,,Crystalline Bracer,Eye of the Equinox,Cloth Armor,10165,5021,Lane.bot_lane,Role.support
+1,SKT T2 Fizz,Fizz,False,Side.blue,4,6,5,1.5,113,Ignite,Flash,12,False,8078,8125,Morellonomicon,Zhonya's Hourglass,,Doran's Ring,Sorcerer's Shoes,,50018,15042,Lane.mid_lane,Role.solo
+2,am sol,Riven,False,Side.blue,3,7,3,0.8571428571428571,181,Teleport,Flash,13,False,8975,8800,The Black Cleaver,Refillable Potion,Null-Magic Mantle,Ionian Boots of Lucidity,Titanic Hydra,Ruby Crystal,0,101228,Lane.jungle,Role.none
+3,Anvium,Tristana,False,Side.blue,4,3,3,2.3333333333333335,195,Heal,Flash,13,False,9679,9495,Berserker's Greaves,Infinity Edge,Doran's Blade,Zeal,,Runaan's Hurricane,19351,79986,Lane.bot_lane,Role.carry
+4,DingDingDong,Kindred,False,Side.blue,3,4,3,1.5,139,Flash,Smite,13,False,8845,7800,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,Caulfield's Warhammer,,1885,105614,Lane.jungle,Role.none
+5,TJMAS,Jayce,True,Side.red,6,1,9,15.0,199,Flash,Teleport,15,False,12718,11875,Refillable Potion,The Black Cleaver,Ninja Tabi,Maw of Malmortius,Serrated Dirk,Sterak's Gage,23554,110600,Lane.top_lane,Role.solo
+6,SPITROAST ME DAD,Hecarim,True,Side.red,5,4,7,3.0,117,Smite,Ghost,14,False,11099,10458,Enchantment: Cinderhulk,Trinity Force,Refillable Potion,Dead Man's Plate,Boots of Swiftness,,16197,104633,Lane.jungle,Role.none
+7,Apisit,Jinx,True,Side.red,6,6,8,2.3333333333333335,186,Heal,Flash,13,False,11930,9945,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Zeal,Negatron Cloak,1161,118953,Lane.bot_lane,Role.carry
+8,Yoru,Janna,True,Side.red,1,2,12,6.5,4,Flash,Exhaust,13,False,8867,7575,Sightstone,Redemption,Locket of the Iron Solari,,Nomad's Medallion,Boots of Mobility,3051,5379,Lane.bot_lane,Role.support
+9,DARE didnt work,LeBlanc,True,Side.red,9,1,7,16.0,183,Ignite,Flash,15,True,13016,11850,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Void Staff,Aether Wisp,Sorcerer's Shoes,109602,13597,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nijijinchuuriki,Karma,False,Side.blue,0,5,15,3.0,25,Flash,Exhaust,14,False,9141,8725,Redemption,Mikael's Crucible,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,Faerie Charm,18014,5629,Lane.bot_lane,Role.support
+1,oopa,Ryze,False,Side.blue,5,6,5,1.6666666666666667,288,Flash,Ghost,17,False,14279,13675,Rabadon's Deathcap,Seraph's Embrace,,Ionian Boots of Lucidity,Rod of Ages,Void Staff,230662,11397,Lane.mid_lane,Role.solo
+2,Sheiden,Amumu,False,Side.blue,7,8,10,2.125,193,Smite,Flash,17,False,13145,13050,Enchantment: Runic Echoes,Abyssal Scepter,Ninja Tabi,Sunfire Cape,Liandry's Torment,,126979,32238,Lane.jungle,Role.none
+3,datvu deformed,Jhin,False,Side.blue,9,10,6,1.5,214,Heal,Flash,15,False,13156,12725,Last Whisper,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Doran's Blade,Infinity Edge,14744,134853,Lane.bot_lane,Role.carry
+4,Overlord Forte,Poppy,False,Side.blue,3,6,12,2.5,154,Flash,Teleport,16,False,11116,10975,Sheen,Spirit Visage,Ninja Tabi,Glacial Shroud,Sunfire Cape,,26532,65434,Lane.top_lane,Role.solo
+5,Cuckvele,Fiora,True,Side.red,8,5,2,2.0,312,Flash,Teleport,18,False,15828,14750,Mercurial Scimitar,The Black Cleaver,Guardian Angel,Mercury's Treads,,Titanic Hydra,1517,193105,Lane.top_lane,Role.solo
+6,Frostalicious,Lee Sin,True,Side.red,2,5,12,2.8,102,Flash,Smite,16,False,12046,10500,Enchantment: Warrior,Locket of the Iron Solari,,Hexdrinker,Dead Man's Plate,Mercury's Treads,17691,94893,Lane.jungle,Role.none
+7,aShady,Morgana,True,Side.red,4,7,9,1.8571428571428572,252,Ignite,Flash,17,False,13432,12475,Needlessly Large Rod,Morellonomicon,Zhonya's Hourglass,Sorcerer's Shoes,,Luden's Echo,142828,19922,Lane.mid_lane,Role.solo
+8,Ugu,Vayne,True,Side.red,19,2,7,13.0,297,Heal,Flash,18,True,19067,17350,Mercurial Scimitar,Phantom Dancer,Statikk Shiv,Infinity Edge,Duskblade of Draktharr,Berserker's Greaves,66300,166536,Lane.bot_lane,Role.carry
+9,1onz,Lulu,True,Side.red,2,5,22,4.8,25,Flash,Ignite,15,False,11176,10175,Mikael's Crucible,Locket of the Iron Solari,Redemption,Ruby Sightstone,Spellthief's Edge,Boots of Mobility,16442,6916,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cdhpis,Karma,True,Side.blue,0,4,19,4.75,25,Exhaust,Flash,13,False,10217,8125,Redemption,Sightstone,Ardent Censer,Null-Magic Mantle,Mercury's Treads,Frostfang,21760,7270,Lane.bot_lane,Role.support
+1,Abel Only Go Mid,Twitch,True,Side.blue,5,5,5,2.0,209,Heal,Flash,14,False,12806,12650,Doran's Blade,Lord Dominik's Regards,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Bilgewater Cutlass,170,130168,Lane.bot_lane,Role.carry
+2,Vantar,Ryze,True,Side.blue,20,6,7,4.5,221,Flash,Ghost,16,False,17508,14525,Seraph's Embrace,Needlessly Large Rod,Mejai's Soulstealer,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,231612,12308,Lane.mid_lane,Role.solo
+3,IntoTheDusk,Zac,True,Side.blue,3,5,20,4.6,92,Smite,Flash,14,False,11466,9810,Enchantment: Cinderhulk,Randuin's Omen,Spirit Visage,Ionian Boots of Lucidity,Refillable Potion,Cloth Armor,65980,21342,Lane.jungle,Role.none
+4,Swufty,Olaf,True,Side.blue,6,4,7,3.25,153,Teleport,Ghost,15,True,11682,10150,Corrupting Potion,The Black Cleaver,Ninja Tabi,Dead Man's Plate,Guardian Angel,,989,92750,Lane.top_lane,Role.solo
+5,Cpt Squirtle,Vayne,False,Side.red,8,7,6,2.0,221,Heal,Flash,15,False,13341,13225,Doran's Blade,Blade of the Ruined King,Mercurial Scimitar,Berserker's Greaves,Guinsoo's Rageblade,,4534,119702,Lane.bot_lane,Role.carry
+6,Tschussi,Malphite,False,Side.red,8,6,4,2.0,231,Flash,Teleport,16,False,13032,12975,Sunfire Cape,Randuin's Omen,Zz'Rot Portal,Spirit Visage,,Ninja Tabi,131284,40026,Lane.top_lane,Role.solo
+7,Candymang,Katarina,False,Side.red,3,12,9,1.0,134,Flash,Teleport,13,False,10444,9710,Hextech Gunblade,,The Dark Seal,Sorcerer's Shoes,Abyssal Scepter,Fiendish Codex,93050,13249,Lane.jungle,Role.none
+8,DarkL3g3nd,Lee Sin,False,Side.red,4,7,9,1.8571428571428572,110,Flash,Smite,15,False,10469,9375,Enchantment: Warrior,Mercury's Treads,Refillable Potion,The Black Cleaver,Hexdrinker,Caulfield's Warhammer,33963,84121,Lane.jungle,Role.none
+9,Stella,Soraka,False,Side.red,1,2,12,6.5,36,Exhaust,Flash,13,False,9788,8800,Total Biscuit of Rejuvenation,Redemption,Eye of the Oasis,Zz'Rot Portal,Null-Magic Mantle,Ionian Boots of Lucidity,26659,5788,Lane.bot_lane,Role.support

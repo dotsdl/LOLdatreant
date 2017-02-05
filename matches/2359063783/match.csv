@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RealTeemo,Teemo,False,Side.blue,3,9,6,1.0,184,Ignite,Flash,14,False,10893,10600,Zz'Rot Portal,Refillable Potion,Liandry's Torment,Void Staff,,Sorcerer's Shoes,71375,27103,Lane.top_lane,Role.solo
+1,MyTeamSoGOD,Elise,False,Side.blue,8,9,6,1.5555555555555556,118,Smite,Flash,16,False,11718,11145,Abyssal Scepter,Negatron Cloak,Hextech Protobelt-01,Enchantment: Runic Echoes,Boots of Mobility,Raptor Cloak,107316,23169,Lane.jungle,Role.none
+2,J Y C,LeBlanc,False,Side.blue,6,10,3,0.9,208,Flash,Ignite,15,True,11453,11125,Abyssal Scepter,Morellonomicon,,Void Staff,Sorcerer's Shoes,Doran's Ring,120120,11984,Lane.mid_lane,Role.solo
+3,AtoQAto,Urgot,False,Side.blue,2,12,5,0.5833333333333334,220,Heal,Flash,14,False,10870,10185,Muramana,Phage,Iceborn Gauntlet,Ninja Tabi,Spectre's Cowl,Caulfield's Warhammer,1083,110685,Lane.bot_lane,Role.carry
+4,Xeoshire,Blitzcrank,False,Side.blue,4,5,5,1.8,48,Flash,Ignite,13,False,9032,8250,Face of the Mountain,Redemption,Warden's Mail,Sightstone,Boots of Mobility,Glacial Shroud,8345,10978,Lane.bot_lane,Role.support
+5,thecomedownx,Pantheon,True,Side.red,16,3,12,9.333333333333334,187,Flash,Ignite,16,False,15268,13875,,Youmuu's Ghostblade,Mercury's Treads,Duskblade of Draktharr,Banshee's Veil,The Black Cleaver,8792,130164,Lane.top_lane,Role.solo
+6,DeLord,Ezreal,True,Side.red,4,9,12,1.7777777777777777,202,Heal,Flash,15,False,12434,11350,Blade of the Ruined King,Hexdrinker,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,20596,120246,Lane.bot_lane,Role.carry
+7,goompa,Lee Sin,True,Side.red,13,3,14,9.0,170,Smite,Flash,17,False,15441,14100,Mercury's Treads,Maw of Malmortius,Ruby Crystal,Duskblade of Draktharr,The Black Cleaver,Enchantment: Warrior,34551,136685,Lane.jungle,Role.none
+8,J D,Janna,True,Side.red,2,3,20,7.333333333333333,57,Exhaust,Flash,15,False,11649,10150,Mikael's Crucible,Redemption,Eye of the Oasis,Null-Magic Mantle,Ardent Censer,Boots of Mobility,17116,10680,Lane.bot_lane,Role.support
+9,bu xiang fangqi,Orianna,True,Side.red,10,5,8,3.6,328,Flash,Ghost,17,False,16834,15500,Rabadon's Deathcap,Morellonomicon,Fiendish Codex,Void Staff,Banshee's Veil,Sorcerer's Shoes,221330,24410,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,herolineage,Vayne,True,Side.blue,15,4,6,5.25,226,Flash,Heal,15,False,15862,13350,Statikk Shiv,Quicksilver Sash,Infinity Edge,Berserker's Greaves,Maw of Malmortius,Vampiric Scepter,30021,154498,Lane.bot_lane,Role.carry
+1,Sunae,Janna,True,Side.blue,2,2,20,11.0,11,Exhaust,Flash,15,False,10426,9050,Locket of the Iron Solari,Sightstone,Talisman of Ascension,Redemption,Boots of Mobility,The Dark Seal,9238,7586,Lane.bot_lane,Role.support
+2,Eunson,Volibear,True,Side.blue,8,3,11,6.333333333333333,131,Smite,Flash,15,False,11942,10750,Enchantment: Cinderhulk,Zz'Rot Portal,Spirit Visage,Giant's Belt,Mercury's Treads,Cloth Armor,40750,56878,Lane.jungle,Role.none
+3,theNippers,Vi,True,Side.blue,4,8,10,1.75,122,Ignite,Flash,14,False,10726,10708,Titanic Hydra,Boots of Speed,Trinity Force,Sterak's Gage,,,173,95397,Lane.top_lane,Role.solo
+4,Laughter Bobo,Cho'Gath,True,Side.blue,6,6,3,1.5,176,Ghost,Flash,15,False,11578,10275,Hextech Protobelt-01,Iceborn Gauntlet,Corrupting Potion,Boots of Swiftness,Abyssal Scepter,Aether Wisp,93405,21706,Lane.mid_lane,Role.solo
+5,ul7raz,Kha'Zix,False,Side.red,4,8,8,1.5,136,Smite,Flash,14,False,9977,8650,Ravenous Hydra,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Warrior,Control Ward,Phage,3190,117085,Lane.jungle,Role.none
+6,Sungmin Kim,Aurelion Sol,False,Side.red,0,10,9,0.9,164,Teleport,Flash,13,False,9015,8585,Rylai's Crystal Scepter,Hextech GLP-800,,Amplifying Tome,,Boots of Swiftness,101639,7831,Lane.top_lane,Role.solo
+7,zeramion,Katarina,False,Side.red,15,5,3,3.6,242,Flash,Ignite,15,True,14072,14325,Sorcerer's Shoes,Hextech Gunblade,Zhonya's Hourglass,Rylai's Crystal Scepter,Void Staff,Control Ward,157268,15303,Lane.jungle,Role.none
+8,Noceur,Ezreal,False,Side.red,2,8,4,0.75,148,Heal,Flash,13,False,9086,8283,Doran's Blade,Manamune,Trinity Force,Vampiric Scepter,Long Sword,Boots of Speed,4228,77405,Lane.bot_lane,Role.carry
+9,NoobestNoob2,Thresh,False,Side.red,1,4,12,3.25,5,Flash,Exhaust,12,False,7902,7725,Locket of the Iron Solari,Ruby Sightstone,Talisman of Ascension,,Ionian Boots of Lucidity,,5606,1160,Lane.bot_lane,Role.support

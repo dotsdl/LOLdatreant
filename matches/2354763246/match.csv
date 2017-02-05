@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Emiii,Janna,False,Side.blue,0,0,1,1.0,0,Flash,Exhaust,2,False,953,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,124,287,Lane.bot_lane,Role.duo
+1,Best Trydyr Na,Fizz,False,Side.blue,0,0,0,0.0,16,Flash,Ignite,3,False,996,500,Corrupting Potion,,,,,,1248,2316,Lane.mid_lane,Role.duo
+2,Empyreal Peace,Elise,False,Side.blue,0,0,0,0.0,10,Flash,Smite,3,False,1008,500,Refillable Potion,Hunter's Machete,,,,,4728,5231,Lane.jungle,Role.none
+3,suffix,Poppy,False,Side.blue,0,0,0,0.0,0,Teleport,Flash,1,False,672,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+4,thekilerone,Caitlyn,False,Side.blue,1,0,0,1.0,8,Heal,Flash,2,True,1242,500,Health Potion,Doran's Blade,,,,,56,3990,Lane.bot_lane,Role.duo
+5,RockyTSaws,Vayne,True,Side.red,0,1,0,0.0,7,Heal,Flash,2,False,831,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,1392,Lane.bot_lane,Role.duo
+6,MattDeitz,Taric,True,Side.red,0,0,0,0.0,2,Flash,Exhaust,2,False,761,500,Total Biscuit of Rejuvenation,Relic Shield,,,,,109,474,Lane.bot_lane,Role.duo
+7,mercykiIler,Sion,True,Side.red,0,0,0,0.0,18,Flash,Teleport,3,False,1024,500,Doran's Ring,Health Potion,,,,,1657,4735,Lane.top_lane,Role.solo
+8,cuteboy1,Syndra,True,Side.red,0,0,0,0.0,13,Barrier,Flash,3,False,914,500,,,,,Doran's Ring,,2648,1512,Lane.mid_lane,Role.solo
+9,Vladfire1 BG ,Shyvana,True,Side.red,0,0,0,0.0,13,Smite,Flash,3,False,1150,500,Hunter's Machete,Refillable Potion,,,,,3192,6480,Lane.jungle,Role.none

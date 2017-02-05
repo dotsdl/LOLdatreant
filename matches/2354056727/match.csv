@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,My Lovely Bae,Rengar,False,Side.blue,1,3,1,0.6666666666666666,53,Flash,Exhaust,8,False,3775,3025,Refillable Potion,Tiamat,Caulfield's Warhammer,Doran's Blade,,,2628,20489,Lane.top_lane,Role.solo
+1,snakeenthusiast,Twitch,False,Side.blue,0,3,0,0.0,63,Heal,Flash,7,False,3678,2850,Zeal,Doran's Blade,Cull,Dagger,Dagger,,327,15221,Lane.bot_lane,Role.carry
+2,Shiny Bear,Leona,False,Side.blue,1,1,0,1.0,10,Exhaust,Flash,6,False,3353,2975,Targon's Brace,Refillable Potion,Ninja Tabi,Sightstone,,,1530,2469,Lane.bot_lane,Role.support
+3,Kryppler,Ziggs,False,Side.blue,0,8,1,0.125,95,Flash,Teleport,9,False,4355,3510,Doran's Ring,Lost Chapter,Fiendish Codex,Boots of Speed,Doran's Ring,Amplifying Tome,42541,6952,Lane.mid_lane,Role.solo
+4,Hi im Freeze,Elise,False,Side.blue,2,3,0,0.6666666666666666,66,Flash,Smite,10,False,4972,4725,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Needlessly Large Rod,Ruby Crystal,,34238,16675,Lane.jungle,Role.none
+5,Sanctus,Thresh,True,Side.red,1,0,4,5.0,27,Flash,Exhaust,9,False,5422,4350,Face of the Mountain,Total Biscuit of Rejuvenation,Sightstone,Ionian Boots of Lucidity,,,12888,8903,Lane.bot_lane,Role.support
+6,Scóre,Lee Sin,True,Side.red,3,1,3,6.0,80,Smite,Flash,10,False,6840,6200,Tiamat,Refillable Potion,Control Ward,Enchantment: Warrior,Phage,Boots of Swiftness,8179,65512,Lane.jungle,Role.none
+7,Just Jayce,Jayce,True,Side.red,6,3,1,2.3333333333333335,123,Flash,Teleport,11,False,8315,6775,Youmuu's Ghostblade,Phage,Long Sword,Ionian Boots of Lucidity,Doran's Blade,Doran's Blade,9235,58122,Lane.top_lane,Role.solo
+8,Krewl,Vayne,True,Side.red,3,0,2,5.0,142,Heal,Flash,10,False,7550,4475,,B. F. Sword,Doran's Blade,Pickaxe,Zeal,Boots of Speed,0,61362,Lane.bot_lane,Role.carry
+9,Xyd ,Ahri,True,Side.red,5,0,5,10.0,144,Flash,Ignite,12,True,8503,5025,Doran's Ring,Morellonomicon,Sorcerer's Shoes,,The Dark Seal,,42297,14200,Lane.mid_lane,Role.solo

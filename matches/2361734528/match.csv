@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rule Bage,Yasuo,False,Side.blue,4,7,5,1.2857142857142858,170,Teleport,Flash,14,False,9505,8800,Frozen Mallet,Ninja Tabi,Doran's Blade,Doran's Blade,Phantom Dancer,,20741,85847,Lane.top_lane,Role.solo
+1,swordstoo,Jinx,False,Side.blue,7,10,5,1.2,143,Heal,Flash,12,False,10637,9980,Doran's Blade,Cull,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Last Whisper,2371,85227,Lane.bot_lane,Role.carry
+2,TUCANA DOGANA,Thresh,False,Side.blue,7,8,9,2.0,20,Exhaust,Flash,12,False,8444,7525,Sightstone,Redemption,Face of the Mountain,Refillable Potion,Ionian Boots of Lucidity,Aegis of the Legion,9842,5319,Lane.bot_lane,Role.support
+3,Astrolgia,Twisted Fate,False,Side.blue,5,5,8,2.6,167,Flash,Ignite,13,False,10752,10100,Doran's Ring,Luden's Echo,Needlessly Large Rod,Doran's Ring,Lich Bane,Boots of Swiftness,102813,10613,Lane.mid_lane,Role.solo
+4,CelticsPwn,Ivern,False,Side.blue,1,7,12,1.8571428571428572,42,Flash,Smite,12,False,8264,7600,Skirmisher's Sabre,Hunter's Potion,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,Aegis of the Legion,6146,3698,Lane.jungle,Role.none
+5,acercon,Amumu,True,Side.red,6,2,8,7.0,136,Flash,Smite,13,False,10822,10535,Banshee's Veil,Amplifying Tome,Mercury's Treads,Frozen Heart,Giant's Belt,Enchantment: Cinderhulk,87572,22971,Lane.jungle,Role.none
+6,SoJay,Ahri,True,Side.red,6,4,14,5.0,167,Ignite,Flash,14,False,11438,7325,Morellonomicon,Needlessly Large Rod,Blasting Wand,Sorcerer's Shoes,Doran's Ring,Doran's Ring,56370,18627,Lane.mid_lane,Role.solo
+7,Omnic1de,Caitlyn,True,Side.red,18,7,10,4.0,203,Flash,Heal,15,True,15963,15300,Mercurial Scimitar,Last Whisper,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Infinity Edge,3493,184627,Lane.bot_lane,Role.carry
+8,Report If Toxic,Karma,True,Side.red,0,5,27,5.4,20,Flash,Ignite,13,False,9868,7150,Locket of the Iron Solari,Sightstone,Frostfang,Mikael's Crucible,Ionian Boots of Lucidity,,18886,10793,Lane.bot_lane,Role.support
+9,Voilez,Fiora,True,Side.red,7,6,6,2.1666666666666665,173,Teleport,Flash,15,False,11498,10875,The Black Cleaver,Ravenous Hydra,Boots of Speed,Spectre's Cowl,Doran's Blade,B. F. Sword,1615,112483,Lane.top_lane,Role.solo

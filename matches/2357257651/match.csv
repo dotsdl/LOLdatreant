@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l  d r k  l,Lee Sin,False,Side.blue,2,9,5,0.7777777777777778,105,Smite,Flash,13,False,8672,8645,Negatron Cloak,Enchantment: Warrior,Spectre's Cowl,Ionian Boots of Lucidity,Dead Man's Plate,,13355,77333,Lane.jungle,Role.none
+1,Brutalaty,LeBlanc,False,Side.blue,5,1,3,8.0,189,Ignite,Flash,15,True,10484,9975,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Abyssal Scepter,Blasting Wand,Doran's Ring,89846,10964,Lane.mid_lane,Role.solo
+2,Sneaky Fukboi,Caitlyn,False,Side.blue,7,5,3,2.0,238,Heal,Flash,14,False,11869,11200,Doran's Blade,Infinity Edge,,Runaan's Hurricane,Berserker's Greaves,Statikk Shiv,10219,140889,Lane.bot_lane,Role.carry
+3,bvcx222,Blitzcrank,False,Side.blue,0,6,10,1.6666666666666667,53,Flash,Ignite,12,False,7863,7225,Ruby Sightstone,Face of the Mountain,Control Ward,Aegis of the Legion,Null-Magic Mantle,Boots of Mobility,10176,8576,Lane.bot_lane,Role.support
+4,Mad Streetcred,Nasus,False,Side.blue,3,5,5,1.6,163,Flash,Ignite,14,False,9593,9025,Corrupting Potion,Mercury's Treads,Spirit Visage,Sheen,Frozen Heart,Chain Vest,19719,79651,Lane.top_lane,Role.solo
+5,GiveMeTea,Vayne,True,Side.red,7,4,8,3.75,227,Heal,Flash,15,False,13449,10975,Infinity Edge,Null-Magic Mantle,Statikk Shiv,Berserker's Greaves,Doran's Blade,Phantom Dancer,50233,100226,Lane.bot_lane,Role.carry
+6,UNBAN SOJS,Vladimir,True,Side.red,0,6,4,0.6666666666666666,216,Flash,Ghost,15,False,10952,10800,Ionian Boots of Lucidity,Hextech Protobelt-01,Rylai's Crystal Scepter,Zhonya's Hourglass,Null-Magic Mantle,Ruby Crystal,112527,13339,Lane.top_lane,Role.solo
+7,Ultimaters,Thresh,True,Side.red,1,1,16,17.0,27,Exhaust,Flash,14,False,9244,6700,Face of the Mountain,Boots of Swiftness,,Redemption,Sightstone,Control Ward,10566,5378,Lane.bot_lane,Role.support
+8,KR Hopu ,Graves,True,Side.red,11,2,7,9.0,197,Smite,Flash,16,False,15156,13350,Enchantment: Warrior,The Black Cleaver,Mercury's Treads,Phantom Dancer,Maw of Malmortius,,8194,197207,Lane.jungle,Role.none
+9,l337,Cassiopeia,True,Side.red,7,4,8,3.75,193,Exhaust,Flash,15,False,12274,9450,Doran's Ring,,Seraph's Embrace,Morellonomicon,Abyssal Scepter,,89837,14489,Lane.mid_lane,Role.solo

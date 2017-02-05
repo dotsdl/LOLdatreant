@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DankyIsToxic,Ashe,False,Side.blue,2,3,5,2.3333333333333335,214,Heal,Flash,13,True,9608,9550,Runaan's Hurricane,Pickaxe,Essence Reaver,Berserker's Greaves,Cloak of Agility,,598,99183,Lane.bot_lane,Role.carry
+1,HannibaI Barca,Nasus,False,Side.blue,1,4,5,1.5,205,Teleport,Flash,15,False,9901,8250,Zz'Rot Portal,Dead Man's Plate,Null-Magic Mantle,Ninja Tabi,Doran's Ring,Doran's Ring,74095,39063,Lane.top_lane,Role.solo
+2,Sandman07,Vi,False,Side.blue,4,5,6,2.0,100,Flash,Smite,13,False,8810,8208,Enchantment: Warrior,Refillable Potion,Trinity Force,Ionian Boots of Lucidity,Chain Vest,,1388,90503,Lane.jungle,Role.none
+3,Wizzy,Kayle,False,Side.blue,7,5,3,2.0,195,Ghost,Flash,14,False,10577,10800,Needlessly Large Rod,Guinsoo's Rageblade,Nashor's Tooth,Doran's Ring,Sorcerer's Shoes,Ruby Crystal,76841,31132,Lane.mid_lane,Role.solo
+4,Unstopebble,Karma,False,Side.blue,2,2,9,5.5,11,Flash,Exhaust,12,False,7262,7100,Eye of the Watchers,Redemption,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Forbidden Idol,9962,3038,Lane.bot_lane,Role.support
+5,Orbt,Brand,True,Side.red,2,5,4,1.2,32,Flash,Ignite,12,False,8620,7950,Sightstone,Haunting Guise,Control Ward,Rylai's Crystal Scepter,Frostfang,Boots of Mobility,17502,6283,Lane.bot_lane,Role.support
+6,gneV,Graves,True,Side.red,3,2,7,5.0,167,Smite,Flash,15,False,12105,11375,Enchantment: Warrior,The Black Cleaver,Ninja Tabi,Phantom Dancer,Vampiric Scepter,Pickaxe,5290,159903,Lane.jungle,Role.none
+7,TwistyJuker,Ahri,True,Side.red,5,4,5,2.5,216,Flash,Ignite,15,False,11693,10025,Blasting Wand,Luden's Echo,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Morellonomicon,78084,18773,Lane.mid_lane,Role.solo
+8,soFLy,Riven,True,Side.red,6,3,1,2.3333333333333335,256,Flash,Teleport,16,False,11793,11225,Refillable Potion,Ravenous Hydra,Ionian Boots of Lucidity,The Black Cleaver,Lord Dominik's Regards,Chain Vest,2734,156972,Lane.top_lane,Role.solo
+9,xFSN Saber,Corki,True,Side.red,3,2,4,3.5,256,Heal,Flash,15,False,12544,11058,Doran's Blade,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,B. F. Sword,Long Sword,98120,35945,Lane.bot_lane,Role.carry

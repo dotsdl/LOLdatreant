@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,windking66,Nautilus,True,Side.blue,5,1,7,12.0,250,Teleport,Flash,16,False,13482,12850,Corrupting Potion,Zz'Rot Portal,Banner of Command,Boots of Swiftness,Sunfire Cape,Warmog's Armor,100921,32092,Lane.top_lane,Role.solo
+1,Keegun,Pantheon,True,Side.blue,6,3,13,6.333333333333333,136,Smite,Flash,15,False,11941,10475,Phage,Tiamat,Edge of Night,Boots of Swiftness,Caulfield's Warhammer,Enchantment: Warrior,14940,143109,Lane.jungle,Role.none
+2,Liquid fabbbyyy,Twitch,True,Side.blue,15,5,6,4.2,171,Flash,Heal,14,True,14660,12950,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Doran's Blade,Statikk Shiv,Runaan's Hurricane,8254,115063,Lane.bot_lane,Role.carry
+3,Smoothie,Bard,True,Side.blue,3,4,19,5.5,20,Flash,Exhaust,13,False,9915,8850,Locket of the Iron Solari,Eye of the Watchers,Redemption,,Boots of Mobility,Glacial Shroud,11648,7394,Lane.bot_lane,Role.support
+4,Shiphtur,Katarina,True,Side.blue,6,10,10,1.6,130,Ignite,Flash,14,False,10788,9505,Control Ward,Hextech Gunblade,Negatron Cloak,Rylai's Crystal Scepter,Amplifying Tome,Sorcerer's Shoes,76326,9998,Lane.mid_lane,Role.solo
+5,Rhux,Trundle,False,Side.red,3,6,6,1.5,249,Flash,Teleport,15,False,11080,10208,Corrupting Potion,Mercury's Treads,Ravenous Hydra,Trinity Force,Giant's Belt,Cloth Armor,2731,137846,Lane.top_lane,Role.solo
+6,Entranced,Poppy,False,Side.red,4,6,12,2.6666666666666665,78,Ignite,Flash,12,False,8966,9300,Targon's Brace,Refillable Potion,Redemption,Ruby Sightstone,Boots of Mobility,Raptor Cloak,2040,38819,Lane.bot_lane,Role.duo
+7,7788 ADC,Jhin,False,Side.red,5,7,8,1.8571428571428572,141,Heal,Flash,13,False,9614,9050,Last Whisper,Rapid Firecannon,Essence Reaver,Doran's Blade,Boots of Swiftness,,4966,66196,Lane.bot_lane,Role.duo
+8,Vincent Mark,Syndra,False,Side.red,3,11,6,0.8181818181818182,128,Flash,Ghost,12,False,8772,8500,Morellonomicon,Rylai's Crystal Scepter,Total Biscuit of Rejuvenation,,Doran's Ring,Sorcerer's Shoes,67341,8004,Lane.mid_lane,Role.solo
+9,Valkrin,Evelynn,False,Side.red,8,5,9,3.4,136,Smite,Flash,14,False,11549,10835,Enchantment: Runic Echoes,Amplifying Tome,Sorcerer's Shoes,Lich Bane,The Dark Seal,Guardian Angel,93962,35753,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Darmous,Varus,True,Side.blue,7,3,9,5.333333333333333,174,Flash,Heal,14,False,12880,10625,,Doran's Blade,Berserker's Greaves,Muramana,Statikk Shiv,Infinity Edge,19883,117684,Lane.bot_lane,Role.carry
+1,l For You l,Gragas,True,Side.blue,0,2,11,5.5,32,Flash,Exhaust,13,False,8272,6500,Sightstone,Locket of the Iron Solari,Relic Shield,Ninja Tabi,Giant's Belt,Chain Vest,14442,8690,Lane.bot_lane,Role.support
+2,xSojin,Kha'Zix,True,Side.blue,5,2,5,5.0,156,Smite,Flash,15,False,11965,9300,Ionian Boots of Lucidity,Refillable Potion,Tiamat,Enchantment: Warrior,Duskblade of Draktharr,Serrated Dirk,3850,164842,Lane.jungle,Role.none
+3,SweetPete7,Ekko,True,Side.blue,5,3,5,3.3333333333333335,159,Flash,Ignite,14,False,10950,9210,Corrupting Potion,Needlessly Large Rod,Amplifying Tome,Lich Bane,Sorcerer's Shoes,Hextech Protobelt-01,77240,14824,Lane.mid_lane,Role.solo
+4,Ifkinluvpeaches,Yasuo,True,Side.blue,12,4,6,4.5,282,Teleport,Flash,17,False,16414,14200,Guardian Angel,Blade of the Ruined King,Phantom Dancer,Ninja Tabi,Infinity Edge,,36897,180204,Lane.top_lane,Role.solo
+5,SandPaperX,Janna,False,Side.red,0,4,8,2.0,13,Flash,Exhaust,10,False,7168,6775,Refillable Potion,Eye of the Watchers,Locket of the Iron Solari,Ionian Boots of Lucidity,Control Ward,Forbidden Idol,3421,5408,Lane.bot_lane,Role.support
+6,1IOrz,Olaf,False,Side.red,2,7,4,0.8571428571428571,145,Smite,Ghost,13,False,8930,8020,Enchantment: Cinderhulk,Righteous Glory,Hunter's Potion,Ionian Boots of Lucidity,Chain Vest,Negatron Cloak,18718,87521,Lane.jungle,Role.none
+7,Rich Homie Kwon,Viktor,False,Side.red,5,5,1,1.2,183,Ghost,Flash,13,False,9764,8300,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,,99923,14332,Lane.mid_lane,Role.solo
+8,IA55A55INI,Kled,False,Side.red,5,9,2,0.7777777777777778,163,Flash,Teleport,14,True,9782,9425,The Black Cleaver,Titanic Hydra,Ninja Tabi,Doran's Shield,Warden's Mail,,0,100825,Lane.top_lane,Role.solo
+9,NintendudeX,Draven,False,Side.red,2,4,5,1.75,208,Heal,Flash,13,False,10929,9600,Doran's Blade,Phantom Dancer,The Bloodthirster,Berserker's Greaves,Long Sword,B. F. Sword,0,129624,Lane.bot_lane,Role.carry

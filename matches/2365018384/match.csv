@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vainsu,Karma,True,Side.blue,0,0,4,4.0,10,Exhaust,Flash,7,False,4266,2825,,Eye of the Watchers,Boots of Speed,,,,10764,7161,Lane.bot_lane,Role.duo
+1,GangstahSwerve,Rek'Sai,True,Side.blue,1,0,1,2.0,64,Smite,Flash,8,False,4610,3825,Tiamat,Refillable Potion,Skirmisher's Sabre,Boots of Speed,Control Ward,Bami's Cinder,7846,45174,Lane.jungle,Role.none
+2,gatsuno,Twitch,True,Side.blue,4,0,1,5.0,87,Heal,Flash,8,False,5949,4075,Doran's Blade,B. F. Sword,Berserker's Greaves,Refillable Potion,Pickaxe,Control Ward,0,30253,Lane.bot_lane,Role.duo
+3,mandatorycloud,Ryze,True,Side.blue,5,0,0,5.0,114,Flash,Ghost,10,True,6399,5975,Tear of the Goddess,Abyssal Scepter,Ionian Boots of Lucidity,Control Ward,Needlessly Large Rod,,48257,8015,Lane.mid_lane,Role.solo
+4,SKY Fear,Nautilus,True,Side.blue,0,0,1,1.0,82,Flash,Teleport,9,False,4456,3175,Bami's Cinder,Corrupting Potion,Ruby Crystal,Berserker's Greaves,,,25755,16771,Lane.top_lane,Role.solo
+5,Feitan,Maokai,False,Side.red,0,1,0,0.0,88,Teleport,Flash,9,False,3685,3575,Boots of Speed,Corrupting Potion,Control Ward,Bami's Cinder,Spectre's Cowl,Ruby Crystal,24088,7098,Lane.top_lane,Role.solo
+6,Huhi Lite,LeBlanc,False,Side.red,0,3,0,0.0,68,Ignite,Flash,7,False,3270,1910,Doran's Ring,Boots of Speed,Doran's Ring,Amplifying Tome,Control Ward,Refillable Potion,17885,4253,Lane.mid_lane,Role.solo
+7,Liquid fabbbyyy,Vayne,False,Side.red,0,1,0,0.0,67,Flash,Heal,6,False,3291,2750,Doran's Blade,B. F. Sword,Total Biscuit of Rejuvenation,Boots of Speed,Dagger,Dagger,485,13934,Lane.bot_lane,Role.duo
+8,Winter is back,Lulu,False,Side.red,0,2,0,0.0,2,Flash,Exhaust,5,False,2413,1850,Spellthief's Edge,Boots of Speed,Control Ward,Sightstone,,Total Biscuit of Rejuvenation,2132,2059,Lane.bot_lane,Role.duo
+9,Gahlin,Olaf,False,Side.red,0,3,0,0.0,70,Ghost,Smite,8,False,4110,2850,Hunter's Talisman,Refillable Potion,Bami's Cinder,Ionian Boots of Lucidity,Hunter's Machete,,6123,38060,Lane.jungle,Role.none

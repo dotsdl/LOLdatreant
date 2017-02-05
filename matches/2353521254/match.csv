@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Oh Jeeze,Vayne,True,Side.blue,0,0,0,0.0,8,Heal,Flash,2,False,813,500,Doran's Blade,,,,,,0,2957,Lane.bot_lane,Role.solo
+1,MotherMango,Vel'Koz,True,Side.blue,0,0,0,0.0,15,Flash,Ghost,3,False,966,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,3302,1803,Lane.mid_lane,Role.solo
+2,SteelCityWarrior,Yasuo,True,Side.blue,0,0,0,0.0,13,Teleport,Flash,3,False,935,500,Doran's Blade,,,,,,542,2500,Lane.top_lane,Role.solo
+3,sammystinky,Sejuani,True,Side.blue,0,0,0,0.0,10,Flash,Smite,3,False,974,500,Hunter's Talisman,Refillable Potion,,,,,3386,2039,Lane.jungle,Role.none
+4,Unstopebble,Karma,True,Side.blue,0,1,0,0.0,0,Flash,Exhaust,2,False,747,700,Total Biscuit of Rejuvenation,Spellthief's Edge,Control Ward,Faerie Charm,,,592,872,Lane.jungle,Role.none
+5,fat yak,Hecarim,False,Side.red,0,0,0,0.0,12,Ghost,Smite,4,False,1160,500,Hunter's Talisman,Refillable Potion,,,,,1529,7974,Lane.jungle,Role.none
+6,Bhikku,Orianna,False,Side.red,0,0,0,0.0,0,Ghost,Flash,1,False,662,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+7,OmegaGJ,Poppy,False,Side.red,0,0,0,0.0,4,Flash,Teleport,2,False,742,500,,Corrupting Potion,,,,,52,1604,Lane.top_lane,Role.solo
+8,is that Rex,Brand,False,Side.red,0,0,1,1.0,0,Ignite,Flash,2,False,920,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,499,821,Lane.bot_lane,Role.duo
+9,chuck normis,Twitch,False,Side.red,1,0,0,1.0,15,Flash,Heal,2,True,1372,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,0,4502,Lane.bot_lane,Role.duo

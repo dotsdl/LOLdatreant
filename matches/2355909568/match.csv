@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,EternalShock,Orianna,True,Side.blue,1,5,12,2.6,151,Flash,Ghost,13,False,8995,8150,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Null-Magic Mantle,Rylai's Crystal Scepter,,81549,15292,Lane.mid_lane,Role.solo
+1,Fiku,Nautilus,True,Side.blue,11,4,7,4.5,174,Flash,Teleport,14,True,12048,10075,Sunfire Cape,Corrupting Potion,Iceborn Gauntlet,Ninja Tabi,Spirit Visage,,86834,25755,Lane.top_lane,Role.solo
+2,Cat Person,Janna,True,Side.blue,2,6,20,3.6666666666666665,7,Flash,Heal,12,False,8284,7925,Frost Queen's Claim,Sightstone,Control Ward,Redemption,Needlessly Large Rod,Boots of Mobility,5585,4685,Lane.bot_lane,Role.support
+3,Falco Mechanic,Vayne,True,Side.blue,19,5,6,5.0,160,Exhaust,Flash,13,False,13657,13350,Doran's Blade,The Bloodthirster,Berserker's Greaves,Infinity Edge,Phantom Dancer,Last Whisper,0,122609,Lane.bot_lane,Role.carry
+4,Eric1,Lee Sin,True,Side.blue,10,5,10,4.0,120,Smite,Flash,14,False,10959,10125,Giant's Belt,Enchantment: Warrior,Tiamat,Warden's Mail,Dead Man's Plate,Mercury's Treads,16247,95794,Lane.jungle,Role.none
+5,JaySo,Blitzcrank,False,Side.red,1,9,8,1.0,21,Exhaust,Flash,11,False,6222,5950,Targon's Brace,Knight's Vow,Sightstone,Crystalline Bracer,Boots of Mobility,Faerie Charm,6238,4390,Lane.bot_lane,Role.support
+6,Drowning,Graves,False,Side.red,11,5,3,2.8,137,Flash,Smite,14,False,10572,10160,Phantom Dancer,Enchantment: Warrior,Ninja Tabi,Maw of Malmortius,Long Sword,,3002,99321,Lane.jungle,Role.none
+7,NiMura,Syndra,False,Side.red,9,7,3,1.7142857142857142,145,Flash,Ghost,13,False,9808,9425,Doran's Ring,Rabadon's Deathcap,Control Ward,Sorcerer's Shoes,Morellonomicon,Blasting Wand,67359,11442,Lane.mid_lane,Role.solo
+8,Henrÿ,Jhin,False,Side.red,1,10,6,0.7,121,Flash,Heal,11,False,7346,7000,Boots of Speed,Doran's Blade,Essence Reaver,Statikk Shiv,,,990,72567,Lane.bot_lane,Role.carry
+9,FIoopie,Jayce,False,Side.red,3,12,8,0.9166666666666666,82,Flash,Teleport,11,False,7208,5225,Doran's Blade,Refillable Potion,Control Ward,Boots of Speed,The Black Cleaver,Serrated Dirk,9196,37393,Lane.top_lane,Role.solo

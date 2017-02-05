@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KeIsi Monroe,Renekton,True,Side.blue,9,1,6,15.0,215,Teleport,Flash,15,True,12593,11350,Titanic Hydra,Refillable Potion,Locket of the Iron Solari,The Black Cleaver,Mercury's Treads,Giant's Belt,7447,131716,Lane.top_lane,Role.solo
+1,Dank Cub,Bard,True,Side.blue,3,3,13,5.333333333333333,8,Flash,Ignite,12,False,8461,8200,Locket of the Iron Solari,Ruby Sightstone,Redemption,Frostfang,Boots of Mobility,,14680,5469,Lane.bot_lane,Role.support
+2,CelticsPwn,Ivern,True,Side.blue,5,0,12,17.0,66,Flash,Smite,14,False,10154,9125,Enchantment: Runic Echoes,Hunter's Potion,Redemption,Athene's Unholy Grail,Giant's Belt,Ionian Boots of Lucidity,8217,10448,Lane.jungle,Role.none
+3,Vicinus,Karma,True,Side.blue,4,5,12,3.2,158,Flash,Exhaust,14,False,10027,8875,Ionian Boots of Lucidity,Luden's Echo,Ardent Censer,Doran's Ring,Blasting Wand,Fiendish Codex,74504,18668,Lane.mid_lane,Role.solo
+4,goompa,Twitch,True,Side.blue,12,6,7,3.1666666666666665,190,Heal,Flash,14,False,12782,12675,Berserker's Greaves,,Last Whisper,Infinity Edge,Runaan's Hurricane,Phantom Dancer,528,114777,Lane.bot_lane,Role.carry
+5,Sinickle,Soraka,False,Side.red,0,10,10,1.0,18,Flash,Exhaust,12,False,6485,5600,Mikael's Crucible,Refillable Potion,Sightstone,Boots of Mobility,Nomad's Medallion,Forbidden Idol,6966,2699,Lane.bot_lane,Role.support
+6,Tobias Fate,Karthus,False,Side.red,5,6,5,1.6666666666666667,192,Flash,Exhaust,14,False,9965,9600,Needlessly Large Rod,Morellonomicon,Tear of the Goddess,Haunting Guise,Blasting Wand,Sorcerer's Shoes,120040,2433,Lane.mid_lane,Role.solo
+7,DoombringerEX,Lee Sin,False,Side.red,5,5,4,1.8,136,Flash,Smite,14,False,9481,9025,Boots of Mobility,Long Sword,Enchantment: Warrior,Maw of Malmortius,Phage,Long Sword,17626,88778,Lane.jungle,Role.none
+8,Arcade AHRl,Jhin,False,Side.red,1,7,9,1.4285714285714286,126,Flash,Heal,13,False,7913,6525,Essence Reaver,Refillable Potion,Zeal,Boots of Swiftness,Doran's Blade,,6163,70100,Lane.bot_lane,Role.carry
+9,L0RENZ0,Poppy,False,Side.red,4,5,1,1.0,201,Flash,Teleport,14,False,9394,9275,Sunfire Cape,Corrupting Potion,Iceborn Gauntlet,Ninja Tabi,Spectre's Cowl,Kindlegem,29278,65167,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Neo,Riven,True,Side.blue,7,4,2,2.25,121,Flash,Teleport,13,False,10112,8800,Quicksilver Sash,Refillable Potion,Youmuu's Ghostblade,The Black Cleaver,Ionian Boots of Lucidity,Null-Magic Mantle,210,85129,Lane.top_lane,Role.solo
+1,Dravens Rift,Draven,True,Side.blue,8,4,8,4.0,188,Flash,Heal,14,False,13987,12825,Youmuu's Ghostblade,B. F. Sword,Mercurial Scimitar,Berserker's Greaves,Phantom Dancer,Pickaxe,2075,123372,Lane.bot_lane,Role.carry
+2,Wizikz,Vi,True,Side.blue,10,4,15,6.25,143,Smite,Flash,15,True,12646,10658,Enchantment: Warrior,Trinity Force,Ninja Tabi,Control Ward,Dead Man's Plate,,2601,135980,Lane.jungle,Role.none
+3,loveyen,Orianna,True,Side.blue,10,5,8,3.6,127,Flash,Ghost,13,False,11383,9975,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,74349,11418,Lane.mid_lane,Role.solo
+4,THzWeeds,Nami,True,Side.blue,3,6,20,3.8333333333333335,7,Exhaust,Flash,13,False,10120,8675,Frost Queen's Claim,Redemption,Mikael's Crucible,Sightstone,Sapphire Crystal,Boots of Mobility,10174,8282,Lane.bot_lane,Role.support
+5,Reaper Rory,Ezreal,False,Side.red,5,7,2,1.0,162,Heal,Flash,13,False,9603,9238,Manamune,Trinity Force,Vampiric Scepter,Cull,Doran's Blade,Ionian Boots of Lucidity,17212,61017,Lane.mid_lane,Role.solo
+6,PinkPanther2,Jhin,False,Side.red,8,9,9,1.8888888888888888,114,Flash,Heal,12,False,9621,9450,Doran's Blade,Essence Reaver,Infinity Edge,Boots of Swiftness,Kircheis Shard,,2443,68842,Lane.bot_lane,Role.carry
+7,BrianFamilyGuy,Lissandra,False,Side.red,2,6,4,1.0,165,Flash,Teleport,13,False,9008,8410,Zhonya's Hourglass,Amplifying Tome,Doran's Ring,Sorcerer's Shoes,Rod of Ages,Doran's Ring,91322,9944,Lane.top_lane,Role.solo
+8,C R,Lee Sin,False,Side.red,7,11,9,1.4545454545454546,48,Flash,Smite,12,False,8812,7900,The Black Cleaver,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Ruby Crystal,Cloth Armor,8914,48243,Lane.jungle,Role.none
+9,Saiaf,Blitzcrank,False,Side.red,1,5,15,3.2,18,Flash,Exhaust,11,False,6733,6275,Eye of the Equinox,Warden's Mail,Control Ward,Ionian Boots of Lucidity,Glacial Shroud,,8628,5532,Lane.bot_lane,Role.support

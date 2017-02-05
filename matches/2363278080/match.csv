@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,King Karp,Syndra,True,Side.blue,7,8,13,2.5,152,Ghost,Flash,16,False,13543,10500,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,,107831,13852,Lane.mid_lane,Role.solo
+1,Malli,Kennen,True,Side.blue,6,5,13,3.8,230,Flash,Teleport,16,False,14072,13930,Void Staff,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Rabadon's Deathcap,,107042,31834,Lane.top_lane,Role.solo
+2,BukZacH,Jhin,True,Side.blue,17,6,13,5.0,218,Flash,Heal,17,False,17866,14600,Infinity Edge,Duskblade of Draktharr,Boots of Swiftness,Rapid Firecannon,The Bloodthirster,,8037,201067,Lane.bot_lane,Role.carry
+3,aShady,Nautilus,True,Side.blue,5,2,22,13.5,56,Exhaust,Flash,15,True,11847,10400,Locket of the Iron Solari,Redemption,Eye of the Equinox,Boots of Mobility,,Knight's Vow,25088,13950,Lane.bot_lane,Role.support
+4,Horrible Player,Hecarim,True,Side.blue,9,5,11,4.0,171,Smite,Ghost,16,False,14857,14108,Enchantment: Cinderhulk,Dead Man's Plate,Null-Magic Mantle,Trinity Force,Boots of Swiftness,Spirit Visage,33765,145631,Lane.jungle,Role.none
+5,Cotopaco Parce,Cassiopeia,False,Side.red,12,6,11,3.8333333333333335,243,Exhaust,Flash,17,False,14854,14695,Needlessly Large Rod,Morellonomicon,Seraph's Embrace,Negatron Cloak,Rylai's Crystal Scepter,Void Staff,166273,11073,Lane.mid_lane,Role.solo
+6,Nash,Karma,False,Side.red,1,13,14,1.1538461538461537,21,Exhaust,Flash,13,False,9500,8900,Eye of the Watchers,Locket of the Iron Solari,Redemption,Chalice of Harmony,,Boots of Mobility,21625,3351,Lane.bot_lane,Role.support
+7,Grell Carry U,Lee Sin,False,Side.red,2,10,9,1.1,145,Flash,Smite,15,False,10658,10225,Refillable Potion,Tiamat,Enchantment: Warrior,Boots of Mobility,Dead Man's Plate,Banshee's Veil,25585,109211,Lane.jungle,Role.none
+8,Archduke Beepis,Jinx,False,Side.red,5,11,7,1.0909090909090908,198,Flash,Heal,14,False,11546,11125,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Maw of Malmortius,,1223,119461,Lane.bot_lane,Role.carry
+9,Sînner,Riven,False,Side.red,6,4,4,2.5,221,Flash,Teleport,16,False,12274,11970,Ravenous Hydra,Negatron Cloak,Maw of Malmortius,Ninja Tabi,,The Black Cleaver,0,136811,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,killnoob95,Renekton,True,Side.blue,7,1,6,13.0,192,Teleport,Flash,15,False,10836,8550,Hexdrinker,Spirit Visage,Ionian Boots of Lucidity,Sunfire Cape,,Health Potion,15325,99291,Lane.top_lane,Role.solo
+1,Minhy,Vayne,True,Side.blue,12,3,9,7.0,168,Heal,Flash,13,False,12089,10850,Blade of the Ruined King,Statikk Shiv,Infinity Edge,,Doran's Blade,Boots of Speed,16464,78809,Lane.bot_lane,Role.carry
+2,l MiMo l,Hecarim,True,Side.blue,7,6,12,3.1666666666666665,108,Smite,Ghost,13,True,10329,9158,Ionian Boots of Lucidity,Hexdrinker,Enchantment: Cinderhulk,,,Trinity Force,11234,95803,Lane.jungle,Role.none
+3,Clumsie,Lux,True,Side.blue,3,5,10,2.6,124,Barrier,Flash,13,False,8767,7450,Doran's Ring,,,Abyssal Scepter,Morellonomicon,Sorcerer's Shoes,60555,11202,Lane.mid_lane,Role.solo
+4,Ferdi,Sona,True,Side.blue,2,5,22,4.8,9,Exhaust,Flash,12,False,8849,7850,Redemption,Eye of the Watchers,Mikael's Crucible,,Boots of Mobility,,10755,6432,Lane.bot_lane,Role.support
+5,menpur1ian,Ryze,False,Side.red,2,7,4,0.8571428571428571,133,Ignite,Flash,12,False,7900,7975,Corrupting Potion,Morellonomicon,Archangel's Staff,,,Boots of Swiftness,70319,11286,Lane.top_lane,Role.solo
+6,mclovin1423,Veigar,False,Side.red,7,4,3,2.5,157,Ghost,Flash,13,False,9431,8800,Doran's Ring,Morellonomicon,Luden's Echo,Blasting Wand,Sorcerer's Shoes,,94408,11873,Lane.mid_lane,Role.solo
+7,Duramius,Morgana,False,Side.red,1,6,7,1.3333333333333333,15,Flash,Exhaust,11,False,6540,5850,Frost Queen's Claim,Sightstone,Boots of Mobility,Crystalline Bracer,Total Biscuit of Rejuvenation,Forbidden Idol,11312,4797,Lane.bot_lane,Role.support
+8,Porke,Nunu,False,Side.red,7,6,7,2.3333333333333335,78,Flash,Smite,12,False,9599,9175,Titanic Hydra,Enchantment: Cinderhulk,Warden's Mail,Mercury's Treads,Sapphire Crystal,Cloth Armor,29076,29224,Lane.jungle,Role.none
+9,Mofta,Jhin,False,Side.red,3,8,3,0.75,129,Heal,Flash,11,False,8219,7250,,Doran's Blade,Cloak of Agility,Boots of Swiftness,Essence Reaver,Pickaxe,6501,73801,Lane.bot_lane,Role.carry

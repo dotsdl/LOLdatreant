@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Natalia Dyer,Jayce,True,Side.blue,7,5,10,3.4,135,Flash,Ignite,14,False,11161,10200,The Black Cleaver,Edge of Night,Boots of Swiftness,Control Ward,Sterak's Gage,,10056,78582,Lane.mid_lane,Role.solo
+1,zT ace,Yasuo,True,Side.blue,5,7,7,1.7142857142857142,211,Teleport,Flash,15,True,12254,12125,Doran's Blade,Infinity Edge,Ninja Tabi,,Phantom Dancer,Mercurial Scimitar,24367,123570,Lane.top_lane,Role.solo
+2,Boy Wonder,Karma,True,Side.blue,0,1,16,16.0,25,Flash,Exhaust,12,False,8869,7425,Sightstone,,Redemption,Frostfang,Ardent Censer,Ionian Boots of Lucidity,18020,6434,Lane.bot_lane,Role.support
+3,Kitzuø,Rengar,True,Side.blue,19,3,7,8.666666666666666,243,Smite,Ghost,17,False,17740,14650,Death's Dance,Ionian Boots of Lucidity,Duskblade of Draktharr,Youmuu's Ghostblade,Infinity Edge,Hunter's Talisman,24834,202827,Lane.jungle,Role.none
+4,Wolffy ,Twitch,True,Side.blue,5,9,9,1.5555555555555556,117,Heal,Flash,13,False,10163,8600,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Dagger,Dagger,14,59876,Lane.bot_lane,Role.carry
+5,Sînner,Vi,False,Side.red,2,5,7,1.8,106,Flash,Smite,13,False,8747,8425,Refillable Potion,The Black Cleaver,Ninja Tabi,Enchantment: Warrior,Cloth Armor,Giant's Belt,2389,93900,Lane.jungle,Role.none
+6,Winter is back,Lulu,False,Side.red,3,8,9,1.5,9,Flash,Exhaust,11,False,7842,7200,Forbidden Idol,Ionian Boots of Lucidity,Athene's Unholy Grail,Eye of the Watchers,Crystalline Bracer,,8963,4400,Lane.bot_lane,Role.support
+7,Adrian Riven,Riven,False,Side.red,14,8,2,2.0,165,Teleport,Flash,15,False,12071,10900,Youmuu's Ghostblade,Ravenous Hydra,Refillable Potion,Ninja Tabi,The Black Cleaver,,104,114544,Lane.top_lane,Role.solo
+8,Shroudedd,Cassiopeia,False,Side.red,3,8,7,1.25,193,Ghost,Flash,14,False,10148,8420,Doran's Ring,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,Amplifying Tome,The Dark Seal,94979,8330,Lane.mid_lane,Role.solo
+9,ADC Prospect,Caitlyn,False,Side.red,2,7,6,1.1428571428571428,157,Heal,Flash,12,False,8966,7950,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,1252,90813,Lane.bot_lane,Role.carry

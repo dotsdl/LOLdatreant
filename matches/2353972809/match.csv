@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Emilia Is Love,Ezreal,False,Side.blue,2,7,1,0.42857142857142855,133,Flash,Heal,10,False,6475,5608,Boots of Speed,Control Ward,Total Biscuit of Rejuvenation,Trinity Force,Doran's Blade,Tear of the Goddess,6056,57131,Lane.bot_lane,Role.carry
+1,retarded virgin,Graves,False,Side.blue,2,9,2,0.4444444444444444,68,Flash,Smite,9,False,5950,5325,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Caulfield's Warhammer,Long Sword,,2375,59815,Lane.jungle,Role.none
+2,Koby,Nasus,False,Side.blue,1,1,3,4.0,169,Flash,Teleport,12,False,7290,5350,Doran's Ring,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Ninja Tabi,,54649,15413,Lane.top_lane,Role.solo
+3,Shrew,Karma,False,Side.blue,0,6,3,0.5,23,Flash,Exhaust,9,False,4827,4125,Eye of the Watchers,Forbidden Idol,Ionian Boots of Lucidity,,,,14041,3751,Lane.bot_lane,Role.support
+4,Rip Cig,Vel'Koz,False,Side.blue,3,5,0,0.6,137,Flash,Ghost,12,False,6796,6025,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Haunting Guise,,,53490,6114,Lane.mid_lane,Role.solo
+5,Feitan,Lee Sin,True,Side.red,7,1,7,14.0,95,Smite,Flash,12,False,9066,8650,Mercury's Treads,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Giant's Belt,Chain Vest,13556,84407,Lane.jungle,Role.none
+6,FIoopie,Caitlyn,True,Side.red,10,1,5,15.0,188,Flash,Heal,13,False,10524,10500,Doran's Blade,,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,304,104937,Lane.bot_lane,Role.carry
+7,TRAVYPOOO,Xin Zhao,True,Side.red,2,3,1,1.0,187,Flash,Teleport,13,False,8163,7433,Corrupting Potion,Trinity Force,Mercury's Treads,Vampiric Scepter,,Tiamat,3761,87805,Lane.top_lane,Role.solo
+8,MongolWarrior,Corki,True,Side.red,7,1,7,14.0,152,Exhaust,Flash,12,False,9399,8933,Doran's Blade,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,,,59926,21894,Lane.mid_lane,Role.solo
+9,zz cicero,Poppy,True,Side.red,2,2,13,7.5,41,Ignite,Flash,11,True,7008,6875,Dead Man's Plate,Eye of the Equinox,Cloth Armor,Boots of Mobility,,,1352,20405,Lane.bot_lane,Role.support

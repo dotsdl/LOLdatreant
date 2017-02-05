@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tetanic,Ivern,True,Side.blue,3,0,9,12.0,90,Flash,Smite,14,False,10512,9000,Redemption,Hunter's Potion,Boots of Speed,Rylai's Crystal Scepter,Enchantment: Cinderhulk,Cloth Armor,13637,9712,Lane.jungle,Role.none
+1,Ev0lv3,Graves,True,Side.blue,6,3,5,3.6666666666666665,191,Flash,Heal,13,False,11286,11050,Doran's Blade,Essence Reaver,Zeal,Infinity Edge,Berserker's Greaves,Dagger,4404,133113,Lane.bot_lane,Role.carry
+2,Teammate Tilter,Vel'Koz,True,Side.blue,4,2,1,2.5,194,Teleport,Flash,15,False,11659,9275,Refillable Potion,Seeker's Armguard,Frost Queen's Claim,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,93574,13429,Lane.top_lane,Role.solo
+3,XinsertpunhereX,Orianna,True,Side.blue,7,6,5,2.0,197,Ignite,Flash,15,True,12217,9850,Refillable Potion,Morellonomicon,Void Staff,Sorcerer's Shoes,Rod of Ages,The Dark Seal,117808,17910,Lane.mid_lane,Role.solo
+4,GeGSunny,Karma,True,Side.blue,1,0,14,15.0,20,Flash,Exhaust,13,False,9251,7550,Frostfang,Ardent Censer,Athene's Unholy Grail,Boots of Swiftness,Sightstone,Control Ward,15582,7670,Lane.bot_lane,Role.support
+5,Usermang,Poppy,False,Side.red,2,2,2,2.0,177,Teleport,Flash,14,False,8355,8050,Corrupting Potion,Iceborn Gauntlet,Mercury's Treads,Chain Vest,,Spirit Visage,3541,72488,Lane.top_lane,Role.solo
+6,Fixyou,Trundle,False,Side.red,1,2,3,2.0,37,Exhaust,Flash,11,False,6209,6200,Ruby Sightstone,Face of the Mountain,Boots of Swiftness,Null-Magic Mantle,,Control Ward,1127,14762,Lane.bot_lane,Role.support
+7,Needsbraces,Hecarim,False,Side.red,2,6,3,0.8333333333333334,117,Smite,Ghost,13,False,8323,7708,Enchantment: Cinderhulk,Trinity Force,Boots of Swiftness,,,,13329,95007,Lane.jungle,Role.none
+8,Butter Magikarp,Ezreal,False,Side.red,0,5,4,0.8,194,Heal,Flash,12,False,8908,8600,Doran's Blade,Bilgewater Cutlass,Cull,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,12199,84561,Lane.bot_lane,Role.carry
+9,always plan ahea,Jhin,False,Side.red,6,6,1,1.1666666666666667,196,Flash,Exhaust,14,False,10126,10050,Doran's Blade,Ionian Boots of Lucidity,Infinity Edge,Dagger,Essence Reaver,Dagger,10224,116833,Lane.mid_lane,Role.solo

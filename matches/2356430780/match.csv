@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,lron Pyrite,Blitzcrank,True,Side.blue,1,8,7,1.0,16,Flash,Ignite,11,False,8136,7975,Talisman of Ascension,Ruby Sightstone,Redemption,Boots of Mobility,,Control Ward,9404,6095,Lane.bot_lane,Role.support
+1,Ikzencriel,Jayce,True,Side.blue,8,2,16,12.0,179,Teleport,Flash,16,False,13386,11700,Doran's Blade,Doran's Blade,The Bloodthirster,The Black Cleaver,Lord Dominik's Regards,Mercury's Treads,20013,105395,Lane.top_lane,Role.solo
+2,toke dude,Vi,True,Side.blue,14,3,9,7.666666666666667,158,Smite,Flash,16,False,15149,14458,Enchantment: Warrior,Ninja Tabi,Trinity Force,Dead Man's Plate,,The Black Cleaver,1795,177241,Lane.jungle,Role.none
+3,mlaC,Zilean,True,Side.blue,7,6,18,4.166666666666667,151,Teleport,Flash,16,False,12088,11375,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rod of Ages,Void Staff,Needlessly Large Rod,97598,11681,Lane.mid_lane,Role.solo
+4,Inori l Yuzuriha,Vayne,True,Side.blue,7,6,6,2.1666666666666665,171,Heal,Flash,15,False,11832,10600,Berserker's Greaves,Statikk Shiv,Infinity Edge,Doran's Blade,Vampiric Scepter,Zeal,26050,80004,Lane.bot_lane,Role.carry
+5,Eric1,Lee Sin,False,Side.red,4,11,10,1.2727272727272727,102,Smite,Flash,14,False,9767,8950,Dead Man's Plate,Enchantment: Warrior,Tiamat,Ninja Tabi,Cloth Armor,Ruby Crystal,14253,93757,Lane.jungle,Role.none
+6,Uzumaki,Irelia,False,Side.red,1,6,5,1.0,236,Teleport,Flash,15,False,10702,10733,Titanic Hydra,Giant's Belt,Trinity Force,Ninja Tabi,Doran's Blade,Cloth Armor,1883,117860,Lane.top_lane,Role.solo
+7,Stumpey,Jhin,False,Side.red,8,5,10,3.6,205,Flash,Heal,14,True,12541,11475,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Doran's Blade,Infinity Edge,,5720,142767,Lane.bot_lane,Role.carry
+8,BabièThug,Fizz,False,Side.red,10,8,7,2.125,160,Flash,Teleport,15,False,11442,9650,Lich Bane,Needlessly Large Rod,Zhonya's Hourglass,The Dark Seal,Doran's Ring,Ionian Boots of Lucidity,80734,20119,Lane.mid_lane,Role.solo
+9,SHA BI NA ADC,Alistar,False,Side.red,2,7,16,2.5714285714285716,25,Flash,Exhaust,12,False,8899,8625,Talisman of Ascension,Sightstone,Boots of Swiftness,Knight's Vow,Aegis of the Legion,Null-Magic Mantle,11258,4507,Lane.bot_lane,Role.support

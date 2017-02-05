@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lil Cody,Karma,False,Side.blue,1,5,2,0.6,23,Ignite,Flash,11,False,7604,7460,Ardent Censer,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,Amplifying Tome,21422,3268,Lane.bot_lane,Role.support
+1,Shiphtur,Azir,False,Side.blue,2,4,3,1.25,243,Cleanse,Flash,15,False,11707,11475,Zhonya's Hourglass,Rylai's Crystal Scepter,,Doran's Ring,Berserker's Greaves,Nashor's Tooth,140268,15223,Lane.mid_lane,Role.solo
+2,retarded virgin,Rek'Sai,False,Side.blue,2,6,3,0.8333333333333334,123,Flash,Smite,14,True,9534,9175,Enchantment: Cinderhulk,Refillable Potion,Tiamat,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,32520,88973,Lane.jungle,Role.none
+3,cokes,Caitlyn,False,Side.blue,0,3,2,0.6666666666666666,196,Heal,Flash,13,False,9412,9325,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,Zeal,,1176,107728,Lane.bot_lane,Role.carry
+4,Washing Dishes,Akali,False,Side.blue,7,10,1,0.8,224,Teleport,Flash,15,False,11779,11920,Hextech Gunblade,Zhonya's Hourglass,Rylai's Crystal Scepter,Sorcerer's Shoes,Control Ward,,43955,111528,Lane.top_lane,Role.solo
+5,Rokí,Ekko,True,Side.red,8,5,2,2.0,125,Flash,Teleport,14,False,10951,9075,Corrupting Potion,Hextech Protobelt-01,Abyssal Scepter,Needlessly Large Rod,The Dark Seal,Ionian Boots of Lucidity,63984,14037,Lane.top_lane,Role.solo
+6,ApoIlo Price,Janna,True,Side.red,2,2,19,10.5,19,Flash,Exhaust,14,False,10269,8250,Redemption,Eye of the Oasis,Locket of the Iron Solari,Boots of Mobility,Null-Magic Mantle,,8098,8788,Lane.bot_lane,Role.support
+7,mandatorycloud,Varus,True,Side.red,11,4,4,3.75,219,Flash,Ghost,16,False,13614,13700,Ionian Boots of Lucidity,Youmuu's Ghostblade,Muramana,Maw of Malmortius,Lord Dominik's Regards,Control Ward,7875,152874,Lane.mid_lane,Role.solo
+8,Allorim,Zac,True,Side.red,1,0,16,17.0,174,Flash,Smite,15,False,10908,8750,Enchantment: Cinderhulk,Ninja Tabi,Giant's Belt,Refillable Potion,Warden's Mail,Spirit Visage,97215,30933,Lane.jungle,Role.none
+9,Doublelift,Jhin,True,Side.red,6,1,13,19.0,237,Flash,Heal,15,False,13176,9900,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Rapid Firecannon,B. F. Sword,Pickaxe,7194,160536,Lane.bot_lane,Role.carry

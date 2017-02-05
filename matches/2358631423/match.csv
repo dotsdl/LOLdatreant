@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Qing Tian,Orianna,False,Side.blue,1,4,7,2.0,200,Flash,Ignite,13,False,8080,7785,Luden's Echo,Sorcerer's Shoes,Athene's Unholy Grail,Doran's Ring,Doran's Ring,Amplifying Tome,88098,14551,Lane.mid_lane,Role.solo
+1,Noob Ad Carry,Irelia,False,Side.blue,6,8,3,1.125,121,Teleport,Flash,12,True,7891,7208,Corrupting Potion,Trinity Force,Control Ward,Chain Vest,Mercury's Treads,Giant's Belt,1916,45029,Lane.top_lane,Role.solo
+2,Łegion,Graves,False,Side.blue,4,6,4,1.3333333333333333,77,Smite,Flash,11,False,7001,6850,Refillable Potion,Enchantment: Warrior,Berserker's Greaves,Phantom Dancer,Long Sword,,1881,61541,Lane.jungle,Role.none
+3,KushaIa Daora,Miss Fortune,False,Side.blue,2,7,5,1.0,117,Flash,Heal,11,False,6753,6350,Youmuu's Ghostblade,Doran's Blade,Serrated Dirk,Boots of Speed,Caulfield's Warhammer,Long Sword,3404,52480,Lane.bot_lane,Role.carry
+4,Lucky of Legends,Leona,False,Side.blue,1,7,9,1.4285714285714286,25,Flash,Exhaust,10,False,5700,5675,Face of the Mountain,Aegis of the Legion,Sightstone,Boots of Mobility,Control Ward,Total Biscuit of Rejuvenation,4158,3909,Lane.bot_lane,Role.support
+5,chakhae,Karma,True,Side.red,4,1,22,26.0,33,Flash,Exhaust,12,False,9718,7760,Redemption,Frost Queen's Claim,Ruby Sightstone,Refillable Potion,Boots of Mobility,Amplifying Tome,24726,11273,Lane.bot_lane,Role.support
+6,OPH,Lee Sin,True,Side.red,4,5,10,2.8,73,Flash,Smite,11,False,8540,8425,Enchantment: Warrior,Randuin's Omen,Refillable Potion,Hexdrinker,Mercury's Treads,Long Sword,13044,64401,Lane.jungle,Role.none
+7,Sìyou,Ezreal,True,Side.red,10,3,12,7.333333333333333,164,Flash,Heal,12,False,12390,10950,Blade of the Ruined King,Doran's Blade,Muramana,Poacher's Dirk,Berserker's Greaves,Iceborn Gauntlet,11276,103136,Lane.bot_lane,Role.carry
+8,ToxicGreenie QwQ,Poppy,True,Side.red,6,4,10,4.0,134,Teleport,Flash,13,False,9741,8150,Control Ward,Corrupting Potion,Mercury's Treads,Sunfire Cape,Iceborn Gauntlet,Kindlegem,14658,49228,Lane.top_lane,Role.solo
+9,adc feng lft,Ryze,True,Side.red,8,2,7,7.5,150,Ghost,Flash,13,False,10351,8625,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Rod of Ages,Blasting Wand,,Tear of the Goddess,95364,11384,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FireLordAaron,Kha'Zix,True,Side.blue,5,1,7,12.0,110,Smite,Flash,13,False,8529,7825,Tiamat,Refillable Potion,Enchantment: Warrior,Duskblade of Draktharr,Boots of Speed,Cloth Armor,2680,88344,Lane.jungle,Role.none
+1,NCS Cute Girl,Annie,True,Side.blue,4,2,2,3.0,139,Flash,Teleport,12,False,8620,6550,Doran's Ring,Giant's Belt,,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,45963,10296,Lane.mid_lane,Role.solo
+2,Rangwo da yiPao,Jayce,True,Side.blue,11,3,7,6.0,156,Teleport,Flash,14,True,10779,10750,Manamune,The Black Cleaver,Ninja Tabi,Maw of Malmortius,Doran's Blade,,8751,92639,Lane.top_lane,Role.solo
+3,Lãn Yang Yang,Ashe,True,Side.blue,8,3,9,5.666666666666667,164,Flash,Heal,12,False,10693,10050,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,B. F. Sword,Cloak of Agility,,1518,88599,Lane.bot_lane,Role.carry
+4,Haley bb Pig,Brand,True,Side.blue,3,3,12,5.0,54,Flash,Exhaust,11,False,7979,5960,,Haunting Guise,Eye of the Watchers,,Amplifying Tome,Ionian Boots of Lucidity,45518,8752,Lane.bot_lane,Role.support
+5,Cpt Squirtle,Kalista,False,Side.red,4,7,5,1.2857142857142858,142,Heal,Flash,11,False,7619,7550,Doran's Blade,Blade of the Ruined King,Runaan's Hurricane,,Boots of Swiftness,,456,55427,Lane.bot_lane,Role.carry
+6,A Potluck,Elise,False,Side.red,4,5,2,1.2,108,Smite,Flash,12,False,7587,6950,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Refillable Potion,Rylai's Crystal Scepter,,,62769,26083,Lane.jungle,Role.none
+7,l Halcyon l,Alistar,False,Side.red,2,8,8,1.25,20,Ignite,Flash,9,False,5614,5175,Sightstone,Control Ward,Boots of Mobility,Targon's Brace,Glacial Shroud,Warden's Mail,5796,3661,Lane.bot_lane,Role.support
+8,Quibblez,Yasuo,False,Side.red,2,8,1,0.375,93,Teleport,Flash,10,False,5936,5775,Doran's Blade,Health Potion,Phantom Dancer,Boots of Speed,Vampiric Scepter,B. F. Sword,8286,36097,Lane.top_lane,Role.solo
+9,Wallysama,Gangplank,False,Side.red,0,3,5,1.6666666666666667,126,Teleport,Flash,12,False,6622,6158,Trinity Force,Refillable Potion,Caulfield's Warhammer,Serrated Dirk,,,12419,59299,Lane.mid_lane,Role.solo

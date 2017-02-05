@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,fre3zingCold,Jax,False,Side.blue,4,6,3,1.1666666666666667,156,Flash,Smite,13,True,8826,8608,Enchantment: Bloodrazor,Mercury's Treads,Trinity Force,Warden's Mail,,,14264,97455,Lane.jungle,Role.none
+1,Nero Valentine,Jhin,False,Side.blue,1,4,2,0.75,176,Heal,Flash,12,False,7940,7100,Doran's Blade,Boots of Swiftness,Youmuu's Ghostblade,Rapid Firecannon,,,6421,65915,Lane.bot_lane,Role.carry
+2,Gremio,Karma,False,Side.blue,0,3,4,1.3333333333333333,40,Exhaust,Flash,11,False,5885,5275,Ardent Censer,Control Ward,Sightstone,Ionian Boots of Lucidity,Spellthief's Edge,Ruby Crystal,22765,4483,Lane.bot_lane,Role.support
+3,Espir III,Twisted Fate,False,Side.blue,5,2,5,5.0,177,Flash,Ghost,14,False,10200,8700,Doran's Ring,Control Ward,Seeker's Armguard,Rod of Ages,Ionian Boots of Lucidity,Abyssal Scepter,87141,10602,Lane.mid_lane,Role.solo
+4,Making Sense,Kennen,False,Side.blue,0,6,1,0.16666666666666666,186,Flash,Teleport,12,False,7931,7750,Sorcerer's Shoes,Zhonya's Hourglass,,Hextech Protobelt-01,Null-Magic Mantle,Doran's Blade,61491,26219,Lane.top_lane,Role.solo
+5,Nedo,Syndra,True,Side.red,4,4,3,1.75,176,Cleanse,Flash,14,False,9923,9750,Doran's Ring,Refillable Potion,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,80513,12511,Lane.mid_lane,Role.solo
+6,Riesig,Ezreal,True,Side.red,2,1,5,7.0,174,Flash,Heal,13,False,9612,7800,Iceborn Gauntlet,Quicksilver Sash,Muramana,Doran's Blade,Ionian Boots of Lucidity,,12162,82172,Lane.bot_lane,Role.carry
+7,Simply Nora,Quinn,True,Side.red,4,5,2,1.2,168,Flash,Exhaust,14,False,9977,9225,Berserker's Greaves,,Doran's Blade,Duskblade of Draktharr,Serrated Dirk,Youmuu's Ghostblade,1676,97548,Lane.top_lane,Role.solo
+8,Fiku,Graves,True,Side.red,10,0,1,11.0,168,Flash,Smite,15,False,13068,10975,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,Phantom Dancer,B. F. Sword,3256,175644,Lane.jungle,Role.none
+9,i miss you haru,Zyra,True,Side.red,1,0,9,10.0,22,Flash,Ignite,11,False,7693,6855,Blasting Wand,Sorcerer's Shoes,Refillable Potion,Eye of the Watchers,Haunting Guise,Control Ward,18320,5031,Lane.bot_lane,Role.support

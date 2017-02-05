@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,always plan ahea,Kled,True,Side.blue,8,8,3,1.375,199,Flash,Ignite,15,False,11581,11200,Titanic Hydra,The Black Cleaver,Mercury's Treads,Sterak's Gage,Long Sword,,143,117203,Lane.top_lane,Role.solo
+1,Sha Bi Da Ye,Lee Sin,True,Side.blue,7,5,6,2.6,78,Smite,Flash,13,False,10130,9750,Tiamat,Hexdrinker,Enchantment: Warrior,Mercury's Treads,Dead Man's Plate,Ruby Crystal,10269,75510,Lane.jungle,Role.none
+2,Lone Assassin,Bard,True,Side.blue,2,5,9,2.2,7,Ignite,Flash,12,False,7812,6885,Eye of the Watchers,Boots of Mobility,Iceborn Gauntlet,Ruby Crystal,Amplifying Tome,,9074,4398,Lane.bot_lane,Role.support
+3,FruitFromSpace,Kennen,True,Side.blue,2,8,2,0.5,189,Flash,Teleport,14,False,9942,9255,Zhonya's Hourglass,Kindlegem,Abyssal Scepter,Hextech Revolver,Control Ward,Sorcerer's Shoes,62032,31292,Lane.mid_lane,Role.solo
+4,CLEVER SLEAZOID,Jhin,True,Side.blue,8,4,4,3.0,155,Flash,Heal,13,True,10889,10600,Doran's Blade,Infinity Edge,Rapid Firecannon,Phantom Dancer,,Boots of Swiftness,10387,92665,Lane.bot_lane,Role.carry
+5,16 03 15 S2,Kha'Zix,False,Side.red,12,5,5,3.4,101,Smite,Flash,15,False,11273,11200,Enchantment: Warrior,Long Sword,Death's Dance,Boots of Mobility,Duskblade of Draktharr,Long Sword,5587,104985,Lane.jungle,Role.none
+6,Microverse,Ezreal,False,Side.red,3,5,7,2.0,156,Heal,Flash,14,False,9343,9283,Trinity Force,Vampiric Scepter,,Ionian Boots of Lucidity,Manamune,,13342,69676,Lane.bot_lane,Role.carry
+7,Bréeze,Riven,False,Side.red,8,7,6,2.0,195,Flash,Teleport,15,False,11487,10900,The Black Cleaver,Youmuu's Ghostblade,Ravenous Hydra,Ninja Tabi,,,1451,119783,Lane.top_lane,Role.solo
+8,Reh23,Brand,False,Side.red,0,6,4,0.6666666666666666,6,Flash,Ignite,9,False,5829,3475,Control Ward,Ionian Boots of Lucidity,,Frost Queen's Claim,,,9390,1601,Lane.bot_lane,Role.support
+9,RainDear,Syndra,False,Side.red,7,4,7,3.5,190,Flash,Cleanse,15,False,10819,10610,Rylai's Crystal Scepter,Needlessly Large Rod,Morellonomicon,Blasting Wand,Sorcerer's Shoes,Amplifying Tome,101607,9051,Lane.mid_lane,Role.solo

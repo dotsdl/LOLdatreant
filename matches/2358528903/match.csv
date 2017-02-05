@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shiro Okami,Jhin,False,Side.blue,5,5,7,2.4,184,Flash,Heal,13,False,10411,8750,Cull,Doran's Blade,Essence Reaver,Boots of Speed,Rapid Firecannon,B. F. Sword,2166,114958,Lane.bot_lane,Role.carry
+1,Toukey,Twisted Fate,False,Side.blue,4,4,8,3.0,134,Ignite,Flash,13,False,8809,8235,Lich Bane,Doran's Ring,Health Potion,Boots of Mobility,Abyssal Scepter,Amplifying Tome,71012,8962,Lane.mid_lane,Role.solo
+2,SNSD Sunnny,Swain,False,Side.blue,7,6,9,2.6666666666666665,185,Teleport,Flash,14,False,10289,10500,Sorcerer's Shoes,Rod of Ages,Needlessly Large Rod,Null-Magic Mantle,Zhonya's Hourglass,Giant's Belt,83488,9669,Lane.top_lane,Role.solo
+3,Loopsers,Ivern,False,Side.blue,1,4,11,3.0,15,Exhaust,Flash,11,False,6870,6500,Eye of the Oasis,Total Biscuit of Rejuvenation,Athene's Unholy Grail,Ionian Boots of Lucidity,Aegis of the Legion,,5653,2930,Lane.bot_lane,Role.support
+4,biblee,Kha'Zix,False,Side.blue,5,7,4,1.2857142857142858,120,Flash,Smite,13,False,9328,8275,Enchantment: Warrior,Ionian Boots of Lucidity,Tiamat,Refillable Potion,Maw of Malmortius,,3931,107434,Lane.jungle,Role.none
+5,NoCookies4You,Kennen,True,Side.red,5,4,10,3.75,158,Flash,Teleport,14,False,10121,9775,Sorcerer's Shoes,Hextech Protobelt-01,Void Staff,Zhonya's Hourglass,,Doran's Blade,63840,24258,Lane.mid_lane,Role.solo
+6,The Trump Trane,Sion,True,Side.red,0,1,6,6.0,196,Teleport,Flash,13,False,9704,9225,Mercury's Treads,Zz'Rot Portal,Titanic Hydra,Stinger,Ruby Crystal,Sapphire Crystal,38659,53449,Lane.top_lane,Role.solo
+7,Atif,Lee Sin,True,Side.red,7,8,13,2.5,98,Flash,Smite,14,True,10844,10550,Ninja Tabi,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,Dead Man's Plate,Null-Magic Mantle,14214,76867,Lane.jungle,Role.none
+8,Sìyou,Thresh,True,Side.red,0,4,15,3.75,18,Flash,Ignite,12,False,7335,7125,Control Ward,Eye of the Equinox,Redemption,Boots of Mobility,Cloth Armor,Glacial Shroud,7779,3920,Lane.bot_lane,Role.support
+9,adc feng lft,Caitlyn,True,Side.red,14,5,7,4.2,226,Heal,Flash,15,False,14978,14755,Quicksilver Sash,Mortal Reminder,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,2252,177961,Lane.bot_lane,Role.carry

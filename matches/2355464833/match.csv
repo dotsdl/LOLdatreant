@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Riot Shantzilla,Shyvana,False,Side.blue,2,4,4,1.5,137,Smite,Flash,14,False,9062,9200,Tiamat,Frozen Mallet,Mercury's Treads,Enchantment: Bloodrazor,Ruby Crystal,,51020,68487,Lane.jungle,Role.none
+1,MongolWarrior,Caitlyn,False,Side.blue,4,7,3,1.0,146,Heal,Flash,12,False,9427,9100,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Kircheis Shard,Dagger,877,89758,Lane.bot_lane,Role.carry
+2,xxxVOLIBEARxx,Heimerdinger,False,Side.blue,3,9,5,0.8888888888888888,140,Flash,Ignite,13,False,8462,7640,Doran's Ring,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,Giant's Belt,Liandry's Torment,62278,13069,Lane.mid_lane,Role.solo
+3,King Shoaa,Maokai,False,Side.blue,4,6,4,1.3333333333333333,49,Flash,Exhaust,12,False,7805,7675,Targon's Brace,Righteous Glory,Redemption,Sightstone,Boots of Mobility,Cloth Armor,19959,9690,Lane.bot_lane,Role.support
+4,KitingYeezus,Yasuo,False,Side.blue,3,7,3,0.8571428571428571,174,Flash,Teleport,13,True,9197,8080,Doran's Blade,Phantom Dancer,Vampiric Scepter,Ninja Tabi,Hexdrinker,B. F. Sword,28989,89198,Lane.top_lane,Role.solo
+5,split push carry,Poppy,True,Side.red,6,2,9,7.5,132,Flash,Teleport,14,False,10413,10075,Giant's Belt,Sunfire Cape,Ninja Tabi,Thornmail,Spectre's Cowl,Kindlegem,31542,50255,Lane.top_lane,Role.solo
+6,ThePadzQC,Ezreal,True,Side.red,5,4,9,3.5,173,Heal,Flash,13,False,10908,9525,Bilgewater Cutlass,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,Doran's Blade,Recurve Bow,9713,84404,Lane.bot_lane,Role.carry
+7,Drowning,Graves,True,Side.red,10,5,12,4.4,132,Flash,Smite,15,False,13007,11250,Enchantment: Warrior,Ninja Tabi,Phantom Dancer,Death's Dance,Phage,,3491,144271,Lane.jungle,Role.none
+8,xSojin,Lux,True,Side.red,3,2,9,6.0,26,Flash,Exhaust,11,False,9058,7670,Sorcerer's Shoes,Athene's Unholy Grail,Eye of the Watchers,Fiendish Codex,Negatron Cloak,,29572,6992,Lane.bot_lane,Role.support
+9,IIlIllIIlllIII,Syndra,True,Side.red,9,3,9,6.0,228,Flash,Ignite,16,False,12853,11750,Rylai's Crystal Scepter,Rabadon's Deathcap,Sorcerer's Shoes,Morellonomicon,,Doran's Ring,145865,15489,Lane.mid_lane,Role.solo

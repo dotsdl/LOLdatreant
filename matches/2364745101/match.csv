@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Logicke,Shaco,False,Side.blue,5,4,3,2.0,105,Ignite,Smite,14,True,10169,10025,Hextech Gunblade,Enchantment: Runic Echoes,Sorcerer's Shoes,Sheen,Aether Wisp,Blasting Wand,52441,53012,Lane.jungle,Role.none
+1,Skyriis,Soraka,False,Side.blue,0,4,7,1.75,8,Exhaust,Flash,12,False,7334,6725,Redemption,Chalice of Harmony,Eye of the Oasis,Control Ward,Forbidden Idol,Ionian Boots of Lucidity,7992,2026,Lane.bot_lane,Role.support
+2,Kluzien,Riven,False,Side.blue,4,4,2,1.5,234,Flash,Teleport,16,False,10964,9850,The Black Cleaver,Death's Dance,Cloth Armor,Boots of Swiftness,Long Sword,Chain Vest,0,146968,Lane.top_lane,Role.solo
+3,Laniakea,Vayne,False,Side.blue,1,3,6,2.3333333333333335,271,Heal,Flash,15,False,11061,10400,Doran's Blade,Statikk Shiv,B. F. Sword,Berserker's Greaves,Vampiric Scepter,Infinity Edge,37083,118500,Lane.bot_lane,Role.carry
+4,BradfordLove,Orianna,False,Side.blue,3,2,5,4.0,254,Flash,Ghost,15,False,10967,10975,Morellonomicon,Doran's Ring,Luden's Echo,Void Staff,Ionian Boots of Lucidity,,137140,17933,Lane.mid_lane,Role.solo
+5,Hyegun,Bard,True,Side.red,2,0,13,15.0,30,Exhaust,Flash,14,False,11084,9675,Eye of the Oasis,Redemption,Zz'Rot Portal,Aegis of the Legion,Boots of Swiftness,Control Ward,20205,9855,Lane.bot_lane,Role.support
+6,Tu Tu Tu Tu,Caitlyn,True,Side.red,4,5,7,2.2,231,Heal,Flash,15,False,13404,13150,B. F. Sword,Berserker's Greaves,Quicksilver Sash,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,3457,173233,Lane.bot_lane,Role.carry
+7,XAlphaPro,Darius,True,Side.red,2,3,3,1.6666666666666667,191,Flash,Teleport,16,False,11698,10825,,Locket of the Iron Solari,Dead Man's Plate,The Black Cleaver,Mercury's Treads,Chain Vest,201,110761,Lane.top_lane,Role.solo
+8,Pwsjas,Viktor,True,Side.red,3,4,5,2.0,217,Flash,Teleport,16,False,12204,10420,Ionian Boots of Lucidity,Perfect Hex Core,Rylai's Crystal Scepter,Blasting Wand,Negatron Cloak,Aether Wisp,118196,19776,Lane.mid_lane,Role.solo
+9,Wizikz,Graves,True,Side.red,6,1,8,14.0,208,Smite,Flash,17,False,14893,11750,Enchantment: Warrior,Pickaxe,Berserker's Greaves,Vampiric Scepter,Maw of Malmortius,Phantom Dancer,6912,218630,Lane.jungle,Role.none

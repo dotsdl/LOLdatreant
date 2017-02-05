@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KFC 3 Piece,Brand,False,Side.blue,4,9,10,1.5555555555555556,34,Flash,Ignite,13,False,10671,10325,Sorcerer's Shoes,Rylai's Crystal Scepter,Eye of the Watchers,Liandry's Torment,,,40254,2756,Lane.bot_lane,Role.support
+1,Víer,Syndra,False,Side.blue,6,6,3,1.5,214,Flash,Ghost,15,False,12242,12225,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Void Staff,Sorcerer's Shoes,Blasting Wand,137067,10586,Lane.mid_lane,Role.solo
+2,acercon,Ivern,False,Side.blue,2,2,11,6.5,133,Flash,Smite,17,False,11673,10675,Redemption,Locket of the Iron Solari,Mejai's Soulstealer,Athene's Unholy Grail,Raptor Cloak,Mercury's Treads,19611,9964,Lane.jungle,Role.none
+3,Kachu,Caitlyn,False,Side.blue,7,5,5,2.4,272,Heal,Flash,16,False,14392,14050,Doran's Blade,Infinity Edge,Mercurial Scimitar,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,3057,208127,Lane.bot_lane,Role.carry
+4,Myloo,Poppy,False,Side.blue,3,3,4,2.3333333333333335,253,Flash,Teleport,17,False,12052,11450,Ninja Tabi,Corrupting Potion,Zz'Rot Portal,Spirit Visage,Sunfire Cape,Giant's Belt,48447,102053,Lane.top_lane,Role.solo
+5,amgod1,Twisted Fate,True,Side.red,6,5,8,2.8,279,Ghost,Flash,17,False,16478,14150,Rabadon's Deathcap,Zhonya's Hourglass,Lich Bane,Rod of Ages,Ionian Boots of Lucidity,,197454,15657,Lane.mid_lane,Role.solo
+6,iPav999,Teemo,True,Side.red,5,4,3,2.0,335,Teleport,Flash,18,False,16903,15000,Hextech Gunblade,Nashor's Tooth,Banshee's Veil,Guinsoo's Rageblade,Ninja Tabi,Control Ward,149648,111385,Lane.top_lane,Role.solo
+7,Nuxe,Graves,True,Side.red,8,3,7,5.0,229,Flash,Smite,17,True,15915,14300,Control Ward,The Bloodthirster,Berserker's Greaves,Enchantment: Warrior,Phantom Dancer,Maw of Malmortius,6403,232437,Lane.jungle,Role.none
+8,Krypt,Jinx,True,Side.red,5,5,10,3.0,230,Flash,Heal,15,False,14641,13150,,Infinity Edge,Lord Dominik's Regards,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,3257,191826,Lane.bot_lane,Role.carry
+9,Turc,Karma,True,Side.red,1,5,16,3.4,27,Exhaust,Flash,14,False,11795,9300,Eye of the Watchers,Redemption,Mikael's Crucible,Aegis of the Legion,Ionian Boots of Lucidity,Control Ward,31725,6357,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Allorim,Poppy,False,Side.blue,3,1,4,7.0,230,Flash,Teleport,15,False,10369,9475,Ninja Tabi,Sunfire Cape,Spectre's Cowl,Corrupting Potion,Iceborn Gauntlet,Giant's Belt,42879,86633,Lane.top_lane,Role.solo
+1,Yusui,Lee Sin,False,Side.blue,10,4,7,4.25,98,Smite,Flash,14,True,10442,10025,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Control Ward,The Black Cleaver,Dead Man's Plate,16551,71193,Lane.jungle,Role.none
+2,C9 Sneaky,Ashe,False,Side.blue,6,9,8,1.5555555555555556,174,Flash,Heal,14,False,10537,9500,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Control Ward,Infinity Edge,Zeal,2334,93890,Lane.bot_lane,Role.carry
+3,Stiches,Twisted Fate,False,Side.blue,0,10,14,1.4,14,Exhaust,Flash,12,False,7435,6850,Talisman of Ascension,Ruby Sightstone,Glacial Shroud,Control Ward,Boots of Mobility,Sapphire Crystal,16213,4962,Lane.bot_lane,Role.support
+4,Link,Kassadin,False,Side.blue,3,6,10,2.1666666666666665,174,Flash,Teleport,15,False,9778,9700,Lich Bane,Rod of Ages,Needlessly Large Rod,Sorcerer's Shoes,Null-Magic Mantle,The Dark Seal,67263,30247,Lane.mid_lane,Role.solo
+5,Makavéli,Graves,True,Side.red,12,6,3,2.5,183,Smite,Flash,16,False,15000,13275,Enchantment: Warrior,Mercurial Scimitar,Control Ward,Phantom Dancer,The Black Cleaver,Berserker's Greaves,6843,202798,Lane.jungle,Role.none
+6,Pekin Woof,LeBlanc,True,Side.red,8,6,4,2.0,177,Flash,Teleport,15,False,12741,11850,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,Abyssal Scepter,Morellonomicon,Doran's Ring,98754,12601,Lane.mid_lane,Role.solo
+7,konkwon,Lulu,True,Side.red,3,2,14,8.5,19,Flash,Ignite,13,False,10317,9050,,Boots of Swiftness,Ardent Censer,Eye of the Watchers,Control Ward,Mikael's Crucible,10678,5889,Lane.bot_lane,Role.support
+8,Renger cat,Sivir,True,Side.red,6,6,8,2.3333333333333335,257,Heal,Flash,16,False,14638,14975,Essence Reaver,Rapid Firecannon,Infinity Edge,Berserker's Greaves,Lord Dominik's Regards,,5095,178623,Lane.bot_lane,Role.carry
+9,BoxerPete,Tryndamere,True,Side.red,1,2,4,2.5,246,Ignite,Flash,16,False,12125,11000,,Ravenous Hydra,Caulfield's Warhammer,Statikk Shiv,Berserker's Greaves,Phantom Dancer,37929,125550,Lane.top_lane,Role.solo

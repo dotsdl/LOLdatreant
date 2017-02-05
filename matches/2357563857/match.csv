@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ERE56R,Twitch,False,Side.blue,2,5,4,1.2,114,Flash,Heal,11,False,7116,5875,Pickaxe,Doran's Blade,Runaan's Hurricane,Dagger,Berserker's Greaves,Dagger,431,54667,Lane.bot_lane,Role.carry
+1,RNG Mlxgod,Kha'Zix,False,Side.blue,6,6,3,1.5,83,Smite,Flash,12,False,8109,7800,Pickaxe,Tiamat,Poacher's Dirk,Enchantment: Warrior,Mercury's Treads,Caulfield's Warhammer,3354,76830,Lane.jungle,Role.none
+2,Ouchxiao,Fiora,False,Side.blue,4,9,1,0.5555555555555556,139,Flash,Teleport,12,False,7498,7450,Corrupting Potion,Ninja Tabi,Ravenous Hydra,Phage,Caulfield's Warhammer,,1698,79303,Lane.top_lane,Role.solo
+3,A Cute Momo,Sona,False,Side.blue,1,4,4,1.25,20,Exhaust,Flash,9,False,5577,5025,Sightstone,Control Ward,Boots of Swiftness,Forbidden Idol,Frostfang,Fiendish Codex,8775,2617,Lane.bot_lane,Role.support
+4,suga heibai,Xerath,False,Side.blue,2,5,2,0.8,158,Flash,Ghost,12,False,7361,7225,Doran's Ring,Total Biscuit of Rejuvenation,Morellonomicon,Boots of Speed,Luden's Echo,,75295,8353,Lane.mid_lane,Role.solo
+5,Atif,Lee Sin,True,Side.red,6,3,9,5.0,89,Flash,Smite,13,False,9616,8025,Ninja Tabi,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Aegis of the Legion,,15301,70545,Lane.jungle,Role.none
+6,Sìyou,Lulu,True,Side.red,5,4,10,3.75,12,Flash,Ignite,12,True,8612,8110,Frost Queen's Claim,Ruby Sightstone,Redemption,Amplifying Tome,The Dark Seal,Ionian Boots of Lucidity,9404,6415,Lane.bot_lane,Role.support
+7,adc feng lft,Lucian,True,Side.red,6,4,8,3.5,188,Heal,Flash,13,False,12009,11600,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,Brawler's Gloves,Runaan's Hurricane,Doran's Blade,5653,125560,Lane.bot_lane,Role.carry
+8,TwistyJuker,Viktor,True,Side.red,5,0,4,9.0,178,Flash,Ghost,14,False,10558,8750,Refillable Potion,Lich Bane,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Perfect Hex Core,94269,16542,Lane.mid_lane,Role.solo
+9,ToxicGreenie QwQ,Poppy,True,Side.red,7,4,6,3.25,140,Teleport,Flash,14,False,10208,8275,Sunfire Cape,Corrupting Potion,,Iceborn Gauntlet,Boots of Swiftness,Ruby Crystal,31821,57440,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,II Support II,Alistar,False,Side.blue,0,4,2,0.5,16,Flash,Exhaust,6,False,5479,2050,Targon's Brace,Boots of Speed,Ruby Crystal,Control Ward,,,2397,2471,Lane.bot_lane,Role.support
+1,BjergsFatTaint,Fizz,False,Side.blue,6,7,3,1.2857142857142858,146,Flash,Ignite,14,False,9211,8610,Corrupting Potion,Abyssal Scepter,Doran's Ring,Lich Bane,Sorcerer's Shoes,Amplifying Tome,62351,20297,Lane.mid_lane,Role.solo
+2,Susuki,Jinx,False,Side.blue,2,3,7,3.0,171,Heal,Flash,14,False,9116,8225,Doran's Blade,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,,5212,87432,Lane.bot_lane,Role.carry
+3,always plan ahea,Sion,False,Side.blue,8,8,5,1.625,216,Flash,Ignite,15,False,11582,10850,Titanic Hydra,Ionian Boots of Lucidity,Sterak's Gage,Frozen Mallet,,,20613,122467,Lane.top_lane,Role.solo
+4,vancouver cC,Shyvana,False,Side.blue,4,8,9,1.625,112,Smite,Flash,13,False,9390,7985,Refillable Potion,Enchantment: Bloodrazor,The Black Cleaver,Control Ward,Boots of Swiftness,Giant's Belt,50394,48225,Lane.jungle,Role.none
+5,Livingdoom,Zac,True,Side.red,6,4,10,4.0,58,Smite,Flash,13,True,9705,7300,Refillable Potion,,Ninja Tabi,Spirit Visage,Enchantment: Cinderhulk,Ruby Crystal,41470,10967,Lane.jungle,Role.none
+6,RienQueDuParfait,Caitlyn,True,Side.red,10,4,8,4.5,209,Flash,Heal,14,False,15204,15475,The Bloodthirster,Infinity Edge,Pickaxe,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,2969,190813,Lane.bot_lane,Role.carry
+7,iHDK,Ryze,True,Side.red,4,4,11,3.75,183,Ghost,Flash,15,False,11207,8620,Seraph's Embrace,Refillable Potion,Rod of Ages,Negatron Cloak,Fiendish Codex,Ionian Boots of Lucidity,126405,13235,Lane.mid_lane,Role.solo
+8,EzPzCarryz,Kennen,True,Side.red,10,5,6,3.2,147,Teleport,Flash,15,False,11848,11585,Hextech Protobelt-01,Zhonya's Hourglass,Doran's Blade,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,69494,30586,Lane.top_lane,Role.solo
+9,noff,Karma,True,Side.red,0,3,17,5.666666666666667,23,Exhaust,Flash,13,False,9055,7750,Eye of the Watchers,Boots of Swiftness,Control Ward,Redemption,Aegis of the Legion,Null-Magic Mantle,18265,10578,Lane.bot_lane,Role.support

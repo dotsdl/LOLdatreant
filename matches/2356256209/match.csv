@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kebin M,Riven,True,Side.blue,1,0,3,4.0,158,Flash,Teleport,13,False,7971,6975,Refillable Potion,,,,The Black Cleaver,Death's Dance,1383,84258,Lane.top_lane,Role.solo
+1,churros,Blitzcrank,True,Side.blue,0,1,8,8.0,19,Flash,Exhaust,9,False,5665,4275,,Ruby Sightstone,Ruby Crystal,Targon's Brace,Boots of Mobility,,6664,5772,Lane.bot_lane,Role.support
+2,Lucyfer,Twitch,True,Side.blue,7,1,2,9.0,143,Heal,Flash,11,False,8593,6575,Refillable Potion,B. F. Sword,Pickaxe,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,0,51767,Lane.bot_lane,Role.carry
+3,Part The Sea,Yasuo,True,Side.blue,6,4,4,2.5,126,Flash,Exhaust,12,True,8355,5900,Refillable Potion,Pickaxe,B. F. Sword,Phantom Dancer,Doran's Blade,Boots of Speed,16714,52296,Lane.mid_lane,Role.solo
+4,SaintKilianv2,Ekko,True,Side.blue,3,0,6,9.0,112,Smite,Flash,13,False,8439,5650,Refillable Potion,Enchantment: Runic Echoes,Ninja Tabi,Sheen,The Dark Seal,Cloth Armor,74300,36000,Lane.jungle,Role.none
+5,Stumpey,Fiora,False,Side.red,2,1,0,2.0,123,Flash,Teleport,11,False,6258,5375,The Black Cleaver,Refillable Potion,Cull,Ninja Tabi,Doran's Blade,,718,40942,Lane.top_lane,Role.solo
+6,Destinedwithin,Hecarim,False,Side.red,2,2,2,2.0,65,Ghost,Smite,10,False,5946,5675,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Sheen,Ruby Crystal,Long Sword,13618,47512,Lane.jungle,Role.none
+7,Final Hour Vayne,Ezreal,False,Side.red,0,4,1,0.25,135,Heal,Flash,10,False,5975,5700,Doran's Blade,Sapphire Crystal,Sheen,Manamune,Ionian Boots of Lucidity,Cloth Armor,8241,49115,Lane.bot_lane,Role.carry
+8,Ace of Playz,Bard,False,Side.red,0,3,1,0.3333333333333333,15,Exhaust,Flash,9,False,4544,3800,Ruby Sightstone,Boots of Swiftness,Control Ward,Frostfang,,,6648,3117,Lane.bot_lane,Role.support
+9,OpenBackpack,Ahri,False,Side.red,2,7,3,0.7142857142857143,117,Flash,Ignite,11,False,6723,5635,Morellonomicon,Amplifying Tome,Health Potion,Doran's Ring,Sorcerer's Shoes,Cloth Armor,30538,9120,Lane.mid_lane,Role.solo

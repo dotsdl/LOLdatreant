@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwitchTV LOLFILL,Azir,False,Side.blue,1,7,1,0.2857142857142857,159,Heal,Flash,13,False,8431,8100,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,,Nashor's Tooth,,74428,10406,Lane.mid_lane,Role.solo
+1,Hard On Donger,Yasuo,False,Side.blue,6,6,3,1.5,215,Flash,Teleport,16,False,11261,10875,Doran's Blade,Infinity Edge,Phantom Dancer,Giant's Belt,Ninja Tabi,Jaurim's Fist,30285,109355,Lane.top_lane,Role.solo
+2,Daarr,Vayne,False,Side.blue,5,8,4,1.125,206,Flash,Heal,14,False,10502,9550,Doran's Blade,Infinity Edge,Berserker's Greaves,B. F. Sword,Statikk Shiv,Long Sword,36899,83119,Lane.bot_lane,Role.carry
+3,CloudNguyén,Bard,False,Side.blue,6,6,6,2.0,16,Ignite,Flash,12,False,8349,7000,Eye of the Watchers,Redemption,Control Ward,Boots of Mobility,Glacial Shroud,Cloth Armor,18347,6151,Lane.bot_lane,Role.support
+4,moon o,Rengar,False,Side.blue,10,5,7,3.4,156,Smite,Flash,15,False,12326,10925,Youmuu's Ghostblade,Refillable Potion,Edge of Night,Ionian Boots of Lucidity,Enchantment: Warrior,Serrated Dirk,14365,136014,Lane.jungle,Role.none
+5,Stiches,Twitch,True,Side.red,17,10,5,2.2,147,Heal,Flash,15,False,13465,13275,Infinity Edge,Statikk Shiv,Serrated Dirk,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,17672,91883,Lane.bot_lane,Role.carry
+6,Link,Warwick,True,Side.red,7,4,9,4.0,123,Flash,Smite,15,False,11515,10675,Dagger,Blade of the Ruined King,Frozen Heart,Null-Magic Mantle,Enchantment: Bloodrazor,Boots of Swiftness,28339,92699,Lane.jungle,Role.none
+7,Liquid Painless,Nami,True,Side.red,1,3,16,5.666666666666667,14,Flash,Exhaust,13,False,8641,7700,Forbidden Idol,Eye of the Watchers,Crystalline Bracer,Ionian Boots of Lucidity,Control Ward,Locket of the Iron Solari,5916,4785,Lane.bot_lane,Role.support
+8,konkwon,Lulu,True,Side.red,4,3,14,6.0,128,Flash,Teleport,15,False,10319,8685,Doran's Ring,Athene's Unholy Grail,Luden's Echo,Ionian Boots of Lucidity,Needlessly Large Rod,Amplifying Tome,60375,17509,Lane.mid_lane,Role.solo
+9,Deft Pawn,Jayce,True,Side.red,3,8,5,1.0,220,Teleport,Flash,16,True,11438,10800,Death's Dance,The Black Cleaver,Last Whisper,Ninja Tabi,Doran's Blade,,22167,119754,Lane.top_lane,Role.solo

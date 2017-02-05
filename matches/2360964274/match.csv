@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UchihaScar,Twisted Fate,True,Side.blue,7,5,7,2.8,243,Flash,Ghost,16,False,15259,12100,Doran's Ring,Lich Bane,Rabadon's Deathcap,Sorcerer's Shoes,Luden's Echo,,180931,18034,Lane.mid_lane,Role.solo
+1,I Shadow I,Fiora,True,Side.blue,4,5,4,1.6,211,Flash,Teleport,15,False,12268,9775,Doran's Blade,Ravenous Hydra,Maw of Malmortius,Mercury's Treads,,Caulfield's Warhammer,1374,141647,Lane.top_lane,Role.solo
+2,Ånkh,Soraka,True,Side.blue,0,2,10,5.0,12,Flash,Exhaust,12,False,9336,7350,Redemption,Eye of the Oasis,,Null-Magic Mantle,Aegis of the Legion,Boots of Mobility,12241,5255,Lane.bot_lane,Role.support
+3,Kritsu,Vayne,True,Side.blue,4,1,1,5.0,266,Heal,Flash,15,False,13631,11050,,Berserker's Greaves,Phantom Dancer,Statikk Shiv,Infinity Edge,Doran's Blade,43979,128119,Lane.bot_lane,Role.carry
+4,Ken Shifu,Zac,True,Side.blue,5,4,8,3.25,97,Smite,Flash,14,False,11159,9675,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ionian Boots of Lucidity,Dead Man's Plate,,76619,19238,Lane.jungle,Role.none
+5,Wo Xihuan Hanguo,Janna,False,Side.red,2,3,3,1.6666666666666667,9,Flash,Exhaust,11,False,7629,6975,Talisman of Ascension,Ruby Sightstone,Forbidden Idol,Crystalline Bracer,Boots of Mobility,,5020,4687,Lane.bot_lane,Role.support
+6,Voids,Ezreal,False,Side.red,0,3,4,1.3333333333333333,197,Heal,Flash,13,False,9372,8675,Bilgewater Cutlass,Muramana,Iceborn Gauntlet,Boots of Speed,Doran's Blade,Recurve Bow,21854,87013,Lane.bot_lane,Role.carry
+7,And Ju1y,Nidalee,False,Side.red,6,5,2,1.6,144,Smite,Flash,14,False,10690,9900,Enchantment: Runic Echoes,Hunter's Potion,Lich Bane,Rod of Ages,,Ionian Boots of Lucidity,117040,19890,Lane.jungle,Role.none
+8,DrChang,Nautilus,False,Side.red,5,5,1,1.2,198,Flash,Teleport,15,False,10588,9125,Sunfire Cape,Corrupting Potion,Mercury's Treads,Abyssal Scepter,Chain Vest,Giant's Belt,98156,30006,Lane.top_lane,Role.solo
+9,bingsuu,Azir,False,Side.red,4,4,5,2.25,229,Exhaust,Flash,15,True,11638,11350,Rylai's Crystal Scepter,Nashor's Tooth,Sorcerer's Shoes,Void Staff,Fiendish Codex,,137526,9351,Lane.mid_lane,Role.solo

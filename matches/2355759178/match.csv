@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Féarless,Kha'Zix,False,Side.blue,8,10,5,1.3,132,Smite,Flash,14,False,11320,9800,Mercury's Treads,Hunter's Potion,Hexdrinker,Enchantment: Warrior,Ravenous Hydra,,5431,124942,Lane.jungle,Role.none
+1,MrStingYoGirl,Viktor,False,Side.blue,7,7,6,1.8571428571428572,209,Barrier,Flash,15,True,11911,12135,Perfect Hex Core,Blasting Wand,Ionian Boots of Lucidity,Rod of Ages,Luden's Echo,Amplifying Tome,119998,13016,Lane.mid_lane,Role.solo
+2,Lose is improve,Talon,False,Side.blue,2,7,4,0.8571428571428571,210,Teleport,Flash,14,False,10819,10650,Duskblade of Draktharr,Youmuu's Ghostblade,The Black Cleaver,Ionian Boots of Lucidity,,,1878,132035,Lane.top_lane,Role.solo
+3,CHATSPAMKAPPA123,Vayne,False,Side.blue,7,5,4,2.2,196,Heal,Flash,15,False,11784,11010,Doran's Blade,Statikk Shiv,Berserker's Greaves,Lord Dominik's Regards,Infinity Edge,Dagger,20960,85895,Lane.bot_lane,Role.carry
+4,Pink Ward,Shaco,False,Side.blue,3,8,10,1.625,51,Exhaust,Ignite,13,False,8955,8510,Redemption,Luden's Echo,Sightstone,Ionian Boots of Lucidity,Targon's Brace,Amplifying Tome,28328,8278,Lane.bot_lane,Role.support
+5,HoNSol0,Maokai,True,Side.red,5,2,7,6.0,278,Flash,Teleport,18,False,14159,11425,Doran's Ring,Mercury's Treads,Randuin's Omen,Iceborn Gauntlet,Spectre's Cowl,Sunfire Cape,140909,39607,Lane.top_lane,Role.solo
+6,BabièThug,Ahri,True,Side.red,5,8,9,1.75,195,Flash,Ignite,16,False,12187,9650,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,72266,17085,Lane.mid_lane,Role.solo
+7,i miss you haru,Tahm Kench,True,Side.red,5,7,15,2.857142857142857,48,Flash,Ignite,14,False,10551,8900,Face of the Mountain,Knight's Vow,Boots of Swiftness,Ruby Sightstone,Control Ward,Null-Magic Mantle,9137,10930,Lane.bot_lane,Role.support
+8,Cat Ears,Jinx,True,Side.red,7,5,8,3.0,259,Flash,Heal,15,False,14069,11450,Rapid Firecannon,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,Vampiric Scepter,1830,181343,Lane.bot_lane,Role.carry
+9,Prestivent,Lee Sin,True,Side.red,15,5,14,5.8,156,Flash,Smite,17,False,15403,13775,Dead Man's Plate,Tiamat,Ninja Tabi,Maw of Malmortius,Guardian Angel,Enchantment: Warrior,28921,137640,Lane.jungle,Role.none

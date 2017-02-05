@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Lucian,False,Side.blue,1,0,0,1.0,16,Flash,Heal,2,True,1342,500,Doran's Blade,,,,,,0,4051,Lane.bot_lane,Role.duo
+1,hashinshin,Yorick,False,Side.blue,0,0,0,0.0,0,Flash,Teleport,1,False,643,0,,,,,,,0,0,Lane.mid_lane,Role.none
+2,Cat Ears,Morgana,False,Side.blue,0,0,1,1.0,0,Flash,Exhaust,2,False,889,500,Spellthief's Edge,,Total Biscuit of Rejuvenation,,,,624,377,Lane.bot_lane,Role.duo
+3,Rapidx,Cassiopeia,False,Side.blue,1,0,0,1.0,16,Flash,Ghost,3,False,1271,500,Doran's Ring,,,,,,2595,1049,Lane.mid_lane,Role.none
+4,Štarboy,Ivern,False,Side.blue,0,0,0,0.0,0,Smite,Flash,1,False,643,0,,,,,,,0,0,Lane.mid_lane,Role.none
+5,eThug,Zac,True,Side.red,0,0,0,0.0,11,Flash,Smite,3,False,1041,500,Hunter's Talisman,Refillable Potion,,,,,5797,2654,Lane.jungle,Role.none
+6,jacksparrow111,Jayce,True,Side.red,0,0,0,0.0,18,Flash,Teleport,3,False,1004,500,Doran's Blade,Health Potion,,,,,0,2469,Lane.top_lane,Role.solo
+7,Lose is improved,Karma,True,Side.red,0,0,0,0.0,4,Exhaust,Flash,2,False,787,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,883,925,Lane.bot_lane,Role.duo
+8,Wizzy,Kayle,True,Side.red,0,1,0,0.0,1,Heal,Flash,1,False,663,550,The Dark Seal,Total Biscuit of Rejuvenation,,,,,782,821,Lane.bot_lane,Role.duo
+9,jamican banana,Orianna,True,Side.red,0,1,0,0.0,5,Ghost,Flash,2,False,737,650,Doran's Ring,Refillable Potion,,,,,1635,784,Lane.mid_lane,Role.solo

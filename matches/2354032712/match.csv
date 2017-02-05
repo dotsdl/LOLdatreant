@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xTc4,Sona,True,Side.blue,5,4,16,5.25,28,Flash,Exhaust,14,False,10782,8960,Tear of the Goddess,Zhonya's Hourglass,Eye of the Watchers,Amplifying Tome,Sorcerer's Shoes,Hextech Revolver,31000,9932,Lane.bot_lane,Role.support
+1,TwTv Kinoscorpia,Jhin,True,Side.blue,7,4,14,5.25,166,Heal,Flash,14,False,12338,10750,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Speed,Infinity Edge,,7660,111375,Lane.bot_lane,Role.carry
+2,Allorim,Maokai,True,Side.blue,4,2,16,10.0,193,Flash,Teleport,16,True,12268,10500,Sunfire Cape,The Dark Seal,Frozen Heart,,Spirit Visage,Ninja Tabi,109661,18358,Lane.top_lane,Role.solo
+3,CloudNguyén,Lee Sin,True,Side.blue,9,4,11,5.0,144,Smite,Flash,16,False,13980,12625,Enchantment: Warrior,Tiamat,Chain Vest,Maw of Malmortius,Boots of Swiftness,Dead Man's Plate,24563,137351,Lane.jungle,Role.none
+4,Témpest,Yasuo,True,Side.blue,13,1,8,21.0,235,Flash,Exhaust,16,False,15104,12875,Mercury's Treads,Infinity Edge,Phantom Dancer,Doran's Blade,Frozen Mallet,Vampiric Scepter,24668,158058,Lane.mid_lane,Role.solo
+5,C9 Meteos,Ryze,False,Side.red,2,8,2,0.5,173,Exhaust,Flash,14,False,9507,9100,Seraph's Embrace,Seeker's Armguard,Ionian Boots of Lucidity,Fiendish Codex,Rod of Ages,,109031,7017,Lane.mid_lane,Role.solo
+6,Doublelift,Lucian,False,Side.red,4,9,6,1.1111111111111112,214,Flash,Heal,14,False,11021,10725,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,Lord Dominik's Regards,,3752,126058,Lane.bot_lane,Role.carry
+7,One Called Saint,Shyvana,False,Side.red,6,6,2,1.3333333333333333,170,Flash,Smite,14,False,10775,10425,Titanic Hydra,Randuin's Omen,Ninja Tabi,Enchantment: Cinderhulk,,,79114,80910,Lane.jungle,Role.none
+8,Rositajonez,Janna,False,Side.red,1,8,8,1.125,14,Exhaust,Flash,12,False,7393,6650,Aegis of the Legion,Ruby Sightstone,Boots of Mobility,Redemption,Control Ward,Spellthief's Edge,4025,4761,Lane.bot_lane,Role.support
+9,Firé,Darius,False,Side.red,2,7,2,0.5714285714285714,220,Teleport,Flash,14,False,9740,9475,Randuin's Omen,Corrupting Potion,The Black Cleaver,Mercury's Treads,Chain Vest,Giant's Belt,292,122456,Lane.top_lane,Role.solo

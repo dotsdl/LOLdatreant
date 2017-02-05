@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ApoIlo Price,Caitlyn,False,Side.blue,6,9,12,2.0,237,Flash,Heal,15,False,13075,11775,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Phantom Dancer,B. F. Sword,662,182765,Lane.bot_lane,Role.carry
+1,Deft Pawn,Poppy,False,Side.blue,6,6,7,2.1666666666666665,181,Teleport,Flash,15,False,11125,11150,Iceborn Gauntlet,Sunfire Cape,Spirit Visage,Ninja Tabi,Giant's Belt,,34073,77150,Lane.top_lane,Role.solo
+2,Ntz dOdObee,Karma,False,Side.blue,8,9,9,1.8888888888888888,155,Ignite,Flash,15,False,11022,10075,Doran's Ring,Rabadon's Deathcap,Ardent Censer,Sorcerer's Shoes,Athene's Unholy Grail,,74860,14188,Lane.mid_lane,Role.solo
+3,Str1fe,Lee Sin,False,Side.blue,6,10,9,1.5,86,Flash,Smite,13,True,9867,9400,Ruby Crystal,Tiamat,Enchantment: Warrior,Boots of Mobility,Dead Man's Plate,Warden's Mail,13250,70906,Lane.jungle,Role.none
+4,cute pupper irl,Thresh,False,Side.blue,5,9,15,2.2222222222222223,25,Flash,Exhaust,12,False,8563,7725,Knight's Vow,Ruby Sightstone,Boots of Mobility,Targon's Brace,Control Ward,Warden's Mail,8111,4404,Lane.bot_lane,Role.support
+5,Dna shockwave,Syndra,True,Side.red,10,6,11,3.5,289,Ghost,Flash,17,False,16296,14800,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Void Staff,Sorcerer's Shoes,Rabadon's Deathcap,194139,14798,Lane.mid_lane,Role.solo
+6,dog2,Vayne,True,Side.red,2,7,16,2.5714285714285716,198,Flash,Heal,16,False,12551,11350,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,31873,106527,Lane.bot_lane,Role.carry
+7,Quaal,Lulu,True,Side.red,5,7,15,2.857142857142857,26,Flash,Ignite,14,False,11716,11075,Redemption,Hextech Protobelt-01,Locket of the Iron Solari,Eye of the Watchers,Boots of Mobility,Control Ward,28377,6744,Lane.bot_lane,Role.support
+8,ókay,Darius,True,Side.red,19,3,10,9.666666666666666,219,Teleport,Flash,18,False,17803,16150,Dead Man's Plate,Zz'Rot Portal,The Black Cleaver,Sterak's Gage,Spirit Visage,Boots of Swiftness,3489,161665,Lane.top_lane,Role.solo
+9,Huhi,Vi,True,Side.red,7,8,8,1.875,116,Flash,Smite,15,False,12592,11050,Titanic Hydra,,Ruby Crystal,The Black Cleaver,Enchantment: Warrior,Boots of Mobility,1196,137454,Lane.jungle,Role.none

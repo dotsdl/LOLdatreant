@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HanzoSanada,Lux,True,Side.blue,11,2,9,10.0,221,Ghost,Flash,18,False,16131,14379,Morellonomicon,Luden's Echo,Mejai's Soulstealer,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,152458,18947,Lane.mid_lane,Role.solo
+1,Carkyn,Kha'Zix,True,Side.blue,11,6,4,2.5,202,Flash,Smite,18,False,16250,16025,Youmuu's Ghostblade,Ionian Boots of Lucidity,Ravenous Hydra,Enchantment: Warrior,Duskblade of Draktharr,Lord Dominik's Regards,10621,224694,Lane.jungle,Role.none
+2,Philolol,Poppy,True,Side.blue,2,3,11,4.333333333333333,174,Teleport,Flash,17,False,12711,11395,Sunfire Cape,Iceborn Gauntlet,Randuin's Omen,Cloth Armor,Ninja Tabi,Negatron Cloak,37056,74220,Lane.top_lane,Role.solo
+3,Pumpfake,Brand,True,Side.blue,2,7,12,2.0,20,Ignite,Flash,14,False,11630,10450,Eye of the Watchers,Liandry's Torment,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,,46884,5395,Lane.bot_lane,Role.support
+4,Lesu,Ezreal,True,Side.blue,7,3,7,4.666666666666667,359,Heal,Flash,18,False,17981,14650,Guardian Angel,Muramana,Youmuu's Ghostblade,Ionian Boots of Lucidity,Lord Dominik's Regards,Iceborn Gauntlet,55248,225240,Lane.bot_lane,Role.carry
+5,Vathyrn,Fiora,False,Side.red,5,4,3,2.0,258,Flash,Teleport,16,True,13022,13025,The Black Cleaver,Death's Dance,Ravenous Hydra,Mercury's Treads,,Doran's Blade,1215,162244,Lane.top_lane,Role.solo
+6,Kyree,Ekko,False,Side.red,8,10,5,1.3,191,Flash,Ignite,17,False,12739,12150,Mercury's Treads,Zhonya's Hourglass,Hextech Gunblade,,,Lich Bane,117716,19511,Lane.mid_lane,Role.solo
+7,LearningToPIay,Graves,False,Side.red,4,11,7,1.0,243,Flash,Smite,16,False,13420,13250,Phantom Dancer,Death's Dance,Berserker's Greaves,Maw of Malmortius,Enchantment: Warrior,,8226,198047,Lane.jungle,Role.none
+8,KINKY LORD,Jhin,False,Side.red,2,5,7,1.8,289,Heal,Flash,15,False,13210,12500,Doran's Blade,Infinity Edge,Zeal,Essence Reaver,Rapid Firecannon,Boots of Swiftness,7721,195540,Lane.bot_lane,Role.carry
+9,Grande Donger,Taric,False,Side.red,2,3,11,4.333333333333333,55,Flash,Ignite,14,False,9958,9210,Eye of the Equinox,Locket of the Iron Solari,Redemption,Glacial Shroud,Ionian Boots of Lucidity,Amplifying Tome,16425,7399,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ityyy,Caitlyn,False,Side.blue,2,6,1,0.5,91,Flash,Heal,9,False,5244,4850,Doran's Blade,Zeal,,Cull,B. F. Sword,Berserker's Greaves,545,39305,Lane.bot_lane,Role.carry
+1,Pro Dwarf Female,Miss Fortune,False,Side.blue,1,8,4,0.625,9,Flash,Ignite,7,False,4905,4075,Refillable Potion,Eye of the Watchers,Boots of Swiftness,Tear of the Goddess,,,6436,6088,Lane.bot_lane,Role.support
+2,rekaf nesgrejb,Lissandra,False,Side.blue,0,6,2,0.3333333333333333,89,Flash,Ignite,9,False,4655,4625,,Rod of Ages,Control Ward,Doran's Ring,Boots of Speed,,28688,7446,Lane.mid_lane,Role.solo
+3,Dregin001,Rammus,False,Side.blue,3,4,2,1.25,48,Smite,Ghost,8,False,4718,4450,Enchantment: Cinderhulk,Boots of Mobility,Cloth Armor,Control Ward,Ruby Crystal,,14451,16214,Lane.jungle,Role.none
+4,Ikzencriel,Jax,False,Side.blue,1,4,1,0.5,60,Teleport,Flash,8,False,4410,3450,Corrupting Potion,Doran's Blade,Control Ward,Phage,Stinger,,5182,16730,Lane.top_lane,Role.solo
+5,Alestz,Jhin,True,Side.red,5,2,4,4.5,107,Heal,Flash,9,False,7293,6000,Total Biscuit of Rejuvenation,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Zeal,Dagger,855,62860,Lane.bot_lane,Role.carry
+6,UselessNihilist,Thresh,True,Side.red,2,1,10,12.0,7,Ignite,Flash,9,False,6169,3050,,Sightstone,,,Nomad's Medallion,Ionian Boots of Lucidity,8532,5472,Lane.bot_lane,Role.support
+7,all i want,Elise,True,Side.red,9,2,8,8.5,73,Flash,Smite,11,True,9202,8000,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,Rylai's Crystal Scepter,Hextech Revolver,,61171,22886,Lane.jungle,Role.none
+8,Machai,Jayce,True,Side.red,8,1,8,16.0,117,Cleanse,Flash,12,False,9279,7800,Maw of Malmortius,Refillable Potion,,Doran's Blade,Duskblade of Draktharr,Boots of Speed,8491,70884,Lane.mid_lane,Role.solo
+9,ily and ily,Riven,True,Side.red,3,1,3,6.0,145,Flash,Teleport,11,False,7819,5400,Doran's Blade,Mercury's Treads,Refillable Potion,Long Sword,The Black Cleaver,,0,72652,Lane.top_lane,Role.solo

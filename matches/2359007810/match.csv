@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Salcuz,Lissandra,False,Side.blue,10,8,4,1.75,203,Teleport,Flash,15,True,12121,11975,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Zhonya's Hourglass,,,149249,9368,Lane.top_lane,Role.solo
+1,Cellius,Ashe,False,Side.blue,0,8,5,0.625,237,Flash,Heal,14,False,11053,9650,Berserker's Greaves,Doran's Blade,Essence Reaver,Cull,Runaan's Hurricane,B. F. Sword,2919,143458,Lane.bot_lane,Role.carry
+2,i love aileen,Vel'Koz,False,Side.blue,10,12,3,1.0833333333333333,153,Ghost,Flash,15,False,10880,10200,Doran's Ring,Morellonomicon,Luden's Echo,Fiendish Codex,Sorcerer's Shoes,Seeker's Armguard,82455,10616,Lane.mid_lane,Role.solo
+3,Aileen Choi,Sona,False,Side.blue,3,6,6,1.5,20,Ignite,Flash,12,False,8506,8100,Frost Queen's Claim,Ruby Sightstone,Mikael's Crucible,Sorcerer's Shoes,Control Ward,Sapphire Crystal,16306,5835,Lane.bot_lane,Role.support
+4,Dropzz,Lee Sin,False,Side.blue,5,7,6,1.5714285714285714,105,Flash,Smite,14,False,9338,9425,Ninja Tabi,Hunter's Potion,Enchantment: Warrior,Spectre's Cowl,Dead Man's Plate,Null-Magic Mantle,16047,67493,Lane.jungle,Role.none
+5,LazyJohn41,Nami,True,Side.red,3,2,18,10.5,7,Flash,Exhaust,14,False,10286,8000,Boots of Mobility,Mikael's Crucible,Locket of the Iron Solari,Eye of the Watchers,,,6109,3440,Lane.bot_lane,Role.support
+6,Duvlex,Vi,True,Side.red,15,4,7,5.5,164,Flash,Smite,17,False,16141,14083,Enchantment: Warrior,Dead Man's Plate,Guardian Angel,Trinity Force,Hexdrinker,Boots of Swiftness,4000,180561,Lane.jungle,Role.none
+7,Bronze Slayer,Xerath,True,Side.red,7,7,7,2.0,155,Flash,Heal,15,False,12261,11925,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,The Dark Seal,Luden's Echo,88993,7741,Lane.mid_lane,Role.solo
+8,Zemenar90,Singed,True,Side.red,7,8,7,1.75,235,Teleport,Ghost,16,False,13785,12600,Zz'Rot Portal,Rylai's Crystal Scepter,Righteous Glory,Mercury's Treads,Haunting Guise,Control Ward,136376,6749,Lane.top_lane,Role.solo
+9,Gaymer,Caitlyn,True,Side.red,9,7,11,2.857142857142857,196,Heal,Flash,15,False,14370,11750,Quicksilver Sash,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,4773,160680,Lane.bot_lane,Role.carry

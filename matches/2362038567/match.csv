@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Quest and K0,Braum,False,Side.blue,0,7,5,0.7142857142857143,25,Flash,Exhaust,10,False,5885,5450,Face of the Mountain,Sightstone,Boots of Speed,Crystalline Bracer,Crystalline Bracer,Cloth Armor,8027,3900,Lane.bot_lane,Role.support
+1,er ber ter,Lucian,False,Side.blue,1,7,1,0.2857142857142857,201,Heal,Flash,12,False,8568,7950,Doran's Blade,Infinity Edge,Statikk Shiv,Refillable Potion,Berserker's Greaves,,5855,93485,Lane.bot_lane,Role.carry
+2,PainCR,Shyvana,False,Side.blue,3,9,0,0.3333333333333333,122,Ghost,Smite,12,False,8296,7150,Enchantment: Bloodrazor,Spirit Visage,Refillable Potion,Ruby Crystal,Mercury's Treads,,59781,49410,Lane.jungle,Role.none
+3,Goophed,Twisted Fate,False,Side.blue,2,7,2,0.5714285714285714,108,Ghost,Flash,12,False,7543,6900,Doran's Ring,Sorcerer's Shoes,Lich Bane,Aether Wisp,Needlessly Large Rod,,66073,8222,Lane.mid_lane,Role.solo
+4,Scene,Poppy,False,Side.blue,3,8,1,0.5,161,Teleport,Flash,13,False,8204,7750,Corrupting Potion,Sunfire Cape,Ninja Tabi,Spirit Visage,Cloth Armor,,21180,56116,Lane.top_lane,Role.solo
+5,Netherlands,Janna,True,Side.red,2,1,23,25.0,8,Exhaust,Flash,13,False,7944,7075,Aegis of the Legion,Null-Magic Mantle,Ruby Sightstone,Redemption,Spellthief's Edge,Boots of Mobility,5037,4955,Lane.bot_lane,Role.support
+6,Lanc3r S3npai,Quinn,True,Side.red,13,2,9,11.0,133,Teleport,Flash,14,True,11239,9525,Quicksilver Sash,Vampiric Scepter,The Black Cleaver,Boots of Swiftness,Rapid Firecannon,Doran's Blade,3715,84331,Lane.top_lane,Role.solo
+7,Figurato,Zilean,True,Side.red,3,4,14,4.25,141,Flash,Ghost,14,False,9018,8285,Blasting Wand,Amplifying Tome,Ionian Boots of Lucidity,Rod of Ages,Doran's Ring,Morellonomicon,72365,10691,Lane.mid_lane,Role.solo
+8,Nexevis,Evelynn,True,Side.red,12,1,18,30.0,94,Smite,Ignite,14,False,11491,10700,Hunter's Potion,Hextech Protobelt-01,Rylai's Crystal Scepter,Boots of Mobility,Enchantment: Runic Echoes,Giant's Belt,74775,35122,Lane.jungle,Role.none
+9,Kammgefahr,Jhin,True,Side.red,8,1,12,20.0,218,Heal,Flash,14,False,11666,10505,,Ionian Boots of Lucidity,Essence Reaver,Statikk Shiv,Lord Dominik's Regards,Doran's Blade,10519,126663,Lane.bot_lane,Role.carry

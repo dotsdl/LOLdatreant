@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Destructorro,Jhin,False,Side.blue,7,10,10,1.7,171,Flash,Heal,14,True,11927,11225,Youmuu's Ghostblade,Rapid Firecannon,Infinity Edge,Boots of Swiftness,Doran's Blade,Null-Magic Mantle,5729,112229,Lane.bot_lane,Role.carry
+1,Galletota,LeBlanc,False,Side.blue,3,11,6,0.8181818181818182,159,Ignite,Flash,15,False,10464,10025,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,Blasting Wand,86439,10708,Lane.mid_lane,Role.solo
+2,ONLYPLAYKALISTA,Olaf,False,Side.blue,5,9,13,2.0,116,Smite,Ghost,15,False,11170,10450,Aegis of the Legion,Enchantment: Cinderhulk,Spirit Visage,Guardian Angel,Ruby Crystal,Ionian Boots of Lucidity,17678,85399,Lane.jungle,Role.none
+3,Kaiceytron,Zyra,False,Side.blue,14,10,10,2.4,81,Ignite,Flash,15,False,13097,10810,Amplifying Tome,Frostfang,Needlessly Large Rod,Luden's Echo,Liandry's Torment,Sorcerer's Shoes,84592,9777,Lane.bot_lane,Role.support
+4,eRx,Renekton,False,Side.blue,8,6,3,1.8333333333333333,185,Ignite,Flash,15,False,11565,11225,Titanic Hydra,Spirit Visage,The Black Cleaver,Ninja Tabi,,Doran's Shield,4282,103902,Lane.top_lane,Role.solo
+5,ToxicDrag,Gnar,True,Side.red,2,7,9,1.5714285714285714,144,Teleport,Flash,15,False,10608,10550,Frozen Mallet,Mercury's Treads,The Black Cleaver,Spectre's Cowl,Null-Magic Mantle,,8567,85701,Lane.top_lane,Role.solo
+6,Gayzuo,Kha'Zix,True,Side.red,10,6,5,2.5,148,Smite,Flash,15,False,12941,12450,Tiamat,Edge of Night,Youmuu's Ghostblade,Mercury's Treads,Enchantment: Warrior,B. F. Sword,3997,156122,Lane.jungle,Role.none
+7,goompa,Caitlyn,True,Side.red,7,8,12,2.375,202,Heal,Flash,16,False,13471,12270,Berserker's Greaves,Doran's Blade,Zeal,Infinity Edge,Runaan's Hurricane,Mortal Reminder,1276,154005,Lane.bot_lane,Role.carry
+8,J D,Ahri,True,Side.red,13,6,8,3.5,224,Ignite,Flash,17,False,14864,14900,Needlessly Large Rod,Void Staff,Rylai's Crystal Scepter,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,99207,16818,Lane.mid_lane,Role.solo
+9,BaconSeeker,Brand,True,Side.red,14,10,12,2.6,36,Ignite,Flash,15,False,13257,11425,Rylai's Crystal Scepter,Eye of the Watchers,Sorcerer's Shoes,Liandry's Torment,Fiendish Codex,Control Ward,52932,4847,Lane.bot_lane,Role.support

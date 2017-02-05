@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cute pupper irl,Jinx,True,Side.blue,3,8,9,1.5,106,Flash,Heal,12,False,8305,6925,Doran's Blade,Berserker's Greaves,Doran's Blade,Pickaxe,B. F. Sword,Runaan's Hurricane,604,62739,Lane.bot_lane,Role.carry
+1,Hi Im A Sheep,Bard,True,Side.blue,1,6,14,2.5,10,Flash,Exhaust,10,False,6951,6325,Eye of the Watchers,Redemption,Total Biscuit of Rejuvenation,,Null-Magic Mantle,Boots of Mobility,5886,3218,Lane.bot_lane,Role.support
+2,Dyrus,Darius,True,Side.blue,8,1,6,14.0,176,Teleport,Flash,14,False,11063,10000,Locket of the Iron Solari,Corrupting Potion,Cloth Armor,Spirit Visage,The Black Cleaver,Mercury's Treads,234,98805,Lane.top_lane,Role.solo
+3,WildTurtle,Hecarim,True,Side.blue,7,4,10,4.25,121,Ghost,Smite,14,False,10289,9108,Enchantment: Cinderhulk,Mercury's Treads,Trinity Force,Giant's Belt,Cloth Armor,,16080,104362,Lane.jungle,Role.none
+4,qldurtms,Syndra,True,Side.blue,8,4,8,4.0,174,Flash,Ghost,13,False,11001,9385,Blasting Wand,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,107655,10159,Lane.jungle,Role.none
+5,PSYCHOPATH909,Nunu,False,Side.red,1,10,1,0.2,83,Flash,Ignite,10,True,6364,5335,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,,30156,10301,Lane.mid_lane,Role.solo
+6,An Obese Panda,Elise,False,Side.red,10,5,6,3.2,61,Smite,Flash,11,False,9259,9060,Rylai's Crystal Scepter,Amplifying Tome,Boots of Mobility,Hextech Revolver,Enchantment: Runic Echoes,Ruby Crystal,63802,19278,Lane.jungle,Role.none
+7,The Tank Man,Maokai,False,Side.red,3,4,5,2.0,108,Flash,Teleport,11,False,7527,7200,Doran's Ring,Doran's Ring,Boots of Speed,Dead Man's Plate,Cloth Armor,Spirit Visage,44547,9762,Lane.top_lane,Role.solo
+8,Liquid fabbbyyy,Vayne,False,Side.red,6,3,8,4.666666666666667,206,Flash,Heal,12,False,10827,10175,Statikk Shiv,Hexdrinker,Infinity Edge,Doran's Blade,Berserker's Greaves,Vampiric Scepter,25827,87135,Lane.bot_lane,Role.carry
+9,C9 Smoothie,Leona,False,Side.red,3,5,14,3.4,22,Flash,Exhaust,10,False,7520,7150,Control Ward,Ruby Sightstone,Locket of the Iron Solari,Targon's Brace,Kindlegem,Boots of Mobility,7548,8594,Lane.bot_lane,Role.support

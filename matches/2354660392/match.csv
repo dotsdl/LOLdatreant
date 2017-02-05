@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jinasia,Yasuo,False,Side.blue,5,8,1,0.75,218,Flash,Ignite,14,True,11194,11000,Infinity Edge,Doran's Blade,Statikk Shiv,Phantom Dancer,Berserker's Greaves,,37790,96337,Lane.mid_lane,Role.solo
+1,Enthusiastic Nut,Thresh,False,Side.blue,3,6,6,1.5,72,Exhaust,Flash,13,False,8611,8050,Face of the Mountain,Sightstone,Knight's Vow,Boots of Swiftness,Glacial Shroud,Control Ward,28047,7693,Lane.bot_lane,Role.duo
+2,Archmagnis,Lee Sin,False,Side.blue,4,7,3,1.0,105,Flash,Smite,13,False,9780,8775,Enchantment: Warrior,The Black Cleaver,Ninja Tabi,Refillable Potion,Chain Vest,Giant's Belt,18050,106649,Lane.jungle,Role.none
+3,SouIero,Vladimir,False,Side.blue,4,3,2,2.0,187,Ghost,Teleport,15,False,9819,9025,Hextech Protobelt-01,Zhonya's Hourglass,Kindlegem,Doran's Shield,Spectre's Cowl,Ionian Boots of Lucidity,93781,10243,Lane.top_lane,Role.solo
+4,The Teds,Vayne,False,Side.blue,4,9,6,1.1111111111111112,177,Heal,Flash,14,False,10626,10500,Quicksilver Sash,Infinity Edge,Statikk Shiv,Berserker's Greaves,Doran's Blade,Zeal,36769,83849,Lane.bot_lane,Role.duo
+5,Hi Im Stewie,Morgana,True,Side.red,1,3,25,8.666666666666666,17,Flash,Ignite,14,False,10529,9400,Sightstone,Frost Queen's Claim,Redemption,Zhonya's Hourglass,Boots of Mobility,,28801,6018,Lane.bot_lane,Role.support
+6,Javage,Lucian,True,Side.red,10,4,11,5.25,210,Heal,Flash,15,False,13737,12250,Infinity Edge,Essence Reaver,Phantom Dancer,Berserker's Greaves,Vampiric Scepter,,3187,161663,Lane.bot_lane,Role.carry
+7,Blunt Smoker,Renekton,True,Side.red,3,4,2,1.25,227,Ignite,Flash,16,False,10993,10200,Titanic Hydra,Null-Magic Mantle,Cloth Armor,Hexdrinker,Ninja Tabi,The Black Cleaver,3839,142743,Lane.top_lane,Role.solo
+8,Jurassiq,Kha'Zix,True,Side.red,14,6,9,3.8333333333333335,144,Flash,Smite,16,False,14456,13350,Youmuu's Ghostblade,Enchantment: Warrior,Duskblade of Draktharr,Ninja Tabi,Edge of Night,,4968,139711,Lane.jungle,Role.none
+9,Lycheeeeeeee,Lux,True,Side.red,5,4,11,4.0,134,Exhaust,Flash,15,False,10860,8925,Needlessly Large Rod,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Morellonomicon,,81898,11060,Lane.mid_lane,Role.solo

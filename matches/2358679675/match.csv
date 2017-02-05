@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hxc wizard,Ryze,False,Side.blue,10,4,2,3.0,221,Ghost,Flash,15,False,12332,12075,Seraph's Embrace,Needlessly Large Rod,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Refillable Potion,129202,9566,Lane.top_lane,Role.solo
+1,lnfallible,Karma,False,Side.blue,1,10,3,0.4,24,Exhaust,Flash,10,False,6655,6150,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Null-Magic Mantle,,,14571,2141,Lane.bot_lane,Role.support
+2,Patented Jax ,Nautilus,False,Side.blue,1,4,9,2.5,103,Smite,Flash,12,False,8125,7650,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Randuin's Omen,Kindlegem,,45712,25623,Lane.jungle,Role.none
+3,hi im NoahSenpai,Twitch,False,Side.blue,2,6,2,0.6666666666666666,180,Heal,Flash,13,False,9035,8400,Doran's Blade,Refillable Potion,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,,0,70253,Lane.bot_lane,Role.carry
+4,Rekyn,Kog'Maw,False,Side.blue,3,8,4,0.875,161,Flash,Ghost,14,False,8955,8250,Rylai's Crystal Scepter,Luden's Echo,Boots of Speed,Doran's Ring,Tear of the Goddess,,91339,12385,Lane.mid_lane,Role.solo
+5,Incite,Lee Sin,True,Side.red,3,2,11,7.0,127,Smite,Flash,15,False,10979,8945,Enchantment: Warrior,Mercury's Treads,Refillable Potion,Hexdrinker,Dead Man's Plate,Negatron Cloak,19448,103036,Lane.jungle,Role.none
+6,ttv MelynMeron,Zyra,True,Side.red,9,3,11,6.666666666666667,64,Flash,Ignite,13,True,12034,10650,Liandry's Torment,Fiendish Codex,Sorcerer's Shoes,Control Ward,Eye of the Watchers,Void Staff,60908,8072,Lane.bot_lane,Role.support
+7,PRoHAppyCAmper,Xerath,True,Side.red,7,5,7,2.8,174,Cleanse,Flash,15,False,11765,9235,Amplifying Tome,Blasting Wand,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Sorcerer's Shoes,107523,9334,Lane.mid_lane,Role.solo
+8,8el skeleto8,Gangplank,True,Side.red,3,6,5,1.3333333333333333,164,Flash,Teleport,14,False,11119,8908,Trinity Force,Refillable Potion,Infinity Edge,Null-Magic Mantle,Ionian Boots of Lucidity,,3132,132008,Lane.top_lane,Role.solo
+9,KaNKl,Vayne,True,Side.red,10,1,10,20.0,228,Heal,Flash,15,False,15180,12350,Infinity Edge,Doran's Blade,Mercurial Scimitar,Kircheis Shard,Berserker's Greaves,Statikk Shiv,25731,153187,Lane.bot_lane,Role.carry

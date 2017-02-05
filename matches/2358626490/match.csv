@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,Poppy,True,Side.blue,6,3,11,5.666666666666667,150,Flash,Teleport,14,False,10817,9550,Corrupting Potion,Sunfire Cape,Randuin's Omen,Ninja Tabi,Kindlegem,Spectre's Cowl,34572,66313,Lane.top_lane,Role.solo
+1,WildTurtle,Ezreal,True,Side.blue,9,1,10,19.0,216,Flash,Heal,14,True,12869,11458,Blade of the Ruined King,Control Ward,Muramana,Trinity Force,Doran's Blade,Ionian Boots of Lucidity,13940,124367,Lane.bot_lane,Role.carry
+2,qldurtms,Lux,True,Side.blue,4,2,7,5.5,169,Flash,Ghost,13,False,10469,10100,Blasting Wand,Doran's Ring,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,91616,15691,Lane.mid_lane,Role.solo
+3,Dardøch,Lee Sin,True,Side.blue,8,4,11,4.75,109,Smite,Flash,13,False,10837,9600,Hexdrinker,Ninja Tabi,Enchantment: Warrior,Dead Man's Plate,Giant's Belt,Cloth Armor,14499,87144,Lane.jungle,Role.none
+4,MyTimeIsNow,Janna,True,Side.blue,4,3,16,6.666666666666667,19,Exhaust,Flash,12,False,9359,8775,Talisman of Ascension,Redemption,Sightstone,Boots of Mobility,Locket of the Iron Solari,,7903,5168,Lane.bot_lane,Role.support
+5,Falco Mechanic,Vayne,False,Side.red,2,7,0,0.2857142857142857,179,Exhaust,Flash,12,False,8869,8350,Doran's Blade,Berserker's Greaves,Infinity Edge,Long Sword,Phantom Dancer,,0,90780,Lane.bot_lane,Role.carry
+6,ShörterACE,Zac,False,Side.red,1,5,5,1.2,120,Flash,Smite,13,False,8411,8535,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ninja Tabi,Ruby Crystal,Aegis of the Legion,93190,17907,Lane.jungle,Role.none
+7,Scherb,Zyra,False,Side.red,0,8,4,0.5,24,Flash,Heal,10,False,7033,6150,Frostfang,Sorcerer's Shoes,Sightstone,Haunting Guise,Blasting Wand,,20450,4994,Lane.bot_lane,Role.support
+8,Dhokla,Jayce,False,Side.red,5,6,4,1.5,169,Flash,Teleport,14,False,10013,9575,Mercury's Treads,Refillable Potion,The Black Cleaver,Pickaxe,The Bloodthirster,Doran's Blade,18295,88840,Lane.top_lane,Role.solo
+9,Anivia Kid,Kassadin,False,Side.red,4,5,2,1.2,158,Flash,Ignite,13,False,8887,8435,Ionian Boots of Lucidity,Rod of Ages,Zhonya's Hourglass,Blasting Wand,Corrupting Potion,Amplifying Tome,57819,15534,Lane.mid_lane,Role.solo

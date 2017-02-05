@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xDD,Zac,True,Side.blue,4,1,11,15.0,121,Flash,Smite,12,False,8098,7475,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Spirit Visage,Warden's Mail,,78121,16826,Lane.jungle,Role.none
+1,I Starboy l,Quinn,True,Side.blue,8,1,4,12.0,125,Exhaust,Flash,12,False,8158,5675,Doran's Blade,Doran's Blade,Refillable Potion,Edge of Night,Serrated Dirk,Boots of Speed,1569,67890,Lane.top_lane,Role.solo
+2,PhD Wumbologist,Vayne,True,Side.blue,2,2,6,4.0,125,Flash,Heal,10,False,7042,6550,Statikk Shiv,Doran's Blade,B. F. Sword,Pickaxe,Berserker's Greaves,,1045,52373,Lane.bot_lane,Role.carry
+3,dadams,Taliyah,True,Side.blue,10,4,4,3.5,152,Flash,Ghost,13,True,9589,7875,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,Doran's Ring,,,83941,5899,Lane.mid_lane,Role.solo
+4,grnlefboy,Janna,True,Side.blue,2,2,13,7.5,10,Flash,Exhaust,10,False,6322,6125,Redemption,Total Biscuit of Rejuvenation,Eye of the Oasis,Boots of Speed,Control Ward,Aegis of the Legion,5222,6084,Lane.bot_lane,Role.support
+5,Cat Person,Soraka,False,Side.red,0,6,6,1.0,3,Flash,Heal,9,False,5430,5250,Redemption,Sightstone,,Frostfang,Ionian Boots of Lucidity,,4713,2255,Lane.bot_lane,Role.support
+6,Falco Mechanic,Jinx,False,Side.red,2,8,1,0.375,135,Exhaust,Flash,9,False,6835,6375,Doran's Blade,Doran's Blade,Berserker's Greaves,Pickaxe,Runaan's Hurricane,Cloak of Agility,300,73346,Lane.bot_lane,Role.carry
+7,ZeroBlaze,Cassiopeia,False,Side.red,3,5,1,0.8,149,Flash,Ghost,12,False,7391,6950,Doran's Ring,Doran's Ring,Tear of the Goddess,Morellonomicon,Needlessly Large Rod,Giant's Belt,63847,5941,Lane.mid_lane,Role.solo
+8,Walljumper,Sejuani,False,Side.red,1,4,3,1.0,95,Smite,Flash,11,False,6554,5875,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,Spirit Visage,,,50507,24821,Lane.jungle,Role.none
+9,HannibaI Barca,Teemo,False,Side.red,4,3,1,1.6666666666666667,119,Ignite,Flash,11,False,7601,6550,Hextech Gunblade,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Dagger,Fiendish Codex,38947,18356,Lane.top_lane,Role.solo

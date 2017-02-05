@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,singed420,Singed,True,Side.blue,5,10,6,1.1,216,Ghost,Barrier,15,False,11594,10350,Mercury's Treads,Corrupting Potion,Rylai's Crystal Scepter,Thornmail,Liandry's Torment,,129600,6518,Lane.top_lane,Role.solo
+1,Wizzy,Karma,True,Side.blue,7,3,26,11.0,34,Ignite,Flash,14,False,12105,11275,Spirit Visage,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,Warmog's Armor,,28975,9021,Lane.bot_lane,Role.support
+2,Dhokla,Jayce,True,Side.blue,13,8,12,3.125,169,Flash,Heal,14,False,13459,11350,Doran's Blade,Refillable Potion,The Black Cleaver,Mercury's Treads,The Bloodthirster,Mortal Reminder,15045,108165,Lane.bot_lane,Role.carry
+3,T L F ,Nautilus,True,Side.blue,12,3,20,10.666666666666666,94,Smite,Flash,14,False,12395,11475,Locket of the Iron Solari,Refillable Potion,Randuin's Omen,Boots of Mobility,Iceborn Gauntlet,Enchantment: Cinderhulk,64473,37203,Lane.jungle,Role.none
+4,SoloMeatballOnly,Ahri,True,Side.blue,7,2,17,12.0,165,Ignite,Flash,15,False,11994,11425,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,Luden's Echo,Blasting Wand,62688,17967,Lane.mid_lane,Role.solo
+5,Fire Editorial,Caitlyn,False,Side.red,2,10,8,1.0,134,Flash,Heal,12,False,8692,8250,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,,1182,68561,Lane.bot_lane,Role.carry
+6,DZG Doomtrobo,Ekko,False,Side.red,8,8,2,1.25,156,Teleport,Flash,13,True,9651,7600,Hextech Protobelt-01,Corrupting Potion,Abyssal Scepter,Mercury's Treads,The Dark Seal,Doran's Ring,85691,17099,Lane.top_lane,Role.solo
+7,nilhaG,Shyvana,False,Side.red,5,11,9,1.2727272727272727,103,Ghost,Smite,14,False,9668,8850,Blade of the Ruined King,Refillable Potion,Mercury's Treads,Enchantment: Bloodrazor,Aegis of the Legion,Ruby Crystal,55710,50324,Lane.jungle,Role.none
+8,Prideful King,Katarina,False,Side.red,7,7,2,1.2857142857142858,158,Flash,Ignite,14,False,9475,8250,The Dark Seal,Refillable Potion,Hextech Gunblade,Sorcerer's Shoes,,Abyssal Scepter,95372,7816,Lane.mid_lane,Role.solo
+9,Xinthus,Leona,False,Side.red,3,8,8,1.375,24,Ignite,Flash,11,False,7397,6750,Eye of the Equinox,Knight's Vow,Total Biscuit of Rejuvenation,Mercury's Treads,Control Ward,,6528,5798,Lane.bot_lane,Role.support

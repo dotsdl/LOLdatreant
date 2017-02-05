@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iaMsaraK,Hecarim,True,Side.blue,7,6,14,3.5,164,Ghost,Smite,17,False,14882,13083,Enchantment: Cinderhulk,Randuin's Omen,Spectre's Cowl,Ninja Tabi,Trinity Force,Kindlegem,28809,144803,Lane.jungle,Role.none
+1,Kebin M,Karma,True,Side.blue,1,3,17,6.0,32,Flash,Exhaust,15,False,11745,10350,Mikael's Crucible,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Ardent Censer,Cloth Armor,28633,4405,Lane.bot_lane,Role.support
+2,rqspaceinvad,Sivir,True,Side.blue,6,7,13,2.7142857142857144,279,Flash,Heal,17,False,15607,15225,Berserker's Greaves,The Bloodthirster,Essence Reaver,Infinity Edge,Phantom Dancer,,220,197970,Lane.bot_lane,Role.carry
+3,foggedftw2,Tryndamere,True,Side.blue,14,6,1,2.5,346,Ignite,Flash,18,False,19616,17800,Infinity Edge,Blade of the Ruined King,Statikk Shiv,Phantom Dancer,Ionian Boots of Lucidity,The Black Cleaver,77045,228723,Lane.top_lane,Role.solo
+4,Sebi,Ryze,True,Side.blue,7,5,9,3.2,245,Flash,Ghost,17,True,15347,13860,Seraph's Embrace,Zhonya's Hourglass,Rod of Ages,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,210710,11673,Lane.mid_lane,Role.solo
+5,Nexevis,Ahri,False,Side.red,12,6,8,3.3333333333333335,239,Flash,Teleport,17,False,15645,14785,Morellonomicon,Zhonya's Hourglass,Rylai's Crystal Scepter,Luden's Echo,Sorcerer's Shoes,Amplifying Tome,110843,14036,Lane.mid_lane,Role.solo
+6,Kammgefahr,Vayne,False,Side.red,5,6,9,2.3333333333333335,206,Heal,Flash,16,False,13266,13250,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Long Sword,Berserker's Greaves,Last Whisper,45397,86345,Lane.bot_lane,Role.carry
+7,Nykolas,Nami,False,Side.red,0,8,13,1.625,6,Exhaust,Flash,14,False,9775,8050,Control Ward,Redemption,Eye of the Watchers,Zeke's Harbinger,Boots of Mobility,,6950,4329,Lane.bot_lane,Role.support
+8,7788 ADC,Jayce,False,Side.red,1,8,10,1.375,216,Teleport,Flash,16,False,12217,11950,The Bloodthirster,The Black Cleaver,Sterak's Gage,Ninja Tabi,Chain Vest,,19173,119573,Lane.top_lane,Role.solo
+9,retarded virgin,Graves,False,Side.red,9,7,6,2.142857142857143,213,Flash,Smite,17,False,16129,14610,Berserker's Greaves,Phantom Dancer,The Black Cleaver,Maw of Malmortius,Enchantment: Warrior,Vampiric Scepter,4846,232985,Lane.jungle,Role.none

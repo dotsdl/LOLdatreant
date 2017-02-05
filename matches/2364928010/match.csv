@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Give MiD,Viktor,False,Side.blue,0,5,6,1.2,167,Ghost,Flash,12,False,6962,6150,Perfect Hex Core,Giant's Belt,,Doran's Ring,Doran's Ring,Sorcerer's Shoes,79948,8823,Lane.mid_lane,Role.solo
+1,Barclay snoopy,Jinx,False,Side.blue,3,6,1,0.6666666666666666,111,Heal,Flash,10,False,6512,6175,Doran's Blade,Vampiric Scepter,Pickaxe,B. F. Sword,Berserker's Greaves,Giant's Belt,139,52348,Lane.bot_lane,Role.carry
+2,2hing,Thresh,False,Side.blue,0,5,5,1.0,19,Exhaust,Flash,8,False,4525,4400,Face of the Mountain,Boots of Mobility,,Sightstone,,,3202,2903,Lane.bot_lane,Role.support
+3,Barclay Kaina,Lee Sin,False,Side.blue,3,6,3,1.0,70,Flash,Smite,10,False,6254,5550,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Giant's Belt,Chain Vest,,8126,47006,Lane.jungle,Role.none
+4,Thinkful,Quinn,False,Side.blue,4,8,4,1.0,85,Teleport,Flash,10,False,6327,4975,,Youmuu's Ghostblade,,Doran's Blade,Doran's Blade,Boots of Swiftness,1045,40000,Lane.top_lane,Role.solo
+5,Sike,Jhin,True,Side.red,7,2,4,5.5,136,Flash,Heal,11,False,8887,7950,Doran's Blade,Essence Reaver,B. F. Sword,Boots of Swiftness,Zeal,Dagger,2606,70581,Lane.bot_lane,Role.carry
+6,Lord luck,Karma,True,Side.red,2,0,13,15.0,12,Flash,Exhaust,10,False,6802,5850,Spellthief's Edge,Control Ward,Redemption,Ruby Sightstone,Boots of Mobility,,9837,3687,Lane.bot_lane,Role.support
+7,TouchMeGabe,Yorick,True,Side.red,10,3,6,5.333333333333333,108,Flash,Teleport,13,True,10273,8908,Trinity Force,Titanic Hydra,Mercury's Treads,,,Corrupting Potion,13370,69175,Lane.top_lane,Role.solo
+8,IQ is 201 ,Ahri,True,Side.red,8,1,10,18.0,164,Flash,Ignite,13,False,10255,9050,Ruby Crystal,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Needlessly Large Rod,50829,12544,Lane.mid_lane,Role.solo
+9,Mckenize,Vi,True,Side.red,3,4,11,3.5,96,Smite,Flash,12,False,8582,8483,Trinity Force,Enchantment: Warrior,Control Ward,Ninja Tabi,Cloth Armor,Cloth Armor,1676,92970,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ayo Its Jango,Zac,True,Side.blue,4,2,16,10.0,115,Smite,Flash,15,False,11671,10050,Randuin's Omen,Refillable Potion,Giant's Belt,Enchantment: Cinderhulk,Guardian Angel,Ionian Boots of Lucidity,92345,24015,Lane.jungle,Role.none
+1,Mashiro l Shiina,Thresh,True,Side.blue,2,3,11,4.333333333333333,29,Exhaust,Flash,13,True,9931,9475,Boots of Mobility,Sightstone,Talisman of Ascension,Cloth Armor,Redemption,Locket of the Iron Solari,9598,5444,Lane.bot_lane,Role.support
+2,Permanent LovE,Jhin,True,Side.blue,6,5,7,2.6,246,Flash,Heal,14,False,13690,12900,Doran's Blade,Essence Reaver,Rapid Firecannon,Duskblade of Draktharr,Ionian Boots of Lucidity,B. F. Sword,18913,156920,Lane.bot_lane,Role.carry
+3,KayBee,LeBlanc,True,Side.blue,7,1,6,13.0,228,Ignite,Flash,16,False,13206,12545,Rylai's Crystal Scepter,Void Staff,Morellonomicon,Negatron Cloak,Sorcerer's Shoes,Needlessly Large Rod,125460,17675,Lane.mid_lane,Role.solo
+4,Wingsofdeathx,Jax,True,Side.blue,10,4,2,3.0,239,Ignite,Flash,17,False,13982,13158,Hextech Gunblade,Corrupting Potion,Trinity Force,Doran's Shield,Frozen Mallet,Ninja Tabi,39551,112422,Lane.top_lane,Role.solo
+5,Nwok,Alistar,False,Side.red,1,5,9,2.0,25,Flash,Exhaust,13,False,8005,7100,Relic Shield,Ruby Sightstone,Redemption,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,11434,5331,Lane.bot_lane,Role.support
+6,Leshaunda,Jayce,False,Side.red,4,6,2,1.0,193,Teleport,Flash,14,False,10344,9075,The Black Cleaver,Ninja Tabi,Maw of Malmortius,,Pickaxe,Doran's Blade,17757,91083,Lane.top_lane,Role.solo
+7,colourkevin,Cassiopeia,False,Side.red,1,5,5,1.2,187,Ghost,Flash,14,False,9961,8925,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,Tear of the Goddess,Needlessly Large Rod,Control Ward,82872,9709,Lane.mid_lane,Role.solo
+8,jamican banana,Graves,False,Side.red,5,5,4,1.8,214,Smite,Flash,16,False,12402,11750,Berserker's Greaves,Enchantment: Warrior,Phantom Dancer,Maw of Malmortius,Vampiric Scepter,Caulfield's Warhammer,4078,174726,Lane.jungle,Role.none
+9,Gorhunter,Draven,False,Side.red,4,8,5,1.125,229,Heal,Flash,14,False,12757,12700,,Mercurial Scimitar,Berserker's Greaves,Essence Reaver,Infinity Edge,,0,156433,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l Spawn l,Lee Sin,False,Side.blue,3,7,11,2.0,81,Flash,Smite,13,False,8425,8050,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,,Mercury's Treads,Spectre's Cowl,16252,64678,Lane.jungle,Role.none
+1,Projekt Yasuo,Jhin,False,Side.blue,3,4,11,3.5,154,Flash,Heal,13,False,9275,8125,Boots of Swiftness,Essence Reaver,B. F. Sword,Zeal,Dagger,Doran's Blade,8453,83596,Lane.bot_lane,Role.carry
+2,Tobias Fate,Gangplank,False,Side.blue,9,6,3,2.0,181,Flash,Exhaust,14,False,11562,10533,Doran's Ring,Trinity Force,Doran's Ring,Infinity Edge,Ionian Boots of Lucidity,Zeal,12658,119488,Lane.top_lane,Role.solo
+3,TwitchChunkylol,Brand,False,Side.blue,2,6,8,1.6666666666666667,167,Ghost,Flash,14,False,8940,8375,Doran's Ring,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,66487,9748,Lane.mid_lane,Role.solo
+4,Annie Bot,Annie,False,Side.blue,9,7,7,2.2857142857142856,54,Ignite,Flash,13,True,10033,8835,Frost Queen's Claim,Blasting Wand,Sightstone,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Amplifying Tome,39667,3882,Lane.bot_lane,Role.support
+5,Sheiden,Amumu,True,Side.red,4,3,9,4.333333333333333,181,Smite,Flash,15,False,12351,9150,Enchantment: Cinderhulk,Hunter's Potion,Ninja Tabi,Abyssal Scepter,Glacial Shroud,Sheen,122318,24802,Lane.jungle,Role.none
+6,o Cero o,Blitzcrank,True,Side.red,3,8,10,1.625,24,Flash,Ignite,12,False,9704,7075,Eye of the Oasis,Cloth Armor,Redemption,Boots of Mobility,Aegis of the Legion,Control Ward,14277,6224,Lane.bot_lane,Role.support
+7,Dhokla,Jayce,True,Side.red,7,2,4,5.5,269,Flash,Teleport,16,False,14965,13975,Youmuu's Ghostblade,The Black Cleaver,Boots of Swiftness,Pickaxe,The Bloodthirster,Hexdrinker,19117,154037,Lane.top_lane,Role.solo
+8,Nedo,Ryze,True,Side.red,6,5,6,2.4,170,Cleanse,Flash,14,False,11649,11650,Control Ward,Rabadon's Deathcap,Seraph's Embrace,Rod of Ages,Ionian Boots of Lucidity,Blasting Wand,111025,12849,Lane.jungle,Role.none
+9,05 07 2009,Varus,True,Side.red,10,8,10,2.5,178,Heal,Flash,15,False,13571,10650,Doran's Blade,Quicksilver Sash,B. F. Sword,Berserker's Greaves,Rapid Firecannon,Essence Reaver,13450,116740,Lane.bot_lane,Role.carry

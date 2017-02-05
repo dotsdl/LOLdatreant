@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,6 Inches Deep,Yasuo,False,Side.blue,2,5,2,0.8,215,Flash,Exhaust,15,False,10509,10500,Infinity Edge,Phantom Dancer,Berserker's Greaves,Vampiric Scepter,Long Sword,B. F. Sword,24180,108655,Lane.mid_lane,Role.carry
+1,LeapGod,Rengar,False,Side.blue,2,2,1,1.5,150,Flash,Smite,15,False,10761,10625,The Black Cleaver,Dead Man's Plate,Enchantment: Warrior,Mercury's Treads,Ruby Crystal,Long Sword,17651,138007,Lane.mid_lane,Role.support
+2,support or troll,Karma,False,Side.blue,0,4,1,0.25,219,Ghost,Flash,15,False,9910,8985,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,Luden's Echo,,Abyssal Scepter,102408,29058,Lane.jungle,Role.none
+3,IB1eedOrange11,Lulu,True,Side.red,2,1,8,10.0,180,Heal,Flash,16,True,10193,9150,Doran's Ring,Crystalline Bracer,Ardent Censer,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,75713,19747,Lane.bot_lane,Role.solo
+4,IGotBardsInATL,Caitlyn,True,Side.red,8,2,3,5.5,351,Smite,Flash,17,False,16779,14425,Last Whisper,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,Enchantment: Warrior,10384,265569,Lane.mid_lane,Role.solo
+5,TacoTank3000,Braum,True,Side.red,1,1,9,10.0,48,Flash,Exhaust,14,False,7080,6300,Face of the Mountain,Ninja Tabi,Doran's Shield,Locket of the Iron Solari,,,11078,15976,Lane.jungle,Role.none

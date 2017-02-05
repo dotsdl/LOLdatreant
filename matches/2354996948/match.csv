@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GKyrios,Rumble,True,Side.blue,3,2,2,2.5,95,Flash,Teleport,10,False,6151,6060,Doran's Shield,Zhonya's Hourglass,Control Ward,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,46238,7028,Lane.top_lane,Role.solo
+1,Wazabiee,LeBlanc,True,Side.blue,6,1,10,16.0,99,Ignite,Flash,10,True,7298,6725,Morellonomicon,Sorcerer's Shoes,The Dark Seal,Doran's Ring,Needlessly Large Rod,Doran's Ring,53274,9021,Lane.mid_lane,Role.solo
+2,BigChampBro,Janna,True,Side.blue,0,0,11,11.0,0,Exhaust,Flash,9,False,5500,3700,Boots of Mobility,Eye of the Oasis,The Dark Seal,Ruby Crystal,,,1746,6583,Lane.bot_lane,Role.support
+3,Final Moments,Caitlyn,True,Side.blue,6,2,6,6.0,112,Flash,Heal,9,False,7825,7900,Infinity Edge,Cull,Health Potion,Runaan's Hurricane,Boots of Speed,Dagger,85,63109,Lane.bot_lane,Role.carry
+4,xRamee,Lee Sin,True,Side.blue,6,1,5,11.0,61,Smite,Flash,10,False,7357,5925,Tiamat,Youmuu's Ghostblade,Control Ward,Boots of Speed,Pickaxe,Hunter's Machete,7595,53315,Lane.jungle,Role.none
+5,jakesafag,Hecarim,False,Side.red,2,5,0,0.4,61,Smite,Ghost,8,False,4773,4050,Skirmisher's Sabre,Refillable Potion,Boots of Speed,Sheen,Phage,Dagger,4031,32909,Lane.jungle,Role.none
+6,Kindredd,Olaf,False,Side.red,3,1,1,4.0,110,Ghost,Teleport,11,False,6171,5875,Corrupting Potion,Hexdrinker,The Black Cleaver,Ionian Boots of Lucidity,,,251,55411,Lane.top_lane,Role.solo
+7,Jhiń,Jhin,False,Side.red,1,5,1,0.4,71,Flash,Heal,7,False,4458,3250,Doran's Blade,Caulfield's Warhammer,B. F. Sword,Boots of Speed,,,2720,27744,Lane.bot_lane,Role.carry
+8,Cotopaco Parce,Corki,False,Side.red,0,6,0,0.0,58,Exhaust,Flash,7,False,3815,3175,Sheen,Phage,Corrupting Potion,Boots of Speed,,,18158,6143,Lane.mid_lane,Role.solo
+9,GunshyMonkey,Alistar,False,Side.red,0,4,0,0.0,13,Exhaust,Flash,7,False,3128,3750,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Boots of Speed,,,2275,2728,Lane.bot_lane,Role.support

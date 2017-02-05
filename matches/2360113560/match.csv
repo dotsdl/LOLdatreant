@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,O My Money,Karma,False,Side.blue,2,6,7,1.5,192,Barrier,Flash,14,False,9805,9200,Doran's Ring,Ionian Boots of Lucidity,Liandry's Torment,Athene's Unholy Grail,Ardent Censer,,82131,14617,Lane.bot_lane,Role.carry
+1,Keegun,Pantheon,False,Side.blue,4,6,8,2.0,65,Flash,Ignite,13,False,9296,9200,Youmuu's Ghostblade,Edge of Night,Sightstone,Boots of Mobility,Targon's Brace,Long Sword,2205,43233,Lane.bot_lane,Role.support
+2,Maxtrobo,Irelia,False,Side.blue,4,10,4,0.8,181,Flash,Teleport,14,False,9950,10133,Trinity Force,Blade of the Ruined King,Total Biscuit of Rejuvenation,Ninja Tabi,Spectre's Cowl,,1639,77140,Lane.top_lane,Role.solo
+3,Abou222,Ryze,False,Side.blue,6,3,9,5.0,214,Ghost,Flash,16,False,11833,11220,Seraph's Embrace,Rylai's Crystal Scepter,,Negatron Cloak,Mercury's Treads,Rod of Ages,135440,8744,Lane.mid_lane,Role.solo
+4,Rokí,Riven,False,Side.blue,8,8,5,1.625,161,Flash,Smite,15,False,11503,11075,Enchantment: Warrior,Death's Dance,Ravenous Hydra,Ionian Boots of Lucidity,Cloth Armor,,751,131669,Lane.jungle,Role.none
+5,FZ3R0,Hecarim,True,Side.red,6,5,15,4.2,165,Ghost,Smite,16,False,12818,11133,Enchantment: Cinderhulk,Hunter's Potion,Ruby Crystal,Ninja Tabi,Spirit Visage,Trinity Force,25541,149819,Lane.jungle,Role.none
+6,Doublelift,Thresh,True,Side.red,3,6,12,2.5,45,Flash,Exhaust,13,False,9097,7850,Face of the Mountain,Locket of the Iron Solari,Sightstone,Ionian Boots of Lucidity,Crystalline Bracer,Forbidden Idol,8255,6794,Lane.bot_lane,Role.support
+7,Rhux,LeBlanc,True,Side.red,8,4,7,3.75,178,Flash,Ignite,16,False,12989,11225,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Void Staff,108617,13862,Lane.mid_lane,Role.solo
+8,West Coast Carry,Jayce,True,Side.red,9,5,11,4.0,203,Flash,Teleport,16,False,13648,12700,Duskblade of Draktharr,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,Hexdrinker,Long Sword,17117,106176,Lane.top_lane,Role.solo
+9,Stiches,Vayne,True,Side.red,7,5,10,3.4,286,Heal,Flash,17,True,14477,14675,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Vampiric Scepter,Berserker's Greaves,B. F. Sword,39946,145041,Lane.bot_lane,Role.carry

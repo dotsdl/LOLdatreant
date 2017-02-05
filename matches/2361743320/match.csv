@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Štarboy,Caitlyn,True,Side.blue,6,5,20,5.2,159,Heal,Flash,15,False,13098,12125,Doran's Blade,Berserker's Greaves,Mercurial Scimitar,Cull,Infinity Edge,Runaan's Hurricane,885,123717,Lane.bot_lane,Role.duo
+1,Hyorimaru,Anivia,True,Side.blue,5,7,12,2.4285714285714284,114,Flash,Teleport,14,True,10110,9475,Doran's Ring,Tear of the Goddess,Zhonya's Hourglass,Locket of the Iron Solari,Boots of Mobility,Needlessly Large Rod,52916,5819,Lane.top_lane,Role.solo
+2,Pobelter,LeBlanc,True,Side.blue,17,4,12,7.25,183,Flash,Ignite,16,False,16071,13625,Rylai's Crystal Scepter,Zhonya's Hourglass,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Mejai's Soulstealer,118585,14744,Lane.mid_lane,Role.solo
+3,moon o,Olaf,True,Side.blue,11,2,12,11.5,131,Smite,Ghost,15,False,12462,11195,Enchantment: Cinderhulk,Frozen Heart,Chain Vest,Negatron Cloak,Ionian Boots of Lucidity,Dead Man's Plate,16281,100192,Lane.jungle,Role.none
+4,An Obese Panda,Nautilus,True,Side.blue,6,3,15,7.0,44,Flash,Exhaust,13,False,10155,14408,Trinity Force,Pickaxe,B. F. Sword,Boots of Mobility,Long Sword,,21360,9344,Lane.bot_lane,Role.duo
+5,ZatsMod,Syndra,False,Side.red,6,8,2,1.0,159,Flash,Ghost,12,False,9921,9760,Blasting Wand,Rylai's Crystal Scepter,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,98555,8537,Lane.mid_lane,Role.solo
+6,Xmithie,Lee Sin,False,Side.red,2,10,9,1.1,83,Smite,Flash,13,False,8896,8400,Locket of the Iron Solari,Control Ward,Refillable Potion,Enchantment: Warrior,Boots of Speed,Dead Man's Plate,12755,64885,Lane.jungle,Role.none
+7,PutYourHeartsUp,Nami,False,Side.red,1,8,10,1.375,9,Exhaust,Flash,11,False,8331,8100,,Control Ward,Eye of the Watchers,Ardent Censer,Athene's Unholy Grail,Boots of Swiftness,9251,4345,Lane.bot_lane,Role.support
+8,Abou222,Ezreal,False,Side.red,3,10,3,0.6,164,Ignite,Flash,12,False,9427,9233,Doran's Blade,Trinity Force,Hexdrinker,Manamune,Ionian Boots of Lucidity,Long Sword,14537,79715,Lane.bot_lane,Role.carry
+9,Yassuo,Yasuo,False,Side.red,9,9,5,1.5555555555555556,203,Flash,Teleport,15,False,12642,12200,Infinity Edge,The Bloodthirster,,Mercury's Treads,Phantom Dancer,Doran's Blade,28444,124744,Lane.top_lane,Role.solo

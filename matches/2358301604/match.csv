@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Who Fed Hec,Ziggs,True,Side.blue,4,0,10,14.0,123,Flash,Ghost,12,False,8920,8225,Doran's Ring,Doran's Ring,Rod of Ages,Sorcerer's Shoes,Luden's Echo,,66370,14101,Lane.top_lane,Role.solo
+1,herolineage,Twisted Fate,True,Side.blue,5,2,2,3.5,168,Flash,Ghost,12,False,9934,8750,Doran's Ring,Lich Bane,Luden's Echo,Ionian Boots of Lucidity,Blasting Wand,,91159,15679,Lane.mid_lane,Role.solo
+2,redditman69,Vi,True,Side.blue,6,3,5,3.6666666666666665,87,Flash,Smite,12,True,9048,9158,Enchantment: Warrior,Hunter's Potion,Ionian Boots of Lucidity,Trinity Force,Ruby Crystal,,1762,93827,Lane.jungle,Role.none
+3,imaqtvini,Vayne,True,Side.blue,8,3,3,3.6666666666666665,158,Flash,Heal,12,False,10712,10175,Dagger,Zeal,Infinity Edge,Statikk Shiv,Berserker's Greaves,Control Ward,3671,81701,Lane.bot_lane,Role.carry
+4,Digao BR,Bard,True,Side.blue,4,0,14,18.0,40,Flash,Ignite,12,False,8596,7875,Redemption,Sightstone,Spirit Visage,Spellthief's Edge,,Ionian Boots of Lucidity,20029,10631,Lane.bot_lane,Role.support
+5,Never Lukey,Brand,False,Side.red,0,6,3,0.5,75,Exhaust,Flash,11,False,5769,5245,Boots of Speed,Frost Queen's Claim,Haunting Guise,Amplifying Tome,Amplifying Tome,,33865,6491,Lane.bot_lane,Role.duo
+6,Grillsy,Darius,False,Side.red,0,4,0,0.0,120,Teleport,Ghost,10,False,5562,4770,Mercury's Treads,Corrupting Potion,Phage,Raptor Cloak,Negatron Cloak,,550,53593,Lane.top_lane,Role.solo
+7,Ohhhh My,Rek'Sai,False,Side.red,6,3,1,2.3333333333333335,119,Flash,Smite,12,False,8199,6425,Enchantment: Cinderhulk,Tiamat,Refillable Potion,Mercury's Treads,Ruby Crystal,Chain Vest,17560,65129,Lane.jungle,Role.none
+8,EmperorOfBronze,Heimerdinger,False,Side.red,2,5,5,1.4,108,Flash,Ignite,12,False,6424,5100,Rylai's Crystal Scepter,Doran's Ring,,Sorcerer's Shoes,,,49427,11545,Lane.mid_lane,Role.solo
+9,Oziemaster,Jhin,False,Side.red,0,16,1,0.0625,48,Heal,Flash,6,False,4412,3575,Doran's Blade,Pickaxe,Total Biscuit of Rejuvenation,B. F. Sword,Cloak of Agility,,1673,28883,Lane.bot_lane,Role.duo

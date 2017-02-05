@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Miss Fortune,False,Side.blue,4,8,2,0.75,120,Flash,Heal,11,False,7202,6850,Doran's Blade,Pickaxe,,B. F. Sword,The Black Cleaver,Boots of Swiftness,5908,57391,Lane.bot_lane,Role.none
+1,Aint Random,Poppy,False,Side.blue,1,4,2,0.75,136,Flash,Teleport,13,False,7052,6575,Sunfire Cape,Corrupting Potion,Ninja Tabi,Spectre's Cowl,Kindlegem,,17591,55347,Lane.top_lane,Role.solo
+2,Pooky Wan Kenobi,Janna,False,Side.blue,0,7,5,0.7142857142857143,14,Flash,Exhaust,10,False,5323,4475,Spellthief's Edge,Sightstone,Ionian Boots of Lucidity,,Redemption,,4439,4025,Lane.bot_lane,Role.none
+3,VeeIox,Cassiopeia,False,Side.blue,1,6,2,0.5,146,Ghost,Flash,12,False,7243,6925,Giant's Belt,Abyssal Scepter,Doran's Ring,Tear of the Goddess,Doran's Ring,Needlessly Large Rod,68245,11511,Lane.mid_lane,Role.solo
+4,retarded virgin,Graves,False,Side.blue,4,4,2,1.5,156,Flash,Smite,13,False,8412,8225,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,Dagger,Dagger,3749,118155,Lane.bot_lane,Role.none
+5,Jurassiq,Draven,True,Side.red,14,4,6,5.0,191,Flash,Heal,14,True,14958,11950,Berserker's Greaves,Doran's Blade,The Bloodthirster,Infinity Edge,Phantom Dancer,,2607,151007,Lane.bot_lane,Role.carry
+6,ZambonGG,Syndra,True,Side.red,6,2,7,6.5,181,Flash,Ghost,15,False,10631,8075,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,,,103556,15265,Lane.mid_lane,Role.solo
+7,Ari Kingu,Nami,True,Side.red,2,0,18,20.0,5,Exhaust,Flash,12,False,9008,6600,Eye of the Watchers,Glacial Shroud,Redemption,Boots of Mobility,,,7104,7630,Lane.bot_lane,Role.support
+8,WJNA,Jayce,True,Side.red,6,3,3,3.0,197,Flash,Teleport,14,False,11053,10025,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,B. F. Sword,Vampiric Scepter,Doran's Blade,21471,102092,Lane.top_lane,Role.solo
+9,Myloo,Zac,True,Side.red,1,1,6,7.0,107,Flash,Smite,13,False,9162,8800,Kindlegem,Randuin's Omen,Refillable Potion,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Spectre's Cowl,74155,24399,Lane.jungle,Role.none

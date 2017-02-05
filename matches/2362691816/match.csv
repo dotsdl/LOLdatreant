@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Im Jonny,Riven,True,Side.blue,7,4,5,3.0,180,Flash,Teleport,14,True,11184,11105,Ravenous Hydra,The Black Cleaver,,Ionian Boots of Lucidity,Serrated Dirk,Chain Vest,1223,110251,Lane.top_lane,Role.solo
+1,AsianGoneWild,Ryze,True,Side.blue,10,2,5,7.5,136,Ghost,Flash,14,False,10586,10400,Archangel's Staff,Refillable Potion,Morellonomicon,Ionian Boots of Lucidity,,Rylai's Crystal Scepter,81377,8901,Lane.mid_lane,Role.solo
+2,TEAMLUKEE,Twitch,True,Side.blue,9,1,8,17.0,120,Heal,Flash,12,False,10555,9405,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,Brawler's Gloves,1022,69018,Lane.bot_lane,Role.carry
+3,WatchThePower,Thresh,True,Side.blue,3,4,11,3.5,26,Flash,Exhaust,11,False,7220,6725,Relic Shield,Locket of the Iron Solari,Redemption,Boots of Mobility,Control Ward,Sightstone,11940,6435,Lane.bot_lane,Role.support
+4,Dyr0nejk2,Nocturne,True,Side.blue,7,4,4,2.75,139,Smite,Flash,13,False,10382,10343,Enchantment: Warrior,Trinity Force,Mercury's Treads,,Statikk Shiv,,12556,119067,Lane.jungle,Role.none
+5,Ifkinluvpeaches,Zac,False,Side.red,4,8,5,1.125,79,Smite,Flash,12,False,7028,5875,Enchantment: Runic Echoes,Refillable Potion,Ionian Boots of Lucidity,Bami's Cinder,Chain Vest,Cloth Armor,46314,11783,Lane.jungle,Role.none
+6,Empress Bee,Nami,False,Side.red,1,5,8,1.8,2,Exhaust,Flash,10,False,5588,4450,Frostfang,Boots of Mobility,Sightstone,Aegis of the Legion,Control Ward,Null-Magic Mantle,4832,2764,Lane.bot_lane,Role.support
+7,greenléaf,Varus,False,Side.red,2,7,6,1.1428571428571428,114,Heal,Flash,11,False,7126,7000,Doran's Blade,Essence Reaver,Boots of Speed,Cull,Zeal,Kircheis Shard,3802,54307,Lane.bot_lane,Role.carry
+8,Slightly Sexual,Fiora,False,Side.red,2,9,4,0.6666666666666666,120,Teleport,Ghost,12,False,6574,6375,Doran's Blade,Ravenous Hydra,Boots of Swiftness,Phage,,,1696,55973,Lane.top_lane,Role.solo
+9,celstin,Orianna,False,Side.red,6,7,4,1.4285714285714286,105,Flash,Ghost,12,False,7558,6975,Doran's Ring,Seeker's Armguard,Morellonomicon,Fiendish Codex,,Sorcerer's Shoes,52310,8667,Lane.mid_lane,Role.solo

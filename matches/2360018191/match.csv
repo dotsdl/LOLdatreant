@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,YummiBananas,Jax,True,Side.blue,6,3,5,3.6666666666666665,138,Smite,Ghost,15,False,11145,8808,Enchantment: Bloodrazor,Refillable Potion,,Jaurim's Fist,Trinity Force,Ninja Tabi,34393,116196,Lane.jungle,Role.none
+1,Témpest,Cassiopeia,True,Side.blue,8,3,15,7.666666666666667,141,Flash,Ghost,15,False,12173,9520,Rylai's Crystal Scepter,Fiendish Codex,Void Staff,Tear of the Goddess,Doran's Ring,Negatron Cloak,86064,11412,Lane.mid_lane,Role.solo
+2,im Dusk,Ashe,True,Side.blue,2,6,11,2.1666666666666665,148,Flash,Heal,13,False,9516,9250,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Runaan's Hurricane,,1082,78431,Lane.bot_lane,Role.carry
+3,CLG Darshawn,Akali,True,Side.blue,11,4,4,3.75,165,Teleport,Flash,14,False,12197,11425,Hextech Gunblade,Rylai's Crystal Scepter,Boots of Speed,Void Staff,Needlessly Large Rod,,20331,80097,Lane.top_lane,Role.solo
+4,Abou222,Lee Sin,True,Side.blue,5,4,14,4.75,47,Ignite,Flash,12,True,9222,7125,Locket of the Iron Solari,Control Ward,Eye of the Equinox,Ionian Boots of Lucidity,Giant's Belt,Ruby Crystal,3356,22025,Lane.bot_lane,Role.support
+5,Hi Im A Sheep,Thresh,False,Side.red,1,5,13,2.8,30,Flash,Ignite,11,False,6829,6525,Ruby Sightstone,Control Ward,Locket of the Iron Solari,Kindlegem,Relic Shield,Boots of Mobility,14014,7547,Lane.bot_lane,Role.support
+6,ZatsMod,Orianna,False,Side.red,1,8,9,1.25,105,Flash,Ghost,11,False,6992,6560,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,,49693,8749,Lane.mid_lane,Role.solo
+7,Sheiden,Malphite,False,Side.red,5,6,3,1.3333333333333333,160,Teleport,Flash,13,False,8734,8250,Null-Magic Mantle,Bami's Cinder,Spirit Visage,Sheen,Ninja Tabi,Aegis of the Legion,34223,46506,Lane.top_lane,Role.solo
+8,TheOddOrange,Nidalee,False,Side.red,9,5,6,3.0,119,Flash,Smite,13,False,10212,9850,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Abyssal Scepter,Ionian Boots of Lucidity,,,96663,14885,Lane.jungle,Role.none
+9,Yassuo,Yasuo,False,Side.red,4,8,8,1.5,156,Flash,Ignite,11,False,8862,8575,Infinity Edge,Control Ward,Doran's Blade,Doran's Blade,Phantom Dancer,Mercury's Treads,23547,63862,Lane.bot_lane,Role.carry

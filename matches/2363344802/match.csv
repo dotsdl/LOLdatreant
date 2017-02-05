@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KamiKaziGod,Kayle,True,Side.blue,5,8,6,1.375,221,Flash,Teleport,16,False,13551,11760,Zhonya's Hourglass,Berserker's Greaves,Doran's Ring,Nashor's Tooth,Guinsoo's Rageblade,Doran's Ring,116820,44672,Lane.top_lane,Role.solo
+1,Hazzium,Ryze,True,Side.blue,3,4,5,2.0,196,Ghost,Flash,15,False,11911,10450,Blasting Wand,Refillable Potion,Seraph's Embrace,Ionian Boots of Lucidity,Abyssal Scepter,Rod of Ages,113243,13226,Lane.mid_lane,Role.solo
+2,Sud83,Kha'Zix,True,Side.blue,15,4,4,4.75,227,Smite,Flash,17,False,17193,15475,Enchantment: Warrior,Youmuu's Ghostblade,Ravenous Hydra,Ionian Boots of Lucidity,Maw of Malmortius,Last Whisper,9714,237531,Lane.jungle,Role.none
+3,Ewings,Sion,True,Side.blue,4,5,18,4.4,46,Flash,Exhaust,13,False,11339,9625,Sightstone,Locket of the Iron Solari,Face of the Mountain,Redemption,Mercury's Treads,Chain Vest,11093,30606,Lane.bot_lane,Role.support
+4,Lord Max,Jinx,True,Side.blue,8,5,9,3.4,181,Flash,Heal,15,False,13646,12400,Rapid Firecannon,,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,Berserker's Greaves,1704,127162,Lane.bot_lane,Role.carry
+5,THE KILLER GUY,Nautilus,False,Side.red,4,5,6,2.0,180,Teleport,Flash,14,True,11113,10950,,Corrupting Potion,Randuin's Omen,Mercury's Treads,Sunfire Cape,Spirit Visage,103767,22635,Lane.top_lane,Role.solo
+6,imaqtvini,Xerath,False,Side.red,9,4,7,4.0,212,Flash,Ghost,15,False,12564,11600,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Void Staff,Giant's Belt,131530,12393,Lane.mid_lane,Role.solo
+7,Ojifu,Brand,False,Side.red,1,8,10,1.375,24,Exhaust,Flash,12,False,8448,8375,Blasting Wand,Sightstone,Rylai's Crystal Scepter,Spellthief's Edge,Sorcerer's Shoes,Haunting Guise,31763,10561,Lane.bot_lane,Role.support
+8,Coco wang,Caitlyn,False,Side.red,4,11,3,0.6363636363636364,206,Heal,Flash,14,False,11111,10975,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Long Sword,,1089,138081,Lane.bot_lane,Role.carry
+9,TSG Kid,Elise,False,Side.red,8,7,9,2.4285714285714284,92,Smite,Flash,14,False,11391,11000,Enchantment: Runic Echoes,Sorcerer's Shoes,Rylai's Crystal Scepter,Ruby Crystal,Chain Vest,Hextech Protobelt-01,94330,27617,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,smallfry,Janna,False,Side.blue,1,5,11,2.4,5,Flash,Exhaust,11,False,8128,7325,Boots of Mobility,Locket of the Iron Solari,Ruby Sightstone,Nomad's Medallion,Forbidden Idol,Crystalline Bracer,3992,5231,Lane.bot_lane,Role.support
+1,gabzpiano,Kayle,False,Side.blue,4,5,7,2.2,231,Flash,Ghost,15,False,11952,9800,Morellonomicon,Boots of Swiftness,Doran's Ring,Nashor's Tooth,Aether Wisp,Needlessly Large Rod,116711,32534,Lane.mid_lane,Role.solo
+2,KitingYeezus,Graves,False,Side.blue,2,10,4,0.6,130,Flash,Smite,13,False,9788,9975,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,The Black Cleaver,,,4682,122560,Lane.jungle,Role.none
+3,Choco Mints,Jhin,False,Side.blue,8,5,3,2.2,189,Heal,Flash,13,False,11862,10550,Doran's Blade,Essence Reaver,Boots of Swiftness,Lord Dominik's Regards,Rapid Firecannon,,7812,111821,Lane.bot_lane,Role.carry
+4,MART1N,Nautilus,False,Side.blue,3,7,6,1.2857142857142858,172,Teleport,Flash,13,False,10093,8825,Doran's Ring,Zz'Rot Portal,Ninja Tabi,Sunfire Cape,Doran's Ring,Warden's Mail,67789,17888,Lane.top_lane,Role.solo
+5,AIways in promos,Malphite,True,Side.red,7,4,10,4.25,151,Teleport,Flash,14,True,11377,10700,Corrupting Potion,Iceborn Gauntlet,Ninja Tabi,Sunfire Cape,Dead Man's Plate,Null-Magic Mantle,57384,39631,Lane.top_lane,Role.solo
+6,ChocolateRane,Lee Sin,True,Side.red,9,1,6,15.0,131,Smite,Flash,14,False,11834,8775,Mercury's Treads,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Kindlegem,Spectre's Cowl,25289,79511,Lane.jungle,Role.none
+7,Tbonzz,Jayce,True,Side.red,7,5,15,4.4,190,Ignite,Flash,15,False,12504,11525,Youmuu's Ghostblade,Ionian Boots of Lucidity,Duskblade of Draktharr,The Black Cleaver,,Pickaxe,15517,109766,Lane.mid_lane,Role.solo
+8,JUAN TU TREE,Jinx,True,Side.red,7,5,16,4.6,210,Heal,Flash,14,False,13337,10550,Doran's Blade,B. F. Sword,Essence Reaver,Runaan's Hurricane,Last Whisper,Berserker's Greaves,731,143573,Lane.bot_lane,Role.carry
+9,Skydemon14,Bard,True,Side.red,2,3,19,7.0,41,Flash,Exhaust,13,False,10506,9775,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,Glacial Shroud,Warden's Mail,20162,7610,Lane.bot_lane,Role.support

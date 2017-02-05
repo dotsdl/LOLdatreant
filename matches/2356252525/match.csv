@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bad penny,Lulu,True,Side.blue,0,5,14,2.8,26,Exhaust,Flash,12,False,7959,7000,Redemption,Sightstone,Ionian Boots of Lucidity,Frostfang,Athene's Unholy Grail,,12716,2454,Lane.bot_lane,Role.support
+1,Leesin2,Ekko,True,Side.blue,4,4,3,1.75,187,Teleport,Flash,14,True,10710,10383,Trinity Force,Sunfire Cape,Long Sword,Corrupting Potion,Mercury's Treads,Spectre's Cowl,78629,43542,Lane.top_lane,Role.solo
+2,Anthøny,Kha'Zix,True,Side.blue,23,5,4,5.4,102,Smite,Flash,15,False,15523,13785,Death's Dance,Youmuu's Ghostblade,Lord Dominik's Regards,Boots of Mobility,Chain Vest,Enchantment: Warrior,4878,126355,Lane.jungle,Role.none
+3,Bobby De Niro,Viktor,True,Side.blue,6,2,13,9.5,202,Ghost,Flash,15,False,11689,11025,Perfect Hex Core,Lich Bane,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,,120573,17695,Lane.mid_lane,Role.solo
+4,OhDamn I Died,Sivir,True,Side.blue,0,3,7,2.3333333333333335,223,Heal,Flash,13,False,9702,9150,Doran's Blade,Essence Reaver,Berserker's Greaves,Statikk Shiv,Last Whisper,,6941,122234,Lane.bot_lane,Role.carry
+5,GreatNeeD,Poppy,False,Side.red,5,4,8,3.25,140,Teleport,Flash,14,False,9521,9200,Corrupting Potion,Sunfire Cape,Mercury's Treads,Spectre's Cowl,Iceborn Gauntlet,Kindlegem,28383,59468,Lane.top_lane,Role.solo
+6,Kyrugen,Rek'Sai,False,Side.red,5,9,6,1.2222222222222223,115,Smite,Flash,13,False,9195,8650,Tiamat,Dead Man's Plate,Enchantment: Cinderhulk,Mercury's Treads,Cloth Armor,Cloth Armor,23734,79174,Lane.jungle,Role.none
+7,Frosch,LeBlanc,False,Side.red,3,11,5,0.7272727272727273,143,Flash,Ignite,13,False,8840,8050,Refillable Potion,Doran's Ring,Ruby Crystal,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,74126,12010,Lane.mid_lane,Role.solo
+8,King Karp,Jhin,False,Side.red,4,5,5,1.8,194,Heal,Flash,13,False,9836,9600,Youmuu's Ghostblade,Boots of Swiftness,Rapid Firecannon,Lord Dominik's Regards,,Doran's Blade,2266,100752,Lane.bot_lane,Role.carry
+9,Bromide,Zyra,False,Side.red,2,6,11,2.1666666666666665,29,Flash,Exhaust,11,False,8592,7735,Liandry's Torment,Boots of Mobility,Eye of the Watchers,Ruby Crystal,Amplifying Tome,,28812,3334,Lane.bot_lane,Role.support

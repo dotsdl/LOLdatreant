@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FanatiiLt,Bard,True,Side.blue,0,2,8,4.0,7,Exhaust,Flash,8,False,5300,4450,Boots of Mobility,Eye of the Watchers,Crystalline Bracer,Faerie Charm,Faerie Charm,,5664,2746,Lane.bot_lane,Role.support
+1,yeniaR,Vayne,True,Side.blue,5,3,4,3.0,132,Flash,Heal,11,False,8013,6725,Doran's Blade,Total Biscuit of Rejuvenation,Pickaxe,B. F. Sword,Berserker's Greaves,Phantom Dancer,119,48423,Lane.bot_lane,Role.carry
+2,Cuckvele,Ekko,True,Side.blue,4,0,6,10.0,126,Flash,Teleport,11,False,8181,7450,Zhonya's Hourglass,Control Ward,The Dark Seal,Ionian Boots of Lucidity,Corrupting Potion,Hextech Protobelt-01,66488,10984,Lane.jungle,Role.none
+3,Walljumper,Shyvana,True,Side.blue,2,0,7,9.0,101,Smite,Ghost,12,False,8557,5575,Enchantment: Bloodrazor,Refillable Potion,Boots of Speed,Sheen,Stinger,Long Sword,48045,53522,Lane.jungle,Role.none
+4,CloudNguyén,Jayce,True,Side.blue,7,1,0,7.0,130,Teleport,Flash,12,False,9279,7425,Youmuu's Ghostblade,Phage,Long Sword,Ionian Boots of Lucidity,Doran's Blade,Hexdrinker,6494,74281,Lane.top_lane,Role.solo
+5,Unstopebble,Karma,False,Side.red,2,5,0,0.4,3,Flash,Exhaust,7,True,4159,3525,Sightstone,Refillable Potion,Ionian Boots of Lucidity,Frostfang,Ruby Crystal,Faerie Charm,5063,2106,Lane.bot_lane,Role.support
+6,cesuna,Zed,False,Side.red,3,3,1,1.3333333333333333,124,Flash,Ignite,11,False,5802,5350,Refillable Potion,,Long Sword,Boots of Speed,Duskblade of Draktharr,Hexdrinker,4329,42635,Lane.jungle,Role.none
+7,Lukwer,Lucian,False,Side.red,1,3,2,1.0,94,Flash,Heal,9,False,4797,4650,Doran's Blade,B. F. Sword,Caulfield's Warhammer,Ionian Boots of Lucidity,Cloak of Agility,,2089,36667,Lane.bot_lane,Role.carry
+8,Shamwwow,Kennen,False,Side.red,0,3,1,0.3333333333333333,86,Flash,Teleport,9,False,4301,3900,Doran's Blade,Seeker's Armguard,Boots of Speed,Health Potion,Hextech Revolver,Kindlegem,16547,10452,Lane.top_lane,Role.solo
+9,Tsùki,Skarner,False,Side.red,0,4,2,0.5,52,Flash,Smite,8,False,4341,4275,Enchantment: Warrior,Hunter's Potion,Boots of Mobility,Long Sword,,,9004,34780,Lane.jungle,Role.none

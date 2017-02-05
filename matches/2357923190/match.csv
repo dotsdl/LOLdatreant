@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SquirreI,Thresh,True,Side.blue,0,4,17,4.25,38,Flash,Exhaust,11,False,6344,6100,Face of the Mountain,Ruby Sightstone,Control Ward,Boots of Mobility,Sapphire Crystal,Cloth Armor,9235,4479,Lane.bot_lane,Role.support
+1,Juanfucius,Graves,True,Side.blue,10,1,6,16.0,116,Smite,Flash,13,True,10914,7725,Dagger,Refillable Potion,Dagger,Maw of Malmortius,Enchantment: Warrior,Mercury's Treads,4271,104878,Lane.jungle,Role.none
+2,TeddyRO,Caitlyn,True,Side.blue,4,2,13,8.5,162,Flash,Heal,12,False,9370,9150,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,,457,92945,Lane.bot_lane,Role.carry
+3,Entranced,Swain,True,Side.blue,6,2,4,5.0,146,Teleport,Flash,13,False,9089,9150,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Rod of Ages,Haunting Guise,The Dark Seal,65966,11566,Lane.top_lane,Role.solo
+4,Romanium,Renekton,True,Side.blue,6,3,3,3.0,154,Flash,Ghost,12,False,9019,7900,Boots of Speed,Blade of the Ruined King,The Black Cleaver,Vampiric Scepter,,,1306,79905,Lane.mid_lane,Role.solo
+5,TheFarooj,Viktor,False,Side.red,1,5,3,0.8,106,Flash,Ghost,11,False,6193,5660,Doran's Ring,Perfect Hex Core,Amplifying Tome,Sorcerer's Shoes,Total Biscuit of Rejuvenation,Ruby Crystal,41234,8282,Lane.mid_lane,Role.solo
+6,21 Savagé,Zac,False,Side.red,4,3,3,2.3333333333333335,78,Smite,Flash,11,False,6963,6900,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ninja Tabi,,,50566,18306,Lane.jungle,Role.none
+7,C9 Smoothie,Annie,False,Side.red,0,7,8,1.1428571428571428,9,Flash,Ignite,9,False,5205,4875,Total Biscuit of Rejuvenation,Eye of the Watchers,Control Ward,Boots of Mobility,Catalyst of Aeons,,15727,4348,Lane.bot_lane,Role.support
+8,LimitedExtent,Twitch,False,Side.red,5,6,1,1.0,116,Heal,Flash,10,False,7186,6425,Doran's Blade,B. F. Sword,Pickaxe,Berserker's Greaves,Runaan's Hurricane,,0,43020,Lane.bot_lane,Role.carry
+9,An Obese Panda,Kennen,False,Side.red,2,5,1,0.6,136,Flash,Teleport,12,False,6484,6260,Seeker's Armguard,Hextech Protobelt-01,Boots of Speed,Needlessly Large Rod,Doran's Blade,Amplifying Tome,46756,15733,Lane.top_lane,Role.solo

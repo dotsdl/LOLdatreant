@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,K2 Ken,Teemo,False,Side.blue,3,8,8,1.375,117,Smite,Flash,14,False,10111,9525,Zhonya's Hourglass,Hunter's Potion,,Nashor's Tooth,Enchantment: Bloodrazor,Boots of Speed,63155,50628,Lane.jungle,Role.none
+1,Z S P I D E Rs,Fiora,False,Side.blue,5,12,4,0.75,156,Teleport,Flash,14,False,9613,9100,Ravenous Hydra,Corrupting Potion,The Black Cleaver,Ninja Tabi,Long Sword,Ruby Crystal,1018,86269,Lane.top_lane,Role.solo
+2,TheNotoriousDFG,Malzahar,False,Side.blue,5,10,8,1.3,172,Flash,Ghost,14,False,10318,9700,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Haunting Guise,87766,17683,Lane.mid_lane,Role.solo
+3,er ber ter,Draven,False,Side.blue,6,5,5,2.2,194,Heal,Flash,14,False,12137,10975,Doran's Blade,Phantom Dancer,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Last Whisper,0,138433,Lane.bot_lane,Role.carry
+4,am Juicy,Bard,False,Side.blue,1,6,7,1.3333333333333333,11,Flash,Exhaust,13,False,7474,6500,Boots of Mobility,Spellthief's Edge,Ruby Sightstone,Crystalline Bracer,Redemption,Cloth Armor,13635,6057,Lane.bot_lane,Role.support
+5,Soo Min Kwon,Yasuo,True,Side.red,5,6,5,1.6666666666666667,225,Flash,Ignite,16,False,13240,18100,Cloak of Agility,Blasting Wand,Hextech Protobelt-01,Hexdrinker,Mercury's Treads,Rabadon's Deathcap,41099,107934,Lane.mid_lane,Role.solo
+6,KarasMai,Karma,True,Side.red,1,4,31,8.0,18,Flash,Ignite,15,False,11061,9400,,Redemption,Locket of the Iron Solari,Eye of the Watchers,Aether Wisp,Boots of Mobility,28533,5740,Lane.bot_lane,Role.support
+7,yungELEF,Jhin,True,Side.red,6,1,17,23.0,212,Heal,Flash,16,True,13913,12625,Essence Reaver,Control Ward,Boots of Swiftness,Rapid Firecannon,Infinity Edge,B. F. Sword,6717,155658,Lane.bot_lane,Role.carry
+8,WatchThePower,Rengar,True,Side.red,16,5,14,6.0,216,Flash,Teleport,17,False,16306,14125,The Black Cleaver,Death's Dance,Ninja Tabi,Spirit Visage,Guardian Angel,Long Sword,25275,146791,Lane.top_lane,Role.solo
+9,Hyosung,Rek'Sai,True,Side.red,13,4,13,6.5,220,Flash,Smite,16,False,15472,13525,Enchantment: Cinderhulk,Titanic Hydra,Randuin's Omen,Ninja Tabi,Dead Man's Plate,Long Sword,41174,133292,Lane.jungle,Role.none

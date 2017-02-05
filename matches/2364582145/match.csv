@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pekin Woof,Cassiopeia,False,Side.blue,2,8,2,0.5,91,Flash,Ghost,10,True,6019,5370,Doran's Ring,Morellonomicon,Control Ward,Tear of the Goddess,,Negatron Cloak,39480,4971,Lane.mid_lane,Role.solo
+1,PutYourHeartsUp,Shyvana,False,Side.blue,5,3,2,2.3333333333333335,130,Ghost,Smite,12,False,8321,8200,Control Ward,Cloth Armor,Giant's Belt,Spirit Visage,Enchantment: Cinderhulk,Mercury's Treads,72586,34273,Lane.jungle,Role.none
+2,No HandleBards ,Yasuo,False,Side.blue,1,7,0,0.14285714285714285,152,Teleport,Flash,11,False,6544,6050,Jaurim's Fist,Refillable Potion,Phantom Dancer,Doran's Blade,Mercury's Treads,Ruby Crystal,22128,48745,Lane.top_lane,Role.solo
+3,never meme,Lulu,False,Side.blue,0,5,3,0.6,11,Heal,Flash,9,False,4475,4125,Ruby Sightstone,Boots of Mobility,Crystalline Bracer,Spellthief's Edge,,,11871,3039,Lane.bot_lane,Role.support
+4,Falco Mechanic,Jhin,False,Side.blue,1,7,2,0.42857142857142855,154,Exhaust,Flash,11,False,6905,6300,Doran's Blade,Infinity Edge,Long Sword,Berserker's Greaves,Brawler's Gloves,Dagger,5099,80765,Lane.bot_lane,Role.carry
+5,CloudNguyén,Maokai,True,Side.red,4,0,3,7.0,137,Teleport,Flash,13,False,8045,6925,Corrupting Potion,Sunfire Cape,Kindlegem,The Dark Seal,Mercury's Treads,Spectre's Cowl,61059,10633,Lane.top_lane,Role.solo
+6,Abou222,Caitlyn,True,Side.red,4,3,9,4.333333333333333,131,Heal,Flash,11,False,8527,8550,Doran's Blade,Runaan's Hurricane,Infinity Edge,Dagger,Berserker's Greaves,Dagger,759,74182,Lane.bot_lane,Role.carry
+7,Rekk,Evelynn,True,Side.red,8,1,5,13.0,100,Smite,Flash,12,False,8873,8525,Hextech Protobelt-01,Ruby Crystal,The Dark Seal,Mercury's Treads,Enchantment: Runic Echoes,Needlessly Large Rod,54135,27227,Lane.jungle,Role.none
+8,Mi Amor Teemo,Sona,True,Side.red,6,3,5,3.6666666666666665,32,Flash,Ignite,11,False,7526,7125,Eye of the Watchers,Lich Bane,Sorcerer's Shoes,,,Faerie Charm,14397,6508,Lane.bot_lane,Role.support
+9,hashmeerlol ,Kassadin,True,Side.red,8,2,10,9.0,109,Flash,Ignite,13,False,8877,8075,Corrupting Potion,Rod of Ages,Ionian Boots of Lucidity,Control Ward,Blasting Wand,Morellonomicon,45165,12033,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shimatora,Vayne,True,Side.blue,8,4,10,4.5,213,Heal,Flash,16,False,13766,12050,Mercurial Scimitar,Infinity Edge,Statikk Shiv,Long Sword,Berserker's Greaves,Doran's Blade,31562,111421,Lane.bot_lane,Role.carry
+1,Autumn Clouds,Ryze,True,Side.blue,7,1,11,18.0,229,Flash,Ghost,16,False,13715,11520,Fiendish Codex,Morellonomicon,Seraph's Embrace,Negatron Cloak,Ionian Boots of Lucidity,Rod of Ages,177162,13164,Lane.mid_lane,Role.solo
+2,Rapidx,Riven,True,Side.blue,7,3,8,5.0,301,Flash,Teleport,18,False,14881,12900,Ravenous Hydra,The Black Cleaver,Ionian Boots of Lucidity,Mercurial Scimitar,B. F. Sword,Long Sword,0,198358,Lane.top_lane,Role.solo
+3,camtheham,Karma,True,Side.blue,1,1,17,18.0,21,Exhaust,Flash,14,False,9786,8150,Eye of the Watchers,Redemption,Mikael's Crucible,Boots of Mobility,Refillable Potion,Ruby Crystal,15377,7384,Lane.bot_lane,Role.support
+4,Hyosung,Rek'Sai,True,Side.blue,6,4,16,5.5,170,Flash,Smite,16,True,13365,11550,Refillable Potion,Titanic Hydra,Mercury's Treads,Enchantment: Cinderhulk,Dead Man's Plate,Spectre's Cowl,29341,149107,Lane.jungle,Role.none
+5,FORG1VENRE,Lee Sin,False,Side.red,2,8,6,1.0,101,Smite,Flash,13,False,9131,8575,Ninja Tabi,Enchantment: Cinderhulk,Titanic Hydra,Refillable Potion,Spectre's Cowl,,16526,70963,Lane.jungle,Role.none
+6,Sheiden,Kennen,False,Side.red,1,5,6,1.4,25,Exhaust,Flash,12,False,8274,7800,Eye of the Watchers,Locket of the Iron Solari,Ionian Boots of Lucidity,Redemption,,,24941,6217,Lane.bot_lane,Role.support
+7,Semoponume,Garen,False,Side.red,5,6,3,1.3333333333333333,197,Teleport,Flash,15,False,11676,10700,Doran's Shield,The Black Cleaver,Sunfire Cape,Spirit Visage,,Ninja Tabi,28649,80570,Lane.top_lane,Role.solo
+8,MindCalm,Cassiopeia,False,Side.red,3,4,0,0.75,275,Flash,Ghost,15,False,11580,11550,Seraph's Embrace,Refillable Potion,Void Staff,Rylai's Crystal Scepter,Fiendish Codex,Negatron Cloak,130263,14294,Lane.mid_lane,Role.solo
+9,Swiftah,Graves,False,Side.red,2,6,5,1.1666666666666667,217,Heal,Flash,13,False,10286,9700,Death's Dance,Doran's Blade,Phantom Dancer,Berserker's Greaves,Long Sword,Hexdrinker,566,106473,Lane.bot_lane,Role.carry

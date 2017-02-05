@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheOddOrange,Lee Sin,True,Side.blue,15,8,18,4.125,193,Flash,Smite,17,True,16749,15625,Titanic Hydra,Enchantment: Warrior,Randuin's Omen,Mercury's Treads,Spirit Visage,Guardian Angel,36038,159185,Lane.jungle,Role.none
+1,Stixxay,Jhin,True,Side.blue,9,9,15,2.6666666666666665,215,Heal,Flash,16,False,15200,15550,Guardian Angel,Rapid Firecannon,Infinity Edge,Last Whisper,Essence Reaver,Ionian Boots of Lucidity,21620,159952,Lane.bot_lane,Role.carry
+2,Rhux,Poppy,True,Side.blue,6,3,11,5.666666666666667,211,Flash,Teleport,16,False,13890,10800,Corrupting Potion,Banshee's Veil,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,Giant's Belt,47056,100912,Lane.top_lane,Role.solo
+3,7788 ADC,Nautilus,True,Side.blue,7,6,23,5.0,50,Exhaust,Flash,15,False,11790,11050,Locket of the Iron Solari,Redemption,Ruby Sightstone,,Sunfire Cape,Mercury's Treads,27578,16306,Lane.bot_lane,Role.support
+4,my bad team,Syndra,True,Side.blue,11,5,11,4.4,229,Flash,Ghost,16,False,14640,14360,Void Staff,Amplifying Tome,Zhonya's Hourglass,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,135103,15484,Lane.mid_lane,Role.solo
+5,Keegun,Pantheon,False,Side.red,4,8,13,2.125,90,Flash,Ignite,14,False,11062,10475,,Edge of Night,Sightstone,Guardian Angel,Lord Dominik's Regards,Ionian Boots of Lucidity,3318,52335,Lane.bot_lane,Role.duo
+6,Shiphtur,Katarina,False,Side.red,10,9,13,2.5555555555555554,217,Teleport,Flash,17,False,14870,14500,Rylai's Crystal Scepter,Hextech Gunblade,Haunting Guise,Sunfire Cape,Sorcerer's Shoes,Blasting Wand,154457,12600,Lane.top_lane,Role.solo
+7,Celend,Vel'Koz,False,Side.red,4,8,10,1.75,195,Flash,Ghost,16,False,12372,12025,Sorcerer's Shoes,Rabadon's Deathcap,Control Ward,Void Staff,Morellonomicon,,129937,8641,Lane.mid_lane,Role.solo
+8,Virus,Twitch,False,Side.red,8,13,12,1.5384615384615385,173,Heal,Flash,15,False,12980,11875,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Lord Dominik's Regards,Zeal,390,108901,Lane.bot_lane,Role.duo
+9,rhubarbs,Kha'Zix,False,Side.red,5,10,7,1.2,160,Smite,Flash,16,False,12594,11525,Enchantment: Warrior,Tiamat,Ninja Tabi,Maw of Malmortius,Youmuu's Ghostblade,Cloth Armor,4114,166439,Lane.jungle,Role.none

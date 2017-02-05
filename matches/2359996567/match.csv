@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BoxerPete,Tryndamere,True,Side.blue,6,0,5,11.0,226,Ignite,Flash,16,True,12558,11025,Statikk Shiv,Blade of the Ruined King,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Pickaxe,28821,129110,Lane.top_lane,Role.solo
+1,Jurassiq,Vi,True,Side.blue,6,3,10,5.333333333333333,130,Flash,Smite,15,False,11864,10583,Trinity Force,Enchantment: Warrior,Chain Vest,Boots of Swiftness,Hexdrinker,Giant's Belt,1150,144805,Lane.jungle,Role.none
+2,Cat Ears,Morgana,True,Side.blue,0,4,15,3.75,13,Flash,Exhaust,12,False,7995,6775,Aegis of the Legion,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,,Control Ward,11922,2943,Lane.bot_lane,Role.support
+3,Stixxay,Twitch,True,Side.blue,14,2,6,10.0,222,Heal,Flash,16,False,14918,12900,Quicksilver Sash,Statikk Shiv,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,Infinity Edge,7127,136452,Lane.bot_lane,Role.carry
+4,Regular Mid,Ryze,True,Side.blue,6,4,5,2.75,201,Flash,Ghost,15,False,11803,10150,Refillable Potion,,Seraph's Embrace,Ionian Boots of Lucidity,Rod of Ages,Void Staff,136624,11221,Lane.mid_lane,Role.solo
+5,CLG Darshawn,Poppy,False,Side.red,2,6,3,0.8333333333333334,182,Teleport,Flash,14,False,8409,8175,Corrupting Potion,Ninja Tabi,Spirit Visage,Sunfire Cape,Chain Vest,,35720,64627,Lane.top_lane,Role.solo
+6,bobqinXD,Viktor,False,Side.red,5,6,3,1.3333333333333333,180,Flash,Cleanse,14,False,9356,9085,Amplifying Tome,Sheen,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,The Hex Core mk-2,100855,9332,Lane.mid_lane,Role.solo
+7,Rhux,Vayne,False,Side.red,2,7,1,0.42857142857142855,153,Flash,Heal,12,False,8133,7750,Berserker's Greaves,Doran's Blade,Phantom Dancer,Infinity Edge,,,0,65769,Lane.bot_lane,Role.carry
+8,One Called Saint,Skarner,False,Side.red,2,6,5,1.1666666666666667,114,Flash,Smite,13,False,8231,8133,Enchantment: Cinderhulk,Trinity Force,Ninja Tabi,Null-Magic Mantle,,,25064,72029,Lane.jungle,Role.none
+9,The Tank Man,Karma,False,Side.red,2,7,5,1.0,10,Flash,Exhaust,9,False,6783,6675,Eye of the Watchers,Redemption,Aegis of the Legion,Ionian Boots of Lucidity,,,12707,3238,Lane.bot_lane,Role.support

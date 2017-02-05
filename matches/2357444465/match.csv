@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bo0sted Monkeys,Lissandra,True,Side.blue,8,4,12,5.0,146,Flash,Teleport,13,False,10089,8585,Doran's Ring,Hextech Protobelt-01,Abyssal Scepter,Seeker's Armguard,Ionian Boots of Lucidity,Amplifying Tome,88530,10391,Lane.mid_lane,Role.solo
+1,Baggy Mink,Jayce,True,Side.blue,2,8,13,1.875,106,Teleport,Flash,12,False,8577,8600,Doran's Blade,The Black Cleaver,Maw of Malmortius,Long Sword,Mercury's Treads,,7956,48572,Lane.top_lane,Role.solo
+2,PandaRift,Thresh,True,Side.blue,6,1,27,33.0,12,Ignite,Flash,12,False,9311,9000,Relic Shield,Redemption,Knight's Vow,Ruby Sightstone,Aegis of the Legion,Boots of Mobility,10585,6615,Lane.bot_lane,Role.support
+3,TheInoOne,Caitlyn,True,Side.blue,18,2,10,14.0,162,Flash,Heal,13,False,14434,14450,Vampiric Scepter,Runaan's Hurricane,Rapid Firecannon,Lord Dominik's Regards,Infinity Edge,Berserker's Greaves,1425,128815,Lane.bot_lane,Role.carry
+4,Darvec,Sejuani,True,Side.blue,6,3,15,7.0,135,Smite,Flash,14,False,10597,10600,Randuin's Omen,Dead Man's Plate,Ionian Boots of Lucidity,Kindlegem,Enchantment: Cinderhulk,,79336,27263,Lane.jungle,Role.none
+5,Gorhunter,Nunu,False,Side.red,3,8,5,1.0,87,Smite,Flash,12,True,8073,7850,Enchantment: Cinderhulk,Refillable Potion,Zz'Rot Portal,Mercury's Treads,Chain Vest,Ruby Crystal,29297,22365,Lane.jungle,Role.none
+6,TheBolvar,Poppy,False,Side.red,4,8,7,1.375,150,Flash,Teleport,13,False,8704,7725,Corrupting Potion,Sunfire Cape,Control Ward,Iceborn Gauntlet,Cloth Armor,Mercury's Treads,21870,49717,Lane.top_lane,Role.solo
+7,JaySo,Twisted Fate,False,Side.red,5,3,6,3.6666666666666665,186,Ghost,Flash,14,False,10593,9660,Doran's Ring,Needlessly Large Rod,Lich Bane,Morellonomicon,Ionian Boots of Lucidity,Amplifying Tome,110018,15169,Lane.mid_lane,Role.solo
+8,Xandergod,Twitch,False,Side.red,3,12,4,0.5833333333333334,130,Flash,Heal,11,False,8444,7300,Doran's Blade,Berserker's Greaves,Cull,Infinity Edge,Zeal,Dagger,0,50162,Lane.bot_lane,Role.carry
+9,Vyvie,Nautilus,False,Side.red,2,9,4,0.6666666666666666,45,Flash,Ignite,10,False,6522,7955,Face of the Mountain,,,Ruby Sightstone,,Boots of Mobility,16471,6010,Lane.bot_lane,Role.support

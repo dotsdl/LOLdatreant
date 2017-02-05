@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Faded,Kindred,True,Side.blue,5,1,5,10.0,128,Flash,Smite,16,False,11916,10925,Enchantment: Bloodrazor,Berserker's Greaves,The Black Cleaver,Control Ward,Runaan's Hurricane,Jaurim's Fist,3099,157362,Lane.jungle,Role.none
+1,Kënnen,Kennen,True,Side.blue,3,4,2,1.25,195,Teleport,Flash,15,False,11144,10400,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,,80568,28184,Lane.top_lane,Role.solo
+2,Hyun,Brand,True,Side.blue,3,6,5,1.3333333333333333,48,Ignite,Flash,12,False,10031,9225,Frostfang,Control Ward,Sightstone,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,36134,8030,Lane.bot_lane,Role.support
+3,TiltIord,Zed,True,Side.blue,3,5,2,1.0,160,Flash,Ignite,14,False,10577,9150,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,Boots of Speed,Hexdrinker,Serrated Dirk,5140,91464,Lane.mid_lane,Role.solo
+4,MalevolentLemons,Sivir,True,Side.blue,6,2,9,7.5,194,Flash,Heal,14,False,13466,12850,Doran's Blade,B. F. Sword,Phantom Dancer,Essence Reaver,Berserker's Greaves,Infinity Edge,0,146056,Lane.bot_lane,Role.carry
+5,AceII,Jhin,False,Side.red,3,5,1,0.8,168,Flash,Heal,12,False,9419,9175,Rapid Firecannon,Doran's Blade,Cull,Essence Reaver,Pickaxe,Ionian Boots of Lucidity,5201,108533,Lane.bot_lane,Role.carry
+6,NutriLite,Hecarim,False,Side.red,5,3,4,3.0,157,Ghost,Smite,14,True,10540,9658,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Mercury's Treads,Chain Vest,Giant's Belt,24804,115949,Lane.jungle,Role.none
+7,Hoplite,Janna,False,Side.red,0,5,5,1.0,15,Flash,Exhaust,12,False,6952,6400,Talisman of Ascension,Ruby Sightstone,The Dark Seal,Boots of Mobility,Forbidden Idol,,4435,3695,Lane.bot_lane,Role.support
+8,Lord Gomenator,LeBlanc,False,Side.red,6,3,4,3.3333333333333335,209,Flash,Ignite,15,False,10891,9725,Doran's Ring,Needlessly Large Rod,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Blasting Wand,112218,10020,Lane.mid_lane,Role.solo
+9,WatchThePower,Riven,False,Side.red,4,4,3,1.75,201,Flash,Teleport,15,False,10043,9675,Maw of Malmortius,Tiamat,The Black Cleaver,Refillable Potion,Mercury's Treads,Long Sword,0,103051,Lane.top_lane,Role.solo

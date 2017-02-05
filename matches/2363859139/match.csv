@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IQ is 201 ,Yasuo,True,Side.blue,14,3,2,5.333333333333333,182,Flash,Exhaust,14,False,12111,8000,Refillable Potion,Doran's Blade,Phantom Dancer,Infinity Edge,Boots of Speed,Vampiric Scepter,17545,110066,Lane.mid_lane,Role.solo
+1,giants0401,Vayne,True,Side.blue,4,2,5,4.5,124,Flash,Heal,11,True,8265,8025,Doran's Blade,Statikk Shiv,Infinity Edge,,Berserker's Greaves,Control Ward,3735,51146,Lane.bot_lane,Role.carry
+2,ShiiShi,Evelynn,True,Side.blue,5,2,9,7.0,81,Flash,Smite,12,False,8549,7725,Hextech Protobelt-01,Refillable Potion,Sheen,Enchantment: Runic Echoes,The Dark Seal,Boots of Mobility,53375,22688,Lane.jungle,Role.none
+3,Apàthy,Thresh,True,Side.blue,4,5,16,4.0,17,Flash,Ignite,10,False,7869,5675,,Boots of Mobility,Locket of the Iron Solari,,Eye of the Equinox,,5947,3119,Lane.bot_lane,Role.support
+4,Relise,Riven,True,Side.blue,3,1,2,5.0,144,Flash,Teleport,12,False,7995,7550,The Black Cleaver,Refillable Potion,Youmuu's Ghostblade,Mercury's Treads,,,0,78428,Lane.top_lane,Role.solo
+5,TheNuocMam,Lux,False,Side.red,5,5,7,2.4,118,Exhaust,Flash,12,False,8334,7400,Frost Queen's Claim,Refillable Potion,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Luden's Echo,44935,9280,Lane.mid_lane,Role.solo
+6,schankie,Jhin,False,Side.red,2,5,4,1.2,106,Heal,Flash,9,False,6086,5925,Doran's Blade,Infinity Edge,Boots of Swiftness,Brawler's Gloves,Dagger,,575,41169,Lane.bot_lane,Role.carry
+7,Scammerz,Shyvana,False,Side.red,3,5,4,1.4,114,Flash,Teleport,12,False,6515,6275,Doran's Blade,Titanic Hydra,Chain Vest,Ruby Crystal,,Boots of Swiftness,27203,33571,Lane.top_lane,Role.solo
+8,TheNotoriousDFG,Twitch,False,Side.red,2,10,1,0.3,63,Exhaust,Smite,9,False,5998,5575,Enchantment: Bloodrazor,Recurve Bow,Berserker's Greaves,Brawler's Gloves,Dagger,,1694,47290,Lane.jungle,Role.none
+9,trashcanned,Tahm Kench,False,Side.red,1,6,5,1.0,26,Exhaust,Flash,8,False,4727,3900,Face of the Mountain,Refillable Potion,Sightstone,Boots of Speed,,Cloth Armor,2812,4722,Lane.bot_lane,Role.support

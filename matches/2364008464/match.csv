@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,belovedL,Ahri,True,Side.blue,9,7,7,2.2857142857142856,188,Ignite,Flash,14,False,12028,11175,Hextech Protobelt-01,Luden's Echo,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,,83651,18504,Lane.mid_lane,Role.solo
+1,Topopotamus,Maokai,True,Side.blue,2,3,18,6.666666666666667,174,Teleport,Flash,14,False,10695,9200,Doran's Ring,Frozen Heart,Sunfire Cape,Spectre's Cowl,Mercury's Treads,Kindlegem,104236,17451,Lane.jungle,Role.none
+2,HARUHI S3 PLS,Lee Sin,True,Side.blue,10,3,12,7.333333333333333,140,Smite,Flash,15,False,12451,11125,Dead Man's Plate,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,Caulfield's Warhammer,,29737,110456,Lane.jungle,Role.none
+3,TdollasAKATmoney,Janna,True,Side.blue,2,3,31,11.0,10,Flash,Exhaust,14,False,10924,9275,Redemption,Boots of Mobility,,Eye of the Watchers,Aegis of the Legion,Knight's Vow,6674,7554,Lane.bot_lane,Role.support
+4,F33dMeKills,Jinx,True,Side.blue,16,7,7,3.2857142857142856,219,Flash,Heal,15,False,15449,12700,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,Statikk Shiv,B. F. Sword,24061,162907,Lane.bot_lane,Role.carry
+5,Cat Person,Lux,False,Side.red,7,3,10,5.666666666666667,223,Teleport,Flash,15,False,12047,11950,Mejai's Soulstealer,,Void Staff,Morellonomicon,Luden's Echo,Sorcerer's Shoes,139663,12736,Lane.mid_lane,Role.solo
+6,Celestial Bjoece,Jarvan IV,False,Side.red,9,9,6,1.6666666666666667,113,Smite,Flash,14,True,11058,10475,Titanic Hydra,Refillable Potion,,The Black Cleaver,Enchantment: Cinderhulk,Ninja Tabi,10312,87347,Lane.jungle,Role.none
+7,08010505,Shen,False,Side.red,0,6,4,0.6666666666666666,154,Flash,Teleport,13,False,8381,7800,Tiamat,Zz'Rot Portal,Spectre's Cowl,Ninja Tabi,Bami's Cinder,,32889,44670,Lane.top_lane,Role.solo
+8,Braums Mustache,Bard,False,Side.red,1,8,10,1.375,10,Flash,Exhaust,12,False,8201,7900,Boots of Mobility,Eye of the Watchers,Redemption,Locket of the Iron Solari,,,12181,2968,Lane.bot_lane,Role.support
+9,Phooka,Sivir,False,Side.red,6,13,9,1.1538461538461537,195,Heal,Flash,14,False,11889,11800,Infinity Edge,Essence Reaver,Phantom Dancer,,Doran's Blade,Berserker's Greaves,0,126657,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,aShady,Karma,False,Side.blue,3,6,11,2.3333333333333335,35,Exhaust,Flash,11,False,8098,7900,Redemption,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Zeke's Harbinger,Control Ward,24194,4243,Lane.bot_lane,Role.support
+1,Yoshiwee,Twisted Fate,False,Side.blue,4,10,4,0.8,108,Flash,Ghost,11,False,7793,7450,Doran's Ring,Catalyst of Aeons,Doran's Ring,Sorcerer's Shoes,Lich Bane,Hextech Revolver,51666,9713,Lane.mid_lane,Role.solo
+2,Riot Meekal,Vayne,False,Side.blue,6,10,4,1.0,104,Flash,Heal,11,False,8093,7000,Doran's Blade,Cull,B. F. Sword,Berserker's Greaves,Statikk Shiv,Pickaxe,4181,37635,Lane.bot_lane,Role.carry
+3,CloudNguyén,Irelia,False,Side.blue,2,8,3,0.625,140,Teleport,Flash,12,False,7853,7733,Corrupting Potion,Mercury's Treads,Doran's Blade,Trinity Force,Bilgewater Cutlass,Dagger,3045,52772,Lane.top_lane,Role.solo
+4,Abou222,Lee Sin,False,Side.blue,5,5,4,1.8,90,Smite,Flash,12,False,8032,7975,Tiamat,Dead Man's Plate,Enchantment: Cinderhulk,Mercury's Treads,,,16104,59918,Lane.jungle,Role.none
+5,Hyorimaru,Anivia,True,Side.red,10,2,9,9.5,206,Flash,Teleport,15,False,13103,12525,Fiendish Codex,Rod of Ages,Boots of Mobility,Seeker's Armguard,Void Staff,Seraph's Embrace,110342,10337,Lane.top_lane,Role.solo
+6,Liquid fabbbyyy,Alistar,True,Side.red,2,10,12,1.4,40,Flash,Exhaust,11,False,8343,7500,Ruby Sightstone,Randuin's Omen,Relic Shield,Boots of Mobility,Aegis of the Legion,Ruby Crystal,10684,7049,Lane.bot_lane,Role.duo
+7,ZatsMod,Cassiopeia,True,Side.red,3,6,7,1.6666666666666667,139,Flash,Cleanse,13,False,9367,8900,Doran's Ring,Refillable Potion,Morellonomicon,Tear of the Goddess,Rylai's Crystal Scepter,Needlessly Large Rod,61045,10726,Lane.mid_lane,Role.solo
+8,Short Dog,Olaf,True,Side.red,12,0,7,19.0,143,Smite,Ghost,15,False,12727,11300,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Maw of Malmortius,Giant's Belt,Dead Man's Plate,,18144,113182,Lane.jungle,Role.none
+9,C9 Gun,Jhin,True,Side.red,12,2,7,9.5,152,Flash,Heal,14,True,12566,11025,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Infinity Edge,Control Ward,Rapid Firecannon,5009,105090,Lane.bot_lane,Role.duo

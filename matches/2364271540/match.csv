@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,NoahMost,Lux,False,Side.blue,4,2,4,4.0,134,Ghost,Flash,12,False,7422,7050,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Blasting Wand,66052,13665,Lane.mid_lane,Role.solo
+1,D0NG0,Kha'Zix,False,Side.blue,3,9,3,0.6666666666666666,76,Smite,Flash,10,False,6655,6050,Tiamat,Enchantment: Warrior,Refillable Potion,Serrated Dirk,Boots of Swiftness,,3283,64734,Lane.jungle,Role.none
+2,greenléaf,Jayce,False,Side.blue,3,6,1,0.6666666666666666,143,Teleport,Flash,12,True,7193,7175,Doran's Blade,Maw of Malmortius,Youmuu's Ghostblade,,Boots of Speed,,6602,59337,Lane.top_lane,Role.solo
+3,yeniaR,Ezreal,False,Side.blue,1,4,3,1.0,151,Flash,Heal,10,False,6956,6350,Iceborn Gauntlet,Pickaxe,,Cull,Tear of the Goddess,Ionian Boots of Lucidity,9868,51699,Lane.bot_lane,Role.carry
+4,Filly,Soraka,False,Side.blue,1,3,5,2.0,1,Flash,Exhaust,9,False,4787,4250,Crystalline Bracer,,Eye of the Oasis,Forbidden Idol,,Boots of Speed,4816,2121,Lane.bot_lane,Role.support
+5,7788 ADC,Twitch,True,Side.red,7,3,3,3.3333333333333335,88,Heal,Flash,10,False,8018,7900,Total Biscuit of Rejuvenation,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,,0,54628,Lane.bot_lane,Role.carry
+6,ShadowofSelf,Warwick,True,Side.red,7,1,3,10.0,90,Flash,Smite,12,False,8672,8275,Enchantment: Cinderhulk,,Frozen Mallet,Glacial Shroud,Cloth Armor,Ninja Tabi,36106,46483,Lane.jungle,Role.none
+7,Wizzy,Kayle,True,Side.red,2,2,8,5.0,176,Ghost,Flash,13,False,8985,8850,The Dark Seal,Guinsoo's Rageblade,Doran's Ring,Nashor's Tooth,Doran's Ring,Ionian Boots of Lucidity,60946,25852,Lane.mid_lane,Role.solo
+8,Cotopaco Parce,Ryze,True,Side.red,5,2,3,4.0,126,Exhaust,Flash,12,False,8031,8450,Tear of the Goddess,Rod of Ages,Refillable Potion,Ionian Boots of Lucidity,Morellonomicon,,70533,9320,Lane.top_lane,Role.solo
+9,Rhux,Zyra,True,Side.red,3,4,9,3.0,22,Flash,Ignite,10,False,7562,6675,Sightstone,Boots of Mobility,Refillable Potion,Needlessly Large Rod,Frost Queen's Claim,Giant's Belt,23928,6522,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KlNG BOB,Maokai,True,Side.blue,2,2,8,5.0,124,Teleport,Flash,12,False,7535,6050,Corrupting Potion,Sunfire Cape,The Dark Seal,Mercury's Treads,Kindlegem,Ruby Crystal,64119,9273,Lane.top_lane,Role.solo
+1,MongolWarrior,Twitch,True,Side.blue,10,1,2,12.0,125,Heal,Flash,11,False,9568,9400,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,Last Whisper,0,65150,Lane.bot_lane,Role.carry
+2,Adjacent,Syndra,True,Side.blue,8,2,6,7.0,163,Ghost,Flash,13,False,9782,8425,Rylai's Crystal Scepter,,Doran's Ring,Morellonomicon,Doran's Ring,Sorcerer's Shoes,98026,9260,Lane.mid_lane,Role.solo
+3,Dontkillmek,Lee Sin,True,Side.blue,5,5,4,1.8,79,Flash,Smite,11,True,7508,6725,Enchantment: Warrior,Hunter's Potion,Boots of Mobility,Tiamat,Jaurim's Fist,Ruby Crystal,12268,51050,Lane.jungle,Role.none
+4,Simon Hawkes,Soraka,True,Side.blue,0,1,11,11.0,7,Exhaust,Flash,9,False,5839,5350,Eye of the Oasis,Refillable Potion,Redemption,Control Ward,Ionian Boots of Lucidity,,4645,3014,Lane.bot_lane,Role.support
+5,AceKing ALL IN ,Bard,False,Side.red,0,9,4,0.4444444444444444,10,Ignite,Flash,8,False,4422,4325,,,Eye of the Watchers,Boots of Mobility,,Crystalline Bracer,8386,3023,Lane.bot_lane,Role.support
+6,Dáddy,Poppy,False,Side.red,4,3,3,2.3333333333333335,151,Teleport,Flash,13,False,7421,6450,Corrupting Potion,Control Ward,Spirit Visage,Bami's Cinder,Mercury's Treads,Chain Vest,14107,69662,Lane.top_lane,Role.solo
+7,Peach Nayeon,Rek'Sai,False,Side.red,2,3,4,2.0,88,Smite,Flash,11,False,6515,6375,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Giant's Belt,Control Ward,17562,59319,Lane.jungle,Role.none
+8, keine Hosen,Kalista,False,Side.red,3,5,2,1.0,122,Flash,Heal,11,False,6957,6675,Berserker's Greaves,Blade of the Ruined King,Recurve Bow,,Cull,Doran's Blade,646,59113,Lane.bot_lane,Role.carry
+9,Rocky4,Yasuo,False,Side.red,2,5,2,0.8,114,Flash,Ignite,11,False,6255,5900,Doran's Blade,Phantom Dancer,Jaurim's Fist,Ruby Crystal,Mercury's Treads,,16733,38715,Lane.mid_lane,Role.solo

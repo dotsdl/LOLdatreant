@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MyTeamSoGOD,Graves,False,Side.blue,1,9,8,1.0,102,Smite,Flash,13,False,8066,7550,Enchantment: Warrior,Refillable Potion,Boots of Swiftness,Phantom Dancer,Vampiric Scepter,Long Sword,2776,97294,Lane.jungle,Role.none
+1,Fàkèr  ,Maokai,False,Side.blue,1,7,5,0.8571428571428571,125,Teleport,Flash,13,False,7865,7775,Sunfire Cape,Corrupting Potion,Mercury's Treads,Spirit Visage,Ruby Crystal,,50404,6722,Lane.top_lane,Role.solo
+2,LOD,Vayne,False,Side.blue,11,6,2,2.1666666666666665,212,Flash,Heal,13,False,12312,11800,Berserker's Greaves,Null-Magic Mantle,Infinity Edge,Statikk Shiv,Phantom Dancer,Vampiric Scepter,30670,74755,Lane.bot_lane,Role.carry
+3,I Usually Feed,Nautilus,False,Side.blue,1,7,11,1.7142857142857142,49,Flash,Exhaust,11,False,7708,7275,Locket of the Iron Solari,Ruby Sightstone,Boots of Mobility,Targon's Brace,Control Ward,Kindlegem,17306,9189,Lane.bot_lane,Role.support
+4,Prestivent,Katarina,False,Side.blue,3,11,1,0.36363636363636365,149,Flash,Ignite,12,False,8293,7810,Sorcerer's Shoes,Hextech Gunblade,Seeker's Armguard,The Dark Seal,Fiendish Codex,Amplifying Tome,71841,8848,Lane.mid_lane,Role.solo
+5,Riot Meekal,Orianna,True,Side.red,2,2,18,10.0,216,Flash,Ghost,16,False,11892,10595,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Rabadon's Deathcap,128151,19779,Lane.mid_lane,Role.solo
+6,Swifte,Jhin,True,Side.red,11,4,12,5.75,166,Flash,Heal,14,False,12639,9975,Rapid Firecannon,Pickaxe,B. F. Sword,Doran's Blade,Essence Reaver,Boots of Swiftness,9603,101361,Lane.bot_lane,Role.carry
+7,Fiku,Evelynn,True,Side.red,17,3,9,8.666666666666666,127,Flash,Smite,15,True,14777,13275,Enchantment: Runic Echoes,Zhonya's Hourglass,,Rylai's Crystal Scepter,Lich Bane,Ionian Boots of Lucidity,94864,45674,Lane.jungle,Role.none
+8,MongolWarrior,Blitzcrank,True,Side.red,3,7,18,3.0,38,Ignite,Flash,12,False,8543,7050,Locket of the Iron Solari,Eye of the Equinox,Chain Vest,,Boots of Mobility,Cloth Armor,7114,9686,Lane.bot_lane,Role.support
+9,zz cicero,Poppy,True,Side.red,7,1,15,22.0,181,Teleport,Flash,16,False,12580,10820,Sunfire Cape,Iceborn Gauntlet,Mercury's Treads,Dead Man's Plate,Negatron Cloak,,30243,82399,Lane.top_lane,Role.solo

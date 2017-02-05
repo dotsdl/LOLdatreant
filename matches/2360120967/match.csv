@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ginormous Noob,Karma,False,Side.blue,1,4,9,2.5,12,Flash,Exhaust,11,False,6589,6125,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,,Faerie Charm,,12151,3011,Lane.bot_lane,Role.support
+1,SkipAd,Zac,False,Side.blue,7,4,7,3.5,117,Smite,Flash,13,True,9495,9375,Ionian Boots of Lucidity,Ruby Crystal,Refillable Potion,Enchantment: Cinderhulk,Thornmail,Spirit Visage,69071,19630,Lane.jungle,Role.none
+2,TOP Pagoda,Ryze,False,Side.blue,1,5,3,0.8,149,Flash,Teleport,12,False,7457,7335,Giant's Belt,Amplifying Tome,Needlessly Large Rod,Frozen Heart,Tear of the Goddess,Ionian Boots of Lucidity,76359,4413,Lane.top_lane,Role.solo
+3,Asyc xD ,Jhin,False,Side.blue,2,7,4,0.8571428571428571,171,Heal,Flash,12,False,9191,9300,Doran's Blade,Infinity Edge,Essence Reaver,,,Boots of Swiftness,1468,89368,Lane.bot_lane,Role.carry
+4,LegendaryLime,Lux,False,Side.blue,8,6,5,2.1666666666666665,129,Flash,Barrier,13,False,9394,8800,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Ionian Boots of Lucidity,,,71545,11298,Lane.mid_lane,Role.solo
+5,Thalies,Irelia,True,Side.red,2,2,8,5.0,182,Teleport,Flash,15,False,10957,7858,Trinity Force,Corrupting Potion,Mercury's Treads,Null-Magic Mantle,Warden's Mail,Glacial Shroud,4045,78659,Lane.top_lane,Role.solo
+6,goompa,Twitch,True,Side.red,4,4,3,1.75,177,Heal,Flash,14,False,10674,8350,Berserker's Greaves,Doran's Blade,,Infinity Edge,Runaan's Hurricane,Dagger,0,108128,Lane.bot_lane,Role.duo
+7,J D,Orianna,True,Side.red,8,6,7,2.5,160,Ignite,Flash,14,False,11490,11150,Void Staff,Doran's Ring,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,90025,11068,Lane.jungle,Role.none
+8,emV,Kha'Zix,True,Side.red,10,3,2,4.0,131,Flash,Smite,14,False,12074,9335,Enchantment: Warrior,Tiamat,Youmuu's Ghostblade,Mercury's Treads,Hexdrinker,Refillable Potion,2763,132441,Lane.jungle,Role.none
+9,Lukwer,Vel'Koz,True,Side.red,2,4,6,2.0,55,Flash,Exhaust,12,False,8650,8410,Frost Queen's Claim,Sightstone,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Amplifying Tome,,34208,4714,Lane.bot_lane,Role.duo

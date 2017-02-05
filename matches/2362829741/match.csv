@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Leagué,Riven,True,Side.blue,8,3,4,4.0,292,Flash,Teleport,18,False,15493,13470,Negatron Cloak,Death's Dance,Ninja Tabi,Chain Vest,The Black Cleaver,Ravenous Hydra,0,232971,Lane.top_lane,Role.solo
+1,zlsna,Lee Sin,True,Side.blue,5,5,10,3.0,189,Flash,Smite,16,True,13463,11820,Tiamat,Enchantment: Warrior,Randuin's Omen,Negatron Cloak,Dead Man's Plate,Ninja Tabi,26590,147596,Lane.jungle,Role.none
+2,Témpest,Cassiopeia,True,Side.blue,7,2,8,7.5,264,Flash,Ghost,18,False,14672,13345,Seraph's Embrace,Rylai's Crystal Scepter,Void Staff,Negatron Cloak,,Morellonomicon,162503,11017,Lane.mid_lane,Role.solo
+3,Jurassiq,Ezreal,True,Side.blue,2,5,7,1.8,226,Flash,Heal,15,False,12887,10275,Blade of the Ruined King,Doran's Blade,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,,21638,130542,Lane.bot_lane,Role.carry
+4,Cat Ears,Morgana,True,Side.blue,1,4,17,4.5,22,Flash,Exhaust,13,False,10655,8585,Locket of the Iron Solari,Eye of the Watchers,Redemption,Boots of Mobility,Amplifying Tome,Control Ward,14752,3494,Lane.bot_lane,Role.support
+5,urwong,Anivia,False,Side.red,2,7,6,1.1428571428571428,193,Teleport,Flash,15,False,11259,10650,Doran's Ring,Zhonya's Hourglass,Seraph's Embrace,Rod of Ages,Sorcerer's Shoes,,99074,9193,Lane.mid_lane,Role.solo
+6,Daarr,Rek'Sai,False,Side.red,9,6,5,2.3333333333333335,206,Flash,Smite,16,False,13827,13125,Enchantment: Cinderhulk,Mercury's Treads,Titanic Hydra,Null-Magic Mantle,Dead Man's Plate,Guardian Angel,43119,157488,Lane.jungle,Role.none
+7,konkwon,Lulu,False,Side.red,0,3,9,3.0,19,Flash,Exhaust,12,False,9277,8750,Redemption,Faerie Charm,Boots of Swiftness,Eye of the Watchers,Control Ward,Mikael's Crucible,17500,4752,Lane.bot_lane,Role.support
+8,EnVy LOD,Caitlyn,False,Side.red,5,4,3,2.0,290,Flash,Heal,15,False,13728,13325,Runaan's Hurricane,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Lord Dominik's Regards,Zeal,1822,205373,Lane.bot_lane,Role.carry
+9,Yusui,Yasuo,False,Side.red,3,3,5,2.6666666666666665,273,Teleport,Flash,16,False,12749,12900,Doran's Blade,Phantom Dancer,Ninja Tabi,Frozen Mallet,Infinity Edge,Chain Vest,33779,132377,Lane.top_lane,Role.solo

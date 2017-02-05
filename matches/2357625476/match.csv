@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,łvern,Nasus,False,Side.blue,2,3,2,1.3333333333333333,81,Ghost,Smite,10,False,6055,5675,Enchantment: Runic Echoes,Refillable Potion,Mercury's Treads,Giant's Belt,Chain Vest,,19460,45324,Lane.jungle,Role.none
+1,WJNA,Sivir,False,Side.blue,2,9,1,0.3333333333333333,85,Flash,Heal,9,False,5749,4500,Berserker's Greaves,B. F. Sword,Caulfield's Warhammer,Cull,Doran's Blade,,0,42399,Lane.bot_lane,Role.carry
+2,h0tsawce,Janna,False,Side.blue,0,4,5,1.25,11,Flash,Exhaust,9,False,4665,4500,,Sightstone,Redemption,Frostfang,Boots of Speed,,2379,3145,Lane.bot_lane,Role.support
+3,EnVy Nien,LeBlanc,False,Side.blue,5,5,1,1.2,123,Flash,Ignite,11,False,7206,6075,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Fiendish Codex,53453,9151,Lane.mid_lane,Role.solo
+4,Ikzencriel,Poppy,False,Side.blue,1,3,4,1.6666666666666667,146,Teleport,Flash,13,False,6956,6925,Corrupting Potion,Warden's Mail,Sunfire Cape,Ninja Tabi,Sheen,Cloth Armor,20118,48155,Lane.top_lane,Role.solo
+5,MaNDashwell,Gangplank,True,Side.red,3,1,3,6.0,159,Flash,Teleport,13,True,9229,7883,Trinity Force,Lord Dominik's Regards,,,Boots of Speed,Long Sword,4718,99419,Lane.top_lane,Role.solo
+6,Unstopebble,Karma,True,Side.red,0,1,16,16.0,14,Flash,Exhaust,11,False,7439,6175,Eye of the Watchers,Redemption,Refillable Potion,,Ionian Boots of Lucidity,Null-Magic Mantle,14965,4853,Lane.bot_lane,Role.support
+7,Orbt,Viktor,True,Side.red,10,1,1,11.0,190,Flash,Ghost,14,False,10770,9175,Needlessly Large Rod,Ruby Crystal,Doran's Ring,Abyssal Scepter,Perfect Hex Core,Ionian Boots of Lucidity,92777,14030,Lane.mid_lane,Role.solo
+8,4911,Vayne,True,Side.red,8,3,3,3.6666666666666665,157,Heal,Flash,12,False,9727,7525,Doran's Blade,Infinity Edge,Statikk Shiv,Dagger,Boots of Speed,,8971,73844,Lane.bot_lane,Role.carry
+9,Paulguin,Lee Sin,True,Side.red,3,4,9,3.0,89,Smite,Flash,12,False,8361,6625,Ruby Crystal,Enchantment: Warrior,Refillable Potion,Hexdrinker,Caulfield's Warhammer,Boots of Mobility,15722,69849,Lane.jungle,Role.none

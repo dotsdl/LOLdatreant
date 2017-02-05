@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kebin M,Riven,False,Side.blue,1,7,1,0.2857142857142857,147,Flash,Teleport,11,False,6268,5750,Refillable Potion,Long Sword,Long Sword,Doran's Blade,Caulfield's Warhammer,The Black Cleaver,0,56790,Lane.top_lane,Role.solo
+1,q1w2e3r4t5y6u7i8,Twisted Fate,False,Side.blue,1,4,4,1.25,119,Flash,Ghost,11,False,6500,6160,Fiendish Codex,Boots of Speed,Amplifying Tome,Lich Bane,Doran's Ring,,52625,10752,Lane.mid_lane,Role.solo
+2,Lyxical,Yasuo,False,Side.blue,2,4,2,1.0,65,Smite,Flash,10,False,5800,5525,Doran's Blade,Brawler's Gloves,Dagger,Enchantment: Bloodrazor,Dagger,Ninja Tabi,7274,56833,Lane.jungle,Role.none
+3,The Eggsalad,Vel'Koz,False,Side.blue,2,6,4,1.0,12,Ignite,Flash,8,False,5125,4560,Control Ward,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Eye of the Watchers,Amplifying Tome,,10984,2121,Lane.bot_lane,Role.support
+4,4911,Ezreal,False,Side.blue,3,5,2,1.0,142,Heal,Flash,10,False,6810,5650,Doran's Blade,Refillable Potion,Manamune,Boots of Speed,Phage,Sheen,8761,48843,Lane.bot_lane,Role.carry
+5,TwitchChunkylol,Kled,True,Side.red,5,0,8,13.0,160,Ignite,Flash,14,False,9066,7250,Ravenous Hydra,Control Ward,The Black Cleaver,Boots of Speed,,,0,77863,Lane.top_lane,Role.solo
+6,konkwon,Lucian,True,Side.red,4,2,9,6.5,116,Flash,Heal,11,False,8164,6425,Doran's Blade,Essence Reaver,Berserker's Greaves,Dagger,Dagger,Dagger,1052,57742,Lane.bot_lane,Role.carry
+7,Darvec,Hecarim,True,Side.red,10,0,3,13.0,102,Smite,Ghost,12,False,9886,8208,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Ionian Boots of Lucidity,Ruby Crystal,,12889,95242,Lane.jungle,Role.none
+8,AchiIIes Heal,Thresh,True,Side.red,2,4,13,3.75,23,Flash,Ignite,10,True,6514,5075,,Locket of the Iron Solari,Sightstone,Boots of Mobility,,Targon's Brace,4166,4843,Lane.bot_lane,Role.support
+9,Extreme Person,Ryze,True,Side.red,5,3,2,2.3333333333333335,178,Flash,Cleanse,12,False,9015,8300,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,The Dark Seal,,83030,11381,Lane.mid_lane,Role.solo

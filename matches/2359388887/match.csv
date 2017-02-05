@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Frank Slade,Kayle,False,Side.blue,0,5,3,0.6,242,Teleport,Flash,15,False,9635,9575,Doran's Ring,Nashor's Tooth,Wit's End,Zeal,Recurve Bow,Ionian Boots of Lucidity,93315,42618,Lane.top_lane,Role.solo
+1,zT ace,Alistar,False,Side.blue,1,10,11,1.2,35,Ignite,Flash,11,False,7030,5925,Face of the Mountain,Boots of Mobility,Refillable Potion,Sightstone,Chain Vest,Giant's Belt,15080,8174,Lane.bot_lane,Role.support
+2,Ty4LossRito,Riven,False,Side.blue,11,9,2,1.4444444444444444,115,Flash,Smite,13,True,11145,10825,Titanic Hydra,The Black Cleaver,Mercury's Treads,Enchantment: Warrior,Long Sword,,1121,97734,Lane.jungle,Role.none
+3,hunf,Twisted Fate,False,Side.blue,3,8,10,1.625,139,Ghost,Flash,13,False,9731,9075,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Abyssal Scepter,Ruby Crystal,Needlessly Large Rod,80689,13172,Lane.mid_lane,Role.solo
+4,Breakbot,Ezreal,False,Side.blue,1,4,8,2.25,192,Heal,Flash,13,False,9623,8000,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Last Whisper,,21688,80202,Lane.bot_lane,Role.carry
+5,Memories of CCC,Lucian,True,Side.red,14,4,4,4.5,229,Flash,Heal,15,False,15832,13650,Pickaxe,Essence Reaver,Quicksilver Sash,Phantom Dancer,Berserker's Greaves,Infinity Edge,2592,172786,Lane.bot_lane,Role.carry
+6,KlNG BOB,Ahri,True,Side.red,9,3,11,6.666666666666667,188,Ignite,Flash,16,False,13795,12375,Rabadon's Deathcap,Void Staff,Hextech Protobelt-01,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,95205,22665,Lane.mid_lane,Role.solo
+7,TTUPhoenix,Nautilus,True,Side.red,7,1,10,17.0,114,Smite,Flash,15,False,12228,10650,Enchantment: Cinderhulk,Mercury's Treads,Frozen Heart,Spirit Visage,Kindlegem,Ruby Crystal,70817,37312,Lane.jungle,Role.none
+8,Rìot Faker,Soraka,True,Side.red,3,6,16,3.1666666666666665,6,Flash,Exhaust,12,False,9506,8275,Nomad's Medallion,Redemption,Ruby Sightstone,Mejai's Soulstealer,Ionian Boots of Lucidity,Aegis of the Legion,6436,5822,Lane.bot_lane,Role.support
+9,Darude GateStorm,Singed,True,Side.red,3,2,12,7.5,195,Ghost,Ignite,16,False,11972,10075,The Dark Seal,Corrupting Potion,Righteous Glory,Mercury's Treads,Rylai's Crystal Scepter,Thornmail,126978,6387,Lane.top_lane,Role.solo

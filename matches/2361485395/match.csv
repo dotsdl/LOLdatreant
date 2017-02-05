@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pyroen,Lux,False,Side.blue,5,7,5,1.4285714285714286,91,Exhaust,Flash,11,False,7048,6375,Morellonomicon,Athene's Unholy Grail,Doran's Ring,Doran's Ring,Boots of Speed,,47636,9862,Lane.mid_lane,Role.solo
+1,NayvadiusWilburn,Kalista,False,Side.blue,1,8,5,0.75,107,Flash,Heal,10,False,6309,5800,Doran's Blade,Blade of the Ruined King,Boots of Speed,Recurve Bow,Dagger,Dagger,968,42345,Lane.bot_lane,Role.carry
+2,Kns Blaze,Shyvana,False,Side.blue,4,5,3,1.4,110,Flash,Smite,11,False,7265,6975,Refillable Potion,Enchantment: Bloodrazor,Ninja Tabi,Frozen Mallet,,,40043,36894,Lane.jungle,Role.none
+3,JeezyTheSnowMan,Morgana,False,Side.blue,2,8,8,1.25,19,Ignite,Flash,9,False,5907,5675,Frost Queen's Claim,Sightstone,Boots of Mobility,Crystalline Bracer,Forbidden Idol,,12722,2475,Lane.bot_lane,Role.support
+4,Aqlow,Riven,False,Side.blue,3,5,1,0.8,125,Teleport,Flash,12,False,6628,5775,The Black Cleaver,Caulfield's Warhammer,Refillable Potion,Ninja Tabi,,,0,52420,Lane.top_lane,Role.solo
+5,kt Sofm,Fizz,True,Side.red,5,4,1,1.5,112,Ignite,Flash,11,False,8110,6600,Sorcerer's Shoes,Corrupting Potion,,Doran's Ring,Lich Bane,Fiendish Codex,33203,19741,Lane.mid_lane,Role.solo
+6,Shamoo,Amumu,True,Side.red,3,3,7,3.3333333333333335,76,Flash,Smite,11,False,7821,7130,Enchantment: Runic Echoes,Boots of Speed,Sunfire Cape,Negatron Cloak,Amplifying Tome,Refillable Potion,59840,14741,Lane.jungle,Role.none
+7,less       Fear,Nautilus,True,Side.red,8,3,9,5.666666666666667,146,Teleport,Flash,13,False,10211,7900,Sunfire Cape,Dead Man's Plate,Doran's Ring,Health Potion,,Ninja Tabi,69153,19705,Lane.top_lane,Role.solo
+8,The Eggsalad,Vel'Koz,True,Side.red,3,4,9,3.0,23,Exhaust,Flash,10,True,7291,6900,Frostfang,Liandry's Torment,Sorcerer's Shoes,Sightstone,Total Biscuit of Rejuvenation,Elixir of Sorcery,22295,5072,Lane.bot_lane,Role.support
+9,Valarax,Vayne,True,Side.red,14,1,3,17.0,185,Heal,Flash,14,False,12881,12625,B. F. Sword,Berserker's Greaves,Infinity Edge,Phantom Dancer,Statikk Shiv,Vampiric Scepter,20845,91004,Lane.bot_lane,Role.carry

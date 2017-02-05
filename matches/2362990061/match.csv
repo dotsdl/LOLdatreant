@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Madlife WANNABE,Blitzcrank,False,Side.blue,0,4,8,2.0,33,Flash,Exhaust,10,False,5443,5325,Relic Shield,Sightstone,Boots of Swiftness,Redemption,Null-Magic Mantle,Cloth Armor,8394,4482,Lane.bot_lane,Role.support
+1,colIege dropout,Vi,False,Side.blue,7,6,3,1.6666666666666667,101,Flash,Smite,12,False,8256,7758,Enchantment: Warrior,Refillable Potion,Trinity Force,Ionian Boots of Lucidity,Long Sword,,541,81718,Lane.jungle,Role.none
+2,bive,Karthus,False,Side.blue,3,1,4,7.0,157,Flash,Ghost,13,False,7688,7475,Seeker's Armguard,Rod of Ages,Blasting Wand,Fiendish Codex,Sorcerer's Shoes,Doran's Ring,71759,4800,Lane.mid_lane,Role.solo
+3,Scholar,Vayne,False,Side.blue,1,5,2,0.6,169,Heal,Flash,11,False,7746,6150,Statikk Shiv,Cull,Berserker's Greaves,B. F. Sword,Doran's Blade,,16096,45550,Lane.bot_lane,Role.carry
+4,Damage Divers1on,Nautilus,False,Side.blue,2,2,3,2.5,162,Teleport,Flash,13,False,7851,7050,Warden's Mail,The Dark Seal,Sunfire Cape,Ninja Tabi,Glacial Shroud,Doran's Ring,60592,17280,Lane.top_lane,Role.solo
+5,Helmasaur,Lux,True,Side.red,2,3,4,2.0,152,Barrier,Flash,13,False,7939,6950,Sorcerer's Shoes,Health Potion,Luden's Echo,Lost Chapter,Fiendish Codex,Doran's Ring,69883,14314,Lane.mid_lane,Role.solo
+6,Braums Mustache,Poppy,True,Side.red,2,1,6,8.0,141,Flash,Teleport,13,False,8064,7800,Boots of Swiftness,Corrupting Potion,Sunfire Cape,Locket of the Iron Solari,Glacial Shroud,,17272,43450,Lane.top_lane,Role.solo
+7,Lukillz,Graves,True,Side.red,5,4,4,2.25,150,Flash,Smite,13,False,9869,9300,Enchantment: Warrior,Pickaxe,Phantom Dancer,Berserker's Greaves,Caulfield's Warhammer,Vampiric Scepter,3493,133551,Lane.jungle,Role.none
+8,Hanryu,Twitch,True,Side.red,6,1,7,13.0,167,Heal,Flash,12,True,10742,9600,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Cull,Last Whisper,0,75982,Lane.bot_lane,Role.carry
+9,PROJECT Leona,Zyra,True,Side.red,3,4,7,2.5,22,Ignite,Flash,10,False,7319,7050,Liandry's Torment,,Sorcerer's Shoes,Eye of the Watchers,Control Ward,,26200,2685,Lane.bot_lane,Role.support

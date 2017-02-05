@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FIoopie,Draven,False,Side.blue,5,7,9,2.0,186,Flash,Heal,14,True,12046,11650,Berserker's Greaves,,,Infinity Edge,Rapid Firecannon,The Bloodthirster,2663,117317,Lane.bot_lane,Role.carry
+1,Sheiden,Kennen,False,Side.blue,5,8,5,1.25,207,Ghost,Flash,14,False,11327,10675,Void Staff,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Fiendish Codex,,100294,29613,Lane.mid_lane,Role.solo
+2,Adrian Riven,Riven,False,Side.blue,10,6,3,2.1666666666666665,210,Teleport,Flash,15,False,13183,12200,Youmuu's Ghostblade,Tiamat,Mercury's Treads,Duskblade of Draktharr,The Black Cleaver,Long Sword,0,138495,Lane.top_lane,Role.solo
+3,retarded virgin,Rengar,False,Side.blue,4,7,6,1.4285714285714286,134,Flash,Smite,14,False,11035,10950,Enchantment: Warrior,Randuin's Omen,Tiamat,Ionian Boots of Lucidity,The Black Cleaver,,13610,123694,Lane.jungle,Role.none
+4,cokes,Janna,False,Side.blue,0,3,13,4.333333333333333,7,Exhaust,Flash,12,False,8182,7350,Redemption,Locket of the Iron Solari,Sightstone,Boots of Mobility,Nomad's Medallion,,3963,5645,Lane.bot_lane,Role.support
+5,im Dusk,Rek'Sai,True,Side.red,9,2,15,12.0,171,Smite,Flash,16,False,14013,11350,Randuin's Omen,Tiamat,Enchantment: Cinderhulk,Ninja Tabi,Dead Man's Plate,Ruby Crystal,39308,123322,Lane.jungle,Role.none
+6,Liquid fabbbyyy,Vayne,True,Side.red,6,8,9,1.875,183,Flash,Heal,14,False,12068,11025,Infinity Edge,Statikk Shiv,Dagger,Doran's Blade,Berserker's Greaves,Guardian Angel,15236,105271,Lane.bot_lane,Role.carry
+7,Pond,Bard,True,Side.red,3,5,21,4.8,7,Exhaust,Flash,14,False,9880,8470,Ruby Sightstone,Redemption,Locket of the Iron Solari,,Boots of Mobility,Negatron Cloak,13132,5546,Lane.bot_lane,Role.support
+8,Annie Bot,Annie,True,Side.red,5,4,12,4.25,179,Exhaust,Flash,15,False,11677,9100,Doran's Ring,Void Staff,Doran's Ring,Needlessly Large Rod,Ionian Boots of Lucidity,Rylai's Crystal Scepter,84631,11417,Lane.mid_lane,Role.solo
+9,zlsna,Ekko,True,Side.red,8,5,9,3.4,266,Flash,Teleport,17,False,14769,11850,Hextech Protobelt-01,Needlessly Large Rod,Zhonya's Hourglass,Corrupting Potion,Lich Bane,Ninja Tabi,155656,30685,Lane.top_lane,Role.solo

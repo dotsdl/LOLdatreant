@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BillyBoss1,Irelia,True,Side.blue,6,1,10,16.0,162,Flash,Teleport,13,False,10585,9808,Titanic Hydra,Corrupting Potion,Cloth Armor,Trinity Force,Ninja Tabi,Doran's Blade,1357,85245,Lane.top_lane,Role.solo
+1,Carkyn,Zed,True,Side.blue,7,1,6,13.0,114,Flash,Ignite,12,False,8566,7750,Youmuu's Ghostblade,The Black Cleaver,Refillable Potion,Boots of Swiftness,Long Sword,Long Sword,5864,67625,Lane.jungle,Role.none
+2,bvcx222,Blitzcrank,True,Side.blue,2,2,7,4.5,41,Flash,Exhaust,10,False,6504,5700,Ruby Sightstone,Face of the Mountain,Total Biscuit of Rejuvenation,,Ruby Crystal,Boots of Mobility,11439,6832,Lane.bot_lane,Role.support
+3,Imaqtpie,Kalista,True,Side.blue,7,5,5,2.4,146,Flash,Heal,11,False,9387,8125,Blade of the Ruined King,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Long Sword,,817,61068,Lane.bot_lane,Role.carry
+4,An Obese Panda,Zac,True,Side.blue,1,1,9,10.0,106,Smite,Flash,11,False,7943,7575,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Thornmail,Giant's Belt,Ruby Crystal,62457,15659,Lane.jungle,Role.none
+5,Brian Griffin,Karma,False,Side.red,1,4,4,1.25,15,Exhaust,Flash,9,False,5542,4925,Eye of the Watchers,,Crystalline Bracer,Forbidden Idol,,Ionian Boots of Lucidity,6790,3026,Lane.bot_lane,Role.support
+6,FIoopie,Lucian,False,Side.red,3,4,3,1.5,148,Flash,Heal,10,True,7305,6700,Doran's Blade,,,Berserker's Greaves,Zeal,Essence Reaver,1158,63298,Lane.bot_lane,Role.carry
+7,Adrian Riven,Riven,False,Side.red,5,5,1,1.2,140,Teleport,Flash,12,False,7274,6775,Youmuu's Ghostblade,The Black Cleaver,Refillable Potion,Boots of Speed,,,0,79529,Lane.top_lane,Role.solo
+8,KillerUnit,Skarner,False,Side.red,0,6,6,1.0,87,Smite,Flash,11,False,6247,5950,Enchantment: Cinderhulk,Refillable Potion,Sheen,Glacial Shroud,Ionian Boots of Lucidity,,25679,52978,Lane.jungle,Role.none
+9,oSee,Jayce,False,Side.red,1,4,5,1.5,118,Flash,Exhaust,11,False,6189,5625,Doran's Blade,The Black Cleaver,Serrated Dirk,Boots of Speed,Control Ward,Long Sword,4378,48681,Lane.mid_lane,Role.solo

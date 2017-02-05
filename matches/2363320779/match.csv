@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SKY Fear,Nautilus,True,Side.blue,2,6,12,2.3333333333333335,205,Flash,Teleport,16,False,12097,11600,Doran's Ring,Randuin's Omen,Iceborn Gauntlet,Ruby Crystal,Ninja Tabi,Sunfire Cape,91967,35719,Lane.top_lane,Role.solo
+1,Seoksang,Lee Sin,True,Side.blue,8,2,13,10.5,135,Smite,Flash,16,False,13764,12500,Randuin's Omen,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Ninja Tabi,Sterak's Gage,31849,123067,Lane.jungle,Role.none
+2,Alex Ich 1,Katarina,True,Side.blue,11,7,11,3.142857142857143,180,Flash,Ignite,16,False,13312,12475,Hextech Gunblade,The Dark Seal,Sorcerer's Shoes,Rylai's Crystal Scepter,Luden's Echo,Chain Vest,124025,14412,Lane.mid_lane,Role.solo
+3,Liquid fabbbyyy,Vayne,True,Side.blue,14,5,6,4.0,233,Flash,Heal,15,False,15877,15950,Quicksilver Sash,The Bloodthirster,Berserker's Greaves,Statikk Shiv,Infinity Edge,Rapid Firecannon,38411,153711,Lane.bot_lane,Role.carry
+4,Winter is back,Karma,True,Side.blue,0,2,23,11.5,23,Flash,Exhaust,14,False,10567,10275,Athene's Unholy Grail,Ninja Tabi,Forbidden Idol,Eye of the Watchers,Ardent Censer,,18525,9776,Lane.bot_lane,Role.support
+5,RF Legendary,Jayce,False,Side.red,10,4,6,4.0,237,Flash,Teleport,16,False,14220,14610,Death's Dance,The Black Cleaver,Pickaxe,Lord Dominik's Regards,Serrated Dirk,Berserker's Greaves,29421,150460,Lane.top_lane,Role.solo
+6,dog deft,Twitch,False,Side.red,6,8,6,1.5,196,Flash,Heal,13,False,11801,11400,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Phantom Dancer,Elixir of Wrath,Doran's Blade,832,92674,Lane.bot_lane,Role.carry
+7,1onz,Lulu,False,Side.red,0,7,11,1.5714285714285714,12,Flash,Ignite,12,False,7790,7000,Spellthief's Edge,Redemption,Locket of the Iron Solari,Boots of Mobility,Sightstone,,10991,6530,Lane.bot_lane,Role.support
+8,AKA SIeepingDAWG,Kayle,False,Side.red,1,12,11,1.0,159,Flash,Exhaust,14,False,10289,10050,Runaan's Hurricane,Hexdrinker,Nashor's Tooth,Berserker's Greaves,The Dark Seal,Recurve Bow,78256,29404,Lane.mid_lane,Role.solo
+9,Do U Copy,Rek'Sai,False,Side.red,5,4,9,3.5,264,Smite,Flash,17,True,13652,13525,Titanic Hydra,Enchantment: Cinderhulk,Randuin's Omen,Mercury's Treads,Spirit Visage,Cloth Armor,49087,158932,Lane.jungle,Role.none

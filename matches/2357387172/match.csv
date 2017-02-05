@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Microverse,Lissandra,True,Side.blue,5,9,18,2.5555555555555554,158,Ignite,Flash,16,False,12210,11025,Sorcerer's Shoes,Hextech Protobelt-01,Zhonya's Hourglass,Abyssal Scepter,Blasting Wand,,106430,10461,Lane.mid_lane,Role.solo
+1,am sol,Graves,True,Side.blue,9,5,10,3.8,208,Smite,Flash,17,False,14598,14375,Phantom Dancer,The Bloodthirster,Death's Dance,Boots of Swiftness,Enchantment: Warrior,Pickaxe,5264,206467,Lane.jungle,Role.none
+2,LiterallyAPotato,Blitzcrank,True,Side.blue,6,7,16,3.142857142857143,25,Flash,Exhaust,14,False,10760,9325,Sightstone,Locket of the Iron Solari,Redemption,Relic Shield,Boots of Mobility,Frozen Heart,11762,9740,Lane.bot_lane,Role.support
+3,Never Vote Yes,Jinx,True,Side.blue,13,4,9,5.5,252,Flash,Heal,17,False,15886,12800,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Statikk Shiv,Last Whisper,28315,172694,Lane.bot_lane,Role.carry
+4,2311115,Trundle,True,Side.blue,8,4,16,6.0,226,Teleport,Flash,18,True,14292,13150,Titanic Hydra,Randuin's Omen,Stinger,Ninja Tabi,Spirit Visage,Phage,5141,171944,Lane.top_lane,Role.solo
+5,Todamax,Tryndamere,False,Side.red,8,7,6,2.0,256,Ghost,Ignite,17,False,15666,15050,Blade of the Ruined King,Quicksilver Sash,Berserker's Greaves,Statikk Shiv,Mortal Reminder,Phantom Dancer,38530,180724,Lane.top_lane,Role.solo
+6,l Light I,Caitlyn,False,Side.red,8,8,1,1.125,175,Flash,Heal,14,False,12898,12725,The Bloodthirster,Infinity Edge,Control Ward,Berserker's Greaves,Runaan's Hurricane,Pickaxe,476,141227,Lane.bot_lane,Role.carry
+7,abuch21,Bard,False,Side.red,1,13,14,1.1538461538461537,13,Exhaust,Flash,12,False,9967,8425,Eye of the Watchers,,Redemption,Boots of Mobility,Frozen Heart,,17417,3775,Lane.bot_lane,Role.support
+8,Bilbo Fett,Viktor,False,Side.red,5,7,8,1.8571428571428572,187,Flash,Ghost,14,False,12394,11450,Perfect Hex Core,Rylai's Crystal Scepter,Sheen,Ionian Boots of Lucidity,Doran's Ring,Void Staff,138061,12389,Lane.mid_lane,Role.solo
+9,Ktownyy,Lee Sin,False,Side.red,7,6,10,2.8333333333333335,139,Flash,Smite,15,False,12633,12350,Locket of the Iron Solari,Titanic Hydra,,Dead Man's Plate,Boots of Mobility,Enchantment: Warrior,21467,114720,Lane.jungle,Role.none

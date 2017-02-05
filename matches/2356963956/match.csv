@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Révenge,LeBlanc,True,Side.blue,5,1,7,12.0,95,Ignite,Flash,11,False,7065,4325,Doran's Ring,Morellonomicon,Refillable Potion,,Boots of Speed,Doran's Ring,47185,10398,Lane.mid_lane,Role.solo
+1,Never Been,Ashe,True,Side.blue,4,2,4,4.0,106,Flash,Heal,9,False,7101,5975,Doran's Blade,Essence Reaver,Berserker's Greaves,Dagger,,Dagger,518,56319,Lane.bot_lane,Role.duo
+2,I Usually Feed,Karma,True,Side.blue,2,1,8,10.0,7,Flash,Ignite,9,False,5150,4050,Eye of the Watchers,,Total Biscuit of Rejuvenation,Ruby Crystal,Ionian Boots of Lucidity,,13748,7462,Lane.bot_lane,Role.duo
+3,Riesig,Yorick,True,Side.blue,6,1,4,10.0,124,Flash,Teleport,11,False,7692,7383,Corrupting Potion,Trinity Force,Zz'Rot Portal,,Boots of Speed,,5430,55345,Lane.top_lane,Role.solo
+4,Tuesdayy,Lee Sin,True,Side.blue,6,3,3,3.0,85,Smite,Flash,10,True,7129,4350,Tiamat,Enchantment: Warrior,Refillable Potion,Boots of Speed,,,7239,59013,Lane.jungle,Role.none
+5,Jurassiq,Ezreal,False,Side.red,1,5,1,0.4,88,Flash,Heal,8,False,4627,3700,Tear of the Goddess,Doran's Blade,Sheen,Boots of Speed,Glacial Shroud,,4183,27727,Lane.bot_lane,Role.duo
+6,1936 1948,Shaco,False,Side.red,3,4,0,0.75,47,Smite,Ignite,9,False,4703,4350,Tiamat,Hextech Revolver,Hunter's Machete,Boots of Mobility,Long Sword,Long Sword,10930,25425,Lane.jungle,Role.none
+7,Maxtrobo,Ekko,False,Side.red,1,7,0,0.14285714285714285,50,Flash,Teleport,8,False,3717,3325,Doran's Ring,Doran's Ring,Doran's Ring,Doran's Ring,Doran's Ring,Doran's Ring,16879,3936,Lane.top_lane,Role.solo
+8,cute pupper irl,Nami,False,Side.red,1,2,1,1.0,0,Flash,Exhaust,6,False,3212,2350,Spellthief's Edge,Sightstone,Boots of Mobility,,,,1174,2248,Lane.bot_lane,Role.duo
+9,Pekin Woof,Cassiopeia,False,Side.red,2,5,0,0.4,66,Flash,Ghost,8,False,4308,2545,Doran's Ring,Negatron Cloak,,,Doran's Ring,Tear of the Goddess,18623,4122,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lokreah,Ziggs,False,Side.blue,0,7,2,0.2857142857142857,136,Flash,Ghost,10,False,6030,5625,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,,,61918,10187,Lane.mid_lane,Role.solo
+1,Sympothix,Jhin,False,Side.blue,1,6,1,0.3333333333333333,90,Flash,Heal,9,False,5411,3350,Doran's Blade,Caulfield's Warhammer,B. F. Sword,Boots of Speed,,,480,37857,Lane.bot_lane,Role.carry
+2,IMT GunSlinger,Heimerdinger,False,Side.blue,1,6,0,0.16666666666666666,165,Flash,Teleport,12,False,6940,6575,Morellonomicon,Abyssal Scepter,,,Doran's Ring,Boots of Speed,80715,9682,Lane.top_lane,Role.solo
+3,am sol,Nidalee,False,Side.blue,3,5,1,0.8,81,Smite,Flash,11,False,6833,6075,Enchantment: Runic Echoes,Needlessly Large Rod,Ionian Boots of Lucidity,Giant's Belt,,,57758,11281,Lane.jungle,Role.none
+4,Codyduh,Bard,False,Side.blue,2,8,3,0.625,6,Ignite,Flash,8,True,5278,4875,Sightstone,Frostfang,Boots of Mobility,Redemption,,,5716,2647,Lane.bot_lane,Role.support
+5,LegitADC,Caitlyn,True,Side.red,8,0,9,17.0,199,Heal,Flash,14,False,11500,8950,Control Ward,Berserker's Greaves,Infinity Edge,Doran's Blade,Runaan's Hurricane,Vampiric Scepter,391,125074,Lane.bot_lane,Role.carry
+6,I Blame Rito,Poppy,True,Side.red,7,1,0,7.0,149,Flash,Teleport,13,False,8370,7300,Spirit Visage,Corrupting Potion,Mercury's Treads,Giant's Belt,Chain Vest,Bami's Cinder,6109,55414,Lane.top_lane,Role.solo
+7,am tham ben em,Zac,True,Side.red,5,0,6,11.0,64,Flash,Smite,11,False,7736,9175,Ionian Boots of Lucidity,Spirit Visage,Refillable Potion,Enchantment: Runic Echoes,,,44774,14135,Lane.jungle,Role.none
+8,9point5mechanics,Ryze,True,Side.red,7,2,8,7.5,134,Ghost,Flash,12,False,9343,7925,Refillable Potion,Rod of Ages,Control Ward,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Tear of the Goddess,73811,7290,Lane.mid_lane,Role.solo
+9,Asukira,Taliyah,True,Side.red,5,5,8,2.6,26,Exhaust,Flash,10,False,7450,7075,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Rylai's Crystal Scepter,,,29917,4602,Lane.bot_lane,Role.support

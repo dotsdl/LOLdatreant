@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MavIzzpro,Ivern,True,Side.blue,3,0,8,11.0,81,Flash,Smite,12,False,7925,7350,Enchantment: Cinderhulk,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Ruby Crystal,,,10429,2885,Lane.jungle,Role.none
+1,C9 AdcTrashCan,Jhin,True,Side.blue,10,1,7,17.0,141,Flash,Heal,12,True,10515,9150,Doran's Blade,Total Biscuit of Rejuvenation,Boots of Swiftness,Rapid Firecannon,Essence Reaver,B. F. Sword,3599,87619,Lane.bot_lane,Role.carry
+2,Morseti,Wukong,True,Side.blue,3,0,1,4.0,159,Flash,Teleport,13,False,7805,5550,Doran's Blade,Doran's Blade,Serrated Dirk,Boots of Speed,The Black Cleaver,,1545,61535,Lane.top_lane,Role.solo
+3,AlanLHT,Viktor,True,Side.blue,1,3,2,1.0,168,Flash,Ghost,12,False,7798,7145,Perfect Hex Core,Needlessly Large Rod,Ruby Crystal,Negatron Cloak,Doran's Ring,Ionian Boots of Lucidity,75752,12676,Lane.mid_lane,Role.solo
+4,Redawn,Sona,True,Side.blue,3,2,13,8.0,3,Exhaust,Flash,11,False,7307,6525,Redemption,Ionian Boots of Lucidity,Eye of the Watchers,Control Ward,Aegis of the Legion,,7889,3513,Lane.bot_lane,Role.support
+5,ImJalapenoLane,Draven,False,Side.red,0,5,2,0.4,125,Heal,Flash,10,False,6287,5350,Doran's Blade,Cull,Infinity Edge,Dagger,Boots of Speed,Health Potion,112,53982,Lane.bot_lane,Role.carry
+6,IQ is 201 ,Lee Sin,False,Side.red,4,6,1,0.8333333333333334,84,Flash,Smite,10,False,6635,5750,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Mobility,Null-Magic Mantle,Long Sword,14555,63998,Lane.jungle,Role.none
+7,longdongsi1ver69,Poppy,False,Side.red,1,3,0,0.3333333333333333,136,Flash,Teleport,12,False,6078,5700,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Mercury's Treads,,,21834,44976,Lane.top_lane,Role.solo
+8,JUNE24th,Lulu,False,Side.red,0,3,3,1.0,11,Flash,Exhaust,9,False,4279,3600,Sightstone,Boots of Speed,Frost Queen's Claim,,,,6544,2226,Lane.bot_lane,Role.support
+9,EvenC,Ekko,False,Side.red,1,3,4,1.6666666666666667,116,Flash,Ignite,12,False,6167,5950,Sorcerer's Shoes,Lost Chapter,Hextech Protobelt-01,The Dark Seal,Fiendish Codex,,57400,10227,Lane.mid_lane,Role.solo

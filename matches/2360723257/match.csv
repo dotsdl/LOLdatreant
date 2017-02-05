@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Butler Alpha,Ryze,False,Side.blue,1,3,4,1.6666666666666667,160,Flash,Ghost,12,False,7104,6250,Control Ward,Refillable Potion,Sorcerer's Shoes,Tear of the Goddess,Needlessly Large Rod,Rod of Ages,81976,8390,Lane.mid_lane,Role.solo
+1,McCashDollar,Maokai,False,Side.blue,2,5,5,1.4,63,Flash,Smite,10,True,6195,5550,Enchantment: Cinderhulk,Giant's Belt,,Boots of Swiftness,Cloth Armor,The Dark Seal,34990,15744,Lane.jungle,Role.none
+2,Doublelift,Caitlyn,False,Side.blue,3,9,2,0.5555555555555556,154,Flash,Heal,11,False,7621,6900,Doran's Blade,Pickaxe,Cull,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,103,71283,Lane.bot_lane,Role.carry
+3,Santa Quas,Jax,False,Side.blue,4,4,1,1.25,148,Teleport,Flash,13,False,7526,7133,Doran's Shield,Corrupting Potion,Ninja Tabi,Trinity Force,Giant's Belt,Cloth Armor,19519,57060,Lane.top_lane,Role.solo
+4,TDK CaillouX,Karma,False,Side.blue,0,7,6,0.8571428571428571,8,Flash,Exhaust,9,False,4846,4500,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,,,8285,2711,Lane.bot_lane,Role.support
+5,Révenge,Yasuo,True,Side.red,12,3,1,4.333333333333333,168,Exhaust,Flash,13,False,11570,11005,Doran's Blade,Infinity Edge,Phantom Dancer,Mercury's Treads,Caulfield's Warhammer,Hexdrinker,24298,95138,Lane.bot_lane,Role.duo
+6,RF Legendary,Jayce,True,Side.red,4,1,3,7.0,160,Flash,Teleport,13,False,9321,8450,Refillable Potion,,Edge of Night,Ionian Boots of Lucidity,The Black Cleaver,,15057,76595,Lane.top_lane,Role.solo
+7,BillyBoss1,Nautilus,True,Side.red,1,2,14,7.5,47,Flash,Exhaust,10,False,8400,7825,Eye of the Equinox,Locket of the Iron Solari,Warden's Mail,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Giant's Belt,15621,8394,Lane.bot_lane,Role.duo
+8,WhiteYoshi,Vi,True,Side.red,3,3,8,3.6666666666666665,107,Smite,Flash,13,False,9005,6883,Enchantment: Warrior,Refillable Potion,Trinity Force,Boots of Speed,,,1696,104047,Lane.jungle,Role.none
+9,Huhi,Orianna,True,Side.red,8,1,4,12.0,193,Flash,Ghost,14,False,11302,10125,Doran's Ring,Doran's Ring,Needlessly Large Rod,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,97235,12535,Lane.mid_lane,Role.solo

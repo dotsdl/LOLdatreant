@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KarasMai,Graves,True,Side.blue,10,5,7,3.4,202,Flash,Smite,16,True,15724,14325,Enchantment: Warrior,The Black Cleaver,Phantom Dancer,Maw of Malmortius,Mercury's Treads,Vampiric Scepter,6244,202896,Lane.jungle,Role.none
+1,UO Daniel Wu,Brand,True,Side.blue,3,7,11,2.0,50,Flash,Ignite,13,False,10883,10075,Frostfang,Sightstone,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Blasting Wand,44002,7076,Lane.bot_lane,Role.support
+2,MarkCrorigan,Poppy,True,Side.blue,2,2,8,5.0,127,Flash,Teleport,14,False,10409,10275,Sunfire Cape,Spirit Visage,Mercury's Treads,Dead Man's Plate,,,27560,48365,Lane.top_lane,Role.solo
+3,Vicktorious,Syndra,True,Side.blue,3,8,4,0.875,176,Flash,Ghost,14,False,11059,9800,Aether Wisp,Doran's Ring,Needlessly Large Rod,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,113748,12918,Lane.mid_lane,Role.solo
+4,MeowKye,Vayne,True,Side.blue,10,3,5,5.0,219,Heal,Flash,15,False,14708,12075,Doran's Blade,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Statikk Shiv,Lord Dominik's Regards,38601,118547,Lane.bot_lane,Role.carry
+5,Barclay snoopy,Nunu,False,Side.red,0,6,12,2.0,71,Smite,Flash,13,False,8669,8450,Enchantment: Cinderhulk,Randuin's Omen,Glacial Shroud,Cloth Armor,Cloth Armor,Mercury's Treads,36229,27914,Lane.jungle,Role.none
+6,Barclay Kaina,LeBlanc,False,Side.red,8,7,4,1.7142857142857142,136,Flash,Ignite,14,False,10345,10070,Luden's Echo,Morellonomicon,Seeker's Armguard,,Negatron Cloak,Sorcerer's Shoes,70288,14243,Lane.mid_lane,Role.solo
+7,HatersWantToBeMe,Caitlyn,False,Side.red,6,6,5,1.8333333333333333,282,Heal,Flash,15,False,13826,13225,Runaan's Hurricane,Rapid Firecannon,Infinity Edge,Vampiric Scepter,Berserker's Greaves,Last Whisper,4110,185224,Lane.bot_lane,Role.carry
+8,Jophs,Lulu,False,Side.red,1,5,17,3.6,7,Ignite,Flash,13,False,8355,8025,Frost Queen's Claim,Redemption,Aegis of the Legion,Sightstone,,Ionian Boots of Lucidity,14155,4797,Lane.bot_lane,Role.support
+9,TextualEditorXD,Gangplank,False,Side.red,10,4,4,3.5,275,Teleport,Flash,17,False,15636,14758,,Infinity Edge,Trinity Force,Phantom Dancer,Ionian Boots of Lucidity,Guardian Angel,7254,219079,Lane.top_lane,Role.solo

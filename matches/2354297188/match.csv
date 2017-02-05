@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bao Bao,Karma,False,Side.blue,3,4,1,1.0,168,Teleport,Flash,12,True,7518,7025,Zz'Rot Portal,Ionian Boots of Lucidity,Redemption,Doran's Ring,Null-Magic Mantle,Cloth Armor,48982,14145,Lane.mid_lane,Role.solo
+1,Tobias Fate,Twisted Fate,False,Side.blue,1,6,3,0.6666666666666666,15,Flash,Ghost,9,False,4969,4300,Boots of Swiftness,Talisman of Ascension,Kindlegem,,,,8869,3639,Lane.bot_lane,Role.support
+2,IWD is a fgt,Lee Sin,False,Side.blue,3,5,3,1.2,77,Smite,Flash,10,False,6548,5675,Refillable Potion,Enchantment: Warrior,Giant's Belt,Ninja Tabi,Chain Vest,,12875,47121,Lane.jungle,Role.none
+3,eastern5torm,Ezreal,False,Side.blue,1,4,3,1.0,128,Heal,Flash,11,False,6608,6550,Doran's Blade,Manamune,Cull,Iceborn Gauntlet,Boots of Speed,,10178,45786,Lane.bot_lane,Role.carry
+4,BIind Goat,Rumble,False,Side.blue,0,5,0,0.0,80,Teleport,Flash,10,False,4930,2550,Doran's Shield,Haunting Guise,Boots of Speed,,Refillable Potion,,23967,5157,Lane.top_lane,Role.solo
+5,goompa,Ekko,True,Side.red,4,3,4,2.6666666666666665,143,Ignite,Flash,12,False,7890,6575,Boots of Speed,Control Ward,Hextech Protobelt-01,,Lich Bane,Corrupting Potion,63299,17572,Lane.mid_lane,Role.solo
+6,Boolt,Nami,True,Side.red,0,2,10,5.0,4,Flash,Exhaust,10,False,6160,5375,Spellthief's Edge,Redemption,Boots of Mobility,Ruby Sightstone,Refillable Potion,,5526,5521,Lane.bot_lane,Role.support
+7,HungBrickMan,Jhin,True,Side.red,4,1,3,7.0,130,Heal,Flash,10,False,8164,7050,Doran's Blade,Ionian Boots of Lucidity,Cull,Essence Reaver,Zeal,Control Ward,2306,57064,Lane.bot_lane,Role.carry
+8,wáck,Yasuo,True,Side.red,6,1,3,9.0,238,Teleport,Flash,14,False,10650,9025,Doran's Blade,Phantom Dancer,Control Ward,Berserker's Greaves,Infinity Edge,Vampiric Scepter,31108,117211,Lane.top_lane,Role.solo
+9,SmooshyCake,Kha'Zix,True,Side.red,10,1,5,15.0,131,Smite,Flash,14,False,11724,9875,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,,4444,137345,Lane.jungle,Role.none

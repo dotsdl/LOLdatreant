@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,A Little Jenny,Sona,True,Side.blue,7,5,14,4.2,125,Exhaust,Flash,15,False,12190,12185,Luden's Echo,Morellonomicon,Lich Bane,Sorcerer's Shoes,Amplifying Tome,,65870,18836,Lane.mid_lane,Role.solo
+1,Michael Kwok,Soraka,True,Side.blue,2,5,16,3.6,17,Exhaust,Flash,13,True,9800,9090,Redemption,Ardent Censer,Sightstone,Talisman of Ascension,Ionian Boots of Lucidity,,11479,5916,Lane.bot_lane,Role.support
+2,Luuuurking,Ezreal,True,Side.blue,13,4,8,5.25,240,Flash,Heal,16,False,16479,14850,B. F. Sword,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,Lord Dominik's Regards,Muramana,28852,163894,Lane.bot_lane,Role.carry
+3,Lokisaurus,Talon,True,Side.blue,3,8,4,0.875,166,Ignite,Flash,15,False,11327,10550,Death's Dance,Lord Dominik's Regards,Corrupting Potion,Caulfield's Warhammer,Long Sword,Ionian Boots of Lucidity,2500,114042,Lane.top_lane,Role.solo
+4,TRUMPSSMALLHANDS,Rengar,True,Side.blue,7,5,10,3.4,141,Flash,Smite,16,False,12553,11050,Enchantment: Warrior,Tiamat,Refillable Potion,The Black Cleaver,Spirit Visage,Mercury's Treads,15845,135363,Lane.jungle,Role.none
+5,AlvShooter,Vayne,False,Side.red,5,6,10,2.5,199,Flash,Heal,14,False,11207,10550,Doran's Blade,Infinity Edge,Hexdrinker,Statikk Shiv,Berserker's Greaves,Caulfield's Warhammer,28932,82069,Lane.bot_lane,Role.carry
+6,l  d r k  l,Thresh,False,Side.red,2,8,14,2.0,35,Ignite,Flash,13,False,8322,8050,Face of the Mountain,Ruby Sightstone,Redemption,Boots of Mobility,Kindlegem,,17875,7922,Lane.bot_lane,Role.support
+7,Michels,Jax,False,Side.red,6,5,2,1.6,225,Flash,Teleport,16,False,12081,11583,Corrupting Potion,Trinity Force,Ninja Tabi,Randuin's Omen,Dead Man's Plate,Null-Magic Mantle,34258,102148,Lane.top_lane,Role.solo
+8,StepOnALegoTeemo,Viktor,False,Side.red,7,8,5,1.5,198,Flash,Barrier,15,False,11667,11450,Rylai's Crystal Scepter,Doran's Ring,Perfect Hex Core,Ionian Boots of Lucidity,Lich Bane,,141878,14480,Lane.mid_lane,Role.solo
+9,Pahidas,Gragas,False,Side.red,7,5,11,3.6,148,Smite,Flash,16,False,11741,11025,Enchantment: Runic Echoes,Iceborn Gauntlet,Spirit Visage,Chain Vest,Cloth Armor,Ninja Tabi,110164,40223,Lane.jungle,Role.none

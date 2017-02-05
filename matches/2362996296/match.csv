@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mr Gimix,Kennen,True,Side.blue,12,3,8,6.666666666666667,155,Teleport,Flash,14,False,12687,10185,Blasting Wand,Sorcerer's Shoes,Seeker's Armguard,Rylai's Crystal Scepter,Hextech Protobelt-01,Amplifying Tome,68832,24418,Lane.top_lane,Role.solo
+1,Dardøch,Lee Sin,True,Side.blue,7,4,12,4.75,106,Smite,Flash,14,False,11086,11125,Ninja Tabi,Locket of the Iron Solari,Enchantment: Warrior,Dead Man's Plate,Warden's Mail,Giant's Belt,14597,95022,Lane.jungle,Role.none
+2,Pianist,Brand,True,Side.blue,6,6,11,2.8333333333333335,60,Flash,Ignite,11,True,9942,9550,Frostfang,Rylai's Crystal Scepter,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,,32964,5589,Lane.bot_lane,Role.duo
+3,Report If Toxic,Ekko,True,Side.blue,7,6,12,3.1666666666666665,105,Flash,Teleport,13,False,10392,8800,Corrupting Potion,Zhonya's Hourglass,The Dark Seal,Hextech Protobelt-01,Ionian Boots of Lucidity,Needlessly Large Rod,67972,12714,Lane.jungle,Role.none
+4,Miracle Kid,Caitlyn,True,Side.blue,8,5,12,4.0,112,Heal,Flash,12,False,10611,10100,Doran's Blade,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,B. F. Sword,Pickaxe,526,82322,Lane.bot_lane,Role.duo
+5,7788 ADC,Jayce,False,Side.red,8,7,4,1.7142857142857142,109,Teleport,Flash,12,False,8708,8475,Mercurial Scimitar,Maw of Malmortius,Doran's Blade,Ionian Boots of Lucidity,,,5844,52357,Lane.top_lane,Role.solo
+6,Gweiss,Graves,False,Side.red,5,8,6,1.375,163,Smite,Flash,13,False,9907,9325,Enchantment: Warrior,Youmuu's Ghostblade,Berserker's Greaves,Refillable Potion,Phantom Dancer,,3785,126351,Lane.jungle,Role.none
+7,Sophist Sage,Ezreal,False,Side.red,2,7,8,1.4285714285714286,161,Heal,Flash,12,False,8397,8283,Doran's Blade,Trinity Force,Manamune,Boots of Speed,Vampiric Scepter,Long Sword,8277,77498,Lane.bot_lane,Role.carry
+8,Karmix,Karma,False,Side.red,5,9,8,1.4444444444444444,83,Ignite,Flash,11,False,7697,7250,Doran's Ring,Athene's Unholy Grail,,Luden's Echo,Ionian Boots of Lucidity,,49676,9185,Lane.mid_lane,Role.solo
+9,26209633,Braum,False,Side.red,4,9,13,1.8888888888888888,16,Flash,Ignite,10,False,7329,7150,Ruby Sightstone,Randuin's Omen,Control Ward,Relic Shield,Mercury's Treads,Ruby Crystal,7614,3272,Lane.bot_lane,Role.support

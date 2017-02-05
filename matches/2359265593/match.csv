@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tobias Fate,Gangplank,False,Side.blue,2,8,3,0.625,111,Flash,Exhaust,11,False,7677,6958,Trinity Force,Corrupting Potion,Cull,Control Ward,Caulfield's Warhammer,Serrated Dirk,3845,57195,Lane.mid_lane,Role.solo
+1,Annie Bot,Annie,False,Side.blue,5,6,5,1.6666666666666667,31,Ignite,Flash,11,False,8126,7210,Hextech Protobelt-01,Ionian Boots of Lucidity,Frost Queen's Claim,Amplifying Tome,Blasting Wand,,23302,3578,Lane.bot_lane,Role.support
+2,Feitan,Elise,False,Side.blue,5,6,3,1.3333333333333333,105,Smite,Flash,12,False,8538,8395,Boots of Mobility,Needlessly Large Rod,Hextech Protobelt-01,Enchantment: Runic Echoes,Ruby Crystal,Amplifying Tome,54862,20647,Lane.jungle,Role.none
+3,Below Zero,Jhin,False,Side.blue,3,10,6,0.9,112,Heal,Flash,11,False,8104,7200,Doran's Blade,Cull,Ionian Boots of Lucidity,Pickaxe,B. F. Sword,Youmuu's Ghostblade,1032,62022,Lane.bot_lane,Role.carry
+4,emV,Jarvan IV,False,Side.blue,5,4,1,1.5,148,Flash,Teleport,13,True,8661,8200,Sheen,Tiamat,Randuin's Omen,Ninja Tabi,Null-Magic Mantle,Glacial Shroud,4935,72936,Lane.top_lane,Role.solo
+5,Carrots2,Karma,True,Side.red,1,5,10,2.2,22,Flash,Exhaust,11,False,7990,7300,Mikael's Crucible,Redemption,Eye of the Watchers,Boots of Speed,,,15962,6761,Lane.bot_lane,Role.support
+6,Asyc xD ,Twitch,True,Side.red,13,5,2,3.0,166,Heal,Flash,13,False,11684,10900,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Statikk Shiv,Long Sword,3257,99405,Lane.bot_lane,Role.carry
+7,NaVi Juan,Aatrox,True,Side.red,5,1,5,10.0,150,Smite,Flash,14,False,10862,10825,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Randuin's Omen,Ruby Crystal,Mercury's Treads,22169,126792,Lane.jungle,Role.none
+8,Yanni Tsunami,Zed,True,Side.red,12,5,2,2.8,195,Ignite,Flash,15,False,12562,10775,The Black Cleaver,Ninja Tabi,Youmuu's Ghostblade,Duskblade of Draktharr,,,8755,122013,Lane.mid_lane,Role.solo
+9,N810HO,Ekko,True,Side.red,3,4,4,1.75,185,Flash,Teleport,14,False,10706,10860,Lich Bane,Morellonomicon,Hextech Protobelt-01,Corrupting Potion,Doran's Ring,Ionian Boots of Lucidity,92642,23023,Lane.top_lane,Role.solo

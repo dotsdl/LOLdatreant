@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GnarlyTokes,Gnar,True,Side.blue,2,2,7,4.5,225,Teleport,Flash,15,False,11143,8075,Boots of Swiftness,The Black Cleaver,Kindlegem,,,Randuin's Omen,13808,130746,Lane.top_lane,Role.solo
+1,Bbrybry,Annie,True,Side.blue,10,3,7,5.666666666666667,142,Ignite,Flash,14,False,11227,9075,Doran's Ring,Hextech Protobelt-01,Needlessly Large Rod,Rod of Ages,Sorcerer's Shoes,Aether Wisp,73983,12808,Lane.mid_lane,Role.solo
+2,JunglePressure,Ezreal,True,Side.blue,12,1,9,21.0,194,Heal,Flash,15,False,13609,10558,Refillable Potion,Trinity Force,Muramana,Doran's Blade,Ionian Boots of Lucidity,Lord Dominik's Regards,20702,130515,Lane.bot_lane,Role.carry
+3,GGpuff,Vel'Koz,True,Side.blue,3,3,16,6.333333333333333,17,Flash,Exhaust,11,False,9252,8550,Sightstone,Morellonomicon,Frost Queen's Claim,Sorcerer's Shoes,Needlessly Large Rod,,22481,3994,Lane.bot_lane,Role.support
+4,Dumpling Sauce,Vi,True,Side.blue,6,4,11,4.25,111,Smite,Flash,13,False,10484,9508,Enchantment: Warrior,Null-Magic Mantle,Ninja Tabi,Trinity Force,Caulfield's Warhammer,Long Sword,824,105148,Lane.jungle,Role.none
+5,Picnic8,Poppy,False,Side.red,2,5,7,1.8,168,Teleport,Flash,14,False,8564,8450,Corrupting Potion,Sunfire Cape,Spirit Visage,Ninja Tabi,Glacial Shroud,,27120,56245,Lane.top_lane,Role.solo
+6,Masklink12,Viktor,False,Side.red,4,7,6,1.4285714285714286,162,Ghost,Flash,12,False,8876,8510,Perfect Hex Core,Amplifying Tome,Rylai's Crystal Scepter,,Doran's Ring,Ionian Boots of Lucidity,81890,8413,Lane.mid_lane,Role.solo
+7,cùrz,Taric,False,Side.red,1,10,6,0.7,37,Flash,Ignite,10,False,6564,5625,Ruby Sightstone,Face of the Mountain,Control Ward,Crystalline Bracer,Ionian Boots of Lucidity,,8561,5352,Lane.bot_lane,Role.support
+8,KitingYeezus,Caitlyn,False,Side.red,2,7,5,1.0,178,Flash,Heal,12,True,8801,7850,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,,830,99476,Lane.bot_lane,Role.carry
+9,Łegion,Olaf,False,Side.red,4,4,2,1.5,153,Smite,Ghost,13,False,9279,8503,Refillable Potion,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Trinity Force,Negatron Cloak,Cloth Armor,18539,99011,Lane.jungle,Role.none

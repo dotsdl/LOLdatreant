@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jungle God,Shen,False,Side.blue,4,4,1,1.25,141,Flash,Teleport,13,True,8280,7250,Zz'Rot Portal,Mercury's Treads,Sunfire Cape,Cloth Armor,,,46422,24017,Lane.top_lane,Role.solo
+1,ProPhessional,Zyra,False,Side.blue,2,7,4,0.8571428571428571,32,Exhaust,Flash,11,False,6896,6200,Frostfang,Rylai's Crystal Scepter,Sightstone,Boots of Mobility,,,32786,3449,Lane.bot_lane,Role.support
+2,zxhazardxz,Jhin,False,Side.blue,1,7,4,0.7142857142857143,134,Heal,Flash,11,False,7127,6450,Total Biscuit of Rejuvenation,Doran's Blade,Essence Reaver,Berserker's Greaves,Dagger,Brawler's Gloves,3665,71894,Lane.bot_lane,Role.carry
+3,Jiggaleepoof,Ahri,False,Side.blue,1,5,1,0.4,159,Flash,Ignite,13,False,7308,6850,Rylai's Crystal Scepter,Sorcerer's Shoes,Lost Chapter,Control Ward,Fiendish Codex,,45270,13207,Lane.mid_lane,Role.solo
+4,CrazdFighter,Lee Sin,False,Side.blue,3,8,3,0.75,57,Smite,Flash,11,False,7127,5675,Giant's Belt,Enchantment: Warrior,,Ninja Tabi,Chain Vest,,7643,43593,Lane.jungle,Role.none
+5,Ixodez,Vayne,True,Side.red,5,2,8,6.5,195,Heal,Flash,13,False,10581,6150,Doran's Blade,Refillable Potion,Boots of Speed,Zeal,Infinity Edge,Dagger,0,93253,Lane.bot_lane,Role.carry
+6,Anthøny,Kha'Zix,True,Side.red,22,2,7,14.5,108,Smite,Flash,15,False,14203,12750,Refillable Potion,Youmuu's Ghostblade,Duskblade of Draktharr,Enchantment: Warrior,Boots of Mobility,Lord Dominik's Regards,5692,155715,Lane.jungle,Role.none
+7,UD Arrow,Trundle,True,Side.red,3,4,7,2.5,168,Flash,Teleport,13,False,9406,8633,Trinity Force,Corrupting Potion,Spirit Visage,Ninja Tabi,Long Sword,,2471,91633,Lane.top_lane,Role.solo
+8,Alpha Centauri,Karma,True,Side.red,1,1,10,11.0,185,Teleport,Flash,14,False,9224,8350,Spirit Visage,Corrupting Potion,Iceborn Gauntlet,Aegis of the Legion,,Mercury's Treads,65155,26254,Lane.mid_lane,Role.solo
+9,Saximme,Janna,True,Side.red,0,2,14,7.0,16,Flash,Exhaust,12,False,7196,6985,Redemption,Sightstone,Talisman of Ascension,Boots of Swiftness,Amplifying Tome,Faerie Charm,4379,5652,Lane.bot_lane,Role.support

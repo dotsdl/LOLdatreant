@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xinthus,Tahm Kench,True,Side.blue,1,1,9,10.0,31,Exhaust,Flash,10,False,6093,5225,Refillable Potion,Ruby Sightstone,Face of the Mountain,Boots of Swiftness,Control Ward,,11256,5379,Lane.bot_lane,Role.support
+1,Soulquest1,Nasus,True,Side.blue,3,4,4,1.75,184,Teleport,Ghost,14,False,9087,7950,Doran's Ring,Doran's Ring,Spirit Visage,Iceborn Gauntlet,Ninja Tabi,,70423,50001,Lane.top_lane,Role.solo
+2,Vermillion2,Nocturne,True,Side.blue,13,1,3,16.0,149,Smite,Flash,14,True,11628,10250,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Ninja Tabi,Dead Man's Plate,Cloth Armor,4660,124295,Lane.jungle,Role.none
+3,SirRosicky,Viktor,True,Side.blue,3,2,6,4.5,132,Ghost,Flash,13,False,8048,6780,Perfect Hex Core,Negatron Cloak,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Giant's Belt,63226,10962,Lane.mid_lane,Role.solo
+4,Watch and Learn,Ashe,True,Side.blue,2,3,7,3.0,146,Flash,Heal,11,False,8433,6160,Cull,Runaan's Hurricane,Refillable Potion,B. F. Sword,Berserker's Greaves,Doran's Blade,1695,65746,Lane.bot_lane,Role.carry
+5,Mookiez,Caitlyn,False,Side.red,2,5,4,1.2,142,Heal,Flash,10,False,7202,6825,Doran's Blade,Zeal,,Berserker's Greaves,,Infinity Edge,228,57471,Lane.bot_lane,Role.carry
+6,ThePadzQC,Ziggs,False,Side.red,0,3,2,0.6666666666666666,176,Ghost,Flash,12,False,7317,6425,Morellonomicon,,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Ruby Crystal,79512,11784,Lane.mid_lane,Role.solo
+7,support or troll,Thresh,False,Side.red,1,5,6,1.4,37,Ignite,Flash,10,False,5579,4875,Control Ward,Face of the Mountain,Sightstone,,,Boots of Mobility,11591,4011,Lane.bot_lane,Role.support
+8,Henryrocks,Kha'Zix,False,Side.red,5,5,3,1.6,89,Smite,Flash,12,False,7946,6197,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Caulfield's Warhammer,,Serrated Dirk,3524,79700,Lane.jungle,Role.none
+9,MythoIogy,Jayce,False,Side.red,3,4,2,1.25,176,Teleport,Flash,13,False,8132,7525,Doran's Blade,Youmuu's Ghostblade,Refillable Potion,Manamune,Ionian Boots of Lucidity,Long Sword,13145,78427,Lane.top_lane,Role.solo

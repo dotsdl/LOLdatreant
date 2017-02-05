@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Harem King,Vayne,False,Side.blue,0,4,3,0.75,137,Heal,Flash,10,False,6035,5950,Blade of the Ruined King,Total Biscuit of Rejuvenation,Dagger,Doran's Blade,Berserker's Greaves,Dagger,297,39636,Lane.bot_lane,Role.carry
+1,rhubarbs,Karma,False,Side.blue,1,4,3,1.0,12,Exhaust,Flash,9,False,4585,3950,Spellthief's Edge,Sightstone,Redemption,Boots of Speed,,,12075,6165,Lane.bot_lane,Role.support
+2,HvK LiquidDiego,Rengar,False,Side.blue,3,4,2,1.25,101,Flash,Smite,12,True,6705,6300,Enchantment: Warrior,Caulfield's Warhammer,Control Ward,Poacher's Dirk,Ninja Tabi,Long Sword,8608,83037,Lane.jungle,Role.none
+3,Leza,Syndra,False,Side.blue,3,4,0,0.75,144,Flash,Ghost,12,False,6844,5995,Refillable Potion,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Doran's Ring,Negatron Cloak,64363,8833,Lane.mid_lane,Role.solo
+4,Cris,Quinn,False,Side.blue,3,5,0,0.6,144,Flash,Teleport,12,False,6569,6125,Youmuu's Ghostblade,Refillable Potion,Zeal,Doran's Blade,Boots of Swiftness,Dagger,1961,61345,Lane.top_lane,Role.solo
+5,Ak4dian,Lee Sin,True,Side.red,0,3,9,3.0,36,Flash,Exhaust,10,False,5575,3975,Face of the Mountain,Refillable Potion,Sightstone,,Boots of Speed,,3405,15144,Lane.bot_lane,Role.support
+6,Archhangel,Twitch,True,Side.red,3,2,6,4.5,157,Flash,Heal,12,False,8937,7275,Berserker's Greaves,Infinity Edge,Zeal,,Doran's Blade,Cull,0,54979,Lane.bot_lane,Role.carry
+7,C9 Meteos,Graves,True,Side.red,10,1,3,13.0,149,Smite,Flash,14,False,10737,10525,Youmuu's Ghostblade,Berserker's Greaves,Refillable Potion,Infinity Edge,Enchantment: Warrior,,3292,128974,Lane.jungle,Role.none
+8,NI9HT,LeBlanc,True,Side.red,5,2,3,4.0,166,Exhaust,Flash,13,False,8616,6945,,Needlessly Large Rod,Morellonomicon,Negatron Cloak,Doran's Ring,Sorcerer's Shoes,75828,14076,Lane.mid_lane,Role.solo
+9,Tower of God,Riven,True,Side.red,3,2,2,2.5,172,Flash,Teleport,13,False,8541,6950,The Black Cleaver,Refillable Potion,Tiamat,,Ninja Tabi,Caulfield's Warhammer,0,91815,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fuko lbuki,Bard,False,Side.blue,2,5,9,2.2,22,Flash,Ignite,12,False,8155,7575,Redemption,Frost Queen's Claim,Ruby Sightstone,Control Ward,Total Biscuit of Rejuvenation,Boots of Mobility,18929,4707,Lane.bot_lane,Role.support
+1,bjerg fanboy,Cassiopeia,False,Side.blue,9,7,3,1.7142857142857142,207,Flash,Ghost,15,False,12064,10700,Doran's Ring,Seraph's Embrace,Abyssal Scepter,Refillable Potion,Rylai's Crystal Scepter,Blasting Wand,114056,5878,Lane.mid_lane,Role.solo
+2,6IIII9,Poppy,False,Side.blue,1,3,6,2.3333333333333335,196,Teleport,Flash,15,False,10289,10075,Sunfire Cape,Corrupting Potion,Iceborn Gauntlet,Mercury's Treads,Spirit Visage,,32238,83840,Lane.top_lane,Role.solo
+3,MindCalm,Shaco,False,Side.blue,5,6,6,1.8333333333333333,162,Smite,Ignite,15,False,10913,10058,Tiamat,Last Whisper,Trinity Force,Ionian Boots of Lucidity,Enchantment: Warrior,,33421,110981,Lane.jungle,Role.none
+4,hello now,Ashe,False,Side.blue,4,7,4,1.1428571428571428,216,Heal,Flash,14,False,11186,10950,,,Phantom Dancer,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,960,110377,Lane.bot_lane,Role.carry
+5,Gorhunter,Katarina,True,Side.red,10,5,5,3.0,201,Ignite,Flash,16,True,12894,10925,The Dark Seal,Abyssal Scepter,Rylai's Crystal Scepter,Luden's Echo,Sorcerer's Shoes,,134683,9554,Lane.mid_lane,Role.solo
+6,savard,Karma,True,Side.red,4,2,13,8.5,60,Exhaust,Flash,14,False,11066,9650,Boots of Speed,Eye of the Watchers,Redemption,Zz'Rot Portal,Locket of the Iron Solari,,55162,12841,Lane.bot_lane,Role.support
+7,Cotopaco Parce,Irelia,True,Side.red,6,6,1,1.1666666666666667,225,Teleport,Flash,16,False,12556,11183,Trinity Force,Ninja Tabi,Corrupting Potion,Dead Man's Plate,Spirit Visage,Control Ward,11777,122598,Lane.top_lane,Role.solo
+8,Omnic1de,Ezreal,True,Side.red,4,6,10,2.3333333333333335,207,Flash,Heal,15,False,12336,10933,Blade of the Ruined King,Muramana,Trinity Force,Ionian Boots of Lucidity,,Doran's Blade,17688,126051,Lane.bot_lane,Role.carry
+9,Henchey,Zac,True,Side.red,4,2,12,8.0,148,Smite,Flash,16,False,11829,10400,Randuin's Omen,Ionian Boots of Lucidity,Chain Vest,Spirit Visage,Refillable Potion,Enchantment: Cinderhulk,108595,24522,Lane.jungle,Role.none

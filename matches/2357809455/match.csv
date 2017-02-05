@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Eggroll1dorrer,Kha'Zix,True,Side.blue,4,0,1,5.0,78,Smite,Flash,10,False,6573,5150,Enchantment: Warrior,Mercury's Treads,Tiamat,,,,2812,63223,Lane.jungle,Role.none
+1,NinjaOFire,Morgana,True,Side.blue,4,0,2,6.0,100,Flash,Teleport,10,False,6696,4975,Doran's Ring,Rod of Ages,Needlessly Large Rod,Boots of Speed,,,36854,12788,Lane.mid_lane,Role.solo
+2,Braums Mustache,Braum,True,Side.blue,4,0,12,16.0,28,Flash,Exhaust,10,False,6673,5175,Boots of Mobility,Sightstone,Face of the Mountain,Crystalline Bracer,Cloth Armor,,5426,9368,Lane.bot_lane,Role.support
+3,Watarimono,Ashe,True,Side.blue,7,0,4,11.0,127,Flash,Heal,10,False,8720,6800,Doran's Blade,Infinity Edge,Berserker's Greaves,Recurve Bow,Brawler's Gloves,,1233,69039,Lane.bot_lane,Role.carry
+4,The Young WoIf,Darius,True,Side.blue,4,0,1,5.0,116,Flash,Ignite,11,True,7303,4825,Doran's Blade,The Black Cleaver,Boots of Swiftness,,,,269,57100,Lane.top_lane,Role.solo
+5,Naxius,Gnar,False,Side.red,0,4,0,0.0,65,Flash,Teleport,8,False,3567,3000,Doran's Blade,Phage,Cull,Long Sword,Long Sword,,826,18129,Lane.top_lane,Role.solo
+6,Thirsty Bastard,Ezreal,False,Side.red,0,7,0,0.0,51,Heal,Flash,7,False,3277,3100,Sapphire Crystal,Tear of the Goddess,Sapphire Crystal,Sapphire Crystal,Sapphire Crystal,Sapphire Crystal,2875,17524,Lane.bot_lane,Role.carry
+7,Cloudy Skyz,Janna,False,Side.red,0,2,0,0.0,2,Flash,Exhaust,6,False,2892,2650,,Eye of the Watchers,Boots of Speed,,,,3438,2209,Lane.bot_lane,Role.support
+8,Ice Soup,Lee Sin,False,Side.red,0,7,0,0.0,42,Smite,Flash,7,False,3521,3100,Tiamat,Tracker's Knife,Refillable Potion,Cloth Armor,Boots of Speed,,2878,31641,Lane.jungle,Role.none
+9,GalaXyRoVer,Viktor,False,Side.red,0,3,0,0.0,110,Cleanse,Flash,9,False,4343,4100,The Hex Core mk-2,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,,,38339,7978,Lane.mid_lane,Role.solo

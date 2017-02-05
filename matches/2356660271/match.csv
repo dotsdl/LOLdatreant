@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Alex Ich 1,Galio,False,Side.blue,3,5,1,0.8,175,Flash,Teleport,12,False,7820,6470,Corrupting Potion,Rod of Ages,Doran's Ring,Mercury's Treads,Negatron Cloak,Fiendish Codex,84549,14015,Lane.mid_lane,Role.solo
+1,FrozenNight,Elise,False,Side.blue,4,6,3,1.1666666666666667,82,Flash,Smite,11,False,7432,7200,Enchantment: Runic Echoes,Randuin's Omen,Boots of Mobility,Refillable Potion,Ruby Crystal,,52815,22997,Lane.jungle,Role.none
+2,Vincent Mark,Jinx,False,Side.blue,1,8,5,0.75,116,Flash,Heal,10,False,6641,6175,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Pickaxe,Cloak of Agility,,286,57836,Lane.bot_lane,Role.carry
+3,lron Pyrite,Janna,False,Side.blue,0,3,3,1.0,19,Flash,Exhaust,10,False,5285,5075,Talisman of Ascension,Sightstone,Total Biscuit of Rejuvenation,The Dark Seal,Ionian Boots of Lucidity,Control Ward,7874,4442,Lane.bot_lane,Role.support
+4,One Called Saint,Wukong,False,Side.blue,2,8,4,0.75,133,Flash,Ignite,12,False,7354,6550,Youmuu's Ghostblade,Caulfield's Warhammer,Ruby Crystal,Doran's Blade,Doran's Blade,Ninja Tabi,2162,74339,Lane.top_lane,Role.solo
+5,Dhokla,Fiora,True,Side.red,8,4,1,2.25,191,Flash,Teleport,14,True,11135,10133,Pickaxe,Ravenous Hydra,Trinity Force,Doran's Blade,Boots of Swiftness,Long Sword,2409,118680,Lane.top_lane,Role.solo
+6,Erry,Jhin,True,Side.red,4,1,12,16.0,175,Heal,Flash,12,False,10030,9000,Rapid Firecannon,Boots of Swiftness,Serrated Dirk,Doran's Blade,Infinity Edge,Total Biscuit of Rejuvenation,5295,95166,Lane.bot_lane,Role.carry
+7,Naeun,Lissandra,True,Side.red,4,2,5,4.5,173,Teleport,Flash,13,False,9972,8600,Hextech Protobelt-01,Needlessly Large Rod,Ionian Boots of Lucidity,Doran's Ring,Abyssal Scepter,Doran's Ring,96732,11504,Lane.mid_lane,Role.solo
+8,COSTA RlCA,Alistar,True,Side.red,0,1,14,14.0,25,Ignite,Flash,11,False,6926,5475,Redemption,Refillable Potion,Boots of Mobility,Sightstone,Relic Shield,Aegis of the Legion,6587,3444,Lane.bot_lane,Role.support
+9,Acerola LAN,Kha'Zix,True,Side.red,14,2,1,7.5,126,Smite,Flash,14,False,12276,10425,Enchantment: Warrior,Ravenous Hydra,Youmuu's Ghostblade,Ionian Boots of Lucidity,Long Sword,,5298,131156,Lane.jungle,Role.none

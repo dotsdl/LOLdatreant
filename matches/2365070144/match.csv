@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,dog deft,Varus,True,Side.blue,16,6,8,4.0,213,Flash,Heal,16,True,15743,13825,Berserker's Greaves,Essence Reaver,Infinity Edge,Runaan's Hurricane,B. F. Sword,Vampiric Scepter,11317,157330,Lane.bot_lane,Role.carry
+1,1onz,Zyra,True,Side.blue,0,7,15,2.142857142857143,22,Flash,Exhaust,13,False,9375,9050,Eye of the Watchers,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,,26105,4804,Lane.bot_lane,Role.support
+2,Pekin Woof,Orianna,True,Side.blue,14,1,7,21.0,241,Flash,Ghost,17,False,15675,12200,Doran's Ring,Luden's Echo,Rylai's Crystal Scepter,Doran's Ring,Sorcerer's Shoes,Morellonomicon,161341,19078,Lane.mid_lane,Role.solo
+3,Adrian Riven,Riven,True,Side.blue,7,6,6,2.1666666666666665,140,Teleport,Flash,15,False,11334,9725,The Black Cleaver,Tiamat,Long Sword,Ninja Tabi,Maw of Malmortius,Long Sword,0,97128,Lane.top_lane,Role.solo
+4,gatsuno,Rek'Sai,True,Side.blue,8,0,10,18.0,124,Smite,Flash,15,False,12459,10425,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Dead Man's Plate,,21559,114805,Lane.jungle,Role.none
+5,Dhokla,Jayce,False,Side.red,4,10,3,0.7,205,Flash,Teleport,14,False,10355,9675,Doran's Blade,The Bloodthirster,The Black Cleaver,Serrated Dirk,Pickaxe,Boots of Speed,17594,108204,Lane.top_lane,Role.solo
+6,Falco Mechanic,Jhin,False,Side.red,2,12,6,0.6666666666666666,184,Exhaust,Flash,13,False,10052,9600,Doran's Blade,Doran's Blade,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Zeal,5362,115437,Lane.bot_lane,Role.carry
+7,TheOddOrange,Shyvana,False,Side.red,6,8,0,0.75,137,Flash,Smite,14,False,10575,9425,Enchantment: Bloodrazor,Blade of the Ruined King,Mercury's Treads,Refillable Potion,Giant's Belt,Warden's Mail,68250,64544,Lane.jungle,Role.none
+8,Shiphtur,Ahri,False,Side.red,6,8,0,0.75,149,Ignite,Flash,13,False,10018,9210,Luden's Echo,Doran's Ring,Needlessly Large Rod,Morellonomicon,Boots of Speed,Amplifying Tome,58300,12897,Lane.mid_lane,Role.solo
+9,Wazabiee,Bard,False,Side.red,2,7,10,1.7142857142857142,12,Heal,Flash,13,False,8677,7925,Frost Queen's Claim,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Ruby Crystal,,12858,3163,Lane.bot_lane,Role.support

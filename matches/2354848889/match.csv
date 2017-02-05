@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IHaveGFYouTrash,Sivir,True,Side.blue,4,2,7,5.5,177,Heal,Flash,13,False,10332,8300,Doran's Blade,Phantom Dancer,Berserker's Greaves,Cull,Essence Reaver,,794,115931,Lane.bot_lane,Role.carry
+1,Duan Xiao Hui,Graves,True,Side.blue,15,0,5,20.0,158,Smite,Ghost,15,False,13946,11800,Enchantment: Warrior,Vampiric Scepter,,Phantom Dancer,Berserker's Greaves,Infinity Edge,4772,154937,Lane.jungle,Role.none
+2,Head Coach BJD,Kennen,True,Side.blue,3,4,4,1.75,110,Flash,Teleport,12,False,8269,7285,Doran's Blade,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,Blasting Wand,38259,21473,Lane.mid_lane,Role.solo
+3,BoBsMiTh,Poppy,True,Side.blue,6,2,5,5.5,151,Teleport,Flash,14,False,9817,9200,Sunfire Cape,Corrupting Potion,Ninja Tabi,Kindlegem,Iceborn Gauntlet,Spectre's Cowl,29986,68650,Lane.top_lane,Role.solo
+4,Suddy911,Nami,True,Side.blue,0,3,15,5.0,9,Exhaust,Flash,11,False,7244,6075,Eye of the Oasis,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Faerie Charm,Frozen Heart,4373,8249,Lane.bot_lane,Role.support
+5,Vanilla Chan,Tryndamere,False,Side.red,2,7,0,0.2857142857142857,150,Flash,Ignite,12,False,8041,7400,Blade of the Ruined King,,Control Ward,,Berserker's Greaves,Statikk Shiv,19511,78894,Lane.top_lane,Role.solo
+6,Zv Pickle,Lee Sin,False,Side.red,2,7,2,0.5714285714285714,66,Flash,Smite,9,True,6481,5725,Boots of Speed,Enchantment: Warrior,Tiamat,Refillable Potion,Giant's Belt,Cloth Armor,9586,46929,Lane.jungle,Role.none
+7,xCrestfallen,Varus,False,Side.red,0,5,6,1.2,164,Heal,Flash,11,False,7456,7000,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Speed,,,6271,79902,Lane.bot_lane,Role.carry
+8,Xceline,Soraka,False,Side.red,0,4,6,1.5,10,Exhaust,Flash,11,False,5899,5025,Nomad's Medallion,Sightstone,Ionian Boots of Lucidity,Redemption,,,7944,3190,Lane.bot_lane,Role.support
+9,Lives In Box,Orianna,False,Side.red,7,5,0,1.4,159,Flash,Ghost,13,False,9166,8960,Morellonomicon,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,Amplifying Tome,85593,10673,Lane.mid_lane,Role.solo

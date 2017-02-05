@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zv Pickle,Ahri,False,Side.blue,3,6,3,1.0,130,Flash,Ignite,12,False,7146,6110,Boots of Speed,Morellonomicon,Amplifying Tome,Needlessly Large Rod,Doran's Ring,Ruby Crystal,40362,9331,Lane.mid_lane,Role.solo
+1,Nidwhal,Bard,False,Side.blue,0,5,3,0.6,11,Ignite,Flash,9,False,4752,4600,Refillable Potion,Crystalline Bracer,Ruby Crystal,Ionian Boots of Lucidity,Control Ward,Eye of the Watchers,6875,3007,Lane.bot_lane,Role.support
+2,BishopC,Nautilus,False,Side.blue,1,8,1,0.25,150,Flash,Teleport,12,False,6843,5150,Corrupting Potion,Sunfire Cape,Warden's Mail,Boots of Speed,Cloth Armor,,72039,12072,Lane.top_lane,Role.solo
+3,chasethera1nbow,Rengar,False,Side.blue,6,7,2,1.1428571428571428,92,Smite,Flash,11,False,8055,7925,The Black Cleaver,Enchantment: Warrior,Boots of Speed,Dagger,Serrated Dirk,Long Sword,6950,76996,Lane.jungle,Role.none
+4,YaBoiChan,Caitlyn,False,Side.blue,1,6,1,0.3333333333333333,110,Heal,Flash,10,False,6236,5750,Doran's Blade,B. F. Sword,Cull,Berserker's Greaves,Zeal,Recurve Bow,320,40671,Lane.bot_lane,Role.carry
+5,ManDuh,Thresh,True,Side.red,1,3,16,5.666666666666667,23,Exhaust,Flash,11,False,7077,6000,Face of the Mountain,,Sightstone,Aegis of the Legion,Null-Magic Mantle,Boots of Swiftness,7915,5696,Lane.bot_lane,Role.support
+6,IWD is a fgt,Orianna,True,Side.red,4,4,9,3.25,125,Ghost,Flash,12,False,9093,8250,Doran's Ring,Morellonomicon,Doran's Ring,Luden's Echo,Sorcerer's Shoes,,60630,10577,Lane.mid_lane,Role.solo
+7,Best Fiormere NA,Fiora,True,Side.red,4,2,5,4.5,169,Teleport,Flash,14,False,10105,9150,Doran's Blade,Ravenous Hydra,The Black Cleaver,Mercury's Treads,Cloth Armor,Null-Magic Mantle,1028,87321,Lane.top_lane,Role.solo
+8,Taosenai,Jhin,True,Side.red,7,1,11,18.0,149,Heal,Flash,13,True,10989,9900,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Doran's Blade,B. F. Sword,Pickaxe,2061,88617,Lane.bot_lane,Role.carry
+9,Sekune,Lee Sin,True,Side.red,16,1,3,19.0,91,Smite,Flash,13,False,12102,11700,Mercury's Treads,Banshee's Veil,Enchantment: Warrior,Hexdrinker,Serrated Dirk,Dead Man's Plate,16032,86402,Lane.jungle,Role.none

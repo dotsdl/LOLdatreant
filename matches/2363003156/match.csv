@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WE Mafia,Sivir,False,Side.blue,2,7,6,1.1428571428571428,133,Flash,Heal,12,False,7852,7200,Zeal,Doran's Blade,Essence Reaver,Berserker's Greaves,,Cull,0,76963,Lane.bot_lane,Role.carry
+1,PVE wertion,Evelynn,False,Side.blue,6,8,2,1.0,103,Flash,Smite,12,False,8111,7525,Refillable Potion,Hextech Gunblade,Boots of Speed,Enchantment: Runic Echoes,Sheen,,49073,26532,Lane.jungle,Role.none
+2,Evermay,Lux,False,Side.blue,6,6,5,1.8333333333333333,133,Flash,Barrier,12,False,8560,7175,Doran's Ring,Blasting Wand,Needlessly Large Rod,Morellonomicon,The Dark Seal,Ionian Boots of Lucidity,67097,12058,Lane.mid_lane,Role.solo
+3,Pianist,Jayce,False,Side.blue,5,9,1,0.6666666666666666,177,Flash,Teleport,14,False,9192,9100,Youmuu's Ghostblade,Doran's Blade,Refillable Potion,Ionian Boots of Lucidity,The Bloodthirster,Ionian Boots of Lucidity,11360,86164,Lane.top_lane,Role.solo
+4,Aecinira,Thresh,False,Side.blue,0,6,8,1.3333333333333333,20,Flash,Exhaust,11,False,5643,5575,Refillable Potion,Ruby Sightstone,Locket of the Iron Solari,Relic Shield,Boots of Mobility,,4500,2388,Lane.bot_lane,Role.support
+5,Arselan,Twisted Fate,True,Side.red,15,4,3,4.5,169,Flash,Ghost,14,False,14091,11975,Ionian Boots of Lucidity,Rod of Ages,Refillable Potion,Lich Bane,Luden's Echo,Needlessly Large Rod,112506,15335,Lane.mid_lane,Role.solo
+6,Firé,Draven,True,Side.red,6,6,11,2.8333333333333335,176,Heal,Flash,13,True,12629,12280,Mercury's Treads,Youmuu's Ghostblade,Infinity Edge,Rapid Firecannon,Doran's Blade,Cloak of Agility,91,133124,Lane.bot_lane,Role.carry
+7,Skadanton,Shaco,True,Side.red,7,0,5,12.0,75,Ignite,Smite,14,False,9796,8650,Hextech Gunblade,Refillable Potion,Enchantment: Runic Echoes,B. F. Sword,Sorcerer's Shoes,,39488,39944,Lane.jungle,Role.none
+8,scarraCANNON,Riven,True,Side.red,6,5,8,2.8,186,Flash,Teleport,14,False,11813,10625,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Ravenous Hydra,Hexdrinker,B. F. Sword,0,114215,Lane.top_lane,Role.solo
+9,rekaf nesgrejb,Blitzcrank,True,Side.red,2,5,16,3.6,24,Flash,Exhaust,12,False,7791,7275,Redemption,Iceborn Gauntlet,Sightstone,Relic Shield,Boots of Mobility,,6258,8636,Lane.bot_lane,Role.support

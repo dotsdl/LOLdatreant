@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,is that Rex,Kassadin,True,Side.blue,4,4,4,2.0,101,Teleport,Flash,11,False,7473,7300,Zhonya's Hourglass,Corrupting Potion,Hextech GLP-800,,,Ionian Boots of Lucidity,33246,14191,Lane.mid_lane,Role.solo
+1,bvcx222,Blitzcrank,True,Side.blue,2,5,9,2.2,27,Flash,Ignite,9,False,6010,5725,Ruby Sightstone,Total Biscuit of Rejuvenation,Face of the Mountain,Control Ward,,Boots of Mobility,5709,4493,Lane.bot_lane,Role.support
+2,TheRickestRlCK,Elise,True,Side.blue,3,4,11,3.5,71,Flash,Smite,11,False,7730,6885,Enchantment: Runic Echoes,Hextech Protobelt-01,Refillable Potion,Sorcerer's Shoes,Amplifying Tome,,52719,18208,Lane.jungle,Role.none
+3,Egregious King,Tryndamere,True,Side.blue,7,0,5,12.0,167,Ignite,Flash,13,False,10291,9075,Boots of Swiftness,Blade of the Ruined King,Pickaxe,Statikk Shiv,Blasting Wand,Dagger,8955,96785,Lane.top_lane,Role.solo
+4,MattyMooo,Ezreal,True,Side.blue,9,3,5,4.666666666666667,123,Heal,Flash,12,False,8988,7858,Trinity Force,Manamune,,,Ionian Boots of Lucidity,,8457,54084,Lane.bot_lane,Role.carry
+5,NoOb NeVeR trolL,Fiora,False,Side.red,4,8,0,0.5,84,Flash,Teleport,10,False,6570,6200,Tiamat,Giant's Belt,Ninja Tabi,Phage,Doran's Blade,Warden's Mail,815,38799,Lane.jungle,Role.none
+6,l For You l,Janna,False,Side.red,1,5,9,2.0,13,Flash,Exhaust,10,True,5678,4950,Sightstone,Redemption,Nomad's Medallion,Ionian Boots of Lucidity,,,3019,5020,Lane.jungle,Role.none
+7,tkDarkSide,Nidalee,False,Side.red,4,5,5,1.8,115,Smite,Flash,12,False,7667,7460,Amplifying Tome,Enchantment: Runic Echoes,Mercury's Treads,Fiendish Codex,Giant's Belt,Needlessly Large Rod,81563,11539,Lane.jungle,Role.none
+8,Asyc xD ,Jhin,False,Side.red,4,4,3,1.75,157,Heal,Flash,11,False,8235,7200,Doran's Blade,Brawler's Gloves,Boots of Swiftness,Dagger,Essence Reaver,Kircheis Shard,4516,84745,Lane.bot_lane,Role.solo
+9,CraacK,Orianna,False,Side.red,3,3,7,3.3333333333333335,170,Flash,Ghost,11,False,7994,7600,Boots of Speed,,Rylai's Crystal Scepter,Morellonomicon,Doran's Ring,Doran's Ring,71134,10658,Lane.mid_lane,Role.solo

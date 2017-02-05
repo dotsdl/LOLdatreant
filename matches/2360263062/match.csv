@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Flavour,Zyra,True,Side.blue,3,5,11,2.8,31,Exhaust,Flash,14,False,10041,8050,Sorcerer's Shoes,Sightstone,Frost Queen's Claim,Rylai's Crystal Scepter,Ruby Crystal,Control Ward,45336,4527,Lane.bot_lane,Role.support
+1,MoFoCro,Tryndamere,True,Side.blue,2,5,3,1.0,247,Exhaust,Flash,16,False,12296,10650,The Black Cleaver,Blade of the Ruined King,Statikk Shiv,Berserker's Greaves,,,42275,150705,Lane.top_lane,Role.solo
+2,HaIfway Crook,Sona,True,Side.blue,5,2,14,9.5,121,Ignite,Flash,16,False,11639,9385,Doran's Ring,Ionian Boots of Lucidity,Seraph's Embrace,Luden's Echo,Needlessly Large Rod,Amplifying Tome,53121,18093,Lane.mid_lane,Role.solo
+3,am tham ben em,Lee Sin,True,Side.blue,8,6,2,1.6666666666666667,157,Flash,Smite,15,False,12307,11325,Mercury's Treads,Enchantment: Warrior,Ravenous Hydra,Spirit Visage,Giant's Belt,,31782,109780,Lane.jungle,Role.none
+4,Dibrickishaw,Lucian,True,Side.blue,8,0,9,17.0,277,Heal,Flash,16,False,14799,12150,Doran's Blade,Phantom Dancer,Ionian Boots of Lucidity,Infinity Edge,Essence Reaver,Pickaxe,7965,182859,Lane.bot_lane,Role.carry
+5,DaGarboOne,Nami,False,Side.red,0,3,13,4.333333333333333,5,Exhaust,Flash,12,False,7090,6450,Nomad's Medallion,Redemption,Aegis of the Legion,Sightstone,Ionian Boots of Lucidity,Null-Magic Mantle,4645,2601,Lane.bot_lane,Role.support
+6,DaGrateOne,Caitlyn,False,Side.red,4,5,6,2.0,206,Flash,Heal,12,False,10211,9950,Zeal,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Kircheis Shard,,3917,119057,Lane.bot_lane,Role.carry
+7,SissyBoo,Zac,False,Side.red,4,5,8,2.4,93,Smite,Flash,13,True,8894,8225,Warden's Mail,Refillable Potion,Ruby Crystal,Enchantment: Runic Echoes,Spirit Visage,Mercury's Treads,81087,14768,Lane.jungle,Role.none
+8,jkang,Riven,False,Side.red,5,7,4,1.2857142857142858,205,Flash,Teleport,14,False,10119,9100,Ravenous Hydra,Refillable Potion,Hexdrinker,,The Black Cleaver,Ionian Boots of Lucidity,103,113319,Lane.top_lane,Role.solo
+9,Star Cake,Orianna,False,Side.red,5,6,5,1.6666666666666667,232,Flash,Ghost,15,False,11345,9925,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Luden's Echo,Needlessly Large Rod,Doran's Ring,111398,20432,Lane.mid_lane,Role.solo

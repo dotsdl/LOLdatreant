@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pyrites,Lux,True,Side.blue,5,5,13,3.6,42,Flash,Exhaust,14,False,12391,11350,Frost Queen's Claim,Ruby Sightstone,,Luden's Echo,Ionian Boots of Lucidity,Athene's Unholy Grail,41883,4904,Lane.bot_lane,Role.support
+1,Sebi,Cassiopeia,True,Side.blue,6,5,7,2.6,264,Flash,Ghost,17,False,14799,14135,Doran's Ring,Morellonomicon,Seraph's Embrace,Rylai's Crystal Scepter,Abyssal Scepter,Amplifying Tome,186537,8970,Lane.mid_lane,Role.solo
+2,skyWtr,Hecarim,True,Side.blue,3,5,12,3.0,240,Smite,Ghost,18,False,14176,13808,Ruby Crystal,Spirit Visage,Dead Man's Plate,Trinity Force,Enchantment: Cinderhulk,Boots of Swiftness,42147,163312,Lane.jungle,Role.none
+3,TwitchTvSysnickl,Miss Fortune,True,Side.blue,8,7,10,2.5714285714285716,291,Heal,Flash,17,False,15749,14300,Lord Dominik's Regards,Youmuu's Ghostblade,,Berserker's Greaves,Duskblade of Draktharr,The Black Cleaver,4421,183000,Lane.bot_lane,Role.carry
+4,Leagué,Poppy,True,Side.blue,4,8,9,1.625,229,Flash,Teleport,17,False,13122,12900,Spirit Visage,Guardian Angel,Sunfire Cape,Mercury's Treads,Dead Man's Plate,,38233,88399,Lane.top_lane,Role.solo
+5,SKY Fear,Nautilus,False,Side.red,4,4,13,4.25,259,Flash,Teleport,18,False,14697,13935,Dead Man's Plate,Iceborn Gauntlet,Doran's Ring,Sunfire Cape,Ninja Tabi,Spirit Visage,132860,41778,Lane.top_lane,Role.solo
+6,Seoksang,Orianna,False,Side.red,7,4,7,3.5,299,Flash,Ghost,18,False,15663,15325,Morellonomicon,,Sorcerer's Shoes,Void Staff,Rabadon's Deathcap,Rylai's Crystal Scepter,196871,18519,Lane.mid_lane,Role.solo
+7,Erry,Vayne,False,Side.red,9,8,4,1.625,256,Heal,Flash,16,False,15923,14725,Bilgewater Cutlass,Lord Dominik's Regards,Berserker's Greaves,Infinity Edge,Phantom Dancer,Statikk Shiv,55882,151923,Lane.bot_lane,Role.carry
+8,daduu,Lulu,False,Side.red,2,3,19,7.0,28,Flash,Exhaust,15,False,11884,11550,Ionian Boots of Lucidity,Mikael's Crucible,Locket of the Iron Solari,,Redemption,Eye of the Watchers,11712,5550,Lane.bot_lane,Role.support
+9,TheOddOrange,Kha'Zix,False,Side.red,8,7,12,2.857142857142857,161,Flash,Smite,17,True,14466,13875,Enchantment: Warrior,,Mercury's Treads,Maw of Malmortius,Lord Dominik's Regards,Duskblade of Draktharr,5663,157482,Lane.jungle,Role.none

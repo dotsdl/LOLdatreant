@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dream8,Fiora,False,Side.blue,3,6,0,0.5,164,Teleport,Flash,14,False,8515,8350,Mercury's Treads,Ravenous Hydra,Corrupting Potion,The Black Cleaver,,,1287,81061,Lane.top_lane,Role.solo
+1,Kragtik,Shaco,False,Side.blue,3,5,2,1.0,77,Smite,Flash,11,False,7854,6775,Enchantment: Warrior,Refillable Potion,Control Ward,Berserker's Greaves,Statikk Shiv,,19240,46606,Lane.jungle,Role.none
+2,Rudeclaw,Thresh,False,Side.blue,0,6,5,0.8333333333333334,30,Flash,Exhaust,11,False,6077,5700,Face of the Mountain,Rejuvenation Bead,Faerie Charm,Ruby Sightstone,Ionian Boots of Lucidity,,10200,5603,Lane.bot_lane,Role.support
+3,Oldthebest,Orianna,False,Side.blue,6,6,3,1.5,185,Flash,Ghost,14,False,9883,8925,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,Morellonomicon,Doran's Ring,97081,13326,Lane.mid_lane,Role.solo
+4,mackenzee,Vayne,False,Side.blue,3,4,3,1.5,216,Heal,Flash,13,False,9349,8800,Doran's Blade,Infinity Edge,Statikk Shiv,Dagger,Berserker's Greaves,Brawler's Gloves,13167,78653,Lane.bot_lane,Role.carry
+5,IQ is 201 ,Caitlyn,True,Side.red,9,3,10,6.333333333333333,202,Flash,Heal,15,False,13436,10050,Zeal,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Kircheis Shard,905,141374,Lane.bot_lane,Role.carry
+6,Hyosung,Rek'Sai,True,Side.red,7,2,13,10.0,183,Flash,Smite,15,True,12811,10975,Ruby Crystal,Titanic Hydra,Enchantment: Cinderhulk,Dead Man's Plate,Cloth Armor,Ninja Tabi,30364,129166,Lane.jungle,Role.none
+7,yoko,Tahm Kench,True,Side.red,1,4,15,4.0,40,Flash,Exhaust,13,False,8793,6825,Face of the Mountain,Control Ward,Crystalline Bracer,Ruby Sightstone,Boots of Swiftness,Forbidden Idol,11322,8991,Lane.bot_lane,Role.support
+8,DONÀLD TRUMP,Brand,True,Side.red,7,3,8,5.0,190,Ignite,Flash,15,False,12057,9700,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Haunting Guise,Sorcerer's Shoes,,101198,14392,Lane.mid_lane,Role.solo
+9,simple is best,Ryze,True,Side.red,3,4,8,2.75,176,Teleport,Flash,14,False,11562,10410,Zhonya's Hourglass,Seraph's Embrace,Amplifying Tome,Ionian Boots of Lucidity,,Rod of Ages,111928,11420,Lane.top_lane,Role.solo

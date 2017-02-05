@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xxxVOLIBEARxx,Heimerdinger,True,Side.blue,4,1,7,11.0,155,Flash,Ignite,14,False,10838,8375,Doran's Ring,Zhonya's Hourglass,,Sorcerer's Shoes,Rylai's Crystal Scepter,Doran's Ring,103116,19226,Lane.mid_lane,Role.solo
+1,HvK DCStar,Janna,True,Side.blue,1,2,18,9.5,10,Flash,Exhaust,12,False,9077,7900,Eye of the Oasis,Ionian Boots of Lucidity,Aether Wisp,Control Ward,Forbidden Idol,Redemption,5713,6275,Lane.bot_lane,Role.support
+2,YahooDotCom,Caitlyn,True,Side.blue,8,2,8,8.0,223,Flash,Heal,13,False,12732,9325,Doran's Blade,Zeal,Statikk Shiv,Infinity Edge,Kircheis Shard,Boots of Speed,27042,134182,Lane.bot_lane,Role.carry
+3,Seulbee,Olaf,True,Side.blue,5,2,7,6.0,178,Ghost,Teleport,14,False,10707,8275,Doran's Shield,The Black Cleaver,Dead Man's Plate,Refillable Potion,Ninja Tabi,Cloth Armor,0,94298,Lane.top_lane,Role.solo
+4,Big Nate Daddy,Jax,True,Side.blue,5,3,6,3.6666666666666665,96,Smite,Flash,13,False,10043,6883,Enchantment: Bloodrazor,Refillable Potion,Trinity Force,,Boots of Speed,,21585,81642,Lane.jungle,Role.none
+5,Sora and Shiro,Zed,False,Side.red,4,7,0,0.5714285714285714,146,Flash,Ignite,11,False,7753,7225,Edge of Night,Bilgewater Cutlass,Boots of Swiftness,Control Ward,Recurve Bow,,5830,63351,Lane.mid_lane,Role.solo
+6,Neo Restoration,Riven,False,Side.red,3,5,1,0.8,162,Teleport,Flash,12,True,8097,7875,Titanic Hydra,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,,,6129,91509,Lane.top_lane,Role.solo
+7,Sarcasm Orgasm,Ivern,False,Side.red,1,2,7,4.0,74,Flash,Smite,12,False,7497,7000,Redemption,Refillable Potion,Mejai's Soulstealer,Athene's Unholy Grail,Hunter's Talisman,Ionian Boots of Lucidity,6267,3298,Lane.jungle,Role.none
+8,Jugodeuva,Jinx,False,Side.red,1,5,5,1.2,151,Heal,Flash,12,False,7793,7250,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Dagger,Dagger,1935,78199,Lane.bot_lane,Role.carry
+9,Yoyi,Nami,False,Side.red,1,4,6,1.75,8,Flash,Exhaust,10,False,6207,5775,Control Ward,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,,,9098,2666,Lane.bot_lane,Role.support

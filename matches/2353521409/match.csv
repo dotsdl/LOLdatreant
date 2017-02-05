@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TooI Box,Jhin,True,Side.blue,7,4,7,3.5,146,Flash,Heal,13,False,11155,9175,Ionian Boots of Lucidity,Essence Reaver,Rapid Firecannon,B. F. Sword,Doran's Blade,,8583,91269,Lane.bot_lane,Role.carry
+1,B Gerbz,Lux,True,Side.blue,5,7,11,2.2857142857142856,86,Flash,Exhaust,12,True,9327,9050,Doran's Ring,Athene's Unholy Grail,Sorcerer's Shoes,Luden's Echo,Blasting Wand,Needlessly Large Rod,50392,10196,Lane.mid_lane,Role.solo
+2,Godlike Tyler,Poppy,True,Side.blue,1,4,7,2.0,172,Flash,Teleport,15,False,9735,8300,Sunfire Cape,Corrupting Potion,Mercury's Treads,Warden's Mail,Spirit Visage,,29125,74883,Lane.top_lane,Role.solo
+3,Anthøny,Kha'Zix,True,Side.blue,13,5,2,3.0,118,Smite,Flash,14,False,12167,9400,Refillable Potion,Youmuu's Ghostblade,Mercury's Treads,Hexdrinker,Enchantment: Warrior,Phage,4449,116611,Lane.jungle,Role.none
+4,péggy,Karma,True,Side.blue,1,5,14,3.0,29,Flash,Exhaust,12,False,8837,7225,Redemption,Sightstone,Locket of the Iron Solari,Boots of Mobility,Frostfang,,23862,6359,Lane.bot_lane,Role.support
+5,Scorpius,Nami,False,Side.red,2,6,12,2.3333333333333335,18,Exhaust,Flash,11,False,7967,7500,Eye of the Watchers,Forbidden Idol,Redemption,Boots of Mobility,Aether Wisp,,8323,5654,Lane.bot_lane,Role.support
+6,Yelyah,Nidalee,False,Side.red,3,3,12,5.0,123,Flash,Smite,14,False,9877,9250,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,Refillable Potion,113552,19283,Lane.jungle,Role.none
+7,Joyami,LeBlanc,False,Side.red,11,6,4,2.5,113,Flash,Ignite,13,False,10293,9175,The Dark Seal,Zhonya's Hourglass,Morellonomicon,Needlessly Large Rod,Doran's Ring,Sorcerer's Shoes,55848,9579,Lane.mid_lane,Role.solo
+8,nMe Hanguk,Vayne,False,Side.red,6,7,7,1.8571428571428572,118,Heal,Flash,13,False,9727,8875,Doran's Blade,Phantom Dancer,Berserker's Greaves,Infinity Edge,Pickaxe,,449,67705,Lane.bot_lane,Role.carry
+9,Dream Arc,Darius,False,Side.red,3,5,1,0.8,177,Teleport,Flash,13,False,9697,8925,Corrupting Potion,The Black Cleaver,Mercury's Treads,Dead Man's Plate,Chain Vest,Null-Magic Mantle,343,93516,Lane.top_lane,Role.solo

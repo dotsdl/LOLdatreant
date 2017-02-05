@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HanJaehoon,Vayne,False,Side.blue,7,9,2,1.0,178,Flash,Heal,12,False,10056,8900,Berserker's Greaves,Infinity Edge,Statikk Shiv,Null-Magic Mantle,Long Sword,Doran's Blade,21878,60525,Lane.bot_lane,Role.carry
+1,The Real Jash,Shaco,False,Side.blue,3,7,1,0.5714285714285714,56,Smite,Ignite,12,False,7352,6225,Enchantment: Warrior,Refillable Potion,Phage,Mercury's Treads,Caulfield's Warhammer,,20404,29372,Lane.jungle,Role.none
+2,always plan ahea,Karma,False,Side.blue,1,8,4,0.625,186,Flash,Teleport,14,False,8039,7600,Luden's Echo,Morellonomicon,Ionian Boots of Lucidity,,,,74793,9780,Lane.top_lane,Role.solo
+3,Shiro Shiro,Lux,False,Side.blue,4,5,6,2.0,25,Exhaust,Flash,12,False,8017,6600,Lost Chapter,Sightstone,Frost Queen's Claim,Fiendish Codex,Sorcerer's Shoes,The Dark Seal,29096,3989,Lane.bot_lane,Role.support
+4,Ninö,Azir,False,Side.blue,2,7,3,0.7142857142857143,154,Barrier,Flash,13,False,8169,7150,Refillable Potion,,Doran's Ring,Rylai's Crystal Scepter,Nashor's Tooth,Boots of Speed,72304,5927,Lane.mid_lane,Role.solo
+5,Northwind,Syndra,True,Side.red,10,3,8,6.0,178,Flash,Ghost,14,False,12023,8985,Doran's Ring,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Control Ward,111194,11099,Lane.mid_lane,Role.solo
+6,Nethermane,Illaoi,True,Side.red,4,2,7,5.5,207,Flash,Teleport,15,False,10955,8950,Corrupting Potion,Mercury's Treads,The Black Cleaver,Doran's Blade,Sterak's Gage,Giant's Belt,1081,144090,Lane.top_lane,Role.solo
+7,qwergaligeigei,Twitch,True,Side.red,8,4,7,3.75,134,Flash,Heal,13,False,10887,7150,Doran's Blade,Cull,Infinity Edge,Zeal,Berserker's Greaves,,514,65603,Lane.bot_lane,Role.carry
+8,JeffbTyRf,Janna,True,Side.red,0,4,17,4.25,8,Flash,Exhaust,12,False,7953,7525,Locket of the Iron Solari,Eye of the Oasis,Refillable Potion,Boots of Swiftness,Ardent Censer,,4026,3380,Lane.bot_lane,Role.support
+9,l KING KONG l,Hecarim,True,Side.red,14,4,8,5.5,152,Smite,Ghost,15,True,13879,11058,Refillable Potion,Enchantment: Cinderhulk,Boots of Swiftness,Trinity Force,Long Sword,Spirit Visage,48405,119075,Lane.jungle,Role.none

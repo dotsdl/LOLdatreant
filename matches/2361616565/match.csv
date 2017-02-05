@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,iaMsaraK,Graves,True,Side.blue,9,7,13,3.142857142857143,135,Flash,Smite,14,False,11669,9475,Enchantment: Warrior,,Ninja Tabi,Phantom Dancer,Hexdrinker,Caulfield's Warhammer,4625,127884,Lane.jungle,Role.none
+1,Klawbro,Bard,True,Side.blue,4,6,15,3.1666666666666665,33,Flash,Exhaust,13,False,8611,8675,Redemption,Crystalline Bracer,Face of the Mountain,Sightstone,Crystalline Bracer,Boots of Swiftness,13173,7288,Lane.bot_lane,Role.support
+2,Mathematix,Ahri,True,Side.blue,8,6,9,2.8333333333333335,125,Flash,Ignite,13,True,10801,8885,Morellonomicon,Luden's Echo,Amplifying Tome,Doran's Ring,Doran's Ring,Sorcerer's Shoes,49634,12071,Lane.mid_lane,Role.solo
+3,2107524187435611,Renekton,True,Side.blue,2,3,8,3.3333333333333335,175,Flash,Teleport,14,False,10084,8925,Ruby Crystal,Tiamat,Ninja Tabi,Sterak's Gage,Doran's Blade,Sunfire Cape,6598,102680,Lane.top_lane,Role.solo
+4,BestLucianAfrica,Twitch,True,Side.blue,17,4,9,6.5,153,Heal,Flash,14,False,13688,12175,Doran's Blade,Statikk Shiv,Last Whisper,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,2878,107610,Lane.bot_lane,Role.carry
+5,NEACE  Eeeee,Rengar,False,Side.red,7,8,3,1.25,153,Flash,Exhaust,13,False,9994,10505,Titanic Hydra,Kindlegem,The Black Cleaver,Ionian Boots of Lucidity,Spectre's Cowl,,9942,86088,Lane.top_lane,Role.solo
+6,Hanjaro,Vel'Koz,False,Side.red,2,9,8,1.1111111111111112,35,Flash,Exhaust,10,False,7394,6950,Eye of the Watchers,Sorcerer's Shoes,Liandry's Torment,,,,23959,3040,Lane.bot_lane,Role.support
+7,Betabet,Varus,False,Side.red,6,10,6,1.2,142,Flash,Heal,12,False,10309,9830,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,B. F. Sword,Doran's Blade,,4851,83288,Lane.bot_lane,Role.carry
+8,The Coldshroom,Teemo,False,Side.red,8,8,6,1.75,150,Ignite,Flash,14,False,10354,8600,Nashor's Tooth,Hextech Protobelt-01,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Blasting Wand,77421,22863,Lane.mid_lane,Role.solo
+9,Chewy is god,Olaf,False,Side.red,3,5,4,1.4,110,Smite,Ghost,12,False,8423,7600,,Refillable Potion,Dead Man's Plate,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Cloth Armor,11510,67439,Lane.jungle,Role.none

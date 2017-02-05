@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BabièThug,LeBlanc,True,Side.blue,11,9,9,2.2222222222222223,157,Flash,Ignite,14,False,12537,10270,Doran's Ring,Rylai's Crystal Scepter,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Negatron Cloak,78995,10521,Lane.jungle,Role.none
+1,Témpest,Yasuo,True,Side.blue,9,6,15,4.0,173,Flash,Teleport,15,False,13068,11275,Infinity Edge,Frozen Mallet,Doran's Blade,Phantom Dancer,Mercury's Treads,,27332,101539,Lane.top_lane,Role.solo
+2,Wookin,Alistar,True,Side.blue,2,7,19,3.0,39,Ignite,Flash,13,False,9062,7625,Knight's Vow,Sightstone,Face of the Mountain,Boots of Mobility,Aegis of the Legion,,14339,6839,Lane.bot_lane,Role.support
+3,blaberfish2,Lee Sin,True,Side.blue,10,6,15,4.166666666666667,129,Flash,Smite,15,False,12442,11225,The Black Cleaver,Maw of Malmortius,Enchantment: Warrior,Mercury's Treads,Giant's Belt,,31237,88109,Lane.jungle,Role.none
+4,WT Spectator,Caitlyn,True,Side.blue,5,5,10,3.0,199,Flash,Heal,14,False,12209,10400,Doran's Blade,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,,2864,111323,Lane.bot_lane,Role.carry
+5,CC Artemis,Ezreal,False,Side.red,5,4,9,3.5,169,Flash,Heal,13,False,10493,10183,Doran's Blade,Muramana,Ionian Boots of Lucidity,Trinity Force,Recurve Bow,Bilgewater Cutlass,13727,97217,Lane.bot_lane,Role.carry
+6,Delerium,Janna,False,Side.red,0,6,15,2.5,12,Exhaust,Flash,11,False,7770,7500,Redemption,Locket of the Iron Solari,Sightstone,,Ionian Boots of Lucidity,Nomad's Medallion,8133,6238,Lane.bot_lane,Role.support
+7,Thalies,Katarina,False,Side.red,14,8,9,2.875,135,Ignite,Flash,14,False,12723,13025,Sorcerer's Shoes,Needlessly Large Rod,Void Staff,Hextech Gunblade,Giant's Belt,Zhonya's Hourglass,95678,10059,Lane.mid_lane,Role.solo
+8,Ninjacrab,Vi,False,Side.red,8,7,12,2.857142857142857,97,Flash,Smite,14,False,11606,11258,Enchantment: Warrior,Trinity Force,Boots of Swiftness,Giant's Belt,Guardian Angel,Cloth Armor,1815,115145,Lane.jungle,Role.none
+9,Pooper Josh,Irelia,False,Side.red,6,12,6,1.0,106,Teleport,Flash,13,True,9507,8233,Randuin's Omen,Corrupting Potion,Ninja Tabi,Trinity Force,,,2734,46305,Lane.top_lane,Role.solo

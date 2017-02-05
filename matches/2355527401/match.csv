@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yellow Pikachu,Rengar,False,Side.blue,11,9,4,1.6666666666666667,164,Ignite,Flash,15,False,11626,10950,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Doran's Blade,The Black Cleaver,Serrated Dirk,7812,98787,Lane.top_lane,Role.solo
+1,hi kevonnnnn,Vayne,False,Side.blue,2,8,2,0.5,171,Heal,Flash,13,False,9338,9100,Infinity Edge,Berserker's Greaves,Phantom Dancer,Zeal,,Doran's Blade,0,81882,Lane.bot_lane,Role.carry
+2,UCSD wildhorse,Evelynn,False,Side.blue,11,11,5,1.4545454545454546,107,Ignite,Smite,15,False,11025,11025,Enchantment: Runic Echoes,Lich Bane,Hextech Protobelt-01,Boots of Mobility,Fiendish Codex,Null-Magic Mantle,69236,33683,Lane.jungle,Role.none
+3,Midgywizzy,Thresh,False,Side.blue,1,8,9,1.25,33,Flash,Exhaust,13,False,7488,6745,Face of the Mountain,Redemption,Sightstone,Boots of Speed,Ruby Crystal,Negatron Cloak,17309,5610,Lane.bot_lane,Role.support
+4,SAO I Kirito,Yasuo,False,Side.blue,6,13,7,1.0,226,Flash,Ignite,15,True,12067,11450,Tiamat,Mercury's Treads,Infinity Edge,Doran's Blade,Phantom Dancer,Guardian Angel,30703,125044,Lane.mid_lane,Role.solo
+5,Strength1232,Zilean,True,Side.red,7,5,18,5.0,46,Flash,Exhaust,14,False,11446,9375,Forbidden Idol,Eye of the Watchers,Ruby Crystal,Needlessly Large Rod,Liandry's Torment,Sorcerer's Shoes,43324,7213,Lane.bot_lane,Role.support
+6,FourofDiamonds,Shaco,True,Side.red,19,4,12,7.75,169,Smite,Ignite,18,False,18195,17908,Ravenous Hydra,Blade of the Ruined King,Enchantment: Warrior,Boots of Mobility,Infinity Edge,Trinity Force,47074,174159,Lane.jungle,Role.none
+7,HysteriaNA,Jhin,True,Side.red,7,8,19,3.25,140,Flash,Heal,14,False,12040,11200,Rapid Firecannon,Infinity Edge,Boots of Swiftness,Essence Reaver,,,5923,78641,Lane.bot_lane,Role.carry
+8,KiteAzure,Akali,True,Side.red,10,4,15,6.25,163,Flash,Teleport,16,False,13753,11650,Sunfire Cape,Hextech Gunblade,Ninja Tabi,Doran's Shield,Spirit Visage,Chain Vest,46589,71837,Lane.top_lane,Role.solo
+9,xvae,Lux,True,Side.red,6,11,13,1.7272727272727273,170,Flash,Teleport,15,False,12142,10550,Sorcerer's Shoes,Doran's Ring,Zhonya's Hourglass,Morellonomicon,Blasting Wand,Needlessly Large Rod,108705,17397,Lane.mid_lane,Role.solo

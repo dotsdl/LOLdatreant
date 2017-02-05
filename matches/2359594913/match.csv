@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am sol,Yasuo,False,Side.blue,10,10,1,1.1,184,Ignite,Flash,14,False,11470,10325,Infinity Edge,Berserker's Greaves,Vampiric Scepter,B. F. Sword,Statikk Shiv,Doran's Blade,62627,69225,Lane.mid_lane,Role.solo
+1,Nate of Spades,Lee Sin,False,Side.blue,6,4,6,3.0,99,Flash,Smite,13,True,9874,9425,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Boots of Speed,Maw of Malmortius,,19880,76344,Lane.jungle,Role.none
+2,Kind Jungle,Caitlyn,False,Side.blue,2,6,7,1.5,151,Heal,Flash,12,False,9145,8400,Doran's Blade,Infinity Edge,Berserker's Greaves,Cull,Runaan's Hurricane,,482,91610,Lane.bot_lane,Role.carry
+3,Ez Jonn,Alistar,False,Side.blue,2,8,8,1.25,28,Flash,Exhaust,11,False,7273,6625,Sightstone,Face of the Mountain,Crystalline Bracer,Aegis of the Legion,Boots of Mobility,Null-Magic Mantle,9655,5603,Lane.bot_lane,Role.support
+4,NeverDie7,LeBlanc,False,Side.blue,3,4,4,1.75,158,Teleport,Flash,14,False,9343,8758,Doran's Blade,Trinity Force,Refillable Potion,Boots of Speed,Statikk Shiv,Hexdrinker,42527,47246,Lane.top_lane,Role.solo
+5,Just hasagi,Nasus,True,Side.red,3,5,19,4.4,196,Teleport,Flash,16,False,11344,9600,Haunting Guise,Luden's Echo,Ionian Boots of Lucidity,The Dark Seal,Morellonomicon,Doran's Ring,106755,24753,Lane.top_lane,Role.solo
+6,FACEB00K,Taric,True,Side.red,2,3,23,8.333333333333334,45,Exhaust,Flash,14,False,9535,7650,,Eye of the Equinox,Ninja Tabi,Chain Vest,Cloth Armor,Frozen Heart,11699,9299,Lane.bot_lane,Role.support
+7,Tyler8274,Twitch,True,Side.red,18,4,4,5.5,147,Flash,Heal,14,False,14750,13300,Vampiric Scepter,Berserker's Greaves,Last Whisper,Runaan's Hurricane,Infinity Edge,Statikk Shiv,7441,102548,Lane.bot_lane,Role.carry
+8,Dregin001,Karma,True,Side.red,2,5,20,4.4,97,Teleport,Flash,14,False,9459,8400,Doran's Ring,Ninja Tabi,Morellonomicon,Forbidden Idol,Athene's Unholy Grail,Aether Wisp,50088,10880,Lane.mid_lane,Role.solo
+9,Poptart Warrior,Nidalee,True,Side.red,6,6,11,2.8333333333333335,159,Smite,Flash,15,False,11651,9775,Hunter's Potion,Locket of the Iron Solari,Rod of Ages,Forbidden Idol,Enchantment: Runic Echoes,Ionian Boots of Lucidity,140326,20839,Lane.jungle,Role.none

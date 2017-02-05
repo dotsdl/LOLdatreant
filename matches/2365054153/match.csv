@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Modx,Riven,False,Side.blue,2,11,6,0.7272727272727273,142,Flash,Teleport,13,False,8932,8800,Youmuu's Ghostblade,Refillable Potion,Maw of Malmortius,Mercury's Treads,Caulfield's Warhammer,,0,76551,Lane.top_lane,Role.solo
+1,Eric1,Ezreal,False,Side.blue,7,7,2,1.2857142857142858,165,Heal,Flash,13,False,10689,10350,Blade of the Ruined King,Muramana,Boots of Speed,Iceborn Gauntlet,Doran's Blade,Pickaxe,15554,88987,Lane.bot_lane,Role.carry
+2,Just hasagi,Yasuo,False,Side.blue,5,7,6,1.5714285714285714,199,Exhaust,Flash,14,False,10904,10750,Maw of Malmortius,Doran's Shield,,Frozen Mallet,Statikk Shiv,Berserker's Greaves,57038,78110,Lane.mid_lane,Role.solo
+3,Nash,Nami,False,Side.blue,4,10,11,1.5,6,Ignite,Flash,12,True,9178,8350,Eye of the Watchers,Locket of the Iron Solari,Redemption,The Dark Seal,Cloth Armor,Boots of Mobility,10331,3302,Lane.bot_lane,Role.support
+4,Drowning,Graves,False,Side.blue,4,5,6,2.0,190,Flash,Smite,15,False,10990,9675,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,Phantom Dancer,,3885,152272,Lane.jungle,Role.none
+5,RealDarkness,Lux,True,Side.red,5,3,7,4.0,162,Exhaust,Flash,15,False,11198,8950,Morellonomicon,Luden's Echo,Blasting Wand,Doran's Ring,Sorcerer's Shoes,,81511,14692,Lane.mid_lane,Role.solo
+6,RyuShoryu,Brand,True,Side.red,5,5,20,5.0,36,Ignite,Flash,14,False,11941,10210,Eye of the Watchers,Refillable Potion,,Sorcerer's Shoes,Liandry's Torment,Rylai's Crystal Scepter,35170,7527,Lane.bot_lane,Role.support
+7,ChodeBoy5000,Caitlyn,True,Side.red,6,6,7,2.1666666666666665,207,Heal,Flash,14,False,12634,10450,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Chain Vest,Doran's Blade,Zeal,702,150087,Lane.bot_lane,Role.carry
+8,RumbleMidGGnoRE,Rumble,True,Side.red,11,5,8,3.8,169,Teleport,Flash,16,False,13383,12950,Liandry's Torment,Void Staff,Thornmail,Sorcerer's Shoes,,Zhonya's Hourglass,107811,13361,Lane.top_lane,Role.solo
+9,KarasMai,Rek'Sai,True,Side.red,13,3,14,9.0,189,Flash,Smite,17,False,15445,13900,,Titanic Hydra,Randuin's Omen,Dead Man's Plate,Enchantment: Cinderhulk,Ninja Tabi,34116,145878,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,1Tracked,Rek'Sai,False,Side.blue,5,10,11,1.6,148,Smite,Flash,14,False,11134,10750,Randuin's Omen,Refillable Potion,Mercury's Treads,The Black Cleaver,Enchantment: Cinderhulk,Chain Vest,34606,75453,Lane.jungle,Role.none
+1,Ari Kingu,Miss Fortune,False,Side.blue,7,6,12,3.1666666666666665,204,Heal,Flash,14,True,12613,12550,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,The Black Cleaver,Lord Dominik's Regards,B. F. Sword,7254,110299,Lane.bot_lane,Role.carry
+2,DJ Zelos,Nautilus,False,Side.blue,4,8,13,2.125,42,Flash,Exhaust,13,False,9557,9525,Redemption,Frozen Heart,Eye of the Equinox,Boots of Mobility,,Cloth Armor,17325,6152,Lane.bot_lane,Role.support
+3,BlackYellowBee,Lux,False,Side.blue,5,11,6,1.0,140,Teleport,Flash,13,False,9698,10525,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Doran's Ring,The Dark Seal,Blasting Wand,77892,12648,Lane.mid_lane,Role.solo
+4,RebelLemon,Pantheon,False,Side.blue,5,10,3,0.8,105,Flash,Ignite,12,False,9179,9125,Ninja Tabi,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Caulfield's Warhammer,Long Sword,5817,65760,Lane.top_lane,Role.solo
+5,Koggykage,Twitch,True,Side.red,14,4,8,5.5,163,Heal,Flash,16,False,14175,13600,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Last Whisper,124,112911,Lane.bot_lane,Role.carry
+6,Outline,Vel'Koz,True,Side.red,11,5,14,5.0,175,Flash,Heal,16,False,13939,13400,Luden's Echo,Haunting Guise,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Doran's Ring,115743,11250,Lane.mid_lane,Role.solo
+7,II Master II,Thresh,True,Side.red,2,7,19,3.0,43,Flash,Exhaust,13,False,9551,8775,Zeke's Harbinger,Knight's Vow,Eye of the Equinox,Crystalline Bracer,Faerie Charm,Boots of Mobility,20248,6068,Lane.bot_lane,Role.support
+8,KaneKi521,Yasuo,True,Side.red,10,6,11,3.5,216,Flash,Teleport,17,False,14106,13325,Quicksilver Sash,Phantom Dancer,Frozen Mallet,Infinity Edge,Vampiric Scepter,Ninja Tabi,33298,150995,Lane.top_lane,Role.solo
+9,PrepareUrRammus,Rammus,True,Side.red,8,4,9,4.25,105,Smite,Flash,14,False,11745,10920,Enchantment: Cinderhulk,Dead Man's Plate,Boots of Mobility,Spectre's Cowl,Thornmail,Negatron Cloak,69663,38980,Lane.jungle,Role.none

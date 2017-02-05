@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KappaSoleil,Thresh,False,Side.blue,1,5,12,2.6,31,Flash,Ignite,11,False,7290,6475,Ruby Sightstone,Relic Shield,Knight's Vow,Boots of Mobility,Control Ward,Ruby Crystal,10286,4637,Lane.bot_lane,Role.support
+1,CarrilIo,Poppy,False,Side.blue,3,8,6,1.125,134,Flash,Teleport,14,False,8886,8075,Spirit Visage,Mercury's Treads,Sunfire Cape,Cloth Armor,Ruby Crystal,Corrupting Potion,21640,61314,Lane.top_lane,Role.solo
+2,AsianGoneWild,Ashe,False,Side.blue,8,6,5,2.1666666666666665,169,Heal,Flash,12,False,10607,9200,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Last Whisper,,950,93502,Lane.bot_lane,Role.carry
+3,Just hasagi,Lee Sin,False,Side.blue,9,7,6,2.142857142857143,75,Smite,Flash,12,False,9160,8850,Tiamat,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Null-Magic Mantle,Mercury's Treads,18581,55426,Lane.jungle,Role.none
+4,Putting in the D,Cassiopeia,False,Side.blue,3,12,2,0.4166666666666667,119,Flash,Ghost,13,False,8696,7500,Doran's Ring,Seraph's Embrace,Abyssal Scepter,Refillable Potion,Giant's Belt,,65269,7741,Lane.mid_lane,Role.solo
+5,Lose,Caitlyn,True,Side.red,7,4,7,3.5,147,Flash,Heal,13,False,10708,8075,Runaan's Hurricane,Infinity Edge,,Berserker's Greaves,,Doran's Blade,670,84885,Lane.bot_lane,Role.carry
+6,Vicinus,Malphite,True,Side.red,9,4,5,3.5,134,Flash,Teleport,14,False,10700,10425,Titanic Hydra,Corrupting Potion,Iceborn Gauntlet,Boots of Speed,Sunfire Cape,Null-Magic Mantle,56800,29899,Lane.top_lane,Role.solo
+7,iaMsaraK,Hecarim,True,Side.red,7,5,14,4.2,146,Ghost,Smite,14,False,11351,9483,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Mercury's Treads,Giant's Belt,Chain Vest,21879,103920,Lane.jungle,Role.none
+8,IAmArray,Bard,True,Side.red,1,8,19,2.5,14,Flash,Exhaust,12,False,7817,4600,Redemption,Refillable Potion,Boots of Mobility,Sightstone,,Spellthief's Edge,14341,5511,Lane.bot_lane,Role.support
+9,Pros,LeBlanc,True,Side.red,13,3,8,7.0,142,Flash,Ignite,14,True,11920,11755,Doran's Ring,Morellonomicon,Rabadon's Deathcap,,Rylai's Crystal Scepter,Sorcerer's Shoes,78311,11630,Lane.mid_lane,Role.solo

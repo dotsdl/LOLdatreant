@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Imentice,Ezreal,True,Side.blue,6,4,17,5.75,169,Heal,Flash,14,False,11773,9333,Bilgewater Cutlass,Muramana,Ionian Boots of Lucidity,Doran's Blade,,Trinity Force,16897,78532,Lane.bot_lane,Role.carry
+1,SoloMeatballOnly,Renekton,True,Side.blue,5,3,8,4.333333333333333,186,Ignite,Flash,14,False,11189,11025,The Black Cleaver,Ninja Tabi,Titanic Hydra,Locket of the Iron Solari,Vampiric Scepter,,2129,105964,Lane.top_lane,Role.solo
+2,Futureway,LeBlanc,True,Side.blue,9,7,6,2.142857142857143,105,Ignite,Flash,12,False,10658,9800,Doran's Ring,Rabadon's Deathcap,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Aether Wisp,66002,9490,Lane.mid_lane,Role.solo
+3,HannibaI Barca,Sion,True,Side.blue,5,2,14,9.5,59,Exhaust,Flash,12,False,9556,9325,Randuin's Omen,Refillable Potion,Eye of the Equinox,Ninja Tabi,Sunfire Cape,,19519,17700,Lane.bot_lane,Role.support
+4,AllAero,Lee Sin,True,Side.blue,12,3,18,10.0,91,Flash,Smite,14,False,11920,10400,Tiamat,Enchantment: Warrior,Caulfield's Warhammer,Dead Man's Plate,Ninja Tabi,Phage,13861,76399,Lane.jungle,Role.none
+5,Ikzencriel,Jax,False,Side.red,2,8,8,1.25,10,Exhaust,Flash,10,False,7038,6775,Frost Queen's Claim,Sightstone,Redemption,Refillable Potion,Sorcerer's Shoes,,7274,10583,Lane.bot_lane,Role.support
+6,RealDarkness,Yasuo,False,Side.red,3,6,5,1.3333333333333333,203,Exhaust,Flash,14,False,9375,8825,Statikk Shiv,Refillable Potion,Berserker's Greaves,Infinity Edge,Hexdrinker,,62737,87287,Lane.mid_lane,Role.solo
+7,Asyc xD ,Caitlyn,False,Side.red,3,8,4,0.875,161,Heal,Flash,12,False,8395,8000,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,,535,92941,Lane.bot_lane,Role.carry
+8,Firé,Elise,False,Side.red,11,9,3,1.5555555555555556,60,Smite,Flash,13,True,9926,9885,Refillable Potion,Hextech Protobelt-01,Boots of Mobility,Enchantment: Runic Echoes,Rylai's Crystal Scepter,,61795,17534,Lane.jungle,Role.none
+9,Kebin M,Riven,False,Side.red,0,6,6,1.0,149,Flash,Teleport,12,False,7794,7575,Tiamat,Long Sword,Caulfield's Warhammer,Ninja Tabi,Long Sword,The Black Cleaver,0,71754,Lane.top_lane,Role.solo

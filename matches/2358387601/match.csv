@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kebin M,Riven,False,Side.blue,18,8,5,2.875,169,Flash,Teleport,17,False,15861,15425,Ravenous Hydra,,Youmuu's Ghostblade,Ninja Tabi,Lord Dominik's Regards,The Black Cleaver,0,146741,Lane.top_lane,Role.solo
+1,Firé,LeBlanc,False,Side.blue,5,10,9,1.4,194,Teleport,Flash,16,False,11876,11625,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,Doran's Ring,Luden's Echo,,111925,13388,Lane.mid_lane,Role.solo
+2,WeTriedToRun,Jhin,False,Side.blue,5,7,7,1.7142857142857142,261,Flash,Heal,15,True,13262,12700,B. F. Sword,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Lord Dominik's Regards,Vampiric Scepter,14958,172618,Lane.bot_lane,Role.carry
+3,Nwok,Alistar,False,Side.blue,0,8,16,2.0,41,Flash,Exhaust,14,False,9355,8950,Ruby Sightstone,Face of the Mountain,Redemption,Boots of Mobility,Ruby Crystal,Aegis of the Legion,18044,5458,Lane.bot_lane,Role.support
+4,Supercilious,Nocturne,False,Side.blue,5,9,14,2.111111111111111,146,Flash,Smite,15,False,11878,11050,Ninja Tabi,Hunter's Potion,Enchantment: Bloodrazor,Sterak's Gage,Spirit Visage,,5940,126590,Lane.jungle,Role.none
+5,Jurassiq,Lee Sin,True,Side.red,12,7,19,4.428571428571429,94,Flash,Smite,16,False,14652,14475,Enchantment: Warrior,Randuin's Omen,Dead Man's Plate,Hexdrinker,Mercury's Treads,Guardian Angel,19033,115153,Lane.jungle,Role.none
+6,Cheng Liu,Ziggs,True,Side.red,10,5,19,5.8,216,Barrier,Flash,18,False,16316,15875,Seeker's Armguard,Void Staff,Mercury's Treads,Rabadon's Deathcap,Luden's Echo,Morellonomicon,178455,15309,Lane.mid_lane,Role.solo
+7,B00STED DRAVEN,Ezreal,True,Side.red,11,7,8,2.7142857142857144,185,Flash,Heal,15,False,14349,13383,Doran's Blade,Muramana,Trinity Force,Ionian Boots of Lucidity,Infinity Edge,Last Whisper,15818,125282,Lane.bot_lane,Role.carry
+8,EmarD,Janna,True,Side.red,2,5,28,6.0,19,Flash,Exhaust,16,False,12007,10300,Locket of the Iron Solari,Eye of the Oasis,Redemption,Boots of Mobility,Frozen Heart,,4742,7355,Lane.bot_lane,Role.support
+9,PuRe Desire,Darius,True,Side.red,6,9,10,1.7777777777777777,221,Flash,Teleport,17,False,14743,14400,Chain Vest,Zz'Rot Portal,Dead Man's Plate,The Black Cleaver,Mercury's Treads,Spirit Visage,164,144109,Lane.top_lane,Role.solo

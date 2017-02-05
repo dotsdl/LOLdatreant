@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Filthy Rengar ,Vi,True,Side.blue,9,7,5,2.0,150,Flash,Smite,16,False,13619,12308,Enchantment: Warrior,Trinity Force,Randuin's Omen,Ninja Tabi,Jaurim's Fist,Long Sword,2032,176899,Lane.jungle,Role.none
+1,Silver Bolted,Ezreal,True,Side.blue,4,3,12,5.333333333333333,137,Flash,Heal,15,False,12420,11325,Muramana,Vampiric Scepter,Blade of the Ruined King,Iceborn Gauntlet,,Ionian Boots of Lucidity,16741,100854,Lane.bot_lane,Role.duo
+2,TrungThienDo,Caitlyn,True,Side.blue,4,4,13,4.25,151,Flash,Heal,15,False,13330,12150,Doran's Blade,Runaan's Hurricane,The Bloodthirster,Infinity Edge,Berserker's Greaves,,914,139654,Lane.bot_lane,Role.duo
+3,IQ is 201 ,Yasuo,True,Side.blue,8,10,8,1.6,168,Flash,Exhaust,16,False,12971,11900,Infinity Edge,Doran's Blade,Berserker's Greaves,Frozen Mallet,Phantom Dancer,Vampiric Scepter,19131,121576,Lane.mid_lane,Role.solo
+4,longdongsi1ver69,Yorick,True,Side.blue,5,6,7,2.0,196,Flash,Teleport,17,False,12903,12233,Titanic Hydra,Trinity Force,Mercury's Treads,Spirit Visage,Null-Magic Mantle,,20490,122321,Lane.top_lane,Role.solo
+5,K0REAN MECHANICS,Vayne,False,Side.red,5,5,7,2.4,226,Flash,Heal,15,True,11817,11700,The Bloodthirster,Statikk Shiv,,Infinity Edge,Berserker's Greaves,,24026,95635,Lane.bot_lane,Role.carry
+6,Je suis Mak,Rumble,False,Side.red,4,7,8,1.7142857142857142,192,Flash,Teleport,16,False,10781,10085,Zhonya's Hourglass,Needlessly Large Rod,Liandry's Torment,Doran's Shield,Sorcerer's Shoes,Blasting Wand,135940,14889,Lane.top_lane,Role.solo
+7,Chroniko,Kha'Zix,False,Side.red,16,8,7,2.875,129,Smite,Flash,16,False,13421,12580,Youmuu's Ghostblade,Tiamat,Ninja Tabi,Duskblade of Draktharr,Enchantment: Warrior,Phage,6614,134476,Lane.jungle,Role.none
+8,Sumoh,Blitzcrank,False,Side.red,1,7,9,1.4285714285714286,33,Flash,Exhaust,13,False,7301,6100,Targon's Brace,Sightstone,Boots of Mobility,Frozen Heart,Control Ward,Total Biscuit of Rejuvenation,10287,6138,Lane.bot_lane,Role.support
+9,i goZed or Yasuo,Gangplank,False,Side.red,4,3,12,5.333333333333333,225,Flash,Exhaust,16,False,12153,11933,Youmuu's Ghostblade,Refillable Potion,Ninja Tabi,Trinity Force,Sterak's Gage,Pickaxe,11662,151272,Lane.mid_lane,Role.solo

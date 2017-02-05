@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZatsMod,Syndra,False,Side.blue,5,8,3,1.0,122,Flash,Ghost,11,False,7791,7045,Doran's Ring,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Ruby Crystal,69005,7096,Lane.mid_lane,Role.solo
+1,Crackadon,Nidalee,False,Side.blue,5,5,5,2.0,105,Smite,Flash,12,False,8460,7835,Enchantment: Runic Echoes,Refillable Potion,Cloth Armor,Rylai's Crystal Scepter,Amplifying Tome,Ionian Boots of Lucidity,80401,9918,Lane.jungle,Role.none
+2,King Kayys,Braum,False,Side.blue,0,5,7,1.4,27,Flash,Ignite,10,False,5832,5250,Targon's Brace,Ruby Sightstone,Aegis of the Legion,,Control Ward,Boots of Swiftness,5262,4594,Lane.bot_lane,Role.support
+3,amgod1,Caitlyn,False,Side.blue,2,6,1,0.5,161,Heal,Flash,11,False,8372,7075,Doran's Blade,B. F. Sword,Cull,Pickaxe,Berserker's Greaves,Runaan's Hurricane,1129,91546,Lane.bot_lane,Role.carry
+4,toke dude,Poppy,False,Side.blue,1,4,1,0.5,136,Teleport,Flash,11,False,6956,6425,Ninja Tabi,Sunfire Cape,Glacial Shroud,Warden's Mail,,,17032,40474,Lane.top_lane,Role.solo
+5,AvadaKedavra BAM,Sona,True,Side.red,7,4,11,4.5,13,Flash,Exhaust,11,False,8430,7200,Redemption,Boots of Speed,Sightstone,Zeke's Harbinger,Frostfang,Tear of the Goddess,15048,5355,Lane.bot_lane,Role.support
+6,blaberfish2,Rek'Sai,True,Side.red,6,1,12,18.0,156,Flash,Smite,14,False,10407,8150,Refillable Potion,Enchantment: Cinderhulk,Titanic Hydra,Mercury's Treads,Ruby Crystal,Cloth Armor,30640,102317,Lane.jungle,Role.none
+7,Abou222,Jayce,True,Side.red,3,3,8,3.6666666666666665,153,Teleport,Flash,13,False,8932,7725,The Black Cleaver,Refillable Potion,Mercury's Treads,Lord Dominik's Regards,Long Sword,,10659,63646,Lane.top_lane,Role.solo
+8,rqspaceinvad,Ashe,True,Side.red,6,0,11,17.0,151,Flash,Heal,12,False,9487,7975,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,2924,70097,Lane.bot_lane,Role.carry
+9,TszHin OvO,Viktor,True,Side.red,6,5,9,3.0,176,Heal,Flash,14,True,10075,9350,Perfect Hex Core,Rylai's Crystal Scepter,Lost Chapter,The Dark Seal,Ionian Boots of Lucidity,Doran's Ring,93431,10802,Lane.mid_lane,Role.solo

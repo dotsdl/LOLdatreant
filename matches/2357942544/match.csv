@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lovechemist,Twisted Fate,False,Side.blue,0,7,6,0.8571428571428571,79,Ghost,Flash,11,False,6424,5875,Boots of Speed,Doran's Ring,Seeker's Armguard,Rod of Ages,Fiendish Codex,,40740,7212,Lane.mid_lane,Role.solo
+1,4911,Ezreal,False,Side.blue,8,4,6,3.5,204,Heal,Flash,13,False,11394,10333,Doran's Blade,Trinity Force,Vampiric Scepter,Muramana,B. F. Sword,Ionian Boots of Lucidity,17314,112858,Lane.bot_lane,Role.carry
+2,badeed,Hecarim,False,Side.blue,4,5,6,2.0,118,Smite,Ghost,12,False,8429,8158,Skirmisher's Sabre,Refillable Potion,Trinity Force,Mercury's Treads,Serrated Dirk,Bami's Cinder,12060,87246,Lane.jungle,Role.none
+3,Liquid Painless,Lulu,False,Side.blue,2,2,9,5.5,21,Flash,Ignite,11,False,6877,6025,,Eye of the Watchers,,Ionian Boots of Lucidity,,Locket of the Iron Solari,12376,4202,Lane.bot_lane,Role.support
+4,Kebin M,Riven,False,Side.blue,3,4,3,1.5,189,Flash,Teleport,13,False,9017,8975,Caulfield's Warhammer,,Mercury's Treads,Lord Dominik's Regards,Doran's Blade,The Black Cleaver,135,112831,Lane.top_lane,Role.solo
+5,aphromoo,Aatrox,True,Side.red,1,3,8,3.0,49,Ignite,Flash,11,False,7603,5675,Ruby Sightstone,Tiamat,Jaurim's Fist,,Relic Shield,Ionian Boots of Lucidity,16861,14234,Lane.bot_lane,Role.support
+6,Never Been,Corki,True,Side.red,9,3,6,5.0,182,Flash,Cleanse,14,True,11488,9408,Hextech Gunblade,Trinity Force,Sorcerer's Shoes,,Doran's Blade,Corrupting Potion,106139,30009,Lane.mid_lane,Role.solo
+7,AKA SIeepingDAWG,Nunu,True,Side.red,2,3,12,4.666666666666667,94,Flash,Smite,13,False,9333,7275,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Spirit Visage,Cloth Armor,,26836,29999,Lane.jungle,Role.none
+8,Falco Mechanic,Caitlyn,True,Side.red,5,6,3,1.3333333333333333,182,Exhaust,Flash,13,False,10446,7900,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,,,567,113729,Lane.bot_lane,Role.carry
+9,Dyrus,Braum,True,Side.red,5,2,5,5.0,166,Teleport,Flash,15,False,9885,8225,Redemption,Corrupting Potion,Aegis of the Legion,Sunfire Cape,Ninja Tabi,Null-Magic Mantle,51904,27588,Lane.top_lane,Role.solo

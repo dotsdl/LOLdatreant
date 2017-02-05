@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tblack,Brand,False,Side.blue,2,9,4,0.6666666666666666,9,Ignite,Flash,11,False,6472,6135,Frost Queen's Claim,Sightstone,Boots of Speed,Amplifying Tome,Needlessly Large Rod,Giant's Belt,22224,1636,Lane.bot_lane,Role.support
+1,Thunder Breastar,Irelia,False,Side.blue,4,6,1,0.8333333333333334,135,Teleport,Flash,12,False,8095,7883,Refillable Potion,Trinity Force,Mercury's Treads,Doran's Blade,Jaurim's Fist,Tiamat,1111,54639,Lane.top_lane,Role.solo
+2,wh1996515,Viktor,False,Side.blue,3,10,6,0.9,108,Ghost,Flash,12,False,7667,7125,Rylai's Crystal Scepter,Doran's Ring,The Hex Core mk-1,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,48376,6812,Lane.mid_lane,Role.solo
+3,iiPappaSmurf,Shyvana,False,Side.blue,6,11,6,1.0909090909090908,107,Flash,Smite,12,False,9004,8725,Enchantment: Bloodrazor,Hunter's Potion,Titanic Hydra,Boots of Swiftness,Giant's Belt,Cloth Armor,40059,41876,Lane.jungle,Role.none
+4,Pref Not Support,Twitch,False,Side.blue,6,10,4,1.0,107,Heal,Flash,12,False,8318,7900,Infinity Edge,Health Potion,Runaan's Hurricane,Berserker's Greaves,,,119,48792,Lane.bot_lane,Role.carry
+5,Cleanup99,Lee Sin,True,Side.red,9,4,5,3.5,129,Flash,Smite,13,False,11317,10475,Boots of Swiftness,Ravenous Hydra,Enchantment: Warrior,Dead Man's Plate,Ruby Crystal,Refillable Potion,12804,94751,Lane.jungle,Role.none
+6,Heyak,Trundle,True,Side.red,3,2,16,9.5,42,Exhaust,Flash,12,False,9278,8375,Mercury's Treads,Face of the Mountain,Sightstone,Iceborn Gauntlet,Warden's Mail,Sapphire Crystal,1547,28682,Lane.bot_lane,Role.support
+7,xdev,Ezreal,True,Side.red,9,3,10,6.333333333333333,151,Flash,Heal,12,True,11857,11333,Doran's Blade,Manamune,Blade of the Ruined King,Ionian Boots of Lucidity,Trinity Force,Long Sword,12617,81951,Lane.bot_lane,Role.carry
+8,GowaSan,Jax,True,Side.red,20,5,3,4.6,151,Ignite,Flash,16,False,15220,13753,Hextech Gunblade,Titanic Hydra,Trinity Force,Chain Vest,Negatron Cloak,Mercury's Treads,27362,100559,Lane.mid_lane,Role.solo
+9,GayboylikeU,Singed,True,Side.red,5,7,5,1.4285714285714286,116,Ignite,Ghost,13,False,9045,8750,The Dark Seal,Corrupting Potion,Rylai's Crystal Scepter,Liandry's Torment,Ninja Tabi,Ruby Crystal,61735,9044,Lane.top_lane,Role.solo

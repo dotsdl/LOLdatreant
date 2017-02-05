@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Spliffy,Lux,True,Side.blue,0,4,8,2.0,167,Exhaust,Flash,15,False,10779,9735,Sorcerer's Shoes,Amplifying Tome,Zhonya's Hourglass,Mejai's Soulstealer,Doran's Ring,Morellonomicon,97074,20382,Lane.mid_lane,Role.solo
+1,GlutenFreePanda,Jhin,True,Side.blue,5,4,9,3.5,214,Flash,Exhaust,15,False,13407,12350,Boots of Swiftness,Youmuu's Ghostblade,Refillable Potion,Essence Reaver,Rapid Firecannon,Last Whisper,7584,159026,Lane.bot_lane,Role.carry
+2,Sonnad,Soraka,True,Side.blue,0,3,10,3.3333333333333335,4,Heal,Flash,12,False,8688,8800,Mikael's Crucible,Ruby Sightstone,Forbidden Idol,Ionian Boots of Lucidity,Redemption,Control Ward,7464,2959,Lane.bot_lane,Role.support
+3,Wizikz,Lee Sin,True,Side.blue,12,3,5,5.666666666666667,225,Smite,Flash,17,True,16306,14410,Ravenous Hydra,Enchantment: Warrior,Poacher's Dirk,Edge of Night,Boots of Mobility,The Black Cleaver,40928,175190,Lane.jungle,Role.none
+4,loveyen,Nunu,True,Side.blue,6,2,6,6.0,151,Flash,Teleport,15,False,12579,10860,Seeker's Armguard,Fiendish Codex,Hextech Protobelt-01,Haunting Guise,Sorcerer's Shoes,Void Staff,66658,23972,Lane.top_lane,Role.solo
+5,KaIeido,Bard,False,Side.red,3,3,9,4.0,24,Flash,Ignite,13,False,8585,8325,,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,Control Ward,Locket of the Iron Solari,16022,5744,Lane.bot_lane,Role.support
+6,Zeeyo,Nocturne,False,Side.red,5,10,8,1.3,118,Flash,Smite,13,False,9617,9283,Enchantment: Bloodrazor,,Ionian Boots of Lucidity,Trinity Force,Chain Vest,Giant's Belt,4633,108634,Lane.jungle,Role.none
+7,NVe Enzo,Zilean,False,Side.red,6,3,8,4.666666666666667,224,Ghost,Flash,15,False,11615,11250,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Rod of Ages,,,146449,12743,Lane.mid_lane,Role.solo
+8,OneTrueBiribiri,Fiora,False,Side.red,2,5,5,1.4,193,Flash,Teleport,14,False,9602,9025,Doran's Blade,Ravenous Hydra,The Black Cleaver,Mercury's Treads,Ruby Crystal,,973,100024,Lane.top_lane,Role.solo
+9,SeIfless,Draven,False,Side.red,0,2,7,3.5,185,Flash,Heal,14,False,9451,9100,Infinity Edge,The Bloodthirster,,Berserker's Greaves,,,0,103440,Lane.bot_lane,Role.carry

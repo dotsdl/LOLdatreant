@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cris,Rumble,True,Side.blue,2,5,5,1.4,155,Flash,Teleport,13,False,8618,7125,Hextech Protobelt-01,Seeker's Armguard,Refillable Potion,Haunting Guise,Sorcerer's Shoes,Doran's Shield,74884,8828,Lane.top_lane,Role.solo
+1,Winter is back,Nami,True,Side.blue,0,3,10,3.3333333333333335,5,Flash,Exhaust,11,False,5996,5725,Mikael's Crucible,Ionian Boots of Lucidity,,Eye of the Watchers,,Total Biscuit of Rejuvenation,3815,5741,Lane.bot_lane,Role.support
+2,zlsna,Vayne,True,Side.blue,6,1,2,8.0,159,Flash,Heal,13,False,9184,7150,Zeal,Blade of the Ruined King,Doran's Blade,Kircheis Shard,,Berserker's Greaves,1482,63463,Lane.bot_lane,Role.carry
+3,Leagué,Yasuo,True,Side.blue,3,4,4,1.75,172,Flash,Teleport,13,False,8890,7475,Doran's Blade,Berserker's Greaves,Frozen Mallet,Phantom Dancer,,Refillable Potion,28605,64222,Lane.mid_lane,Role.solo
+4,moon o,Evelynn,True,Side.blue,7,3,2,3.0,115,Smite,Flash,13,False,9156,8385,Enchantment: Runic Echoes,Liandry's Torment,Sorcerer's Shoes,The Dark Seal,,Fiendish Codex,72151,30114,Lane.jungle,Role.none
+5,Shiphtur,Zed,False,Side.red,3,4,5,2.0,143,Ignite,Flash,13,False,7769,6775,Youmuu's Ghostblade,Bilgewater Cutlass,Boots of Swiftness,Dagger,Dagger,Long Sword,5344,73911,Lane.mid_lane,Role.solo
+6,Erry,Caitlyn,False,Side.red,2,4,2,1.0,167,Heal,Flash,10,False,8111,8250,Infinity Edge,Recurve Bow,Zeal,,Berserker's Greaves,Doran's Blade,412,72457,Lane.bot_lane,Role.carry
+7,Hi Im A Sheep,Bard,False,Side.red,0,4,7,1.75,13,Flash,Exhaust,10,False,5230,4600,Ruby Sightstone,,Spellthief's Edge,Ruby Crystal,Forbidden Idol,Boots of Mobility,5923,5360,Lane.bot_lane,Role.support
+8,Allorim,Lissandra,False,Side.red,2,2,4,3.0,152,Flash,Teleport,12,False,7541,7435,Doran's Ring,Doran's Ring,Rod of Ages,Abyssal Scepter,Boots of Speed,Amplifying Tome,76822,9737,Lane.top_lane,Role.solo
+9,Pekin Woof,Lee Sin,False,Side.red,9,4,1,2.5,98,Flash,Smite,12,True,8790,8450,Maw of Malmortius,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Phage,,15548,73271,Lane.jungle,Role.none

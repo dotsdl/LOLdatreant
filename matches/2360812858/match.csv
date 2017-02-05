@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,cute pupper irl,Karma,False,Side.blue,2,3,10,4.0,43,Flash,Exhaust,12,False,8163,7425,Redemption,Eye of the Watchers,Boots of Mobility,Refillable Potion,Control Ward,Aegis of the Legion,19654,6151,Lane.bot_lane,Role.support
+1,Happy Birfdizzay,Teemo,False,Side.blue,5,9,3,0.8888888888888888,156,Flash,Heal,13,False,9239,8150,Hextech Gunblade,Refillable Potion,Sorcerer's Shoes,Nashor's Tooth,,,57174,29270,Lane.bot_lane,Role.carry
+2,Ablazeolive,Katarina,False,Side.blue,7,6,5,2.0,145,Flash,Ignite,14,False,9491,8235,Boots of Speed,Amplifying Tome,Blasting Wand,Refillable Potion,Zhonya's Hourglass,Hextech Gunblade,77433,9525,Lane.mid_lane,Role.solo
+3,Rohammers,Ekko,False,Side.blue,0,14,3,0.21428571428571427,147,Teleport,Flash,12,False,7723,7600,Hextech Protobelt-01,Corrupting Potion,Mercury's Treads,The Dark Seal,Doran's Ring,Abyssal Scepter,75056,12666,Lane.top_lane,Role.solo
+4,PutYourHeartsUp,Shyvana,False,Side.blue,3,5,8,2.2,196,Ghost,Smite,15,False,10293,10675,Randuin's Omen,Chain Vest,Giant's Belt,Spectre's Cowl,Enchantment: Cinderhulk,Ninja Tabi,101871,35943,Lane.jungle,Role.none
+5,HoNSol0,Alistar,True,Side.red,1,3,8,3.0,42,Flash,Exhaust,12,False,8031,7125,Boots of Mobility,Refillable Potion,Locket of the Iron Solari,Eye of the Equinox,Forbidden Idol,Crystalline Bracer,8530,7209,Lane.bot_lane,Role.support
+6,Stiches,Caitlyn,True,Side.red,2,4,9,2.75,225,Heal,Flash,14,True,11459,10225,Infinity Edge,Statikk Shiv,Hexdrinker,Pickaxe,Berserker's Greaves,Doran's Blade,21187,123270,Lane.bot_lane,Role.carry
+7,Révenge,LeBlanc,True,Side.red,15,5,6,4.2,150,Teleport,Flash,16,False,12680,11710,Doran's Ring,Abyssal Scepter,Morellonomicon,Void Staff,Needlessly Large Rod,Sorcerer's Shoes,92363,16066,Lane.top_lane,Role.solo
+8,Dardøch,Rengar,True,Side.red,12,2,4,8.0,192,Smite,Flash,16,False,14120,12225,Enchantment: Warrior,Edge of Night,,Infinity Edge,Ionian Boots of Lucidity,Tiamat,14658,186758,Lane.jungle,Role.none
+9,NI9HT,Talon,True,Side.red,7,3,4,3.6666666666666665,189,Exhaust,Flash,16,False,11002,10225,Youmuu's Ghostblade,Corrupting Potion,The Black Cleaver,Hexdrinker,Last Whisper,Ionian Boots of Lucidity,3124,115068,Lane.mid_lane,Role.solo

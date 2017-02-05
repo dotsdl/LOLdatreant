@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Turc,Thresh,False,Side.blue,0,5,7,1.4,33,Exhaust,Flash,10,False,4973,4600,Relic Shield,Redemption,Sightstone,Ionian Boots of Lucidity,,Control Ward,7188,5378,Lane.bot_lane,Role.support
+1,Sìyou,Vayne,False,Side.blue,1,8,4,0.625,148,Flash,Heal,11,False,7349,7350,Doran's Blade,Berserker's Greaves,Statikk Shiv,Long Sword,Pickaxe,B. F. Sword,45,51682,Lane.bot_lane,Role.carry
+2,eRx,Riven,False,Side.blue,3,5,2,1.0,126,Teleport,Flash,11,False,6907,5500,Tiamat,The Black Cleaver,,,,Ionian Boots of Lucidity,0,53840,Lane.top_lane,Role.solo
+3,ItsYourChoice,Akali,False,Side.blue,6,5,1,1.4,159,Flash,Ignite,12,False,8359,7610,Sorcerer's Shoes,Hextech Gunblade,Needlessly Large Rod,Giant's Belt,Amplifying Tome,,31694,52379,Lane.mid_lane,Role.solo
+4,FourofDiamonds,Shaco,False,Side.blue,2,6,5,1.1666666666666667,99,Smite,Ignite,11,False,6951,6425,Tiamat,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Long Sword,Hextech Revolver,,21746,49034,Lane.jungle,Role.none
+5,Makavéli,Rengar,True,Side.red,21,1,3,24.0,195,Smite,Flash,17,False,16161,13800,Enchantment: Warrior,Youmuu's Ghostblade,Edge of Night,Ionian Boots of Lucidity,Control Ward,Duskblade of Draktharr,14869,189483,Lane.jungle,Role.none
+6,Treebro001,Poppy,True,Side.red,2,3,9,3.6666666666666665,142,Flash,Teleport,14,False,9626,7800,Corrupting Potion,Ninja Tabi,,Iceborn Gauntlet,Null-Magic Mantle,Sunfire Cape,17315,55782,Lane.top_lane,Role.solo
+7,SquirreI,Twisted Fate,True,Side.red,0,1,6,6.0,176,Flash,Exhaust,14,False,9548,8050,Doran's Ring,Rod of Ages,Refillable Potion,Ionian Boots of Lucidity,Abyssal Scepter,Sheen,74114,21444,Lane.mid_lane,Role.solo
+8,camtheham,Caitlyn,True,Side.red,3,5,5,1.6,186,Heal,Flash,13,False,10511,8475,Refillable Potion,Infinity Edge,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Cull,219,90327,Lane.bot_lane,Role.carry
+9,734,Zyra,True,Side.red,3,2,4,3.5,13,Flash,Exhaust,10,True,7622,5325,,Haunting Guise,Sorcerer's Shoes,Eye of the Watchers,,,14642,5183,Lane.bot_lane,Role.support

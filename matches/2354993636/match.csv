@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Despotic,Karma,True,Side.blue,1,2,18,9.5,3,Flash,Exhaust,9,False,7030,6250,Iceborn Gauntlet,Eye of the Watchers,,Boots of Swiftness,,,9610,7569,Lane.bot_lane,Role.support
+1,Lil Soligo,Vayne,True,Side.blue,12,2,6,9.0,122,Heal,Flash,11,True,10187,9875,Infinity Edge,Doran's Blade,Cull,Bilgewater Cutlass,Berserker's Greaves,Statikk Shiv,11618,59352,Lane.bot_lane,Role.carry
+2,1ncomparabIe,Elise,True,Side.blue,5,1,3,8.0,69,Smite,Flash,11,False,7692,5775,Refillable Potion,Needlessly Large Rod,Boots of Speed,Enchantment: Runic Echoes,Giant's Belt,Cloth Armor,54482,22440,Lane.jungle,Role.none
+3,Ken Shifu,Jayce,True,Side.blue,4,2,5,4.5,121,Teleport,Flash,12,False,8008,3425,Doran's Blade,Refillable Potion,,Ninja Tabi,Long Sword,Phage,8850,56731,Lane.top_lane,Role.solo
+4,Yanni Tsunami,Zed,True,Side.blue,7,4,4,2.75,121,Ignite,Flash,11,False,7947,7225,Boots of Speed,Duskblade of Draktharr,Youmuu's Ghostblade,Long Sword,,,4147,50249,Lane.mid_lane,Role.solo
+5,N810HO,Riven,False,Side.red,3,5,2,1.0,89,Flash,Ignite,10,False,6014,5500,Total Biscuit of Rejuvenation,Serrated Dirk,Long Sword,Youmuu's Ghostblade,Boots of Speed,Long Sword,842,40836,Lane.mid_lane,Role.solo
+6,NA Top Lane Xio,Jarvan IV,False,Side.red,3,5,2,1.0,101,Teleport,Flash,10,False,6007,5600,Ninja Tabi,The Black Cleaver,Corrupting Potion,Long Sword,Ruby Crystal,,1755,44180,Lane.top_lane,Role.solo
+7,Falco Mechanic,Lucian,False,Side.red,1,10,1,0.2,63,Exhaust,Flash,8,False,4606,3725,Doran's Blade,Pickaxe,Berserker's Greaves,Brawler's Gloves,Dagger,Dagger,2234,30056,Lane.bot_lane,Role.carry
+8,SoV NSFW,Trundle,False,Side.red,0,5,2,0.4,18,Flash,Exhaust,8,False,3942,4025,Kindlegem,Ionian Boots of Lucidity,,,,,359,6352,Lane.bot_lane,Role.support
+9,Darvec,Hecarim,False,Side.red,4,4,0,1.0,73,Smite,Ghost,9,False,6148,5700,Stalker's Blade,Hunter's Potion,Sheen,Ionian Boots of Lucidity,Phage,Stinger,6889,44012,Lane.jungle,Role.none

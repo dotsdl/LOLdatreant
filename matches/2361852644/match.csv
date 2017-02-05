@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GET SM4RT,Caitlyn,False,Side.blue,1,3,0,0.3333333333333333,113,Heal,Flash,10,False,5409,4500,Runaan's Hurricane,,Pickaxe,Doran's Blade,,Boots of Speed,281,55405,Lane.bot_lane,Role.carry
+1,Acnologia103,Janna,False,Side.blue,0,1,1,1.0,1,Flash,Exhaust,8,False,4095,3650,Nomad's Medallion,Sightstone,Total Biscuit of Rejuvenation,Boots of Mobility,Forbidden Idol,,4733,42,Lane.bot_lane,Role.support
+2,tikiwiki18,Akali,False,Side.blue,2,4,0,0.5,77,Flash,Ignite,10,False,5276,4485,Boots of Speed,Hextech Gunblade,Amplifying Tome,,,,10823,18033,Lane.mid_lane,Role.solo
+3,zDSuperman,Graves,False,Side.blue,2,4,1,0.75,118,Smite,Flash,10,False,6156,5925,Refillable Potion,Enchantment: Warrior,Berserker's Greaves,Hexdrinker,Long Sword,Long Sword,2915,66916,Lane.jungle,Role.none
+4,not so smart,Gangplank,False,Side.blue,0,9,3,0.3333333333333333,76,Flash,Exhaust,10,False,5372,4608,Corrupting Potion,Trinity Force,Boots of Speed,Control Ward,,,3540,37542,Lane.top_lane,Role.solo
+5,SKT Soup,Brand,True,Side.red,4,2,0,2.0,142,Ignite,Flash,13,False,8165,6010,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Needlessly Large Rod,Amplifying Tome,,62524,13803,Lane.mid_lane,Role.solo
+6,GowaSan,Jax,True,Side.red,12,1,1,13.0,183,Ignite,Flash,14,True,11902,10453,Hextech Gunblade,Trinity Force,Jaurim's Fist,Doran's Blade,Doran's Blade,Mercury's Treads,33495,84272,Lane.top_lane,Role.solo
+7,dann3boy,Amumu,True,Side.red,2,1,3,5.0,95,Flash,Smite,11,False,7812,7050,Enchantment: Cinderhulk,Frozen Heart,Mercury's Treads,Ruby Crystal,,,71061,22979,Lane.jungle,Role.none
+8,d3athspiral,Blitzcrank,True,Side.red,0,1,3,3.0,3,Exhaust,Flash,9,False,5700,5175,Talisman of Ascension,Boots of Mobility,Sightstone,Forbidden Idol,,,4003,4238,Lane.bot_lane,Role.support
+9,Snipe,Twitch,True,Side.red,3,0,1,4.0,120,Heal,Flash,10,False,7647,7275,Pickaxe,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Cloak of Agility,Doran's Blade,0,65466,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MART1N,Lulu,True,Side.blue,0,3,12,4.0,8,Exhaust,Flash,10,False,6495,4850,Crystalline Bracer,Control Ward,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,,6095,5237,Lane.bot_lane,Role.support
+1,Edge Lord ADC,Vayne,True,Side.blue,6,1,4,10.0,134,Flash,Heal,12,False,8699,6725,Vampiric Scepter,Doran's Blade,Guinsoo's Rageblade,Berserker's Greaves,Long Sword,,3790,54221,Lane.bot_lane,Role.carry
+2,ZambonGG,Poppy,True,Side.blue,1,3,10,3.6666666666666665,145,Flash,Teleport,13,False,8664,5450,,Sunfire Cape,Corrupting Potion,Kindlegem,Ninja Tabi,,22174,57391,Lane.top_lane,Role.solo
+3,cuteboy1,Vi,True,Side.blue,5,2,7,6.0,76,Smite,Flash,12,False,8196,8013,Refillable Potion,Caulfield's Warhammer,,Trinity Force,Enchantment: Warrior,Boots of Speed,979,68303,Lane.jungle,Role.none
+4,DarkWingsForSale,Katarina,True,Side.blue,18,3,3,7.0,168,Flash,Ignite,14,True,13097,9275,Rylai's Crystal Scepter,Hextech Gunblade,The Dark Seal,Sorcerer's Shoes,Blasting Wand,,102825,16575,Lane.mid_lane,Role.solo
+5,Dankplank hehexd,Gangplank,False,Side.red,2,5,2,0.8,124,Flash,Teleport,12,False,7108,6533,Boots of Speed,Refillable Potion,Trinity Force,B. F. Sword,Cloak of Agility,,3352,72822,Lane.top_lane,Role.solo
+6,ityyy,Kayle,False,Side.red,2,7,1,0.42857142857142855,140,Flash,Ghost,11,False,6581,5750,Doran's Ring,Refillable Potion,Recurve Bow,Nashor's Tooth,Ionian Boots of Lucidity,,47434,19590,Lane.jungle,Role.none
+7,Cat Person,Soraka,False,Side.red,2,4,5,1.75,8,Flash,Heal,9,False,5733,5450,Redemption,Sightstone,Control Ward,Frostfang,Null-Magic Mantle,Ionian Boots of Lucidity,4689,1460,Lane.bot_lane,Role.support
+8,Falco Mechanic,Jinx,False,Side.red,4,7,3,1.0,150,Exhaust,Flash,11,False,7529,7150,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,Dagger,Dagger,743,76858,Lane.bot_lane,Role.carry
+9,FourofDiamonds,Sejuani,False,Side.red,2,7,1,0.42857142857142855,75,Smite,Flash,10,False,6337,5975,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,Abyssal Scepter,,,44404,19427,Lane.jungle,Role.none

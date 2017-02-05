@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,I LIKE TRAINZ,Shen,False,Side.blue,0,3,1,0.3333333333333333,46,Flash,Teleport,7,False,3132,2550,Doran's Shield,Bami's Cinder,Refillable Potion,Chain Vest,,,4763,5642,Lane.top_lane,Role.solo
+1,PIays With Balls,Orianna,False,Side.blue,0,1,0,0.0,68,Flash,Ghost,8,False,3328,2760,Doran's Ring,Refillable Potion,Lost Chapter,Doran's Ring,Boots of Speed,Amplifying Tome,15726,4265,Lane.mid_lane,Role.solo
+2,Źyra,Zyra,False,Side.blue,0,2,0,0.0,6,Flash,Ignite,5,False,2500,1835,Refillable Potion,Frostfang,Amplifying Tome,Ruby Crystal,,,6741,1521,Lane.bot_lane,Role.duo
+3,Malli,Vayne,False,Side.blue,1,3,0,0.3333333333333333,67,Flash,Heal,8,False,3624,3125,Doran's Blade,Refillable Potion,Pickaxe,B. F. Sword,Boots of Speed,,0,18284,Lane.bot_lane,Role.duo
+4,Greycoat,Wukong,False,Side.blue,0,0,0,0.0,58,Flash,Smite,8,False,3527,3150,Enchantment: Warrior,Refillable Potion,Boots of Speed,,,,4388,30127,Lane.jungle,Role.none
+5,IIlIIlIIIlllIIlI,Jhin,True,Side.red,2,0,4,6.0,98,Heal,Flash,8,False,6542,3750,Doran's Blade,B. F. Sword,Cull,Total Biscuit of Rejuvenation,Caulfield's Warhammer,Boots of Speed,2892,51858,Lane.bot_lane,Role.duo
+6,SnowfaII,Miss Fortune,True,Side.red,3,1,2,5.0,11,Ignite,Flash,8,False,5070,5625,Warmog's Armor,,,,,,10352,10332,Lane.bot_lane,Role.duo
+7,Zv Pickle,Nidalee,True,Side.red,0,0,4,4.0,27,Flash,Smite,7,False,4452,2035,Boots of Speed,Amplifying Tome,Refillable Potion,Stalker's Blade,,,22831,9139,Lane.jungle,Role.none
+8,EDG SLICER,Olaf,True,Side.red,3,0,1,4.0,115,Ghost,Teleport,10,True,6473,3900,The Black Cleaver,Corrupting Potion,Boots of Speed,,,,107,58329,Lane.top_lane,Role.solo
+9,k7o2slqdoc7pvgym,Xerath,True,Side.red,1,0,2,3.0,122,Ghost,Flash,9,False,5714,4125,Doran's Ring,Morellonomicon,Boots of Speed,,The Dark Seal,,40515,10940,Lane.mid_lane,Role.solo

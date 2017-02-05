@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xgilliganx,Xin Zhao,False,Side.blue,5,7,3,1.1428571428571428,57,Flash,Smite,10,False,7133,6950,Enchantment: Warrior,Mercury's Treads,Sterak's Gage,Long Sword,,,5533,55953,Lane.jungle,Role.none
+1,Prepoison,Lux,False,Side.blue,2,5,2,0.8,110,Ghost,Flash,11,False,6539,5775,Doran's Ring,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Blasting Wand,,43895,8702,Lane.mid_lane,Role.solo
+2,Solely Luck,Illaoi,False,Side.blue,5,6,0,0.8333333333333334,159,Teleport,Flash,12,False,8432,6850,Corrupting Potion,The Black Cleaver,Mercury's Treads,Jaurim's Fist,Kindlegem,,181,96116,Lane.top_lane,Role.solo
+3,minazzre,Jinx,False,Side.blue,0,7,3,0.42857142857142855,134,Flash,Heal,10,False,6600,5625,Total Biscuit of Rejuvenation,Doran's Blade,Runaan's Hurricane,Cull,Berserker's Greaves,Pickaxe,1150,55898,Lane.bot_lane,Role.carry
+4,ChromeBeast,Braum,False,Side.blue,1,7,4,0.7142857142857143,30,Exhaust,Flash,9,False,5335,4925,Kindlegem,Ruby Sightstone,,Targon's Brace,Mercury's Treads,,3570,4826,Lane.bot_lane,Role.support
+5,SlyGuy,Twitch,True,Side.red,10,0,5,15.0,145,Flash,Heal,12,False,10897,9650,Berserker's Greaves,Doran's Blade,Infinity Edge,Zeal,Dagger,Runaan's Hurricane,0,92397,Lane.bot_lane,Role.carry
+6,AndrewC,Blitzcrank,True,Side.red,4,2,11,7.5,24,Flash,Exhaust,10,False,6813,6350,Sightstone,Relic Shield,Boots of Mobility,Iceborn Gauntlet,Kindlegem,,8734,10397,Lane.bot_lane,Role.support
+7,herolineage,LeBlanc,True,Side.red,11,3,5,5.333333333333333,119,Flash,Ignite,13,True,9647,8500,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Morellonomicon,Rabadon's Deathcap,,59650,7866,Lane.mid_lane,Role.solo
+8,ViXa,Gragas,True,Side.red,0,4,6,1.5,96,Flash,Smite,11,False,6884,6600,Enchantment: Cinderhulk,Refillable Potion,Boots of Swiftness,Iceborn Gauntlet,,,53541,20985,Lane.jungle,Role.none
+9,Pogba1,Darius,True,Side.red,7,4,2,2.25,161,Flash,Teleport,13,False,9049,8775,Doran's Blade,Zz'Rot Portal,The Black Cleaver,Mercury's Treads,Spectre's Cowl,,0,77265,Lane.top_lane,Role.solo

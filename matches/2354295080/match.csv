@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,my bad team,Viktor,True,Side.blue,7,3,7,4.666666666666667,255,Flash,Ghost,17,False,14453,11175,Doran's Ring,Lich Bane,,Perfect Hex Core,Rylai's Crystal Scepter,Ionian Boots of Lucidity,160046,13878,Lane.mid_lane,Role.solo
+1,impala tamer,Caitlyn,True,Side.blue,7,5,12,3.8,224,Heal,Flash,15,False,14145,11025,Doran's Blade,Infinity Edge,Rapid Firecannon,,Berserker's Greaves,Runaan's Hurricane,1894,155813,Lane.bot_lane,Role.carry
+2,Xpecial,Thresh,True,Side.blue,4,3,12,5.333333333333333,41,Ignite,Flash,13,False,9821,8425,Boots of Mobility,Locket of the Iron Solari,Face of the Mountain,Control Ward,Forbidden Idol,Ruby Sightstone,12061,7212,Lane.bot_lane,Role.support
+3,Rohammers,Ekko,True,Side.blue,6,4,9,3.75,183,Teleport,Flash,16,False,12730,10775,Hextech Protobelt-01,Zhonya's Hourglass,Corrupting Potion,Lich Bane,Mercury's Treads,The Dark Seal,101688,23247,Lane.top_lane,Role.solo
+4,l For You l,Hecarim,True,Side.blue,8,4,11,4.75,153,Ghost,Smite,16,False,13327,12008,Ruby Crystal,Enchantment: Cinderhulk,Ninja Tabi,Dead Man's Plate,Warden's Mail,Trinity Force,37753,119514,Lane.jungle,Role.none
+5,Aellectris,Kled,False,Side.red,3,6,5,1.3333333333333333,176,Teleport,Flash,14,False,9332,8900,Doran's Blade,Cloth Armor,Cloth Armor,Maw of Malmortius,The Black Cleaver,Mercury's Treads,0,84727,Lane.top_lane,Role.solo
+6,Abou222,Ryze,False,Side.red,7,4,9,4.0,128,Smite,Flash,14,True,10603,10525,Seraph's Embrace,Abyssal Scepter,Sorcerer's Shoes,Hunter's Talisman,Rod of Ages,,129233,8290,Lane.jungle,Role.none
+7,Liquid Matt,Bard,False,Side.red,3,7,12,2.142857142857143,14,Exhaust,Flash,12,False,8349,8150,Boots of Mobility,Mikael's Crucible,Eye of the Watchers,Redemption,Control Ward,Ruby Crystal,17632,4363,Lane.bot_lane,Role.support
+8,Doublelift,Ashe,False,Side.red,1,10,7,0.8,224,Flash,Heal,14,False,10031,9750,Doran's Blade,Runaan's Hurricane,Infinity Edge,Last Whisper,Berserker's Greaves,Long Sword,2586,120171,Lane.bot_lane,Role.carry
+9,Yusui,Jayce,False,Side.red,5,5,6,2.2,211,Ignite,Flash,14,False,10985,10600,The Bloodthirster,The Black Cleaver,Hexdrinker,Caulfield's Warhammer,,Ionian Boots of Lucidity,11356,102986,Lane.mid_lane,Role.solo

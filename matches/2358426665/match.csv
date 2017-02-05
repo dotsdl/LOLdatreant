@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tallwhitebro,Twitch,True,Side.blue,7,3,10,5.666666666666667,168,Flash,Heal,12,True,10580,9275,Doran's Blade,Runaan's Hurricane,Infinity Edge,Cull,Berserker's Greaves,Vampiric Scepter,0,88536,Lane.bot_lane,Role.carry
+1,TheBolvar,Kennen,True,Side.blue,6,1,5,11.0,117,Flash,Ignite,11,False,7781,6960,Sorcerer's Shoes,Hextech Protobelt-01,Void Staff,Amplifying Tome,,,39323,13823,Lane.jungle,Role.none
+2,Ikzencriel,Jayce,True,Side.blue,4,0,4,8.0,175,Teleport,Flash,13,False,8787,8100,Doran's Blade,Refillable Potion,Maw of Malmortius,Mercury's Treads,The Black Cleaver,,14052,71309,Lane.top_lane,Role.solo
+3,PuRe Desire,Lee Sin,True,Side.blue,7,2,5,6.0,98,Flash,Smite,12,False,8630,7625,Refillable Potion,Enchantment: Warrior,Control Ward,Mercury's Treads,Maw of Malmortius,Long Sword,12850,87432,Lane.jungle,Role.none
+4,123Steven0,Janna,True,Side.blue,0,3,19,6.333333333333333,3,Flash,Exhaust,10,False,6304,5700,Eye of the Oasis,Refillable Potion,Boots of Swiftness,Locket of the Iron Solari,Faerie Charm,The Dark Seal,5500,4862,Lane.bot_lane,Role.support
+5,Nwok,Zac,False,Side.red,5,4,2,1.75,67,Flash,Smite,11,False,6814,6000,Enchantment: Cinderhulk,Refillable Potion,Giant's Belt,Kindlegem,Ionian Boots of Lucidity,Cloth Armor,54934,14202,Lane.jungle,Role.none
+6,Perrito,Taric,False,Side.red,0,7,1,0.14285714285714285,29,Exhaust,Flash,9,False,4510,4025,Targon's Brace,Forbidden Idol,Sightstone,Total Biscuit of Rejuvenation,Boots of Speed,Crystalline Bracer,3773,3548,Lane.bot_lane,Role.support
+7,Str1fe,Kalista,False,Side.red,1,4,2,0.75,135,Flash,Heal,10,False,6394,5700,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Dagger,Dagger,,434,46867,Lane.bot_lane,Role.carry
+8,zaqwsxcde,Morgana,False,Side.red,1,6,0,0.16666666666666666,137,Flash,Teleport,11,False,6218,5525,Doran's Ring,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Doran's Ring,,61070,8401,Lane.top_lane,Role.solo
+9,TheNuocMam,Brand,False,Side.red,2,3,2,1.3333333333333333,158,Ignite,Flash,12,False,7260,6450,Sorcerer's Shoes,Refillable Potion,Doran's Ring,Rylai's Crystal Scepter,Haunting Guise,,39718,13557,Lane.mid_lane,Role.solo

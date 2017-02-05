@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Perrito,Bard,False,Side.blue,0,7,7,1.0,17,Exhaust,Flash,11,False,6540,5925,Total Biscuit of Rejuvenation,Redemption,Sightstone,Null-Magic Mantle,Ionian Boots of Lucidity,Frostfang,11006,2328,Lane.bot_lane,Role.support
+1,Str1fe,Orianna,False,Side.blue,9,7,6,2.142857142857143,157,Flash,Ghost,14,False,10608,10000,Doran's Ring,Morellonomicon,Luden's Echo,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,88136,12629,Lane.mid_lane,Role.solo
+2,SquirreI,Vayne,False,Side.blue,1,7,1,0.2857142857142857,157,Flash,Heal,12,False,7963,7775,Doran's Blade,Cloak of Agility,Berserker's Greaves,Statikk Shiv,Pickaxe,B. F. Sword,9746,52411,Lane.bot_lane,Role.carry
+3,Juanfucius,Poppy,False,Side.blue,2,7,2,0.5714285714285714,121,Teleport,Flash,12,False,7591,6600,Corrupting Potion,Spirit Visage,Chain Vest,Bami's Cinder,Cloth Armor,Mercury's Treads,2982,55697,Lane.top_lane,Role.solo
+4,Pants are Dragon,Vi,False,Side.blue,3,9,5,0.8888888888888888,91,Smite,Flash,12,False,7778,6750,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Phage,Long Sword,Sheen,755,73513,Lane.jungle,Role.none
+5,Carrots2,Caitlyn,True,Side.red,9,3,7,5.333333333333333,207,Flash,Heal,14,False,13757,10675,Doran's Blade,Infinity Edge,Infinity Edge,Berserker's Greaves,Zeal,Cull,623,160443,Lane.bot_lane,Role.carry
+6,HvK LiquidDiego,Lee Sin,True,Side.red,8,6,10,3.0,76,Flash,Smite,13,True,10914,9250,Giant's Belt,Null-Magic Mantle,Enchantment: Warrior,Chain Vest,Boots of Mobility,The Black Cleaver,13150,84681,Lane.jungle,Role.none
+7,toke dude,Maokai,True,Side.red,2,1,15,17.0,164,Teleport,Flash,14,False,10424,8700,Doran's Ring,Randuin's Omen,Righteous Glory,Ninja Tabi,Doran's Ring,Spectre's Cowl,71590,20939,Lane.top_lane,Role.solo
+8,BabièThug,Ahri,True,Side.red,7,3,13,6.666666666666667,170,Flash,Ignite,14,False,11665,9710,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,Amplifying Tome,62168,11985,Lane.mid_lane,Role.solo
+9,CraacK,Vel'Koz,True,Side.red,11,2,11,11.0,65,Flash,Exhaust,13,False,11847,10225,Boots of Speed,Ruby Crystal,Eye of the Watchers,,Liandry's Torment,Rabadon's Deathcap,52212,6428,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Frederick II,Ashe,True,Side.blue,5,4,7,3.0,188,Flash,Heal,14,False,11432,10375,Doran's Blade,Essence Reaver,Pickaxe,Berserker's Greaves,Phantom Dancer,B. F. Sword,2028,108859,Lane.bot_lane,Role.carry
+1,Vermillion2,Nasus,True,Side.blue,1,2,5,3.0,199,Teleport,Ghost,14,False,10227,7783,Spirit Visage,Trinity Force,Rejuvenation Bead,Null-Magic Mantle,,Boots of Speed,6952,103753,Lane.top_lane,Role.solo
+2,26209633,Braum,True,Side.blue,1,2,17,9.0,22,Flash,Ignite,12,False,8018,7350,Ruby Sightstone,Locket of the Iron Solari,Face of the Mountain,Boots of Mobility,,,8741,6011,Lane.bot_lane,Role.support
+3,Vibrato,Lee Sin,True,Side.blue,13,1,8,21.0,110,Flash,Smite,14,True,12887,11925,Enchantment: Warrior,Ruby Sightstone,Maw of Malmortius,Mercury's Treads,Dead Man's Plate,Cloth Armor,18564,105773,Lane.jungle,Role.none
+4,Nîck,Fizz,True,Side.blue,15,3,5,6.666666666666667,139,Flash,Ignite,15,False,12678,12300,Rabadon's Deathcap,Mejai's Soulstealer,Seeker's Armguard,Lich Bane,Ionian Boots of Lucidity,Fiendish Codex,63703,23463,Lane.mid_lane,Role.solo
+5,bvcx222,Bard,False,Side.red,0,7,6,0.8571428571428571,7,Flash,Ignite,10,False,5832,5650,Ruby Sightstone,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Control Ward,Spellthief's Edge,Boots of Mobility,8903,5195,Lane.bot_lane,Role.support
+6,mediumships41,Cassiopeia,False,Side.red,2,7,3,0.7142857142857143,145,Flash,Ghost,12,False,7629,7320,Refillable Potion,,Negatron Cloak,Needlessly Large Rod,Tear of the Goddess,Rylai's Crystal Scepter,58382,6067,Lane.mid_lane,Role.solo
+7,Barranco Coma,Jarvan IV,False,Side.red,5,11,4,0.8181818181818182,65,Flash,Smite,11,False,7501,7565,Tiamat,Enchantment: Warrior,Raptor Cloak,Negatron Cloak,Ruby Crystal,Boots of Mobility,7658,51657,Lane.jungle,Role.none
+8,Malli,Nautilus,False,Side.red,0,5,3,0.6,141,Flash,Teleport,12,False,7299,6725,Corrupting Potion,Sunfire Cape,Control Ward,Ninja Tabi,Spectre's Cowl,Kindlegem,60294,22227,Lane.top_lane,Role.solo
+9,LADYBABY,Jinx,False,Side.red,5,5,1,1.2,150,Heal,Flash,12,False,8560,8100,,,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,543,80523,Lane.bot_lane,Role.carry

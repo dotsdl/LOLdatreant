@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sirenvoi,Annie,False,Side.blue,10,7,6,2.2857142857142856,158,Ignite,Flash,16,False,11327,10925,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Rabadon's Deathcap,Seeker's Armguard,Fiendish Codex,104129,12680,Lane.mid_lane,Role.solo
+1,Luminent,Tristana,False,Side.blue,0,8,4,0.5,183,Flash,Heal,13,False,9780,9300,Doran's Blade,Runaan's Hurricane,Kircheis Shard,Infinity Edge,Dagger,Berserker's Greaves,24082,79826,Lane.bot_lane,Role.duo
+2,Church Of Rem,Vayne,False,Side.blue,5,6,2,1.1666666666666667,200,Flash,Teleport,15,False,10830,11100,Statikk Shiv,Infinity Edge,Phantom Dancer,,Berserker's Greaves,,31030,65422,Lane.top_lane,Role.solo
+3,ArcadeRenegade,Malphite,False,Side.blue,7,4,10,4.25,121,Smite,Flash,15,False,10645,10325,Hunter's Potion,Mercury's Treads,Rod of Ages,Enchantment: Cinderhulk,Dead Man's Plate,Null-Magic Mantle,59304,46146,Lane.jungle,Role.none
+4,CoG Mist,Shen,False,Side.blue,1,8,7,1.0,45,Exhaust,Flash,12,False,7651,7150,Targon's Brace,Sightstone,Randuin's Omen,,Mercury's Treads,Spectre's Cowl,6101,7359,Lane.bot_lane,Role.duo
+5,uupa,Ryze,True,Side.red,13,5,4,3.4,231,Flash,Ghost,17,True,15840,14650,Refillable Potion,Seraph's Embrace,Abyssal Scepter,Rod of Ages,Mercury's Treads,Rabadon's Deathcap,178043,10047,Lane.mid_lane,Role.solo
+6,Rank 1 Season 7,Vi,True,Side.red,3,6,10,2.1666666666666665,202,Smite,Flash,18,False,14250,12158,Enchantment: Warrior,Cloth Armor,Trinity Force,Mercury's Treads,Maw of Malmortius,Giant's Belt,2265,231012,Lane.jungle,Role.none
+7,Cherin Kim,Lucian,True,Side.red,12,4,5,4.25,253,Heal,Flash,16,False,15903,13925,Pickaxe,Essence Reaver,Mercurial Scimitar,Statikk Shiv,Boots of Swiftness,B. F. Sword,17697,156067,Lane.bot_lane,Role.carry
+8,R Mushgo,Blitzcrank,True,Side.red,1,5,11,2.4,28,Flash,Ignite,14,False,9317,7850,Locket of the Iron Solari,Face of the Mountain,Sightstone,Boots of Swiftness,Forbidden Idol,Crystalline Bracer,11869,7603,Lane.bot_lane,Role.support
+9,disniqqaa,Gangplank,True,Side.red,4,3,8,4.0,229,Flash,Exhaust,17,False,15247,12858,Statikk Shiv,Ionian Boots of Lucidity,Brawler's Gloves,Dagger,Trinity Force,Infinity Edge,8051,192290,Lane.top_lane,Role.solo

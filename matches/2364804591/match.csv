@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KOKOA,Kayle,False,Side.blue,1,17,1,0.11764705882352941,209,Teleport,Flash,14,False,11160,11325,Dagger,Nashor's Tooth,Guinsoo's Rageblade,,Wit's End,Ionian Boots of Lucidity,86366,39625,Lane.top_lane,Role.solo
+1,TSM Zero and Ten,Draven,False,Side.blue,9,6,8,2.8333333333333335,220,Flash,Heal,14,False,15837,15875,Hexdrinker,Youmuu's Ghostblade,Phantom Dancer,Berserker's Greaves,The Bloodthirster,Infinity Edge,1606,189209,Lane.bot_lane,Role.carry
+2,CopynPaste,Ahri,False,Side.blue,4,8,13,2.125,179,Flash,Ignite,15,False,12139,12100,Luden's Echo,Zhonya's Hourglass,Rabadon's Deathcap,Sorcerer's Shoes,,,84984,18635,Lane.mid_lane,Role.solo
+3,Symbo,Lulu,False,Side.blue,2,6,21,3.8333333333333335,14,Exhaust,Flash,14,False,11145,10875,Ruby Sightstone,Redemption,Zeke's Harbinger,Knight's Vow,Ionian Boots of Lucidity,Kindlegem,9095,6433,Lane.bot_lane,Role.support
+4,Treabeard,Vi,False,Side.blue,16,5,4,4.0,177,Smite,Flash,16,True,15922,14833,Enchantment: Warrior,Dead Man's Plate,Trinity Force,Mercury's Treads,Maw of Malmortius,Warden's Mail,1105,163020,Lane.jungle,Role.none
+5,Yarne,Blitzcrank,True,Side.red,2,6,14,2.6666666666666665,42,Flash,Exhaust,16,False,11855,10000,Talisman of Ascension,Sightstone,Frozen Heart,Boots of Swiftness,Sunfire Cape,,24953,8338,Lane.bot_lane,Role.support
+6,Joshuà,Zed,True,Side.red,5,10,8,1.3,167,Ignite,Flash,15,False,12745,13630,Youmuu's Ghostblade,Mortal Reminder,Maw of Malmortius,Mercury's Treads,Bilgewater Cutlass,,5994,124172,Lane.mid_lane,Role.solo
+7,I am Soara,Elise,True,Side.red,8,4,11,4.75,133,Smite,Flash,17,False,14307,12025,Hextech Protobelt-01,Haunting Guise,Blasting Wand,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Sorcerer's Shoes,120744,30153,Lane.jungle,Role.none
+8,RealTeemo,Teemo,True,Side.red,16,4,17,8.25,280,Ignite,Flash,18,False,20536,20150,Luden's Echo,Void Staff,Liandry's Torment,Nashor's Tooth,Morellonomicon,Sorcerer's Shoes,164474,46241,Lane.top_lane,Role.solo
+9,Syched,Twitch,True,Side.red,11,8,4,1.875,242,Flash,Heal,17,False,15986,13300,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Runaan's Hurricane,Lord Dominik's Regards,32549,152199,Lane.bot_lane,Role.carry

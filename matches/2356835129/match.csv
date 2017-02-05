@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KiNG Nidhogg,Ekko,False,Side.blue,6,5,4,2.0,133,Smite,Flash,13,False,9106,8275,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rod of Ages,Sheen,Ruby Crystal,Null-Magic Mantle,80126,28782,Lane.jungle,Role.none
+1,GamerXz,Viktor,False,Side.blue,1,9,3,0.4444444444444444,172,Flash,Cleanse,13,False,8113,6475,Perfect Hex Core,Boots of Speed,Doran's Ring,Lost Chapter,Needlessly Large Rod,Ruby Crystal,72366,12942,Lane.mid_lane,Role.solo
+2,Delerium,Janna,False,Side.blue,0,4,7,1.75,8,Exhaust,Flash,10,False,5999,5250,Redemption,Sightstone,,,Ionian Boots of Lucidity,Nomad's Medallion,7122,5079,Lane.bot_lane,Role.support
+3,ZatsMod,Ezreal,False,Side.blue,3,4,3,1.5,169,Flash,Heal,12,True,8467,8225,Doran's Blade,Bilgewater Cutlass,Refillable Potion,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,22387,77796,Lane.bot_lane,Role.carry
+4,Pocket Rhino,Maokai,False,Side.blue,4,5,2,1.2,153,Flash,Teleport,13,False,8481,8200,Corrupting Potion,Spirit Visage,Mercury's Treads,Doran's Ring,Sunfire Cape,,83633,12484,Lane.top_lane,Role.solo
+5,insaníty,Twitch,True,Side.red,3,5,7,2.0,157,Flash,Heal,12,False,9432,8150,Doran's Blade,Cull,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,,68,83187,Lane.bot_lane,Role.carry
+6,DeaIer29,Twisted Fate,True,Side.red,10,3,9,6.333333333333333,162,Ghost,Flash,15,False,12328,11650,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Abyssal Scepter,Rabadon's Deathcap,,94263,13636,Lane.mid_lane,Role.solo
+7,Pekin Woof,Poppy,True,Side.red,4,2,8,6.0,174,Flash,Teleport,15,False,9516,8525,Spirit Visage,Corrupting Potion,,Mercury's Treads,Sunfire Cape,Glacial Shroud,15229,68831,Lane.top_lane,Role.solo
+8,CloudNguyén,Nidalee,True,Side.red,10,2,5,7.5,135,Smite,Flash,14,False,11857,10075,Enchantment: Runic Echoes,Refillable Potion,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Abyssal Scepter,Control Ward,114869,19789,Lane.jungle,Role.none
+9,bvcx222,Soraka,True,Side.red,0,3,14,4.666666666666667,6,Flash,Ignite,11,False,6926,6350,Ruby Sightstone,Refillable Potion,Talisman of Ascension,Control Ward,Forbidden Idol,Ionian Boots of Lucidity,5880,2014,Lane.bot_lane,Role.support

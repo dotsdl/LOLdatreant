@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GeGSunny,Janna,False,Side.blue,0,1,6,6.0,8,Flash,Exhaust,10,False,4962,4275,Redemption,Total Biscuit of Rejuvenation,Nomad's Medallion,Boots of Speed,Sightstone,,2985,1223,Lane.bot_lane,Role.support
+1,SPOF,Kha'Zix,False,Side.blue,3,5,2,1.0,64,Smite,Flash,11,False,6166,6100,Refillable Potion,Enchantment: Warrior,Boots of Swiftness,Serrated Dirk,,Caulfield's Warhammer,3743,61722,Lane.jungle,Role.none
+2,Demon Kn1ght,Ezreal,False,Side.blue,2,5,4,1.2,131,Flash,Heal,10,False,6508,5725,Doran's Blade,Tear of the Goddess,Iceborn Gauntlet,Ionian Boots of Lucidity,Pickaxe,,8229,57335,Lane.bot_lane,Role.carry
+3,IKingVex,Corki,False,Side.blue,2,3,0,0.6666666666666666,186,Teleport,Flash,12,False,7312,6533,Doran's Blade,Refillable Potion,,Trinity Force,Sorcerer's Shoes,Vampiric Scepter,61460,18290,Lane.mid_lane,Role.solo
+4,Rakyero,Rengar,False,Side.blue,1,5,0,0.2,115,Flash,Teleport,10,False,5730,4950,,Health Potion,Ninja Tabi,Long Sword,,Youmuu's Ghostblade,4638,51775,Lane.top_lane,Role.solo
+5,MidzFTW,Kennen,True,Side.red,0,2,9,4.5,48,Exhaust,Flash,11,False,6118,5435,The Dark Seal,Amplifying Tome,Face of the Mountain,Hextech Revolver,Kindlegem,Boots of Speed,26868,6521,Lane.bot_lane,Role.support
+6,RoyaI Godlike,Renekton,True,Side.red,2,0,5,7.0,152,Flash,Teleport,12,False,8311,6735,Doran's Blade,Tiamat,Refillable Potion,The Black Cleaver,Doran's Shield,Ninja Tabi,830,75613,Lane.top_lane,Role.solo
+7,Blue hyacinthus,Viktor,True,Side.red,2,0,2,4.0,183,Flash,Exhaust,13,False,8508,6660,Doran's Ring,Amplifying Tome,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Needlessly Large Rod,78877,12383,Lane.mid_lane,Role.solo
+8,Metazion,Lee Sin,True,Side.red,9,2,4,6.5,75,Smite,Flash,11,True,9236,8225,Ruby Crystal,Ravenous Hydra,Enchantment: Warrior,,Ninja Tabi,Cloth Armor,10155,66993,Lane.jungle,Role.none
+9,Firé,Vayne,True,Side.red,6,4,2,2.0,163,Heal,Flash,12,False,9038,8325,Doran's Blade,Refillable Potion,,Berserker's Greaves,Statikk Shiv,Infinity Edge,11285,63453,Lane.bot_lane,Role.carry

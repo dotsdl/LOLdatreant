@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BMGreenleaf,Jhin,True,Side.blue,0,7,8,1.1428571428571428,148,Heal,Flash,12,False,9216,8100,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,Statikk Shiv,,,4099,77926,Lane.bot_lane,Role.carry
+1,HazardFP,Karma,True,Side.blue,2,5,10,2.4,19,Exhaust,Flash,11,False,9171,7525,,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,12932,6022,Lane.bot_lane,Role.support
+2,21 Savagé,Nasus,True,Side.blue,4,5,8,2.4,238,Teleport,Flash,15,False,13510,12683,Corrupting Potion,Zz'Rot Portal,Trinity Force,Ninja Tabi,Dead Man's Plate,Chain Vest,78497,58822,Lane.top_lane,Role.solo
+3,Day after Day,Ekko,True,Side.blue,5,6,2,1.1666666666666667,119,Ignite,Flash,13,False,9242,8850,Lich Bane,Hextech Protobelt-01,Seeker's Armguard,Doran's Ring,,Sorcerer's Shoes,71810,13299,Lane.mid_lane,Role.solo
+4,N810HO,Lee Sin,True,Side.blue,13,4,1,3.5,158,Flash,Smite,15,True,13492,12070,Dead Man's Plate,Ravenous Hydra,Enchantment: Warrior,Spectre's Cowl,Ionian Boots of Lucidity,Negatron Cloak,25077,140067,Lane.jungle,Role.none
+5,Positivityy,Yasuo,False,Side.red,3,8,8,1.375,153,Teleport,Flash,14,False,10014,8950,Mercury's Treads,Doran's Blade,Phantom Dancer,Refillable Potion,Blade of the Ruined King,Jaurim's Fist,19206,76246,Lane.top_lane,Role.solo
+6,NintendudeX,Kassadin,False,Side.red,9,4,5,3.5,156,Teleport,Flash,15,False,10574,10100,The Dark Seal,Rod of Ages,Mercury's Treads,Seeker's Armguard,Lich Bane,Blasting Wand,71412,20516,Lane.mid_lane,Role.solo
+7,ShörterACE,Zac,False,Side.red,8,4,12,5.0,121,Flash,Smite,15,False,10771,10375,Enchantment: Cinderhulk,Spirit Visage,Ninja Tabi,Randuin's Omen,,,96931,18279,Lane.jungle,Role.none
+8,aShady,Nautilus,False,Side.red,0,5,13,2.6,40,Exhaust,Flash,11,False,6918,5775,Locket of the Iron Solari,,Eye of the Equinox,Boots of Swiftness,Control Ward,,17163,8645,Lane.bot_lane,Role.support
+9,2nd Time 2nd,Sivir,False,Side.red,7,4,6,3.25,273,Flash,Heal,15,False,12957,12900,Infinity Edge,Essence Reaver,Phantom Dancer,Pickaxe,Doran's Blade,Berserker's Greaves,225,170998,Lane.bot_lane,Role.carry

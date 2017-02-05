@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Alex Ich 1,Ryze,False,Side.blue,2,4,7,2.25,205,Flash,Cleanse,14,False,9939,8620,Ionian Boots of Lucidity,Rod of Ages,Seraph's Embrace,Control Ward,Negatron Cloak,Fiendish Codex,119394,9762,Lane.mid_lane,Role.solo
+1,tehgameguy,Janna,False,Side.blue,0,8,11,1.375,15,Flash,Exhaust,12,False,6695,6575,Redemption,Refillable Potion,Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Ancient Coin,8098,3091,Lane.bot_lane,Role.support
+2,Betabet,Ashe,False,Side.blue,4,5,7,2.2,183,Flash,Heal,13,False,10187,9600,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Hexdrinker,Doran's Blade,,2138,90949,Lane.bot_lane,Role.carry
+3,Rhux,Kennen,False,Side.blue,5,7,6,1.5714285714285714,162,Flash,Teleport,13,False,9702,8675,Doran's Blade,Doran's Blade,Hextech Protobelt-01,Zhonya's Hourglass,Giant's Belt,Sorcerer's Shoes,48463,31154,Lane.top_lane,Role.solo
+4,BabièThug,Lee Sin,False,Side.blue,7,7,7,2.0,127,Flash,Smite,13,False,9865,9075,Ruby Crystal,Banshee's Veil,Tiamat,Mercury's Treads,Enchantment: Cinderhulk,Warden's Mail,25543,61871,Lane.jungle,Role.none
+5,TwTv Kinoscorpia,Renekton,True,Side.red,3,3,5,2.6666666666666665,214,Ignite,Flash,15,False,11431,9775,Doran's Blade,Long Sword,Tiamat,Mercury's Treads,The Black Cleaver,Maw of Malmortius,3829,133493,Lane.top_lane,Role.solo
+6,retarded virgin,Elise,True,Side.red,8,2,13,10.5,105,Flash,Smite,15,True,11842,10425,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Guardian Angel,Boots of Mobility,Giant's Belt,,100883,33737,Lane.jungle,Role.none
+7,Ari Kingu,Nami,True,Side.red,2,3,22,8.0,13,Exhaust,Flash,13,False,9555,8075,Eye of the Watchers,Locket of the Iron Solari,Redemption,Boots of Mobility,,,8449,5486,Lane.bot_lane,Role.support
+8,Asrye,Syndra,True,Side.red,6,8,5,1.375,176,Ghost,Flash,14,False,11039,10950,Doran's Ring,Morellonomicon,Void Staff,Sorcerer's Shoes,Rylai's Crystal Scepter,,92253,11226,Lane.mid_lane,Role.solo
+9,l For You l,Ezreal,True,Side.red,12,2,9,10.5,202,Flash,Heal,14,False,14386,12483,Quicksilver Sash,Trinity Force,Ionian Boots of Lucidity,Maw of Malmortius,Muramana,Long Sword,21028,125502,Lane.bot_lane,Role.carry

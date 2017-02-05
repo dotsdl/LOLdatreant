@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KarnoffeL,Jarvan IV,False,Side.blue,7,5,2,1.8,150,Teleport,Flash,15,False,10867,10800,,Titanic Hydra,Ninja Tabi,Spirit Visage,Sunfire Cape,,41262,55177,Lane.top_lane,Role.solo
+1,chasethera1nbow,Lux,False,Side.blue,8,4,2,2.5,205,Ghost,Flash,15,False,11440,11525,Needlessly Large Rod,Blasting Wand,Boots of Swiftness,Luden's Echo,Mejai's Soulstealer,Morellonomicon,114549,16283,Lane.mid_lane,Role.solo
+2,Downhill,Jhin,False,Side.blue,1,6,4,0.8333333333333334,229,Heal,Flash,13,False,10645,10400,Rapid Firecannon,B. F. Sword,Essence Reaver,Doran's Blade,Boots of Swiftness,Pickaxe,2915,132305,Lane.bot_lane,Role.carry
+3,No1 draven,Janna,False,Side.blue,1,4,6,1.75,19,Flash,Exhaust,12,True,8177,7400,Nomad's Medallion,Redemption,Ruby Sightstone,Null-Magic Mantle,Boots of Mobility,Aegis of the Legion,3973,4049,Lane.bot_lane,Role.support
+4,WildDonkeyY,Elise,False,Side.blue,2,9,10,1.3333333333333333,101,Flash,Smite,13,False,9875,8345,Hextech Protobelt-01,Boots of Mobility,Control Ward,Giant's Belt,Negatron Cloak,Enchantment: Runic Echoes,83233,22436,Lane.jungle,Role.none
+5,YoungGooby,Vayne,True,Side.red,7,2,7,7.0,272,Flash,Heal,16,False,14913,13850,Mercurial Scimitar,Guardian Angel,Infinity Edge,Statikk Shiv,,Berserker's Greaves,51770,132041,Lane.bot_lane,Role.carry
+6,Kryonix,Blitzcrank,True,Side.red,2,4,15,4.25,48,Flash,Ignite,14,False,10699,10100,Face of the Mountain,Randuin's Omen,Ruby Sightstone,Glacial Shroud,Boots of Mobility,Aegis of the Legion,12161,8290,Lane.bot_lane,Role.support
+7,Forest Pref,Ahri,True,Side.red,6,5,10,3.2,160,Ignite,Flash,15,False,12595,12110,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Abyssal Scepter,68873,12171,Lane.mid_lane,Role.solo
+8,Bombardiere,Lee Sin,True,Side.red,8,3,6,4.666666666666667,125,Smite,Flash,15,False,12847,11625,Zz'Rot Portal,Sightstone,Enchantment: Warrior,Ninja Tabi,Maw of Malmortius,Giant's Belt,22440,122356,Lane.jungle,Role.none
+9,am sol,Gangplank,True,Side.red,5,5,10,3.0,283,Exhaust,Flash,17,False,15724,14508,Lord Dominik's Regards,Trinity Force,Ionian Boots of Lucidity,Infinity Edge,Statikk Shiv,Doran's Ring,23540,235951,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,blaberfish2,Vi,False,Side.blue,3,6,4,1.1666666666666667,135,Flash,Smite,14,False,9004,8758,Enchantment: Warrior,Trinity Force,Refillable Potion,Ninja Tabi,Giant's Belt,,1394,113918,Lane.jungle,Role.none
+1,Yusui,Katarina,False,Side.blue,6,8,4,1.25,153,Ignite,Flash,13,False,9492,9135,Hextech Gunblade,Rylai's Crystal Scepter,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,,69715,9737,Lane.mid_lane,Role.solo
+2,Liquid Painless,Lulu,False,Side.blue,2,4,5,1.75,11,Flash,Ignite,11,False,7157,6900,Forbidden Idol,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Control Ward,Locket of the Iron Solari,7598,4052,Lane.bot_lane,Role.support
+3,ChristmasOreos,Yasuo,False,Side.blue,2,10,1,0.3,148,Flash,Teleport,12,False,8278,7300,Doran's Blade,Phantom Dancer,Mercury's Treads,Frozen Mallet,,,17191,46566,Lane.top_lane,Role.solo
+4,windking66,Caitlyn,False,Side.blue,3,7,5,1.1428571428571428,218,Heal,Flash,14,False,10551,10000,Kircheis Shard,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,Zeal,1355,139624,Lane.bot_lane,Role.carry
+5,IKingVex,Twitch,True,Side.red,4,3,5,3.0,207,Heal,Flash,15,False,11760,11000,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,,Runaan's Hurricane,7636,104152,Lane.bot_lane,Role.carry
+6,Max Waldo,Irelia,True,Side.red,10,2,13,11.5,186,Flash,Teleport,16,False,13687,10983,Corrupting Potion,Spirit Visage,,Frozen Heart,Trinity Force,Ninja Tabi,6532,100148,Lane.top_lane,Role.solo
+7,Biofrost ,Morgana,True,Side.red,2,2,16,9.0,27,Flash,Exhaust,13,False,9605,8310,Eye of the Watchers,Boots of Mobility,Control Ward,Redemption,Locket of the Iron Solari,Amplifying Tome,17224,9231,Lane.bot_lane,Role.support
+8,ZatsMod,Viktor,True,Side.red,6,5,10,3.2,138,Flash,Ghost,14,False,11006,9350,Perfect Hex Core,Sheen,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,83557,11985,Lane.mid_lane,Role.solo
+9,SKY Linsanity,Lee Sin,True,Side.red,13,4,10,5.75,118,Flash,Smite,15,True,12906,11125,The Black Cleaver,Hexdrinker,Enchantment: Warrior,,Dead Man's Plate,Boots of Mobility,27342,109194,Lane.jungle,Role.none

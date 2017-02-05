@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pyrites,Bard,True,Side.blue,2,3,13,5.0,12,Flash,Exhaust,12,False,9687,8525,Talisman of Ascension,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Forbidden Idol,,8628,6096,Lane.bot_lane,Role.support
+1,Abou222,Lux,True,Side.blue,7,2,3,5.0,181,Ghost,Flash,14,False,11552,10700,Doran's Ring,Rabadon's Deathcap,,Ionian Boots of Lucidity,Morellonomicon,Mejai's Soulstealer,82974,15576,Lane.mid_lane,Role.solo
+2,pilling91,Jayce,True,Side.blue,2,2,8,5.0,191,Teleport,Flash,14,False,11126,9900,B. F. Sword,The Black Cleaver,Youmuu's Ghostblade,Vampiric Scepter,Ionian Boots of Lucidity,Doran's Blade,12826,109051,Lane.top_lane,Role.solo
+3,BmxSpecks,Elise,True,Side.blue,8,2,5,6.5,117,Flash,Smite,15,False,11933,9800,Enchantment: Runic Echoes,Refillable Potion,Hextech Protobelt-01,Rylai's Crystal Scepter,Sorcerer's Shoes,,102794,33279,Lane.jungle,Role.none
+4,ApoIlo Price,Ezreal,True,Side.blue,7,2,9,8.0,228,Flash,Heal,14,True,13292,11450,Doran's Blade,Blade of the Ruined King,Iceborn Gauntlet,B. F. Sword,Ionian Boots of Lucidity,Muramana,16281,134479,Lane.bot_lane,Role.carry
+5,SKY Fear,Twitch,False,Side.red,3,8,6,1.125,168,Flash,Heal,12,False,8458,8325,Doran's Blade,Runaan's Hurricane,Infinity Edge,Control Ward,,Berserker's Greaves,213,73725,Lane.bot_lane,Role.carry
+6,Seoksang,Lee Sin,False,Side.red,2,4,2,1.0,133,Smite,Flash,13,False,7817,7350,Hexdrinker,Enchantment: Warrior,Refillable Potion,Giant's Belt,Mercury's Treads,Chain Vest,22948,75202,Lane.jungle,Role.none
+7,oopa,Gangplank,False,Side.red,0,6,1,0.16666666666666666,191,Flash,Teleport,13,False,8578,8258,Corrupting Potion,Trinity Force,Pickaxe,Ionian Boots of Lucidity,B. F. Sword,Cloak of Agility,4035,111023,Lane.top_lane,Role.solo
+8,TwitchTV LOLFILL,Braum,False,Side.red,3,5,6,1.8,33,Exhaust,Flash,9,False,6579,6150,Face of the Mountain,Boots of Mobility,Null-Magic Mantle,Cloth Armor,Control Ward,Ruby Sightstone,4896,3824,Lane.bot_lane,Role.support
+9,Shiphtur,Ahri,False,Side.red,3,3,2,1.6666666666666667,178,Ignite,Flash,13,False,8169,7900,Morellonomicon,Luden's Echo,,Doran's Ring,Sorcerer's Shoes,,48160,12762,Lane.mid_lane,Role.solo

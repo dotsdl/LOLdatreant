@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ChexMex,Poppy,True,Side.blue,5,3,9,4.666666666666667,160,Flash,Teleport,15,False,10685,8700,Corrupting Potion,Sunfire Cape,Spirit Visage,Ninja Tabi,Sheen,Sapphire Crystal,32157,59625,Lane.top_lane,Role.solo
+1,Fajisel,Twitch,True,Side.blue,10,1,7,17.0,164,Flash,Heal,14,False,12515,10500,Doran's Blade,Statikk Shiv,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,,4191,110501,Lane.bot_lane,Role.carry
+2,EXflax,Rengar,True,Side.blue,11,2,6,8.5,191,Smite,Flash,16,False,13863,12350,Enchantment: Warrior,The Black Cleaver,Boots of Mobility,Infinity Edge,Pickaxe,Caulfield's Warhammer,14472,193528,Lane.jungle,Role.none
+3,ThunderCatsWOAH,Lulu,True,Side.blue,2,0,16,18.0,14,Exhaust,Flash,12,False,9583,7325,Null-Magic Mantle,,Eye of the Watchers,Redemption,Aegis of the Legion,Boots of Mobility,17779,4926,Lane.bot_lane,Role.support
+4,Ysuri,Cassiopeia,True,Side.blue,4,2,4,4.0,198,Flash,Cleanse,14,False,11026,8725,Doran's Ring,Needlessly Large Rod,The Dark Seal,Tear of the Goddess,Abyssal Scepter,Morellonomicon,90448,8110,Lane.mid_lane,Role.solo
+5,ShukriChiu,Fiora,False,Side.red,2,6,4,1.0,159,Ghost,Teleport,13,False,8672,8550,Ravenous Hydra,The Black Cleaver,Boots of Swiftness,Doran's Blade,Doran's Blade,,925,77602,Lane.top_lane,Role.solo
+6,Lucífer,Graves,False,Side.red,3,6,2,0.8333333333333334,162,Smite,Flash,14,True,8891,7795,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Phantom Dancer,Vampiric Scepter,,3626,122922,Lane.jungle,Role.none
+7,N1ceJoB,Ahri,False,Side.red,1,7,3,0.5714285714285714,121,Flash,Ignite,12,False,7405,6410,Morellonomicon,Blasting Wand,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,39674,8163,Lane.mid_lane,Role.solo
+8,herolineage,Vayne,False,Side.red,2,7,0,0.2857142857142857,164,Flash,Heal,12,False,8276,8150,Doran's Blade,Blade of the Ruined King,Boots of Speed,Phantom Dancer,Ruby Crystal,Warden's Mail,59,67084,Lane.bot_lane,Role.carry
+9,Sunae,Janna,False,Side.red,0,6,2,0.3333333333333333,4,Exhaust,Flash,11,False,6313,5450,Cloth Armor,Eye of the Oasis,Redemption,Boots of Mobility,,,3559,1804,Lane.bot_lane,Role.support

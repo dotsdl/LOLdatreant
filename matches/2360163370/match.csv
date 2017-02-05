@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KAIOX,Kennen,True,Side.blue,3,6,6,1.5,182,Teleport,Flash,15,False,11696,11050,Zhonya's Hourglass,Hextech Protobelt-01,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,,93262,26230,Lane.top_lane,Role.solo
+1,thekilerone,Ashe,True,Side.blue,10,6,11,3.5,216,Heal,Flash,16,False,15064,12800,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Essence Reaver,Zeal,3106,163274,Lane.bot_lane,Role.carry
+2,SuuushiBoy,Elise,True,Side.blue,8,5,10,3.6,141,Smite,Flash,15,False,12774,11275,Enchantment: Runic Echoes,Sorcerer's Shoes,Zhonya's Hourglass,Rylai's Crystal Scepter,Giant's Belt,Cloth Armor,103054,32160,Lane.jungle,Role.none
+3,Caffs,Jayce,True,Side.blue,10,5,4,2.8,184,Ignite,Flash,16,False,13633,11650,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,Doran's Blade,Mortal Reminder,Caulfield's Warhammer,15783,128522,Lane.mid_lane,Role.solo
+4,FavouriteGame,Karma,True,Side.blue,0,5,16,3.2,32,Exhaust,Flash,13,False,10431,8285,Redemption,Frost Queen's Claim,Sightstone,Ninja Tabi,Amplifying Tome,Needlessly Large Rod,24085,6272,Lane.bot_lane,Role.support
+5,moose breeder,Blitzcrank,False,Side.red,3,9,14,1.8888888888888888,61,Flash,Ignite,14,False,9838,9000,Ruby Sightstone,Face of the Mountain,,Boots of Swiftness,Aether Wisp,Frozen Heart,16556,11347,Lane.jungle,Role.none
+6,Fizzanomics,Yasuo,False,Side.red,4,8,4,1.0,205,Flash,Exhaust,14,False,10487,10600,Infinity Edge,Phantom Dancer,Ninja Tabi,Statikk Shiv,,,9539,116640,Lane.mid_lane,Role.solo
+7,iDetermine,Graves,False,Side.red,8,5,7,3.0,207,Flash,Smite,16,False,13194,12575,Youmuu's Ghostblade,Serrated Dirk,Mercury's Treads,Enchantment: Warrior,Maw of Malmortius,B. F. Sword,4659,195520,Lane.jungle,Role.none
+8,Azphelumbra,Jhin,False,Side.red,10,8,6,2.0,232,Flash,Heal,16,True,13469,13200,Doran's Blade,Essence Reaver,Quicksilver Sash,Ionian Boots of Lucidity,Infinity Edge,Rapid Firecannon,9811,160658,Lane.bot_lane,Role.solo
+9,Wizikz,Rengar,False,Side.red,2,1,3,5.0,99,Teleport,Flash,10,False,7900,4675,Tiamat,Refillable Potion,Caulfield's Warhammer,Phage,Boots of Speed,Doran's Shield,6702,32780,Lane.top_lane,Role.solo

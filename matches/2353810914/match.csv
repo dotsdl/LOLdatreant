@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C L,Zyra,True,Side.blue,5,2,8,6.5,17,Flash,Ignite,10,False,7211,5775,Sorcerer's Shoes,Sightstone,Liandry's Torment,,Spellthief's Edge,,21295,6958,Lane.bot_lane,Role.support
+1,rikarawr,Jinx,True,Side.blue,2,0,12,14.0,155,Flash,Heal,11,False,9536,5900,Doran's Blade,Boots of Speed,B. F. Sword,,Runaan's Hurricane,Dagger,377,94989,Lane.bot_lane,Role.carry
+2,NoOb NeVeR trolL,Ryze,True,Side.blue,3,2,6,4.5,116,Flash,Teleport,12,False,7834,5125,Seraph's Embrace,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Lost Chapter,,57947,7989,Lane.top_lane,Role.solo
+3,Rositajonez,Elise,True,Side.blue,6,1,6,12.0,96,Smite,Flash,12,False,8537,5725,Refillable Potion,Boots of Speed,Enchantment: Runic Echoes,Hextech Protobelt-01,,,69000,27804,Lane.jungle,Role.none
+4,insaníty,LeBlanc,True,Side.blue,6,2,4,5.0,127,Flash,Ignite,12,False,8665,5905,Doran's Ring,The Dark Seal,Negatron Cloak,Morellonomicon,Fiendish Codex,Amplifying Tome,64301,12778,Lane.mid_lane,Role.solo
+5,Mordekaizer,Mordekaiser,False,Side.red,1,4,1,0.5,102,Ignite,Flash,9,False,5618,5310,Boots of Swiftness,Amplifying Tome,Rylai's Crystal Scepter,Health Potion,,,29183,5966,Lane.bot_lane,Role.carry
+6,Panunu,Gragas,False,Side.red,2,5,1,0.6,112,Ignite,Flash,10,True,5918,5085,Abyssal Scepter,Amplifying Tome,Ionian Boots of Lucidity,Doran's Ring,,Doran's Ring,46111,7753,Lane.mid_lane,Role.solo
+7,tardzaned,Shyvana,False,Side.red,1,6,1,0.3333333333333333,127,Smite,Exhaust,11,False,6453,6200,Enchantment: Cinderhulk,Refillable Potion,Mercury's Treads,Recurve Bow,Vampiric Scepter,Long Sword,59320,29901,Lane.jungle,Role.none
+8,Sawyerr,Nautilus,False,Side.red,3,3,0,1.0,151,Teleport,Flash,12,False,7137,5575,Doran's Ring,Bami's Cinder,Banshee's Veil,Mercury's Treads,Cloth Armor,,52401,22881,Lane.top_lane,Role.solo
+9,ZealotTKO,Soraka,False,Side.red,0,4,1,0.25,25,Flash,Exhaust,8,False,4452,3750,Frostfang,Sightstone,Crystalline Bracer,Ionian Boots of Lucidity,Faerie Charm,Faerie Charm,5568,1435,Lane.bot_lane,Role.support

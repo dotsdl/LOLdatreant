@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ben9813,Ryze,False,Side.blue,4,9,5,1.0,220,Ghost,Flash,15,False,11966,11250,Rod of Ages,Seraph's Embrace,Morellonomicon,Ionian Boots of Lucidity,Null-Magic Mantle,Fiendish Codex,175344,11831,Lane.mid_lane,Role.solo
+1,Mad Mandingo Man,Ezreal,False,Side.blue,6,8,6,1.5,174,Flash,Heal,13,False,11740,11383,Doran's Blade,Ionian Boots of Lucidity,Blade of the Ruined King,Trinity Force,Muramana,Long Sword,25269,88377,Lane.bot_lane,Role.carry
+2,boldeagle3,Nami,False,Side.blue,1,9,11,1.3333333333333333,13,Exhaust,Flash,12,False,9281,8600,Boots of Swiftness,Eye of the Watchers,Mikael's Crucible,Randuin's Omen,Control Ward,,7131,3442,Lane.bot_lane,Role.support
+3,tkDarkSide,Shyvana,False,Side.blue,8,9,4,1.3333333333333333,203,Smite,Flash,16,False,13711,13558,Skirmisher's Sabre,Guinsoo's Rageblade,Trinity Force,Dead Man's Plate,Mercury's Treads,Recurve Bow,104033,96524,Lane.jungle,Role.none
+4,NI9HT,Jayce,False,Side.blue,6,5,3,1.8,237,Teleport,Flash,15,False,12795,12625,Muramana,Last Whisper,Maw of Malmortius,The Black Cleaver,,Ionian Boots of Lucidity,28904,135155,Lane.top_lane,Role.solo
+5,Fockus,Swain,True,Side.red,4,2,6,5.0,186,Flash,Teleport,15,False,12126,10500,Doran's Ring,Ninja Tabi,Zhonya's Hourglass,Abyssal Scepter,Rod of Ages,,108705,14654,Lane.top_lane,Role.solo
+6,Zeu God,Zac,True,Side.red,5,3,12,5.666666666666667,104,Flash,Smite,15,False,10961,10175,Enchantment: Cinderhulk,Guardian Angel,Ninja Tabi,Spirit Visage,Control Ward,Chain Vest,75045,19441,Lane.jungle,Role.none
+7,bvcx222,Blitzcrank,True,Side.red,0,6,22,3.6666666666666665,34,Flash,Ignite,14,False,9802,8900,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,Forbidden Idol,,Boots of Mobility,12039,9437,Lane.bot_lane,Role.support
+8,Grapermelon,Morgana,True,Side.red,9,5,14,4.6,210,Ignite,Flash,17,False,14283,12185,Sorcerer's Shoes,Zhonya's Hourglass,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Amplifying Tome,130456,21909,Lane.mid_lane,Role.solo
+9,Swìft,Twitch,True,Side.red,22,9,8,3.3333333333333335,200,Heal,Flash,16,True,17848,16000,Infinity Edge,B. F. Sword,Rapid Firecannon,Lord Dominik's Regards,Runaan's Hurricane,Berserker's Greaves,3424,151952,Lane.bot_lane,Role.carry

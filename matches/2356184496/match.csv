@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Daru,Ivern,True,Side.blue,5,2,12,8.5,59,Flash,Smite,12,True,9194,7500,Skirmisher's Sabre,Forbidden Idol,Athene's Unholy Grail,Ionian Boots of Lucidity,Guardian Angel,Control Ward,8251,5157,Lane.jungle,Role.none
+1,SENORDONALDTRUMP,Maokai,True,Side.blue,5,1,13,18.0,87,Flash,Teleport,12,False,8677,6800,Sunfire Cape,Righteous Glory,Corrupting Potion,,Boots of Swiftness,,60838,13097,Lane.mid_lane,Role.solo
+2,suffix,Vayne,True,Side.blue,7,3,5,4.0,156,Ghost,Flash,12,False,10463,7850,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,,,7977,88095,Lane.bot_lane,Role.carry
+3,Honi,Janna,True,Side.blue,1,2,13,7.0,17,Flash,Exhaust,11,False,7214,5200,Eye of the Watchers,,Control Ward,Forbidden Idol,Boots of Mobility,Crystalline Bracer,5992,7702,Lane.bot_lane,Role.support
+4,Baron Hellscream,Taliyah,True,Side.blue,3,2,11,7.0,129,Flash,Teleport,12,False,9473,8550,Rylai's Crystal Scepter,,Doran's Ring,Morellonomicon,,Sorcerer's Shoes,82947,10272,Lane.top_lane,Role.solo
+5,Pathion1337,Jayce,False,Side.red,3,9,3,0.6666666666666666,103,Ignite,Flash,11,False,6892,6525,Doran's Blade,Vampiric Scepter,Total Biscuit of Rejuvenation,Youmuu's Ghostblade,Long Sword,Ionian Boots of Lucidity,10119,54532,Lane.mid_lane,Role.solo
+6,East Berlin,Nautilus,False,Side.red,2,4,2,1.0,128,Flash,Teleport,11,False,6981,6725,Doran's Ring,Corrupting Potion,Mercury's Treads,Spectre's Cowl,Sunfire Cape,Null-Magic Mantle,53861,11952,Lane.top_lane,Role.solo
+7,Penquynh,Lulu,False,Side.red,0,3,5,1.6666666666666667,12,Flash,Exhaust,9,False,5764,5225,Redemption,Sightstone,Ionian Boots of Lucidity,Frostfang,,,7674,4160,Lane.bot_lane,Role.support
+8,OoR4s3Ng4N4rUtOo,Ashe,False,Side.red,5,2,1,3.0,136,Flash,Heal,10,False,7875,7400,Doran's Blade,Cloak of Agility,B. F. Sword,Pickaxe,Runaan's Hurricane,Berserker's Greaves,1570,79923,Lane.bot_lane,Role.carry
+9,The Great Carry,Shaco,False,Side.red,0,3,2,0.6666666666666666,104,Smite,Flash,11,False,6692,5725,Enchantment: Warrior,Long Sword,Boots of Mobility,Tiamat,Long Sword,Refillable Potion,15779,58863,Lane.jungle,Role.none

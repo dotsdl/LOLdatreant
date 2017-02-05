@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hobbes211,Lulu,True,Side.blue,5,6,30,5.833333333333333,13,Flash,Exhaust,13,False,11439,9650,Ruby Sightstone,Frost Queen's Claim,Locket of the Iron Solari,Control Ward,Redemption,Ionian Boots of Lucidity,13662,5862,Lane.bot_lane,Role.support
+1,LOGAN109,Darius,True,Side.blue,3,7,3,0.8571428571428571,195,Teleport,Flash,14,False,10773,10550,Doran's Shield,Zz'Rot Portal,Dead Man's Plate,The Black Cleaver,Ninja Tabi,,471,89263,Lane.top_lane,Role.solo
+2,1Tracked,Rammus,True,Side.blue,5,6,21,4.333333333333333,125,Smite,Flash,15,True,11607,9925,Enchantment: Cinderhulk,Null-Magic Mantle,Thornmail,Ninja Tabi,Frozen Heart,Ruby Crystal,71725,48516,Lane.jungle,Role.none
+3,Muzy,Karma,True,Side.blue,20,3,13,11.0,151,Flash,Teleport,15,False,15279,13950,Zhonya's Hourglass,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Void Staff,Doran's Ring,105462,16732,Lane.mid_lane,Role.solo
+4,IRON CHEF KOREA,Jhin,True,Side.blue,7,5,22,5.8,146,Heal,Flash,14,False,12790,10950,Doran's Blade,Rapid Firecannon,Boots of Speed,Infinity Edge,,Essence Reaver,8570,135569,Lane.bot_lane,Role.carry
+5,Imaokai,Vayne,False,Side.red,5,10,8,1.3,186,Heal,Flash,14,False,10797,10550,Doran's Blade,Blade of the Ruined King,Statikk Shiv,Berserker's Greaves,Lord Dominik's Regards,,20984,75484,Lane.bot_lane,Role.carry
+6,cokes,Jayce,False,Side.red,10,9,6,1.7777777777777777,168,Teleport,Flash,14,False,12120,11700,Youmuu's Ghostblade,Long Sword,Ionian Boots of Lucidity,Mortal Reminder,The Black Cleaver,Vampiric Scepter,11621,92003,Lane.top_lane,Role.solo
+7,Ari Kingu,Thresh,False,Side.red,1,9,12,1.4444444444444444,45,Ignite,Flash,13,False,8114,7435,Face of the Mountain,Amplifying Tome,Redemption,Sightstone,Boots of Mobility,Cloth Armor,13196,6270,Lane.bot_lane,Role.support
+8,Adisak,Olaf,False,Side.red,7,4,5,3.0,195,Smite,Ghost,16,False,12060,10875,Randuin's Omen,Hunter's Potion,Enchantment: Cinderhulk,Spirit Visage,Catalyst of Aeons,Ionian Boots of Lucidity,28466,127460,Lane.jungle,Role.none
+9,TSM SophieDewy,LeBlanc,False,Side.red,4,8,7,1.375,111,Ignite,Flash,13,False,9682,9175,Doran's Ring,Morellonomicon,Luden's Echo,Needlessly Large Rod,Sorcerer's Shoes,,56427,11667,Lane.mid_lane,Role.solo

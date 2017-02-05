@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SKT Beng,Tryndamere,False,Side.blue,2,7,1,0.42857142857142855,177,Flash,Teleport,14,False,9011,8275,Doran's Blade,Statikk Shiv,Bilgewater Cutlass,Berserker's Greaves,B. F. Sword,Recurve Bow,12632,87532,Lane.top_lane,Role.solo
+1,FU Agares,Alistar,False,Side.blue,3,5,9,2.4,48,Flash,Ignite,12,False,8325,7300,Boots of Mobility,Redemption,Eye of the Equinox,Total Biscuit of Rejuvenation,Aegis of the Legion,,22558,7912,Lane.bot_lane,Role.support
+2,Kud,Shyvana,False,Side.blue,13,5,3,3.2,194,Flash,Smite,15,False,13721,13100,Titanic Hydra,Giant's Belt,Mercury's Treads,Dead Man's Plate,Enchantment: Bloodrazor,Warden's Mail,84138,99256,Lane.jungle,Role.none
+3,Kimchi Kimchi,Kennen,False,Side.blue,3,8,5,1.0,160,Heal,Flash,13,True,9602,9050,Doran's Blade,Blade of the Ruined King,Runaan's Hurricane,Berserker's Greaves,Jaurim's Fist,,22481,57981,Lane.bot_lane,Role.carry
+4,Happo,Orianna,False,Side.blue,1,5,3,0.8,202,Flash,Ghost,14,False,9073,8775,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Refillable Potion,Luden's Echo,Blasting Wand,88837,13877,Lane.mid_lane,Role.solo
+5,F33dMeKills,Illaoi,True,Side.red,12,6,5,2.8333333333333335,201,Flash,Teleport,15,False,13091,10658,Mercury's Treads,Thornmail,Trinity Force,Sterak's Gage,,,11118,159842,Lane.top_lane,Role.solo
+6,QuickRev,Lulu,True,Side.red,2,7,17,2.7142857142857144,13,Flash,Exhaust,12,False,8178,6050,Spellthief's Edge,Ionian Boots of Lucidity,Sightstone,Morellonomicon,Fiendish Codex,,20744,6897,Lane.bot_lane,Role.support
+7,acercon,Ivern,True,Side.red,2,2,12,7.0,72,Flash,Smite,14,False,9278,7625,Redemption,Locket of the Iron Solari,Athene's Unholy Grail,Boots of Speed,The Dark Seal,Hunter's Talisman,13635,8216,Lane.jungle,Role.none
+8,Lucidity,Jhin,True,Side.red,5,5,15,4.0,156,Heal,Flash,14,False,11197,9375,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Last Whisper,,2929,104518,Lane.bot_lane,Role.carry
+9,FourofDiamonds,Lux,True,Side.red,9,2,8,8.5,181,Flash,Ghost,15,False,11479,9235,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Blasting Wand,Amplifying Tome,115104,12839,Lane.mid_lane,Role.solo

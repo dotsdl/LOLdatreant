@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Shiruku Tenshi,Janna,True,Side.blue,0,1,22,22.0,1,Flash,Exhaust,12,False,7590,5900,Eye of the Oasis,Boots of Mobility,Ardent Censer,Crystalline Bracer,,,2836,3927,Lane.bot_lane,Role.support
+1,Angormus,Nasus,True,Side.blue,1,1,7,8.0,98,Smite,Ghost,12,False,7401,6225,Enchantment: Cinderhulk,Boots of Swiftness,Refillable Potion,Sheen,Spectre's Cowl,Cloth Armor,39090,45766,Lane.jungle,Role.none
+2,ZambonGG,LeBlanc,True,Side.blue,10,1,2,12.0,118,Flash,Ignite,12,False,8864,7760,Control Ward,Morellonomicon,Zhonya's Hourglass,Doran's Ring,,Sorcerer's Shoes,52405,12293,Lane.mid_lane,Role.solo
+3,Tai Draven,Draven,True,Side.blue,19,3,2,7.0,156,Flash,Heal,12,False,14538,14440,Doran's Blade,The Bloodthirster,Infinity Edge,Berserker's Greaves,Phantom Dancer,Statikk Shiv,9441,109857,Lane.bot_lane,Role.carry
+4,singed420,Singed,True,Side.blue,4,7,3,1.0,173,Ghost,Teleport,12,False,8484,7300,The Dark Seal,Corrupting Potion,Boots of Swiftness,Rylai's Crystal Scepter,Thornmail,,89845,4221,Lane.top_lane,Role.solo
+5,Galdrick,Karma,False,Side.red,2,7,5,1.0,7,Flash,Exhaust,9,False,5351,4125,Sightstone,Frost Queen's Claim,Control Ward,Ionian Boots of Lucidity,,,12318,1467,Lane.bot_lane,Role.support
+6,IQ is 201 ,Lucian,False,Side.red,1,9,1,0.2222222222222222,89,Flash,Exhaust,9,False,5337,4625,Berserker's Greaves,Doran's Blade,Cull,,Pickaxe,B. F. Sword,2091,38396,Lane.mid_lane,Role.solo
+7,datvu deformed,Jhin,False,Side.red,1,10,3,0.4,86,Heal,Flash,9,False,5329,5000,Doran's Blade,Essence Reaver,,Boots of Swiftness,,,3216,34405,Lane.bot_lane,Role.carry
+8,weeman100,Ezreal,False,Side.red,5,6,4,1.5,96,Flash,Smite,11,True,7738,7025,Enchantment: Warrior,Tear of the Goddess,Phage,Ionian Boots of Lucidity,Sheen,Dagger,7262,67863,Lane.jungle,Role.none
+9,SaintKilianv2,Ekko,False,Side.red,4,2,3,3.5,160,Teleport,Flash,12,False,7797,7075,Blasting Wand,Hextech Gunblade,Doran's Ring,Ionian Boots of Lucidity,Aether Wisp,Doran's Ring,80726,13393,Lane.top_lane,Role.solo

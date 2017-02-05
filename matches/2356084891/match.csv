@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l Spawn l,Olaf,True,Side.blue,12,3,14,8.666666666666666,160,Ghost,Smite,17,False,14694,13250,Righteous Glory,Guardian Angel,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Dead Man's Plate,Spectre's Cowl,31187,125206,Lane.jungle,Role.none
+1,BMGreenleaf,Nami,True,Side.blue,2,4,22,6.0,15,Exhaust,Flash,15,False,10738,8425,Frostfang,Locket of the Iron Solari,Redemption,Ruby Sightstone,Boots of Mobility,Control Ward,8254,9521,Lane.bot_lane,Role.support
+2,DeaIer29,Orianna,True,Side.blue,6,2,11,8.5,289,Ghost,Flash,18,False,14872,12600,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Rabadon's Deathcap,,Morellonomicon,178046,18059,Lane.mid_lane,Role.solo
+3,Max Waldo,Irelia,True,Side.blue,10,5,8,3.6,206,Flash,Teleport,17,False,14658,13113,Corrupting Potion,Giant's Belt,Mercury's Treads,Spirit Visage,Trinity Force,Frozen Heart,3289,120699,Lane.top_lane,Role.solo
+4,Lukwer,Lucian,True,Side.blue,6,7,8,2.0,254,Flash,Heal,16,True,14349,13425,Doran's Blade,Last Whisper,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Essence Reaver,8592,163415,Lane.bot_lane,Role.carry
+5,Révenge,Ryze,False,Side.red,3,9,4,0.7777777777777778,253,Ghost,Flash,16,False,13383,12800,Ionian Boots of Lucidity,Zhonya's Hourglass,Seraph's Embrace,Morellonomicon,Rod of Ages,,221765,12347,Lane.mid_lane,Role.solo
+6,FIoopie,Jayce,False,Side.red,7,10,4,1.1,248,Flash,Teleport,16,False,13059,13275,Doran's Blade,Youmuu's Ghostblade,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Long Sword,36526,151564,Lane.top_lane,Role.solo
+7,ShörterACE,Lee Sin,False,Side.red,7,7,9,2.2857142857142856,110,Flash,Smite,15,False,12224,11525,Tiamat,Dead Man's Plate,Ninja Tabi,Enchantment: Warrior,Guardian Angel,Warden's Mail,18876,101932,Lane.jungle,Role.none
+8,yltfed,Ezreal,False,Side.red,4,4,9,3.25,262,Flash,Heal,16,False,12957,11983,Blade of the Ruined King,Muramana,Trinity Force,,,Ionian Boots of Lucidity,15484,138027,Lane.bot_lane,Role.carry
+9,Drowning,Thresh,False,Side.red,0,6,9,1.5,30,Flash,Ignite,13,False,8058,7225,Knight's Vow,Boots of Mobility,Control Ward,Eye of the Equinox,Warden's Mail,Cloth Armor,13325,6096,Lane.bot_lane,Role.support

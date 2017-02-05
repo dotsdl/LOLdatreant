@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Imentice,Lee Sin,False,Side.blue,2,7,3,0.7142857142857143,69,Smite,Flash,10,True,6538,5750,Control Ward,Refillable Potion,Boots of Speed,Enchantment: Warrior,Giant's Belt,Hexdrinker,9864,50035,Lane.jungle,Role.none
+1,er ber ter,Draven,False,Side.blue,1,2,3,2.0,192,Heal,Flash,12,False,8963,8550,Doran's Blade,Infinity Edge,Berserker's Greaves,Cull,Phantom Dancer,Long Sword,0,100246,Lane.bot_lane,Role.carry
+2,Day after Day,Thresh,False,Side.blue,0,7,5,0.7142857142857143,15,Exhaust,Flash,9,False,4945,4775,Targon's Brace,Knight's Vow,Ruby Crystal,,Boots of Mobility,,4140,2061,Lane.bot_lane,Role.support
+3,o Cero o,Nautilus,False,Side.blue,1,4,4,1.25,148,Flash,Teleport,12,False,7503,6175,Zz'Rot Portal,Warden's Mail,Corrupting Potion,Ninja Tabi,Doran's Ring,Doran's Ring,52780,18979,Lane.top_lane,Role.solo
+4,JVLushroom,Viktor,False,Side.blue,5,3,0,1.6666666666666667,132,Ghost,Flash,12,False,7872,7535,Perfect Hex Core,Doran's Ring,Abyssal Scepter,Boots of Speed,Doran's Ring,Amplifying Tome,69397,7514,Lane.mid_lane,Role.solo
+5,foggedftw1,Tryndamere,True,Side.red,2,2,4,3.0,201,Ignite,Flash,14,False,9891,8325,Refillable Potion,Bilgewater Cutlass,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,,27207,103159,Lane.top_lane,Role.solo
+6,Ayukura,Janna,True,Side.red,2,2,6,4.0,12,Flash,Exhaust,10,False,7002,5450,Redemption,Sightstone,Ionian Boots of Lucidity,Frostfang,Total Biscuit of Rejuvenation,Cloth Armor,3595,5230,Lane.bot_lane,Role.support
+7,1deag,Caitlyn,True,Side.red,6,1,2,8.0,192,Heal,Flash,12,False,10361,8925,Doran's Blade,Refillable Potion,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Vampiric Scepter,358,100158,Lane.bot_lane,Role.carry
+8,Huw,Evelynn,True,Side.red,5,1,7,12.0,97,Smite,Flash,13,False,9415,7235,Amplifying Tome,Hextech Protobelt-01,Refillable Potion,Sorcerer's Shoes,The Dark Seal,Enchantment: Runic Echoes,75785,30908,Lane.jungle,Role.none
+9,절대충성꼬봉,Ziggs,True,Side.red,8,3,5,4.333333333333333,226,Ignite,Flash,14,False,12083,11875,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Control Ward,Doran's Ring,142333,11752,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,A139591204A,Lux,True,Side.blue,5,5,7,2.4,197,Ghost,Flash,15,False,11541,10275,Corrupting Potion,Doran's Ring,Void Staff,Morellonomicon,Abyssal Scepter,Boots of Swiftness,111538,15479,Lane.mid_lane,Role.solo
+1,GowaSan,Jax,True,Side.blue,10,2,3,6.5,264,Ignite,Flash,17,True,14597,12783,Blade of the Ruined King,Trinity Force,Frozen Mallet,Doran's Blade,Doran's Blade,Mercury's Treads,38298,151295,Lane.top_lane,Role.solo
+2,darklordmatthewl,Taric,True,Side.blue,1,3,17,6.0,48,Flash,Exhaust,14,False,9594,8375,Banner of Command,Redemption,Sightstone,Control Ward,Targon's Brace,Mercury's Treads,10378,11088,Lane.bot_lane,Role.support
+3,andrew1111,Jhin,True,Side.blue,4,3,13,5.666666666666667,195,Heal,Flash,15,False,11640,10175,Essence Reaver,Doran's Blade,Kircheis Shard,Infinity Edge,Hexdrinker,Boots of Speed,1681,119689,Lane.bot_lane,Role.carry
+4,ganznam,Kayle,True,Side.blue,9,3,4,4.333333333333333,187,Smite,Flash,16,False,13745,11500,Enchantment: Bloodrazor,Berserker's Greaves,Pickaxe,Nashor's Tooth,Wit's End,Recurve Bow,104924,88330,Lane.jungle,Role.none
+5,Keaze,LeBlanc,False,Side.red,6,8,3,1.125,142,Ignite,Flash,13,False,9910,9185,Luden's Echo,Morellonomicon,Sorcerer's Shoes,Blasting Wand,Amplifying Tome,,72755,11895,Lane.mid_lane,Role.solo
+6,InrRa,Hecarim,False,Side.red,5,5,2,1.4,129,Flash,Smite,13,False,10388,9358,Enchantment: Cinderhulk,Refillable Potion,Boots of Swiftness,Trinity Force,Chain Vest,Giant's Belt,32538,87697,Lane.jungle,Role.none
+7,rslCPm3Tgc,Ezreal,False,Side.red,3,4,2,1.25,233,Flash,Heal,13,False,10850,10300,Doran's Blade,Manamune,Iceborn Gauntlet,The Bloodthirster,,Ionian Boots of Lucidity,17253,84247,Lane.bot_lane,Role.carry
+8,Angelus132,Alistar,False,Side.red,2,4,4,1.5,61,Flash,Exhaust,12,False,8437,7870,Boots of Mobility,Raptor Cloak,Eye of the Equinox,Control Ward,Negatron Cloak,Knight's Vow,7950,8310,Lane.bot_lane,Role.support
+9,IchigoCarriesYou,Singed,False,Side.red,0,8,4,0.5,279,Teleport,Ghost,16,False,11032,10150,Corrupting Potion,Ninja Tabi,Zz'Rot Portal,The Dark Seal,Haunting Guise,Rylai's Crystal Scepter,151145,7005,Lane.top_lane,Role.solo

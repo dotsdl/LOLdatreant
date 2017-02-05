@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Erry,Ezreal,False,Side.blue,3,4,4,1.75,162,Heal,Flash,11,False,7508,7325,Ionian Boots of Lucidity,Manamune,Phage,Stinger,Sheen,Doran's Blade,6202,54992,Lane.bot_lane,Role.carry
+1,daduu,Zyra,False,Side.blue,1,5,6,1.4,9,Flash,Exhaust,9,False,5521,4685,Sorcerer's Shoes,The Dark Seal,,Amplifying Tome,Eye of the Watchers,Total Biscuit of Rejuvenation,15565,3428,Lane.bot_lane,Role.support
+2,Kerias,Viktor,False,Side.blue,2,3,2,1.3333333333333333,151,Ghost,Flash,12,False,6871,6850,Raptor Cloak,,Doran's Ring,Ionian Boots of Lucidity,Abyssal Scepter,The Hex Core mk-1,70568,8468,Lane.mid_lane,Role.solo
+3,DZG Doomtrobo,Rengar,False,Side.blue,5,5,2,1.4,81,Smite,Flash,10,False,7231,6675,Enchantment: Warrior,Refillable Potion,Mercury's Treads,B. F. Sword,Serrated Dirk,Ruby Crystal,9309,61320,Lane.jungle,Role.none
+4,Uul,Yasuo,False,Side.blue,0,7,3,0.42857142857142855,139,Teleport,Flash,11,False,6459,6375,Doran's Blade,Phantom Dancer,Refillable Potion,Mercury's Treads,Bilgewater Cutlass,Dagger,18822,56981,Lane.top_lane,Role.solo
+5,wwwwwwwww,Tahm Kench,True,Side.red,2,5,5,1.4,33,Exhaust,Flash,10,False,6101,4425,Face of the Mountain,Boots of Swiftness,Sightstone,Cloth Armor,,,4212,3990,Lane.bot_lane,Role.support
+6,MrStingYoGirl,Skarner,True,Side.red,4,1,3,7.0,91,Smite,Flash,11,True,8385,7400,Enchantment: Cinderhulk,Hunter's Potion,Boots of Swiftness,Phage,Sheen,Stinger,25240,49164,Lane.jungle,Role.none
+7,ApoIlo Price,Caitlyn,True,Side.red,3,0,4,7.0,168,Flash,Heal,11,False,9078,6925,Doran's Blade,Berserker's Greaves,Cull,Pickaxe,B. F. Sword,Runaan's Hurricane,851,76467,Lane.bot_lane,Role.carry
+8,Rhux,Ekko,True,Side.red,7,3,4,3.6666666666666665,150,Flash,Teleport,14,False,9617,8000,Refillable Potion,Doran's Ring,Hextech Protobelt-01,Doran's Ring,Lich Bane,Sorcerer's Shoes,79871,19950,Lane.top_lane,Role.solo
+9,Second of Arc,Diana,True,Side.red,8,2,0,4.0,190,Teleport,Flash,13,False,10527,9310,Sorcerer's Shoes,Abyssal Scepter,Nashor's Tooth,Blasting Wand,Amplifying Tome,Doran's Ring,96274,15603,Lane.mid_lane,Role.solo

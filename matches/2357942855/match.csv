@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hokage JJTRAN,Twisted Fate,True,Side.blue,16,1,9,25.0,149,Cleanse,Flash,15,False,14780,13650,Blasting Wand,Lich Bane,Zhonya's Hourglass,Sorcerer's Shoes,Abyssal Scepter,Needlessly Large Rod,123238,16578,Lane.mid_lane,Role.solo
+1,less       Fear,Nautilus,True,Side.blue,6,2,8,7.0,142,Teleport,Flash,14,False,10564,9675,Randuin's Omen,Sheen,Spirit Visage,Mercury's Treads,Doran's Ring,Doran's Ring,62116,21418,Lane.top_lane,Role.solo
+2,Braums Mustache,Tahm Kench,True,Side.blue,0,2,20,10.0,37,Flash,Exhaust,12,False,8901,8075,Boots of Swiftness,Sightstone,Face of the Mountain,Knight's Vow,Aegis of the Legion,Total Biscuit of Rejuvenation,11972,7717,Lane.bot_lane,Role.support
+3,Watarimono,Jhin,True,Side.blue,10,6,10,3.3333333333333335,136,Flash,Heal,13,False,11428,10750,B. F. Sword,Infinity Edge,Rapid Firecannon,Cull,Berserker's Greaves,Caulfield's Warhammer,5724,83694,Lane.bot_lane,Role.carry
+4,Cloudy Skyz,Shyvana,True,Side.blue,2,2,11,6.5,172,Flash,Smite,15,False,10803,8750,Titanic Hydra,Refillable Potion,Enchantment: Bloodrazor,Mercury's Treads,B. F. Sword,,71972,83439,Lane.jungle,Role.none
+5,Adeles Cat,Ezreal,False,Side.red,5,6,3,1.3333333333333333,131,Flash,Heal,11,True,8583,7800,Doran's Blade,Manamune,Vampiric Scepter,Ionian Boots of Lucidity,Iceborn Gauntlet,Long Sword,23281,57571,Lane.bot_lane,Role.carry
+6,Kënnen,Kennen,False,Side.red,4,6,2,1.0,146,Teleport,Flash,12,False,8074,7485,Refillable Potion,Hextech Protobelt-01,Doran's Blade,Sorcerer's Shoes,Void Staff,Amplifying Tome,53958,17541,Lane.top_lane,Role.solo
+7,Asukira,Taliyah,False,Side.red,2,8,5,0.875,54,Exhaust,Flash,11,False,7448,6900,Eye of the Watchers,Rylai's Crystal Scepter,Sorcerer's Shoes,Control Ward,,,41343,4521,Lane.bot_lane,Role.support
+8,Lord Gomenator,Skarner,False,Side.red,2,6,4,1.0,73,Flash,Smite,11,False,7229,7000,Dead Man's Plate,Refillable Potion,Mercury's Treads,Enchantment: Cinderhulk,Control Ward,,20611,34248,Lane.jungle,Role.none
+9,Harpoon The Moon,Lissandra,False,Side.red,0,8,4,0.5,136,Flash,Teleport,12,False,7209,6800,Sorcerer's Shoes,Rod of Ages,Doran's Ring,Needlessly Large Rod,Blasting Wand,,74851,10432,Lane.mid_lane,Role.solo

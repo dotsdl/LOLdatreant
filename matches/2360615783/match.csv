@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Miajima,Talon,False,Side.blue,3,11,2,0.45454545454545453,105,Flash,Ignite,11,True,6664,6600,Youmuu's Ghostblade,Boots of Speed,Maw of Malmortius,,,,1558,71196,Lane.top_lane,Role.solo
+1,Bubbahoetup,Lee Sin,False,Side.blue,8,9,5,1.4444444444444444,109,Flash,Smite,13,False,9313,9200,Ravenous Hydra,Serrated Dirk,Enchantment: Warrior,Long Sword,Boots of Mobility,Long Sword,15917,67037,Lane.jungle,Role.none
+2,Puiginator,Tahm Kench,False,Side.blue,0,4,1,0.25,60,Flash,Barrier,11,False,5318,5025,Mercury's Treads,Raptor Cloak,Null-Magic Mantle,Eye of the Equinox,,,24071,4077,Lane.bot_lane,Role.duo
+3,Jhinathan ,Vayne,False,Side.blue,2,7,1,0.42857142857142855,112,Heal,Flash,11,False,6616,6100,Doran's Blade,B. F. Sword,Statikk Shiv,Berserker's Greaves,,,3334,34037,Lane.bot_lane,Role.duo
+4,Mini Frapp,Lux,False,Side.blue,5,6,4,1.5,106,Barrier,Flash,11,False,7463,7000,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Aether Wisp,Control Ward,Needlessly Large Rod,52133,7947,Lane.mid_lane,Role.solo
+5,Cpt Squirtle,Caitlyn,True,Side.red,3,3,7,3.3333333333333335,155,Heal,Flash,12,False,10268,9475,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Zeal,Dagger,236,99547,Lane.bot_lane,Role.carry
+6,Lucito,Jayce,True,Side.red,8,5,5,2.6,116,Flash,Ignite,13,False,10323,8850,Duskblade of Draktharr,Youmuu's Ghostblade,Caulfield's Warhammer,,Doran's Blade,Ionian Boots of Lucidity,7503,81951,Lane.mid_lane,Role.solo
+7,Pyrites,Brand,True,Side.red,2,2,10,6.0,27,Flash,Ignite,11,False,8226,7375,Frost Queen's Claim,Sightstone,Giant's Belt,Needlessly Large Rod,The Dark Seal,Sorcerer's Shoes,25405,5823,Lane.bot_lane,Role.support
+8,YY Saitama,Ryze,True,Side.red,13,7,8,3.0,190,Teleport,Flash,15,False,13615,9850,Rylai's Crystal Scepter,Tear of the Goddess,Needlessly Large Rod,The Dark Seal,Ninja Tabi,Morellonomicon,151370,13357,Lane.top_lane,Role.solo
+9,whymydu1youshiSB,Rengar,True,Side.red,11,1,1,12.0,125,Smite,Ghost,13,False,11034,10100,Enchantment: Warrior,The Black Cleaver,Youmuu's Ghostblade,,,Ninja Tabi,7298,112500,Lane.jungle,Role.none

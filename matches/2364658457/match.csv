@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zacam,Blitzcrank,True,Side.blue,2,2,13,7.5,19,Flash,Ignite,13,True,10509,8475,Ruby Sightstone,Talisman of Ascension,Boots of Mobility,Null-Magic Mantle,Cloth Armor,Knight's Vow,10398,9842,Lane.bot_lane,Role.support
+1,Wild Bunny,LeBlanc,True,Side.blue,5,3,7,4.0,199,Flash,Ghost,15,False,12342,10600,Sorcerer's Shoes,Abyssal Scepter,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,,120602,14461,Lane.mid_lane,Role.solo
+2,Infinitynight,Yorick,True,Side.blue,2,4,5,1.75,269,Flash,Teleport,16,False,12185,9825,Corrupting Potion,The Black Cleaver,Boots of Speed,Zz'Rot Portal,Iceborn Gauntlet,Cloth Armor,19888,107985,Lane.top_lane,Role.solo
+3,The Clark,Vayne,True,Side.blue,14,4,5,4.75,242,Flash,Heal,16,False,15257,12850,Doran's Blade,Blade of the Ruined King,Phantom Dancer,Berserker's Greaves,Statikk Shiv,Lord Dominik's Regards,28785,128131,Lane.bot_lane,Role.carry
+4,Sallyzar,Ivern,True,Side.blue,4,0,10,14.0,137,Flash,Smite,16,False,12489,11475,Stalker's Blade,Thornmail,Redemption,Boots of Mobility,Athene's Unholy Grail,Spirit Visage,24778,15380,Lane.jungle,Role.none
+5,tragicscion,Nautilus,False,Side.red,3,3,5,2.6666666666666665,256,Teleport,Flash,15,False,11221,11000,Zz'Rot Portal,Mercury's Treads,Sunfire Cape,Iceborn Gauntlet,Warden's Mail,Ruby Crystal,123137,18907,Lane.top_lane,Role.solo
+6,Zesi,Zyra,False,Side.red,5,2,5,5.0,236,Flash,Ghost,16,False,11697,9885,Doran's Ring,Needlessly Large Rod,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,132758,22831,Lane.mid_lane,Role.solo
+7,seoulart,Hecarim,False,Side.red,1,6,4,0.8333333333333334,109,Smite,Ghost,13,False,8622,8425,Health Potion,Null-Magic Mantle,Randuin's Omen,Boots of Mobility,Kindlegem,Enchantment: Cinderhulk,11195,60800,Lane.jungle,Role.none
+8,skyfórth,Thresh,False,Side.red,1,6,3,0.6666666666666666,67,Exhaust,Flash,12,False,7718,7650,Face of the Mountain,Randuin's Omen,Sightstone,Boots of Mobility,Ruby Crystal,Cloth Armor,20703,7388,Lane.bot_lane,Role.duo
+9,God on Vayne,Jhin,False,Side.red,3,10,4,0.7,203,Flash,Heal,14,False,10558,10400,B. F. Sword,Rapid Firecannon,,Essence Reaver,Boots of Swiftness,Pickaxe,11421,96425,Lane.bot_lane,Role.duo

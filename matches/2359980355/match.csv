@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,U LoZe,Garen,False,Side.blue,3,8,8,1.375,190,Flash,Ghost,15,False,11431,10575,,,Zz'Rot Portal,Spirit Visage,Ninja Tabi,Thornmail,4349,82834,Lane.jungle,Role.none
+1,Henrÿ,Graves,False,Side.blue,9,11,16,2.272727272727273,147,Flash,Smite,16,False,14091,13800,Mercury's Treads,Enchantment: Warrior,Phantom Dancer,Maw of Malmortius,Pickaxe,The Black Cleaver,9663,181161,Lane.jungle,Role.none
+2,Cat Ears,Blitzcrank,False,Side.blue,2,10,14,1.6,42,Flash,Ignite,13,False,9506,9150,Locket of the Iron Solari,Ruby Sightstone,Redemption,Boots of Mobility,Targon's Brace,Kindlegem,14941,8852,Lane.jungle,Role.none
+3,xFSN Saber,Twitch,False,Side.blue,6,8,13,2.375,208,Heal,Flash,15,False,13861,14985,Infinity Edge,Blade of the Ruined King,Brawler's Gloves,Runaan's Hurricane,Berserker's Greaves,Last Whisper,80,136893,Lane.jungle,Role.none
+4,Pooper Josh,Zed,False,Side.blue,14,9,6,2.2222222222222223,189,Ignite,Flash,15,False,14155,13250,Youmuu's Ghostblade,Lord Dominik's Regards,Maw of Malmortius,Boots of Speed,The Black Cleaver,Long Sword,8463,136951,Lane.mid_lane,Role.solo
+5,Sebi,LeBlanc,True,Side.red,13,6,11,4.0,165,Flash,Ignite,16,False,15107,12560,Needlessly Large Rod,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Void Staff,Amplifying Tome,102252,14667,Lane.mid_lane,Role.solo
+6,EDG SLICER,Teemo,True,Side.red,10,9,18,3.111111111111111,213,Flash,Heal,17,True,16406,14700,Warden's Mail,Ohmwrecker,Ninja Tabi,Runaan's Hurricane,Guinsoo's Rageblade,Frozen Mallet,85622,97908,Lane.bot_lane,Role.solo
+7,Dystrex,Darius,True,Side.red,9,10,13,2.2,207,Teleport,Flash,17,False,15143,13525,The Black Cleaver,Randuin's Omen,Dead Man's Plate,Thornmail,Ninja Tabi,Kindlegem,10282,127553,Lane.top_lane,Role.solo
+8,Ayo Its Jango,Xin Zhao,True,Side.red,2,8,23,3.125,78,Exhaust,Flash,15,False,11769,10300,Face of the Mountain,Ruby Sightstone,Knight's Vow,Redemption,,Ninja Tabi,2141,37762,Lane.jungle,Role.none
+9,jamican banana,Vi,True,Side.red,12,3,17,9.666666666666666,217,Smite,Flash,18,False,17298,15883,Ninja Tabi,Randuin's Omen,Enchantment: Warrior,Trinity Force,Guardian Angel,Dead Man's Plate,1708,215941,Lane.jungle,Role.none

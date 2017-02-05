@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SNSD Sunnny,Swain,True,Side.blue,4,4,9,3.25,203,Teleport,Flash,16,False,12181,11725,Sorcerer's Shoes,Rod of Ages,Rylai's Crystal Scepter,Doran's Ring,Zhonya's Hourglass,Doran's Ring,101244,14751,Lane.top_lane,Role.solo
+1,Loopsers,Graves,True,Side.blue,11,3,3,4.666666666666667,133,Smite,Flash,15,False,12805,10925,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Maw of Malmortius,Serrated Dirk,4580,162390,Lane.jungle,Role.none
+2,Chennnn,Sivir,True,Side.blue,4,4,6,2.5,229,Flash,Heal,13,True,12449,11500,Doran's Blade,Essence Reaver,Phantom Dancer,Berserker's Greaves,Infinity Edge,,0,162677,Lane.bot_lane,Role.carry
+3,ReformedMeow,Anivia,True,Side.blue,5,3,6,3.6666666666666665,215,Teleport,Flash,15,False,11973,10025,Zz'Rot Portal,Ionian Boots of Lucidity,Seraph's Embrace,Doran's Ring,Rod of Ages,,103996,14068,Lane.mid_lane,Role.solo
+4,Lime Dorito,Janna,True,Side.blue,1,2,15,8.0,5,Exhaust,Flash,13,False,8632,7625,Redemption,Sightstone,Locket of the Iron Solari,Ionian Boots of Lucidity,Ancient Coin,Glacial Shroud,1519,5949,Lane.bot_lane,Role.support
+5,Dna shockwave,Fiora,False,Side.red,1,8,2,0.375,215,Teleport,Flash,14,False,9258,8350,Mercury's Treads,Ravenous Hydra,Cull,Caulfield's Warhammer,Phage,Doran's Blade,1510,116401,Lane.top_lane,Role.solo
+6,Cheezcakes,Vayne,False,Side.red,2,4,5,1.75,177,Heal,Flash,13,False,9442,8400,Infinity Edge,Doran's Blade,Berserker's Greaves,Cull,Statikk Shiv,,6055,78885,Lane.bot_lane,Role.carry
+7,adc feng lft,Hecarim,False,Side.red,6,5,5,2.2,146,Smite,Ghost,15,False,10163,9178,Hunter's Potion,Negatron Cloak,Trinity Force,Enchantment: Cinderhulk,Chain Vest,Boots of Swiftness,17169,116273,Lane.jungle,Role.none
+8,Awaker Allan,Karma,False,Side.red,2,4,6,2.0,29,Exhaust,Flash,11,False,7178,6550,Frost Queen's Claim,Sightstone,Boots of Speed,Redemption,Ruby Crystal,Cloth Armor,24643,5709,Lane.bot_lane,Role.support
+9,MrMagoo35,Veigar,False,Side.red,4,4,2,1.5,205,Heal,Flash,15,False,9455,8575,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Doran's Ring,Luden's Echo,,112701,10640,Lane.mid_lane,Role.solo

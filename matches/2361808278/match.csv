@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Feitan,Jayce,False,Side.blue,5,4,2,1.75,162,Teleport,Flash,13,False,8441,8075,Ionian Boots of Lucidity,Maw of Malmortius,Control Ward,Youmuu's Ghostblade,Null-Magic Mantle,Doran's Blade,13462,79387,Lane.top_lane,Role.solo
+1,camtheham,Caitlyn,False,Side.blue,0,4,3,0.75,154,Heal,Flash,10,False,6363,6100,Dagger,Runaan's Hurricane,Pickaxe,Doran's Blade,B. F. Sword,Boots of Speed,326,54737,Lane.bot_lane,Role.carry
+2,UT Primeape,Ryze,False,Side.blue,0,6,2,0.3333333333333333,108,Flash,Ghost,10,False,5445,4125,Tear of the Goddess,Boots of Speed,Refillable Potion,Rod of Ages,Control Ward,,37626,6986,Lane.mid_lane,Role.solo
+3,Pyrrfect,Nautilus,False,Side.blue,0,3,2,0.6666666666666666,38,Flash,Exhaust,9,False,4752,4625,Eye of the Equinox,Boots of Mobility,Control Ward,Cloth Armor,Crystalline Bracer,Rejuvenation Bead,12595,5844,Lane.bot_lane,Role.support
+4,D0NG0,Lee Sin,False,Side.blue,2,5,2,0.8,95,Smite,Flash,11,False,6271,5775,Enchantment: Cinderhulk,Refillable Potion,Caulfield's Warhammer,Mercury's Treads,Null-Magic Mantle,Long Sword,15003,52030,Lane.jungle,Role.none
+5,I Want My Cigar,Ezreal,True,Side.red,3,2,6,4.5,168,Flash,Heal,12,False,8789,8425,Bilgewater Cutlass,Manamune,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Blade,Dagger,11207,67547,Lane.bot_lane,Role.carry
+6,Biscuit Crusader,Twisted Fate,True,Side.red,4,3,6,3.3333333333333335,135,Flash,Ghost,12,False,8797,6700,Doran's Ring,Rod of Ages,Sheen,Sorcerer's Shoes,Seeker's Armguard,,62018,15437,Lane.top_lane,Role.solo
+7,Wolfelol,Vel'Koz,True,Side.red,6,1,8,14.0,143,Heal,Flash,13,True,9328,8000,Rylai's Crystal Scepter,Sorcerer's Shoes,,Morellonomicon,,Control Ward,68044,12080,Lane.mid_lane,Role.solo
+8,Banshee Rush,Karma,True,Side.red,3,1,9,12.0,15,Ignite,Flash,11,False,6955,4925,Frostfang,Sightstone,Redemption,Ionian Boots of Lucidity,,,14368,5717,Lane.bot_lane,Role.support
+9,gLucy,Rek'Sai,True,Side.red,6,0,7,13.0,114,Flash,Smite,12,False,8989,6425,Enchantment: Cinderhulk,Tiamat,Refillable Potion,Ninja Tabi,Jaurim's Fist,Control Ward,23314,74269,Lane.jungle,Role.none

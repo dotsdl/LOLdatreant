@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xSojin,Caitlyn,False,Side.blue,0,0,0,0.0,7,Flash,Heal,2,False,788,500,Doran's Blade,Health Potion,,,,,0,781,Lane.bot_lane,Role.solo
+1,AsianGoneWild,Ryze,False,Side.blue,0,0,0,0.0,14,Ghost,Flash,3,False,910,500,Sapphire Crystal,Refillable Potion,,,,,2792,1386,Lane.mid_lane,Role.duo
+2,Eric1,Ivern,False,Side.blue,0,0,0,0.0,5,Smite,Flash,3,False,940,500,Hunter's Talisman,Refillable Potion,,,,,0,0,Lane.jungle,Role.none
+3,Grell Carry U,Poppy,False,Side.blue,1,0,0,1.0,9,Flash,Teleport,3,True,1219,500,Corrupting Potion,,,,,,115,2178,Lane.top_lane,Role.solo
+4,bobqinXD,Karma,False,Side.blue,0,0,0,0.0,0,Flash,Ignite,1,False,654,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+5,The Coldshroom,Teemo,True,Side.red,0,1,0,0.0,7,Ignite,Flash,2,False,788,500,,Doran's Ring,,,,,626,924,Lane.top_lane,Role.solo
+6,TheOddOrange,Kha'Zix,True,Side.red,0,0,0,0.0,6,Flash,Smite,3,False,1040,500,Hunter's Talisman,Refillable Potion,,,,,459,7469,Lane.jungle,Role.none
+7,Tobias Fate,Gangplank,True,Side.red,0,0,0,0.0,10,Flash,Exhaust,3,False,901,500,Doran's Ring,Health Potion,,,,,0,1004,Lane.mid_lane,Role.solo
+8,Annie Bot,Annie,True,Side.red,0,0,0,0.0,0,Ignite,Flash,2,False,701,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,243,191,Lane.bot_lane,Role.duo
+9,WJNA,Jayce,True,Side.red,0,0,0,0.0,13,Flash,Heal,2,False,896,500,Health Potion,Doran's Blade,,,,,0,1305,Lane.bot_lane,Role.duo

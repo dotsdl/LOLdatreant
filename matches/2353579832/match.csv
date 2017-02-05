@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Galdrick,Braum,True,Side.blue,2,1,11,13.0,31,Flash,Exhaust,11,True,7450,6150,Eye of the Equinox,Locket of the Iron Solari,Boots of Swiftness,Control Ward,Ruby Crystal,,6665,7423,Lane.bot_lane,Role.support
+1,IQ is 201 ,LeBlanc,True,Side.blue,12,0,12,24.0,122,Flash,Teleport,13,False,11271,10150,Morellonomicon,Doran's Ring,Hextech Revolver,Abyssal Scepter,Sorcerer's Shoes,Needlessly Large Rod,83316,9253,Lane.mid_lane,Role.solo
+2,longdongsi1ver69,Gangplank,True,Side.blue,1,1,9,10.0,196,Flash,Teleport,14,False,10300,8383,Trinity Force,Refillable Potion,Ionian Boots of Lucidity,Infinity Edge,,,8652,132770,Lane.top_lane,Role.solo
+3,MICROWAVEEEE,Vayne,True,Side.blue,8,3,5,4.333333333333333,176,Flash,Heal,13,False,10791,9100,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Doran's Blade,Statikk Shiv,,25759,69530,Lane.bot_lane,Role.carry
+4,Kaído,Lee Sin,True,Side.blue,7,4,9,4.0,98,Flash,Smite,12,False,9923,8700,Refillable Potion,Enchantment: Warrior,Hexdrinker,Mercury's Treads,The Black Cleaver,Long Sword,18008,86082,Lane.jungle,Role.none
+5,Slittt,Graves,False,Side.red,2,7,0,0.2857142857142857,124,Smite,Flash,12,False,8000,7400,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,The Black Cleaver,Long Sword,,4512,100211,Lane.jungle,Role.none
+6,sKILLSHOTz FIRED,Syndra,False,Side.red,3,6,3,1.0,144,Flash,Ghost,12,False,8233,7850,Sorcerer's Shoes,Abyssal Scepter,Morellonomicon,,Doran's Ring,Doran's Ring,68894,9661,Lane.mid_lane,Role.solo
+7,sandboxddotcom,Maokai,False,Side.red,1,2,3,2.0,182,Teleport,Flash,13,False,8124,7900,Doran's Shield,Health Potion,Rod of Ages,Spirit Visage,Mercury's Treads,Chain Vest,66896,23756,Lane.top_lane,Role.solo
+8,ADChaos,Twitch,False,Side.red,2,5,0,0.4,146,Flash,Heal,11,False,7689,7325,Runaan's Hurricane,Pickaxe,Doran's Blade,Berserker's Greaves,Cloak of Agility,B. F. Sword,0,57607,Lane.bot_lane,Role.carry
+9,ThirdPoint,Morgana,False,Side.red,1,10,5,0.6,10,Exhaust,Flash,9,False,6341,5825,Locket of the Iron Solari,Control Ward,Sightstone,Crystalline Bracer,Frostfang,Ionian Boots of Lucidity,10614,1859,Lane.bot_lane,Role.support

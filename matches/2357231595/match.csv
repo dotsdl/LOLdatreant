@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bac,Nunu,False,Side.blue,1,7,4,0.7142857142857143,111,Ghost,Smite,12,False,7563,7175,Enchantment: Cinderhulk,Mercury's Treads,Refillable Potion,Dead Man's Plate,Ruby Crystal,,29620,26176,Lane.jungle,Role.none
+1,Oh Ooo,Malphite,False,Side.blue,4,8,2,0.75,109,Teleport,Flash,12,False,7568,7325,Sunfire Cape,Frozen Heart,,Doran's Shield,Ninja Tabi,,38185,16700,Lane.top_lane,Role.solo
+2,Contractz,Yasuo,False,Side.blue,1,14,2,0.21428571428571427,121,Exhaust,Flash,11,True,7188,6225,Pickaxe,Phantom Dancer,Berserker's Greaves,Vampiric Scepter,Doran's Blade,,19364,52579,Lane.mid_lane,Role.solo
+3,5tunt,Nami,False,Side.blue,1,6,5,1.0,9,Exhaust,Flash,11,False,6869,6325,Eye of the Watchers,Total Biscuit of Rejuvenation,Redemption,Ionian Boots of Lucidity,Cloth Armor,Null-Magic Mantle,6346,6178,Lane.bot_lane,Role.support
+4,Jynthe,Jinx,False,Side.blue,4,7,2,0.8571428571428571,184,Flash,Heal,12,False,9485,9100,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Brawler's Gloves,Dagger,1703,92876,Lane.bot_lane,Role.carry
+5,Wo Xihuan Hanguo,Janna,True,Side.red,1,1,16,17.0,3,Flash,Exhaust,12,False,8003,5750,Talisman of Ascension,Ruby Sightstone,,Faerie Charm,,Boots of Mobility,5516,7180,Lane.bot_lane,Role.support
+6,Yuán G,Ezreal,True,Side.red,8,1,7,15.0,203,Heal,Flash,15,False,12970,10225,Blade of the Ruined King,Iceborn Gauntlet,,Muramana,Doran's Blade,Ionian Boots of Lucidity,14233,120577,Lane.bot_lane,Role.carry
+7,PIay Naizi,Jayce,True,Side.red,8,4,8,4.0,133,Teleport,Flash,14,False,10650,8975,Youmuu's Ghostblade,Doran's Blade,Control Ward,Warden's Mail,Mercury's Treads,The Black Cleaver,17180,71999,Lane.top_lane,Role.solo
+8,Kioshima S,Syndra,True,Side.red,12,4,8,5.0,184,Exhaust,Flash,15,False,12095,9425,Zhonya's Hourglass,Morellonomicon,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,119593,11332,Lane.mid_lane,Role.solo
+9,Neveeer Lucky,Hecarim,True,Side.red,13,1,13,26.0,129,Smite,Ghost,15,False,12451,12183,Enchantment: Cinderhulk,Refillable Potion,Titanic Hydra,Trinity Force,Ninja Tabi,Giant's Belt,16858,118202,Lane.jungle,Role.none

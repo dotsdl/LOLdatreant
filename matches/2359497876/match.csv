@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Semoponume,Olaf,True,Side.blue,8,7,10,2.5714285714285716,126,Smite,Exhaust,15,True,11851,11475,Enchantment: Warrior,Boots of Swiftness,Caulfield's Warhammer,Dead Man's Plate,Maw of Malmortius,,2824,116111,Lane.mid_lane,Role.support
+1,ileikdinosaurs,Diana,True,Side.blue,7,4,5,3.0,120,Flash,Exhaust,14,False,9395,8985,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Nashor's Tooth,Wooglet's Witchcap,Amplifying Tome,74435,14002,Lane.mid_lane,Role.carry
+2,Instinct 4 Life,Ezreal,True,Side.blue,12,2,6,9.0,150,Heal,Flash,15,False,11686,10300,Doran's Blade,Blade of the Ruined King,Muramana,Boots of Swiftness,Iceborn Gauntlet,,10955,101981,Lane.jungle,Role.none
+3,SubAverageAdc,Pantheon,False,Side.red,6,9,3,1.0,90,Exhaust,Flash,12,False,7517,7250,Mercury's Treads,The Black Cleaver,Dead Man's Plate,,,,4146,44361,Lane.mid_lane,Role.solo
+4,CatJumperBro,Brand,False,Side.red,4,8,5,1.125,139,Flash,Ignite,13,False,8332,7835,Sorcerer's Shoes,Wooglet's Witchcap,Refillable Potion,Needlessly Large Rod,Giant's Belt,Amplifying Tome,74849,8744,Lane.jungle,Role.none
+5,Lurutand,Shyvana,False,Side.red,3,10,5,0.8,110,Smite,Flash,13,False,8296,7170,Skirmisher's Sabre,Refillable Potion,Blade of the Ruined King,Berserker's Greaves,Chain Vest,Negatron Cloak,52286,41461,Lane.jungle,Role.none

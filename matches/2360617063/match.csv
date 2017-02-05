@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mishas Swamp,Lee Sin,False,Side.blue,7,5,2,1.8,152,Teleport,Flash,15,False,10042,9725,Mercury's Treads,The Black Cleaver,Frozen Mallet,Tiamat,Doran's Blade,Doran's Blade,19306,69896,Lane.top_lane,Role.solo
+1,Hanjaro,Zyra,False,Side.blue,5,5,4,1.8,40,Flash,Exhaust,12,False,8972,7860,Eye of the Watchers,Refillable Potion,Sorcerer's Shoes,Liandry's Torment,Amplifying Tome,Ruby Crystal,41266,5596,Lane.bot_lane,Role.support
+2,DatFriedChicken,Jarvan IV,False,Side.blue,4,10,3,0.7,96,Flash,Smite,13,False,9225,8575,Mercury's Treads,Hunter's Potion,The Black Cleaver,Ruby Crystal,Enchantment: Cinderhulk,Chain Vest,18839,70868,Lane.jungle,Role.none
+3,TheGrot,Ekko,False,Side.blue,3,8,3,0.75,159,Exhaust,Flash,13,True,9378,8675,Corrupting Potion,The Dark Seal,Lich Bane,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,82809,15670,Lane.mid_lane,Role.solo
+4,BigPickle11,Sivir,False,Side.blue,1,7,4,0.7142857142857143,220,Flash,Heal,13,False,10137,8950,,Pickaxe,Essence Reaver,Berserker's Greaves,Statikk Shiv,Doran's Blade,9449,110609,Lane.bot_lane,Role.carry
+5,only grab grills,Blitzcrank,True,Side.red,4,3,14,6.0,42,Ignite,Flash,14,False,9437,7475,Boots of Mobility,Eye of the Equinox,Locket of the Iron Solari,Giant's Belt,Chain Vest,,10471,9821,Lane.bot_lane,Role.support
+6,Buddylov3,Ezreal,True,Side.red,8,2,8,8.0,169,Heal,Flash,15,False,11993,11300,Doran's Blade,Blade of the Ruined King,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,Hexdrinker,14345,93149,Lane.bot_lane,Role.carry
+7,Sudzzi,Ryze,True,Side.red,10,3,14,8.0,213,Flash,Ghost,16,False,13838,11075,Seraph's Embrace,Refillable Potion,Needlessly Large Rod,Morellonomicon,Rod of Ages,Ionian Boots of Lucidity,156433,13484,Lane.mid_lane,Role.solo
+8,that808gamer,Darius,True,Side.red,6,5,5,2.2,199,Flash,Teleport,16,False,11782,10200,Corrupting Potion,The Black Cleaver,Dead Man's Plate,Boots of Swiftness,Guardian Angel,Ruby Crystal,228,115807,Lane.top_lane,Role.solo
+9,Kind Jungle,Rengar,True,Side.red,7,7,12,2.7142857142857144,142,Smite,Flash,15,False,12212,11325,Youmuu's Ghostblade,Tiamat,Refillable Potion,Ionian Boots of Lucidity,Duskblade of Draktharr,Enchantment: Warrior,9420,133393,Lane.jungle,Role.none

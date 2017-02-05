@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Finna Lit,Zilean,True,Side.blue,4,3,13,5.666666666666667,220,Ghost,Flash,16,False,12722,11760,Rabadon's Deathcap,Morellonomicon,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,Rod of Ages,156255,15049,Lane.jungle,Role.none
+1,Cuckvele,Fiora,True,Side.blue,14,1,4,18.0,215,Flash,Teleport,17,False,14805,14650,Mercurial Scimitar,Guardian Angel,Ninja Tabi,The Black Cleaver,,Titanic Hydra,1537,134338,Lane.top_lane,Role.solo
+2,C9 Meteos,Zac,True,Side.blue,10,1,12,22.0,204,Smite,Flash,18,False,14901,14075,Randuin's Omen,Redemption,Guardian Angel,Spirit Visage,Ninja Tabi,Enchantment: Cinderhulk,149945,33603,Lane.jungle,Role.none
+3,Xpecial,Leona,True,Side.blue,2,5,17,3.8,54,Ignite,Flash,15,False,10300,9700,Boots of Mobility,Locket of the Iron Solari,Face of the Mountain,Control Ward,Redemption,Ruby Sightstone,10395,11022,Lane.jungle,Role.none
+4,Leagué,Vayne,True,Side.blue,0,12,5,0.4166666666666667,212,Flash,Heal,14,False,11587,10755,Doran's Blade,Quicksilver Sash,Statikk Shiv,Infinity Edge,Pickaxe,Berserker's Greaves,43509,86284,Lane.bot_lane,Role.solo
+5,camtheham,Soraka,False,Side.red,3,7,10,1.8571428571428572,10,Exhaust,Flash,13,True,9464,8750,Eye of the Oasis,Redemption,Ardent Censer,Forbidden Idol,Null-Magic Mantle,Boots of Mobility,10884,5536,Lane.bot_lane,Role.support
+6,Fiku,Graves,False,Side.red,3,10,3,0.6,138,Flash,Smite,14,False,10628,11400,Edge of Night,Phantom Dancer,Ninja Tabi,Enchantment: Warrior,Pickaxe,,4516,161640,Lane.jungle,Role.none
+7,cinto mamochi,Ekko,False,Side.red,2,4,2,1.0,236,Ignite,Flash,15,False,10491,9675,Sorcerer's Shoes,Hextech Protobelt-01,Sheen,Doran's Ring,Aether Wisp,Abyssal Scepter,138318,17465,Lane.mid_lane,Role.solo
+8,ApoIlo Price,Kennen,False,Side.red,4,4,6,2.5,217,Flash,Teleport,16,False,10530,10375,Hextech Protobelt-01,Void Staff,Rylai's Crystal Scepter,Sorcerer's Shoes,,,89583,35572,Lane.top_lane,Role.solo
+9,impala tamer,Lucian,False,Side.red,10,5,3,2.6,231,Heal,Flash,14,False,12604,11850,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,B. F. Sword,Mortal Reminder,3030,153003,Lane.bot_lane,Role.carry

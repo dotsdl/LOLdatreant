@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ChuYung,Janna,False,Side.blue,1,3,12,4.333333333333333,9,Exhaust,Flash,13,False,7678,6585,Eye of the Watchers,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Amplifying Tome,Ardent Censer,4875,4691,Lane.bot_lane,Role.support
+1,vic ly,Ryze,False,Side.blue,6,4,3,2.25,161,Ghost,Flash,14,False,10033,10025,Morellonomicon,Seraph's Embrace,Sorcerer's Shoes,Rod of Ages,,,93984,7705,Lane.mid_lane,Role.solo
+2,LOS MECHANICOS,Gangplank,False,Side.blue,2,10,4,0.6,201,Teleport,Flash,14,False,10791,8683,Doran's Ring,Doran's Ring,Trinity Force,Maw of Malmortius,Boots of Speed,Cull,11600,135962,Lane.top_lane,Role.solo
+3,Chiwa,Twitch,False,Side.blue,3,10,7,1.0,167,Flash,Heal,13,False,9519,9275,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Recurve Bow,Long Sword,702,80773,Lane.bot_lane,Role.carry
+4,a Pokeball,Vi,False,Side.blue,7,9,4,1.2222222222222223,143,Flash,Smite,14,True,10419,9408,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Giant's Belt,Chain Vest,1998,129553,Lane.jungle,Role.none
+5,astral96,Jhin,True,Side.red,7,5,6,2.6,189,Flash,Heal,15,False,12537,10525,Doran's Blade,B. F. Sword,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Pickaxe,11132,138477,Lane.bot_lane,Role.carry
+6,Utatane Piko,Katarina,True,Side.red,4,4,6,2.5,165,Ignite,Flash,15,False,10719,10500,Sorcerer's Shoes,Abyssal Scepter,Rylai's Crystal Scepter,Zhonya's Hourglass,,,86441,9682,Lane.mid_lane,Role.solo
+7,always4u,Ahri,True,Side.red,7,4,7,3.5,197,Flash,Ignite,15,False,12556,12025,Hextech Protobelt-01,Rabadon's Deathcap,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Giant's Belt,86791,12557,Lane.top_lane,Role.solo
+8,vìper,Jax,True,Side.red,18,2,5,11.5,204,Flash,Smite,18,False,16340,14433,Enchantment: Bloodrazor,Randuin's Omen,Hextech Gunblade,Trinity Force,Mercury's Treads,Null-Magic Mantle,45628,159373,Lane.jungle,Role.none
+9,Pocket Size,Nami,True,Side.red,0,4,15,3.75,0,Flash,Exhaust,13,False,8562,7275,,Eye of the Watchers,The Dark Seal,Redemption,Aegis of the Legion,Boots of Mobility,7583,5042,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Butler Alpha,Vel'Koz,False,Side.blue,3,5,5,1.6,184,Flash,Ghost,14,False,9637,9495,Fiendish Codex,Morellonomicon,Negatron Cloak,Rylai's Crystal Scepter,Sorcerer's Shoes,,97836,10453,Lane.mid_lane,Role.solo
+1,The Tank Man,Rammus,False,Side.blue,2,6,8,1.6666666666666667,84,Flash,Smite,13,False,8273,7800,Enchantment: Cinderhulk,Ninja Tabi,Dead Man's Plate,Crystalline Bracer,Cloth Armor,,35149,32262,Lane.jungle,Role.none
+2,TSM MeNoHaxor,Karma,False,Side.blue,0,7,8,1.1428571428571428,15,Exhaust,Flash,11,False,7488,7075,Eye of the Watchers,Refillable Potion,Redemption,Boots of Mobility,Aegis of the Legion,Control Ward,8679,2913,Lane.jungle,Role.none
+3,Jeehun,Ezreal,False,Side.blue,4,7,4,1.1428571428571428,214,Flash,Heal,14,True,11217,11375,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Doran's Blade,Ionian Boots of Lucidity,Pickaxe,15341,102284,Lane.bot_lane,Role.solo
+4,CloudNguyén,Rumble,False,Side.blue,9,7,1,1.4285714285714286,204,Teleport,Flash,15,False,11639,10760,Hextech Protobelt-01,Amplifying Tome,Void Staff,Doran's Shield,Mercury's Treads,Liandry's Torment,115137,12938,Lane.top_lane,Role.solo
+5,Carrots2,Ekko,True,Side.red,10,7,5,2.142857142857143,227,Flash,Teleport,16,False,13289,10850,Void Staff,Hextech Protobelt-01,Mercury's Treads,The Dark Seal,Doran's Ring,Lich Bane,136473,24950,Lane.top_lane,Role.solo
+6,Pekin Woof,Caitlyn,True,Side.red,8,3,7,5.0,243,Flash,Heal,15,False,13717,11150,B. F. Sword,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,Last Whisper,1121,176666,Lane.bot_lane,Role.carry
+7,Rhux,Orianna,True,Side.red,6,3,14,6.666666666666667,250,Flash,Ghost,16,False,13546,11300,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Void Staff,,165053,18830,Lane.mid_lane,Role.solo
+8,Darvec,Hecarim,True,Side.red,7,2,14,10.5,131,Smite,Ghost,15,False,12085,10933,Enchantment: Cinderhulk,Giant's Belt,Trinity Force,Spectre's Cowl,Ionian Boots of Lucidity,Warden's Mail,14671,122513,Lane.jungle,Role.none
+9,moon o,Thresh,True,Side.red,1,3,19,6.666666666666667,21,Ignite,Flash,12,False,8488,7785,Locket of the Iron Solari,,Redemption,Ruby Sightstone,Boots of Mobility,,6952,3653,Lane.bot_lane,Role.support

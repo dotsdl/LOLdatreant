@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zv Pickle,Lee Sin,True,Side.blue,7,2,7,7.0,95,Flash,Smite,12,False,8813,5650,Boots of Speed,Enchantment: Warrior,Tiamat,Hexdrinker,,,14414,74218,Lane.jungle,Role.none
+1,skmasamune,Jinx,True,Side.blue,5,3,5,3.3333333333333335,140,Heal,Flash,10,False,8819,6575,Doran's Blade,Pickaxe,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,,821,90807,Lane.bot_lane,Role.carry
+2,im dao mei Ge,Janna,True,Side.blue,3,1,10,13.0,3,Flash,Exhaust,10,False,6929,5600,Ruby Sightstone,Redemption,Control Ward,Nomad's Medallion,Cloth Armor,Boots of Speed,4054,4231,Lane.bot_lane,Role.support
+3,Moon Diana,Diana,True,Side.blue,3,0,1,4.0,137,Flash,Teleport,13,False,8143,7075,Abyssal Scepter,Rod of Ages,Total Biscuit of Rejuvenation,Control Ward,Doran's Ring,Doran's Ring,59009,13134,Lane.top_lane,Role.solo
+4,PerfectKyuubi,Yasuo,True,Side.blue,4,1,4,8.0,153,Flash,Ignite,12,False,8869,6925,Phantom Dancer,Maw of Malmortius,,,Doran's Blade,,20266,71433,Lane.mid_lane,Role.solo
+5,3ve,Evelynn,False,Side.red,2,3,3,1.6666666666666667,57,Smite,Flash,10,False,5620,4925,Kindlegem,Refillable Potion,,Hextech Revolver,Enchantment: Runic Echoes,Boots of Speed,36736,19855,Lane.jungle,Role.none
+6,CookiesOP,Teemo,False,Side.red,0,4,0,0.0,134,Flash,Teleport,11,False,5737,5200,Ruby Crystal,Cull,Corrupting Potion,Giant's Belt,Long Sword,Wit's End,32346,23501,Lane.top_lane,Role.solo
+7,Smurf Prodigy 97,Thresh,False,Side.red,1,5,2,0.6,11,Flash,Exhaust,7,False,4133,3075,Sightstone,Total Biscuit of Rejuvenation,Targon's Brace,Control Ward,,Boots of Mobility,4319,2730,Lane.bot_lane,Role.support
+8,Its MitchyBoots,Vayne,False,Side.red,2,3,1,1.0,130,Flash,Heal,9,False,6565,6000,Doran's Blade,B. F. Sword,Berserker's Greaves,,Statikk Shiv,,1917,37210,Lane.bot_lane,Role.carry
+9,Munchiezz,Cassiopeia,False,Side.red,2,7,0,0.2857142857142857,121,Exhaust,Flash,10,True,5894,5710,Total Biscuit of Rejuvenation,Zhonya's Hourglass,Tear of the Goddess,Doran's Ring,Giant's Belt,Amplifying Tome,40390,7097,Lane.mid_lane,Role.solo

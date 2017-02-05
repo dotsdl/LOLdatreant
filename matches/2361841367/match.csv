@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,godrjsdnd,Orianna,False,Side.blue,2,10,11,1.3,202,Ghost,Flash,15,False,11266,10800,Doran's Ring,Morellonomicon,Rabadon's Deathcap,Ionian Boots of Lucidity,Aether Wisp,Needlessly Large Rod,123528,14834,Lane.mid_lane,Role.solo
+1,Winter is back,Nami,False,Side.blue,1,6,16,2.8333333333333335,27,Flash,Exhaust,13,False,9548,9100,Fiendish Codex,,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Mikael's Crucible,5881,5706,Lane.bot_lane,Role.support
+2,Rokí,Riven,False,Side.blue,6,7,2,1.1428571428571428,226,Flash,Teleport,16,False,12683,12300,The Black Cleaver,Chain Vest,Ravenous Hydra,Death's Dance,Mercury's Treads,,484,140484,Lane.top_lane,Role.solo
+3,Pekin Woof,Lee Sin,False,Side.blue,9,8,7,2.0,134,Flash,Smite,16,False,11820,11200,Edge of Night,Youmuu's Ghostblade,Enchantment: Warrior,Phage,Mercury's Treads,,34995,92435,Lane.jungle,Role.none
+4,Rhux,Ezreal,False,Side.blue,3,9,8,1.2222222222222223,196,Flash,Heal,15,True,11900,11458,Blade of the Ruined King,Doran's Blade,Control Ward,Trinity Force,Ionian Boots of Lucidity,Muramana,22556,110489,Lane.bot_lane,Role.carry
+5,TheOddOrange,Kha'Zix,True,Side.red,17,5,7,4.8,189,Flash,Smite,17,False,17236,16105,Tiamat,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,Guardian Angel,Duskblade of Draktharr,4830,210752,Lane.jungle,Role.none
+6,Grigne,Cassiopeia,True,Side.red,6,6,12,3.0,210,Flash,Ghost,16,False,13559,11275,Doran's Ring,Doran's Ring,Seraph's Embrace,Blasting Wand,Morellonomicon,Rylai's Crystal Scepter,138755,10214,Lane.mid_lane,Role.solo
+7,Erry,Caitlyn,True,Side.red,10,3,14,8.0,277,Heal,Flash,17,False,16260,13500,Zeal,Runaan's Hurricane,Vampiric Scepter,Infinity Edge,Rapid Firecannon,Berserker's Greaves,4092,253744,Lane.bot_lane,Role.carry
+8,Teesum,Thresh,True,Side.red,2,4,22,6.0,29,Ignite,Flash,15,False,10451,8525,Redemption,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,Targon's Brace,,10937,5153,Lane.bot_lane,Role.support
+9,Xpecial,Nautilus,True,Side.red,5,4,8,3.25,223,Teleport,Flash,17,False,13390,11300,Corrupting Potion,Sunfire Cape,Ninja Tabi,Warmog's Armor,Spirit Visage,Glacial Shroud,101279,35556,Lane.top_lane,Role.solo

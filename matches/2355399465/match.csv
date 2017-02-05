@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PhD Bunny Riven,Riven,True,Side.blue,2,2,4,3.0,110,Flash,Teleport,12,False,7312,5950,Refillable Potion,The Black Cleaver,Caulfield's Warhammer,Ninja Tabi,Long Sword,,205,59080,Lane.top_lane,Role.solo
+1,MyTeamSoGOD,Fizz,True,Side.blue,9,2,1,5.0,131,Flash,Ignite,12,False,8852,7975,Lich Bane,Morellonomicon,Corrupting Potion,Boots of Mobility,,,51444,14171,Lane.mid_lane,Role.solo
+2,Lesu,Graves,True,Side.blue,4,6,5,1.5,132,Smite,Flash,12,False,8558,8175,Enchantment: Warrior,Refillable Potion,Long Sword,Berserker's Greaves,Serrated Dirk,Phantom Dancer,4021,101350,Lane.jungle,Role.none
+3,renovations,Lucian,True,Side.blue,9,4,7,4.0,156,Flash,Heal,11,False,9941,7925,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,Doran's Blade,Berserker's Greaves,,2254,79081,Lane.bot_lane,Role.carry
+4,DaylightxSun,Taric,True,Side.blue,3,2,13,8.0,43,Exhaust,Flash,11,False,7271,6500,Face of the Mountain,Warden's Mail,Ruby Sightstone,Crystalline Bracer,Boots of Speed,Cloth Armor,6164,7128,Lane.bot_lane,Role.support
+5,Cat Ears,Rengar,False,Side.red,0,8,4,0.5,34,Flash,Exhaust,9,False,4687,4175,Ionian Boots of Lucidity,Long Sword,Eye of the Equinox,Cloth Armor,,Control Ward,1707,11125,Lane.bot_lane,Role.support
+6,Kituld,Sivir,False,Side.red,5,8,1,0.75,141,Flash,Heal,10,False,7358,7175,Cloak of Agility,Pickaxe,B. F. Sword,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,0,78401,Lane.bot_lane,Role.carry
+7,Lecheris,Jayce,False,Side.red,3,6,4,1.1666666666666667,116,Teleport,Flash,11,False,6924,6725,Ionian Boots of Lucidity,Phage,Caulfield's Warhammer,,,Youmuu's Ghostblade,7034,43586,Lane.top_lane,Role.solo
+8,kiyoshi1,Lee Sin,False,Side.red,4,3,2,2.0,63,Flash,Smite,11,True,6538,6125,Enchantment: Warrior,Refillable Potion,Doran's Blade,Mercury's Treads,Giant's Belt,Chain Vest,11812,52387,Lane.jungle,Role.none
+9,am sol,LeBlanc,False,Side.red,3,3,4,2.3333333333333335,137,Ignite,Flash,12,False,7423,6975,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Doran's Ring,Ruby Crystal,64512,9644,Lane.mid_lane,Role.solo

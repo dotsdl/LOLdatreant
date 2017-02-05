@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Boguski,Nasus,False,Side.blue,2,10,5,0.7,140,Teleport,Flash,12,False,7841,7075,Kindlegem,Zz'Rot Portal,Doran's Ring,Ninja Tabi,Phage,Doran's Ring,56091,21515,Lane.top_lane,Role.solo
+1,Kromatic,Aurelion Sol,False,Side.blue,2,5,5,1.4,123,Flash,Ghost,12,False,7791,7345,Hextech GLP-800,Boots of Swiftness,Negatron Cloak,Corrupting Potion,Needlessly Large Rod,,56108,10663,Lane.mid_lane,Role.solo
+2,chillfish,Annie,False,Side.blue,1,9,7,0.8888888888888888,31,Exhaust,Flash,11,False,7074,6325,Frost Queen's Claim,Ruby Sightstone,Sorcerer's Shoes,Catalyst of Aeons,,,15089,2981,Lane.bot_lane,Role.support
+3,Hook Star Thresh,Elise,False,Side.blue,6,6,5,1.8333333333333333,136,Flash,Smite,14,False,9915,9450,Boots of Mobility,Rylai's Crystal Scepter,Hextech Protobelt-01,Enchantment: Runic Echoes,,,80241,33829,Lane.jungle,Role.none
+4,Xaxifer,Draven,False,Side.blue,7,5,2,1.8,147,Flash,Heal,12,False,10995,10900,Doran's Blade,Vampiric Scepter,B. F. Sword,Phantom Dancer,Infinity Edge,Berserker's Greaves,0,91035,Lane.bot_lane,Role.carry
+5,Yo Dead,Vayne,True,Side.red,7,5,2,1.8,153,Flash,Heal,12,True,10557,9950,Blade of the Ruined King,Quicksilver Sash,Berserker's Greaves,Guinsoo's Rageblade,Doran's Blade,,1137,71438,Lane.bot_lane,Role.carry
+6,Falconeyes,Gnar,True,Side.red,4,8,12,2.0,122,Teleport,Flash,14,False,9998,9300,Mercury's Treads,Frozen Mallet,,The Black Cleaver,Cloth Armor,Doran's Blade,6429,78433,Lane.top_lane,Role.solo
+7,A Bad Jungler,Graves,True,Side.red,6,1,5,11.0,166,Flash,Smite,15,False,11735,8850,Phantom Dancer,Quicksilver Sash,Control Ward,Ninja Tabi,Vampiric Scepter,Enchantment: Warrior,4837,149786,Lane.jungle,Role.none
+8,am tham ben em,LeBlanc,True,Side.red,14,1,7,21.0,218,Flash,Ignite,16,False,14571,9300,Sorcerer's Shoes,The Dark Seal,Needlessly Large Rod,Morellonomicon,Doran's Ring,Abyssal Scepter,126560,13983,Lane.mid_lane,Role.solo
+9,Meszi,Zyra,True,Side.red,3,3,19,7.333333333333333,6,Flash,Ignite,12,False,9588,6635,Eye of the Watchers,Giant's Belt,Sorcerer's Shoes,,Needlessly Large Rod,Amplifying Tome,23896,7050,Lane.bot_lane,Role.support

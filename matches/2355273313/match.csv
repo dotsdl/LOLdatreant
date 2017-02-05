@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,McCashDollar,Shaco,True,Side.blue,2,1,2,4.0,100,Teleport,Ignite,12,False,6797,5650,Corrupting Potion,Hextech Protobelt-01,Boots of Swiftness,Aether Wisp,Sapphire Crystal,Doran's Ring,34657,17163,Lane.top_lane,Role.solo
+1,TaeYeonT,Caitlyn,True,Side.blue,2,3,5,2.3333333333333335,145,Heal,Flash,11,False,7776,6875,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,Pickaxe,Brawler's Gloves,196,86149,Lane.bot_lane,Role.carry
+2,1234569,Kha'Zix,True,Side.blue,11,1,7,18.0,146,Flash,Smite,14,True,11811,11175,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Duskblade of Draktharr,Control Ward,2879,130954,Lane.jungle,Role.none
+3,bvcx222,Bard,True,Side.blue,2,1,10,12.0,11,Flash,Ignite,10,False,6166,5875,Ruby Sightstone,Locket of the Iron Solari,Boots of Mobility,,Spellthief's Edge,,9653,3090,Lane.bot_lane,Role.support
+4,ZambonGG,LeBlanc,True,Side.blue,10,0,4,14.0,132,Flash,Ignite,12,False,9591,8400,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Blasting Wand,71856,8826,Lane.mid_lane,Role.solo
+5,MaNDashwell,Gangplank,False,Side.red,1,4,1,0.5,102,Flash,Teleport,11,False,5884,5683,Trinity Force,Caulfield's Warhammer,,Boots of Speed,,,7186,65299,Lane.top_lane,Role.solo
+6,Lesu,Evelynn,False,Side.red,2,5,1,0.6,135,Smite,Flash,12,False,6877,6075,Enchantment: Runic Echoes,Refillable Potion,Sheen,Sorcerer's Shoes,Aether Wisp,,68099,28253,Lane.jungle,Role.none
+7,Cat Ears,Alistar,False,Side.red,1,5,2,0.6,19,Flash,Exhaust,8,False,4452,4250,Eye of the Equinox,Crystalline Bracer,,Boots of Mobility,,Control Ward,3537,3256,Lane.bot_lane,Role.support
+8,lc0nic,Jhin,False,Side.red,1,5,2,0.6,119,Flash,Heal,9,False,5655,5450,Doran's Blade,Essence Reaver,Boots of Swiftness,Long Sword,,,4579,51081,Lane.bot_lane,Role.carry
+9,Unholy Wish,Lux,False,Side.red,1,8,0,0.125,102,Flash,Teleport,9,False,5328,4000,Doran's Ring,Luden's Echo,Boots of Speed,,,,38591,9694,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mp3,Pantheon,True,Side.blue,14,6,8,3.6666666666666665,123,Ignite,Flash,14,False,12254,11685,Youmuu's Ghostblade,,Corrupting Potion,Ninja Tabi,Guardian Angel,The Black Cleaver,8364,90797,Lane.mid_lane,Role.solo
+1,Lunae Lux,Amumu,True,Side.blue,4,1,10,14.0,126,Smite,Flash,15,False,10918,10025,Enchantment: Runic Echoes,Refillable Potion,Rylai's Crystal Scepter,Sorcerer's Shoes,Spirit Visage,,87680,27850,Lane.jungle,Role.none
+2,MrFluffy631,Irelia,True,Side.blue,14,5,5,3.8,163,Flash,Teleport,15,False,13068,12133,Ninja Tabi,Randuin's Omen,Trinity Force,Frozen Mallet,Chain Vest,,3892,96654,Lane.top_lane,Role.solo
+3,real kms hours,Jhin,True,Side.blue,3,5,11,2.8,179,Flash,Heal,13,False,11162,9750,Doran's Blade,Total Biscuit of Rejuvenation,Infinity Edge,Vampiric Scepter,Rapid Firecannon,Boots of Swiftness,4512,126946,Lane.bot_lane,Role.carry
+4,rins,Janna,True,Side.blue,3,2,14,8.5,12,Exhaust,Flash,12,False,9427,7950,Frost Queen's Claim,Redemption,Sightstone,Boots of Mobility,Mejai's Soulstealer,,14020,7256,Lane.bot_lane,Role.support
+5,Vivie,Nami,False,Side.red,1,5,9,2.0,10,Flash,Exhaust,11,False,6716,6200,Sightstone,Frostfang,Redemption,Control Ward,Boots of Mobility,Forbidden Idol,9438,3186,Lane.bot_lane,Role.support
+6,Based Envy,Zed,False,Side.red,5,9,6,1.2222222222222223,163,Ignite,Flash,14,False,9716,9325,Refillable Potion,Blade of the Ruined King,The Black Cleaver,Mercury's Treads,Long Sword,Pickaxe,6475,85990,Lane.mid_lane,Role.solo
+7,DueyDaddy,Ezreal,False,Side.red,4,9,4,0.8888888888888888,151,Heal,Flash,12,True,8880,8300,Control Ward,Bilgewater Cutlass,Iceborn Gauntlet,Doran's Blade,Ionian Boots of Lucidity,Muramana,21783,70258,Lane.bot_lane,Role.carry
+8,DeHAlf101,Zac,False,Side.red,4,7,4,1.1428571428571428,89,Smite,Flash,12,False,8632,8350,Enchantment: Cinderhulk,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Seeker's Armguard,,63313,11291,Lane.jungle,Role.none
+9,Atif,Riven,False,Side.red,5,8,1,0.75,154,Flash,Teleport,14,False,9012,8725,The Black Cleaver,Ravenous Hydra,Ruby Crystal,Ionian Boots of Lucidity,Cloth Armor,Cloth Armor,180,86570,Lane.top_lane,Role.solo

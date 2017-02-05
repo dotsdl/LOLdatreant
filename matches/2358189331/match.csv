@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Uzumaki,Akali,False,Side.blue,9,9,1,1.1111111111111112,188,Teleport,Flash,15,False,11288,11125,Hextech Gunblade,Zhonya's Hourglass,The Dark Seal,Void Staff,Sorcerer's Shoes,,39095,77050,Lane.top_lane,Role.solo
+1,Kurumz,Fizz,False,Side.blue,5,6,5,1.6666666666666667,193,Ignite,Flash,15,False,10608,10675,Abyssal Scepter,Ionian Boots of Lucidity,Zhonya's Hourglass,The Dark Seal,Lich Bane,,81334,23530,Lane.mid_lane,Role.solo
+2,Danman96,Ezreal,False,Side.blue,3,6,7,1.6666666666666667,204,Flash,Heal,14,False,10614,10350,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Blade of the Ruined King,,18115,92709,Lane.bot_lane,Role.carry
+3,Pornstar Hecarim,Janna,False,Side.blue,0,4,8,2.0,6,Exhaust,Flash,12,False,7135,7050,,Talisman of Ascension,Sightstone,Redemption,Ninja Tabi,,3742,3255,Lane.bot_lane,Role.support
+4,retarded virgin,Rengar,False,Side.blue,2,5,5,1.4,126,Flash,Smite,14,False,9270,8975,Enchantment: Warrior,Giant's Belt,Ninja Tabi,The Black Cleaver,,Warden's Mail,15885,102017,Lane.jungle,Role.none
+5,EnVy Nien,Cassiopeia,True,Side.red,8,5,4,2.4,223,Flash,Ghost,15,False,12223,9645,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Tear of the Goddess,Negatron Cloak,Needlessly Large Rod,109940,8276,Lane.mid_lane,Role.solo
+6,PhD Wumbologist,Vayne,True,Side.red,2,2,10,6.0,190,Flash,Heal,13,False,10699,9425,Refillable Potion,Zeal,Infinity Edge,Phantom Dancer,Berserker's Greaves,,0,78691,Lane.bot_lane,Role.carry
+7,KarasMai,Graves,True,Side.red,12,3,10,7.333333333333333,169,Flash,Smite,16,False,14484,12775,Enchantment: Warrior,Maw of Malmortius,Phantom Dancer,Mercury's Treads,The Black Cleaver,,4859,185926,Lane.jungle,Role.none
+8,Pink Ward,Shaco,True,Side.red,7,8,8,1.875,132,Teleport,Ignite,14,True,10797,10200,Needlessly Large Rod,Lich Bane,Hextech Protobelt-01,The Dark Seal,Ionian Boots of Lucidity,Aether Wisp,67055,22338,Lane.top_lane,Role.solo
+9,Part The Sea,Gangplank,True,Side.red,1,1,14,15.0,77,Flash,Exhaust,13,False,9481,7825,Face of the Mountain,Ruby Sightstone,Redemption,Sheen,Boots of Speed,Cloth Armor,4841,61654,Lane.bot_lane,Role.support

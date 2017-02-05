@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Indivisible,Nami,True,Side.blue,3,2,20,11.5,22,Flash,Exhaust,12,False,10125,9450,Locket of the Iron Solari,Redemption,Control Ward,Eye of the Watchers,Chalice of Harmony,Boots of Mobility,8373,7361,Lane.bot_lane,Role.support
+1,Saskioo,Elise,True,Side.blue,8,3,9,5.666666666666667,144,Smite,Flash,15,True,12635,10700,Enchantment: Runic Echoes,Null-Magic Mantle,Randuin's Omen,Rylai's Crystal Scepter,Boots of Mobility,Ruby Crystal,112654,39322,Lane.jungle,Role.none
+2,mandatorycloud,Cassiopeia,True,Side.blue,6,3,9,5.0,201,Flash,Teleport,15,False,12215,10225,Doran's Ring,Rylai's Crystal Scepter,Tear of the Goddess,Morellonomicon,Void Staff,,110125,11710,Lane.top_lane,Role.solo
+3,SKY Fear,Jhin,True,Side.blue,8,3,10,6.0,128,Flash,Heal,13,False,11233,8700,Essence Reaver,,Boots of Swiftness,,Rapid Firecannon,Doran's Blade,4033,94243,Lane.bot_lane,Role.carry
+4,Abou222,Jayce,True,Side.blue,10,7,10,2.857142857142857,153,Exhaust,Flash,14,False,12457,9775,The Black Cleaver,Caulfield's Warhammer,The Bloodthirster,Mercury's Treads,Long Sword,,16343,90541,Lane.mid_lane,Role.solo
+5,Cris,Poppy,False,Side.red,3,4,4,1.75,187,Flash,Teleport,14,False,9658,8725,Corrupting Potion,Cloth Armor,Sheen,Sunfire Cape,Spirit Visage,Mercury's Treads,23479,82328,Lane.top_lane,Role.solo
+6,Knubzyy,Caitlyn,False,Side.red,2,8,4,0.75,115,Flash,Heal,11,False,8290,7450,Doran's Blade,Infinity Edge,Runaan's Hurricane,Boots of Speed,Dagger,,550,75331,Lane.bot_lane,Role.carry
+7,zlsna,Thresh,False,Side.red,4,9,8,1.3333333333333333,28,Flash,Ignite,11,False,7217,6700,Face of the Mountain,Refillable Potion,Ruby Sightstone,Aegis of the Legion,Null-Magic Mantle,Boots of Mobility,12060,4460,Lane.bot_lane,Role.support
+8,S Diana 2,Diana,False,Side.red,7,7,4,1.5714285714285714,146,Smite,Flash,13,False,10403,10010,Enchantment: Runic Echoes,Zhonya's Hourglass,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,,100355,17200,Lane.mid_lane,Role.duo
+9,Témpest,Yasuo,False,Side.red,2,7,7,1.2857142857142858,156,Flash,Exhaust,12,False,8762,7350,B. F. Sword,Phantom Dancer,Doran's Blade,Mercury's Treads,Cloak of Agility,Doran's Blade,20125,70283,Lane.mid_lane,Role.duo

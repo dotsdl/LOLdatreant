@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Libzz,LeBlanc,False,Side.blue,9,5,9,3.6,117,Flash,Ignite,14,False,10590,10100,Doran's Ring,Zhonya's Hourglass,Abyssal Scepter,Rod of Ages,Sorcerer's Shoes,,55912,11539,Lane.mid_lane,Role.solo
+1,2PM Looks,Olaf,False,Side.blue,4,9,3,0.7777777777777778,155,Flash,Teleport,14,False,10244,10200,The Black Cleaver,Corrupting Potion,Ionian Boots of Lucidity,Dead Man's Plate,Spirit Visage,,1289,78479,Lane.top_lane,Role.solo
+2,YahooDotCom,Sona,False,Side.blue,8,10,11,1.9,44,Flash,Ignite,12,False,10416,10225,Frost Queen's Claim,Sightstone,Boots of Swiftness,Lich Bane,Aether Wisp,Needlessly Large Rod,31611,9948,Lane.bot_lane,Role.support
+3,Seulbee,Ashe,False,Side.blue,3,12,12,1.25,179,Flash,Heal,14,False,10907,10575,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,Pickaxe,Doran's Blade,B. F. Sword,2726,97652,Lane.bot_lane,Role.carry
+4,Cést la vie,Lee Sin,False,Side.blue,8,12,12,1.6666666666666667,121,Flash,Smite,14,False,11244,10250,Dead Man's Plate,Tiamat,Enchantment: Warrior,Boots of Mobility,Hexdrinker,Aegis of the Legion,16517,94968,Lane.jungle,Role.none
+5,Shotguns,Shaco,True,Side.red,8,5,13,4.2,191,Ignite,Smite,16,False,14705,13725,Titanic Hydra,Mercurial Scimitar,,Enchantment: Warrior,Statikk Shiv,Mercury's Treads,51584,150807,Lane.jungle,Role.none
+6,Huhi Lite,Karma,True,Side.red,3,9,26,3.2222222222222223,14,Exhaust,Flash,14,False,10136,7955,Redemption,Sightstone,Locket of the Iron Solari,Forbidden Idol,Ionian Boots of Lucidity,Frostfang,13486,5965,Lane.bot_lane,Role.support
+7,Acelolz,Ryze,True,Side.red,11,6,13,4.0,203,Ghost,Flash,16,False,14240,12325,Rod of Ages,Refillable Potion,Seraph's Embrace,Ionian Boots of Lucidity,Abyssal Scepter,Void Staff,163813,8588,Lane.mid_lane,Role.solo
+8,humans can fly,Irelia,True,Side.red,19,6,3,3.6666666666666665,216,Flash,Teleport,17,False,15840,15758,Doran's Blade,Trinity Force,Mercury's Treads,Spirit Visage,Blade of the Ruined King,The Bloodthirster,2431,118792,Lane.top_lane,Role.solo
+9,Gordon,Jhin,True,Side.red,7,6,21,4.666666666666667,138,Flash,Heal,14,True,12940,10525,Doran's Blade,Youmuu's Ghostblade,Infinity Edge,Berserker's Greaves,Cull,Zeal,10449,98190,Lane.bot_lane,Role.carry

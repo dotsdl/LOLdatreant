@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anirax,Ryze,False,Side.blue,9,5,7,3.2,218,Flash,Ghost,16,False,13591,13375,Seraph's Embrace,Void Staff,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,Fiendish Codex,157567,16119,Lane.mid_lane,Role.solo
+1,JoopsaKid,Riven,False,Side.blue,12,7,2,2.0,255,Flash,Teleport,18,False,15205,14350,The Black Cleaver,Ravenous Hydra,Ionian Boots of Lucidity,Sterak's Gage,The Bloodthirster,Cloth Armor,0,177735,Lane.top_lane,Role.solo
+2,Liquid Srkenji,Lee Sin,False,Side.blue,9,10,12,2.1,127,Flash,Smite,16,False,12882,13600,Randuin's Omen,Thornmail,Mercury's Treads,Cloth Armor,Dead Man's Plate,Enchantment: Warrior,22239,89215,Lane.jungle,Role.none
+3,Galdrick,Nautilus,False,Side.blue,1,8,11,1.5,53,Flash,Ignite,13,False,9554,7975,Sightstone,Face of the Mountain,Control Ward,Knight's Vow,Boots of Mobility,Glacial Shroud,21693,8507,Lane.bot_lane,Role.support
+4,IQ is 201 ,Caitlyn,False,Side.blue,3,12,12,1.25,201,Flash,Heal,14,False,12421,11850,Runaan's Hurricane,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Vampiric Scepter,1570,129293,Lane.bot_lane,Role.carry
+5,JUAN TU TREE,Vayne,True,Side.red,13,5,10,4.6,131,Heal,Flash,15,False,14275,13100,B. F. Sword,Blade of the Ruined King,Statikk Shiv,Doran's Blade,Berserker's Greaves,Guinsoo's Rageblade,3414,104461,Lane.bot_lane,Role.carry
+6,My Kat Evolved,Yasuo,True,Side.red,15,6,9,4.0,264,Ignite,Flash,18,True,17417,17575,Frozen Mallet,Phantom Dancer,The Bloodthirster,Ninja Tabi,Guardian Angel,Infinity Edge,33773,196991,Lane.mid_lane,Role.solo
+7,Patoy,Zyra,True,Side.red,4,4,24,7.0,47,Exhaust,Flash,16,False,13556,11500,Rylai's Crystal Scepter,Liandry's Torment,Needlessly Large Rod,,Eye of the Watchers,Ionian Boots of Lucidity,65646,9128,Lane.bot_lane,Role.support
+8,Dreadknight Poro,Nunu,True,Side.red,3,8,15,2.25,95,Smite,Flash,15,False,12416,11275,Thornmail,Enchantment: Cinderhulk,Glacial Shroud,Boots of Mobility,Dead Man's Plate,Spectre's Cowl,36748,31150,Lane.jungle,Role.none
+9,Outclass,Jayce,True,Side.red,7,11,4,1.0,238,Teleport,Flash,16,False,14297,13275,Pickaxe,The Black Cleaver,Duskblade of Draktharr,Ionian Boots of Lucidity,The Bloodthirster,Chain Vest,28365,135320,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Stumpey,Caitlyn,True,Side.blue,10,2,7,8.5,287,Flash,Heal,17,False,17210,14950,Lord Dominik's Regards,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Vampiric Scepter,5048,250359,Lane.bot_lane,Role.carry
+1,out skizzled,Riven,True,Side.blue,10,5,2,2.4,255,Flash,Ignite,17,True,14888,14200,The Black Cleaver,Death's Dance,Ninja Tabi,Lord Dominik's Regards,,Ravenous Hydra,0,182361,Lane.mid_lane,Role.solo
+2,Professor Melyn,Zyra,True,Side.blue,0,4,11,2.75,30,Flash,Exhaust,13,False,9818,8285,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,Control Ward,Eye of the Watchers,Amplifying Tome,40608,7989,Lane.bot_lane,Role.support
+3,The Aviator,Zac,True,Side.blue,10,2,8,9.0,130,Flash,Smite,16,False,13439,11000,Enchantment: Cinderhulk,Ninja Tabi,Randuin's Omen,Guardian Angel,Kindlegem,Chain Vest,99233,22885,Lane.jungle,Role.none
+4,7120327,Jarvan IV,True,Side.blue,1,7,14,2.142857142857143,197,Flash,Teleport,16,False,12054,10775,Null-Magic Mantle,Sunfire Cape,Warmog's Armor,Iceborn Gauntlet,Ninja Tabi,,34606,79783,Lane.top_lane,Role.solo
+5,Bwas,Hecarim,False,Side.red,2,4,11,3.25,178,Ghost,Smite,15,False,11299,11133,Enchantment: Cinderhulk,Hunter's Potion,Dead Man's Plate,Mercury's Treads,Trinity Force,Cloth Armor,20452,128058,Lane.jungle,Role.none
+6,Ikzencriel,Jayce,False,Side.red,7,8,5,1.5,222,Teleport,Flash,16,False,12338,12200,Doran's Blade,The Black Cleaver,Lord Dominik's Regards,Ninja Tabi,The Bloodthirster,Chain Vest,19279,114532,Lane.top_lane,Role.solo
+7,xFSN Saber,Jhin,False,Side.red,7,8,2,1.125,209,Heal,Flash,14,False,11374,11250,Doran's Blade,Essence Reaver,Cloak of Agility,Rapid Firecannon,Ionian Boots of Lucidity,Lord Dominik's Regards,11891,114319,Lane.bot_lane,Role.carry
+8,Repfix,Vladimir,False,Side.red,2,7,7,1.2857142857142858,235,Ghost,Flash,15,False,11323,10915,Blasting Wand,Hextech Protobelt-01,Zhonya's Hourglass,Spirit Visage,Amplifying Tome,Ionian Boots of Lucidity,116714,13135,Lane.mid_lane,Role.solo
+9,Pond,Bard,False,Side.red,2,4,10,3.0,11,Ignite,Flash,13,False,8498,7450,Ruby Sightstone,Redemption,Warden's Mail,Spellthief's Edge,Boots of Mobility,Glacial Shroud,10972,2787,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zlsna,Thresh,True,Side.blue,2,6,14,2.6666666666666665,40,Flash,Ignite,13,False,9442,8975,Face of the Mountain,Kindlegem,Ruby Sightstone,Redemption,Giant's Belt,Boots of Mobility,15879,7228,Lane.bot_lane,Role.support
+1,Rokí,Riven,True,Side.blue,3,7,9,1.7142857142857142,232,Flash,Teleport,17,False,13226,12630,Maw of Malmortius,,Ravenous Hydra,Long Sword,Mercury's Treads,The Black Cleaver,0,147974,Lane.top_lane,Role.solo
+2,Hyorimaru,Anivia,True,Side.blue,10,1,9,19.0,238,Flash,Ignite,17,True,15011,14125,Blasting Wand,Liandry's Torment,Seraph's Embrace,Rod of Ages,Boots of Mobility,Void Staff,147947,14520,Lane.mid_lane,Role.solo
+3,FIoopie,Lucian,True,Side.blue,3,1,12,15.0,287,Flash,Heal,16,False,14070,13475,Berserker's Greaves,Maw of Malmortius,Vampiric Scepter,Essence Reaver,Statikk Shiv,B. F. Sword,23798,163795,Lane.bot_lane,Role.carry
+4,MindCalm,Kha'Zix,True,Side.blue,11,2,5,8.0,179,Flash,Smite,17,False,14773,13475,Refillable Potion,Edge of Night,Ninja Tabi,The Black Cleaver,Maw of Malmortius,Enchantment: Warrior,4005,200250,Lane.jungle,Role.none
+5,TheDankWithinUs,Caitlyn,False,Side.red,2,6,4,1.0,235,Flash,Heal,14,False,10920,11085,Pickaxe,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,B. F. Sword,607,160255,Lane.bot_lane,Role.carry
+6,Repfix,Vladimir,False,Side.red,2,6,5,1.1666666666666667,233,Ghost,Flash,15,False,11209,10200,Rylai's Crystal Scepter,Hextech Protobelt-01,,Spirit Visage,Doran's Shield,Ionian Boots of Lucidity,126626,15520,Lane.mid_lane,Role.solo
+7,Rohammers,Rumble,False,Side.red,7,5,7,2.8,272,Teleport,Flash,16,False,14287,13525,Zhonya's Hourglass,Rylai's Crystal Scepter,Liandry's Torment,Void Staff,Sorcerer's Shoes,,176971,12721,Lane.top_lane,Role.solo
+8,Stiches,Lee Sin,False,Side.red,5,7,7,1.7142857142857142,123,Smite,Flash,15,False,10738,9800,Tiamat,Ionian Boots of Lucidity,Enchantment: Warrior,Sightstone,Dead Man's Plate,Warden's Mail,15681,109829,Lane.jungle,Role.none
+9,Hi Im A Sheep,Janna,False,Side.red,1,5,7,1.6,13,Flash,Exhaust,13,False,7928,7150,Eye of the Watchers,Redemption,,,Aegis of the Legion,Ionian Boots of Lucidity,3357,7411,Lane.bot_lane,Role.support

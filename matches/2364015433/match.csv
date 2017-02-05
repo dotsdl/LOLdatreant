@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RADlANT G0KU,Viktor,True,Side.blue,13,5,8,4.2,206,Flash,Ghost,16,True,14404,11550,Abyssal Scepter,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Lich Bane,Blasting Wand,147236,14920,Lane.mid_lane,Role.solo
+1,hi im larz,Gragas,True,Side.blue,1,4,16,4.25,160,Teleport,Flash,15,False,10989,9725,Corrupting Potion,Banshee's Veil,Boots of Speed,Iceborn Gauntlet,Chain Vest,Sunfire Cape,80472,22505,Lane.top_lane,Role.solo
+2,BestDumptruckBR,Vi,True,Side.blue,10,3,9,6.333333333333333,117,Flash,Smite,15,False,12425,11228,Enchantment: Warrior,Refillable Potion,Trinity Force,Mercury's Treads,Dead Man's Plate,Negatron Cloak,715,123689,Lane.jungle,Role.none
+3,TheNuocMam,Nami,True,Side.blue,2,10,16,1.8,19,Ignite,Flash,13,False,9592,8125,Refillable Potion,Redemption,Eye of the Watchers,Ninja Tabi,Athene's Unholy Grail,Ruby Crystal,13702,7323,Lane.bot_lane,Role.support
+4,DeadlyTwitches,Lucian,True,Side.blue,8,6,5,2.1666666666666665,215,Flash,Heal,15,False,12755,10850,Rapid Firecannon,Quicksilver Sash,Essence Reaver,Berserker's Greaves,Last Whisper,,5335,114923,Lane.bot_lane,Role.carry
+5,Wolfox,Ashe,False,Side.red,14,9,1,1.6666666666666667,198,Flash,Heal,14,False,12713,11425,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,Doran's Blade,Chain Vest,1416,114500,Lane.bot_lane,Role.carry
+6,RATZ STAY RATZ,LeBlanc,False,Side.red,8,8,3,1.375,148,Ignite,Flash,14,False,10184,8385,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Amplifying Tome,The Dark Seal,Doran's Ring,84858,11729,Lane.mid_lane,Role.solo
+7,00Donger,Zac,False,Side.red,3,7,8,1.5714285714285714,101,Smite,Flash,13,False,9393,8974,Enchantment: Cinderhulk,Guardian Angel,Ionian Boots of Lucidity,Kindlegem,Negatron Cloak,Chain Vest,91833,15725,Lane.jungle,Role.none
+8,Crown1ess,Renekton,False,Side.red,2,5,3,1.0,216,Teleport,Flash,14,False,10142,9375,The Black Cleaver,Sunfire Cape,Spectre's Cowl,Kindlegem,Ninja Tabi,,19975,107362,Lane.top_lane,Role.solo
+9,Hanjaro,Thresh,False,Side.red,1,5,16,3.4,34,Flash,Ignite,13,False,8277,7475,Ruby Sightstone,Face of the Mountain,Locket of the Iron Solari,,Ionian Boots of Lucidity,,11753,5613,Lane.bot_lane,Role.support

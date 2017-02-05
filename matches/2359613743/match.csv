@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jurassiq,Draven,True,Side.blue,3,5,4,1.4,150,Flash,Heal,11,False,9359,8950,Berserker's Greaves,Doran's Blade,The Bloodthirster,Rapid Firecannon,Null-Magic Mantle,Long Sword,951,80274,Lane.bot_lane,Role.carry
+1,Cat Ears,Karma,True,Side.blue,3,2,13,8.0,13,Flash,Ignite,10,False,7612,6875,Ionian Boots of Lucidity,Eye of the Watchers,Redemption,Aegis of the Legion,,,11421,4028,Lane.bot_lane,Role.support
+2,You all boosted,Graves,True,Side.blue,6,1,7,13.0,148,Flash,Smite,13,True,10702,9025,Statikk Shiv,Enchantment: Warrior,Berserker's Greaves,Brawler's Gloves,B. F. Sword,Cloak of Agility,11811,127898,Lane.jungle,Role.none
+3,BabièThug,Yasuo,True,Side.blue,8,6,8,2.6666666666666665,127,Flash,Teleport,12,False,9779,8550,Doran's Blade,Refillable Potion,Frozen Mallet,Ninja Tabi,Cloak of Agility,Phantom Dancer,19839,61029,Lane.top_lane,Role.solo
+4,Pekin Woof,LeBlanc,True,Side.blue,8,2,8,8.0,131,Flash,Cleanse,12,False,10453,9585,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,Morellonomicon,Needlessly Large Rod,80012,11122,Lane.mid_lane,Role.solo
+5,Wizzy,Kayle,False,Side.red,3,3,4,2.3333333333333335,139,Ghost,Flash,12,False,7564,7085,The Dark Seal,Amplifying Tome,Stinger,Ionian Boots of Lucidity,Guinsoo's Rageblade,,49903,20427,Lane.mid_lane,Role.solo
+6,ApoIlo Price,Caitlyn,False,Side.red,4,7,5,1.2857142857142858,123,Flash,Heal,11,False,7627,6445,Doran's Blade,Pickaxe,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,,369,65959,Lane.bot_lane,Role.carry
+7,Delerium,Lux,False,Side.red,2,4,5,1.75,27,Exhaust,Flash,10,False,6245,5525,Eye of the Watchers,,Lost Chapter,,Ionian Boots of Lucidity,Fiendish Codex,20163,3209,Lane.bot_lane,Role.support
+8,Max Waldo,Irelia,False,Side.red,2,8,3,0.625,89,Flash,Teleport,10,False,6411,5758,Corrupting Potion,Trinity Force,Doran's Blade,Boots of Speed,Ruby Crystal,Cloth Armor,2660,32120,Lane.top_lane,Role.solo
+9,Leza,Lee Sin,False,Side.red,5,6,1,1.0,81,Flash,Smite,11,False,7092,5575,Refillable Potion,Enchantment: Warrior,Ionian Boots of Lucidity,Cloth Armor,Cloth Armor,Hexdrinker,10493,48456,Lane.jungle,Role.none

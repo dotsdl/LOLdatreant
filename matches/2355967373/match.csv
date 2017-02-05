@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Seijaku,Nami,False,Side.blue,0,8,15,1.875,14,Flash,Exhaust,14,False,8245,7500,Mikael's Crucible,Redemption,Boots of Mobility,,Eye of the Watchers,,9140,8109,Lane.bot_lane,Role.support
+1,MisterNiceGuy,Maokai,False,Side.blue,1,5,18,3.8,180,Teleport,Flash,16,False,10725,10700,Doran's Shield,Null-Magic Mantle,Sunfire Cape,Ninja Tabi,Frozen Heart,Thornmail,112817,16088,Lane.top_lane,Role.solo
+2,LucianStoleMyKFC,Zac,False,Side.blue,10,7,7,2.4285714285714284,187,Smite,Flash,16,False,12955,12800,Enchantment: Cinderhulk,Abyssal Scepter,Ninja Tabi,Randuin's Omen,Dead Man's Plate,Cloth Armor,147353,21418,Lane.jungle,Role.none
+3,Adlak,Orianna,False,Side.blue,10,7,7,2.4285714285714284,228,Flash,Ignite,16,False,13181,12575,Needlessly Large Rod,Morellonomicon,Void Staff,Ionian Boots of Lucidity,Blasting Wand,Zhonya's Hourglass,141532,12542,Lane.mid_lane,Role.solo
+4,hman497,Jhin,False,Side.blue,4,10,12,1.6,190,Heal,Flash,14,False,10678,10155,Doran's Blade,Boots of Swiftness,Rapid Firecannon,Essence Reaver,Pickaxe,B. F. Sword,5828,107022,Lane.bot_lane,Role.carry
+5,TRUMPSSMALLHANDS,Ezreal,True,Side.red,16,4,12,7.0,178,Flash,Heal,16,True,16239,13200,Doran's Blade,Blade of the Ruined King,Mortal Reminder,Ionian Boots of Lucidity,Iceborn Gauntlet,Muramana,25394,147232,Lane.bot_lane,Role.carry
+6,Best Milk Tea NA,Twisted Fate,True,Side.red,11,3,10,7.0,251,Ghost,Flash,18,False,17708,16825,Ionian Boots of Lucidity,Zhonya's Hourglass,Abyssal Scepter,Luden's Echo,Lich Bane,Void Staff,191226,20754,Lane.mid_lane,Role.solo
+7,Brult IANvv3,Vi,True,Side.red,8,5,17,5.0,108,Flash,Smite,15,False,14010,12783,Enchantment: Warrior,Trinity Force,Mercury's Treads,Dead Man's Plate,Spectre's Cowl,Kindlegem,2375,145177,Lane.jungle,Role.none
+8,SAtaarcoeny2,Janna,True,Side.red,0,5,24,4.8,16,Exhaust,Flash,14,False,11138,8675,Mikael's Crucible,Redemption,Nomad's Medallion,,Ardent Censer,Needlessly Large Rod,15202,7681,Lane.bot_lane,Role.support
+9,PunaniBoi,Vayne,True,Side.red,2,8,4,0.75,220,Teleport,Flash,16,False,13274,12100,Berserker's Greaves,Blade of the Ruined King,Infinity Edge,Statikk Shiv,Brawler's Gloves,Dagger,13389,144528,Lane.top_lane,Role.solo

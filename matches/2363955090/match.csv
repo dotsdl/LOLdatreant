@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wazabiee,LeBlanc,True,Side.blue,13,4,9,5.5,188,Ignite,Flash,15,False,13559,12550,,Rylai's Crystal Scepter,Mejai's Soulstealer,Sorcerer's Shoes,Abyssal Scepter,Morellonomicon,127029,11029,Lane.mid_lane,Role.solo
+1,Vooldo,Karma,True,Side.blue,1,3,18,6.333333333333333,14,Exhaust,Flash,14,False,9416,8925,Boots of Swiftness,Eye of the Watchers,Raptor Cloak,Locket of the Iron Solari,,Redemption,18596,3878,Lane.bot_lane,Role.support
+2,LeGil,Yorick,True,Side.blue,3,6,5,1.3333333333333333,228,Teleport,Flash,16,False,11500,9908,Trinity Force,Corrupting Potion,Zz'Rot Portal,Chain Vest,Giant's Belt,Mercury's Treads,17495,132545,Lane.top_lane,Role.solo
+3,Dodobird246,Lee Sin,True,Side.blue,8,5,6,2.8,149,Smite,Flash,14,True,11170,10750,Enchantment: Warrior,Randuin's Omen,Edge of Night,Mercury's Treads,Null-Magic Mantle,Long Sword,26450,93487,Lane.jungle,Role.none
+4,BaronGoh,Twitch,True,Side.blue,9,9,9,2.0,179,Heal,Flash,14,False,12117,12050,Infinity Edge,Hexdrinker,Runaan's Hurricane,Doran's Blade,Rapid Firecannon,Berserker's Greaves,0,108220,Lane.bot_lane,Role.carry
+5,Prodigý,Katarina,False,Side.red,5,4,4,2.25,203,Teleport,Flash,15,False,10552,9800,Sorcerer's Shoes,Zz'Rot Portal,Refillable Potion,Abyssal Scepter,Sunfire Cape,,131195,7966,Lane.top_lane,Role.solo
+6,WakaWakaMF,Karthus,False,Side.red,7,9,7,1.5555555555555556,170,Flash,Teleport,15,False,10510,8555,Doran's Ring,Rod of Ages,Seraph's Embrace,Sorcerer's Shoes,Negatron Cloak,Amplifying Tome,97783,2457,Lane.mid_lane,Role.solo
+7,frank1708,Graves,False,Side.red,8,4,4,3.0,164,Smite,Flash,16,False,11759,11125,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Ionian Boots of Lucidity,Duskblade of Draktharr,Hexdrinker,4699,162540,Lane.jungle,Role.none
+8,H3llTeddy,Alistar,False,Side.red,2,9,8,1.1111111111111112,41,Ignite,Flash,12,False,7102,6875,Sightstone,Knight's Vow,Face of the Mountain,Ninja Tabi,,,9593,5213,Lane.bot_lane,Role.support
+9,Erin Shen,Jhin,False,Side.red,5,8,12,2.125,161,Flash,Heal,13,False,10473,9700,Essence Reaver,Doran's Blade,Ionian Boots of Lucidity,Cull,Rapid Firecannon,Vampiric Scepter,4945,88459,Lane.bot_lane,Role.carry

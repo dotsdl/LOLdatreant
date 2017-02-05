@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,wáck,Yasuo,True,Side.blue,6,5,4,2.0,167,Teleport,Flash,13,False,9954,8025,Doran's Blade,Berserker's Greaves,Phantom Dancer,B. F. Sword,Cloak of Agility,Vampiric Scepter,34101,76490,Lane.top_lane,Role.solo
+1,SmooshyCake,Hecarim,True,Side.blue,12,1,7,19.0,93,Smite,Ghost,13,True,11631,11008,Youmuu's Ghostblade,Refillable Potion,Enchantment: Warrior,Trinity Force,Ninja Tabi,Long Sword,14337,93174,Lane.jungle,Role.none
+2,King Crown,Janna,True,Side.blue,1,0,10,11.0,5,Flash,Exhaust,11,False,7386,6275,Talisman of Ascension,Sightstone,Redemption,Boots of Speed,,,4984,6985,Lane.bot_lane,Role.support
+3,Zoolouie,Caitlyn,True,Side.blue,2,0,10,12.0,190,Heal,Flash,12,False,10166,5675,Doran's Blade,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Total Biscuit of Rejuvenation,,212,123211,Lane.bot_lane,Role.carry
+4,rekaf nesgrejb,Cassiopeia,True,Side.blue,6,2,1,3.5,166,Flash,Ghost,13,False,10252,8470,Doran's Ring,Rylai's Crystal Scepter,,Tear of the Goddess,Negatron Cloak,Morellonomicon,76021,8493,Lane.mid_lane,Role.solo
+5,kàylè,Kayle,False,Side.red,0,3,2,0.6666666666666666,2,Exhaust,Flash,10,False,4587,4500,Boots of Speed,Redemption,Sightstone,Control Ward,Frostfang,,3970,3034,Lane.bot_lane,Role.support
+6,Hyosung,Rek'Sai,False,Side.red,1,7,3,0.5714285714285714,86,Flash,Smite,10,False,5864,4750,Enchantment: Cinderhulk,Tiamat,Refillable Potion,,Boots of Speed,Ruby Crystal,10752,51484,Lane.jungle,Role.none
+7,Kammgefahr,Graves,False,Side.red,4,5,1,1.0,133,Teleport,Flash,12,False,7102,6850,Corrupting Potion,Death's Dance,Berserker's Greaves,Zeal,Dagger,,847,66426,Lane.top_lane,Role.solo
+8,F33dMeKills,Jinx,False,Side.red,0,5,2,0.4,171,Flash,Heal,11,False,6689,6375,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Pickaxe,B. F. Sword,,627,83175,Lane.bot_lane,Role.carry
+9,BamBam,Kassadin,False,Side.red,3,7,1,0.5714285714285714,78,Flash,Ignite,11,False,5793,5285,Doran's Ring,Rod of Ages,Seeker's Armguard,Boots of Speed,Amplifying Tome,Refillable Potion,22586,9163,Lane.mid_lane,Role.solo

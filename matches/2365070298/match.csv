@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gahlin,Trundle,False,Side.blue,2,5,2,0.8,124,Flash,Teleport,11,False,5777,5500,Ravenous Hydra,Corrupting Potion,Mercury's Treads,Ruby Crystal,,,1698,50238,Lane.top_lane,Role.solo
+1,Liquid fabbbyyy,Twitch,False,Side.blue,2,5,0,0.4,98,Flash,Heal,9,False,5378,4000,Berserker's Greaves,B. F. Sword,Recurve Bow,Doran's Blade,,,0,30443,Lane.bot_lane,Role.carry
+2,Winter is back,Karma,False,Side.blue,1,5,3,0.8,14,Flash,Exhaust,8,False,4756,3100,Frostfang,Ionian Boots of Lucidity,,Sightstone,,Total Biscuit of Rejuvenation,8754,1962,Lane.bot_lane,Role.support
+3,Linsanityy,Azir,False,Side.blue,2,7,2,0.5714285714285714,117,Flash,Cleanse,10,False,5981,5525,Refillable Potion,Giant's Belt,Boots of Speed,Nashor's Tooth,Doran's Ring,Doran's Ring,45239,4552,Lane.mid_lane,Role.solo
+4,Vladfire1 BG ,Lee Sin,False,Side.blue,1,9,0,0.1111111111111111,51,Smite,Flash,9,False,4813,4675,Refillable Potion,Enchantment: Warrior,Caulfield's Warhammer,Boots of Speed,Control Ward,Long Sword,5831,34924,Lane.jungle,Role.none
+5,Entranced,Illaoi,True,Side.red,5,3,2,2.3333333333333335,145,Teleport,Flash,13,False,9342,8750,The Black Cleaver,Corrupting Potion,Ninja Tabi,Sheen,Sterak's Gage,Ruby Crystal,182,99285,Lane.top_lane,Role.solo
+6,Zib Nibbler,Morgana,True,Side.red,1,1,12,13.0,13,Flash,Exhaust,10,False,6878,5210,Frostfang,Boots of Mobility,Forbidden Idol,Ruby Sightstone,Control Ward,Amplifying Tome,15265,7099,Lane.bot_lane,Role.support
+7,Vainsu,Elise,True,Side.red,12,0,3,15.0,69,Smite,Flash,11,True,9616,6525,Hextech Protobelt-01,Refillable Potion,,Sorcerer's Shoes,Enchantment: Runic Echoes,,60014,24476,Lane.jungle,Role.none
+8,Bobjenkins,Kennen,True,Side.red,4,3,7,3.6666666666666665,104,Flash,Heal,11,False,8477,7250,Doran's Blade,Cull,Berserker's Greaves,Guinsoo's Rageblade,B. F. Sword,Dagger,15990,40572,Lane.bot_lane,Role.carry
+9,Huhi Lite,Ryze,True,Side.red,9,1,4,13.0,188,Ghost,Flash,13,False,10660,9175,Archangel's Staff,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Giant's Belt,Needlessly Large Rod,114034,12511,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ðad,Thresh,False,Side.blue,0,8,4,0.5,25,Exhaust,Flash,11,False,5880,5450,Control Ward,Ruby Sightstone,Redemption,,Ionian Boots of Lucidity,Relic Shield,6842,3240,Lane.bot_lane,Role.support
+1,Vladfire1 BG ,Rek'Sai,False,Side.blue,3,7,4,1.0,122,Smite,Flash,13,False,8754,8600,Randuin's Omen,Tiamat,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Ruby Crystal,21663,80182,Lane.jungle,Role.none
+2,FZ3R0,Ashe,False,Side.blue,2,7,3,0.7142857142857143,199,Flash,Heal,12,False,8712,8025,Berserker's Greaves,Runaan's Hurricane,Essence Reaver,Doran's Blade,,,2584,79645,Lane.bot_lane,Role.carry
+3,Imaqtpie,Xin Zhao,False,Side.blue,2,8,2,0.5,146,Flash,Teleport,12,True,8267,8183,Tiamat,Trinity Force,Doran's Blade,Doran's Blade,Berserker's Greaves,Serrated Dirk,3493,79248,Lane.top_lane,Role.solo
+4,Alex Ich 1,Viktor,False,Side.blue,5,8,2,0.875,212,Flash,Cleanse,14,False,9981,8750,Perfect Hex Core,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Control Ward,Null-Magic Mantle,109879,12398,Lane.mid_lane,Role.solo
+5,SKY Fear,Maokai,True,Side.red,4,3,14,6.0,213,Flash,Teleport,16,False,12724,11250,Cloth Armor,Iceborn Gauntlet,Spirit Visage,Sunfire Cape,Doran's Ring,Ninja Tabi,108875,27662,Lane.top_lane,Role.solo
+6,Seoksang,Lee Sin,True,Side.red,13,3,9,7.333333333333333,105,Smite,Flash,15,False,12611,11025,Maw of Malmortius,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Giant's Belt,,24849,110377,Lane.jungle,Role.none
+7,Fox BIG,Karma,True,Side.red,2,2,22,12.0,27,Exhaust,Flash,13,False,9659,8500,Mikael's Crucible,Locket of the Iron Solari,Eye of the Watchers,,,Ionian Boots of Lucidity,15396,6485,Lane.bot_lane,Role.support
+8,mulgokizary,Twisted Fate,True,Side.red,6,1,16,22.0,167,Ghost,Flash,15,False,12578,12250,Quicksilver Sash,Zhonya's Hourglass,Banshee's Veil,Ionian Boots of Lucidity,Doran's Ring,Lich Bane,111400,16975,Lane.mid_lane,Role.solo
+9,Doublelift,Jhin,True,Side.red,13,3,10,7.666666666666667,206,Flash,Heal,14,False,14132,12225,Doran's Blade,Essence Reaver,Infinity Edge,Rapid Firecannon,Ionian Boots of Lucidity,Pickaxe,6513,143658,Lane.bot_lane,Role.carry

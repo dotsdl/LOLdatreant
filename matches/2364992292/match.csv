@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,feed l0rd,Sivir,True,Side.blue,6,9,9,1.6666666666666667,189,Flash,Heal,15,False,13830,11950,Cull,Infinity Edge,Berserker's Greaves,Essence Reaver,Doran's Blade,Phantom Dancer,1191,134084,Lane.bot_lane,Role.carry
+1,Abou222,Ekko,True,Side.blue,13,7,4,2.4285714285714284,175,Teleport,Flash,16,False,13771,12175,Rylai's Crystal Scepter,Abyssal Scepter,Ionian Boots of Lucidity,Lich Bane,The Dark Seal,Seeker's Armguard,112026,15348,Lane.mid_lane,Role.solo
+2,Just Lampost,Poppy,True,Side.blue,4,0,13,17.0,176,Teleport,Flash,16,False,12804,13950,Doran's Shield,Kindlegem,Sunfire Cape,Spirit Visage,Ninja Tabi,Thornmail,29870,82613,Lane.top_lane,Role.solo
+3,Winter is back,Nami,True,Side.blue,3,5,24,5.4,15,Flash,Exhaust,14,False,11983,11625,Mercury's Treads,Control Ward,Redemption,Eye of the Watchers,Ardent Censer,Mikael's Crucible,8893,7003,Lane.bot_lane,Role.support
+4,Wiggily,Graves,True,Side.blue,12,6,6,3.0,248,Flash,Smite,17,True,17054,14500,Enchantment: Warrior,Death's Dance,Berserker's Greaves,Maw of Malmortius,Phantom Dancer,Phage,8647,229885,Lane.jungle,Role.none
+5,RATIRLonNA,Teemo,False,Side.red,6,8,5,1.375,162,Flash,Ignite,15,False,11227,10885,Hextech Gunblade,Amplifying Tome,The Dark Seal,Needlessly Large Rod,Liandry's Torment,Sorcerer's Shoes,84522,37363,Lane.top_lane,Role.solo
+6,Pyrites,Lux,False,Side.red,4,7,9,1.8571428571428572,39,Flash,Exhaust,14,False,10174,8375,Frost Queen's Claim,Sightstone,Athene's Unholy Grail,Ionian Boots of Lucidity,The Dark Seal,Needlessly Large Rod,53605,4889,Lane.bot_lane,Role.support
+7,Huhi Lite,Cassiopeia,False,Side.red,2,9,9,1.2222222222222223,222,Ghost,Flash,16,False,11486,10825,Doran's Ring,Morellonomicon,Tear of the Goddess,Rylai's Crystal Scepter,Control Ward,Void Staff,153177,13284,Lane.mid_lane,Role.solo
+8,moon o,Lee Sin,False,Side.red,9,5,2,2.2,222,Smite,Flash,16,False,13397,12875,Tiamat,Edge of Night,Youmuu's Ghostblade,Enchantment: Warrior,Mercury's Treads,,33642,169979,Lane.jungle,Role.none
+9,OUT DO YA,Urgot,False,Side.red,6,9,5,1.2222222222222223,161,Flash,Heal,14,False,10895,10275,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Doran's Blade,Ninja Tabi,,156,92990,Lane.bot_lane,Role.carry

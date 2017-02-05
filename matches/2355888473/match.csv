@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SoulTiger125,Thresh,False,Side.blue,1,6,5,1.0,35,Flash,Exhaust,12,False,7098,6450,Sightstone,Face of the Mountain,Zeke's Harbinger,,,Boots of Mobility,8534,3670,Lane.bot_lane,Role.support
+1,Alamander,Shaco,False,Side.blue,8,8,3,1.375,85,Smite,Ignite,13,True,9953,10060,Enchantment: Runic Echoes,Hextech Gunblade,Tiamat,Boots of Mobility,Sheen,Amplifying Tome,35003,60696,Lane.jungle,Role.none
+2,support or troll,Miss Fortune,False,Side.blue,1,5,5,1.2,240,Heal,Flash,14,False,10130,9850,Doran's Blade,Vampiric Scepter,Berserker's Greaves,Phantom Dancer,Infinity Edge,Giant Slayer,3563,112707,Lane.bot_lane,Role.carry
+3,Cotopaco Parce,Gangplank,False,Side.blue,3,9,2,0.5555555555555556,194,Teleport,Flash,14,False,10472,10108,Trinity Force,Infinity Edge,Corrupting Potion,Boots of Swiftness,Last Whisper,,11731,137496,Lane.top_lane,Role.solo
+4,Al Palladini,Lux,False,Side.blue,2,8,7,1.125,187,Ghost,Flash,14,False,9705,9260,Luden's Echo,The Dark Seal,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Blasting Wand,115424,15595,Lane.mid_lane,Role.solo
+5,mistress janna,Janna,True,Side.red,0,2,19,9.5,15,Exhaust,Flash,14,False,9336,10050,Eye of the Watchers,Locket of the Iron Solari,Redemption,Boots of Mobility,Mejai's Soulstealer,Refillable Potion,8608,6475,Lane.bot_lane,Role.support
+6,ranked tears,Corki,True,Side.red,5,3,6,3.6666666666666665,205,Flash,Heal,14,False,11913,10183,,Infinity Edge,Aegis of the Legion,Trinity Force,Sorcerer's Shoes,Doran's Blade,77915,38508,Lane.bot_lane,Role.carry
+7,Tomelette,Diana,True,Side.red,8,4,10,4.5,203,Flash,Teleport,15,False,13672,11475,Rod of Ages,Nashor's Tooth,Mercury's Treads,Rabadon's Deathcap,,,134065,23534,Lane.mid_lane,Role.solo
+8,MasterShacoOTP,Lee Sin,True,Side.red,13,4,2,3.75,117,Smite,Flash,15,False,12743,11725,Titanic Hydra,Enchantment: Warrior,Randuin's Omen,Ninja Tabi,Serrated Dirk,Long Sword,17918,121740,Lane.jungle,Role.none
+9,o Cero o,Darius,True,Side.red,10,2,7,8.5,211,Flash,Ghost,17,False,13255,11700,Spirit Visage,The Black Cleaver,Tiamat,Dead Man's Plate,Ninja Tabi,,0,139740,Lane.top_lane,Role.solo

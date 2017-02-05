@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kawaki,Kalista,True,Side.blue,5,6,6,1.8333333333333333,106,Heal,Flash,11,False,8022,6950,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Zeal,Dagger,Dagger,783,56638,Lane.bot_lane,Role.carry
+1,MultiRainbow,Vi,True,Side.blue,10,0,6,16.0,96,Smite,Flash,12,False,10132,8383,Trinity Force,Mercury's Treads,Long Sword,Long Sword,,Enchantment: Warrior,903,93678,Lane.jungle,Role.none
+2,my bad team,Poppy,True,Side.blue,6,3,11,5.666666666666667,170,Flash,Teleport,14,True,10220,8975,Cloth Armor,Corrupting Potion,Dead Man's Plate,Spectre's Cowl,Sunfire Cape,Mercury's Treads,34038,65162,Lane.jungle,Role.none
+3,BearlyArmed,Janna,True,Side.blue,2,3,17,6.333333333333333,14,Flash,Exhaust,10,False,6971,5750,Redemption,Sightstone,Boots of Mobility,Nomad's Medallion,Forbidden Idol,,3151,4190,Lane.bot_lane,Role.support
+4,Alex BIais,Cho'Gath,True,Side.blue,7,1,7,14.0,144,Ignite,Flash,13,False,9586,8160,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,Rylai's Crystal Scepter,Refillable Potion,Amplifying Tome,65321,13483,Lane.mid_lane,Role.solo
+5,Pooper Josh,Orianna,False,Side.red,2,2,1,1.5,155,Ghost,Flash,11,False,6696,6285,Health Potion,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,Needlessly Large Rod,61473,9540,Lane.mid_lane,Role.solo
+6,Turc,Thresh,False,Side.red,1,5,8,1.8,16,Exhaust,Flash,9,False,5005,4650,Face of the Mountain,Total Biscuit of Rejuvenation,Sightstone,Ionian Boots of Lucidity,,Control Ward,5270,3658,Lane.bot_lane,Role.support
+7,ChriShin,Vayne,False,Side.red,5,6,2,1.1666666666666667,119,Heal,Flash,10,False,7139,6650,Blade of the Ruined King,Berserker's Greaves,Zeal,,Doran's Blade,Dagger,293,49626,Lane.bot_lane,Role.carry
+8,HoNSol0,Shyvana,False,Side.red,2,5,1,0.6,135,Ghost,Smite,12,False,7370,6350,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,,Cloth Armor,Boots of Speed,70755,31241,Lane.jungle,Role.none
+9,zinxao,Pantheon,False,Side.red,3,12,3,0.5,70,Teleport,Flash,9,False,5766,5475,Youmuu's Ghostblade,Corrupting Potion,,Boots of Mobility,Serrated Dirk,,3830,38300,Lane.top_lane,Role.solo

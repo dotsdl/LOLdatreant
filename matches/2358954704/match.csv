@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sarcasm Orgasm,Twitch,False,Side.blue,1,0,0,1.0,11,Ghost,Smite,3,False,1211,500,Hunter's Machete,,,,,,0,4247,Lane.jungle,Role.none
+1,KingDylaan,Thresh,False,Side.blue,0,0,0,0.0,0,Ignite,Flash,1,False,666,500,Relic Shield,Total Biscuit of Rejuvenation,,,,,0,0,Lane.bot_lane,Role.solo
+2,feeels good man,Hecarim,False,Side.blue,0,0,0,0.0,0,Heal,Flash,1,False,666,500,Relic Shield,Refillable Potion,,,,,0,0,Lane.mid_lane,Role.duo
+3,ATnTeemo,Nautilus,False,Side.blue,0,0,0,0.0,10,Teleport,Flash,3,False,842,500,Corrupting Potion,,,,,,1016,1544,Lane.top_lane,Role.solo
+4,CleanedNWashedUp,Ryze,False,Side.blue,0,1,1,1.0,12,Flash,Ghost,3,False,1009,500,Sapphire Crystal,Refillable Potion,,,,,1517,1223,Lane.mid_lane,Role.duo
+5,Nubsee,Riven,True,Side.red,0,0,0,0.0,11,Teleport,Flash,3,False,859,500,,Doran's Blade,,,,,0,3099,Lane.top_lane,Role.solo
+6,Lasthawk,Morgana,True,Side.red,0,0,0,0.0,0,Ignite,Flash,2,False,684,500,Spellthief's Edge,Refillable Potion,,,,,110,360,Lane.bot_lane,Role.duo
+7,Å ö Å,Ezreal,True,Side.red,0,0,0,0.0,13,Flash,Heal,2,False,896,500,Doran's Blade,Total Biscuit of Rejuvenation,,,,,92,1951,Lane.bot_lane,Role.duo
+8,WhiteLilynette,Amumu,True,Side.red,0,0,1,1.0,10,Smite,Flash,3,False,1140,500,Refillable Potion,,,,,Hunter's Talisman,4274,1212,Lane.mid_lane,Role.duo
+9,Skymark,Viktor,True,Side.red,1,1,0,1.0,9,Flash,Barrier,3,True,1222,500,Prototype Hex Core,Health Potion,Doran's Ring,,,,1363,1184,Lane.mid_lane,Role.duo

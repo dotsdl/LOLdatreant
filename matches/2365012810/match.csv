@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vanilla Chan,Renekton,False,Side.blue,6,5,3,1.8,190,Flash,Ignite,14,True,10135,9725,Giant's Belt,Warden's Mail,Ruby Crystal,Sterak's Gage,The Black Cleaver,Ninja Tabi,5458,106375,Lane.top_lane,Role.solo
+1,SanSeven,Kassadin,False,Side.blue,7,6,8,2.5,125,Ignite,Flash,13,False,9443,9335,Hextech GLP-800,Mercury's Treads,Mejai's Soulstealer,Zhonya's Hourglass,Amplifying Tome,,56250,15077,Lane.mid_lane,Role.solo
+2,Beskytter,Nami,False,Side.blue,3,6,15,3.0,29,Exhaust,Flash,12,False,8541,8000,Redemption,Eye of the Watchers,Control Ward,Ardent Censer,Boots of Mobility,,16127,5778,Lane.bot_lane,Role.support
+3,Bobo The Legend,Lee Sin,False,Side.blue,5,10,4,0.9,142,Flash,Smite,13,False,9211,9500,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Hexdrinker,Null-Magic Mantle,29255,86687,Lane.jungle,Role.none
+4,BigOneEight,Ezreal,False,Side.blue,3,11,10,1.1818181818181819,106,Heal,Flash,12,False,8115,7483,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Tear of the Goddess,Pickaxe,Cull,10942,42380,Lane.bot_lane,Role.carry
+5,Poptart Warrior,Ivern,True,Side.red,3,6,8,1.8333333333333333,87,Smite,Flash,14,False,10865,9975,Redemption,Locket of the Iron Solari,Skirmisher's Sabre,Ionian Boots of Lucidity,Bami's Cinder,Athene's Unholy Grail,18426,9983,Lane.jungle,Role.none
+6,xKiWi,Tryndamere,True,Side.red,9,2,5,7.0,207,Ghost,Ignite,15,False,13331,11300,Blade of the Ruined King,Ninja Tabi,Doran's Blade,Phantom Dancer,Infinity Edge,,228,157284,Lane.top_lane,Role.solo
+7,1Guy3Axes,Draven,True,Side.red,6,8,5,1.375,156,Flash,Heal,13,False,12141,10025,Doran's Blade,Blade of the Ruined King,Pickaxe,B. F. Sword,Lord Dominik's Regards,Berserker's Greaves,235,118521,Lane.bot_lane,Role.duo
+8,GowaSan,Jax,True,Side.red,11,3,4,5.0,169,Ignite,Flash,15,False,13061,12133,Hextech Gunblade,Trinity Force,Frozen Mallet,Cloth Armor,Mercury's Treads,Corrupting Potion,33772,81979,Lane.bot_lane,Role.duo
+9,out skizzled,Ahri,True,Side.red,9,5,8,3.4,156,Flash,Ignite,15,False,12218,11050,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Void Staff,Abyssal Scepter,Doran's Ring,58921,12758,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LegitADC,Caitlyn,False,Side.blue,7,10,4,1.1,192,Cleanse,Flash,13,False,11550,11700,Control Ward,Doran's Blade,Mortal Reminder,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,1071,122322,Lane.bot_lane,Role.carry
+1,jacksparrow111,Zac,False,Side.blue,3,4,11,3.5,112,Smite,Flash,14,False,9712,9400,Enchantment: Cinderhulk,Randuin's Omen,Control Ward,Ionian Boots of Lucidity,Spectre's Cowl,Kindlegem,81800,20564,Lane.jungle,Role.none
+2,xTc4,Sona,False,Side.blue,1,4,11,3.0,56,Flash,Exhaust,12,False,8726,8225,Tear of the Goddess,Refillable Potion,Eye of the Watchers,Hextech Revolver,Sorcerer's Shoes,Zhonya's Hourglass,22455,9042,Lane.bot_lane,Role.support
+3,ChuYung,Poppy,False,Side.blue,6,6,2,1.3333333333333333,212,Teleport,Flash,14,False,11087,11025,Doran's Shield,Randuin's Omen,Sunfire Cape,Ninja Tabi,Spirit Visage,Cloth Armor,39825,81462,Lane.top_lane,Role.solo
+4,Projekt Yasuo,Yasuo,False,Side.blue,3,6,2,0.8333333333333334,231,Flash,Exhaust,14,False,10977,10255,Mercury's Treads,Doran's Blade,Phantom Dancer,Null-Magic Mantle,Vampiric Scepter,Infinity Edge,33232,108572,Lane.mid_lane,Role.solo
+5,Cat Ears,Morgana,True,Side.red,2,6,18,3.3333333333333335,14,Flash,Exhaust,13,False,9631,7800,Redemption,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,,Control Ward,16909,3889,Lane.bot_lane,Role.support
+6,MaNDashwell,Gangplank,True,Side.red,5,3,10,5.0,236,Flash,Teleport,16,False,13944,13308,Trinity Force,Youmuu's Ghostblade,Control Ward,Infinity Edge,Boots of Swiftness,Last Whisper,12288,199452,Lane.top_lane,Role.solo
+7,cinto mamochi,Ekko,True,Side.red,8,2,5,6.5,220,Ignite,Flash,16,False,13283,11760,Luden's Echo,Hextech Protobelt-01,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,Lich Bane,133811,19418,Lane.mid_lane,Role.solo
+8,Koto Bloodwell,Ashe,True,Side.red,6,5,10,3.2,168,Flash,Heal,14,False,12119,10750,Runaan's Hurricane,Doran's Blade,Lord Dominik's Regards,Berserker's Greaves,Infinity Edge,,1995,123340,Lane.bot_lane,Role.carry
+9,Quad Main,Lee Sin,True,Side.red,9,4,5,3.5,148,Flash,Smite,15,True,12985,12625,,Enchantment: Warrior,Banshee's Veil,Dead Man's Plate,The Black Cleaver,Mercury's Treads,30512,113881,Lane.jungle,Role.none

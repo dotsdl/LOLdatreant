@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DowneyJr,Twitch,True,Side.blue,5,3,6,3.6666666666666665,184,Heal,Flash,14,False,12258,9800,Bilgewater Cutlass,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,91,122016,Lane.bot_lane,Role.carry
+1,Eepblob,Rumble,True,Side.blue,7,3,2,3.0,280,Teleport,Flash,16,False,12796,10425,Doran's Shield,Liandry's Torment,Rylai's Crystal Scepter,Sorcerer's Shoes,Seeker's Armguard,Fiendish Codex,151871,16943,Lane.top_lane,Role.solo
+2,always plan ahea,Aurelion Sol,True,Side.blue,8,4,8,4.0,208,Flash,Ghost,14,False,12000,12075,Hextech GLP-800,Rylai's Crystal Scepter,The Dark Seal,Boots of Swiftness,Liandry's Torment,Blasting Wand,139027,9478,Lane.jungle,Role.none
+3,Jungle Frankie,Karma,True,Side.blue,0,2,17,8.5,22,Exhaust,Flash,12,False,8678,7400,Sightstone,Frost Queen's Claim,Redemption,Ionian Boots of Lucidity,Aegis of the Legion,,20544,8227,Lane.bot_lane,Role.support
+4,LowdiamondTucker,Rek'Sai,True,Side.blue,4,5,13,3.4,152,Smite,Flash,14,False,11810,10350,Titanic Hydra,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,Dead Man's Plate,,35360,104829,Lane.jungle,Role.none
+5,Rinokaos,Blitzcrank,False,Side.red,0,7,4,0.5714285714285714,28,Flash,Exhaust,10,False,6510,6150,Targon's Brace,Sightstone,Locket of the Iron Solari,Boots of Mobility,Kindlegem,,7304,6772,Lane.bot_lane,Role.support
+6,The Best Sloth,Caitlyn,False,Side.red,2,8,5,0.875,150,Flash,Heal,12,False,9505,9000,Doran's Blade,Infinity Edge,Dagger,Berserker's Greaves,Runaan's Hurricane,Brawler's Gloves,633,85572,Lane.bot_lane,Role.carry
+7,Xcuted,Zed,False,Side.red,7,4,1,2.0,215,Flash,Ignite,15,False,11548,11150,Edge of Night,Refillable Potion,Blade of the Ruined King,Mercury's Treads,The Black Cleaver,,7310,103019,Lane.mid_lane,Role.solo
+8,Ź ack,Teemo,False,Side.red,3,3,5,2.6666666666666665,225,Teleport,Flash,15,False,10943,11000,Mercury's Treads,Guinsoo's Rageblade,Zz'Rot Portal,Frozen Mallet,,,78960,48422,Lane.top_lane,Role.solo
+9,EzPzCarryz,Lee Sin,False,Side.red,5,2,5,5.0,165,Smite,Flash,15,True,10802,10675,Tiamat,Maw of Malmortius,Enchantment: Warrior,,Guardian Angel,Boots of Mobility,25740,104375,Lane.jungle,Role.none

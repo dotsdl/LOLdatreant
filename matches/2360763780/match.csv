@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZatsMod,Tristana,False,Side.blue,2,4,1,0.75,115,Flash,Heal,10,False,6047,4725,Doran's Blade,Refillable Potion,Zeal,Berserker's Greaves,B. F. Sword,Dagger,14846,43617,Lane.bot_lane,Role.carry
+1,Winter is back,Karma,False,Side.blue,1,2,2,1.5,12,Flash,Exhaust,8,False,4807,3850,,Ionian Boots of Lucidity,,Eye of the Watchers,,Total Biscuit of Rejuvenation,9392,3802,Lane.bot_lane,Role.support
+2,PutYourHeartsUp,Taliyah,False,Side.blue,1,6,2,0.5,103,Flash,Smite,11,False,6423,6310,Hunter's Potion,Blasting Wand,Amplifying Tome,Fiendish Codex,Enchantment: Runic Echoes,Sorcerer's Shoes,70180,15487,Lane.jungle,Role.none
+3,GamerXz,Fiora,False,Side.blue,1,3,1,0.6666666666666666,111,Flash,Teleport,11,False,5660,3975,Corrupting Potion,Tiamat,Hexdrinker,Vampiric Scepter,,,1547,48039,Lane.top_lane,Role.solo
+4,LL Stylish,Zed,False,Side.blue,3,6,1,0.6666666666666666,156,Ignite,Flash,13,False,7131,6700,,Edge of Night,Boots of Swiftness,Serrated Dirk,B. F. Sword,,5171,66609,Lane.mid_lane,Role.solo
+5,OUT DO YA,Viktor,True,Side.red,6,3,2,2.6666666666666665,150,Flash,Exhaust,13,False,8620,7825,Zhonya's Hourglass,,Sorcerer's Shoes,Perfect Hex Core,Doran's Ring,,66350,9720,Lane.mid_lane,Role.solo
+6,Teesum,Janna,True,Side.red,0,0,9,9.0,5,Exhaust,Flash,11,False,6848,6425,Nomad's Medallion,Sightstone,Boots of Mobility,Redemption,Raptor Cloak,Control Ward,2243,4602,Lane.bot_lane,Role.support
+7,Abou222,Ekko,True,Side.red,3,3,4,2.3333333333333335,147,Teleport,Flash,13,False,7884,7455,Hextech Protobelt-01,Zhonya's Hourglass,Corrupting Potion,Sorcerer's Shoes,Control Ward,The Dark Seal,70828,10950,Lane.top_lane,Role.solo
+8,HoNSol0,Shyvana,True,Side.red,3,1,4,7.0,169,Ghost,Smite,13,False,9071,6650,Enchantment: Cinderhulk,Refillable Potion,Randuin's Omen,Boots of Speed,Cloth Armor,Cloth Armor,95260,50377,Lane.jungle,Role.none
+9,FZ3R0,Caitlyn,True,Side.red,9,1,0,9.0,192,Flash,Heal,12,True,11327,10650,Control Ward,Infinity Edge,Runaan's Hurricane,Doran's Blade,Berserker's Greaves,Phantom Dancer,438,140739,Lane.bot_lane,Role.carry

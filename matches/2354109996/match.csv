@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ImEzreaIAsltGets,Orianna,False,Side.blue,7,8,4,1.375,156,Flash,Ghost,13,False,9652,8775,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Doran's Ring,Cloth Armor,79449,12595,Lane.mid_lane,Role.solo
+1,Cytosine,Elise,False,Side.blue,4,7,7,1.5714285714285714,102,Smite,Flash,12,False,8998,8800,The Dark Seal,Hunter's Potion,Seeker's Armguard,Abyssal Scepter,Boots of Mobility,Enchantment: Runic Echoes,66124,21137,Lane.jungle,Role.none
+2,Keegun,Pantheon,False,Side.blue,2,11,10,1.0909090909090908,33,Flash,Ignite,11,False,7264,6850,Serrated Dirk,Edge of Night,Caulfield's Warhammer,Relic Shield,Boots of Mobility,,1815,23891,Lane.bot_lane,Role.support
+3,HungBrickMan,Jhin,False,Side.blue,8,10,2,1.0,121,Heal,Flash,11,True,9002,7825,Doran's Blade,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,,Control Ward,6184,61630,Lane.bot_lane,Role.carry
+4,Zsukie,Riven,False,Side.blue,0,4,2,0.5,174,Teleport,Flash,13,False,8335,7550,Doran's Shield,Refillable Potion,The Black Cleaver,Ninja Tabi,Caulfield's Warhammer,Hexdrinker,0,91324,Lane.top_lane,Role.solo
+5,Swordblue,Thresh,True,Side.red,3,5,23,5.2,20,Flash,Ignite,13,False,8613,8225,Sightstone,Face of the Mountain,Locket of the Iron Solari,Glacial Shroud,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,7436,8894,Lane.bot_lane,Role.support
+6,1q2w3e4r5t6y7u8i,Renekton,True,Side.red,8,3,4,4.0,241,Flash,Teleport,15,False,12739,9300,Edge of Night,Tiamat,Ninja Tabi,Doran's Blade,The Black Cleaver,,6990,138318,Lane.top_lane,Role.solo
+7,Krewl,Vayne,True,Side.red,10,2,12,11.0,183,Heal,Flash,14,False,12844,9750,Infinity Edge,Doran's Blade,Zeal,Dagger,Berserker's Greaves,Statikk Shiv,25893,87763,Lane.bot_lane,Role.carry
+8,Xyd ,Ahri,True,Side.red,5,6,11,2.6666666666666665,185,Flash,Ignite,14,False,11134,9325,Needlessly Large Rod,Morellonomicon,Doran's Ring,Sorcerer's Shoes,,Abyssal Scepter,60856,13665,Lane.mid_lane,Role.solo
+9,Khang,Evelynn,True,Side.red,14,5,14,5.6,95,Smite,Flash,14,False,12461,10875,Hunter's Potion,Enchantment: Cinderhulk,Boots of Mobility,Lich Bane,Abyssal Scepter,Giant's Belt,78433,31191,Lane.jungle,Role.none

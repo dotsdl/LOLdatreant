@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tricia Li,Diana,False,Side.blue,1,6,1,0.3333333333333333,243,Teleport,Flash,15,False,11313,11700,Nashor's Tooth,Zhonya's Hourglass,Quicksilver Sash,,Sheen,Mercury's Treads,137177,29746,Lane.mid_lane,Role.solo
+1,Oxfoord,Jinx,False,Side.blue,5,5,9,2.8,177,Heal,Flash,13,False,11146,10650,Runaan's Hurricane,Infinity Edge,Last Whisper,Doran's Blade,Berserker's Greaves,Giant Slayer,1114,115509,Lane.bot_lane,Role.carry
+2,l am Madlife,Blitzcrank,False,Side.blue,2,3,12,4.666666666666667,37,Flash,Ignite,11,False,8041,7900,Frozen Heart,Refillable Potion,Face of the Mountain,Ruby Sightstone,,Boots of Swiftness,7202,7345,Lane.bot_lane,Role.support
+3,powergamer,Lee Sin,False,Side.blue,7,7,4,1.5714285714285714,91,Smite,Flash,12,False,9641,9325,Ninja Tabi,Refillable Potion,Dead Man's Plate,Hexdrinker,Caulfield's Warhammer,Enchantment: Warrior,13058,65440,Lane.jungle,Role.none
+4,IQ is 201 ,Trundle,False,Side.blue,4,11,1,0.45454545454545453,211,Flash,Teleport,14,True,10427,9608,Ravenous Hydra,Corrupting Potion,Trinity Force,Ninja Tabi,Ruby Crystal,Cloth Armor,2200,124100,Lane.top_lane,Role.solo
+5,Please Fade,Malzahar,True,Side.red,4,1,13,17.0,158,Ghost,Flash,15,False,11194,8460,Morellonomicon,Doran's Ring,Amplifying Tome,Doran's Ring,Ionian Boots of Lucidity,Rylai's Crystal Scepter,84963,26533,Lane.mid_lane,Role.solo
+6,MoneyOrLife,Hecarim,True,Side.red,10,2,13,11.5,96,Ghost,Smite,14,False,12044,10908,Enchantment: Cinderhulk,Dead Man's Plate,Trinity Force,Boots of Swiftness,Null-Magic Mantle,,25476,77413,Lane.jungle,Role.none
+7,  yy  suger  ,Vayne,True,Side.red,9,8,5,1.75,198,Flash,Heal,14,False,12758,10700,Infinity Edge,Statikk Shiv,Doran's Blade,Berserker's Greaves,Phantom Dancer,Long Sword,37578,103284,Lane.bot_lane,Role.carry
+8,WE Mafia,Poppy,True,Side.red,8,5,10,3.6,162,Flash,Teleport,15,False,11868,10075,Warden's Mail,Sunfire Cape,Iceborn Gauntlet,Mercury's Treads,,Giant's Belt,35826,71380,Lane.top_lane,Role.solo
+9,IM IgNar,Nami,True,Side.red,1,3,20,7.0,17,Exhaust,Flash,13,False,8648,7000,Locket of the Iron Solari,Redemption,Sightstone,Boots of Mobility,Spellthief's Edge,Control Ward,8351,9507,Lane.bot_lane,Role.support

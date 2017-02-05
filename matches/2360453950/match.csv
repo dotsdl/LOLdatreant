@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Luuuurking,Ezreal,True,Side.blue,6,0,8,14.0,129,Flash,Heal,11,False,9040,7350,Doran's Blade,Manamune,Cull,Iceborn Gauntlet,Vampiric Scepter,Boots of Speed,6466,62083,Lane.bot_lane,Role.carry
+1,xBlotter,Teemo,True,Side.blue,4,0,2,6.0,164,Ignite,Flash,13,False,9042,7300,Doran's Ring,,Fiendish Codex,Haunting Guise,Nashor's Tooth,Sorcerer's Shoes,48518,31350,Lane.top_lane,Role.solo
+2,Galdrick,Braum,True,Side.blue,0,1,11,11.0,27,Flash,Exhaust,10,False,6174,5025,Sightstone,Face of the Mountain,Control Ward,Boots of Mobility,Null-Magic Mantle,Cloth Armor,4653,6763,Lane.bot_lane,Role.support
+3,IQ is 201 ,Viktor,True,Side.blue,8,0,3,11.0,128,Flash,Ghost,12,False,8758,6920,Sheen,Perfect Hex Core,Doran's Ring,Doran's Ring,Negatron Cloak,Sorcerer's Shoes,65290,11452,Lane.mid_lane,Role.solo
+4,Mckenize,Graves,True,Side.blue,6,3,5,3.6666666666666665,93,Smite,Flash,11,True,8579,8175,Enchantment: Warrior,Long Sword,Long Sword,Vampiric Scepter,Berserker's Greaves,Phantom Dancer,3008,77271,Lane.jungle,Role.none
+5,Rikiimaru,Fiora,False,Side.red,1,6,0,0.16666666666666666,54,Flash,Teleport,9,False,4210,3950,Mercury's Treads,Corrupting Potion,Caulfield's Warhammer,,Phage,,1033,13692,Lane.top_lane,Role.solo
+6,zxBlitzx,Lucian,False,Side.red,1,6,1,0.3333333333333333,109,Flash,Heal,9,False,5304,4850,Doran's Blade,Infinity Edge,Dagger,Boots of Speed,,,556,42943,Lane.bot_lane,Role.carry
+7,Melody 3k,Zyra,False,Side.red,0,6,2,0.3333333333333333,14,Flash,Exhaust,8,False,4302,3650,Eye of the Watchers,Ionian Boots of Lucidity,,Total Biscuit of Rejuvenation,Control Ward,,17966,2883,Lane.bot_lane,Role.support
+8,HellKatabrousse,Syndra,False,Side.red,1,5,0,0.2,91,Ignite,Flash,9,False,4813,3335,Doran's Ring,Lost Chapter,Fiendish Codex,Amplifying Tome,Boots of Speed,Health Potion,30996,5443,Lane.mid_lane,Role.solo
+9,Hi I m Realer,Vi,False,Side.red,1,1,1,2.0,108,Smite,Flash,11,False,5980,5775,Enchantment: Warrior,Phage,Ninja Tabi,Sapphire Crystal,,,686,74582,Lane.jungle,Role.none

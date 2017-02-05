@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,gabzpiano,Xin Zhao,False,Side.blue,6,9,2,0.8888888888888888,218,Flash,Smite,16,False,12959,11878,Enchantment: Bloodrazor,Mercury's Treads,Dead Man's Plate,Trinity Force,Negatron Cloak,Chain Vest,25007,164957,Lane.jungle,Role.none
+1,MrCharIes,Maokai,False,Side.blue,4,2,8,6.0,160,Ignite,Flash,15,False,10740,9950,Sunfire Cape,Refillable Potion,Locket of the Iron Solari,Redemption,Mercury's Treads,Giant's Belt,87245,15401,Lane.top_lane,Role.solo
+2,Cat Person,Annie,False,Side.blue,5,6,4,1.5,196,Flash,Ignite,14,False,11192,11275,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Void Staff,,Sorcerer's Shoes,102301,10410,Lane.mid_lane,Role.solo
+3,S hitter,Sona,False,Side.blue,7,5,8,3.0,36,Ignite,Flash,14,False,10770,9750,Boots of Swiftness,Eye of the Watchers,Redemption,Athene's Unholy Grail,Tear of the Goddess,Needlessly Large Rod,25281,7226,Lane.bot_lane,Role.support
+4,123aaa789,Twitch,False,Side.blue,1,11,8,0.8181818181818182,176,Flash,Heal,13,False,10686,9975,Blade of the Ruined King,Pickaxe,B. F. Sword,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,929,107083,Lane.bot_lane,Role.carry
+5,Oyay,Viktor,True,Side.red,8,5,10,3.6,233,Flash,Ghost,16,True,14362,13300,Perfect Hex Core,Abyssal Scepter,Void Staff,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,150329,14801,Lane.mid_lane,Role.solo
+6,Hanjaro,Jhin,True,Side.red,3,7,17,2.857142857142857,168,Flash,Heal,15,False,12740,12525,Sterak's Gage,Statikk Shiv,Essence Reaver,Last Whisper,,Boots of Swiftness,7204,142120,Lane.bot_lane,Role.carry
+7,Sn4cky,Gnar,True,Side.red,8,4,6,3.5,232,Flash,Teleport,17,False,14098,13025,Guardian Angel,Frozen Mallet,Mercury's Treads,The Black Cleaver,Runaan's Hurricane,,18206,153923,Lane.top_lane,Role.solo
+8,Aisonu,Ivern,True,Side.red,10,3,15,8.333333333333334,140,Flash,Smite,16,False,14667,13175,Liandry's Torment,Guardian Angel,Ionian Boots of Lucidity,Mejai's Soulstealer,Athene's Unholy Grail,Redemption,53967,18631,Lane.jungle,Role.none
+9,SamppA,Bard,True,Side.red,4,4,23,6.75,21,Flash,Exhaust,14,False,11396,10650,Redemption,Control Ward,Eye of the Watchers,Zeke's Harbinger,Boots of Mobility,Mikael's Crucible,22245,8590,Lane.bot_lane,Role.support

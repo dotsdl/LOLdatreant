@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zlsna,Syndra,True,Side.blue,7,1,4,11.0,155,Flash,Ghost,13,True,9710,6650,Doran's Ring,Refillable Potion,Doran's Ring,Morellonomicon,Haunting Guise,Sorcerer's Shoes,85033,13401,Lane.mid_lane,Role.solo
+1,McCashDollar,Shaco,True,Side.blue,4,1,4,8.0,102,Ignite,Smite,12,False,8344,8200,Refillable Potion,Tiamat,Enchantment: Runic Echoes,Boots of Mobility,Long Sword,Dead Man's Plate,22063,64646,Lane.jungle,Role.none
+2,mandatorycloud,Brand,True,Side.blue,5,3,11,5.333333333333333,22,Flash,Ignite,10,False,8189,7150,Frostfang,Rylai's Crystal Scepter,Boots of Mobility,Sightstone,Blasting Wand,Control Ward,27054,5659,Lane.bot_lane,Role.support
+3,SKY Fear,Jhin,True,Side.blue,11,4,7,4.5,123,Flash,Heal,11,False,10574,8800,Essence Reaver,Rapid Firecannon,Doran's Blade,Control Ward,Pickaxe,Boots of Swiftness,1288,71524,Lane.bot_lane,Role.carry
+4,Allorim,Maokai,True,Side.blue,2,1,10,12.0,122,Flash,Teleport,13,False,8008,6125,Sunfire Cape,The Dark Seal,Control Ward,Corrupting Potion,Spectre's Cowl,Ninja Tabi,59727,15591,Lane.top_lane,Role.solo
+5,Entranced,Jax,False,Side.red,5,5,0,1.0,151,Teleport,Flash,12,False,8149,7433,Mercury's Treads,Corrupting Potion,Doran's Blade,Trinity Force,Hexdrinker,Long Sword,21528,63062,Lane.top_lane,Role.solo
+6,Jurassiq,Ezreal,False,Side.red,2,5,1,0.6,140,Flash,Heal,11,False,6861,6800,Manamune,Doran's Blade,Boots of Speed,Cull,Iceborn Gauntlet,Long Sword,8235,50499,Lane.bot_lane,Role.carry
+7,Auldrant,Lee Sin,False,Side.red,1,5,4,1.0,98,Flash,Smite,11,False,6107,5800,Refillable Potion,Enchantment: Warrior,Tiamat,Giant's Belt,Boots of Speed,Null-Magic Mantle,9132,50904,Lane.jungle,Role.none
+8,The Tank Man,Janna,False,Side.red,0,8,7,0.875,7,Flash,Exhaust,8,False,4953,4550,Eye of the Oasis,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,Control Ward,,1839,1265,Lane.bot_lane,Role.support
+9,Rhux,Viktor,False,Side.red,2,6,3,0.8333333333333334,108,Flash,Heal,11,False,6132,5535,Refillable Potion,Doran's Ring,Perfect Hex Core,Ionian Boots of Lucidity,Amplifying Tome,Doran's Ring,41556,6475,Lane.mid_lane,Role.solo

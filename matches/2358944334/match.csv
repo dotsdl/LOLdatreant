@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Is That Sony,Tahm Kench,True,Side.blue,4,5,13,3.4,28,Exhaust,Flash,14,False,9911,8275,Knight's Vow,Redemption,Ruby Sightstone,Control Ward,Targon's Brace,Boots of Swiftness,11576,8414,Lane.bot_lane,Role.support
+1,purgetheinnocent,Yasuo,True,Side.blue,3,7,8,1.5714285714285714,155,Flash,Teleport,14,False,10115,8275,Doran's Blade,Phantom Dancer,Frozen Mallet,Ninja Tabi,Cloak of Agility,,21169,81338,Lane.top_lane,Role.solo
+2,GalileoGalilley,Graves,True,Side.blue,10,3,7,5.666666666666667,265,Flash,Heal,16,False,14820,11250,Doran's Blade,Death's Dance,Phantom Dancer,Ninja Tabi,Infinity Edge,,759,180277,Lane.bot_lane,Role.carry
+3,Vicktorious,Kindred,True,Side.blue,2,11,8,0.9090909090909091,118,Flash,Smite,14,False,9896,9225,Bilgewater Cutlass,,Recurve Bow,Enchantment: Bloodrazor,Runaan's Hurricane,Berserker's Greaves,1992,105540,Lane.jungle,Role.none
+4,Extempted,LeBlanc,True,Side.blue,9,5,6,3.0,159,Ignite,Flash,15,False,11867,10100,Doran's Ring,Needlessly Large Rod,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Blasting Wand,89194,16541,Lane.mid_lane,Role.solo
+5,Galdrick,Alistar,False,Side.red,2,5,9,2.2,40,Flash,Ignite,12,False,7854,6825,Sightstone,Face of the Mountain,Knight's Vow,Control Ward,Boots of Mobility,,13593,7353,Lane.bot_lane,Role.support
+6,IQ is 201 ,Vayne,False,Side.red,4,5,2,1.2,208,Flash,Heal,13,False,10333,10030,Berserker's Greaves,Doran's Blade,Infinity Edge,Zeal,Kircheis Shard,Phantom Dancer,1424,95053,Lane.bot_lane,Role.carry
+7,Joseph Sulenski,Kha'Zix,False,Side.red,9,6,8,2.8333333333333335,114,Flash,Smite,15,False,10990,10425,Enchantment: Warrior,Tiamat,Youmuu's Ghostblade,Boots of Speed,Duskblade of Draktharr,,4499,132306,Lane.jungle,Role.none
+8,LucifeDiven,Riven,False,Side.red,3,6,7,1.6666666666666667,206,Flash,Teleport,15,False,10585,10300,Ravenous Hydra,The Black Cleaver,Caulfield's Warhammer,Doran's Blade,Mercury's Treads,Doran's Blade,0,117463,Lane.top_lane,Role.solo
+9,Brunette Life,Talon,False,Side.red,12,6,8,3.3333333333333335,130,Ghost,Flash,13,True,11235,10425,,Tiamat,Youmuu's Ghostblade,Boots of Mobility,Hexdrinker,The Black Cleaver,0,93342,Lane.mid_lane,Role.solo

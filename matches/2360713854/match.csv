@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Happy Birfdizzay,Teemo,True,Side.blue,11,6,15,4.333333333333333,16,Flash,Ignite,14,False,12531,10850,Liandry's Torment,Morellonomicon,Void Staff,,Sorcerer's Shoes,Frostfang,33515,8284,Lane.bot_lane,Role.support
+1,amumumu,Amumu,True,Side.blue,8,5,11,3.8,186,Flash,Smite,16,False,14320,13800,Enchantment: Runic Echoes,Chain Vest,Rylai's Crystal Scepter,Liandry's Torment,Ninja Tabi,Guardian Angel,156668,39106,Lane.jungle,Role.none
+2,Overlord Forte,Taliyah,True,Side.blue,5,3,10,5.0,143,Flash,Ghost,15,False,11294,10860,Doran's Ring,Zhonya's Hourglass,Hextech GLP-800,Void Staff,Sorcerer's Shoes,,82379,7460,Lane.mid_lane,Role.solo
+3,Peridot,Ezreal,True,Side.blue,13,5,11,4.8,194,Heal,Flash,15,False,15211,13275,The Bloodthirster,Hexdrinker,Iceborn Gauntlet,Caulfield's Warhammer,Muramana,Ionian Boots of Lucidity,19110,107241,Lane.bot_lane,Role.carry
+4,Feitan,Jayce,True,Side.blue,8,3,7,5.0,197,Teleport,Flash,16,False,13473,11750,Ionian Boots of Lucidity,The Bloodthirster,Long Sword,Youmuu's Ghostblade,The Black Cleaver,Doran's Blade,22720,123959,Lane.top_lane,Role.solo
+5,OUT DO YA,Caitlyn,False,Side.red,4,10,6,1.0,200,Flash,Heal,14,True,10302,9950,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Zeal,Kircheis Shard,1156,115442,Lane.bot_lane,Role.carry
+6,Darvec,Vi,False,Side.red,7,7,8,2.142857142857143,134,Smite,Flash,14,False,10798,10658,Enchantment: Cinderhulk,Trinity Force,Maw of Malmortius,,Ionian Boots of Lucidity,,6775,105303,Lane.jungle,Role.none
+7,Maxtrobo,Kennen,False,Side.red,2,9,2,0.4444444444444444,161,Flash,Teleport,12,False,8785,7950,Doran's Blade,Hextech Protobelt-01,Seeker's Armguard,Void Staff,Ionian Boots of Lucidity,Health Potion,51985,19111,Lane.top_lane,Role.solo
+8,Ayukura,Braum,False,Side.red,2,8,8,1.25,53,Flash,Exhaust,13,False,7933,6975,Face of the Mountain,Sightstone,Locket of the Iron Solari,Mercury's Treads,,,8191,7188,Lane.bot_lane,Role.support
+9,Fas the Magi,Talon,False,Side.red,7,11,1,0.7272727272727273,196,Flash,Ignite,14,False,10409,9775,Hexdrinker,Infinity Edge,Boots of Speed,Death's Dance,Long Sword,,1860,113206,Lane.mid_lane,Role.solo

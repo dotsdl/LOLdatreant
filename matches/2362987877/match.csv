@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Carbonara,Zyra,True,Side.blue,1,5,17,3.6,37,Ignite,Flash,11,False,9049,8100,Spellthief's Edge,Sightstone,Rylai's Crystal Scepter,Sorcerer's Shoes,Haunting Guise,Fiendish Codex,30071,7162,Lane.bot_lane,Role.support
+1,CedR1CK GOD,Hecarim,True,Side.blue,5,9,11,1.7777777777777777,107,Ghost,Smite,13,False,10642,8708,Enchantment: Cinderhulk,Hunter's Potion,Trinity Force,Boots of Speed,Needlessly Large Rod,Ruby Crystal,14524,92625,Lane.jungle,Role.none
+2,Anthøny,Ekko,True,Side.blue,10,5,12,4.4,118,Teleport,Flash,14,False,11496,9200,Corrupting Potion,Hextech Protobelt-01,Ionian Boots of Lucidity,Morellonomicon,Guardian Angel,,65105,15154,Lane.top_lane,Role.solo
+3,Hi im Thalies,Katarina,True,Side.blue,11,2,7,9.0,143,Ignite,Flash,13,False,11991,11550,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Hextech Gunblade,,Void Staff,77029,8297,Lane.mid_lane,Role.solo
+4,Miracle Kid,Caitlyn,True,Side.blue,13,2,13,13.0,174,Heal,Flash,14,True,14799,14275,Doran's Blade,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,Infinity Edge,Rapid Firecannon,1086,158422,Lane.bot_lane,Role.carry
+5,Barclay snoopy,Jhin,False,Side.red,4,8,11,1.875,143,Heal,Flash,13,False,9108,7800,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,,,6162,82418,Lane.bot_lane,Role.carry
+6,Thinkful,Jayce,False,Side.red,6,8,7,1.625,149,Teleport,Flash,13,False,9032,8200,Doran's Blade,Mercury's Treads,Youmuu's Ghostblade,Maw of Malmortius,,,11828,70324,Lane.top_lane,Role.solo
+7,Voka,Orianna,False,Side.red,0,5,11,2.2,176,Flash,Barrier,14,False,8585,7375,Doran's Ring,Morellonomicon,,Abyssal Scepter,Ionian Boots of Lucidity,,74187,11686,Lane.mid_lane,Role.solo
+8,26209633,Braum,False,Side.red,5,10,8,1.3,23,Flash,Ignite,11,False,7360,6725,Ruby Sightstone,Randuin's Omen,,Relic Shield,Mercury's Treads,,5609,2914,Lane.bot_lane,Role.support
+9,Report If Toxic,Zac,False,Side.red,7,9,4,1.2222222222222223,84,Flash,Smite,12,False,8483,7075,Refillable Potion,Locket of the Iron Solari,Spectre's Cowl,Enchantment: Runic Echoes,Ionian Boots of Lucidity,,57691,16888,Lane.jungle,Role.none

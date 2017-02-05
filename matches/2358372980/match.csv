@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Xandergod,Vayne,True,Side.blue,13,6,8,3.5,207,Flash,Heal,14,False,13821,11650,Doran's Blade,Infinity Edge,Statikk Shiv,Phantom Dancer,Berserker's Greaves,B. F. Sword,30002,111844,Lane.bot_lane,Role.carry
+1,MattyMooo,Graves,True,Side.blue,2,5,17,3.8,123,Smite,Flash,14,False,10213,9325,Enchantment: Warrior,Youmuu's Ghostblade,Berserker's Greaves,Refillable Potion,Phantom Dancer,,4136,115629,Lane.jungle,Role.none
+2,Extreme Person,Ryze,True,Side.blue,8,6,7,2.5,158,Flash,Ghost,14,False,11552,10200,Rylai's Crystal Scepter,Rod of Ages,Ionian Boots of Lucidity,Seraph's Embrace,,,99168,10010,Lane.mid_lane,Role.solo
+3,Koby,Poppy,True,Side.blue,6,2,6,6.0,207,Flash,Teleport,15,False,11364,9750,Corrupting Potion,Spirit Visage,Sunfire Cape,Mercury's Treads,Sheen,Phage,32179,71542,Lane.top_lane,Role.solo
+4,Thls ls my swamp,Alistar,True,Side.blue,2,1,19,21.0,31,Exhaust,Flash,13,False,8658,7500,Refillable Potion,Aegis of the Legion,Eye of the Equinox,Knight's Vow,Boots of Mobility,Null-Magic Mantle,15166,6359,Lane.bot_lane,Role.support
+5,Brian The is,Nasus,False,Side.red,2,5,5,1.4,219,Teleport,Flash,14,False,10429,8983,Trinity Force,Control Ward,Zz'Rot Portal,Ninja Tabi,Doran's Ring,Doran's Ring,83322,47235,Lane.top_lane,Role.solo
+6,Sn4cky,Karma,False,Side.red,2,7,7,1.2857142857142858,12,Flash,Exhaust,11,False,7662,7000,Athene's Unholy Grail,Eye of the Watchers,Boots of Swiftness,Crystalline Bracer,Forbidden Idol,,16558,3160,Lane.bot_lane,Role.support
+7,Témpest,Yasuo,False,Side.red,5,4,7,3.0,195,Flash,Exhaust,14,True,10696,10000,Frozen Mallet,Phantom Dancer,Cloak of Agility,Mercury's Treads,Doran's Blade,B. F. Sword,23682,89408,Lane.mid_lane,Role.solo
+8,ACuteKoreanGirI,Tristana,False,Side.red,4,7,2,0.8571428571428571,146,Heal,Flash,12,False,8907,7750,Doran's Blade,Infinity Edge,Phantom Dancer,Berserker's Greaves,,,17050,61796,Lane.bot_lane,Role.carry
+9,OpenBackpack,Elise,False,Side.red,7,8,6,1.625,115,Flash,Smite,14,False,10551,9735,Refillable Potion,Blasting Wand,Rylai's Crystal Scepter,Haunting Guise,Enchantment: Runic Echoes,Sorcerer's Shoes,93620,27481,Lane.jungle,Role.none

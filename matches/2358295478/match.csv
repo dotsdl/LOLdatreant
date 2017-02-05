@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Captain Kyru,Blitzcrank,True,Side.blue,2,5,7,1.8,29,Flash,Ignite,12,False,7997,6670,Negatron Cloak,Ruby Sightstone,Boots of Mobility,Relic Shield,Knight's Vow,,10031,9268,Lane.bot_lane,Role.support
+1,Danman96,Jhin,True,Side.blue,8,3,11,6.333333333333333,185,Flash,Heal,13,False,13079,11925,Doran's Blade,Youmuu's Ghostblade,Boots of Swiftness,Infinity Edge,Rapid Firecannon,Hexdrinker,4884,121080,Lane.bot_lane,Role.carry
+2,LOD,Ryze,True,Side.blue,3,5,2,1.0,182,Ghost,Flash,14,False,10507,9650,Seraph's Embrace,Refillable Potion,Rod of Ages,Void Staff,Ionian Boots of Lucidity,,112796,12099,Lane.mid_lane,Role.solo
+3,21 Savagé,Rek'Sai,True,Side.blue,12,1,7,19.0,194,Smite,Flash,16,False,14025,12475,Enchantment: Cinderhulk,Mercury's Treads,Spirit Visage,Giant's Belt,Warden's Mail,Titanic Hydra,38591,126296,Lane.jungle,Role.none
+4,ThePadzQC,Kennen,True,Side.blue,4,5,9,2.6,172,Teleport,Flash,14,False,10700,10350,Sorcerer's Shoes,Hextech Protobelt-01,Rylai's Crystal Scepter,Doran's Blade,Abyssal Scepter,,67833,24795,Lane.top_lane,Role.solo
+5,IHateD2Players,LeBlanc,False,Side.red,8,7,3,1.5714285714285714,125,Flash,Ignite,13,False,9249,8385,Doran's Ring,Doran's Ring,Abyssal Scepter,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,60539,8622,Lane.mid_lane,Role.solo
+6,TheKushGuy,Ziggs,False,Side.red,4,5,7,2.2,174,Teleport,Flash,13,False,9486,8910,Ionian Boots of Lucidity,Doran's Ring,Morellonomicon,Luden's Echo,Amplifying Tome,Blasting Wand,106276,9926,Lane.top_lane,Role.solo
+7,AsianSGpøtatø,Brand,False,Side.red,0,11,10,0.9090909090909091,18,Flash,Ignite,10,False,6450,5335,Ruby Crystal,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,16402,1576,Lane.bot_lane,Role.support
+8,i miss you haru,Caitlyn,False,Side.red,4,3,6,3.3333333333333335,174,Flash,Heal,13,False,9487,9275,Doran's Blade,Runaan's Hurricane,Infinity Edge,Zeal,Berserker's Greaves,,278,88172,Lane.bot_lane,Role.carry
+9,foggedftw2,Tryndamere,False,Side.red,3,3,6,3.0,202,Smite,Flash,14,True,10874,10475,Enchantment: Bloodrazor,Statikk Shiv,Infinity Edge,Mercury's Treads,Brawler's Gloves,,27037,135962,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,sorrymybad1,Jhin,False,Side.blue,3,6,4,1.1666666666666667,204,Flash,Heal,14,False,10465,9200,Rapid Firecannon,Doran's Blade,Control Ward,Essence Reaver,Boots of Swiftness,B. F. Sword,13379,105959,Lane.bot_lane,Role.carry
+1,aayura,Olaf,False,Side.blue,4,5,1,1.0,267,Teleport,Flash,17,False,12252,12050,Doran's Blade,The Black Cleaver,Boots of Swiftness,Hexdrinker,Dead Man's Plate,Guardian Angel,360,147543,Lane.top_lane,Role.solo
+2,Annie Bot,Annie,False,Side.blue,5,5,2,1.4,20,Exhaust,Flash,13,False,8872,7675,Frost Queen's Claim,Refillable Potion,Rabadon's Deathcap,,Ionian Boots of Lucidity,,17942,1561,Lane.bot_lane,Role.support
+3,am tham ben em,Rek'Sai,False,Side.blue,1,5,2,0.6,167,Flash,Smite,15,False,9927,9625,Mercury's Treads,Control Ward,Tiamat,Enchantment: Cinderhulk,Spectre's Cowl,Dead Man's Plate,33099,112347,Lane.jungle,Role.none
+4,Just Bad,Viktor,False,Side.blue,1,8,1,0.25,211,Flash,Ghost,14,False,9955,9210,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Sheen,Amplifying Tome,123416,8098,Lane.mid_lane,Role.solo
+5,BlooDLaS,Amumu,True,Side.red,4,3,9,4.333333333333333,159,Smite,Flash,16,True,12552,11525,Abyssal Scepter,Refillable Potion,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Haunting Guise,129488,26235,Lane.jungle,Role.none
+6,Cotopaco Parce,Cassiopeia,True,Side.red,6,1,6,12.0,218,Ghost,Flash,17,False,13283,11245,Doran's Ring,Rylai's Crystal Scepter,Seraph's Embrace,Morellonomicon,Negatron Cloak,,153411,12560,Lane.mid_lane,Role.solo
+7,50ShadesOfKappa,Jayce,True,Side.red,4,4,7,2.75,273,Teleport,Flash,18,False,14241,18200,Sterak's Gage,Sterak's Gage,Sterak's Gage,,,,26219,152433,Lane.top_lane,Role.solo
+8,UT Primeape,Ezreal,True,Side.red,11,3,12,7.666666666666667,242,Flash,Heal,16,False,16577,13833,B. F. Sword,Muramana,Mercurial Scimitar,Trinity Force,Ionian Boots of Lucidity,Vampiric Scepter,23163,170120,Lane.bot_lane,Role.carry
+9,BigCakes,Blitzcrank,True,Side.red,4,3,16,6.666666666666667,37,Ignite,Flash,15,False,11057,8700,Redemption,Locket of the Iron Solari,Eye of the Equinox,Control Ward,Boots of Mobility,Crystalline Bracer,11498,9662,Lane.bot_lane,Role.support

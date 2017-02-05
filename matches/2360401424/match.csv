@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Lemon,Lulu,False,Side.blue,3,8,9,1.5,24,Ignite,Flash,14,False,8956,8275,Boots of Mobility,Locket of the Iron Solari,Redemption,Eye of the Watchers,The Dark Seal,,19958,4133,Lane.bot_lane,Role.support
+1,NI9HT,Yasuo,False,Side.blue,1,9,7,0.8888888888888888,249,Teleport,Flash,16,False,11420,10300,The Bloodthirster,Hexdrinker,Berserker's Greaves,Statikk Shiv,,Cloak of Agility,52710,102278,Lane.mid_lane,Role.solo
+2,Espir III,Twisted Fate,False,Side.blue,6,3,6,4.0,229,Flash,Ghost,16,False,12982,11450,Doran's Ring,Sheen,Abyssal Scepter,Zhonya's Hourglass,Ionian Boots of Lucidity,Rod of Ages,133681,17004,Lane.top_lane,Role.solo
+3,GangstahSwerve,Rek'Sai,False,Side.blue,4,2,6,5.0,130,Smite,Flash,15,True,10936,9250,Tiamat,Randuin's Omen,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,Spectre's Cowl,35645,85329,Lane.jungle,Role.none
+4,You all boosted,Ashe,False,Side.blue,8,8,3,1.375,190,Flash,Heal,14,False,12175,11875,Doran's Blade,Infinity Edge,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,2829,123979,Lane.bot_lane,Role.carry
+5,lc0nic,Graves,True,Side.red,8,5,6,2.8,135,Flash,Smite,14,False,12104,11800,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,The Bloodthirster,Phage,Long Sword,3895,148577,Lane.jungle,Role.none
+6,Winter is back,Karma,True,Side.red,3,3,18,7.0,6,Flash,Exhaust,13,False,10048,10175,Ardent Censer,Fiendish Codex,Control Ward,Eye of the Watchers,Mercury's Treads,Mikael's Crucible,15479,4122,Lane.bot_lane,Role.support
+7,Stiches,Sivir,True,Side.red,10,3,11,7.0,279,Heal,Flash,17,False,15709,11025,Infinity Edge,Zeal,Essence Reaver,Doran's Blade,Cull,Berserker's Greaves,0,213636,Lane.bot_lane,Role.carry
+8,Link,Azir,True,Side.red,7,4,7,3.5,197,Flash,Cleanse,16,False,12629,12920,Zhonya's Hourglass,Needlessly Large Rod,Sorcerer's Shoes,Luden's Echo,The Dark Seal,Nashor's Tooth,127946,15641,Lane.mid_lane,Role.solo
+9,Beautiful Korean,Shaco,True,Side.red,2,7,4,0.8571428571428571,125,Teleport,Ignite,13,False,9461,8425,Corrupting Potion,Blade of the Ruined King,Doran's Ring,Berserker's Greaves,Statikk Shiv,Long Sword,18877,55797,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,1Guy3Axes,Lucian,True,Side.blue,4,5,4,1.6,178,Flash,Heal,11,False,9323,8150,Doran's Blade,Death's Dance,The Black Cleaver,Boots of Speed,Dagger,Long Sword,1338,91232,Lane.bot_lane,Role.carry
+1,GowaSan,Jax,True,Side.blue,9,2,1,5.0,209,Ignite,Flash,15,True,11609,10958,Hextech Gunblade,Trinity Force,Jaurim's Fist,Doran's Blade,Doran's Blade,Mercury's Treads,30054,99673,Lane.top_lane,Role.solo
+2,U smawt U lowyal,Janna,True,Side.blue,3,0,5,8.0,18,Flash,Exhaust,11,False,7072,6350,Ionian Boots of Lucidity,Forbidden Idol,Redemption,Eye of the Watchers,Control Ward,,4972,4663,Lane.bot_lane,Role.support
+3,LewisxLi,Elise,True,Side.blue,3,3,4,2.3333333333333335,76,Smite,Flash,12,False,7699,6250,Enchantment: Runic Echoes,Refillable Potion,Hextech Protobelt-01,Boots of Mobility,,,53035,20547,Lane.jungle,Role.none
+4,Yo Phinix,Trundle,True,Side.blue,2,0,5,7.0,133,Flash,Teleport,12,False,7711,6450,Tiamat,Corrupting Potion,,Mercury's Treads,The Black Cleaver,Ruby Crystal,1882,66130,Lane.jungle,Role.none
+5,Filthy Rengar ,Shyvana,False,Side.red,7,4,2,2.25,147,Ghost,Smite,12,False,9037,8400,Enchantment: Bloodrazor,Frozen Mallet,Refillable Potion,Chain Vest,Mercury's Treads,Ruby Crystal,57283,55686,Lane.jungle,Role.none
+6,J0ey Karate,Viktor,False,Side.red,0,3,3,1.0,176,Ghost,Flash,13,False,7164,6435,Ionian Boots of Lucidity,Perfect Hex Core,Needlessly Large Rod,Amplifying Tome,Doran's Ring,Doran's Ring,68144,13735,Lane.mid_lane,Role.solo
+7,xKiWi,Veigar,False,Side.red,2,3,3,1.6666666666666667,29,Flash,Exhaust,10,False,5643,5100,Eye of the Watchers,Doran's Ring,Sorcerer's Shoes,Fiendish Codex,Sapphire Crystal,,25109,2026,Lane.bot_lane,Role.support
+8,Dnapd,Jhin,False,Side.red,0,4,6,1.5,118,Heal,Flash,10,False,6231,5200,Doran's Blade,Essence Reaver,Brawler's Gloves,Dagger,Boots of Speed,,2203,52545,Lane.bot_lane,Role.carry
+9,G0oLEBLANCo0G,Irelia,False,Side.red,1,7,1,0.2857142857142857,120,Flash,Ignite,11,False,6307,6200,Phage,Corrupting Potion,Frozen Heart,Stinger,Boots of Speed,Sapphire Crystal,1560,34488,Lane.top_lane,Role.solo

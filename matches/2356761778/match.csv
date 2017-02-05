@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Atif,Yasuo,False,Side.blue,1,4,0,0.25,139,Flash,Teleport,11,False,6789,6050,Doran's Blade,Zeal,Frozen Mallet,Control Ward,Boots of Speed,Cull,15067,38392,Lane.top_lane,Role.solo
+1,TwistyJuker,Teemo,False,Side.blue,1,6,3,0.6666666666666666,74,Flash,Ghost,10,False,5681,4700,Null-Magic Mantle,Ruby Crystal,,Doran's Ring,Boots of Speed,Nashor's Tooth,29910,11368,Lane.mid_lane,Role.solo
+2,Ensign Ledo,Graves,False,Side.blue,3,5,1,0.8,151,Flash,Smite,12,False,7735,7325,Vampiric Scepter,Refillable Potion,,Phantom Dancer,Enchantment: Warrior,Berserker's Greaves,1335,94223,Lane.jungle,Role.none
+3,Shorthop,Caitlyn,False,Side.blue,3,2,1,2.0,169,Flash,Heal,11,False,8689,8475,Doran's Blade,Runaan's Hurricane,Infinity Edge,Total Biscuit of Rejuvenation,,Berserker's Greaves,1021,74256,Lane.bot_lane,Role.carry
+4,Kawaii Kitsune,Lulu,False,Side.blue,2,5,3,1.0,9,Flash,Ignite,10,False,5735,4775,Eye of the Oasis,Ninja Tabi,Aegis of the Legion,Control Ward,Null-Magic Mantle,,15248,2980,Lane.bot_lane,Role.support
+5,MattDeitz,Soraka,True,Side.red,0,2,11,5.5,5,Flash,Exhaust,11,False,6663,4025,Sightstone,Nomad's Medallion,Boots of Speed,The Dark Seal,Forbidden Idol,Crystalline Bracer,6390,5494,Lane.bot_lane,Role.support
+6,Quan Shi Sha Bi,Lucian,True,Side.red,0,3,0,0.0,156,Flash,Heal,11,False,7013,6825,Total Biscuit of Rejuvenation,Zeal,,Infinity Edge,Doran's Blade,Berserker's Greaves,927,64690,Lane.bot_lane,Role.carry
+7,HPoP,Illaoi,True,Side.red,5,2,5,5.0,146,Teleport,Flash,13,False,8573,6125,Corrupting Potion,The Black Cleaver,Long Sword,Glacial Shroud,Ninja Tabi,,940,87226,Lane.top_lane,Role.solo
+8,Philippe Paquet,Lee Sin,True,Side.red,5,2,12,8.5,110,Smite,Flash,13,True,9772,6875,Enchantment: Warrior,Tiamat,Chain Vest,Giant's Belt,Mercury's Treads,,13529,108795,Lane.jungle,Role.none
+9,nothinghere,Syndra,True,Side.red,12,1,6,18.0,180,Ghost,Flash,13,False,11560,8360,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,,Doran's Ring,Morellonomicon,98339,13020,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hatsunemiku233,Twitch,False,Side.blue,0,3,0,0.0,164,Flash,Heal,10,False,6296,5625,Doran's Blade,B. F. Sword,Runaan's Hurricane,Pickaxe,Boots of Speed,Total Biscuit of Rejuvenation,0,70822,Lane.bot_lane,Role.carry
+1,Alamander,Shen,False,Side.blue,1,4,1,0.5,101,Flash,Smite,11,False,5937,5425,Enchantment: Cinderhulk,Boots of Speed,Tiamat,Ruby Crystal,Ruby Crystal,,27575,52017,Lane.jungle,Role.none
+2,BOT MING,Teemo,False,Side.blue,0,3,1,0.3333333333333333,141,Flash,Exhaust,12,False,6066,5325,Doran's Ring,Hextech Gunblade,Control Ward,Doran's Ring,Ruby Crystal,Boots of Speed,36294,21297,Lane.top_lane,Role.solo
+3,Happo,Kog'Maw,False,Side.blue,3,6,0,0.5,138,Flash,Ghost,12,False,6751,6025,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Tear of the Goddess,Luden's Echo,,59430,10915,Lane.mid_lane,Role.solo
+4,RATZ STAY RATZ,Janna,False,Side.blue,0,1,0,0.0,8,Exhaust,Flash,9,False,4160,3625,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Sightstone,Forbidden Idol,Nomad's Medallion,,3785,2209,Lane.bot_lane,Role.support
+5,Tangerinezz,Bard,True,Side.red,2,0,9,11.0,9,Exhaust,Flash,10,False,5982,5275,Ruby Sightstone,Refillable Potion,Frost Queen's Claim,Boots of Mobility,,Control Ward,7910,3958,Lane.bot_lane,Role.support
+6,BIack3,Twisted Fate,True,Side.red,2,3,11,4.333333333333333,119,Flash,Ghost,12,False,8581,8100,Lich Bane,Refillable Potion,Luden's Echo,Ionian Boots of Lucidity,Doran's Ring,,65144,9629,Lane.mid_lane,Role.solo
+7,Mata dog,Lee Sin,True,Side.red,10,1,3,13.0,98,Flash,Smite,12,True,9545,8875,Enchantment: Warrior,Ravenous Hydra,Refillable Potion,Hexdrinker,Ionian Boots of Lucidity,Ruby Crystal,12561,73228,Lane.jungle,Role.none
+8,foggedftw2,Tryndamere,True,Side.red,2,0,2,4.0,178,Ignite,Flash,13,False,8511,8000,Vampiric Scepter,Refillable Potion,Control Ward,Mercury's Treads,The Black Cleaver,Statikk Shiv,17364,95504,Lane.top_lane,Role.solo
+9,Snaffs,Ezreal,True,Side.red,1,0,6,7.0,172,Heal,Flash,12,False,8045,7325,Doran's Blade,Manamune,Total Biscuit of Rejuvenation,Long Sword,Berserker's Greaves,Iceborn Gauntlet,5998,60097,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lord Gomenator,Jhin,True,Side.blue,8,4,11,4.75,130,Flash,Heal,11,True,10159,8575,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Pickaxe,,3538,79790,Lane.bot_lane,Role.carry
+1,IronTissue,Darius,True,Side.blue,6,0,2,8.0,146,Flash,Teleport,12,False,9424,7625,Corrupting Potion,Tiamat,Ninja Tabi,Null-Magic Mantle,The Black Cleaver,Jaurim's Fist,2160,90640,Lane.top_lane,Role.solo
+2,FaR007,Bard,True,Side.blue,4,4,11,3.75,4,Ignite,Flash,10,False,7166,5875,Boots of Mobility,Ruby Sightstone,Redemption,Frostfang,,,9827,5066,Lane.bot_lane,Role.support
+3, Wood Tier Godz,Zilean,True,Side.blue,4,3,11,5.0,130,Teleport,Flash,13,False,8777,6450,Needlessly Large Rod,Rod of Ages,Tear of the Goddess,Doran's Ring,,Ionian Boots of Lucidity,65494,10291,Lane.mid_lane,Role.solo
+4,Mythosxx,Shyvana,True,Side.blue,6,2,4,5.0,113,Exhaust,Smite,12,False,8896,6825,Enchantment: Bloodrazor,Refillable Potion,Jaurim's Fist,Tiamat,Mercury's Treads,Ruby Crystal,46585,59007,Lane.jungle,Role.none
+5,swiftlee,Gangplank,False,Side.red,2,6,5,1.1666666666666667,124,Exhaust,Flash,10,False,7089,6458,Trinity Force,Refillable Potion,Ionian Boots of Lucidity,Pickaxe,Cloak of Agility,,5306,63900,Lane.mid_lane,Role.solo
+6,JeiiZe,Renekton,False,Side.red,2,4,2,1.0,153,Teleport,Flash,12,False,6804,6525,Doran's Blade,Tiamat,Refillable Potion,The Black Cleaver,Mercury's Treads,Ruby Crystal,1597,81705,Lane.top_lane,Role.solo
+7,Hec says neigh,Karma,False,Side.red,1,10,8,0.9,10,Exhaust,Flash,9,False,5072,4575,Total Biscuit of Rejuvenation,Eye of the Watchers,Faerie Charm,Crystalline Bracer,Ionian Boots of Lucidity,Faerie Charm,12817,2768,Lane.bot_lane,Role.support
+8,Breakbot,Nunu,False,Side.red,5,3,3,2.6666666666666665,80,Smite,Flash,11,False,7176,6825,Enchantment: Cinderhulk,Frozen Heart,Boots of Speed,Kindlegem,Hunter's Potion,,24638,20204,Lane.jungle,Role.none
+9,Destinedwithin,Ezreal,False,Side.red,3,5,5,1.6,90,Flash,Heal,9,False,6378,5950,Doran's Blade,Manamune,Boots of Speed,Iceborn Gauntlet,,,5441,44569,Lane.bot_lane,Role.carry

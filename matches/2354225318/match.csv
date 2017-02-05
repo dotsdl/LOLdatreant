@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cat Person,Janna,False,Side.blue,0,2,2,1.0,5,Flash,Heal,6,False,2632,2275,Control Ward,Sightstone,Ionian Boots of Lucidity,Spellthief's Edge,,,786,1950,Lane.bot_lane,Role.duo
+1,Falco Mechanic,Sivir,False,Side.blue,1,5,1,0.4,61,Exhaust,Flash,6,False,3418,2625,Doran's Blade,Berserker's Greaves,Pickaxe,,,,0,27531,Lane.bot_lane,Role.duo
+2,DJ Holiday,Zac,False,Side.blue,1,2,1,1.0,50,Smite,Flash,7,False,3593,3150,Enchantment: Cinderhulk,Refillable Potion,Boots of Speed,Control Ward,,,17748,8762,Lane.jungle,Role.none
+3,LawlietLelouch,Riven,False,Side.blue,1,2,0,0.5,55,Flash,Teleport,8,False,3304,2650,Caulfield's Warhammer,Refillable Potion,Phage,,,,0,17963,Lane.top_lane,Role.solo
+4,Boolt,Karma,False,Side.blue,0,5,0,0.0,52,Flash,Teleport,7,False,2931,2180,Doran's Ring,Doran's Ring,Faerie Charm,Negatron Cloak,Amplifying Tome,,16941,2791,Lane.mid_lane,Role.solo
+5,Xzevz,Lee Sin,True,Side.red,8,0,3,11.0,50,Smite,Flash,9,True,6813,4625,Boots of Speed,Long Sword,,Enchantment: Warrior,Tiamat,,7096,48388,Lane.jungle,Role.none
+6,Kic,Twisted Fate,True,Side.red,1,0,4,5.0,77,Flash,Ghost,9,False,5204,3700,Doran's Ring,Catalyst of Aeons,Ionian Boots of Lucidity,Blasting Wand,The Dark Seal,,29239,8586,Lane.mid_lane,Role.solo
+7,RumbleMidGGnoRE,Leona,True,Side.red,0,1,6,6.0,20,Ignite,Flash,7,False,3977,2925,Targon's Brace,Boots of Swiftness,Cloth Armor,Cloth Armor,Cloth Armor,Control Ward,5841,7608,Lane.bot_lane,Role.duo
+8,CoreTienZ,Caitlyn,True,Side.red,4,1,3,7.0,88,Heal,Flash,8,False,6011,4325,Doran's Blade,B. F. Sword,Cull,Zeal,Boots of Speed,Dagger,1020,38455,Lane.bot_lane,Role.duo
+9,IA55A55INI,Yasuo,True,Side.red,3,1,0,3.0,75,Flash,Exhaust,9,False,4999,2850,Doran's Blade,Zeal,Refillable Potion,Dagger,Dagger,Boots of Speed,8311,26730,Lane.top_lane,Role.solo

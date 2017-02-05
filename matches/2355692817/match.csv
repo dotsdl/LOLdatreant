@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Woo Man,Teemo,False,Side.blue,3,2,1,2.0,182,Flash,Teleport,13,False,8526,7975,Ninja Tabi,Spectre's Cowl,Raptor Cloak,Corrupting Potion,Guinsoo's Rageblade,,52101,31627,Lane.top_lane,Role.solo
+1,cùrz,Bard,False,Side.blue,1,6,7,1.3333333333333333,11,Flash,Ignite,9,False,5878,4950,Eye of the Watchers,Control Ward,Crystalline Bracer,Boots of Mobility,Forbidden Idol,,8643,3897,Lane.bot_lane,Role.support
+2,Hamptonst,Vayne,False,Side.blue,2,9,4,0.6666666666666666,121,Flash,Heal,10,False,6873,6750,Doran's Blade,Zeal,Infinity Edge,,,Berserker's Greaves,0,52426,Lane.bot_lane,Role.carry
+3,jyjyjy,Orianna,False,Side.blue,0,7,1,0.14285714285714285,166,Flash,Ghost,12,False,7270,6810,Morellonomicon,Needlessly Large Rod,Amplifying Tome,Doran's Ring,Doran's Ring,Sorcerer's Shoes,80109,12359,Lane.mid_lane,Role.solo
+4,Y2tpme,Lee Sin,False,Side.blue,10,7,1,1.5714285714285714,96,Smite,Flash,12,False,9500,9050,Ninja Tabi,Enchantment: Warrior,Refillable Potion,Tiamat,The Black Cleaver,Chain Vest,13381,82773,Lane.jungle,Role.none
+5,Wazabiee,Jhin,True,Side.red,9,3,13,7.333333333333333,115,Heal,Flash,12,True,10511,8100,,Control Ward,Rapid Firecannon,Essence Reaver,Doran's Blade,Boots of Swiftness,3176,75239,Lane.bot_lane,Role.carry
+6,Sebi,Viktor,True,Side.red,7,5,11,3.6,145,Flash,Ghost,12,False,10048,7400,The Hex Core mk-2,Doran's Ring,Boots of Speed,Rylai's Crystal Scepter,Sheen,,77695,13957,Lane.mid_lane,Role.solo
+7,Trigger me Sebi,Rammus,True,Side.red,3,1,11,14.0,111,Smite,Flash,13,False,8672,7050,Kindlegem,Refillable Potion,Control Ward,Thornmail,Boots of Mobility,Enchantment: Cinderhulk,44503,38289,Lane.jungle,Role.none
+8,Nëbu,Quinn,True,Side.red,7,5,6,2.6,104,Flash,Ignite,12,False,9112,7550,Doran's Blade,Corrupting Potion,Youmuu's Ghostblade,Statikk Shiv,Mercury's Treads,,6105,55369,Lane.top_lane,Role.solo
+9,Abraham,Thresh,True,Side.red,5,3,19,8.0,18,Flash,Ignite,11,False,7802,6225,Boots of Mobility,Relic Shield,Redemption,Glacial Shroud,Ruby Sightstone,,9431,5661,Lane.bot_lane,Role.support

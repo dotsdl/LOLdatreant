@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pralunalu,Cho'Gath,True,Side.blue,7,0,5,12.0,196,Ghost,Flash,15,False,10341,7250,Boots of Speed,Rod of Ages,Rylai's Crystal Scepter,Doran's Ring,Null-Magic Mantle,,96421,18664,Lane.mid_lane,Role.solo
+1,kevybear,Lux,True,Side.blue,0,5,10,2.0,23,Exhaust,Flash,11,False,6846,5025,Refillable Potion,Athene's Unholy Grail,Sightstone,Frostfang,Ionian Boots of Lucidity,,20796,4969,Lane.bot_lane,Role.support
+2,Oombadu,Twitch,True,Side.blue,10,4,1,2.75,143,Flash,Heal,12,True,9732,8500,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Doran's Blade,Dagger,Dagger,0,69897,Lane.bot_lane,Role.carry
+3,gabzpiano,Xin Zhao,True,Side.blue,7,3,4,3.6666666666666665,104,Flash,Smite,13,False,9355,8525,Enchantment: Bloodrazor,Mercury's Treads,Dead Man's Plate,Stinger,Null-Magic Mantle,Long Sword,10994,104118,Lane.jungle,Role.none
+4,GnarlyTokes,Gnar,True,Side.blue,3,2,2,2.5,174,Teleport,Flash,13,False,7971,7125,Boots of Swiftness,The Black Cleaver,Spirit Visage,,,,4322,83137,Lane.top_lane,Role.solo
+5,II Master II,Katarina,False,Side.red,5,6,1,1.0,108,Flash,Teleport,11,False,7088,6950,The Dark Seal,Luden's Echo,Haunting Guise,Sorcerer's Shoes,Null-Magic Mantle,,57239,3717,Lane.mid_lane,Role.solo
+6,Xyd ,Leona,False,Side.red,3,4,7,2.5,31,Flash,Ignite,11,False,6282,5425,Targon's Brace,Knight's Vow,Boots of Mobility,Sightstone,,,5811,6775,Lane.bot_lane,Role.support
+7,rhubarbs,Kha'Zix,False,Side.red,4,6,0,0.6666666666666666,138,Smite,Flash,12,False,8260,7625,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Speed,Youmuu's Ghostblade,Null-Magic Mantle,3341,102736,Lane.jungle,Role.none
+8,tower72,Heimerdinger,False,Side.red,1,5,0,0.2,120,Teleport,Flash,12,False,6197,5800,Zhonya's Hourglass,Doran's Ring,Sorcerer's Shoes,Giant's Belt,Total Biscuit of Rejuvenation,,52555,10956,Lane.top_lane,Role.solo
+9,Jackdandan,Jhin,False,Side.red,1,6,4,0.8333333333333334,143,Flash,Heal,10,False,7192,6900,Doran's Blade,Serrated Dirk,Youmuu's Ghostblade,B. F. Sword,Boots of Swiftness,,4533,61062,Lane.bot_lane,Role.carry

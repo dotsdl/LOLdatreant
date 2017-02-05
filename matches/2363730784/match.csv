@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fockus,LeBlanc,True,Side.blue,11,2,12,11.5,202,Flash,Ignite,16,False,13767,13300,Rabadon's Deathcap,Sorcerer's Shoes,Abyssal Scepter,Mejai's Soulstealer,Ruby Crystal,Morellonomicon,106805,14063,Lane.mid_lane,Role.solo
+1,Cheney,Kindred,True,Side.blue,9,2,6,7.5,146,Smite,Flash,14,False,11650,9550,Enchantment: Bloodrazor,Refillable Potion,Bilgewater Cutlass,Berserker's Greaves,Frozen Mallet,Recurve Bow,2032,122030,Lane.jungle,Role.none
+2,734,Zyra,True,Side.blue,1,5,13,2.8,31,Flash,Exhaust,13,False,9558,8850,Rylai's Crystal Scepter,,Sorcerer's Shoes,Eye of the Watchers,Haunting Guise,Control Ward,25687,8656,Lane.bot_lane,Role.support
+3,OUT DO YA,Vayne,True,Side.blue,14,3,3,5.666666666666667,233,Flash,Heal,15,False,14242,14225,Statikk Shiv,Infinity Edge,Phantom Dancer,The Bloodthirster,Berserker's Greaves,,28894,117493,Lane.bot_lane,Role.carry
+4,Darmous,Poppy,True,Side.blue,4,4,10,3.5,174,Flash,Teleport,15,True,11340,9075,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,Spirit Visage,Bami's Cinder,Chain Vest,26005,91771,Lane.top_lane,Role.solo
+5,Nero Valentine,Galio,False,Side.red,1,9,4,0.5555555555555556,34,Ignite,Flash,10,False,6938,5875,Frost Queen's Claim,Refillable Potion,Boots of Swiftness,Crystalline Bracer,Sightstone,Forbidden Idol,19702,2992,Lane.bot_lane,Role.support
+6,Swìft,Fizz,False,Side.red,3,10,1,0.4,94,Teleport,Flash,12,False,7521,7537,Corrupting Potion,Lich Bane,Abyssal Scepter,The Dark Seal,Control Ward,,39477,15795,Lane.mid_lane,Role.solo
+7,harr0w,Jhin,False,Side.red,0,7,3,0.42857142857142855,159,Flash,Heal,13,False,7990,7050,Doran's Blade,Rapid Firecannon,Youmuu's Ghostblade,Boots of Swiftness,,,4327,88738,Lane.bot_lane,Role.carry
+8,sensei cat,Singed,False,Side.red,1,5,1,0.4,204,Teleport,Ghost,14,False,9857,8075,The Dark Seal,Corrupting Potion,Boots of Swiftness,Rylai's Crystal Scepter,The Dark Seal,Zz'Rot Portal,118504,10850,Lane.top_lane,Role.solo
+9,1936 1948,Shaco,False,Side.red,11,8,2,1.625,135,Smite,Ignite,15,False,11635,10625,Tiamat,Stinger,Hextech Gunblade,Enchantment: Warrior,Phage,Boots of Mobility,36721,95037,Lane.jungle,Role.none

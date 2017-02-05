@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Twilight N Light,Master Yi,True,Side.blue,5,3,3,2.6666666666666665,143,Smite,Exhaust,14,False,10263,10025,Enchantment: Bloodrazor,Blade of the Ruined King,Infinity Edge,,,,3764,134314,Lane.jungle,Role.none
+1,GowaSan,Jax,True,Side.blue,10,0,0,10.0,204,Ignite,Flash,15,False,11799,11633,Hextech Gunblade,Randuin's Omen,Trinity Force,Ninja Tabi,Corrupting Potion,,37662,94526,Lane.top_lane,Role.solo
+2,Mans,Orianna,True,Side.blue,10,3,8,6.0,175,Flash,Barrier,14,True,12115,11235,Void Staff,Luden's Echo,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,89167,14289,Lane.mid_lane,Role.solo
+3,MEOW AM CAT,Vayne,True,Side.blue,4,3,5,3.0,156,Heal,Flash,12,False,9733,8075,Doran's Blade,Infinity Edge,,Statikk Shiv,Berserker's Greaves,,10948,73336,Lane.bot_lane,Role.carry
+4,OtterShepard,Lux,True,Side.blue,0,3,13,4.333333333333333,13,Ignite,Flash,11,False,7193,6900,Doran's Ring,Mikael's Crucible,Talisman of Ascension,The Dark Seal,,Sorcerer's Shoes,21472,6916,Lane.bot_lane,Role.support
+5,Raven208,Janna,False,Side.red,0,3,5,1.6666666666666667,9,Flash,Exhaust,11,False,5393,5025,Frostfang,Redemption,Sightstone,Ionian Boots of Lucidity,,,4327,2296,Lane.bot_lane,Role.support
+6,lllIIllIIlIlllII,Yasuo,False,Side.red,4,9,1,0.5555555555555556,118,Flash,Exhaust,12,False,7352,5775,Doran's Shield,Refillable Potion,Phantom Dancer,Doran's Blade,Ninja Tabi,Pickaxe,18140,47524,Lane.top_lane,Role.solo
+7,Legatus Legionis,Ezreal,False,Side.red,3,5,1,0.8,141,Flash,Heal,11,False,7402,6408,Doran's Blade,Total Biscuit of Rejuvenation,Tear of the Goddess,Trinity Force,Boots of Speed,Pickaxe,12964,55651,Lane.bot_lane,Role.carry
+8,Big Deku Stick,LeBlanc,False,Side.red,3,8,3,0.75,144,Flash,Ignite,12,False,7862,7900,Doran's Ring,Morellonomicon,Boots of Speed,Abyssal Scepter,Fiendish Codex,,75461,8208,Lane.mid_lane,Role.solo
+9,IvanhoeFTW,Lee Sin,False,Side.red,2,4,3,1.25,69,Smite,Flash,12,False,6875,6700,Enchantment: Cinderhulk,Mercury's Treads,Tiamat,Refillable Potion,Aegis of the Legion,Null-Magic Mantle,11492,54961,Lane.jungle,Role.none

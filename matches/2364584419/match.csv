@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,onLy FoRget,Kha'Zix,True,Side.blue,7,3,2,3.0,140,Smite,Flash,16,False,12336,10820,Refillable Potion,Duskblade of Draktharr,Negatron Cloak,Enchantment: Warrior,The Black Cleaver,Ionian Boots of Lucidity,4644,165091,Lane.jungle,Role.none
+1,SavorWolf,Caitlyn,True,Side.blue,5,5,7,2.4,271,Heal,Flash,15,False,13505,10350,Doran's Blade,Runaan's Hurricane,B. F. Sword,Infinity Edge,Vampiric Scepter,Berserker's Greaves,1173,190017,Lane.bot_lane,Role.carry
+2,Nghtmover,Karma,True,Side.blue,1,4,9,2.5,27,Exhaust,Flash,13,False,9659,8375,Redemption,Refillable Potion,Ardent Censer,Eye of the Watchers,Boots of Mobility,,20491,7181,Lane.bot_lane,Role.support
+3,Moon Diana,Diana,True,Side.blue,5,4,3,2.0,224,Flash,Teleport,15,False,12411,10125,Nashor's Tooth,Fiendish Codex,Sorcerer's Shoes,Doran's Ring,Seeker's Armguard,Rod of Ages,130508,22617,Lane.mid_lane,Role.solo
+4,Emperor Alpha,Poppy,True,Side.blue,4,1,6,10.0,214,Flash,Teleport,17,False,12400,10875,Mercury's Treads,Corrupting Potion,Spirit Visage,Sunfire Cape,Iceborn Gauntlet,Chain Vest,23330,105074,Lane.top_lane,Role.solo
+5,Evandrus,Kennen,False,Side.red,3,6,4,1.1666666666666667,197,Flash,Teleport,15,True,10048,9675,Zhonya's Hourglass,Hextech Protobelt-01,Ionian Boots of Lucidity,Doran's Blade,Void Staff,,101143,20606,Lane.top_lane,Role.solo
+6,Stanatic,Ahri,False,Side.red,5,4,3,2.0,184,Flash,Ignite,15,False,10097,10050,Morellonomicon,Ionian Boots of Lucidity,Abyssal Scepter,Void Staff,,Doran's Ring,57481,17955,Lane.mid_lane,Role.solo
+7,herolineage,Lee Sin,False,Side.red,4,7,5,1.2857142857142858,148,Flash,Smite,14,False,10117,9675,Refillable Potion,Titanic Hydra,Enchantment: Warrior,The Black Cleaver,,Boots of Speed,32166,118287,Lane.jungle,Role.none
+8,Evereia,Janna,False,Side.red,0,1,7,7.0,9,Flash,Exhaust,12,False,7084,6550,Redemption,Sightstone,Chalice of Harmony,Forbidden Idol,Nomad's Medallion,Ionian Boots of Lucidity,8345,2750,Lane.bot_lane,Role.support
+9,sangchu,Jhin,False,Side.red,5,4,4,2.25,209,Heal,Flash,13,False,10486,9275,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Speed,B. F. Sword,Pickaxe,8121,128039,Lane.bot_lane,Role.carry

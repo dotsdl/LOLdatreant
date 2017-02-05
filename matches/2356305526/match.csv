@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jzxx,Nautilus,False,Side.blue,3,1,1,4.0,149,Smite,Flash,13,False,8015,7775,Enchantment: Cinderhulk,Refillable Potion,Dead Man's Plate,Ninja Tabi,Giant's Belt,,62781,30114,Lane.jungle,Role.none
+1,MetaRunner,Annie,False,Side.blue,2,7,8,1.4285714285714286,1,Flash,Ignite,10,False,6162,5550,Frost Queen's Claim,Hextech Revolver,,Boots of Mobility,Kindlegem,,11591,2114,Lane.bot_lane,Role.support
+2,Instakill3290,Caitlyn,False,Side.blue,5,6,4,1.5,150,Flash,Heal,11,False,8567,8425,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Long Sword,,384,84644,Lane.bot_lane,Role.carry
+3,red sakurar,Talon,False,Side.blue,5,7,3,1.1428571428571428,80,Ghost,Flash,12,False,7152,6875,Control Ward,Tiamat,Pickaxe,Boots of Mobility,The Black Cleaver,Long Sword,1041,36755,Lane.mid_lane,Role.solo
+4,Evil Kobe Bryant,Jayce,False,Side.blue,0,5,1,0.2,189,Flash,Teleport,13,False,7335,7125,Youmuu's Ghostblade,Doran's Blade,Refillable Potion,Boots of Speed,The Black Cleaver,,9388,72096,Lane.top_lane,Role.solo
+5,TubbyTiger,Jinx,True,Side.red,8,5,5,2.6,148,Heal,Flash,12,False,11014,9200,Doran's Blade,Infinity Edge,Runaan's Hurricane,Cull,Berserker's Greaves,Vampiric Scepter,304,93601,Lane.bot_lane,Role.carry
+6,Pimp Santa,Brand,True,Side.red,1,4,12,3.25,30,Ignite,Flash,11,True,8332,7125,Frost Queen's Claim,Ruby Sightstone,Needlessly Large Rod,Ionian Boots of Lucidity,Control Ward,Ruby Crystal,27250,4337,Lane.bot_lane,Role.support
+7,always plan ahea,Jhin,True,Side.red,2,4,6,2.0,198,Flash,Exhaust,14,False,9879,8600,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Infinity Edge,,,10494,114562,Lane.mid_lane,Role.solo
+8,Annadote,Nasus,True,Side.red,4,0,5,9.0,216,Flash,Teleport,14,False,11195,9850,Randuin's Omen,Frozen Heart,Zz'Rot Portal,Boots of Swiftness,,,64051,44838,Lane.top_lane,Role.solo
+9,GoldFlower,Lee Sin,True,Side.red,11,2,4,7.5,135,Smite,Flash,14,False,12144,9175,Refillable Potion,Enchantment: Warrior,Ravenous Hydra,Ninja Tabi,Giant's Belt,Chain Vest,28949,105676,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dreeeam,Orianna,False,Side.blue,7,7,4,1.5714285714285714,115,Flash,Ghost,12,False,8089,7950,Morellonomicon,Doran's Ring,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,,55217,8741,Lane.mid_lane,Role.solo
+1,East Berlin,Karma,False,Side.blue,4,8,6,1.25,13,Flash,Ignite,10,False,6497,6125,Frostfang,Redemption,Aegis of the Legion,Boots of Mobility,,Sightstone,7878,2632,Lane.bot_lane,Role.support
+2,Eludo,Ivern,False,Side.blue,0,6,3,0.5,71,Flash,Smite,11,False,5977,5185,The Dark Seal,Ruby Crystal,Ionian Boots of Lucidity,Redemption,Hunter's Talisman,Chalice of Harmony,7762,2967,Lane.jungle,Role.none
+3,Dumpling Sauce,Vayne,False,Side.blue,4,7,3,1.0,132,Heal,Flash,11,False,7421,7275,Doran's Blade,Berserker's Greaves,Pickaxe,Statikk Shiv,Cloak of Agility,B. F. Sword,657,43384,Lane.bot_lane,Role.carry
+4,Pshaw,Gnar,False,Side.blue,0,8,7,0.875,121,Teleport,Flash,12,False,6462,4755,Refillable Potion,Mercury's Treads,Doran's Blade,Doran's Blade,Hexdrinker,Giant's Belt,5788,66288,Lane.top_lane,Role.solo
+5,SNSD Sunnny,Swain,True,Side.red,6,2,8,7.0,202,Teleport,Flash,14,False,11577,10475,Sorcerer's Shoes,Rod of Ages,Rylai's Crystal Scepter,Doran's Ring,Zhonya's Hourglass,,93528,19399,Lane.top_lane,Role.solo
+6,Loopsers,Lee Sin,True,Side.red,5,3,6,3.6666666666666665,54,Smite,Flash,12,False,8290,7250,Titanic Hydra,Refillable Potion,Enchantment: Warrior,Boots of Mobility,,,8771,63057,Lane.jungle,Role.none
+7,Gorhunter,Katarina,True,Side.red,9,6,7,2.6666666666666665,116,Ignite,Flash,12,False,10161,10000,The Dark Seal,Kindlegem,Luden's Echo,Sorcerer's Shoes,Rylai's Crystal Scepter,Hextech Revolver,64094,6247,Lane.mid_lane,Role.solo
+8,Baraka Obama,Rumble,True,Side.red,10,3,5,5.0,97,Smite,Flash,13,False,10616,7450,Enchantment: Runic Echoes,Refillable Potion,Cloth Armor,Sorcerer's Shoes,Liandry's Torment,,95246,21093,Lane.jungle,Role.none
+9,TeamMeiya 70,Jhin,True,Side.red,6,1,12,18.0,142,Heal,Flash,13,True,10518,9925,Boots of Swiftness,Pickaxe,Doran's Blade,B. F. Sword,Essence Reaver,Rapid Firecannon,5476,93865,Lane.bot_lane,Role.solo

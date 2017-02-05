@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DowneyJr,Twitch,True,Side.blue,5,3,3,2.6666666666666665,119,Heal,Flash,12,False,8861,6175,Runaan's Hurricane,Doran's Blade,Boots of Speed,Cull,B. F. Sword,Pickaxe,0,68752,Lane.bot_lane,Role.carry
+1,nGu sPhatlips,Sejuani,True,Side.blue,2,3,10,4.0,143,Teleport,Flash,13,False,9015,7175,Zz'Rot Portal,Bami's Cinder,Corrupting Potion,Ionian Boots of Lucidity,Haunting Guise,Cloth Armor,54313,16237,Lane.top_lane,Role.solo
+2,IGottaBigSmurf,Janna,True,Side.blue,0,2,18,9.0,9,Flash,Exhaust,11,False,7102,5850,Redemption,Boots of Swiftness,Sightstone,Nomad's Medallion,Chain Vest,,4628,3296,Lane.bot_lane,Role.support
+3,Fledge,LeBlanc,True,Side.blue,7,3,12,6.333333333333333,129,Ignite,Flash,14,False,10492,9300,The Dark Seal,Zhonya's Hourglass,Rylai's Crystal Scepter,Blasting Wand,Doran's Ring,Sorcerer's Shoes,71772,9344,Lane.mid_lane,Role.solo
+4,Sud83,Xin Zhao,True,Side.blue,13,1,5,18.0,150,Smite,Flash,14,False,12183,10768,Enchantment: Bloodrazor,Vampiric Scepter,Tiamat,Ninja Tabi,Trinity Force,Recurve Bow,5856,155843,Lane.jungle,Role.none
+5,Zer0Wind,Mordekaiser,False,Side.red,3,6,1,0.6666666666666666,124,Teleport,Flash,11,True,7893,7580,Hextech Protobelt-01,Health Potion,Rylai's Crystal Scepter,Sorcerer's Shoes,,The Dark Seal,60431,10103,Lane.top_lane,Role.solo
+6,CowsGoMuu,Ivern,False,Side.red,4,5,3,1.4,87,Smite,Flash,12,False,7947,7800,Refillable Potion,Athene's Unholy Grail,Redemption,Locket of the Iron Solari,Hunter's Talisman,Ionian Boots of Lucidity,10471,4640,Lane.jungle,Role.none
+7,YY90077 YOLO,Thresh,False,Side.red,0,3,7,2.3333333333333335,14,Flash,Ignite,9,False,5506,4625,,Face of the Mountain,Sightstone,Boots of Mobility,,,6717,1969,Lane.bot_lane,Role.support
+8,Holy Troll,Zed,False,Side.red,2,7,1,0.42857142857142855,154,Ignite,Flash,12,False,7804,7625,Youmuu's Ghostblade,Mercury's Treads,Refillable Potion,Maw of Malmortius,Control Ward,,6427,69268,Lane.mid_lane,Role.solo
+9,Heimdall,Jhin,False,Side.red,3,6,4,1.1666666666666667,161,Heal,Flash,11,False,8402,8050,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Doran's Blade,Control Ward,,6088,82856,Lane.bot_lane,Role.carry

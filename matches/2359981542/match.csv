@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,lm Thanatos,Lux,True,Side.blue,7,2,8,7.5,107,Flash,Ghost,12,False,8193,4900,The Dark Seal,Morellonomicon,Sorcerer's Shoes,,,,51605,14469,Lane.mid_lane,Role.solo
+1,goompa,Thresh,True,Side.blue,4,1,14,18.0,11,Exhaust,Flash,10,False,7633,7600,Boots of Swiftness,Talisman of Ascension,Sightstone,Frozen Heart,Control Ward,Total Biscuit of Rejuvenation,9525,5183,Lane.bot_lane,Role.support
+2,R WangnunE,Jinx,True,Side.blue,10,3,6,5.333333333333333,121,Flash,Heal,10,True,10279,10075,Doran's Blade,Infinity Edge,Runaan's Hurricane,Zeal,Berserker's Greaves,Kircheis Shard,1143,84396,Lane.bot_lane,Role.carry
+3,ChuksaL,Irelia,True,Side.blue,7,1,4,11.0,147,Teleport,Flash,12,False,9068,8233,Corrupting Potion,Trinity Force,Youmuu's Ghostblade,Mercury's Treads,,,3361,64953,Lane.top_lane,Role.solo
+4,R Velstedt,Lee Sin,True,Side.blue,4,1,11,15.0,46,Smite,Flash,11,False,7222,4450,Enchantment: Warrior,,,Boots of Speed,Phage,,4867,40074,Lane.jungle,Role.none
+5,Fill or Feedz,Vayne,False,Side.red,1,5,1,0.4,86,Heal,Flash,9,False,5082,4250,Berserker's Greaves,B. F. Sword,Doran's Blade,Zeal,,,0,29068,Lane.bot_lane,Role.carry
+6,Reina Prowler,Nasus,False,Side.red,3,7,2,0.7142857142857143,72,Exhaust,Flash,10,False,5765,4100,Kindlegem,Corrupting Potion,Glacial Shroud,Cloth Armor,Sheen,Boots of Speed,4256,23175,Lane.top_lane,Role.solo
+7,Greenivo,Janna,False,Side.red,0,7,2,0.2857142857142857,3,Flash,Exhaust,9,False,3791,3300,Nomad's Medallion,Sightstone,Chain Vest,Boots of Speed,,,1543,1097,Lane.bot_lane,Role.support
+8,SilentGySgt,Hecarim,False,Side.red,1,6,3,0.6666666666666666,85,Smite,Flash,9,False,5452,4625,Tracker's Knife,Refillable Potion,Phage,Control Ward,Mercury's Treads,Sheen,7281,49397,Lane.jungle,Role.none
+9,megapasta,Ryze,False,Side.red,2,7,1,0.42857142857142855,105,Flash,Ghost,10,False,5653,4575,Tear of the Goddess,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,,,45675,4487,Lane.mid_lane,Role.solo

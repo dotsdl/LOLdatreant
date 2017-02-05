@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tkDarkSide,Shyvana,True,Side.blue,6,4,6,3.0,181,Smite,Flash,16,False,12529,10808,Warden's Mail,Enchantment: Cinderhulk,Trinity Force,Spectre's Cowl,Ninja Tabi,Giant's Belt,106352,83646,Lane.jungle,Role.none
+1,Desaltifier,Bard,True,Side.blue,2,4,11,3.25,10,Flash,Exhaust,13,False,8697,7325,Control Ward,Locket of the Iron Solari,Redemption,Sightstone,Boots of Mobility,Spellthief's Edge,13162,6139,Lane.bot_lane,Role.support
+2,o Circle o,Vayne,True,Side.blue,4,2,4,4.0,224,Heal,Flash,15,False,12934,10450,Bilgewater Cutlass,Dagger,Statikk Shiv,Doran's Blade,Infinity Edge,Berserker's Greaves,22456,117937,Lane.bot_lane,Role.carry
+3,General Gatsby,Gragas,True,Side.blue,9,3,5,4.666666666666667,205,Flash,Teleport,16,False,12969,11825,Needlessly Large Rod,Hextech Protobelt-01,Void Staff,Sheen,Abyssal Scepter,Ionian Boots of Lucidity,116870,18082,Lane.top_lane,Role.solo
+4,Dallidas,Vladimir,True,Side.blue,8,5,2,2.0,253,Ghost,Flash,17,False,14043,13550,Doran's Shield,Hextech Protobelt-01,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Void Staff,Rabadon's Deathcap,165431,14936,Lane.mid_lane,Role.solo
+5,Alex BIais,Ezreal,False,Side.red,3,6,6,1.5,151,Heal,Flash,13,False,9522,8450,Ionian Boots of Lucidity,Doran's Blade,Bilgewater Cutlass,Iceborn Gauntlet,Manamune,Dagger,24535,66145,Lane.bot_lane,Role.carry
+6,Sefciuc,Thresh,False,Side.red,3,4,6,2.25,43,Ignite,Flash,12,False,8043,7325,Mercury's Treads,Eye of the Equinox,Redemption,Ruby Crystal,Control Ward,Warden's Mail,18382,6860,Lane.bot_lane,Role.support
+7,Lotte,Lee Sin,False,Side.red,5,4,5,2.5,155,Smite,Flash,14,True,10863,10750,Cloth Armor,Tiamat,Enchantment: Warrior,Boots of Swiftness,The Black Cleaver,Guardian Angel,23985,112589,Lane.jungle,Role.none
+8,am sol,Viktor,False,Side.red,6,6,4,1.6666666666666667,222,Ghost,Flash,16,False,11602,11745,Perfect Hex Core,Rylai's Crystal Scepter,Lich Bane,Ionian Boots of Lucidity,Negatron Cloak,,137019,13204,Lane.mid_lane,Role.solo
+9,Chase Kip,Akali,False,Side.red,1,9,2,0.3333333333333333,191,Ignite,Teleport,14,False,9521,9070,Doran's Blade,Hextech Gunblade,Rylai's Crystal Scepter,Sorcerer's Shoes,Negatron Cloak,,30969,77256,Lane.top_lane,Role.solo

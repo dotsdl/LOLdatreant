@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IAmArray,Alistar,False,Side.blue,0,6,5,0.8333333333333334,46,Flash,Exhaust,10,False,5899,5800,Face of the Mountain,Refillable Potion,Boots of Mobility,Sightstone,Crystalline Bracer,Crystalline Bracer,16230,6589,Lane.bot_lane,Role.support
+1,naMonkeyMomBoom,Kayle,False,Side.blue,4,9,2,0.6666666666666666,151,Ghost,Flash,13,False,8406,8325,Refillable Potion,Nashor's Tooth,Wit's End,Berserker's Greaves,Doran's Ring,Recurve Bow,73107,29414,Lane.mid_lane,Role.solo
+2,gotcha bones,Vi,False,Side.blue,2,7,1,0.42857142857142855,100,Smite,Flash,12,False,7099,6600,Enchantment: Warrior,Boots of Speed,The Black Cleaver,Refillable Potion,,Long Sword,1073,79691,Lane.jungle,Role.none
+3,lllIllIIlllIllll,Ezreal,False,Side.blue,4,7,0,0.5714285714285714,112,Flash,Heal,10,False,7271,6725,Doran's Blade,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,,,11249,41865,Lane.bot_lane,Role.carry
+4,Kebin M,Riven,False,Side.blue,2,5,3,1.0,195,Flash,Teleport,13,False,8398,8175,Mercury's Treads,Maw of Malmortius,,Long Sword,,The Black Cleaver,0,94303,Lane.top_lane,Role.solo
+5,Calmly,Karma,True,Side.red,2,0,20,22.0,19,Flash,Exhaust,12,False,9443,8025,Ionian Boots of Lucidity,Frost Queen's Claim,Locket of the Iron Solari,Ruby Sightstone,Control Ward,Forbidden Idol,22549,9959,Lane.bot_lane,Role.support
+6,Enrique4pe,Jhin,True,Side.red,9,1,8,17.0,136,Flash,Heal,13,False,11384,11350,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,Infinity Edge,,6353,95276,Lane.bot_lane,Role.carry
+7,back to back,Elise,True,Side.red,4,5,9,2.6,56,Flash,Smite,12,False,9056,7925,Boots of Mobility,Seeker's Armguard,Dead Man's Plate,Refillable Potion,Enchantment: Runic Echoes,,48789,20640,Lane.jungle,Role.none
+8,Superstar Dilly,Nasus,True,Side.red,1,1,7,8.0,192,Flash,Teleport,14,False,9465,9308,Doran's Ring,Trinity Force,Zz'Rot Portal,Ninja Tabi,Kindlegem,,65045,36416,Lane.top_lane,Role.solo
+9,BabièThug,LeBlanc,True,Side.red,18,5,6,4.8,161,Flash,Ignite,14,True,13617,13200,Doran's Ring,Void Staff,Hextech Protobelt-01,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,105637,14016,Lane.mid_lane,Role.solo

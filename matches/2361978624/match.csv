@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Axal,Hecarim,False,Side.blue,3,4,12,3.75,138,Ghost,Smite,14,False,10847,10533,Trinity Force,Dead Man's Plate,Enchantment: Cinderhulk,Boots of Swiftness,,,23427,96643,Lane.jungle,Role.none
+1,shoang,Nautilus,False,Side.blue,0,5,10,2.0,149,Flash,Teleport,13,False,9573,8475,Spectre's Cowl,Corrupting Potion,Boots of Speed,Sunfire Cape,Kindlegem,Zz'Rot Portal,50555,14871,Lane.top_lane,Role.solo
+2,Turkey Club,Ryze,False,Side.blue,11,6,7,3.0,194,Teleport,Flash,15,False,13048,12600,Void Staff,Zhonya's Hourglass,Seraph's Embrace,Rod of Ages,Ninja Tabi,,147530,6150,Lane.jungle,Role.none
+3,Across The Map,Thresh,False,Side.blue,1,6,12,2.1666666666666665,38,Exhaust,Flash,12,False,7981,7350,Face of the Mountain,Locket of the Iron Solari,Mercury's Treads,Total Biscuit of Rejuvenation,Sightstone,Crystalline Bracer,10183,5211,Lane.bot_lane,Role.support
+4,VuaTroChoi,Ezreal,False,Side.blue,8,4,6,3.5,178,Heal,Flash,13,True,11928,11558,Muramana,Trinity Force,Berserker's Greaves,Infinity Edge,,,11436,89393,Lane.bot_lane,Role.carry
+5,Syched,Yasuo,True,Side.red,2,3,12,4.666666666666667,210,Flash,Ignite,15,False,11099,9600,Doran's Blade,Infinity Edge,Doran's Blade,Mercury's Treads,Jaurim's Fist,Phantom Dancer,21013,109149,Lane.mid_lane,Role.solo
+6,iQoQ,Janna,True,Side.red,1,3,13,4.666666666666667,11,Flash,Exhaust,12,False,7988,6900,Talisman of Ascension,Redemption,Sightstone,Ionian Boots of Lucidity,Ruby Crystal,Refillable Potion,4892,3508,Lane.bot_lane,Role.support
+7,TwistyJuker,Lee Sin,True,Side.red,9,5,10,3.8,116,Flash,Smite,15,False,12183,11220,Enchantment: Warrior,Youmuu's Ghostblade,Negatron Cloak,Boots of Mobility,Hexdrinker,Dead Man's Plate,23242,108158,Lane.jungle,Role.none
+8,i was car,Jinx,True,Side.red,4,6,15,3.1666666666666665,221,Flash,Heal,14,False,12789,11505,Kircheis Shard,Infinity Edge,Vampiric Scepter,Berserker's Greaves,Zeal,Runaan's Hurricane,1298,162016,Lane.bot_lane,Role.carry
+9,HotJoy,Kennen,True,Side.red,9,6,5,2.3333333333333335,185,Flash,Teleport,14,False,11854,10500,,Hextech Protobelt-01,Zhonya's Hourglass,Rylai's Crystal Scepter,Doran's Blade,Sorcerer's Shoes,74434,27183,Lane.top_lane,Role.solo

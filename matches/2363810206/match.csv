@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Deathcalling,Rek'Sai,True,Side.blue,8,5,14,4.4,201,Smite,Flash,16,False,14032,11875,Tiamat,Dead Man's Plate,Enchantment: Cinderhulk,Mercury's Treads,Spirit Visage,Chain Vest,42598,124680,Lane.jungle,Role.none
+1,Honi,Caitlyn,True,Side.blue,15,4,7,5.5,212,Flash,Heal,15,False,16485,12525,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Doran's Blade,Rapid Firecannon,6858,202968,Lane.bot_lane,Role.carry
+2,2342563463634,Brand,True,Side.blue,8,7,14,3.142857142857143,150,Teleport,Flash,15,False,12504,11325,Doran's Ring,Liandry's Torment,,Rylai's Crystal Scepter,Morellonomicon,Ionian Boots of Lucidity,92886,16247,Lane.top_lane,Role.solo
+3,TooMany,Janna,True,Side.blue,0,1,20,20.0,28,Flash,Exhaust,13,False,9938,8200,Ionian Boots of Lucidity,Eye of the Oasis,Control Ward,Locket of the Iron Solari,Redemption,,12072,5267,Lane.bot_lane,Role.support
+4,andtheknee,Lux,True,Side.blue,7,3,19,8.666666666666666,217,Ignite,Flash,16,True,14289,12325,Needlessly Large Rod,Void Staff,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Luden's Echo,150354,18977,Lane.mid_lane,Role.solo
+5,bigfatlp,LeBlanc,False,Side.red,9,10,4,1.3,145,Ignite,Flash,13,False,11151,9625,Abyssal Scepter,Blasting Wand,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Morellonomicon,81694,13161,Lane.mid_lane,Role.solo
+6,SaReNu,Jayce,False,Side.red,5,9,6,1.2222222222222223,212,Teleport,Flash,15,False,11684,11125,Youmuu's Ghostblade,The Black Cleaver,Maw of Malmortius,,Doran's Blade,Mercury's Treads,13449,117750,Lane.top_lane,Role.solo
+7,mackenzee,Ivern,False,Side.red,4,5,10,2.8,103,Smite,Flash,14,False,10243,9175,Redemption,Locket of the Iron Solari,Giant's Belt,Athene's Unholy Grail,Hunter's Talisman,Ionian Boots of Lucidity,39223,11911,Lane.jungle,Role.none
+8,MITCH RAMZ,Nami,False,Side.red,0,5,12,2.4,20,Flash,Ignite,12,False,8556,7875,Redemption,,Locket of the Iron Solari,Eye of the Watchers,,Ionian Boots of Lucidity,10557,3765,Lane.bot_lane,Role.support
+9,TEAMLUKEE,Kog'Maw,False,Side.red,2,9,6,0.8888888888888888,183,Heal,Flash,13,False,10507,8950,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,Recurve Bow,Dagger,32318,81052,Lane.bot_lane,Role.carry

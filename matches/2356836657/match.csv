@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,l For You l,Vayne,True,Side.blue,8,8,10,2.25,139,Flash,Heal,13,False,11332,10500,Phantom Dancer,Rapid Firecannon,Infinity Edge,Berserker's Greaves,,,326,78778,Lane.bot_lane,Role.carry
+1,I Usually Feed,Janna,True,Side.blue,0,1,32,32.0,22,Flash,Exhaust,14,False,10436,9850,Eye of the Oasis,Redemption,Boots of Mobility,Ardent Censer,Needlessly Large Rod,Control Ward,12098,8545,Lane.bot_lane,Role.support
+2,Licorice,Kennen,True,Side.blue,9,7,10,2.7142857142857144,136,Flash,Teleport,15,False,11775,11250,Hextech Protobelt-01,,Doran's Blade,Void Staff,Sorcerer's Shoes,Rylai's Crystal Scepter,60047,20947,Lane.top_lane,Role.solo
+3,Nhock,Zed,True,Side.blue,9,3,3,4.0,182,Ignite,Flash,16,False,11990,11350,Youmuu's Ghostblade,Refillable Potion,The Black Cleaver,Ionian Boots of Lucidity,Lord Dominik's Regards,B. F. Sword,6564,101834,Lane.mid_lane,Role.solo
+4,High IQ and APM,Graves,True,Side.blue,18,5,4,4.4,176,Flash,Smite,16,True,17157,15775,Youmuu's Ghostblade,Infinity Edge,Enchantment: Warrior,Berserker's Greaves,Essence Reaver,Zeal,5299,205947,Lane.jungle,Role.none
+5,21 Sheepage,Zyra,False,Side.red,6,13,6,0.9230769230769231,20,Flash,Ignite,12,False,8745,7200,Eye of the Watchers,Control Ward,Total Biscuit of Rejuvenation,,Liandry's Torment,Sorcerer's Shoes,32048,5257,Lane.bot_lane,Role.support
+6,Peng Yiliang,Lee Sin,False,Side.red,7,8,9,2.0,138,Flash,Smite,14,False,10313,10050,Tiamat,Ninja Tabi,Enchantment: Warrior,Dead Man's Plate,Giant's Belt,Warden's Mail,16170,95540,Lane.jungle,Role.none
+7,cokes,Viktor,False,Side.red,4,7,6,1.4285714285714286,168,Exhaust,Flash,14,False,9540,8025,Sorcerer's Shoes,Doran's Ring,Seeker's Armguard,Sheen,Perfect Hex Core,Aether Wisp,92320,12465,Lane.mid_lane,Role.solo
+8,Based Envy,Poppy,False,Side.red,3,5,8,2.2,192,Teleport,Flash,15,False,9810,8875,Spectre's Cowl,Sunfire Cape,Frozen Heart,Mercury's Treads,Ruby Crystal,,35686,67471,Lane.top_lane,Role.solo
+9,TeddyRO,Caitlyn,False,Side.red,4,11,3,0.6363636363636364,143,Flash,Heal,12,False,9371,8825,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Brawler's Gloves,399,80101,Lane.bot_lane,Role.carry

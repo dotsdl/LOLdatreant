@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ZambonGG,Karma,False,Side.blue,3,8,14,2.125,19,Flash,Exhaust,12,False,9513,8850,Locket of the Iron Solari,Frost Queen's Claim,Redemption,Sightstone,Mercury's Treads,,12805,3188,Lane.bot_lane,Role.support
+1,AsianSGpøtatø,Lucian,False,Side.blue,5,8,9,1.75,267,Flash,Heal,15,False,12710,12475,Doran's Blade,Infinity Edge,Essence Reaver,Pickaxe,Berserker's Greaves,Statikk Shiv,14189,155662,Lane.bot_lane,Role.carry
+2,ddwaeji,Nautilus,False,Side.blue,2,6,19,3.5,176,Flash,Teleport,15,False,11284,10625,Control Ward,Frozen Heart,Sunfire Cape,Ninja Tabi,Doran's Ring,Spirit Visage,90991,25608,Lane.top_lane,Role.solo
+3,d3ps,Hecarim,False,Side.blue,11,6,10,3.5,162,Ghost,Smite,16,False,13435,13593,Enchantment: Cinderhulk,Randuin's Omen,Trinity Force,Ninja Tabi,Locket of the Iron Solari,Ruby Crystal,27706,130949,Lane.jungle,Role.none
+4,AllAero,Kassadin,False,Side.blue,7,6,6,2.1666666666666665,179,Flash,Teleport,14,False,11832,11625,Void Staff,Luden's Echo,Ionian Boots of Lucidity,The Dark Seal,Sheen,Rod of Ages,87992,24239,Lane.mid_lane,Role.solo
+5,Tsùki,Rek'Sai,True,Side.red,5,5,15,4.0,149,Flash,Smite,16,False,12994,11450,Enchantment: Cinderhulk,Aegis of the Legion,Randuin's Omen,Ninja Tabi,,Titanic Hydra,16438,122339,Lane.jungle,Role.none
+6,Projekt Yasuo,Yasuo,True,Side.red,6,6,10,2.6666666666666665,248,Flash,Teleport,17,False,14703,12775,Mercury's Treads,Frozen Mallet,Phantom Dancer,B. F. Sword,Doran's Blade,Blade of the Ruined King,32706,125079,Lane.top_lane,Role.solo
+7,YlKES,Thresh,True,Side.red,3,7,21,3.4285714285714284,9,Ignite,Flash,13,True,10013,8500,Ruby Sightstone,Redemption,Ancient Coin,Null-Magic Mantle,Ionian Boots of Lucidity,Frozen Heart,7674,4928,Lane.bot_lane,Role.support
+8,NiMura,Vayne,True,Side.red,11,6,11,3.6666666666666665,237,Flash,Heal,16,False,15152,14475,Zeal,Statikk Shiv,Last Whisper,The Bloodthirster,Berserker's Greaves,Infinity Edge,39953,129799,Lane.bot_lane,Role.carry
+9,Biscuit Crusader,Twisted Fate,True,Side.red,9,4,14,5.75,211,Flash,Ghost,17,False,15178,13525,Lich Bane,Zhonya's Hourglass,Ionian Boots of Lucidity,Luden's Echo,Void Staff,,149323,15591,Lane.mid_lane,Role.solo

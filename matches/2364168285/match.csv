@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kuiiiiiiiiiiiii,Nidalee,True,Side.blue,6,7,11,2.4285714285714284,130,Smite,Flash,15,False,11858,11000,Enchantment: Runic Echoes,Zhonya's Hourglass,,Elixir of Sorcery,Ionian Boots of Lucidity,Lich Bane,96204,14682,Lane.jungle,Role.none
+1,ily and ily,Riven,True,Side.blue,12,8,7,2.375,258,Flash,Teleport,17,False,15782,15300,Guardian Angel,Ninja Tabi,Death's Dance,Tiamat,The Black Cleaver,Lord Dominik's Regards,4,173918,Lane.top_lane,Role.solo
+2,pilling91,Viktor,True,Side.blue,8,6,10,3.0,236,Ghost,Flash,16,False,13893,11925,Perfect Hex Core,Sheen,Rylai's Crystal Scepter,Void Staff,The Dark Seal,Ionian Boots of Lucidity,154330,16793,Lane.mid_lane,Role.solo
+3,Doctor Flambe,Janna,True,Side.blue,0,7,21,3.0,26,Exhaust,Flash,14,False,10367,9025,Redemption,Eye of the Watchers,Ardent Censer,Null-Magic Mantle,,Ionian Boots of Lucidity,10526,5986,Lane.bot_lane,Role.support
+4,Daarr,Caitlyn,True,Side.blue,8,4,12,5.0,244,Flash,Heal,16,False,14906,13955,Doran's Blade,Rapid Firecannon,Mortal Reminder,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,2304,214062,Lane.bot_lane,Role.carry
+5,retarded virgin,Graves,False,Side.red,10,6,5,2.5,255,Flash,Smite,18,False,15901,14625,Berserker's Greaves,Phantom Dancer,Enchantment: Warrior,The Bloodthirster,Maw of Malmortius,Phage,7195,247649,Lane.jungle,Role.none
+6,cokes,Corki,False,Side.red,10,7,6,2.2857142857142856,186,Exhaust,Flash,16,False,14226,14008,Hextech Gunblade,Maw of Malmortius,Trinity Force,Sorcerer's Shoes,Doran's Blade,B. F. Sword,108541,27045,Lane.mid_lane,Role.solo
+7,Zib Nibbler,Morgana,False,Side.red,1,9,16,1.8888888888888888,25,Flash,Exhaust,12,False,10531,10050,Frost Queen's Claim,Locket of the Iron Solari,Redemption,Ruby Sightstone,,Boots of Mobility,19155,5752,Lane.bot_lane,Role.support
+8,Erry,Jhin,False,Side.red,5,8,15,2.5,219,Heal,Flash,15,True,13695,13500,Youmuu's Ghostblade,Quicksilver Sash,Boots of Swiftness,Rapid Firecannon,B. F. Sword,Essence Reaver,8257,163170,Lane.bot_lane,Role.carry
+9,daduu,Nautilus,False,Side.red,5,4,13,4.5,185,Teleport,Flash,16,False,13045,11875,Doran's Ring,Aegis of the Legion,Sunfire Cape,Ninja Tabi,Spirit Visage,Frozen Heart,92331,20767,Lane.top_lane,Role.solo

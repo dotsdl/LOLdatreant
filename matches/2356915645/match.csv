@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Baboom223,Vel'Koz,True,Side.blue,7,4,5,3.0,220,Flash,Ghost,15,False,12281,11035,Zhonya's Hourglass,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Amplifying Tome,119446,12881,Lane.mid_lane,Role.solo
+1,S W A G B O Y S,Dr. Mundo,True,Side.blue,6,4,9,3.75,209,Teleport,Flash,16,False,11630,9400,Giant's Belt,Spirit Visage,Chain Vest,Doran's Shield,Sunfire Cape,Ninja Tabi,84353,44602,Lane.top_lane,Role.solo
+2,TeamWillFeed,Thresh,True,Side.blue,1,3,17,6.0,11,Flash,Ignite,12,False,8436,7400,Sightstone,Knight's Vow,Locket of the Iron Solari,Boots of Mobility,Ancient Coin,Ruby Crystal,10631,5847,Lane.bot_lane,Role.support
+3,Danny Cute Body,Miss Fortune,True,Side.blue,13,0,8,21.0,242,Heal,Flash,15,False,15690,13425,The Bloodthirster,Duskblade of Draktharr,Berserker's Greaves,Doran's Blade,The Black Cleaver,Serrated Dirk,5875,170981,Lane.bot_lane,Role.carry
+4,Iron Willy,Lee Sin,True,Side.blue,6,3,15,7.0,100,Smite,Flash,14,True,10829,9900,Ninja Tabi,Enchantment: Warrior,Randuin's Omen,Control Ward,Dead Man's Plate,,16767,91613,Lane.jungle,Role.none
+5,1q2w3e4r5t6y7u8i,Anivia,False,Side.red,1,5,6,1.4,172,Flash,Teleport,13,False,9321,8695,Doran's Ring,Seraph's Embrace,Boots of Swiftness,Rod of Ages,Doran's Ring,Negatron Cloak,97677,4217,Lane.mid_lane,Role.solo
+6,yeedam,Riven,False,Side.red,8,6,1,1.5,251,Flash,Teleport,16,False,12626,11925,The Black Cleaver,Ionian Boots of Lucidity,Ravenous Hydra,The Bloodthirster,Cloth Armor,,0,169566,Lane.top_lane,Role.solo
+7,biblee,Kha'Zix,False,Side.red,4,6,4,1.3333333333333333,153,Flash,Smite,14,False,10817,10525,Youmuu's Ghostblade,Mercury's Treads,Maw of Malmortius,Long Sword,Enchantment: Warrior,Control Ward,5732,148803,Lane.jungle,Role.none
+8,The Tank Man,Karma,False,Side.red,1,8,2,0.375,5,Flash,Exhaust,11,False,7159,6725,Eye of the Watchers,Ardent Censer,Ionian Boots of Lucidity,,,Aegis of the Legion,14143,2553,Lane.bot_lane,Role.support
+9,Imaokai,Jhin,False,Side.red,0,8,2,0.25,214,Heal,Flash,13,False,9476,9475,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Last Whisper,Long Sword,Doran's Blade,2942,129967,Lane.bot_lane,Role.carry

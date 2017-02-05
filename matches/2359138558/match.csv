@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Curious Gengar,Poppy,False,Side.blue,1,5,4,1.0,124,Flash,Teleport,12,False,6783,6200,Corrupting Potion,Iceborn Gauntlet,Ninja Tabi,Bami's Cinder,Chain Vest,,5124,57679,Lane.top_lane,Role.solo
+1,MattDeitz,Soraka,False,Side.blue,0,6,2,0.3333333333333333,16,Flash,Exhaust,9,False,5403,4600,Redemption,Sightstone,,Boots of Speed,Nomad's Medallion,,5316,1837,Lane.bot_lane,Role.support
+2,Xmithie,Jayce,False,Side.blue,3,11,2,0.45454545454545453,75,Exhaust,Flash,10,False,6039,5800,Edge of Night,Doran's Blade,Ionian Boots of Lucidity,Pickaxe,,,5542,36823,Lane.mid_lane,Role.solo
+3,Skymark,Ezreal,False,Side.blue,2,7,1,0.42857142857142855,114,Flash,Heal,10,False,6744,5733,Doran's Blade,Trinity Force,Cull,Tear of the Goddess,,Boots of Speed,8446,43650,Lane.bot_lane,Role.carry
+4,Nick Diaz,Rammus,False,Side.blue,5,10,2,0.7,78,Flash,Smite,11,False,6962,6300,Enchantment: Cinderhulk,Thornmail,Mercury's Treads,,,,38453,21763,Lane.jungle,Role.none
+5,Leos sadness,Xerath,True,Side.red,9,1,14,23.0,161,Heal,Flash,13,False,11096,10175,Sorcerer's Shoes,Rylai's Crystal Scepter,Luden's Echo,Doran's Ring,Mejai's Soulstealer,Doran's Ring,100799,8281,Lane.mid_lane,Role.solo
+6,MrHitchens,Vayne,True,Side.red,9,2,4,6.5,153,Heal,Flash,12,False,10757,8700,Doran's Blade,Cull,Statikk Shiv,Infinity Edge,Berserker's Greaves,Brawler's Gloves,17696,64319,Lane.bot_lane,Role.solo
+7,chakhae,Thresh,True,Side.red,3,4,15,4.5,18,Flash,Ignite,10,False,6922,5860,Face of the Mountain,Boots of Mobility,Ruby Sightstone,Refillable Potion,Control Ward,Crystalline Bracer,7021,4665,Lane.jungle,Role.none
+8,adc feng lft,Fiora,True,Side.red,9,2,4,6.5,167,Teleport,Flash,14,False,11497,9925,Ravenous Hydra,The Black Cleaver,Ionian Boots of Lucidity,B. F. Sword,Doran's Blade,Doran's Blade,1763,93420,Lane.top_lane,Role.solo
+9,feed l0rd,Ivern,True,Side.red,9,2,12,10.5,86,Flash,Smite,12,True,10533,7950,Control Ward,Locket of the Iron Solari,Redemption,Hunter's Talisman,Athene's Unholy Grail,Ionian Boots of Lucidity,15194,5555,Lane.jungle,Role.none

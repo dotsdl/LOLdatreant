@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,bvcx222,Malzahar,False,Side.blue,3,7,7,1.4285714285714286,120,Flash,Ghost,13,False,8586,7775,Corrupting Potion,,,Rylai's Crystal Scepter,Abyssal Scepter,Sorcerer's Shoes,45994,17988,Lane.mid_lane,Role.solo
+1,TwistyJuker,Lee Sin,False,Side.blue,6,4,8,3.5,120,Flash,Smite,14,False,10346,9875,Tiamat,Enchantment: Warrior,Randuin's Omen,Null-Magic Mantle,Hexdrinker,Mercury's Treads,16441,99881,Lane.jungle,Role.none
+2,Arthin,Thresh,False,Side.blue,1,5,6,1.4,26,Flash,Exhaust,11,False,6006,4925,Eye of the Equinox,Refillable Potion,Glacial Shroud,Boots of Mobility,Cloth Armor,Cloth Armor,10178,6340,Lane.bot_lane,Role.support
+3,Nikkone,Corki,False,Side.blue,5,7,2,1.0,128,Flash,Heal,12,False,8636,8533,The Bloodthirster,Trinity Force,Boots of Speed,Doran's Blade,,,59641,18386,Lane.bot_lane,Role.carry
+4,thecomedownx,Jayce,False,Side.blue,8,2,3,5.5,142,Teleport,Flash,13,True,10094,8850,Doran's Blade,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Serrated Dirk,,12068,74097,Lane.jungle,Role.none
+5,singed420,Nasus,True,Side.red,1,5,5,1.2,150,Ghost,Teleport,14,False,9166,8700,Corrupting Potion,Chain Vest,Iceborn Gauntlet,Boots of Swiftness,Giant's Belt,Spirit Visage,11712,71916,Lane.top_lane,Role.solo
+6,Wingsofdeathx,Blitzcrank,True,Side.red,0,5,11,2.2,36,Exhaust,Flash,12,False,7451,6500,Targon's Brace,Redemption,Locket of the Iron Solari,Refillable Potion,Ionian Boots of Lucidity,,11325,9631,Lane.bot_lane,Role.support
+7,Alex Ich 1,Katarina,True,Side.red,9,6,8,2.8333333333333335,122,Flash,Ignite,13,False,11177,10575,Hextech Gunblade,Sorcerer's Shoes,Quicksilver Sash,Rylai's Crystal Scepter,Blasting Wand,The Dark Seal,67962,10738,Lane.mid_lane,Role.solo
+8,RealDarkness,Vi,True,Side.red,9,4,5,3.5,128,Smite,Flash,14,False,11636,9408,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Trinity Force,Giant's Belt,Chain Vest,890,127160,Lane.jungle,Role.none
+9,RyuShoryu,Twitch,True,Side.red,6,3,10,5.333333333333333,153,Heal,Flash,13,False,10867,10400,Doran's Blade,Bilgewater Cutlass,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Recurve Bow,0,86838,Lane.bot_lane,Role.carry

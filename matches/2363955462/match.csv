@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nijijinchuuriki,Jhin,True,Side.blue,6,7,7,1.8571428571428572,165,Flash,Heal,14,False,12402,12550,Doran's Blade,Essence Reaver,Sterak's Gage,Boots of Swiftness,B. F. Sword,Rapid Firecannon,5073,101250,Lane.bot_lane,Role.carry
+1,KT Score,Shyvana,True,Side.blue,6,3,7,4.333333333333333,200,Smite,Ghost,15,False,12956,10900,Titanic Hydra,Enchantment: Bloodrazor,,Dead Man's Plate,Ruby Crystal,Mercury's Treads,72674,99289,Lane.jungle,Role.none
+2,hashinshin,Jax,True,Side.blue,10,2,3,6.5,224,Ghost,Teleport,16,False,14482,12408,Corrupting Potion,Hextech Gunblade,Trinity Force,Guinsoo's Rageblade,Ninja Tabi,,47968,129843,Lane.top_lane,Role.solo
+3,Imaokai,Gangplank,True,Side.blue,4,4,2,1.5,268,Teleport,Flash,16,False,13657,13158,Youmuu's Ghostblade,Trinity Force,Boots of Swiftness,Infinity Edge,Zeal,,18075,189376,Lane.mid_lane,Role.solo
+4,Pocket Rhino,Blitzcrank,True,Side.blue,1,4,13,3.5,33,Flash,Ignite,12,False,8449,7225,,Iceborn Gauntlet,Eye of the Equinox,Ruby Crystal,,Mercury's Treads,5037,6553,Lane.bot_lane,Role.support
+5,CedR1CK GOD,Kha'Zix,False,Side.red,7,6,6,2.1666666666666665,128,Flash,Smite,16,False,10803,10800,Tiamat,Youmuu's Ghostblade,Last Whisper,Mercury's Treads,Enchantment: Warrior,B. F. Sword,4102,141744,Lane.jungle,Role.none
+6,Annie Bot,Veigar,False,Side.red,4,5,2,1.2,195,Exhaust,Flash,14,False,9632,8925,Seraph's Embrace,Refillable Potion,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Rabadon's Deathcap,100872,9876,Lane.mid_lane,Role.solo
+7,TDK Tr4nce,Leona,False,Side.red,1,5,8,1.8,59,Flash,Ignite,11,False,7861,7825,Giant's Belt,Eye of the Equinox,Locket of the Iron Solari,Boots of Mobility,Cloth Armor,Cloth Armor,9922,7927,Lane.bot_lane,Role.support
+8,Jummychu,Gnar,False,Side.red,1,4,5,1.5,195,Flash,Teleport,15,False,9404,8425,Frozen Mallet,The Black Cleaver,,Doran's Blade,Ninja Tabi,,9707,99808,Lane.top_lane,Role.solo
+9,TwitchTvSysnickl,Miss Fortune,False,Side.red,7,8,8,1.875,178,Heal,Flash,13,True,11229,10675,Duskblade of Draktharr,Youmuu's Ghostblade,Caulfield's Warhammer,Berserker's Greaves,Doran's Blade,Phage,3604,80098,Lane.bot_lane,Role.carry

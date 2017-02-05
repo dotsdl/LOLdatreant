@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Àce,Ezreal,False,Side.blue,1,4,1,0.5,118,Flash,Heal,10,False,5714,3750,Doran's Blade,Tear of the Goddess,Cull,Ionian Boots of Lucidity,,Sheen,9712,45529,Lane.bot_lane,Role.carry
+1,SoItSeemS,Nasus,False,Side.blue,0,11,2,0.18181818181818182,121,Teleport,Flash,10,False,5579,4450,Doran's Shield,Refillable Potion,Doran's Ring,Doran's Ring,Zz'Rot Portal,Boots of Speed,39470,13419,Lane.top_lane,Role.solo
+2,ONLYPLAYKALISTA,Fizz,False,Side.blue,3,13,1,0.3076923076923077,36,Ignite,Flash,9,False,4846,4725,Blasting Wand,The Dark Seal,Sheen,Ionian Boots of Lucidity,Aether Wisp,Doran's Ring,13045,6636,Lane.mid_lane,Role.solo
+3,Kolthro,Rengar,False,Side.blue,2,7,3,0.7142857142857143,77,Smite,Flash,10,False,5928,5200,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Serrated Dirk,Control Ward,Long Sword,5764,57137,Lane.jungle,Role.none
+4,Extreme Person,Xin Zhao,False,Side.blue,1,4,1,0.5,17,Flash,Exhaust,7,False,3964,1375,Targon's Brace,,Boots of Speed,Refillable Potion,,,2033,4415,Lane.bot_lane,Role.support
+5,Doctor E Trill,Janna,True,Side.red,1,1,14,15.0,6,Exhaust,Flash,10,False,6698,6200,Lich Bane,Redemption,Control Ward,,,,5431,7905,Lane.bot_lane,Role.support
+6,SourTicTac,Caitlyn,True,Side.red,3,4,5,2.0,123,Flash,Heal,10,False,8548,8350,Doran's Blade,Infinity Edge,Cull,Berserker's Greaves,Runaan's Hurricane,,275,62341,Lane.bot_lane,Role.carry
+7,lost in thoughts,Ryze,True,Side.red,13,1,4,17.0,169,Flash,Ghost,14,True,10874,9375,Tear of the Goddess,Refillable Potion,Mejai's Soulstealer,Rod of Ages,Morellonomicon,Ionian Boots of Lucidity,111861,10588,Lane.mid_lane,Role.solo
+8,KayBee,Pantheon,True,Side.red,12,0,6,18.0,91,Teleport,Flash,12,False,9946,9400,B. F. Sword,Youmuu's Ghostblade,Ionian Boots of Lucidity,The Black Cleaver,Long Sword,Long Sword,9185,61883,Lane.top_lane,Role.duo
+9,Hyosung,Rek'Sai,True,Side.red,10,1,9,19.0,111,Flash,Smite,13,False,10215,10150,Refillable Potion,Titanic Hydra,Control Ward,Dead Man's Plate,Hunter's Machete,The Black Cleaver,7717,89891,Lane.top_lane,Role.duo

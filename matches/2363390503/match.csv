@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DRANO XD,Ezreal,False,Side.blue,8,7,3,1.5714285714285714,185,Heal,Flash,13,False,11714,11830,Ionian Boots of Lucidity,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Long Sword,Last Whisper,18438,99867,Lane.bot_lane,Role.carry
+1,Beluga Whale,Veigar,False,Side.blue,2,10,9,1.1,28,Exhaust,Flash,11,False,8662,8050,Frost Queen's Claim,Sightstone,,Boots of Mobility,Morellonomicon,,25872,4897,Lane.bot_lane,Role.support
+2,Aellectris,Ivern,False,Side.blue,1,1,13,14.0,118,Smite,Flash,14,False,10332,9170,Redemption,Locket of the Iron Solari,Tracker's Knife,Athene's Unholy Grail,Negatron Cloak,Boots of Mobility,30290,12277,Lane.jungle,Role.none
+3,Hazzium,Viktor,False,Side.blue,4,6,5,1.5,235,Ghost,Flash,14,False,11262,10860,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Abyssal Scepter,Amplifying Tome,153693,11821,Lane.mid_lane,Role.solo
+4,Sud83,Teemo,False,Side.blue,6,10,5,1.1,235,Ignite,Flash,16,True,12018,11400,Corrupting Potion,Boots of Swiftness,Zz'Rot Portal,Wit's End,Guinsoo's Rageblade,Jaurim's Fist,72201,46222,Lane.top_lane,Role.solo
+5,Ak47,Ziggs,True,Side.red,6,4,8,3.5,264,Flash,Teleport,17,False,13229,11650,The Dark Seal,Rylai's Crystal Scepter,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Control Ward,176452,18929,Lane.mid_lane,Role.solo
+6,SilverWo1f,Jhin,True,Side.red,6,7,6,1.7142857142857142,214,Flash,Heal,14,False,12647,10350,Essence Reaver,Pickaxe,Doran's Blade,Rapid Firecannon,Boots of Swiftness,B. F. Sword,4324,144548,Lane.bot_lane,Role.carry
+7,CoopyPoopy,Shaco,True,Side.red,8,4,7,3.75,182,Teleport,Ignite,15,False,12041,11660,Hextech Protobelt-01,Ionian Boots of Lucidity,Lich Bane,Luden's Echo,Blasting Wand,Amplifying Tome,79075,23560,Lane.top_lane,Role.solo
+8,Soraka Life,Soraka,True,Side.red,0,4,17,4.25,18,Exhaust,Flash,12,False,9088,7650,Redemption,Talisman of Ascension,,Ionian Boots of Lucidity,,Ruby Sightstone,8498,3936,Lane.bot_lane,Role.support
+9,PMG syH,Wukong,True,Side.red,14,2,4,9.0,145,Smite,Flash,15,False,14332,10350,,The Black Cleaver,Enchantment: Warrior,Duskblade of Draktharr,,Boots of Swiftness,9114,144977,Lane.jungle,Role.none

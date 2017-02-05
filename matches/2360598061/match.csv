@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ejzk,Gangplank,True,Side.blue,6,4,5,2.75,116,Teleport,Flash,12,False,8849,8158,Trinity Force,Refillable Potion,Youmuu's Ghostblade,Boots of Swiftness,Brawler's Gloves,,5079,83679,Lane.top_lane,Role.solo
+1,bvcx222,Bard,True,Side.blue,2,1,12,14.0,3,Flash,Ignite,11,False,6712,4575,Sightstone,Redemption,Spellthief's Edge,,,Boots of Mobility,8263,4165,Lane.bot_lane,Role.support
+2,Rich Homie Lucky,Lee Sin,True,Side.blue,3,1,8,11.0,89,Flash,Smite,12,False,8183,7375,Caulfield's Warhammer,Enchantment: Warrior,Tiamat,Phage,,Boots of Mobility,10352,76586,Lane.jungle,Role.none
+3,Fapdo,Ahri,True,Side.blue,12,0,3,15.0,178,Ignite,Flash,14,False,11867,8600,Doran's Ring,Blasting Wand,The Dark Seal,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,73561,19401,Lane.mid_lane,Role.solo
+4,DirtyMobs,Caitlyn,True,Side.blue,5,1,4,9.0,162,Flash,Heal,11,True,9232,6925,Doran's Blade,Runaan's Hurricane,Cull,Berserker's Greaves,B. F. Sword,Pickaxe,248,89763,Lane.bot_lane,Role.carry
+5,DankyIsToxic,Karma,False,Side.red,2,3,3,1.6666666666666667,14,Exhaust,Flash,9,False,5731,5350,Eye of the Watchers,Total Biscuit of Rejuvenation,Boots of Mobility,Redemption,,,13015,3443,Lane.bot_lane,Role.support
+6,Bleece123,Sion,False,Side.red,0,5,2,0.4,92,Teleport,Flash,11,False,5169,4650,Doran's Ring,Refillable Potion,Sunfire Cape,Ninja Tabi,,,17492,32230,Lane.top_lane,Role.solo
+7,D0NG0,Fizz,False,Side.red,3,10,0,0.3,93,Ignite,Flash,10,False,5607,6910,Statikk Shiv,Boots of Speed,Dagger,,,,17266,11387,Lane.mid_lane,Role.solo
+8,hashinshin,Kha'Zix,False,Side.red,0,5,3,0.6,79,Flash,Smite,10,False,5394,4900,Enchantment: Warrior,Hunter's Potion,Ninja Tabi,Long Sword,Control Ward,Long Sword,3505,67966,Lane.jungle,Role.none
+9,swordstoo,Jhin,False,Side.red,2,5,2,0.8,134,Heal,Flash,10,False,6341,5620,Doran's Blade,Essence Reaver,Boots of Speed,Control Ward,Total Biscuit of Rejuvenation,Kircheis Shard,906,54830,Lane.bot_lane,Role.carry

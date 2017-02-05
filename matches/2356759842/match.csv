@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AlvShooter,Ezreal,True,Side.blue,3,1,9,12.0,208,Flash,Heal,14,False,11848,9033,Doran's Blade,,B. F. Sword,Ionian Boots of Lucidity,Trinity Force,Muramana,10908,118676,Lane.bot_lane,Role.carry
+1,Vayne Arrows,Pantheon,True,Side.blue,5,6,4,1.5,166,Ignite,Flash,15,False,11033,9325,Youmuu's Ghostblade,The Black Cleaver,Corrupting Potion,Hexdrinker,Ninja Tabi,Long Sword,6985,101597,Lane.top_lane,Role.solo
+2,Big City Justice,Sion,True,Side.blue,1,4,9,2.5,55,Flash,Ignite,12,False,8680,6450,Sightstone,Glacial Shroud,Face of the Mountain,Ionian Boots of Lucidity,Warden's Mail,,24115,21319,Lane.bot_lane,Role.support
+3,KombatWombat,Kindred,True,Side.blue,7,4,6,3.25,165,Flash,Smite,15,False,12925,11230,Blade of the Ruined King,Refillable Potion,Enchantment: Bloodrazor,The Black Cleaver,Negatron Cloak,Berserker's Greaves,2431,165769,Lane.jungle,Role.none
+4,Gardner,Fizz,True,Side.blue,15,1,3,18.0,209,Ignite,Flash,17,True,15284,12075,Mejai's Soulstealer,Zhonya's Hourglass,Doran's Ring,Lich Bane,Rod of Ages,Ionian Boots of Lucidity,106799,25120,Lane.mid_lane,Role.solo
+5,redditman69,Caitlyn,False,Side.red,0,2,5,2.5,215,Flash,Heal,13,False,9014,7900,Doran's Blade,Infinity Edge,Berserker's Greaves,,Runaan's Hurricane,,1631,110180,Lane.bot_lane,Role.carry
+6,HAtototototO,Nami,False,Side.red,1,3,6,2.3333333333333335,5,Exhaust,Flash,11,False,6634,6375,Boots of Mobility,Ruby Sightstone,Control Ward,Redemption,Total Biscuit of Rejuvenation,Frostfang,5668,3747,Lane.bot_lane,Role.support
+7,Old Driver Sean,Syndra,False,Side.red,3,7,2,0.7142857142857143,168,Exhaust,Flash,13,False,8938,8850,Sorcerer's Shoes,Doran's Ring,Luden's Echo,Abyssal Scepter,Lost Chapter,,101738,8879,Lane.mid_lane,Role.solo
+8,Dj Sensei,Graves,False,Side.red,5,9,6,1.2222222222222223,135,Smite,Flash,14,False,9799,9675,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Berserker's Greaves,Phantom Dancer,,3844,106061,Lane.jungle,Role.none
+9,Dnka,Jayce,False,Side.red,6,10,3,0.9,169,Flash,Ignite,14,False,9914,9700,Doran's Blade,Caulfield's Warhammer,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Null-Magic Mantle,18225,90587,Lane.top_lane,Role.solo

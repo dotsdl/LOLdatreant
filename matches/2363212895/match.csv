@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WJNA,Jayce,False,Side.blue,1,8,7,1.0,144,Flash,Heal,10,False,7161,6700,Hunter's Potion,Youmuu's Ghostblade,Boots of Swiftness,Phage,Caulfield's Warhammer,,9605,53987,Lane.bot_lane,Role.carry
+1,Dontkillmek,Zyra,False,Side.blue,4,6,4,1.3333333333333333,30,Flash,Ignite,10,False,6562,5275,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Total Biscuit of Rejuvenation,The Dark Seal,Blasting Wand,22544,3016,Lane.bot_lane,Role.support
+2,Nash,Lux,False,Side.blue,4,5,3,1.4,139,Ghost,Flash,12,False,7823,7335,Doran's Ring,Blasting Wand,Morellonomicon,Needlessly Large Rod,Amplifying Tome,Ionian Boots of Lucidity,63682,10468,Lane.mid_lane,Role.solo
+3,zT ace,Lee Sin,False,Side.blue,5,7,4,1.2857142857142858,75,Smite,Flash,11,True,7939,12050,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,11487,62124,Lane.jungle,Role.none
+4,ZImaras,Riven,False,Side.blue,1,6,3,0.6666666666666666,152,Flash,Teleport,12,False,7443,6775,The Black Cleaver,Ninja Tabi,Caulfield's Warhammer,Refillable Potion,Control Ward,Pickaxe,0,72974,Lane.top_lane,Role.solo
+5,Imentice,Ryze,True,Side.red,4,3,6,3.3333333333333335,143,Ghost,Flash,13,False,8627,6900,Tear of the Goddess,Blasting Wand,Ionian Boots of Lucidity,Rod of Ages,Control Ward,Needlessly Large Rod,70256,9182,Lane.mid_lane,Role.solo
+6,KeIsi Monroe,Rengar,True,Side.red,9,3,2,3.6666666666666665,153,Ignite,Flash,13,False,10286,8825,Tiamat,Ninja Tabi,The Black Cleaver,Dead Man's Plate,,,14776,88118,Lane.top_lane,Role.solo
+7,Henchey,Bard,True,Side.red,3,3,14,5.666666666666667,10,Ignite,Flash,12,False,8371,7175,Frost Queen's Claim,,Boots of Mobility,,Redemption,Ruby Sightstone,13491,4732,Lane.bot_lane,Role.support
+8,Nhacvan,Rek'Sai,True,Side.red,3,2,7,5.0,110,Smite,Flash,13,False,8471,7975,Ninja Tabi,Enchantment: Cinderhulk,,Cloth Armor,Refillable Potion,Titanic Hydra,18251,76340,Lane.jungle,Role.none
+9,TheIntenseMango,Caitlyn,True,Side.red,12,5,5,3.4,137,Flash,Heal,13,False,11257,10400,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Phantom Dancer,,508,91487,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xTc4,Sona,False,Side.blue,1,5,6,1.4,26,Flash,Exhaust,9,False,5484,5200,Fiendish Codex,Refillable Potion,Eye of the Watchers,,Ionian Boots of Lucidity,Hextech Revolver,11936,3741,Lane.bot_lane,Role.support
+1,Scherb,Ryze,False,Side.blue,1,4,2,0.75,125,Flash,Ghost,11,False,6202,5875,Tear of the Goddess,Rod of Ages,Boots of Speed,Needlessly Large Rod,,,58868,7029,Lane.mid_lane,Role.solo
+2,No Speak Inglish,Caitlyn,False,Side.blue,1,8,2,0.375,97,Heal,Flash,10,False,5942,5575,Boots of Speed,Statikk Shiv,B. F. Sword,Doran's Blade,Doran's Blade,Dagger,1315,36839,Lane.bot_lane,Role.carry
+3,eRx,Lee Sin,False,Side.blue,7,4,0,1.75,67,Smite,Flash,11,False,7285,7000,Randuin's Omen,Refillable Potion,Enchantment: Warrior,Long Sword,,Boots of Mobility,9386,50732,Lane.jungle,Role.none
+4,Koby,Poppy,False,Side.blue,1,2,6,3.5,120,Flash,Teleport,11,False,6644,6100,Corrupting Potion,Ninja Tabi,Sunfire Cape,Spectre's Cowl,Ruby Crystal,,12928,40367,Lane.top_lane,Role.solo
+5,New Experience,Karma,True,Side.red,2,1,13,15.0,22,Flash,Exhaust,10,False,7946,6650,,Refillable Potion,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Forbidden Idol,22462,7258,Lane.bot_lane,Role.support
+6,xFSN Saber,Twitch,True,Side.red,10,1,4,14.0,143,Heal,Flash,11,True,10907,8550,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Dagger,Dagger,0,76510,Lane.bot_lane,Role.carry
+7,moon o,Elise,True,Side.red,5,3,8,4.333333333333333,52,Smite,Flash,10,False,8115,7425,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,Rylai's Crystal Scepter,Ruby Crystal,,44329,17680,Lane.jungle,Role.none
+8,Betabet,Jayce,True,Side.red,5,6,5,1.6666666666666667,108,Flash,Teleport,11,False,8218,6650,Ionian Boots of Lucidity,Youmuu's Ghostblade,Doran's Blade,Phage,Caulfield's Warhammer,,4467,48494,Lane.top_lane,Role.solo
+9,Walljumper,Ziggs,True,Side.red,1,0,5,6.0,145,Ghost,Flash,11,False,8660,6875,Total Biscuit of Rejuvenation,Needlessly Large Rod,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Blasting Wand,90171,12542,Lane.mid_lane,Role.solo

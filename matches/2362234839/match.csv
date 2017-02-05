@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,aShady,Vi,False,Side.blue,8,7,9,2.4285714285714284,155,Ignite,Flash,16,False,14409,13933,Trinity Force,Ravenous Hydra,Ionian Boots of Lucidity,Last Whisper,Hexdrinker,Dead Man's Plate,0,175933,Lane.jungle,Role.none
+1,Niles,Riven,False,Side.blue,8,6,6,2.3333333333333335,255,Flash,Ignite,17,False,15010,14875,Ninja Tabi,Titanic Hydra,The Black Cleaver,Maw of Malmortius,The Bloodthirster,,0,187776,Lane.mid_lane,Role.solo
+2,amoureux de toi,Poppy,False,Side.blue,4,4,6,2.5,251,Teleport,Flash,18,False,14112,14025,Sunfire Cape,Dead Man's Plate,Spirit Visage,Mercury's Treads,Iceborn Gauntlet,Ruby Crystal,55187,124284,Lane.top_lane,Role.solo
+3,bvcx222,Bard,False,Side.blue,4,4,17,5.25,16,Flash,Ignite,15,False,11955,11650,Ruby Sightstone,Redemption,Locket of the Iron Solari,Zhonya's Hourglass,,Boots of Mobility,19773,8803,Lane.bot_lane,Role.support
+4,Jeehun,Vayne,False,Side.blue,7,10,2,0.9,198,Flash,Heal,15,True,13594,12775,Blade of the Ruined King,B. F. Sword,Guardian Angel,Phantom Dancer,Berserker's Greaves,Hexdrinker,74,117017,Lane.bot_lane,Role.carry
+5,Sebi,Fizz,True,Side.red,7,7,10,2.4285714285714284,217,Flash,Ignite,16,False,13804,12850,Rabadon's Deathcap,The Dark Seal,Zhonya's Hourglass,Lich Bane,Blasting Wand,Sorcerer's Shoes,105299,31285,Lane.mid_lane,Role.solo
+6,Rohammers,Ekko,True,Side.red,5,6,5,1.6666666666666667,278,Teleport,Flash,18,False,14554,13750,Hextech Protobelt-01,Zhonya's Hourglass,Void Staff,Doran's Ring,Mercury's Treads,Lich Bane,203690,30660,Lane.top_lane,Role.solo
+7,Banshee Rush,Alistar,True,Side.red,2,5,21,4.6,40,Exhaust,Flash,16,False,11197,9990,Face of the Mountain,Sightstone,Knight's Vow,Control Ward,Frozen Heart,Boots of Mobility,18356,7378,Lane.bot_lane,Role.support
+8,gLucy,Ezreal,True,Side.red,8,5,11,3.8,266,Flash,Heal,18,False,15139,13675,Muramana,Blade of the Ruined King,Pickaxe,Ionian Boots of Lucidity,Iceborn Gauntlet,Lord Dominik's Regards,41036,162016,Lane.bot_lane,Role.carry
+9,LL Stylish,Zed,True,Side.red,9,8,7,2.0,271,Smite,Flash,18,False,16092,14400,Enchantment: Warrior,Duskblade of Draktharr,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,Jaurim's Fist,13718,235114,Lane.jungle,Role.none

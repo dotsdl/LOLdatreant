@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,am tham ben em,Karma,True,Side.blue,1,1,8,9.0,11,Flash,Exhaust,10,False,7008,5775,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,,,,17148,4562,Lane.bot_lane,Role.support
+1,Zephira,Syndra,True,Side.blue,2,1,3,5.0,127,Ghost,Flash,13,False,8104,6360,Doran's Ring,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Needlessly Large Rod,Morellonomicon,Amplifying Tome,50035,9515,Lane.mid_lane,Role.solo
+2,LarryTacos,Vi,True,Side.blue,5,1,5,10.0,92,Smite,Flash,13,False,9710,8158,Ninja Tabi,Trinity Force,Caulfield's Warhammer,Warden's Mail,,Stalker's Blade,1584,100733,Lane.jungle,Role.none
+3,Maulface,Swain,True,Side.blue,13,4,5,4.5,194,Teleport,Flash,15,False,12761,10800,The Dark Seal,Zhonya's Hourglass,Seraph's Embrace,Rod of Ages,Sorcerer's Shoes,,109558,15406,Lane.top_lane,Role.solo
+4,Marimba,Caitlyn,True,Side.blue,2,0,3,5.0,217,Heal,Flash,13,False,9788,7775,Doran's Blade,B. F. Sword,Runaan's Hurricane,Zeal,Berserker's Greaves,Kircheis Shard,1118,115559,Lane.bot_lane,Role.carry
+5,OB3S3CAM3L,Graves,False,Side.red,3,6,2,0.8333333333333334,86,Smite,Flash,12,True,6889,6350,Enchantment: Warrior,Refillable Potion,Hexdrinker,Berserker's Greaves,Caulfield's Warhammer,,4336,86009,Lane.jungle,Role.none
+6,NaiNai,Janna,False,Side.red,0,3,3,1.0,5,Flash,Exhaust,8,False,4546,3550,Sightstone,Null-Magic Mantle,Total Biscuit of Rejuvenation,Nomad's Medallion,Boots of Mobility,,2584,2977,Lane.bot_lane,Role.support
+7,Avastbrain,Jhin,False,Side.red,2,5,2,0.8,152,Heal,Flash,11,False,7034,7000,Doran's Blade,Infinity Edge,Caulfield's Warhammer,Cloak of Agility,Boots of Swiftness,,6880,68424,Lane.bot_lane,Role.carry
+8, TxcT Walpurgies,Anivia,False,Side.red,0,3,1,0.3333333333333333,172,Flash,Ghost,12,False,6829,6700,Doran's Ring,Tear of the Goddess,Rod of Ages,Ionian Boots of Lucidity,Fiendish Codex,Lost Chapter,68707,11686,Lane.mid_lane,Role.solo
+9,badseed31,Malphite,False,Side.red,2,6,0,0.3333333333333333,103,Flash,Teleport,11,False,6118,6000,Doran's Ring,Health Potion,Spirit Visage,Doran's Ring,Boots of Swiftness,Bami's Cinder,22628,20617,Lane.top_lane,Role.solo

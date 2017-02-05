@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nëbu,Varus,False,Side.blue,4,10,9,1.3,26,Flash,Exhaust,11,False,6742,5550,Youmuu's Ghostblade,Ionian Boots of Lucidity,Sightstone,Tear of the Goddess,,,3156,28248,Lane.bot_lane,Role.support
+1,IA55A55INI,Kindred,False,Side.blue,7,15,5,0.8,56,Flash,Smite,11,False,7740,6850,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,Runaan's Hurricane,Dagger,,2291,53258,Lane.jungle,Role.none
+2,Kebin M,Riven,False,Side.blue,2,3,1,1.0,129,Flash,Teleport,12,False,6946,6425,The Black Cleaver,Refillable Potion,Last Whisper,Caulfield's Warhammer,,Doran's Blade,0,52925,Lane.top_lane,Role.solo
+3,greenléaf,Caitlyn,False,Side.blue,3,10,5,0.8,99,Heal,Flash,10,False,7098,6500,Doran's Blade,Runaan's Hurricane,Health Potion,Berserker's Greaves,Cloak of Agility,B. F. Sword,781,37007,Lane.bot_lane,Role.carry
+4,Positivityy,Yasuo,False,Side.blue,2,13,5,0.5384615384615384,75,Ignite,Flash,10,False,6485,5600,Boots of Speed,Phantom Dancer,Cloak of Agility,Refillable Potion,Hexdrinker,Doran's Blade,14619,26896,Lane.mid_lane,Role.solo
+5,Mateusz,Brand,True,Side.red,8,7,14,3.142857142857143,12,Exhaust,Flash,11,False,9350,8510,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,Eye of the Watchers,Liandry's Torment,Giant's Belt,Amplifying Tome,18819,5223,Lane.bot_lane,Role.support
+6,xRamee,Lee Sin,True,Side.red,11,5,13,4.8,70,Smite,Flash,13,False,10919,10275,Refillable Potion,Randuin's Omen,Enchantment: Warrior,Thornmail,Giant's Belt,Ninja Tabi,18166,67091,Lane.jungle,Role.none
+7,Yanni Tsunami,Katarina,True,Side.red,14,4,7,5.25,132,Ignite,Flash,13,True,11586,11070,Luden's Echo,Zhonya's Hourglass,,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,76950,8340,Lane.mid_lane,Role.solo
+8,Rhux,Poppy,True,Side.red,7,0,11,18.0,135,Flash,Teleport,14,False,10448,8725,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Cloth Armor,Giant's Belt,32689,60871,Lane.top_lane,Role.solo
+9,pilling91,Ezreal,True,Side.red,11,2,14,12.5,156,Heal,Flash,14,False,12540,10300,Doran's Blade,Muramana,Blade of the Ruined King,Ionian Boots of Lucidity,Iceborn Gauntlet,Long Sword,14994,80565,Lane.bot_lane,Role.carry

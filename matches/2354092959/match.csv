@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xFSN Saber,Lucian,True,Side.blue,6,3,3,3.0,218,Heal,Flash,14,False,12046,11775,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Essence Reaver,Runaan's Hurricane,,1769,112887,Lane.bot_lane,Role.carry
+1,NoOb NeVeR trolL,Fiora,True,Side.blue,9,3,9,6.0,194,Flash,Teleport,16,True,13024,11400,Ravenous Hydra,Corrupting Potion,Long Sword,The Black Cleaver,Ninja Tabi,Iceborn Gauntlet,1658,107045,Lane.top_lane,Role.solo
+2,HvK LiquidDiego,Lee Sin,True,Side.blue,8,3,10,6.0,71,Flash,Smite,14,False,10651,9000,Ionian Boots of Lucidity,,Enchantment: Warrior,Dead Man's Plate,Serrated Dirk,Hexdrinker,14726,78233,Lane.jungle,Role.none
+3,ADC Prospect,Orianna,True,Side.blue,7,4,12,4.75,212,Ghost,Flash,16,False,12734,11100,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Void Staff,,130821,14855,Lane.mid_lane,Role.solo
+4,PieCakeLord,Bard,True,Side.blue,1,6,13,2.3333333333333335,15,Exhaust,Flash,12,False,8127,6875,Ruby Sightstone,Frost Queen's Claim,Control Ward,Forbidden Idol,Ruby Crystal,Boots of Mobility,13296,4452,Lane.bot_lane,Role.support
+5,Painn,Riven,False,Side.red,2,13,2,0.3076923076923077,128,Flash,Teleport,12,False,7965,7025,The Black Cleaver,Refillable Potion,Tiamat,Ninja Tabi,Vampiric Scepter,Long Sword,69,68517,Lane.top_lane,Role.solo
+6,lron Pyrite,Vel'Koz,False,Side.red,4,5,5,1.8,168,Flash,Ghost,13,False,9226,9085,Doran's Ring,Luden's Echo,Total Biscuit of Rejuvenation,Amplifying Tome,Morellonomicon,Ionian Boots of Lucidity,84773,6158,Lane.mid_lane,Role.solo
+7,Joyul,Karma,False,Side.red,0,4,14,3.5,17,Flash,Exhaust,12,False,8005,7725,Locket of the Iron Solari,Redemption,Sightstone,Frostfang,,Ionian Boots of Lucidity,14208,3666,Lane.bot_lane,Role.support
+8,Glory IX,Rek'Sai,False,Side.red,6,4,4,2.5,139,Smite,Flash,14,False,9973,9695,Tiamat,Randuin's Omen,Enchantment: Cinderhulk,Negatron Cloak,Chain Vest,Ninja Tabi,28849,89849,Lane.jungle,Role.none
+9,Epicshots,Jhin,False,Side.red,7,5,5,2.4,217,Flash,Heal,14,False,11796,10500,Boots of Swiftness,Essence Reaver,B. F. Sword,Rapid Firecannon,Pickaxe,Doran's Blade,9623,125182,Lane.bot_lane,Role.carry

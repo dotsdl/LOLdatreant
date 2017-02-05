@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DJ Holiday,Caitlyn,False,Side.blue,7,8,13,2.5,200,Heal,Flash,14,False,12356,11270,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Negatron Cloak,Rapid Firecannon,1626,130448,Lane.bot_lane,Role.carry
+1,Quest and K0,Lee Sin,False,Side.blue,11,9,12,2.5555555555555554,109,Flash,Smite,15,False,12595,12325,Tiamat,Enchantment: Warrior,Null-Magic Mantle,Ninja Tabi,Dead Man's Plate,Maw of Malmortius,19083,96974,Lane.jungle,Role.none
+2,ToxicDrag,Karma,False,Side.blue,7,9,11,2.0,125,Teleport,Flash,14,False,11232,11160,Luden's Echo,Morellonomicon,Ardent Censer,Amplifying Tome,Sorcerer's Shoes,,77820,11394,Lane.mid_lane,Role.solo
+3,Yarkbeezy,Maokai,False,Side.blue,9,7,10,2.7142857142857144,163,Teleport,Flash,15,False,12153,11400,Rod of Ages,Doran's Ring,Ninja Tabi,Sunfire Cape,Spirit Visage,Glacial Shroud,95737,18213,Lane.top_lane,Role.solo
+4,Kamajii,Thresh,False,Side.blue,0,8,18,2.25,27,Flash,Exhaust,12,False,7909,7625,Face of the Mountain,Locket of the Iron Solari,Boots of Mobility,Control Ward,Ruby Crystal,Sightstone,7898,5813,Lane.bot_lane,Role.support
+5,bvcx222,Bard,True,Side.red,1,7,21,3.142857142857143,27,Flash,Ignite,15,False,10443,9150,Ruby Sightstone,Redemption,Locket of the Iron Solari,Warden's Mail,Spellthief's Edge,Boots of Mobility,12258,6537,Lane.bot_lane,Role.support
+6,Run From Skaarl,Kled,True,Side.red,13,8,13,3.25,167,Teleport,Flash,16,False,15527,14275,Titanic Hydra,The Black Cleaver,,Dead Man's Plate,Sunfire Cape,Mercury's Treads,671,139538,Lane.top_lane,Role.solo
+7,ONLYPLAYKALISTA,Vi,True,Side.red,4,6,18,3.6666666666666665,145,Smite,Flash,17,True,12922,11808,Kindlegem,Enchantment: Cinderhulk,Trinity Force,Giant's Belt,Guardian Angel,Mercury's Treads,22661,119342,Lane.jungle,Role.none
+8,Aint Random,Vayne,True,Side.red,9,8,10,2.375,118,Flash,Heal,14,False,12674,11025,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Statikk Shiv,Vampiric Scepter,Pickaxe,23672,65043,Lane.bot_lane,Role.carry
+9,Hopefool,Viktor,True,Side.red,13,5,9,4.4,255,Flash,Ghost,16,False,16498,13925,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,Void Staff,Ionian Boots of Lucidity,Lich Bane,174499,12450,Lane.mid_lane,Role.solo

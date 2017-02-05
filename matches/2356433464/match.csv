@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AllAero,Syndra,False,Side.blue,0,2,1,0.5,89,Flash,Ghost,9,False,4587,4225,Abyssal Scepter,Refillable Potion,Doran's Ring,Doran's Ring,Boots of Speed,,27145,4009,Lane.mid_lane,Role.solo
+1,Lukwer,Maokai,False,Side.blue,1,5,1,0.4,118,Flash,Teleport,11,False,5304,5125,Doran's Ring,Mercury's Treads,Sunfire Cape,Doran's Ring,,,49384,9423,Lane.top_lane,Role.solo
+2,camtheham,Vayne,False,Side.blue,0,7,0,0.0,107,Heal,Flash,8,False,4615,4050,Refillable Potion,B. F. Sword,Doran's Blade,Zeal,Kircheis Shard,,957,31690,Lane.bot_lane,Role.carry
+3,Sawyerr,Sona,False,Side.blue,1,8,0,0.125,4,Ignite,Flash,7,False,4073,3450,Frostfang,Ionian Boots of Lucidity,The Dark Seal,,Doran's Ring,Sightstone,6014,4198,Lane.bot_lane,Role.support
+4,retarded virgin,Graves,False,Side.blue,1,6,0,0.16666666666666666,83,Flash,Smite,9,False,5153,4675,Enchantment: Warrior,Refillable Potion,Boots of Speed,Hexdrinker,Dagger,,2130,56681,Lane.jungle,Role.none
+5,Fàkèr  ,Braum,True,Side.red,2,0,13,15.0,29,Exhaust,Flash,10,False,6289,5350,Berserker's Greaves,Redemption,Sightstone,Targon's Brace,,,5109,7465,Lane.bot_lane,Role.support
+6,IIlIIlIIIlllIIlI,Jhin,True,Side.red,8,0,7,15.0,131,Heal,Flash,11,False,8749,5600,Doran's Blade,Essence Reaver,Cull,Refillable Potion,Boots of Swiftness,,5983,73973,Lane.bot_lane,Role.carry
+7,TwicTVgoldenglue,LeBlanc,True,Side.red,6,0,5,11.0,157,Teleport,Flash,12,True,8952,7150,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Mejai's Soulstealer,Abyssal Scepter,Needlessly Large Rod,67708,13749,Lane.mid_lane,Role.solo
+8,swoloHey,Lee Sin,True,Side.red,10,0,11,21.0,79,Flash,Smite,12,False,9258,7750,Enchantment: Warrior,The Black Cleaver,Ninja Tabi,Long Sword,Long Sword,Refillable Potion,13202,69736,Lane.jungle,Role.none
+9,Dispencer xD,Rammus,True,Side.red,2,3,3,1.6666666666666667,119,Flash,Teleport,11,False,7006,6650,Zz'Rot Portal,Corrupting Potion,Mercury's Treads,Thornmail,,,27365,24205,Lane.top_lane,Role.solo

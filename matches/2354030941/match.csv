@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Adrian Riven,Jayce,False,Side.blue,5,8,7,1.5,178,Teleport,Flash,14,True,10357,8825,Maw of Malmortius,Boots of Swiftness,The Black Cleaver,Serrated Dirk,,,17475,100411,Lane.mid_lane,Role.solo
+1,Gahlin,Zac,False,Side.blue,8,8,7,1.875,113,Flash,Smite,13,False,10314,10810,Enchantment: Cinderhulk,Spirit Visage,Knight's Vow,Giant's Belt,Ionian Boots of Lucidity,Cloth Armor,92852,17212,Lane.jungle,Role.none
+2,Hi Im A Sheep,Soraka,False,Side.blue,2,4,20,5.5,15,Flash,Exhaust,12,False,9093,8675,Eye of the Oasis,Redemption,Locket of the Iron Solari,Control Ward,Aether Wisp,Ionian Boots of Lucidity,16628,4776,Lane.bot_lane,Role.support
+3,Huw,Vayne,False,Side.blue,9,12,6,1.25,174,Heal,Flash,13,False,11541,11580,Infinity Edge,Statikk Shiv,Phantom Dancer,Vampiric Scepter,Berserker's Greaves,,31273,89388,Lane.bot_lane,Role.carry
+4,Rokí,Ekko,False,Side.blue,3,4,6,2.25,191,Flash,Teleport,14,False,9957,8700,Doran's Ring,Null-Magic Mantle,Rod of Ages,Spirit Visage,Ninja Tabi,Glacial Shroud,100199,18456,Lane.top_lane,Role.solo
+5,Entranced,Shaco,True,Side.red,8,2,13,10.5,198,Teleport,Flash,16,False,13065,11350,Hextech Protobelt-01,Corrupting Potion,Zhonya's Hourglass,The Dark Seal,Ionian Boots of Lucidity,Lich Bane,107247,31043,Lane.top_lane,Role.solo
+6,FZ3R0,Ezreal,True,Side.red,13,4,12,6.25,228,Flash,Heal,16,False,14971,13883,Blade of the Ruined King,Trinity Force,Muramana,Ionian Boots of Lucidity,Doran's Blade,Lord Dominik's Regards,21960,155502,Lane.bot_lane,Role.carry
+7,blue suede,Lee Sin,True,Side.red,4,6,19,3.8333333333333335,150,Flash,Smite,15,False,11928,11100,Tiamat,Randuin's Omen,Enchantment: Warrior,Control Ward,Ninja Tabi,Dead Man's Plate,24323,119576,Lane.jungle,Role.none
+8,Ðad,Thresh,True,Side.red,2,7,21,3.2857142857142856,60,Ignite,Flash,14,False,9628,8225,Locket of the Iron Solari,Control Ward,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Ionian Boots of Lucidity,16146,8193,Lane.bot_lane,Role.support
+9,cesuna,Akali,True,Side.red,8,8,11,2.375,162,Flash,Ignite,15,False,11765,10225,Hextech Gunblade,Zhonya's Hourglass,Needlessly Large Rod,Giant's Belt,Sorcerer's Shoes,Doran's Shield,37781,64287,Lane.mid_lane,Role.solo

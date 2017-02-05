@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pond,Graves,True,Side.blue,0,5,5,1.0,133,Smite,Flash,13,False,10054,7875,Refillable Potion,,Quicksilver Sash,Phantom Dancer,Mercury's Treads,Enchantment: Warrior,2902,127563,Lane.jungle,Role.none
+1,CloudNguyén,Brand,True,Side.blue,4,3,9,4.333333333333333,143,Cleanse,Flash,14,False,10582,8735,Control Ward,Sorcerer's Shoes,Doran's Ring,Rylai's Crystal Scepter,Liandry's Torment,Amplifying Tome,75722,17498,Lane.mid_lane,Role.solo
+2,SKY Fear,Twitch,True,Side.blue,9,4,3,3.0,167,Flash,Heal,14,False,11837,9300,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,,Infinity Edge,Zeal,0,89537,Lane.bot_lane,Role.carry
+3,Aecinira,Bard,True,Side.blue,3,2,12,7.5,10,Flash,Exhaust,13,False,8615,7000,Ruby Sightstone,,Redemption,Frostfang,Kindlegem,Ionian Boots of Lucidity,9848,7679,Lane.bot_lane,Role.support
+4,sensei cat,Singed,True,Side.blue,1,8,4,0.625,206,Teleport,Ghost,15,False,10132,8325,The Dark Seal,Corrupting Potion,Mercury's Treads,Zz'Rot Portal,Rylai's Crystal Scepter,Ruby Crystal,107808,8405,Lane.top_lane,Role.solo
+5,EnVy LOD,Jhin,False,Side.red,13,5,3,3.2,166,Flash,Heal,13,False,10743,9900,Doran's Blade,Pickaxe,Essence Reaver,Boots of Swiftness,Rapid Firecannon,B. F. Sword,7074,76757,Lane.bot_lane,Role.carry
+6,Kled Gosu,Leona,False,Side.red,3,3,11,4.666666666666667,37,Ignite,Flash,12,False,7003,6270,Boots of Mobility,Raptor Cloak,Face of the Mountain,Control Ward,Negatron Cloak,Sightstone,10268,9289,Lane.bot_lane,Role.support
+7,Sorrain,Shen,False,Side.red,3,3,7,3.3333333333333335,212,Flash,Teleport,15,True,9312,8720,Doran's Shield,Null-Magic Mantle,Mercury's Treads,Spirit Visage,Sunfire Cape,Negatron Cloak,53375,47160,Lane.top_lane,Role.solo
+8,Stiches,Twisted Fate,False,Side.red,3,6,9,2.0,148,Ghost,Flash,14,False,9663,9075,Frost Queen's Claim,Iceborn Gauntlet,Fiendish Codex,Boots of Mobility,Kircheis Shard,Zeal,83214,14809,Lane.mid_lane,Role.carry
+9,Link,Aatrox,False,Side.red,0,0,0,0.0,5,Flash,Smite,4,False,4202,500,Refillable Potion,,,,,Hunter's Machete,143,4810,Lane.mid_lane,Role.support

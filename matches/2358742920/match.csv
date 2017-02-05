@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TheInoOne,Caitlyn,False,Side.blue,0,5,4,0.8,193,Flash,Heal,13,False,9399,9250,Dagger,Brawler's Gloves,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,404,112297,Lane.bot_lane,Role.carry
+1,oopa,Ryze,False,Side.blue,6,5,4,2.0,186,Flash,Teleport,14,False,9934,9870,Fiendish Codex,Seraph's Embrace,Needlessly Large Rod,Ionian Boots of Lucidity,Rod of Ages,Negatron Cloak,109885,6396,Lane.top_lane,Role.solo
+2,Eitori,LeBlanc,False,Side.blue,6,4,4,2.5,138,Ignite,Flash,14,False,9072,8650,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Blasting Wand,Morellonomicon,Abyssal Scepter,60826,12238,Lane.mid_lane,Role.solo
+3,Tsùki,Bard,False,Side.blue,2,5,7,1.8,20,Flash,Ignite,12,False,7301,6775,Eye of the Watchers,Redemption,Aegis of the Legion,,Ionian Boots of Lucidity,,14886,4176,Lane.bot_lane,Role.support
+4,blue suede,Lee Sin,False,Side.blue,4,5,6,2.0,147,Flash,Smite,13,False,9251,8400,Edge of Night,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Spectre's Cowl,,22532,99532,Lane.jungle,Role.none
+5,Dyrus,Cassiopeia,True,Side.red,1,6,5,1.0,203,Teleport,Flash,15,False,10672,8750,Doran's Ring,Refillable Potion,Needlessly Large Rod,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,109216,12764,Lane.top_lane,Role.solo
+6,King of Memes,Rengar,True,Side.red,7,3,7,4.666666666666667,153,Smite,Flash,15,False,12061,10425,Enchantment: Warrior,,Refillable Potion,Hexdrinker,Ninja Tabi,The Black Cleaver,14308,138627,Lane.jungle,Role.none
+7,Sheiden,Kennen,True,Side.red,9,3,1,3.3333333333333335,210,Teleport,Flash,16,False,12104,12100,Abyssal Scepter,Hextech Protobelt-01,Giant's Belt,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,77288,32919,Lane.mid_lane,Role.solo
+8,TSM MeNoHaxor,Karma,True,Side.red,3,3,11,4.666666666666667,11,Ignite,Flash,12,False,9258,9025,Eye of the Watchers,Locket of the Iron Solari,Forbidden Idol,Boots of Mobility,Control Ward,Redemption,13935,4365,Lane.bot_lane,Role.support
+9,Jeehun,Ezreal,True,Side.red,4,3,9,4.333333333333333,187,Flash,Heal,14,True,11124,10208,Bilgewater Cutlass,Trinity Force,Muramana,Recurve Bow,Ionian Boots of Lucidity,Doran's Blade,11916,101824,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Riesig,Xin Zhao,False,Side.blue,2,5,3,1.0,211,Flash,Smite,14,False,10064,8700,Refillable Potion,Enchantment: Bloodrazor,Mercury's Treads,Vampiric Scepter,Long Sword,Titanic Hydra,15139,135055,Lane.jungle,Role.none
+1,RF Legendary,Jayce,False,Side.blue,2,6,2,0.6666666666666666,178,Flash,Teleport,12,False,8357,6925,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Doran's Blade,B. F. Sword,Vampiric Scepter,6618,80190,Lane.top_lane,Role.solo
+2,TwTv Kinoscorpia,Lee Sin,False,Side.blue,1,8,4,0.625,40,Exhaust,Flash,11,False,6138,5225,Ionian Boots of Lucidity,Caulfield's Warhammer,Total Biscuit of Rejuvenation,Long Sword,Control Ward,Eye of the Equinox,3936,14631,Lane.bot_lane,Role.support
+3,Rokí,Ezreal,False,Side.blue,2,8,4,0.75,149,Flash,Heal,12,False,8123,6625,Doran's Blade,Manamune,Ionian Boots of Lucidity,Iceborn Gauntlet,,,18874,64331,Lane.bot_lane,Role.carry
+4,CLG Darshawn,Katarina,False,Side.blue,11,9,4,1.6666666666666667,103,Ignite,Flash,13,True,9739,9120,Hextech Gunblade,Rylai's Crystal Scepter,Sorcerer's Shoes,,Negatron Cloak,,68263,4234,Lane.mid_lane,Role.solo
+5,Yarnello,Poppy,True,Side.red,6,1,10,16.0,182,Flash,Teleport,15,False,11748,9350,Corrupting Potion,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,Spectre's Cowl,Kindlegem,28903,87312,Lane.top_lane,Role.solo
+6,tardzaned,Elise,True,Side.red,9,4,10,4.75,146,Smite,Flash,15,False,12981,12825,Enchantment: Runic Echoes,Health Potion,Sunfire Cape,Sorcerer's Shoes,Liandry's Torment,Abyssal Scepter,116363,35627,Lane.jungle,Role.none
+7,zlsna,Thresh,True,Side.red,2,4,22,6.0,24,Flash,Ignite,13,False,9105,8250,Warden's Mail,Face of the Mountain,Sightstone,Redemption,Kindlegem,Boots of Mobility,11781,6426,Lane.bot_lane,Role.support
+8,godrjsdnd,Caitlyn,True,Side.red,9,4,8,4.25,210,Heal,Flash,15,False,13919,12200,Doran's Blade,B. F. Sword,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,1347,159674,Lane.bot_lane,Role.carry
+9,Rhux,Ahri,True,Side.red,10,5,4,2.8,152,Flash,Ignite,15,False,11364,8675,Hextech Gunblade,Doran's Ring,Morellonomicon,,Sorcerer's Shoes,Doran's Ring,60505,21344,Lane.mid_lane,Role.solo

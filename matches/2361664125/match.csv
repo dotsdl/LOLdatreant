@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Štarboy,Ivern,True,Side.blue,8,1,24,32.0,85,Smite,Flash,15,False,11656,8725,Athene's Unholy Grail,Control Ward,Locket of the Iron Solari,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Null-Magic Mantle,22291,12995,Lane.jungle,Role.none
+1,Hyorimaru,Anivia,True,Side.blue,14,1,11,25.0,190,Flash,Teleport,15,True,12520,8645,Doran's Ring,Rod of Ages,Seraph's Embrace,Negatron Cloak,,Boots of Mobility,112639,11816,Lane.mid_lane,Role.solo
+2,Leagué,Riven,True,Side.blue,11,3,10,7.0,168,Flash,Teleport,15,False,12141,11700,Maw of Malmortius,Guardian Angel,Long Sword,The Black Cleaver,,Mercury's Treads,879,101129,Lane.top_lane,Role.solo
+3,Hi Im A Sheep,Thresh,True,Side.blue,1,3,27,9.333333333333334,39,Flash,Ignite,13,False,8510,6850,Ruby Sightstone,,Redemption,Kindlegem,Targon's Brace,Boots of Mobility,16702,8634,Lane.bot_lane,Role.support
+4,Pekin Woof,Twitch,True,Side.blue,6,4,2,2.0,227,Flash,Heal,14,False,11682,10575,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Statikk Shiv,Doran's Blade,,1201,124457,Lane.bot_lane,Role.carry
+5,Happy Birfdizzay,Teemo,False,Side.red,5,7,1,0.8571428571428571,229,Flash,Ignite,15,False,10758,10625,Hextech Gunblade,Sorcerer's Shoes,Nashor's Tooth,Haunting Guise,Blasting Wand,,86118,39464,Lane.top_lane,Role.solo
+6,Hakuho,Lulu,False,Side.red,1,7,2,0.42857142857142855,10,Exhaust,Flash,10,False,6543,5800,Eye of the Watchers,Redemption,,Ionian Boots of Lucidity,,,8938,3893,Lane.bot_lane,Role.support
+7,zlsna,Ekko,False,Side.red,3,9,1,0.4444444444444444,183,Flash,Teleport,14,False,9053,8775,Hextech Protobelt-01,The Dark Seal,Lich Bane,Corrupting Potion,Needlessly Large Rod,Ionian Boots of Lucidity,95368,18717,Lane.mid_lane,Role.solo
+8,mandatorycloud,Rengar,False,Side.red,1,12,1,0.16666666666666666,94,Flash,Smite,11,False,7093,6725,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Ionian Boots of Lucidity,Control Ward,,6534,79974,Lane.jungle,Role.none
+9,Erry,Jhin,False,Side.red,2,6,1,0.5,176,Heal,Flash,11,False,9007,8800,Boots of Swiftness,Rapid Firecannon,Essence Reaver,Doran's Blade,Null-Magic Mantle,Cull,6332,98358,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DrunkCatalyst,Nautilus,True,Side.blue,4,5,9,2.6,204,Flash,Teleport,15,False,11615,10600,Corrupting Potion,Spirit Visage,Zz'Rot Portal,Ninja Tabi,Sunfire Cape,Cloth Armor,100504,22822,Lane.top_lane,Role.solo
+1,ApeXsnipe,Jhin,True,Side.blue,4,9,12,1.7777777777777777,148,Flash,Heal,14,False,11335,8625,Refillable Potion,Doran's Blade,Cloak of Agility,Statikk Shiv,Ionian Boots of Lucidity,Essence Reaver,11044,113840,Lane.bot_lane,Role.carry
+2,Shiphtur,Syndra,True,Side.blue,8,2,10,9.0,226,Ghost,Flash,16,False,13503,12835,Void Staff,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,Needlessly Large Rod,145476,16900,Lane.mid_lane,Role.solo
+3,retarded virgin,Rengar,True,Side.blue,11,3,1,4.0,201,Flash,Smite,17,False,14627,14025,Redemption,Youmuu's Ghostblade,Tiamat,Spirit Visage,Ninja Tabi,Enchantment: Warrior,12708,191451,Lane.jungle,Role.none
+4,Ari Kingu,Soraka,True,Side.blue,1,3,20,7.0,15,Exhaust,Flash,14,False,9977,8250,Cloth Armor,Mikael's Crucible,Redemption,Eye of the Oasis,Ionian Boots of Lucidity,Null-Magic Mantle,7190,4435,Lane.bot_lane,Role.support
+5,GtG OwO,Lee Sin,False,Side.red,8,6,4,2.0,213,Smite,Flash,16,False,12447,12275,Tiamat,Youmuu's Ghostblade,Enchantment: Warrior,Ninja Tabi,Maw of Malmortius,Vampiric Scepter,39919,147324,Lane.jungle,Role.none
+6,amgod1,Caitlyn,False,Side.red,5,8,3,1.0,258,Heal,Flash,15,True,12593,11575,Doran's Blade,Berserker's Greaves,Lord Dominik's Regards,Infinity Edge,Runaan's Hurricane,Dagger,673,190558,Lane.bot_lane,Role.carry
+7,AsianGoneWild,Corki,False,Side.red,5,6,5,1.6666666666666667,189,Exhaust,Flash,15,False,11090,10183,Corrupting Potion,Trinity Force,Hexdrinker,Sorcerer's Shoes,Statikk Shiv,Pickaxe,94216,26150,Lane.mid_lane,Role.solo
+8,Winter is back,Morgana,False,Side.red,2,5,11,2.6,18,Flash,Exhaust,13,False,9423,8925,Control Ward,,Locket of the Iron Solari,Eye of the Watchers,Ionian Boots of Lucidity,Redemption,12940,3524,Lane.bot_lane,Role.support
+9,Myloo,Poppy,False,Side.red,2,3,7,3.0,239,Flash,Teleport,16,False,10904,10605,Mercury's Treads,Corrupting Potion,Dead Man's Plate,Sunfire Cape,Spirit Visage,,39046,96235,Lane.top_lane,Role.solo

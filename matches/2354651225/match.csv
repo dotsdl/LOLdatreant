@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tigerjjayman,Lissandra,True,Side.blue,7,0,2,9.0,124,Flash,Teleport,11,False,7720,5960,Doran's Ring,Hextech Protobelt-01,Needlessly Large Rod,Boots of Speed,Blasting Wand,Amplifying Tome,52347,10344,Lane.mid_lane,Role.solo
+1,Nerf Vayne,Caitlyn,True,Side.blue,5,2,3,4.0,101,Heal,Flash,9,False,6266,5975,Doran's Blade,Total Biscuit of Rejuvenation,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Dagger,210,42275,Lane.bot_lane,Role.carry
+2,No HandleBards ,Kha'Zix,True,Side.blue,3,0,3,6.0,80,Smite,Flash,9,False,6320,6150,Enchantment: Warrior,Tiamat,Boots of Speed,Mejai's Soulstealer,Elixir of Sorcery,,2396,58406,Lane.jungle,Role.none
+3,Xzevz,Gragas,True,Side.blue,2,1,4,6.0,74,Teleport,Flash,10,False,5368,3200,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Hextech Revolver,,,29389,11230,Lane.top_lane,Role.solo
+4,bvcx222,Blitzcrank,True,Side.blue,0,2,8,4.0,22,Flash,Exhaust,8,False,4509,2550,Sightstone,,,Targon's Brace,,Boots of Speed,3195,5417,Lane.bot_lane,Role.support
+5,Whisper,Jhin,False,Side.red,1,4,2,0.75,86,Heal,Flash,8,False,4652,4225,Doran's Blade,Caulfield's Warhammer,Pickaxe,,Boots of Speed,B. F. Sword,854,34317,Lane.bot_lane,Role.carry
+6,Megalomaniacal,Quinn,False,Side.red,1,3,1,0.6666666666666666,82,Flash,Ignite,8,False,4425,4125,Health Potion,Doran's Blade,Serrated Dirk,Berserker's Greaves,B. F. Sword,,483,24387,Lane.mid_lane,Role.solo
+7,ScrubNoob,Rengar,False,Side.red,3,4,2,1.25,98,Smite,Flash,10,True,6556,6400,Enchantment: Warrior,Tiamat,Refillable Potion,Serrated Dirk,Long Sword,Ionian Boots of Lucidity,3303,70900,Lane.jungle,Role.none
+8,TeddyRO,Rammus,False,Side.red,0,2,1,0.5,61,Flash,Teleport,8,False,3874,2400,Corrupting Potion,Bami's Cinder,Chain Vest,,,,15376,10141,Lane.top_lane,Role.solo
+9,NoOb NeVeR trolL,Soraka,False,Side.red,0,4,1,0.25,0,Flash,Teleport,6,False,3008,1725,Frostfang,Refillable Potion,Control Ward,The Dark Seal,Boots of Speed,,4355,734,Lane.bot_lane,Role.support

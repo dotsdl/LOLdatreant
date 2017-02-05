@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Koromanti,Graves,True,Side.blue,5,2,4,4.5,164,Smite,Flash,13,False,10666,10075,Phantom Dancer,Death's Dance,Berserker's Greaves,Enchantment: Warrior,,,3439,132079,Lane.jungle,Role.none
+1,Euli,Ezreal,True,Side.blue,4,2,4,4.0,139,Heal,Flash,11,False,9513,9400,Hexdrinker,Bilgewater Cutlass,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,,10512,67289,Lane.bot_lane,Role.carry
+2,doveIy,Poppy,True,Side.blue,4,3,3,2.3333333333333335,146,Teleport,Flash,13,False,9758,9225,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Boots of Swiftness,Iceborn Gauntlet,Kindlegem,21981,70205,Lane.top_lane,Role.solo
+3,v1ctoriasecret,Cassiopeia,True,Side.blue,9,3,3,4.0,164,Exhaust,Flash,15,False,11501,10150,Doran's Ring,Morellonomicon,Abyssal Scepter,,Tear of the Goddess,Rylai's Crystal Scepter,88737,8010,Lane.mid_lane,Role.solo
+4,Madlife WANNABE,Nautilus,True,Side.blue,1,3,7,2.6666666666666665,32,Flash,Exhaust,10,False,7238,6650,Relic Shield,Sightstone,Boots of Mobility,Redemption,Locket of the Iron Solari,,13934,8804,Lane.bot_lane,Role.support
+5,lI Rome Il,Lee Sin,False,Side.red,3,5,3,1.2,89,Smite,Flash,11,False,7203,6550,Refillable Potion,Mercury's Treads,Enchantment: Warrior,Giant's Belt,Chain Vest,Pickaxe,15664,53759,Lane.jungle,Role.none
+6,Lando Xo,Janna,False,Side.red,0,4,7,1.75,5,Flash,Exhaust,11,False,5572,4650,Sightstone,Refillable Potion,Ardent Censer,Boots of Mobility,Ancient Coin,,6930,2377,Lane.bot_lane,Role.support
+7,Liquid Kappa,Katarina,False,Side.red,7,6,2,1.5,142,Flash,Exhaust,13,False,8678,8185,The Dark Seal,Hextech Gunblade,Refillable Potion,Sorcerer's Shoes,Abyssal Scepter,Amplifying Tome,75108,10780,Lane.mid_lane,Role.solo
+8,always plan ahea,Sion,False,Side.red,1,2,0,0.5,24,Flash,Teleport,6,True,4721,1900,Corrupting Potion,Bami's Cinder,Boots of Speed,,,,1643,6554,Lane.top_lane,Role.solo
+9,cooljim70,Draven,False,Side.red,2,6,4,1.0,102,Heal,Flash,11,False,6981,7850,Doran's Blade,Cull,Refillable Potion,Infinity Edge,Dagger,Boots of Speed,608,52126,Lane.bot_lane,Role.carry

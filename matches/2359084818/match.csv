@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,DZG Cobra,Miss Fortune,True,Side.blue,3,2,6,4.5,223,Flash,Heal,15,False,11186,10325,Doran's Blade,B. F. Sword,Pickaxe,The Black Cleaver,Berserker's Greaves,Duskblade of Draktharr,21886,100861,Lane.bot_lane,Role.carry
+1,Mean Mug,Dr. Mundo,True,Side.blue,10,2,6,8.0,202,Flash,Teleport,16,False,12490,9900,Giant's Belt,Sunfire Cape,Spirit Visage,Boots of Swiftness,Chain Vest,Kindlegem,94584,56043,Lane.top_lane,Role.solo
+2,Ult f4,Sona,True,Side.blue,4,3,4,2.6666666666666665,24,Ignite,Flash,11,False,7550,7185,Doran's Ring,Sorcerer's Shoes,Lost Chapter,Lich Bane,Fiendish Codex,Amplifying Tome,25191,9253,Lane.bot_lane,Role.support
+3,kind boy rlad,Volibear,True,Side.blue,6,1,6,12.0,108,Smite,Flash,14,True,10904,9950,Refillable Potion,Enchantment: Cinderhulk,Spirit Visage,Randuin's Omen,Cloth Armor,Mercury's Treads,36576,66561,Lane.jungle,Role.none
+4,Admiral,Lux,True,Side.blue,2,5,7,1.8,146,Ignite,Flash,13,False,9861,7425,Doran's Ring,Mejai's Soulstealer,Athene's Unholy Grail,Blasting Wand,Needlessly Large Rod,Sorcerer's Shoes,70009,15350,Lane.mid_lane,Role.solo
+5,LOVE TAPPED,Leona,False,Side.red,0,5,4,0.8,43,Exhaust,Flash,11,False,6269,5475,Face of the Mountain,Boots of Speed,Aegis of the Legion,Sightstone,Control Ward,Crystalline Bracer,4036,5169,Lane.bot_lane,Role.support
+6, keine Hosen,Ziggs,False,Side.red,3,5,1,0.8,193,Flash,Ghost,13,False,8945,8850,Doran's Ring,Rabadon's Deathcap,,Morellonomicon,Sorcerer's Shoes,,100243,12245,Lane.mid_lane,Role.solo
+7,Boguski,Ashe,False,Side.red,3,1,4,7.0,187,Heal,Flash,13,False,9413,9200,Doran's Blade,Phantom Dancer,Berserker's Greaves,Essence Reaver,Zeal,,1551,76913,Lane.bot_lane,Role.carry
+8,FreeDemoye2K16,Hecarim,False,Side.red,4,3,4,2.6666666666666665,119,Smite,Ghost,13,False,8958,7633,Control Ward,Refillable Potion,Boots of Swiftness,Trinity Force,Enchantment: Cinderhulk,,15420,83350,Lane.jungle,Role.none
+9,Asdadarf,Renekton,False,Side.red,3,11,1,0.36363636363636365,173,Ignite,Flash,13,False,9189,7795,The Black Cleaver,,Negatron Cloak,Caulfield's Warhammer,Boots of Swiftness,Chain Vest,1691,91692,Lane.top_lane,Role.solo

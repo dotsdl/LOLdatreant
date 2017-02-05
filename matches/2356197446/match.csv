@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,billionaireck,Teemo,True,Side.blue,9,4,11,5.0,217,Ignite,Flash,15,False,12776,12625,Caulfield's Warhammer,Boots of Swiftness,Hextech Gunblade,Runaan's Hurricane,Hexdrinker,Statikk Shiv,72587,70358,Lane.top_lane,Role.solo
+1,fovq,Jhin,True,Side.blue,3,4,6,2.25,127,Flash,Heal,11,False,9084,9075,Doran's Blade,Pickaxe,Rapid Firecannon,Cull,Essence Reaver,Boots of Swiftness,10326,73621,Lane.bot_lane,Role.carry
+2,Kentha,Blitzcrank,True,Side.blue,1,4,15,4.0,39,Ignite,Flash,10,False,8178,7875,Sightstone,Face of the Mountain,Frozen Heart,Null-Magic Mantle,Cloth Armor,Boots of Mobility,14381,13200,Lane.bot_lane,Role.support
+3,Elpopo,Ryze,True,Side.blue,4,3,7,3.6666666666666665,135,Flash,Ghost,13,False,9085,9075,Tear of the Goddess,Ionian Boots of Lucidity,Morellonomicon,The Dark Seal,Rod of Ages,Needlessly Large Rod,73996,12771,Lane.mid_lane,Role.solo
+4,KT Score,Olaf,True,Side.blue,13,1,6,19.0,174,Smite,Ghost,15,False,13632,12700,Righteous Glory,Enchantment: Cinderhulk,Dead Man's Plate,Warden's Mail,Guardian Angel,Ionian Boots of Lucidity,20437,112434,Lane.jungle,Role.none
+5,Walrus Commander,Tahm Kench,False,Side.red,3,6,7,1.6666666666666667,30,Exhaust,Flash,11,True,7088,5990,Relic Shield,Sightstone,Ionian Boots of Lucidity,Kindlegem,Knight's Vow,Ruby Crystal,14829,6020,Lane.bot_lane,Role.support
+6,CIoudCarry,Lee Sin,False,Side.red,3,8,4,0.875,69,Smite,Flash,11,False,7416,6975,Chain Vest,Enchantment: Warrior,Long Sword,Boots of Swiftness,Long Sword,Giant's Belt,15714,62642,Lane.jungle,Role.none
+7,Huang Bo Boosted,Graves,False,Side.red,2,3,4,2.0,223,Teleport,Flash,14,False,10056,9700,Infinity Edge,Dagger,Refillable Potion,Berserker's Greaves,Essence Reaver,,1997,122138,Lane.mid_lane,Role.solo
+8,TheB1ackMamba,Rumble,False,Side.red,2,8,6,1.0,115,Teleport,Flash,13,False,7556,7350,Sorcerer's Shoes,Haunting Guise,Refillable Potion,Doran's Shield,Void Staff,Seeker's Armguard,53619,5227,Lane.top_lane,Role.solo
+9,LD Mewtwo3,Lucian,False,Side.red,6,5,3,1.8,183,Heal,Flash,13,False,10377,10100,Doran's Blade,Berserker's Greaves,Essence Reaver,Last Whisper,Statikk Shiv,Long Sword,12665,94808,Lane.bot_lane,Role.carry

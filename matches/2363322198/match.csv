@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,goompa,Lee Sin,True,Side.blue,11,9,11,2.4444444444444446,124,Smite,Flash,17,False,14906,13600,Mercury's Treads,Maw of Malmortius,Thornmail,Control Ward,The Black Cleaver,Enchantment: Warrior,28473,99412,Lane.jungle,Role.none
+1,J D,Riven,True,Side.blue,7,3,8,5.0,300,Teleport,Flash,18,False,16963,16925,Ravenous Hydra,Caulfield's Warhammer,Mortal Reminder,Guardian Angel,The Black Cleaver,Mercury's Treads,0,231263,Lane.top_lane,Role.solo
+2,bvcx222,Bard,True,Side.blue,3,5,23,5.2,21,Flash,Exhaust,17,False,13113,11150,Ruby Sightstone,Locket of the Iron Solari,Redemption,Control Ward,Guardian Angel,Boots of Mobility,24921,9430,Lane.bot_lane,Role.support
+3,Wazabiee,Cassiopeia,True,Side.blue,7,2,13,10.0,275,Ghost,Flash,18,False,16542,14835,Seraph's Embrace,Rylai's Crystal Scepter,Rabadon's Deathcap,Amplifying Tome,Abyssal Scepter,,216584,10793,Lane.mid_lane,Role.solo
+4,Darmous,Vayne,True,Side.blue,9,6,11,3.3333333333333335,306,Flash,Heal,18,False,18452,16000,Quicksilver Sash,Infinity Edge,Phantom Dancer,Berserker's Greaves,Rapid Firecannon,The Bloodthirster,11748,264351,Lane.bot_lane,Role.carry
+5,mackenzee,Fiora,False,Side.red,6,11,3,0.8181818181818182,278,Teleport,Flash,18,False,15613,15100,Ravenous Hydra,The Black Cleaver,Ninja Tabi,The Bloodthirster,Guardian Angel,,2038,185612,Lane.top_lane,Role.solo
+6,celstin,Janna,False,Side.red,2,5,14,3.2,27,Flash,Exhaust,15,False,13233,12200,Talisman of Ascension,Redemption,Locket of the Iron Solari,Frozen Heart,Ruby Sightstone,Boots of Mobility,14304,6147,Lane.bot_lane,Role.support
+7,Dont Keng Wo,Jhin,False,Side.red,6,4,10,4.0,261,Heal,Flash,17,False,16002,15000,Infinity Edge,Essence Reaver,Rapid Firecannon,Boots of Swiftness,The Bloodthirster,,9294,214956,Lane.bot_lane,Role.carry
+8,Sebi,Fizz,False,Side.red,9,10,4,1.3,230,Flash,Teleport,17,True,15638,15095,Needlessly Large Rod,Zhonya's Hourglass,Abyssal Scepter,Lich Bane,Sorcerer's Shoes,Void Staff,126318,34740,Lane.mid_lane,Role.solo
+9,COME BACK STRONG,Elise,False,Side.red,2,8,12,1.75,200,Smite,Flash,18,False,15200,14915,Giant's Belt,Hextech Protobelt-01,Frozen Heart,Spirit Visage,Sorcerer's Shoes,Enchantment: Runic Echoes,172191,50229,Lane.jungle,Role.none

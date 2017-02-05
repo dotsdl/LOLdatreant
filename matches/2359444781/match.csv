@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MidzFTW,Kennen,False,Side.blue,4,11,4,0.7272727272727273,50,Ignite,Flash,12,True,9447,8775,Eye of the Equinox,Seeker's Armguard,Hextech Protobelt-01,The Dark Seal,Fiendish Codex,Sorcerer's Shoes,35961,7189,Lane.bot_lane,Role.support
+1,RaptorKid,Vayne,False,Side.blue,4,6,8,2.0,249,Heal,Flash,16,False,13334,12500,Doran's Blade,Berserker's Greaves,Statikk Shiv,Quicksilver Sash,Infinity Edge,Phantom Dancer,43021,127954,Lane.bot_lane,Role.carry
+2,Vaeth,Poppy,False,Side.blue,5,5,9,2.8,205,Teleport,Flash,16,False,12270,12725,,Zz'Rot Portal,Sunfire Cape,Sheen,Thornmail,Mercury's Treads,47086,71076,Lane.top_lane,Role.solo
+3,KRYMER NO JUTSU,Karma,False,Side.blue,9,2,9,9.0,225,Flash,Ghost,17,False,14033,13450,Blasting Wand,Morellonomicon,Luden's Echo,Sorcerer's Shoes,Void Staff,Needlessly Large Rod,162375,17925,Lane.mid_lane,Role.solo
+4,Stanatic,Elise,False,Side.blue,4,7,10,2.0,125,Flash,Smite,15,False,11234,11155,,Boots of Swiftness,Rylai's Crystal Scepter,Hunter's Potion,Abyssal Scepter,Enchantment: Runic Echoes,93582,27736,Lane.jungle,Role.none
+5,am sol,Syndra,True,Side.red,8,8,8,2.0,240,Ghost,Flash,16,False,13934,13350,Rylai's Crystal Scepter,Void Staff,Morellonomicon,Blasting Wand,Needlessly Large Rod,Sorcerer's Shoes,144894,13819,Lane.mid_lane,Role.solo
+6,popgoestheglock,Jhin,True,Side.red,15,4,6,5.25,215,Heal,Flash,16,False,15938,14600,Doran's Blade,Essence Reaver,Rapid Firecannon,Infinity Edge,Ionian Boots of Lucidity,Lord Dominik's Regards,17062,151333,Lane.bot_lane,Role.carry
+7,Soulo Q,Trundle,True,Side.red,1,6,19,3.3333333333333335,64,Exhaust,Flash,14,False,11228,10325,Redemption,Eye of the Equinox,Knight's Vow,Control Ward,Aegis of the Legion,Boots of Mobility,1194,18819,Lane.bot_lane,Role.support
+8,Frank Slade,Tryndamere,True,Side.red,4,5,4,1.6,322,Teleport,Flash,17,False,14817,14000,Blade of the Ruined King,Infinity Edge,Phantom Dancer,Statikk Shiv,Mercury's Treads,,49325,199435,Lane.top_lane,Role.solo
+9,Shamoo,Amumu,True,Side.red,3,3,16,6.333333333333333,139,Flash,Smite,15,False,12356,11595,Mercury's Treads,Enchantment: Runic Echoes,Sunfire Cape,Abyssal Scepter,Spectre's Cowl,Negatron Cloak,109425,22568,Lane.jungle,Role.none

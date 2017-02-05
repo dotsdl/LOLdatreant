@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Report If Toxic,Evelynn,False,Side.blue,5,4,1,1.5,64,Ignite,Smite,10,True,6070,5200,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Sheen,Glacial Shroud,,33001,16277,Lane.jungle,Role.none
+1,NA Mechanics,Jinx,False,Side.blue,1,1,3,4.0,105,Heal,Flash,8,False,5303,4825,Doran's Blade,Runaan's Hurricane,Boots of Speed,,,B. F. Sword,437,37048,Lane.bot_lane,Role.carry
+2,I like mid,Lux,False,Side.blue,0,6,1,0.16666666666666666,109,Flash,Heal,10,False,5063,4985,Morellonomicon,Doran's Ring,Amplifying Tome,Sorcerer's Shoes,,,38893,9986,Lane.mid_lane,Role.solo
+3,Bottt,Janna,False,Side.blue,0,0,4,4.0,4,Flash,Exhaust,8,False,4112,3175,Nomad's Medallion,Sightstone,Faerie Charm,Faerie Charm,Ionian Boots of Lucidity,Control Ward,5113,2109,Lane.bot_lane,Role.support
+4,My Kat Evolved,Yasuo,False,Side.blue,0,8,0,0.0,112,Teleport,Flash,9,False,4956,4125,Doran's Blade,Zeal,Dagger,Doran's Blade,Dagger,Ninja Tabi,10276,22379,Lane.top_lane,Role.solo
+5,support or troll,Nami,True,Side.red,0,1,5,5.0,6,Ignite,Flash,9,False,5401,3350,Frostfang,Sightstone,Boots of Mobility,,Ruby Crystal,,6413,8394,Lane.bot_lane,Role.support
+6,Aengy,Vayne,True,Side.red,1,3,0,0.3333333333333333,140,Heal,Flash,10,False,7261,4725,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,B. F. Sword,Pickaxe,Kircheis Shard,1213,51096,Lane.bot_lane,Role.carry
+7,Dont Keng Wo,Kha'Zix,True,Side.red,8,2,2,5.0,67,Smite,Flash,11,False,8510,5975,Refillable Potion,Youmuu's Ghostblade,Boots of Speed,Enchantment: Warrior,,,2518,75095,Lane.jungle,Role.none
+8,Míasma,Orianna,True,Side.red,3,0,6,9.0,155,Ghost,Flash,13,False,8192,5510,Doran's Ring,Morellonomicon,Amplifying Tome,Needlessly Large Rod,,Boots of Speed,66728,17433,Lane.mid_lane,Role.solo
+9,ily and ily,Riven,True,Side.red,7,0,3,10.0,178,Flash,Teleport,13,False,10187,9250,Doran's Blade,Mercury's Treads,Youmuu's Ghostblade,Tiamat,The Black Cleaver,Long Sword,41,102370,Lane.top_lane,Role.solo

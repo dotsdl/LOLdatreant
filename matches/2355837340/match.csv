@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lokreah,Illaoi,True,Side.blue,4,3,6,3.3333333333333335,203,Flash,Teleport,15,False,12251,11370,Randuin's Omen,Sterak's Gage,Ninja Tabi,The Black Cleaver,Negatron Cloak,Cloth Armor,345,125749,Lane.top_lane,Role.solo
+1,aiglatson,Rek'Sai,True,Side.blue,9,3,9,6.0,122,Flash,Smite,14,False,12388,11550,Enchantment: Cinderhulk,Titanic Hydra,Randuin's Omen,Mercury's Treads,Spectre's Cowl,Control Ward,29286,92931,Lane.jungle,Role.none
+2,Coukies,Ziggs,True,Side.blue,6,2,9,7.5,234,Flash,Barrier,15,False,13909,12425,Doran's Ring,Rabadon's Deathcap,Luden's Echo,Sorcerer's Shoes,Rod of Ages,Sheen,168689,11045,Lane.mid_lane,Role.solo
+3,Hatsunemiku233,Jhin,True,Side.blue,10,6,11,3.5,165,Flash,Heal,15,False,13552,11725,Rapid Firecannon,Essence Reaver,Statikk Shiv,Boots of Swiftness,B. F. Sword,Control Ward,14694,108968,Lane.bot_lane,Role.carry
+4,FaR007,Thresh,True,Side.blue,3,4,14,4.25,32,Ignite,Flash,12,False,9798,8875,Redemption,Ruby Sightstone,Face of the Mountain,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,9231,5678,Lane.bot_lane,Role.support
+5,skcepsxmB,Riven,False,Side.red,0,9,8,0.8888888888888888,206,Flash,Smite,14,False,10637,10325,Enchantment: Warrior,Vampiric Scepter,Tiamat,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,2969,155772,Lane.jungle,Role.none
+6,Next NA ADC,Vayne,False,Side.red,3,9,6,1.0,186,Flash,Heal,13,True,10914,10825,Total Biscuit of Rejuvenation,,Infinity Edge,Berserker's Greaves,Statikk Shiv,Phantom Dancer,47218,79856,Lane.bot_lane,Role.duo
+7,canadia2,Nocturne,False,Side.red,7,6,0,1.1666666666666667,201,Exhaust,Flash,14,False,10943,10100,The Black Cleaver,Corrupting Potion,Tiamat,Ninja Tabi,Sunfire Cape,Hexdrinker,7490,107040,Lane.top_lane,Role.solo
+8,The Sad Clown,Nautilus,False,Side.red,4,6,7,1.8333333333333333,41,Ignite,Flash,11,False,8746,8125,Eye of the Equinox,Forbidden Idol,Locket of the Iron Solari,Bami's Cinder,Boots of Mobility,Crystalline Bracer,17521,6346,Lane.bot_lane,Role.duo
+9,Innovated,Ryze,False,Side.red,4,2,2,3.0,248,Ghost,Flash,15,False,11272,11050,Seraph's Embrace,Refillable Potion,Blasting Wand,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Rod of Ages,150288,15297,Lane.mid_lane,Role.solo

@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ehaldfeix,Ahri,True,Side.blue,5,8,8,1.625,117,Flash,Ignite,13,False,9043,8585,Morellonomicon,Doran's Ring,Doran's Ring,Luden's Echo,Amplifying Tome,Sorcerer's Shoes,57782,11852,Lane.mid_lane,Role.none
+1,Contractz,Lucian,True,Side.blue,17,4,6,5.75,246,Heal,Flash,16,True,15799,13700,Infinity Edge,Essence Reaver,Phantom Dancer,Berserker's Greaves,Last Whisper,Vampiric Scepter,11461,215036,Lane.mid_lane,Role.none
+2,nice human being,Ivern,True,Side.blue,3,1,17,20.0,75,Smite,Flash,15,False,9450,8050,Hunter's Talisman,Ardent Censer,Boots of Mobility,Athene's Unholy Grail,Giant's Belt,Needlessly Large Rod,14515,6183,Lane.mid_lane,Role.none
+3,iDrastic55255,Darius,False,Side.red,2,13,2,0.3076923076923077,119,Flash,Ghost,13,False,7429,6450,Doran's Shield,The Black Cleaver,Giant's Belt,Chain Vest,Ruby Crystal,Null-Magic Mantle,0,72948,Lane.mid_lane,Role.solo
+4,SummonerSquid,Lee Sin,False,Side.red,8,6,3,1.8333333333333333,67,Smite,Flash,14,False,8526,7875,Giant's Belt,Ninja Tabi,Locket of the Iron Solari,Enchantment: Warrior,,Chain Vest,12740,54621,Lane.bot_lane,Role.solo
+5,Zerxzeo,Swain,False,Side.red,3,6,6,1.5,170,Ignite,Flash,14,False,9262,8970,Doran's Ring,Rod of Ages,Ninja Tabi,Spirit Visage,Seeker's Armguard,Negatron Cloak,93205,9600,Lane.jungle,Role.none

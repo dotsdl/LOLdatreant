@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cant Kilean ,Zilean,False,Side.blue,1,2,6,3.5,18,Exhaust,Flash,11,False,6578,6350,Ionian Boots of Lucidity,Redemption,,Eye of the Oasis,,Aegis of the Legion,3548,3349,Lane.bot_lane,Role.support
+1,Spirit of Summer,Yasuo,False,Side.blue,1,8,3,0.5,148,Flash,Exhaust,12,False,7646,6775,Null-Magic Mantle,Cloak of Agility,Phantom Dancer,Mercury's Treads,Pickaxe,Long Sword,8451,68256,Lane.mid_lane,Role.solo
+2,Gorica,Jhin,False,Side.blue,6,10,4,1.0,182,Flash,Heal,13,False,9804,9350,Doran's Blade,Infinity Edge,Dagger,Statikk Shiv,Boots of Swiftness,Zeal,7981,101814,Lane.bot_lane,Role.carry
+3,TSM SnoopDogg,Malphite,False,Side.blue,2,6,5,1.1666666666666667,121,Flash,Teleport,12,False,7594,7375,Spirit Visage,Sunfire Cape,Mercury's Treads,,,,44126,17759,Lane.top_lane,Role.solo
+4,Pyroze,Elise,False,Side.blue,3,5,2,1.0,123,Smite,Flash,13,False,7883,6200,Giant's Belt,Refillable Potion,Sorcerer's Shoes,Enchantment: Runic Echoes,Needlessly Large Rod,,62258,21909,Lane.jungle,Role.none
+5,MrFluffy631,Vayne,True,Side.red,5,5,9,2.8,172,Flash,Heal,13,False,10674,9325,Doran's Blade,Blade of the Ruined King,Guinsoo's Rageblade,B. F. Sword,Boots of Speed,,1670,84293,Lane.bot_lane,Role.carry
+6,JesuisScott,Darius,True,Side.red,6,2,7,6.5,220,Teleport,Flash,15,False,11524,10750,Mercury's Treads,The Black Cleaver,Spirit Visage,Dead Man's Plate,Control Ward,,682,132093,Lane.top_lane,Role.solo
+7,Forest Pref,Lee Sin,True,Side.red,4,2,6,5.0,103,Smite,Flash,13,False,9683,8450,Mercury's Treads,Tiamat,Enchantment: Warrior,Refillable Potion,Ruby Crystal,Dead Man's Plate,13759,101742,Lane.jungle,Role.none
+8,Kernya,Janna,True,Side.red,1,1,15,16.0,18,Exhaust,Flash,12,False,7896,6800,Talisman of Ascension,Ruby Sightstone,Aegis of the Legion,Null-Magic Mantle,,Boots of Mobility,6857,6297,Lane.bot_lane,Role.support
+9,am tham ben em,LeBlanc,True,Side.red,15,3,1,5.333333333333333,157,Flash,Ignite,15,True,12299,11550,Sorcerer's Shoes,Morellonomicon,Hextech Protobelt-01,Luden's Echo,Doran's Ring,Blasting Wand,95083,10294,Lane.mid_lane,Role.solo

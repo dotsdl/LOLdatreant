@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sìyou,Ezreal,True,Side.blue,7,4,5,3.0,264,Flash,Heal,16,True,14968,13325,Blade of the Ruined King,Lord Dominik's Regards,Iceborn Gauntlet,Doran's Blade,Muramana,Ionian Boots of Lucidity,18406,161175,Lane.bot_lane,Role.carry
+1,Espir III,Jhin,True,Side.blue,3,4,17,5.0,36,Flash,Exhaust,14,False,10882,9650,Giant's Belt,Frost Queen's Claim,Sightstone,Redemption,Jaurim's Fist,Boots of Swiftness,7468,37831,Lane.bot_lane,Role.support
+2,EnVy Nien,LeBlanc,True,Side.blue,10,5,3,2.6,190,Flash,Ignite,15,False,13569,14205,Doran's Ring,Seeker's Armguard,Morellonomicon,Void Staff,Rylai's Crystal Scepter,Sorcerer's Shoes,96694,13492,Lane.mid_lane,Role.solo
+3,Grigne,Elise,True,Side.blue,9,3,13,7.333333333333333,192,Flash,Smite,18,False,14801,13000,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Randuin's Omen,Spirit Visage,Rylai's Crystal Scepter,The Dark Seal,153328,39399,Lane.jungle,Role.none
+4,Føur,Kha'Zix,True,Side.blue,10,10,4,1.4,203,Flash,Teleport,17,False,14309,12725,Tiamat,Duskblade of Draktharr,The Black Cleaver,Lord Dominik's Regards,Mercury's Treads,Pickaxe,5121,162718,Lane.top_lane,Role.solo
+5,Mr Gimix,Ziggs,False,Side.red,7,8,7,1.75,185,Ghost,Flash,15,False,12406,12460,Sheen,Morellonomicon,Amplifying Tome,Luden's Echo,Sorcerer's Shoes,Void Staff,118507,14210,Lane.mid_lane,Role.solo
+6,SKY Fear,Malphite,False,Side.red,7,2,4,5.5,228,Flash,Teleport,16,False,12624,12545,Negatron Cloak,Iceborn Gauntlet,Sunfire Cape,Fiendish Codex,Spirit Visage,Ninja Tabi,101909,40519,Lane.top_lane,Role.solo
+7,Sawyerr,Thresh,False,Side.red,3,5,10,2.6,39,Ignite,Flash,12,False,8743,8175,Ionian Boots of Lucidity,Face of the Mountain,Control Ward,Null-Magic Mantle,Redemption,Ruby Sightstone,12841,5021,Lane.bot_lane,Role.support
+8,PrismaI,Vayne,False,Side.red,5,14,5,0.7142857142857143,173,Flash,Heal,15,False,11430,10800,Statikk Shiv,Berserker's Greaves,Infinity Edge,Phantom Dancer,Doran's Blade,Long Sword,39871,77827,Lane.bot_lane,Role.carry
+9,High IQ and APM,Lee Sin,False,Side.red,4,10,10,1.4,152,Flash,Smite,15,False,11556,10625,Tiamat,Cloth Armor,Enchantment: Warrior,Mercury's Treads,Spirit Visage,Banshee's Veil,20595,120232,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AlfredXillia,Maokai,False,Side.blue,2,3,3,1.6666666666666667,226,Flash,Teleport,15,True,10110,9295,Chain Vest,Negatron Cloak,Spirit Visage,Sunfire Cape,Mercury's Treads,Doran's Ring,112320,22709,Lane.top_lane,Role.solo
+1,Government Spy,Bard,False,Side.blue,1,3,6,2.3333333333333335,17,Flash,Ignite,12,False,7408,6125,Cloth Armor,,Boots of Mobility,Redemption,,Eye of the Watchers,13280,3501,Lane.bot_lane,Role.support
+2,Hoes In My Shirt,Jhin,False,Side.blue,5,2,1,3.0,214,Flash,Heal,14,False,10420,9775,Doran's Blade,Pickaxe,Essence Reaver,Boots of Swiftness,Rapid Firecannon,B. F. Sword,9984,115236,Lane.bot_lane,Role.carry
+3,x Arys x,Yasuo,False,Side.blue,1,8,1,0.25,174,Exhaust,Flash,13,False,8438,8275,Doran's Blade,Infinity Edge,Phantom Dancer,Mercury's Treads,,,31266,68546,Lane.mid_lane,Role.solo
+4,Klemydia,Lee Sin,False,Side.blue,0,7,2,0.2857142857142857,137,Smite,Flash,13,False,8488,8325,Boots of Mobility,Control Ward,Enchantment: Warrior,Dead Man's Plate,Hexdrinker,,18687,104955,Lane.jungle,Role.none
+5,ThirdPoint,Morgana,True,Side.red,3,2,3,3.0,195,Teleport,Flash,15,False,10370,7425,Zhonya's Hourglass,Faerie Charm,Morellonomicon,Ionian Boots of Lucidity,Doran's Ring,,98787,21480,Lane.top_lane,Role.solo
+6,Penquynh,Janna,True,Side.red,2,2,10,6.0,9,Flash,Exhaust,13,False,7621,6825,Redemption,Sightstone,Locket of the Iron Solari,Frostfang,Boots of Speed,,2626,3155,Lane.bot_lane,Role.support
+7,bileyg,Sivir,True,Side.red,4,1,9,13.0,197,Flash,Heal,14,False,10736,9850,Doran's Blade,Essence Reaver,Rapid Firecannon,Berserker's Greaves,Last Whisper,Long Sword,1247,112034,Lane.bot_lane,Role.carry
+8,OoR4s3Ng4N4rUtOo,Malzahar,True,Side.red,8,2,6,7.0,210,Flash,Teleport,16,False,12251,11375,Rylai's Crystal Scepter,Blasting Wand,Void Staff,Doran's Ring,Ionian Boots of Lucidity,Morellonomicon,105969,26512,Lane.mid_lane,Role.solo
+9,Dank Matter,Graves,True,Side.red,6,2,6,6.0,127,Flash,Smite,14,False,10551,10425,Youmuu's Ghostblade,Phantom Dancer,Berserker's Greaves,Pickaxe,,Enchantment: Warrior,5147,127776,Lane.jungle,Role.none

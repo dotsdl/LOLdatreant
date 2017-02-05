@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ShriveledBug,Vi,True,Side.blue,6,6,11,2.8333333333333335,126,Flash,Smite,14,False,12382,11383,Ninja Tabi,Enchantment: Warrior,Control Ward,Dead Man's Plate,Trinity Force,,1410,129526,Lane.jungle,Role.none
+1,bonkae1,Orianna,True,Side.blue,10,2,14,12.0,218,Flash,Heal,16,False,15118,12575,Zhonya's Hourglass,Luden's Echo,Fiendish Codex,Giant's Belt,Morellonomicon,Sorcerer's Shoes,145970,16342,Lane.mid_lane,Role.solo
+2,Khaotic Blade,Thresh,True,Side.blue,3,5,17,4.0,24,Flash,Exhaust,13,False,10747,8625,Redemption,Eye of the Oasis,Knight's Vow,,Ionian Boots of Lucidity,Kindlegem,14654,8023,Lane.bot_lane,Role.support
+3,Beskytter,Jayce,True,Side.blue,7,4,12,4.75,181,Teleport,Flash,15,False,13195,13200,Corrupting Potion,Youmuu's Ghostblade,Infinity Edge,Death's Dance,Ionian Boots of Lucidity,Serrated Dirk,10059,115293,Lane.top_lane,Role.solo
+4,LAN Don Jose,Caitlyn,True,Side.blue,6,8,12,2.25,210,Flash,Heal,15,False,13657,10925,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Rapid Firecannon,Infinity Edge,Brawler's Gloves,2276,220100,Lane.bot_lane,Role.carry
+5,TRUMPSSMALLHANDS,Vayne,False,Side.red,10,9,11,2.3333333333333335,152,Flash,Heal,13,False,12117,11700,Doran's Blade,Blade of the Ruined King,Statikk Shiv,Berserker's Greaves,Infinity Edge,,28381,85253,Lane.bot_lane,Role.carry
+6,Relise,Riven,False,Side.red,1,6,7,1.3333333333333333,197,Flash,Teleport,15,False,9596,9650,Death's Dance,,The Black Cleaver,Tiamat,Ninja Tabi,,0,110121,Lane.top_lane,Role.solo
+7,Im bad k,Janna,False,Side.red,3,3,20,7.666666666666667,17,Flash,Exhaust,13,True,9218,8375,Locket of the Iron Solari,Sightstone,Redemption,Glacial Shroud,Nomad's Medallion,Ionian Boots of Lucidity,5166,3294,Lane.bot_lane,Role.support
+8,EJEJEJEJEJEJEJ,Gangplank,False,Side.red,6,6,7,2.1666666666666665,248,Exhaust,Flash,15,False,13423,13283,Infinity Edge,Ionian Boots of Lucidity,Trinity Force,Statikk Shiv,Zeal,Dagger,20422,196794,Lane.mid_lane,Role.solo
+9,Wic,Zac,False,Side.red,5,8,10,1.875,106,Smite,Flash,13,False,9819,9350,Randuin's Omen,Ionian Boots of Lucidity,Spirit Visage,,,Enchantment: Cinderhulk,75911,15840,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,adc,Vayne,True,Side.blue,6,4,5,2.75,156,Heal,Flash,12,False,9885,6925,Doran's Blade,Blade of the Ruined King,B. F. Sword,Boots of Speed,Zeal,,707,79489,Lane.bot_lane,Role.duo
+1,cedou234,Thresh,True,Side.blue,2,1,16,18.0,42,Exhaust,Flash,11,False,7727,6325,Sightstone,Locket of the Iron Solari,Face of the Mountain,Boots of Swiftness,,,20679,10051,Lane.bot_lane,Role.duo
+2,galou001,Kennen,True,Side.blue,8,4,7,3.75,112,Flash,Teleport,13,False,9741,7760,Sorcerer's Shoes,Hextech Protobelt-01,Zhonya's Hourglass,Amplifying Tome,Doran's Blade,,47571,15265,Lane.top_lane,Role.solo
+3,B Gerbz,Ivern,True,Side.blue,7,0,11,18.0,65,Flash,Smite,12,False,9418,8800,Redemption,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,,11524,9906,Lane.jungle,Role.none
+4,am sol,LeBlanc,True,Side.blue,15,3,4,6.333333333333333,157,Ignite,Flash,12,True,11867,10700,Rabadon's Deathcap,Health Potion,Abyssal Scepter,Morellonomicon,Boots of Speed,Doran's Ring,80716,12276,Lane.mid_lane,Role.solo
+5,Aopa,Viktor,False,Side.red,1,8,0,0.125,107,Ghost,Flash,10,False,5853,4525,Needlessly Large Rod,Doran's Ring,The Hex Core mk-2,Boots of Speed,,,51273,6432,Lane.mid_lane,Role.solo
+6,GNL Totembarbu,Twitch,False,Side.red,1,9,4,0.5555555555555556,108,Heal,Flash,10,False,6127,5500,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,,,0,37533,Lane.bot_lane,Role.carry
+7,NoBodyLikesMe,Nautilus,False,Side.red,2,7,1,0.42857142857142855,118,Flash,Teleport,12,False,6280,6000,Zz'Rot Portal,Hextech Revolver,Doran's Ring,Doran's Ring,Mercury's Treads,,41889,15019,Lane.top_lane,Role.solo
+8,Spicyyyy,Kha'Zix,False,Side.red,6,6,0,1.0,93,Flash,Smite,11,False,7448,6775,Enchantment: Warrior,Long Sword,Boots of Swiftness,Serrated Dirk,Hexdrinker,Long Sword,2629,72462,Lane.jungle,Role.none
+9,ATrue Legacy,Alistar,False,Side.red,1,8,5,0.75,19,Flash,Exhaust,10,False,5225,4925,Face of the Mountain,Ionian Boots of Lucidity,Ruby Sightstone,,,,9181,2985,Lane.bot_lane,Role.support

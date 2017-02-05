@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,clg imaqtpie69,Kalista,True,Side.blue,1,4,5,1.5,250,Flash,Heal,15,False,12239,10550,Blade of the Ruined King,Runaan's Hurricane,Doran's Blade,Lord Dominik's Regards,,Berserker's Greaves,2344,160731,Lane.bot_lane,Role.carry
+1,biblee,Nidalee,True,Side.blue,7,3,6,4.333333333333333,209,Flash,Smite,17,False,14418,13200,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Zhonya's Hourglass,Rabadon's Deathcap,Abyssal Scepter,,204908,24439,Lane.jungle,Role.none
+2,k3sòju,Ekko,True,Side.blue,10,3,4,4.666666666666667,222,Flash,Teleport,15,False,13475,13050,The Dark Seal,Abyssal Scepter,Sorcerer's Shoes,Hextech Protobelt-01,Lich Bane,Void Staff,141773,18309,Lane.mid_lane,Role.solo
+3,the7ent,Morgana,True,Side.blue,1,4,11,3.0,9,Exhaust,Flash,12,False,8679,7975,Redemption,Locket of the Iron Solari,Eye of the Watchers,Boots of Swiftness,,,9432,3957,Lane.bot_lane,Role.support
+4,KBS,Olaf,True,Side.blue,2,4,10,3.0,249,Teleport,Ghost,16,False,12110,11400,The Black Cleaver,Randuin's Omen,Health Potion,Dead Man's Plate,Boots of Swiftness,Null-Magic Mantle,250,157593,Lane.top_lane,Role.solo
+5,Nick Diaz,Fizz,False,Side.red,6,8,9,1.875,101,Flash,Smite,13,True,9438,8360,Enchantment: Runic Echoes,Lich Bane,Seeker's Armguard,Amplifying Tome,,Boots of Speed,59484,30073,Lane.jungle,Role.none
+6,Winged100,Ahri,False,Side.red,1,4,4,1.25,194,Ignite,Flash,14,False,9582,9085,Doran's Ring,Morellonomicon,Needlessly Large Rod,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,66501,18403,Lane.mid_lane,Role.solo
+7,adc feng lft,Caitlyn,False,Side.red,5,3,8,4.333333333333333,245,Heal,Flash,14,False,12344,11950,Infinity Edge,,Runaan's Hurricane,Rapid Firecannon,Boots of Swiftness,Pickaxe,3064,177545,Lane.bot_lane,Role.carry
+8,chakhae,Janna,False,Side.red,1,1,13,14.0,13,Flash,Exhaust,12,False,8063,6900,Redemption,Ruby Sightstone,Boots of Mobility,Refillable Potion,Nomad's Medallion,Glacial Shroud,10541,5488,Lane.bot_lane,Role.support
+9,Goooshlrific,Poppy,False,Side.red,5,5,5,2.0,98,Teleport,Flash,12,False,8808,8600,Sunfire Cape,Corrupting Potion,Randuin's Omen,Spectre's Cowl,Mercury's Treads,,20279,43514,Lane.jungle,Role.none

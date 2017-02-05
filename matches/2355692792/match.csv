@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vyriel,Vladimir,False,Side.blue,6,4,2,2.0,116,Ghost,Flash,14,True,8583,7650,Hextech Protobelt-01,Spirit Visage,Spectre's Cowl,Ionian Boots of Lucidity,,,61543,14998,Lane.top_lane,Role.solo
+1,Goduron,Veigar,False,Side.blue,10,6,6,2.6666666666666665,171,Flash,Barrier,15,False,11022,10260,Rabadon's Deathcap,Ionian Boots of Lucidity,Tear of the Goddess,Morellonomicon,Blasting Wand,Amplifying Tome,110740,8421,Lane.mid_lane,Role.solo
+2,VG Karrgul,Lee Sin,False,Side.blue,1,10,4,0.5,77,Flash,Smite,12,False,7910,7700,Enchantment: Warrior,Hunter's Potion,Boots of Mobility,Dead Man's Plate,Null-Magic Mantle,Long Sword,12373,71364,Lane.jungle,Role.none
+3,Debonair Jhin ,Karma,False,Side.blue,0,10,7,0.7,9,Flash,Ignite,10,False,7397,7250,Frost Queen's Claim,Sightstone,Locket of the Iron Solari,,Control Ward,Ionian Boots of Lucidity,9705,2872,Lane.bot_lane,Role.support
+4,Unchanted21,Jhin,False,Side.blue,4,7,6,1.4285714285714286,126,Flash,Heal,12,False,8668,7700,Doran's Blade,Infinity Edge,Boots of Swiftness,Rapid Firecannon,,,2932,79447,Lane.bot_lane,Role.carry
+5,Aieza,Maokai,True,Side.red,4,2,8,6.0,121,Teleport,Flash,15,False,9701,7400,Doran's Ring,Spirit Visage,Sheen,Mercury's Treads,Bami's Cinder,Chain Vest,67600,12368,Lane.top_lane,Role.solo
+6,Wacky Terbacky,Miss Fortune,True,Side.red,6,4,8,3.5,147,Heal,Flash,14,False,10639,8575,Doran's Blade,Infinity Edge,Berserker's Greaves,Caulfield's Warhammer,Vampiric Scepter,B. F. Sword,3160,98409,Lane.bot_lane,Role.duo
+7,yler,Akali,True,Side.red,3,5,7,2.0,68,Flash,Teleport,13,False,8475,8375,Lich Bane,Sorcerer's Shoes,Hextech Gunblade,,,,19189,37896,Lane.bot_lane,Role.duo
+8,uupa,Ryze,True,Side.red,8,4,3,2.75,189,Flash,Ghost,15,False,11690,11230,Rylai's Crystal Scepter,Seraph's Embrace,Control Ward,Ionian Boots of Lucidity,Rod of Ages,Blasting Wand,129101,8136,Lane.jungle,Role.none
+9,Rank 1 Season 7,Kha'Zix,True,Side.red,16,6,5,3.5,182,Smite,Flash,16,False,14808,12125,Tiamat,Serrated Dirk,Youmuu's Ghostblade,Enchantment: Warrior,Maw of Malmortius,Boots of Swiftness,4431,192438,Lane.jungle,Role.none

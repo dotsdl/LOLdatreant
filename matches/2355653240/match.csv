@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Honesty,Jhin,False,Side.blue,5,7,3,1.1428571428571428,128,Heal,Flash,12,False,8969,7950,Doran's Blade,Total Biscuit of Rejuvenation,Boots of Swiftness,Essence Reaver,Rapid Firecannon,,6670,69330,Lane.bot_lane,Role.carry
+1,CraZyKate52,Tryndamere,False,Side.blue,3,7,4,1.0,158,Ghost,Ignite,14,True,9416,8900,Infinity Edge,Cloth Armor,Vampiric Scepter,Statikk Shiv,,Berserker's Greaves,25116,87418,Lane.top_lane,Role.solo
+2,18Jan,Hecarim,False,Side.blue,2,3,5,2.3333333333333335,121,Ghost,Smite,14,False,9121,8628,Enchantment: Cinderhulk,Refillable Potion,Trinity Force,Ninja Tabi,Negatron Cloak,Cloth Armor,18583,100207,Lane.jungle,Role.none
+3,AnnihilatorPrime,Ahri,False,Side.blue,3,9,5,0.8888888888888888,148,Flash,Teleport,13,False,9061,8620,Doran's Ring,Total Biscuit of Rejuvenation,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Negatron Cloak,52208,9903,Lane.mid_lane,Role.solo
+4,fufu1234210,Thresh,False,Side.blue,1,8,6,0.875,22,Flash,Exhaust,12,False,6553,6250,Ionian Boots of Lucidity,Locket of the Iron Solari,Face of the Mountain,Sightstone,,,11793,4258,Lane.bot_lane,Role.support
+5,TRUMPSSMALLHANDS,Jarvan IV,True,Side.red,17,2,5,11.0,165,Flash,Smite,15,False,14463,12550,Refillable Potion,Titanic Hydra,Locket of the Iron Solari,Ninja Tabi,Dead Man's Plate,Enchantment: Warrior,5016,160524,Lane.jungle,Role.none
+6,KÝS,Janna,True,Side.red,3,0,17,20.0,8,Flash,Exhaust,14,False,9756,8350,Ardent Censer,Redemption,Boots of Swiftness,Eye of the Oasis,Null-Magic Mantle,Cloth Armor,5900,4559,Lane.bot_lane,Role.support
+7,Limeade,Twitch,True,Side.red,3,4,7,2.5,170,Heal,Flash,14,False,10624,9500,Doran's Blade,Zeal,,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,63,88367,Lane.bot_lane,Role.carry
+8,LightWithin,Syndra,True,Side.red,9,2,7,8.0,205,Flash,Ghost,15,False,13166,11250,Void Staff,Doran's Ring,Morellonomicon,Luden's Echo,Doran's Ring,Sorcerer's Shoes,137908,12494,Lane.mid_lane,Role.solo
+9,uStunned,Yasuo,True,Side.red,2,6,7,1.5,234,Teleport,Flash,15,False,11511,9700,Doran's Blade,Randuin's Omen,Cloak of Agility,Phantom Dancer,Ninja Tabi,B. F. Sword,39163,113715,Lane.top_lane,Role.solo

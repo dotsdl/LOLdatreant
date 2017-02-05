@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Drutagan,Ahri,False,Side.blue,1,7,3,0.5714285714285714,161,Flash,Ignite,13,False,7757,7225,Doran's Ring,Blasting Wand,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,47029,10734,Lane.mid_lane,Role.solo
+1,PhD Wumbologist,Caitlyn,False,Side.blue,3,7,1,0.5714285714285714,200,Flash,Heal,12,False,9480,8550,Refillable Potion,Doran's Blade,Cull,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,1461,112024,Lane.bot_lane,Role.carry
+2,TheFarooj,Nami,False,Side.blue,3,6,3,1.0,15,Flash,Exhaust,11,False,7376,6375,Locket of the Iron Solari,Eye of the Watchers,Crystalline Bracer,,,Boots of Mobility,9048,5978,Lane.bot_lane,Role.support
+3,Projekt Yasuo,Rek'Sai,False,Side.blue,0,8,6,0.75,141,Flash,Smite,13,False,7754,7525,Mercury's Treads,Refillable Potion,Titanic Hydra,Enchantment: Cinderhulk,Control Ward,,24183,71472,Lane.jungle,Role.none
+4,1982657489,Singed,False,Side.blue,0,9,2,0.2222222222222222,163,Teleport,Ghost,12,False,7774,6650,Corrupting Potion,The Dark Seal,Boots of Swiftness,Zz'Rot Portal,Banner of Command,,94667,5639,Lane.top_lane,Role.solo
+5,cuteboy1,Orianna,True,Side.red,8,2,7,7.5,204,Ghost,Flash,15,False,13016,12500,Needlessly Large Rod,Rabadon's Deathcap,Void Staff,Morellonomicon,Doran's Ring,Sorcerer's Shoes,131386,16780,Lane.mid_lane,Role.solo
+6,You all boosted,Elise,True,Side.red,6,2,11,8.5,112,Flash,Smite,15,False,11785,11400,Haunting Guise,Void Staff,Rylai's Crystal Scepter,Refillable Potion,Sorcerer's Shoes,Enchantment: Runic Echoes,97081,29519,Lane.jungle,Role.none
+7,McCashDollar,Shaco,True,Side.red,13,1,6,19.0,149,Teleport,Ignite,15,True,12969,11575,Youmuu's Ghostblade,Hextech Protobelt-01,The Dark Seal,Boots of Swiftness,Giant's Belt,Lich Bane,67228,33346,Lane.top_lane,Role.solo
+8,PieCakeLord,Ezreal,True,Side.red,7,1,11,18.0,176,Heal,Flash,15,False,12093,9633,Bilgewater Cutlass,Ionian Boots of Lucidity,Trinity Force,Dagger,Doran's Blade,Muramana,15807,112815,Lane.bot_lane,Role.carry
+9,Tiigeri,Tahm Kench,True,Side.red,3,1,6,9.0,39,Flash,Exhaust,11,False,8411,6700,Face of the Mountain,,Ruby Sightstone,Mercury's Treads,,Aegis of the Legion,12359,7091,Lane.bot_lane,Role.support

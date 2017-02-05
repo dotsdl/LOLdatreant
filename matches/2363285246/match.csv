@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,goompa,Shyvana,False,Side.blue,4,6,10,2.3333333333333335,162,Smite,Flash,16,False,11123,11105,Mercury's Treads,Cloth Armor,Zz'Rot Portal,Frozen Mallet,Chain Vest,Enchantment: Bloodrazor,78972,69320,Lane.jungle,Role.none
+1,J D,Orianna,False,Side.blue,4,6,12,2.6666666666666665,199,Ghost,Flash,16,False,11445,10900,Zhonya's Hourglass,Doran's Ring,,Rylai's Crystal Scepter,Abyssal Scepter,Sorcerer's Shoes,100130,11261,Lane.mid_lane,Role.solo
+2,Legend of Korra,Zyra,False,Side.blue,3,8,10,1.625,65,Ignite,Flash,13,False,9511,8675,Eye of the Watchers,Haunting Guise,Rylai's Crystal Scepter,Control Ward,,Ionian Boots of Lucidity,50457,2895,Lane.bot_lane,Role.support
+3,vicXD,Ashe,False,Side.blue,5,8,9,1.75,164,Flash,Heal,15,False,11075,10300,Doran's Blade,Essence Reaver,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Vampiric Scepter,2689,92596,Lane.bot_lane,Role.carry
+4,mackenzee,Riven,False,Side.blue,7,5,5,2.4,229,Teleport,Flash,16,False,12224,11625,Ravenous Hydra,Youmuu's Ghostblade,Maw of Malmortius,Ionian Boots of Lucidity,Doran's Blade,Long Sword,0,149467,Lane.top_lane,Role.solo
+5,Poı,Syndra,True,Side.red,6,4,8,3.5,241,Flash,Ignite,15,True,13032,11185,Doran's Ring,Void Staff,Morellonomicon,Amplifying Tome,Sorcerer's Shoes,Luden's Echo,160142,11497,Lane.mid_lane,Role.solo
+6,Pyrrfect,Karma,True,Side.red,4,1,22,26.0,45,Flash,Exhaust,15,False,11980,9735,Eye of the Watchers,Mikael's Crucible,Redemption,Boots of Swiftness,Glacial Shroud,Amplifying Tome,24809,6190,Lane.bot_lane,Role.support
+7,camtheham,Jinx,True,Side.red,12,1,9,21.0,238,Heal,Flash,16,False,15367,11875,Phantom Dancer,Runaan's Hurricane,Infinity Edge,Doran's Blade,Berserker's Greaves,B. F. Sword,382,172857,Lane.bot_lane,Role.carry
+8,Feitan,Gnar,True,Side.red,5,7,5,1.4285714285714286,221,Teleport,Flash,15,False,13025,12270,Mercury's Treads,Frozen Mallet,The Black Cleaver,Randuin's Omen,Chain Vest,Negatron Cloak,9728,130786,Lane.top_lane,Role.solo
+9,Blackjaxxx,Twitch,True,Side.red,6,10,12,1.8,186,Flash,Smite,16,False,13655,12475,Enchantment: Bloodrazor,Boots of Swiftness,Quicksilver Sash,Runaan's Hurricane,Infinity Edge,Last Whisper,4498,179374,Lane.jungle,Role.none

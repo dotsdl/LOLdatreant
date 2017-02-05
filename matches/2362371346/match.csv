@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,will win,Lulu,True,Side.blue,0,2,14,7.0,160,Flash,Teleport,14,False,9271,8110,The Dark Seal,Amplifying Tome,Needlessly Large Rod,Ardent Censer,Athene's Unholy Grail,Ionian Boots of Lucidity,66324,17054,Lane.top_lane,Role.solo
+1,Dinosaurus,Skarner,True,Side.blue,4,2,8,6.0,99,Ghost,Smite,13,False,9566,8625,Enchantment: Warrior,,Righteous Glory,Boots of Swiftness,Spectre's Cowl,Cloth Armor,22424,71082,Lane.jungle,Role.none
+2,Fys,Viktor,True,Side.blue,8,2,4,6.0,228,Ghost,Flash,16,True,12567,11100,Doran's Ring,Lich Bane,,Rylai's Crystal Scepter,Perfect Hex Core,Ionian Boots of Lucidity,141709,11539,Lane.mid_lane,Role.solo
+3,R L,Vayne,True,Side.blue,13,4,6,4.75,238,Heal,Flash,14,False,14476,12725,Quicksilver Sash,Blade of the Ruined King,Infinity Edge,Berserker's Greaves,Statikk Shiv,Doran's Blade,44484,116123,Lane.bot_lane,Role.carry
+4,Full Metal Ekko,Morgana,True,Side.blue,1,2,19,10.0,21,Exhaust,Flash,13,False,8768,7650,Seeker's Armguard,Sightstone,Redemption,Ardent Censer,Spellthief's Edge,Boots of Speed,24486,6321,Lane.bot_lane,Role.support
+5,Mario Dumont,Zilean,False,Side.red,2,1,5,7.0,221,Flash,Teleport,15,False,10219,8825,Ionian Boots of Lucidity,Morellonomicon,Doran's Ring,Rod of Ages,Doran's Ring,Blasting Wand,121606,19016,Lane.mid_lane,Role.solo
+6,JoDa Fucking Pen,Swain,False,Side.red,0,4,4,1.0,198,Teleport,Flash,14,False,9200,7775,Doran's Ring,The Dark Seal,Zhonya's Hourglass,Rod of Ages,Mercury's Treads,Refillable Potion,70273,17805,Lane.top_lane,Role.solo
+7,cùrz,Nami,False,Side.red,0,7,6,0.8571428571428571,10,Flash,Ignite,11,False,7590,7125,Eye of the Watchers,Redemption,Control Ward,Ionian Boots of Lucidity,Glacial Shroud,Cloth Armor,7532,4424,Lane.bot_lane,Role.support
+8,0 K A Y B O Y S,Vi,False,Side.red,6,5,1,1.4,150,Flash,Smite,14,False,10771,10083,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Trinity Force,Hexdrinker,Caulfield's Warhammer,2615,146698,Lane.jungle,Role.none
+9,Goxtry,Caitlyn,False,Side.red,4,9,5,1.0,194,Heal,Flash,13,False,10482,10450,Doran's Blade,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,,1282,136969,Lane.bot_lane,Role.carry

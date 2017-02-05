@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RumbleMidGGnoRE,Rumble,False,Side.blue,4,5,1,1.0,87,Ignite,Flash,10,False,5913,5570,Hextech Protobelt-01,Sorcerer's Shoes,Amplifying Tome,Doran's Shield,Ruby Crystal,Amplifying Tome,38034,4874,Lane.mid_lane,Role.solo
+1,splatsss,Bard,False,Side.blue,1,7,1,0.2857142857142857,6,Ignite,Flash,7,False,4186,3825,Frostfang,Sightstone,Boots of Mobility,Fiendish Codex,Control Ward,,4579,1335,Lane.bot_lane,Role.support
+2,zT ace,Yasuo,False,Side.blue,1,4,2,0.75,147,Teleport,Flash,11,False,6585,6050,Doran's Blade,B. F. Sword,Doran's Blade,Ninja Tabi,Phantom Dancer,,17478,50282,Lane.top_lane,Role.solo
+3,GunshyMonkey,Caitlyn,False,Side.blue,0,7,0,0.0,129,Heal,Flash,10,False,5603,3775,Doran's Blade,Berserker's Greaves,Zeal,Pickaxe,,,494,59476,Lane.bot_lane,Role.carry
+4,Danday22,Rek'Sai,False,Side.blue,0,3,1,0.3333333333333333,123,Smite,Flash,11,False,6237,6250,Enchantment: Bloodrazor,Tiamat,Jaurim's Fist,Boots of Speed,Ruby Crystal,Cloth Armor,12997,79348,Lane.jungle,Role.none
+5,Im Cookie,Ezreal,True,Side.red,11,0,9,20.0,123,Heal,Flash,11,False,9351,8008,Manamune,Trinity Force,Ionian Boots of Lucidity,Doran's Blade,Long Sword,,10214,64713,Lane.bot_lane,Role.carry
+6,Mr Pinch,Ivern,True,Side.red,4,0,13,17.0,59,Smite,Flash,11,False,7333,6450,Hunter's Talisman,Athene's Unholy Grail,Ionian Boots of Lucidity,Mejai's Soulstealer,Cloth Armor,Needlessly Large Rod,17286,6448,Lane.jungle,Role.none
+7,im a bad player,Thresh,True,Side.red,2,1,17,19.0,4,Flash,Exhaust,9,True,6304,4200,Eye of the Oasis,,,Ionian Boots of Lucidity,Null-Magic Mantle,Cloth Armor,6719,3410,Lane.bot_lane,Role.support
+8,Killlua,Riven,True,Side.red,5,2,5,5.0,145,Teleport,Flash,12,False,7883,6250,The Black Cleaver,Caulfield's Warhammer,Ninja Tabi,Long Sword,Long Sword,,913,61077,Lane.top_lane,Role.solo
+9,GKyrios,Ekko,True,Side.red,4,3,12,5.333333333333333,102,Flash,Teleport,11,False,7098,5585,Control Ward,Corrupting Potion,Hextech Protobelt-01,Mercury's Treads,Fiendish Codex,Amplifying Tome,50444,10379,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TeemobiIe,Nunu,True,Side.blue,6,3,9,5.0,82,Flash,Smite,14,False,10737,8575,Ninja Tabi,Enchantment: Cinderhulk,Refillable Potion,Frozen Heart,Spectre's Cowl,Kindlegem,35331,34972,Lane.jungle,Role.none
+1,daluvin,Zilean,True,Side.blue,2,3,17,6.333333333333333,62,Flash,Teleport,14,False,10514,8350,Sorcerer's Shoes,Rod of Ages,Frost Queen's Claim,Sightstone,Needlessly Large Rod,,40878,7114,Lane.bot_lane,Role.support
+2,Leblanc MIA,Caitlyn,True,Side.blue,7,7,9,2.2857142857142856,135,Flash,Heal,13,False,11359,9075,Cull,Infinity Edge,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Dagger,683,106498,Lane.bot_lane,Role.carry
+3,always plan ahea,Karma,True,Side.blue,3,6,6,1.5,156,Flash,Teleport,14,False,10528,9835,Needlessly Large Rod,Morellonomicon,Luden's Echo,Ionian Boots of Lucidity,Amplifying Tome,Ruby Crystal,85106,15033,Lane.top_lane,Role.solo
+4,2107524187435611,Twisted Fate,True,Side.blue,11,4,8,4.75,193,Flash,Ghost,15,False,14631,12300,Boots of Swiftness,Lich Bane,The Dark Seal,Blasting Wand,Luden's Echo,Rylai's Crystal Scepter,124985,15108,Lane.mid_lane,Role.solo
+5,NinjaOFire,Morgana,False,Side.red,4,4,7,2.75,167,Flash,Teleport,13,False,9124,8585,Doran's Ring,Sorcerer's Shoes,Zhonya's Hourglass,Amplifying Tome,,Luden's Echo,77287,16302,Lane.mid_lane,Role.solo
+6,IlovePimtha,Jayce,False,Side.red,7,4,1,2.0,167,Flash,Teleport,13,False,10202,9850,Maw of Malmortius,The Black Cleaver,Mercury's Treads,Doran's Blade,Serrated Dirk,Null-Magic Mantle,13692,86412,Lane.top_lane,Role.solo
+7,Funk Me Softly,Twitch,False,Side.red,9,9,2,1.2222222222222223,143,Flash,Heal,12,True,10235,9625,Doran's Blade,Quicksilver Sash,Berserker's Greaves,Infinity Edge,Dagger,Statikk Shiv,19078,65032,Lane.bot_lane,Role.carry
+8,frankli000,Sion,False,Side.red,2,7,9,1.5714285714285714,90,Flash,Smite,12,False,8387,7995,Enchantment: Cinderhulk,Mercury's Treads,Spectre's Cowl,Warden's Mail,Raptor Cloak,Negatron Cloak,25022,58686,Lane.jungle,Role.none
+9,Lvl 18 Annie,Janna,False,Side.red,1,5,17,3.6,8,Exhaust,Flash,11,False,7646,7300,Sightstone,Talisman of Ascension,Ardent Censer,Null-Magic Mantle,Boots of Mobility,,8562,3822,Lane.bot_lane,Role.support

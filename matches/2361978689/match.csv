@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cris,Talon,False,Side.blue,4,4,3,1.75,166,Flash,Teleport,13,False,8740,7400,Youmuu's Ghostblade,Corrupting Potion,Boots of Speed,The Black Cleaver,Null-Magic Mantle,,321,108573,Lane.mid_lane,Role.solo
+1,Gahlin,Evelynn,False,Side.blue,7,10,5,1.2,98,Flash,Smite,12,True,9435,7750,Enchantment: Runic Echoes,Rylai's Crystal Scepter,,Ionian Boots of Lucidity,Cloth Armor,The Dark Seal,63684,25638,Lane.jungle,Role.none
+2,Rokí,Ekko,False,Side.blue,1,6,3,0.6666666666666666,143,Flash,Teleport,12,False,7877,7725,Corrupting Potion,Hextech Protobelt-01,Zhonya's Hourglass,The Dark Seal,Ionian Boots of Lucidity,Doran's Ring,72981,12120,Lane.top_lane,Role.solo
+3,Projekt Yasuo,Janna,False,Side.blue,1,7,9,1.4285714285714286,10,Flash,Exhaust,11,False,6639,6925,Boots of Mobility,Redemption,Nomad's Medallion,,,Ruby Sightstone,3667,3600,Lane.bot_lane,Role.support
+4,C9 Sneaky,Vayne,False,Side.blue,6,5,2,1.6,188,Flash,Heal,12,False,9621,8950,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Control Ward,Vampiric Scepter,30999,67354,Lane.bot_lane,Role.carry
+5,C9 Smoothie,Zyra,True,Side.red,4,5,12,3.2,15,Flash,Exhaust,12,False,8703,8525,Control Ward,Ruby Sightstone,Frost Queen's Claim,Boots of Mobility,Liandry's Torment,,17850,4874,Lane.bot_lane,Role.support
+6,Pekin Woof,Twitch,True,Side.red,5,4,5,2.5,135,Flash,Heal,12,False,9913,8525,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,Doran's Blade,,0,68015,Lane.bot_lane,Role.carry
+7,Riesig,Yorick,True,Side.red,5,3,8,4.333333333333333,193,Flash,Teleport,15,False,11124,9708,Corrupting Potion,Trinity Force,Giant's Belt,Boots of Swiftness,Zz'Rot Portal,Chain Vest,15806,106261,Lane.top_lane,Role.solo
+8,Quaal,Ryze,True,Side.red,10,1,9,19.0,170,Flash,Ghost,15,False,12585,10800,Rabadon's Deathcap,Seraph's Embrace,Rod of Ages,,Ionian Boots of Lucidity,,125909,10661,Lane.mid_lane,Role.solo
+9,ókay,Elise,True,Side.red,8,6,5,2.1666666666666665,95,Smite,Flash,13,False,10736,8850,Enchantment: Runic Echoes,Hextech Protobelt-01,Refillable Potion,Sorcerer's Shoes,Needlessly Large Rod,Giant's Belt,72940,29536,Lane.jungle,Role.none

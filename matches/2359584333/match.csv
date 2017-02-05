@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PRyan24,Irelia,True,Side.blue,3,7,11,2.0,149,Flash,Teleport,14,False,11166,10133,Mercury's Treads,Trinity Force,Spirit Visage,Warden's Mail,Giant's Belt,,4919,65160,Lane.top_lane,Role.solo
+1,joey legendary,Jax,True,Side.blue,9,5,2,2.2,147,Flash,Smite,15,True,12504,11283,Enchantment: Bloodrazor,Refillable Potion,Mercurial Scimitar,Mercury's Treads,Trinity Force,,23591,113646,Lane.jungle,Role.none
+2,BLUESUPERCAR73,Draven,True,Side.blue,9,2,8,8.5,254,Flash,Heal,15,False,16498,14600,Mercurial Scimitar,Berserker's Greaves,Lord Dominik's Regards,Statikk Shiv,Infinity Edge,Long Sword,37953,163484,Lane.bot_lane,Role.carry
+3,FalleIV,Syndra,True,Side.blue,1,4,7,2.0,222,Ghost,Flash,15,False,11091,9850,Zhonya's Hourglass,Blasting Wand,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,122366,12373,Lane.mid_lane,Role.solo
+4,Keetchie,Braum,True,Side.blue,0,5,15,3.0,38,Exhaust,Flash,13,False,9371,7450,Redemption,Face of the Mountain,Sightstone,Boots of Mobility,Crystalline Bracer,Crystalline Bracer,8273,10958,Lane.bot_lane,Role.support
+5,KT Score,Ivern,False,Side.red,6,2,14,10.0,109,Smite,Flash,15,False,11852,11425,Redemption,Rylai's Crystal Scepter,Locket of the Iron Solari,The Dark Seal,Athene's Unholy Grail,Ionian Boots of Lucidity,31094,11796,Lane.jungle,Role.none
+6,Souvie,Janna,False,Side.red,2,2,13,7.5,21,Flash,Exhaust,12,False,8699,8375,Nomad's Medallion,Ruby Sightstone,Ardent Censer,Ionian Boots of Lucidity,Redemption,Control Ward,10836,5926,Lane.bot_lane,Role.support
+7,AOA Choa Is Bae,Twitch,False,Side.red,6,5,3,1.8,220,Flash,Heal,14,False,12043,10650,Berserker's Greaves,Rapid Firecannon,,Doran's Blade,Runaan's Hurricane,Infinity Edge,1197,134510,Lane.bot_lane,Role.carry
+8,InfamousKitten,Rammus,False,Side.red,5,6,12,2.8333333333333335,131,Flash,Teleport,15,False,10499,9900,,,Randuin's Omen,Ninja Tabi,Sunfire Cape,Thornmail,62976,31212,Lane.top_lane,Role.solo
+9,Lolibird,Zed,False,Side.red,4,7,5,1.2857142857142858,195,Ignite,Flash,15,False,11000,10800,Maw of Malmortius,Youmuu's Ghostblade,Refillable Potion,Mercury's Treads,Duskblade of Draktharr,,10248,110012,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,UpsiIon,Janna,True,Side.blue,2,3,15,5.666666666666667,6,Flash,Exhaust,11,False,7477,4725,,Eye of the Oasis,Boots of Speed,Ardent Censer,,,4272,2661,Lane.bot_lane,Role.support
+1,Bird Machine,Anivia,True,Side.blue,10,1,6,16.0,197,Teleport,Flash,14,False,12200,8305,Doran's Ring,Negatron Cloak,Seraph's Embrace,Rod of Ages,Ionian Boots of Lucidity,,106316,12799,Lane.mid_lane,Role.solo
+2,Wolffy ,Ezreal,True,Side.blue,7,6,8,2.5,134,Heal,Flash,12,True,9700,9483,Bilgewater Cutlass,Trinity Force,Muramana,Ionian Boots of Lucidity,Doran's Blade,Dagger,13707,67732,Lane.bot_lane,Role.carry
+3,2017,Ivern,True,Side.blue,2,3,20,7.333333333333333,56,Flash,Smite,13,False,9136,8725,Boots of Mobility,Redemption,The Dark Seal,Zz'Rot Portal,Athene's Unholy Grail,Hunter's Talisman,11345,3842,Lane.jungle,Role.none
+4,T L F ,Darius,True,Side.blue,10,0,11,21.0,160,Teleport,Ghost,14,False,11853,10650,Doran's Shield,Refillable Potion,Zz'Rot Portal,Spirit Visage,The Black Cleaver,Boots of Swiftness,3902,95764,Lane.top_lane,Role.solo
+5,Drango Unchained,Vel'Koz,False,Side.red,4,6,4,1.3333333333333333,163,Ghost,Flash,12,False,8399,7825,Luden's Echo,Ionian Boots of Lucidity,Control Ward,Morellonomicon,,,80649,7461,Lane.mid_lane,Role.solo
+6,SmoKeMoNKeY93,Cassiopeia,False,Side.red,1,6,4,0.8333333333333334,120,Ghost,Flash,11,False,6770,5575,Doran's Ring,Giant's Belt,Seraph's Embrace,Lost Chapter,,,50039,7980,Lane.top_lane,Role.solo
+7,OH MY GULAYY,Gragas,False,Side.red,0,7,11,1.5714285714285714,84,Smite,Flash,11,False,6924,6175,Enchantment: Runic Echoes,Refillable Potion,Spectre's Cowl,Ninja Tabi,Kindlegem,Cloth Armor,59123,19316,Lane.jungle,Role.none
+8,5fire,Twitch,False,Side.red,8,5,4,2.4,127,Flash,Heal,11,False,9414,9600,Control Ward,Berserker's Greaves,Infinity Edge,Doran's Blade,Runaan's Hurricane,Recurve Bow,0,56425,Lane.bot_lane,Role.carry
+9,Rainy Snow,Thresh,False,Side.red,0,7,8,1.1428571428571428,35,Exhaust,Flash,10,False,5687,5050,Boots of Mobility,Eye of the Equinox,Control Ward,Forbidden Idol,Crystalline Bracer,,6640,5181,Lane.bot_lane,Role.support

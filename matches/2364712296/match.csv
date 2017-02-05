@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Poochmonkey,Swain,True,Side.blue,9,5,7,3.2,190,Teleport,Ghost,16,False,12195,11775,Corrupting Potion,Rod of Ages,Zhonya's Hourglass,Abyssal Scepter,Ninja Tabi,Needlessly Large Rod,79663,22114,Lane.top_lane,Role.solo
+1,Kirbumonn,Graves,True,Side.blue,11,4,9,5.0,166,Smite,Flash,15,False,13122,11195,Negatron Cloak,Enchantment: Warrior,Phantom Dancer,The Black Cleaver,Chain Vest,Berserker's Greaves,4462,163182,Lane.jungle,Role.none
+2,Cant Kilean ,Zilean,True,Side.blue,1,0,16,17.0,19,Exhaust,Flash,15,False,9540,7575,Locket of the Iron Solari,Redemption,Ionian Boots of Lucidity,Eye of the Oasis,,,4708,6755,Lane.bot_lane,Role.support
+3,InF Peluchin,Twitch,True,Side.blue,9,3,6,5.0,209,Flash,Heal,15,False,12901,10425,Doran's Blade,Infinity Edge,Hexdrinker,Berserker's Greaves,Statikk Shiv,Caulfield's Warhammer,34436,121473,Lane.bot_lane,Role.carry
+4,IceCreamQAQ,LeBlanc,True,Side.blue,9,3,8,5.666666666666667,169,Flash,Ignite,15,False,11948,9525,Sorcerer's Shoes,Zhonya's Hourglass,,Mejai's Soulstealer,Morellonomicon,Doran's Ring,81900,17326,Lane.jungle,Role.none
+5,klepdbird,Morgana,False,Side.red,0,10,2,0.2,137,Exhaust,Flash,12,False,7585,5950,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Fiendish Codex,Doran's Ring,Control Ward,54907,11130,Lane.mid_lane,Role.solo
+6,Magickill,Ezreal,False,Side.red,0,7,6,0.8571428571428571,148,Flash,Heal,12,False,8054,7250,Ionian Boots of Lucidity,Manamune,Cull,Sheen,Dagger,Phage,19294,55342,Lane.bot_lane,Role.duo
+7,Arthin,Nautilus,False,Side.red,1,7,4,0.7142857142857143,70,Flash,Ignite,12,False,7181,6475,Sightstone,Face of the Mountain,Locket of the Iron Solari,Boots of Swiftness,Control Ward,Refillable Potion,11028,13634,Lane.bot_lane,Role.duo
+8,support or troll,Karthus,False,Side.red,6,10,6,1.2,184,Teleport,Flash,14,False,10575,9135,Blasting Wand,Seraph's Embrace,Rod of Ages,,Sorcerer's Shoes,Amplifying Tome,117393,1496,Lane.top_lane,Role.solo
+9,Best Trydyr Na,Talon,False,Side.red,8,5,2,2.0,201,Smite,Flash,15,True,12334,11625,Enchantment: Warrior,Youmuu's Ghostblade,Edge of Night,Boots of Mobility,Long Sword,Last Whisper,3082,177862,Lane.jungle,Role.none

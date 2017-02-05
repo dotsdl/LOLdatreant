@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HootyBootyBeans,Maokai,False,Side.blue,1,6,1,0.3333333333333333,153,Teleport,Flash,12,False,7625,7350,Doran's Ring,Sunfire Cape,Ninja Tabi,Spirit Visage,,,79127,9916,Lane.top_lane,Role.solo
+1,Na Kirby,Karma,False,Side.blue,4,11,3,0.6363636363636364,130,Exhaust,Flash,12,False,7791,7450,Doran's Ring,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Ardent Censer,,58379,14748,Lane.mid_lane,Role.solo
+2,Virus,Twitch,False,Side.blue,3,6,5,1.3333333333333333,158,Heal,Flash,12,False,8833,8675,Doran's Blade,Cull,Infinity Edge,Berserker's Greaves,,Runaan's Hurricane,315,81391,Lane.bot_lane,Role.carry
+3,A Potluck,Graves,False,Side.blue,2,5,5,1.4,148,Smite,Flash,13,False,8787,8735,Enchantment: Warrior,Zeal,Youmuu's Ghostblade,Berserker's Greaves,Dagger,Dagger,3055,122608,Lane.jungle,Role.none
+4,Empress Bee,Nami,False,Side.blue,2,6,8,1.6666666666666667,10,Exhaust,Flash,10,False,6906,6075,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,,Faerie Charm,Control Ward,5811,4492,Lane.bot_lane,Role.support
+5,OmegaB,Jhin,True,Side.red,5,4,11,4.0,128,Flash,Heal,13,False,10000,9350,Doran's Blade,Essence Reaver,Control Ward,Ionian Boots of Lucidity,Rapid Firecannon,B. F. Sword,6375,89204,Lane.bot_lane,Role.carry
+6,Wazabiee,Malphite,True,Side.red,4,2,10,7.0,133,Teleport,Flash,14,False,9947,9375,Cloth Armor,Rod of Ages,Giant's Belt,Sorcerer's Shoes,Doran's Ring,Abyssal Scepter,37351,31460,Lane.top_lane,Role.solo
+7,Darmous,Lee Sin,True,Side.red,12,2,9,10.5,99,Flash,Smite,14,False,12251,10850,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Dead Man's Plate,Boots of Swiftness,Null-Magic Mantle,19151,89890,Lane.jungle,Role.none
+8,HvK DCStar,Janna,True,Side.red,3,2,22,12.5,15,Flash,Exhaust,13,False,9624,7575,Eye of the Oasis,Ardent Censer,Boots of Speed,Control Ward,Ruby Crystal,Redemption,5956,7849,Lane.bot_lane,Role.support
+9,Regular Mid,Yasuo,True,Side.red,10,2,13,11.5,189,Flash,Ignite,15,True,12719,11350,Infinity Edge,Phage,Doran's Blade,Phantom Dancer,Ninja Tabi,Stinger,30502,124896,Lane.mid_lane,Role.solo

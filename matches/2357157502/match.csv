@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BiggestFeedLord,Annie,False,Side.blue,3,10,2,0.5,55,Flash,Ignite,10,False,5851,4550,Doran's Ring,Doran's Ring,Luden's Echo,Boots of Speed,,,27397,3753,Lane.mid_lane,Role.solo
+1,And Ju1y,Olaf,False,Side.blue,4,12,2,0.5,60,Smite,Ghost,9,False,6043,5825,Enchantment: Cinderhulk,Hunter's Potion,Ionian Boots of Lucidity,Chain Vest,Chain Vest,Cloth Armor,4414,29686,Lane.jungle,Role.none
+2,bac,Hecarim,False,Side.blue,9,7,6,2.142857142857143,106,Ghost,Teleport,13,False,9160,9133,Trinity Force,Boots of Swiftness,Corrupting Potion,Dead Man's Plate,Cloth Armor,Kindlegem,8938,64040,Lane.top_lane,Role.solo
+3,Dimensional,Jhin,False,Side.blue,3,8,3,0.75,93,Flash,Heal,11,False,6499,6150,Doran's Blade,Essence Reaver,Zeal,Boots of Speed,Dagger,,3689,43087,Lane.bot_lane,Role.carry
+4,cbaobabh,Alistar,False,Side.blue,1,7,5,0.8571428571428571,15,Ignite,Flash,9,False,5009,1750,Relic Shield,Boots of Speed,Sightstone,,,,4158,2317,Lane.bot_lane,Role.support
+5,Grigne,Singed,True,Side.red,8,6,7,2.5,179,Ghost,Teleport,13,False,10948,9450,Chain Vest,Zz'Rot Portal,Corrupting Potion,Rylai's Crystal Scepter,Boots of Swiftness,Giant's Belt,86617,7263,Lane.top_lane,Role.solo
+6,deftIy,Vayne,True,Side.red,11,3,4,5.0,134,Flash,Heal,12,False,11517,11350,Infinity Edge,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Blade of the Ruined King,,129,74956,Lane.bot_lane,Role.carry
+7,Licorice,Lee Sin,True,Side.red,7,6,7,2.3333333333333335,84,Flash,Smite,12,True,9946,9175,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,B. F. Sword,Serrated Dirk,16506,71264,Lane.jungle,Role.none
+8,Zeyzal,Tahm Kench,True,Side.red,2,4,9,2.75,24,Flash,Exhaust,10,False,7255,6325,Relic Shield,Refillable Potion,Boots of Mobility,Ruby Sightstone,Redemption,Glacial Shroud,8475,5244,Lane.bot_lane,Role.support
+9,bobqinXD,Cassiopeia,True,Side.red,16,2,5,10.5,131,Flash,Cleanse,14,False,12304,10435,Archangel's Staff,Rylai's Crystal Scepter,Refillable Potion,Doran's Ring,Morellonomicon,Amplifying Tome,84361,6502,Lane.jungle,Role.none

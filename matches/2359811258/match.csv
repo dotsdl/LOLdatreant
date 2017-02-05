@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Amrr,Nautilus,True,Side.blue,3,4,19,5.5,148,Flash,Teleport,15,False,12231,10775,Knight's Vow,Corrupting Potion,Ninja Tabi,Rod of Ages,Dead Man's Plate,Aegis of the Legion,67990,27941,Lane.top_lane,Role.solo
+1,THE Jons,Vayne,True,Side.blue,4,8,10,1.75,191,Heal,Flash,14,False,12612,10350,Berserker's Greaves,Runaan's Hurricane,Blade of the Ruined King,Doran's Blade,Phantom Dancer,,2137,120918,Lane.bot_lane,Role.carry
+2,6IIII9,Lee Sin,True,Side.blue,16,5,3,3.8,163,Smite,Flash,16,False,14800,13850,Ravenous Hydra,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Guardian Angel,Caulfield's Warhammer,25309,138086,Lane.jungle,Role.none
+3,QuickRev,Janna,True,Side.blue,4,4,13,4.25,17,Flash,Exhaust,13,False,9910,8750,Spellthief's Edge,Ardent Censer,Sightstone,Ionian Boots of Lucidity,Morellonomicon,Needlessly Large Rod,12901,8616,Lane.bot_lane,Role.support
+4,D0NG0,LeBlanc,True,Side.blue,10,3,11,7.0,168,Ignite,Flash,15,False,13174,12525,Zhonya's Hourglass,The Dark Seal,Needlessly Large Rod,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,114699,12765,Lane.mid_lane,Role.solo
+5,S hitter,Sona,False,Side.red,2,6,7,1.5,4,Exhaust,Flash,10,False,7887,6400,Redemption,Sightstone,Boots of Speed,Frost Queen's Claim,Null-Magic Mantle,,10094,4776,Lane.bot_lane,Role.support
+6,BabièThug,Zed,False,Side.red,3,8,3,0.75,175,Flash,Ignite,14,False,10253,9425,Maw of Malmortius,Refillable Potion,Serrated Dirk,Boots of Swiftness,Lord Dominik's Regards,Caulfield's Warhammer,6233,93865,Lane.jungle,Role.none
+7,TSM Lemio,Varus,False,Side.red,8,8,8,2.0,208,Heal,Flash,14,True,12636,12425,Infinity Edge,Vampiric Scepter,Doran's Blade,Essence Reaver,Statikk Shiv,Berserker's Greaves,29689,130728,Lane.bot_lane,Role.carry
+8,Lukwer,Kassadin,False,Side.red,8,8,4,1.5,185,Flash,Teleport,15,False,11338,11200,Rod of Ages,Zhonya's Hourglass,Corrupting Potion,Lich Bane,The Dark Seal,Ionian Boots of Lucidity,94044,23422,Lane.top_lane,Role.solo
+9,Lesu,Kha'Zix,False,Side.red,3,7,9,1.7142857142857142,145,Smite,Flash,15,False,10916,10800,Enchantment: Warrior,Refillable Potion,Maw of Malmortius,Mercury's Treads,Edge of Night,Long Sword,3186,154178,Lane.jungle,Role.none

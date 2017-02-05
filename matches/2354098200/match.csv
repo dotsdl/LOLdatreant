@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,N810HO,Lee Sin,True,Side.blue,3,6,10,2.1666666666666665,119,Flash,Smite,13,True,9898,9350,Refillable Potion,Boots of Speed,Enchantment: Warrior,Youmuu's Ghostblade,Dead Man's Plate,Poacher's Dirk,18066,88065,Lane.jungle,Role.none
+1,Dokugami,Jinx,True,Side.blue,9,4,7,4.0,181,Flash,Heal,12,False,12167,9575,Doran's Blade,Infinity Edge,Runaan's Hurricane,Last Whisper,Dagger,Berserker's Greaves,1737,112376,Lane.bot_lane,Role.carry
+2,Weatherdark,Wukong,True,Side.blue,9,1,11,20.0,163,Flash,Teleport,14,False,11734,9325,Youmuu's Ghostblade,Ravenous Hydra,Corrupting Potion,Mercury's Treads,Chain Vest,Null-Magic Mantle,2387,107065,Lane.top_lane,Role.solo
+3,Fàkèr  ,Yasuo,True,Side.blue,6,6,8,2.3333333333333335,128,Ignite,Flash,13,False,10007,9333,Trinity Force,,Hexdrinker,Mercury's Treads,Phantom Dancer,,15028,57743,Lane.mid_lane,Role.solo
+4,Ginormous Noob,Nami,True,Side.blue,1,2,15,8.0,5,Flash,Exhaust,11,False,8261,6370,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,,Amplifying Tome,Amplifying Tome,8140,6540,Lane.bot_lane,Role.support
+5,quinc,Hecarim,False,Side.red,2,6,7,1.5,91,Smite,Ghost,12,False,7162,6508,Refillable Potion,,Boots of Speed,Skirmisher's Sabre,Trinity Force,Bami's Cinder,10401,69398,Lane.jungle,Role.none
+6,Tzaphkiel,Fizz,False,Side.red,9,7,0,1.2857142857142858,152,Ignite,Flash,13,False,9142,8350,Doran's Ring,Hextech Gunblade,Fiendish Codex,Sorcerer's Shoes,Sheen,Seeker's Armguard,50735,26751,Lane.mid_lane,Role.solo
+7,The Eggsalad,Poppy,False,Side.red,3,5,2,1.0,142,Teleport,Flash,12,False,7693,7200,Corrupting Potion,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,,,22489,48677,Lane.top_lane,Role.solo
+8,is that Rex,Lucian,False,Side.red,4,6,4,1.3333333333333333,142,Heal,Flash,12,False,8159,7900,Doran's Blade,Infinity Edge,Statikk Shiv,Total Biscuit of Rejuvenation,,Berserker's Greaves,1196,63551,Lane.bot_lane,Role.carry
+9,bvcx222,Bard,False,Side.red,1,4,8,2.25,11,Flash,Exhaust,10,False,5765,5500,Ruby Sightstone,Locket of the Iron Solari,Total Biscuit of Rejuvenation,Spellthief's Edge,,Boots of Mobility,9295,4254,Lane.bot_lane,Role.support

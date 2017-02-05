@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Invernable Wang,LeBlanc,True,Side.blue,6,5,14,4.0,41,Ignite,Flash,12,False,9306,8610,Eye of the Watchers,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,Ruby Crystal,34128,6105,Lane.bot_lane,Role.support
+1,lel xD,Lux,True,Side.blue,7,5,11,3.6,129,Ghost,Flash,13,False,10068,9185,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,Luden's Echo,Blasting Wand,64682,13361,Lane.mid_lane,Role.solo
+2,Jaso,Ezreal,True,Side.blue,6,3,12,6.0,133,Heal,Flash,13,True,9939,8150,Doran's Blade,Muramana,Iceborn Gauntlet,Hexdrinker,Ionian Boots of Lucidity,,11468,71977,Lane.bot_lane,Role.carry
+3,F5 Lua ,Nautilus,True,Side.blue,11,4,20,7.75,112,Teleport,Flash,14,False,10857,8750,Doran's Ring,Sunfire Cape,Mercury's Treads,Iceborn Gauntlet,Spectre's Cowl,,61299,19889,Lane.top_lane,Role.solo
+4,WatchThePower,Nunu,True,Side.blue,10,3,12,7.333333333333333,135,Flash,Smite,14,False,11721,11450,Refillable Potion,Titanic Hydra,Ninja Tabi,Enchantment: Cinderhulk,Infinity Edge,Ruby Crystal,32266,58359,Lane.jungle,Role.none
+5,cc Blessed,Karma,False,Side.red,2,6,6,1.3333333333333333,11,Exhaust,Flash,10,False,6803,6150,Chalice of Harmony,Redemption,Forbidden Idol,Sightstone,Boots of Speed,Frostfang,10677,1715,Lane.bot_lane,Role.support
+6,USub,Orianna,False,Side.red,6,8,5,1.375,136,Ghost,Flash,13,False,8805,7475,Doran's Ring,Morellonomicon,Abyssal Scepter,,Sorcerer's Shoes,,68020,9963,Lane.mid_lane,Role.solo
+7,BlackEyedP,Lee Sin,False,Side.red,4,9,4,0.8888888888888888,81,Smite,Flash,11,False,7867,7175,Ravenous Hydra,Refillable Potion,Enchantment: Warrior,Null-Magic Mantle,Boots of Speed,Control Ward,7532,67997,Lane.jungle,Role.none
+8,Pick me jhin ty,Jhin,False,Side.red,7,6,2,1.5,158,Heal,Flash,12,False,9421,8400,Doran's Blade,Essence Reaver,Boots of Speed,Rapid Firecannon,B. F. Sword,,11993,75599,Lane.bot_lane,Role.carry
+9,HotCosplayGirl,Fiora,False,Side.red,1,11,4,0.45454545454545453,107,Flash,Teleport,11,False,7443,7675,Tiamat,Refillable Potion,Boots of Swiftness,Doran's Blade,The Black Cleaver,Pickaxe,490,42141,Lane.top_lane,Role.solo

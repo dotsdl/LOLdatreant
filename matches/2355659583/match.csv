@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,camtheham,Vayne,False,Side.blue,0,2,1,0.5,71,Heal,Flash,7,False,3979,3250,Control Ward,B. F. Sword,Cull,Doran's Blade,Pickaxe,,0,15233,Lane.bot_lane,Role.carry
+1,Sawyerr,Janna,False,Side.blue,0,3,2,0.6666666666666666,2,Ignite,Flash,7,False,3268,2525,Frostfang,,Boots of Speed,The Dark Seal,,Sightstone,1063,3222,Lane.bot_lane,Role.support
+2,Rhux,Orianna,False,Side.blue,4,5,0,0.8,85,Flash,Ghost,9,False,5242,4375,Doran's Ring,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Lost Chapter,Needlessly Large Rod,29370,6527,Lane.mid_lane,Role.solo
+3,fallenbandit,Yasuo,False,Side.blue,3,7,1,0.5714285714285714,91,Flash,Teleport,10,False,5264,4850,Refillable Potion,Ninja Tabi,Phantom Dancer,Doran's Blade,Ruby Crystal,,11940,29083,Lane.top_lane,Role.solo
+4,Hyorimaru,Shyvana,False,Side.blue,1,5,2,0.6,82,Flash,Smite,10,False,4935,3950,Enchantment: Bloodrazor,Refillable Potion,Ninja Tabi,,,,33828,23784,Lane.jungle,Role.none
+5,Naeun,Twitch,True,Side.red,3,2,3,3.0,98,Heal,Flash,9,False,6371,4825,Zeal,Doran's Blade,Boots of Speed,Cull,Pickaxe,B. F. Sword,133,37039,Lane.bot_lane,Role.carry
+6,Be Here,Soraka,True,Side.red,1,2,8,4.5,7,Flash,Exhaust,9,True,5251,3925,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Refillable Potion,Faerie Charm,Faerie Charm,4221,4138,Lane.bot_lane,Role.support
+7,ZatsMod,Syndra,True,Side.red,10,0,1,11.0,130,Flash,Ghost,12,False,8987,6500,Doran's Ring,Needlessly Large Rod,,Doran's Ring,Sorcerer's Shoes,Morellonomicon,67897,10826,Lane.mid_lane,Role.solo
+8,WT Spectator,Lee Sin,True,Side.red,3,2,6,4.5,94,Flash,Smite,10,False,7064,6725,Boots of Mobility,Tiamat,Ruby Crystal,Enchantment: Warrior,Caulfield's Warhammer,Long Sword,8752,70217,Lane.jungle,Role.none
+9,Adrian Riven,Jax,True,Side.red,4,2,2,3.0,90,Teleport,Flash,11,False,6296,5833,Doran's Shield,Refillable Potion,Ninja Tabi,Trinity Force,,,7583,36144,Lane.top_lane,Role.solo

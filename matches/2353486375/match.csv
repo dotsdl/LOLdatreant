@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jiblex,Viktor,False,Side.blue,2,2,2,2.0,107,Flash,Heal,11,False,5815,4670,The Hex Core mk-1,Refillable Potion,Ionian Boots of Lucidity,Doran's Ring,Negatron Cloak,Needlessly Large Rod,50050,7389,Lane.mid_lane,Role.duo
+1,FatMiku,Fiora,False,Side.blue,5,4,3,2.0,88,Flash,Ignite,11,True,6507,5550,Ravenous Hydra,Refillable Potion,Caulfield's Warhammer,Boots of Speed,Doran's Blade,,1206,41028,Lane.mid_lane,Role.duo
+2,ururu,Lee Sin,False,Side.blue,1,6,4,0.8333333333333334,49,Smite,Flash,10,False,5254,4325,Enchantment: Warrior,Refillable Potion,Phage,Boots of Speed,,,8100,38244,Lane.jungle,Role.none
+3,Nekrimm,Ekko,True,Side.red,5,2,2,3.5,104,Flash,Exhaust,12,False,7235,6050,Doran's Ring,Fiendish Codex,Doran's Ring,Boots of Speed,Sheen,Abyssal Scepter,56232,12953,Lane.jungle,Role.none
+4,FIyingScrew,Skarner,True,Side.red,3,2,2,2.5,62,Smite,Ghost,10,False,6515,6283,Stalker's Blade,Boots of Speed,Refillable Potion,Trinity Force,Bami's Cinder,,13429,47823,Lane.jungle,Role.none
+5,Zephrike,Darius,True,Side.red,4,4,6,2.5,141,Flash,Ignite,12,False,8278,6700,Doran's Shield,Corrupting Potion,Tiamat,Ninja Tabi,The Black Cleaver,Cloth Armor,248,78266,Lane.mid_lane,Role.solo

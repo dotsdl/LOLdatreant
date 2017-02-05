@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kiepporro,Singed,False,Side.blue,3,8,1,0.5,192,Ghost,Teleport,14,False,9184,7950,The Dark Seal,Corrupting Potion,Boots of Swiftness,Rod of Ages,Chain Vest,Zz'Rot Portal,101575,6697,Lane.top_lane,Role.solo
+1,EnVy Nien,Cassiopeia,False,Side.blue,2,8,3,0.625,150,Flash,Ghost,13,False,8653,7475,Doran's Ring,Morellonomicon,Abyssal Scepter,Doran's Ring,Tear of the Goddess,,70653,3528,Lane.mid_lane,Role.solo
+2,BigNick is back,Jhin,False,Side.blue,8,9,5,1.4444444444444444,154,Heal,Flash,13,True,10928,9425,Control Ward,Essence Reaver,Doran's Blade,Boots of Swiftness,Rapid Firecannon,B. F. Sword,6781,84639,Lane.bot_lane,Role.carry
+3,The Prevailer,Elise,False,Side.blue,4,6,8,2.0,91,Smite,Flash,13,False,8830,8795,Enchantment: Runic Echoes,Null-Magic Mantle,Rylai's Crystal Scepter,Negatron Cloak,Sorcerer's Shoes,Ruby Crystal,53034,20874,Lane.jungle,Role.none
+4,ardnaxela,Maokai,False,Side.blue,3,9,11,1.5555555555555556,45,Flash,Exhaust,12,False,8006,7575,Redemption,Boots of Mobility,Eye of the Equinox,Spectre's Cowl,Kindlegem,,18617,6217,Lane.bot_lane,Role.support
+5,Orbt,Kennen,True,Side.red,11,3,3,4.666666666666667,182,Flash,Teleport,15,False,12370,8960,Needlessly Large Rod,Amplifying Tome,Hextech Protobelt-01,Doran's Blade,Abyssal Scepter,Sorcerer's Shoes,89283,31852,Lane.top_lane,Role.solo
+6,Cant Kilean ,Zilean,True,Side.red,7,2,7,7.0,147,Teleport,Flash,16,False,10991,9775,Doran's Ring,Morellonomicon,Rod of Ages,Ionian Boots of Lucidity,Void Staff,,76505,10677,Lane.mid_lane,Role.solo
+7,Azzam,Graves,True,Side.red,7,5,8,3.0,195,Smite,Flash,16,False,13616,9750,Enchantment: Warrior,Berserker's Greaves,Maw of Malmortius,Phantom Dancer,,,4445,182075,Lane.jungle,Role.none
+8,Malya EUW ,Kalista,True,Side.red,12,9,4,1.7777777777777777,165,Flash,Heal,14,False,12889,9850,Quicksilver Sash,Runaan's Hurricane,Blade of the Ruined King,Berserker's Greaves,Doran's Blade,Vampiric Scepter,575,124602,Lane.bot_lane,Role.carry
+9,ZuteGach,Janna,True,Side.red,3,1,16,19.0,11,Exhaust,Flash,13,False,9484,8075,Frostfang,Ruby Sightstone,Redemption,Locket of the Iron Solari,,Boots of Mobility,4402,4442,Lane.bot_lane,Role.support

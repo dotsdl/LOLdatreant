@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,popgoestheglock,Twitch,True,Side.blue,12,4,4,4.0,179,Heal,Flash,14,True,12773,9600,Doran's Blade,Runaan's Hurricane,Infinity Edge,Brawler's Gloves,Berserker's Greaves,Zeal,2221,111417,Lane.bot_lane,Role.carry
+1,TheNotoriousDFG,Udyr,True,Side.blue,4,4,9,3.25,145,Ghost,Smite,14,False,11062,9175,Zz'Rot Portal,Spirit Visage,Boots of Swiftness,Enchantment: Cinderhulk,,,77035,40584,Lane.jungle,Role.none
+2,Best Akali KR,Akali,True,Side.blue,5,7,3,1.1428571428571428,144,Flash,Ignite,13,False,9838,9445,Zhonya's Hourglass,Hextech Gunblade,Sorcerer's Shoes,Negatron Cloak,Health Potion,,26272,53658,Lane.mid_lane,Role.solo
+3,emV,Ekko,True,Side.blue,5,2,7,6.0,180,Flash,Teleport,15,False,10758,9100,Mercury's Treads,Corrupting Potion,Rod of Ages,Spectre's Cowl,Iceborn Gauntlet,Fiendish Codex,87475,21554,Lane.top_lane,Role.solo
+4,Sawyerr,Leona,True,Side.blue,2,4,15,4.25,53,Ignite,Flash,12,False,8669,7150,Knight's Vow,Cloth Armor,,Boots of Mobility,Face of the Mountain,Sightstone,12841,11084,Lane.bot_lane,Role.support
+5,Utatane Piko,Lulu,False,Side.red,1,8,9,1.25,136,Exhaust,Flash,13,False,8323,7550,Doran's Ring,Morellonomicon,Abyssal Scepter,Mercury's Treads,,,59187,13050,Lane.mid_lane,Role.solo
+6,JeremySucks,Lee Sin,False,Side.red,8,3,10,6.0,108,Smite,Flash,14,False,10370,10300,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,The Black Cleaver,,19112,99236,Lane.jungle,Role.none
+7,Pumpfake,Morgana,False,Side.red,2,6,11,2.1666666666666665,21,Exhaust,Flash,11,False,7589,7500,Ruby Sightstone,Frost Queen's Claim,Refillable Potion,Boots of Mobility,Locket of the Iron Solari,Control Ward,13182,4815,Lane.bot_lane,Role.support
+8,NamfailI59A578,Ryze,False,Side.red,3,6,6,1.5,193,Flash,Teleport,13,False,9876,8485,Seraph's Embrace,Refillable Potion,Blasting Wand,Sorcerer's Shoes,Rod of Ages,Amplifying Tome,122802,10950,Lane.top_lane,Role.solo
+9,Hanjaro,Jhin,False,Side.red,7,5,7,2.8,160,Flash,Heal,13,False,9789,9400,Doran's Blade,Sterak's Gage,Infinity Edge,Boots of Swiftness,Zeal,Dagger,5667,95998,Lane.bot_lane,Role.carry

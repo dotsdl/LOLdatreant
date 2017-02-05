@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SPARES0MECHANGE,Zilean,True,Side.blue,1,8,14,1.875,35,Ignite,Flash,12,False,10487,9825,Ruby Sightstone,Morellonomicon,Frost Queen's Claim,Tear of the Goddess,Ionian Boots of Lucidity,Needlessly Large Rod,32912,5142,Lane.bot_lane,Role.support
+1,am tham ben em,Jayce,True,Side.blue,2,7,7,1.2857142857142858,210,Flash,Teleport,15,False,12012,9275,Ionian Boots of Lucidity,Youmuu's Ghostblade,Doran's Blade,The Black Cleaver,Last Whisper,,13778,121689,Lane.top_lane,Role.solo
+2,Zoolouie,Vel'Koz,True,Side.blue,7,3,8,5.0,171,Barrier,Flash,15,False,12605,10360,Luden's Echo,Amplifying Tome,Morellonomicon,Giant's Belt,Ionian Boots of Lucidity,Needlessly Large Rod,79221,14158,Lane.mid_lane,Role.solo
+3,SO ICEY GRINCH,Ezreal,True,Side.blue,11,3,7,6.0,194,Flash,Heal,16,False,14856,11775,Blade of the Ruined King,Iceborn Gauntlet,Muramana,Last Whisper,,Ionian Boots of Lucidity,21429,119129,Lane.bot_lane,Role.carry
+4,Miss You Babe ,Shyvana,True,Side.blue,7,4,9,4.0,186,Smite,Flash,16,False,13947,11675,Enchantment: Bloodrazor,Dead Man's Plate,Titanic Hydra,Ninja Tabi,Phage,,70223,109994,Lane.jungle,Role.none
+5,rehzyy,Vayne,False,Side.red,5,4,4,2.25,228,Flash,Heal,15,False,11968,11350,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,45349,99853,Lane.bot_lane,Role.carry
+6,Ozakii,Riven,False,Side.red,12,5,5,3.4,166,Teleport,Flash,15,True,12292,11575,The Black Cleaver,Ninja Tabi,Long Sword,Ravenous Hydra,Youmuu's Ghostblade,Control Ward,2041,104567,Lane.top_lane,Role.solo
+7,ubernewbz,Morgana,False,Side.red,2,5,10,2.4,166,Flash,Exhaust,14,False,9998,8850,Doran's Ring,Abyssal Scepter,Zhonya's Hourglass,Sorcerer's Shoes,Needlessly Large Rod,,66703,12772,Lane.mid_lane,Role.solo
+8,DaboIogy,Alistar,False,Side.red,0,7,8,1.1428571428571428,32,Exhaust,Flash,11,False,7173,6150,Targon's Brace,Sightstone,Ninja Tabi,Redemption,Kindlegem,Control Ward,11663,5213,Lane.bot_lane,Role.support
+9,Mishas Swamp,Lee Sin,False,Side.red,6,7,10,2.2857142857142856,91,Smite,Flash,13,False,10098,9345,Boots of Mobility,Negatron Cloak,Chain Vest,Enchantment: Warrior,Dead Man's Plate,Serrated Dirk,12732,61915,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LegitADC,Janna,False,Side.blue,0,7,9,1.2857142857142858,9,Exhaust,Flash,11,False,6765,6150,Redemption,Eye of the Oasis,,Null-Magic Mantle,Boots of Swiftness,Cloth Armor,4839,2524,Lane.bot_lane,Role.support
+1,MASTER ROSHl,Lee Sin,False,Side.blue,3,11,8,1.0,117,Flash,Smite,13,True,8782,8250,Tiamat,Enchantment: Warrior,Hexdrinker,Mercury's Treads,Giant's Belt,Chain Vest,16605,72442,Lane.jungle,Role.none
+2,TheNuocMam,Lux,False,Side.blue,5,2,9,7.0,203,Heal,Flash,15,False,11624,9700,Frost Queen's Claim,Luden's Echo,Doran's Ring,Mejai's Soulstealer,Sorcerer's Shoes,Needlessly Large Rod,119097,9614,Lane.mid_lane,Role.solo
+3,Snowfly,Caitlyn,False,Side.blue,6,6,6,2.0,184,Flash,Heal,13,False,10287,9525,Doran's Blade,Runaan's Hurricane,Infinity Edge,Zeal,Dagger,Berserker's Greaves,435,109093,Lane.bot_lane,Role.carry
+4,MongolWarrior,Maokai,False,Side.blue,4,8,10,1.75,119,Teleport,Flash,13,False,8991,8600,Doran's Ring,Randuin's Omen,Mercury's Treads,Sunfire Cape,Spectre's Cowl,,71210,10358,Lane.top_lane,Role.solo
+5,No Speak Inglish,Jayce,True,Side.red,9,4,11,5.0,216,Teleport,Flash,16,False,14293,12550,Pickaxe,B. F. Sword,The Black Cleaver,Youmuu's Ghostblade,Ionian Boots of Lucidity,Mortal Reminder,20522,140392,Lane.top_lane,Role.solo
+6,D0NG0,LeBlanc,True,Side.red,13,4,7,5.0,148,Ignite,Flash,14,False,12835,11325,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,The Dark Seal,Rylai's Crystal Scepter,Void Staff,86631,10460,Lane.mid_lane,Role.solo
+7,Nwok,Braum,True,Side.red,0,5,20,4.0,22,Flash,Exhaust,12,False,8836,8150,Ruby Sightstone,Redemption,Face of the Mountain,Boots of Mobility,Null-Magic Mantle,Null-Magic Mantle,8652,4157,Lane.bot_lane,Role.support
+8,KingClueless,Shyvana,True,Side.red,0,2,11,5.5,162,Ghost,Smite,15,False,11734,10375,Mercury's Treads,Titanic Hydra,Enchantment: Cinderhulk,Giant's Belt,Spectre's Cowl,Chain Vest,86666,85716,Lane.jungle,Role.none
+9,datvu deformed,Twitch,True,Side.red,12,3,9,7.0,209,Heal,Flash,15,False,14608,12750,Quicksilver Sash,Statikk Shiv,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,15544,136976,Lane.bot_lane,Role.carry

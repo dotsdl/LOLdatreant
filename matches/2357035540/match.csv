@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Baboom223,Ekko,True,Side.blue,8,5,9,3.4,181,Flash,Ignite,15,False,12090,10550,Hextech Protobelt-01,Lich Bane,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Void Staff,117892,23135,Lane.mid_lane,Role.solo
+1,S W A G B O Y S,Renekton,True,Side.blue,12,4,5,4.25,243,Teleport,Flash,16,False,14347,12275,Youmuu's Ghostblade,Ravenous Hydra,Serrated Dirk,Doran's Blade,Ninja Tabi,The Black Cleaver,8357,178434,Lane.top_lane,Role.solo
+2,TeamWillFeed,Janna,True,Side.blue,1,0,20,21.0,8,Flash,Exhaust,13,False,9373,8025,Eye of the Oasis,,Redemption,The Dark Seal,Ionian Boots of Lucidity,Knight's Vow,4649,3128,Lane.bot_lane,Role.support
+3,Danny Cute Body,Jhin,True,Side.blue,3,2,8,5.5,238,Heal,Flash,14,False,11494,11450,Rapid Firecannon,Boots of Swiftness,Infinity Edge,,Essence Reaver,Doran's Blade,3521,134457,Lane.bot_lane,Role.carry
+4,Iron Willy,Lee Sin,True,Side.blue,10,5,8,3.6,97,Smite,Flash,14,False,11235,9000,Ninja Tabi,Enchantment: Warrior,Long Sword,Dead Man's Plate,Long Sword,Hexdrinker,14556,86101,Lane.jungle,Role.none
+5,Reservation,Fizz,False,Side.red,7,7,7,2.0,174,Ignite,Flash,15,False,10795,9225,Corrupting Potion,Zhonya's Hourglass,Ionian Boots of Lucidity,Lich Bane,Doran's Ring,Needlessly Large Rod,79239,25772,Lane.mid_lane,Role.solo
+6,Fv Ares,Rek'Sai,False,Side.red,2,5,8,2.0,136,Flash,Smite,14,True,9138,8750,Cloth Armor,Tiamat,Randuin's Omen,Mercury's Treads,Ruby Crystal,Enchantment: Cinderhulk,34467,87549,Lane.jungle,Role.none
+7,TFW Glory,Caitlyn,False,Side.red,1,5,3,0.8,185,Heal,Flash,12,False,8870,8550,Doran's Blade,Berserker's Greaves,Infinity Edge,Dagger,Runaan's Hurricane,,354,95834,Lane.bot_lane,Role.carry
+8,Vladfire1 BG ,Yasuo,False,Side.red,4,9,3,0.7777777777777778,245,Teleport,Flash,15,False,11071,9770,Doran's Blade,Phantom Dancer,B. F. Sword,The Black Cleaver,Vampiric Scepter,Ninja Tabi,30817,115799,Lane.top_lane,Role.solo
+9,Kioshima S,Brand,False,Side.red,2,8,2,0.5,29,Ignite,Flash,11,False,7675,6935,Eye of the Watchers,Morellonomicon,Ionian Boots of Lucidity,Amplifying Tome,Control Ward,,27779,5221,Lane.bot_lane,Role.support

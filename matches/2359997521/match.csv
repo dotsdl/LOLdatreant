@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hashinshin,Hecarim,True,Side.blue,18,4,11,7.25,143,Ghost,Smite,16,False,15736,14158,Enchantment: Cinderhulk,Chain Vest,Mercury's Treads,Trinity Force,Dead Man's Plate,Sterak's Gage,17405,138342,Lane.jungle,Role.none
+1,1982657489,Singed,True,Side.blue,4,3,9,4.333333333333333,196,Teleport,Ghost,15,False,11957,11775,Seraph's Embrace,The Dark Seal,Righteous Glory,Rylai's Crystal Scepter,Chain Vest,Mercury's Treads,111261,9615,Lane.top_lane,Role.solo
+2,PSYCHOPATH909,Veigar,True,Side.blue,12,6,11,3.8333333333333335,179,Flash,Exhaust,16,False,14141,10325,Zhonya's Hourglass,Void Staff,Morellonomicon,Doran's Ring,Sorcerer's Shoes,,117221,12970,Lane.mid_lane,Role.solo
+3,BukZacH,Ezreal,True,Side.blue,3,5,6,1.8,139,Flash,Smite,13,False,10214,7950,Doran's Blade,Muramana,Cull,Iceborn Gauntlet,Ionian Boots of Lucidity,Pickaxe,6989,77536,Lane.bot_lane,Role.carry
+4,aShady,Thresh,True,Side.blue,1,4,12,3.25,25,Exhaust,Flash,13,False,8230,6475,Locket of the Iron Solari,Boots of Swiftness,Eye of the Equinox,Cloth Armor,Control Ward,Sapphire Crystal,10256,6850,Lane.bot_lane,Role.support
+5,Tsui Wah ,Rammus,False,Side.red,1,5,6,1.4,215,Flash,Teleport,15,False,9918,9525,Ninja Tabi,Corrupting Potion,The Dark Seal,Spirit Visage,Sunfire Cape,Chain Vest,86634,30379,Lane.top_lane,Role.solo
+6,Sebi,Fizz,False,Side.red,9,11,2,1.0,135,Flash,Ignite,13,False,10500,9450,Corrupting Potion,Lich Bane,Sorcerer's Shoes,The Dark Seal,Zhonya's Hourglass,Needlessly Large Rod,51245,20572,Lane.mid_lane,Role.solo
+7,skyWtr,Lee Sin,False,Side.red,2,9,9,1.2222222222222223,121,Smite,Flash,14,False,9509,9425,Tiamat,Enchantment: Warrior,Locket of the Iron Solari,Spectre's Cowl,Kindlegem,Ninja Tabi,19504,91270,Lane.jungle,Role.none
+8,ZatsMod,Morgana,False,Side.red,4,7,9,1.8571428571428572,10,Flash,Exhaust,12,False,9644,9260,Ruby Sightstone,Zhonya's Hourglass,Frost Queen's Claim,Ionian Boots of Lucidity,Blasting Wand,Amplifying Tome,19041,2274,Lane.bot_lane,Role.support
+9,SKY Fear,Jhin,False,Side.red,6,6,6,2.0,203,Flash,Heal,13,True,11428,11100,Doran's Blade,Lord Dominik's Regards,Rapid Firecannon,Boots of Swiftness,Essence Reaver,Null-Magic Mantle,3984,122804,Lane.bot_lane,Role.carry

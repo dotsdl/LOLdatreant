@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Biq Nick,Caitlyn,True,Side.blue,9,2,10,9.5,185,Heal,Flash,13,False,10655,10450,Doran's Blade,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,,2552,135861,Lane.bot_lane,Role.carry
+1,SebTheJoker,Bard,True,Side.blue,5,1,16,21.0,24,Flash,Ignite,12,False,9118,5200,Ionian Boots of Lucidity,Frost Queen's Claim,Forbidden Idol,Sightstone,,Rejuvenation Bead,17924,10664,Lane.bot_lane,Role.support
+2,Tysnowboards,Ivern,True,Side.blue,4,3,17,7.0,53,Smite,Flash,12,True,8602,6050,Redemption,Refillable Potion,Boots of Mobility,Athene's Unholy Grail,Hunter's Talisman,Null-Magic Mantle,9349,7390,Lane.jungle,Role.none
+3,TheMostNobleGas,Ahri,True,Side.blue,14,3,6,6.666666666666667,130,Flash,Ignite,12,False,10211,10075,Sorcerer's Shoes,Rabadon's Deathcap,Lost Chapter,Luden's Echo,,Doran's Ring,52664,15275,Lane.mid_lane,Role.solo
+4,RealTeemo,Teemo,True,Side.blue,3,0,3,6.0,205,Teleport,Flash,13,False,9082,6800,Doran's Ring,Refillable Potion,Zz'Rot Portal,Boots of Speed,Nashor's Tooth,,54107,33039,Lane.top_lane,Role.solo
+5,Biogod,Braum,False,Side.red,1,6,4,0.8333333333333334,28,Exhaust,Flash,9,False,5214,4500,Boots of Speed,Sightstone,Zz'Rot Portal,,Relic Shield,,5067,2603,Lane.bot_lane,Role.support
+6,Báng,Yasuo,False,Side.red,4,10,1,0.5,112,Flash,Exhaust,10,False,6629,5225,Doran's Blade,Phantom Dancer,Boots of Speed,Cloak of Agility,Pickaxe,,17481,49852,Lane.mid_lane,Role.solo
+7,LetsGameItUp,Draven,False,Side.red,0,7,5,0.7142857142857143,128,Flash,Heal,10,False,6258,5700,Doran's Blade,The Bloodthirster,Berserker's Greaves,Dagger,,,0,58756,Lane.bot_lane,Role.carry
+8,Nightmight,Lee Sin,False,Side.red,1,11,4,0.45454545454545453,74,Smite,Flash,10,False,6082,5225,Refillable Potion,Mercury's Treads,Enchantment: Warrior,,,Tiamat,9990,45658,Lane.jungle,Role.none
+9,GnarlyTokes,Heimerdinger,False,Side.red,3,2,2,2.5,158,Teleport,Flash,13,False,7541,6345,Sorcerer's Shoes,The Dark Seal,Doran's Ring,Fiendish Codex,Negatron Cloak,Zz'Rot Portal,56899,17887,Lane.top_lane,Role.solo

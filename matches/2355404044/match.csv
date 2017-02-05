@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nwok,Maokai,False,Side.blue,1,8,6,0.875,114,Flash,Teleport,13,False,8019,8200,Doran's Ring,Spirit Visage,Sunfire Cape,Mercury's Treads,,,55818,5651,Lane.top_lane,Role.solo
+1,ZTG SolidSnake,Ahri,False,Side.blue,2,12,2,0.3333333333333333,125,Flash,Ignite,11,False,7807,7035,Doran's Ring,Needlessly Large Rod,Abyssal Scepter,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,42393,8866,Lane.mid_lane,Role.solo
+2,C9 Gun,Kalista,False,Side.blue,4,5,2,1.2,171,Flash,Heal,13,False,9516,9400,Blade of the Ruined King,Quicksilver Sash,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Control Ward,1123,94316,Lane.bot_lane,Role.carry
+3,AD Nannies Pref,Janna,False,Side.blue,0,11,6,0.5454545454545454,8,Exhaust,Flash,11,False,6435,6025,Sightstone,Forbidden Idol,Nomad's Medallion,Ardent Censer,Boots of Speed,Crystalline Bracer,6709,2911,Lane.bot_lane,Role.support
+4,KINKY LORD,Graves,False,Side.blue,8,10,2,1.0,186,Smite,Flash,14,False,11408,10425,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Phantom Dancer,Vampiric Scepter,Berserker's Greaves,3916,153113,Lane.jungle,Role.none
+5,MongolWarrior,Blitzcrank,True,Side.red,5,1,19,24.0,40,Ignite,Flash,13,False,9191,8450,Eye of the Equinox,Locket of the Iron Solari,Boots of Mobility,Frozen Heart,,,9293,9530,Lane.bot_lane,Role.support
+6,Luqun,Lee Sin,True,Side.red,2,5,12,2.8,70,Smite,Flash,12,True,9367,9000,Warden's Mail,Enchantment: Warrior,,Dead Man's Plate,Giant's Belt,Mercury's Treads,10962,71840,Lane.jungle,Role.none
+7,Iing,Kennen,True,Side.red,8,1,10,18.0,188,Flash,Teleport,16,False,12436,11410,Ionian Boots of Lucidity,Hextech Protobelt-01,Zhonya's Hourglass,Rylai's Crystal Scepter,Blasting Wand,Amplifying Tome,92489,23684,Lane.top_lane,Role.solo
+8,My Kat Evolved,Katarina,True,Side.red,23,6,12,5.833333333333333,150,Ignite,Flash,15,False,14813,13400,Blasting Wand,Sorcerer's Shoes,Hextech Gunblade,Rylai's Crystal Scepter,Void Staff,Haunting Guise,123008,12875,Lane.jungle,Role.none
+9,twitchtvz4mk4,Ashe,True,Side.red,8,2,14,11.0,162,Heal,Flash,14,False,11708,10650,Essence Reaver,Doran's Blade,Runaan's Hurricane,Mortal Reminder,Berserker's Greaves,,2627,105744,Lane.bot_lane,Role.carry

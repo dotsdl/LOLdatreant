@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,binny,Caitlyn,True,Side.blue,5,6,5,1.6666666666666667,141,Heal,Flash,12,False,9393,7250,Doran's Blade,Infinity Edge,Total Biscuit of Rejuvenation,Runaan's Hurricane,Dagger,,251,80122,Lane.bot_lane,Role.carry
+1,GtG Fyn,Karma,True,Side.blue,6,2,26,16.0,13,Exhaust,Flash,13,False,10219,8650,Redemption,Locket of the Iron Solari,Eye of the Watchers,Control Ward,Boots of Swiftness,Chalice of Harmony,15992,7815,Lane.bot_lane,Role.support
+2,TOP Pagoda,Ryze,True,Side.blue,15,3,12,9.0,141,Flash,Teleport,14,False,12273,8510,Seraph's Embrace,Refillable Potion,Giant's Belt,Frozen Heart,Amplifying Tome,Ionian Boots of Lucidity,93853,7698,Lane.top_lane,Role.solo
+3,yeedam,Orianna,True,Side.blue,20,4,11,7.75,144,Flash,Exhaust,13,False,13785,13485,Amplifying Tome,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Fiendish Codex,96448,12076,Lane.mid_lane,Role.solo
+4,biblee,Rumble,True,Side.blue,8,3,11,6.333333333333333,152,Flash,Smite,15,True,11675,10050,Enchantment: Runic Echoes,Sorcerer's Shoes,Zhonya's Hourglass,Refillable Potion,Rylai's Crystal Scepter,,108362,28192,Lane.jungle,Role.none
+5,Snackbar123,Twitch,False,Side.red,4,11,2,0.5454545454545454,98,Exhaust,Flash,11,False,7435,7025,Doran's Blade,Runaan's Hurricane,Doran's Blade,B. F. Sword,Pickaxe,Berserker's Greaves,0,41244,Lane.mid_lane,Role.solo
+6,fallenbandit,Yasuo,False,Side.red,4,11,6,0.9090909090909091,150,Flash,Teleport,13,False,8893,8350,Refillable Potion,Phantom Dancer,Doran's Blade,Mercury's Treads,Infinity Edge,Long Sword,20472,74370,Lane.top_lane,Role.solo
+7,deftIy,Blitzcrank,False,Side.red,1,11,5,0.5454545454545454,29,Flash,Ignite,9,False,5906,5475,Lich Bane,Tear of the Goddess,Relic Shield,,Boots of Mobility,,7453,6036,Lane.bot_lane,Role.support
+8,Licorice,Ashe,False,Side.red,5,9,5,1.1111111111111112,102,Flash,Heal,11,False,7823,6775,Runaan's Hurricane,Caulfield's Warhammer,Berserker's Greaves,,Doran's Blade,B. F. Sword,2266,51274,Lane.bot_lane,Role.carry
+9,Tuesdayy,Lee Sin,False,Side.red,4,12,7,0.9166666666666666,61,Smite,Flash,11,False,7301,6750,Tiamat,Refillable Potion,Long Sword,Enchantment: Warrior,Mercury's Treads,Phage,6381,40696,Lane.jungle,Role.none

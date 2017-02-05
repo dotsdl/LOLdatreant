@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zT ace,Lee Sin,True,Side.blue,8,3,5,4.333333333333333,73,Smite,Flash,11,False,8564,8285,Refillable Potion,Enchantment: Warrior,Boots of Swiftness,Edge of Night,Giant's Belt,Chain Vest,15615,61293,Lane.jungle,Role.none
+1,ZImaras,Riven,True,Side.blue,13,0,1,14.0,161,Flash,Teleport,13,True,11189,9675,The Black Cleaver,Ninja Tabi,Tiamat,Refillable Potion,Death's Dance,Long Sword,0,103934,Lane.top_lane,Role.solo
+2,DankyIsToxic,Morgana,True,Side.blue,0,0,7,7.0,174,Teleport,Flash,13,False,8370,6325,Doran's Ring,Morellonomicon,The Dark Seal,Sorcerer's Shoes,Needlessly Large Rod,,64709,13944,Lane.mid_lane,Role.solo
+3,Kitsui,Janna,True,Side.blue,1,0,13,14.0,11,Flash,Exhaust,10,False,6646,5525,Nomad's Medallion,Sightstone,The Dark Seal,Boots of Speed,Redemption,Forbidden Idol,4294,5485,Lane.bot_lane,Role.support
+4,tnerual70,Vayne,True,Side.blue,2,1,2,4.0,165,Flash,Heal,12,False,8924,6525,Refillable Potion,Doran's Blade,B. F. Sword,Berserker's Greaves,Statikk Shiv,Pickaxe,6539,79099,Lane.bot_lane,Role.carry
+5,Zyko,Nami,False,Side.red,1,4,1,0.5,6,Exhaust,Flash,8,False,4636,4400,Sightstone,Crystalline Bracer,Forbidden Idol,Frostfang,Boots of Mobility,Control Ward,3627,2156,Lane.bot_lane,Role.support
+6,Bramblestein,Twitch,False,Side.red,0,4,3,0.75,95,Heal,Flash,9,False,5603,5350,Blade of the Ruined King,Dagger,,,,Berserker's Greaves,1061,27437,Lane.bot_lane,Role.carry
+7,LawlietLelouch,Irelia,False,Side.red,1,9,0,0.1111111111111111,112,Flash,Teleport,11,False,6101,5758,Ninja Tabi,Corrupting Potion,Trinity Force,Long Sword,,,2137,40063,Lane.top_lane,Role.solo
+8,BIind Goat,Graves,False,Side.red,1,7,1,0.2857142857142857,65,Smite,Flash,9,False,5473,4475,Enchantment: Warrior,Berserker's Greaves,Dagger,Dagger,Refillable Potion,,3514,45970,Lane.jungle,Role.none
+9,TheZeroHero,Zilean,False,Side.red,1,0,0,1.0,155,Flash,Exhaust,12,False,6432,6260,Doran's Ring,Rod of Ages,Tear of the Goddess,Ionian Boots of Lucidity,Fiendish Codex,Amplifying Tome,79252,5268,Lane.mid_lane,Role.solo

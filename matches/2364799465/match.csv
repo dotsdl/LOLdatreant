@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GowaSan,Jax,True,Side.blue,19,5,4,4.6,218,Ignite,Flash,18,False,16594,13903,Hextech Gunblade,Trinity Force,Frozen Mallet,Chain Vest,Negatron Cloak,Mercury's Treads,49443,133260,Lane.top_lane,Role.solo
+1,ShiJiuJiu,Evelynn,True,Side.blue,4,3,11,5.0,138,Smite,Flash,15,False,11147,10850,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Mercury's Treads,Abyssal Scepter,Kindlegem,,70021,39704,Lane.jungle,Role.none
+2,james7moon,Yasuo,True,Side.blue,3,9,10,1.4444444444444444,79,Flash,Exhaust,13,False,10374,10208,Trinity Force,B. F. Sword,Berserker's Greaves,Targon's Brace,Statikk Shiv,,29956,41114,Lane.bot_lane,Role.support
+3,King in ELO HELL,Ezreal,True,Side.blue,4,5,9,2.6,184,Flash,Heal,15,False,11469,9233,Doran's Blade,Muramana,Ionian Boots of Lucidity,Trinity Force,Refillable Potion,Bilgewater Cutlass,13788,89255,Lane.bot_lane,Role.carry
+4,Berndern,Ekko,True,Side.blue,5,8,7,1.5,140,Flash,Ignite,15,False,11259,10050,Doran's Ring,Hextech Protobelt-01,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,,83835,17984,Lane.mid_lane,Role.solo
+5,nubnub123,Fiora,False,Side.red,8,12,2,0.8333333333333334,183,Flash,Teleport,14,True,11675,11590,Doran's Blade,Titanic Hydra,,Ninja Tabi,Spirit Visage,Death's Dance,700,123419,Lane.top_lane,Role.solo
+6,No Exit,Janna,False,Side.red,1,3,13,4.666666666666667,13,Exhaust,Flash,12,False,8619,8085,Locket of the Iron Solari,Redemption,Boots of Mobility,Eye of the Oasis,Amplifying Tome,Faerie Charm,3233,5907,Lane.bot_lane,Role.support
+7,Devin Li,Sejuani,False,Side.red,6,4,9,3.75,140,Smite,Flash,15,False,11854,11700,Warmog's Armor,Dead Man's Plate,Mercury's Treads,Ninja Tabi,Enchantment: Cinderhulk,Blasting Wand,109131,34460,Lane.jungle,Role.none
+8,John703,Vayne,False,Side.red,6,9,7,1.4444444444444444,151,Heal,Flash,13,False,10881,10100,Brawler's Gloves,Berserker's Greaves,Infinity Edge,Phantom Dancer,Dagger,Quicksilver Sash,0,75696,Lane.bot_lane,Role.carry
+9,Mickie Deez Nuts,Cho'Gath,False,Side.red,9,7,4,1.8571428571428572,210,Flash,Ignite,15,False,11961,11400,Doran's Ring,Rod of Ages,Luden's Echo,Rabadon's Deathcap,Sorcerer's Shoes,,105951,15806,Lane.mid_lane,Role.solo

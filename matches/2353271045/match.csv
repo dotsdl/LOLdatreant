@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Flamboozle,Janna,True,Side.blue,0,2,8,4.0,9,Flash,Exhaust,10,False,5092,4650,Forbidden Idol,Boots of Mobility,Eye of the Watchers,Ruby Crystal,,,3078,6585,Lane.bot_lane,Role.support
+1,Ðad,LeBlanc,True,Side.blue,4,2,7,5.5,172,Ignite,Flash,13,False,8667,7100,The Dark Seal,Seeker's Armguard,Fiendish Codex,Sorcerer's Shoes,Morellonomicon,Doran's Ring,79944,11318,Lane.mid_lane,Role.solo
+2,Riesig,Jarvan IV,True,Side.blue,9,2,6,7.5,180,Flash,Teleport,13,False,10181,9650,Corrupting Potion,Doran's Blade,Ninja Tabi,Dead Man's Plate,Sheen,Titanic Hydra,1547,95625,Lane.top_lane,Role.solo
+3,Abou222,Elise,True,Side.blue,11,2,8,9.5,47,Smite,Flash,11,True,9034,8700,Enchantment: Runic Echoes,Refillable Potion,Control Ward,Haunting Guise,Boots of Mobility,Rylai's Crystal Scepter,43915,15021,Lane.jungle,Role.none
+4,ApoIlo Price,Ashe,True,Side.blue,2,2,7,4.5,167,Flash,Heal,11,False,8241,7950,Doran's Blade,Runaan's Hurricane,Essence Reaver,Berserker's Greaves,Control Ward,,765,71563,Lane.bot_lane,Role.carry
+5,Dyrus,Jayce,False,Side.red,2,6,2,0.6666666666666666,149,Teleport,Flash,11,False,6968,6075,Doran's Blade,Corrupting Potion,,Ionian Boots of Lucidity,Spectre's Cowl,Sunfire Cape,23357,44791,Lane.top_lane,Role.solo
+6,The Tank Man,Karma,False,Side.red,1,6,3,0.6666666666666666,119,Flash,Teleport,11,False,6224,6085,Doran's Ring,Athene's Unholy Grail,Ionian Boots of Lucidity,Amplifying Tome,Blasting Wand,Needlessly Large Rod,41988,8682,Lane.mid_lane,Role.solo
+7,Auldrant,Lee Sin,False,Side.red,6,6,1,1.1666666666666667,86,Flash,Smite,11,False,7116,6625,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Giant's Belt,Cloth Armor,Hexdrinker,10342,59249,Lane.jungle,Role.none
+8,Liquid Matt,Tahm Kench,False,Side.red,0,3,4,1.3333333333333333,21,Exhaust,Flash,9,False,4638,4350,Relic Shield,Mercury's Treads,Ruby Sightstone,Control Ward,Kindlegem,,7713,2419,Lane.bot_lane,Role.support
+9,FZ3R0,Jhin,False,Side.red,1,5,3,0.8,133,Flash,Heal,9,False,6366,6250,Essence Reaver,Brawler's Gloves,Dagger,Dagger,Doran's Blade,Boots of Swiftness,372,43339,Lane.bot_lane,Role.carry

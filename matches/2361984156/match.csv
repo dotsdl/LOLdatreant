@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Smoothie,Leona,True,Side.blue,3,4,17,5.0,22,Flash,Ignite,12,False,9202,7450,Locket of the Iron Solari,Ruby Sightstone,Face of the Mountain,,Boots of Mobility,,6295,6568,Lane.bot_lane,Role.support
+1,Rokí,Riven,True,Side.blue,7,3,8,5.0,187,Flash,Smite,16,False,12836,10675,Enchantment: Warrior,Vampiric Scepter,Giant's Belt,Ionian Boots of Lucidity,Death's Dance,B. F. Sword,1387,174988,Lane.jungle,Role.none
+2,SKY Fear,Ezreal,True,Side.blue,9,4,7,4.0,184,Flash,Heal,14,False,12583,10308,Bilgewater Cutlass,Muramana,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Recurve Bow,17897,94197,Lane.bot_lane,Role.carry
+3,Vsionz,Nasus,True,Side.blue,9,6,11,3.3333333333333335,184,Flash,Teleport,16,False,12861,11783,Corrupting Potion,Zz'Rot Portal,Trinity Force,Ninja Tabi,Spirit Visage,,70043,51988,Lane.top_lane,Role.solo
+4,lost in thoughts,Syndra,True,Side.blue,12,6,5,2.8333333333333335,200,Flash,Ghost,15,True,13311,10975,Mejai's Soulstealer,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Rylai's Crystal Scepter,Doran's Ring,122106,9634,Lane.mid_lane,Role.solo
+5,amoureux de toi,Caitlyn,False,Side.red,2,8,4,0.75,193,Heal,Flash,12,False,9439,9650,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Zeal,,,469,89946,Lane.bot_lane,Role.carry
+6,Leza,Trundle,False,Side.red,4,9,4,0.8888888888888888,157,Flash,Teleport,13,False,9449,8600,Corrupting Potion,Ravenous Hydra,Cull,Ninja Tabi,Iceborn Gauntlet,Long Sword,3441,90000,Lane.top_lane,Role.solo
+7,Rapping Hipster,Sona,False,Side.red,4,6,7,1.8333333333333333,144,Teleport,Flash,14,False,9149,9275,Lich Bane,Morellonomicon,Fiendish Codex,Null-Magic Mantle,Sorcerer's Shoes,,44473,16406,Lane.mid_lane,Role.solo
+8,Pekin Woof,Lee Sin,False,Side.red,6,9,6,1.3333333333333333,82,Flash,Smite,13,False,8902,8800,Mercury's Treads,Refillable Potion,Enchantment: Warrior,Caulfield's Warhammer,Dead Man's Plate,Long Sword,23136,56625,Lane.jungle,Role.none
+9,Command Attack,Brand,False,Side.red,7,8,3,1.25,43,Ignite,Flash,13,False,8911,7650,Liandry's Torment,Eye of the Watchers,Sorcerer's Shoes,Doran's Ring,Ruby Crystal,,35393,5565,Lane.bot_lane,Role.support

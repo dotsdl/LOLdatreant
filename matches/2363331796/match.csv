@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TeamMeiya 70,Ezreal,True,Side.blue,14,5,19,6.6,243,Heal,Flash,16,False,16915,15580,Blade of the Ruined King,Maw of Malmortius,Ionian Boots of Lucidity,B. F. Sword,Muramana,Iceborn Gauntlet,19238,164302,Lane.bot_lane,Role.carry
+1,K for Kimchi,Maokai,True,Side.blue,7,5,17,4.8,202,Teleport,Flash,16,False,13280,11920,Doran's Ring,Dead Man's Plate,Sunfire Cape,Mercury's Treads,Spirit Visage,Negatron Cloak,111676,16586,Lane.top_lane,Role.solo
+2,PsycheGlitch,Taric,True,Side.blue,4,3,31,11.666666666666666,54,Flash,Exhaust,14,False,11873,9800,Sightstone,Locket of the Iron Solari,Face of the Mountain,Glacial Shroud,Boots of Swiftness,Knight's Vow,15275,13054,Lane.bot_lane,Role.support
+3,ChronoGlitch,LeBlanc,True,Side.blue,8,5,14,4.4,177,Flash,Ignite,15,False,13396,12700,Giant's Belt,Morellonomicon,Zhonya's Hourglass,Abyssal Scepter,Sorcerer's Shoes,Needlessly Large Rod,91604,17911,Lane.mid_lane,Role.solo
+4,Taehwan1,Lee Sin,True,Side.blue,10,4,16,6.5,149,Flash,Smite,16,False,13764,12625,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Maw of Malmortius,The Black Cleaver,Guardian Angel,27024,110986,Lane.jungle,Role.none
+5,NWMack,Morgana,False,Side.red,1,7,8,1.2857142857142858,17,Flash,Exhaust,13,False,8161,8075,Eye of the Watchers,Redemption,,Zhonya's Hourglass,,Boots of Speed,28478,4508,Lane.bot_lane,Role.support
+6,Outline,Vi,False,Side.red,6,8,5,1.375,160,Flash,Smite,14,False,10939,10700,Randuin's Omen,Enchantment: Warrior,Mercury's Treads,Phage,Banshee's Veil,,1944,126715,Lane.jungle,Role.none
+7,Provocative,Fizz,False,Side.red,7,11,2,0.8181818181818182,162,Flash,Teleport,14,True,11211,9935,Corrupting Potion,Zhonya's Hourglass,Needlessly Large Rod,The Dark Seal,Lich Bane,Sorcerer's Shoes,79002,24033,Lane.top_lane,Role.solo
+8,chakhae,Vayne,False,Side.red,1,9,8,1.0,238,Flash,Heal,15,False,11518,10450,Doran's Blade,Berserker's Greaves,Infinity Edge,Vampiric Scepter,Statikk Shiv,Zeal,51848,100732,Lane.bot_lane,Role.carry
+9,Xenoncas,Orianna,False,Side.red,7,8,10,2.125,237,Ignite,Flash,16,False,12789,13450,Doran's Ring,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,Rylai's Crystal Scepter,Void Staff,149364,13156,Lane.mid_lane,Role.solo

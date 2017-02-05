@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ApoIlo Price,Sivir,False,Side.blue,2,7,3,0.7142857142857143,134,Flash,Heal,10,False,6821,6425,Doran's Blade,Infinity Edge,Berserker's Greaves,Dagger,Brawler's Gloves,Dagger,1252,64898,Lane.bot_lane,Role.carry
+1,Valkrin,Zac,False,Side.blue,1,2,3,2.0,78,Smite,Flash,10,False,6039,5350,Control Ward,Refillable Potion,Spectre's Cowl,Enchantment: Cinderhulk,Ruby Crystal,Ionian Boots of Lucidity,45700,10959,Lane.jungle,Role.none
+2,Liquid Matt,Nami,False,Side.blue,2,5,3,1.0,12,Exhaust,Flash,9,False,5411,4800,Ruby Crystal,Boots of Mobility,Eye of the Watchers,Control Ward,Forbidden Idol,,5728,4163,Lane.bot_lane,Role.support
+3,Rohammers,Ekko,False,Side.blue,3,5,1,0.8,130,Teleport,Flash,11,False,7177,6625,Hextech Protobelt-01,Corrupting Potion,Seeker's Armguard,The Dark Seal,Mercury's Treads,Fiendish Codex,57996,11292,Lane.top_lane,Role.solo
+4,SSBM Hax,Twisted Fate,False,Side.blue,1,8,2,0.375,106,Flash,Ghost,10,False,6194,5750,Doran's Ring,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Null-Magic Mantle,Aether Wisp,41431,6607,Lane.mid_lane,Role.solo
+5,Erry,Jhin,True,Side.red,6,2,6,6.0,116,Heal,Flash,10,False,8588,7750,Youmuu's Ghostblade,Edge of Night,Total Biscuit of Rejuvenation,Doran's Blade,Boots of Swiftness,,1810,59242,Lane.bot_lane,Role.carry
+6,Shiphtur,LeBlanc,True,Side.red,11,0,4,15.0,174,Teleport,Flash,14,True,11755,11325,Rabadon's Deathcap,Abyssal Scepter,Sorcerer's Shoes,,Doran's Ring,Morellonomicon,91287,13549,Lane.mid_lane,Role.solo
+7,Årcee,Blitzcrank,True,Side.red,1,2,11,6.0,31,Ignite,Flash,10,False,6230,5675,Eye of the Equinox,Locket of the Iron Solari,Boots of Swiftness,Total Biscuit of Rejuvenation,Control Ward,,7941,6149,Lane.bot_lane,Role.support
+8,tardzaned,Rek'Sai,True,Side.red,5,2,8,6.5,179,Smite,Flash,14,False,9988,9175,Refillable Potion,Titanic Hydra,Enchantment: Cinderhulk,Mercury's Treads,Giant's Belt,Chain Vest,27869,108938,Lane.jungle,Role.none
+9,Révenge,Riven,True,Side.red,4,3,4,2.6666666666666665,149,Teleport,Flash,12,False,8559,7825,The Black Cleaver,Refillable Potion,Maw of Malmortius,Mercury's Treads,,,0,78216,Lane.top_lane,Role.solo

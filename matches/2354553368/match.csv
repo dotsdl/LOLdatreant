@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BmxSpecks,Riven,True,Side.blue,20,3,10,10.0,214,Flash,Smite,18,True,18781,18600,Enchantment: Warrior,The Black Cleaver,Ravenous Hydra,Infinity Edge,Ionian Boots of Lucidity,Mortal Reminder,5909,220997,Lane.jungle,Role.none
+1,Natalia Dyer,Fiora,True,Side.blue,11,8,8,2.375,191,Flash,Teleport,16,False,14426,13950,Ravenous Hydra,Frozen Mallet,Boots of Swiftness,The Black Cleaver,Doran's Blade,Lord Dominik's Regards,1241,134497,Lane.top_lane,Role.solo
+2,Témpest,Zed,True,Side.blue,11,6,16,4.5,174,Flash,Ignite,16,False,14561,13175,Blade of the Ruined King,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,Serrated Dirk,Pickaxe,9106,106446,Lane.mid_lane,Role.solo
+3,Drowning,Thresh,True,Side.blue,3,10,19,2.2,22,Flash,Ignite,14,False,10255,9325,Mikael's Crucible,Frozen Heart,Ruby Crystal,Eye of the Equinox,Sapphire Crystal,Boots of Mobility,13043,7652,Lane.bot_lane,Role.support
+4,Imaqtpie,Vayne,True,Side.blue,7,5,8,3.0,259,Flash,Heal,17,False,15735,15350,,Berserker's Greaves,Statikk Shiv,Phantom Dancer,Infinity Edge,The Bloodthirster,42472,134819,Lane.bot_lane,Role.carry
+5,C9 Lemon,Lulu,False,Side.red,4,12,18,1.8333333333333333,19,Exhaust,Flash,15,False,10870,10400,Boots of Mobility,Mikael's Crucible,Redemption,Eye of the Watchers,The Dark Seal,Zeke's Harbinger,30984,5431,Lane.bot_lane,Role.support
+6,Rokí,Ezreal,False,Side.red,11,9,10,2.3333333333333335,187,Flash,Heal,15,False,13269,12725,B. F. Sword,Blade of the Ruined King,Iceborn Gauntlet,Ionian Boots of Lucidity,Muramana,Long Sword,18287,111417,Lane.bot_lane,Role.carry
+7,amumumu,Dr. Mundo,False,Side.red,8,10,6,1.4,224,Flash,Teleport,16,False,12872,12100,Warden's Mail,Frozen Mallet,Ninja Tabi,Sunfire Cape,Thornmail,Giant's Belt,113651,33816,Lane.top_lane,Role.solo
+8,Nhock,Evelynn,False,Side.red,4,10,10,1.4,107,Smite,Flash,14,False,10352,10150,Hextech Protobelt-01,Control Ward,Ninja Tabi,Dead Man's Plate,Chain Vest,Enchantment: Runic Echoes,65088,27865,Lane.jungle,Role.none
+9,Yusui,Yasuo,False,Side.red,5,11,4,0.8181818181818182,217,Exhaust,Flash,15,False,11693,11225,Doran's Blade,Statikk Shiv,Ninja Tabi,Infinity Edge,Dead Man's Plate,Dagger,62442,85289,Lane.mid_lane,Role.solo

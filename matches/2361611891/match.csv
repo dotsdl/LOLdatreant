@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LarryTacos,Karma,True,Side.blue,2,3,14,5.333333333333333,18,Exhaust,Flash,13,False,9509,7650,Eye of the Watchers,Redemption,Forbidden Idol,Ruby Crystal,Ionian Boots of Lucidity,Aether Wisp,16935,4417,Lane.bot_lane,Role.support
+1,Maulface,Ahri,True,Side.blue,10,4,9,4.75,232,Ignite,Flash,16,False,14009,11520,Doran's Ring,Abyssal Scepter,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Morellonomicon,96506,21671,Lane.mid_lane,Role.solo
+2,Aurath,Twitch,True,Side.blue,10,2,5,7.5,119,Smite,Flash,15,False,12380,11750,Edge of Night,Blade of the Ruined King,Enchantment: Bloodrazor,Ninja Tabi,Zeal,,6821,119243,Lane.jungle,Role.none
+3,Kythez,Lulu,True,Side.blue,1,3,9,3.3333333333333335,172,Teleport,Flash,14,False,10128,9310,Doran's Ring,Rabadon's Deathcap,Control Ward,Ionian Boots of Lucidity,Morellonomicon,Amplifying Tome,69900,16363,Lane.top_lane,Role.solo
+4,Yoo Yeon Seok,Vayne,True,Side.blue,7,3,6,4.333333333333333,248,Heal,Flash,15,False,12946,10850,Doran's Blade,Infinity Edge,Statikk Shiv,Phantom Dancer,Berserker's Greaves,Long Sword,31037,118547,Lane.bot_lane,Role.carry
+5,香草丶薄荷糖,Vi,False,Side.red,0,6,7,1.1666666666666667,133,Smite,Flash,13,False,8665,8408,Control Ward,Giant's Belt,Spectre's Cowl,Skirmisher's Sabre,Ninja Tabi,Trinity Force,1249,105757,Lane.jungle,Role.none
+6,Geeega,Poppy,False,Side.red,3,2,4,3.5,234,Teleport,Flash,16,False,10566,9675,Corrupting Potion,Thornmail,,Sunfire Cape,Boots of Swiftness,Spirit Visage,35690,85212,Lane.top_lane,Role.solo
+7,A Cold One,Blitzcrank,False,Side.red,2,6,6,1.3333333333333333,35,Exhaust,Flash,12,True,7407,7200,Boots of Swiftness,Redemption,Eye of the Equinox,Ruby Crystal,Cloth Armor,Crystalline Bracer,8417,6577,Lane.bot_lane,Role.support
+8,Hi Im Wolfwood,Annie,False,Side.red,7,10,5,1.2,180,Flash,Ignite,15,False,10897,9275,Ionian Boots of Lucidity,Hextech Protobelt-01,Rylai's Crystal Scepter,Needlessly Large Rod,Doran's Ring,Doran's Ring,90884,9911,Lane.mid_lane,Role.solo
+9,The Clark,Jhin,False,Side.red,3,6,2,0.8333333333333334,217,Flash,Heal,14,False,10354,9550,Doran's Blade,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Cloak of Agility,Pickaxe,14038,119034,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vladfire1 BG ,Olaf,False,Side.blue,0,3,2,0.6666666666666666,64,Smite,Ghost,9,False,5227,7700,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Sapphire Crystal,Faerie Charm,5605,51391,Lane.jungle,Role.none
+1,LL Stylish,Katarina,False,Side.blue,2,8,0,0.25,88,Ignite,Flash,10,False,5244,5010,Sorcerer's Shoes,Refillable Potion,Abyssal Scepter,The Dark Seal,Amplifying Tome,,33689,8129,Lane.top_lane,Role.solo
+2,Erry,Vayne,False,Side.blue,2,5,1,0.6,126,Heal,Flash,9,False,6097,5750,B. F. Sword,Doran's Blade,Pickaxe,Berserker's Greaves,Zeal,Cull,0,31038,Lane.bot_lane,Role.carry
+3,Teesum,Karma,False,Side.blue,1,2,3,2.0,14,Exhaust,Flash,8,False,4657,4050,Spellthief's Edge,Sightstone,Crystalline Bracer,Ionian Boots of Lucidity,Forbidden Idol,Control Ward,9862,3040,Lane.bot_lane,Role.support
+4,Rhux,Orianna,False,Side.blue,3,7,1,0.5714285714285714,136,Flash,Cleanse,12,False,6448,5425,Morellonomicon,Doran's Ring,Blasting Wand,Sorcerer's Shoes,,,52449,9566,Lane.mid_lane,Role.solo
+5,CloudNguyén,Rumble,True,Side.red,3,2,4,3.5,145,Teleport,Flash,12,False,8400,6875,Doran's Shield,Refillable Potion,Liandry's Torment,Hextech Revolver,Sorcerer's Shoes,Kindlegem,65781,12333,Lane.top_lane,Role.solo
+6,Abou222,Kha'Zix,True,Side.red,10,0,1,11.0,84,Smite,Flash,13,False,9635,7575,Tiamat,Caulfield's Warhammer,Control Ward,Boots of Swiftness,Enchantment: Warrior,Phage,4032,95142,Lane.jungle,Role.none
+7,Washing Dishes,Vi,True,Side.red,4,3,5,3.0,73,Ignite,Flash,10,True,7324,7440,Ruby Sightstone,Phage,Sheen,Ionian Boots of Lucidity,Targon's Brace,Stinger,0,36279,Lane.bot_lane,Role.duo
+8,I Want My Cigar,Graves,True,Side.red,2,2,6,4.0,103,Flash,Exhaust,10,False,7248,6400,Doran's Blade,Vampiric Scepter,Essence Reaver,Cloak of Agility,Boots of Speed,Dagger,185,50044,Lane.bot_lane,Role.duo
+9,Biscuit Crusader,Twisted Fate,True,Side.red,6,1,5,11.0,139,Flash,Ghost,12,False,9314,7875,Lich Bane,Rod of Ages,Ionian Boots of Lucidity,Doran's Ring,Doran's Ring,,74281,12452,Lane.mid_lane,Role.solo

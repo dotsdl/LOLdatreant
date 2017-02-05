@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nuxe,Anivia,False,Side.blue,3,5,2,1.0,205,Flash,Teleport,15,False,10158,9725,Seraph's Embrace,Sorcerer's Shoes,Seeker's Armguard,Rod of Ages,Doran's Ring,Fiendish Codex,127840,11061,Lane.mid_lane,Role.solo
+1,The Tank Man,Morgana,False,Side.blue,4,6,8,2.0,16,Flash,Exhaust,11,True,9549,8625,Eye of the Watchers,Redemption,Locket of the Iron Solari,Boots of Mobility,Glacial Shroud,,18506,4988,Lane.bot_lane,Role.support
+2,Sebi,Fiora,False,Side.blue,1,10,6,0.7,160,Flash,Teleport,14,False,9587,8825,Ravenous Hydra,Randuin's Omen,Long Sword,Ninja Tabi,Corrupting Potion,Ruby Crystal,1461,73376,Lane.top_lane,Role.solo
+3,Pekin Woof,Caitlyn,False,Side.blue,2,6,5,1.1666666666666667,195,Flash,Heal,13,False,10472,8950,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,,469,125329,Lane.bot_lane,Role.carry
+4,TeddyRO,Shyvana,False,Side.blue,7,4,0,1.75,181,Flash,Smite,15,False,12080,11775,Titanic Hydra,Randuin's Omen,Refillable Potion,Enchantment: Bloodrazor,Ninja Tabi,Bilgewater Cutlass,70498,115000,Lane.jungle,Role.none
+5,Henrÿ,Vayne,True,Side.red,8,8,9,2.125,206,Flash,Heal,15,False,13381,12050,Cull,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,The Bloodthirster,16334,124070,Lane.bot_lane,Role.carry
+6,MaNDashwell,Gangplank,True,Side.red,8,1,8,16.0,242,Flash,Teleport,17,False,15103,13408,Infinity Edge,,Zeal,Boots of Swiftness,Trinity Force,Phantom Dancer,17160,222285,Lane.top_lane,Role.solo
+7,C9 Lemon,Lulu,True,Side.red,3,5,17,4.0,34,Exhaust,Flash,14,False,10453,8985,Boots of Mobility,Locket of the Iron Solari,Redemption,Eye of the Watchers,Forbidden Idol,Amplifying Tome,21115,5828,Lane.bot_lane,Role.support
+8,Ntz dOdObee,Karma,True,Side.red,5,2,7,6.0,207,Ghost,Flash,16,False,11939,11000,Doran's Ring,Rabadon's Deathcap,Ardent Censer,Sorcerer's Shoes,Blasting Wand,Athene's Unholy Grail,103973,20288,Lane.mid_lane,Role.solo
+9,Daarr,Rek'Sai,True,Side.red,7,1,5,12.0,196,Flash,Smite,16,False,12986,10725,Enchantment: Cinderhulk,Spirit Visage,Titanic Hydra,Refillable Potion,Ninja Tabi,Ruby Crystal,35480,152891,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Joelisboss,Karma,True,Side.blue,1,3,13,4.666666666666667,6,Exhaust,Flash,12,False,7419,5325,Locket of the Iron Solari,Sightstone,Spellthief's Edge,Boots of Mobility,Total Biscuit of Rejuvenation,Crystalline Bracer,8236,7172,Lane.bot_lane,Role.support
+1,Henchey,Jhin,True,Side.blue,7,1,6,13.0,186,Heal,Flash,13,False,11289,9000,Doran's Blade,Essence Reaver,Boots of Swiftness,Rapid Firecannon,B. F. Sword,,6179,118543,Lane.bot_lane,Role.carry
+2,Dank Cub,Nasus,True,Side.blue,2,5,3,1.0,137,Flash,Teleport,12,False,8514,7175,Banner of Command,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,47553,18281,Lane.top_lane,Role.solo
+3,ZTG SolidSnake,Elise,True,Side.blue,5,4,4,2.25,103,Flash,Smite,13,True,9533,9575,Enchantment: Runic Echoes,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,,,65480,29167,Lane.jungle,Role.none
+4,Cotopaco Parce,Ryze,True,Side.blue,7,3,3,3.3333333333333335,198,Ghost,Flash,15,False,10986,10700,Archangel's Staff,Rod of Ages,Refillable Potion,Morellonomicon,Boots of Speed,Needlessly Large Rod,151019,12150,Lane.mid_lane,Role.solo
+5,Leshaunda,Teemo,False,Side.red,6,4,2,2.0,195,Teleport,Flash,14,False,10015,9120,Blade of the Ruined King,Mercury's Treads,Doran's Blade,Frozen Mallet,Negatron Cloak,Cloth Armor,38791,72140,Lane.top_lane,Role.solo
+6,CC ArJay,Vi,False,Side.red,5,5,4,1.8,111,Flash,Smite,13,False,8706,8308,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,Cloth Armor,Ruby Crystal,864,96855,Lane.jungle,Role.none
+7,Delerium,Lux,False,Side.red,1,3,5,2.0,108,Cleanse,Flash,11,False,7372,7150,Needlessly Large Rod,Aether Wisp,,Morellonomicon,Sorcerer's Shoes,Doran's Ring,53678,10510,Lane.mid_lane,Role.solo
+8,zz cicero,Caitlyn,False,Side.red,2,5,1,0.6,135,Heal,Flash,11,False,7969,7400,Doran's Blade,Infinity Edge,Zeal,Cull,Berserker's Greaves,Dagger,464,68316,Lane.bot_lane,Role.carry
+9,O My Money,Thresh,False,Side.red,2,5,9,2.2,25,Exhaust,Flash,10,False,6544,5800,Sightstone,,Face of the Mountain,Boots of Mobility,Aegis of the Legion,Null-Magic Mantle,6443,4430,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,zinxao,Pantheon,False,Side.blue,3,12,4,0.5833333333333334,60,Ignite,Flash,10,False,5868,5825,Corrupting Potion,Serrated Dirk,Edge of Night,,Boots of Mobility,,7223,32098,Lane.top_lane,Role.solo
+1,Nori,Janna,False,Side.blue,1,3,7,2.6666666666666665,8,Exhaust,Flash,10,False,5347,4725,Refillable Potion,Ruby Crystal,Talisman of Ascension,Sightstone,Boots of Mobility,,2857,3463,Lane.bot_lane,Role.support
+2,Źyra,Zyra,False,Side.blue,0,5,7,1.4,120,Flash,Teleport,11,False,5902,5635,Refillable Potion,Morellonomicon,Doran's Ring,Doran's Ring,Sorcerer's Shoes,Amplifying Tome,47125,11821,Lane.bot_lane,Role.carry
+3,My Toe,Graves,False,Side.blue,6,5,0,1.2,123,Flash,Smite,12,False,7915,7875,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Hexdrinker,,1910,80725,Lane.jungle,Role.none
+4,Tsui Wah ,Veigar,False,Side.blue,2,6,1,0.5,143,Flash,Teleport,12,False,6674,5645,Corrupting Potion,Hextech Protobelt-01,Sorcerer's Shoes,Negatron Cloak,Doran's Ring,The Dark Seal,65667,9631,Lane.mid_lane,Role.solo
+5,Thecrimsonrage,Thresh,True,Side.red,0,4,8,2.0,26,Flash,Exhaust,10,False,5423,4325,Sightstone,Knight's Vow,Relic Shield,Boots of Speed,,,5085,3619,Lane.bot_lane,Role.support
+6,TheNinthAmbition,Anivia,True,Side.red,9,2,4,6.5,119,Teleport,Flash,12,False,9566,8025,Doran's Ring,Rod of Ages,Archangel's Staff,Ionian Boots of Lucidity,,,61126,5974,Lane.top_lane,Role.solo
+7,Darvec,Hecarim,True,Side.red,13,1,4,17.0,115,Smite,Ghost,14,False,11322,10733,Quicksilver Sash,Vampiric Scepter,Trinity Force,Ionian Boots of Lucidity,Pickaxe,Enchantment: Cinderhulk,12887,97792,Lane.jungle,Role.none
+8,N810HO,Viktor,True,Side.red,5,3,6,3.6666666666666665,152,Flash,Ghost,12,True,9666,9385,Sheen,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,Perfect Hex Core,Amplifying Tome,89285,12226,Lane.mid_lane,Role.solo
+9,MST3kMantra,Jhin,True,Side.red,4,2,7,5.5,151,Flash,Heal,11,False,8565,7800,Doran's Blade,Total Biscuit of Rejuvenation,Essence Reaver,Boots of Swiftness,Rapid Firecannon,,3716,66977,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SoV NSFW,Gangplank,False,Side.blue,5,7,5,1.4285714285714286,185,Flash,Exhaust,14,False,11824,11208,Infinity Edge,Trinity Force,Corrupting Potion,Boots of Swiftness,Zeal,Kircheis Shard,12858,133682,Lane.mid_lane,Role.solo
+1,tommy1,Nautilus,False,Side.blue,2,5,7,1.8,164,Teleport,Flash,14,False,10250,10250,Randuin's Omen,Ninja Tabi,,Zz'Rot Portal,Sunfire Cape,,74121,16888,Lane.top_lane,Role.solo
+2,CptRageMoar,Graves,False,Side.blue,6,7,7,1.8571428571428572,160,Flash,Smite,14,False,11673,10650,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Maw of Malmortius,The Black Cleaver,,4288,142281,Lane.jungle,Role.none
+3,Tsùki,Ezreal,False,Side.blue,6,5,7,2.6,208,Flash,Heal,14,False,12166,11450,Doran's Blade,Berserker's Greaves,Muramana,Iceborn Gauntlet,Maw of Malmortius,Bilgewater Cutlass,26748,108064,Lane.bot_lane,Role.carry
+4,KarasMai,Karma,False,Side.blue,2,4,11,3.25,20,Flash,Exhaust,13,False,9100,8200,Eye of the Watchers,Redemption,Locket of the Iron Solari,,Ionian Boots of Lucidity,Ruby Crystal,26249,5766,Lane.bot_lane,Role.support
+5,C9 Waygzh,Nunu,True,Side.red,4,2,10,7.0,155,Flash,Smite,16,False,12857,10550,Mercury's Treads,Cloth Armor,Enchantment: Cinderhulk,Spirit Visage,Frozen Heart,Chain Vest,49804,45393,Lane.jungle,Role.none
+6,Uzumaki,Riven,True,Side.red,6,5,8,2.8,324,Teleport,Flash,18,True,15635,13075,Tiamat,Edge of Night,Death's Dance,Mercury's Treads,,The Black Cleaver,7888,240830,Lane.top_lane,Role.solo
+7,TheDankWithinUs,Vayne,True,Side.red,9,7,1,1.4285714285714286,190,Flash,Heal,14,False,13043,13100,The Bloodthirster,Kircheis Shard,Berserker's Greaves,Infinity Edge,Statikk Shiv,Dagger,10282,90917,Lane.bot_lane,Role.carry
+8,AllAero,Thresh,True,Side.red,1,5,8,1.8,43,Flash,Exhaust,13,False,8509,7100,Redemption,Face of the Mountain,Sightstone,Boots of Mobility,Crystalline Bracer,,19259,9285,Lane.bot_lane,Role.support
+9,Pros,LeBlanc,True,Side.red,8,2,4,6.0,194,Flash,Ignite,15,False,12843,11550,,The Dark Seal,Rabadon's Deathcap,Void Staff,Morellonomicon,Sorcerer's Shoes,105443,14379,Lane.mid_lane,Role.solo

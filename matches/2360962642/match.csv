@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jurassiq,Lee Sin,False,Side.blue,3,7,4,1.0,72,Flash,Smite,10,False,6646,5650,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Ruby Crystal,Hexdrinker,,8486,50076,Lane.jungle,Role.none
+1,Captain Kyru,Jhin,False,Side.blue,2,9,4,0.6666666666666666,86,Flash,Heal,10,False,6524,7025,Youmuu's Ghostblade,Zeal,Boots of Swiftness,Doran's Blade,,Kircheis Shard,2810,34316,Lane.bot_lane,Role.carry
+2,Rohammers,Ekko,False,Side.blue,3,5,0,0.6,135,Teleport,Flash,12,False,7193,6400,Hextech Protobelt-01,Corrupting Potion,The Dark Seal,Abyssal Scepter,,Boots of Speed,66722,9841,Lane.top_lane,Role.solo
+3,Pekin Woof,Cassiopeia,False,Side.blue,2,3,2,1.3333333333333333,165,Flash,Ghost,12,False,7469,6920,Tear of the Goddess,Giant's Belt,Negatron Cloak,Doran's Ring,Fiendish Codex,Morellonomicon,62356,7272,Lane.mid_lane,Role.solo
+4,C9 Lemon,Zyra,False,Side.blue,2,7,5,1.0,20,Ignite,Flash,10,False,6019,4860,Amplifying Tome,The Dark Seal,Sorcerer's Shoes,Eye of the Watchers,Control Ward,Ruby Crystal,13278,4457,Lane.bot_lane,Role.support
+5,Yami,Graves,True,Side.red,6,2,1,3.5,103,Flash,Smite,12,False,8771,7400,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,,2615,100341,Lane.jungle,Role.none
+6,Hi Im A Sheep,Blitzcrank,True,Side.red,2,2,15,8.5,27,Flash,Exhaust,11,False,6997,6650,Ruby Sightstone,Control Ward,Locket of the Iron Solari,Kindlegem,Relic Shield,Boots of Mobility,7651,9758,Lane.bot_lane,Role.support
+7,Winter is back,Syndra,True,Side.red,4,4,7,2.75,129,Flash,Ghost,12,True,8507,6295,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Negatron Cloak,Ruby Crystal,Total Biscuit of Rejuvenation,56588,9283,Lane.mid_lane,Role.solo
+8,Stiches,Vayne,True,Side.red,12,1,4,16.0,203,Heal,Flash,14,False,11850,12025,Statikk Shiv,Phantom Dancer,Infinity Edge,Berserker's Greaves,Pickaxe,Doran's Blade,29712,74552,Lane.bot_lane,Role.carry
+9,Link,Rumble,True,Side.red,7,3,7,4.666666666666667,166,Flash,Teleport,13,False,9734,9350,Refillable Potion,Liandry's Torment,Rylai's Crystal Scepter,Doran's Shield,Mercury's Treads,Seeker's Armguard,77098,10878,Lane.top_lane,Role.solo

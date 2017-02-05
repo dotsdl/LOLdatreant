@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wiggily,Lee Sin,True,Side.blue,4,4,9,3.25,106,Flash,Smite,12,True,8931,7025,Tiamat,Refillable Potion,Enchantment: Warrior,Mercury's Treads,Giant's Belt,Chain Vest,14455,91361,Lane.jungle,Role.none
+1,Révenge,Yasuo,True,Side.blue,8,4,2,2.5,169,Teleport,Flash,14,False,10369,9383,Doran's Blade,Doran's Blade,Phantom Dancer,Mercury's Treads,Trinity Force,Cloak of Agility,26945,78779,Lane.top_lane,Role.solo
+2,goldenglue,Caitlyn,True,Side.blue,9,0,10,19.0,180,Heal,Flash,13,False,12145,10550,Control Ward,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Rapid Firecannon,Infinity Edge,1044,109338,Lane.bot_lane,Role.carry
+3,jacksparrow111,Karma,True,Side.blue,3,1,17,20.0,6,Flash,Exhaust,10,False,7588,6950,Forbidden Idol,Redemption,,Eye of the Watchers,Ionian Boots of Lucidity,,11611,4387,Lane.bot_lane,Role.support
+4,Pobelter,Kog'Maw,True,Side.blue,5,6,9,2.3333333333333335,137,Flash,Ghost,12,False,9140,8830,Rylai's Crystal Scepter,,Ionian Boots of Lucidity,Doran's Ring,Tear of the Goddess,Luden's Echo,63690,13184,Lane.mid_lane,Role.solo
+5,NiMura,Aurelion Sol,False,Side.red,5,5,5,2.0,129,Flash,Ghost,12,False,7602,6585,The Dark Seal,Hextech GLP-800,Corrupting Potion,Boots of Swiftness,Amplifying Tome,Needlessly Large Rod,64335,7897,Lane.mid_lane,Role.solo
+6,OddieLAN,Thresh,False,Side.red,0,7,5,0.7142857142857143,20,Flash,Ignite,9,False,4281,3450,Sightstone,Ionian Boots of Lucidity,Relic Shield,Ruby Crystal,Null-Magic Mantle,Control Ward,7179,2753,Lane.bot_lane,Role.support
+7,Zaganox,Jinx,False,Side.red,2,6,4,1.0,127,Heal,Flash,10,False,6675,5700,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,,B. F. Sword,,213,52617,Lane.bot_lane,Role.carry
+8,OmarGod,Vi,False,Side.red,4,4,6,2.5,86,Flash,Smite,12,False,7344,6200,Enchantment: Warrior,Boots of Swiftness,Control Ward,Phage,Sheen,Refillable Potion,1212,76724,Lane.jungle,Role.none
+9,Tuesdayy,Ryze,False,Side.red,4,7,4,1.1428571428571428,125,Teleport,Flash,12,False,7224,6825,Tear of the Goddess,Refillable Potion,Rod of Ages,Ionian Boots of Lucidity,Giant's Belt,Needlessly Large Rod,56002,6794,Lane.top_lane,Role.solo

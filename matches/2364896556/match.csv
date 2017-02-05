@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cawa,Syndra,False,Side.blue,7,12,11,1.5,154,Flash,Exhaust,16,False,11885,11470,Seeker's Armguard,,Morellonomicon,Needlessly Large Rod,Rylai's Crystal Scepter,Sorcerer's Shoes,113176,8744,Lane.mid_lane,Role.none
+1,Last Arsonist,Jinx,False,Side.blue,6,12,7,1.0833333333333333,161,Heal,Flash,16,False,11254,11350,Blade of the Ruined King,Berserker's Greaves,Infinity Edge,Last Whisper,,Null-Magic Mantle,1771,104109,Lane.mid_lane,Role.none
+2,C9 Meteos,Poppy,False,Side.blue,15,8,8,2.875,177,Smite,Flash,18,True,15858,15125,Randuin's Omen,Ninja Tabi,Enchantment: Cinderhulk,Spirit Visage,Iceborn Gauntlet,Thornmail,55775,134085,Lane.mid_lane,Role.none
+3,TheOneNoblesse,Nautilus,True,Side.red,3,6,14,2.8333333333333335,116,Smite,Flash,17,False,11644,10725,Enchantment: Cinderhulk,Randuin's Omen,Ninja Tabi,Frozen Mallet,Giant's Belt,,76067,37822,Lane.bot_lane,Role.solo
+4,Slanimal,Graves,True,Side.red,13,11,3,1.4545454545454546,237,Exhaust,Flash,18,False,15683,15100,Vampiric Scepter,Youmuu's Ghostblade,Phantom Dancer,Berserker's Greaves,Lord Dominik's Regards,Infinity Edge,2093,209769,Lane.mid_lane,Role.solo
+5,420smurfaccount,Vladimir,True,Side.red,16,11,9,2.272727272727273,224,Ghost,Ignite,18,False,16193,14200,Sorcerer's Shoes,Wooglet's Witchcap,Liandry's Torment,Spirit Visage,Rylai's Crystal Scepter,,168593,11080,Lane.jungle,Role.none

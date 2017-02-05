@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Årcee,Sivir,False,Side.blue,0,4,3,0.75,113,Heal,Flash,9,False,5342,4450,Doran's Blade,Cull,B. F. Sword,Total Biscuit of Rejuvenation,Pickaxe,Berserker's Greaves,392,41062,Lane.bot_lane,Role.duo
+1,Arcminute,Leona,False,Side.blue,1,2,3,2.0,37,Exhaust,Flash,9,False,4374,4000,Mercury's Treads,Ruby Crystal,,Eye of the Equinox,,,5360,5046,Lane.bot_lane,Role.duo
+2,25th Bam,Vladimir,False,Side.blue,0,5,3,0.6,110,Flash,Ghost,10,False,5245,4745,Doran's Shield,Refillable Potion,Abyssal Scepter,Boots of Speed,Amplifying Tome,Amplifying Tome,30911,10412,Lane.mid_lane,Role.solo
+3,Révenge,Ryze,False,Side.blue,2,9,1,0.3333333333333333,111,Teleport,Flash,10,False,5638,5135,Tear of the Goddess,Refillable Potion,Rod of Ages,Amplifying Tome,Sorcerer's Shoes,,38942,5179,Lane.top_lane,Role.solo
+4,Makavéli,Lee Sin,False,Side.blue,3,7,0,0.42857142857142855,61,Smite,Flash,10,True,5475,5100,Enchantment: Warrior,Refillable Potion,Sightstone,Boots of Swiftness,Ruby Crystal,Control Ward,6840,44058,Lane.jungle,Role.none
+5,fallenbandit,Ashe,True,Side.red,3,0,9,12.0,145,Flash,Heal,11,False,9880,7175,Refillable Potion,Berserker's Greaves,Cull,Doran's Blade,Infinity Edge,Zeal,749,75799,Lane.bot_lane,Role.carry
+6,Xpecial,Thresh,True,Side.red,2,1,15,17.0,24,Ignite,Flash,10,False,6753,4475,Relic Shield,Refillable Potion,Boots of Mobility,,Aegis of the Legion,Ruby Sightstone,8052,6696,Lane.bot_lane,Role.support
+7,pilling91,Cassiopeia,True,Side.red,6,4,4,2.5,147,Ghost,Flash,12,False,8789,7925,Doran's Ring,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,The Dark Seal,,62839,11970,Lane.mid_lane,Role.solo
+8,CloudNguyén,Vi,True,Side.red,11,1,6,17.0,116,Smite,Flash,12,False,10359,7683,Enchantment: Warrior,Refillable Potion,,Trinity Force,Mercury's Treads,,3750,117510,Lane.jungle,Role.none
+9,Allorim,Poppy,True,Side.red,4,0,8,12.0,97,Flash,Teleport,11,False,7824,5700,Spectre's Cowl,Boots of Speed,Sunfire Cape,Corrupting Potion,Kindlegem,,5900,41418,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LimitedExtent,Ezreal,True,Side.blue,4,2,7,5.5,157,Heal,Flash,11,False,9197,7850,Doran's Blade,Muramana,Ionian Boots of Lucidity,Long Sword,Iceborn Gauntlet,Long Sword,12813,61157,Lane.bot_lane,Role.carry
+1,An Obese Panda,Gragas,True,Side.blue,6,1,8,14.0,75,Smite,Flash,12,True,8237,7100,,Randuin's Omen,Ionian Boots of Lucidity,Enchantment: Runic Echoes,Cloth Armor,,50360,16198,Lane.jungle,Role.none
+2,Pekin Woof,LeBlanc,True,Side.blue,5,3,2,2.3333333333333335,145,Flash,Teleport,13,False,8592,6900,Doran's Ring,Sorcerer's Shoes,Control Ward,Morellonomicon,Needlessly Large Rod,Blasting Wand,73053,10871,Lane.mid_lane,Role.solo
+3,Ablazeolive,Fiora,True,Side.blue,7,1,1,8.0,174,Flash,Teleport,14,False,10208,9075,Ninja Tabi,Doran's Blade,The Black Cleaver,Corrupting Potion,Long Sword,Ravenous Hydra,1236,79713,Lane.top_lane,Role.solo
+4,BigNick is back,Janna,True,Side.blue,2,1,10,12.0,5,Exhaust,Flash,10,False,6227,4900,Eye of the Watchers,Redemption,,Boots of Speed,,,2829,5073,Lane.bot_lane,Role.support
+5,xTc4,Sona,False,Side.red,1,5,2,0.6,20,Flash,Exhaust,9,False,5387,4700,Frostfang,Refillable Potion,Sightstone,Hextech Revolver,Tear of the Goddess,Sorcerer's Shoes,11015,3294,Lane.bot_lane,Role.support
+6,TwTv Kinoscorpia,Lucian,False,Side.red,1,6,2,0.5,126,Heal,Flash,10,False,6440,5750,Doran's Blade,Essence Reaver,Cull,Berserker's Greaves,,,1589,48087,Lane.bot_lane,Role.carry
+7,Pants are Dragon,Diana,False,Side.red,4,4,1,1.25,107,Ghost,Flash,12,False,6659,5485,Doran's Ring,Refillable Potion,Abyssal Scepter,Amplifying Tome,Doran's Ring,Sorcerer's Shoes,48659,8476,Lane.mid_lane,Role.solo
+8,CloudNguyén,Jayce,False,Side.red,1,5,0,0.2,156,Ignite,Flash,12,False,7005,5850,Youmuu's Ghostblade,Refillable Potion,,Doran's Blade,Phage,Ionian Boots of Lucidity,9875,68271,Lane.top_lane,Role.solo
+9,GangstahSwerve,Rengar,False,Side.red,1,4,1,0.5,133,Smite,Flash,11,False,6911,5950,Ionian Boots of Lucidity,Refillable Potion,Enchantment: Warrior,Serrated Dirk,Caulfield's Warhammer,,6856,88749,Lane.jungle,Role.none

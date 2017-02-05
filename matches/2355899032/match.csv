@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,PrismaI,Rengar,True,Side.blue,10,9,5,1.6666666666666667,183,Flash,Exhaust,15,False,13457,12275,Long Sword,Mercurial Scimitar,Ravenous Hydra,Long Sword,The Black Cleaver,Ionian Boots of Lucidity,14345,130730,Lane.top_lane,Role.solo
+1,Føur,Evelynn,True,Side.blue,14,6,5,3.1666666666666665,131,Flash,Smite,15,False,14079,13075,Hextech Protobelt-01,Sorcerer's Shoes,Lich Bane,The Dark Seal,Enchantment: Runic Echoes,Void Staff,104230,41596,Lane.jungle,Role.none
+2,Hello I am Dust,Lulu,True,Side.blue,1,3,18,6.333333333333333,18,Ignite,Flash,13,False,9720,8500,Mikael's Crucible,Redemption,Eye of the Watchers,Control Ward,Boots of Swiftness,Null-Magic Mantle,10831,6076,Lane.bot_lane,Role.support
+3,dog maple,Lucian,True,Side.blue,8,4,14,5.5,229,Heal,Flash,15,False,15016,12600,Doran's Blade,B. F. Sword,Rapid Firecannon,Death's Dance,Berserker's Greaves,The Black Cleaver,8163,164029,Lane.bot_lane,Role.carry
+4,bvcx222,Malzahar,True,Side.blue,3,1,7,10.0,200,Flash,Ghost,15,False,12037,10375,Rylai's Crystal Scepter,Haunting Guise,Morellonomicon,Blasting Wand,,Sorcerer's Shoes,92868,31147,Lane.mid_lane,Role.solo
+5,I Want My Cigar,Graves,False,Side.red,1,5,5,1.2,189,Flash,Exhaust,14,False,9358,8875,Doran's Blade,Youmuu's Ghostblade,Frozen Mallet,Serrated Dirk,Ninja Tabi,,1361,129359,Lane.top_lane,Role.solo
+6,Biscuit Crusader,Twisted Fate,False,Side.red,6,7,5,1.5714285714285714,177,Flash,Ghost,14,False,11050,10310,Needlessly Large Rod,Zhonya's Hourglass,Lich Bane,Ionian Boots of Lucidity,Blasting Wand,Amplifying Tome,91760,13723,Lane.mid_lane,Role.solo
+7,Hi Im A Sheep,Bard,False,Side.red,5,6,9,2.3333333333333335,10,Flash,Exhaust,12,False,8397,7590,Ruby Sightstone,Control Ward,Redemption,Chain Vest,Nomad's Medallion,Boots of Mobility,11101,5154,Lane.bot_lane,Role.support
+8,ape boy,Lee Sin,False,Side.red,8,6,7,2.5,87,Flash,Smite,14,False,10059,9975,Mercury's Treads,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,Randuin's Omen,,14498,62374,Lane.jungle,Role.none
+9,Imaokai,Vayne,False,Side.red,3,12,6,0.75,165,Heal,Flash,14,True,9863,9550,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Zeal,Dagger,33464,66573,Lane.bot_lane,Role.carry

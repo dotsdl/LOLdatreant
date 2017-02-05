@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ginjer,Thresh,False,Side.blue,2,5,5,1.4,17,Flash,Ignite,10,False,6258,5825,Sightstone,Nomad's Medallion,Redemption,Refillable Potion,Ionian Boots of Lucidity,Chain Vest,7242,2180,Lane.bot_lane,Role.support
+1,Aurath,Twitch,False,Side.blue,3,4,2,1.25,96,Smite,Flash,12,True,8082,7350,Blade of the Ruined King,Enchantment: Bloodrazor,Berserker's Greaves,,,,2474,80366,Lane.jungle,Role.none
+2,Sora and Shiro,Syndra,False,Side.blue,2,3,2,1.3333333333333333,188,Flash,Ghost,13,False,8418,8260,Doran's Ring,Sorcerer's Shoes,Needlessly Large Rod,Morellonomicon,Giant's Belt,Amplifying Tome,89437,8150,Lane.mid_lane,Role.solo
+3,Neo Restoration,Lucian,False,Side.blue,2,5,1,0.6,145,Heal,Flash,10,False,7410,7000,Essence Reaver,Refillable Potion,Doran's Blade,Berserker's Greaves,Zeal,Dagger,1915,58859,Lane.bot_lane,Role.carry
+4,Sarcasm Orgasm,Nautilus,False,Side.blue,0,2,4,2.0,226,Flash,Teleport,14,False,9251,9200,Sunfire Cape,Iceborn Gauntlet,Kindlegem,Spectre's Cowl,Doran's Ring,Mercury's Treads,95260,26187,Lane.top_lane,Role.solo
+5,Creamade,Ezreal,True,Side.red,3,4,7,2.5,160,Flash,Heal,12,False,9105,8483,Doran's Blade,Manamune,Long Sword,Cull,Trinity Force,Ionian Boots of Lucidity,12354,66090,Lane.bot_lane,Role.carry
+6,Kawaii Daifuku,Sona,True,Side.red,2,3,11,4.333333333333333,10,Flash,Exhaust,11,False,6933,5825,Faerie Charm,Redemption,Ionian Boots of Lucidity,Faerie Charm,,Eye of the Watchers,7789,3407,Lane.bot_lane,Role.support
+7,aLewares,Swain,True,Side.red,5,1,4,9.0,183,Flash,Ghost,13,False,9431,8150,Fiendish Codex,Doran's Ring,,Mercury's Treads,Spirit Visage,Rod of Ages,68511,16779,Lane.mid_lane,Role.solo
+8,AlfredXillia,Malphite,True,Side.red,1,0,6,7.0,215,Flash,Teleport,14,False,8989,6525,Corrupting Potion,,Chain Vest,Bami's Cinder,Mercury's Treads,Spirit Visage,71358,52692,Lane.top_lane,Role.solo
+9,d3ps,Hecarim,True,Side.red,8,1,10,18.0,132,Ghost,Smite,14,False,10712,9733,Enchantment: Cinderhulk,Hunter's Potion,Ninja Tabi,Trinity Force,Giant's Belt,Chain Vest,16793,117481,Lane.jungle,Role.none

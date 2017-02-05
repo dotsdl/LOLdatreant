@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zv Pickle,Yasuo,False,Side.blue,11,10,5,1.6,194,Flash,Teleport,14,False,12373,12308,Mercury's Treads,Doran's Blade,Infinity Edge,Statikk Shiv,Trinity Force,,43943,99613,Lane.top_lane,Role.solo
+1,Doctor E Trill,Ivern,False,Side.blue,3,8,17,2.5,65,Smite,Flash,14,False,9344,9075,Enchantment: Runic Echoes,Locket of the Iron Solari,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,,17952,8704,Lane.jungle,Role.none
+2,Fr0otz,Vayne,False,Side.blue,5,12,8,1.0833333333333333,133,Heal,Flash,13,False,9745,9250,Vampiric Scepter,Infinity Edge,Berserker's Greaves,Statikk Shiv,Dagger,,8087,74687,Lane.bot_lane,Role.carry
+3,Yasin Elshamy,Orianna,False,Side.blue,15,7,10,3.5714285714285716,201,Flash,Cleanse,15,False,13862,12625,Rabadon's Deathcap,Rylai's Crystal Scepter,Sorcerer's Shoes,,Morellonomicon,Doran's Ring,146965,15683,Lane.mid_lane,Role.solo
+4,Juvam,Janna,False,Side.blue,1,3,29,10.0,13,Exhaust,Flash,14,False,9672,9225,Talisman of Ascension,Redemption,Ruby Sightstone,Ionian Boots of Lucidity,Control Ward,Forbidden Idol,12495,3105,Lane.bot_lane,Role.support
+5,jonas12345,Brand,True,Side.red,6,4,10,4.0,163,Flash,Ghost,15,False,13278,11600,Ionian Boots of Lucidity,Rod of Ages,Rylai's Crystal Scepter,Liandry's Torment,Blasting Wand,Doran's Ring,110413,11694,Lane.mid_lane,Role.solo
+6,NeverQuitting,Sion,True,Side.red,6,6,17,3.8333333333333335,119,Flash,Exhaust,15,True,13651,11250,Face of the Mountain,Locket of the Iron Solari,Redemption,Zz'Rot Portal,Sightstone,Ninja Tabi,33483,62022,Lane.bot_lane,Role.duo
+7,Keira Knightley,Zac,True,Side.red,8,5,17,5.0,117,Smite,Flash,15,False,13617,11425,Tracker's Knife,Randuin's Omen,Chain Vest,Spirit Visage,Thornmail,Ionian Boots of Lucidity,80107,19578,Lane.jungle,Role.none
+8,Frostbreath,Poppy,True,Side.red,9,9,9,2.0,149,Flash,Teleport,15,False,13086,12225,Sunfire Cape,Phage,Spirit Visage,Guardian Angel,Ninja Tabi,Sheen,38675,72122,Lane.top_lane,Role.solo
+9,Omnic1de,Caitlyn,True,Side.red,11,11,7,1.6363636363636365,274,Flash,Heal,17,False,17207,14675,Rapid Firecannon,Runaan's Hurricane,Berserker's Greaves,The Bloodthirster,Infinity Edge,,4375,231495,Lane.bot_lane,Role.duo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Natalia Dyer,Ezreal,True,Side.blue,16,6,11,4.5,121,Flash,Heal,15,True,14562,12758,Doran's Blade,Berserker's Greaves,Bilgewater Cutlass,Maw of Malmortius,Trinity Force,Muramana,18618,110495,Lane.bot_lane,Role.carry
+1,ddwaeji,Nasus,True,Side.blue,10,2,12,11.0,233,Flash,Teleport,17,False,15129,14533,Locket of the Iron Solari,Zz'Rot Portal,Titanic Hydra,Ninja Tabi,Doran's Ring,Trinity Force,84061,72496,Lane.top_lane,Role.solo
+2,Regular Mid,Orianna,True,Side.blue,7,8,16,2.875,173,Flash,Ghost,15,False,13213,12200,Luden's Echo,Void Staff,Doran's Ring,Blasting Wand,Ionian Boots of Lucidity,Morellonomicon,117137,15838,Lane.mid_lane,Role.solo
+3,Kurumz,Kha'Zix,True,Side.blue,10,5,11,4.2,143,Smite,Flash,15,False,13213,11450,Enchantment: Warrior,Chain Vest,Ruby Crystal,Boots of Swiftness,The Black Cleaver,Maw of Malmortius,8321,140000,Lane.jungle,Role.none
+4,Suna Shogun Sama,Bard,True,Side.blue,1,4,22,5.75,15,Flash,Exhaust,14,False,9677,9100,Eye of the Watchers,Redemption,Knight's Vow,Boots of Mobility,Raptor Cloak,,17791,7421,Lane.bot_lane,Role.support
+5,Lyze,Nautilus,False,Side.red,0,11,4,0.36363636363636365,191,Teleport,Flash,13,False,9715,9025,Corrupting Potion,Zz'Rot Portal,Sunfire Cape,Ninja Tabi,Spectre's Cowl,Doran's Ring,72969,23770,Lane.top_lane,Role.solo
+6,TS6,Katarina,False,Side.red,15,9,3,2.0,139,Flash,Ignite,15,False,12434,11750,Hextech Gunblade,Zhonya's Hourglass,Void Staff,Sorcerer's Shoes,Blasting Wand,,87898,15276,Lane.mid_lane,Role.solo
+7,camtheham,Vayne,False,Side.red,4,8,4,1.0,210,Heal,Flash,13,False,10921,10650,Infinity Edge,Statikk Shiv,Doran's Blade,Berserker's Greaves,Phantom Dancer,,32288,87200,Lane.bot_lane,Role.carry
+8,Fiku,Ivern,False,Side.red,1,8,7,1.0,29,Flash,Exhaust,12,False,9103,8225,Redemption,Eye of the Oasis,Giant's Belt,Athene's Unholy Grail,,Boots of Mobility,14329,7673,Lane.bot_lane,Role.support
+9,Feitan,Lee Sin,False,Side.red,5,8,6,1.375,96,Smite,Flash,13,False,9794,8925,Mercury's Treads,Refillable Potion,Spectre's Cowl,Enchantment: Warrior,Dead Man's Plate,Kindlegem,17673,71260,Lane.jungle,Role.none

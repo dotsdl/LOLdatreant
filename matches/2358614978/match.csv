@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,EnVy Nien,Kha'Zix,False,Side.blue,13,9,5,2.0,198,Flash,Smite,16,True,13952,12325,Tiamat,Edge of Night,Hexdrinker,Boots of Mobility,Duskblade of Draktharr,Enchantment: Warrior,5715,170897,Lane.jungle,Role.none
+1,Miajima,Irelia,False,Side.blue,5,7,5,1.4285714285714286,174,Teleport,Flash,14,False,10234,9808,Doran's Blade,Randuin's Omen,Trinity Force,Mercury's Treads,Null-Magic Mantle,Ruby Crystal,5710,93810,Lane.top_lane,Role.solo
+2,Espir III,Twisted Fate,False,Side.blue,4,6,8,2.0,204,Flash,Ghost,15,False,11852,10625,Doran's Ring,Abyssal Scepter,Ionian Boots of Lucidity,Zhonya's Hourglass,Rod of Ages,Doran's Ring,131486,11149,Lane.mid_lane,Role.solo
+3,Never Been,Vayne,False,Side.blue,5,9,11,1.7777777777777777,137,Flash,Heal,13,False,10345,9850,Doran's Blade,Berserker's Greaves,Infinity Edge,Statikk Shiv,Hexdrinker,Null-Magic Mantle,3364,77026,Lane.bot_lane,Role.carry
+4,Asyc xD ,Thresh,False,Side.blue,0,10,15,1.5,31,Ignite,Flash,12,False,7603,7075,Targon's Brace,Locket of the Iron Solari,Boots of Mobility,Ruby Sightstone,Crystalline Bracer,Ruby Crystal,11581,5443,Lane.bot_lane,Role.support
+5,Rip Cig,Graves,True,Side.red,12,4,8,5.0,166,Flash,Smite,16,False,15388,14675,Enchantment: Warrior,Mercurial Scimitar,The Bloodthirster,Statikk Shiv,Mercury's Treads,Vampiric Scepter,18567,195609,Lane.jungle,Role.none
+6,Tobias Fate,Gangplank,True,Side.red,5,5,17,4.4,149,Flash,Ignite,14,False,13440,12158,Cull,Youmuu's Ghostblade,Trinity Force,Infinity Edge,Corrupting Potion,Boots of Swiftness,2911,131483,Lane.mid_lane,Role.solo
+7,Annie Bot,Annie,True,Side.red,12,5,13,5.0,116,Ignite,Flash,15,False,13617,13700,Hextech Protobelt-01,Void Staff,Void Staff,Rabadon's Deathcap,Ionian Boots of Lucidity,Doran's Ring,76051,11061,Lane.bot_lane,Role.carry
+8,DZG Doomtrobo,Brand,True,Side.red,7,8,13,2.5,53,Exhaust,Flash,14,False,12404,9875,,Rylai's Crystal Scepter,Sorcerer's Shoes,Eye of the Watchers,Abyssal Scepter,,45117,8819,Lane.bot_lane,Role.support
+9,Kebin M,Riven,True,Side.red,5,5,7,2.4,196,Flash,Teleport,16,False,12888,11500,Tiamat,The Black Cleaver,Youmuu's Ghostblade,Ninja Tabi,Guardian Angel,Doran's Blade,0,139616,Lane.top_lane,Role.solo

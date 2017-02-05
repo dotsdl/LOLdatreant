@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,toke dude,Poppy,True,Side.blue,4,5,17,4.2,120,Smite,Flash,14,False,10750,9425,,Randuin's Omen,Locket of the Iron Solari,Cloth Armor,Mercury's Treads,Enchantment: Cinderhulk,28523,78271,Lane.jungle,Role.none
+1,Abou222,LeBlanc,True,Side.blue,17,6,6,3.8333333333333335,201,Ignite,Flash,16,True,15267,13930,Rod of Ages,Abyssal Scepter,Control Ward,Rylai's Crystal Scepter,Void Staff,Sorcerer's Shoes,124705,14178,Lane.mid_lane,Role.solo
+2,feed l0rd,Ezreal,True,Side.blue,9,5,11,4.0,235,Flash,Heal,15,False,14032,12383,Blade of the Ruined King,Ionian Boots of Lucidity,Trinity Force,Doran's Blade,Muramana,Pickaxe,19439,135238,Lane.bot_lane,Role.carry
+3,Keegun,Pantheon,True,Side.blue,1,6,15,2.6666666666666665,60,Flash,Ignite,13,False,9421,8250,Eye of the Equinox,Edge of Night,,Phage,Boots of Speed,Caulfield's Warhammer,2733,45344,Lane.bot_lane,Role.support
+4,BoxerPete,Tryndamere,True,Side.blue,4,10,10,1.4,203,Ignite,Flash,14,False,11795,10700,Berserker's Greaves,Ravenous Hydra,Blade of the Ruined King,Phantom Dancer,,,49,128903,Lane.top_lane,Role.solo
+5,Flaresz,Kennen,False,Side.red,8,6,9,2.8333333333333335,177,Flash,Teleport,15,False,12842,13450,Abyssal Scepter,Hextech Protobelt-01,Sorcerer's Shoes,Rylai's Crystal Scepter,Seeker's Armguard,Needlessly Large Rod,92180,27463,Lane.top_lane,Role.solo
+6,Feitan,Lee Sin,False,Side.red,10,4,11,5.25,117,Smite,Flash,14,False,12492,12285,Mercury's Treads,Dead Man's Plate,Youmuu's Ghostblade,Enchantment: Warrior,,Guardian Angel,23627,117214,Lane.jungle,Role.none
+7,Gahlin,Ekko,False,Side.red,5,15,4,0.6,133,Flash,Teleport,13,False,10164,10025,Doran's Ring,Iceborn Gauntlet,Abyssal Scepter,Dead Man's Plate,Health Potion,Ionian Boots of Lucidity,88715,17045,Lane.mid_lane,Role.solo
+8,moon o,Thresh,False,Side.red,3,5,14,3.4,23,Ignite,Flash,13,False,8962,8725,Redemption,Nomad's Medallion,Locket of the Iron Solari,Ruby Sightstone,Boots of Mobility,Control Ward,9327,3381,Lane.bot_lane,Role.support
+9,ApoIlo Price,Caitlyn,False,Side.red,6,5,10,3.2,275,Flash,Heal,15,False,14410,14225,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Runaan's Hurricane,Maw of Malmortius,1303,195030,Lane.bot_lane,Role.carry

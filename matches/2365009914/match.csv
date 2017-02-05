@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Richard Hebert,Bard,False,Side.blue,2,5,8,2.0,22,Flash,Ignite,11,False,7073,6525,Cloth Armor,Eye of the Watchers,Redemption,Boots of Mobility,Cloth Armor,Cloth Armor,15976,4420,Lane.bot_lane,Role.support
+1,biglimefs1490,Nidalee,False,Side.blue,1,10,2,0.3,118,Teleport,Flash,11,False,6673,6083,Doran's Blade,Trinity Force,Refillable Potion,Boots of Speed,Giant's Belt,Ruby Crystal,32103,24605,Lane.top_lane,Role.solo
+2,SaintKilianv2,Ekko,False,Side.blue,3,6,6,1.5,101,Smite,Flash,12,False,7894,6875,Refillable Potion,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Ionian Boots of Lucidity,,,74829,22149,Lane.jungle,Role.none
+3,Moon Diana,Diana,False,Side.blue,4,7,4,1.1428571428571428,136,Flash,Teleport,13,False,8026,7950,Sorcerer's Shoes,Nashor's Tooth,,Doran's Ring,Doran's Ring,Rod of Ages,64685,12456,Lane.mid_lane,Role.solo
+4,KoreaBread,Ashe,False,Side.blue,5,7,1,0.8571428571428571,165,Flash,Heal,12,False,9222,9200,Doran's Blade,Runaan's Hurricane,Pickaxe,Essence Reaver,Berserker's Greaves,Cull,798,89669,Lane.bot_lane,Role.carry
+5,Hanjaro,Thresh,True,Side.red,7,4,14,5.25,32,Flash,Ignite,12,True,9273,7925,Sightstone,Face of the Mountain,Redemption,Aegis of the Legion,Ionian Boots of Lucidity,Null-Magic Mantle,11254,6764,Lane.bot_lane,Role.support
+6,Destinedwithin,Ezreal,True,Side.red,5,7,10,2.142857142857143,125,Flash,Heal,13,False,10428,8333,Doran's Blade,Muramana,Ionian Boots of Lucidity,Trinity Force,Long Sword,Long Sword,4819,81713,Lane.bot_lane,Role.carry
+7,AurionKratos,Vi,True,Side.red,12,2,6,9.0,120,Flash,Smite,14,False,12051,10283,Enchantment: Warrior,Trinity Force,Mercury's Treads,Control Ward,Banshee's Veil,,922,128501,Lane.jungle,Role.none
+8,Poppys Hammer,Poppy,True,Side.red,3,0,12,15.0,162,Flash,Teleport,14,False,10446,9300,Corrupting Potion,Sunfire Cape,Mercury's Treads,Maw of Malmortius,Aegis of the Legion,Null-Magic Mantle,23986,66332,Lane.top_lane,Role.solo
+9,KamiyaHrc,Aurelion Sol,True,Side.red,7,2,10,8.5,156,Exhaust,Flash,14,False,11101,9575,Boots of Swiftness,Corrupting Potion,Mejai's Soulstealer,Banshee's Veil,Hextech GLP-800,Needlessly Large Rod,96050,9364,Lane.mid_lane,Role.solo

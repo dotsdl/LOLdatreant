@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ifkinluvpeaches,Rek'Sai,False,Side.blue,5,5,1,1.2,106,Smite,Flash,10,True,7283,7095,Skirmisher's Sabre,Titanic Hydra,Refillable Potion,Ninja Tabi,Bami's Cinder,,7990,70237,Lane.jungle,Role.none
+1,N810HO,Caitlyn,False,Side.blue,1,8,3,0.5,118,Flash,Heal,9,False,5855,5325,Health Potion,Doran's Blade,Pickaxe,Runaan's Hurricane,Berserker's Greaves,,359,58021,Lane.bot_lane,Role.carry
+2,Str1fe,Orianna,False,Side.blue,2,6,4,1.0,88,Flash,Ghost,10,False,5914,5310,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Amplifying Tome,,,33686,7918,Lane.mid_lane,Role.solo
+3,daduu,Alistar,False,Side.blue,1,4,4,1.25,22,Flash,Exhaust,9,False,4525,3975,Relic Shield,Boots of Mobility,Sightstone,Control Ward,Aegis of the Legion,,4522,3997,Lane.bot_lane,Role.support
+4,Szeto 1997,Poppy,False,Side.blue,2,2,3,2.5,126,Teleport,Flash,12,False,6459,6175,Sunfire Cape,Spectre's Cowl,Corrupting Potion,Ninja Tabi,Ruby Crystal,,15926,35586,Lane.top_lane,Role.solo
+5,Dna shockwave,Vladimir,True,Side.red,6,2,7,6.5,131,Ghost,Flash,12,False,8907,8000,Doran's Shield,Abyssal Scepter,Fiendish Codex,Giant's Belt,Needlessly Large Rod,Ionian Boots of Lucidity,63226,10126,Lane.mid_lane,Role.solo
+6,Cat Person,Lulu,True,Side.red,1,2,12,6.5,8,Flash,Heal,9,False,6697,3800,,Sightstone,Crystalline Bracer,Frostfang,Faerie Charm,Boots of Mobility,6595,5510,Lane.bot_lane,Role.support
+7,Falco Mechanic,Twitch,True,Side.red,5,3,8,4.333333333333333,88,Exhaust,Flash,9,False,8254,7600,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,Recurve Bow,,1364,63526,Lane.bot_lane,Role.carry
+8,TQS Zuardian,Nocturne,True,Side.red,8,3,4,4.0,104,Smite,Flash,12,False,9812,9250,Refillable Potion,Enchantment: Warrior,Youmuu's Ghostblade,Berserker's Greaves,Serrated Dirk,B. F. Sword,3962,110170,Lane.jungle,Role.none
+9,cesuna,Talon,True,Side.red,5,1,1,6.0,110,Flash,Teleport,11,False,8077,6575,Corrupting Potion,The Black Cleaver,Ninja Tabi,Serrated Dirk,Long Sword,Long Sword,1223,67115,Lane.top_lane,Role.solo

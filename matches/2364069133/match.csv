@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Erry,Caitlyn,False,Side.blue,1,6,6,1.1666666666666667,201,Heal,Flash,12,False,8828,8375,Runaan's Hurricane,Infinity Edge,,Berserker's Greaves,,Doran's Blade,886,98571,Lane.bot_lane,Role.carry
+1,daduu,Lulu,False,Side.blue,1,7,7,1.1428571428571428,10,Flash,Exhaust,11,False,6366,5050,Boots of Mobility,Forbidden Idol,Ruby Crystal,Control Ward,Eye of the Watchers,,6369,2349,Lane.bot_lane,Role.support
+2,Xmithie Lite,Rek'Sai,False,Side.blue,5,3,5,3.3333333333333335,194,Flash,Smite,14,False,10274,10275,Titanic Hydra,Enchantment: Cinderhulk,Ninja Tabi,,,Randuin's Omen,37018,99260,Lane.jungle,Role.none
+3,Zaganox,Gragas,False,Side.blue,3,11,4,0.6363636363636364,118,Teleport,Flash,11,False,7591,6850,Doran's Ring,Hextech Protobelt-01,Sheen,Sorcerer's Shoes,Doran's Ring,Aether Wisp,53223,8711,Lane.top_lane,Role.solo
+4,Wiggily,Pantheon,False,Side.blue,4,13,3,0.5384615384615384,105,Flash,Ignite,11,False,7471,7475,Youmuu's Ghostblade,Corrupting Potion,Edge of Night,Boots of Mobility,,,5274,58568,Lane.mid_lane,Role.solo
+5,TheOddOrange,Nasus,True,Side.red,8,4,5,3.25,196,Flash,Teleport,15,False,12056,10650,Randuin's Omen,Corrupting Potion,Zz'Rot Portal,Iceborn Gauntlet,Ionian Boots of Lucidity,Doran's Ring,54557,65143,Lane.top_lane,Role.solo
+6,moon o,Lee Sin,True,Side.red,15,1,13,28.0,131,Smite,Flash,15,True,13815,11900,Tiamat,Maw of Malmortius,B. F. Sword,Ruby Sightstone,Mercury's Treads,Enchantment: Warrior,21879,141283,Lane.jungle,Role.none
+7,Pond,Jhin,True,Side.red,5,4,11,4.0,150,Heal,Flash,13,False,11011,9550,Essence Reaver,Rapid Firecannon,B. F. Sword,Cull,Doran's Blade,Boots of Swiftness,2220,94332,Lane.bot_lane,Role.carry
+8,Linsanityy,Ryze,True,Side.red,12,3,9,7.0,204,Flash,Ghost,15,False,14381,13700,Refillable Potion,Seraph's Embrace,Zhonya's Hourglass,Rabadon's Deathcap,Boots of Swiftness,Rod of Ages,155217,9148,Lane.mid_lane,Role.solo
+9,TDK Tr4nce,Janna,True,Side.red,0,2,23,11.5,6,Flash,Exhaust,12,False,7931,6550,,Talisman of Ascension,Ruby Sightstone,Boots of Mobility,Ruby Crystal,The Dark Seal,3625,3281,Lane.bot_lane,Role.support

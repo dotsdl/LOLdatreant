@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TFB0Y,Irelia,True,Side.blue,7,5,5,2.4,144,Teleport,Flash,14,False,9785,7453,Doran's Blade,Corrupting Potion,Trinity Force,Ninja Tabi,Chain Vest,Negatron Cloak,2873,65265,Lane.top_lane,Role.solo
+1,My Toe,Viktor,True,Side.blue,7,2,2,4.5,162,Flash,Ghost,14,False,9665,8675,Perfect Hex Core,Abyssal Scepter,Ionian Boots of Lucidity,Control Ward,Needlessly Large Rod,Doran's Ring,85672,12801,Lane.mid_lane,Role.solo
+2,Knight Wayne,Udyr,True,Side.blue,5,2,11,8.0,155,Smite,Flash,14,False,10859,9808,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Trinity Force,Chain Vest,Giant's Belt,71990,68955,Lane.jungle,Role.none
+3,Autistic Fuck,Nami,True,Side.blue,5,3,16,7.0,14,Ignite,Flash,12,True,8492,7325,Frost Queen's Claim,Ruby Sightstone,Redemption,Boots of Mobility,,Control Ward,7009,6764,Lane.bot_lane,Role.support
+4,Murphstunna,Caitlyn,True,Side.blue,8,4,9,4.25,163,Flash,Heal,13,False,10600,8700,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,,1661,112956,Lane.bot_lane,Role.carry
+5,Yoken,Hecarim,False,Side.red,1,5,5,1.2,112,Smite,Ghost,12,False,8058,7133,,,Hunter's Potion,Trinity Force,Boots of Speed,Enchantment: Cinderhulk,11802,87489,Lane.jungle,Role.none
+6,Miyuriha,Katarina,False,Side.red,5,7,1,0.8571428571428571,149,Ignite,Flash,12,False,8438,7600,Bilgewater Cutlass,Cloth Armor,The Dark Seal,Abyssal Scepter,Hextech Revolver,Sorcerer's Shoes,75337,8297,Lane.mid_lane,Role.solo
+7,Hochelaga,Janna,False,Side.red,1,6,7,1.3333333333333333,17,Flash,Exhaust,11,False,6622,6050,Boots of Swiftness,Sightstone,Talisman of Ascension,Aegis of the Legion,Crystalline Bracer,,7985,5010,Lane.bot_lane,Role.support
+8,Cotopaco Parce,Lucian,False,Side.red,3,8,1,0.5,138,Heal,Flash,11,False,8353,7950,Doran's Blade,Ionian Boots of Lucidity,Total Biscuit of Rejuvenation,The Black Cleaver,,Youmuu's Ghostblade,3598,88523,Lane.bot_lane,Role.carry
+9,Samsonn,Trundle,False,Side.red,6,6,2,1.3333333333333333,175,Teleport,Flash,14,False,9668,9100,Titanic Hydra,Blade of the Ruined King,Ninja Tabi,Doran's Blade,Doran's Blade,,1906,69418,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JTombstone,Zac,False,Side.blue,2,5,0,0.4,69,Flash,Smite,10,False,5605,4200,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Null-Magic Mantle,,,40602,10758,Lane.jungle,Role.none
+1,Mr Big Planet,Ezreal,False,Side.blue,0,5,0,0.0,115,Heal,Flash,9,False,5282,4900,Doran's Blade,Manamune,Doran's Blade,Ionian Boots of Lucidity,Control Ward,Sapphire Crystal,3338,38939,Lane.bot_lane,Role.carry
+2,OGBronx,Taliyah,False,Side.blue,2,9,0,0.2222222222222222,102,Teleport,Flash,10,False,5600,5560,Lost Chapter,Needlessly Large Rod,Boots of Swiftness,Amplifying Tome,Doran's Ring,Giant's Belt,44402,7802,Lane.top_lane,Role.solo
+3,Yasin Elshamy,Varus,False,Side.blue,1,4,2,0.75,181,Flash,Cleanse,12,False,7125,6775,Youmuu's Ghostblade,Doran's Blade,Corrupting Potion,Boots of Speed,Manamune,,3927,81132,Lane.mid_lane,Role.solo
+4,ElucidativeRaven,Karma,False,Side.blue,0,3,1,0.3333333333333333,21,Flash,Exhaust,9,False,4546,4375,Spellthief's Edge,Total Biscuit of Rejuvenation,Sightstone,Redemption,Ionian Boots of Lucidity,,13086,2400,Lane.bot_lane,Role.support
+5,Anthøny,Kha'Zix,True,Side.red,12,1,2,14.0,129,Smite,Flash,13,True,10623,8625,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Caulfield's Warhammer,Enchantment: Warrior,Pickaxe,4497,125381,Lane.jungle,Role.none
+6,McNugs,Janna,True,Side.red,1,0,14,15.0,10,Flash,Exhaust,11,False,6269,4750,,Sightstone,Redemption,Nomad's Medallion,The Dark Seal,Boots of Speed,4973,3156,Lane.bot_lane,Role.support
+7,Guardianx4x,Jax,True,Side.red,7,1,5,12.0,183,Flash,Teleport,14,False,10939,8443,Corrupting Potion,Bilgewater Cutlass,Amplifying Tome,Trinity Force,Hexdrinker,Boots of Swiftness,26554,95735,Lane.top_lane,Role.solo
+8,unproven talent,Twisted Fate,True,Side.red,2,1,7,9.0,155,Flash,Ghost,13,False,8341,7325,Boots of Swiftness,Seeker's Armguard,Lich Bane,Fiendish Codex,Doran's Ring,Doran's Ring,71256,11820,Lane.mid_lane,Role.solo
+9,Best Riven N4,Vayne,True,Side.red,4,2,4,4.0,145,Heal,Flash,11,False,8198,7475,Infinity Edge,Dagger,Dagger,Zeal,Berserker's Greaves,Doran's Blade,0,54778,Lane.bot_lane,Role.carry

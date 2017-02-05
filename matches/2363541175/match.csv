@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,0 K A Y B O Y S,Rumble,True,Side.blue,5,3,10,5.0,231,Flash,Teleport,16,False,12633,11125,Doran's Shield,Void Staff,Control Ward,Liandry's Torment,Rylai's Crystal Scepter,Sorcerer's Shoes,137952,16874,Lane.top_lane,Role.solo
+1,Daddygoesdeep,Lee Sin,True,Side.blue,3,2,7,5.0,145,Flash,Smite,15,False,11384,10425,,Enchantment: Warrior,Titanic Hydra,Mercury's Treads,Dead Man's Plate,Control Ward,25620,111465,Lane.jungle,Role.none
+2,Get Good Le Bad,Vayne,True,Side.blue,8,2,4,6.0,233,Heal,Flash,14,False,13626,12950,Phantom Dancer,Statikk Shiv,Pickaxe,Giant Slayer,Berserker's Greaves,Infinity Edge,16573,130203,Lane.bot_lane,Role.carry
+3,BIack3,Twisted Fate,True,Side.blue,7,2,9,8.0,211,Flash,Ghost,17,False,13642,10075,Rabadon's Deathcap,Blasting Wand,Sheen,Doran's Ring,Ionian Boots of Lucidity,Abyssal Scepter,147534,18069,Lane.mid_lane,Role.solo
+4,Mata dog,Thresh,True,Side.blue,0,4,11,2.75,23,Flash,Ignite,12,False,7984,7150,Face of the Mountain,Ruby Sightstone,Total Biscuit of Rejuvenation,Forbidden Idol,Boots of Mobility,Crystalline Bracer,8975,6359,Lane.bot_lane,Role.support
+5,Rycah,Maokai,False,Side.red,1,10,2,0.3,151,Flash,Teleport,13,False,8571,7375,Mercury's Treads,Corrupting Potion,Randuin's Omen,Spirit Visage,,,73347,20599,Lane.top_lane,Role.solo
+6,Suna Shogun Sama,Nami,False,Side.red,0,3,9,3.0,15,Flash,Exhaust,11,False,6707,6575,Redemption,Locket of the Iron Solari,Sightstone,Spellthief's Edge,Boots of Mobility,,6218,3837,Lane.bot_lane,Role.support
+7,Locke Lamora,LeBlanc,False,Side.red,6,3,2,2.6666666666666665,244,Cleanse,Flash,15,True,11797,10975,Luden's Echo,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Void Staff,Control Ward,127729,13651,Lane.mid_lane,Role.solo
+8,RockyTSaws,Jhin,False,Side.red,3,3,7,3.3333333333333335,188,Heal,Flash,13,False,10289,9975,Doran's Blade,Quicksilver Sash,Pickaxe,Essence Reaver,Rapid Firecannon,Boots of Swiftness,16780,109084,Lane.bot_lane,Role.carry
+9,Eric1,Rek'Sai,False,Side.red,3,4,6,2.25,148,Smite,Flash,13,False,9657,9075,Titanic Hydra,Enchantment: Cinderhulk,Ruby Crystal,Ninja Tabi,Giant's Belt,Cloth Armor,21770,102140,Lane.jungle,Role.none

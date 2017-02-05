@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,tardzaned,Olaf,False,Side.blue,2,3,4,2.0,137,Smite,Ghost,12,False,7531,6675,Enchantment: Cinderhulk,Refillable Potion,Spectre's Cowl,Ionian Boots of Lucidity,Giant's Belt,Chain Vest,16496,79154,Lane.jungle,Role.none
+1,OPW,Fiora,False,Side.blue,1,6,0,0.16666666666666666,106,Teleport,Flash,11,False,5703,4200,Tiamat,Refillable Potion,Doran's Blade,Chain Vest,Mercury's Treads,Doran's Blade,1357,37053,Lane.top_lane,Role.solo
+2,amumumu,Dr. Mundo,False,Side.blue,2,5,0,0.4,130,Flash,Teleport,11,False,6346,6050,Spirit Visage,Refillable Potion,Ninja Tabi,Bami's Cinder,Chain Vest,,44318,19082,Lane.mid_lane,Role.solo
+3,Brian Griffin,Ezreal,False,Side.blue,2,2,1,1.5,141,Heal,Flash,9,False,7262,6925,Manamune,Iceborn Gauntlet,Boots of Speed,Cull,Long Sword,Doran's Blade,8335,47862,Lane.bot_lane,Role.carry
+4,zz cicero,Poppy,False,Side.blue,1,1,3,4.0,39,Ignite,Flash,9,False,5233,4700,Crystalline Bracer,Eye of the Equinox,,Boots of Mobility,Cloth Armor,,950,19037,Lane.bot_lane,Role.support
+5,SSBM Hax,Twisted Fate,True,Side.red,0,1,7,7.0,169,Flash,Ghost,12,False,8803,7600,Doran's Ring,Lich Bane,Rod of Ages,Ionian Boots of Lucidity,,Refillable Potion,83513,12501,Lane.mid_lane,Role.solo
+6,blaberfish2,Elise,True,Side.red,6,2,3,4.5,91,Flash,Smite,12,False,9088,8775,Enchantment: Runic Echoes,Refillable Potion,Hextech Protobelt-01,Boots of Speed,Rylai's Crystal Scepter,,72653,23846,Lane.jungle,Role.none
+7,An Obese Panda,Karma,True,Side.red,1,2,6,3.5,14,Flash,Exhaust,9,False,6085,5650,Eye of the Watchers,,Ionian Boots of Lucidity,Redemption,,,12467,5425,Lane.bot_lane,Role.support
+8,Adrian Riven,Riven,True,Side.red,8,2,4,6.0,172,Teleport,Flash,13,True,10316,10175,The Black Cleaver,Ravenous Hydra,Last Whisper,Ionian Boots of Lucidity,Giant Slayer,,0,113166,Lane.top_lane,Role.solo
+9,Imaqtpie,Vayne,True,Side.red,2,1,0,2.0,145,Flash,Heal,10,False,8672,6375,Statikk Shiv,B. F. Sword,Cull,Doran's Blade,Berserker's Greaves,,5900,57487,Lane.bot_lane,Role.carry

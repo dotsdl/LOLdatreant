@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,moon o,Irelia,True,Side.blue,5,7,4,1.2857142857142858,136,Teleport,Flash,13,False,9285,7583,Trinity Force,Corrupting Potion,,Berserker's Greaves,Serrated Dirk,Long Sword,3456,65641,Lane.top_lane,Role.solo
+1,PeachSamaTuT,Miss Fortune,True,Side.blue,8,2,16,12.0,193,Flash,Heal,15,False,12877,11075,Cull,Statikk Shiv,Essence Reaver,Boots of Swiftness,Mortal Reminder,Doran's Blade,32731,94956,Lane.bot_lane,Role.carry
+2,FREE NAME CHANGE,Bard,True,Side.blue,1,3,19,6.666666666666667,11,Flash,Exhaust,12,True,7964,7325,Control Ward,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Aegis of the Legion,Null-Magic Mantle,8700,6384,Lane.bot_lane,Role.support
+3,Crey Joswick,Rengar,True,Side.blue,18,2,4,11.0,142,Flash,Smite,14,False,13147,12925,Enchantment: Warrior,Banshee's Veil,Mercury's Treads,Sunfire Cape,The Black Cleaver,Null-Magic Mantle,20077,123878,Lane.jungle,Role.none
+4,Progenitor,Ryze,True,Side.blue,6,6,6,2.0,136,Flash,Ghost,13,False,9302,8875,Tear of the Goddess,Health Potion,Ionian Boots of Lucidity,Morellonomicon,Rod of Ages,Needlessly Large Rod,93087,4203,Lane.mid_lane,Role.solo
+5,SNSD Sunnny,Swain,False,Side.red,8,6,4,2.0,179,Teleport,Flash,14,False,9989,9200,Sorcerer's Shoes,Rod of Ages,Needlessly Large Rod,Doran's Ring,Zhonya's Hourglass,Doran's Ring,84096,8481,Lane.top_lane,Role.solo
+6,Loopsers,Karthus,False,Side.red,3,11,5,0.7272727272727273,27,Exhaust,Flash,11,False,7295,6975,Total Biscuit of Rejuvenation,Sightstone,Frost Queen's Claim,Boots of Speed,Rylai's Crystal Scepter,,35528,1946,Lane.bot_lane,Role.support
+7,Gorhunter,Ivern,False,Side.red,3,6,9,2.0,80,Smite,Flash,12,False,8133,8125,Skirmisher's Sabre,Redemption,Aegis of the Legion,Boots of Mobility,Athene's Unholy Grail,Null-Magic Mantle,11588,6173,Lane.jungle,Role.none
+8,iQQPurple,Cassiopeia,False,Side.red,3,8,1,0.5,170,Ghost,Flash,12,False,8184,7400,Doran's Ring,Morellonomicon,Tear of the Goddess,Rylai's Crystal Scepter,,,70989,9251,Lane.mid_lane,Role.solo
+9,Bobballls,Twitch,False,Side.red,3,7,5,1.1428571428571428,128,Flash,Heal,12,False,8047,7800,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Doran's Blade,,,0,54121,Lane.bot_lane,Role.carry

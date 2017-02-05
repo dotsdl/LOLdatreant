@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,3in1warrior,Renekton,False,Side.blue,12,9,9,2.3333333333333335,215,Flash,Teleport,16,False,14068,13500,Titanic Hydra,Ninja Tabi,Blade of the Ruined King,The Black Cleaver,Warden's Mail,Giant's Belt,9363,162786,Lane.top_lane,Role.solo
+1,Joyul,Janna,False,Side.blue,0,5,24,4.8,9,Flash,Exhaust,13,False,8463,8300,Control Ward,Redemption,Sightstone,Locket of the Iron Solari,Boots of Mobility,Glacial Shroud,3931,2817,Lane.bot_lane,Role.support
+2,SKY Fear,Vayne,False,Side.blue,8,8,11,2.375,251,Flash,Heal,15,True,14310,13300,Blade of the Ruined King,Spectre's Cowl,Doran's Blade,Phantom Dancer,Berserker's Greaves,Infinity Edge,0,151817,Lane.bot_lane,Role.carry
+3,Grell Carry U,Lee Sin,False,Side.blue,11,10,10,2.1,146,Flash,Smite,15,False,12130,11925,Randuin's Omen,Tiamat,Enchantment: Warrior,Boots of Mobility,Banshee's Veil,Spectre's Cowl,22083,119186,Lane.jungle,Role.none
+4,DirtyMobs,Lux,False,Side.blue,6,8,19,3.125,133,Flash,Ghost,15,False,11074,11175,Doran's Ring,Luden's Echo,Abyssal Scepter,Sorcerer's Shoes,Morellonomicon,,95492,12929,Lane.jungle,Role.none
+5,Shiphtur,Katarina,True,Side.red,13,5,13,5.2,179,Ignite,Flash,16,False,15314,13750,Zhonya's Hourglass,Hextech Gunblade,,Sorcerer's Shoes,Void Staff,Rylai's Crystal Scepter,134418,15892,Lane.mid_lane,Role.solo
+6,CHEEZY DIAPER,Zac,True,Side.red,3,4,20,5.75,102,Smite,Flash,15,False,12078,10325,Randuin's Omen,Null-Magic Mantle,Ninja Tabi,Spirit Visage,Enchantment: Cinderhulk,Cloth Armor,79026,20676,Lane.jungle,Role.none
+7,Yassuo,Yasuo,True,Side.red,6,15,14,1.3333333333333333,182,Flash,Teleport,15,False,13411,13450,Infinity Edge,The Bloodthirster,Phantom Dancer,Doran's Blade,Mercury's Treads,Vampiric Scepter,29037,121899,Lane.top_lane,Role.solo
+8,West Coast Carry,Braum,True,Side.red,3,10,22,2.5,48,Flash,Teleport,13,False,11534,15375,Eye of the Equinox,Boots of Mobility,Locket of the Iron Solari,Redemption,Giant's Belt,Chain Vest,11857,9951,Lane.bot_lane,Role.support
+9,Stevens 1v9,Draven,True,Side.red,15,3,3,6.0,321,Heal,Flash,17,False,20634,18700,Mercurial Scimitar,Statikk Shiv,Rapid Firecannon,Essence Reaver,Infinity Edge,Berserker's Greaves,39066,266209,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kebin M,Riven,False,Side.blue,8,8,3,1.375,177,Flash,Teleport,14,False,10900,10475,Tiamat,Control Ward,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Hexdrinker,185,109056,Lane.top_lane,Role.solo
+1,Asyc xD ,Caitlyn,False,Side.blue,4,6,8,2.0,208,Heal,Flash,14,False,11259,10700,Doran's Blade,Infinity Edge,Hexdrinker,Berserker's Greaves,Vampiric Scepter,Runaan's Hurricane,932,121825,Lane.bot_lane,Role.carry
+2,CraacK,Vel'Koz,False,Side.blue,10,12,4,1.1666666666666667,154,Flash,Heal,14,False,10997,10350,Ionian Boots of Lucidity,Needlessly Large Rod,Luden's Echo,Morellonomicon,Blasting Wand,Doran's Ring,80337,4471,Lane.mid_lane,Role.solo
+3,Cat Ears,Karma,False,Side.blue,2,7,11,1.8571428571428572,10,Flash,Exhaust,11,True,7861,7275,Forbidden Idol,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Aether Wisp,,8384,1948,Lane.bot_lane,Role.support
+4,RealDarkness,Rek'Sai,False,Side.blue,1,10,8,0.9,124,Smite,Flash,14,False,9134,7925,Enchantment: Bloodrazor,Refillable Potion,Ninja Tabi,Spirit Visage,Phage,,14797,88278,Lane.jungle,Role.none
+5,Jummychu,Jhin,True,Side.red,9,2,19,14.0,206,Flash,Heal,15,False,14366,12550,Doran's Blade,Vampiric Scepter,Ionian Boots of Lucidity,Rapid Firecannon,Essence Reaver,Infinity Edge,6747,158038,Lane.bot_lane,Role.carry
+6,N810HO,Nami,True,Side.red,2,9,20,2.4444444444444446,3,Flash,Exhaust,12,False,8646,7725,Kindlegem,Frost Queen's Claim,Sightstone,Redemption,Ruby Crystal,Ionian Boots of Lucidity,7941,8947,Lane.bot_lane,Role.support
+7,Painn,Ziggs,True,Side.red,19,2,5,12.0,258,Flash,Teleport,18,False,17328,16375,Rabadon's Deathcap,Rylai's Crystal Scepter,Sorcerer's Shoes,Haunting Guise,Morellonomicon,Void Staff,196811,17043,Lane.mid_lane,Role.solo
+8,TwitchChunkylol,Rumble,True,Side.red,2,5,9,2.2,226,Teleport,Flash,15,False,11319,9135,Zhonya's Hourglass,Doran's Shield,Amplifying Tome,Sorcerer's Shoes,Liandry's Torment,Blasting Wand,118009,10981,Lane.top_lane,Role.solo
+9,LOD,Lee Sin,True,Side.red,9,7,9,2.5714285714285716,104,Smite,Flash,14,False,11883,10800,Titanic Hydra,Enchantment: Warrior,Ninja Tabi,Randuin's Omen,Null-Magic Mantle,,14798,110565,Lane.jungle,Role.none

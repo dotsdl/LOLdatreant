@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TeamWillFeed,Shyvana,True,Side.blue,5,3,7,4.0,195,Ghost,Smite,15,False,11980,10125,Enchantment: Cinderhulk,Sterak's Gage,Frozen Mallet,Refillable Potion,Ninja Tabi,Ruby Crystal,106483,58870,Lane.jungle,Role.none
+1,Danny Cute Body,Jhin,True,Side.blue,5,4,10,3.75,194,Heal,Flash,13,False,11844,10450,B. F. Sword,Rapid Firecannon,Pickaxe,Doran's Blade,Ionian Boots of Lucidity,Essence Reaver,2511,112187,Lane.bot_lane,Role.carry
+2,Keen,Corki,True,Side.blue,17,2,10,13.5,211,Flash,Exhaust,16,False,15694,13358,Doran's Blade,Hextech Gunblade,Sorcerer's Shoes,Rapid Firecannon,Trinity Force,B. F. Sword,117871,41917,Lane.mid_lane,Role.solo
+3,strivetoexcape,Malphite,True,Side.blue,8,4,12,5.0,151,Flash,Teleport,15,False,11417,9820,Iceborn Gauntlet,Ninja Tabi,Randuin's Omen,Fiendish Codex,Negatron Cloak,The Dark Seal,56199,46495,Lane.top_lane,Role.solo
+4,Yo R My Destiny,Thresh,True,Side.blue,3,1,22,25.0,55,Exhaust,Flash,13,True,10011,9075,Redemption,Eye of the Equinox,Zz'Rot Portal,Boots of Mobility,Crystalline Bracer,,15248,9145,Lane.bot_lane,Role.support
+5,longdongdik,Lee Sin,False,Side.red,4,6,5,1.5,169,Smite,Flash,15,False,11175,10300,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Ninja Tabi,Dead Man's Plate,Long Sword,28259,118768,Lane.jungle,Role.none
+6,generader,Nasus,False,Side.red,2,7,2,0.5714285714285714,252,Teleport,Ghost,15,False,11384,9900,Doran's Ring,Morellonomicon,Luden's Echo,Doran's Ring,Ionian Boots of Lucidity,Needlessly Large Rod,126822,32397,Lane.jungle,Role.none
+7,Salcuz,Leona,False,Side.red,2,10,4,0.6,27,Exhaust,Flash,11,False,7708,7025,Relic Shield,Sightstone,Boots of Mobility,Redemption,Locket of the Iron Solari,Control Ward,9237,4999,Lane.bot_lane,Role.support
+8,jacksparrow111,Jayce,False,Side.red,4,9,2,0.6666666666666666,211,Flash,Teleport,14,False,11025,10925,Giant Slayer,The Black Cleaver,Mercury's Treads,Maw of Malmortius,Last Whisper,,30501,108224,Lane.top_lane,Role.solo
+9,platinum piggy,Caitlyn,False,Side.red,2,6,0,0.3333333333333333,187,Heal,Flash,13,False,10454,10350,Doran's Blade,Last Whisper,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Long Sword,1425,128573,Lane.bot_lane,Role.carry

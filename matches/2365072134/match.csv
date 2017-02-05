@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,The Tank Man,Janna,True,Side.blue,0,1,19,19.0,7,Flash,Exhaust,13,False,9526,8350,Eye of the Oasis,Redemption,Locket of the Iron Solari,Boots of Mobility,Forbidden Idol,,3064,7622,Lane.bot_lane,Role.support
+1,Mosquito Porn,Singed,True,Side.blue,4,2,12,8.0,183,Teleport,Ghost,16,True,11597,9600,The Dark Seal,Zz'Rot Portal,Righteous Glory,Mercury's Treads,Blasting Wand,Haunting Guise,95764,10158,Lane.top_lane,Role.solo
+2,Rapping Hipster,Sona,True,Side.blue,12,4,11,5.75,106,Teleport,Flash,15,False,12148,11125,Refillable Potion,Lich Bane,Void Staff,Morellonomicon,Fiendish Codex,Sorcerer's Shoes,54622,15580,Lane.mid_lane,Role.solo
+3,Auberaun,Sivir,True,Side.blue,5,1,7,12.0,263,Flash,Heal,15,False,13505,12165,The Bloodthirster,Berserker's Greaves,Essence Reaver,Statikk Shiv,,,12446,189878,Lane.bot_lane,Role.carry
+4,eThug,Zac,True,Side.blue,8,1,9,17.0,164,Flash,Smite,16,False,12757,11975,Randuin's Omen,Guardian Angel,Spirit Visage,Enchantment: Cinderhulk,Ninja Tabi,,123735,31938,Lane.jungle,Role.none
+5,N810HO,Thresh,False,Side.red,1,6,0,0.16666666666666666,41,Flash,Ignite,11,False,6213,5575,Kindlegem,Redemption,Sightstone,Control Ward,Ionian Boots of Lucidity,Relic Shield,11821,5898,Lane.bot_lane,Role.support
+6,Leagué,Riven,False,Side.red,3,4,0,0.75,194,Flash,Teleport,14,False,9360,9175,Maw of Malmortius,Refillable Potion,Tiamat,Mercury's Treads,The Black Cleaver,,0,107806,Lane.top_lane,Role.solo
+7,toke dude,Veigar,False,Side.red,1,9,2,0.3333333333333333,174,Teleport,Flash,13,False,8693,8475,Doran's Ring,Banshee's Veil,Hextech GLP-800,Ionian Boots of Lucidity,Blasting Wand,Doran's Ring,73629,10373,Lane.mid_lane,Role.solo
+8,Carkyn,Hecarim,False,Side.red,3,6,3,1.0,139,Smite,Ignite,13,False,8854,8808,Enchantment: Cinderhulk,Mercury's Treads,Spectre's Cowl,Trinity Force,,,22346,102526,Lane.jungle,Role.none
+9,Stixxay,Vayne,False,Side.red,1,4,1,0.5,235,Heal,Flash,14,False,9872,9700,Statikk Shiv,Infinity Edge,Doran's Blade,Zeal,Dagger,Berserker's Greaves,23304,86487,Lane.bot_lane,Role.carry

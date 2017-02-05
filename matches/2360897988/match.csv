@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,retarded virgin,Hecarim,False,Side.blue,4,4,0,1.0,129,Ghost,Smite,12,True,7445,6808,Enchantment: Cinderhulk,Trinity Force,,Boots of Speed,,,10852,87823,Lane.jungle,Role.none
+1,Ari Kingu,Poppy,False,Side.blue,0,2,1,0.5,124,Teleport,Flash,11,False,5536,5250,Corrupting Potion,Spirit Visage,Cloth Armor,Mercury's Treads,Ruby Crystal,,2532,44504,Lane.top_lane,Role.solo
+2,Abou222,Katarina,False,Side.blue,0,5,0,0.0,66,Ignite,Flash,9,False,4430,4220,Bilgewater Cutlass,Refillable Potion,Negatron Cloak,Hextech Revolver,Boots of Speed,The Dark Seal,25210,4849,Lane.mid_lane,Role.solo
+3,C9 Lemon,Janna,False,Side.blue,0,2,4,2.0,15,Exhaust,Flash,10,False,4903,4150,Crystalline Bracer,Refillable Potion,Ionian Boots of Lucidity,Eye of the Oasis,Faerie Charm,The Dark Seal,3663,1332,Lane.bot_lane,Role.support
+4,Tai Draven,Draven,False,Side.blue,1,6,0,0.16666666666666666,139,Flash,Heal,10,False,6066,5125,Doran's Blade,Berserker's Greaves,Pickaxe,Zeal,,B. F. Sword,0,54706,Lane.bot_lane,Role.carry
+5,PutYourHeartsUp,Akali,True,Side.red,6,0,5,11.0,169,Exhaust,Flash,13,False,9635,9500,Hextech Gunblade,Control Ward,Doran's Blade,Haunting Guise,Abyssal Scepter,Sorcerer's Shoes,24845,64806,Lane.mid_lane,Role.solo
+6,Yusui,Lee Sin,True,Side.red,7,1,8,15.0,119,Smite,Flash,13,False,9691,6025,Tiamat,Enchantment: Warrior,Refillable Potion,Control Ward,Boots of Mobility,Giant's Belt,14178,96931,Lane.jungle,Role.none
+7,Teesum,Karma,True,Side.red,2,0,11,13.0,14,Exhaust,Flash,10,False,6423,4700,Spellthief's Edge,Sightstone,Ionian Boots of Lucidity,Redemption,Faerie Charm,Control Ward,10906,5293,Lane.bot_lane,Role.support
+8,Str1fe,Twitch,True,Side.red,2,2,8,5.0,140,Flash,Heal,11,False,7855,7600,Doran's Blade,Infinity Edge,Berserker's Greaves,Recurve Bow,,Zeal,0,50573,Lane.bot_lane,Role.carry
+9,Renger cat,Rumble,True,Side.red,2,2,5,3.5,179,Teleport,Flash,13,False,8692,7960,Hextech Protobelt-01,Refillable Potion,Doran's Shield,Sorcerer's Shoes,Liandry's Torment,Amplifying Tome,96454,12056,Lane.top_lane,Role.solo

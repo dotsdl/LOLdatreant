@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Azerothir,Zilean,True,Side.blue,0,1,0,0.0,1,Flash,Exhaust,2,False,779,700,Spellthief's Edge,Total Biscuit of Rejuvenation,Faerie Charm,Control Ward,,,1047,447,Lane.bot_lane,Role.duo
+1,Lyze,Twitch,True,Side.blue,0,1,0,0.0,4,Heal,Flash,2,False,744,600,Doran's Blade,Total Biscuit of Rejuvenation,,,,,19,1926,Lane.bot_lane,Role.duo
+2,Myloo,Poppy,True,Side.blue,1,0,0,1.0,11,Flash,Teleport,3,True,1294,500,,Corrupting Potion,,,,,42,3718,Lane.top_lane,Role.solo
+3,AllAero,Katarina,True,Side.blue,0,1,1,1.0,5,Flash,Teleport,2,False,922,850,Long Sword,Refillable Potion,Long Sword,,,,1551,564,Lane.mid_lane,Role.solo
+4,Dexima,Ivern,True,Side.blue,0,0,0,0.0,6,Flash,Smite,3,False,1053,500,Hunter's Talisman,Refillable Potion,,,,,0,0,Lane.jungle,Role.none
+5,Tae Hwa,Fizz,False,Side.red,0,0,0,0.0,0,Flash,Ignite,1,False,667,0,,,,,,,0,0,Lane.mid_lane,Role.solo
+6,JoDa Fucking Pen,Swain,False,Side.red,1,1,0,1.0,8,Teleport,Flash,3,False,1143,900,Doran's Ring,Health Potion,Doran's Ring,,,,958,1284,Lane.jungle,Role.none
+7,Stessy Poirier,Rengar,False,Side.red,0,0,0,0.0,10,Flash,Smite,3,False,1083,500,Refillable Potion,Hunter's Machete,,,,,572,6918,Lane.bot_lane,Role.none
+8,Goxtry,Vayne,False,Side.red,2,0,0,2.0,9,Heal,Flash,2,False,1435,500,Doran's Blade,,,,,,0,2980,Lane.bot_lane,Role.none
+9,Wolfelol,Vel'Koz,False,Side.red,0,0,2,2.0,1,Exhaust,Flash,2,False,1028,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,1316,1084,Lane.bot_lane,Role.none

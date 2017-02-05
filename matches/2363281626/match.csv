@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,OUT DO YA,Viktor,False,Side.blue,3,6,0,0.5,129,Flash,Ghost,11,False,6203,5175,Health Potion,Perfect Hex Core,Sorcerer's Shoes,Doran's Ring,Doran's Ring,,46743,8762,Lane.mid_lane,Role.solo
+1,Gweiss,Graves,False,Side.blue,0,3,1,0.3333333333333333,80,Smite,Flash,9,False,5030,3875,Enchantment: Warrior,Refillable Potion,Mercury's Treads,,,,1800,51093,Lane.jungle,Role.none
+2,D0NG0,Jayce,False,Side.blue,0,5,1,0.2,86,Teleport,Flash,10,False,4625,3850,Doran's Blade,Doran's Blade,Phage,Boots of Speed,Pickaxe,Cloth Armor,3325,32520,Lane.top_lane,Role.solo
+3,BukZacH,Twitch,False,Side.blue,0,3,1,0.3333333333333333,114,Flash,Heal,9,False,5060,4675,Doran's Blade,Berserker's Greaves,B. F. Sword,Recurve Bow,Brawler's Gloves,Dagger,907,36777,Lane.bot_lane,Role.carry
+4,aShady,Lulu,False,Side.blue,0,4,1,0.25,3,Exhaust,Flash,8,False,3528,3050,Frostfang,Refillable Potion,Sightstone,Ionian Boots of Lucidity,Control Ward,,4242,890,Lane.bot_lane,Role.support
+5,Shiphtur,Twisted Fate,True,Side.red,5,1,8,13.0,140,Ghost,Flash,12,True,9740,7850,Zhonya's Hourglass,Refillable Potion,Doran's Ring,Lich Bane,Ionian Boots of Lucidity,,82268,12616,Lane.mid_lane,Role.solo
+6,goompa,Ezreal,True,Side.red,4,0,5,9.0,162,Heal,Flash,11,False,9097,6200,Ionian Boots of Lucidity,Doran's Blade,Glacial Shroud,Long Sword,Sheen,Manamune,6676,72893,Lane.bot_lane,Role.carry
+7,J D,Riven,True,Side.red,7,0,4,11.0,155,Teleport,Flash,13,False,9123,5650,Tiamat,Refillable Potion,,,The Black Cleaver,Ionian Boots of Lucidity,0,79377,Lane.top_lane,Role.solo
+8,Lil Cody,Rek'Sai,True,Side.red,1,1,8,9.0,108,Smite,Flash,11,False,7395,7125,Refillable Potion,Tiamat,Aegis of the Legion,Ninja Tabi,Enchantment: Cinderhulk,Chain Vest,15010,71203,Lane.jungle,Role.none
+9,Pocket Rhino,Blitzcrank,True,Side.red,4,1,8,12.0,19,Flash,Ignite,10,False,6278,6300,Control Ward,Refillable Potion,Ruby Sightstone,Boots of Swiftness,Iceborn Gauntlet,Relic Shield,4577,7210,Lane.bot_lane,Role.support

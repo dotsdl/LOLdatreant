@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Asgea,Sona,True,Side.blue,1,5,14,3.0,21,Ignite,Flash,11,False,8569,6975,Spellthief's Edge,Lich Bane,Sorcerer's Shoes,Needlessly Large Rod,Aether Wisp,,20387,7259,Lane.bot_lane,Role.support
+1,Sìyou,Caitlyn,True,Side.blue,9,1,4,13.0,190,Flash,Heal,13,True,12474,11400,Vampiric Scepter,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,,2000,149407,Lane.bot_lane,Role.carry
+2,BlackChutney,Ryze,True,Side.blue,5,2,9,7.0,165,Ghost,Flash,15,False,11301,9410,Rod of Ages,Seraph's Embrace,Fiendish Codex,Ionian Boots of Lucidity,Lost Chapter,Amplifying Tome,111666,8805,Lane.mid_lane,Role.solo
+3,GtG MoSeNa,Riven,True,Side.blue,4,3,4,2.6666666666666665,167,Teleport,Flash,14,False,10638,9200,Tiamat,The Black Cleaver,Death's Dance,Ninja Tabi,Refillable Potion,,2864,108985,Lane.top_lane,Role.solo
+4,FourofDiamonds,Shyvana,True,Side.blue,4,2,2,3.0,153,Smite,Flash,14,False,10656,9225,Blade of the Ruined King,Refillable Potion,Enchantment: Bloodrazor,Ninja Tabi,Giant's Belt,Chain Vest,73237,74031,Lane.jungle,Role.none
+5,chaubb,Viktor,False,Side.red,4,5,2,1.2,173,Flash,Ghost,13,False,8694,8110,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Doran's Ring,Amplifying Tome,,89874,11921,Lane.mid_lane,Role.solo
+6,TszHin OvO,Graves,False,Side.red,4,6,5,1.5,155,Smite,Flash,12,False,8742,8700,Enchantment: Warrior,Berserker's Greaves,The Bloodthirster,Brawler's Gloves,Long Sword,Dagger,3943,107499,Lane.jungle,Role.none
+7,AsianSGpotato,Jax,False,Side.red,4,4,2,1.5,184,Flash,Teleport,13,False,8958,8283,Corrupting Potion,Bilgewater Cutlass,Trinity Force,Ninja Tabi,Doran's Blade,Recurve Bow,24439,81527,Lane.top_lane,Role.solo
+8,iubanana,Ezreal,False,Side.red,1,5,5,1.2,111,Flash,Heal,11,False,6843,6675,Control Ward,Muramana,Berserker's Greaves,Doran's Blade,Sheen,Phage,7046,49124,Lane.bot_lane,Role.carry
+9,Public Mushroom,Janna,False,Side.red,0,3,7,2.3333333333333335,9,Exhaust,Flash,10,False,5228,5025,Sightstone,Redemption,The Dark Seal,Ancient Coin,Ionian Boots of Lucidity,,3490,871,Lane.bot_lane,Role.support

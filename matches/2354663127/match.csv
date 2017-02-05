@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,McCashDollar,Shaco,False,Side.blue,2,8,5,0.875,22,Exhaust,Ignite,11,False,6915,5700,Frost Queen's Claim,Sightstone,Control Ward,Ionian Boots of Lucidity,Aether Wisp,The Dark Seal,23388,4041,Lane.bot_lane,Role.support
+1,Firé,Hecarim,False,Side.blue,11,8,6,2.125,77,Smite,Ghost,13,False,10192,10333,Ruby Crystal,Cloth Armor,Spectre's Cowl,Boots of Mobility,Trinity Force,Enchantment: Cinderhulk,13123,58151,Lane.jungle,Role.none
+2,I Am Leegend,Tryndamere,False,Side.blue,3,10,3,0.6,218,Ignite,Flash,14,True,9806,9225,Doran's Blade,Pickaxe,Statikk Shiv,Blade of the Ruined King,Boots of Speed,B. F. Sword,23395,107638,Lane.top_lane,Role.solo
+3,duckduckgoob,Orianna,False,Side.blue,2,9,9,1.2222222222222223,149,Ghost,Flash,13,False,8867,8850,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Control Ward,Blasting Wand,81285,9672,Lane.mid_lane,Role.solo
+4,Dontkillmek,Jinx,False,Side.blue,2,4,4,1.5,196,Flash,Heal,13,False,9458,9275,Berserker's Greaves,Cull,Doran's Blade,Infinity Edge,,Runaan's Hurricane,1000,107211,Lane.bot_lane,Role.carry
+5,Unstopebble,Karma,True,Side.red,2,5,17,3.8,7,Flash,Exhaust,13,False,9784,8775,Eye of the Watchers,Redemption,Cloth Armor,Ardent Censer,Ionian Boots of Lucidity,Null-Magic Mantle,12826,6275,Lane.bot_lane,Role.support
+6,Pht,Graves,True,Side.red,12,3,6,6.0,154,Smite,Flash,16,False,14626,11525,Enchantment: Warrior,Caulfield's Warhammer,Berserker's Greaves,Phantom Dancer,The Black Cleaver,Vampiric Scepter,2909,176680,Lane.jungle,Role.none
+7,Dystrex,Darius,True,Side.red,13,5,6,3.8,224,Exhaust,Flash,17,False,14654,11950,Doran's Blade,Dead Man's Plate,The Black Cleaver,Ninja Tabi,Zz'Rot Portal,Spectre's Cowl,258,136883,Lane.top_lane,Role.solo
+8,Crows Before Hos,Swain,True,Side.red,8,4,9,4.25,202,Ignite,Flash,16,False,13332,10975,Zhonya's Hourglass,Rod of Ages,Sorcerer's Shoes,Doran's Ring,Ruby Crystal,Abyssal Scepter,118073,14682,Lane.mid_lane,Role.solo
+9,popgoestheglock,Jhin,True,Side.red,4,3,13,5.666666666666667,151,Heal,Flash,14,False,11239,10125,Doran's Blade,Essence Reaver,Berserker's Greaves,Rapid Firecannon,B. F. Sword,Pickaxe,4441,102318,Lane.bot_lane,Role.carry

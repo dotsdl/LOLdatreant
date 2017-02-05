@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,xDukari,Lee Sin,True,Side.blue,4,2,13,8.5,130,Flash,Smite,13,False,10500,7200,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,Mercury's Treads,Long Sword,,17544,112705,Lane.jungle,Role.none
+1,Davisteraz,Miss Fortune,True,Side.blue,7,0,8,15.0,189,Heal,Flash,14,False,12218,8550,Cull,Corrupting Potion,Essence Reaver,Infinity Edge,Long Sword,,3344,120274,Lane.bot_lane,Role.carry
+2,MattDeitz,Soraka,True,Side.blue,0,0,14,14.0,14,Flash,Exhaust,12,False,8647,6100,Redemption,Sightstone,Mejai's Soulstealer,Cloth Armor,Nomad's Medallion,Boots of Speed,11705,5228,Lane.bot_lane,Role.support
+3,adc feng lft,Twisted Fate,True,Side.blue,14,3,3,5.666666666666667,178,Ghost,Flash,15,True,14068,12660,Void Staff,Rapid Firecannon,Lich Bane,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,128065,15791,Lane.mid_lane,Role.solo
+4,5pb,Maokai,True,Side.blue,2,1,11,13.0,137,Flash,Teleport,14,False,9947,7675,Corrupting Potion,Rod of Ages,Frozen Heart,Mercury's Treads,Null-Magic Mantle,Control Ward,67405,12828,Lane.top_lane,Role.solo
+5,NG ShadowFrost ,Kha'Zix,False,Side.red,2,7,0,0.2857142857142857,122,Flash,Smite,12,False,7794,7500,Enchantment: Warrior,Ravenous Hydra,Long Sword,Boots of Speed,,,3034,85806,Lane.jungle,Role.none
+6,Toukey,Janna,False,Side.red,0,3,3,1.0,3,Exhaust,Flash,10,False,5691,4600,Talisman of Ascension,Sightstone,Control Ward,Ionian Boots of Lucidity,,,1028,1454,Lane.bot_lane,Role.support
+7,Jhinathan ,Riven,False,Side.red,3,7,0,0.42857142857142855,173,Teleport,Flash,12,False,8187,7550,The Black Cleaver,Maw of Malmortius,Refillable Potion,,,Ionian Boots of Lucidity,0,77287,Lane.top_lane,Role.solo
+8,Happ,Anivia,False,Side.red,1,5,5,1.2,159,Ignite,Flash,13,False,8208,8150,Archangel's Staff,Total Biscuit of Rejuvenation,Sapphire Crystal,Doran's Ring,Rod of Ages,Sorcerer's Shoes,85040,11448,Lane.mid_lane,Role.solo
+9,Little Groot,Vayne,False,Side.red,0,5,2,0.4,198,Heal,Flash,12,False,8145,7900,Infinity Edge,Doran's Blade,Statikk Shiv,Berserker's Greaves,,,35017,67843,Lane.bot_lane,Role.carry

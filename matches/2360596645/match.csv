@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hanjaro,Twitch,False,Side.blue,5,8,3,1.0,150,Flash,Heal,11,False,8388,7800,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,0,73255,Lane.bot_lane,Role.carry
+1,Stellarity,Lee Sin,False,Side.blue,3,5,7,2.0,107,Smite,Flash,12,False,7692,7075,Tiamat,Refillable Potion,Mercury's Treads,Enchantment: Warrior,Warden's Mail,Giant's Belt,11825,76541,Lane.jungle,Role.none
+2,Rudeclaw,Thresh,False,Side.blue,1,6,7,1.3333333333333333,19,Flash,Exhaust,10,True,5561,5500,Face of the Mountain,Ruby Crystal,,Ruby Sightstone,Ionian Boots of Lucidity,,7363,5173,Lane.bot_lane,Role.support
+3,Bhikku,Orianna,False,Side.blue,5,4,6,2.75,184,Cleanse,Flash,14,False,9522,8800,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Blasting Wand,,96994,10156,Lane.mid_lane,Role.solo
+4,only grab grills,Nautilus,False,Side.blue,0,5,2,0.4,150,Teleport,Flash,12,False,7303,6200,Corrupting Potion,Bami's Cinder,Zz'Rot Portal,Ninja Tabi,Chain Vest,,48178,21103,Lane.top_lane,Role.solo
+5,Shamoo,Amumu,True,Side.red,3,1,10,13.0,110,Flash,Smite,13,False,10152,9175,Boots of Speed,Enchantment: Runic Echoes,Sunfire Cape,Abyssal Scepter,Null-Magic Mantle,,82671,21210,Lane.jungle,Role.none
+6,DaboIogy,Alistar,True,Side.red,0,6,13,2.1666666666666665,23,Exhaust,Flash,10,False,7639,6700,Face of the Mountain,Redemption,Sightstone,Ninja Tabi,,,8101,5753,Lane.bot_lane,Role.support
+7,Frank Slade,Riven,True,Side.red,9,1,4,13.0,213,Teleport,Flash,16,False,12776,11500,Ravenous Hydra,,The Black Cleaver,,The Bloodthirster,Ionian Boots of Lucidity,0,136944,Lane.top_lane,Role.solo
+8,Mishas Swamp,Twisted Fate,True,Side.red,2,4,5,1.75,156,Teleport,Flash,14,False,10418,10320,Ionian Boots of Lucidity,Seeker's Armguard,Lich Bane,Rod of Ages,Fiendish Codex,Negatron Cloak,89192,9367,Lane.mid_lane,Role.solo
+9,Icerank,Vayne,True,Side.red,14,2,5,9.5,155,Heal,Flash,13,False,13631,11350,Doran's Blade,Statikk Shiv,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,Infinity Edge,15262,85850,Lane.bot_lane,Role.carry

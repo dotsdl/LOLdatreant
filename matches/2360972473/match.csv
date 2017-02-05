@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,You all boosted,Janna,True,Side.blue,1,2,23,12.0,12,Flash,Ignite,14,False,9766,8900,Locket of the Iron Solari,Ruby Sightstone,Redemption,Ancient Coin,Ionian Boots of Lucidity,Raptor Cloak,3570,3163,Lane.bot_lane,Role.support
+1,McCashDollar,Shaco,True,Side.blue,3,5,5,1.6,142,Teleport,Ignite,14,False,9859,9983,Trinity Force,Hextech Protobelt-01,,Ionian Boots of Lucidity,Doran's Ring,B. F. Sword,49495,25143,Lane.top_lane,Role.solo
+2,cinto mamochi,Ekko,True,Side.blue,12,3,3,5.0,162,Ignite,Flash,15,False,12460,12625,,Hextech Protobelt-01,Lich Bane,Sorcerer's Shoes,Seeker's Armguard,Luden's Echo,94478,18676,Lane.mid_lane,Role.solo
+3,Doublelift,Vayne,True,Side.blue,10,5,6,3.2,202,Flash,Heal,14,True,13967,13025,Doran's Blade,Infinity Edge,Guardian Angel,Statikk Shiv,Berserker's Greaves,Phantom Dancer,36543,123187,Lane.bot_lane,Role.carry
+4,Makavéli,Olaf,True,Side.blue,9,5,8,3.4,156,Smite,Ghost,16,False,12610,12300,Enchantment: Cinderhulk,Randuin's Omen,Control Ward,Banshee's Veil,Dead Man's Plate,Ionian Boots of Lucidity,22119,113627,Lane.jungle,Role.none
+5,cute pupper irl,Lee Sin,False,Side.red,6,10,6,1.2,131,Flash,Smite,14,False,10378,9845,Dead Man's Plate,Negatron Cloak,Tiamat,Enchantment: Warrior,Boots of Mobility,Spectre's Cowl,15032,96928,Lane.jungle,Role.none
+6,Regular Mid,Ezreal,False,Side.red,2,7,5,1.0,158,Flash,Heal,13,False,9586,9333,Muramana,Long Sword,Trinity Force,Doran's Blade,Ionian Boots of Lucidity,Long Sword,26994,78154,Lane.bot_lane,Role.carry
+7,Rhux,Kennen,False,Side.red,6,4,3,2.25,212,Flash,Teleport,16,False,10692,10400,Doran's Blade,Doran's Blade,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Abyssal Scepter,88700,41944,Lane.top_lane,Role.solo
+8,Turkish Coffee,Miss Fortune,False,Side.red,1,7,7,1.1428571428571428,28,Ignite,Flash,11,False,7972,7450,Refillable Potion,Eye of the Watchers,,,The Black Cleaver,Boots of Swiftness,20147,19773,Lane.bot_lane,Role.support
+9,Yusui,Yasuo,False,Side.red,5,7,2,1.0,245,Exhaust,Flash,15,False,12115,11450,Doran's Blade,Infinity Edge,Statikk Shiv,Frozen Mallet,Long Sword,Berserker's Greaves,64119,102542,Lane.mid_lane,Role.solo

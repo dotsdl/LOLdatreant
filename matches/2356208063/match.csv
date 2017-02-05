@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,aphromoo,Lulu,True,Side.blue,1,0,0,1.0,2,Exhaust,Flash,2,False,1008,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,104,153,Lane.bot_lane,Role.duo
+1,Zero Nostalgia,Jhin,True,Side.blue,0,0,1,1.0,12,Heal,Flash,2,False,954,500,Doran's Blade,,,,,,5,2567,Lane.bot_lane,Role.duo
+2,Henrÿ,Vayne,True,Side.blue,0,1,1,1.0,3,Flash,Ghost,2,False,796,500,Doran's Blade,,,,,,0,1472,Lane.mid_lane,Role.solo
+3,Rip Cig,Graves,True,Side.blue,0,1,0,0.0,10,Flash,Smite,2,False,958,500,Hunter's Machete,Refillable Potion,,,,,0,6352,Lane.jungle,Role.none
+4,iOddOrange,Lee Sin,True,Side.blue,0,0,0,0.0,3,Flash,Teleport,1,False,724,500,Doran's Blade,,,,,,709,93,Lane.top_lane,Role.solo
+5,FeeIsBoostedMan,Rengar,False,Side.red,0,0,0,0.0,0,Smite,Flash,1,False,664,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+6,Distasteful,Lucian,False,Side.red,2,0,0,2.0,0,Flash,Heal,1,True,1364,850,Doran's Blade,Total Biscuit of Rejuvenation,Long Sword,,,,0,1302,Lane.jungle,Role.none
+7,Jinoa,Trundle,False,Side.red,0,1,0,0.0,0,Ignite,Flash,1,False,664,500,,,,Rejuvenation Bead,Rejuvenation Bead,Rejuvenation Bead,0,1452,Lane.jungle,Role.none
+8,06 24 1998,Pantheon,False,Side.red,0,0,2,2.0,3,Ignite,Flash,2,False,954,575,,Corrupting Potion,,,,,261,1213,Lane.top_lane,Role.solo
+9,Bw2jkcl7q1,Diana,False,Side.red,0,0,0,0.0,11,Flash,Teleport,3,False,897,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1697,1401,Lane.mid_lane,Role.duo

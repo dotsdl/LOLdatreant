@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kris Weng,Twitch,True,Side.blue,11,2,6,8.5,240,Flash,Heal,15,False,14907,12800,Berserker's Greaves,B. F. Sword,Infinity Edge,Runaan's Hurricane,Mortal Reminder,Vampiric Scepter,0,164048,Lane.bot_lane,Role.carry
+1,herolineage,LeBlanc,True,Side.blue,5,4,8,3.25,182,Flash,Teleport,15,True,12281,11050,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Void Staff,Rabadon's Deathcap,,98549,10902,Lane.top_lane,Role.solo
+2,Blazed Nova,Kha'Zix,True,Side.blue,10,2,5,7.5,205,Flash,Smite,17,False,14990,12350,Quicksilver Sash,Duskblade of Draktharr,Death's Dance,,Enchantment: Warrior,Ionian Boots of Lucidity,4725,229172,Lane.jungle,Role.none
+3,BasementCasanova,Lucian,True,Side.blue,2,3,5,2.3333333333333335,245,Flash,Heal,16,False,12341,9950,Ionian Boots of Lucidity,Essence Reaver,Phantom Dancer,B. F. Sword,Pickaxe,Doran's Blade,5119,154825,Lane.mid_lane,Role.solo
+4,TheMoonIsMySun,Brand,True,Side.blue,4,1,11,15.0,29,Flash,Ignite,13,False,10877,8625,Frostfang,Rylai's Crystal Scepter,,Sorcerer's Shoes,Liandry's Torment,,44388,6240,Lane.bot_lane,Role.support
+5,IBoilerUp,Zyra,False,Side.red,1,11,3,0.36363636363636365,38,Ignite,Flash,12,False,7284,6725,Ruby Sightstone,Zhonya's Hourglass,Ionian Boots of Lucidity,Frostfang,Control Ward,,35138,4103,Lane.bot_lane,Role.support
+6,FB3K,Poppy,False,Side.red,4,4,3,1.75,207,Flash,Teleport,15,False,10254,9775,Corrupting Potion,Ninja Tabi,Spirit Visage,Sunfire Cape,Guardian Angel,,34292,89048,Lane.top_lane,Role.solo
+7,DONGLORD420,Ivern,False,Side.red,3,7,7,1.4285714285714286,61,Flash,Smite,13,False,8662,8125,Redemption,Locket of the Iron Solari,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Hunter's Potion,10588,3050,Lane.jungle,Role.none
+8,Always miss my q,Lux,False,Side.red,3,2,5,4.0,150,Ignite,Flash,14,False,8772,8725,Rabadon's Deathcap,Blasting Wand,Tear of the Goddess,Sorcerer's Shoes,,Mejai's Soulstealer,99594,7120,Lane.mid_lane,Role.solo
+9,Flame0n,Caitlyn,False,Side.red,1,8,3,0.5,197,Heal,Flash,14,False,9588,8850,Doran's Blade,Cull,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Dagger,784,108293,Lane.bot_lane,Role.carry

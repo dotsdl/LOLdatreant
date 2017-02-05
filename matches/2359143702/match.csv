@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SNSD Sunnny,Swain,False,Side.blue,2,6,1,0.5,212,Teleport,Flash,14,False,9113,9025,Sorcerer's Shoes,Rod of Ages,Giant's Belt,Doran's Ring,Zhonya's Hourglass,Doran's Ring,88048,11713,Lane.top_lane,Role.solo
+1,TwistyJuker,Orianna,False,Side.blue,3,8,6,1.125,172,Flash,Ignite,13,False,9194,8250,Refillable Potion,Sorcerer's Shoes,Luden's Echo,,Morellonomicon,Doran's Ring,80104,12264,Lane.mid_lane,Role.solo
+2,CLG YoonA,Graves,False,Side.blue,7,7,5,1.7142857142857142,129,Smite,Flash,13,False,10274,10025,Phantom Dancer,Enchantment: Warrior,The Black Cleaver,Berserker's Greaves,Long Sword,,3135,109684,Lane.jungle,Role.none
+3,Fragnat1c,Alistar,False,Side.blue,1,4,9,2.5,29,Exhaust,Flash,11,False,6524,6250,Ruby Crystal,Locket of the Iron Solari,Boots of Mobility,,Eye of the Equinox,,8276,4557,Lane.bot_lane,Role.support
+4,AZNDEVIL,Jhin,False,Side.blue,4,5,6,2.0,140,Heal,Flash,12,False,8794,8625,Doran's Blade,Essence Reaver,Control Ward,Rapid Firecannon,Boots of Swiftness,Pickaxe,6012,75711,Lane.bot_lane,Role.carry
+5,1OR1 YAGAMI,Lulu,True,Side.red,1,5,12,2.6,20,Flash,Exhaust,12,False,8412,7500,Aegis of the Legion,Eye of the Watchers,Redemption,Boots of Mobility,The Dark Seal,Null-Magic Mantle,10589,7252,Lane.bot_lane,Role.support
+6,Screaming,Veigar,True,Side.red,8,1,9,17.0,161,Ghost,Flash,15,False,11869,11100,Ionian Boots of Lucidity,Doran's Ring,Banshee's Veil,Rabadon's Deathcap,Morellonomicon,,106734,9795,Lane.mid_lane,Role.solo
+7,CookiesforSanta,Jayce,True,Side.red,7,2,4,5.5,217,Teleport,Flash,16,False,12346,10800,Maw of Malmortius,Mortal Reminder,Mercury's Treads,The Black Cleaver,Long Sword,,22353,124526,Lane.top_lane,Role.solo
+8,ICECREAMMAGIC,Vayne,True,Side.red,10,7,5,2.142857142857143,210,Flash,Heal,14,False,12993,10600,Statikk Shiv,Phantom Dancer,,Doran's Blade,Infinity Edge,Berserker's Greaves,30929,116945,Lane.bot_lane,Role.carry
+9,coldrain evening,Vi,True,Side.red,4,2,9,6.5,170,Smite,Flash,16,True,12398,11425,Blade of the Ruined King,Hunter's Potion,Boots of Swiftness,Enchantment: Warrior,The Black Cleaver,Giant's Belt,2001,156628,Lane.jungle,Role.none

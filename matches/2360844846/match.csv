@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Keegun,Pantheon,True,Side.blue,7,1,6,13.0,131,Flash,Ignite,12,False,9055,6875,Corrupting Potion,Youmuu's Ghostblade,Edge of Night,,Boots of Speed,,4136,73136,Lane.mid_lane,Role.solo
+1,MRTONERBONER,Poppy,True,Side.blue,3,2,5,4.0,91,Teleport,Flash,12,False,6870,4850,Spectre's Cowl,Bami's Cinder,Mercury's Treads,Chain Vest,Corrupting Potion,,7896,38260,Lane.top_lane,Role.solo
+2,C9 Lemon,Karma,True,Side.blue,2,4,15,4.25,10,Ignite,Flash,10,False,7064,5000,The Dark Seal,Refillable Potion,Aegis of the Legion,Eye of the Watchers,,Ionian Boots of Lucidity,9495,4865,Lane.bot_lane,Role.support
+3,impala tamer,Jhin,True,Side.blue,6,3,8,4.666666666666667,148,Heal,Flash,11,True,9047,6700,Doran's Blade,Essence Reaver,Total Biscuit of Rejuvenation,Boots of Swiftness,Zeal,Dagger,1182,72892,Lane.bot_lane,Role.carry
+4,Xmithie,Graves,True,Side.blue,5,0,8,13.0,156,Smite,Flash,13,False,9660,7425,Enchantment: Warrior,Berserker's Greaves,The Black Cleaver,Dagger,,,3871,131493,Lane.jungle,Role.none
+5,Rhux,Kennen,False,Side.red,1,4,4,1.25,134,Flash,Teleport,12,False,6592,5725,Boots of Speed,Doran's Blade,Hextech Protobelt-01,Seeker's Armguard,Refillable Potion,Giant's Belt,33276,25121,Lane.top_lane,Role.solo
+6,Contractz,Lee Sin,False,Side.red,6,4,3,2.25,108,Smite,Flash,11,False,8226,7625,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Cloth Armor,Ruby Crystal,Ninja Tabi,14751,73860,Lane.jungle,Role.none
+7,Turkish Coffee,Soraka,False,Side.red,0,6,4,0.6666666666666666,10,Exhaust,Flash,9,False,4674,4300,Refillable Potion,Sightstone,Crystalline Bracer,Forbidden Idol,Nomad's Medallion,Ionian Boots of Lucidity,3665,2363,Lane.bot_lane,Role.support
+8,ApoIlo Price,Ezreal,False,Side.red,2,4,1,0.75,157,Flash,Heal,10,False,6871,6300,Doran's Blade,Manamune,Long Sword,Ionian Boots of Lucidity,Sheen,Glacial Shroud,7469,53019,Lane.bot_lane,Role.carry
+9,godrjsdnd,Corki,False,Side.red,1,5,2,0.6,141,Heal,Flash,11,False,6760,6733,Doran's Blade,Refillable Potion,Trinity Force,Sorcerer's Shoes,Vampiric Scepter,Long Sword,50024,16974,Lane.mid_lane,Role.solo

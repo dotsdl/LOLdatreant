@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rampage101,Hecarim,False,Side.blue,0,8,2,0.25,67,Ghost,Smite,8,False,4743,4350,Stalker's Blade,Phage,Boots of Speed,Sheen,Dagger,Dagger,7596,36678,Lane.jungle,Role.none
+1,II Support II,Janna,False,Side.blue,1,3,5,2.0,2,Flash,Exhaust,9,False,4645,4400,Redemption,Boots of Speed,Sightstone,Nomad's Medallion,,,1522,1626,Lane.bot_lane,Role.support
+2,Mil,Yasuo,False,Side.blue,2,10,1,0.3,100,Flash,Ignite,10,False,5543,4275,Doran's Blade,Phantom Dancer,Pickaxe,Boots of Speed,,,6093,43501,Lane.mid_lane,Role.solo
+3,ilyTaylor,Ezreal,False,Side.blue,4,5,0,0.8,130,Flash,Heal,10,False,6828,6550,Doran's Blade,,,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,3633,38585,Lane.bot_lane,Role.carry
+4,FiIl or Feed,Malphite,False,Side.blue,1,4,2,0.75,98,Flash,Teleport,10,False,5370,8450,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,23824,17167,Lane.top_lane,Role.solo
+5,Darke,Nidalee,True,Side.red,8,3,10,6.0,74,Flash,Smite,12,False,9365,8975,Rylai's Crystal Scepter,Refillable Potion,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,68560,13238,Lane.jungle,Role.none
+6,Sara Ngao,Singed,True,Side.red,7,0,9,16.0,116,Ghost,Teleport,13,True,9138,8075,The Dark Seal,Corrupting Potion,Thornmail,Rod of Ages,Boots of Swiftness,Raptor Cloak,69752,6289,Lane.mid_lane,Role.solo
+7,herolineage,Vayne,True,Side.red,6,3,6,4.0,150,Flash,Heal,11,False,9502,6375,Doran's Blade,B. F. Sword,Statikk Shiv,Berserker's Greaves,Pickaxe,,13871,61910,Lane.bot_lane,Role.carry
+8,oSunny,Morgana,True,Side.red,2,1,10,12.0,7,Exhaust,Flash,10,False,6603,4725,Ionian Boots of Lucidity,Eye of the Watchers,Ruby Crystal,Forbidden Idol,Rejuvenation Bead,,13350,5148,Lane.bot_lane,Role.support
+9,natural affinity,Riven,True,Side.red,7,1,3,10.0,171,Teleport,Flash,13,False,9924,7875,Youmuu's Ghostblade,Tiamat,Refillable Potion,The Black Cleaver,Boots of Speed,,0,101702,Lane.top_lane,Role.solo

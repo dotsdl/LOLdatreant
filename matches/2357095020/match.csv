@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,14W Adc,Lucian,True,Side.blue,9,2,3,6.0,135,Flash,Heal,10,False,9411,7525,Doran's Blade,Essence Reaver,Phantom Dancer,Boots of Speed,Dagger,,1653,69408,Lane.bot_lane,Role.carry
+1,JungKookin,Thresh,True,Side.blue,1,2,10,5.5,27,Flash,Ignite,9,False,5438,5325,Aegis of the Legion,Sightstone,Boots of Speed,Face of the Mountain,Null-Magic Mantle,Control Ward,7129,5533,Lane.bot_lane,Role.support
+2,Braums Mustache,Poppy,True,Side.blue,4,2,5,4.5,122,Flash,Teleport,12,False,7542,6250,Mercury's Treads,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Ruby Crystal,Control Ward,19021,36914,Lane.top_lane,Role.solo
+3,Watarimono,Ivern,True,Side.blue,3,0,10,13.0,56,Flash,Smite,11,False,7197,5300,Hunter's Talisman,Refillable Potion,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Ruby Crystal,Cloth Armor,7036,5353,Lane.jungle,Role.none
+4,BatBoyMelee,Twisted Fate,True,Side.blue,6,3,6,4.0,102,Flash,Ghost,12,False,7959,7810,Doran's Ring,Rod of Ages,Lich Bane,Ionian Boots of Lucidity,Amplifying Tome,,49320,10230,Lane.mid_lane,Role.solo
+5,Labryaden,Katarina,False,Side.red,2,5,1,0.6,83,Ignite,Flash,9,False,5589,4650,Boots of Speed,Refillable Potion,Abyssal Scepter,Needlessly Large Rod,,,39182,8804,Lane.mid_lane,Role.solo
+6,Davidhow,Sion,False,Side.red,1,7,2,0.42857142857142855,105,Teleport,Flash,10,False,5706,5050,Corrupting Potion,Sunfire Cape,Boots of Speed,The Dark Seal,Glacial Shroud,,40700,25327,Lane.top_lane,Role.solo
+7,Subzeroark,Vi,False,Side.red,2,4,2,1.0,88,Flash,Smite,11,True,6555,6400,Enchantment: Warrior,Ninja Tabi,Sheen,Control Ward,Refillable Potion,Phage,1595,75326,Lane.jungle,Role.none
+8,Baby Brimstone,Lulu,False,Side.red,1,4,4,1.25,8,Flash,Exhaust,9,False,4713,3675,Frostfang,Sightstone,Forbidden Idol,,Boots of Speed,Crystalline Bracer,6720,1341,Lane.bot_lane,Role.support
+9,LaCre,Ezreal,False,Side.red,3,3,2,1.6666666666666667,164,Flash,Heal,11,False,7453,7083,Doran's Blade,Trinity Force,Manamune,Total Biscuit of Rejuvenation,,Boots of Speed,14051,49502,Lane.bot_lane,Role.carry

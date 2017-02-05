@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,USAwifisucks,Zed,False,Side.blue,8,4,3,2.75,238,Flash,Exhaust,17,False,12722,12525,Jaurim's Fist,Tiamat,Youmuu's Ghostblade,Sterak's Gage,The Black Cleaver,Ninja Tabi,8479,128573,Lane.mid_lane,Role.solo
+1,HaiHenry,Nidalee,False,Side.blue,2,10,5,0.7,24,Ignite,Flash,12,False,9038,8400,Eye of the Watchers,Sorcerer's Shoes,Rod of Ages,Needlessly Large Rod,Blasting Wand,,25243,4483,Lane.bot_lane,Role.support
+2,tankor1234,Jinx,False,Side.blue,4,10,3,0.7,183,Flash,Heal,13,False,10584,8900,Doran's Blade,Zeal,Infinity Edge,Berserker's Greaves,Vampiric Scepter,Last Whisper,2013,115579,Lane.bot_lane,Role.carry
+3,Hoe9ing,Darius,False,Side.blue,5,4,3,2.0,225,Flash,Teleport,16,False,11466,10950,Ninja Tabi,Refillable Potion,The Black Cleaver,Dead Man's Plate,Zz'Rot Portal,Warden's Mail,272,122114,Lane.top_lane,Role.solo
+4,Levels Above You,Elise,False,Side.blue,4,6,4,1.3333333333333333,171,Flash,Smite,16,False,11776,11360,Enchantment: Runic Echoes,Blasting Wand,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Liandry's Torment,Amplifying Tome,143299,38873,Lane.jungle,Role.none
+5,Sequencys,Yasuo,True,Side.red,5,5,6,2.2,297,Teleport,Flash,17,False,14293,11985,Doran's Blade,Infinity Edge,Ninja Tabi,Frozen Mallet,Phantom Dancer,Dagger,31198,158775,Lane.top_lane,Role.solo
+6,MeltedBlock,Vi,True,Side.red,10,5,7,3.4,155,Smite,Flash,16,False,14446,11725,Enchantment: Warrior,Boots of Swiftness,Long Sword,Dead Man's Plate,Phage,Titanic Hydra,3444,182516,Lane.jungle,Role.none
+7,Shaft Sgt Boner,Alistar,True,Side.red,5,1,21,26.0,45,Flash,Exhaust,15,True,12015,10000,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,Frozen Heart,,Ionian Boots of Lucidity,17367,13478,Lane.bot_lane,Role.support
+8,iRev,Fizz,True,Side.red,4,5,4,1.6,162,Flash,Ignite,15,False,11655,9950,Sorcerer's Shoes,Doran's Ring,,Needlessly Large Rod,Lich Bane,Rabadon's Deathcap,58573,34835,Lane.mid_lane,Role.solo
+9,herolineage,Tristana,True,Side.red,10,7,10,2.857142857142857,226,Flash,Heal,16,False,15645,14900,Blade of the Ruined King,,Statikk Shiv,The Bloodthirster,Berserker's Greaves,Infinity Edge,54863,129869,Lane.bot_lane,Role.carry

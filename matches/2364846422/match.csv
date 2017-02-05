@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RealTeemo,Teemo,True,Side.blue,7,0,5,12.0,193,Teleport,Flash,14,False,11146,8425,Doran's Ring,Refillable Potion,Zz'Rot Portal,Nashor's Tooth,Sorcerer's Shoes,Fiendish Codex,56604,36041,Lane.top_lane,Role.solo
+1,foggedftw1,Tryndamere,True,Side.blue,4,1,1,5.0,177,Smite,Flash,14,True,9879,7350,Enchantment: Bloodrazor,Statikk Shiv,Berserker's Greaves,Pickaxe,,,15693,141274,Lane.jungle,Role.none
+2,UselessNihilist,Blitzcrank,True,Side.blue,2,2,9,5.5,36,Ignite,Flash,11,False,6992,5625,Face of the Mountain,Sightstone,,Forbidden Idol,Crystalline Bracer,Boots of Swiftness,7851,6910,Lane.bot_lane,Role.support
+3,KamiyaHrc,Aurelion Sol,True,Side.blue,7,1,5,12.0,176,Ghost,Flash,14,False,10332,8510,Boots of Swiftness,Corrupting Potion,Rylai's Crystal Scepter,Amplifying Tome,Hextech GLP-800,Ruby Crystal,95823,6910,Lane.mid_lane,Role.solo
+4,Calvingod,Caitlyn,True,Side.blue,4,3,7,3.6666666666666665,138,Heal,Flash,11,False,9382,7325,Doran's Blade,Cloak of Agility,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,Pickaxe,253,75345,Lane.bot_lane,Role.carry
+5,Kevin Loves You,Ryze,False,Side.red,0,7,0,0.0,163,Teleport,Flash,11,False,5958,5950,Tear of the Goddess,Rod of Ages,Mercury's Treads,Needlessly Large Rod,,,74567,6686,Lane.top_lane,Role.solo
+6,Indivisible,Nami,False,Side.red,0,3,4,1.3333333333333333,14,Flash,Exhaust,10,False,4960,4400,Total Biscuit of Rejuvenation,Control Ward,Forbidden Idol,Eye of the Watchers,,Boots of Mobility,4446,4229,Lane.bot_lane,Role.support
+7,UNBAN SOJS,Vladimir,False,Side.red,1,3,2,1.0,147,Flash,Ghost,12,False,6462,5475,Ionian Boots of Lucidity,Spirit Visage,Control Ward,Kindlegem,Ruby Crystal,,55926,14835,Lane.mid_lane,Role.solo
+8,NFIZZLE,Vi,False,Side.red,2,5,1,0.6,85,Flash,Smite,11,False,6067,6025,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Giant's Belt,Warden's Mail,,1612,67234,Lane.jungle,Role.none
+9,zz cicero,Tristana,False,Side.red,4,6,0,0.6666666666666666,155,Heal,Flash,10,False,7172,6600,Control Ward,Pickaxe,Berserker's Greaves,B. F. Sword,Doran's Blade,Runaan's Hurricane,19246,58166,Lane.bot_lane,Role.carry

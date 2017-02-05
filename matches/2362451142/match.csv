@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,Orianna,True,Side.blue,1,1,16,17.0,162,Flash,Ghost,13,False,9482,8575,Morellonomicon,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,,,84016,14531,Lane.mid_lane,Role.solo
+1,Riesig,Lissandra,True,Side.blue,11,3,5,5.333333333333333,213,Flash,Teleport,15,False,12501,11350,Sorcerer's Shoes,Hextech GLP-800,Morellonomicon,Void Staff,Fiendish Codex,Doran's Ring,126783,10458,Lane.top_lane,Role.solo
+2,eThug,Rek'Sai,True,Side.blue,10,1,10,20.0,164,Flash,Smite,14,False,11690,10475,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Ninja Tabi,The Black Cleaver,,18987,104620,Lane.jungle,Role.none
+3,Årcee,Sivir,True,Side.blue,6,4,12,4.5,141,Heal,Flash,12,False,10892,8450,Doran's Blade,Cull,Zeal,Berserker's Greaves,Essence Reaver,B. F. Sword,0,98967,Lane.bot_lane,Role.carry
+4,Leagué,Nautilus,True,Side.blue,3,4,13,4.0,26,Flash,Exhaust,10,False,8325,7625,Randuin's Omen,Face of the Mountain,Sightstone,Mercury's Treads,,,10924,6420,Lane.bot_lane,Role.support
+5,Daarr,Caitlyn,False,Side.red,2,9,2,0.4444444444444444,160,Flash,Heal,12,True,7699,6600,Doran's Blade,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Dagger,Cloak of Agility,446,83092,Lane.bot_lane,Role.carry
+6,Keegun,Pantheon,False,Side.red,3,5,3,1.2,53,Flash,Ignite,10,False,6748,6100,Relic Shield,Edge of Night,Serrated Dirk,Boots of Speed,Caulfield's Warhammer,,1472,31713,Lane.bot_lane,Role.support
+7,zlsna,Jayce,False,Side.red,3,5,3,1.2,168,Flash,Exhaust,13,False,8519,12825,Doran's Blade,Youmuu's Ghostblade,Youmuu's Ghostblade,,,,13539,81485,Lane.mid_lane,Role.solo
+8,jamican banana,Ivern,False,Side.red,2,5,5,1.4,93,Smite,Flash,12,False,7599,7225,Ionian Boots of Lucidity,Hextech Protobelt-01,Enchantment: Runic Echoes,Fiendish Codex,Refillable Potion,,27300,6061,Lane.jungle,Role.none
+9,Donde Esta Santa,Yasuo,False,Side.red,3,7,4,1.0,103,Teleport,Flash,11,False,7512,6650,Doran's Blade,Refillable Potion,Giant's Belt,Phantom Dancer,Jaurim's Fist,Mercury's Treads,19462,45075,Lane.top_lane,Role.solo

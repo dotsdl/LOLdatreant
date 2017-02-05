@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gorhunter,Nunu,True,Side.blue,3,0,9,12.0,77,Smite,Flash,11,False,7512,5150,Enchantment: Cinderhulk,Tiamat,Refillable Potion,Mercury's Treads,,,14852,30400,Lane.jungle,Role.none
+1,Locke Lamora,LeBlanc,True,Side.blue,6,0,6,12.0,138,Ignite,Flash,11,True,8975,6385,,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Amplifying Tome,61334,14876,Lane.mid_lane,Role.solo
+2,Darvec,Maokai,True,Side.blue,5,1,3,8.0,121,Teleport,Flash,11,False,7952,5325,Corrupting Potion,Doran's Ring,Ninja Tabi,The Dark Seal,Sunfire Cape,,56423,15057,Lane.top_lane,Role.solo
+3,SF Niffou,Jinx,True,Side.blue,5,2,7,6.0,123,Heal,Flash,10,False,8225,6025,Doran's Blade,Berserker's Greaves,Vampiric Scepter,Pickaxe,Runaan's Hurricane,,817,71048,Lane.bot_lane,Role.carry
+4,Slapo,Blitzcrank,True,Side.blue,0,0,12,12.0,30,Ignite,Flash,9,False,5977,4025,Control Ward,Sightstone,Catalyst of Aeons,Targon's Brace,Boots of Mobility,,5288,6931,Lane.bot_lane,Role.support
+5,Sunbob,Fiora,False,Side.red,1,4,0,0.25,125,Teleport,Flash,10,False,5112,4275,Boots of Swiftness,Tiamat,,Vampiric Scepter,Null-Magic Mantle,Doran's Blade,321,42759,Lane.top_lane,Role.solo
+6,Vultix,Elise,False,Side.red,0,3,2,0.6666666666666666,45,Flash,Smite,9,False,4459,3675,Enchantment: Runic Echoes,Ionian Boots of Lucidity,,,,,32034,16869,Lane.jungle,Role.none
+7,TheNotoriousDFG,Ryze,False,Side.red,0,4,0,0.0,112,Flash,Ghost,10,False,4656,3900,Tear of the Goddess,Refillable Potion,Rod of Ages,Boots of Speed,,,42183,5103,Lane.mid_lane,Role.solo
+8,NaVi Squirty,Twitch,False,Side.red,1,3,1,0.6666666666666666,83,Flash,Heal,8,False,4467,4000,Doran's Blade,B. F. Sword,Dagger,Berserker's Greaves,Dagger,Dagger,0,23707,Lane.bot_lane,Role.carry
+9,NaVi Juan,Karma,False,Side.red,1,5,1,0.4,2,Exhaust,Flash,6,False,3630,3100,,,,Sightstone,Frostfang,Ionian Boots of Lucidity,6243,3107,Lane.bot_lane,Role.support

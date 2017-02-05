@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vermillion2,Jinx,False,Side.blue,2,4,9,2.75,299,Heal,Flash,17,False,13930,12900,Berserker's Greaves,Guardian Angel,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,,3824,183664,Lane.bot_lane,Role.carry
+1,Kachu,Riven,False,Side.blue,4,5,11,3.0,242,Teleport,Flash,18,False,13560,13775,Hexdrinker,Titanic Hydra,Sterak's Gage,Ionian Boots of Lucidity,The Black Cleaver,Chain Vest,0,156660,Lane.top_lane,Role.solo
+2,G 4 R 0 U ,Graves,False,Side.blue,3,6,12,2.5,178,Smite,Flash,16,False,13591,13350,The Black Cleaver,Enchantment: Warrior,Phantom Dancer,Berserker's Greaves,Maw of Malmortius,Long Sword,5988,178337,Lane.jungle,Role.none
+3,6îx,Viktor,False,Side.blue,16,5,4,4.0,231,Ghost,Flash,17,False,16253,15050,Void Staff,Lich Bane,Perfect Hex Core,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Needlessly Large Rod,179525,14856,Lane.mid_lane,Role.solo
+4,Rekyn,Morgana,False,Side.blue,2,5,18,4.0,34,Flash,Exhaust,15,False,11577,10275,Frost Queen's Claim,Locket of the Iron Solari,Redemption,Boots of Speed,Sightstone,Ardent Censer,25693,4574,Lane.bot_lane,Role.support
+5,Darvec,Vi,True,Side.red,3,5,7,2.0,154,Smite,Flash,15,False,12748,11658,Enchantment: Warrior,Randuin's Omen,Trinity Force,Ionian Boots of Lucidity,Spectre's Cowl,,2258,163522,Lane.jungle,Role.none
+6,Filly,Nami,True,Side.red,2,5,14,3.2,17,Flash,Exhaust,14,True,10296,9325,Null-Magic Mantle,Cloth Armor,Eye of the Watchers,Redemption,Ardent Censer,Ionian Boots of Lucidity,10960,3999,Lane.bot_lane,Role.support
+7,Carkyn,Kayle,True,Side.red,4,5,7,2.2,233,Flash,Teleport,16,False,14370,13150,Doran's Ring,Blasting Wand,Nashor's Tooth,Ionian Boots of Lucidity,Guinsoo's Rageblade,Rabadon's Deathcap,130278,48288,Lane.top_lane,Role.solo
+8,Specctrum,Ekko,True,Side.red,8,5,6,2.8,288,Flash,Teleport,18,False,15300,14610,Rabadon's Deathcap,Lich Bane,Abyssal Scepter,Ionian Boots of Lucidity,Void Staff,Amplifying Tome,192763,29360,Lane.mid_lane,Role.solo
+9,RichiethePanda,Caitlyn,True,Side.red,8,7,7,2.142857142857143,228,Flash,Heal,15,False,14108,12775,Phantom Dancer,Infinity Edge,Quicksilver Sash,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,2490,167888,Lane.bot_lane,Role.carry

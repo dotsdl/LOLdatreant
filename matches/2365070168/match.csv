@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,kàylè,Kayle,True,Side.blue,4,2,4,4.0,251,Smite,Flash,16,False,12782,12285,Nashor's Tooth,Guinsoo's Rageblade,Giant's Belt,Boots of Swiftness,Amplifying Tome,Enchantment: Bloodrazor,79922,66741,Lane.top_lane,Role.solo
+1, keine Hosen,Draven,True,Side.blue,2,2,4,3.0,230,Flash,Heal,13,False,12189,11775,Phantom Dancer,Mercurial Scimitar,Youmuu's Ghostblade,Pickaxe,Doran's Blade,Berserker's Greaves,0,122302,Lane.bot_lane,Role.carry
+2,Finna Lit,Graves,True,Side.blue,8,3,1,3.0,231,Smite,Flash,17,True,14771,14300,Enchantment: Warrior,The Black Cleaver,Mercury's Treads,Maw of Malmortius,Phantom Dancer,B. F. Sword,7065,237099,Lane.jungle,Role.none
+3,Sînner,Taric,True,Side.blue,2,3,8,3.3333333333333335,38,Flash,Exhaust,13,False,8847,8025,Face of the Mountain,Redemption,Sightstone,Locket of the Iron Solari,,Boots of Speed,5038,6756,Lane.bot_lane,Role.support
+4,lllIllIIlllIllll,Lissandra,True,Side.blue,2,4,8,2.5,209,Flash,Teleport,15,False,11583,9675,Doran's Ring,Hextech Protobelt-01,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,Fiendish Codex,113787,16167,Lane.mid_lane,Role.solo
+5,Hello I am Dust,Thresh,False,Side.red,4,3,6,3.3333333333333335,28,Ignite,Flash,12,False,7305,7725,Redemption,Ruby Sightstone,Aegis of the Legion,,Relic Shield,Mercury's Treads,8849,3562,Lane.bot_lane,Role.support
+6,Chewy is god,Jhin,False,Side.red,1,4,7,2.0,197,Flash,Heal,12,False,8984,7925,Doran's Blade,Essence Reaver,Rapid Firecannon,,,Boots of Swiftness,4757,89627,Lane.bot_lane,Role.carry
+7,Tobias Fate,Gangplank,False,Side.red,4,4,6,2.5,253,Flash,Exhaust,16,False,13374,12833,Doran's Ring,Youmuu's Ghostblade,Infinity Edge,Trinity Force,Zeal,Boots of Speed,7365,212352,Lane.top_lane,Role.solo
+8,KoreaBread,Morgana,False,Side.red,3,6,5,1.3333333333333333,172,Flash,Teleport,14,False,8923,8460,Amplifying Tome,Abyssal Scepter,,Doran's Ring,Sorcerer's Shoes,Morellonomicon,82158,17067,Lane.mid_lane,Role.solo
+9,Filly,Zac,False,Side.red,2,1,6,8.0,135,Flash,Smite,13,False,9015,8550,Spectre's Cowl,Ruby Crystal,Enchantment: Cinderhulk,Randuin's Omen,,Ionian Boots of Lucidity,82424,30124,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lsh1,Malphite,True,Side.blue,3,4,11,3.5,101,Flash,Teleport,13,False,9309,8300,Corrupting Potion,Abyssal Scepter,Sunfire Cape,Mercury's Treads,Sheen,,39850,19456,Lane.top_lane,Role.solo
+1,Noghori,Karma,True,Side.blue,1,3,10,3.6666666666666665,9,Exhaust,Flash,12,False,8127,6875,Faerie Charm,Frost Queen's Claim,Sightstone,Faerie Charm,Ionian Boots of Lucidity,Banner of Command,17522,8636,Lane.bot_lane,Role.support
+2,Use my JJ,Taliyah,True,Side.blue,6,2,8,7.0,156,Exhaust,Flash,14,False,10918,9500,Doran's Ring,Rylai's Crystal Scepter,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Doran's Ring,86075,9877,Lane.mid_lane,Role.solo
+3,i Hoonsama,Miss Fortune,True,Side.blue,9,3,6,5.0,190,Flash,Heal,14,False,12354,11050,Youmuu's Ghostblade,The Black Cleaver,Duskblade of Draktharr,Berserker's Greaves,Doran's Blade,,4486,112432,Lane.bot_lane,Role.carry
+4,Fookie,Lee Sin,True,Side.blue,8,4,9,4.25,126,Smite,Flash,15,False,11732,9875,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,The Black Cleaver,Boots of Speed,Cloth Armor,27025,106880,Lane.jungle,Role.none
+5,Born to be cute,Caitlyn,False,Side.red,3,7,4,1.0,164,Flash,Heal,11,False,8245,7925,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,,,603,72240,Lane.bot_lane,Role.carry
+6,Anthøny,LeBlanc,False,Side.red,6,3,3,3.0,137,Ignite,Flash,12,True,8543,7300,Doran's Ring,Needlessly Large Rod,Doran's Ring,Aether Wisp,Sorcerer's Shoes,Morellonomicon,45027,14291,Lane.mid_lane,Role.solo
+7,m Say,Rumble,False,Side.red,3,5,5,1.6,138,Flash,Teleport,13,False,8091,7810,Giant's Belt,Haunting Guise,Sorcerer's Shoes,Doran's Shield,Abyssal Scepter,Amplifying Tome,69829,10290,Lane.top_lane,Role.solo
+8,LifeTapp,Jax,False,Side.red,4,7,3,1.0,93,Smite,Flash,12,False,8247,7683,Enchantment: Bloodrazor,Refillable Potion,Trinity Force,Mercury's Treads,,,25635,75240,Lane.jungle,Role.none
+9,DeathTapp,Braum,False,Side.red,0,5,9,1.8,32,Flash,Exhaust,10,False,6216,6125,Boots of Speed,Locket of the Iron Solari,Face of the Mountain,Ruby Crystal,Sightstone,,4783,6319,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vacuums Suck,Blitzcrank,True,Side.blue,3,2,12,7.5,40,Ignite,Flash,12,False,9374,8195,Face of the Mountain,Boots of Mobility,Ruby Sightstone,Negatron Cloak,Zeke's Harbinger,,11433,14431,Lane.bot_lane,Role.duo
+1,Nasuuna,Twitch,True,Side.blue,6,5,10,3.2,155,Heal,Flash,14,False,11554,9950,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Runaan's Hurricane,Kircheis Shard,381,106928,Lane.bot_lane,Role.duo
+2,Morde Next Door,Mordekaiser,True,Side.blue,6,5,7,2.6,165,Flash,Ignite,14,False,11067,10850,Void Staff,Hextech Gunblade,Sorcerer's Shoes,Rylai's Crystal Scepter,,,111114,13178,Lane.mid_lane,Role.solo
+3,Opposed,Lee Sin,True,Side.blue,7,4,8,3.75,117,Smite,Flash,14,False,11676,8845,Enchantment: Warrior,Tiamat,Refillable Potion,Dead Man's Plate,Mercury's Treads,Negatron Cloak,10885,96443,Lane.jungle,Role.none
+4,Oroshi,Yasuo,True,Side.blue,7,2,3,5.0,195,Exhaust,Flash,15,True,12226,8575,Vampiric Scepter,Hexdrinker,Phantom Dancer,Mercury's Treads,B. F. Sword,Pickaxe,19043,105959,Lane.top_lane,Role.solo
+5,R1 Demon,Diana,False,Side.red,3,7,4,1.0,115,Teleport,Flash,12,False,7795,7625,Doran's Ring,Zhonya's Hourglass,Nashor's Tooth,Boots of Speed,,,53048,10282,Lane.top_lane,Role.solo
+6,Yamikaze,Jhin,False,Side.red,3,8,8,1.375,190,Heal,Flash,13,False,9195,7775,Doran's Blade,Rapid Firecannon,Boots of Swiftness,Essence Reaver,,,5858,86829,Lane.bot_lane,Role.carry
+7,Usermang,Syndra,False,Side.red,2,7,9,1.5714285714285714,155,Ignite,Flash,13,False,8462,8025,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Doran's Ring,,80052,11467,Lane.mid_lane,Role.solo
+8,Fixyou,Trundle,False,Side.red,2,1,10,12.0,40,Exhaust,Flash,11,False,7255,6600,Ruby Sightstone,Face of the Mountain,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Glacial Shroud,,1704,12668,Lane.bot_lane,Role.support
+9,KT Score,Hecarim,False,Side.red,8,6,8,2.6666666666666665,109,Smite,Ghost,13,False,9966,9403,Enchantment: Cinderhulk,Trinity Force,Ruby Crystal,Chain Vest,Negatron Cloak,Boots of Swiftness,16296,82612,Lane.jungle,Role.none

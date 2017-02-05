@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,retarded virgin,Kha'Zix,True,Side.blue,7,5,5,2.4,155,Flash,Smite,17,False,13900,13825,Ionian Boots of Lucidity,Youmuu's Ghostblade,Ravenous Hydra,Enchantment: Warrior,Long Sword,Duskblade of Draktharr,5275,195554,Lane.jungle,Role.none
+1,Mlilweed,Jhin,True,Side.blue,9,5,15,4.8,220,Heal,Flash,17,False,15706,13825,B. F. Sword,Essence Reaver,Boots of Swiftness,Infinity Edge,Rapid Firecannon,Vampiric Scepter,5167,187238,Lane.bot_lane,Role.carry
+2,Jimny,Ezreal,True,Side.blue,5,5,14,3.8,38,Ignite,Flash,14,True,10724,9833,Doran's Blade,Sightstone,Muramana,Trinity Force,B. F. Sword,Ionian Boots of Lucidity,10989,58788,Lane.bot_lane,Role.support
+3,KayBee,LeBlanc,True,Side.blue,7,2,6,6.5,216,Ignite,Flash,17,False,13820,11800,Abyssal Scepter,Sorcerer's Shoes,The Dark Seal,Morellonomicon,Rylai's Crystal Scepter,Blasting Wand,118850,12988,Lane.mid_lane,Role.solo
+4,Pyrec,Ryze,True,Side.blue,8,5,7,3.0,312,Flash,Teleport,18,False,15904,14075,Rabadon's Deathcap,Seraph's Embrace,Ionian Boots of Lucidity,Rylai's Crystal Scepter,,Rod of Ages,237578,12683,Lane.top_lane,Role.solo
+5,JlZZDRAGON,Kassadin,False,Side.red,10,7,6,2.2857142857142856,197,Teleport,Flash,16,False,12561,11810,Amplifying Tome,Rod of Ages,Zhonya's Hourglass,Needlessly Large Rod,Ionian Boots of Lucidity,Morellonomicon,105136,20070,Lane.mid_lane,Role.solo
+6,YONl,Quinn,False,Side.red,2,7,5,1.0,185,Teleport,Flash,16,False,10757,10150,Youmuu's Ghostblade,Hexdrinker,Statikk Shiv,Berserker's Greaves,B. F. Sword,Cloak of Agility,10296,93456,Lane.top_lane,Role.solo
+7,bvcx222,Bard,False,Side.red,0,8,9,1.125,28,Flash,Exhaust,14,False,8052,7375,Ruby Sightstone,,Aegis of the Legion,Spellthief's Edge,Frozen Heart,Boots of Mobility,10741,4107,Lane.bot_lane,Role.support
+8,Wizzy,Vayne,False,Side.red,6,6,6,2.0,167,Heal,Flash,15,False,11618,11780,Doran's Blade,Berserker's Greaves,Infinity Edge,Zeal,Phantom Dancer,Vampiric Scepter,0,89492,Lane.bot_lane,Role.carry
+9,Twitch FateFalls,Graves,False,Side.red,4,8,3,0.875,237,Flash,Smite,16,False,12548,12375,Enchantment: Warrior,Lord Dominik's Regards,Phantom Dancer,Berserker's Greaves,Maw of Malmortius,,6068,200337,Lane.jungle,Role.none

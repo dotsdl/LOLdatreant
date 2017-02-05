@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Litoman,Morgana,False,Side.blue,1,5,4,1.0,11,Exhaust,Flash,10,False,6305,5575,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,,,,8241,2833,Lane.bot_lane,Role.support
+1,NoahMost,Katarina,False,Side.blue,4,6,2,1.0,148,Ignite,Flash,13,False,8157,7900,Zhonya's Hourglass,Refillable Potion,Sorcerer's Shoes,Doran's Shield,Rylai's Crystal Scepter,,73393,8532,Lane.mid_lane,Role.solo
+2,dog2,Caitlyn,False,Side.blue,1,7,2,0.42857142857142855,195,Flash,Heal,12,False,8455,8200,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,,708,105272,Lane.bot_lane,Role.carry
+3,BishopC,Nautilus,False,Side.blue,5,5,2,1.4,168,Flash,Teleport,14,False,8988,8500,Corrupting Potion,Iceborn Gauntlet,Sunfire Cape,Ninja Tabi,,Giant's Belt,73589,15865,Lane.top_lane,Role.solo
+4,chasethera1nbow,Lee Sin,False,Side.blue,7,8,4,1.375,64,Smite,Flash,12,False,8636,8300,Enchantment: Warrior,Refillable Potion,Ninja Tabi,The Black Cleaver,,Serrated Dirk,13152,68004,Lane.jungle,Role.none
+5,Im Jonny,Nidalee,True,Side.red,19,2,4,11.5,144,Flash,Smite,15,False,14528,12425,,Rabadon's Deathcap,Mejai's Soulstealer,Mercury's Treads,Rylai's Crystal Scepter,Enchantment: Runic Echoes,152758,16845,Lane.jungle,Role.none
+6,Alex Ich 1,Riven,True,Side.red,6,7,5,1.5714285714285714,176,Flash,Teleport,13,True,10236,9350,Tiamat,Mercury's Treads,Refillable Potion,Death's Dance,The Black Cleaver,,0,94314,Lane.top_lane,Role.solo
+7,UdonBdon,Yasuo,True,Side.red,1,7,4,0.7142857142857143,172,Ignite,Flash,13,False,9013,7175,Doran's Blade,Long Sword,Phantom Dancer,Mercury's Treads,B. F. Sword,Vampiric Scepter,26968,78050,Lane.mid_lane,Role.solo
+8,Rainy Snow,Miss Fortune,True,Side.red,4,1,12,16.0,197,Heal,Flash,13,False,10972,9925,Doran's Blade,The Black Cleaver,Youmuu's Ghostblade,Vampiric Scepter,B. F. Sword,Berserker's Greaves,4242,101391,Lane.bot_lane,Role.carry
+9,Sarcasm Orgasm,Janna,True,Side.red,1,1,22,23.0,9,Flash,Exhaust,13,False,7889,6975,Locket of the Iron Solari,Sightstone,Redemption,Ruby Crystal,Spellthief's Edge,Boots of Mobility,4010,5758,Lane.bot_lane,Role.support

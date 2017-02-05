@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Paxton,Lux,True,Side.blue,8,1,12,20.0,170,Flash,Ghost,15,False,12374,11275,Doran's Ring,Morellonomicon,Void Staff,Sorcerer's Shoes,Rabadon's Deathcap,,100269,15810,Lane.mid_lane,Role.solo
+1,U LoZe,Tahm Kench,True,Side.blue,3,5,13,3.2,137,Flash,Teleport,13,False,10533,9575,Boots of Swiftness,Zz'Rot Portal,Corrupting Potion,Sunfire Cape,Wit's End,,42057,20485,Lane.top_lane,Role.carry
+2,MART1N,Jhin,True,Side.blue,7,4,13,5.0,140,Heal,Flash,13,True,11612,10100,Boots of Swiftness,Zeal,Youmuu's Ghostblade,Infinity Edge,Kircheis Shard,Doran's Blade,8080,98360,Lane.bot_lane,Role.carry
+3,Betabet,Veigar,True,Side.blue,3,4,17,5.0,32,Flash,Exhaust,12,False,10029,9225,Redemption,Frost Queen's Claim,Sightstone,Ionian Boots of Lucidity,Void Staff,,36728,5446,Lane.bot_lane,Role.support
+4,You all boosted,Elise,True,Side.blue,13,2,9,11.0,144,Flash,Smite,15,False,13970,13775,Enchantment: Runic Echoes,Rabadon's Deathcap,Sorcerer's Shoes,Abyssal Scepter,Rylai's Crystal Scepter,Control Ward,116941,30814,Lane.top_lane,Role.support
+5,sungil2,Viktor,False,Side.red,2,6,4,1.0,194,Cleanse,Flash,13,False,8554,7950,The Hex Core mk-1,Giant's Belt,Needlessly Large Rod,Abyssal Scepter,Doran's Ring,Ionian Boots of Lucidity,99596,8255,Lane.mid_lane,Role.solo
+6,TET Regret,Kha'Zix,False,Side.red,5,9,4,1.0,79,Smite,Flash,12,False,8095,7600,Enchantment: Warrior,Hunter's Potion,Maw of Malmortius,Mercury's Treads,,,4418,76015,Lane.jungle,Role.none
+7,TET Frozen,Morgana,False,Side.red,0,3,11,3.6666666666666665,19,Ignite,Flash,11,False,6748,5350,Sightstone,Redemption,,Spellthief's Edge,Ruby Crystal,Ionian Boots of Lucidity,9848,4658,Lane.bot_lane,Role.support
+8,O N,Shen,False,Side.red,4,9,8,1.3333333333333333,88,Flash,Teleport,12,False,8016,7500,Doran's Shield,Sunfire Cape,Mercury's Treads,Spirit Visage,,,30956,20473,Lane.top_lane,Role.solo
+9,Rìot Faker,Vayne,False,Side.red,5,7,0,0.7142857142857143,149,Flash,Heal,12,False,8916,7800,Doran's Blade,Berserker's Greaves,Statikk Shiv,,Infinity Edge,,7339,74448,Lane.bot_lane,Role.carry

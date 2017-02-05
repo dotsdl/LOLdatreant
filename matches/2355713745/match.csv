@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Panna,Twitch,False,Side.blue,2,2,1,1.5,139,Heal,Flash,11,True,7330,7050,Doran's Blade,Cull,Pickaxe,Berserker's Greaves,B. F. Sword,Runaan's Hurricane,0,54271,Lane.bot_lane,Role.carry
+1,Oyay,Kennen,False,Side.blue,3,3,5,2.6666666666666665,119,Flash,Teleport,12,False,7200,6375,Sorcerer's Shoes,Refillable Potion,Hextech Protobelt-01,Haunting Guise,Doran's Shield,Doran's Blade,35806,17166,Lane.top_lane,Role.solo
+2,midmidmldmidmid,Malzahar,False,Side.blue,1,5,4,1.0,179,Ghost,Flash,12,False,7568,7360,Doran's Ring,Needlessly Large Rod,Morellonomicon,Giant's Belt,Amplifying Tome,Sorcerer's Shoes,64804,18174,Lane.mid_lane,Role.solo
+3,Hanjaro,Thresh,False,Side.blue,1,7,7,1.1428571428571428,8,Flash,Exhaust,10,False,5110,4400,Sightstone,Kindlegem,Ancient Coin,Ionian Boots of Lucidity,Crystalline Bracer,Crystalline Bracer,5042,1893,Lane.bot_lane,Role.support
+4,Loxheart,Vi,False,Side.blue,6,4,3,2.25,102,Flash,Smite,11,False,8047,7250,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Randuin's Omen,Ruby Crystal,,1489,76351,Lane.jungle,Role.none
+5,Madlifes Baby,Syndra,True,Side.red,1,2,8,4.5,62,Exhaust,Flash,11,False,8185,7635,Ruby Crystal,Sorcerer's Shoes,Eye of the Watchers,Amplifying Tome,,Rylai's Crystal Scepter,37248,6044,Lane.bot_lane,Role.support
+6,Mishas Swamp,Yasuo,True,Side.red,3,5,4,1.4,141,Exhaust,Flash,12,False,8860,8425,Mercury's Treads,Statikk Shiv,Doran's Blade,Infinity Edge,Doran's Blade,Health Potion,28772,53842,Lane.mid_lane,Role.solo
+7,Fv Ares,Graves,True,Side.red,5,1,9,14.0,155,Flash,Smite,15,False,11274,8825,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Phantom Dancer,Hexdrinker,Caulfield's Warhammer,4290,152043,Lane.jungle,Role.none
+8,Reformed Nove,Lucian,True,Side.red,12,2,5,8.5,189,Heal,Flash,14,False,13654,11300,Statikk Shiv,Youmuu's Ghostblade,Essence Reaver,Berserker's Greaves,Doran's Blade,Long Sword,6487,138614,Lane.bot_lane,Role.carry
+9,L0RENZ0,Poppy,True,Side.red,0,3,7,2.3333333333333335,127,Flash,Teleport,14,False,8304,6950,Spirit Visage,Corrupting Potion,Boots of Speed,Sunfire Cape,,Null-Magic Mantle,9004,65077,Lane.top_lane,Role.solo

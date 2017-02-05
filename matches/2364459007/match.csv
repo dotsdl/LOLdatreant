@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwistyJuker,Lee Sin,True,Side.blue,10,2,6,8.0,101,Flash,Smite,12,False,9711,9150,Tiamat,Enchantment: Warrior,Youmuu's Ghostblade,Quicksilver Sash,Refillable Potion,Boots of Mobility,16098,79298,Lane.jungle,Role.none
+1,BruisedMeat,Vayne,True,Side.blue,3,2,5,4.0,110,Flash,Heal,11,False,7506,6000,Doran's Blade,B. F. Sword,Boots of Speed,Statikk Shiv,Pickaxe,,5883,49760,Lane.bot_lane,Role.carry
+2,out skizzled,Ahri,True,Side.blue,10,1,5,15.0,159,Flash,Ignite,14,True,10731,7700,Doran's Ring,Morellonomicon,Luden's Echo,Sorcerer's Shoes,,,55585,9510,Lane.mid_lane,Role.solo
+3,CHEEZY DIAPER,Morgana,True,Side.blue,2,2,6,4.0,12,Exhaust,Flash,10,False,6521,6000,Redemption,Eye of the Watchers,Cloth Armor,Mercury's Treads,,,12203,5120,Lane.bot_lane,Role.support
+4,Tsui Wah ,Riven,True,Side.blue,7,3,4,3.6666666666666665,131,Flash,Teleport,13,False,8968,8300,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,,Doran's Blade,Doran's Blade,0,73802,Lane.top_lane,Role.solo
+5,Omnic1de,Darius,False,Side.red,3,7,0,0.42857142857142855,106,Flash,Teleport,11,False,5983,5700,Doran's Blade,Doran's Blade,Ninja Tabi,Phage,Thornmail,,0,52600,Lane.top_lane,Role.solo
+6,Poochmonkey,Ezreal,False,Side.red,2,6,0,0.3333333333333333,135,Heal,Flash,10,False,6478,5850,Doran's Blade,Sheen,Manamune,Ionian Boots of Lucidity,Glacial Shroud,,4717,46539,Lane.bot_lane,Role.carry
+7,Cash King Gucci ,Malzahar,False,Side.red,0,6,1,0.16666666666666666,129,Ghost,Flash,11,False,5790,5285,Doran's Ring,Ionian Boots of Lucidity,Amplifying Tome,Morellonomicon,Ruby Crystal,,34783,17012,Lane.mid_lane,Role.solo
+8,OreBil,Karma,False,Side.red,1,7,4,0.7142857142857143,4,Exhaust,Flash,9,False,5108,4400,Refillable Potion,Eye of the Watchers,Crystalline Bracer,Control Ward,,Ionian Boots of Lucidity,13905,5112,Lane.bot_lane,Role.support
+9,WatchThePower,Kha'Zix,False,Side.red,4,6,0,0.6666666666666666,99,Flash,Smite,11,False,7000,6650,Refillable Potion,Tiamat,Ionian Boots of Lucidity,Enchantment: Warrior,Vampiric Scepter,Pickaxe,3178,85222,Lane.jungle,Role.none

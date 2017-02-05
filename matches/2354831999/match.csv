@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sangydog,Lee Sin,True,Side.blue,9,3,7,5.333333333333333,104,Flash,Smite,13,False,9449,8800,Boots of Mobility,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,Giant's Belt,Chain Vest,16090,79233,Lane.jungle,Role.none
+1,LOD,Vayne,True,Side.blue,7,0,12,19.0,160,Flash,Heal,12,False,10546,8050,Doran's Blade,,Berserker's Greaves,Control Ward,Statikk Shiv,Infinity Edge,11473,81628,Lane.bot_lane,Role.carry
+2,I Usually Feed,Karma,True,Side.blue,7,1,19,26.0,11,Flash,Ignite,11,True,9008,6600,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,,Null-Magic Mantle,,13750,8652,Lane.bot_lane,Role.support
+3,Riot Meekal,Dr. Mundo,True,Side.blue,5,2,3,4.0,97,Flash,Teleport,11,False,8514,6400,Doran's Shield,Sunfire Cape,Boots of Swiftness,Kindlegem,Spectre's Cowl,,31773,22113,Lane.top_lane,Role.solo
+4,Stixxay,Twisted Fate,True,Side.blue,7,5,15,4.4,115,Ghost,Flash,12,False,9669,7600,Lich Bane,,Ionian Boots of Lucidity,Doran's Ring,Rod of Ages,,77363,9436,Lane.mid_lane,Role.solo
+5,Rhux,Trundle,False,Side.red,3,2,2,2.5,154,Flash,Teleport,13,False,7858,7300,Corrupting Potion,Mercury's Treads,Ravenous Hydra,Ruby Crystal,,Warden's Mail,1111,77446,Lane.top_lane,Role.solo
+6,Dhokla,Jayce,False,Side.red,0,9,1,0.1111111111111111,127,Flash,Heal,9,False,6238,5775,Doran's Blade,Refillable Potion,Last Whisper,Boots of Speed,Long Sword,The Black Cleaver,7581,49837,Lane.bot_lane,Role.carry
+7,Thalies,Katarina,False,Side.red,4,8,4,1.0,98,Ignite,Flash,10,False,6518,6300,Cloth Armor,Cloth Armor,,Hextech Gunblade,Sorcerer's Shoes,The Dark Seal,52982,6671,Lane.mid_lane,Role.solo
+8,TeddyRO,Miss Fortune,False,Side.red,2,10,2,0.4,22,Flash,Exhaust,8,False,5568,5000,Eye of the Watchers,Refillable Potion,Caulfield's Warhammer,Phage,Boots of Speed,,11617,10755,Lane.bot_lane,Role.support
+9,Sexy GirI,Zac,False,Side.red,2,6,6,1.3333333333333333,65,Smite,Flash,10,False,6360,5275,Refillable Potion,Enchantment: Cinderhulk,Mercury's Treads,Warden's Mail,Ruby Crystal,,45566,11717,Lane.jungle,Role.none

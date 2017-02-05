@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,thavage,Vi,True,Side.blue,7,6,17,4.0,99,Smite,Flash,15,False,11283,10195,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Randuin's Omen,The Black Cleaver,,1315,109541,Lane.jungle,Role.none
+1,ArmsofSilver,Soraka,True,Side.blue,2,5,29,6.2,13,Flash,Exhaust,14,False,10261,8925,Redemption,Talisman of Ascension,Ruby Sightstone,Control Ward,Ninja Tabi,Glacial Shroud,15292,3709,Lane.bot_lane,Role.support
+2,Pëng,Twitch,True,Side.blue,15,7,8,3.2857142857142856,174,Heal,Flash,15,False,15068,12575,Doran's Blade,Berserker's Greaves,Bilgewater Cutlass,Infinity Edge,Mortal Reminder,Runaan's Hurricane,0,143919,Lane.bot_lane,Role.carry
+3,Gabenlift,Poppy,True,Side.blue,2,4,10,3.0,165,Flash,Teleport,16,False,10741,9950,Corrupting Potion,Sunfire Cape,Boots of Swiftness,Spirit Visage,Zz'Rot Portal,,40384,78316,Lane.top_lane,Role.solo
+4,A Platypus,Viktor,True,Side.blue,12,2,12,12.0,223,Ghost,Flash,17,False,14315,13000,Void Staff,Fiendish Codex,Rylai's Crystal Scepter,Seeker's Armguard,Perfect Hex Core,Ionian Boots of Lucidity,145873,14605,Lane.mid_lane,Role.solo
+5, keine Hosen,Draven,False,Side.red,6,8,7,1.625,201,Flash,Heal,14,True,13364,13100,B. F. Sword,The Bloodthirster,Youmuu's Ghostblade,Rapid Firecannon,Berserker's Greaves,,1998,143849,Lane.bot_lane,Role.carry
+6,LordApoloes,Thresh,False,Side.red,1,8,12,1.625,26,Exhaust,Flash,11,False,8132,7650,Knight's Vow,Sightstone,Redemption,Control Ward,Targon's Brace,Ionian Boots of Lucidity,8711,4862,Lane.bot_lane,Role.support
+7,Colorro,Yasuo,False,Side.red,5,7,1,0.8571428571428571,237,Flash,Ignite,14,False,12476,12300,The Bloodthirster,Mercury's Treads,Phantom Dancer,Infinity Edge,Cloth Armor,,29071,122135,Lane.jungle,Role.none
+8,Vicinus,Graves,False,Side.red,9,9,4,1.4444444444444444,135,Flash,Smite,15,False,12459,12325,Enchantment: Warrior,Death's Dance,Ninja Tabi,Phantom Dancer,Hexdrinker,Caulfield's Warhammer,4982,137579,Lane.jungle,Role.none
+9,amumumu,Dr. Mundo,False,Side.red,3,6,10,2.1666666666666665,219,Flash,Teleport,15,False,12040,11720,Negatron Cloak,Raptor Cloak,Ninja Tabi,Sunfire Cape,Spirit Visage,Thornmail,106489,34870,Lane.top_lane,Role.solo

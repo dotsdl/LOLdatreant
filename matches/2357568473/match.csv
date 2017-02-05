@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wo Jiao Xiao E,Lee Sin,False,Side.blue,5,6,7,2.0,104,Smite,Flash,13,False,9378,9050,The Black Cleaver,Refillable Potion,Mercury's Treads,Enchantment: Warrior,Giant's Belt,Warden's Mail,19595,90854,Lane.jungle,Role.none
+1,Sgnimm,Poppy,False,Side.blue,4,6,4,1.3333333333333333,149,Teleport,Flash,14,False,9477,9175,Corrupting Potion,Spectre's Cowl,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Cloth Armor,20652,59573,Lane.top_lane,Role.solo
+2,TheDevilDiablo1,Thresh,False,Side.blue,1,8,9,1.25,19,Flash,Exhaust,11,False,6245,5325,Face of the Mountain,Sightstone,Cloth Armor,Health Potion,Ninja Tabi,Cloth Armor,6498,4860,Lane.bot_lane,Role.support
+3,Le 6ulb3tier,Jhin,False,Side.blue,4,8,7,1.375,168,Heal,Flash,12,False,9465,9000,Essence Reaver,Rapid Firecannon,B. F. Sword,Doran's Blade,Boots of Swiftness,,8037,80850,Lane.bot_lane,Role.carry
+4,TwistyJuker,Katarina,False,Side.blue,8,8,5,1.625,160,Flash,Ignite,13,False,10174,9225,Hextech Gunblade,Refillable Potion,Rylai's Crystal Scepter,Seeker's Armguard,Boots of Speed,Fiendish Codex,86638,11415,Lane.mid_lane,Role.solo
+5,SnowOwl,Zed,True,Side.red,6,5,9,3.0,228,Flash,Ignite,16,False,12769,10600,Youmuu's Ghostblade,Boots of Swiftness,Blade of the Ruined King,The Black Cleaver,,,7104,146599,Lane.mid_lane,Role.solo
+6,Aurath,Twitch,True,Side.red,9,3,3,4.0,109,Smite,Flash,14,True,12001,11075,Blade of the Ruined King,Spectre's Cowl,Ninja Tabi,Guardian Angel,Enchantment: Bloodrazor,,4092,102991,Lane.jungle,Role.none
+7,Sìyou,Janna,True,Side.red,1,2,23,12.0,7,Flash,Exhaust,14,False,10519,8100,Mikael's Crucible,Ruby Sightstone,Glacial Shroud,Talisman of Ascension,Boots of Speed,The Dark Seal,10205,6556,Lane.bot_lane,Role.support
+8,ToxicGreenie QwQ,Maokai,True,Side.red,6,6,9,2.5,119,Teleport,Flash,13,False,10957,10750,Doran's Ring,Iceborn Gauntlet,Spirit Visage,Ninja Tabi,Sunfire Cape,,71690,14250,Lane.top_lane,Role.solo
+9,adc feng lft,Vayne,True,Side.red,14,6,6,3.3333333333333335,209,Heal,Flash,15,False,15015,12750,Rapid Firecannon,Hexdrinker,Statikk Shiv,Infinity Edge,Berserker's Greaves,Vampiric Scepter,25687,140805,Lane.bot_lane,Role.carry

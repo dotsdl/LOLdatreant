@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pat the Bunny,Lee Sin,True,Side.blue,5,3,7,4.0,64,Smite,Flash,11,False,8552,7250,Tiamat,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Boots of Speed,,9133,62496,Lane.jungle,Role.none
+1,Smartcloud,Braum,True,Side.blue,0,2,5,2.5,42,Flash,Exhaust,10,False,6266,5075,Face of the Mountain,,Ruby Sightstone,,Boots of Mobility,,5429,6480,Lane.bot_lane,Role.support
+2,GodMeru,Nautilus,True,Side.blue,2,1,3,5.0,208,Flash,Teleport,14,False,9730,8425,The Dark Seal,Zz'Rot Portal,Corrupting Potion,Boots of Swiftness,Giant's Belt,Sunfire Cape,79084,27215,Lane.top_lane,Role.solo
+3,Toll,Ezreal,True,Side.blue,2,1,5,7.0,151,Flash,Heal,10,False,8337,6175,Stinger,Manamune,Ionian Boots of Lucidity,Sheen,,Doran's Blade,9121,56925,Lane.bot_lane,Role.carry
+4,Program,Cassiopeia,True,Side.blue,10,1,4,14.0,169,Ghost,Flash,14,True,11289,9160,Doran's Ring,Tear of the Goddess,Morellonomicon,Rylai's Crystal Scepter,Needlessly Large Rod,Amplifying Tome,107921,10729,Lane.mid_lane,Role.solo
+5,Wo Xihuan Hanguo,Janna,False,Side.red,1,3,2,1.0,5,Flash,Exhaust,9,False,5170,4675,Nomad's Medallion,Ruby Sightstone,Boots of Mobility,Crystalline Bracer,Faerie Charm,Faerie Charm,3836,4435,Lane.bot_lane,Role.support
+6,Yuán G,Jayce,False,Side.red,0,4,2,0.5,145,Teleport,Flash,12,False,6314,6125,Corrupting Potion,Youmuu's Ghostblade,Doran's Blade,Ionian Boots of Lucidity,Phage,,9396,54108,Lane.top_lane,Role.solo
+7,TFW Glory,Gragas,False,Side.red,6,5,0,1.2,77,Smite,Flash,10,False,6889,6075,Enchantment: Cinderhulk,Hunter's Potion,,Giant's Belt,Chain Vest,Mercury's Treads,39693,15060,Lane.jungle,Role.none
+8,Kioshima S,Vayne,False,Side.red,0,1,1,1.0,155,Heal,Flash,10,False,6786,5875,Statikk Shiv,Pickaxe,Total Biscuit of Rejuvenation,Berserker's Greaves,Doran's Blade,Cull,8518,49474,Lane.bot_lane,Role.carry
+9,Neveeer Lucky,Aurelion Sol,False,Side.red,1,6,3,0.6666666666666666,121,Ghost,Flash,11,False,6498,5745,The Dark Seal,Corrupting Potion,Hextech GLP-800,Mercury's Treads,Negatron Cloak,,71490,2439,Lane.jungle,Role.none

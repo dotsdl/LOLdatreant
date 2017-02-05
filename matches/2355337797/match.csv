@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,hi im cho ah,Jhin,True,Side.blue,6,5,12,3.6,177,Flash,Heal,14,False,12004,11350,Essence Reaver,Doran's Blade,Rapid Firecannon,Ionian Boots of Lucidity,Infinity Edge,,3973,111725,Lane.bot_lane,Role.carry
+1,Nancy Tran,Poppy,True,Side.blue,4,5,13,3.4,206,Teleport,Flash,17,False,11838,10625,Doran's Shield,Corrupting Potion,Ninja Tabi,Sunfire Cape,Iceborn Gauntlet,Spirit Visage,43869,99378,Lane.top_lane,Role.solo
+2,Ghoulster,Elise,True,Side.blue,10,12,4,1.1666666666666667,113,Flash,Smite,15,False,12288,10575,Hextech Protobelt-01,Blasting Wand,Control Ward,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Sorcerer's Shoes,102121,27859,Lane.jungle,Role.none
+3,Nillers,LeBlanc,True,Side.blue,12,1,15,27.0,219,Ignite,Flash,17,False,14483,13550,Sorcerer's Shoes,Zhonya's Hourglass,Luden's Echo,Void Staff,Doran's Ring,Morellonomicon,146390,11100,Lane.mid_lane,Role.solo
+4,lnfallible,Morgana,True,Side.blue,2,6,10,2.0,8,Exhaust,Flash,12,False,8586,7775,Redemption,Mikael's Crucible,Eye of the Watchers,,Boots of Mobility,,9389,4326,Lane.bot_lane,Role.support
+5,goompa,Thresh,False,Side.red,3,4,11,3.5,50,Ignite,Flash,12,True,8886,8200,Ionian Boots of Lucidity,Locket of the Iron Solari,Eye of the Equinox,Zeke's Harbinger,Control Ward,,14726,9111,Lane.bot_lane,Role.support
+6,Exeis,Volibear,False,Side.red,4,6,12,2.6666666666666665,88,Smite,Ghost,13,False,9527,8625,Enchantment: Cinderhulk,Spirit Visage,Refillable Potion,Mercury's Treads,Giant's Belt,Chain Vest,30209,44300,Lane.jungle,Role.none
+7,Jhincian,Twitch,False,Side.red,14,7,3,2.4285714285714284,177,Heal,Flash,13,False,13907,13350,Runaan's Hurricane,Infinity Edge,Phantom Dancer,Lord Dominik's Regards,Doran's Blade,Berserker's Greaves,461,123474,Lane.bot_lane,Role.carry
+8,OtakuForLife,Twisted Fate,False,Side.red,4,8,12,2.0,156,Ignite,Flash,14,False,11035,10935,Zhonya's Hourglass,Void Staff,Ionian Boots of Lucidity,Lich Bane,The Dark Seal,Amplifying Tome,85000,15763,Lane.mid_lane,Role.solo
+9,CaptainAUM,Gnar,False,Side.red,4,9,1,0.5555555555555556,141,Teleport,Flash,13,False,9444,9020,Frozen Mallet,Doran's Blade,Dead Man's Plate,Mercury's Treads,Doran's Blade,Negatron Cloak,8793,83347,Lane.top_lane,Role.solo

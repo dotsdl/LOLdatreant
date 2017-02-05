@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Archhangel,Syndra,True,Side.blue,2,4,7,2.25,207,Flash,Exhaust,14,False,10801,9710,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Amplifying Tome,Zhonya's Hourglass,Needlessly Large Rod,102966,12889,Lane.mid_lane,Role.solo
+1,C9 Meteos,Vi,True,Side.blue,7,5,13,4.0,115,Smite,Flash,14,False,11042,10800,Randuin's Omen,Ninja Tabi,Cloth Armor,The Black Cleaver,Enchantment: Warrior,Ruby Crystal,1871,107509,Lane.jungle,Role.none
+2,JuIius,Poppy,True,Side.blue,6,2,7,6.5,182,Teleport,Flash,15,False,11673,11275,Cloth Armor,Randuin's Omen,Ninja Tabi,Iceborn Gauntlet,Sunfire Cape,Chain Vest,32986,67462,Lane.top_lane,Role.solo
+3,Doublelift,Blitzcrank,True,Side.blue,4,3,19,7.666666666666667,41,Flash,Exhaust,13,True,10145,8800,Redemption,Frozen Heart,Eye of the Equinox,Ninja Tabi,Ruby Crystal,,11054,10897,Lane.bot_lane,Role.duo
+4,Stixxay,Vayne,True,Side.blue,10,7,10,2.857142857142857,190,Heal,Flash,15,False,13526,10700,B. F. Sword,Statikk Shiv,Vampiric Scepter,Berserker's Greaves,Infinity Edge,Doran's Blade,19514,109049,Lane.bot_lane,Role.duo
+5,OPW,Yasuo,False,Side.red,1,4,6,1.75,239,Exhaust,Flash,15,False,10116,8558,Doran's Shield,Refillable Potion,Phantom Dancer,Doran's Blade,Ninja Tabi,Trinity Force,27234,110016,Lane.jungle,Role.none
+6,Féarless,Riven,False,Side.red,5,7,5,1.4285714285714286,161,Teleport,Flash,12,False,9767,8775,Ionian Boots of Lucidity,Sterak's Gage,Vampiric Scepter,Refillable Potion,The Black Cleaver,Pickaxe,0,90156,Lane.top_lane,Role.solo
+7,mulgokizary,Lee Sin,False,Side.red,9,8,4,1.625,122,Smite,Flash,14,False,11780,11550,The Black Cleaver,Enchantment: Warrior,Control Ward,Maw of Malmortius,Last Whisper,Boots of Mobility,29175,116680,Lane.jungle,Role.none
+8,The Harem King,Jhin,False,Side.red,3,8,6,1.125,164,Heal,Flash,12,False,9678,9300,Essence Reaver,Rapid Firecannon,B. F. Sword,Doran's Blade,Boots of Swiftness,,7082,86231,Lane.bot_lane,Role.carry
+9,BestGravesCnMA,Karma,False,Side.red,3,2,13,8.0,42,Exhaust,Flash,12,False,9756,8650,Eye of the Watchers,Athene's Unholy Grail,Redemption,Aether Wisp,,Mercury's Treads,29741,11883,Lane.bot_lane,Role.support

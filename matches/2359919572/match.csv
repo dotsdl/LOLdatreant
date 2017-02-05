@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dystrex,Darius,False,Side.blue,0,5,2,0.4,80,Teleport,Flash,8,False,3946,3375,Phage,Corrupting Potion,Caulfield's Warhammer,,Control Ward,Boots of Speed,228,34636,Lane.top_lane,Role.solo
+1,KarasMai,Shyvana,False,Side.blue,1,4,1,0.5,92,Ghost,Smite,9,False,4772,3900,Enchantment: Bloodrazor,Refillable Potion,Ruby Crystal,,Boots of Speed,Long Sword,31224,29195,Lane.jungle,Role.none
+2,S Diana 2,Diana,False,Side.blue,3,6,0,0.5,57,Ignite,Flash,8,False,4125,3095,Doran's Ring,Fiendish Codex,Faerie Charm,Doran's Ring,Boots of Speed,Negatron Cloak,26614,5036,Lane.mid_lane,Role.solo
+3,sous4000,Karma,False,Side.blue,0,1,2,2.0,8,Exhaust,Flash,7,False,3245,2875,Boots of Speed,,Eye of the Watchers,,,,9084,1104,Lane.bot_lane,Role.duo
+4,Kawaki,Caitlyn,False,Side.blue,2,10,0,0.2,43,Heal,Flash,6,True,3687,2775,Doran's Blade,Pickaxe,Berserker's Greaves,Cloth Armor,,,492,19824,Lane.bot_lane,Role.duo
+5,Sebi,LeBlanc,True,Side.red,9,1,2,11.0,84,Flash,Ignite,10,False,6962,3650,Doran's Ring,Lost Chapter,Sorcerer's Shoes,Fiendish Codex,,,40890,9521,Lane.jungle,Role.none
+6,Cat Ears,Ezreal,True,Side.red,5,1,5,10.0,83,Flash,Heal,9,False,6581,6433,Doran's Blade,Trinity Force,Tear of the Goddess,Ionian Boots of Lucidity,Cull,,4782,28419,Lane.bot_lane,Role.duo
+7,Henrÿ,Graves,True,Side.red,5,0,5,10.0,103,Flash,Smite,11,False,8149,5625,Enchantment: Warrior,Phantom Dancer,Refillable Potion,Boots of Speed,,,2478,84983,Lane.jungle,Role.none
+8,Budded,Vel'Koz,True,Side.red,4,1,5,9.0,30,Exhaust,Flash,9,False,6392,3610,Amplifying Tome,Eye of the Watchers,,Ruby Crystal,Boots of Speed,,17387,7039,Lane.bot_lane,Role.duo
+9,West Coast Carry,Ekko,True,Side.red,3,3,8,3.6666666666666665,67,Flash,Teleport,9,False,5989,4425,Corrupting Potion,Doran's Ring,Doran's Ring,Seeker's Armguard,Hextech Revolver,Kindlegem,27670,10693,Lane.top_lane,Role.solo

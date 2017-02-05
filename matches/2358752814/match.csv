@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FlREFLY,Vayne,False,Side.blue,9,7,2,1.5714285714285714,210,Heal,Flash,15,False,12694,11450,Infinity Edge,Mercurial Scimitar,Berserker's Greaves,Statikk Shiv,Doran's Blade,,42574,105924,Lane.bot_lane,Role.carry
+1,ecco,Bard,False,Side.blue,1,7,10,1.5714285714285714,18,Exhaust,Flash,12,False,7883,7050,Crystalline Bracer,Locket of the Iron Solari,,Forbidden Idol,Ruby Sightstone,Ionian Boots of Lucidity,11033,5448,Lane.bot_lane,Role.support
+2,Alex Ich 1,Katarina,False,Side.blue,9,10,3,1.2,172,Flash,Ignite,15,False,11625,11000,Doran's Shield,Sorcerer's Shoes,Hextech Gunblade,Rylai's Crystal Scepter,Abyssal Scepter,,94173,12664,Lane.mid_lane,Role.solo
+3,Fiku,Ivern,False,Side.blue,0,5,8,1.6,89,Flash,Smite,13,False,8862,8700,Redemption,Zz'Rot Portal,Ionian Boots of Lucidity,Athene's Unholy Grail,Hunter's Talisman,Ruby Crystal,18302,10198,Lane.jungle,Role.none
+4,Ifkinluvpeaches,Yasuo,False,Side.blue,2,10,3,0.5,194,Teleport,Flash,14,True,10048,8100,Doran's Blade,Blade of the Ruined King,Mercury's Treads,Phantom Dancer,Long Sword,,31705,90229,Lane.top_lane,Role.solo
+5,OUT DO YA,Nautilus,True,Side.red,7,6,7,2.3333333333333335,204,Flash,Teleport,16,False,12982,11950,Randuin's Omen,Thornmail,Locket of the Iron Solari,Ninja Tabi,Sunfire Cape,,94653,30292,Lane.top_lane,Role.solo
+6,retarded virgin,Kha'Zix,True,Side.red,19,3,7,8.666666666666666,224,Flash,Smite,17,False,17812,16850,Enchantment: Warrior,Youmuu's Ghostblade,Ravenous Hydra,Maw of Malmortius,Duskblade of Draktharr,Mercury's Treads,7428,236463,Lane.jungle,Role.none
+7,cokes,Jhin,True,Side.red,2,5,15,3.4,212,Heal,Flash,15,False,12318,11350,Infinity Edge,Essence Reaver,Rapid Firecannon,Doran's Blade,Boots of Swiftness,,4007,141603,Lane.bot_lane,Role.carry
+8,Repfix,Cassiopeia,True,Side.red,8,4,6,3.5,190,Ghost,Flash,16,False,12537,11375,Doran's Ring,Rylai's Crystal Scepter,Abyssal Scepter,Tear of the Goddess,Rod of Ages,Needlessly Large Rod,130157,8487,Lane.mid_lane,Role.solo
+9,Hanjaro,Thresh,True,Side.red,2,3,15,5.666666666666667,4,Flash,Exhaust,13,False,8646,7850,Sightstone,Knight's Vow,Talisman of Ascension,Ionian Boots of Lucidity,Null-Magic Mantle,Cloth Armor,9237,2921,Lane.bot_lane,Role.support

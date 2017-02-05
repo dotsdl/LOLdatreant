@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Regular Mid,Tristana,False,Side.blue,0,7,2,0.2857142857142857,93,Flash,Heal,9,False,5359,4925,Infinity Edge,,,Boots of Speed,Doran's Blade,Dagger,10378,33093,Lane.bot_lane,Role.duo
+1,Finna Lit,Karma,False,Side.blue,2,5,1,0.6,96,Teleport,Flash,10,False,5686,5150,Doran's Ring,Corrupting Potion,Sorcerer's Shoes,Rod of Ages,Null-Magic Mantle,,46014,8354,Lane.top_lane,Role.solo
+2,QuickRev,Zilean,False,Side.blue,2,3,3,1.6666666666666667,44,Flash,Exhaust,9,False,5391,5200,Spellthief's Edge,Rod of Ages,Sightstone,Boots of Speed,Fiendish Codex,,23272,3603,Lane.bot_lane,Role.duo
+3,Vchee,Orianna,False,Side.blue,2,6,1,0.5,123,Ghost,Flash,11,False,6322,6010,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Refillable Potion,Blasting Wand,Amplifying Tome,45734,10412,Lane.mid_lane,Role.solo
+4,Gahlin,Hecarim,False,Side.blue,2,7,4,0.8571428571428571,80,Ghost,Smite,10,False,6252,5700,Enchantment: Cinderhulk,Refillable Potion,,Phage,Mercury's Treads,Sapphire Crystal,14061,56053,Lane.jungle,Role.none
+5,FourofDiamonds,Shaco,True,Side.red,8,1,9,17.0,94,Smite,Ignite,13,False,9676,9550,Tiamat,Hextech Gunblade,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Sheen,Control Ward,34083,73512,Lane.jungle,Role.none
+6,Alex Ich 1,Taliyah,True,Side.red,6,2,5,5.5,134,Flash,Ghost,12,True,9016,8700,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Blasting Wand,Control Ward,64703,9600,Lane.mid_lane,Role.solo
+7,D0NG0,Fizz,True,Side.red,4,2,6,5.0,143,Teleport,Flash,13,False,8436,7800,Corrupting Potion,The Dark Seal,Sorcerer's Shoes,Lich Bane,Void Staff,,43133,22022,Lane.top_lane,Role.solo
+8,Pekin Woof,Thresh,True,Side.red,0,2,10,5.0,33,Flash,Ignite,9,False,5612,5500,Redemption,Control Ward,Ruby Sightstone,Relic Shield,Boots of Mobility,,7953,6545,Lane.bot_lane,Role.support
+9,LimitedExtent,Jhin,True,Side.red,10,1,6,16.0,153,Heal,Flash,12,False,10664,10200,Doran's Blade,Youmuu's Ghostblade,Control Ward,Boots of Speed,Infinity Edge,Rapid Firecannon,2804,90978,Lane.bot_lane,Role.carry

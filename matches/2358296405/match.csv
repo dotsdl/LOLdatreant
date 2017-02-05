@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,silvermidget fan,Lee Sin,True,Side.blue,5,3,5,3.3333333333333335,54,Flash,Smite,12,False,7687,6050,Enchantment: Warrior,Refillable Potion,Dead Man's Plate,Boots of Speed,,,10805,59866,Lane.jungle,Role.none
+1,i miss you haru,Lulu,True,Side.blue,3,0,10,13.0,21,Flash,Exhaust,10,False,7778,5525,Frostfang,Ionian Boots of Lucidity,Ardent Censer,Sightstone,Control Ward,Faerie Charm,8891,5988,Lane.bot_lane,Role.support
+2,foggedftw2,Tryndamere,True,Side.blue,9,1,3,12.0,169,Ignite,Flash,14,True,11345,8000,Vampiric Scepter,Refillable Potion,Statikk Shiv,Ionian Boots of Lucidity,The Black Cleaver,Long Sword,22691,102456,Lane.top_lane,Role.solo
+3,Pobelter,Kassadin,True,Side.blue,3,0,4,7.0,186,Flash,Teleport,13,False,9488,7575,Corrupting Potion,Zhonya's Hourglass,,The Dark Seal,Ionian Boots of Lucidity,Rod of Ages,71028,24803,Lane.mid_lane,Role.solo
+4,Bes,Vayne,True,Side.blue,5,3,1,2.0,138,Heal,Flash,11,False,9060,7250,Doran's Blade,Berserker's Greaves,Infinity Edge,Zeal,Kircheis Shard,,2773,79747,Lane.bot_lane,Role.carry
+5,TeddyRO,Jhin,False,Side.red,1,8,3,0.5,93,Flash,Heal,9,False,5819,5400,Essence Reaver,Long Sword,,Boots of Swiftness,Doran's Blade,,732,43556,Lane.bot_lane,Role.duo
+6,KarasMai,Graves,False,Side.red,1,4,2,0.75,150,Flash,Smite,12,False,7782,7450,Enchantment: Warrior,Refillable Potion,Phantom Dancer,Mercury's Treads,Null-Magic Mantle,Long Sword,3385,110631,Lane.jungle,Role.none
+7,AsianSGpøtatø,Fiora,False,Side.red,2,9,1,0.3333333333333333,123,Flash,Teleport,11,False,6270,6000,Corrupting Potion,Quicksilver Sash,The Black Cleaver,Ninja Tabi,,,2170,42139,Lane.top_lane,Role.solo
+8,Kurumz,Fizz,False,Side.red,1,1,1,2.0,143,Ignite,Flash,11,False,6360,6145,Corrupting Potion,Doran's Ring,Negatron Cloak,The Dark Seal,Lich Bane,Fiendish Codex,38372,13451,Lane.mid_lane,Role.solo
+9,Banshee Rush,Thresh,False,Side.red,2,3,2,1.3333333333333333,30,Ignite,Flash,9,False,5158,3950,Relic Shield,Sightstone,Total Biscuit of Rejuvenation,Crystalline Bracer,Ionian Boots of Lucidity,Crystalline Bracer,5292,4234,Lane.bot_lane,Role.duo

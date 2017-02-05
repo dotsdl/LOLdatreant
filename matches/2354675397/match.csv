@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vivie,Nami,False,Side.blue,0,5,2,0.4,10,Flash,Exhaust,8,False,4267,3450,Sightstone,Spellthief's Edge,Boots of Speed,Forbidden Idol,Crystalline Bracer,,3303,2873,Lane.bot_lane,Role.support
+1,Based Envy,Cassiopeia,False,Side.blue,3,8,2,0.625,102,Ghost,Flash,10,True,6416,5850,Doran's Ring,Refillable Potion,Doran's Ring,Tear of the Goddess,Morellonomicon,Giant's Belt,45637,5016,Lane.mid_lane,Role.solo
+2,shizzle654,Nocturne,False,Side.blue,0,6,1,0.16666666666666666,100,Smite,Flash,10,False,6058,4875,Enchantment: Bloodrazor,Refillable Potion,Boots of Speed,Giant's Belt,Chain Vest,,3573,68658,Lane.jungle,Role.none
+3,MrFluffy631,Jinx,False,Side.blue,1,5,1,0.4,133,Flash,Heal,10,False,6863,6225,Doran's Blade,B. F. Sword,Runaan's Hurricane,,Berserker's Greaves,,988,58484,Lane.bot_lane,Role.carry
+4,ISoNooby,Riven,False,Side.blue,2,0,0,2.0,170,Teleport,Flash,13,False,7912,7025,Pickaxe,Cloth Armor,Tiamat,Ionian Boots of Lucidity,Cloth Armor,The Black Cleaver,0,87633,Lane.top_lane,Role.solo
+5,Mp3,Pantheon,True,Side.red,5,3,2,2.3333333333333335,116,Ignite,Flash,12,False,7672,7375,Youmuu's Ghostblade,The Black Cleaver,Ninja Tabi,,,,4149,60253,Lane.top_lane,Role.solo
+6,Rafffstaa,Graves,True,Side.red,7,0,6,13.0,98,Flash,Smite,12,False,8863,7500,Refillable Potion,Enchantment: Warrior,Duskblade of Draktharr,Serrated Dirk,Boots of Speed,,5165,97406,Lane.jungle,Role.none
+7,Dr Dontblink,Nautilus,True,Side.red,2,0,15,17.0,27,Flash,Exhaust,10,False,7003,5200,Face of the Mountain,Sightstone,,Cloth Armor,Crystalline Bracer,Boots of Swiftness,9780,8825,Lane.bot_lane,Role.support
+8,Please Fade,Zilean,True,Side.red,2,3,8,3.3333333333333335,108,Exhaust,Flash,13,False,7148,6150,,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Fiendish Codex,Lost Chapter,44192,10003,Lane.mid_lane,Role.solo
+9,Tai Draven,Draven,True,Side.red,8,0,3,11.0,196,Flash,Heal,13,False,11781,10050,Doran's Blade,Blade of the Ruined King,Total Biscuit of Rejuvenation,Berserker's Greaves,Infinity Edge,Zeal,82,124662,Lane.bot_lane,Role.carry

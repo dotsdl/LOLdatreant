@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zyko,Maokai,False,Side.blue,2,8,4,0.75,154,Teleport,Flash,14,False,9562,8900,,Doran's Ring,Mercury's Treads,Rod of Ages,Spirit Visage,Raptor Cloak,87223,13002,Lane.top_lane,Role.solo
+1,InvariablyTilted,Ahri,False,Side.blue,5,6,4,1.5,236,Flash,Cleanse,16,True,12398,12010,Blasting Wand,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Void Staff,Amplifying Tome,87958,22066,Lane.mid_lane,Role.solo
+2,Abyssroar,Vayne,False,Side.blue,4,4,2,1.5,264,Heal,Flash,15,False,12488,11975,Berserker's Greaves,Infinity Edge,Mercurial Scimitar,Statikk Shiv,Doran's Blade,Long Sword,47706,120843,Lane.bot_lane,Role.carry
+3,PrepareUrRammus,Amumu,False,Side.blue,1,9,3,0.4444444444444444,103,Smite,Flash,14,False,9333,8735,Enchantment: Cinderhulk,Rylai's Crystal Scepter,Warden's Mail,Mercury's Treads,Null-Magic Mantle,,73567,20189,Lane.jungle,Role.none
+4,0wlet,Lulu,False,Side.blue,1,6,6,1.1666666666666667,21,Flash,Exhaust,12,False,8445,7650,Ionian Boots of Lucidity,Ardent Censer,Ruby Sightstone,Frost Queen's Claim,,,13356,3144,Lane.bot_lane,Role.support
+5,CNTinyBurt,Darius,True,Side.red,6,4,6,3.0,195,Flash,Ghost,16,False,12964,11575,Doran's Blade,Spirit Visage,The Black Cleaver,Giant's Belt,Mercury's Treads,Guardian Angel,0,141320,Lane.top_lane,Role.solo
+6,BeatMeB1tch,Twisted Fate,True,Side.red,10,5,11,4.2,188,Ghost,Flash,16,False,14664,12610,Doran's Ring,Lich Bane,Aether Wisp,Boots of Swiftness,Rod of Ages,Rabadon's Deathcap,164058,17372,Lane.mid_lane,Role.solo
+7,Gordon,Jhin,True,Side.red,7,0,17,24.0,268,Flash,Heal,15,False,14523,12350,Doran's Blade,Phantom Dancer,Essence Reaver,Berserker's Greaves,Infinity Edge,Giant Slayer,16235,174003,Lane.bot_lane,Role.carry
+8,prokule,Zac,True,Side.red,8,3,18,8.666666666666666,125,Smite,Flash,15,False,12753,11625,Hextech Protobelt-01,Warden's Mail,Ruby Crystal,Enchantment: Cinderhulk,Abyssal Scepter,Sorcerer's Shoes,116985,18153,Lane.jungle,Role.none
+9,Crustaoy,Soraka,True,Side.red,2,1,22,24.0,10,Flash,Exhaust,13,False,10288,8760,Locket of the Iron Solari,Redemption,Eye of the Oasis,Boots of Swiftness,Glacial Shroud,Amplifying Tome,6533,4344,Lane.bot_lane,Role.support

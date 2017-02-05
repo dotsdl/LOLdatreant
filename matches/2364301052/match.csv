@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lose,Ezreal,True,Side.blue,8,4,9,4.25,179,Flash,Heal,14,False,12095,11713,Blade of the Ruined King,Doran's Blade,,Muramana,Ionian Boots of Lucidity,Trinity Force,12866,88961,Lane.bot_lane,Role.carry
+1,FSU Dream,Nidalee,True,Side.blue,6,3,9,5.0,131,Smite,Flash,14,False,11205,10375,Rylai's Crystal Scepter,Hextech Protobelt-01,Aether Wisp,,Ionian Boots of Lucidity,Enchantment: Runic Echoes,121758,20288,Lane.jungle,Role.none
+2,FSU Cantine,Nami,True,Side.blue,0,2,18,9.0,6,Exhaust,Flash,12,False,8393,7200,Frostfang,Ruby Sightstone,Redemption,Aegis of the Legion,,Ionian Boots of Lucidity,7668,5683,Lane.bot_lane,Role.support
+3,Asura SD,Orianna,True,Side.blue,16,4,5,5.25,171,Flash,Ghost,15,False,13078,11125,Abyssal Scepter,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Doran's Ring,101926,14272,Lane.mid_lane,Role.solo
+4,WatchThePower,Riven,True,Side.blue,10,7,9,2.7142857142857144,173,Flash,Teleport,16,False,12398,12275,The Black Cleaver,Tiamat,Mercurial Scimitar,Youmuu's Ghostblade,Mercury's Treads,,126,111500,Lane.top_lane,Role.solo
+5,Mushkip,Ekko,False,Side.red,4,11,5,0.8181818181818182,136,Teleport,Flash,14,True,9210,9168,Corrupting Potion,Ninja Tabi,Hextech Protobelt-01,Trinity Force,Fiendish Codex,Amplifying Tome,59913,25797,Lane.top_lane,Role.solo
+6,AsianGoneWild,Ryze,False,Side.red,5,8,7,1.5,165,Ghost,Flash,14,False,9894,9375,Morellonomicon,Refillable Potion,Needlessly Large Rod,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Tear of the Goddess,112527,7970,Lane.mid_lane,Role.solo
+7,ShadowyFigure,Lulu,False,Side.red,1,7,9,1.4285714285714286,17,Flash,Exhaust,12,False,7530,7200,Ionian Boots of Lucidity,Redemption,Forbidden Idol,Aether Wisp,,Eye of the Watchers,11630,3425,Lane.bot_lane,Role.support
+8,SmoKeMoNKeY93,Twitch,False,Side.red,5,6,6,1.8333333333333333,191,Heal,Flash,13,False,10621,10500,Phantom Dancer,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Control Ward,,2191,93480,Lane.bot_lane,Role.carry
+9,Bubbahoetup,Vi,False,Side.red,5,8,1,0.75,117,Flash,Smite,13,False,9087,8833,Enchantment: Warrior,Refillable Potion,Trinity Force,Giant's Belt,Mercury's Treads,,1244,101531,Lane.jungle,Role.none

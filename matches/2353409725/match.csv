@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,fre3zingCold,Vel'Koz,False,Side.blue,1,7,5,0.8571428571428571,49,Flash,Ignite,11,True,8095,7550,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Frost Queen's Claim,Aether Wisp,,,36301,4856,Lane.bot_lane,Role.support
+1,Westrice,Lee Sin,False,Side.blue,1,5,5,1.2,110,Smite,Flash,13,False,8253,7450,Refillable Potion,Enchantment: Warrior,Boots of Mobility,Dead Man's Plate,Null-Magic Mantle,Long Sword,17052,76141,Lane.jungle,Role.none
+2,TeddyRO,Jhin,False,Side.blue,3,5,5,1.6,150,Flash,Heal,12,False,8743,8475,Doran's Blade,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Pickaxe,,3030,82528,Lane.bot_lane,Role.carry
+3,Leza,Cassiopeia,False,Side.blue,8,5,1,1.8,217,Flash,Cleanse,14,False,11447,10800,Seraph's Embrace,Refillable Potion,The Dark Seal,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,110669,13597,Lane.mid_lane,Role.solo
+4,Hyorimaru,Riven,False,Side.blue,2,5,2,0.8,227,Flash,Teleport,14,False,9487,9000,The Black Cleaver,Ionian Boots of Lucidity,Tiamat,Vampiric Scepter,Mortal Reminder,,0,117187,Lane.top_lane,Role.solo
+5,FZ3R0,Ezreal,True,Side.red,11,4,5,4.0,212,Flash,Heal,14,False,13668,13250,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Last Whisper,The Bloodthirster,Giant Slayer,23186,113144,Lane.bot_lane,Role.carry
+6,Klng Adam,Orianna,True,Side.red,5,4,7,3.0,192,Ghost,Flash,14,False,11221,8760,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Doran's Ring,Luden's Echo,Amplifying Tome,107108,15169,Lane.mid_lane,Role.solo
+7,stuntopia,Leona,True,Side.red,3,3,10,4.333333333333333,45,Ignite,Flash,13,False,8695,8075,Ruby Sightstone,Locket of the Iron Solari,Redemption,Boots of Mobility,Targon's Brace,Control Ward,8204,11534,Lane.bot_lane,Role.support
+8,Ntz dOdObee,Maokai,True,Side.red,6,2,4,5.0,209,Teleport,Flash,16,False,11172,10550,Doran's Ring,Frozen Heart,Sunfire Cape,Doran's Ring,Spirit Visage,Ninja Tabi,106554,20190,Lane.top_lane,Role.solo
+9,Veautiful,Rek'Sai,True,Side.red,2,2,12,7.0,135,Smite,Flash,15,False,10173,9575,Tiamat,Spectre's Cowl,Dead Man's Plate,Ruby Crystal,Enchantment: Cinderhulk,Ninja Tabi,33636,106562,Lane.jungle,Role.none

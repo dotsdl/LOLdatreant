@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Elise,True,Side.blue,18,3,4,7.333333333333333,124,Smite,Flash,14,False,12911,12775,Hextech Protobelt-01,Control Ward,Enchantment: Runic Echoes,Sorcerer's Shoes,Abyssal Scepter,Rylai's Crystal Scepter,102610,27829,Lane.jungle,Role.none
+1,Témpest,Zed,True,Side.blue,11,4,10,5.25,126,Flash,Ignite,13,True,10571,9200,Youmuu's Ghostblade,Edge of Night,Hexdrinker,Boots of Speed,B. F. Sword,,4917,67157,Lane.mid_lane,Role.solo
+2,Nhock,Corki,True,Side.blue,2,2,8,5.0,160,Heal,Flash,12,False,9599,9358,Blade of the Ruined King,Cull,Doran's Blade,Berserker's Greaves,Trinity Force,,56343,21191,Lane.bot_lane,Role.carry
+3,Natalia Dyer,Riven,True,Side.blue,10,4,10,5.0,163,Flash,Teleport,13,False,11398,11400,Ravenous Hydra,Edge of Night,Refillable Potion,Long Sword,Ionian Boots of Lucidity,The Black Cleaver,109,85628,Lane.top_lane,Role.solo
+4,C9 Lemon,Lulu,True,Side.blue,2,4,18,5.0,14,Exhaust,Flash,12,False,8049,7850,Boots of Mobility,Locket of the Iron Solari,Redemption,Eye of the Watchers,Refillable Potion,,17215,3500,Lane.bot_lane,Role.support
+5,Imaqtpie,Illaoi,False,Side.red,3,9,2,0.5555555555555556,154,Flash,Teleport,12,False,7697,7000,Corrupting Potion,Caulfield's Warhammer,Vampiric Scepter,Boots of Speed,Pickaxe,The Black Cleaver,228,90864,Lane.top_lane,Role.solo
+6,STM Mark,Vel'Koz,False,Side.red,1,5,6,1.4,37,Flash,Exhaust,10,False,6353,5475,Frostfang,Giant's Belt,Sightstone,,Needlessly Large Rod,Ionian Boots of Lucidity,24587,2605,Lane.bot_lane,Role.support
+7,Painn,Lee Sin,False,Side.red,4,11,2,0.5454545454545454,67,Flash,Smite,10,False,6860,6350,Ninja Tabi,Ruby Crystal,Tiamat,Chain Vest,Enchantment: Warrior,,9402,43189,Lane.mid_lane,Role.support
+8,Jurassiq,Ezreal,False,Side.red,5,6,3,1.3333333333333333,162,Flash,Heal,12,False,8809,7425,Manamune,Doran's Blade,Iceborn Gauntlet,Hexdrinker,Boots of Speed,,7368,70210,Lane.bot_lane,Role.carry
+9,godrjsdnd,Fizz,False,Side.red,4,12,5,0.75,92,Ignite,Flash,12,False,7322,6550,Corrupting Potion,Zhonya's Hourglass,The Dark Seal,Sheen,Ionian Boots of Lucidity,Aether Wisp,22423,15430,Lane.mid_lane,Role.carry

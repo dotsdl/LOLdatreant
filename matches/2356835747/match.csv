@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ddwaeji,Malphite,True,Side.blue,1,1,10,11.0,142,Flash,Teleport,13,False,7981,6850,Corrupting Potion,,Ninja Tabi,Spectre's Cowl,Giant's Belt,Sunfire Cape,47118,25300,Lane.top_lane,Role.solo
+1,d3ps,Hecarim,True,Side.blue,9,2,7,8.0,109,Ghost,Smite,13,False,10245,8633,Enchantment: Cinderhulk,Hunter's Potion,Ninja Tabi,Trinity Force,Ruby Crystal,Cloth Armor,18139,98134,Lane.jungle,Role.none
+2,MEMEME670,Janna,True,Side.blue,0,1,10,10.0,12,Flash,Exhaust,10,False,5308,4375,Sightstone,Crystalline Bracer,Nomad's Medallion,Ionian Boots of Lucidity,,Forbidden Idol,4241,3972,Lane.bot_lane,Role.support
+3,PAX Twisted Fate,Twisted Fate,True,Side.blue,4,3,5,3.0,159,Ghost,Flash,12,False,9067,8075,Doran's Ring,Lich Bane,Rod of Ages,Doran's Ring,Ionian Boots of Lucidity,,82132,12926,Lane.mid_lane,Role.solo
+4,WhiteYoshi,Ezreal,True,Side.blue,3,2,4,3.5,154,Heal,Flash,12,False,8115,6725,Doran's Blade,Total Biscuit of Rejuvenation,Ionian Boots of Lucidity,Manamune,Iceborn Gauntlet,,5678,64957,Lane.bot_lane,Role.carry
+5,Just what I am,Vayne,False,Side.red,0,3,1,0.3333333333333333,145,Flash,Heal,10,False,6266,5650,Statikk Shiv,B. F. Sword,Total Biscuit of Rejuvenation,Doran's Blade,,Berserker's Greaves,5477,47715,Lane.bot_lane,Role.carry
+6,Darvec,Nocturne,False,Side.red,2,6,2,0.6666666666666666,125,Smite,Flash,12,False,7057,6950,Blade of the Ruined King,Ruby Crystal,Boots of Speed,Enchantment: Warrior,,,3153,90425,Lane.jungle,Role.none
+7,Kebin M,Riven,False,Side.red,2,3,2,1.3333333333333333,132,Flash,Teleport,11,False,6795,5900,Serrated Dirk,,Null-Magic Mantle,,Ionian Boots of Lucidity,The Black Cleaver,33,67337,Lane.top_lane,Role.solo
+8,Quad Main,Ryze,False,Side.red,4,1,1,5.0,169,Flash,Ghost,12,True,8020,7075,Refillable Potion,Seraph's Embrace,Control Ward,,Rod of Ages,Ionian Boots of Lucidity,79423,9824,Lane.mid_lane,Role.solo
+9,Empress Bee,Lulu,False,Side.red,1,4,4,1.25,7,Exhaust,Flash,9,False,5163,4950,Frostfang,Redemption,Sightstone,Boots of Mobility,,,8405,2957,Lane.bot_lane,Role.support

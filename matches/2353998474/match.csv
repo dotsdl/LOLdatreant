@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Peacebreaker27,Viktor,False,Side.blue,10,7,9,2.7142857142857144,182,Ghost,Flash,15,False,12381,12635,Perfect Hex Core,Doran's Ring,Sorcerer's Shoes,Rylai's Crystal Scepter,Abyssal Scepter,Needlessly Large Rod,105497,10604,Lane.mid_lane,Role.solo
+1,IMCovenant,Vi,False,Side.blue,9,11,9,1.6363636363636365,108,Smite,Flash,14,False,11219,11158,Trinity Force,Maw of Malmortius,,,Enchantment: Warrior,Ninja Tabi,752,101317,Lane.jungle,Role.none
+2,A Click,Caitlyn,False,Side.blue,2,9,14,1.7777777777777777,179,Flash,Heal,13,False,10720,10650,Doran's Blade,Infinity Edge,Lord Dominik's Regards,Runaan's Hurricane,Berserker's Greaves,,565,113964,Lane.bot_lane,Role.carry
+3,RoyalJD,Janna,False,Side.blue,2,7,16,2.5714285714285716,15,Exhaust,Flash,12,False,8216,7900,Ardent Censer,Eye of the Oasis,Redemption,Boots of Mobility,,,7883,5843,Lane.bot_lane,Role.support
+4,WatchThePower,Irelia,False,Side.blue,10,7,4,2.0,189,Flash,Teleport,15,False,12303,11358,Trinity Force,Cull,Ninja Tabi,Sterak's Gage,Dead Man's Plate,,2385,99808,Lane.top_lane,Role.solo
+5,Tian ran dai,Riven,True,Side.red,12,6,8,3.3333333333333335,220,Flash,Teleport,17,False,15311,14200,Mercurial Scimitar,Ninja Tabi,Guardian Angel,The Black Cleaver,Maw of Malmortius,,0,158784,Lane.top_lane,Role.solo
+6,Jungle Rammus,Rammus,True,Side.red,4,5,15,3.8,92,Smite,Flash,15,True,11673,10625,Enchantment: Cinderhulk,Mercury's Treads,Knight's Vow,Thornmail,Warden's Mail,Giant's Belt,65081,39943,Lane.jungle,Role.none
+7,zentar,Vayne,True,Side.red,15,6,7,3.6666666666666665,215,Flash,Heal,16,False,16035,11850,Doran's Blade,B. F. Sword,Berserker's Greaves,Phantom Dancer,Statikk Shiv,Infinity Edge,46064,138297,Lane.bot_lane,Role.carry
+8,Somewhat Sleepy,Katarina,True,Side.red,10,10,6,1.6,147,Flash,Ignite,15,False,12496,11135,Sorcerer's Shoes,Hextech Gunblade,Abyssal Scepter,Zhonya's Hourglass,Ruby Crystal,Amplifying Tome,101470,13090,Lane.mid_lane,Role.solo
+9,Kuan,Alistar,True,Side.red,0,6,26,4.333333333333333,29,Exhaust,Flash,14,False,10415,8975,Eye of the Equinox,Locket of the Iron Solari,Frozen Heart,Boots of Mobility,Crystalline Bracer,,22652,7202,Lane.bot_lane,Role.support

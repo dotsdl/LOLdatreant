@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,II Master II,Karma,False,Side.blue,0,6,3,0.5,71,Flash,Teleport,10,False,5001,4400,Doran's Ring,Iceborn Gauntlet,Mercury's Treads,,,,27697,12586,Lane.top_lane,Role.solo
+1,Voids,Braum,False,Side.blue,0,3,3,1.0,18,Exhaust,Flash,8,False,4422,3550,Targon's Brace,Boots of Mobility,Sightstone,Control Ward,Crystalline Bracer,,3093,4136,Lane.bot_lane,Role.support
+2,KaneKi521,Yasuo,False,Side.blue,3,6,0,0.5,140,Flash,Ignite,11,False,6860,5275,Refillable Potion,Doran's Blade,Phantom Dancer,Cloak of Agility,,Ninja Tabi,24907,48496,Lane.mid_lane,Role.solo
+3,SavageWolf,Diana,False,Side.blue,2,5,0,0.4,122,Flash,Smite,11,False,6680,5875,Enchantment: Bloodrazor,Refillable Potion,Sorcerer's Shoes,Stinger,Fiendish Codex,,35020,34730,Lane.jungle,Role.none
+4,aMogem,Caitlyn,False,Side.blue,1,3,2,1.0,137,Heal,Flash,10,False,6554,5600,Doran's Blade,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,,,614,71091,Lane.bot_lane,Role.carry
+5,Aurath,Twitch,True,Side.red,9,1,5,14.0,84,Smite,Flash,12,True,9357,8175,Blade of the Ruined King,Enchantment: Bloodrazor,Ninja Tabi,Long Sword,Ruby Crystal,,2085,78586,Lane.jungle,Role.none
+6,LordLyrical,Vayne,True,Side.red,3,2,2,2.5,148,Heal,Flash,11,False,7810,6050,Doran's Blade,Zeal,Infinity Edge,Dagger,Boots of Speed,,0,54228,Lane.bot_lane,Role.carry
+7,Lucky of Legends,Darius,True,Side.red,4,1,3,7.0,154,Flash,Ghost,12,False,9099,8725,Health Potion,Raptor Cloak,,Ninja Tabi,Spirit Visage,The Black Cleaver,0,83634,Lane.top_lane,Role.solo
+8,King Cobra,Aurelion Sol,True,Side.red,5,1,10,15.0,142,Flash,Exhaust,13,False,9235,8025,Hextech GLP-800,Rylai's Crystal Scepter,Boots of Swiftness,The Dark Seal,,,89825,3044,Lane.mid_lane,Role.solo
+9,sb gank me,Maokai,True,Side.red,2,1,5,7.0,22,Flash,Exhaust,9,False,5674,4500,Sightstone,Refillable Potion,Face of the Mountain,Faerie Charm,Boots of Speed,Crystalline Bracer,7512,3295,Lane.bot_lane,Role.support

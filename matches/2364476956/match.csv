@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Slaey,Tahm Kench,False,Side.blue,0,5,0,0.0,108,Flash,Teleport,10,False,6089,5650,Sunfire Cape,Cloth Armor,Ruby Crystal,Ninja Tabi,Doran's Shield,Ruby Crystal,33708,10959,Lane.top_lane,Role.solo
+1,Fasin,Alistar,False,Side.blue,0,6,3,0.5,25,Flash,Exhaust,9,False,5406,5100,Face of the Mountain,Crystalline Bracer,Ninja Tabi,Sightstone,,,6728,4694,Lane.bot_lane,Role.support
+2,SomeKidd,Twisted Fate,False,Side.blue,2,5,5,1.4,90,Flash,Ghost,11,False,6925,6425,Doran's Ring,Lich Bane,Sorcerer's Shoes,,Seeker's Armguard,,46761,9461,Lane.mid_lane,Role.solo
+3,LetsGameItUp,Draven,False,Side.blue,5,6,3,1.3333333333333333,173,Flash,Heal,12,False,10096,9300,Doran's Blade,The Bloodthirster,Berserker's Greaves,Rapid Firecannon,B. F. Sword,,1602,93409,Lane.bot_lane,Role.carry
+4,iHDK,Hecarim,False,Side.blue,4,7,3,1.0,78,Smite,Ghost,11,False,7416,6258,Stalker's Blade,Trinity Force,Ruby Crystal,Boots of Swiftness,,,5890,59499,Lane.jungle,Role.none
+5,TRUMPSSMALLHANDS,Jarvan IV,True,Side.red,7,3,13,6.666666666666667,84,Flash,Smite,12,False,9830,7750,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Mercury's Treads,Ruby Crystal,Cloth Armor,4564,91100,Lane.jungle,Role.none
+6,Frodo Baguettes,Ashe,True,Side.red,6,2,11,8.5,158,Heal,Flash,12,False,10034,8375,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,,913,99802,Lane.bot_lane,Role.carry
+7,bonkae1,Orianna,True,Side.red,4,3,11,5.0,159,Flash,Cleanse,12,False,9521,7975,Luden's Echo,,,,Morellonomicon,Sorcerer's Shoes,75954,13861,Lane.mid_lane,Role.solo
+8,Big Nasty Weeb,Jayce,True,Side.red,9,0,4,13.0,160,Flash,Teleport,13,True,10728,8825,Doran's Blade,The Black Cleaver,Ionian Boots of Lucidity,Youmuu's Ghostblade,B. F. Sword,,11827,84082,Lane.top_lane,Role.solo
+9,Stanatic,Thresh,True,Side.red,3,3,18,7.0,25,Flash,Ignite,11,False,7593,6900,Boots of Mobility,Sightstone,Face of the Mountain,Refillable Potion,Redemption,Ruby Crystal,11014,6552,Lane.bot_lane,Role.support

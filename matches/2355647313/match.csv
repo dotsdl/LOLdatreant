@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,L1thium,Heimerdinger,False,Side.blue,3,4,1,1.0,81,Flash,Ignite,10,False,5322,4725,Doran's Ring,Morellonomicon,,Sorcerer's Shoes,,,39674,7175,Lane.mid_lane,Role.solo
+1,Stranger Thingys,Lee Sin,False,Side.blue,0,10,1,0.1,32,Smite,Flash,8,False,3955,3625,Ruby Crystal,Refillable Potion,Enchantment: Warrior,,,Boots of Speed,5044,25375,Lane.jungle,Role.none
+2,unknown7fighter,Ekko,False,Side.blue,1,5,1,0.4,61,Teleport,Flash,9,False,4307,4200,Morellonomicon,Total Biscuit of Rejuvenation,,Boots of Speed,,,32680,7790,Lane.top_lane,Role.solo
+3,VoidV,Miss Fortune,False,Side.blue,0,6,0,0.0,55,Heal,Flash,8,False,3860,2550,Doran's Blade,Total Biscuit of Rejuvenation,Serrated Dirk,Doran's Blade,Boots of Speed,,4145,23072,Lane.bot_lane,Role.carry
+4,Spicy Poke,Leona,False,Side.blue,0,5,0,0.0,17,Exhaust,Flash,8,False,3344,3100,Relic Shield,Sightstone,Crystalline Bracer,Boots of Speed,Forbidden Idol,,2505,3477,Lane.bot_lane,Role.support
+5,InfectedNuke,Braum,True,Side.red,1,0,12,13.0,29,Exhaust,Flash,9,False,6178,4325,Eye of the Equinox,Boots of Swiftness,Giant's Belt,,,,4136,8485,Lane.bot_lane,Role.support
+6,PlebeianRepublic,Viktor,True,Side.red,8,0,2,10.0,136,Flash,Ghost,12,False,8048,5060,Perfect Hex Core,Doran's Ring,Refillable Potion,Ionian Boots of Lucidity,Amplifying Tome,,58965,14993,Lane.mid_lane,Role.solo
+7,uupa,Ryze,True,Side.red,4,1,6,10.0,171,Flash,Teleport,12,False,8530,5975,Tear of the Goddess,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,87754,7836,Lane.top_lane,Role.solo
+8,Rank 1 Season 7,Kha'Zix,True,Side.red,7,2,5,6.0,162,Smite,Flash,13,True,10414,8125,Tiamat,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,2916,146389,Lane.jungle,Role.none
+9,vQuantumz,Lucian,True,Side.red,9,1,6,15.0,104,Flash,Heal,10,False,8655,5975,Essence Reaver,Doran's Blade,Berserker's Greaves,Brawler's Gloves,,Control Ward,2480,57844,Lane.bot_lane,Role.carry

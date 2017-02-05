@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Zaganox,Jhin,False,Side.blue,5,5,6,2.2,134,Heal,Flash,12,False,8337,7700,Doran's Blade,Rapid Firecannon,Essence Reaver,Boots of Swiftness,,,3461,69701,Lane.bot_lane,Role.carry
+1,Huhi Lite,Lee Sin,False,Side.blue,2,5,12,2.8,116,Smite,Flash,13,False,8177,7850,Tiamat,Enchantment: Warrior,Dead Man's Plate,Boots of Swiftness,Control Ward,,14437,80566,Lane.jungle,Role.none
+2,TwitchTV LOLFILL,Zyra,False,Side.blue,3,6,9,2.0,13,Exhaust,Flash,10,False,6978,6350,Haunting Guise,Boots of Mobility,Giant's Belt,Control Ward,,Eye of the Watchers,17681,1956,Lane.bot_lane,Role.support
+3,Pekin Woof,Orianna,False,Side.blue,1,8,6,0.875,160,Flash,Heal,13,False,7982,6500,Doran's Ring,Chalice of Harmony,Control Ward,Doran's Ring,Sorcerer's Shoes,Morellonomicon,73884,12433,Lane.mid_lane,Role.solo
+4,CLG Darshawn,Darius,False,Side.blue,7,7,3,1.4285714285714286,191,Teleport,Flash,14,False,9967,9850,Dead Man's Plate,The Black Cleaver,Spectre's Cowl,Doran's Blade,Mercury's Treads,Kindlegem,0,95115,Lane.top_lane,Role.solo
+5,fallenbandit,Nasus,True,Side.red,3,3,13,5.333333333333333,174,Flash,Teleport,14,False,11448,9458,Corrupting Potion,Zz'Rot Portal,Trinity Force,Ninja Tabi,Doran's Ring,Ruby Crystal,60736,35096,Lane.top_lane,Role.solo
+6,Pocket Rhino,Bard,True,Side.red,1,6,12,2.1666666666666665,17,Flash,Exhaust,12,False,8087,6975,Redemption,Refillable Potion,Eye of the Watchers,,Boots of Mobility,Aegis of the Legion,8065,3397,Lane.bot_lane,Role.support
+7,Second of Arc,LeBlanc,True,Side.red,8,3,7,5.0,175,Ignite,Flash,15,False,11529,9560,Sorcerer's Shoes,Morellonomicon,Abyssal Scepter,Amplifying Tome,Needlessly Large Rod,Doran's Ring,78954,13395,Lane.mid_lane,Role.solo
+8,Lil Cody,Twitch,True,Side.red,13,4,3,4.0,186,Heal,Flash,14,True,13082,12250,Infinity Edge,Runaan's Hurricane,Statikk Shiv,Berserker's Greaves,B. F. Sword,Long Sword,5536,91877,Lane.bot_lane,Role.carry
+9,Makavéli,Rek'Sai,True,Side.red,6,2,10,8.0,146,Smite,Flash,15,False,11896,8770,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Dead Man's Plate,Negatron Cloak,Tiamat,27798,109338,Lane.jungle,Role.none

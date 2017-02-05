@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,In Bi We Trust,Viktor,True,Side.blue,9,2,7,8.0,261,Flash,Ghost,17,False,14608,11850,Abyssal Scepter,Sheen,Perfect Hex Core,Rylai's Crystal Scepter,Doran's Ring,Ionian Boots of Lucidity,176189,19549,Lane.mid_lane,Role.solo
+1,Baby Biek,Nami,True,Side.blue,2,2,17,9.5,13,Exhaust,Flash,14,False,10050,8125,Redemption,Boots of Mobility,Mikael's Crucible,,,Eye of the Watchers,9292,7232,Lane.bot_lane,Role.support
+2,Deenie,Caitlyn,True,Side.blue,10,3,7,5.666666666666667,308,Flash,Heal,16,False,16510,12700,B. F. Sword,Infinity Edge,Berserker's Greaves,Statikk Shiv,Runaan's Hurricane,Vampiric Scepter,38958,212946,Lane.bot_lane,Role.carry
+3, The Blackthorn,Shen,True,Side.blue,2,4,11,3.25,184,Flash,Teleport,16,False,11401,9520,Negatron Cloak,Sunfire Cape,Mercury's Treads,Doran's Shield,Spirit Visage,Raptor Cloak,66144,32691,Lane.top_lane,Role.solo
+4,Leshaunda,Jarvan IV,True,Side.blue,1,3,13,4.666666666666667,153,Smite,Flash,15,False,11085,10175,Enchantment: Warrior,Tiamat,Refillable Potion,Boots of Swiftness,Dead Man's Plate,Guardian Angel,6430,134964,Lane.jungle,Role.none
+5,Buddylov3,Ahri,False,Side.red,2,4,4,1.5,209,Ignite,Flash,15,False,11328,10275,Blasting Wand,Hextech Gunblade,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Doran's Ring,77034,15283,Lane.mid_lane,Role.solo
+6,Picnic8,Graves,False,Side.red,6,4,2,2.0,144,Smite,Flash,15,False,12071,11520,Negatron Cloak,Death's Dance,Ninja Tabi,Phantom Dancer,Enchantment: Warrior,Chain Vest,5529,175870,Lane.jungle,Role.none
+7,ZacharyED,Twitch,False,Side.red,1,5,5,1.2,240,Heal,Flash,15,False,11520,9875,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Pickaxe,682,141409,Lane.bot_lane,Role.carry
+8,RealTeemo,Teemo,False,Side.red,4,3,3,2.3333333333333335,330,Ignite,Flash,18,True,15441,13450,Doran's Ring,Void Staff,Liandry's Torment,Runaan's Hurricane,Nashor's Tooth,Sorcerer's Shoes,168173,75448,Lane.top_lane,Role.solo
+9,MancyPelosi,Soraka,False,Side.red,1,8,8,1.125,19,Exhaust,Flash,12,False,9162,8855,Ionian Boots of Lucidity,Eye of the Oasis,Refillable Potion,Redemption,Null-Magic Mantle,Ardent Censer,11187,2019,Lane.bot_lane,Role.support

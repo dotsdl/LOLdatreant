@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Boosted Sniper,Ezreal,False,Side.blue,2,4,1,0.75,198,Flash,Heal,12,False,8621,7600,Doran's Blade,Muramana,Iceborn Gauntlet,Ionian Boots of Lucidity,Vampiric Scepter,,12822,74274,Lane.bot_lane,Role.carry
+1,Rule Bage,Ryze,False,Side.blue,3,8,4,0.875,153,Ghost,Flash,13,False,8305,7985,Refillable Potion,Morellonomicon,Seraph's Embrace,Ionian Boots of Lucidity,The Dark Seal,Amplifying Tome,90442,6427,Lane.mid_lane,Role.solo
+2,CarrilIo,Nautilus,False,Side.blue,1,6,2,0.5,128,Flash,Teleport,12,False,7261,5775,Sunfire Cape,Ninja Tabi,Spectre's Cowl,,,Corrupting Potion,52831,17577,Lane.top_lane,Role.solo
+3,Just hasagi,Soraka,False,Side.blue,0,3,5,1.6666666666666667,13,Exhaust,Flash,11,False,6473,5310,Redemption,Sightstone,Amplifying Tome,Boots of Mobility,Nomad's Medallion,,24786,3327,Lane.bot_lane,Role.support
+4,Glader,Zac,False,Side.blue,4,4,1,1.25,101,Flash,Smite,12,False,7698,7300,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Cloth Armor,Ionian Boots of Lucidity,Cloth Armor,57624,19546,Lane.jungle,Role.none
+5,ACuteKoreanGirI,Yasuo,True,Side.red,8,3,3,3.6666666666666665,182,Teleport,Flash,15,False,11786,10175,Doran's Blade,Infinity Edge,Hexdrinker,Phantom Dancer,Mercury's Treads,Vampiric Scepter,22143,114015,Lane.top_lane,Role.solo
+6,ƒaith,Viktor,True,Side.red,4,2,7,5.5,179,Ghost,Flash,15,False,10794,8925,Perfect Hex Core,Abyssal Scepter,Doran's Ring,Sorcerer's Shoes,Doran's Ring,Aether Wisp,105580,12489,Lane.mid_lane,Role.solo
+7,Lose,Janna,True,Side.red,0,1,15,15.0,15,Flash,Exhaust,13,False,8384,7125,Ruby Sightstone,Nomad's Medallion,Redemption,Aegis of the Legion,Boots of Mobility,,7765,5552,Lane.bot_lane,Role.support
+8,Call Me Mr Han,Jhin,True,Side.red,4,0,7,11.0,225,Heal,Flash,14,False,12406,10925,Doran's Blade,B. F. Sword,Hexdrinker,Boots of Swiftness,Essence Reaver,Rapid Firecannon,5934,161769,Lane.bot_lane,Role.carry
+9,Alangatorz,Shaco,True,Side.red,9,4,1,2.5,92,Smite,Ignite,14,True,10960,9500,Tiamat,Hextech Gunblade,Berserker's Greaves,Enchantment: Bloodrazor,Dagger,Pickaxe,23410,104548,Lane.jungle,Role.none

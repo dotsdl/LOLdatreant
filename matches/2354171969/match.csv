@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,N810HO,Jhin,True,Side.blue,8,2,9,8.5,160,Flash,Heal,13,True,11356,11525,B. F. Sword,B. F. Sword,Vampiric Scepter,Boots of Swiftness,Essence Reaver,Rapid Firecannon,8927,94674,Lane.bot_lane,Role.carry
+1,Dokugami,Twisted Fate,True,Side.blue,6,2,5,5.5,168,Flash,Ghost,14,False,10141,10210,Doran's Ring,Rabadon's Deathcap,Lich Bane,Blasting Wand,Ionian Boots of Lucidity,Amplifying Tome,77438,12248,Lane.mid_lane,Role.solo
+2,Dardòch,Elise,True,Side.blue,12,4,12,6.0,91,Flash,Smite,14,False,11745,11525,Enchantment: Runic Echoes,Giant's Belt,Chain Vest,Sorcerer's Shoes,Rylai's Crystal Scepter,Void Staff,75829,27337,Lane.jungle,Role.none
+3,is that Rex,Riven,True,Side.blue,2,3,5,2.3333333333333335,131,Teleport,Flash,12,False,7937,7900,Ravenous Hydra,The Black Cleaver,,Health Potion,,Ionian Boots of Lucidity,0,66680,Lane.top_lane,Role.solo
+4,bvcx222,Blitzcrank,True,Side.blue,1,4,16,4.25,34,Flash,Ignite,11,False,7157,6975,Ruby Sightstone,Face of the Mountain,Ruby Crystal,Forbidden Idol,Total Biscuit of Rejuvenation,Boots of Mobility,6353,6128,Lane.bot_lane,Role.support
+5,FanatiiLt,Karma,False,Side.red,0,7,7,1.0,15,Exhaust,Flash,9,False,5275,5225,Boots of Swiftness,Eye of the Oasis,Redemption,,,,5625,3298,Lane.bot_lane,Role.support
+6,BOKU NO PlCO,Varus,False,Side.red,4,4,6,2.5,141,Flash,Heal,11,False,7802,6875,Doran's Blade,Control Ward,Youmuu's Ghostblade,Manamune,Ionian Boots of Lucidity,,4138,75718,Lane.bot_lane,Role.carry
+7,NoOb NeVeR trolL,Fiora,False,Side.red,1,7,0,0.14285714285714285,151,Flash,Teleport,12,False,7310,6800,Tiamat,Corrupting Potion,The Black Cleaver,Ninja Tabi,Vampiric Scepter,,1636,57215,Lane.top_lane,Role.solo
+8,Ifkinluvpeaches,Lee Sin,False,Side.red,5,5,3,1.6,97,Smite,Flash,11,False,7726,7475,Enchantment: Warrior,Refillable Potion,Youmuu's Ghostblade,Mercury's Treads,Long Sword,Long Sword,15878,66797,Lane.jungle,Role.none
+9,GKyrios,Lissandra,False,Side.red,5,6,6,1.8333333333333333,107,Flash,Teleport,11,False,7686,7485,Abyssal Scepter,Amplifying Tome,Hextech Protobelt-01,Ionian Boots of Lucidity,,Doran's Ring,53736,6093,Lane.mid_lane,Role.solo

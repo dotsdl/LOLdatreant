@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sheiden,Kennen,True,Side.blue,5,4,15,5.0,28,Exhaust,Flash,12,False,9130,8000,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Locket of the Iron Solari,Ruby Crystal,,22165,6972,Lane.bot_lane,Role.support
+1,Tyrokan,Darius,True,Side.blue,5,2,8,6.5,189,Ghost,Teleport,14,False,10915,10450,The Black Cleaver,Ninja Tabi,Titanic Hydra,Ruby Crystal,Aegis of the Legion,Null-Magic Mantle,0,114036,Lane.top_lane,Role.solo
+2,Damage Divers1on,Lucian,True,Side.blue,9,4,6,3.75,177,Heal,Flash,14,True,12410,11825,Phantom Dancer,Youmuu's Ghostblade,Berserker's Greaves,Doran's Blade,The Black Cleaver,B. F. Sword,2165,110193,Lane.bot_lane,Role.carry
+3,LC is a dog,Elise,True,Side.blue,12,4,12,6.0,88,Smite,Flash,14,False,11807,8825,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,Rylai's Crystal Scepter,Chain Vest,Giant's Belt,72878,23701,Lane.jungle,Role.none
+4, Zed Tempest ,Zed,True,Side.blue,6,7,7,1.8571428571428572,150,Flash,Ignite,14,False,10799,12175,Maw of Malmortius,Bilgewater Cutlass,Youmuu's Ghostblade,,,Mercury's Treads,5183,87690,Lane.mid_lane,Role.solo
+5,Memories of CCC,Riven,False,Side.red,3,11,3,0.5454545454545454,143,Flash,Teleport,12,False,8488,7675,Doran's Blade,The Black Cleaver,Pickaxe,Ionian Boots of Lucidity,Vampiric Scepter,Tiamat,1243,77453,Lane.top_lane,Role.solo
+6,Cotopaco Parce,Ryze,False,Side.red,6,4,6,3.0,183,Exhaust,Flash,14,False,10309,8800,Tear of the Goddess,Ionian Boots of Lucidity,Refillable Potion,Rod of Ages,Morellonomicon,Needlessly Large Rod,127973,8963,Lane.mid_lane,Role.solo
+7,MrDING,Xin Zhao,False,Side.red,5,8,6,1.375,139,Smite,Flash,14,False,9786,9408,Enchantment: Bloodrazor,Chain Vest,Mercury's Treads,Trinity Force,Giant's Belt,,9480,112695,Lane.jungle,Role.none
+8,Rokhan,Blitzcrank,False,Side.red,1,6,5,1.0,28,Flash,Ignite,10,False,6143,5875,Relic Shield,Boots of Speed,Sightstone,Refillable Potion,Iceborn Gauntlet,B. F. Sword,9444,6807,Lane.bot_lane,Role.support
+9,DarkChicken,Jhin,False,Side.red,6,8,4,1.25,152,Flash,Heal,13,False,9215,8750,Doran's Blade,,Essence Reaver,Boots of Swiftness,Infinity Edge,,3747,87708,Lane.bot_lane,Role.carry

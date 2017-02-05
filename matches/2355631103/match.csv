@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Fockus,Jhin,True,Side.blue,10,4,18,7.0,235,Flash,Heal,17,False,16277,15435,Lord Dominik's Regards,Boots of Swiftness,Caulfield's Warhammer,Essence Reaver,Rapid Firecannon,Infinity Edge,13127,226861,Lane.bot_lane,Role.carry
+1,Révenge,LeBlanc,True,Side.blue,18,7,15,4.714285714285714,155,Ignite,Flash,16,True,16360,15700,Rabadon's Deathcap,Abyssal Scepter,Quicksilver Sash,Sorcerer's Shoes,Rylai's Crystal Scepter,Morellonomicon,119378,20546,Lane.mid_lane,Role.solo
+2,is that Rex,Lee Sin,True,Side.blue,5,5,18,4.6,99,Smite,Flash,15,False,13210,12100,The Black Cleaver,Maw of Malmortius,Enchantment: Warrior,Giant's Belt,Chain Vest,Mercury's Treads,24701,122244,Lane.jungle,Role.none
+3,Sawyerr,Thresh,True,Side.blue,5,4,27,8.0,43,Ignite,Flash,15,False,11851,11390,Frozen Heart,Locket of the Iron Solari,,Boots of Mobility,Redemption,Ruby Sightstone,21796,8707,Lane.bot_lane,Role.support
+4,HannibaI Barca,Nautilus,True,Side.blue,12,5,10,4.4,257,Teleport,Flash,17,False,15818,13350,Zz'Rot Portal,Wit's End,Iceborn Gauntlet,Ninja Tabi,Chain Vest,Sunfire Cape,112989,42154,Lane.top_lane,Role.solo
+5,MyTeamSoGOD,Alistar,False,Side.red,0,15,12,0.8,30,Exhaust,Flash,12,False,8105,7650,Knight's Vow,Redemption,Sightstone,Control Ward,Boots of Mobility,Targon's Brace,11105,6683,Lane.bot_lane,Role.support
+6,Xzevz,Kha'Zix,False,Side.red,13,10,3,1.6,137,Smite,Flash,15,False,13009,12300,Mercury's Treads,Enchantment: Warrior,Maw of Malmortius,The Black Cleaver,Tiamat,Chain Vest,5461,137443,Lane.jungle,Role.none
+7,Brian Griffin,Ezreal,False,Side.red,0,8,10,1.25,197,Heal,Flash,14,False,10802,10583,Bilgewater Cutlass,Trinity Force,Recurve Bow,Muramana,Ionian Boots of Lucidity,Doran's Blade,21708,98625,Lane.bot_lane,Role.carry
+8,Rhux,Poppy,False,Side.red,7,6,9,2.6666666666666665,178,Flash,Teleport,16,False,11469,10300,Corrupting Potion,Spirit Visage,Zz'Rot Portal,Mercury's Treads,Sunfire Cape,Cloth Armor,25478,72051,Lane.jungle,Role.none
+9,Alex Ich 1,Malzahar,False,Side.red,4,11,10,1.2727272727272727,172,Flash,Teleport,15,False,10802,10095,Doran's Ring,Rylai's Crystal Scepter,Negatron Cloak,Morellonomicon,Sorcerer's Shoes,Fiendish Codex,70683,18606,Lane.mid_lane,Role.solo

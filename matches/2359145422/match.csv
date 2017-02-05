@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nixxhaha,Jhin,True,Side.blue,3,6,8,1.8333333333333333,117,Flash,Heal,12,False,8421,6475,Doran's Blade,Essence Reaver,Kircheis Shard,Dagger,,Boots of Swiftness,1386,69299,Lane.bot_lane,Role.carry
+1,Zeithe,Zyra,True,Side.blue,2,2,5,3.5,26,Exhaust,Flash,10,False,6678,6575,Total Biscuit of Rejuvenation,Control Ward,Eye of the Watchers,Blasting Wand,Haunting Guise,Sorcerer's Shoes,19746,5410,Lane.bot_lane,Role.support
+2,WatchThePower,Riven,True,Side.blue,8,0,4,12.0,199,Flash,Teleport,15,True,11421,10635,The Black Cleaver,Ravenous Hydra,Ionian Boots of Lucidity,Lord Dominik's Regards,,,1860,113780,Lane.top_lane,Role.solo
+3,Dyr0nejk2,Nocturne,True,Side.blue,7,4,4,2.75,133,Smite,Flash,14,False,10000,7875,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Hexdrinker,Phantom Dancer,,4162,119632,Lane.jungle,Role.none
+4,521,Viktor,True,Side.blue,5,4,6,2.75,141,Flash,Ghost,12,False,9120,7775,Abyssal Scepter,Doran's Ring,Ionian Boots of Lucidity,The Hex Core mk-2,Needlessly Large Rod,,73877,8951,Lane.mid_lane,Role.solo
+5,NutriLite,Rengar,False,Side.red,0,4,0,0.0,174,Flash,Exhaust,13,False,7582,6200,Caulfield's Warhammer,Sunfire Cape,Refillable Potion,Ninja Tabi,Long Sword,Ruby Crystal,20606,73141,Lane.top_lane,Role.solo
+6,FawkBeeches,Shyvana,False,Side.red,2,6,1,0.5,141,Ghost,Smite,12,False,8015,7575,Blade of the Ruined King,Refillable Potion,Enchantment: Bloodrazor,Ninja Tabi,Cloth Armor,,57235,60877,Lane.jungle,Role.none
+7,Ozmister,Vayne,False,Side.red,7,6,2,1.5,135,Heal,Flash,11,False,8514,8075,Doran's Blade,Infinity Edge,Control Ward,Berserker's Greaves,Statikk Shiv,,16529,52459,Lane.bot_lane,Role.carry
+8,PTK phoenix,Lulu,False,Side.red,1,4,9,2.5,23,Exhaust,Flash,11,False,6430,5825,Hextech Revolver,Frost Queen's Claim,,The Dark Seal,Boots of Mobility,Kindlegem,13408,2684,Lane.bot_lane,Role.support
+9,CWHames,Diana,False,Side.red,6,5,1,1.4,146,Teleport,Flash,13,False,8667,13160,Pickaxe,Pickaxe,Pickaxe,Pickaxe,Pickaxe,Pickaxe,81195,13267,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Thalies,Katarina,True,Side.blue,12,3,6,6.0,132,Ignite,Flash,13,False,10431,9100,The Dark Seal,Sorcerer's Shoes,Blasting Wand,Hextech Gunblade,,Zhonya's Hourglass,73359,10646,Lane.mid_lane,Role.solo
+1,Von Bon,Shen,True,Side.blue,3,1,16,19.0,132,Teleport,Flash,13,True,9184,7275,Kindlegem,Doran's Shield,Ninja Tabi,Giant's Belt,Sunfire Cape,Crystalline Bracer,40837,21340,Lane.top_lane,Role.solo
+2,godrjsdnd,Vayne,True,Side.blue,10,4,9,4.75,150,Heal,Flash,13,False,10410,7950,Doran's Blade,Refillable Potion,Infinity Edge,Berserker's Greaves,Statikk Shiv,,12183,66601,Lane.bot_lane,Role.carry
+3,TQS Zuardian,Evelynn,True,Side.blue,7,3,8,5.0,126,Smite,Flash,13,False,9696,7650,Hextech Protobelt-01,Enchantment: Runic Echoes,Refillable Potion,The Dark Seal,Ionian Boots of Lucidity,Sheen,79208,35594,Lane.jungle,Role.none
+4,RexRequired,Blitzcrank,True,Side.blue,3,4,12,3.75,13,Ignite,Flash,9,False,6591,5770,Relic Shield,Aegis of the Legion,Sightstone,Control Ward,Redemption,Boots of Mobility,4240,4698,Lane.bot_lane,Role.support
+5,Shrew,LeBlanc,False,Side.red,3,8,6,1.125,102,Flash,Teleport,10,False,6962,6085,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,,36703,7893,Lane.mid_lane,Role.solo
+6,iOddOrange,Kha'Zix,False,Side.red,3,5,4,1.4,121,Flash,Smite,12,False,8245,7425,Tiamat,Enchantment: Warrior,Ionian Boots of Lucidity,Hexdrinker,,Caulfield's Warhammer,2785,93856,Lane.jungle,Role.none
+7,insaníty,Twitch,False,Side.red,6,10,5,1.1,100,Flash,Heal,11,False,7627,7600,Doran's Blade,Berserker's Greaves,Blade of the Ruined King,Runaan's Hurricane,,,386,54879,Lane.bot_lane,Role.carry
+8,NI9HT,Jayce,False,Side.red,3,5,5,1.6,147,Teleport,Flash,12,False,8417,7875,Manamune,Refillable Potion,Long Sword,Ionian Boots of Lucidity,Doran's Blade,Maw of Malmortius,11664,63651,Lane.top_lane,Role.solo
+9,SKY Fear,Braum,False,Side.red,0,8,10,1.25,20,Flash,Exhaust,9,False,5507,4925,Sightstone,Locket of the Iron Solari,Relic Shield,,Boots of Mobility,Cloth Armor,3742,2701,Lane.bot_lane,Role.support

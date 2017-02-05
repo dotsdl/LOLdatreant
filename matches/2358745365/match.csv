@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Entranced,Nasus,True,Side.blue,3,1,8,11.0,179,Teleport,Flash,13,False,9600,8050,Zz'Rot Portal,Spirit Visage,Doran's Ring,Doran's Ring,Mercury's Treads,Doran's Shield,50446,26941,Lane.top_lane,Role.solo
+1,Contractz,Nidalee,True,Side.blue,10,1,4,14.0,102,Smite,Flash,13,False,10187,8570,Refillable Potion,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Negatron Cloak,Fiendish Codex,91488,17093,Lane.jungle,Role.none
+2,Stiches,Kog'Maw,True,Side.blue,4,4,9,3.25,129,Heal,Flash,11,True,8704,8208,Bilgewater Cutlass,Recurve Bow,Berserker's Greaves,Doran's Blade,Trinity Force,,26670,34998,Lane.bot_lane,Role.carry
+3,Link,Ryze,True,Side.blue,8,2,5,6.5,173,Flash,Cleanse,13,False,10252,9675,Archangel's Staff,,,Ionian Boots of Lucidity,Abyssal Scepter,Rod of Ages,83014,9401,Lane.jungle,Role.none
+4,xTc4,Sona,True,Side.blue,3,4,10,3.25,19,Flash,Exhaust,10,False,7038,5400,Hextech Revolver,Refillable Potion,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Tear of the Goddess,10201,4483,Lane.bot_lane,Role.support
+5,Liquid Matt,Zyra,False,Side.red,3,7,5,1.1428571428571428,8,Exhaust,Flash,9,False,6082,5725,Boots of Mobility,Refillable Potion,Eye of the Watchers,Control Ward,Fiendish Codex,Seeker's Armguard,16641,4506,Lane.bot_lane,Role.support
+6,EnVy LOD,Jhin,False,Side.red,1,4,3,1.0,162,Flash,Heal,11,False,6786,6525,Doran's Blade,Essence Reaver,Zeal,Ionian Boots of Lucidity,,,4048,66916,Lane.bot_lane,Role.carry
+7,PSYCHOPATH909,Veigar,False,Side.red,3,4,4,1.75,132,Flash,Teleport,11,False,6904,6220,Morellonomicon,Control Ward,Negatron Cloak,Blasting Wand,Doran's Ring,Sorcerer's Shoes,45826,10490,Lane.mid_lane,Role.solo
+8,LimitedExtent,Kennen,False,Side.red,3,8,0,0.375,116,Teleport,Flash,11,False,6446,5985,Doran's Blade,Hextech Protobelt-01,Boots of Speed,Needlessly Large Rod,Giant's Belt,Amplifying Tome,28813,15285,Lane.top_lane,Role.solo
+9,An Obese Panda,Gragas,False,Side.red,2,5,6,1.6,67,Smite,Flash,10,False,6357,5825,Enchantment: Runic Echoes,Refillable Potion,Spectre's Cowl,Ionian Boots of Lucidity,Kindlegem,,38319,15018,Lane.jungle,Role.none

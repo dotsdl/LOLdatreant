@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jèremy ,Ivern,True,Side.blue,6,2,9,7.5,131,Smite,Flash,16,False,13304,12250,Zz'Rot Portal,Enchantment: Cinderhulk,Redemption,Warden's Mail,Ionian Boots of Lucidity,Athene's Unholy Grail,28404,13836,Lane.jungle,Role.none
+1,Kilering,Cassiopeia,True,Side.blue,6,5,5,2.2,205,Flash,Teleport,16,True,12608,11210,Doran's Ring,Rylai's Crystal Scepter,Seraph's Embrace,Blasting Wand,Abyssal Scepter,Amplifying Tome,126139,11943,Lane.top_lane,Role.solo
+2,IQ is 201 ,Yasuo,True,Side.blue,12,10,1,1.3,194,Flash,Exhaust,15,False,13277,11900,Infinity Edge,Phantom Dancer,Mercury's Treads,Frozen Mallet,Doran's Blade,Vampiric Scepter,22218,136297,Lane.mid_lane,Role.solo
+3,Mckenize,Lulu,True,Side.blue,1,7,10,1.5714285714285714,50,Exhaust,Flash,13,False,9906,8525,Zeke's Harbinger,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Aether Wisp,,28758,8746,Lane.bot_lane,Role.support
+4,Kyunni,Vayne,True,Side.blue,5,8,5,1.25,172,Heal,Flash,14,False,11913,10350,Doran's Blade,Berserker's Greaves,Phantom Dancer,Infinity Edge,Statikk Shiv,,6407,90765,Lane.bot_lane,Role.carry
+5,Sike,Blitzcrank,False,Side.red,2,3,25,9.0,55,Flash,Exhaust,14,False,9368,8875,Locket of the Iron Solari,Redemption,Eye of the Equinox,Boots of Mobility,Glacial Shroud,,15164,9365,Lane.bot_lane,Role.support
+6,its just a plank,Jhin,False,Side.red,12,5,15,5.4,156,Heal,Flash,14,False,12565,12500,Infinity Edge,Essence Reaver,Rapid Firecannon,Boots of Swiftness,Chain Vest,Null-Magic Mantle,6415,114399,Lane.bot_lane,Role.carry
+7,Rox Penaut,Graves,False,Side.red,3,5,12,3.0,174,Heal,Flash,14,False,10770,10825,Caulfield's Warhammer,,Phantom Dancer,Death's Dance,Phage,Berserker's Greaves,3103,137667,Lane.mid_lane,Role.duo
+8,brandonbaby,Rumble,False,Side.red,5,9,11,1.7777777777777777,175,Flash,Teleport,15,False,10444,10310,Doran's Shield,Hextech Protobelt-01,Spectre's Cowl,Sorcerer's Shoes,Rylai's Crystal Scepter,Haunting Guise,95079,14956,Lane.top_lane,Role.solo
+9,SeductiveKoala,Zed,False,Side.red,10,8,6,2.0,201,Flash,Ignite,14,False,12528,12075,Blade of the Ruined King,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Hexdrinker,,7087,112125,Lane.mid_lane,Role.duo

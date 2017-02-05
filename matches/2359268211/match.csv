@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,CloudNguyén,Lee Sin,False,Side.blue,4,6,3,1.1666666666666667,90,Smite,Flash,12,True,8024,7375,Enchantment: Warrior,Tiamat,Control Ward,Spectre's Cowl,Chain Vest,Mercury's Treads,11374,69668,Lane.jungle,Role.none
+1,Lil Cody,Twitch,False,Side.blue,10,6,2,2.0,157,Heal,Flash,13,False,10230,10025,Infinity Edge,Runaan's Hurricane,Zeal,Berserker's Greaves,Kircheis Shard,Doran's Blade,350,79220,Lane.bot_lane,Role.carry
+2,Best Alistar USA,Akali,False,Side.blue,1,7,4,0.7142857142857143,112,Flash,Ignite,11,False,6608,6260,Seeker's Armguard,Boots of Speed,Hextech Gunblade,Health Potion,Amplifying Tome,,20724,35721,Lane.mid_lane,Role.solo
+3,Entranced,Morgana,False,Side.blue,0,8,5,0.625,21,Exhaust,Flash,9,False,5627,5100,Sightstone,Refillable Potion,Redemption,Ionian Boots of Lucidity,Frostfang,,15565,2674,Lane.bot_lane,Role.support
+4,TwitchChunkylol,Kled,False,Side.blue,2,7,7,1.2857142857142858,116,Ignite,Flash,12,False,7139,6475,Tiamat,The Black Cleaver,Boots of Swiftness,Vampiric Scepter,,,0,52247,Lane.top_lane,Role.solo
+5,Hakuho,Lulu,True,Side.red,1,4,17,4.5,16,Exhaust,Flash,11,False,7760,6550,Eye of the Watchers,Redemption,,Boots of Mobility,Forbidden Idol,,10737,5232,Lane.bot_lane,Role.support
+6,CLG Darshawn,Yasuo,True,Side.red,2,6,8,1.6666666666666667,153,Teleport,Flash,13,False,8704,8050,Frozen Mallet,Doran's Blade,Doran's Blade,Ninja Tabi,,Phantom Dancer,25294,54253,Lane.top_lane,Role.solo
+7,Bobjenkins,Kennen,True,Side.red,11,2,11,11.0,118,Flash,Ghost,14,False,10589,8560,Doran's Shield,Hextech Protobelt-01,Sorcerer's Shoes,Rabadon's Deathcap,Amplifying Tome,,53132,17440,Lane.mid_lane,Role.solo
+8,retarded virgin,Rengar,True,Side.red,8,3,5,4.333333333333333,147,Flash,Smite,14,False,11055,9725,Ionian Boots of Lucidity,Youmuu's Ghostblade,Tiamat,Giant's Belt,Enchantment: Warrior,Kindlegem,11816,127653,Lane.jungle,Role.none
+9,cokes,Jhin,True,Side.red,12,2,9,10.5,129,Heal,Flash,12,False,10848,9125,Essence Reaver,Rapid Firecannon,Doran's Blade,Boots of Swiftness,B. F. Sword,,3245,82413,Lane.bot_lane,Role.carry

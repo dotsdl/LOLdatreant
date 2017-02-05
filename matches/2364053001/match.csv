@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jaminacup,LeBlanc,True,Side.blue,9,4,6,3.75,240,Teleport,Flash,18,False,15067,12835,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,Needlessly Large Rod,Luden's Echo,Void Staff,153859,16620,Lane.mid_lane,Role.solo
+1,Jojo2Go,Janna,True,Side.blue,1,2,14,7.5,16,Exhaust,Flash,15,False,11134,8985,Ardent Censer,Glacial Shroud,Eye of the Oasis,Boots of Mobility,Amplifying Tome,Redemption,10790,5727,Lane.bot_lane,Role.support
+2,Schismatic,Jinx,True,Side.blue,6,1,11,17.0,334,Heal,Flash,17,False,17408,14880,Vampiric Scepter,Berserker's Greaves,Mortal Reminder,Rapid Firecannon,Infinity Edge,Runaan's Hurricane,7338,285619,Lane.bot_lane,Role.carry
+3,BraveLimitao,Vi,True,Side.blue,9,8,4,1.625,146,Smite,Flash,17,True,14068,14503,Tiamat,Enchantment: Warrior,Randuin's Omen,Ninja Tabi,Trinity Force,Jaurim's Fist,1381,159670,Lane.jungle,Role.none
+4,AD LFT,Urgot,True,Side.blue,1,6,7,1.3333333333333333,236,Flash,Teleport,17,False,13156,12500,Guardian Angel,Muramana,Boots of Swiftness,The Black Cleaver,Iceborn Gauntlet,,2486,131263,Lane.top_lane,Role.solo
+5,eat shroom,Soraka,False,Side.red,0,6,14,2.3333333333333335,17,Flash,Exhaust,14,False,10130,9575,Mikael's Crucible,Locket of the Iron Solari,Eye of the Oasis,Redemption,Control Ward,Boots of Mobility,5712,5450,Lane.bot_lane,Role.support
+6,always plan ahea,Karma,False,Side.red,2,5,9,2.2,228,Flash,Exhaust,16,False,12842,12710,Rylai's Crystal Scepter,Luden's Echo,Ionian Boots of Lucidity,Needlessly Large Rod,Morellonomicon,Amplifying Tome,164999,22717,Lane.mid_lane,Role.solo
+7,Iake,Darius,False,Side.red,11,4,4,3.75,219,Flash,Teleport,16,False,14175,14275,Dead Man's Plate,Spirit Visage,Cloth Armor,Boots of Swiftness,Frozen Mallet,The Black Cleaver,2228,134745,Lane.top_lane,Role.solo
+8,IcyAsian100,Poppy,False,Side.red,3,4,7,2.5,202,Smite,Flash,16,False,13073,13050,Enchantment: Cinderhulk,Dead Man's Plate,Zz'Rot Portal,Frozen Heart,Ninja Tabi,Chain Vest,45361,117188,Lane.jungle,Role.none
+9,azureskyy,Ezreal,False,Side.red,5,7,6,1.5714285714285714,249,Flash,Heal,15,False,13570,12750,Doran's Blade,Essence Reaver,Infinity Edge,Berserker's Greaves,Statikk Shiv,B. F. Sword,46009,142853,Lane.bot_lane,Role.carry

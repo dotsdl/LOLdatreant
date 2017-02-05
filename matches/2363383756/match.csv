@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JuIy,Riven,False,Side.blue,6,6,4,1.6666666666666667,216,Flash,Teleport,15,False,11198,9550,Tiamat,Refillable Potion,Ninja Tabi,Caulfield's Warhammer,The Black Cleaver,Mortal Reminder,0,120662,Lane.top_lane,Role.solo
+1,DeathrunnerWC,Brand,False,Side.blue,3,6,10,2.1666666666666665,35,Ignite,Flash,13,False,9002,8010,Frost Queen's Claim,Rylai's Crystal Scepter,Control Ward,Sightstone,Amplifying Tome,Ionian Boots of Lucidity,34991,4329,Lane.bot_lane,Role.support
+2,Quirk,Thresh,False,Side.blue,2,10,6,0.8,124,Flash,Ignite,13,False,8397,7425,B. F. Sword,Statikk Shiv,Sorcerer's Shoes,Pickaxe,Doran's Blade,Doran's Blade,33212,26572,Lane.mid_lane,Role.solo
+3,Aundril,Lee Sin,False,Side.blue,3,7,6,1.2857142857142858,145,Flash,Smite,14,False,9608,8645,Ninja Tabi,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,Negatron Cloak,Chain Vest,19868,93882,Lane.jungle,Role.none
+4,08 18 2015,Sivir,False,Side.blue,1,5,10,2.2,187,Flash,Heal,14,False,9868,10000,Essence Reaver,Infinity Edge,Doran's Blade,Berserker's Greaves,Dagger,Dagger,0,119926,Lane.bot_lane,Role.carry
+5,Bobor,Kha'Zix,True,Side.red,6,3,4,3.3333333333333335,139,Smite,Flash,14,False,12063,10800,,,Ravenous Hydra,Enchantment: Warrior,Ionian Boots of Lucidity,Death's Dance,4459,150155,Lane.jungle,Role.none
+6,only Yoki,Orianna,True,Side.red,10,3,8,6.0,221,Flash,Ghost,16,True,14478,12825,Rabadon's Deathcap,Zhonya's Hourglass,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,,150096,17584,Lane.mid_lane,Role.solo
+7,Qing Tian,Ezreal,True,Side.red,9,1,10,19.0,230,Flash,Heal,16,False,14228,12600,Doran's Blade,Blade of the Ruined King,Ionian Boots of Lucidity,Muramana,Iceborn Gauntlet,Mortal Reminder,18376,133185,Lane.bot_lane,Role.carry
+8,TeamMeiya 70,Karma,True,Side.red,4,1,19,23.0,70,Exhaust,Flash,15,False,12259,11325,Frost Queen's Claim,Refillable Potion,Sightstone,Boots of Mobility,Morellonomicon,Rabadon's Deathcap,54680,11485,Lane.bot_lane,Role.support
+9,TTUPhoenix,Illaoi,True,Side.red,5,7,3,1.1428571428571428,182,Teleport,Flash,14,False,11287,10575,Corrupting Potion,Randuin's Omen,The Black Cleaver,Mercury's Treads,Sterak's Gage,Cloth Armor,825,135641,Lane.top_lane,Role.solo

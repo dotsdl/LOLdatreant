@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,effortlessly,Jhin,True,Side.blue,4,5,7,2.2,153,Heal,Flash,11,True,9653,8175,,,Rapid Firecannon,Doran's Blade,Berserker's Greaves,Essence Reaver,3276,83426,Lane.bot_lane,Role.carry
+1,Abraham,Maokai,True,Side.blue,4,1,9,13.0,172,Flash,Teleport,14,False,10058,8950,Doran's Ring,Sunfire Cape,Mercury's Treads,Corrupting Potion,Spirit Visage,Glacial Shroud,76635,14698,Lane.top_lane,Role.solo
+2,Gweiss,Graves,True,Side.blue,13,2,2,7.5,175,Smite,Flash,14,False,13657,11660,Vampiric Scepter,Youmuu's Ghostblade,Berserker's Greaves,Phantom Dancer,Enchantment: Warrior,B. F. Sword,4981,178273,Lane.jungle,Role.none
+3,cackgod,Ekko,True,Side.blue,6,2,6,6.0,143,Teleport,Flash,14,False,10059,9250,Aether Wisp,Sorcerer's Shoes,Hextech Protobelt-01,Abyssal Scepter,Sheen,The Dark Seal,81493,15167,Lane.mid_lane,Role.solo
+4,W Yuè,Nami,True,Side.blue,0,1,16,16.0,10,Flash,Exhaust,12,False,7807,6975,Redemption,Eye of the Watchers,Boots of Mobility,Aegis of the Legion,Control Ward,,8895,10260,Lane.bot_lane,Role.support
+5,simple is best,Cassiopeia,False,Side.red,0,6,0,0.0,151,Ghost,Flash,11,False,7063,5930,Doran's Ring,Morellonomicon,Negatron Cloak,Tear of the Goddess,Amplifying Tome,Ruby Crystal,67588,5995,Lane.mid_lane,Role.solo
+6,Rapidx,Riven,False,Side.red,1,7,1,0.2857142857142857,190,Flash,Teleport,12,False,7877,7650,Ravenous Hydra,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,,,85,93181,Lane.top_lane,Role.solo
+7,Peridot,Ezreal,False,Side.red,2,6,8,1.6666666666666667,165,Heal,Flash,13,False,8366,7783,Doran's Blade,Refillable Potion,Trinity Force,Ionian Boots of Lucidity,Manamune,,19332,66319,Lane.bot_lane,Role.carry
+8,BaconSeeker,Karma,False,Side.red,2,4,8,2.5,32,Exhaust,Flash,12,False,6852,5825,Ionian Boots of Lucidity,Eye of the Watchers,Ardent Censer,Control Ward,,,17059,3257,Lane.bot_lane,Role.support
+9,TQS Zuardian,Evelynn,False,Side.red,6,4,1,1.75,148,Smite,Flash,14,False,9251,8425,Hextech Protobelt-01,Enchantment: Runic Echoes,Sheen,Ionian Boots of Lucidity,The Dark Seal,Aether Wisp,94531,36701,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rapidx,Vayne,False,Side.blue,0,1,0,0.0,9,Flash,Heal,2,False,817,500,Doran's Blade,,,,,,0,2735,Lane.jungle,Role.none
+1,Fas the Magi,LeBlanc,False,Side.blue,0,0,0,0.0,13,Flash,Ignite,3,False,891,500,Doran's Ring,,,,,,540,2102,Lane.mid_lane,Role.duo
+2,The Eggsalad,Poppy,False,Side.blue,0,0,0,0.0,8,Teleport,Flash,2,False,794,500,Corrupting Potion,,,,,,67,2618,Lane.top_lane,Role.solo
+3,W Yuè,Janna,False,Side.blue,0,0,0,0.0,0,Flash,Exhaust,2,False,709,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,159,380,Lane.bot_lane,Role.solo
+4,BillyBoss1,Zac,False,Side.blue,0,0,0,0.0,0,Flash,Teleport,1,False,646,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+5,iPav999,Zilean,True,Side.red,1,0,0,1.0,0,Exhaust,Flash,2,True,1109,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,635,1008,Lane.bot_lane,Role.duo
+6,Alex Ich 1,Ryze,True,Side.red,0,0,0,0.0,14,Flash,Ghost,3,False,936,500,Sapphire Crystal,Health Potion,,,,,772,1937,Lane.mid_lane,Role.solo
+7,Sebi,Darius,True,Side.red,0,0,0,0.0,12,Flash,Teleport,3,False,871,500,Corrupting Potion,,,,,,20,3280,Lane.top_lane,Role.solo
+8,COME BACK STRONG,Lee Sin,True,Side.red,0,0,0,0.0,6,Smite,Flash,3,False,1016,500,,Refillable Potion,,,,Hunter's Machete,137,5937,Lane.jungle,Role.none
+9,Imaokai,Lucian,True,Side.red,0,0,1,1.0,13,Heal,Flash,2,False,1078,500,Doran's Blade,,,,,,0,3970,Lane.bot_lane,Role.duo

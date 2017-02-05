@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MID Noblesse,Twisted Fate,True,Side.blue,7,3,8,5.0,215,Flash,Ghost,16,False,14165,12675,Void Staff,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,Rod of Ages,Lich Bane,140548,18633,Lane.mid_lane,Role.solo
+1,Dank Matter,Gragas,True,Side.blue,4,6,11,2.5,86,Flash,Smite,14,False,11174,10485,Enchantment: Cinderhulk,Locket of the Iron Solari,Spirit Visage,Ionian Boots of Lucidity,Kindlegem,Amplifying Tome,61074,17119,Lane.jungle,Role.none
+2,DoritoMLG360xD69,Leona,True,Side.blue,4,9,19,2.5555555555555554,38,Ignite,Flash,13,False,10468,9900,Knight's Vow,Redemption,Eye of the Equinox,,Boots of Mobility,Spectre's Cowl,8330,9099,Lane.bot_lane,Role.support
+3,Aerodactyl6,Nautilus,True,Side.blue,5,4,11,4.0,206,Teleport,Flash,16,False,13009,12850,Iceborn Gauntlet,,Spirit Visage,Mercury's Treads,Sunfire Cape,Guardian Angel,104127,35359,Lane.top_lane,Role.solo
+4,Theifz,Twitch,True,Side.blue,11,5,12,4.6,211,Heal,Flash,15,False,15773,15075,Infinity Edge,Rapid Firecannon,Mortal Reminder,Runaan's Hurricane,Berserker's Greaves,B. F. Sword,3339,153177,Lane.bot_lane,Role.carry
+5,Smartcloud,Karma,False,Side.red,1,9,13,1.5555555555555556,20,Flash,Exhaust,11,False,9097,8825,Mikael's Crucible,Null-Magic Mantle,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Cloth Armor,22103,3693,Lane.bot_lane,Role.support
+6,Garani,Lee Sin,False,Side.red,9,5,8,3.4,149,Smite,Flash,15,False,11906,10975,Enchantment: Warrior,Spirit Visage,Mercury's Treads,Warden's Mail,Hexdrinker,Phage,32013,102899,Lane.jungle,Role.none
+7,GodMeru,Ekko,False,Side.red,4,5,10,2.8,189,Flash,Teleport,15,True,10998,10900,Sunfire Cape,Spirit Visage,Iceborn Gauntlet,,Ruby Crystal,Mercury's Treads,110548,23698,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,False,Side.red,5,6,7,2.0,209,Flash,Heal,14,False,12034,10655,Quicksilver Sash,Infinity Edge,Hexdrinker,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,460,135128,Lane.bot_lane,Role.carry
+9,Program,Viktor,False,Side.red,8,6,6,2.3333333333333335,178,Ghost,Flash,15,False,11756,11550,Perfect Hex Core,Rylai's Crystal Scepter,Lich Bane,Sorcerer's Shoes,Doran's Ring,,131088,12046,Lane.mid_lane,Role.solo

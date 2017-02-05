@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ProsteR,Caitlyn,False,Side.blue,2,7,6,1.1428571428571428,179,Heal,Flash,13,False,9498,9050,Runaan's Hurricane,Doran's Blade,Infinity Edge,Dagger,Berserker's Greaves,Brawler's Gloves,397,95890,Lane.bot_lane,Role.carry
+1,RRRRRRRRRR,Yasuo,False,Side.blue,1,9,3,0.4444444444444444,39,Flash,Exhaust,10,False,6026,5450,Ninja Tabi,Eye of the Equinox,Zeal,Dagger,Dagger,,8094,21032,Lane.bot_lane,Role.support
+2,Hopachai,Viktor,False,Side.blue,6,9,1,0.7777777777777778,138,Ghost,Flash,12,False,8913,8145,Needlessly Large Rod,Ionian Boots of Lucidity,Perfect Hex Core,Doran's Ring,Giant's Belt,Negatron Cloak,75593,10047,Lane.mid_lane,Role.solo
+3,herolineage,Lee Sin,False,Side.blue,2,7,2,0.5714285714285714,95,Flash,Smite,11,False,7658,7175,Refillable Potion,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,,Ruby Crystal,13886,58006,Lane.jungle,Role.none
+4,DowneyJr,Shyvana,False,Side.blue,3,9,2,0.5555555555555556,158,Smite,Teleport,13,False,9133,8400,Refillable Potion,Long Sword,Ninja Tabi,Sunfire Cape,Jaurim's Fist,Enchantment: Bloodrazor,68107,39402,Lane.top_lane,Role.solo
+5,Raccoon,Blitzcrank,True,Side.red,5,1,13,18.0,24,Ignite,Flash,12,False,8542,7300,Face of the Mountain,Righteous Glory,,Ruby Sightstone,Boots of Speed,,7908,7100,Lane.bot_lane,Role.support
+6,Eddnog,Irelia,True,Side.red,15,3,5,6.666666666666667,163,Teleport,Flash,14,False,12339,10933,Mercury's Treads,Titanic Hydra,Giant's Belt,Corrupting Potion,Trinity Force,Chain Vest,1317,87188,Lane.top_lane,Role.solo
+7,AkiyoWind,Orianna,True,Side.red,9,2,12,10.5,186,Ghost,Flash,15,True,12824,11700,Control Ward,Morellonomicon,Rabadon's Deathcap,Doran's Ring,Sorcerer's Shoes,Void Staff,119985,14081,Lane.mid_lane,Role.solo
+8,Follow Mohamed,Pantheon,True,Side.red,7,6,9,2.6666666666666665,95,Smite,Flash,13,False,10591,10550,Hunter's Talisman,Death's Dance,Youmuu's Ghostblade,Bilgewater Cutlass,Berserker's Greaves,Hextech Revolver,6258,90159,Lane.jungle,Role.none
+9,YourMamaRiven,Lucian,True,Side.red,5,2,12,8.5,180,Flash,Heal,13,False,11227,9700,Doran's Blade,Berserker's Greaves,The Black Cleaver,Zeal,Essence Reaver,,2903,114546,Lane.bot_lane,Role.carry

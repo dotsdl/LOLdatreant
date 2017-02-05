@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rich Homie Jayms,Twitch,False,Side.blue,2,4,0,0.5,135,Flash,Heal,9,False,6022,5125,Doran's Blade,Total Biscuit of Rejuvenation,Pickaxe,B. F. Sword,Berserker's Greaves,Zeal,0,45631,Lane.bot_lane,Role.carry
+1,Fiku,Ivern,False,Side.blue,0,3,3,1.0,50,Flash,Smite,10,False,5133,4950,Hunter's Talisman,Refillable Potion,Athene's Unholy Grail,Ionian Boots of Lucidity,Forbidden Idol,Crystalline Bracer,5314,4166,Lane.jungle,Role.none
+2,Liquid Painless,Karma,False,Side.blue,0,2,4,2.0,5,Flash,Ignite,8,False,4033,3700,,Eye of the Watchers,Ionian Boots of Lucidity,,Control Ward,,6969,2239,Lane.bot_lane,Role.support
+3,godrjsdnd,LeBlanc,False,Side.blue,3,5,0,0.6,98,Ignite,Flash,10,False,5677,5000,Doran's Ring,Morellonomicon,Doran's Ring,,Sorcerer's Shoes,,31341,8132,Lane.mid_lane,Role.solo
+4,cesuna,Mordekaiser,False,Side.blue,1,7,2,0.42857142857142855,113,Flash,Teleport,10,True,5860,5385,Refillable Potion,,Sorcerer's Shoes,Amplifying Tome,Rylai's Crystal Scepter,The Dark Seal,44896,10612,Lane.top_lane,Role.solo
+5,TheOddOrange,Lee Sin,True,Side.red,3,3,5,2.6666666666666665,86,Flash,Teleport,10,False,7118,5225,Tiamat,Null-Magic Mantle,Vampiric Scepter,Caulfield's Warhammer,Boots of Speed,Pickaxe,15550,50596,Lane.top_lane,Role.solo
+6,1936 1948,Shaco,True,Side.red,4,1,6,10.0,149,Smite,Ignite,12,False,8736,8625,Tiamat,Long Sword,Hextech Gunblade,Enchantment: Warrior,,Boots of Mobility,22685,82502,Lane.jungle,Role.none
+7,Liquid fabbbyyy,Vayne,True,Side.red,5,2,3,4.0,129,Flash,Heal,11,False,8171,6500,Berserker's Greaves,Phantom Dancer,B. F. Sword,Doran's Blade,Pickaxe,,0,58558,Lane.bot_lane,Role.carry
+8,Betabet,Veigar,True,Side.red,2,0,13,15.0,10,Flash,Exhaust,10,False,6897,5400,Ionian Boots of Lucidity,Frost Queen's Claim,Sightstone,Forbidden Idol,Ruby Crystal,,15749,3422,Lane.bot_lane,Role.support
+9,Linsanityy,Ryze,True,Side.red,7,0,6,13.0,165,Flash,Ghost,12,False,9915,8005,Refillable Potion,Archangel's Staff,Negatron Cloak,Ionian Boots of Lucidity,Amplifying Tome,Rod of Ages,102283,9282,Lane.mid_lane,Role.solo

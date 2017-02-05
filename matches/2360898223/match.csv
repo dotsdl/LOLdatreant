@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,0wnedbychris,Janna,False,Side.blue,1,4,1,0.5,7,Exhaust,Flash,11,False,6671,6025,Total Biscuit of Rejuvenation,Eye of the Oasis,Aegis of the Legion,Ardent Censer,Null-Magic Mantle,,4317,1150,Lane.bot_lane,Role.support
+1,Curious Gengar,Jarvan IV,False,Side.blue,2,4,4,1.5,121,Flash,Smite,12,False,8776,7775,Titanic Hydra,Refillable Potion,Enchantment: Cinderhulk,Null-Magic Mantle,Ionian Boots of Lucidity,,26756,78915,Lane.jungle,Role.none
+2,AlwaysBetterOne,Caitlyn,False,Side.blue,2,6,0,0.3333333333333333,215,Flash,Heal,13,False,9368,9000,Berserker's Greaves,,Doran's Blade,Runaan's Hurricane,Infinity Edge,Vampiric Scepter,1604,140130,Lane.bot_lane,Role.carry
+3,Setup,Jayce,False,Side.blue,2,4,0,0.5,157,Teleport,Flash,13,False,8154,8125,Youmuu's Ghostblade,Long Sword,Ionian Boots of Lucidity,,Doran's Blade,The Black Cleaver,4035,61890,Lane.top_lane,Role.solo
+4,The Clark,Ahri,False,Side.blue,7,6,3,1.6666666666666667,213,Flash,Ignite,15,False,11370,9175,Doran's Ring,Luden's Echo,Doran's Ring,Blasting Wand,Morellonomicon,Sorcerer's Shoes,89598,13260,Lane.mid_lane,Role.solo
+5,TKC Phantom,Darius,True,Side.red,8,0,5,13.0,250,Flash,Teleport,16,False,12371,10200,Doran's Shield,Boots of Swiftness,The Black Cleaver,Dead Man's Plate,Spirit Visage,,154,133518,Lane.top_lane,Role.solo
+6,poof the sheep,Katarina,True,Side.red,13,8,5,2.25,168,Flash,Ignite,15,True,12476,10435,Rylai's Crystal Scepter,Hextech Gunblade,The Dark Seal,Guardian Angel,Boots of Speed,Amplifying Tome,111040,15573,Lane.mid_lane,Role.solo
+7,LilTuffGuy,Ashe,True,Side.red,3,0,10,13.0,201,Flash,Heal,14,False,10803,9350,Doran's Blade,Essence Reaver,Runaan's Hurricane,Berserker's Greaves,Zeal,,3824,115829,Lane.bot_lane,Role.carry
+8,DrChang,Graves,True,Side.red,0,5,8,1.6,167,Flash,Smite,14,False,9794,8275,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,Pickaxe,3680,150260,Lane.jungle,Role.none
+9,bingsuu,Soraka,True,Side.red,0,1,14,14.0,12,Exhaust,Flash,12,False,7643,7525,Ardent Censer,Locket of the Iron Solari,Boots of Mobility,Eye of the Oasis,,,7026,4572,Lane.bot_lane,Role.support

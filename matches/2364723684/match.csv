@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Misogynistic Pig,Taric,True,Side.blue,2,2,20,11.0,57,Exhaust,Flash,13,False,8785,8650,Eye of the Equinox,Ninja Tabi,Knight's Vow,Frozen Heart,,,20278,10965,Lane.bot_lane,Role.support
+1,DonaldJCarry,Shaco,True,Side.blue,8,2,3,5.5,77,Smite,Ignite,12,False,9074,8550,Enchantment: Runic Echoes,Hextech Gunblade,Sorcerer's Shoes,Health Potion,Control Ward,Hextech Revolver,30553,47637,Lane.jungle,Role.none
+2,Pwnerness,Poppy,True,Side.blue,3,2,8,5.5,151,Teleport,Flash,14,False,8928,7125,Corrupting Potion,Ruby Crystal,Zz'Rot Portal,Thornmail,Mercury's Treads,,15058,64753,Lane.top_lane,Role.solo
+3,BurninBullet,Gangplank,True,Side.blue,7,2,13,10.0,139,Exhaust,Flash,14,False,10956,8858,Trinity Force,Refillable Potion,Infinity Edge,Ionian Boots of Lucidity,Brawler's Gloves,,8916,113155,Lane.mid_lane,Role.solo
+4,herolineage,Vayne,True,Side.blue,11,4,5,4.0,152,Flash,Heal,12,False,11061,10750,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Phantom Dancer,Long Sword,19217,70493,Lane.bot_lane,Role.carry
+5,Ryan Choi,Caitlyn,False,Side.red,2,4,5,1.75,163,Flash,Heal,13,False,8145,7950,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,,,1046,84075,Lane.top_lane,Role.solo
+6,JayceTopGG,Jayce,False,Side.red,3,9,5,0.8888888888888888,138,Flash,Teleport,11,False,7969,7600,The Black Cleaver,Refillable Potion,Doran's Blade,Ionian Boots of Lucidity,Caulfield's Warhammer,Hexdrinker,11874,54976,Lane.bot_lane,Role.carry
+7,l am Eternal,Braum,False,Side.red,0,8,6,0.75,29,Exhaust,Flash,10,False,5609,5075,Targon's Brace,Boots of Swiftness,Crystalline Bracer,Control Ward,Ruby Sightstone,Cloth Armor,5334,4692,Lane.bot_lane,Role.support
+8,1Primo1,Rengar,False,Side.red,3,5,0,0.6,123,Smite,Flash,12,False,7871,7775,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Chain Vest,,9850,83809,Lane.jungle,Role.none
+9,willgeta,Yasuo,False,Side.red,4,5,2,1.2,168,Ignite,Flash,13,True,8630,7750,Doran's Blade,Vampiric Scepter,B. F. Sword,Phantom Dancer,Ninja Tabi,Cloak of Agility,19677,73495,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LightHoangz,Orianna,True,Side.blue,4,2,3,3.5,148,Flash,Barrier,13,False,7989,6570,Doran's Ring,Morellonomicon,Fiendish Codex,Doran's Ring,Negatron Cloak,Ionian Boots of Lucidity,59795,9944,Lane.mid_lane,Role.solo
+1,LightDatz,Maokai,True,Side.blue,0,0,5,5.0,71,Flash,Smite,11,False,6544,5825,Giant's Belt,Refillable Potion,Mercury's Treads,Control Ward,Chain Vest,Enchantment: Cinderhulk,41762,24769,Lane.jungle,Role.none
+2,Oldthebest,Malphite,True,Side.blue,6,1,1,7.0,171,Flash,Teleport,14,False,8993,8525,Corrupting Potion,Sunfire Cape,Spirit Visage,Mercury's Treads,Control Ward,Glacial Shroud,56661,24544,Lane.top_lane,Role.solo
+3,Ugu,Vayne,True,Side.blue,8,1,2,10.0,170,Heal,Flash,13,True,10062,8450,Infinity Edge,Statikk Shiv,Dagger,Dagger,Doran's Blade,Berserker's Greaves,13229,73219,Lane.bot_lane,Role.carry
+4,bvcx222,Bard,True,Side.blue,0,2,9,4.5,7,Flash,Ignite,11,False,5859,5075,Sightstone,Redemption,Control Ward,Total Biscuit of Rejuvenation,Spellthief's Edge,Boots of Mobility,10134,4058,Lane.bot_lane,Role.support
+5,Pëng,Graves,False,Side.red,5,2,0,2.5,120,Smite,Flash,12,False,8320,7975,Brawler's Gloves,Control Ward,Maw of Malmortius,Dagger,Mercury's Treads,Enchantment: Warrior,3050,100481,Lane.jungle,Role.none
+6,RisenGod,Anivia,False,Side.red,0,6,0,0.0,11,Flash,Exhaust,8,False,4496,4565,Ionian Boots of Lucidity,Tear of the Goddess,Eye of the Watchers,,,,13345,3069,Lane.bot_lane,Role.support
+7,AvriI Lavigne,Syndra,False,Side.red,1,3,1,0.6666666666666666,157,Flash,Ghost,12,False,6985,6760,Needlessly Large Rod,Doran's Ring,The Dark Seal,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,60208,10847,Lane.mid_lane,Role.solo
+8,HanzoSanada,Nautilus,False,Side.red,0,3,1,0.3333333333333333,137,Teleport,Flash,12,False,6587,6725,Sunfire Cape,Spectre's Cowl,Doran's Ring,Doran's Ring,Mercury's Treads,,56723,18776,Lane.top_lane,Role.solo
+9,snap,Jhin,False,Side.red,0,4,1,0.25,150,Flash,Heal,10,False,7019,6200,Youmuu's Ghostblade,Cull,Refillable Potion,B. F. Sword,Boots of Swiftness,Doran's Blade,2230,62381,Lane.bot_lane,Role.carry

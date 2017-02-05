@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FrozenNight,Janna,True,Side.blue,1,1,18,19.0,15,Flash,Exhaust,13,False,9015,8125,Talisman of Ascension,Mikael's Crucible,Sightstone,Redemption,Control Ward,Boots of Speed,4047,5996,Lane.bot_lane,Role.support
+1,TeddyRO,Renekton,True,Side.blue,3,4,3,1.5,154,Flash,Teleport,14,False,9635,8700,Dead Man's Plate,Ninja Tabi,Sunfire Cape,Doran's Shield,Phage,,8645,71969,Lane.top_lane,Role.solo
+2,Stevens 1v9,Draven,True,Side.blue,11,1,4,15.0,238,Heal,Flash,14,True,15638,14730,Blade of the Ruined King,Rapid Firecannon,Lord Dominik's Regards,Infinity Edge,Doran's Blade,Berserker's Greaves,710,183518,Lane.bot_lane,Role.carry
+3,ChriShin,Lee Sin,True,Side.blue,6,7,5,1.5714285714285714,84,Smite,Flash,13,False,9433,8650,Enchantment: Warrior,Youmuu's Ghostblade,Refillable Potion,Ninja Tabi,Giant's Belt,Chain Vest,15191,83035,Lane.jungle,Role.none
+4,Poı,Malzahar,True,Side.blue,8,2,5,6.5,162,Flash,Ghost,15,False,11446,10375,Doran's Ring,Rylai's Crystal Scepter,Doran's Ring,Haunting Guise,Morellonomicon,Ionian Boots of Lucidity,76650,23507,Lane.mid_lane,Role.solo
+5,MongolWarrior,Brand,False,Side.red,3,11,3,0.5454545454545454,16,Ignite,Flash,10,False,6775,6175,Eye of the Watchers,Sorcerer's Shoes,Control Ward,Total Biscuit of Rejuvenation,Needlessly Large Rod,Giant's Belt,19396,3529,Lane.bot_lane,Role.support
+6,lost in thoughts,Cassiopeia,False,Side.red,2,7,5,1.0,160,Flash,Ghost,13,False,8669,8450,Needlessly Large Rod,Tear of the Goddess,Morellonomicon,Quicksilver Sash,Doran's Ring,Giant's Belt,70500,6654,Lane.mid_lane,Role.solo
+7,KarasMai,Graves,False,Side.red,7,4,4,2.75,190,Flash,Smite,15,False,11881,11350,Enchantment: Warrior,Mercury's Treads,Maw of Malmortius,Phantom Dancer,Phage,Long Sword,5663,160741,Lane.jungle,Role.none
+8,Stumpey,Gnar,False,Side.red,2,4,6,2.0,179,Flash,Teleport,14,False,8973,8925,Control Ward,Frozen Mallet,Mercury's Treads,Doran's Blade,The Black Cleaver,Warden's Mail,11103,100728,Lane.top_lane,Role.solo
+9,HungBrickMan,Caitlyn,False,Side.red,1,3,3,1.3333333333333333,177,Heal,Flash,13,False,8584,8375,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,,Cull,598,88558,Lane.bot_lane,Role.carry

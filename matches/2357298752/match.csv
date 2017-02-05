@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,A GOLD FISH,Rumble,False,Side.blue,4,3,5,3.0,160,Flash,Teleport,13,False,9514,9410,Doran's Shield,Sorcerer's Shoes,Liandry's Torment,Rylai's Crystal Scepter,Blasting Wand,Amplifying Tome,90518,14284,Lane.mid_lane,Role.solo
+1,Jeehun,Caitlyn,False,Side.blue,0,4,1,0.25,212,Flash,Heal,12,False,9087,8625,Doran's Blade,Berserker's Greaves,Infinity Edge,Dagger,Runaan's Hurricane,Dagger,512,116153,Lane.bot_lane,Role.carry
+2,Quabby,Sona,False,Side.blue,1,3,2,1.0,3,Exhaust,Flash,10,False,6642,6150,Frost Queen's Claim,Control Ward,Redemption,Sightstone,Null-Magic Mantle,Boots of Speed,3315,1613,Lane.bot_lane,Role.support
+3,Mapu,Lee Sin,False,Side.blue,5,5,2,1.4,97,Smite,Flash,13,True,9435,8950,Cloth Armor,Tiamat,The Black Cleaver,Ninja Tabi,Ruby Crystal,Enchantment: Warrior,22378,94291,Lane.jungle,Role.none
+4,no tp gp,Yasuo,False,Side.blue,1,2,4,2.5,199,Exhaust,Flash,13,False,9089,8725,Mercury's Treads,Phantom Dancer,Infinity Edge,Vampiric Scepter,,Doran's Blade,17683,89723,Lane.top_lane,Role.solo
+5,Toukey,Janna,True,Side.red,2,1,10,12.0,15,Exhaust,Flash,12,False,8380,6875,Ruby Sightstone,Talisman of Ascension,,Ionian Boots of Lucidity,Null-Magic Mantle,Aegis of the Legion,3137,3287,Lane.bot_lane,Role.support
+6,Killer Peacóck,Vi,True,Side.red,3,5,5,1.6,121,Flash,Smite,14,False,9961,8358,Long Sword,Ruby Crystal,Trinity Force,,Mercury's Treads,Enchantment: Warrior,1277,129766,Lane.jungle,Role.none
+7,Kondo,Vayne,True,Side.red,8,1,3,11.0,179,Heal,Flash,13,False,11117,9350,Doran's Blade,Statikk Shiv,Infinity Edge,Berserker's Greaves,Zeal,,19578,82711,Lane.bot_lane,Role.carry
+8,pokkun,Mordekaiser,True,Side.red,3,2,4,3.5,204,Flash,Ignite,15,False,10034,9250,Doran's Shield,Abyssal Scepter,Hextech Protobelt-01,Sorcerer's Shoes,Giant's Belt,Needlessly Large Rod,116780,13189,Lane.mid_lane,Role.solo
+9,Excecution bR,Nasus,True,Side.red,1,2,4,2.5,203,Teleport,Flash,14,False,10240,9383,Trinity Force,Spectre's Cowl,Frozen Heart,,Mercury's Treads,,15018,117336,Lane.top_lane,Role.solo

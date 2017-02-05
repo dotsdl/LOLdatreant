@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MongolWarrior,Caitlyn,False,Side.blue,1,7,2,0.42857142857142855,141,Heal,Flash,10,False,7095,6675,Doran's Blade,Berserker's Greaves,Pickaxe,Runaan's Hurricane,B. F. Sword,,420,68888,Lane.bot_lane,Role.duo
+1,zz cicero,Poppy,False,Side.blue,2,6,1,0.5,42,Ignite,Flash,9,False,5868,5150,Boots of Mobility,Ruby Sightstone,Face of the Mountain,,,,593,18402,Lane.bot_lane,Role.duo
+2,TaeYeonT,Ryze,False,Side.blue,1,3,2,1.0,149,Ghost,Flash,12,False,7282,6425,Tear of the Goddess,Refillable Potion,Boots of Speed,Morellonomicon,Giant's Belt,Needlessly Large Rod,67677,9033,Lane.mid_lane,Role.solo
+3,C L,Yasuo,False,Side.blue,3,5,3,1.2,165,Flash,Teleport,12,False,8508,8550,Berserker's Greaves,Frozen Mallet,Phantom Dancer,Cloak of Agility,,,22865,68014,Lane.top_lane,Role.solo
+4,rikarawr,Twitch,False,Side.blue,4,6,3,1.1666666666666667,82,Flash,Smite,12,True,7814,7425,Enchantment: Bloodrazor,Refillable Potion,Berserker's Greaves,B. F. Sword,Pickaxe,Zeal,2392,63008,Lane.jungle,Role.none
+5,Liquid fabbbyyy,Ezreal,True,Side.red,8,1,8,16.0,178,Flash,Heal,13,False,11693,8258,Muramana,Ionian Boots of Lucidity,Dagger,Trinity Force,Doran's Blade,Dagger,11637,106626,Lane.bot_lane,Role.carry
+6,C9 Smoothie,Lulu,True,Side.red,1,2,18,9.5,13,Flash,Exhaust,10,False,7313,5425,Boots of Mobility,Eye of the Watchers,,Aegis of the Legion,Null-Magic Mantle,,13533,8511,Lane.bot_lane,Role.support
+7,ADChaos,Lee Sin,True,Side.red,6,1,10,16.0,110,Flash,Smite,13,False,9288,6425,Enchantment: Warrior,Tiamat,Refillable Potion,,Ninja Tabi,Spectre's Cowl,15717,94207,Lane.jungle,Role.none
+8,NoOb NeVeR trolL,Fiora,True,Side.red,3,5,5,1.6,160,Flash,Teleport,13,False,9306,8750,Ravenous Hydra,Corrupting Potion,Control Ward,The Black Cleaver,Ninja Tabi,Ruby Crystal,866,81767,Lane.top_lane,Role.solo
+9,The13adGuy,Diana,True,Side.red,9,2,5,7.0,142,Teleport,Flash,13,False,10505,10300,Sorcerer's Shoes,Nashor's Tooth,Mejai's Soulstealer,Needlessly Large Rod,Rod of Ages,Doran's Ring,85291,16176,Lane.mid_lane,Role.solo

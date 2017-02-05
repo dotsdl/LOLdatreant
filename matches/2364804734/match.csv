@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Mi Amor Teemo,Swain,True,Side.blue,4,4,7,2.75,206,Flash,Teleport,15,False,11013,9375,Doran's Ring,Fiendish Codex,Rod of Ages,Abyssal Scepter,Sorcerer's Shoes,Seeker's Armguard,92488,14384,Lane.top_lane,Role.solo
+1,jamican banana,Orianna,True,Side.blue,4,11,4,0.7272727272727273,121,Ghost,Flash,13,False,9407,7750,Sorcerer's Shoes,Morellonomicon,Rylai's Crystal Scepter,Doran's Ring,,,70188,15206,Lane.mid_lane,Role.solo
+2,PutYourHeartsUp,Shyvana,True,Side.blue,19,2,5,12.0,137,Ghost,Smite,15,True,14444,12725,Refillable Potion,Warmog's Armor,Dead Man's Plate,Spirit Visage,Enchantment: Cinderhulk,Ninja Tabi,80780,38621,Lane.jungle,Role.none
+3,Erry,Ezreal,True,Side.blue,9,5,10,3.8,218,Heal,Flash,15,False,13485,12533,Blade of the Ruined King,Hexdrinker,Muramana,Trinity Force,Ionian Boots of Lucidity,Doran's Blade,23424,129412,Lane.bot_lane,Role.carry
+4,Teesum,Karma,True,Side.blue,1,6,17,3.0,10,Exhaust,Flash,12,False,8295,7475,Redemption,Sightstone,Locket of the Iron Solari,Frostfang,Ionian Boots of Lucidity,Control Ward,10778,4163,Lane.bot_lane,Role.support
+5,TheOddOrange,Lee Sin,False,Side.red,5,9,7,1.3333333333333333,99,Flash,Smite,13,False,8969,8900,Titanic Hydra,Enchantment: Warrior,Ruby Crystal,Kindlegem,Ionian Boots of Lucidity,Null-Magic Mantle,15861,87470,Lane.jungle,Role.none
+6,LL Stylish,Katarina,False,Side.red,14,4,5,4.75,191,Ignite,Flash,15,False,12360,12250,Hextech Gunblade,Luden's Echo,The Dark Seal,Void Staff,Sorcerer's Shoes,Needlessly Large Rod,120218,11802,Lane.mid_lane,Role.solo
+7,Rhux,Miss Fortune,False,Side.red,4,7,12,2.2857142857142856,37,Flash,Exhaust,12,False,8585,8225,Eye of the Watchers,Ionian Boots of Lucidity,The Black Cleaver,,Pickaxe,,16636,17818,Lane.bot_lane,Role.support
+8,CloudNguyén,Rumble,False,Side.red,0,8,5,0.625,198,Teleport,Flash,14,False,8503,7105,Doran's Shield,Blasting Wand,Negatron Cloak,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,93538,12104,Lane.top_lane,Role.solo
+9,Some Fruit,Jhin,False,Side.red,5,9,6,1.2222222222222223,116,Heal,Flash,12,False,8322,8150,Doran's Blade,Rapid Firecannon,Essence Reaver,Berserker's Greaves,,,1604,63093,Lane.bot_lane,Role.carry

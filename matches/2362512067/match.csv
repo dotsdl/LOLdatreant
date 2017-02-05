@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LHJLOVESJM,Bard,False,Side.blue,2,7,2,0.5714285714285714,14,Flash,Ignite,8,False,5302,4950,Control Ward,Aegis of the Legion,Sightstone,Boots of Mobility,Frostfang,Null-Magic Mantle,6992,4127,Lane.bot_lane,Role.support
+1,áng,Ahri,False,Side.blue,3,5,3,1.2,121,Flash,Ignite,11,False,6535,5820,Doran's Ring,Boots of Speed,Fiendish Codex,Doran's Ring,Morellonomicon,Negatron Cloak,35311,10215,Lane.mid_lane,Role.solo
+2,Y MyTeamSoTox1c,Lee Sin,False,Side.blue,2,6,4,1.0,52,Flash,Smite,9,False,5716,5150,Enchantment: Cinderhulk,Tiamat,Refillable Potion,Ninja Tabi,,,8017,39173,Lane.jungle,Role.none
+3,33333333,Sion,False,Side.blue,2,3,1,1.0,120,Flash,Teleport,11,False,6075,5700,Corrupting Potion,Sunfire Cape,,Mercury's Treads,Spectre's Cowl,,19468,44761,Lane.top_lane,Role.solo
+4,lingggz,Lucian,False,Side.blue,3,7,6,1.2857142857142858,104,Heal,Flash,11,False,6762,6450,Essence Reaver,Dagger,Doran's Blade,Berserker's Greaves,Brawler's Gloves,,3358,56073,Lane.bot_lane,Role.carry
+5,Pat the Bunny,Olaf,True,Side.red,9,2,7,8.0,89,Smite,Ghost,11,False,9293,8000,Righteous Glory,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Giant's Belt,Cloth Armor,Cloth Armor,11961,73057,Lane.jungle,Role.none
+6,Smartcloud,Karma,True,Side.red,2,3,19,7.0,13,Flash,Exhaust,10,True,8330,8175,Control Ward,Mikael's Crucible,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Cloth Armor,11690,6589,Lane.bot_lane,Role.support
+7,GodMeru,Nautilus,True,Side.red,3,2,10,6.5,151,Flash,Teleport,12,False,8536,7100,The Dark Seal,Zz'Rot Portal,Chain Vest,Bami's Cinder,Ninja Tabi,Ruby Crystal,51238,19595,Lane.top_lane,Role.solo
+8,Toll,Caitlyn,True,Side.red,6,2,6,6.0,138,Flash,Heal,11,False,9306,8375,Infinity Edge,Brawler's Gloves,Runaan's Hurricane,Berserker's Greaves,Control Ward,Doran's Blade,386,91128,Lane.bot_lane,Role.carry
+9,Program,Syndra,True,Side.red,8,3,6,4.666666666666667,135,Ghost,Flash,12,False,9372,8260,Doran's Ring,Morellonomicon,Rylai's Crystal Scepter,Sorcerer's Shoes,Amplifying Tome,,73419,11134,Lane.mid_lane,Role.solo

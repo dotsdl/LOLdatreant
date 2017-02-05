@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Quan Shi Sha Bi,Ezreal,False,Side.blue,0,2,1,0.5,134,Flash,Heal,10,False,5743,5050,Doran's Blade,Manamune,Boots of Speed,Cull,Sheen,Long Sword,6452,46428,Lane.bot_lane,Role.carry
+1,péggy,Karma,False,Side.blue,0,6,1,0.16666666666666666,12,Flash,Exhaust,8,False,4111,3925,Control Ward,Sightstone,Frostfang,Boots of Speed,Crystalline Bracer,Forbidden Idol,9863,2072,Lane.bot_lane,Role.support
+2,TFW LaoZi,Maokai,False,Side.blue,0,6,1,0.16666666666666666,110,Teleport,Flash,11,False,5192,4425,Boots of Speed,Refillable Potion,Sunfire Cape,,Doran's Ring,Doran's Ring,43509,9728,Lane.top_lane,Role.solo
+3,Lunae Lux,Lee Sin,False,Side.blue,0,2,1,0.5,78,Smite,Flash,10,False,5230,4400,Boots of Speed,Refillable Potion,Enchantment: Warrior,Phage,,,10356,54220,Lane.jungle,Role.none
+4,BlackChutney,Anivia,False,Side.blue,1,4,0,0.25,136,Teleport,Flash,11,False,5938,5760,Doran's Ring,Blasting Wand,Rod of Ages,Sorcerer's Shoes,Amplifying Tome,,46826,13033,Lane.mid_lane,Role.solo
+5,Cpt Squirtle,Jhin,True,Side.red,6,0,5,11.0,164,Heal,Flash,11,False,8619,8300,Youmuu's Ghostblade,Doran's Blade,Rapid Firecannon,Boots of Swiftness,B. F. Sword,,1045,84712,Lane.bot_lane,Role.carry
+6,Tschussi,Poppy,True,Side.red,3,0,6,9.0,155,Flash,Teleport,13,False,8200,7675,,Corrupting Potion,Boots of Speed,Sunfire Cape,Iceborn Gauntlet,Spectre's Cowl,25018,60323,Lane.top_lane,Role.solo
+7,Polar Star Dorm,Lulu,True,Side.red,3,1,4,7.0,122,Flash,Teleport,12,False,7250,7210,Doran's Ring,Morellonomicon,Ionian Boots of Lucidity,Needlessly Large Rod,Blasting Wand,Amplifying Tome,55073,12146,Lane.mid_lane,Role.solo
+8,cindy bot,Janna,True,Side.red,2,0,9,11.0,2,Exhaust,Flash,10,False,6005,3825,Sightstone,Redemption,Ancient Coin,Boots of Speed,,,4044,1872,Lane.bot_lane,Role.support
+9,Sandwitch,Kha'Zix,True,Side.red,6,0,3,9.0,107,Flash,Smite,12,True,8427,8100,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Maw of Malmortius,Serrated Dirk,,4473,98707,Lane.jungle,Role.none

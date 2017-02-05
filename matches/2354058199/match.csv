@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,GangstahSwerve,Bard,False,Side.blue,0,3,0,0.0,3,Ignite,Flash,6,False,3234,2600,Frostfang,Boots of Speed,Sightstone,Ruby Crystal,,,3834,2215,Lane.bot_lane,Role.support
+1,fre3zingCold,Maokai,False,Side.blue,0,6,0,0.0,79,Flash,Teleport,9,False,3895,3750,Doran's Ring,Catalyst of Aeons,Mercury's Treads,Blasting Wand,,,28890,6220,Lane.top_lane,Role.solo
+2,Abou222,Graves,False,Side.blue,1,3,0,0.3333333333333333,57,Heal,Flash,7,False,3815,4225,Doran's Blade,Pickaxe,Boots of Mobility,Long Sword,Dagger,Long Sword,362,21795,Lane.bot_lane,Role.carry
+3,SA panther410,Shyvana,False,Side.blue,0,5,0,0.0,52,Smite,Ghost,8,False,3844,3150,Enchantment: Bloodrazor,Refillable Potion,Boots of Speed,,,,26333,24259,Lane.jungle,Role.none
+4,GangstaEnigma,Anivia,False,Side.blue,3,7,0,0.42857142857142855,83,Flash,Teleport,10,False,4968,4550,Rod of Ages,Tear of the Goddess,,Doran's Ring,Boots of Speed,,33105,4335,Lane.mid_lane,Role.solo
+5,amumumu,Soraka,True,Side.red,3,1,9,12.0,5,Flash,Exhaust,9,False,6030,3525,Nomad's Medallion,Mejai's Soulstealer,,Forbidden Idol,Boots of Speed,,10916,4331,Lane.bot_lane,Role.support
+6,grnlefboy,Rumble,True,Side.red,5,0,5,10.0,113,Teleport,Flash,11,False,7392,5425,Liandry's Torment,Sorcerer's Shoes,Refillable Potion,Blasting Wand,,,65179,8106,Lane.top_lane,Role.solo
+7,tardzaned,Elise,True,Side.red,6,1,9,15.0,98,Smite,Flash,11,True,8196,4760,Enchantment: Runic Echoes,Refillable Potion,Boots of Speed,Amplifying Tome,Needlessly Large Rod,,60673,20944,Lane.jungle,Role.none
+8,05 07 2009,Vayne,True,Side.red,1,1,5,6.0,111,Heal,Flash,10,False,6783,4700,Doran's Blade,B. F. Sword,Boots of Speed,Statikk Shiv,,,6248,49598,Lane.bot_lane,Role.carry
+9,Révenge,LeBlanc,True,Side.red,9,1,6,15.0,97,Ignite,Flash,11,False,8410,5975,Doran's Ring,Morellonomicon,Refillable Potion,Needlessly Large Rod,Sorcerer's Shoes,,52341,9206,Lane.mid_lane,Role.solo

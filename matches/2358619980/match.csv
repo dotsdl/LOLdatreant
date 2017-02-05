@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,camtheham,Rek'Sai,False,Side.blue,1,3,2,1.0,136,Smite,Flash,12,True,7908,7750,Titanic Hydra,Refillable Potion,Mercury's Treads,Cloth Armor,Enchantment: Cinderhulk,,23771,90801,Lane.jungle,Role.none
+1,Sawyerr,Nautilus,False,Side.blue,0,5,1,0.2,129,Teleport,Flash,12,False,6530,6300,Doran's Ring,Sunfire Cape,,Ionian Boots of Lucidity,Tiamat,,57745,17781,Lane.top_lane,Role.solo
+2,Alex Ich 1,Yasuo,False,Side.blue,5,3,1,2.0,251,Flash,Ignite,14,False,10750,10375,Doran's Blade,Mercury's Treads,Bilgewater Cutlass,Infinity Edge,Recurve Bow,Phantom Dancer,17889,118471,Lane.mid_lane,Role.solo
+3,Liquid fabbbyyy,Twitch,False,Side.blue,1,8,0,0.125,171,Flash,Heal,11,False,7794,7000,Berserker's Greaves,Runaan's Hurricane,B. F. Sword,Pickaxe,Cull,Doran's Blade,480,77887,Lane.bot_lane,Role.carry
+4,Fox BIG,Lulu,False,Side.blue,0,5,4,0.8,11,Exhaust,Flash,10,False,5639,5825,Refillable Potion,Redemption,,Ionian Boots of Lucidity,Control Ward,,6756,4242,Lane.bot_lane,Role.support
+5,i KeNNy u,Jarvan IV,True,Side.red,2,1,12,14.0,185,Teleport,Flash,14,False,11018,10850,Mercury's Treads,Guardian Angel,Titanic Hydra,Randuin's Omen,Doran's Blade,Corrupting Potion,1589,98531,Lane.top_lane,Role.solo
+6,Unstopebble,Karma,True,Side.red,4,1,9,13.0,14,Flash,Exhaust,12,False,8985,6235,Eye of the Watchers,Redemption,Refillable Potion,,Ionian Boots of Lucidity,Amplifying Tome,15401,7128,Lane.bot_lane,Role.support
+7,Wizzy,Kayle,True,Side.red,5,2,5,5.0,197,Ghost,Flash,15,False,11212,8925,The Dark Seal,Nashor's Tooth,,Ionian Boots of Lucidity,Doran's Ring,Guinsoo's Rageblade,89448,35877,Lane.mid_lane,Role.solo
+8,retarded virgin,Elise,True,Side.red,7,1,10,17.0,96,Flash,Smite,14,False,10794,8600,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Rylai's Crystal Scepter,Giant's Belt,Cloth Armor,75143,26102,Lane.jungle,Role.none
+9,cokes,Jhin,True,Side.red,6,2,5,5.5,156,Heal,Flash,12,False,10542,6850,Boots of Swiftness,Zeal,Doran's Blade,Dagger,Essence Reaver,,1273,88886,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AKA SIeepingDAWG,Alistar,False,Side.blue,0,4,4,1.0,24,Flash,Heal,8,False,4530,4150,Ruby Sightstone,Refillable Potion,Boots of Mobility,Control Ward,Relic Shield,Cloth Armor,4128,3877,Lane.bot_lane,Role.duo
+1,Chody Walrus,Kha'Zix,False,Side.blue,5,6,2,1.1666666666666667,98,Flash,Smite,11,False,6891,6375,Enchantment: Warrior,Poacher's Dirk,Caulfield's Warhammer,Boots of Speed,Serrated Dirk,,2107,58334,Lane.jungle,Role.none
+2,Ðad,Syndra,False,Side.blue,3,9,0,0.3333333333333333,88,Ghost,Flash,9,False,5674,5475,Doran's Ring,Refillable Potion,Morellonomicon,Doran's Ring,Sorcerer's Shoes,The Dark Seal,41845,4134,Lane.mid_lane,Role.solo
+3,McCashDollar,Shaco,False,Side.blue,2,4,2,1.0,122,Teleport,Ignite,12,False,6525,5900,Refillable Potion,Hextech Gunblade,The Dark Seal,Ninja Tabi,Doran's Ring,Ruby Crystal,24810,28701,Lane.top_lane,Role.solo
+4,Kerias,Ashe,False,Side.blue,0,6,2,0.3333333333333333,68,Exhaust,Flash,7,False,4766,3125,Dagger,,Pickaxe,Doran's Blade,Boots of Swiftness,Cull,502,22352,Lane.bot_lane,Role.duo
+5,TszHin OvO,Jayce,True,Side.red,0,2,6,3.0,127,Teleport,Flash,12,False,8022,7175,Doran's Blade,The Black Cleaver,Hexdrinker,Cull,Caulfield's Warhammer,Boots of Speed,9358,60170,Lane.top_lane,Role.solo
+6,AsianSGpøtatø,Caitlyn,True,Side.red,8,3,5,4.333333333333333,165,Flash,Heal,12,False,11412,10600,Doran's Blade,Quicksilver Sash,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Vampiric Scepter,326,100113,Lane.bot_lane,Role.carry
+7,776,LeBlanc,True,Side.red,10,1,5,15.0,163,Flash,Ignite,13,False,10713,9285,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Doran's Ring,Needlessly Large Rod,Morellonomicon,77863,13007,Lane.mid_lane,Role.solo
+8,Nero Valentine,Lee Sin,True,Side.red,8,3,4,4.0,88,Smite,Flash,12,False,9354,8425,Enchantment: Warrior,Ravenous Hydra,Refillable Potion,Serrated Dirk,,Boots of Swiftness,11439,78998,Lane.jungle,Role.none
+9,C9 Lemon,Karma,True,Side.red,3,1,12,15.0,13,Ignite,Flash,9,True,8040,7025,Ionian Boots of Lucidity,Aegis of the Legion,Redemption,Eye of the Watchers,Control Ward,The Dark Seal,11289,6165,Lane.bot_lane,Role.support

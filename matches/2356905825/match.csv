@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AD Nannies Pref,Sona,False,Side.blue,1,5,4,1.0,148,Ignite,Flash,13,False,7870,7335,Doran's Ring,Lich Bane,Morellonomicon,Boots of Speed,Amplifying Tome,,46529,19314,Lane.mid_lane,Role.solo
+1,DeaIer29,Evelynn,False,Side.blue,6,5,1,1.4,128,Smite,Flash,13,False,8635,8010,Enchantment: Runic Echoes,Hextech Protobelt-01,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,66470,28808,Lane.jungle,Role.none
+2,Pocket Rhino,Janna,False,Side.blue,0,6,6,1.0,10,Flash,Exhaust,9,False,5832,5500,Refillable Potion,Boots of Mobility,Sightstone,Ardent Censer,Nomad's Medallion,,6552,2132,Lane.bot_lane,Role.support
+3,xFSN Saber,Caitlyn,False,Side.blue,2,6,3,0.8333333333333334,213,Heal,Flash,12,True,9303,9200,Doran's Blade,Blade of the Ruined King,Runaan's Hurricane,Giant Slayer,Berserker's Greaves,,1879,121326,Lane.bot_lane,Role.carry
+4,PonderousSeaLion,Trundle,False,Side.blue,2,4,2,1.0,195,Flash,Teleport,13,False,8520,8300,Corrupting Potion,Spirit Visage,Sunfire Cape,Giant's Belt,Mercury's Treads,,25695,57878,Lane.top_lane,Role.solo
+5,Hyorimaru,Orianna,True,Side.red,7,1,6,13.0,203,Flash,Ignite,14,False,12287,10450,Doran's Ring,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Abyssal Scepter,,115168,17017,Lane.mid_lane,Role.solo
+6,Drowning,Graves,True,Side.red,6,4,8,3.5,153,Flash,Smite,14,False,11967,11200,Phantom Dancer,Enchantment: Warrior,Berserker's Greaves,Maw of Malmortius,Caulfield's Warhammer,Long Sword,6299,156318,Lane.jungle,Role.none
+7,laugh for me,Ashe,True,Side.red,3,4,7,2.5,133,Flash,Heal,11,False,9907,9225,Cloak of Agility,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,Control Ward,1991,77100,Lane.bot_lane,Role.carry
+8,RlVÈN,Nautilus,True,Side.red,5,1,7,12.0,157,Teleport,Flash,13,False,10267,9000,Righteous Glory,Locket of the Iron Solari,Zz'Rot Portal,Ninja Tabi,Doran's Ring,,67275,14538,Lane.top_lane,Role.solo
+9,Liquid Painless,Lulu,True,Side.red,5,1,7,12.0,10,Flash,Ignite,10,False,9258,8200,Redemption,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,,Locket of the Iron Solari,11830,3986,Lane.bot_lane,Role.support

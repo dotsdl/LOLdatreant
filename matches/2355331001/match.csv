@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,jamican banana,Ivern,True,Side.blue,8,2,4,6.0,102,Smite,Flash,14,False,11522,9750,Ionian Boots of Lucidity,Hextech Protobelt-01,Enchantment: Runic Echoes,Athene's Unholy Grail,Mejai's Soulstealer,,46536,17132,Lane.jungle,Role.none
+1,laugh for me,Zyra,True,Side.blue,3,4,12,3.75,47,Flash,Exhaust,13,False,10090,8000,Eye of the Watchers,Boots of Mobility,Control Ward,Refillable Potion,Liandry's Torment,Needlessly Large Rod,40549,11689,Lane.bot_lane,Role.support
+2,Nëbu,Ekko,True,Side.blue,7,5,5,2.4,146,Flash,Ignite,15,False,10675,7725,Sorcerer's Shoes,Corrupting Potion,Hextech Protobelt-01,The Dark Seal,Lich Bane,,88682,12768,Lane.mid_lane,Role.solo
+3,SanaSana,Yasuo,True,Side.blue,10,2,3,6.5,225,Teleport,Flash,15,False,13739,11075,Refillable Potion,Berserker's Greaves,Phantom Dancer,Infinity Edge,Doran's Blade,Frozen Mallet,22498,133041,Lane.top_lane,Role.solo
+4,HungBrickMan,Jhin,True,Side.blue,4,5,12,3.2,123,Heal,Flash,13,False,11065,8450,Doran's Blade,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,Cull,Long Sword,5649,89257,Lane.bot_lane,Role.carry
+5,Vathyrn,Riven,False,Side.red,0,8,4,0.5,153,Flash,Teleport,13,False,7616,7150,Ionian Boots of Lucidity,Youmuu's Ghostblade,Tiamat,Refillable Potion,Vampiric Scepter,Pickaxe,1077,93235,Lane.top_lane,Role.solo
+6,BMGreenleaf,Thresh,False,Side.red,1,3,9,3.3333333333333335,39,Flash,Ignite,12,False,6740,5900,Targon's Brace,Refillable Potion,Ruby Sightstone,Redemption,Boots of Mobility,,11885,4417,Lane.bot_lane,Role.support
+7,FIoopie,Vi,False,Side.red,9,8,2,1.375,119,Flash,Smite,13,True,9732,9208,Enchantment: Warrior,Refillable Potion,Boots of Speed,Trinity Force,Hexdrinker,Caulfield's Warhammer,2675,100544,Lane.jungle,Role.none
+8,Pewster,Viktor,False,Side.red,5,3,4,3.0,193,Ghost,Flash,14,False,9737,9150,Perfect Hex Core,Abyssal Scepter,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Needlessly Large Rod,104862,11568,Lane.mid_lane,Role.solo
+9,MongolWarrior,Caitlyn,False,Side.red,3,10,3,0.6,125,Heal,Flash,11,False,7969,6925,B. F. Sword,Berserker's Greaves,Runaan's Hurricane,Doran's Blade,Pickaxe,Cull,693,60827,Lane.bot_lane,Role.carry

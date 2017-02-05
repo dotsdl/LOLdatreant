@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IAmArray,Soraka,True,Side.blue,1,2,20,10.5,7,Flash,Exhaust,13,False,9300,7150,Locket of the Iron Solari,Redemption,Refillable Potion,Sightstone,Nomad's Medallion,Ionian Boots of Lucidity,9752,5593,Lane.bot_lane,Role.support
+1,TQS Zuardian,Maokai,True,Side.blue,2,7,8,1.4285714285714286,172,Teleport,Flash,14,False,10640,9725,Sunfire Cape,Warden's Mail,Spirit Visage,Giant's Belt,Doran's Ring,Boots of Mobility,87223,17537,Lane.top_lane,Role.solo
+2,Subzeroark,Rek'Sai,True,Side.blue,10,1,4,14.0,159,Flash,Smite,15,True,13052,10250,Enchantment: Cinderhulk,Titanic Hydra,Mercury's Treads,Spirit Visage,Refillable Potion,,29371,125303,Lane.jungle,Role.none
+3,Wazabiee,Syndra,True,Side.blue,10,2,7,8.5,189,Ghost,Flash,15,False,13150,9500,Needlessly Large Rod,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,Doran's Ring,Abyssal Scepter,132153,14299,Lane.mid_lane,Role.solo
+4,Darmous,Jhin,True,Side.blue,6,3,11,5.666666666666667,148,Flash,Heal,13,False,11660,10325,Essence Reaver,Doran's Blade,Pickaxe,Boots of Swiftness,Rapid Firecannon,B. F. Sword,3143,117982,Lane.bot_lane,Role.carry
+5,Pewster,Viktor,False,Side.red,1,9,1,0.2222222222222222,140,Ghost,Flash,12,False,8055,10170,Perfect Hex Core,Hextech Protobelt-01,Chain Vest,,,,73578,10509,Lane.mid_lane,Role.solo
+6,Sheiden,Amumu,False,Side.red,5,4,3,2.0,148,Smite,Flash,13,False,9897,9375,Enchantment: Cinderhulk,Sorcerer's Shoes,Abyssal Scepter,Refillable Potion,Haunting Guise,Blasting Wand,101428,23889,Lane.jungle,Role.none
+7,Firé,Jarvan IV,False,Side.red,5,5,5,2.0,170,Teleport,Flash,14,False,9737,9275,The Black Cleaver,Youmuu's Ghostblade,Corrupting Potion,Mercury's Treads,Serrated Dirk,Long Sword,6412,100009,Lane.top_lane,Role.solo
+8,Turc,Zyra,False,Side.red,2,5,7,1.8,38,Ignite,Flash,12,False,7697,6275,,Redemption,Eye of the Watchers,Sorcerer's Shoes,,,34844,6051,Lane.bot_lane,Role.support
+9,Víer,Ashe,False,Side.red,2,6,7,1.5,179,Flash,Heal,13,False,9088,8700,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,,,1829,103541,Lane.bot_lane,Role.carry

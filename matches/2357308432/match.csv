@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gotta Go Fayst,Janna,False,Side.blue,1,7,16,2.4285714285714284,7,Exhaust,Flash,12,False,7336,6525,Eye of the Oasis,Giant's Belt,Aegis of the Legion,Boots of Mobility,Ruby Crystal,Warden's Mail,5092,2874,Lane.jungle,Role.none
+1,Daimon,Zac,False,Side.blue,6,7,7,1.8571428571428572,117,Teleport,Flash,13,False,9064,8625,Sunfire Cape,Ninja Tabi,Spirit Visage,Doran's Ring,Glacial Shroud,,67850,7759,Lane.jungle,Role.none
+2,TRUMPSSMALLHANDS,Hecarim,False,Side.blue,13,7,11,3.4285714285714284,105,Ghost,Smite,15,False,11704,11183,Skirmisher's Sabre,Bami's Cinder,Trinity Force,Ninja Tabi,Dead Man's Plate,Spectre's Cowl,11263,90685,Lane.jungle,Role.none
+3,sGerry,Miss Fortune,False,Side.blue,7,9,9,1.7777777777777777,139,Heal,Flash,13,False,10312,9650,Doran's Blade,Youmuu's Ghostblade,Duskblade of Draktharr,Cull,Berserker's Greaves,Caulfield's Warhammer,4281,90179,Lane.jungle,Role.none
+4,Noceur,Cassiopeia,False,Side.blue,10,9,12,2.4444444444444446,156,Ghost,Flash,14,False,11456,11275,Zhonya's Hourglass,Archangel's Staff,Rylai's Crystal Scepter,Doran's Ring,Doran's Ring,Fiendish Codex,88014,7426,Lane.mid_lane,Role.solo
+5,Miyuriha,Talon,True,Side.red,16,7,5,3.0,187,Ignite,Flash,15,True,14883,13475,Youmuu's Ghostblade,Edge of Night,Duskblade of Draktharr,The Black Cleaver,,Ionian Boots of Lucidity,1522,120807,Lane.mid_lane,Role.solo
+6,Yure,Caitlyn,True,Side.red,4,9,9,1.4444444444444444,151,Heal,Flash,13,False,11784,11080,Doran's Blade,,Phantom Dancer,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,113,110112,Lane.bot_lane,Role.carry
+7,Self Harm,Alistar,True,Side.red,0,7,16,2.2857142857142856,34,Flash,Exhaust,12,False,8694,7275,Redemption,Knight's Vow,Sightstone,Targon's Brace,Boots of Mobility,,8598,6684,Lane.bot_lane,Role.support
+8,THE Benb,Ryze,True,Side.red,12,6,6,3.0,192,Teleport,Flash,16,False,15267,12310,Seraph's Embrace,Ionian Boots of Lucidity,Blasting Wand,Rabadon's Deathcap,Rod of Ages,Amplifying Tome,171554,13410,Lane.top_lane,Role.solo
+9,Mr Green Tae,Vi,True,Side.red,7,8,13,2.5,97,Flash,Smite,14,False,12169,10108,Enchantment: Warrior,Mercury's Treads,Trinity Force,Caulfield's Warhammer,Hexdrinker,,2944,115063,Lane.jungle,Role.none

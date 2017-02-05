@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Tricycle,Irelia,True,Side.blue,13,2,5,9.0,183,Teleport,Flash,15,False,13235,9658,Corrupting Potion,Maw of Malmortius,Trinity Force,Mercury's Treads,Warden's Mail,,2991,90497,Lane.top_lane,Role.solo
+1,ENTP,Rumble,True,Side.blue,6,3,14,6.666666666666667,159,Ignite,Flash,13,False,11165,7925,Hextech Protobelt-01,Sorcerer's Shoes,Aether Wisp,Liandry's Torment,,,111135,10600,Lane.mid_lane,Role.solo
+2, keine Hosen,Twitch,True,Side.blue,7,4,10,4.25,180,Flash,Heal,12,True,12004,11750,Phantom Dancer,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,Doran's Blade,B. F. Sword,0,104155,Lane.bot_lane,Role.carry
+3,Grumpylol,Kha'Zix,True,Side.blue,4,3,9,4.333333333333333,113,Smite,Flash,13,False,10500,8225,Enchantment: Warrior,Refillable Potion,Youmuu's Ghostblade,Mercury's Treads,Hexdrinker,,3027,111642,Lane.jungle,Role.none
+4,Frank Oppa,Alistar,True,Side.blue,0,3,19,6.333333333333333,37,Flash,Exhaust,11,False,8621,6675,Eye of the Equinox,Refillable Potion,Redemption,Boots of Swiftness,Aegis of the Legion,,9059,7707,Lane.bot_lane,Role.support
+5,Vyvie,Malphite,False,Side.red,4,6,5,1.5,101,Flash,Teleport,11,False,7221,7200,Corrupting Potion,,,Iceborn Gauntlet,Sunfire Cape,Mercury's Treads,38102,14988,Lane.top_lane,Role.solo
+6,The Fapple,Nautilus,False,Side.red,3,8,8,1.375,33,Exhaust,Flash,10,False,6465,5950,Face of the Mountain,Aegis of the Legion,Sightstone,Ruby Crystal,,Boots of Swiftness,11628,5550,Lane.bot_lane,Role.support
+7,Sandman07,Anivia,False,Side.red,7,3,3,3.3333333333333335,193,Flash,Ignite,14,False,10226,9350,Doran's Ring,Tear of the Goddess,Rod of Ages,Sorcerer's Shoes,Needlessly Large Rod,Morellonomicon,97115,8947,Lane.mid_lane,Role.solo
+8,lnfallible,Ashe,False,Side.red,0,8,9,1.125,138,Heal,Flash,11,False,7143,6350,Refillable Potion,Essence Reaver,Doran's Blade,Cull,Berserker's Greaves,Brawler's Gloves,298,68058,Lane.bot_lane,Role.carry
+9,Rekyn,Zac,False,Side.red,1,5,8,1.8,85,Flash,Smite,11,False,6556,5750,Warden's Mail,Enchantment: Cinderhulk,Ionian Boots of Lucidity,Giant's Belt,,,46410,16783,Lane.jungle,Role.none

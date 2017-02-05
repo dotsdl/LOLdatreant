@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Radara,Morgana,True,Side.blue,4,5,14,3.6,115,Smite,Flash,14,False,10303,7660,Enchantment: Runic Echoes,Refillable Potion,Zhonya's Hourglass,Boots of Speed,Needlessly Large Rod,Amplifying Tome,84010,27945,Lane.jungle,Role.none
+1,IAmArray,Alistar,True,Side.blue,4,5,23,5.4,30,Flash,Ignite,12,False,9410,8550,Face of the Mountain,Knight's Vow,Refillable Potion,Ruby Sightstone,Glacial Shroud,Boots of Mobility,8440,7609,Lane.bot_lane,Role.support
+2,Hopefool,LeBlanc,True,Side.blue,18,1,6,24.0,189,Flash,Exhaust,16,False,14403,12100,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Needlessly Large Rod,Morellonomicon,Void Staff,114638,13549,Lane.mid_lane,Role.solo
+3,Asyc xD ,Vayne,True,Side.blue,6,7,7,1.8571428571428572,179,Heal,Flash,13,True,11347,9500,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,Statikk Shiv,Dagger,22636,107412,Lane.bot_lane,Role.carry
+4,goompa,Maokai,True,Side.blue,3,3,13,5.333333333333333,164,Teleport,Flash,14,False,10257,10350,Ninja Tabi,Rod of Ages,Randuin's Omen,Doran's Ring,Hextech Protobelt-01,Control Ward,87090,18299,Lane.top_lane,Role.solo
+5,Brian The is,Jax,False,Side.red,7,3,4,3.6666666666666665,181,Teleport,Ghost,15,False,11237,10778,Blade of the Ruined King,Doran's Blade,Chain Vest,Mercury's Treads,Negatron Cloak,Trinity Force,21627,92576,Lane.top_lane,Role.solo
+6,TEAMLUKEE,Aurelion Sol,False,Side.red,2,7,2,0.5714285714285714,151,Ghost,Flash,13,False,8695,7675,Corrupting Potion,Hextech GLP-800,Boots of Swiftness,The Dark Seal,Banshee's Veil,Ruby Crystal,71064,7158,Lane.mid_lane,Role.solo
+7,IFapToYourSister,Vi,False,Side.red,4,4,6,2.5,117,Smite,Flash,13,False,9553,9018,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Spectre's Cowl,Trinity Force,,1464,117524,Lane.jungle,Role.none
+8,Xandergod,Brand,False,Side.red,1,12,8,0.75,29,Flash,Exhaust,10,False,7799,7100,Eye of the Watchers,Liandry's Torment,Ionian Boots of Lucidity,Null-Magic Mantle,,,28389,4171,Lane.bot_lane,Role.support
+9,Syndaar,Twitch,False,Side.red,7,9,2,1.0,128,Heal,Flash,12,False,9318,8925,Berserker's Greaves,Runaan's Hurricane,Null-Magic Mantle,Infinity Edge,Cull,Doran's Blade,0,59253,Lane.bot_lane,Role.carry

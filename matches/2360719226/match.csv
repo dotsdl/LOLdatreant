@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Codyduh,Udyr,True,Side.blue,7,5,1,1.6,128,Smite,Flash,15,False,12336,9875,Enchantment: Bloodrazor,Refillable Potion,Mercury's Treads,Zz'Rot Portal,Dead Man's Plate,Ruby Crystal,17672,102750,Lane.jungle,Role.none
+1,I Bubble You,Nami,True,Side.blue,6,8,19,3.125,15,Flash,Exhaust,13,True,11618,8850,Frost Queen's Claim,Ruby Sightstone,Ionian Boots of Lucidity,Mejai's Soulstealer,Ardent Censer,Control Ward,12907,6545,Lane.bot_lane,Role.support
+2, keine Hosen,Twitch,True,Side.blue,15,4,9,6.0,237,Flash,Heal,17,False,16850,13575,Runaan's Hurricane,Infinity Edge,Mercurial Scimitar,Zeal,Doran's Blade,Berserker's Greaves,2274,166136,Lane.bot_lane,Role.carry
+3,Bleece123,Sion,True,Side.blue,1,3,10,3.6666666666666665,210,Teleport,Flash,16,False,11573,8750,Doran's Ring,Glacial Shroud,Sunfire Cape,Zz'Rot Portal,Mercury's Treads,Rejuvenation Bead,90258,30178,Lane.top_lane,Role.solo
+4,EBG Afrothunder,Orianna,True,Side.blue,7,5,5,2.4,210,Teleport,Flash,15,False,12362,12025,Doran's Ring,Morellonomicon,Rod of Ages,Sorcerer's Shoes,Rabadon's Deathcap,Blasting Wand,106952,13783,Lane.mid_lane,Role.solo
+5,Marty726,Zyra,False,Side.red,3,13,7,0.7692307692307693,19,Exhaust,Flash,12,False,8470,7675,Boots of Mobility,Eye of the Watchers,Rylai's Crystal Scepter,Blasting Wand,,,20061,3853,Lane.bot_lane,Role.support
+6,ShadowofSelf,Amumu,False,Side.red,8,3,9,5.666666666666667,161,Flash,Smite,15,False,12176,11850,Hextech Protobelt-01,Enchantment: Runic Echoes,Banner of Command,Sorcerer's Shoes,Rylai's Crystal Scepter,,117144,30433,Lane.jungle,Role.none
+7,Iziao,Jhin,False,Side.red,4,7,7,1.5714285714285714,168,Heal,Flash,14,False,10353,9970,Infinity Edge,Zeal,Doran's Blade,Boots of Swiftness,Youmuu's Ghostblade,Dagger,7576,97855,Lane.bot_lane,Role.carry
+8,out skizzled,Riven,False,Side.red,1,5,1,0.4,249,Flash,Teleport,14,False,10356,9675,Doran's Blade,Ravenous Hydra,Mercury's Treads,The Black Cleaver,Pickaxe,Doran's Blade,0,126697,Lane.top_lane,Role.solo
+9,ll Creed ll,Xerath,False,Side.red,9,8,5,1.75,191,Ghost,Flash,15,False,11549,10625,Doran's Ring,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Giant's Belt,Rabadon's Deathcap,111471,8772,Lane.mid_lane,Role.solo

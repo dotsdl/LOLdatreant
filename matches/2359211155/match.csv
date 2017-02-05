@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TeddyRO,Shyvana,True,Side.blue,4,5,9,2.6,154,Flash,Smite,15,False,11967,11650,Blade of the Ruined King,Refillable Potion,Titanic Hydra,Ninja Tabi,Enchantment: Bloodrazor,Chain Vest,71857,100181,Lane.jungle,Role.none
+1,Zaganox,Lucian,True,Side.blue,9,6,10,3.1666666666666665,210,Heal,Flash,15,False,13677,11850,Doran's Blade,Pickaxe,Death's Dance,Phantom Dancer,Berserker's Greaves,The Black Cleaver,3287,137746,Lane.bot_lane,Role.carry
+2,MyTimeIsNow,Viktor,True,Side.blue,8,8,9,2.125,203,Ghost,Flash,15,False,12807,11750,Perfect Hex Core,Ionian Boots of Lucidity,Doran's Ring,Control Ward,Rylai's Crystal Scepter,Lich Bane,120222,12254,Lane.mid_lane,Role.solo
+3,Captain Kyru,Karma,True,Side.blue,4,2,13,8.5,19,Flash,Exhaust,13,False,9142,8705,Locket of the Iron Solari,Ruby Sightstone,Redemption,Ionian Boots of Lucidity,,,13967,5748,Lane.bot_lane,Role.support
+4,Rokí,Riven,True,Side.blue,3,1,6,9.0,257,Flash,Teleport,17,False,12877,11525,Pickaxe,Death's Dance,Tiamat,The Black Cleaver,Ninja Tabi,Vampiric Scepter,4806,164859,Lane.top_lane,Role.solo
+5,skyWtr,Poppy,False,Side.red,1,5,2,0.6,182,Ignite,Flash,14,False,9014,8500,,Corrupting Potion,Sheen,Spirit Visage,Ninja Tabi,Sunfire Cape,29540,70332,Lane.top_lane,Role.solo
+6,Doublelift,Jhin,False,Side.red,3,3,8,3.6666666666666665,251,Flash,Heal,15,False,11516,11425,Doran's Blade,Essence Reaver,Rapid Firecannon,Infinity Edge,Ionian Boots of Lucidity,,10159,146593,Lane.bot_lane,Role.carry
+7,retarded virgin,Rengar,False,Side.red,10,7,2,1.7142857142857142,154,Flash,Smite,15,False,12036,12050,Ninja Tabi,Youmuu's Ghostblade,Tiamat,Dead Man's Plate,Enchantment: Warrior,Caulfield's Warhammer,17804,131663,Lane.jungle,Role.none
+8,cokes,Janna,False,Side.red,0,6,11,1.8333333333333333,8,Exhaust,Flash,12,False,7491,6510,Redemption,Eye of the Oasis,Boots of Mobility,Sapphire Crystal,Amplifying Tome,Cloth Armor,3277,3548,Lane.bot_lane,Role.support
+9,AllAero,Katarina,False,Side.red,8,7,5,1.8571428571428572,177,Flash,Teleport,15,True,10801,9900,Hextech Gunblade,Rylai's Crystal Scepter,Bami's Cinder,Sorcerer's Shoes,Chain Vest,,98332,16244,Lane.mid_lane,Role.solo

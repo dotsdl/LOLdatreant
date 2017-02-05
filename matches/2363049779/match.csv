@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Anthøny,Lee Sin,True,Side.blue,7,4,6,3.25,91,Smite,Flash,13,False,10407,9875,Refillable Potion,Enchantment: Warrior,Mercury's Treads,The Black Cleaver,Randuin's Omen,,17518,76669,Lane.jungle,Role.none
+1,Hi im Thalies,Annie,True,Side.blue,6,3,7,4.333333333333333,135,Ignite,Flash,13,True,10870,9585,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Blasting Wand,Amplifying Tome,80049,12956,Lane.mid_lane,Role.solo
+2,CaIIMeBrad,Jayce,True,Side.blue,4,3,3,2.3333333333333335,159,Teleport,Flash,14,False,10218,9850,Doran's Blade,Duskblade of Draktharr,Control Ward,Mercury's Treads,Last Whisper,The Black Cleaver,9345,71458,Lane.top_lane,Role.solo
+3,Thien sama,Caitlyn,True,Side.blue,12,2,7,9.5,209,Heal,Flash,16,False,14206,11450,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Vampiric Scepter,Doran's Blade,Berserker's Greaves,1618,146787,Lane.bot_lane,Role.carry
+4,Holo,Brand,True,Side.blue,8,3,8,5.333333333333333,59,Ignite,Flash,14,False,11591,9400,Frost Queen's Claim,Sightstone,Sorcerer's Shoes,Rylai's Crystal Scepter,Haunting Guise,,60807,8906,Lane.bot_lane,Role.support
+5,A Potluck,Hecarim,False,Side.red,6,3,4,3.3333333333333335,137,Smite,Ghost,14,False,9876,9808,Enchantment: Cinderhulk,Trinity Force,Mercury's Treads,Giant's Belt,Chain Vest,Ruby Crystal,18061,101553,Lane.jungle,Role.none
+6,Region,Vayne,False,Side.red,3,9,0,0.3333333333333333,170,Heal,Flash,13,False,8596,8550,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,Long Sword,,20159,68779,Lane.bot_lane,Role.carry
+7,Ult f4,Sona,False,Side.red,1,8,4,0.625,39,Exhaust,Flash,11,False,6553,5950,Spellthief's Edge,Zz'Rot Portal,Tear of the Goddess,Ruby Sightstone,Boots of Speed,,13312,6012,Lane.bot_lane,Role.support
+8,Kìńg,Darius,False,Side.red,3,6,2,0.8333333333333334,150,Ignite,Flash,14,False,8232,7600,Doran's Shield,Randuin's Omen,Ninja Tabi,The Black Cleaver,,,112,83156,Lane.top_lane,Role.solo
+9,SinVS,Ahri,False,Side.red,2,11,2,0.36363636363636365,128,Ignite,Flash,12,False,7538,5925,Doran's Ring,Abyssal Scepter,Health Potion,Doran's Ring,Ionian Boots of Lucidity,Needlessly Large Rod,42904,9038,Lane.mid_lane,Role.solo

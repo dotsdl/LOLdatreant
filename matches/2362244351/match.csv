@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,3in1warrior,Janna,True,Side.blue,2,3,20,7.333333333333333,10,Flash,Exhaust,13,False,9340,7750,Redemption,Sightstone,Frost Queen's Claim,Boots of Mobility,Aegis of the Legion,,5220,5233,Lane.bot_lane,Role.support
+1,kàylè,Kayle,True,Side.blue,4,3,14,6.0,163,Ghost,Flash,14,False,11331,10800,Guinsoo's Rageblade,Nashor's Tooth,Control Ward,Wit's End,Ionian Boots of Lucidity,,71734,33023,Lane.mid_lane,Role.solo
+2,King of Memes,Cassiopeia,True,Side.blue,6,2,11,8.5,224,Teleport,Flash,16,False,13131,12100,Guardian Angel,Seraph's Embrace,Morellonomicon,,Abyssal Scepter,Doran's Ring,119287,19161,Lane.top_lane,Role.solo
+3,rekaf nesgrejb,Kha'Zix,True,Side.blue,18,2,2,10.0,137,Flash,Smite,15,True,14432,13350,Enchantment: Warrior,Edge of Night,Duskblade of Draktharr,Boots of Mobility,Maw of Malmortius,,5763,139506,Lane.jungle,Role.none
+4,AsianSGpøtatø,Sivir,True,Side.blue,6,4,11,4.25,228,Flash,Heal,15,False,13215,9700,Doran's Blade,Phantom Dancer,Berserker's Greaves,Essence Reaver,B. F. Sword,Cull,0,169649,Lane.bot_lane,Role.carry
+5,Wazabiee,Zac,False,Side.red,0,8,4,0.5,76,Smite,Flash,11,False,6702,6310,Refillable Potion,Giant's Belt,Mercury's Treads,Enchantment: Cinderhulk,Ruby Crystal,Cloth Armor,49350,14523,Lane.jungle,Role.none
+6,xXPewPewXx,Ezreal,False,Side.red,1,6,3,0.6666666666666666,181,Flash,Heal,13,False,8859,6925,Doran's Blade,Sheen,Ionian Boots of Lucidity,Muramana,Cull,Phage,22339,76787,Lane.bot_lane,Role.carry
+7,Dr Saline PhD,Ryze,False,Side.red,2,9,1,0.3333333333333333,177,Teleport,Flash,13,False,8372,7550,Tear of the Goddess,Rod of Ages,Ionian Boots of Lucidity,Abyssal Scepter,Control Ward,,108235,9055,Lane.top_lane,Role.solo
+8,Descraton,LeBlanc,False,Side.red,10,6,1,1.8333333333333333,189,Teleport,Flash,15,False,11109,10835,Needlessly Large Rod,Sorcerer's Shoes,,Morellonomicon,Abyssal Scepter,Giant's Belt,101418,11310,Lane.mid_lane,Role.solo
+9,Captain Kyru,Thresh,False,Side.red,1,7,5,0.8571428571428571,30,Flash,Exhaust,11,False,6310,5545,Boots of Mobility,Ruby Sightstone,Relic Shield,Raptor Cloak,Negatron Cloak,,9451,4240,Lane.bot_lane,Role.support

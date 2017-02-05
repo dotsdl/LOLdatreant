@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Gordon,Azir,True,Side.blue,4,5,14,3.6,173,Flash,Heal,14,False,11601,10675,Nashor's Tooth,Doran's Ring,Rylai's Crystal Scepter,Void Staff,Sorcerer's Shoes,,121647,13583,Lane.mid_lane,Role.solo
+1,Leos sadness,Maokai,True,Side.blue,6,6,10,2.6666666666666665,199,Teleport,Flash,15,False,12332,12675,,Redemption,Spirit Visage,Iceborn Gauntlet,Ninja Tabi,Sunfire Cape,95777,18637,Lane.top_lane,Role.solo
+2,Lauren1,Jinx,True,Side.blue,18,5,7,5.0,203,Flash,Heal,15,False,16447,14500,Blade of the Ruined King,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Lord Dominik's Regards,1234,175492,Lane.bot_lane,Role.carry
+3,L3E SIN,Braum,True,Side.blue,3,6,24,4.5,44,Flash,Exhaust,13,False,10253,9350,Dead Man's Plate,Eye of the Equinox,Frozen Heart,Mercury's Treads,,,13839,9113,Lane.bot_lane,Role.support
+4,Yuán G,Lee Sin,True,Side.blue,7,7,15,3.142857142857143,116,Smite,Flash,15,False,12351,10575,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,The Black Cleaver,Maw of Malmortius,Ruby Crystal,22540,114328,Lane.jungle,Role.none
+5,Soligo,Thresh,False,Side.red,1,9,20,2.3333333333333335,32,Exhaust,Flash,12,False,8477,8350,Redemption,Locket of the Iron Solari,Sightstone,Glacial Shroud,Cloth Armor,Boots of Mobility,11389,5156,Lane.bot_lane,Role.support
+6,Some Fruit,Jhin,False,Side.red,11,6,12,3.8333333333333335,197,Heal,Flash,15,True,13616,13425,Doran's Blade,Mercurial Scimitar,Rapid Firecannon,Berserker's Greaves,Essence Reaver,Last Whisper,7110,131430,Lane.bot_lane,Role.carry
+7,SmoKeMoNKeY93,Jayce,False,Side.red,8,7,5,1.8571428571428572,213,Teleport,Flash,15,False,12778,12620,Chain Vest,The Black Cleaver,Youmuu's Ghostblade,Mortal Reminder,Mercury's Treads,Negatron Cloak,12311,122546,Lane.top_lane,Role.solo
+8,MoneyOrLife,LeBlanc,False,Side.red,4,8,5,1.125,174,Flash,Ignite,14,False,10719,9800,Doran's Ring,Giant's Belt,Needlessly Large Rod,Morellonomicon,Sorcerer's Shoes,Abyssal Scepter,92062,15174,Lane.mid_lane,Role.solo
+9,WE Mafia,Nunu,False,Side.red,5,8,10,1.875,133,Flash,Smite,14,False,10487,9900,Enchantment: Cinderhulk,Redemption,Randuin's Omen,Cloth Armor,Ninja Tabi,Cloth Armor,56399,38823,Lane.jungle,Role.none

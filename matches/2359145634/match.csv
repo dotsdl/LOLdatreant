@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Leon4242,Thresh,False,Side.blue,1,5,10,2.2,34,Flash,Exhaust,13,False,7821,7550,Redemption,Ionian Boots of Lucidity,Ruby Sightstone,,,Face of the Mountain,14640,7063,Lane.bot_lane,Role.support
+1,Extreme Person,Xin Zhao,False,Side.blue,10,6,6,2.6666666666666665,187,Flash,Smite,16,True,13322,12468,Enchantment: Warrior,Trinity Force,Ninja Tabi,Titanic Hydra,Giant's Belt,Cloth Armor,10757,168107,Lane.jungle,Role.none
+2,JuanCarlosFist,Rengar,False,Side.blue,4,10,3,0.7,218,Teleport,Flash,15,False,10786,9900,Ravenous Hydra,Serrated Dirk,The Black Cleaver,Mercury's Treads,Doran's Blade,,6398,122777,Lane.top_lane,Role.solo
+3,Sheathix,Ahri,False,Side.blue,1,8,1,0.25,233,Flash,Ignite,15,False,10429,9500,Doran's Ring,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Rylai's Crystal Scepter,Needlessly Large Rod,69403,16971,Lane.mid_lane,Role.solo
+4,G4P ,Ezreal,False,Side.blue,6,6,5,1.8333333333333333,190,Flash,Heal,14,False,11096,10383,Muramana,Doran's Blade,Trinity Force,Ionian Boots of Lucidity,Mortal Reminder,,19326,96834,Lane.bot_lane,Role.carry
+5,iaMsaraK,Hecarim,True,Side.red,9,4,13,5.5,176,Ghost,Smite,18,False,15198,13883,Enchantment: Cinderhulk,Hunter's Potion,Guardian Angel,Trinity Force,Dead Man's Plate,Ninja Tabi,44442,152442,Lane.jungle,Role.none
+6,HannibaI Barca,Nasus,True,Side.red,4,4,8,3.0,274,Teleport,Flash,18,False,15255,13758,Thornmail,Trinity Force,Doran's Ring,Ninja Tabi,Frozen Heart,Sunfire Cape,105710,94357,Lane.top_lane,Role.solo
+7,Locke Lamora,LeBlanc,True,Side.red,11,3,6,5.666666666666667,261,Ignite,Flash,17,False,15818,12150,Luden's Echo,Doran's Ring,Sorcerer's Shoes,Abyssal Scepter,Morellonomicon,Needlessly Large Rod,123508,22188,Lane.mid_lane,Role.solo
+8,Darvec,Blitzcrank,True,Side.red,3,4,13,4.0,76,Ignite,Flash,14,False,11725,10500,Face of the Mountain,Locket of the Iron Solari,Ruby Sightstone,Crystalline Bracer,Boots of Mobility,Knight's Vow,22622,20004,Lane.bot_lane,Role.duo
+9,Destinedwithin,Draven,True,Side.red,8,7,5,1.8571428571428572,200,Flash,Heal,15,False,15016,12650,Infinity Edge,Doran's Blade,Berserker's Greaves,Phantom Dancer,Serrated Dirk,The Bloodthirster,413,151449,Lane.bot_lane,Role.duo

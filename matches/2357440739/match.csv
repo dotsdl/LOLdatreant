@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,14a,Lee Sin,True,Side.blue,13,5,9,4.4,134,Smite,Flash,16,False,14534,13500,Youmuu's Ghostblade,Duskblade of Draktharr,Edge of Night,Enchantment: Warrior,Boots of Swiftness,,32352,129232,Lane.jungle,Role.none
+1,lron Pyrite,Bard,True,Side.blue,5,4,17,5.5,34,Flash,Exhaust,16,False,11126,10250,Talisman of Ascension,Ruby Sightstone,Locket of the Iron Solari,The Dark Seal,Boots of Mobility,Redemption,25910,9211,Lane.bot_lane,Role.support
+2,Dna shockwave,Syndra,True,Side.blue,5,9,10,1.6666666666666667,207,Ghost,Flash,15,False,12584,10625,Doran's Ring,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Haunting Guise,134578,12159,Lane.mid_lane,Role.solo
+3,Distasteful,Kalista,True,Side.blue,3,11,12,1.3636363636363635,159,Flash,Heal,14,False,11519,9800,Doran's Blade,Berserker's Greaves,Blade of the Ruined King,Runaan's Hurricane,B. F. Sword,Vampiric Scepter,2508,106027,Lane.bot_lane,Role.carry
+4,Licorice,Poppy,True,Side.blue,14,2,6,10.0,208,Flash,Teleport,17,False,15094,13350,,Guardian Angel,Sunfire Cape,Iceborn Gauntlet,Ninja Tabi,Spirit Visage,40428,96416,Lane.top_lane,Role.solo
+5,BabièThug,LeBlanc,False,Side.red,11,9,4,1.6666666666666667,148,Flash,Ignite,15,True,11561,9275,Doran's Ring,Abyssal Scepter,Needlessly Large Rod,Doran's Ring,Morellonomicon,Sorcerer's Shoes,78102,10215,Lane.mid_lane,Role.solo
+6,Viperrr,Yasuo,False,Side.red,4,6,5,1.5,264,Flash,Teleport,16,False,12008,11700,Doran's Blade,Phantom Dancer,,Ninja Tabi,Infinity Edge,Frozen Mallet,38155,112416,Lane.top_lane,Role.solo
+7,Prestivent,Blitzcrank,False,Side.red,0,11,16,1.4545454545454546,13,Flash,Exhaust,13,False,8112,7600,Redemption,Locket of the Iron Solari,Boots of Mobility,Ancient Coin,,Ruby Sightstone,16733,4994,Lane.bot_lane,Role.support
+8,Abyssions,Kha'Zix,False,Side.red,7,9,7,1.5555555555555556,110,Flash,Smite,15,False,11339,11275,Enchantment: Warrior,Edge of Night,Tiamat,Ninja Tabi,The Black Cleaver,,6254,127506,Lane.jungle,Role.none
+9,NoahMost,Ezreal,False,Side.red,9,5,8,3.4,179,Heal,Flash,14,False,11895,11425,Blade of the Ruined King,Last Whisper,Iceborn Gauntlet,Muramana,Doran's Blade,Ionian Boots of Lucidity,18240,96178,Lane.bot_lane,Role.carry

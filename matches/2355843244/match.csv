@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,LzD0v0,Zyra,False,Side.blue,4,10,8,1.2,46,Exhaust,Flash,13,False,9148,8825,Boots of Mobility,Total Biscuit of Rejuvenation,Eye of the Watchers,Morellonomicon,Blasting Wand,Haunting Guise,31648,5139,Lane.bot_lane,Role.support
+1,Arayku,Draven,False,Side.blue,7,8,9,2.0,183,Heal,Flash,14,False,12364,11775,Rapid Firecannon,Doran's Blade,Infinity Edge,Berserker's Greaves,The Bloodthirster,,2868,121543,Lane.bot_lane,Role.carry
+2,Trestus,Rengar,False,Side.blue,7,9,6,1.4444444444444444,113,Flash,Smite,15,False,9866,9050,Enchantment: Warrior,Serrated Dirk,Youmuu's Ghostblade,Ionian Boots of Lucidity,B. F. Sword,,8465,81953,Lane.jungle,Role.none
+3,SaltPete7,Twisted Fate,False,Side.blue,5,10,15,2.0,154,Flash,Ghost,15,False,11308,11225,Blasting Wand,,Lich Bane,Rod of Ages,Ionian Boots of Lucidity,Zhonya's Hourglass,86071,15450,Lane.mid_lane,Role.solo
+4,miserax4,Kennen,False,Side.blue,6,5,4,2.0,128,Teleport,Flash,15,False,9865,9435,Ninja Tabi,Zhonya's Hourglass,Hextech Protobelt-01,Giant's Belt,Needlessly Large Rod,Amplifying Tome,48104,12655,Lane.top_lane,Role.solo
+5,backwind,Orianna,True,Side.red,10,9,9,2.111111111111111,153,Ghost,Flash,16,True,14210,13310,Zhonya's Hourglass,Rabadon's Deathcap,Amplifying Tome,Sorcerer's Shoes,Morellonomicon,Needlessly Large Rod,94074,18370,Lane.mid_lane,Role.solo
+6,uupa,Jayce,True,Side.red,4,5,4,1.6,280,Flash,Teleport,17,False,13831,11600,Doran's Blade,The Bloodthirster,Muramana,Mercury's Treads,Long Sword,Maw of Malmortius,27496,171748,Lane.top_lane,Role.solo
+7,Rank 1 Season 7,Kha'Zix,True,Side.red,12,8,5,2.125,203,Smite,Flash,18,False,16245,15725,Ravenous Hydra,Mercury's Treads,Youmuu's Ghostblade,Enchantment: Warrior,Duskblade of Draktharr,Hexdrinker,8257,246224,Lane.jungle,Role.none
+8,Ragel,Vayne,True,Side.red,9,5,11,4.0,206,Heal,Flash,16,False,14992,11500,Doran's Blade,Infinity Edge,Statikk Shiv,Mercurial Scimitar,Berserker's Greaves,,34231,108141,Lane.bot_lane,Role.duo
+9,My Sword Is Big,Thresh,True,Side.red,7,3,15,7.333333333333333,62,Exhaust,Flash,15,False,11862,9775,Frozen Heart,Face of the Mountain,Ruby Sightstone,Crystalline Bracer,Mercury's Treads,Crystalline Bracer,25499,9705,Lane.bot_lane,Role.duo

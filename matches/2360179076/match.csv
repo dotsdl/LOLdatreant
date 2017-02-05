@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,II Master II,Lee Sin,False,Side.blue,4,5,9,2.6,47,Flash,Smite,11,False,7023,6625,Boots of Speed,Refillable Potion,Enchantment: Warrior,The Black Cleaver,Null-Magic Mantle,,11451,51219,Lane.jungle,Role.none
+1,SalsATameR,Akali,False,Side.blue,3,9,4,0.7777777777777778,88,Flash,Teleport,11,False,7012,6550,Cloth Armor,Hextech Gunblade,Sorcerer's Shoes,Needlessly Large Rod,Cloth Armor,,17267,29123,Lane.top_lane,Role.solo
+2,Pro Dwarf Female,Lulu,False,Side.blue,0,6,13,2.1666666666666665,8,Flash,Exhaust,10,False,6900,6075,Aether Wisp,Eye of the Watchers,The Dark Seal,Tear of the Goddess,Ionian Boots of Lucidity,Forbidden Idol,5895,2097,Lane.bot_lane,Role.support
+3,Vantar,Tristana,False,Side.blue,9,5,1,2.0,137,Flash,Heal,12,False,9789,9425,Runaan's Hurricane,Vampiric Scepter,Infinity Edge,Cull,Berserker's Greaves,Doran's Blade,18785,61543,Lane.bot_lane,Role.carry
+4,Nedo,Riven,False,Side.blue,3,6,7,1.6666666666666667,109,Cleanse,Flash,12,False,7494,6475,Ionian Boots of Lucidity,Refillable Potion,The Black Cleaver,Vampiric Scepter,Tiamat,,127,60537,Lane.mid_lane,Role.solo
+5,tacoeaterfosho,Twitch,True,Side.red,7,6,5,2.0,145,Heal,Flash,12,False,10747,7475,Runaan's Hurricane,Berserker's Greaves,,Doran's Blade,Youmuu's Ghostblade,,0,77251,Lane.bot_lane,Role.carry
+6,LÌn,Thresh,True,Side.red,0,6,19,3.1666666666666665,15,Ignite,Flash,11,False,8025,7500,Refillable Potion,Eye of the Equinox,Aegis of the Legion,Knight's Vow,Null-Magic Mantle,Boots of Mobility,10672,3313,Lane.bot_lane,Role.support
+7,PIay Naizi,Jayce,True,Side.red,12,3,5,5.666666666666667,117,Teleport,Flash,13,False,11610,10150,Youmuu's Ghostblade,The Black Cleaver,Doran's Blade,Ninja Tabi,B. F. Sword,Serrated Dirk,7784,82697,Lane.mid_lane,Role.solo
+8,adc feng lft,Twisted Fate,True,Side.red,8,3,10,6.0,207,Ghost,Flash,15,True,14259,11300,Morellonomicon,Lich Bane,Luden's Echo,Ionian Boots of Lucidity,Doran's Ring,,141945,13719,Lane.top_lane,Role.solo
+9,12yrsaMetaSlave,Volibear,True,Side.red,4,1,6,10.0,77,Smite,Flash,12,False,9731,8425,Giant's Belt,Cloth Armor,Righteous Glory,Boots of Swiftness,Enchantment: Cinderhulk,Chain Vest,22615,52971,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sheiden,Malphite,False,Side.blue,3,6,6,1.5,242,Teleport,Flash,15,False,11343,11590,Spirit Visage,Bami's Cinder,Ninja Tabi,Iceborn Gauntlet,Zz'Rot Portal,,53603,92973,Lane.top_lane,Role.solo
+1,Renger cat,Ryze,False,Side.blue,5,6,10,2.5,249,Ghost,Flash,17,True,13525,13400,Zhonya's Hourglass,Seraph's Embrace,Rod of Ages,Mercury's Treads,Morellonomicon,,205745,14333,Lane.mid_lane,Role.solo
+2,Liquid Painless,Karma,False,Side.blue,2,4,7,2.25,25,Flash,Exhaust,12,False,8546,7425,Forbidden Idol,Eye of the Watchers,Refillable Potion,Ionian Boots of Lucidity,Control Ward,Locket of the Iron Solari,19894,4013,Lane.bot_lane,Role.support
+3,Xpecial,Caitlyn,False,Side.blue,1,10,4,0.5,222,Heal,Flash,13,False,10696,10525,Doran's Blade,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,,Berserker's Greaves,666,138945,Lane.bot_lane,Role.carry
+4,Abou222,Rek'Sai,False,Side.blue,6,1,5,11.0,169,Smite,Flash,15,False,11695,11650,Titanic Hydra,Mercury's Treads,Enchantment: Cinderhulk,Dead Man's Plate,Giant's Belt,Cloth Armor,26738,118550,Lane.jungle,Role.none
+5,Doublelift,Ashe,True,Side.red,7,3,14,7.0,273,Flash,Heal,17,False,15481,13225,Doran's Blade,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Lord Dominik's Regards,5924,196495,Lane.bot_lane,Role.carry
+6,eThug,Hecarim,True,Side.red,6,5,9,3.0,187,Ghost,Smite,16,False,13802,11808,Randuin's Omen,Trinity Force,Ninja Tabi,Enchantment: Cinderhulk,Hexdrinker,,26332,146195,Lane.jungle,Role.none
+7,Cris,Trundle,True,Side.red,7,2,13,10.0,297,Flash,Teleport,18,False,16264,14928,Ravenous Hydra,Blade of the Ruined King,Chain Vest,Berserker's Greaves,Trinity Force,Negatron Cloak,3225,201779,Lane.top_lane,Role.solo
+8,Maxtrobo,Kennen,True,Side.red,6,4,7,3.25,247,Flash,Teleport,17,False,13372,12025,Void Staff,Seeker's Armguard,Sorcerer's Shoes,Rylai's Crystal Scepter,Abyssal Scepter,,114657,27938,Lane.mid_lane,Role.solo
+9,Riesig,Bard,True,Side.red,1,4,20,5.25,25,Flash,Exhaust,15,False,10180,8325,Eye of the Watchers,Redemption,Cloth Armor,Control Ward,Ionian Boots of Lucidity,Mikael's Crucible,17176,6779,Lane.bot_lane,Role.support

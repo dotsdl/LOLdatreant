@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,amoureux de toi,Jhin,False,Side.blue,11,7,3,2.0,237,Heal,Flash,14,False,12960,11600,Infinity Edge,,Berserker's Greaves,Essence Reaver,Rapid Firecannon,,11944,153316,Lane.bot_lane,Role.carry
+1,split push carry,Gangplank,False,Side.blue,4,12,4,0.6666666666666666,135,Flash,Teleport,12,True,9014,7733,B. F. Sword,Trinity Force,Mercury's Treads,Pickaxe,Control Ward,,3895,81756,Lane.top_lane,Role.solo
+2,Źyra,Ivern,False,Side.blue,1,7,10,1.5714285714285714,20,Flash,Exhaust,12,False,7471,7000,Ruby Sightstone,Nomad's Medallion,Redemption,Ionian Boots of Lucidity,Raptor Cloak,,11309,8297,Lane.bot_lane,Role.support
+3,My Kat Evolved,Olaf,False,Side.blue,4,5,3,1.4,125,Smite,Ghost,13,False,8354,7995,Enchantment: Cinderhulk,Dead Man's Plate,Hunter's Potion,Negatron Cloak,Ionian Boots of Lucidity,Cloth Armor,16137,72782,Lane.jungle,Role.none
+4,D0NG0,LeBlanc,False,Side.blue,1,6,2,0.5,131,Ignite,Flash,12,False,7343,5510,Doran's Ring,Sorcerer's Shoes,The Dark Seal,Zhonya's Hourglass,,Amplifying Tome,52871,8290,Lane.mid_lane,Role.solo
+5,KarasMai,Graves,True,Side.red,12,5,5,3.4,172,Flash,Smite,16,False,14087,13300,Enchantment: Warrior,Statikk Shiv,Dagger,Maw of Malmortius,Mercury's Treads,Phantom Dancer,4366,169747,Lane.jungle,Role.none
+6,Necrobucher,Thresh,True,Side.red,2,3,17,6.333333333333333,19,Flash,Ignite,13,False,7906,6975,Redemption,Ruby Sightstone,Health Potion,Targon's Brace,Boots of Mobility,Kindlegem,9200,4225,Lane.bot_lane,Role.support
+7,InfernalRebirth,Varus,True,Side.red,0,5,7,1.4,134,Heal,Flash,12,False,9203,8700,Essence Reaver,Manamune,Zeal,Doran's Blade,,Ionian Boots of Lucidity,4143,71947,Lane.bot_lane,Role.carry
+8,Part The Sea,Yasuo,True,Side.red,13,2,6,9.5,200,Flash,Exhaust,15,False,13704,12975,Refillable Potion,Mercury's Treads,Infinity Edge,Doran's Blade,Phantom Dancer,The Bloodthirster,27420,118502,Lane.mid_lane,Role.solo
+9,Dirty Dps,Shaco,True,Side.red,10,6,12,3.6666666666666665,98,Teleport,Ignite,14,False,10973,11225,Corrupting Potion,Ionian Boots of Lucidity,Hextech Protobelt-01,Luden's Echo,Lich Bane,,64575,20590,Lane.top_lane,Role.solo

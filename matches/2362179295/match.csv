@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,amoureux de toi,Caitlyn,True,Side.blue,5,4,12,4.25,211,Heal,Flash,15,True,13392,12725,Vampiric Scepter,Runaan's Hurricane,B. F. Sword,Infinity Edge,Phantom Dancer,Berserker's Greaves,639,164994,Lane.bot_lane,Role.carry
+1,Not Code,Riven,True,Side.blue,13,4,8,5.25,208,Flash,Teleport,16,False,14324,12575,The Black Cleaver,Maw of Malmortius,Serrated Dirk,Ravenous Hydra,Long Sword,Ionian Boots of Lucidity,13,135852,Lane.top_lane,Role.solo
+2,Naeun,Hecarim,True,Side.blue,11,4,8,4.75,156,Smite,Ghost,16,False,13699,12708,Spectre's Cowl,Enchantment: Cinderhulk,Trinity Force,Boots of Swiftness,Dead Man's Plate,Chain Vest,29601,155207,Lane.jungle,Role.none
+3,Sebi,Ryze,True,Side.blue,2,4,7,2.25,167,Flash,Ghost,15,False,11004,9950,Seraph's Embrace,Abyssal Scepter,Rod of Ages,,Sorcerer's Shoes,,112068,11271,Lane.mid_lane,Role.solo
+4,TQS Zuardian,Karma,True,Side.blue,2,2,20,11.0,27,Exhaust,Flash,15,False,10334,8595,Redemption,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Ardent Censer,Negatron Cloak,31873,7166,Lane.bot_lane,Role.support
+5,You all boosted,Kassadin,False,Side.red,3,6,6,1.5,187,Flash,Teleport,16,False,11385,11300,Lich Bane,Rod of Ages,Morellonomicon,Ionian Boots of Lucidity,The Dark Seal,,96804,16803,Lane.mid_lane,Role.solo
+6,CloudNguyén,Brand,False,Side.red,2,8,5,0.875,33,Ignite,Flash,13,False,9195,8700,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Rylai's Crystal Scepter,Haunting Guise,,41378,5521,Lane.bot_lane,Role.support
+7,hashinshin,Jax,False,Side.red,5,8,2,0.875,194,Ghost,Teleport,16,False,11996,11558,Corrupting Potion,Trinity Force,Ninja Tabi,Guinsoo's Rageblade,Bilgewater Cutlass,Hextech Revolver,39567,90007,Lane.top_lane,Role.solo
+8,l For You l,Jarvan IV,False,Side.red,5,4,8,3.25,166,Flash,Smite,15,False,11533,10475,Randuin's Omen,Refillable Potion,Ninja Tabi,Dead Man's Plate,Enchantment: Warrior,Chain Vest,15269,124881,Lane.jungle,Role.none
+9,Zaganox,Jhin,False,Side.red,3,8,4,0.875,195,Heal,Flash,14,False,11322,9900,Doran's Blade,Boots of Swiftness,Essence Reaver,Rapid Firecannon,Cloak of Agility,B. F. Sword,10854,115678,Lane.bot_lane,Role.carry

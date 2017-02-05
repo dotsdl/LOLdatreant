@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Bubbahoetup,Lee Sin,True,Side.blue,3,2,7,5.0,108,Flash,Smite,12,False,9352,7550,Tiamat,Ruby Crystal,Sightstone,Enchantment: Warrior,Mercury's Treads,Jaurim's Fist,13786,91404,Lane.jungle,Role.none
+1,ApoIlo Price,Ashe,True,Side.blue,7,1,5,12.0,212,Flash,Heal,13,False,11985,8950,Doran's Blade,Infinity Edge,Runaan's Hurricane,Vampiric Scepter,Berserker's Greaves,,2081,133930,Lane.bot_lane,Role.carry
+2,Jósh,Quinn,True,Side.blue,9,1,5,14.0,187,Flash,Teleport,14,True,12388,9750,Cull,Edge of Night,Duskblade of Draktharr,Mercury's Treads,Hexdrinker,Long Sword,2021,116083,Lane.top_lane,Role.solo
+3,Flashcannon0,Veigar,True,Side.blue,1,3,8,3.0,177,Ghost,Flash,13,False,9354,7810,Doran's Ring,,,Zz'Rot Portal,Sorcerer's Shoes,Morellonomicon,80682,11702,Lane.mid_lane,Role.solo
+4,UnequaledLegend,Thresh,True,Side.blue,0,3,10,3.3333333333333335,6,Flash,Exhaust,11,False,7332,5500,Talisman of Ascension,Ionian Boots of Lucidity,Sightstone,Forbidden Idol,Rejuvenation Bead,,4724,2504,Lane.bot_lane,Role.support
+5,GtG MoSeNa,Kha'Zix,False,Side.red,1,4,6,1.75,125,Smite,Flash,13,False,7943,7425,Tiamat,Refillable Potion,Enchantment: Warrior,Boots of Mobility,Caulfield's Warhammer,Hexdrinker,2318,107581,Lane.jungle,Role.none
+6,Lucky of Legends,Fizz,False,Side.red,4,2,2,3.0,178,Flash,Teleport,13,False,8714,9100,Corrupting Potion,Abyssal Scepter,Lich Bane,Mercury's Treads,,,60572,19940,Lane.mid_lane,Role.solo
+7,Pyrites,Morgana,False,Side.red,1,4,4,1.25,21,Flash,Exhaust,10,False,6249,5375,Frost Queen's Claim,Sightstone,Total Biscuit of Rejuvenation,The Dark Seal,Boots of Mobility,Control Ward,12951,4111,Lane.bot_lane,Role.support
+8,Lord luck,Nautilus,False,Side.red,0,4,4,1.0,194,Flash,Teleport,13,False,7796,7325,Doran's Shield,Mercury's Treads,Spectre's Cowl,Kindlegem,Sunfire Cape,Ruby Crystal,59028,21745,Lane.top_lane,Role.solo
+9,NikuNikuNii,Twitch,False,Side.red,4,6,3,1.1666666666666667,162,Heal,Flash,12,False,8405,7425,B. F. Sword,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Pickaxe,Cloak of Agility,0,71563,Lane.bot_lane,Role.carry

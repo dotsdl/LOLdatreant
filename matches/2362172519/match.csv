@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SSBM Hax,Twisted Fate,True,Side.blue,7,1,7,14.0,137,Flash,Ghost,13,False,10019,9235,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Seeker's Armguard,Lich Bane,Amplifying Tome,73437,10062,Lane.mid_lane,Role.solo
+1,Cris,Jayce,True,Side.blue,9,2,5,7.0,159,Flash,Teleport,14,False,10749,10600,Refillable Potion,Control Ward,The Black Cleaver,Duskblade of Draktharr,Ninja Tabi,Mortal Reminder,18192,76533,Lane.top_lane,Role.solo
+2,TheOddOrange,Kha'Zix,True,Side.blue,2,3,8,3.3333333333333335,88,Flash,Smite,12,False,8294,7750,Tiamat,Duskblade of Draktharr,Control Ward,Boots of Speed,,Enchantment: Warrior,3396,94997,Lane.jungle,Role.none
+3,Rekk,Leona,True,Side.blue,1,1,9,10.0,23,Exhaust,Flash,10,False,5567,5075,Face of the Mountain,Sightstone,Mercury's Treads,Control Ward,Refillable Potion,Null-Magic Mantle,5239,5106,Lane.bot_lane,Role.support
+4,Rhux,Caitlyn,True,Side.blue,5,3,6,3.6666666666666665,119,Flash,Heal,10,False,8285,8000,Doran's Blade,Infinity Edge,Runaan's Hurricane,Control Ward,Berserker's Greaves,,701,59914,Lane.bot_lane,Role.carry
+5,Huhi,Yasuo,False,Side.red,4,5,1,1.0,145,Flash,Exhaust,12,False,7483,7350,Pickaxe,B. F. Sword,Cloak of Agility,Doran's Blade,Phantom Dancer,Berserker's Greaves,21358,53239,Lane.mid_lane,Role.solo
+6,Jeehun,Nautilus,False,Side.red,0,5,3,0.6,147,Flash,Teleport,12,False,6763,5725,Doran's Shield,Sunfire Cape,The Dark Seal,Ruby Crystal,Ninja Tabi,Cloth Armor,56630,16135,Lane.top_lane,Role.solo
+7,BmxSpecks,Lee Sin,False,Side.red,5,5,2,1.4,118,Flash,Smite,12,True,8150,7925,Refillable Potion,Tiamat,Enchantment: Warrior,Dead Man's Plate,Ionian Boots of Lucidity,,12677,84375,Lane.jungle,Role.none
+8,Rich Homie Jayms,Vayne,False,Side.red,0,5,3,0.6,158,Flash,Heal,10,False,6727,5550,Doran's Blade,Berserker's Greaves,Statikk Shiv,,B. F. Sword,,2625,50650,Lane.bot_lane,Role.carry
+9,cute pupper irl,Morgana,False,Side.red,1,4,4,1.25,8,Flash,Ignite,9,False,5572,5035,Control Ward,Eye of the Watchers,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,Cloth Armor,13405,6071,Lane.bot_lane,Role.support

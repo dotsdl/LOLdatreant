@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,FLIP CANNON,Singed,False,Side.blue,1,3,0,0.3333333333333333,83,Ghost,Teleport,8,False,3972,5925,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Boots of Speed,,,39141,2827,Lane.top_lane,Role.solo
+1,Platinum Shadow,Caitlyn,False,Side.blue,2,5,2,0.8,31,Flash,Heal,6,False,3338,2950,Doran's Blade,Health Potion,Cull,Boots of Speed,Dagger,B. F. Sword,628,12342,Lane.bot_lane,Role.duo
+2,FLYNNNK,Rek'Sai,False,Side.blue,2,2,1,1.5,48,Flash,Smite,7,False,3734,2650,Stalker's Blade,Refillable Potion,Tiamat,Boots of Speed,,,2937,23559,Lane.jungle,Role.none
+3,MAMA DO,Karma,False,Side.blue,0,5,1,0.2,40,Ghost,Flash,7,False,2803,1775,The Dark Seal,Refillable Potion,Doran's Ring,Chalice of Harmony,,,8895,4594,Lane.mid_lane,Role.solo
+4,Šona,Nami,False,Side.blue,0,2,4,2.0,9,Flash,Exhaust,6,False,2872,2350,Sightstone,,Total Biscuit of Rejuvenation,Boots of Speed,,Frostfang,1461,2523,Lane.bot_lane,Role.duo
+5,chuck normis,Vayne,True,Side.red,0,2,4,2.0,70,Flash,Heal,7,False,5067,3200,Doran's Blade,Doran's Blade,Zeal,Boots of Speed,Dagger,Dagger,0,31106,Lane.bot_lane,Role.duo
+6,OVERusedPLAYtoy,Morgana,True,Side.red,1,1,3,4.0,4,Flash,Exhaust,6,False,4578,2825,,Eye of the Watchers,Total Biscuit of Rejuvenation,Boots of Speed,,,5351,4796,Lane.bot_lane,Role.duo
+7,Seamaken,Tryndamere,True,Side.red,1,1,0,1.0,96,Ghost,Ignite,9,False,5635,2700,Doran's Blade,Brawler's Gloves,Vampiric Scepter,Dagger,Dagger,Dagger,0,47201,Lane.top_lane,Role.solo
+8,Anthøny,Kha'Zix,True,Side.red,4,0,4,8.0,57,Smite,Flash,9,False,6756,4800,Ionian Boots of Lucidity,Refillable Potion,Enchantment: Warrior,Long Sword,Long Sword,Long Sword,1200,55033,Lane.jungle,Role.none
+9,Hi im Thalies,Katarina,True,Side.red,10,2,3,6.5,68,Ignite,Flash,9,True,7654,7400,The Dark Seal,Needlessly Large Rod,Giant's Belt,Hextech Gunblade,,Sorcerer's Shoes,37651,5564,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwTv Kinoscorpia,Shyvana,False,Side.blue,0,4,1,0.25,58,Smite,Ghost,8,False,3821,3150,Enchantment: Bloodrazor,Refillable Potion,Control Ward,Boots of Speed,,,22861,22102,Lane.jungle,Role.none
+1,Natalia Dyer,Ezreal,False,Side.blue,0,1,0,0.0,77,Flash,Heal,7,False,3615,2700,Doran's Blade,Tear of the Goddess,Sheen,Ruby Crystal,,,4708,18449,Lane.bot_lane,Role.duo
+2,CloudNguyén,Rumble,False,Side.blue,1,3,0,0.3333333333333333,85,Teleport,Flash,9,False,4017,3060,Doran's Shield,Refillable Potion,Haunting Guise,Amplifying Tome,Boots of Speed,,29172,5054,Lane.top_lane,Role.solo
+3,Nhock,Zed,False,Side.blue,1,3,0,0.3333333333333333,63,Ignite,Flash,8,False,3615,3050,Refillable Potion,Hexdrinker,Serrated Dirk,Long Sword,,,1711,20901,Lane.mid_lane,Role.solo
+4,lc0nic,Thresh,False,Side.blue,0,2,0,0.0,13,Flash,Exhaust,6,False,2609,1775,Relic Shield,Boots of Speed,Sightstone,,,,2992,1720,Lane.bot_lane,Role.duo
+5,Nijijinchuuriki,Nautilus,True,Side.red,2,0,3,5.0,75,Flash,Teleport,9,True,5046,4045,Corrupting Potion,Spectre's Cowl,Crystalline Bracer,Negatron Cloak,Boots of Swiftness,,28307,13473,Lane.top_lane,Role.solo
+6,Témpest,Cassiopeia,True,Side.red,6,0,0,6.0,114,Flash,Exhaust,10,False,6722,3600,,Doran's Ring,Tear of the Goddess,Giant's Belt,Seeker's Armguard,,28807,8688,Lane.mid_lane,Role.solo
+7,TDK Tr4nce,Bard,True,Side.red,0,1,5,5.0,8,Flash,Exhaust,8,False,4416,2225,,Sightstone,,Spellthief's Edge,Ruby Crystal,Boots of Speed,7148,4455,Lane.bot_lane,Role.duo
+8,Jummychu,Twitch,True,Side.red,4,0,0,4.0,102,Flash,Heal,8,False,6070,3475,Doran's Blade,Total Biscuit of Rejuvenation,,B. F. Sword,Dagger,Berserker's Greaves,0,42123,Lane.bot_lane,Role.duo
+9,TwitchTvSysnickl,Nunu,True,Side.red,1,1,4,5.0,55,Smite,Flash,9,False,5242,4150,Enchantment: Cinderhulk,Refillable Potion,Warden's Mail,Boots of Speed,,,16269,19381,Lane.jungle,Role.none

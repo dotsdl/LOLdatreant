@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,ioan,Tahm Kench,False,Side.blue,1,5,2,0.6,45,Flash,Exhaust,10,False,4997,4275,Face of the Mountain,Sightstone,Ruby Crystal,Boots of Speed,Cloth Armor,,9541,4817,Lane.bot_lane,Role.support
+1,oopa,Ryze,False,Side.blue,3,7,3,0.8571428571428571,112,Flash,Ghost,12,False,6478,5975,Tear of the Goddess,Refillable Potion,Control Ward,Ionian Boots of Lucidity,Rod of Ages,Needlessly Large Rod,50063,4713,Lane.mid_lane,Role.solo
+2,l For You l,Lucian,False,Side.blue,0,6,2,0.3333333333333333,150,Flash,Heal,10,False,6101,5300,Total Biscuit of Rejuvenation,Essence Reaver,Berserker's Greaves,Doran's Blade,,,2067,60039,Lane.bot_lane,Role.carry
+3,ScrubNoob,Nocturne,False,Side.blue,0,8,3,0.375,77,Teleport,Flash,10,False,4996,4375,,Tiamat,,Caulfield's Warhammer,,Ninja Tabi,839,34879,Lane.top_lane,Role.solo
+4,TQS Zuardian,Evelynn,False,Side.blue,7,3,2,3.0,86,Smite,Flash,12,False,7775,7375,Hextech Protobelt-01,Enchantment: Runic Echoes,Refillable Potion,The Dark Seal,Ionian Boots of Lucidity,Aether Wisp,51541,24844,Lane.jungle,Role.none
+5,Adrian Riven,Riven,True,Side.red,5,3,7,4.0,157,Teleport,Flash,13,False,10075,8575,The Black Cleaver,Tiamat,Zz'Rot Portal,Ionian Boots of Lucidity,Long Sword,,1231,85277,Lane.top_lane,Role.solo
+6,Glory IX,Rek'Sai,True,Side.red,11,0,10,21.0,135,Smite,Flash,13,False,11719,11025,Titanic Hydra,Ruby Crystal,Enchantment: Cinderhulk,Mercury's Treads,Sterak's Gage,Ruby Crystal,29111,100890,Lane.jungle,Role.none
+7,boy,Jhin,True,Side.red,6,3,9,5.0,146,Heal,Flash,12,False,9853,8950,Doran's Blade,Rapid Firecannon,Essence Reaver,Boots of Swiftness,B. F. Sword,,1529,74499,Lane.bot_lane,Role.carry
+8,The Harem King,Ahri,True,Side.red,5,3,2,2.3333333333333335,167,Ignite,Flash,13,True,9845,6650,Doran's Ring,Needlessly Large Rod,Aether Wisp,Doran's Ring,Morellonomicon,Boots of Speed,60553,14272,Lane.mid_lane,Role.solo
+9,toke dude,Karma,True,Side.red,2,2,11,6.5,12,Exhaust,Flash,10,False,7560,7000,Sightstone,,Frost Queen's Claim,Ruby Crystal,Boots of Mobility,Ardent Censer,11449,4722,Lane.bot_lane,Role.support

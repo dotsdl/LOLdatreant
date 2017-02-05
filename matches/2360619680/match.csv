@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,a hard workor,Zyra,True,Side.blue,3,6,14,2.8333333333333335,21,Ignite,Flash,12,False,8896,8150,Liandry's Torment,Sorcerer's Shoes,Total Biscuit of Rejuvenation,Giant's Belt,Control Ward,Eye of the Watchers,27159,3078,Lane.bot_lane,Role.support
+1,CC Hollywood,Lux,True,Side.blue,10,1,7,17.0,252,Ghost,Flash,16,False,13812,11475,Needlessly Large Rod,Morellonomicon,Mejai's Soulstealer,Luden's Echo,Blasting Wand,Ionian Boots of Lucidity,152977,17229,Lane.mid_lane,Role.solo
+2,Stumpey,Jayce,True,Side.blue,8,5,9,3.4,227,Flash,Teleport,16,False,13126,12325,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Hexdrinker,Doran's Blade,Mortal Reminder,21838,126332,Lane.top_lane,Role.solo
+3,dog2,Caitlyn,True,Side.blue,11,5,7,3.6,212,Flash,Heal,14,False,12817,10950,Doran's Blade,Infinity Edge,Rapid Firecannon,Berserker's Greaves,Runaan's Hurricane,Long Sword,1784,148514,Lane.bot_lane,Role.carry
+4,UptownSM,Vi,True,Side.blue,1,5,11,2.4,73,Flash,Exhaust,11,False,8442,6858,Hunter's Potion,Trinity Force,Mercury's Treads,Jaurim's Fist,Long Sword,,0,82508,Lane.jungle,Role.none
+5,AliceTuyet,Cassiopeia,False,Side.red,5,6,3,1.3333333333333333,141,Flash,Ghost,13,False,8619,8575,Rod of Ages,Tear of the Goddess,Rylai's Crystal Scepter,Needlessly Large Rod,,Doran's Ring,61191,8233,Lane.mid_lane,Role.solo
+6,1ncomparabIe,Lee Sin,False,Side.red,9,8,4,1.625,107,Smite,Flash,13,True,10430,10095,Tiamat,Enchantment: Warrior,Negatron Cloak,Hexdrinker,Dead Man's Plate,Boots of Swiftness,15539,92611,Lane.jungle,Role.none
+7,chakhae,Morgana,False,Side.red,2,6,11,2.1666666666666665,20,Flash,Exhaust,12,False,7949,6750,Ruby Sightstone,Redemption,Frostfang,Boots of Mobility,,Chalice of Harmony,12062,2810,Lane.bot_lane,Role.support
+8,Ken Shifu,Nasus,False,Side.red,1,7,4,0.7142857142857143,150,Teleport,Flash,13,False,8328,7175,Corrupting Potion,Doran's Ring,Spectre's Cowl,Zz'Rot Portal,Ninja Tabi,Kindlegem,70549,17976,Lane.top_lane,Role.solo
+9,clg imaqtpie69,Jinx,False,Side.red,4,6,7,1.8333333333333333,232,Flash,Heal,13,False,10141,9700,Zeal,Runaan's Hurricane,Dagger,Doran's Blade,Infinity Edge,Berserker's Greaves,587,130156,Lane.bot_lane,Role.carry

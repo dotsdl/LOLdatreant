@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Sînner,Riven,False,Side.blue,0,4,1,0.25,206,Flash,Teleport,14,False,8941,7550,Refillable Potion,Pickaxe,The Black Cleaver,Caulfield's Warhammer,Ninja Tabi,Vampiric Scepter,0,107021,Lane.top_lane,Role.solo
+1,dog maple,Vayne,False,Side.blue,2,7,4,0.8571428571428571,206,Heal,Flash,12,False,9054,7850,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,,,18740,70927,Lane.bot_lane,Role.carry
+2,Peridot,Ekko,False,Side.blue,6,6,2,1.3333333333333333,198,Teleport,Flash,14,False,10283,8925,Doran's Ring,Hextech Protobelt-01,,Lich Bane,Sorcerer's Shoes,Aether Wisp,111872,16014,Lane.mid_lane,Role.solo
+3,never meme,Lulu,False,Side.blue,0,3,6,2.0,23,Exhaust,Flash,11,False,5962,5450,Redemption,Ruby Sightstone,Total Biscuit of Rejuvenation,Ancient Coin,,Boots of Mobility,19990,2789,Lane.bot_lane,Role.support
+4,Fiku,Graves,False,Side.blue,3,6,6,1.5,127,Flash,Smite,13,False,8890,7650,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Ninja Tabi,Dagger,Cloth Armor,4024,114452,Lane.jungle,Role.none
+5,iIIusionist,Taric,True,Side.red,1,0,15,16.0,50,Flash,Exhaust,13,False,8387,7675,Face of the Mountain,Knight's Vow,Sightstone,Boots of Swiftness,Glacial Shroud,,7372,9773,Lane.bot_lane,Role.duo
+6,Andybendy,Twitch,True,Side.red,12,5,5,3.4,155,Flash,Heal,14,False,12442,11550,Doran's Blade,Lord Dominik's Regards,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,,0,95042,Lane.bot_lane,Role.duo
+7,FourofDiamonds,Shyvana,True,Side.red,7,2,5,6.0,179,Smite,Flash,15,False,11794,11200,Titanic Hydra,Banshee's Veil,Mercury's Treads,Enchantment: Bloodrazor,Giant's Belt,,76219,91595,Lane.jungle,Role.none
+8,TwistyJuker,Renekton,True,Side.red,1,0,6,7.0,201,Flash,Teleport,15,False,10344,10100,Randuin's Omen,Locket of the Iron Solari,,Ninja Tabi,Doran's Blade,The Black Cleaver,3981,97265,Lane.top_lane,Role.solo
+9,Alex Ich 1,Taliyah,True,Side.red,5,4,10,3.75,204,Flash,Ghost,15,True,11610,9250,Doran's Ring,Morellonomicon,Needlessly Large Rod,Sorcerer's Shoes,Rylai's Crystal Scepter,Control Ward,109752,12615,Lane.mid_lane,Role.solo

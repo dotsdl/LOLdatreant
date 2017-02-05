@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hanjaro,Nami,False,Side.blue,1,8,5,0.75,5,Flash,Exhaust,10,False,6108,5900,Sightstone,Forbidden Idol,Locket of the Iron Solari,Ionian Boots of Lucidity,Frostfang,,6007,2697,Lane.bot_lane,Role.support
+1,Kachu,Viktor,False,Side.blue,4,7,5,1.2857142857142858,141,Ghost,Flash,12,False,8751,8550,Perfect Hex Core,Doran's Ring,Abyssal Scepter,Giant's Belt,Doran's Ring,Ionian Boots of Lucidity,64612,10421,Lane.mid_lane,Role.solo
+2,KeIsi Monroe,Yasuo,False,Side.blue,6,3,1,2.3333333333333335,194,Teleport,Flash,14,False,10103,9525,Doran's Blade,Frozen Mallet,Mercury's Treads,Cloth Armor,Phantom Dancer,Hexdrinker,30916,77481,Lane.top_lane,Role.solo
+3,Ginormous Noob,Vayne,False,Side.blue,1,5,5,1.2,132,Flash,Heal,11,False,7749,7225,Doran's Blade,Cull,Null-Magic Mantle,Berserker's Greaves,Kircheis Shard,Infinity Edge,342,46165,Lane.bot_lane,Role.carry
+4,One Called Saint,Hecarim,False,Side.blue,6,5,7,2.6,169,Ghost,Smite,14,False,10865,10633,Enchantment: Cinderhulk,Trinity Force,Mercury's Treads,Kindlegem,Spectre's Cowl,Chain Vest,28877,118129,Lane.jungle,Role.none
+5,Thalies,Katarina,True,Side.red,5,5,3,1.6,128,Teleport,Flash,13,False,9139,8060,Amplifying Tome,Health Potion,Fiendish Codex,Hextech Gunblade,The Dark Seal,Sorcerer's Shoes,63636,8962,Lane.top_lane,Role.solo
+6,OP Shaco is back,Shaco,True,Side.red,6,6,10,2.6666666666666665,75,Smite,Ignite,13,True,9508,8350,Hextech Gunblade,Tiamat,Enchantment: Runic Echoes,,,Boots of Swiftness,28181,55404,Lane.jungle,Role.none
+7,PSYCHOPATH909,Veigar,True,Side.red,12,3,9,7.0,183,Flash,Teleport,14,False,12602,11095,Zhonya's Hourglass,Void Staff,Negatron Cloak,Morellonomicon,Doran's Ring,Sorcerer's Shoes,108274,12010,Lane.mid_lane,Role.solo
+8,Clarizio,Karma,True,Side.red,0,2,22,11.0,8,Flash,Exhaust,12,False,7773,6075,Redemption,Sightstone,Control Ward,Spellthief's Edge,Ionian Boots of Lucidity,Aegis of the Legion,13196,6356,Lane.bot_lane,Role.support
+9,Redsaturn,Ezreal,True,Side.red,5,2,13,9.0,194,Flash,Heal,14,False,11236,10263,Doran's Blade,Bilgewater Cutlass,Dagger,Muramana,Trinity Force,Ionian Boots of Lucidity,12277,106955,Lane.bot_lane,Role.carry

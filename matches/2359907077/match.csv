@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,RF Legendary,Poppy,True,Side.blue,2,7,17,2.7142857142857144,120,Flash,Teleport,14,False,9785,8625,Corrupting Potion,,Ninja Tabi,Iceborn Gauntlet,Spectre's Cowl,Sunfire Cape,26684,47534,Lane.top_lane,Role.solo
+1,Melo,Lulu,True,Side.blue,3,3,27,10.0,8,Exhaust,Flash,14,False,10349,9400,Frost Queen's Claim,Sightstone,Redemption,Boots of Mobility,Athene's Unholy Grail,Crystalline Bracer,12006,6366,Lane.bot_lane,Role.support
+2,Sebi,Fizz,True,Side.blue,16,8,7,2.875,124,Flash,Ignite,14,False,12932,11885,Corrupting Potion,Zhonya's Hourglass,Needlessly Large Rod,Lich Bane,Blasting Wand,Sorcerer's Shoes,74421,21580,Lane.mid_lane,Role.duo
+3,TQS Zuardian,Evelynn,True,Side.blue,26,2,8,17.0,209,Smite,Flash,18,False,17901,17525,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Mejai's Soulstealer,Needlessly Large Rod,Lich Bane,Rabadon's Deathcap,172065,54939,Lane.mid_lane,Role.duo
+4,Peridot,Ezreal,True,Side.blue,8,7,13,3.0,166,Heal,Flash,14,False,12132,11483,Doran's Blade,Blade of the Ruined King,,Trinity Force,Ionian Boots of Lucidity,Muramana,20274,87236,Lane.bot_lane,Role.carry
+5,Budded,Vel'Koz,False,Side.red,5,11,3,0.7272727272727273,109,Exhaust,Flash,12,False,10132,9625,Morellonomicon,Eye of the Watchers,Liandry's Torment,Sorcerer's Shoes,,,52502,7101,Lane.bot_lane,Role.duo
+6,Mr Gimix,Ziggs,False,Side.red,3,10,4,0.7,172,Ignite,Flash,13,True,10038,9010,Doran's Ring,Luden's Echo,Sorcerer's Shoes,Zhonya's Hourglass,Tear of the Goddess,,93638,9771,Lane.mid_lane,Role.solo
+7,Kitzuø,Rengar,False,Side.red,10,11,3,1.1818181818181819,100,Smite,Ghost,13,False,10319,9750,Hunter's Talisman,Ionian Boots of Lucidity,Duskblade of Draktharr,Youmuu's Ghostblade,Caulfield's Warhammer,Pickaxe,10911,82559,Lane.jungle,Role.none
+8,D0NG0,Maokai,False,Side.red,2,14,5,0.5,105,Exhaust,Flash,12,False,9001,8200,Doran's Ring,Berserker's Greaves,Statikk Shiv,Infinity Edge,Ruby Crystal,,50668,28793,Lane.bot_lane,Role.duo
+9,Dystrex,Darius,False,Side.red,7,10,4,1.1,152,Teleport,Flash,13,False,10379,9800,The Black Cleaver,Refillable Potion,Boots of Swiftness,Spirit Visage,Zz'Rot Portal,,174,95537,Lane.top_lane,Role.solo

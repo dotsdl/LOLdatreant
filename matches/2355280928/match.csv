@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Jurassiq,Lee Sin,True,Side.blue,17,5,10,5.4,105,Flash,Smite,15,True,14581,13050,Enchantment: Warrior,Titanic Hydra,Randuin's Omen,Dead Man's Plate,Boots of Mobility,,24782,121139,Lane.jungle,Role.none
+1,Lycheeeeeeee,Karma,True,Side.blue,4,6,24,4.666666666666667,124,Ghost,Flash,15,False,12005,10525,Doran's Ring,Zhonya's Hourglass,Ionian Boots of Lucidity,Morellonomicon,Luden's Echo,,85932,13283,Lane.mid_lane,Role.solo
+2,Winter Lulu,Janna,True,Side.blue,2,2,23,12.5,16,Exhaust,Flash,14,False,10764,8675,Ionian Boots of Lucidity,Talisman of Ascension,Redemption,Aether Wisp,Mejai's Soulstealer,Sightstone,7287,7493,Lane.bot_lane,Role.support
+3,Winter is back,Nasus,True,Side.blue,13,3,5,6.0,255,Flash,Teleport,18,False,15996,15358,Thornmail,Ionian Boots of Lucidity,Trinity Force,Zz'Rot Portal,Dead Man's Plate,Haunting Guise,106314,84386,Lane.top_lane,Role.solo
+4,Yuán G,Ezreal,True,Side.blue,6,5,14,4.0,182,Heal,Flash,14,False,13136,11233,Trinity Force,Muramana,Lord Dominik's Regards,Long Sword,Ionian Boots of Lucidity,Doran's Blade,17153,132316,Lane.bot_lane,Role.carry
+5,Swkeeee,Nami,False,Side.red,3,8,11,1.75,21,Exhaust,Flash,12,False,9120,8700,Redemption,Eye of the Watchers,Mikael's Crucible,Ionian Boots of Lucidity,Aegis of the Legion,,15438,3934,Lane.bot_lane,Role.support
+6,M B,Poppy,False,Side.red,7,4,4,2.75,214,Flash,Teleport,15,False,11410,11450,Sunfire Cape,Iceborn Gauntlet,Spirit Visage,Mercury's Treads,Giant's Belt,Cloth Armor,43069,78475,Lane.top_lane,Role.solo
+7,Taste The Wind,Yasuo,False,Side.red,2,12,4,0.5,228,Flash,Ignite,14,False,10271,9700,Mercury's Treads,Phantom Dancer,Doran's Blade,Infinity Edge,Doran's Blade,Vampiric Scepter,31270,106373,Lane.mid_lane,Role.solo
+8,Trap King Levy,Hecarim,False,Side.red,4,8,7,1.375,137,Smite,Ghost,14,False,10262,9208,Enchantment: Cinderhulk,Refillable Potion,Boots of Swiftness,Trinity Force,Giant's Belt,Chain Vest,22197,108160,Lane.jungle,Role.none
+9,Amzer,Vayne,False,Side.red,5,10,5,1.0,151,Heal,Flash,12,False,10101,10225,Quicksilver Sash,Infinity Edge,,Berserker's Greaves,Statikk Shiv,,26456,50924,Lane.bot_lane,Role.carry

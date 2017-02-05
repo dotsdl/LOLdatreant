@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,McCashDollar,Shaco,True,Side.blue,10,6,11,3.5,44,Ignite,Smite,13,False,9643,8600,Enchantment: Runic Echoes,Giant's Belt,Ionian Boots of Lucidity,Cloth Armor,The Dark Seal,Lich Bane,31849,25009,Lane.jungle,Role.none
+1,BillyBoss1,Pantheon,True,Side.blue,7,7,16,3.2857142857142856,130,Flash,Teleport,14,False,10868,9675,Youmuu's Ghostblade,Refillable Potion,Guardian Angel,,The Black Cleaver,Ionian Boots of Lucidity,8589,81962,Lane.top_lane,Role.solo
+2,Fas the Magi,Fizz,True,Side.blue,9,5,4,2.6,172,Flash,Ignite,14,False,10792,9340,Lich Bane,Blasting Wand,Sorcerer's Shoes,Hextech Revolver,Negatron Cloak,Needlessly Large Rod,71572,27705,Lane.mid_lane,Role.solo
+3,BukZacH,Twitch,True,Side.blue,13,2,9,11.0,197,Flash,Heal,15,True,13607,11700,The Bloodthirster,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,,0,122993,Lane.bot_lane,Role.carry
+4,aShady,Thresh,True,Side.blue,3,4,17,5.0,22,Exhaust,Flash,12,False,8088,6600,Aegis of the Legion,Talisman of Ascension,Ruby Sightstone,Boots of Swiftness,,Refillable Potion,11969,4014,Lane.bot_lane,Role.support
+5,Maxtrobo,Vayne,False,Side.red,2,11,4,0.5454545454545454,170,Flash,Heal,12,False,8908,8550,Doran's Blade,Infinity Edge,Berserker's Greaves,Statikk Shiv,Total Biscuit of Rejuvenation,Dagger,1989,74061,Lane.bot_lane,Role.carry
+6,Ayukura,Janna,False,Side.red,1,8,7,1.0,16,Flash,Exhaust,10,False,6892,5200,Redemption,Sightstone,Ionian Boots of Lucidity,Nomad's Medallion,Control Ward,Total Biscuit of Rejuvenation,3264,5766,Lane.bot_lane,Role.support
+7,Révenge,Riven,False,Side.red,11,7,3,2.0,178,Teleport,Flash,14,False,11373,10350,Tiamat,Vampiric Scepter,The Black Cleaver,Maw of Malmortius,Doran's Shield,Ninja Tabi,0,108492,Lane.top_lane,Role.solo
+8,l Spawn l,Cassiopeia,False,Side.red,6,8,6,1.5,128,Flash,Ghost,13,False,9169,9085,Morellonomicon,Tear of the Goddess,Giant's Belt,Doran's Ring,Abyssal Scepter,Amplifying Tome,63671,4656,Lane.mid_lane,Role.solo
+9,Alexandtheo,Elise,False,Side.red,4,8,11,1.875,79,Smite,Flash,12,False,8702,8075,Control Ward,Refillable Potion,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Fiendish Codex,Ionian Boots of Lucidity,51999,18861,Lane.jungle,Role.none

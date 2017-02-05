@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ez Jonn,Annie,True,Side.blue,9,1,1,10.0,125,Flash,Ignite,11,False,9185,8000,Hextech Protobelt-01,Needlessly Large Rod,,Doran's Ring,Boots of Speed,Luden's Echo,55990,11404,Lane.mid_lane,Role.solo
+1,0 K A Y B O Y S,Ashe,True,Side.blue,3,3,9,4.0,136,Flash,Heal,11,False,8860,7875,Doran's Blade,Total Biscuit of Rejuvenation,Runaan's Hurricane,Boots of Speed,Essence Reaver,Dagger,965,73328,Lane.bot_lane,Role.carry
+2,Captain Ziploc,Lee Sin,True,Side.blue,11,1,6,17.0,82,Smite,Flash,12,False,9868,8875,Enchantment: Warrior,Youmuu's Ghostblade,Ionian Boots of Lucidity,Refillable Potion,Hexdrinker,Giant's Belt,15418,67084,Lane.jungle,Role.none
+3,Nwok,Taric,True,Side.blue,0,1,18,18.0,16,Flash,Exhaust,10,False,6644,5850,Control Ward,Ruby Sightstone,Redemption,Ruby Crystal,Boots of Swiftness,Relic Shield,5356,4789,Lane.bot_lane,Role.support
+4,hashinshin,Yorick,True,Side.blue,4,2,6,5.0,126,Flash,Teleport,12,False,8991,7283,Corrupting Potion,Ninja Tabi,Trinity Force,Giant's Belt,Control Ward,Chain Vest,7408,69490,Lane.top_lane,Role.solo
+5,Happo,Gnar,False,Side.red,2,7,2,0.5714285714285714,14,Flash,Exhaust,8,True,4675,4500,Relic Shield,Knight's Vow,Sightstone,Boots of Speed,Ruby Crystal,,1864,17928,Lane.bot_lane,Role.support
+6,is that Rex,Hecarim,False,Side.red,1,4,2,0.75,56,Smite,Ghost,9,False,5503,4850,Skirmisher's Sabre,Refillable Potion,Sheen,Boots of Speed,Phage,Bami's Cinder,6434,43099,Lane.jungle,Role.none
+7,alpha quail,Xin Zhao,False,Side.red,3,6,0,0.5,105,Flash,Teleport,10,False,6026,5575,Doran's Shield,Doran's Blade,Glacial Shroud,Berserker's Greaves,Caulfield's Warhammer,Phage,3557,40753,Lane.top_lane,Role.solo
+8,megapasta,Karthus,False,Side.red,0,3,0,0.0,143,Flash,Teleport,12,False,6229,5975,Doran's Ring,Total Biscuit of Rejuvenation,Tear of the Goddess,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,74921,3251,Lane.mid_lane,Role.solo
+9,Hopachai,Jinx,False,Side.red,2,7,3,0.7142857142857143,121,Heal,Flash,10,False,6585,5675,Runaan's Hurricane,,Berserker's Greaves,B. F. Sword,Doran's Blade,,947,47164,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rohammers,Kennen,False,Side.blue,2,3,0,0.6666666666666666,139,Teleport,Flash,12,False,6409,6350,Hextech Protobelt-01,Sorcerer's Shoes,Health Potion,Giant's Belt,Control Ward,Needlessly Large Rod,31251,14460,Lane.mid_lane,Role.solo
+1,RF Legendary,Jayce,False,Side.blue,1,4,2,0.75,142,Flash,Teleport,11,False,6389,6100,Refillable Potion,Pickaxe,The Black Cleaver,Doran's Blade,Doran's Blade,Ionian Boots of Lucidity,8111,50833,Lane.top_lane,Role.solo
+2,Hi Im A Sheep,Soraka,False,Side.blue,0,5,4,0.8,6,Flash,Exhaust,9,False,4938,4275,Eye of the Watchers,,,,Forbidden Idol,Ionian Boots of Lucidity,15609,4251,Lane.bot_lane,Role.support
+3,IKingVex,Ezreal,False,Side.blue,3,2,0,1.5,172,Heal,Flash,10,True,7818,6700,Doran's Blade,Phage,Cull,Manamune,Sheen,Ionian Boots of Lucidity,4054,66475,Lane.bot_lane,Role.carry
+4,mandatorycloud,Zac,False,Side.blue,1,2,3,2.0,96,Flash,Smite,11,False,6291,5625,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Giant's Belt,Chain Vest,Control Ward,60233,17424,Lane.jungle,Role.none
+5,Riesig,Urgot,True,Side.red,0,2,3,1.5,181,Flash,Teleport,12,False,7572,6900,Corrupting Potion,Tear of the Goddess,The Black Cleaver,Mercury's Treads,Glacial Shroud,Cloth Armor,1254,66653,Lane.top_lane,Role.solo
+6,Titan Dweevil,Twisted Fate,True,Side.red,6,2,5,5.5,111,Exhaust,Flash,11,False,8525,8350,Luden's Echo,Doran's Ring,Lich Bane,Sorcerer's Shoes,,,54954,11317,Lane.mid_lane,Role.solo
+7,Vladfire1 BG ,Vi,True,Side.red,6,1,3,9.0,93,Smite,Flash,13,False,8505,8200,Control Ward,Refillable Potion,Enchantment: Warrior,Ninja Tabi,The Black Cleaver,Giant's Belt,1670,91342,Lane.jungle,Role.none
+8,SKY Fear,Twitch,True,Side.red,0,1,7,7.0,183,Flash,Heal,12,False,8219,6525,Doran's Blade,Runaan's Hurricane,Cloak of Agility,,Berserker's Greaves,Pickaxe,784,77990,Lane.bot_lane,Role.carry
+9,Aecinira,Nami,True,Side.red,4,1,6,10.0,11,Flash,Ignite,10,False,6367,5075,Control Ward,Crystalline Bracer,Ruby Sightstone,Spellthief's Edge,Forbidden Idol,Ionian Boots of Lucidity,5584,5218,Lane.bot_lane,Role.support

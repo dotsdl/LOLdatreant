@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,retarded virgin,Elise,True,Side.blue,8,3,7,5.0,139,Flash,Smite,16,True,12899,11050,Enchantment: Runic Echoes,Rylai's Crystal Scepter,Sorcerer's Shoes,Abyssal Scepter,Giant's Belt,,131105,39305,Lane.jungle,Role.none
+1,cokes,Jhin,True,Side.blue,5,0,14,19.0,262,Heal,Flash,15,False,13347,11550,Essence Reaver,Rapid Firecannon,Infinity Edge,Doran's Blade,Boots of Swiftness,,4932,186490,Lane.bot_lane,Role.carry
+2,VoidIncarnated,Darius,True,Side.blue,2,3,11,4.333333333333333,218,Flash,Teleport,16,False,11518,9250,Corrupting Potion,Doran's Blade,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Spectre's Cowl,206,110170,Lane.top_lane,Role.solo
+3,Nano Seconds,Alistar,True,Side.blue,0,7,18,2.5714285714285716,52,Flash,Exhaust,13,False,9201,8625,Boots of Mobility,Aegis of the Legion,Ruby Sightstone,Redemption,Face of the Mountain,Null-Magic Mantle,7305,6331,Lane.bot_lane,Role.support
+4,PEANUTBRAIN,Brand,True,Side.blue,10,3,7,5.666666666666667,171,Ignite,Flash,15,False,12536,9270,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Negatron Cloak,Rylai's Crystal Scepter,Liandry's Torment,89364,18008,Lane.mid_lane,Role.solo
+5,oSee,Riven,False,Side.red,2,7,3,0.7142857142857143,210,Flash,Teleport,14,False,9365,8950,The Black Cleaver,Mercury's Treads,Ravenous Hydra,,Long Sword,Long Sword,0,107779,Lane.top_lane,Role.solo
+6,cuteboy1,Jarvan IV,False,Side.red,2,7,11,1.8571428571428572,101,Smite,Flash,14,False,9148,8525,Refillable Potion,Tiamat,Ruby Crystal,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,5475,99404,Lane.jungle,Role.none
+7,DarkL3g3nd,Ziggs,False,Side.red,9,3,3,4.0,279,Flash,Ignite,16,False,13505,12775,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Needlessly Large Rod,Void Staff,Blasting Wand,166527,12700,Lane.mid_lane,Role.solo
+8,Joyul,Karma,False,Side.red,1,4,8,2.25,16,Flash,Exhaust,11,False,7562,7125,Control Ward,Redemption,Eye of the Watchers,,Ionian Boots of Lucidity,Aegis of the Legion,9997,2403,Lane.bot_lane,Role.support
+9,Erry,Caitlyn,False,Side.red,2,4,7,2.25,256,Heal,Flash,14,False,11347,10990,Total Biscuit of Rejuvenation,Rapid Firecannon,Infinity Edge,,Berserker's Greaves,Runaan's Hurricane,408,167592,Lane.bot_lane,Role.carry

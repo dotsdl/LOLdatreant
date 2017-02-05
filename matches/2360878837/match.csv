@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BunFuu,Sona,True,Side.blue,1,2,11,6.0,18,Flash,Exhaust,13,False,7584,5600,Boots of Mobility,Locket of the Iron Solari,,Eye of the Watchers,,,9804,6173,Lane.bot_lane,Role.support
+1,TwitchChunkylol,Kled,True,Side.blue,3,2,6,4.5,232,Ignite,Flash,15,False,10952,10200,Ravenous Hydra,The Black Cleaver,Boots of Swiftness,Hexdrinker,Caulfield's Warhammer,,157,118256,Lane.top_lane,Role.solo
+2,Dyrus,Twitch,True,Side.blue,3,7,7,1.4285714285714286,176,Heal,Flash,14,False,10156,8375,Doran's Blade,,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Brawler's Gloves,338,90468,Lane.bot_lane,Role.carry
+3,Tobias Fate,Twisted Fate,True,Side.blue,6,6,8,2.3333333333333335,166,Flash,Exhaust,13,False,11300,9675,Doran's Ring,Zhonya's Hourglass,Boots of Swiftness,Doran's Ring,Lich Bane,Needlessly Large Rod,95800,9641,Lane.jungle,Role.none
+4,KarasMai,Kha'Zix,True,Side.blue,9,3,3,4.0,149,Flash,Smite,15,True,12175,9925,Last Whisper,Tiamat,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,Long Sword,4806,143935,Lane.jungle,Role.none
+5,aphromoo,Lux,False,Side.red,3,6,5,1.3333333333333333,21,Ignite,Flash,10,False,7449,6600,Eye of the Watchers,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Control Ward,Haunting Guise,Blasting Wand,20258,5114,Lane.bot_lane,Role.support
+6,Gweiss,Zed,False,Side.red,4,4,6,2.5,205,Ignite,Flash,15,False,10256,9875,Bilgewater Cutlass,Youmuu's Ghostblade,Mercury's Treads,The Black Cleaver,Recurve Bow,,5489,112942,Lane.jungle,Role.none
+7,TwTv Kinoscorpia,Teemo,False,Side.red,3,5,1,0.8,158,Ignite,Flash,13,False,9159,8325,Control Ward,Health Potion,Hextech Gunblade,Sorcerer's Shoes,Nashor's Tooth,,45438,34715,Lane.top_lane,Role.solo
+8,You all boosted,Elise,False,Side.red,6,3,9,5.0,108,Flash,Smite,14,False,10656,10350,Enchantment: Runic Echoes,Void Staff,Boots of Mobility,Rylai's Crystal Scepter,The Dark Seal,Ruby Crystal,95456,28815,Lane.jungle,Role.none
+9,Montoon,Ezreal,False,Side.red,4,4,4,2.0,149,Heal,Flash,11,False,9459,8600,Bilgewater Cutlass,Cull,Doran's Blade,Muramana,Ionian Boots of Lucidity,Iceborn Gauntlet,17216,63411,Lane.bot_lane,Role.carry

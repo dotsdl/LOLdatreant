@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kayonas,Darius,True,Side.blue,6,2,8,7.0,214,Teleport,Flash,15,True,11996,10050,Kindlegem,Corrupting Potion,Mercury's Treads,The Black Cleaver,Dead Man's Plate,Spectre's Cowl,882,139225,Lane.top_lane,Role.solo
+1,Celestiah,Jhin,True,Side.blue,9,2,6,7.5,168,Flash,Heal,13,False,11330,10375,Infinity Edge,Doran's Blade,Essence Reaver,Zeal,Dagger,Boots of Swiftness,5271,136525,Lane.bot_lane,Role.carry
+2,Skymark,Viktor,True,Side.blue,16,2,7,11.5,179,Flash,Barrier,15,False,13434,11950,Perfect Hex Core,Abyssal Scepter,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Sheen,Doran's Ring,113347,15771,Lane.mid_lane,Role.solo
+3,Toukey,Janna,True,Side.blue,1,2,21,11.0,8,Exhaust,Flash,12,False,8630,6800,Ruby Sightstone,Ionian Boots of Lucidity,Talisman of Ascension,Forbidden Idol,Crystalline Bracer,,1979,7009,Lane.bot_lane,Role.support
+4,OH MY GULAYY,Gragas,True,Side.blue,3,0,8,11.0,125,Smite,Flash,13,False,10262,8575,Enchantment: Runic Echoes,Refillable Potion,Ninja Tabi,Spectre's Cowl,Iceborn Gauntlet,Kindlegem,95368,29734,Lane.jungle,Role.none
+5,Lunae Lux,Zac,False,Side.red,4,3,3,2.3333333333333335,102,Smite,Flash,12,False,8005,7750,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Mercury's Treads,Giant's Belt,,63770,23450,Lane.jungle,Role.none
+6,Dumpling Sauce,Ryze,False,Side.red,0,10,3,0.3,134,Ghost,Flash,11,False,6878,6300,Tear of the Goddess,Refillable Potion,Ionian Boots of Lucidity,Rod of Ages,Fiendish Codex,Lost Chapter,72979,5320,Lane.mid_lane,Role.solo
+7,Boz,Kalista,False,Side.red,1,6,0,0.16666666666666666,149,Flash,Heal,11,False,6994,6850,Doran's Blade,Blade of the Ruined King,Berserker's Greaves,Recurve Bow,Dagger,Brawler's Gloves,1844,51333,Lane.bot_lane,Role.carry
+8,Swkeeee,Nami,False,Side.red,1,7,3,0.5714285714285714,11,Exhaust,Flash,10,False,6205,5775,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Faerie Charm,Cloth Armor,,8631,2847,Lane.bot_lane,Role.support
+9,Myloo,Yasuo,False,Side.red,2,9,1,0.3333333333333333,174,Flash,Teleport,13,False,8024,7975,Ninja Tabi,Infinity Edge,Phantom Dancer,,Doran's Blade,,23465,81644,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,owowowowowowowo,Blitzcrank,True,Side.blue,2,2,17,9.5,36,Exhaust,Flash,12,False,7491,5900,Face of the Mountain,Control Ward,Sightstone,Forbidden Idol,Crystalline Bracer,Boots of Mobility,10061,8371,Lane.bot_lane,Role.support
+1,Katarína Bot,Vi,True,Side.blue,8,3,10,6.0,120,Flash,Smite,14,False,10871,9558,Enchantment: Warrior,Refillable Potion,Boots of Mobility,Trinity Force,Warden's Mail,Giant's Belt,1607,120429,Lane.jungle,Role.none
+2,TheNuocMam,Lux,True,Side.blue,3,2,13,8.0,195,Heal,Flash,14,False,11602,9700,Frost Queen's Claim,Needlessly Large Rod,Doran's Ring,Mejai's Soulstealer,Sorcerer's Shoes,Luden's Echo,88081,17561,Lane.mid_lane,Role.solo
+3,Andreuss,Twitch,True,Side.blue,14,1,11,25.0,167,Flash,Heal,14,True,13388,10950,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Statikk Shiv,Null-Magic Mantle,6814,87208,Lane.bot_lane,Role.carry
+4,WJNA,Lulu,True,Side.blue,6,4,6,3.0,167,Flash,Teleport,14,False,10525,9475,Hextech Gunblade,,Guinsoo's Rageblade,Boots of Speed,Doran's Ring,Zeal,59601,35148,Lane.top_lane,Role.solo
+5,NEACE  Eeeee,Ivern,False,Side.red,2,7,5,1.0,73,Flash,Smite,12,False,7511,6875,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,Locket of the Iron Solari,Forbidden Idol,Faerie Charm,10461,3228,Lane.jungle,Role.none
+6,Destinedwithin,Vayne,False,Side.red,5,9,1,0.6666666666666666,137,Flash,Heal,11,False,7956,7300,Doran's Blade,Infinity Edge,Berserker's Greaves,Zeal,Kircheis Shard,,977,47416,Lane.bot_lane,Role.carry
+7,bvcx222,Thresh,False,Side.red,1,5,5,1.2,22,Flash,Ignite,10,False,5571,5225,Ruby Sightstone,Total Biscuit of Rejuvenation,Targon's Brace,Ruby Crystal,Aegis of the Legion,Boots of Mobility,6292,3243,Lane.bot_lane,Role.support
+8,Iley,Viktor,False,Side.red,2,6,0,0.3333333333333333,195,Ghost,Flash,13,False,7961,7650,Perfect Hex Core,Abyssal Scepter,Doran's Ring,Ionian Boots of Lucidity,Ruby Crystal,,88301,12086,Lane.mid_lane,Role.solo
+9,Rhux,Poppy,False,Side.red,2,6,2,0.6666666666666666,161,Flash,Teleport,13,False,7898,6850,Corrupting Potion,Sunfire Cape,Spectre's Cowl,Mercury's Treads,,Warden's Mail,27701,61160,Lane.top_lane,Role.solo

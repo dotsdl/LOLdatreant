@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Just hasagi,Yasuo,True,Side.blue,10,3,9,6.333333333333333,151,Exhaust,Flash,14,False,11383,9275,Bilgewater Cutlass,Berserker's Greaves,Doran's Shield,Dagger,Phantom Dancer,Frozen Mallet,19796,77662,Lane.mid_lane,Role.solo
+1,FACEB00K,Maokai,True,Side.blue,6,5,9,3.0,135,Teleport,Flash,14,False,10174,9350,Doran's Shield,Spectre's Cowl,Kindlegem,Ninja Tabi,Frozen Heart,Sunfire Cape,69154,17452,Lane.top_lane,Role.solo
+2,Nykolas,Zac,True,Side.blue,6,1,13,19.0,144,Smite,Flash,14,False,11213,9750,Enchantment: Cinderhulk,Randuin's Omen,Ionian Boots of Lucidity,Spirit Visage,,,91797,18846,Lane.jungle,Role.none
+3,Keff Bang,Thresh,True,Side.blue,1,2,19,10.0,25,Exhaust,Flash,13,False,8217,7225,Face of the Mountain,Locket of the Iron Solari,Boots of Mobility,Sightstone,,Control Ward,14754,8549,Lane.bot_lane,Role.support
+4,Cynestro,Tristana,True,Side.blue,8,2,9,8.5,195,Flash,Heal,13,True,11959,10175,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Vampiric Scepter,Zeal,15179,108146,Lane.bot_lane,Role.carry
+5,Hate,Jhin,False,Side.red,2,4,6,2.0,175,Heal,Flash,12,False,8997,8825,Boots of Swiftness,Rapid Firecannon,Essence Reaver,Pickaxe,Long Sword,Doran's Blade,2189,89517,Lane.bot_lane,Role.carry
+6,Kamajii,Alistar,False,Side.red,0,6,7,1.1666666666666667,33,Flash,Exhaust,11,False,6732,6325,Face of the Mountain,Aegis of the Legion,Ionian Boots of Lucidity,Control Ward,Null-Magic Mantle,Sightstone,5988,5706,Lane.bot_lane,Role.support
+7,GrayHoves,Viktor,False,Side.red,3,9,0,0.3333333333333333,132,Flash,Ignite,11,False,8343,7900,Perfect Hex Core,Zhonya's Hourglass,Total Biscuit of Rejuvenation,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,59907,9047,Lane.mid_lane,Role.solo
+8,goompa,Lee Sin,False,Side.red,3,7,5,1.1428571428571428,116,Smite,Flash,12,False,8748,8600,Mercury's Treads,Warden's Mail,Refillable Potion,Ruby Crystal,The Black Cleaver,Enchantment: Warrior,18167,81677,Lane.jungle,Role.none
+9,J D,Jax,False,Side.red,5,5,0,1.0,196,Teleport,Flash,14,False,10850,10358,Hextech Gunblade,Corrupting Potion,Long Sword,Jaurim's Fist,Trinity Force,Mercury's Treads,23130,112341,Lane.top_lane,Role.solo

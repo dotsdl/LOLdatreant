@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Park,Graves,False,Side.blue,4,3,2,2.0,152,Smite,Flash,13,False,8033,7125,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Youmuu's Ghostblade,Long Sword,,2903,110285,Lane.jungle,Role.none
+1,CookiesforSanta,Teemo,False,Side.blue,0,5,0,0.0,144,Ignite,Flash,11,False,6067,5300,Corrupting Potion,Frozen Mallet,Ninja Tabi,Dagger,Dagger,,28668,29187,Lane.top_lane,Role.solo
+2,Soon,Ryze,False,Side.blue,1,7,3,0.5714285714285714,95,Flash,Ghost,10,False,5810,4775,,Tear of the Goddess,,Ionian Boots of Lucidity,,Rod of Ages,40958,6187,Lane.mid_lane,Role.solo
+3,Imaokai,Caitlyn,False,Side.blue,3,4,2,1.25,180,Heal,Flash,12,False,8182,7800,Doran's Blade,Runaan's Hurricane,Infinity Edge,Berserker's Greaves,,,290,88017,Lane.bot_lane,Role.carry
+4,Gromma,Brand,False,Side.blue,1,6,4,0.8333333333333334,10,Flash,Ignite,9,False,5144,4450,Sorcerer's Shoes,,Frost Queen's Claim,Sightstone,,,13974,2249,Lane.bot_lane,Role.support
+5,Toukey,Blitzcrank,True,Side.red,1,5,6,1.4,29,Ignite,Flash,9,False,5407,4775,Eye of the Equinox,,Control Ward,Cloth Armor,Boots of Mobility,Sapphire Crystal,5676,3664,Lane.bot_lane,Role.support
+6,Anthora,Jhin,True,Side.red,4,1,6,10.0,128,Flash,Heal,11,False,8397,7950,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,Infinity Edge,Statikk Shiv,,2118,58862,Lane.bot_lane,Role.carry
+7,GladeGleamBright,Vi,True,Side.red,6,2,3,4.5,128,Smite,Flash,13,False,9732,9050,The Black Cleaver,Enchantment: Cinderhulk,Ninja Tabi,Giant's Belt,Warden's Mail,,15994,109809,Lane.jungle,Role.none
+8,AlfredXillia,Annie,True,Side.red,10,1,2,12.0,121,Flash,Ghost,12,True,9305,8175,,,Doran's Ring,Abyssal Scepter,Rylai's Crystal Scepter,Sorcerer's Shoes,59893,10605,Lane.mid_lane,Role.solo
+9,HopOffMyDonger,Riven,True,Side.red,4,0,2,6.0,198,Teleport,Flash,14,False,9106,8225,The Black Cleaver,Doran's Shield,,Maw of Malmortius,Mercury's Treads,,0,97645,Lane.top_lane,Role.solo

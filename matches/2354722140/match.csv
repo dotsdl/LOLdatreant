@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MST3kMantra,Draven,False,Side.blue,0,4,1,0.25,204,Flash,Heal,12,False,7860,6750,Doran's Blade,Health Potion,Zeal,Berserker's Greaves,,Infinity Edge,0,94078,Lane.bot_lane,Role.carry
+1,tLag,Nasus,False,Side.blue,3,5,0,0.6,231,Teleport,Flash,15,False,9560,8383,Corrupting Potion,Trinity Force,Ionian Boots of Lucidity,Spirit Visage,Cloth Armor,,17013,134910,Lane.top_lane,Role.solo
+2,Solodaboss,Karma,False,Side.blue,0,7,0,0.0,5,Exhaust,Flash,10,False,5102,4025,Spellthief's Edge,Mikael's Crucible,Sightstone,Boots of Speed,,,5404,1731,Lane.bot_lane,Role.support
+3,Raptorspls,Malzahar,False,Side.blue,1,2,1,1.0,170,Flash,Ghost,13,False,7823,7535,Doran's Ring,Needlessly Large Rod,Giant's Belt,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,71132,22007,Lane.mid_lane,Role.solo
+4,CoreTienZ,Olaf,False,Side.blue,1,6,0,0.16666666666666666,93,Smite,Ghost,11,True,6871,6475,Righteous Glory,,,Ionian Boots of Lucidity,Enchantment: Cinderhulk,Control Ward,13295,62479,Lane.jungle,Role.none
+5,ShadowofSelf,Shyvana,True,Side.red,10,0,6,16.0,190,Flash,Smite,16,False,12991,12375,Enchantment: Bloodrazor,Frozen Mallet,Mercury's Treads,Thornmail,,Dead Man's Plate,94424,97846,Lane.jungle,Role.none
+6,goompa,Maokai,True,Side.red,3,2,8,5.5,184,Teleport,Flash,15,False,10177,9300,Ninja Tabi,Doran's Ring,Frozen Heart,Rod of Ages,Spectre's Cowl,Kindlegem,88881,18342,Lane.top_lane,Role.solo
+7,refwaewafewfquyk,Thresh,True,Side.red,0,1,11,11.0,39,Flash,Exhaust,13,False,7282,6850,Knight's Vow,Control Ward,Eye of the Equinox,Boots of Mobility,Giant's Belt,,14452,4340,Lane.bot_lane,Role.support
+8,lcs jg sucks,Diana,True,Side.red,5,2,5,5.0,184,Flash,Teleport,15,False,10418,8950,Doran's Ring,Corrupting Potion,Abyssal Scepter,Mercury's Treads,Nashor's Tooth,Sheen,96337,20477,Lane.mid_lane,Role.solo
+9,theeyedoc,Jhin,True,Side.red,6,0,6,12.0,231,Flash,Heal,14,False,11314,10300,Doran's Blade,Quicksilver Sash,Ionian Boots of Lucidity,Rapid Firecannon,Essence Reaver,B. F. Sword,9867,122941,Lane.bot_lane,Role.carry

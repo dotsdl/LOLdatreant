@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,IA55A55INI,Yasuo,True,Side.blue,2,5,4,1.2,226,Flash,Exhaust,15,False,11095,11000,Doran's Blade,Infinity Edge,The Bloodthirster,Boots of Speed,Phantom Dancer,,23661,129339,Lane.mid_lane,Role.solo
+1,Rhux,Graves,True,Side.blue,5,1,12,17.0,241,Flash,Heal,15,True,13514,11725,Infinity Edge,Doran's Blade,The Bloodthirster,Phantom Dancer,Berserker's Greaves,Control Ward,3623,170243,Lane.bot_lane,Role.carry
+2,Cya IN THE BUSH,Olaf,True,Side.blue,8,1,8,16.0,144,Smite,Ghost,15,False,12991,10825,Enchantment: Cinderhulk,Refillable Potion,Ionian Boots of Lucidity,Dead Man's Plate,Maw of Malmortius,Giant's Belt,19303,125655,Lane.jungle,Role.none
+3,Pygwyn,Leona,True,Side.blue,2,1,6,8.0,42,Ignite,Flash,13,False,8762,7325,Locket of the Iron Solari,Face of the Mountain,Sightstone,Glacial Shroud,Boots of Mobility,,7836,10550,Lane.bot_lane,Role.support
+4,GKyrios,Rumble,True,Side.blue,9,4,12,5.25,186,Flash,Teleport,15,False,13487,12170,Giant's Belt,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Liandry's Torment,Doran's Shield,115754,8804,Lane.top_lane,Role.solo
+5,Empress Bee,Janna,False,Side.red,1,6,8,1.5,3,Exhaust,Flash,11,False,6368,6225,Frostfang,Redemption,Sightstone,Boots of Mobility,Aegis of the Legion,,2614,2194,Lane.bot_lane,Role.support
+6,Darvec,Kha'Zix,False,Side.red,2,4,5,1.75,176,Smite,Flash,14,False,9193,9075,Tiamat,Refillable Potion,Enchantment: Warrior,Ionian Boots of Lucidity,The Black Cleaver,Caulfield's Warhammer,4960,128301,Lane.jungle,Role.none
+7,ZambonGG,Viktor,False,Side.red,3,5,5,1.6,189,Flash,Exhaust,13,False,8994,8375,Needlessly Large Rod,Giant's Belt,Seeker's Armguard,Doran's Ring,Ionian Boots of Lucidity,Perfect Hex Core,102478,9828,Lane.mid_lane,Role.solo
+8,ityyy,Vayne,False,Side.red,4,4,3,1.75,204,Flash,Heal,13,False,9656,8925,Doran's Blade,Refillable Potion,Statikk Shiv,Berserker's Greaves,Infinity Edge,Vampiric Scepter,15318,83439,Lane.bot_lane,Role.carry
+9,Na Kirby,Poppy,False,Side.red,2,7,5,1.0,120,Teleport,Flash,13,False,7652,7450,Spirit Visage,Randuin's Omen,,Mercury's Treads,Corrupting Potion,,2309,50711,Lane.top_lane,Role.solo

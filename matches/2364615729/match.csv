@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,BukZacH,Vi,False,Side.blue,9,6,6,2.5,122,Flash,Smite,13,True,10480,9475,Enchantment: Warrior,Dead Man's Plate,Randuin's Omen,Refillable Potion,Boots of Mobility,,1513,110296,Lane.jungle,Role.none
+1,aShady,Janna,False,Side.blue,1,5,11,2.4,10,Exhaust,Flash,11,False,6897,5300,Forbidden Idol,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,Control Ward,Crystalline Bracer,5924,3834,Lane.bot_lane,Role.support
+2,Wazabiee,Viktor,False,Side.blue,5,7,3,1.1428571428571428,175,Ghost,Flash,13,False,9434,8685,Control Ward,Rylai's Crystal Scepter,Doran's Ring,Amplifying Tome,Perfect Hex Core,Sorcerer's Shoes,104055,10917,Lane.mid_lane,Role.solo
+3,xTc4,Sivir,False,Side.blue,2,2,9,5.5,176,Flash,Heal,13,False,9155,8750,Doran's Blade,Refillable Potion,Statikk Shiv,Essence Reaver,Ionian Boots of Lucidity,Pickaxe,17920,88247,Lane.bot_lane,Role.carry
+4,D0NG0,LeBlanc,False,Side.blue,0,8,3,0.375,123,Ignite,Flash,11,False,7092,6275,Doran's Ring,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Fiendish Codex,,61747,8536,Lane.top_lane,Role.solo
+5,Cuckvele,Fiora,True,Side.red,3,1,10,13.0,214,Flash,Teleport,16,False,11683,11400,Corrupting Potion,The Black Cleaver,Hexdrinker,Ninja Tabi,B. F. Sword,Titanic Hydra,2316,111501,Lane.top_lane,Role.solo
+6,feud999,Caitlyn,True,Side.red,5,7,5,1.4285714285714286,201,Flash,Heal,13,False,11367,10675,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Doran's Blade,Control Ward,349,133252,Lane.bot_lane,Role.carry
+7,G4P ,Brand,True,Side.red,7,5,9,3.2,20,Flash,Ignite,13,False,10235,8950,Frost Queen's Claim,Sightstone,Sorcerer's Shoes,Liandry's Torment,Control Ward,Needlessly Large Rod,28863,6501,Lane.bot_lane,Role.support
+8,eThug,Hecarim,True,Side.red,11,1,13,24.0,167,Ghost,Smite,17,False,14088,13308,Enchantment: Cinderhulk,Dead Man's Plate,Trinity Force,Ninja Tabi,Spirit Visage,,26615,142230,Lane.jungle,Role.none
+9,C9 Meteos,Ryze,True,Side.red,2,3,7,3.0,182,Ghost,Flash,14,False,10042,8620,Seraph's Embrace,Ionian Boots of Lucidity,,Negatron Cloak,Fiendish Codex,Rod of Ages,102639,6511,Lane.mid_lane,Role.solo

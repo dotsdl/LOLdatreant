@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rhux,Cassiopeia,False,Side.blue,5,4,5,2.5,199,Flash,Ghost,14,False,9715,8495,Morellonomicon,Doran's Ring,Rylai's Crystal Scepter,Refillable Potion,Negatron Cloak,Tear of the Goddess,99306,8138,Lane.mid_lane,Role.solo
+1,Makavéli,Vayne,False,Side.blue,5,6,4,1.5,222,Heal,Flash,14,False,10622,8150,,Refillable Potion,,Infinity Edge,Statikk Shiv,Berserker's Greaves,24281,94501,Lane.bot_lane,Role.carry
+2,The Tank Man,Lulu,False,Side.blue,4,7,6,1.4285714285714286,4,Flash,Exhaust,10,False,7191,6785,Eye of the Watchers,Redemption,Ionian Boots of Lucidity,Amplifying Tome,Control Ward,Forbidden Idol,6870,4235,Lane.bot_lane,Role.support
+3,TQS Zuardian,Evelynn,False,Side.blue,1,5,2,0.6,118,Smite,Flash,13,False,7689,7575,Hextech Protobelt-01,Enchantment: Runic Echoes,Refillable Potion,Mejai's Soulstealer,Ionian Boots of Lucidity,,75198,30513,Lane.jungle,Role.none
+4,my bad team,Nautilus,False,Side.blue,0,7,3,0.42857142857142855,161,Flash,Teleport,13,False,7586,6950,,Corrupting Potion,Control Ward,Spirit Visage,Sunfire Cape,Boots of Speed,66545,19107,Lane.top_lane,Role.solo
+5,Gaow Gaiy,Poppy,True,Side.red,1,1,11,12.0,199,Flash,Teleport,15,False,10958,9175,Corrupting Potion,Spirit Visage,Sunfire Cape,Mercury's Treads,Giant's Belt,Chain Vest,35262,77963,Lane.top_lane,Role.solo
+6,Dhokla,Jhin,True,Side.red,8,6,9,2.8333333333333335,171,Flash,Heal,13,True,12715,10375,Doran's Blade,Essence Reaver,Rapid Firecannon,B. F. Sword,Boots of Swiftness,Pickaxe,3269,114526,Lane.bot_lane,Role.carry
+7,Štarboy,Kindred,True,Side.red,12,1,11,23.0,126,Smite,Flash,14,False,13340,12060,Enchantment: Bloodrazor,Mercury's Treads,Vampiric Scepter,Runaan's Hurricane,Hexdrinker,The Black Cleaver,4738,147381,Lane.jungle,Role.none
+8,Kerias,Ryze,True,Side.red,6,4,9,3.75,213,Ghost,Flash,16,False,12209,10610,Seraph's Embrace,Morellonomicon,Void Staff,Amplifying Tome,Ionian Boots of Lucidity,,148608,9842,Lane.mid_lane,Role.solo
+9,Quad Main,Janna,True,Side.red,2,3,19,7.0,15,Flash,Exhaust,12,False,8627,7725,Redemption,Ruby Sightstone,Locket of the Iron Solari,Control Ward,Nomad's Medallion,Boots of Speed,6545,6139,Lane.bot_lane,Role.support

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Kevin Loves You,Poppy,True,Side.blue,6,1,6,12.0,109,Teleport,Flash,12,False,8807,5700,Sunfire Cape,Spectre's Cowl,Corrupting Potion,Mercury's Treads,,,18895,42247,Lane.top_lane,Role.solo
+1,IA55A55INI,Janna,True,Side.blue,1,2,16,8.5,9,Flash,Exhaust,10,False,6851,5400,Eye of the Watchers,Redemption,The Dark Seal,Boots of Speed,Control Ward,,5367,5482,Lane.bot_lane,Role.support
+2,Kuan,Twitch,True,Side.blue,5,4,11,4.0,104,Heal,Flash,11,False,8591,6375,Doran's Blade,B. F. Sword,Runaan's Hurricane,Berserker's Greaves,Pickaxe,,0,56512,Lane.bot_lane,Role.carry
+3,Kawaki,Shyvana,True,Side.blue,8,2,8,8.0,142,Smite,Flash,12,False,10912,9350,Bilgewater Cutlass,Titanic Hydra,Refillable Potion,Ninja Tabi,Enchantment: Bloodrazor,Ruby Crystal,43677,73084,Lane.jungle,Role.none
+4,Mr Gimix,Ziggs,True,Side.blue,13,2,4,8.5,140,Ignite,Flash,12,True,11701,10525,Doran's Ring,Blasting Wand,Hextech Revolver,Luden's Echo,Sorcerer's Shoes,Lich Bane,94111,14753,Lane.mid_lane,Role.solo
+5,bu he ni duo BB,Ezreal,False,Side.red,2,5,2,0.8,85,Heal,Flash,9,False,5524,4775,Doran's Blade,Ionian Boots of Lucidity,Sapphire Crystal,Cull,Manamune,,6289,32156,Lane.bot_lane,Role.carry
+6,trashgame123,Wukong,False,Side.red,2,6,1,0.5,16,Exhaust,Flash,8,False,4003,2700,Corrupting Potion,Serrated Dirk,Caulfield's Warhammer,,,,2116,13920,Lane.bot_lane,Role.support
+7,Top Schlong,Jarvan IV,False,Side.red,2,7,5,1.0,70,Smite,Flash,10,False,6096,5725,Refillable Potion,Tiamat,Enchantment: Warrior,Hexdrinker,Boots of Speed,,2846,51379,Lane.jungle,Role.none
+8,moon o,Viktor,False,Side.red,1,10,4,0.5,102,Ghost,Flash,10,False,5524,4900,Perfect Hex Core,Refillable Potion,Doran's Ring,The Dark Seal,Ionian Boots of Lucidity,,42060,6557,Lane.mid_lane,Role.solo
+9,WO BU KAI XlN,Irelia,False,Side.red,4,5,3,1.4,101,Teleport,Flash,10,False,6689,5058,Corrupting Potion,Trinity Force,Doran's Blade,Boots of Speed,,,1240,44217,Lane.top_lane,Role.solo

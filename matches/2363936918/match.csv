@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,yungELEF,Zilean,True,Side.blue,1,3,9,3.3333333333333335,119,Exhaust,Flash,13,False,7677,7535,Doran's Ring,Rod of Ages,Ionian Boots of Lucidity,Morellonomicon,Amplifying Tome,,59230,10914,Lane.mid_lane,Role.solo
+1,Hanjaro,Xerath,True,Side.blue,3,6,10,2.1666666666666665,14,Flash,Exhaust,11,False,7807,7275,Ruby Crystal,Rylai's Crystal Scepter,The Dark Seal,Sorcerer's Shoes,Lost Chapter,Frostfang,28479,4268,Lane.bot_lane,Role.support
+2,Anthøny,Pantheon,True,Side.blue,5,5,7,2.4,109,Ignite,Flash,13,False,8612,7600,Corrupting Potion,Youmuu's Ghostblade,Ninja Tabi,The Black Cleaver,,,9540,52345,Lane.top_lane,Role.solo
+3,An Nuo l,Master Yi,True,Side.blue,20,5,0,4.0,145,Flash,Smite,15,False,13863,12275,B. F. Sword,Enchantment: Bloodrazor,Berserker's Greaves,Phantom Dancer,Infinity Edge,Vampiric Scepter,483,126761,Lane.jungle,Role.none
+4,Khaotic Blade,Vayne,True,Side.blue,6,6,8,2.3333333333333335,163,Flash,Heal,12,True,10701,9650,Doran's Blade,Berserker's Greaves,Cull,Infinity Edge,Statikk Shiv,Zeal,11480,72226,Lane.bot_lane,Role.carry
+5,F33dMeKills,Lux,False,Side.red,3,8,3,0.75,125,Flash,Heal,12,False,7737,7750,Luden's Echo,Morellonomicon,Sorcerer's Shoes,,,,60661,10854,Lane.mid_lane,Role.solo
+6,Young Kyan,Akali,False,Side.red,8,4,4,3.0,115,Teleport,Flash,13,False,9549,9185,Hextech Gunblade,Seeker's Armguard,Refillable Potion,Amplifying Tome,Sunfire Cape,Boots of Swiftness,33869,35114,Lane.top_lane,Role.solo
+7,rtz 1,Ezreal,False,Side.red,3,7,9,1.7142857142857142,163,Flash,Heal,13,False,9330,8150,Muramana,Bilgewater Cutlass,Refillable Potion,Ionian Boots of Lucidity,Iceborn Gauntlet,Doran's Blade,18147,69040,Lane.bot_lane,Role.carry
+8,S3 Elise,Morgana,False,Side.red,4,7,11,2.142857142857143,20,Flash,Exhaust,11,False,8084,7760,Zhonya's Hourglass,Frost Queen's Claim,Sightstone,Ionian Boots of Lucidity,Amplifying Tome,,19745,3832,Lane.bot_lane,Role.support
+9,DependsOn,Lee Sin,False,Side.red,7,9,6,1.4444444444444444,70,Smite,Flash,11,False,8537,8050,Boots of Mobility,Enchantment: Warrior,Dead Man's Plate,Warden's Mail,Ruby Crystal,,10446,51654,Lane.jungle,Role.none

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pumpfake,Ezreal,False,Side.blue,1,5,4,1.0,123,Heal,Flash,11,False,6820,6250,Refillable Potion,Phage,Manamune,Doran's Blade,Sheen,Ionian Boots of Lucidity,11881,43141,Lane.bot_lane,Role.carry
+1,Thalies,Syndra,False,Side.blue,1,8,5,0.75,117,Ghost,Flash,11,False,6866,5785,Doran's Ring,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,Ruby Crystal,,55458,4868,Lane.mid_lane,Role.solo
+2,Ninjacrab,Zac,False,Side.blue,6,8,4,1.25,79,Flash,Smite,11,False,7773,6925,Randuin's Omen,Refillable Potion,Ninja Tabi,Enchantment: Cinderhulk,,,52972,15855,Lane.jungle,Role.none
+3,C9 Smoothie,Nami,False,Side.blue,0,6,6,1.0,10,Flash,Exhaust,9,False,5069,5000,Control Ward,Eye of the Watchers,Total Biscuit of Rejuvenation,Boots of Mobility,Crystalline Bracer,Forbidden Idol,6023,4183,Lane.bot_lane,Role.support
+4,Part The Sea,Riven,False,Side.blue,9,5,3,2.4,134,Flash,Teleport,13,False,9157,8850,Ravenous Hydra,,Ionian Boots of Lucidity,The Black Cleaver,Refillable Potion,Long Sword,279,79938,Lane.top_lane,Role.solo
+5,Wolfelol,Xerath,True,Side.red,9,4,11,5.0,122,Ghost,Flash,13,False,9897,7700,Doran's Ring,The Dark Seal,Boots of Speed,Rylai's Crystal Scepter,Morellonomicon,Control Ward,88880,10393,Lane.mid_lane,Role.solo
+6,7788 ADC,Gnar,True,Side.red,3,6,7,1.6666666666666667,94,Teleport,Flash,11,False,7444,7625,Ninja Tabi,Locket of the Iron Solari,Sunfire Cape,Doran's Blade,Long Sword,,8803,41169,Lane.jungle,Role.none
+7,TDK Tr4nce,Janna,True,Side.red,0,0,24,24.0,4,Flash,Exhaust,12,False,7410,5750,Ruby Sightstone,Total Biscuit of Rejuvenation,Redemption,Ancient Coin,Boots of Mobility,,2583,4779,Lane.bot_lane,Role.support
+8,Flexo,Jinx,True,Side.red,4,3,5,3.0,144,Heal,Flash,10,False,8368,8300,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Brawler's Gloves,Total Biscuit of Rejuvenation,366,76094,Lane.bot_lane,Role.carry
+9,RATIRLonNA,Twitch,True,Side.red,16,4,9,6.25,138,Flash,Smite,14,True,13315,11200,,Vampiric Scepter,Duskblade of Draktharr,Runaan's Hurricane,Enchantment: Bloodrazor,Berserker's Greaves,1666,116986,Lane.jungle,Role.none

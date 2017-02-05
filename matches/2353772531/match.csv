@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Goophed,Shyvana,True,Side.blue,8,3,6,4.666666666666667,144,Smite,Exhaust,14,False,11371,8550,Enchantment: Bloodrazor,Boots of Swiftness,Blade of the Ruined King,Pickaxe,Dagger,Dagger,60948,76157,Lane.jungle,Role.none
+1,Cruchaga,Jinx,True,Side.blue,7,2,6,6.5,151,Heal,Flash,11,False,10312,10100,Last Whisper,Runaan's Hurricane,Infinity Edge,Doran's Blade,,Berserker's Greaves,610,87197,Lane.bot_lane,Role.carry
+2,fkuz,Swain,True,Side.blue,1,3,3,1.3333333333333333,126,Ignite,Flash,12,False,7968,5600,Hextech GLP-800,Cloth Armor,Corrupting Potion,Ionian Boots of Lucidity,Fiendish Codex,,49304,17478,Lane.top_lane,Role.solo
+3,MINVEN,Akali,True,Side.blue,14,4,7,5.25,90,Teleport,Flash,13,False,10584,10350,Hextech Gunblade,Zhonya's Hourglass,Refillable Potion,Control Ward,Ninja Tabi,Void Staff,23487,42416,Lane.mid_lane,Role.solo
+4,BigChampBro,Janna,True,Side.blue,0,0,14,14.0,4,Exhaust,Flash,11,False,7020,6625,Control Ward,Eye of the Oasis,Locket of the Iron Solari,Mejai's Soulstealer,Ionian Boots of Lucidity,,2467,3152,Lane.bot_lane,Role.support
+5,WatchThePower,Yasuo,False,Side.red,4,7,2,0.8571428571428571,116,Flash,Teleport,11,True,7373,6850,B. F. Sword,Phantom Dancer,Refillable Potion,Doran's Blade,Ninja Tabi,Cloak of Agility,14396,42603,Lane.top_lane,Role.solo
+6,Crisisx,Ezreal,False,Side.red,2,3,1,1.0,122,Flash,Ghost,10,False,6496,5925,Bilgewater Cutlass,Manamune,,Cull,Doran's Blade,Recurve Bow,11937,49678,Lane.bot_lane,Role.carry
+7,Loksixsixsix,Fizz,False,Side.red,3,9,4,0.7777777777777778,83,Ignite,Flash,11,False,5981,5575,Corrupting Potion,Hextech Protobelt-01,Ionian Boots of Lucidity,Seeker's Armguard,Doran's Ring,,24209,12596,Lane.mid_lane,Role.solo
+8,hellzace,Lee Sin,False,Side.red,1,3,5,2.0,52,Smite,Flash,10,False,5825,5250,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Hexdrinker,,,7435,38745,Lane.jungle,Role.none
+9,        sadhguru,Teemo,False,Side.red,2,8,2,0.5,21,Flash,Ignite,9,False,5643,5525,Frost Queen's Claim,Health Potion,Sorcerer's Shoes,Haunting Guise,,,19316,5609,Lane.bot_lane,Role.support

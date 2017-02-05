@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Rohammers,Soraka,True,Side.blue,0,4,17,4.25,22,Flash,Exhaust,12,False,8473,6860,Sightstone,Talisman of Ascension,Redemption,Refillable Potion,,Ionian Boots of Lucidity,5217,2955,Lane.bot_lane,Role.support
+1,Riesig,Poppy,True,Side.blue,5,1,8,13.0,201,Flash,Teleport,16,False,11723,9275,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Spectre's Cowl,Kindlegem,34631,87544,Lane.top_lane,Role.solo
+2,godrjsdnd,Ahri,True,Side.blue,5,5,10,3.0,205,Ignite,Flash,16,False,12253,9375,Doran's Ring,Refillable Potion,Morellonomicon,Sorcerer's Shoes,Rabadon's Deathcap,Blasting Wand,84432,19335,Lane.mid_lane,Role.solo
+3,Iizard ,Draven,True,Side.blue,11,2,7,9.0,162,Flash,Heal,15,True,14681,13120,Rapid Firecannon,Youmuu's Ghostblade,Mercurial Scimitar,Negatron Cloak,Berserker's Greaves,Hexdrinker,1412,120771,Lane.bot_lane,Role.carry
+4,who hurt you,Kha'Zix,True,Side.blue,10,4,10,5.0,108,Flash,Smite,15,False,12199,10325,Tiamat,Youmuu's Ghostblade,Serrated Dirk,Boots of Mobility,Enchantment: Warrior,B. F. Sword,5907,123038,Lane.jungle,Role.none
+5,Ablazeolive,Viktor,False,Side.red,8,7,4,1.7142857142857142,227,Flash,Ghost,14,False,12053,12010,Perfect Hex Core,Ionian Boots of Lucidity,Amplifying Tome,Doran's Ring,Zhonya's Hourglass,Rylai's Crystal Scepter,133924,9968,Lane.mid_lane,Role.solo
+6,insaníty,Riven,False,Side.red,1,7,1,0.2857142857142857,174,Flash,Teleport,13,False,8376,8175,The Black Cleaver,Mercury's Treads,Youmuu's Ghostblade,Refillable Potion,Long Sword,Long Sword,0,99980,Lane.top_lane,Role.solo
+7,WT Spectator,Lee Sin,False,Side.red,5,7,4,1.2857142857142858,137,Flash,Smite,13,False,9307,9225,Mercury's Treads,Tiamat,Dead Man's Plate,Enchantment: Warrior,,Phage,18517,102758,Lane.jungle,Role.none
+8,C9 Sneaky,Kalista,False,Side.red,2,6,6,1.3333333333333333,171,Flash,Heal,12,False,8884,7950,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,,,5247,87207,Lane.bot_lane,Role.carry
+9,YaThatWasABanana,Lulu,False,Side.red,0,4,6,1.5,17,Flash,Ignite,11,False,6404,6250,,Ardent Censer,Refillable Potion,Eye of the Watchers,Ionian Boots of Lucidity,,6940,4803,Lane.bot_lane,Role.support

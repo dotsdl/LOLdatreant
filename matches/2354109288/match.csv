@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,KaNKl,Vayne,False,Side.blue,6,3,1,2.3333333333333335,296,Heal,Flash,15,False,13244,12850,Phantom Dancer,Vampiric Scepter,Infinity Edge,Hexdrinker,Berserker's Greaves,Statikk Shiv,47739,129406,Lane.bot_lane,Role.carry
+1,WarBlue,Swain,False,Side.blue,4,3,6,3.3333333333333335,238,Ghost,Flash,16,False,11275,10550,Hextech GLP-800,Zhonya's Hourglass,Haunting Guise,Ionian Boots of Lucidity,Blasting Wand,Kindlegem,121866,19173,Lane.mid_lane,Role.solo
+2,TrungThienDo,Ivern,False,Side.blue,5,5,13,3.6,77,Smite,Flash,15,False,10114,9025,Skirmisher's Sabre,Redemption,Athene's Unholy Grail,Ionian Boots of Lucidity,Refillable Potion,Zz'Rot Portal,12059,7071,Lane.jungle,Role.none
+3,CK Apple Jacks,Vel'Koz,False,Side.blue,6,2,6,6.0,16,Ignite,Flash,13,True,9572,8850,Sorcerer's Shoes,Sightstone,Frost Queen's Claim,Control Ward,Liandry's Torment,Aether Wisp,25995,2436,Lane.bot_lane,Role.support
+4,Westail,Wukong,False,Side.blue,3,6,4,1.1666666666666667,123,Teleport,Flash,14,False,8825,8445,The Black Cleaver,Ninja Tabi,Negatron Cloak,Cloth Armor,Thornmail,Doran's Blade,12949,53781,Lane.top_lane,Role.solo
+5,Seamaken,Tryndamere,True,Side.red,8,4,2,2.5,270,Ghost,Ignite,17,False,14892,13225,Infinity Edge,Blade of the Ruined King,Statikk Shiv,Berserker's Greaves,Recurve Bow,Pickaxe,63692,202915,Lane.top_lane,Role.solo
+6,Rift Warriorz,Lee Sin,True,Side.red,5,9,1,0.6666666666666666,128,Flash,Smite,14,False,11117,9925,Enchantment: Warrior,Ravenous Hydra,Refillable Potion,Guardian Angel,Mercury's Treads,Control Ward,25418,101974,Lane.jungle,Role.none
+7,IrisvielEinzbern,Janna,True,Side.red,0,4,5,1.25,16,Exhaust,Flash,12,False,8247,7550,Talisman of Ascension,Redemption,Sightstone,Boots of Mobility,Null-Magic Mantle,Control Ward,3607,2287,Lane.bot_lane,Role.support
+8,절대충성꼬봉,Ziggs,True,Side.red,5,2,2,3.5,245,Ignite,Flash,16,False,12869,11950,Rabadon's Deathcap,Morellonomicon,Sorcerer's Shoes,,Doran's Ring,Luden's Echo,165898,15529,Lane.jungle,Role.none
+9,AwesomeWave,Ezreal,True,Side.red,1,6,4,0.8333333333333334,202,Heal,Flash,13,False,10827,9208,Trinity Force,Muramana,Ionian Boots of Lucidity,Last Whisper,,,15775,90338,Lane.bot_lane,Role.carry

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,InvertedComposer,Corki,False,Side.blue,2,10,2,0.4,264,Flash,Heal,15,False,11850,11533,Trinity Force,Pickaxe,Hextech Gunblade,Serrated Dirk,Sorcerer's Shoes,Null-Magic Mantle,110079,34178,Lane.bot_lane,Role.carry
+1,Pixelbob,Galio,False,Side.blue,4,7,8,1.7142857142857142,294,Teleport,Flash,17,False,13674,13675,Hextech GLP-800,Mercury's Treads,The Dark Seal,Zhonya's Hourglass,Abyssal Scepter,Spirit Visage,168572,17481,Lane.top_lane,Role.solo
+2,Thecrimsonrage,Leona,False,Side.blue,0,3,4,1.3333333333333333,58,Flash,Exhaust,13,False,7939,7175,Sightstone,Redemption,Ionian Boots of Lucidity,,Relic Shield,Knight's Vow,10001,6703,Lane.bot_lane,Role.support
+3,BoxerPete,Riven,False,Side.blue,3,5,1,0.8,221,Teleport,Flash,16,False,11764,10650,Maw of Malmortius,Tiamat,,Mercury's Treads,The Black Cleaver,Vampiric Scepter,634,145956,Lane.mid_lane,Role.solo
+4,Sarcasm Orgasm,Hecarim,False,Side.blue,9,10,6,1.5,169,Ghost,Smite,16,False,13737,13708,Enchantment: Cinderhulk,Randuin's Omen,Trinity Force,Ruby Crystal,Mercury's Treads,Spirit Visage,40613,148495,Lane.jungle,Role.none
+5,autumn in rain,Maokai,True,Side.red,3,3,10,4.333333333333333,229,Flash,Teleport,18,False,13456,12475,Guardian Angel,Spirit Visage,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,,116779,33605,Lane.top_lane,Role.solo
+6,MAKEBELIEVEWITHU,Brand,True,Side.red,6,5,17,4.6,62,Flash,Ignite,15,False,13437,11900,Eye of the Watchers,Sorcerer's Shoes,Rylai's Crystal Scepter,Liandry's Torment,Fiendish Codex,Null-Magic Mantle,73913,8748,Lane.bot_lane,Role.support
+7,Provocative,Viktor,True,Side.red,4,3,8,4.0,291,Flash,Ghost,18,False,14625,11925,Void Staff,Needlessly Large Rod,Perfect Hex Core,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Doran's Ring,197565,15075,Lane.mid_lane,Role.solo
+8,Atif,Lee Sin,True,Side.red,10,2,9,9.5,172,Flash,Smite,17,True,14397,12650,Hexdrinker,Dead Man's Plate,Enchantment: Warrior,Ninja Tabi,Spirit Visage,Spectre's Cowl,35524,138153,Lane.jungle,Role.none
+9,08 18 2015,Sivir,True,Side.red,11,5,15,5.2,206,Flash,Heal,17,False,15531,15300,Mortal Reminder,Phantom Dancer,Berserker's Greaves,Vampiric Scepter,Infinity Edge,Essence Reaver,0,181930,Lane.bot_lane,Role.carry

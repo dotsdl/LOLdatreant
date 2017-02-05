@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Cris,Jayce,True,Side.blue,17,5,6,4.6,203,Flash,Teleport,16,False,15282,15235,Youmuu's Ghostblade,Hextech Revolver,Mercury's Treads,Maw of Malmortius,Duskblade of Draktharr,The Black Cleaver,25195,130035,Lane.top_lane,Role.solo
+1,Vchee,Karma,True,Side.blue,3,8,23,3.25,6,Exhaust,Flash,13,False,10405,8025,Sorcerer's Shoes,Ardent Censer,,Eye of the Watchers,,Redemption,12599,6143,Lane.bot_lane,Role.support
+2,LimitedExtent,Jhin,True,Side.blue,14,4,9,5.75,183,Heal,Flash,14,False,13522,11475,Doran's Blade,Rapid Firecannon,Control Ward,Boots of Swiftness,Infinity Edge,Essence Reaver,10632,115405,Lane.bot_lane,Role.carry
+3,An Obese Panda,Elise,True,Side.blue,12,5,10,4.4,61,Smite,Flash,13,False,11321,10130,,Hextech Protobelt-01,Rylai's Crystal Scepter,Enchantment: Runic Echoes,Cloth Armor,Sorcerer's Shoes,64162,19411,Lane.jungle,Role.none
+4,Yassuo,Yasuo,True,Side.blue,11,7,9,2.857142857142857,163,Flash,Exhaust,15,False,12471,12950,Mercurial Scimitar,Phantom Dancer,,Mercury's Treads,Infinity Edge,,24317,104365,Lane.mid_lane,Role.solo
+5,Hyorimaru,Anivia,False,Side.red,2,8,12,1.75,15,Flash,Exhaust,11,False,7490,6375,Boots of Mobility,Tear of the Goddess,Frost Queen's Claim,Ruby Sightstone,Crystalline Bracer,,14272,1817,Lane.bot_lane,Role.support
+6,ZatsMod,Cassiopeia,False,Side.red,10,12,2,1.0,115,Flash,Ghost,14,False,9885,9225,Rylai's Crystal Scepter,Morellonomicon,Fiendish Codex,Tear of the Goddess,Cloth Armor,Doran's Ring,58442,5293,Lane.mid_lane,Role.solo
+7,moon o,Lee Sin,False,Side.red,4,15,9,0.8666666666666667,85,Smite,Flash,13,True,8588,7925,Tiamat,Refillable Potion,Youmuu's Ghostblade,Enchantment: Warrior,Ionian Boots of Lucidity,,11632,62633,Lane.jungle,Role.none
+8,PutYourHeartsUp,Irelia,False,Side.red,5,13,5,0.7692307692307693,123,Flash,Teleport,13,False,9015,8683,Ravenous Hydra,,Cloth Armor,Long Sword,Trinity Force,Boots of Speed,2040,57361,Lane.top_lane,Role.solo
+9,Abou222,Vayne,False,Side.red,7,9,4,1.2222222222222223,151,Heal,Flash,13,False,9943,9450,Doran's Blade,Infinity Edge,Zeal,Berserker's Greaves,Statikk Shiv,Dagger,14185,65573,Lane.bot_lane,Role.carry

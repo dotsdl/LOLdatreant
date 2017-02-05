@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Larri,Thresh,False,Side.blue,0,7,13,1.8571428571428572,31,Exhaust,Flash,12,False,7541,7125,Redemption,Mikael's Crucible,Sightstone,Boots of Mobility,Targon's Brace,,14737,5174,Lane.bot_lane,Role.support
+1,Ruannn,Yasuo,False,Side.blue,6,9,2,0.8888888888888888,218,Flash,Teleport,15,False,11149,10350,Doran's Blade,B. F. Sword,Spectre's Cowl,Phantom Dancer,Ninja Tabi,Frozen Mallet,37204,95183,Lane.top_lane,Role.solo
+2,Pimp Santa,Draven,False,Side.blue,6,8,4,1.25,185,Heal,Flash,13,False,12209,12350,Zeal,Essence Reaver,Infinity Edge,Kircheis Shard,Vampiric Scepter,Berserker's Greaves,610,122691,Lane.bot_lane,Role.carry
+3,Nasus Top,Graves,False,Side.blue,4,8,4,1.0,146,Smite,Flash,14,False,10428,9675,Youmuu's Ghostblade,Zeal,Berserker's Greaves,Enchantment: Warrior,Hexdrinker,Dagger,3837,117706,Lane.jungle,Role.none
+4,Hyorimaru,Anivia,False,Side.blue,5,8,7,1.5,197,Flash,Teleport,14,False,11252,10560,Doran's Ring,Rod of Ages,Seraph's Embrace,Void Staff,Sorcerer's Shoes,Amplifying Tome,112309,9853,Lane.mid_lane,Role.solo
+5,schankie,Zac,True,Side.red,7,1,16,23.0,173,Smite,Flash,17,False,12637,10475,Enchantment: Runic Echoes,Refillable Potion,Boots of Mobility,Spirit Visage,Thornmail,Giant's Belt,131169,28340,Lane.jungle,Role.none
+6,Poosickle,Rumble,True,Side.red,10,5,9,3.8,172,Teleport,Flash,16,False,12131,10635,Hextech Protobelt-01,Abyssal Scepter,Liandry's Torment,Sorcerer's Shoes,Doran's Shield,Amplifying Tome,105952,9458,Lane.mid_lane,Role.solo
+7,sengahhj,Fiora,True,Side.red,13,4,9,5.5,182,Flash,Exhaust,16,True,13399,11900,Corrupting Potion,Ravenous Hydra,Ninja Tabi,The Black Cleaver,Maw of Malmortius,Cloth Armor,1680,111028,Lane.top_lane,Role.solo
+8,hello now,Vayne,True,Side.red,7,5,5,2.4,187,Heal,Flash,14,False,12470,11825,Doran's Blade,Statikk Shiv,Phantom Dancer,Infinity Edge,B. F. Sword,Berserker's Greaves,17111,108327,Lane.bot_lane,Role.carry
+9,Zyko,Janna,True,Side.red,3,6,18,3.5,8,Exhaust,Flash,14,False,8827,7575,Redemption,Locket of the Iron Solari,Sightstone,Control Ward,Nomad's Medallion,Ionian Boots of Lucidity,5955,4431,Lane.bot_lane,Role.support

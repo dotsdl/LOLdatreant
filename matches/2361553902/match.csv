@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pyrites,Morgana,False,Side.blue,1,3,2,1.0,18,Flash,Exhaust,9,False,5482,5175,Frost Queen's Claim,Ruby Sightstone,,Boots of Speed,The Dark Seal,,13764,2755,Lane.bot_lane,Role.support
+1,Pherix,Jinx,False,Side.blue,2,5,0,0.4,113,Flash,Heal,10,False,5981,4650,B. F. Sword,Doran's Blade,Total Biscuit of Rejuvenation,Berserker's Greaves,Zeal,Dagger,634,48533,Lane.bot_lane,Role.carry
+2,Consequentiality,Darius,False,Side.blue,1,8,1,0.25,123,Teleport,Flash,11,False,6039,5700,Corrupting Potion,The Black Cleaver,Kindlegem,Boots of Speed,Giant's Belt,,63,61956,Lane.top_lane,Role.solo
+3,Link404,Lux,False,Side.blue,0,7,1,0.14285714285714285,105,Flash,Barrier,11,False,5537,5125,Doran's Ring,Doran's Ring,Refillable Potion,Sorcerer's Shoes,Morellonomicon,,43675,8846,Lane.mid_lane,Role.solo
+4,Daniel Liu,Lee Sin,False,Side.blue,0,7,1,0.14285714285714285,63,Flash,Smite,9,False,5365,5075,Refillable Potion,Mercury's Treads,Enchantment: Warrior,Ruby Crystal,Chain Vest,,8132,41763,Lane.jungle,Role.none
+5,A for Awesome,Bard,True,Side.red,0,1,11,11.0,11,Flash,Exhaust,10,False,6715,5275,Frost Queen's Claim,Sightstone,Ionian Boots of Lucidity,Sheen,,,8129,4286,Lane.bot_lane,Role.support
+6,Sabasauros Rex,Jhin,True,Side.red,8,0,8,16.0,162,Flash,Heal,13,False,11247,9600,Doran's Blade,Rapid Firecannon,Ionian Boots of Lucidity,Essence Reaver,B. F. Sword,Cull,3046,98955,Lane.bot_lane,Role.carry
+7,eden l,LeBlanc,True,Side.red,10,0,3,13.0,159,Ignite,Flash,13,False,10382,9400,Control Ward,Mejai's Soulstealer,Rylai's Crystal Scepter,,Morellonomicon,Sorcerer's Shoes,81215,15649,Lane.mid_lane,Role.solo
+8,SA3099,Yasuo,True,Side.red,7,2,3,5.0,146,Flash,Teleport,13,True,9453,8250,Infinity Edge,Vampiric Scepter,Boots of Speed,Phantom Dancer,,,16866,78017,Lane.top_lane,Role.solo
+9,Łegion,Olaf,True,Side.red,5,1,7,12.0,98,Smite,Ghost,12,False,9308,5250,Hunter's Potion,Enchantment: Cinderhulk,Phage,Ionian Boots of Lucidity,,,16294,77268,Lane.jungle,Role.none

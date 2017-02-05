@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,My Toe,Lee Sin,True,Side.blue,9,1,3,12.0,114,Flash,Smite,12,False,9657,9150,Youmuu's Ghostblade,Enchantment: Warrior,Boots of Speed,Refillable Potion,Edge of Night,,15105,91289,Lane.jungle,Role.none
+1,I Starboy l,Gnar,True,Side.blue,2,5,2,0.8,118,Teleport,Flash,11,False,7418,6325,Doran's Blade,Refillable Potion,Boots of Speed,The Black Cleaver,Jaurim's Fist,Giant's Belt,4191,63385,Lane.top_lane,Role.solo
+2,DJ Holiday,Caitlyn,True,Side.blue,0,1,10,10.0,139,Heal,Flash,11,False,7938,5475,Doran's Blade,Berserker's Greaves,Zeal,Recurve Bow,Control Ward,B. F. Sword,812,69885,Lane.bot_lane,Role.carry
+3,GKyrios,Ekko,True,Side.blue,9,2,3,6.0,100,Flash,Teleport,11,False,8818,7475,Corrupting Potion,Zhonya's Hourglass,Hextech Protobelt-01,Sorcerer's Shoes,Doran's Ring,,57227,11896,Lane.jungle,Role.none
+4,Hanjaro,Janna,True,Side.blue,2,1,9,11.0,3,Flash,Exhaust,10,False,6325,3775,Ruby Crystal,Ardent Censer,,,Boots of Speed,Ancient Coin,5566,7486,Lane.bot_lane,Role.support
+5,C9 TOXIC BONOBO,Yasuo,False,Side.red,0,5,0,0.0,88,Exhaust,Flash,9,False,4641,3500,Doran's Blade,Phantom Dancer,,,,Boots of Speed,9401,26219,Lane.mid_lane,Role.solo
+6,Na Kirby,Soraka,False,Side.red,0,4,3,0.75,3,Exhaust,Flash,7,False,3894,2700,Sightstone,Spellthief's Edge,Ionian Boots of Lucidity,Faerie Charm,Faerie Charm,,2545,725,Lane.bot_lane,Role.support
+7,Xinthus,Jhin,False,Side.red,3,6,0,0.5,109,Heal,Flash,9,False,5857,5525,Doran's Blade,Essence Reaver,Ionian Boots of Lucidity,Control Ward,Dagger,Total Biscuit of Rejuvenation,1779,42903,Lane.bot_lane,Role.carry
+8,Krewl,Vi,False,Side.red,2,3,3,1.6666666666666667,74,Smite,Flash,10,True,5842,5575,Enchantment: Warrior,Phage,Boots of Speed,Caulfield's Warhammer,,,1004,47128,Lane.jungle,Role.none
+9,Angormus,Nasus,False,Side.red,5,4,2,1.75,105,Teleport,Flash,12,False,7261,6225,Ninja Tabi,Kindlegem,Spectre's Cowl,Iceborn Gauntlet,,,16428,37853,Lane.top_lane,Role.solo

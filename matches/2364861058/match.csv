@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Lose is improved,Nautilus,False,Side.blue,1,5,12,2.6,147,Teleport,Flash,14,False,8625,7775,Sunfire Cape,Corrupting Potion,Spirit Visage,Ruby Crystal,,Mercury's Treads,77832,18513,Lane.top_lane,Role.solo
+1,Pianist,Jhin,False,Side.blue,3,8,5,1.0,137,Flash,Heal,12,False,8325,7100,Doran's Blade,Essence Reaver,Total Biscuit of Rejuvenation,Boots of Speed,Rapid Firecannon,,5890,63025,Lane.bot_lane,Role.carry
+2,Pi Pi Xia Solo,Lux,False,Side.blue,11,5,3,2.8,191,Flash,Ghost,15,True,11719,10800,Total Biscuit of Rejuvenation,Morellonomicon,Void Staff,Luden's Echo,Sorcerer's Shoes,Doran's Ring,116184,11478,Lane.mid_lane,Role.solo
+3,TQS Zuardian,Evelynn,False,Side.blue,5,6,6,1.8333333333333333,111,Smite,Flash,14,False,9301,8625,Hextech Protobelt-01,Enchantment: Runic Echoes,Refillable Potion,Mejai's Soulstealer,Ionian Boots of Lucidity,Sheen,71636,33789,Lane.jungle,Role.none
+4,jamican banana,Karma,False,Side.blue,1,7,13,2.0,56,Ignite,Flash,12,False,7952,7225,Ionian Boots of Lucidity,Redemption,Eye of the Watchers,Giant's Belt,Refillable Potion,Chain Vest,40121,3982,Lane.bot_lane,Role.support
+5,Riot Kobe,Janna,True,Side.red,0,4,16,4.0,11,Flash,Exhaust,12,False,8788,7825,Eye of the Watchers,Refillable Potion,Redemption,Zeke's Harbinger,Ionian Boots of Lucidity,,5211,6156,Lane.bot_lane,Role.support
+6,Gweiss,Zac,True,Side.red,7,4,11,4.5,179,Teleport,Flash,15,False,12184,10625,Spirit Visage,Hextech Protobelt-01,Mercury's Treads,Sunfire Cape,Aegis of the Legion,,102031,13956,Lane.top_lane,Role.solo
+7,You all boosted,Kha'Zix,True,Side.red,10,3,5,5.0,166,Flash,Smite,16,False,13519,12800,The Black Cleaver,Tiamat,Maw of Malmortius,Enchantment: Warrior,Mercury's Treads,B. F. Sword,5070,164522,Lane.jungle,Role.none
+8,RumbleMidGGnoRE,Rumble,True,Side.red,7,5,8,3.0,191,Ignite,Flash,15,False,12537,11475,Hextech Protobelt-01,Sorcerer's Shoes,Liandry's Torment,Luden's Echo,Blasting Wand,,114299,11161,Lane.mid_lane,Role.solo
+9,feud999,Caitlyn,True,Side.red,7,5,7,2.8,192,Flash,Heal,14,False,12604,11075,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,Doran's Blade,Long Sword,1086,155641,Lane.bot_lane,Role.carry

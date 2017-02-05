@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Pillo Pepinillo,Jayce,True,Side.blue,1,5,3,0.8,68,Teleport,Flash,8,False,4956,6350,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,Tear of the Goddess,,5696,26785,Lane.top_lane,Role.solo
+1,Rekyn,LeBlanc,True,Side.blue,3,1,3,6.0,80,Flash,Ignite,10,False,5895,4350,Morellonomicon,,Boots of Speed,Doran's Ring,Doran's Ring,,33326,7063,Lane.mid_lane,Role.solo
+2,basa94,Alistar,True,Side.blue,0,0,13,13.0,21,Flash,Exhaust,9,False,5437,3275,Refillable Potion,Sightstone,Boots of Mobility,Crystalline Bracer,Faerie Charm,Relic Shield,9996,7462,Lane.bot_lane,Role.duo
+3,xDD,Hecarim,True,Side.blue,4,0,6,10.0,93,Ghost,Smite,10,True,6737,6508,Enchantment: Runic Echoes,Refillable Potion,Trinity Force,,,,7004,54132,Lane.jungle,Role.none
+4,Stupid Turrents,Ezreal,True,Side.blue,13,0,3,16.0,101,Heal,Flash,9,False,9150,6000,Doran's Blade,Manamune,Cull,Phage,Sheen,Boots of Speed,6623,45858,Lane.bot_lane,Role.duo
+5,ityyy,Katarina,False,Side.red,1,2,0,0.5,110,Flash,Ignite,10,False,4829,3380,The Dark Seal,Refillable Potion,Bilgewater Cutlass,Negatron Cloak,Amplifying Tome,,40764,10400,Lane.mid_lane,Role.solo
+6,Na Kirby,Soraka,False,Side.red,0,4,1,0.25,2,Exhaust,Flash,4,False,2742,1675,Sightstone,Spellthief's Edge,Control Ward,Boots of Speed,,,2223,1091,Lane.bot_lane,Role.duo
+7,IQ is 201 ,Riven,False,Side.red,3,2,0,1.5,66,Flash,Teleport,8,False,4317,3550,Refillable Potion,Ionian Boots of Lucidity,Phage,,Caulfield's Warhammer,,0,27632,Lane.top_lane,Role.solo
+8,Beefsurpreme,Lee Sin,False,Side.red,1,6,4,0.8333333333333334,30,Smite,Flash,8,False,3883,3575,Refillable Potion,Enchantment: Warrior,,,Boots of Speed,Long Sword,5027,21022,Lane.jungle,Role.none
+9,CaptainAUM,Varus,False,Side.red,1,7,0,0.14285714285714285,69,Heal,Flash,8,False,3870,2950,Doran's Blade,B. F. Sword,Long Sword,Cull,Boots of Speed,Health Potion,1501,32510,Lane.bot_lane,Role.duo

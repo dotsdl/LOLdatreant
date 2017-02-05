@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Nash,Lux,False,Side.blue,6,4,7,3.25,126,Barrier,Flash,11,False,8216,6185,Doran's Ring,Morellonomicon,The Dark Seal,Amplifying Tome,Blasting Wand,Sorcerer's Shoes,68919,9353,Lane.mid_lane,Role.solo
+1,WJNA,Jayce,False,Side.blue,3,9,3,0.6666666666666666,130,Flash,Teleport,12,False,7376,7300,Corrupting Potion,Youmuu's Ghostblade,Serrated Dirk,Boots of Mobility,Null-Magic Mantle,Pickaxe,11095,58737,Lane.top_lane,Role.solo
+2,Cat Person,Janna,False,Side.blue,0,6,8,1.3333333333333333,10,Flash,Heal,9,False,5517,4600,,Ruby Sightstone,,Frostfang,Crystalline Bracer,Boots of Mobility,4562,2991,Lane.bot_lane,Role.support
+3,Falco Mechanic,Jinx,False,Side.blue,5,8,7,1.5,139,Exhaust,Flash,11,False,8471,7550,Doran's Blade,Doran's Blade,Berserker's Greaves,Doran's Blade,Infinity Edge,Zeal,468,83615,Lane.bot_lane,Role.carry
+4,Feitan,Lee Sin,False,Side.blue,5,6,6,1.8333333333333333,52,Smite,Flash,11,True,7148,7000,Mercury's Treads,Refillable Potion,Dead Man's Plate,Enchantment: Warrior,,,8516,41967,Lane.jungle,Role.none
+5,AchiIIes Heal,Gnar,True,Side.red,2,5,11,2.6,93,Flash,Teleport,11,False,7401,7325,Cloth Armor,Giant's Belt,Jaurim's Fist,Doran's Shield,Sunfire Cape,Mercury's Treads,12830,41155,Lane.top_lane,Role.solo
+6,Hailtothechi,Karma,True,Side.red,3,1,15,18.0,22,Exhaust,Flash,11,False,7985,7350,Forbidden Idol,Ionian Boots of Lucidity,Eye of the Watchers,Redemption,Aether Wisp,,13939,6877,Lane.bot_lane,Role.support
+7,LL Stylish,Zed,True,Side.red,18,2,2,10.0,113,Smite,Flash,13,False,12927,11275,Enchantment: Warrior,Caulfield's Warhammer,Youmuu's Ghostblade,Ninja Tabi,Duskblade of Draktharr,Control Ward,8306,109010,Lane.jungle,Role.none
+8,FIoopie,Lucian,True,Side.red,7,6,12,3.1666666666666665,149,Flash,Heal,12,False,10658,9700,Doran's Blade,Rapid Firecannon,Cull,Essence Reaver,B. F. Sword,Berserker's Greaves,2792,100931,Lane.bot_lane,Role.carry
+9,Dna shockwave,LeBlanc,True,Side.red,3,5,4,1.4,138,Ignite,Flash,11,False,8021,6575,Doran's Ring,Fiendish Codex,Sorcerer's Shoes,Doran's Ring,The Dark Seal,Morellonomicon,58572,10651,Lane.mid_lane,Role.solo

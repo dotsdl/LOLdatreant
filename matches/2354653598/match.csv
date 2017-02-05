@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,er ber ter,Draven,False,Side.blue,0,1,0,0.0,2,Heal,Flash,2,False,699,500,Doran's Blade,Health Potion,,,,,0,1485,Lane.bot_lane,Role.solo
+1,goompa,Morgana,False,Side.blue,0,0,0,0.0,0,Ignite,Flash,1,False,659,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+2,Eckhart,Zac,False,Side.blue,0,0,0,0.0,11,Smite,Flash,3,False,919,500,Hunter's Talisman,Refillable Potion,,,,,3095,1969,Lane.jungle,Role.none
+3,Apdo I,Twisted Fate,False,Side.blue,0,0,0,0.0,10,Ghost,Flash,3,False,885,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,2706,943,Lane.mid_lane,Role.duo
+4,HungBrickMan,Sion,False,Side.blue,0,0,0,0.0,13,Teleport,Flash,3,False,927,500,Corrupting Potion,,,,,,0,2915,Lane.top_lane,Role.solo
+5,Ms Sarah Fortune,Jinx,True,Side.red,0,0,0,0.0,16,Ghost,Flash,3,False,983,500,Doran's Blade,Health Potion,,,,,0,4807,Lane.mid_lane,Role.solo
+6,ELISE Ya Tried,Lissandra,True,Side.red,0,0,0,0.0,15,Teleport,Flash,3,False,963,500,Total Biscuit of Rejuvenation,Doran's Ring,,,,,2235,1789,Lane.top_lane,Role.solo
+7,JeremySucks,Braum,True,Side.red,0,0,1,1.0,3,Exhaust,Flash,2,False,945,500,Relic Shield,Refillable Potion,,,,,122,461,Lane.bot_lane,Role.duo
+8,Liquid Lima,Caitlyn,True,Side.red,1,0,0,1.0,17,Flash,Heal,2,True,1397,500,Total Biscuit of Rejuvenation,Doran's Blade,,,,,106,2579,Lane.bot_lane,Role.duo
+9,II Master II,Ivern,True,Side.red,0,0,0,0.0,8,Flash,Smite,3,False,971,500,Hunter's Talisman,Refillable Potion,,,,,0,0,Lane.jungle,Role.none

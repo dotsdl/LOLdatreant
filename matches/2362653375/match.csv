@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WJNA,Lulu,False,Side.blue,7,9,7,1.5555555555555556,184,Flash,Ignite,14,False,11608,10610,Amplifying Tome,Morellonomicon,Lich Bane,Sorcerer's Shoes,Blasting Wand,Needlessly Large Rod,91862,20847,Lane.mid_lane,Role.solo
+1,SNiKerDoDIe,Rek'Sai,False,Side.blue,4,4,11,3.75,149,Smite,Flash,14,False,11532,11535,Enchantment: Cinderhulk,Mercury's Treads,Randuin's Omen,Titanic Hydra,Spectre's Cowl,,38269,95120,Lane.jungle,Role.none
+2,konkwon,Thresh,False,Side.blue,0,3,16,5.333333333333333,37,Flash,Exhaust,12,False,8230,7925,Face of the Mountain,Redemption,Boots of Mobility,Ruby Sightstone,,Control Ward,12437,5168,Lane.bot_lane,Role.support
+3,EnVy LOD,Twitch,False,Side.blue,9,7,4,1.8571428571428572,206,Flash,Heal,14,True,12547,11655,Doran's Blade,Infinity Edge,Runaan's Hurricane,Berserker's Greaves,Phantom Dancer,Vampiric Scepter,677,124430,Lane.bot_lane,Role.carry
+4,McCashDollar,Singed,False,Side.blue,4,8,4,1.0,228,Flash,Teleport,15,False,11533,10625,Righteous Glory,Corrupting Potion,Zz'Rot Portal,Doran's Ring,Rylai's Crystal Scepter,Boots of Swiftness,135370,5185,Lane.top_lane,Role.solo
+5,Gweiss,Vi,True,Side.red,9,7,8,2.4285714285714284,131,Smite,Flash,15,False,12496,11733,Enchantment: Warrior,Trinity Force,Maw of Malmortius,Mercury's Treads,Chain Vest,,2279,156262,Lane.jungle,Role.none
+6,D0NG0,Fizz,True,Side.red,8,5,5,2.6,240,Ignite,Flash,17,False,13640,12125,Rabadon's Deathcap,Zhonya's Hourglass,Ionian Boots of Lucidity,Lich Bane,The Dark Seal,Doran's Ring,117574,38697,Lane.top_lane,Role.solo
+7,Projekt Yasuo,Jhin,True,Side.red,4,6,5,1.5,162,Flash,Heal,14,False,10870,9150,Boots of Swiftness,Rapid Firecannon,Refillable Potion,Doran's Blade,Pickaxe,Essence Reaver,7609,113541,Lane.bot_lane,Role.carry
+8,The Jungle Bunny,Nami,True,Side.red,1,3,21,7.333333333333333,34,Flash,Exhaust,15,False,10737,8800,Frost Queen's Claim,Mikael's Crucible,Redemption,Boots of Mobility,Cloth Armor,Sightstone,15267,10327,Lane.bot_lane,Role.support
+9,LL Stylish,Zed,True,Side.red,9,3,5,4.666666666666667,247,Cleanse,Flash,17,False,14289,12850,Bilgewater Cutlass,Edge of Night,The Black Cleaver,Boots of Swiftness,Duskblade of Draktharr,,10182,156183,Lane.mid_lane,Role.solo

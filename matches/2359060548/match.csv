@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MiIes,Yasuo,False,Side.blue,2,7,0,0.2857142857142857,130,Flash,Teleport,12,False,7595,7000,Ninja Tabi,Phantom Dancer,Jaurim's Fist,Giant's Belt,Doran's Shield,Doran's Blade,16037,45519,Lane.top_lane,Role.solo
+1,bjerg fanboy,Graves,False,Side.blue,0,6,5,0.8333333333333334,156,Flash,Smite,13,False,8393,7800,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,Phantom Dancer,Hexdrinker,,5402,118463,Lane.jungle,Role.none
+2,King Kayys,Alistar,False,Side.blue,2,5,7,1.8,22,Flash,Exhaust,11,False,6751,5875,Control Ward,Eye of the Equinox,Locket of the Iron Solari,,,Boots of Mobility,7781,4366,Lane.bot_lane,Role.support
+3,Ayy Memer,Lucian,False,Side.blue,6,6,4,1.6666666666666667,193,Flash,Heal,12,False,10138,8525,Doran's Blade,Essence Reaver,Berserker's Greaves,Kircheis Shard,Serrated Dirk,Hexdrinker,2860,91585,Lane.bot_lane,Role.carry
+4,InSteriyo,Viktor,False,Side.blue,2,5,3,1.0,150,Flash,Ghost,12,False,7920,6810,Perfect Hex Core,Doran's Ring,Amplifying Tome,Ionian Boots of Lucidity,Doran's Ring,Giant's Belt,77455,10316,Lane.mid_lane,Role.solo
+5,Champion Mage,Caitlyn,True,Side.red,3,4,5,2.0,164,Heal,Flash,13,False,10842,9100,Doran's Blade,Runaan's Hurricane,Infinity Edge,Zeal,Berserker's Greaves,,426,99631,Lane.bot_lane,Role.carry
+6,herolineage,Kayle,True,Side.red,10,0,11,21.0,218,Flash,Ignite,15,False,14389,11450,Doran's Ring,Runaan's Hurricane,Nashor's Tooth,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Needlessly Large Rod,100299,49937,Lane.mid_lane,Role.solo
+7,The Coldshroom,Teemo,True,Side.red,6,2,10,8.0,175,Ignite,Flash,15,True,11885,9350,Doran's Ring,Hextech Protobelt-01,Sorcerer's Shoes,Nashor's Tooth,Seeker's Armguard,Blasting Wand,92609,25031,Lane.top_lane,Role.solo
+8,Hey I am God,Kha'Zix,True,Side.red,8,2,11,9.5,121,Flash,Smite,14,False,11857,11550,Tiamat,Youmuu's Ghostblade,Refillable Potion,Death's Dance,Enchantment: Warrior,Ninja Tabi,4864,104450,Lane.jungle,Role.none
+9,Cloudy Skyz,Braum,True,Side.red,1,4,16,4.25,20,Flash,Exhaust,12,False,7911,6600,Face of the Mountain,Ruby Sightstone,,Mercury's Treads,Aegis of the Legion,,5858,3891,Lane.bot_lane,Role.support

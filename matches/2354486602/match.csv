@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,C9 Sneaky,Kalista,True,Side.blue,1,2,5,3.0,176,Flash,Heal,11,False,8746,7900,Blade of the Ruined King,Doran's Blade,Berserker's Greaves,Runaan's Hurricane,,,932,82492,Lane.bot_lane,Role.carry
+1,Pekin Woof,Viktor,True,Side.blue,12,0,1,13.0,207,Flash,Ghost,15,False,11676,9450,Doran's Ring,Sheen,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Perfect Hex Core,Doran's Ring,115609,11621,Lane.mid_lane,Role.solo
+2,PrismaI,Jayce,True,Side.blue,10,3,3,4.333333333333333,181,Flash,Teleport,15,False,11063,10875,Lord Dominik's Regards,Edge of Night,Ionian Boots of Lucidity,Doran's Blade,The Black Cleaver,Long Sword,16610,97325,Lane.top_lane,Role.solo
+3,Ak4dian,Lee Sin,True,Side.blue,1,2,10,5.5,130,Flash,Smite,13,False,8781,8125,Tiamat,Dead Man's Plate,Enchantment: Warrior,,Mercury's Treads,,15965,103548,Lane.jungle,Role.none
+4,Sawyerr,Thresh,True,Side.blue,0,1,8,8.0,22,Exhaust,Flash,10,False,5540,4775,Relic Shield,Ionian Boots of Lucidity,Crystalline Bracer,Crystalline Bracer,Faerie Charm,Ruby Sightstone,9020,4690,Lane.bot_lane,Role.support
+5,deftIy,Caitlyn,False,Side.red,2,4,3,1.25,180,Flash,Heal,11,False,8219,7800,Infinity Edge,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,,,520,88832,Lane.bot_lane,Role.carry
+6,Tuesdayy,Cassiopeia,False,Side.red,2,8,0,0.25,155,Ghost,Flash,11,True,7353,6975,Doran's Ring,Doran's Ring,Tear of the Goddess,Morellonomicon,Needlessly Large Rod,Giant's Belt,62808,8070,Lane.mid_lane,Role.solo
+7,1936 1948,Shaco,False,Side.red,4,4,2,1.5,98,Smite,Ignite,13,False,7666,6625,Tiamat,Boots of Mobility,Long Sword,Enchantment: Bloodrazor,Long Sword,Hextech Revolver,20911,66643,Lane.jungle,Role.none
+8,Rokí,Riven,False,Side.red,0,5,1,0.2,152,Flash,Teleport,12,False,7262,6550,Doran's Shield,The Black Cleaver,Tiamat,Ionian Boots of Lucidity,Doran's Blade,Long Sword,0,64987,Lane.top_lane,Role.solo
+9,YaThatWasABanana,Karma,False,Side.red,0,3,5,1.6666666666666667,15,Flash,Exhaust,10,False,5732,5650,Control Ward,Redemption,Refillable Potion,Eye of the Watchers,,Ionian Boots of Lucidity,8101,4724,Lane.bot_lane,Role.support

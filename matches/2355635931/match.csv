@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Yanni Tsunami,Katarina,False,Side.blue,9,5,3,2.4,196,Ignite,Flash,14,False,10833,9235,Blasting Wand,Zhonya's Hourglass,Luden's Echo,The Dark Seal,Sorcerer's Shoes,Amplifying Tome,112813,11085,Lane.mid_lane,Role.solo
+1,A Ganker,Rammus,False,Side.blue,3,5,7,2.0,100,Flash,Smite,13,False,8256,7600,Enchantment: Cinderhulk,Refillable Potion,Thornmail,Ninja Tabi,Giant's Belt,Cloth Armor,51398,34587,Lane.jungle,Role.none
+2,Chanthirath,Shen,False,Side.blue,4,3,4,2.6666666666666665,145,Flash,Teleport,13,False,8218,7825,Mercury's Treads,Doran's Shield,Refillable Potion,Sunfire Cape,Spirit Visage,Cloth Armor,49578,23116,Lane.top_lane,Role.solo
+3,C9 Lemon,Lulu,False,Side.blue,2,8,8,1.25,22,Ignite,Flash,11,True,7083,5975,The Dark Seal,Boots of Mobility,Redemption,Eye of the Watchers,Control Ward,,13208,3918,Lane.bot_lane,Role.support
+4,insaníty,Lucian,False,Side.blue,2,8,3,0.625,163,Flash,Heal,12,False,8618,7800,Doran's Blade,Cull,Blade of the Ruined King,Berserker's Greaves,Sheen,Phage,2856,86295,Lane.bot_lane,Role.carry
+5,Imaokai,Twitch,True,Side.red,8,3,4,4.0,138,Ignite,Smite,14,False,11821,11225,Runaan's Hurricane,Infinity Edge,Lord Dominik's Regards,Boots of Mobility,Pickaxe,,0,131720,Lane.jungle,Role.none
+6,PutYourHeartsUp,Taliyah,True,Side.red,5,5,13,3.6,24,Exhaust,Flash,12,False,10757,10000,Total Biscuit of Rejuvenation,Control Ward,Eye of the Watchers,Morellonomicon,Rylai's Crystal Scepter,Ionian Boots of Lucidity,32533,5727,Lane.bot_lane,Role.support
+7,Abou222,Syndra,True,Side.red,8,1,4,12.0,184,Exhaust,Flash,15,False,11991,9725,Blasting Wand,Morellonomicon,Abyssal Scepter,Doran's Ring,Giant's Belt,Sorcerer's Shoes,104872,10096,Lane.mid_lane,Role.solo
+8,Asyc xD ,Vayne,True,Side.red,5,5,5,2.0,208,Heal,Flash,14,False,11839,11350,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,Statikk Shiv,Null-Magic Mantle,28337,95814,Lane.bot_lane,Role.carry
+9,Adrian Riven,Jax,True,Side.red,3,6,9,2.0,143,Teleport,Flash,14,False,10536,9908,Trinity Force,Blade of the Ruined King,Corrupting Potion,Giant's Belt,Boots of Swiftness,Cloth Armor,16531,70454,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,AmorCunese,Ezreal,False,Side.blue,2,8,3,0.625,90,Heal,Flash,10,False,5938,5400,Doran's Blade,Refillable Potion,Manamune,Boots of Speed,Sheen,Glacial Shroud,5967,37268,Lane.bot_lane,Role.carry
+1,coldrain evening,Jax,False,Side.blue,0,5,2,0.4,112,Ignite,Flash,11,False,5660,5350,Hextech Gunblade,Corrupting Potion,Berserker's Greaves,Long Sword,,,9260,40255,Lane.top_lane,Role.solo
+2,Maren,Brand,False,Side.blue,5,4,4,2.25,23,Ignite,Flash,10,False,6812,6810,Frost Queen's Claim,Giant's Belt,Sightstone,Amplifying Tome,Ionian Boots of Lucidity,Needlessly Large Rod,24656,1475,Lane.bot_lane,Role.support
+3,WoXiHuanOliQAQ,Yasuo,False,Side.blue,4,5,3,1.4,165,Exhaust,Flash,13,False,7892,7450,Doran's Blade,Refillable Potion,Berserker's Greaves,Phantom Dancer,Frozen Mallet,,31678,63698,Lane.mid_lane,Role.solo
+4,mackenzee,Rengar,False,Side.blue,2,4,2,1.0,101,Smite,Flash,11,False,6593,5600,Enchantment: Warrior,Refillable Potion,Caulfield's Warhammer,Ionian Boots of Lucidity,Long Sword,Ruby Crystal,7007,65074,Lane.jungle,Role.none
+5,gabzpiano,Master Yi,True,Side.red,7,1,1,8.0,138,Flash,Smite,13,False,10075,7775,Enchantment: Bloodrazor,Ninja Tabi,Dead Man's Plate,Recurve Bow,,,2019,113281,Lane.jungle,Role.none
+6,Imaokai,Caitlyn,True,Side.red,4,4,4,2.0,152,Heal,Flash,11,False,9364,7800,Doran's Blade,Infinity Edge,Berserker's Greaves,,Runaan's Hurricane,,365,89662,Lane.bot_lane,Role.carry
+7,Ari Kingu,Poppy,True,Side.red,6,0,4,10.0,145,Teleport,Flash,13,False,9740,7750,Corrupting Potion,Sunfire Cape,Ninja Tabi,Iceborn Gauntlet,Ruby Crystal,,28538,47322,Lane.top_lane,Role.solo
+8,Jimmy Carter,Blitzcrank,True,Side.red,4,2,7,5.5,22,Exhaust,Flash,11,True,8920,7550,Talisman of Ascension,Redemption,Refillable Potion,Boots of Swiftness,Glacial Shroud,Warden's Mail,11274,10093,Lane.bot_lane,Role.support
+9,72DegreeLookAtMe,Ryze,True,Side.red,5,6,4,1.5,150,Ghost,Flash,13,False,9475,9160,Archangel's Staff,Amplifying Tome,Fiendish Codex,Ionian Boots of Lucidity,Rod of Ages,Lost Chapter,98789,11290,Lane.mid_lane,Role.solo

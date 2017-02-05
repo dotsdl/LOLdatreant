@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Wazabiee,Cassiopeia,True,Side.blue,16,5,9,5.0,152,Ghost,Flash,15,False,13147,10125,Seraph's Embrace,Refillable Potion,,Rylai's Crystal Scepter,Doran's Ring,Morellonomicon,110847,5306,Lane.jungle,Role.none
+1,Wynaan,Nami,True,Side.blue,2,5,20,4.4,13,Exhaust,Flash,11,False,9434,8900,Eye of the Watchers,Ardent Censer,Boots of Swiftness,Cloth Armor,Null-Magic Mantle,Redemption,7151,4687,Lane.bot_lane,Role.support
+2,Jordanian Sniper,Jinx,True,Side.blue,15,3,11,8.666666666666666,194,Flash,Heal,14,False,14365,11700,Doran's Blade,Vampiric Scepter,Rapid Firecannon,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,4150,141505,Lane.bot_lane,Role.carry
+3,DoubleSwaggLift,Lee Sin,True,Side.blue,10,5,11,4.2,89,Smite,Flash,14,False,11731,11550,Boots of Swiftness,Dead Man's Plate,Enchantment: Warrior,Hexdrinker,The Black Cleaver,Long Sword,15563,73051,Lane.jungle,Role.none
+4,TOP Pagoda,Ryze,True,Side.blue,4,3,19,7.666666666666667,220,Flash,Teleport,16,False,12995,11125,Seraph's Embrace,,Rylai's Crystal Scepter,Frozen Heart,Blasting Wand,Ionian Boots of Lucidity,132667,9471,Lane.top_lane,Role.solo
+5,Kamajii,Jhin,False,Side.red,2,7,4,0.8571428571428571,181,Flash,Heal,13,False,9087,8900,Doran's Blade,Infinity Edge,Essence Reaver,Boots of Swiftness,,,7541,94533,Lane.bot_lane,Role.carry
+6,Diostukos,Janna,False,Side.red,0,13,8,0.6153846153846154,10,Flash,Exhaust,11,False,6781,6675,Sightstone,Redemption,Ardent Censer,The Dark Seal,Spellthief's Edge,Boots of Speed,8091,2102,Lane.bot_lane,Role.support
+7,Azzam,Katarina,False,Side.red,13,12,1,1.1666666666666667,97,Flash,Ignite,13,False,10154,9775,The Dark Seal,Hextech Gunblade,Rylai's Crystal Scepter,Cloth Armor,Sorcerer's Shoes,Fiendish Codex,62831,10035,Lane.mid_lane,Role.solo
+8,dopas doge ,Shyvana,False,Side.red,4,8,6,1.25,138,Smite,Exhaust,14,True,9805,9283,Refillable Potion,Enchantment: Bloodrazor,Mercury's Treads,Trinity Force,Tiamat,Ruby Crystal,58480,66571,Lane.jungle,Role.none
+9,Peach Nayeon,Gangplank,False,Side.red,2,7,6,1.1428571428571428,175,Exhaust,Flash,14,False,10510,9783,Trinity Force,Youmuu's Ghostblade,Control Ward,Cloak of Agility,B. F. Sword,Boots of Speed,12615,120480,Lane.top_lane,Role.solo

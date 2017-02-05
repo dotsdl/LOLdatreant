@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,HelIo Im Jess,Kayle,True,Side.blue,1,1,0,1.0,78,Teleport,Flash,8,False,4002,2950,Doran's Ring,Refillable Potion,Stinger,Fiendish Codex,Boots of Speed,,18637,11283,Lane.top_lane,Role.solo
+1,Crooke,Fizz,True,Side.blue,1,1,1,2.0,60,Flash,Ignite,7,False,3905,3050,Corrupting Potion,The Dark Seal,Boots of Speed,Sheen,Aether Wisp,,14964,8956,Lane.mid_lane,Role.solo
+2,smallfry,Vayne,True,Side.blue,1,0,2,3.0,69,Flash,Heal,7,False,4184,1875,Doran's Blade,Total Biscuit of Rejuvenation,,B. F. Sword,,,0,21584,Lane.bot_lane,Role.duo
+3,HotColdCurry,Thresh,True,Side.blue,1,0,2,3.0,16,Flash,Ignite,6,False,3630,3075,Relic Shield,,Ruby Sightstone,Boots of Mobility,,,3776,4540,Lane.bot_lane,Role.duo
+4,BloodSweatnTears,Xin Zhao,True,Side.blue,1,0,0,1.0,41,Smite,Flash,6,True,4125,3425,Refillable Potion,Enchantment: Bloodrazor,Long Sword,,,Boots of Speed,1871,31380,Lane.jungle,Role.none
+5,WatchThePower,Nunu,False,Side.red,1,1,0,1.0,70,Flash,Smite,8,False,3863,2250,Skirmisher's Sabre,Refillable Potion,Boots of Speed,Ruby Crystal,Ruby Crystal,,4336,20820,Lane.jungle,Role.none
+6,Typos,Caitlyn,False,Side.red,0,1,0,0.0,62,Flash,Heal,7,False,2943,2300,Doran's Blade,Cull,Total Biscuit of Rejuvenation,B. F. Sword,,,126,22624,Lane.bot_lane,Role.solo
+7,sunny duet,Soraka,False,Side.red,0,1,0,0.0,2,Exhaust,Flash,4,False,1812,500,Ancient Coin,Total Biscuit of Rejuvenation,,,,,1658,478,Lane.jungle,Role.none
+8,Dank God 420 ,Corki,False,Side.red,0,1,0,0.0,26,Ignite,Flash,5,False,2197,1800,Doran's Blade,Total Biscuit of Rejuvenation,Phage,,,,7136,4337,Lane.mid_lane,Role.solo
+9,DreadJoker99,Nautilus,False,Side.red,0,1,1,1.0,71,Flash,Teleport,8,False,3268,1320,Doran's Ring,Negatron Cloak,Health Potion,,,,20143,7396,Lane.top_lane,Role.solo

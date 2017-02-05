@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Révenge,Riven,True,Side.blue,11,1,7,18.0,138,Teleport,Flash,13,False,10505,9025,The Black Cleaver,Death's Dance,Refillable Potion,Pickaxe,Mercury's Treads,,0,99891,Lane.top_lane,Role.solo
+1,amumumu,Soraka,True,Side.blue,3,2,17,10.0,18,Flash,Exhaust,11,False,8093,6900,Total Biscuit of Rejuvenation,Talisman of Ascension,Redemption,Ionian Boots of Lucidity,Mejai's Soulstealer,,21315,4855,Lane.bot_lane,Role.support
+2,KillerUnit,Elise,True,Side.blue,8,2,7,7.5,82,Smite,Flash,12,True,9477,7035,Hextech Protobelt-01,Refillable Potion,The Dark Seal,Boots of Mobility,Enchantment: Runic Echoes,Amplifying Tome,74564,23173,Lane.jungle,Role.none
+3,Waker,Ahri,True,Side.blue,7,1,2,9.0,150,Ignite,Flash,13,False,9446,8200,Control Ward,Hextech Gunblade,Sorcerer's Shoes,Morellonomicon,Doran's Ring,,48018,14188,Lane.mid_lane,Role.solo
+4,Link,Vayne,True,Side.blue,2,3,8,3.3333333333333335,172,Flash,Heal,12,False,8651,7250,,Boots of Speed,Doran's Blade,Rapid Firecannon,B. F. Sword,Phantom Dancer,798,67193,Lane.bot_lane,Role.carry
+5,Niles,Yasuo,False,Side.red,3,7,4,1.0,128,Flash,Exhaust,11,False,7004,6875,Berserker's Greaves,Statikk Shiv,B. F. Sword,Doran's Blade,Cloak of Agility,,23824,46524,Lane.mid_lane,Role.solo
+6,Rhux,Caitlyn,False,Side.red,2,3,3,1.6666666666666667,128,Flash,Heal,10,False,6644,6100,Pickaxe,Doran's Blade,Cloak of Agility,B. F. Sword,Berserker's Greaves,Zeal,1115,64877,Lane.bot_lane,Role.carry
+7,BmxSpecks,Lee Sin,False,Side.red,4,6,3,1.1666666666666667,121,Flash,Smite,11,False,7267,6885,Giant's Belt,Tiamat,Enchantment: Warrior,Refillable Potion,Ionian Boots of Lucidity,Chain Vest,13070,66412,Lane.jungle,Role.none
+8,Paxton,Sona,False,Side.red,0,5,2,0.4,3,Flash,Exhaust,8,False,4385,4125,Frostfang,Ninja Tabi,Crystalline Bracer,Sightstone,Faerie Charm,Faerie Charm,5919,1880,Lane.bot_lane,Role.support
+9,Yami,Rumble,False,Side.red,0,10,1,0.1,107,Flash,Teleport,10,False,5345,5185,Doran's Shield,Haunting Guise,Sorcerer's Shoes,Amplifying Tome,Needlessly Large Rod,,46643,9446,Lane.top_lane,Role.solo

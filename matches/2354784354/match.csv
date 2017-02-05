@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vincente Vu,Ashe,False,Side.blue,2,5,5,1.4,214,Flash,Heal,14,False,9976,9525,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,Doran's Blade,1902,106967,Lane.bot_lane,Role.carry
+1,cute pupper irl,Bard,False,Side.blue,1,5,6,1.4,21,Flash,Ignite,11,False,7009,6450,Boots of Mobility,Eye of the Watchers,Control Ward,Redemption,Cloth Armor,,11682,2745,Lane.bot_lane,Role.support
+2,Ssita O  3 O,Talon,False,Side.blue,3,6,2,0.8333333333333334,174,Flash,Teleport,13,False,9520,8725,Ionian Boots of Lucidity,Youmuu's Ghostblade,Duskblade of Draktharr,Corrupting Potion,Serrated Dirk,,986,110951,Lane.top_lane,Role.solo
+3,PrismaI,Corki,False,Side.blue,3,4,2,1.25,195,Flash,Exhaust,13,False,9688,9183,Corrupting Potion,Hextech Gunblade,Trinity Force,,Sorcerer's Shoes,Dagger,98552,21151,Lane.mid_lane,Role.solo
+4,High IQ and APM,Lee Sin,False,Side.blue,3,4,5,2.0,156,Flash,Smite,14,False,10082,10245,Tiamat,Enchantment: Warrior,Sightstone,Mercury's Treads,Dead Man's Plate,Giant's Belt,20265,112030,Lane.jungle,Role.none
+5,mulgokizary,Poppy,True,Side.red,5,1,9,14.0,145,Smite,Flash,15,False,11775,11575,Spirit Visage,Enchantment: Cinderhulk,Aegis of the Legion,Ninja Tabi,Dead Man's Plate,Null-Magic Mantle,27045,104512,Lane.jungle,Role.none
+6,Doublelift,Caitlyn,True,Side.red,7,2,9,8.0,274,Flash,Heal,16,False,14776,10525,Doran's Blade,Infinity Edge,Runaan's Hurricane,Rapid Firecannon,Berserker's Greaves,,4892,221394,Lane.bot_lane,Role.carry
+7,Ntz dOdObee,Karma,True,Side.red,7,1,9,16.0,187,Ignite,Flash,15,False,12090,8650,Doran's Ring,Sorcerer's Shoes,Control Ward,Rabadon's Deathcap,Forbidden Idol,Athene's Unholy Grail,85304,16834,Lane.mid_lane,Role.solo
+8,Maxtrobo,Rumble,True,Side.red,3,5,8,2.2,216,Flash,Teleport,15,False,11910,9260,Doran's Shield,Zhonya's Hourglass,Liandry's Torment,Sorcerer's Shoes,Amplifying Tome,Blasting Wand,131401,14683,Lane.top_lane,Role.solo
+9,Wintrader Vulcan,Nami,True,Side.red,2,3,15,5.666666666666667,23,Flash,Exhaust,13,True,9715,8350,Locket of the Iron Solari,Eye of the Watchers,Redemption,Control Ward,Boots of Mobility,,7608,7566,Lane.bot_lane,Role.support

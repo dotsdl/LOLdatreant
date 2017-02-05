@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,TwTv Kinoscorpia,Lissandra,True,Side.blue,2,1,3,5.0,168,Teleport,Flash,13,False,8708,7785,Doran's Ring,Abyssal Scepter,Sorcerer's Shoes,Rod of Ages,Amplifying Tome,,80810,11304,Lane.top_lane,Role.solo
+1,Olympiens,Yasuo,True,Side.blue,1,2,2,1.5,181,Flash,Ignite,13,False,8375,8250,Doran's Blade,Ninja Tabi,B. F. Sword,Hexdrinker,Statikk Shiv,Cloak of Agility,30348,63367,Lane.mid_lane,Role.solo
+2,Hakuho,Lulu,True,Side.blue,1,0,3,4.0,9,Exhaust,Flash,10,False,6688,5950,Eye of the Watchers,Ardent Censer,,Ionian Boots of Lucidity,,,9669,4554,Lane.bot_lane,Role.support
+3,Cody Sun,Twitch,True,Side.blue,1,1,1,2.0,156,Heal,Flash,11,False,8244,7425,Pickaxe,Runaan's Hurricane,B. F. Sword,Berserker's Greaves,Cloak of Agility,Doran's Blade,1825,76126,Lane.bot_lane,Role.carry
+4,Prestivent,Lee Sin,True,Side.blue,7,3,3,3.3333333333333335,108,Flash,Smite,13,False,9323,9275,Maw of Malmortius,Tiamat,Mercury's Treads,Control Ward,Chain Vest,Enchantment: Warrior,12254,91912,Lane.jungle,Role.none
+5,Vincente Vu,Vayne,False,Side.red,1,3,1,0.6666666666666666,128,Flash,Heal,10,False,6450,5850,Boots of Speed,B. F. Sword,Pickaxe,Statikk Shiv,,Doran's Blade,9783,37919,Lane.bot_lane,Role.carry
+6,Yusui,Elise,False,Side.red,4,0,1,5.0,85,Smite,Flash,11,True,6971,6075,Enchantment: Runic Echoes,,Ionian Boots of Lucidity,Needlessly Large Rod,Giant's Belt,,53925,22810,Lane.jungle,Role.none
+7,Vincent Mark,Syndra,False,Side.red,1,5,2,0.6,157,Flash,Ghost,12,False,6803,6535,Doran's Ring,Sorcerer's Shoes,Giant's Belt,Morellonomicon,Total Biscuit of Rejuvenation,Amplifying Tome,75184,9907,Lane.mid_lane,Role.solo
+8,Flaresz,Janna,False,Side.red,0,1,2,2.0,11,Flash,Exhaust,8,False,4477,3950,Eye of the Oasis,,,Boots of Swiftness,Ruby Crystal,,3163,3056,Lane.bot_lane,Role.support
+9,Révenge,Riven,False,Side.red,1,3,2,1.0,167,Teleport,Flash,12,False,7007,6650,Maw of Malmortius,Refillable Potion,Mercury's Treads,Caulfield's Warhammer,Long Sword,Ruby Crystal,0,84065,Lane.top_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Vchee,Malzahar,True,Side.blue,3,7,8,1.5714285714285714,134,Teleport,Flash,13,False,9257,9085,Doran's Ring,Rylai's Crystal Scepter,Ionian Boots of Lucidity,Morellonomicon,Amplifying Tome,Ruby Crystal,63031,22090,Lane.mid_lane,Role.solo
+1,Gamer Girl,Jinx,True,Side.blue,5,6,12,2.8333333333333335,167,Flash,Heal,13,False,11110,8550,Berserker's Greaves,Doran's Blade,Runaan's Hurricane,Infinity Edge,Dagger,Brawler's Gloves,1528,108963,Lane.bot_lane,Role.carry
+2,C9 Meteos,Elise,True,Side.blue,13,1,5,18.0,135,Smite,Flash,15,True,13665,11260,Enchantment: Runic Echoes,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Fiendish Codex,Abyssal Scepter,Amplifying Tome,118986,34747,Lane.jungle,Role.none
+3,Liquid Painless,Karma,True,Side.blue,3,2,13,8.0,12,Flash,Ignite,12,False,8619,7100,Forbidden Idol,Eye of the Watchers,Ionian Boots of Lucidity,,Control Ward,Locket of the Iron Solari,11953,3734,Lane.bot_lane,Role.support
+4,1936 1948,Trundle,True,Side.blue,5,2,11,8.0,145,Teleport,Flash,14,False,10701,9250,Titanic Hydra,Cloth Armor,Spirit Visage,,Vampiric Scepter,Ninja Tabi,2800,73859,Lane.top_lane,Role.solo
+5,Dyrus,Azir,False,Side.red,1,10,3,0.4,130,Teleport,Flash,11,False,7733,7300,Doran's Ring,Needlessly Large Rod,Giant's Belt,Doran's Ring,Nashor's Tooth,Sorcerer's Shoes,70279,7012,Lane.top_lane,Role.solo
+6,Winter is back,Lee Sin,False,Side.red,4,8,8,1.5,79,Flash,Smite,12,False,8291,8475,Boots of Swiftness,Spirit Visage,Cloth Armor,Enchantment: Cinderhulk,,Tiamat,15624,64265,Lane.jungle,Role.none
+7,Pocket Rhino,Thresh,False,Side.red,1,4,10,2.75,33,Flash,Ignite,11,False,6451,6275,Refillable Potion,Face of the Mountain,Ruby Sightstone,Control Ward,Boots of Mobility,Crystalline Bracer,10603,6075,Lane.bot_lane,Role.support
+8,Boyfriend,Caitlyn,False,Side.red,5,3,9,4.666666666666667,179,Flash,Heal,13,False,10016,9725,Doran's Blade,Infinity Edge,Berserker's Greaves,Runaan's Hurricane,Dagger,Quicksilver Sash,353,113573,Lane.bot_lane,Role.carry
+9,Deft Pawn,Ryze,False,Side.red,7,4,5,3.0,194,Ghost,Flash,14,False,10732,9460,Quicksilver Sash,Rod of Ages,Abyssal Scepter,Ionian Boots of Lucidity,Blasting Wand,Tear of the Goddess,129163,9770,Lane.mid_lane,Role.solo

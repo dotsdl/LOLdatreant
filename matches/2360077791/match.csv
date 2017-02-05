@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Aurath,Zilean,True,Side.blue,4,2,5,4.5,35,Exhaust,Flash,12,False,8541,7000,Sightstone,Tear of the Goddess,Spellthief's Edge,Ninja Tabi,Morellonomicon,Fiendish Codex,29778,3304,Lane.bot_lane,Role.support
+1,Subi,Vayne,True,Side.blue,2,4,7,2.25,215,Heal,Flash,14,False,10647,9625,Doran's Blade,Infinity Edge,Statikk Shiv,Berserker's Greaves,Dagger,Quicksilver Sash,33864,93706,Lane.bot_lane,Role.carry
+2,SNSD Sunnny,Swain,True,Side.blue,13,0,7,20.0,267,Ignite,Flash,16,False,14872,12725,Sorcerer's Shoes,Rod of Ages,Rylai's Crystal Scepter,Haunting Guise,Zhonya's Hourglass,Doran's Ring,130410,20146,Lane.mid_lane,Role.solo
+3,Loopsers,Ivern,True,Side.blue,1,4,18,4.75,85,Smite,Flash,14,False,9940,9200,Hunter's Talisman,Ionian Boots of Lucidity,Hextech Protobelt-01,Rylai's Crystal Scepter,Athene's Unholy Grail,,21083,11626,Lane.jungle,Role.none
+4,Goooshlrific,Malphite,True,Side.blue,8,3,10,6.0,125,Teleport,Flash,13,True,10797,9800,Sunfire Cape,Redemption,Corrupting Potion,Spirit Visage,Ruby Crystal,Ninja Tabi,56694,34025,Lane.top_lane,Role.solo
+5,coldrain evening,Vi,False,Side.red,4,7,1,0.7142857142857143,165,Smite,Flash,14,False,10519,9425,Enchantment: Warrior,Hunter's Potion,Boots of Swiftness,The Black Cleaver,Guardian Angel,,2818,159228,Lane.jungle,Role.none
+6,Bête Noire,Ahri,False,Side.red,4,3,4,2.6666666666666665,162,Ignite,Flash,14,False,8933,8135,Doran's Ring,Morellonomicon,Sorcerer's Shoes,Luden's Echo,Amplifying Tome,,64246,9450,Lane.mid_lane,Role.solo
+7,QzzzzzzQ,Twitch,False,Side.red,2,6,9,1.8333333333333333,182,Flash,Heal,13,False,9816,9250,Infinity Edge,Cull,Runaan's Hurricane,Berserker's Greaves,,Doran's Blade,0,85873,Lane.bot_lane,Role.duo
+8,MrMagoo35,Morgana,False,Side.red,3,4,5,2.0,71,Ignite,Flash,13,False,8788,8035,Frost Queen's Claim,Zhonya's Hourglass,Sightstone,Ionian Boots of Lucidity,Amplifying Tome,,47069,6580,Lane.bot_lane,Role.duo
+9,I Shadow I,Nasus,False,Side.red,0,8,4,0.5,202,Flash,Teleport,14,False,8966,8900,Glacial Shroud,Kindlegem,Sheen,Mercury's Treads,Spectre's Cowl,Zz'Rot Portal,80814,36001,Lane.top_lane,Role.solo

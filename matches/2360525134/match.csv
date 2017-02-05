@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,WatchThePower,Sivir,False,Side.blue,7,9,4,1.2222222222222223,195,Flash,Heal,13,False,11144,10550,Doran's Blade,B. F. Sword,Berserker's Greaves,Cloak of Agility,Essence Reaver,Phantom Dancer,0,104998,Lane.bot_lane,Role.carry
+1,Samycopter,Jarvan IV,False,Side.blue,0,6,10,1.6666666666666667,43,Flash,Exhaust,12,False,7219,6375,Targon's Brace,Mercury's Treads,Sightstone,Knight's Vow,Kindlegem,,4339,16508,Lane.bot_lane,Role.support
+2,ScYx17,Vi,False,Side.blue,10,7,2,1.7142857142857142,167,Smite,Flash,15,False,11687,10708,Enchantment: Warrior,Ninja Tabi,Trinity Force,Giant's Belt,Hexdrinker,Chain Vest,3507,134394,Lane.jungle,Role.none
+3,Sungmin Kim,Nautilus,False,Side.blue,1,8,6,0.875,121,Teleport,Flash,12,False,7753,7250,Corrupting Potion,Spirit Visage,Sunfire Cape,Boots of Swiftness,,,61023,15318,Lane.top_lane,Role.solo
+4,Vicktorious,Lux,False,Side.blue,2,7,3,0.7142857142857143,163,Flash,Ghost,13,False,8423,7700,Doran's Ring,,,Luden's Echo,Morellonomicon,Sorcerer's Shoes,85427,14209,Lane.mid_lane,Role.solo
+5,UnbearableBear,Volibear,True,Side.red,13,3,5,6.0,130,Smite,Ghost,15,True,13021,10175,Enchantment: Cinderhulk,Dead Man's Plate,,Cloth Armor,Spirit Visage,Mercury's Treads,53090,67090,Lane.jungle,Role.none
+6,Bearzy,Maokai,True,Side.red,1,6,17,3.0,154,Teleport,Flash,15,False,10305,8775,Spirit Visage,Bami's Cinder,Corrupting Potion,Mercury's Treads,Guardian Angel,Chain Vest,74631,17146,Lane.top_lane,Role.solo
+7,Violent Magician,Vayne,True,Side.red,10,5,12,4.4,168,Flash,Heal,15,False,13338,11850,Doran's Blade,Statikk Shiv,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Last Whisper,23159,105933,Lane.bot_lane,Role.carry
+8,Dali Van Picaso,Vladimir,True,Side.red,11,0,8,19.0,217,Ghost,Flash,16,False,13758,9825,Hextech Protobelt-01,Doran's Shield,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Void Staff,,128861,21012,Lane.mid_lane,Role.solo
+9,i Hoonsama,Morgana,True,Side.red,2,6,18,3.3333333333333335,16,Flash,Exhaust,13,False,9538,8150,Frost Queen's Claim,Zhonya's Hourglass,Sightstone,Control Ward,Boots of Swiftness,Crystalline Bracer,20406,5271,Lane.bot_lane,Role.support

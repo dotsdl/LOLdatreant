@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Grande Donger,Taric,True,Side.blue,0,0,0,0.0,2,Flash,Exhaust,2,False,760,500,Relic Shield,,,,,,419,866,Lane.bot_lane,Role.duo
+1,Miracle Kid,Vayne,True,Side.blue,0,0,0,0.0,12,Heal,Flash,2,False,877,500,Doran's Blade,,,,,,0,3084,Lane.bot_lane,Role.duo
+2,U LoZe,Teemo,True,Side.blue,0,0,0,0.0,15,Flash,Ghost,3,False,950,500,The Dark Seal,,Health Potion,,,,632,1283,Lane.top_lane,Role.solo
+3,00Donger,Hecarim,True,Side.blue,0,0,0,0.0,12,Smite,Ghost,3,False,1009,500,Hunter's Talisman,Refillable Potion,,,,,574,4551,Lane.jungle,Role.none
+4,Inazur,Syndra,True,Side.blue,0,0,0,0.0,14,Ghost,Flash,3,False,908,500,Doran's Ring,Health Potion,,,,,1720,1688,Lane.mid_lane,Role.solo
+5,Bros0verHoes,Renekton,False,Side.red,0,0,0,0.0,0,Flash,Teleport,1,False,649,0,,,,,,,0,0,Lane.mid_lane,Role.duo
+6,Jim Chen,Twitch,False,Side.red,0,0,0,0.0,12,Flash,Heal,2,False,871,500,Doran's Blade,,,,,,0,2958,Lane.bot_lane,Role.duo
+7,Carpe Dio,Karthus,False,Side.red,0,0,0,0.0,8,Flash,Exhaust,3,False,825,500,Doran's Ring,Total Biscuit of Rejuvenation,,,,,1763,547,Lane.mid_lane,Role.duo
+8,Necrobucher,Shaco,False,Side.red,0,0,0,0.0,8,Ignite,Smite,4,False,1069,500,Refillable Potion,Hunter's Machete,,,,,4000,4139,Lane.jungle,Role.none
+9,BigNick is back,Janna,False,Side.red,0,0,0,0.0,0,Exhaust,Flash,2,False,778,500,Spellthief's Edge,Total Biscuit of Rejuvenation,,,,,128,747,Lane.bot_lane,Role.duo

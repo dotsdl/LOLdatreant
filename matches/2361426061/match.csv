@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Greg Focker,Thresh,False,Side.blue,3,10,18,2.1,29,Ignite,Flash,12,False,8000,7650,Mikael's Crucible,Locket of the Iron Solari,Sightstone,Ionian Boots of Lucidity,Targon's Brace,Ruby Crystal,12886,5882,Lane.bot_lane,Role.support
+1,archona,Quinn,False,Side.blue,7,7,12,2.7142857142857144,156,Smite,Flash,15,False,11008,10575,Youmuu's Ghostblade,Phantom Dancer,,Hexdrinker,Boots of Swiftness,Enchantment: Warrior,3941,113998,Lane.jungle,Role.none
+2,Anthøny,Katarina,False,Side.blue,0,5,2,0.4,41,Ignite,Flash,10,False,5989,5500,Ruby Crystal,Hextech Gunblade,Sorcerer's Shoes,The Dark Seal,,,26302,3564,Lane.mid_lane,Role.solo
+3,jxwudi123haha,Ashe,False,Side.blue,11,7,10,3.0,110,Heal,Flash,14,False,10569,10250,Doran's Blade,Essence Reaver,Quicksilver Sash,Berserker's Greaves,Runaan's Hurricane,Vampiric Scepter,2144,81356,Lane.bot_lane,Role.carry
+4,Blazinhot,Kayle,False,Side.blue,8,4,5,3.25,228,Teleport,Flash,15,False,11612,10175,Hextech Gunblade,Doran's Ring,Nashor's Tooth,Mercury's Treads,Pickaxe,Recurve Bow,101882,42101,Lane.top_lane,Role.solo
+5,ForFearOfGrendel,Tristana,True,Side.red,14,4,5,4.75,216,Flash,Heal,16,False,16210,11950,Berserker's Greaves,Infinity Edge,Statikk Shiv,Runaan's Hurricane,Vampiric Scepter,Doran's Blade,49765,134325,Lane.bot_lane,Role.carry
+6,SB IAttack,Ivern,True,Side.red,7,5,6,2.6,78,Flash,Smite,13,False,10921,9550,Enchantment: Runic Echoes,Randuin's Omen,Kindlegem,Ionian Boots of Lucidity,Redemption,,12210,8081,Lane.jungle,Role.none
+7,xZaknafein,Anivia,True,Side.red,7,7,8,2.142857142857143,183,Flash,Teleport,15,True,13260,12060,Doran's Ring,Rod of Ages,Archangel's Staff,Rabadon's Deathcap,Ionian Boots of Lucidity,Amplifying Tome,121074,10233,Lane.mid_lane,Role.solo
+8,Dulc3t,Janna,True,Side.red,2,7,15,2.4285714285714284,5,Flash,Exhaust,13,False,9500,9250,Talisman of Ascension,Redemption,Boots of Mobility,Sightstone,Locket of the Iron Solari,Null-Magic Mantle,7299,5446,Lane.bot_lane,Role.support
+9,Shaohong RED,Poppy,True,Side.red,3,6,3,1.0,128,Flash,Teleport,14,False,10060,7620,Boots of Swiftness,Sunfire Cape,Banshee's Veil,Negatron Cloak,,,23553,43650,Lane.top_lane,Role.solo

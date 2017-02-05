@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Celend,Viktor,False,Side.blue,8,8,6,1.75,163,Flash,Ghost,14,False,10271,9250,Ionian Boots of Lucidity,Doran's Ring,Blasting Wand,Perfect Hex Core,Doran's Ring,Rylai's Crystal Scepter,87937,7600,Lane.mid_lane,Role.solo
+1,Shamoo,Brand,False,Side.blue,1,9,9,1.1111111111111112,19,Flash,Ignite,11,False,7152,6475,Boots of Speed,Rylai's Crystal Scepter,Eye of the Watchers,Control Ward,,,24036,2731,Lane.bot_lane,Role.support
+2,Hanjaro,Jhin,False,Side.blue,4,7,8,1.7142857142857142,147,Flash,Heal,13,False,9454,9000,Doran's Blade,Essence Reaver,Infinity Edge,Boots of Swiftness,Dagger,,7558,97162,Lane.bot_lane,Role.carry
+3,amumumu,Amumu,False,Side.blue,1,8,7,1.0,98,Flash,Smite,12,False,7935,7475,Enchantment: Runic Echoes,Hunter's Potion,Rylai's Crystal Scepter,Ninja Tabi,,,69198,22314,Lane.jungle,Role.none
+4,youtube Raskia,Akali,False,Side.blue,8,10,3,1.1,98,Flash,Ignite,13,False,8907,8785,Hextech Gunblade,Mercury's Treads,Giant's Belt,Seeker's Armguard,Amplifying Tome,Needlessly Large Rod,22149,45338,Lane.top_lane,Role.solo
+5,cackgod,Orianna,True,Side.red,6,4,5,2.75,167,Cleanse,Flash,14,True,11870,11055,Rabadon's Deathcap,Fiendish Codex,Negatron Cloak,Amplifying Tome,Morellonomicon,Sorcerer's Shoes,102159,17141,Lane.mid_lane,Role.solo
+6,Hyosung,Rek'Sai,True,Side.red,15,3,10,8.333333333333334,166,Flash,Smite,16,False,14494,14325,Spirit Visage,Titanic Hydra,Enchantment: Cinderhulk,Mercury's Treads,Phage,Dead Man's Plate,26312,120073,Lane.jungle,Role.none
+7,Williams,Karma,True,Side.red,1,5,19,4.0,5,Flash,Exhaust,13,False,8828,7475,Control Ward,Redemption,Eye of the Watchers,Ionian Boots of Lucidity,Chalice of Harmony,Forbidden Idol,14161,5005,Lane.bot_lane,Role.support
+8,SoloMeatballOnly,Renekton,True,Side.red,5,5,6,2.2,167,Ignite,Flash,14,False,10772,10175,The Black Cleaver,Locket of the Iron Solari,Titanic Hydra,Mercury's Treads,,,3237,99617,Lane.top_lane,Role.solo
+9,Ballsagna,Vayne,True,Side.red,15,5,5,4.0,165,Flash,Heal,14,False,13830,11850,Doran's Blade,Statikk Shiv,Infinity Edge,Vampiric Scepter,Berserker's Greaves,Phantom Dancer,26965,79835,Lane.bot_lane,Role.carry

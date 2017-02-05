@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Huw,Janna,False,Side.blue,1,5,14,3.0,40,Exhaust,Flash,13,False,8137,7675,Talisman of Ascension,Sightstone,Redemption,,Boots of Mobility,Aegis of the Legion,10204,8605,Lane.bot_lane,Role.support
+1,Årcee,Twitch,False,Side.blue,3,9,9,1.3333333333333333,214,Heal,Flash,14,False,10683,10025,Doran's Blade,,Runaan's Hurricane,Zeal,Berserker's Greaves,Infinity Edge,0,137111,Lane.bot_lane,Role.carry
+2,kok on his face,Fizz,False,Side.blue,6,10,8,1.4,143,Teleport,Ignite,14,False,10477,9533,Sunfire Cape,Trinity Force,Corrupting Potion,Ninja Tabi,Cloth Armor,Recurve Bow,59877,31005,Lane.top_lane,Role.solo
+3,HvK LiquidDiego,Zac,False,Side.blue,7,6,14,3.5,145,Flash,Smite,15,False,11464,10550,Chain Vest,Refillable Potion,Randuin's Omen,Ionian Boots of Lucidity,Spirit Visage,Enchantment: Cinderhulk,110159,25209,Lane.jungle,Role.none
+4,Shrew,Aurelion Sol,False,Side.blue,5,4,8,3.25,247,Flash,Ghost,16,False,12310,11775,Hextech GLP-800,Corrupting Potion,Zhonya's Hourglass,Boots of Swiftness,Rylai's Crystal Scepter,Blasting Wand,176992,13259,Lane.mid_lane,Role.solo
+5,Egregious King,Tryndamere,True,Side.red,10,4,5,3.75,234,Ignite,Flash,18,True,15127,14900,,Blade of the Ruined King,Guinsoo's Rageblade,Mercury's Treads,Phantom Dancer,Infinity Edge,10116,201604,Lane.top_lane,Role.solo
+6,NiMura,Rengar,True,Side.red,6,6,9,2.5,152,Flash,Smite,16,False,13088,12375,Youmuu's Ghostblade,Duskblade of Draktharr,Last Whisper,Enchantment: Warrior,Pickaxe,Boots of Swiftness,17753,156645,Lane.jungle,Role.none
+7,Pekin Woof,Jhin,True,Side.red,7,4,7,3.5,248,Flash,Heal,16,False,14042,12900,Infinity Edge,Rapid Firecannon,Last Whisper,Essence Reaver,Ionian Boots of Lucidity,,7200,167980,Lane.bot_lane,Role.carry
+8,Ntz dOdObee,Thresh,True,Side.red,2,5,15,3.4,32,Ignite,Flash,14,False,9922,9150,Locket of the Iron Solari,Spectre's Cowl,Ruby Sightstone,Knight's Vow,,Boots of Mobility,11925,5920,Lane.bot_lane,Role.support
+9,TwitchChunkylol,Lissandra,True,Side.red,9,4,10,4.75,218,Ignite,Flash,17,False,14784,11975,Zhonya's Hourglass,Morellonomicon,Sorcerer's Shoes,Doran's Ring,Abyssal Scepter,Needlessly Large Rod,155642,10945,Lane.mid_lane,Role.solo

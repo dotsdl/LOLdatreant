@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Hyperiun,Ezreal,False,Side.blue,2,10,9,1.1,166,Heal,Flash,13,False,9068,8425,Iceborn Gauntlet,Manamune,Bilgewater Cutlass,Ionian Boots of Lucidity,Dagger,Doran's Blade,27078,76797,Lane.bot_lane,Role.carry
+1,Aideren,Bard,False,Side.blue,6,7,8,2.0,16,Flash,Ignite,12,False,8634,7600,Crystalline Bracer,Zz'Rot Portal,Eye of the Watchers,Forbidden Idol,,Boots of Mobility,19139,6617,Lane.bot_lane,Role.support
+2,Susanowo,Vi,False,Side.blue,2,12,8,0.8333333333333334,66,Flash,Smite,12,False,8150,7833,Refillable Potion,,,Trinity Force,Enchantment: Warrior,Mercury's Treads,1837,74535,Lane.jungle,Role.none
+3,Farefars World,Annie,False,Side.blue,9,8,9,2.25,125,Flash,Ignite,13,False,10315,9585,Doran's Ring,Abyssal Scepter,Rabadon's Deathcap,Amplifying Tome,Sorcerer's Shoes,Blasting Wand,68312,8377,Lane.mid_lane,Role.solo
+4,TheBolvar,Trundle,False,Side.blue,4,5,3,1.4,219,Flash,Teleport,15,False,10200,9675,Corrupting Potion,Titanic Hydra,Giant's Belt,Iceborn Gauntlet,Ninja Tabi,Chain Vest,3621,104861,Lane.top_lane,Role.solo
+5,l Spawn l,Varus,True,Side.red,16,4,13,7.25,198,Flash,Heal,15,False,15962,13800,Quicksilver Sash,Essence Reaver,Infinity Edge,Vampiric Scepter,Ionian Boots of Lucidity,Runaan's Hurricane,6702,145964,Lane.bot_lane,Role.carry
+6,WatchThePower,Lee Sin,True,Side.red,11,6,7,3.0,92,Flash,Smite,14,False,12280,12050,Enchantment: Warrior,Dead Man's Plate,Control Ward,The Black Cleaver,Mercury's Treads,Hexdrinker,16946,104088,Lane.jungle,Role.none
+7,3in1warrior,Renekton,True,Side.red,4,2,4,4.0,205,Flash,Ghost,15,False,11892,8675,Ninja Tabi,Refillable Potion,Blade of the Ruined King,The Black Cleaver,Long Sword,Long Sword,8014,151043,Lane.top_lane,Role.solo
+8,Extempted,Orianna,True,Side.red,10,5,11,4.2,160,Ignite,Flash,15,True,13148,9950,Doran's Ring,Morellonomicon,Doran's Ring,Boots of Speed,Rylai's Crystal Scepter,Void Staff,112284,18235,Lane.mid_lane,Role.solo
+9,BigPickle11,Maokai,True,Side.red,1,6,28,4.833333333333333,33,Flash,Exhaust,13,False,9753,7950,Sightstone,Zz'Rot Portal,Dead Man's Plate,,Boots of Mobility,Relic Shield,26864,9414,Lane.bot_lane,Role.support

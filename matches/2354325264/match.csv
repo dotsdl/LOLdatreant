@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Carrots2,Galio,True,Side.blue,7,2,13,10.0,310,Flash,Teleport,17,False,15613,14560,Zz'Rot Portal,Amplifying Tome,Rod of Ages,Abyssal Scepter,Void Staff,Ionian Boots of Lucidity,197323,20208,Lane.mid_lane,Role.solo
+1,Autumn Clouds,Maokai,True,Side.blue,8,5,5,2.6,186,Teleport,Flash,16,False,12421,10785,Doran's Ring,Banshee's Veil,Ninja Tabi,Spirit Visage,Doran's Ring,Sunfire Cape,101321,17345,Lane.top_lane,Role.solo
+2,Hochelaga,Evelynn,True,Side.blue,3,5,12,3.0,152,Flash,Smite,16,False,12349,10508,Mercury's Treads,Duskblade of Draktharr,Enchantment: Warrior,Trinity Force,,,76183,62340,Lane.jungle,Role.none
+3,Liquid fabbbyyy,Twitch,True,Side.blue,9,7,8,2.4285714285714284,196,Flash,Heal,15,False,14318,11400,,Cull,Berserker's Greaves,Runaan's Hurricane,Statikk Shiv,Infinity Edge,12258,139345,Lane.bot_lane,Role.carry
+4,Smoothie,Bard,True,Side.blue,0,6,20,3.3333333333333335,18,Flash,Exhaust,15,False,9314,7350,,Eye of the Watchers,Locket of the Iron Solari,Boots of Mobility,Crystalline Bracer,,17585,8846,Lane.bot_lane,Role.support
+5,Sheiden,Kennen,False,Side.red,2,7,4,0.8571428571428571,245,Teleport,Flash,15,False,11249,10775,Doran's Blade,Hextech Protobelt-01,Sorcerer's Shoes,Abyssal Scepter,Void Staff,Fiendish Codex,104822,28576,Lane.mid_lane,Role.solo
+6,impala tamer,Corki,False,Side.red,7,3,5,4.0,264,Heal,Flash,15,False,13670,13008,Quicksilver Sash,Trinity Force,Infinity Edge,Sorcerer's Shoes,Rapid Firecannon,Doran's Blade,131997,53526,Lane.bot_lane,Role.carry
+7,PieCakeLord,Irelia,False,Side.red,4,5,3,1.4,224,Teleport,Flash,15,False,11444,10768,Randuin's Omen,Refillable Potion,Hexdrinker,Long Sword,Mercury's Treads,Trinity Force,4048,97401,Lane.top_lane,Role.solo
+8,You all boosted,Elise,False,Side.red,11,6,8,3.1666666666666665,121,Flash,Smite,15,True,13322,12925,Enchantment: Runic Echoes,Banshee's Veil,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,Morellonomicon,118277,31808,Lane.jungle,Role.none
+9,Projekt Yasuo,Janna,False,Side.red,1,6,12,2.1666666666666665,18,Flash,Exhaust,12,False,8895,8550,Boots of Mobility,Talisman of Ascension,Redemption,Control Ward,Chalice of Harmony,Ruby Sightstone,7247,6251,Lane.bot_lane,Role.support

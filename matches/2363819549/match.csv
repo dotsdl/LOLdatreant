@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Im Jonny,Caitlyn,False,Side.blue,3,6,3,1.0,232,Flash,Heal,14,False,10998,10625,Doran's Blade,Runaan's Hurricane,Berserker's Greaves,Infinity Edge,Rapid Firecannon,,1287,141573,Lane.bot_lane,Role.carry
+1,D0NG0,Fizz,False,Side.blue,8,10,1,0.9,147,Ignite,Flash,14,False,10277,15500,Statikk Shiv,Phantom Dancer,Zeal,Boots of Speed,,,52792,25532,Lane.mid_lane,Role.solo
+2,Darmous,Poppy,False,Side.blue,0,7,3,0.42857142857142855,185,Flash,Teleport,15,False,8973,8395,Corrupting Potion,Spirit Visage,Mercury's Treads,Sunfire Cape,Negatron Cloak,Cloth Armor,26998,78398,Lane.top_lane,Role.solo
+3,Firé,Alistar,False,Side.blue,1,8,7,1.0,41,Ignite,Flash,12,False,7790,7625,Sightstone,Locket of the Iron Solari,Redemption,Targon's Brace,Boots of Mobility,,12559,7842,Lane.bot_lane,Role.support
+4,Ninjacrab,Kha'Zix,False,Side.blue,3,10,1,0.4,101,Flash,Smite,12,False,8803,7750,Youmuu's Ghostblade,Serrated Dirk,Ionian Boots of Lucidity,Enchantment: Warrior,,,3770,103032,Lane.jungle,Role.none
+5,Daarr,Rek'Sai,True,Side.red,16,4,16,8.0,208,Flash,Smite,18,True,17344,14075,Enchantment: Cinderhulk,Ninja Tabi,Titanic Hydra,Chain Vest,The Black Cleaver,Spirit Visage,49864,168902,Lane.jungle,Role.none
+6,Sophist Sage,Jhin,True,Side.red,14,4,7,5.25,228,Heal,Flash,16,False,14611,12450,Doran's Blade,Rapid Firecannon,Essence Reaver,Boots of Swiftness,Maw of Malmortius,B. F. Sword,6239,157117,Lane.bot_lane,Role.carry
+7,xxxxxwwwwwwxxxxx,Nautilus,True,Side.red,4,0,13,17.0,251,Teleport,Flash,17,False,13088,12820,Dead Man's Plate,Negatron Cloak,Mercury's Treads,Glacial Shroud,Sunfire Cape,Spirit Visage,129975,30163,Lane.top_lane,Role.solo
+8,rtz 1,Cassiopeia,True,Side.red,7,4,9,4.0,198,Flash,Ghost,16,False,13098,11175,Seraph's Embrace,Abyssal Scepter,Control Ward,Rylai's Crystal Scepter,Needlessly Large Rod,Doran's Ring,103854,7302,Lane.mid_lane,Role.solo
+9,Flexo,Janna,True,Side.red,0,3,26,8.666666666666666,10,Exhaust,Flash,14,False,9423,8375,Eye of the Oasis,Boots of Mobility,Locket of the Iron Solari,Redemption,Forbidden Idol,Faerie Charm,7178,4791,Lane.bot_lane,Role.support

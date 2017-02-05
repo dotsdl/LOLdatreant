@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Ganad0s,Jayce,False,Side.blue,8,5,9,3.4,232,Ignite,Flash,16,False,12999,11825,Doran's Blade,Mercury's Treads,Youmuu's Ghostblade,The Black Cleaver,Maw of Malmortius,,16424,124784,Lane.mid_lane,Role.solo
+1,The Clark,Lee Sin,False,Side.blue,4,10,8,1.2,135,Flash,Smite,15,False,10864,9975,Randuin's Omen,,Enchantment: Warrior,Ninja Tabi,Dead Man's Plate,Cloth Armor,19904,91139,Lane.jungle,Role.none
+2,Åmber,Lux,False,Side.blue,4,10,15,1.9,60,Exhaust,Flash,15,False,10685,10625,Sightstone,Frost Queen's Claim,Luden's Echo,Morellonomicon,,Sorcerer's Shoes,64192,7063,Lane.bot_lane,Role.support
+3,Sallyzar,Singed,False,Side.blue,3,7,11,2.0,209,Ghost,Teleport,16,True,11129,11125,The Dark Seal,Sunfire Cape,Rod of Ages,Mercury's Treads,Thornmail,Cloth Armor,112940,7850,Lane.top_lane,Role.solo
+4,SAVAG3D,Jhin,False,Side.blue,9,13,9,1.3846153846153846,148,Flash,Heal,14,False,11664,10275,,Infinity Edge,Caulfield's Warhammer,B. F. Sword,Ionian Boots of Lucidity,Rapid Firecannon,7925,93200,Lane.bot_lane,Role.carry
+5,Nallax,Lucian,True,Side.red,4,7,11,2.142857142857143,193,Heal,Flash,15,False,13692,13250,B. F. Sword,Berserker's Greaves,Doran's Blade,Rapid Firecannon,Essence Reaver,Death's Dance,6323,153995,Lane.bot_lane,Role.carry
+6,Look Val CCnacks,Quinn,True,Side.red,14,5,10,4.8,222,Ignite,Flash,17,False,15668,13850,Doran's Blade,Youmuu's Ghostblade,Duskblade of Draktharr,Boots of Swiftness,Statikk Shiv,Infinity Edge,15003,134406,Lane.mid_lane,Role.solo
+7,Acez,Poppy,True,Side.red,5,4,9,3.5,182,Teleport,Flash,16,False,12878,12400,Spirit Visage,Guardian Angel,Sunfire Cape,Mercury's Treads,Iceborn Gauntlet,,25694,82136,Lane.top_lane,Role.solo
+8,SuperMaxPhelps,Morgana,True,Side.red,0,8,25,3.125,51,Exhaust,Flash,15,False,12062,11475,Frost Queen's Claim,Locket of the Iron Solari,Redemption,Zhonya's Hourglass,Boots of Mobility,Sightstone,36485,6007,Lane.bot_lane,Role.support
+9,Dunkaroose,Kha'Zix,True,Side.red,22,4,2,6.0,208,Flash,Smite,18,False,18817,17725,Duskblade of Draktharr,Ravenous Hydra,Enchantment: Warrior,The Black Cleaver,Ionian Boots of Lucidity,The Bloodthirster,7190,249761,Lane.jungle,Role.none

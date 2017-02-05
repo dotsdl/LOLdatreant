@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Peach Nayeon,Rek'Sai,True,Side.blue,5,1,9,14.0,106,Smite,Flash,13,False,9976,8925,Tiamat,Randuin's Omen,Enchantment: Cinderhulk,Ninja Tabi,Ruby Crystal,Ruby Crystal,23391,80740,Lane.jungle,Role.none
+1,LawlietLelouch,Riven,True,Side.blue,7,2,3,5.0,195,Flash,Teleport,15,False,11591,10200,Doran's Blade,Tiamat,The Black Cleaver,Maw of Malmortius,Mercury's Treads,Vampiric Scepter,4399,145587,Lane.top_lane,Role.solo
+2,Hanjaro,Jhin,True,Side.blue,4,2,8,6.0,155,Flash,Heal,12,False,9682,8950,Doran's Blade,Essence Reaver,Boots of Swiftness,Sterak's Gage,Brawler's Gloves,Kircheis Shard,5647,91086,Lane.bot_lane,Role.carry
+3,MindCalm,Cassiopeia,True,Side.blue,6,0,3,9.0,204,Flash,Ghost,14,True,11200,10400,Seraph's Embrace,Refillable Potion,,,Void Staff,Rylai's Crystal Scepter,103777,11774,Lane.mid_lane,Role.solo
+4,Arthin,Karma,True,Side.blue,2,3,11,4.333333333333333,32,Flash,Exhaust,11,False,7768,6500,Sightstone,Frost Queen's Claim,The Dark Seal,Ionian Boots of Lucidity,Aether Wisp,Needlessly Large Rod,27692,7670,Lane.bot_lane,Role.support
+5,Simon Hawkes,Zyra,False,Side.red,1,6,1,0.3333333333333333,16,Exhaust,Flash,9,False,5686,5325,Eye of the Watchers,Haunting Guise,Boots of Mobility,Refillable Potion,Control Ward,,19442,3016,Lane.bot_lane,Role.support
+6,Dream Arc,Cho'Gath,False,Side.red,2,6,0,0.3333333333333333,181,Teleport,Flash,13,False,7463,7445,Rod of Ages,Giant's Belt,Ninja Tabi,Glacial Shroud,Cloth Armor,Negatron Cloak,70218,19370,Lane.top_lane,Role.solo
+7,Bamboo OP,Kassadin,False,Side.red,3,3,1,1.3333333333333333,147,Flash,Ignite,12,False,7529,7350,The Dark Seal,Rod of Ages,Abyssal Scepter,Control Ward,Mercury's Treads,,36385,18326,Lane.mid_lane,Role.solo
+8,ChaosRain,Rengar,False,Side.red,1,5,0,0.2,100,Flash,Smite,11,False,6559,6300,Hunter's Talisman,Long Sword,The Black Cleaver,Ionian Boots of Lucidity,Caulfield's Warhammer,Long Sword,11826,70735,Lane.jungle,Role.none
+9,zirix is seal,Vayne,False,Side.red,1,4,1,0.5,187,Flash,Heal,13,False,8371,7155,Berserker's Greaves,B. F. Sword,Pickaxe,Statikk Shiv,Doran's Blade,Cull,23323,51532,Lane.bot_lane,Role.carry

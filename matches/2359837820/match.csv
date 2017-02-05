@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Naeun,Lee Sin,False,Side.blue,3,6,3,1.0,94,Smite,Flash,12,False,7706,7575,Refillable Potion,Enchantment: Warrior,Control Ward,Maw of Malmortius,Boots of Mobility,Long Sword,17858,82412,Lane.jungle,Role.none
+1,Hi Im A Sheep,Brand,False,Side.blue,3,8,7,1.25,12,Flash,Ignite,11,False,7164,6710,Eye of the Watchers,Control Ward,Sorcerer's Shoes,Giant's Belt,Needlessly Large Rod,Amplifying Tome,18054,4596,Lane.bot_lane,Role.support
+2,Vincente Vu,Twitch,False,Side.blue,8,5,1,1.8,176,Flash,Heal,11,True,9834,9625,Berserker's Greaves,Infinity Edge,Runaan's Hurricane,Zeal,Dagger,Doran's Blade,0,81736,Lane.bot_lane,Role.carry
+3,WildTurtle,Poppy,False,Side.blue,1,3,1,0.6666666666666666,150,Flash,Teleport,13,False,7144,6650,Sunfire Cape,Corrupting Potion,Boots of Speed,,Spirit Visage,,7113,49508,Lane.top_lane,Role.solo
+4,qldurtms,Jayce,False,Side.blue,3,4,3,1.5,182,Flash,Exhaust,13,False,9151,8050,The Black Cleaver,Doran's Blade,,,Ionian Boots of Lucidity,Maw of Malmortius,8657,83750,Lane.mid_lane,Role.solo
+5,moon o,Kha'Zix,True,Side.red,13,3,4,5.666666666666667,114,Smite,Flash,14,False,11021,10200,Youmuu's Ghostblade,Enchantment: Warrior,Edge of Night,Ninja Tabi,,,5383,114985,Lane.jungle,Role.none
+6,Pekin Woof,Fizz,True,Side.red,4,4,2,1.5,151,Flash,Teleport,13,False,8574,7850,Corrupting Potion,Zhonya's Hourglass,The Dark Seal,Ionian Boots of Lucidity,Lich Bane,,46939,18499,Lane.mid_lane,Role.solo
+7,Deft Pawn,Kennen,True,Side.red,2,3,1,1.0,195,Teleport,Flash,13,False,8475,8450,Hextech Protobelt-01,Void Staff,Blasting Wand,Sorcerer's Shoes,Doran's Blade,Doran's Blade,55015,31657,Lane.top_lane,Role.solo
+8,ZatsMod,Karma,True,Side.red,1,4,12,3.25,23,Flash,Exhaust,12,False,6820,5250,Frost Queen's Claim,Ruby Sightstone,Control Ward,,Ionian Boots of Lucidity,,12251,3609,Lane.bot_lane,Role.support
+9,You all boosted,Ashe,True,Side.red,6,4,7,3.25,168,Flash,Heal,13,False,10076,8225,Doran's Blade,Runaan's Hurricane,,Infinity Edge,,Ionian Boots of Lucidity,1562,80829,Lane.bot_lane,Role.carry

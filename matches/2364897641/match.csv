@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Slanimal,Graves,True,Side.blue,9,10,9,1.8,173,Exhaust,Flash,16,False,11994,11925,Doran's Blade,Youmuu's Ghostblade,Pickaxe,Phantom Dancer,Berserker's Greaves,Infinity Edge,1616,121729,Lane.mid_lane,Role.none
+1,Jhîn and Tonîc,Veigar,True,Side.blue,15,3,5,6.666666666666667,185,Heal,Flash,18,False,13044,12350,Doran's Ring,Wooglet's Witchcap,Rod of Ages,Sorcerer's Shoes,Giant's Belt,Luden's Echo,129930,12916,Lane.mid_lane,Role.none
+2,420smurfaccount,Renekton,True,Side.blue,11,5,11,4.4,194,Flash,Smite,18,False,14757,13425,Ninja Tabi,Enchantment: Cinderhulk,Titanic Hydra,The Black Cleaver,Sterak's Gage,Ruby Crystal,38481,164702,Lane.mid_lane,Role.none
+3,Cawa,Syndra,False,Side.red,0,14,3,0.21428571428571427,153,Flash,Exhaust,15,False,8288,7810,Morellonomicon,Total Biscuit of Rejuvenation,Sorcerer's Shoes,Needlessly Large Rod,Seeker's Armguard,,102917,5515,Lane.jungle,Role.none
+4,SKT BhoOom,Trundle,False,Side.red,3,9,7,1.1111111111111112,116,Smite,Flash,15,False,9905,9435,Refillable Potion,Titanic Hydra,Ninja Tabi,Enchantment: Warrior,Spectre's Cowl,Kindlegem,2770,101594,Lane.jungle,Role.none
+5,C9 Meteos,Darius,False,Side.red,15,12,1,1.3333333333333333,219,Ignite,Flash,17,True,14256,13300,Lord Van Damm's Pillager,Ninja Tabi,Spirit Visage,The Black Cleaver,Sterak's Gage,,0,161610,Lane.jungle,Role.none

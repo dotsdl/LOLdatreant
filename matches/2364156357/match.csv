@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,rage Eevee,Jayce,False,Side.blue,2,4,0,0.5,154,Flash,Teleport,12,False,6970,6325,Youmuu's Ghostblade,Caulfield's Warhammer,Phage,Doran's Blade,Boots of Speed,,6492,66042,Lane.top_lane,Role.solo
+1,nooblordx,Ashe,False,Side.blue,3,3,2,1.6666666666666667,144,Heal,Flash,11,True,7790,7300,B. F. Sword,Pickaxe,Berserker's Greaves,Doran's Blade,Cull,Runaan's Hurricane,266,69737,Lane.bot_lane,Role.carry
+2,Government Spy,Thresh,False,Side.blue,1,4,4,1.25,16,Flash,Ignite,8,False,4656,3925,Targon's Brace,Ionian Boots of Lucidity,,Control Ward,Kindlegem,Sightstone,4328,1418,Lane.bot_lane,Role.support
+3,Hoes In My Shirt,Lee Sin,False,Side.blue,2,5,5,1.4,114,Flash,Smite,12,False,7033,6075,Refillable Potion,Enchantment: Warrior,Hexdrinker,Boots of Mobility,Caulfield's Warhammer,,16363,70949,Lane.jungle,Role.none
+4,OH MY GULAYY,Ezreal,False,Side.blue,2,6,0,0.3333333333333333,164,Ignite,Flash,12,False,7127,6575,Manamune,Iceborn Gauntlet,Doran's Blade,,Boots of Speed,Cull,20439,63089,Lane.mid_lane,Role.solo
+5,l am Poro,Jhin,True,Side.red,5,2,4,4.5,159,Flash,Heal,11,False,9529,8450,,Essence Reaver,Rapid Firecannon,,Doran's Blade,Boots of Swiftness,7090,74485,Lane.bot_lane,Role.carry
+6,Fluorescently,Soraka,True,Side.red,0,3,8,2.6666666666666665,7,Exhaust,Flash,10,False,5561,5100,Frostfang,Redemption,Forbidden Idol,Sightstone,Boots of Speed,,4970,1756,Lane.bot_lane,Role.support
+7,my bad team,Poppy,True,Side.red,2,2,5,3.5,180,Flash,Teleport,14,False,8705,8375,Chain Vest,Corrupting Potion,Iceborn Gauntlet,Cloth Armor,Sunfire Cape,Ninja Tabi,25926,59774,Lane.top_lane,Role.solo
+8,kms myself,Rengar,True,Side.red,7,3,10,5.666666666666667,124,Smite,Flash,13,False,10206,8975,Serrated Dirk,Refillable Potion,Youmuu's Ghostblade,Ionian Boots of Lucidity,Enchantment: Warrior,B. F. Sword,8925,122730,Lane.jungle,Role.none
+9,Pshaw,Orianna,True,Side.red,8,0,5,13.0,214,Ghost,Flash,15,False,12086,11800,Morellonomicon,Rylai's Crystal Scepter,Refillable Potion,Doran's Ring,Sorcerer's Shoes,Rabadon's Deathcap,126333,18069,Lane.mid_lane,Role.solo

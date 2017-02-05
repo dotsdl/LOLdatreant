@@ -1,0 +1,7 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,trippenasian,Graves,True,Side.blue,4,10,7,1.1,189,Flash,Smite,18,False,14192,11875,Enchantment: Warrior,Quicksilver Sash,Maw of Malmortius,Phantom Dancer,Mercury's Treads,Vampiric Scepter,6849,218542,Lane.mid_lane,Role.support
+1,Juniorboogie,Poppy,True,Side.blue,3,1,6,9.0,188,Flash,Ignite,17,False,11546,9750,Doran's Shield,Mercury's Treads,Iceborn Gauntlet,Banshee's Veil,Spirit Visage,,5588,109568,Lane.jungle,Role.none
+2,Unstopebble,Brand,True,Side.blue,9,8,6,1.875,192,Flash,Ignite,18,False,13678,11360,Rylai's Crystal Scepter,Sorcerer's Shoes,Doran's Ring,Rod of Ages,Morellonomicon,Blasting Wand,123581,17848,Lane.mid_lane,Role.carry
+3,Tipper,Morgana,False,Side.red,4,6,11,2.5,188,Exhaust,Flash,17,False,12276,10935,Frost Queen's Claim,Corrupting Potion,Wooglet's Witchcap,Sorcerer's Shoes,Rylai's Crystal Scepter,Amplifying Tome,108696,16102,Lane.jungle,Role.none
+4,Inanity,Lee Sin,False,Side.red,6,5,8,2.8,123,Smite,Flash,16,False,10948,10200,Edge of Night,Maw of Malmortius,Stalker's Blade,Mercury's Treads,,Tiamat,22957,115151,Lane.jungle,Role.none
+5,LikeAnEleet,Zilean,False,Side.red,9,5,5,2.8,182,Flash,Ignite,17,True,11738,11885,Rod of Ages,Wooglet's Witchcap,Ionian Boots of Lucidity,Morellonomicon,Amplifying Tome,Blasting Wand,110485,11964,Lane.jungle,Role.none

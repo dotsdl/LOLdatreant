@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Part The Sea,Draven,True,Side.blue,8,3,7,5.0,179,Flash,Heal,13,False,12841,10825,Quicksilver Sash,,The Bloodthirster,Boots of Swiftness,Essence Reaver,Doran's Blade,0,109544,Lane.bot_lane,Role.carry
+1,S Diana 2,Diana,True,Side.blue,9,5,7,3.2,193,Ignite,Flash,15,True,12483,10350,Doran's Ring,Sorcerer's Shoes,Blasting Wand,Doran's Ring,Luden's Echo,Rabadon's Deathcap,140524,15654,Lane.mid_lane,Role.solo
+2,FourofDiamonds,Shaco,True,Side.blue,8,6,15,3.8333333333333335,106,Smite,Ignite,14,False,11714,9910,Tiamat,Hextech Gunblade,Enchantment: Runic Echoes,Amplifying Tome,Ionian Boots of Lucidity,Sheen,39258,71435,Lane.jungle,Role.none
+3,FLYNNNK,Poppy,True,Side.blue,4,2,12,8.0,173,Flash,Teleport,14,False,10699,9475,Corrupting Potion,Sunfire Cape,Randuin's Omen,Spectre's Cowl,Ninja Tabi,Kindlegem,30214,60176,Lane.top_lane,Role.solo
+4,Y8Y,Janna,True,Side.blue,0,3,18,6.0,13,Flash,Exhaust,12,False,7925,6375,Eye of the Oasis,Redemption,,Chalice of Harmony,Faerie Charm,Ionian Boots of Lucidity,5181,3237,Lane.bot_lane,Role.support
+5,D Lone Wanderer,Lee Sin,False,Side.red,6,3,7,4.333333333333333,135,Smite,Flash,14,False,10251,10175,Mercury's Treads,The Black Cleaver,Enchantment: Warrior,Control Ward,Dead Man's Plate,,21953,97786,Lane.jungle,Role.none
+6,ChriShin,Jhin,False,Side.red,6,8,6,1.5,163,Heal,Flash,12,False,10117,9000,Essence Reaver,Rapid Firecannon,Ionian Boots of Lucidity,Last Whisper,Doran's Blade,,3141,94256,Lane.bot_lane,Role.carry
+7,DiYu LanBo,Blitzcrank,False,Side.red,2,4,11,3.25,47,Flash,Ignite,12,False,8235,7300,Eye of the Equinox,Refillable Potion,Knight's Vow,Ruby Crystal,Boots of Mobility,Aegis of the Legion,13573,10934,Lane.bot_lane,Role.support
+8,Miajima,Talon,False,Side.red,2,7,4,0.8571428571428571,162,Teleport,Flash,13,False,9154,8450,Youmuu's Ghostblade,Boots of Swiftness,The Black Cleaver,Ruby Crystal,Long Sword,Long Sword,1326,100993,Lane.top_lane,Role.solo
+9,Tsùki,Lux,False,Side.red,3,7,8,1.5714285714285714,153,Flash,Exhaust,12,False,9045,7880,Blasting Wand,The Dark Seal,Morellonomicon,Needlessly Large Rod,Negatron Cloak,Sorcerer's Shoes,83134,9138,Lane.mid_lane,Role.solo

@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,drink more 151,Jarvan IV,False,Side.blue,6,7,5,1.5714285714285714,90,Smite,Flash,12,False,7838,7675,Enchantment: Warrior,Refillable Potion,Mercury's Treads,The Black Cleaver,Long Sword,Long Sword,5605,68090,Lane.jungle,Role.none
+1,RUMBLE EXPORTER,Cho'Gath,False,Side.blue,2,7,3,0.7142857142857143,71,Teleport,Flash,9,False,5571,5050,Rylai's Crystal Scepter,Ruby Crystal,,Ionian Boots of Lucidity,,Doran's Ring,22275,7200,Lane.top_lane,Role.solo
+2,Jin Wudi,Fizz,False,Side.blue,2,7,3,0.7142857142857143,114,Ignite,Flash,11,False,6360,6325,Corrupting Potion,Lich Bane,Needlessly Large Rod,Ionian Boots of Lucidity,,Doran's Ring,33832,20729,Lane.mid_lane,Role.solo
+3,Trickster That,Soraka,False,Side.blue,0,4,8,2.0,12,Flash,Exhaust,11,False,5522,4350,Sightstone,Talisman of Ascension,Ionian Boots of Lucidity,,,,7886,3473,Lane.bot_lane,Role.support
+4,Hyperiun,Ezreal,False,Side.blue,3,5,3,1.2,158,Heal,Flash,11,False,7401,6425,Manamune,Iceborn Gauntlet,Long Sword,Boots of Speed,,Doran's Blade,15823,60604,Lane.bot_lane,Role.carry
+5,Lovelights,Ashe,True,Side.red,3,3,9,4.0,123,Flash,Heal,11,False,8388,7500,Doran's Blade,Essence Reaver,Total Biscuit of Rejuvenation,Berserker's Greaves,Zeal,Recurve Bow,1442,55698,Lane.bot_lane,Role.carry
+6,Scóre,Ivern,True,Side.red,3,1,19,22.0,87,Smite,Flash,13,False,9823,9625,Locket of the Iron Solari,Athene's Unholy Grail,Redemption,Skirmisher's Sabre,Bami's Cinder,Ionian Boots of Lucidity,13262,9689,Lane.jungle,Role.none
+7,Epileptíc Monkey,Twisted Fate,True,Side.red,5,3,13,6.0,134,Flash,Ignite,12,False,9878,8410,Abyssal Scepter,Lich Bane,Amplifying Tome,Sorcerer's Shoes,Doran's Ring,Cloth Armor,70892,12624,Lane.mid_lane,Role.solo
+8,Kilal,Fiora,True,Side.red,13,5,5,3.6,131,Teleport,Flash,13,True,11195,10750,Ravenous Hydra,Corrupting Potion,B. F. Sword,The Black Cleaver,Boots of Swiftness,B. F. Sword,3086,67832,Lane.top_lane,Role.solo
+9,Waga Baga,Alistar,True,Side.red,6,1,11,17.0,38,Flash,Exhaust,11,False,8309,7375,Locket of the Iron Solari,Sightstone,Face of the Mountain,Cloth Armor,Boots of Swiftness,Crystalline Bracer,15011,6301,Lane.bot_lane,Role.support

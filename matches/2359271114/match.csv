@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Simon Hawkes,Miss Fortune,True,Side.blue,2,2,9,5.5,10,Exhaust,Flash,10,False,6879,6725,Refillable Potion,Eye of the Watchers,Control Ward,Ionian Boots of Lucidity,The Black Cleaver,,15507,9116,Lane.bot_lane,Role.support
+1,Haillo Kitty,Elise,True,Side.blue,7,2,5,6.0,139,Smite,Flash,13,False,9909,7550,Enchantment: Runic Echoes,Refillable Potion,Abyssal Scepter,Boots of Speed,Needlessly Large Rod,Ruby Crystal,85940,28117,Lane.jungle,Role.none
+2,Never Been,Ezreal,True,Side.blue,4,3,8,4.0,155,Flash,Heal,12,True,9816,9208,Doran's Blade,Trinity Force,Muramana,Cull,Vampiric Scepter,Ionian Boots of Lucidity,5779,69712,Lane.bot_lane,Role.carry
+3,Myloo,Gnar,True,Side.blue,3,1,5,8.0,169,Flash,Teleport,14,False,8979,7300,Mercury's Treads,Control Ward,Doran's Blade,Frozen Mallet,Phage,Caulfield's Warhammer,7030,70276,Lane.top_lane,Role.solo
+4,AllAero,LeBlanc,True,Side.blue,8,0,9,17.0,124,Flash,Teleport,13,False,9456,7875,Morellonomicon,Abyssal Scepter,Refillable Potion,Doran's Ring,Sorcerer's Shoes,,66089,10460,Lane.mid_lane,Role.solo
+5,Tobias Fate,Ivern,False,Side.red,0,5,1,0.2,6,Flash,Exhaust,9,False,4388,2700,Boots of Speed,Talisman of Ascension,,,,,3071,2056,Lane.bot_lane,Role.support
+6,Annie Bot,Annie,False,Side.red,5,4,1,1.5,124,Ghost,Flash,11,False,7244,6135,Hextech Protobelt-01,Needlessly Large Rod,Doran's Ring,Doran's Ring,Ionian Boots of Lucidity,Amplifying Tome,41544,6749,Lane.bot_lane,Role.carry
+7,TwTv Kinoscorpia,Lissandra,False,Side.red,1,7,1,0.2857142857142857,140,Ignite,Flash,11,False,6448,6110,Doran's Ring,Needlessly Large Rod,Doran's Ring,Boots of Speed,Abyssal Scepter,Amplifying Tome,63562,6996,Lane.mid_lane,Role.solo
+8,amumumu,Amumu,False,Side.red,1,4,2,0.75,81,Flash,Smite,10,False,6107,5910,Enchantment: Cinderhulk,Hunter's Potion,Mercury's Treads,Fiendish Codex,Null-Magic Mantle,Amplifying Tome,62503,19785,Lane.jungle,Role.none
+9,Ikzencriel,Poppy,False,Side.red,1,4,1,0.5,148,Teleport,Flash,12,False,6393,5350,Corrupting Potion,Sunfire Cape,Ninja Tabi,Null-Magic Mantle,Ruby Crystal,,16620,39517,Lane.top_lane,Role.solo

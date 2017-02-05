@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,JUST A LEGEND123,Jayce,False,Side.blue,2,8,0,0.25,126,Teleport,Flash,11,False,7364,6125,The Black Cleaver,Vampiric Scepter,Doran's Blade,Long Sword,,Ninja Tabi,4748,54133,Lane.top_lane,Role.solo
+1,Barbaric Bonobo,Hecarim,False,Side.blue,6,7,4,1.4285714285714286,136,Ghost,Smite,14,False,9378,8633,Hunter's Potion,Enchantment: Cinderhulk,Trinity Force,Cloth Armor,Ninja Tabi,Ruby Crystal,15856,91575,Lane.jungle,Role.none
+2,MST3kMantra,Zed,False,Side.blue,2,4,2,1.0,151,Flash,Ignite,13,False,7587,7300,Maw of Malmortius,Boots of Speed,Youmuu's Ghostblade,Long Sword,,,5399,66028,Lane.mid_lane,Role.solo
+3,LegitADC,Janna,False,Side.blue,1,5,9,2.0,2,Exhaust,Flash,11,False,6498,6060,Eye of the Oasis,Redemption,Control Ward,Amplifying Tome,Faerie Charm,Ionian Boots of Lucidity,5225,2873,Lane.bot_lane,Role.support
+4,Im Cookie,Vayne,False,Side.blue,2,5,3,1.0,161,Heal,Flash,11,True,7945,7300,Statikk Shiv,Cloak of Agility,Pickaxe,B. F. Sword,Doran's Blade,Berserker's Greaves,12285,58649,Lane.bot_lane,Role.carry
+5,MegaZero,Irelia,True,Side.red,8,0,2,10.0,180,Teleport,Flash,13,False,10823,9233,Randuin's Omen,Corrupting Potion,Ruby Crystal,Trinity Force,Ninja Tabi,Null-Magic Mantle,4186,81360,Lane.top_lane,Role.solo
+6,nooblordx,Ezreal,True,Side.red,4,5,7,2.2,196,Heal,Flash,13,False,10276,8575,Iceborn Gauntlet,Bilgewater Cutlass,Muramana,Doran's Blade,Recurve Bow,Boots of Speed,14571,93483,Lane.bot_lane,Role.carry
+7,TET Regret,Kha'Zix,True,Side.red,6,3,6,4.0,98,Smite,Flash,13,False,9714,7750,Enchantment: Warrior,Hunter's Potion,Sterak's Gage,Ninja Tabi,Long Sword,Long Sword,5491,107568,Lane.jungle,Role.none
+8,TET Frozen,Blitzcrank,True,Side.red,1,1,13,14.0,21,Exhaust,Flash,11,False,7153,6500,Ruby Sightstone,Face of the Mountain,,Cloth Armor,Warden's Mail,Boots of Mobility,4402,4913,Lane.bot_lane,Role.support
+9,Micester,LeBlanc,True,Side.red,10,5,5,3.0,169,Exhaust,Flash,14,False,11021,9275,Morellonomicon,Needlessly Large Rod,Zhonya's Hourglass,Doran's Ring,Doran's Ring,Sorcerer's Shoes,95098,13919,Lane.mid_lane,Role.solo

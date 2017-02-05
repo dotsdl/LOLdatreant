@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dhokla,Fiora,True,Side.blue,8,2,0,4.0,263,Flash,Teleport,16,False,13511,12708,Quicksilver Sash,Ravenous Hydra,Mercury's Treads,B. F. Sword,Vampiric Scepter,Trinity Force,5789,176450,Lane.top_lane,Role.solo
+1,Rohammers,Kennen,True,Side.blue,5,5,8,2.6,137,Teleport,Flash,13,False,9801,8375,Hextech Protobelt-01,Refillable Potion,Abyssal Scepter,Sorcerer's Shoes,Seeker's Armguard,Control Ward,51613,17094,Lane.mid_lane,Role.solo
+2,Imaokai,Vayne,True,Side.blue,4,8,5,1.125,158,Heal,Flash,12,False,9532,8550,Doran's Blade,Infinity Edge,Dagger,Dagger,Berserker's Greaves,Statikk Shiv,12069,59546,Lane.bot_lane,Role.carry
+3,GalileoGalilley,Xerath,True,Side.blue,2,7,13,2.142857142857143,39,Flash,Ignite,11,False,8651,7225,Corrupting Potion,Frost Queen's Claim,Sorcerer's Shoes,The Dark Seal,The Dark Seal,Void Staff,43441,5129,Lane.bot_lane,Role.support
+4,Imaqtpie,Ivern,True,Side.blue,5,4,7,3.0,93,Flash,Smite,14,False,9705,8875,Redemption,Locket of the Iron Solari,Warden's Mail,Athene's Unholy Grail,Hunter's Talisman,Ionian Boots of Lucidity,18270,7365,Lane.jungle,Role.none
+5,Sawyerr,Thresh,False,Side.red,4,3,15,6.333333333333333,38,Ignite,Flash,12,False,7751,7150,Aegis of the Legion,Boots of Mobility,Control Ward,,Redemption,Eye of the Equinox,13930,5447,Lane.bot_lane,Role.support
+6,Brian Griffin,Caitlyn,False,Side.red,6,5,10,3.2,220,Heal,Flash,14,True,11744,10950,Doran's Blade,Total Biscuit of Rejuvenation,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Runaan's Hurricane,1199,151212,Lane.bot_lane,Role.carry
+7,Annie Bot,Annie,False,Side.red,2,5,3,1.0,179,Teleport,Flash,13,False,8745,8610,Rylai's Crystal Scepter,Zhonya's Hourglass,Doran's Ring,Ionian Boots of Lucidity,Doran's Ring,Amplifying Tome,73378,11504,Lane.top_lane,Role.solo
+8,insaníty,LeBlanc,False,Side.red,5,5,4,1.8,131,Flash,Ignite,12,False,8457,8185,Doran's Ring,Morellonomicon,Abyssal Scepter,Sorcerer's Shoes,Amplifying Tome,,69359,9586,Lane.mid_lane,Role.solo
+9,blaberfish2,Rek'Sai,False,Side.red,9,6,8,2.8333333333333335,133,Flash,Smite,13,False,10514,9250,Enchantment: Cinderhulk,Refillable Potion,Tiamat,Mercury's Treads,Dead Man's Plate,Spectre's Cowl,28127,84344,Lane.jungle,Role.none

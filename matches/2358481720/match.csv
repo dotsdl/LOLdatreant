@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Dat Boiiiiiiiii,Yasuo,False,Side.blue,4,5,1,1.0,189,Flash,Teleport,14,False,8994,8260,Mercury's Treads,Phantom Dancer,Refillable Potion,Frozen Mallet,Cloak of Agility,Doran's Blade,29002,80826,Lane.top_lane,Role.solo
+1,OpenBackpack,Ahri,False,Side.blue,3,7,0,0.42857142857142855,148,Flash,Ignite,12,False,7611,6870,Morellonomicon,Sorcerer's Shoes,Fiendish Codex,Negatron Cloak,Doran's Ring,Doran's Ring,49710,12474,Lane.mid_lane,Role.solo
+2, keine Hosen,Lucian,False,Side.blue,1,6,0,0.16666666666666666,170,Flash,Heal,11,False,7858,7350,Doran's Blade,Rapid Firecannon,,Boots of Speed,Essence Reaver,,2220,85446,Lane.bot_lane,Role.carry
+3,datvu deformed,Janna,False,Side.blue,0,6,3,0.5,5,Exhaust,Flash,10,False,5341,4950,Redemption,Sightstone,Boots of Mobility,,,Nomad's Medallion,1943,2753,Lane.bot_lane,Role.support
+4,Hopko,Lee Sin,False,Side.blue,1,6,2,0.5,134,Flash,Smite,13,False,7696,7425,Tiamat,Enchantment: Warrior,Mercury's Treads,Refillable Potion,Caulfield's Warhammer,Phage,16751,87859,Lane.jungle,Role.none
+5,Firé,Vi,True,Side.red,11,1,7,18.0,141,Smite,Flash,15,False,13085,10883,Dead Man's Plate,Refillable Potion,Cloth Armor,Mercury's Treads,Enchantment: Warrior,Trinity Force,1773,152172,Lane.jungle,Role.none
+6,DarkChicken,Shen,True,Side.red,1,5,6,1.4,124,Flash,Teleport,13,False,8641,6675,Doran's Shield,Sunfire Cape,Ninja Tabi,Giant's Belt,Warden's Mail,,41071,22560,Lane.top_lane,Role.solo
+7,Im Vaeth,Caitlyn,True,Side.red,8,2,10,9.0,198,Heal,Flash,14,True,13067,11150,Doran's Blade,Infinity Edge,Cull,Runaan's Hurricane,Berserker's Greaves,Rapid Firecannon,3625,142033,Lane.bot_lane,Role.carry
+8,MITCH RAMZ,Nami,True,Side.red,2,1,17,19.0,15,Flash,Exhaust,12,False,8991,7100,Null-Magic Mantle,Redemption,Aegis of the Legion,Eye of the Watchers,,Ionian Boots of Lucidity,4797,5407,Lane.bot_lane,Role.support
+9,Hailtothechi,Swain,True,Side.red,8,0,4,12.0,188,Teleport,Flash,15,False,12222,11250,Doran's Ring,Rod of Ages,Zhonya's Hourglass,The Dark Seal,Rylai's Crystal Scepter,Sorcerer's Shoes,100486,17255,Lane.mid_lane,Role.solo

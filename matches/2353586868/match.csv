@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,SquirreI,Vayne,True,Side.blue,0,2,2,1.0,123,Flash,Heal,10,False,7202,6100,Doran's Blade,Cull,Refillable Potion,Infinity Edge,Dagger,Berserker's Greaves,0,46116,Lane.bot_lane,Role.carry
+1,Sophist Sage,Lee Sin,True,Side.blue,2,5,1,0.6,105,Smite,Flash,12,False,7475,7250,Tiamat,Ninja Tabi,Enchantment: Cinderhulk,Giant's Belt,Cloth Armor,Poacher's Dirk,20316,68165,Lane.jungle,Role.none
+2,Budded,Vel'Koz,True,Side.blue,1,2,3,2.0,36,Exhaust,Flash,10,False,6527,5325,Haunting Guise,Eye of the Watchers,Blasting Wand,Control Ward,Boots of Speed,,25089,3635,Lane.bot_lane,Role.support
+3,CloudNguyén,Jayce,True,Side.blue,8,2,3,5.5,146,Teleport,Flash,13,False,10343,10200,Youmuu's Ghostblade,B. F. Sword,The Black Cleaver,Doran's Blade,Ionian Boots of Lucidity,Serrated Dirk,12646,83919,Lane.top_lane,Role.solo
+4,goldenglue,LeBlanc,True,Side.blue,9,1,2,11.0,147,Ignite,Flash,13,False,10140,8885,Refillable Potion,Morellonomicon,Rabadon's Deathcap,Sorcerer's Shoes,Doran's Ring,Amplifying Tome,75000,10552,Lane.mid_lane,Role.solo
+5,Cowkiki,Soraka,False,Side.red,0,4,4,1.0,5,Flash,Exhaust,9,False,4967,4600,Forbidden Idol,Ionian Boots of Lucidity,Crystalline Bracer,Nomad's Medallion,Control Ward,Sightstone,3546,2382,Lane.bot_lane,Role.support
+6,Pekin Woof,Katarina,False,Side.red,2,3,2,1.3333333333333333,123,Flash,Ignite,11,False,6731,6510,Bilgewater Cutlass,Refillable Potion,Abyssal Scepter,Sorcerer's Shoes,The Dark Seal,Amplifying Tome,48537,5326,Lane.mid_lane,Role.solo
+7,C L,Xin Zhao,False,Side.red,3,5,1,0.8,102,Flash,Ignite,12,False,6424,6108,Berserker's Greaves,Long Sword,,Trinity Force,Doran's Shield,,2920,43097,Lane.top_lane,Role.solo
+8,rikarawr,Olaf,False,Side.red,6,4,4,2.5,107,Ghost,Smite,12,True,8550,8700,Randuin's Omen,Enchantment: Cinderhulk,Spectre's Cowl,Ionian Boots of Lucidity,Ruby Crystal,,11912,85142,Lane.jungle,Role.none
+9,LegitADC,Miss Fortune,False,Side.red,1,4,5,1.5,145,Heal,Flash,10,False,6691,5925,Zeal,,Doran's Blade,Boots of Speed,,Infinity Edge,2959,55108,Lane.bot_lane,Role.carry

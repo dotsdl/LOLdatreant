@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,MASTER ROSHl,Lee Sin,True,Side.blue,7,8,13,2.5,112,Flash,Smite,14,False,11765,10550,Refillable Potion,Enchantment: Warrior,Maw of Malmortius,Dead Man's Plate,Null-Magic Mantle,Mercury's Treads,13999,89469,Lane.jungle,Role.none
+1,Farefars World,Draven,True,Side.blue,8,5,13,4.2,194,Flash,Heal,14,False,14504,12800,Doran's Blade,The Bloodthirster,Quicksilver Sash,Phantom Dancer,Infinity Edge,Berserker's Greaves,0,147564,Lane.bot_lane,Role.carry
+2,TheBolvar,Poppy,True,Side.blue,5,3,11,5.333333333333333,195,Flash,Teleport,16,False,12515,11075,Iceborn Gauntlet,Sunfire Cape,Mercury's Treads,Spirit Visage,Giant's Belt,,15177,98488,Lane.top_lane,Role.solo
+3,IQ is 201 ,Orianna,True,Side.blue,10,5,16,5.2,219,Flash,Ghost,16,False,14338,12775,Abyssal Scepter,Morellonomicon,Blasting Wand,Sorcerer's Shoes,Rylai's Crystal Scepter,Needlessly Large Rod,135702,13904,Lane.mid_lane,Role.solo
+4,Mckenize,Blitzcrank,True,Side.blue,1,6,15,2.6666666666666665,29,Ignite,Flash,13,False,8626,7525,Sightstone,Face of the Mountain,Locket of the Iron Solari,Boots of Mobility,Glacial Shroud,,9293,6657,Lane.bot_lane,Role.support
+5,SteamyMenos,Jhin,False,Side.red,8,7,11,2.7142857142857144,140,Flash,Heal,13,True,11197,10125,Doran's Blade,B. F. Sword,Pickaxe,Boots of Swiftness,Rapid Firecannon,Essence Reaver,3152,89449,Lane.bot_lane,Role.carry
+6,bingsuu,Ryze,False,Side.red,5,6,7,2.0,198,Ghost,Flash,14,False,11013,9375,Seraph's Embrace,,Sorcerer's Shoes,Needlessly Large Rod,Rod of Ages,Blasting Wand,105641,8909,Lane.mid_lane,Role.solo
+7,Xys,Olaf,False,Side.red,6,3,11,5.666666666666667,131,Smite,Ghost,13,False,10609,10170,Righteous Glory,Enchantment: Cinderhulk,Dead Man's Plate,Ionian Boots of Lucidity,Negatron Cloak,Cloth Armor,16148,92028,Lane.jungle,Role.none
+8,LegitADC,Janna,False,Side.red,1,7,14,2.142857142857143,19,Exhaust,Flash,11,False,8170,7575,Redemption,Eye of the Oasis,Control Ward,Boots of Swiftness,Ardent Censer,,7414,3644,Lane.bot_lane,Role.support
+9,Moon Diana,Diana,False,Side.red,7,8,8,1.875,196,Flash,Teleport,15,False,11670,10900,Doran's Ring,Zhonya's Hourglass,Rod of Ages,Nashor's Tooth,Sorcerer's Shoes,,118866,18203,Lane.top_lane,Role.solo

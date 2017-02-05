@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Treebro001,Rek'Sai,True,Side.blue,4,0,5,9.0,124,Flash,Smite,12,True,8762,5225,Tiamat,Ninja Tabi,,,Enchantment: Cinderhulk,,20054,81527,Lane.jungle,Role.none
+1,A Platypus,Ezreal,True,Side.blue,8,1,3,11.0,124,Heal,Flash,11,False,8813,7683,Manamune,Doran's Blade,Ionian Boots of Lucidity,Trinity Force,,,10930,67859,Lane.bot_lane,Role.carry
+2,AsianGoneWild,Bard,True,Side.blue,2,0,12,14.0,6,Exhaust,Flash,10,False,6637,6275,Hextech Protobelt-01,Needlessly Large Rod,,Boots of Mobility,Frostfang,Ruby Crystal,9614,4497,Lane.bot_lane,Role.support
+3,U LoZe,Teemo,True,Side.blue,1,1,1,2.0,145,Flash,Ignite,12,False,7407,4610,Doran's Ring,Sorcerer's Shoes,Corrupting Potion,Fiendish Codex,Stinger,Amplifying Tome,45415,26690,Lane.top_lane,Role.solo
+4,Outclass,Cassiopeia,True,Side.blue,4,2,2,3.0,118,Ghost,Flash,11,False,7802,7845,Doran's Ring,Archangel's Staff,Negatron Cloak,Morellonomicon,,,51686,7120,Lane.mid_lane,Role.solo
+5,Modx,Riven,False,Side.red,1,2,1,1.0,94,Flash,Teleport,9,False,5068,4125,Caulfield's Warhammer,Mercury's Treads,Hexdrinker,,Long Sword,,0,35180,Lane.top_lane,Role.solo
+6,Pirean,Xerath,False,Side.red,1,4,0,0.25,65,Ghost,Flash,9,False,4430,3700,The Dark Seal,Refillable Potion,Morellonomicon,,Boots of Speed,,27682,6088,Lane.mid_lane,Role.solo
+7,DaDieYan,Karma,False,Side.red,0,2,3,1.5,14,Flash,Exhaust,8,False,4254,3750,Frost Queen's Claim,,Boots of Speed,Sightstone,Control Ward,Refillable Potion,10236,2510,Lane.bot_lane,Role.support
+8,NaVi Juan,Vayne,False,Side.red,0,4,0,0.0,88,Heal,Flash,8,False,4607,3825,B. F. Sword,Cloak of Agility,Pickaxe,Boots of Speed,Doran's Blade,,0,25042,Lane.bot_lane,Role.carry
+9,Paulguin,Lee Sin,False,Side.red,2,7,2,0.5714285714285714,79,Smite,Flash,10,False,5513,4350,Mercury's Treads,Enchantment: Warrior,Refillable Potion,Ruby Crystal,,,8569,42768,Lane.jungle,Role.none

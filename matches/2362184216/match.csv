@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Arthin,Blitzcrank,True,Side.blue,0,2,14,7.0,53,Flash,Ignite,13,False,7886,6575,Eye of the Equinox,Refillable Potion,,Banner of Command,Tear of the Goddess,Boots of Swiftness,14966,12817,Lane.bot_lane,Role.support
+1,Fàkèr  ,Lee Sin,True,Side.blue,12,6,6,3.0,93,Smite,Flash,14,True,11759,10100,Refillable Potion,Enchantment: Warrior,Dead Man's Plate,Mercury's Treads,The Black Cleaver,,22236,88452,Lane.jungle,Role.none
+2,bhar,Cassiopeia,True,Side.blue,8,2,6,7.0,195,Ghost,Flash,15,False,11859,10360,Doran's Ring,Seraph's Embrace,Abyssal Scepter,Rylai's Crystal Scepter,Amplifying Tome,Refillable Potion,114348,8507,Lane.mid_lane,Role.solo
+3,Tobias Fate,Gangplank,True,Side.blue,3,2,7,5.0,236,Flash,Exhaust,16,False,12189,10733,Lord Dominik's Regards,Youmuu's Ghostblade,Boots of Swiftness,Trinity Force,,,13681,177885,Lane.top_lane,Role.solo
+4,Annie Bot,Annie,True,Side.blue,3,2,6,4.5,212,Heal,Flash,13,False,10767,9225,Hextech Protobelt-01,Rylai's Crystal Scepter,Boots of Speed,Void Staff,Doran's Ring,,81250,15107,Lane.bot_lane,Role.carry
+5,Gabenlift,Alistar,False,Side.red,1,5,10,2.2,39,Flash,Ignite,12,False,7394,6450,Targon's Brace,Locket of the Iron Solari,Boots of Mobility,Ruby Sightstone,,,8278,5897,Lane.bot_lane,Role.support
+6,A Platypus,Ezreal,False,Side.red,1,6,6,1.1666666666666667,162,Heal,Flash,12,False,8616,7883,Total Biscuit of Rejuvenation,Doran's Blade,Ionian Boots of Lucidity,Trinity Force,Muramana,,13939,68457,Lane.bot_lane,Role.carry
+7,KeIsi Monroe,Renekton,False,Side.red,3,4,4,1.75,146,Smite,Flash,13,False,9593,9100,Jaurim's Fist,Phage,Locket of the Iron Solari,Enchantment: Warrior,Boots of Speed,Caulfield's Warhammer,3717,115727,Lane.jungle,Role.none
+8,Koby,Nasus,False,Side.red,5,2,4,4.5,292,Flash,Teleport,15,False,13094,13083,Trinity Force,Cloth Armor,Giant's Belt,Spirit Visage,Ninja Tabi,Zz'Rot Portal,94523,59441,Lane.top_lane,Role.solo
+9,II AN doG ll,Orianna,False,Side.red,4,9,6,1.1111111111111112,202,Flash,Ghost,14,False,10215,8975,Refillable Potion,Doran's Ring,Fiendish Codex,Sorcerer's Shoes,Luden's Echo,Morellonomicon,105938,11302,Lane.mid_lane,Role.solo

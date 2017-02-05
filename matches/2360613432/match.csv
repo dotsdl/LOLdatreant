@@ -1,0 +1,11 @@
+,Player Name,Champion,Win,Side,Kills,Deaths,Assists,KDA,CS,SSpell 1,SSpell 2,End Level,First Blood?,Gold Earned,Gold Spent,Item1,Item2,Item3,Item4,Item5,Item6,Magic Dmg,Physical Dmg,Lane,Role
+0,Master Yi Z,Ryze,False,Side.blue,2,5,3,1.0,147,Flash,Teleport,12,True,7736,7400,Tear of the Goddess,Morellonomicon,Rod of Ages,Ionian Boots of Lucidity,,,83574,6131,Lane.top_lane,Role.solo
+1,f p,Ezreal,False,Side.blue,3,6,2,0.8333333333333334,139,Heal,Flash,10,False,8424,8550,Manamune,Health Potion,Doran's Blade,Ionian Boots of Lucidity,Last Whisper,Iceborn Gauntlet,14575,51879,Lane.bot_lane,Role.carry
+2,G N M 9,Rek'Sai,False,Side.blue,3,5,4,1.4,99,Flash,Smite,12,False,7855,7300,Enchantment: Cinderhulk,Randuin's Omen,Ninja Tabi,,Null-Magic Mantle,,30958,55395,Lane.jungle,Role.none
+3,Harpoon The Moon,Varus,False,Side.blue,2,4,2,1.0,191,Flash,Ghost,13,False,8179,6750,Doran's Blade,Manamune,Duskblade of Draktharr,Boots of Speed,,,4613,114044,Lane.mid_lane,Role.solo
+4,LSDP,Janna,False,Side.blue,1,2,6,3.5,15,Exhaust,Flash,10,False,5919,5075,,Sightstone,Redemption,Boots of Mobility,Null-Magic Mantle,Ancient Coin,5552,3208,Lane.bot_lane,Role.support
+5,Jungle Frankie,Lee Sin,True,Side.red,6,1,6,12.0,121,Smite,Flash,13,False,9642,8850,Refillable Potion,Tiamat,Enchantment: Cinderhulk,Mercury's Treads,Dead Man's Plate,Kindlegem,22477,85605,Lane.jungle,Role.none
+6,ArchMufasa,Jhin,True,Side.red,5,3,8,4.333333333333333,137,Flash,Heal,12,False,9637,8200,Doran's Blade,Refillable Potion,Cull,Rapid Firecannon,Essence Reaver,Boots of Swiftness,5668,79489,Lane.bot_lane,Role.carry
+7,Luxferro,Blitzcrank,True,Side.red,2,2,9,5.5,37,Flash,Ignite,9,False,7056,7190,Eye of the Equinox,Control Ward,Zz'Rot Portal,Ruby Crystal,Boots of Mobility,,6181,5463,Lane.bot_lane,Role.support
+8,KozAlstonZ,Morgana,True,Side.red,5,1,8,13.0,192,Teleport,Flash,14,False,10276,9135,Doran's Ring,Amplifying Tome,Ionian Boots of Lucidity,Rylai's Crystal Scepter,Seeker's Armguard,Morellonomicon,72115,20733,Lane.mid_lane,Role.solo
+9,always plan ahea,Sion,True,Side.red,4,4,5,2.25,225,Flash,Ignite,15,False,10676,9225,Titanic Hydra,Ionian Boots of Lucidity,Sterak's Gage,Jaurim's Fist,Ruby Crystal,,19755,123616,Lane.top_lane,Role.solo
