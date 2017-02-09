@@ -7,4 +7,4 @@ This demo was presented to Sara Walker's research group on Jan 26, 2017.
 In it, we explore questions around banning of characters in a match, and the effect this has on a team's chances at winning or losing.
 We don't conclusively answer any questions, but instead showcase how rapid exploration of many questions can be done using `datreant` and [`pandas`](http://pandas.pydata.org/).
 
-Datreants is the core tool used when organizing vast numbers of data files for a project of this scale. For more information about the League of Legends project, including code and data repositories, visit www.nostrateemo.com and https://github.com/alyssa-adams/League_of_Legends.
+Datreants is the core tool used when organizing vast numbers of data files for a project of this scale. For more information about the League of Legends project, including code and data repositories, visit www.nostrateemo.com and https://github.com/alyssa-adams/NostraTeemo.
